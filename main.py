@@ -72,7 +72,7 @@ CONFIG = {
     # in GitHub Actions still falls back to the Groq defaults below.
     'AI_API_KEY': os.environ.get('AI_API_KEY'),
     'AI_BASE_URL': os.environ.get('AI_BASE_URL') or 'https://api.groq.com/openai/v1/chat/completions',
-    'AI_MODEL': os.environ.get('AI_MODEL') or 'llama-3.3-70b-versatile',
+    'AI_MODEL': os.environ.get('AI_MODEL') or 'llama-3.1-8b-instant',
     'AI_RETRIES': 3,
     'MAX_NEWS_AGE_HOURS': 18,
     'HISTORY_SIZE': 300,
@@ -634,13 +634,50 @@ class IranNewsRadar:
 
     # ───────────────────────── AI analysis ─────────────────────────
 
+    def _autodetect_ai_model(self):
+        """
+        Auto-discovers a usable model from the provider's /models endpoint,
+        so nobody has to hunt down and paste an exact model id by hand.
+        Caches the result on CONFIG so we only do this once per run.
+        """
+        try:
+            models_url = re.sub(r'/chat/completions/?$', '/models', CONFIG['AI_BASE_URL'])
+            headers = {"Authorization": f"Bearer {CONFIG['AI_API_KEY']}"}
+            resp = self.scraper.get(models_url, headers=headers, timeout=15)
+            if resp.status_code != 200:
+                logger.error(f"Could not list models ({resp.status_code}): {resp.text[:200]}")
+                return None
+
+            data = resp.json().get('data', [])
+            ids = [m.get('id', '') for m in data if m.get('id')]
+
+            # Skip anything that clearly isn't a general chat/text model
+            skip_words = ['whisper', 'tts', 'guard', 'moderation', 'embed', 'vision', 'image', 'audio']
+            candidates = [i for i in ids if not any(w in i.lower() for w in skip_words)]
+
+            # Prefer common, capable chat models if present
+            preferred_order = ['llama-3.1-8b-instant', 'llama-3.3-70b-versatile', 'gpt-oss-120b', 'gpt-oss-20b']
+            for pref in preferred_order:
+                match = next((c for c in candidates if pref in c), None)
+                if match:
+                    logger.info(f"Auto-detected AI model: {match}")
+                    return match
+
+            if candidates:
+                logger.info(f"Auto-detected AI model (first available): {candidates[0]}")
+                return candidates[0]
+        except Exception as e:
+            logger.error(f"Model auto-detect failed: {e}")
+        return None
+
     def _call_ai(self, system_prompt, user_prompt, temperature=0.2):
         """
         Calls an OpenAI-compatible chat-completions endpoint.
         Provider-agnostic on purpose - controlled entirely by 3 env vars:
           AI_API_KEY   - the provider's API key
           AI_BASE_URL  - full chat/completions URL (defaults to Groq)
-          AI_MODEL     - model name for that provider (defaults to a Groq model)
+          AI_MODEL     - model name for that provider (defaults to a Groq model,
+                         and is auto-corrected below if that default ever goes stale)
         This means switching providers (Groq, DeepSeek, Zhipu/GLM, OpenRouter,
         Together, etc.) never requires touching this code again - just change
         the env vars.
@@ -654,18 +691,23 @@ class IranNewsRadar:
             "Authorization": f"Bearer {CONFIG['AI_API_KEY']}",
             "Content-Type": "application/json",
         }
-        payload = {
-            "model": CONFIG['AI_MODEL'],
-            "messages": [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt},
-            ],
-            "temperature": temperature,
-            "response_format": {"type": "json_object"},
-        }
+
+        def build_payload(model):
+            return {
+                "model": model,
+                "messages": [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
+                ],
+                "temperature": temperature,
+                "response_format": {"type": "json_object"},
+            }
+
+        model_retried = False
 
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
+                payload = build_payload(CONFIG['AI_MODEL'])
                 resp = self.scraper.post(
                     url, headers=headers, json=payload, timeout=CONFIG.get('AI_TIMEOUT', 45)
                 )
@@ -674,8 +716,20 @@ class IranNewsRadar:
                     raw_text = result['choices'][0]['message']['content']
                     clean = re.sub(r'```json\s*|```', '', raw_text).strip()
                     return json.loads(clean)
-                else:
-                    logger.error(f"AI API error {resp.status_code}: {resp.text[:200]}")
+
+                # If the model name itself is invalid/stale, auto-detect a working one
+                # and permanently switch to it for the rest of this run (only tried once).
+                is_model_error = resp.status_code in (404, 400) and (
+                    'model_not_found' in resp.text or 'does not exist' in resp.text
+                )
+                if is_model_error and not model_retried:
+                    model_retried = True
+                    new_model = self._autodetect_ai_model()
+                    if new_model:
+                        CONFIG['AI_MODEL'] = new_model
+                        continue  # retry immediately with the corrected model
+
+                logger.error(f"AI API error {resp.status_code}: {resp.text[:200]}")
                 time.sleep(1)
             except Exception as e:
                 logger.error(f"AI Attempt {attempt + 1} failed: {e}")
