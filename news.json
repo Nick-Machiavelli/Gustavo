@@ -1,5 +1,24 @@
 [
     {
+        "id": "9ca6123c51",
+        "title_fa": "ناظران هسته‌ای: ایران توانمندی‌های مهمی حفظ کرده",
+        "title_en": "Nuclear watchdog chief warns Iran maintains ‘many capabilities’ as Iranian officials block inspections",
+        "summary": [
+            "ناظر هسته‌ای اعلام کرد ایران به توانمندی‌های مهم هسته‌ای ادامه می‌دهد",
+            "مقامات ایرانی مانع بازرسی‌های بین‌المللی می‌شوند؛ این کار شفافیت را کاهش می‌دهد",
+            "ادامه این مسیر می‌تواند ریسک تصاعد نظامی را بالا ببرد"
+        ],
+        "impact": "مسدود کردن بازرسی‌ها ریسک پیشرفت برنامه هسته‌ای ایران را بالا می‌برد",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Scripps News",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnBsUURrdE1lVnpvb000WFBpQmg5SkN3cloyeFVMSVBxRnBLRUdJOVhRcV9CWF9YWmw2MlFtRG80VzQ3UkpxQWFLRnU4T3I2Zmh5UVNIOTJxVTZoVEtCSVBKTGtXM3dsei00YzExQ3BzS3Z3bkpjTHA1dkJzbUV2OXJ1UXVNZndMTjB6aXFsVWRwQy1seHczbWp6R19WVy1BaVBIbUxXRlpvdjhMdDFjS3hRczdFdmxtNlV4ZW13QV82VTg0Vm4yZm05cHNBYjN4eHYxV0tmNEVmWHNXcVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnBsUURrdE1lVnpvb000WFBpQmg5SkN3cloyeFVMSVBxRnBLRUdJOVhRcV9CWF9YWmw2MlFtRG80VzQ3UkpxQWFLRnU4T3I2Zmh5UVNIOTJxVTZoVEtCSVBKTGtXM3dsei00YzExQ3BzS3Z3bkpjTHA1dkJzbUV2OXJ1UXVNZndMTjB6aXFsVWRwQy1seHczbWp6R19WVy1BaVBIbUxXRlpvdjhMdDFjS3hRczdFdmxtNlV4ZW13QV82VTg0Vm4yZm05cHNBYjN4eHYxV0tmNEVmWHNXcVE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787783795.0
+    },
+    {
         "id": "d9fe9664fb",
         "title_fa": "احیای دادگاه‌های غنائم دریایی برای نفت ایران",
         "title_en": "آمریکا برای توقیف نفت ایران دادگاه‌های «غنائم دریایی» را احیا می‌کند",
@@ -16,6 +35,43 @@
         "clean_url": "https://www.iranintl.com/202608265533",
         "image": "http://www.bing.com/th?id=ONUT._I5j63AicqgzE8ppRRqMIQ&pid=News",
         "timestamp": 1787753760.0
+    },
+    {
+        "id": "c20c0c207f",
+        "title_fa": "سیاست‌گذاران آمریکا چین را هدف تحریم‌های ایران می‌کنند",
+        "title_en": "Washington's Iran Bet Runs Through China",
+        "summary": [
+            "چین 90٪ صادرات نفت ایران را خریداری می‌کند؛ تحریم‌ها به دو کشور کشیده می‌شود",
+            "کنگره فشار می‌کند تا بانک‌های چینی هدف شوند؛ این می‌تواند روابط تجاری آمریکا‑چین را تحت فشار بگذارد",
+            "حضور شی جین‌پینگ در واشنگتن می‌تواند مذاکرات حساس را شکل دهد"
+        ],
+        "impact": "تحریم بانک‌های چینی می‌تواند جریان درآمد ایران را قطع کند و تنش‌های آمریکا‑چین را تشدید کند",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4940493-washingtons-iran-bet-runs-through-china",
+        "clean_url": "https://seekingalpha.com/article/4940493-washingtons-iran-bet-runs-through-china",
+        "image": "http://www.bing.com/th?id=ONUT.KQozVvjFkawKOKLH0VK4lA&pid=News",
+        "timestamp": 1787750700.0
+    },
+    {
+        "id": "e4d9bcfc11",
+        "title_fa": "خرید اضطراری سوخت و غذا در ایران؛ فشار اقتصادی",
+        "title_en": "Labor protests and panic buying signal growing pressure in Iran",
+        "summary": [
+            "مردم به دلیل کمبود مواد اساسی به خرید انبوه می‌پردازند",
+            "فشار بر دولت برای رفع تورم و تامین کالاها افزایش می‌یابد"
+        ],
+        "impact": "تقاضای ناگهانی کالاها به تورم و ناآرامی‌های اجتماعی می‌افزاید",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/labor-protests-and-panic-buying-signal-growing-pressure-in-iran/ar-AA2aZC7s",
+        "clean_url": "https://www.msn.com/en-us/news/other/labor-protests-and-panic-buying-signal-growing-pressure-in-iran/ar-AA2aZC7s",
+        "image": "http://www.bing.com/th?id=ONUT.582n5ngKTSAqLZyahhP6eg&pid=News",
+        "timestamp": 1787749860.0
     },
     {
         "id": "0afc202067",
@@ -72,6 +128,24 @@
         "timestamp": 1787737980.0
     },
     {
+        "id": "87e6d2416a",
+        "title_fa": "آیا ترامپ هشدارهای پیش از جنگ ایران را نادیده گرفت",
+        "title_en": "Did Trump ignore intel warnings from Tulsi Gabbard before Iran war?",
+        "summary": [
+            "ادعای نادیده گرفتن هشدارهای اطلاعاتی توسط ترامپ هنوز ثابت نشده",
+            "اگر چنین بوده، نشان‌دهنده ضعف تصمیم‌گیری است که می‌تواند هزینه‌های انسانی و مالی بالایی داشته باشد"
+        ],
+        "impact": "اگر هشدارها نادیده گرفته شده باشند، تصمیم‌گیری‌های نظامی ممکن است بدون پایه اطلاعاتی باشد",
+        "tag": "اطلاعات",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/explainers/trump-iran-war-tulsi-gabbard-intelligence-warnings-operation-epic-fury-14040917.html",
+        "clean_url": "https://www.firstpost.com/explainers/trump-iran-war-tulsi-gabbard-intelligence-warnings-operation-epic-fury-14040917.html",
+        "image": "https://images.firstpost.com/uploads/2026/08/Donald-Trump-Tulsi-Gabbard-2025-Reuters-2026-08-eb4c17a692b1c8124c070f52ab498ead-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+        "timestamp": 1787737740.0
+    },
+    {
         "id": "96d857419d",
         "title_fa": "ترامپ: رویارویی با ایران ادامه دارد، هیچ عجله‌ای برای مذاکره نیست",
         "title_en": "ترامپ: رویارویی با جمهوری اسلامی در هر صورت ادامه خواهد یافت، عجله‌ای برای مذاکره ندارم",
@@ -91,6 +165,24 @@
         "timestamp": 1787734200.0
     },
     {
+        "id": "bca98105df",
+        "title_fa": "ترامپ ادعا می‌کند موجتبا خامنه‌ای زنده است",
+        "title_en": "Trump Says Mojtaba Khamenei Is Alive. Either Way, His Ghost Rules Iran",
+        "summary": [
+            "ترامپ به صورت غیرواقعی موضع خود را درباره رهبری ایران بیان کرد",
+            "این حرف‌ها به جای کاهش تنش، به بی‌ثباتی داخلی ایران می‌افزاید"
+        ],
+        "impact": "اظهارات ترامپ به تضعیف اعتبار دیپلماسی آمریکا در خاورمیانه منجر می‌شود",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-mojtaba-khamenei-alive-iran-irgc-ghost-rule-12370507",
+        "clean_url": "https://www.newsweek.com/trump-mojtaba-khamenei-alive-iran-irgc-ghost-rule-12370507",
+        "image": "http://www.bing.com/th?id=ONUT.t7Gk-93npowoeNHmB1oWFg&pid=News",
+        "timestamp": 1787733780.0
+    },
+    {
         "id": "67b6fa166a",
         "title_fa": "سپاه: توافق با عمان نهایی نشده، هرمز تحت کنترل ایران",
         "title_en": "سپاه پاسداران: به توافق‌هایی با عمان رسیده‌ایم اما هنوز نهایی نیست",
@@ -108,6 +200,25 @@
         "clean_url": "https://www.iranintl.com/202608265683",
         "image": "http://www.bing.com/th?id=ONUT.UjpCO92lrO16tjux6tucBw&pid=News",
         "timestamp": 1787730180.0
+    },
+    {
+        "id": "a37fa8b7ff",
+        "title_fa": "چالش تغییر رژیم ایران؛ چرا هدف‌گذاری ناکام مانده",
+        "title_en": "Iran Regime Change: Why it has failed and what must happen now",
+        "summary": [
+            "ایالات متحده و اسرائیل به حذف رژیم به‌جای فقط خنثی‌سازی هسته‌ای اصرار دارند",
+            "بدون تغییر بنیادی در تهران، حمایت از گروه‌های نیابتی ادامه خواهد یافت",
+            "فشارهای بین‌المللی بدون برنامه‌ریزی واضح، نتایج ملموسی نخواهد داد"
+        ],
+        "impact": "بدون تغییر رژیم، برنامه‌نویسی هسته‌ای و حمایت از گروه‌های نیابتی ادامه خواهد یافت",
+        "tag": "رژیم",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Israel National News",
+        "url": "https://www.israelnationalnews.com/news/432246",
+        "clean_url": "https://www.israelnationalnews.com/news/432246",
+        "image": "https://2.a7.org/files/pictures/000/1124496.jpg",
+        "timestamp": 1787727660.0
     },
     {
         "id": "f08e58f69d",
@@ -5437,115 +5548,5 @@
         "clean_url": "https://www.bostonglobe.com/2026/08/02/world/irans-leaders-show-united-front-over-war",
         "image": "http://www.bing.com/th?id=ONUT.l5K0XINhgh3JuY_5VplN9w&pid=News",
         "timestamp": 1785603600.0
-    },
-    {
-        "id": "4e7be669fa",
-        "title_fa": "هشدار فوری سفارت آمریکا در اردن؛ احتمال ضربه تازه به ایران",
-        "title_en": "US-Israel-Iran war latest live news: Is Trump preparing fresh strikes on Iran this weekend? US embassy issues urgent security alert in Middle East",
-        "summary": [
-            "سفارت آمریکا در اردن یک هشدار امنیتی تازه داده که عملاً به موج تنش میان آمریکا، اسرائیل و ایران سوخت می‌دهد و فضای منطقه را از حالت معمول خارج می‌کند.",
-            "هم‌زمان با بحث‌های رسانه‌ای درباره «اقدام احتمالی این آخر هفته»، این نوع هشدارها معمولاً نشانه آمادگی برای سناریوهای تلافی/بازدارندگی است؛ یعنی تمرکز روی زمان‌بندی عملیات و افزایش سطح مراقبت می‌افتد."
-        ],
-        "impact": "این هشدار می‌تواند به افزایش تدابیر امنیتی، محدودیت‌ها و بالا رفتن ریسک درگیری‌های نیابتی یا پاسخ‌های سریع منجر شود.",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/news/news/us-israel-iran-war-latest-live-news-is-trump-preparing-fresh-strikes-on-iran-this-weekend-us-embassy-issues-urgent-security-alert-in-middle-east/ar-AA29dxFf",
-        "clean_url": "https://www.msn.com/en-in/news/news/us-israel-iran-war-latest-live-news-is-trump-preparing-fresh-strikes-on-iran-this-weekend-us-embassy-issues-urgent-security-alert-in-middle-east/ar-AA29dxFf",
-        "image": "http://www.bing.com/th?id=ONUT.MWwMhQMA3OLoymeKLPboWw&pid=News",
-        "timestamp": 1785597780.0
-    },
-    {
-        "id": "499beb8c20",
-        "title_fa": "ترامپ هشدار حملات تازه؛ کویت موشک‌های ایران را رهگیری کرد",
-        "title_en": "Iran war latest: Trump warns of fresh strikes",
-        "summary": [
-            "ترامپ به‌طور علنی از «حملات تازه» علیه ایران حرف می‌زند و پیامش روشن است: گزینه نظامی را روی میز نگه داشته تا ایران را عقب‌تر بیاورد.",
-            "در همان زمان، گزارش شده کویت موشک‌هایی را که از سمت تهران آمده بودند رهگیری کرده؛ یعنی این هشدار صرفاً لفظی نیست و ریسک درگیری مستقیم در خلیج فارس بالا می‌ماند.",
-            "ارتش ایران هم آمریکا را متهم کرده «مسیر تشدید تنش» را جلو می‌برد؛ جدال لفظی اما در کنار رهگیری موشک، بیشتر شبیه جنگ روانی برای مدیریت ترس و محاسبه طرف مقابل است تا یک کاهش تنش واقعی."
-        ],
-        "impact": "احتمال حمله محدود یا پاسخ سریع بالا می‌رود و ریسک اشتباه محاسباتی در مسیرهای موشکی/پدافندی منطقه بیشتر می‌شود.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-war-latest-trump-warns-of-fresh-strikes/ar-AA29bSsS",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-war-latest-trump-warns-of-fresh-strikes/ar-AA29bSsS",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785593504.0
-    },
-    {
-        "id": "ea5bb3f8a7",
-        "title_fa": "هشدار آمریکا در خاورمیانه؛ ترامپ از ضربه «خیلی سنگین» می‌گوید",
-        "title_en": "US warns citizens across the Middle East as Trump and Iran issue new threats",
-        "summary": [
-            "واشنگتن می‌گوید آماده اجرای حملات جدید علیه ایران از همین آخرهفته است، اما دامنه و اهداف هنوز مشخص نیست و ممکن است حمله لغو شود؛ ترامپ هم تهدید را با جمله «خیلی سخت می‌زنیم» علنی کرد.",
-            "همزمان آمریکا برای شهروندانش در کل منطقه هشدار تازه سفر داده و هم‌زمان خبرهای میدانی می‌گوید: تهدیدهای تازه تهران برای کشور‌های میزبان پایگاه‌های آمریکا و گزارش حمله پهپادی ایران به کویت در بامداد شنبه.",
-            "در غزه، اسرائیل طی کمتر از ۴۸ ساعت از اعلام «امکان پیشرفت» در مذاکرات آمریکا-اسرائیل/حماس، به یک بیمارستان ضربه زده و دهانه بزرگ ایجاد کرده؛ نتیجه: هر توافق احتمالی زیر فشار تشدید خشونت، مبهم‌تر می‌شود."
-        ],
-        "impact": "احتمال اجرای حملات فوری علیه ایران و گسترش ناامنی برای نیروها و شهروندان آمریکایی، ریسک درگیری منطقه‌ای را همین هفته بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.85,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/08/01/world/live-news/iran-war-trump?post-id=cmsahjwkx00003b6t2awsxp7o",
-        "clean_url": "https://edition.cnn.com/2026/08/01/world/live-news/iran-war-trump",
-        "image": "http://www.bing.com/th?id=ONUT.spdcWfiifvgBROTBv9GPsQ&pid=News",
-        "timestamp": 1785593220.0
-    },
-    {
-        "id": "b6eeee2c73",
-        "title_fa": "کودلو: جنگ ایران تعیین‌کننده نتیجه میان‌دوره‌ای است",
-        "title_en": "Larry Kudlow Claims Iran War Strategy Will Be The Defining Factor In Upcoming Midterms",
-        "summary": [
-            "لار ی کودلو در فاکس‌بیزنس می‌گوید این انتخابات میان‌دوره‌ای بیش از اقتصاد و مالیات، با «سرنوشت جنگ با ایران» سنجیده می‌شود؛ محور حرفش هم بازشدن تنگه هرمز و خنثی‌کردن توان هسته‌ای تهران است.",
-            "کودلو همزمان به نظرسنجی‌های رایج حمله می‌کند و ادعا دارد افکار عمومی واقعیِ رأی‌دهندگان ثبت‌شده به نفع جمهوری‌خواهان است؛ برای اثبات، به یک نظرسنجی ۲۲ ژوئیه برای Tea Party Patriots Action استناد می‌کند که در آن ۷۲٪ مخالف هرگونه اقدام ایران علیه کشتیرانی هرمز و ۶۲٪ موافق «تمام‌کردن کار» برای جلوگیری از رسیدن ایران به توان هسته‌ای‌اند."
-        ],
-        "impact": "این قاب‌بندی فشار بر دولت را تبدیل می‌کند به یک «امتحان جنگی»؛ یعنی هر نتیجه عملی درباره ایران می‌تواند مستقیماً به سرمایه سیاسی ترامپ در رأی‌گیری‌ها وصل شود.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/larry-kudlow-claims-iran-war-125243000.html",
-        "clean_url": "https://www.aol.com/articles/larry-kudlow-claims-iran-war-125243000.html",
-        "image": "https://hermes.media.static.aol.com/media/2026/08/01/3e76c2f2-8baf-3d98-b5fb-a4c96d55661b/1ee58afa-08b3-4722-ae03-ccf772b2a2b4.jpg",
-        "timestamp": 1785589380.0
-    },
-    {
-        "id": "801396c15b",
-        "title_fa": "ترامپ مرگ خامنه‌ای را اعلام کرد؛ «بزرگ‌ترین فرصت» از نگاه او",
-        "title_en": "Trump says Iran's supreme leader is dead",
-        "summary": [
-            "ترامپ در پست خود مدعی شد رهبر ایران در یک «حمله بزرگ» کشته شده؛ حمله‌ای که آن را به اسرائیل و آمریکا نسبت داده است.",
-            "این جمله فقط ادعای خبری نیست: ترامپ هم‌زمان پیام سیاسی می‌دهد که اکنون «فرصت بی‌نظیر» برای مردم ایران ایجاد شده، یعنی تلاش برای اثرگذاری روی معادله داخلی و کاهش انسجام تبلیغاتی حکومت."
-        ],
-        "impact": "ادعای مرگ مقام ارشد، می‌تواند موج جنگ روانی بسازد و تصمیم‌گیری داخلی و روایت بین‌المللی را موقتاً به هم بریزد.",
-        "tag": "جنگ روانی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "MSN",
-        "url": "https://www.msn.com/en-us/news/world/israeli-officials-say-supreme-leader-ayatollah-ali-khamenei-is-dead-no-word-from-us-or-iran/ar-AA1XhlAl",
-        "clean_url": "https://www.msn.com/en-us/news/world/israeli-officials-say-supreme-leader-ayatollah-ali-khamenei-is-dead-no-word-from-us-or-iran/ar-AA1XhlAl",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785587640.0
-    },
-    {
-        "id": "a48ddc45cf",
-        "title_fa": "ترک‌ودوام آتش‌بس؛ ایران با نیابتی‌ها هزینه حمله ترامپ را بالا برد",
-        "title_en": "As Cease-Fire Teetered, Iran Plotted a Wider War With Aid of Its Proxies",
-        "summary": [
-            "در اوج یک آتش‌بس کوتاه، ایران به شکل پنهانی برنامه‌ای چید تا اگر نیروهای آمریکا دوباره حمله کنند، جنگ برای ترامپ پرهزینه‌تر شود.",
-            "این طرح با اتکا به شبکه نیابتی‌ها طراحی شده؛ یعنی پیام اصلی این نیست «دفاع مستقیم»، بلکه «مقابله غیرمستقیم» و کشاندن فشار جنگ به بیرون از میدان محدود حمله."
-        ],
-        "impact": "ریسک محاسبه‌محور آمریکا بالاتر می‌رود چون پاسخ ایران فقط در برابر حمله‌های مستقیم نیست و هزینه را از مسیر نیابتی‌ها افزایش می‌دهد.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-        "clean_url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-        "image": "http://www.bing.com/th?id=ONUT.2c3aoq-MRijaGgDMjO2H8Q&pid=News",
-        "timestamp": 1785580920.0
     }
 ]
