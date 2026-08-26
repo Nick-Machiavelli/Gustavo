@@ -53,7 +53,7 @@ CONFIG = {
     },
     # Dashboard URL - not final yet, so it's read from env instead of hardcoded.
     # Set BASE_SITE_URL once the GitHub Pages / hosting address is decided.
-    'BASE_SITE_URL': os.environ.get('BASE_SITE_URL', 'https://nick-machiavelli.github.io/Gustavo'),
+    'BASE_SITE_URL': os.environ.get('BASE_SITE_URL') or 'https://itsyebekhe.github.io/gustavo/',
     'CHANNEL_LINK': 'https://t.me/Enqelab_e_Iran',
     'TELEGRAM': {
         'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'),
@@ -66,8 +66,13 @@ CONFIG = {
     'MAX_TEXT_CHARS': 1800,
     'MIN_TEXT_LEN': 100,
     'MIN_AI_URGENCY_HINT': 5,
-    'DEEPSEEK_KEY': os.environ.get('DEEPSEEK_API_KEY'),
-    'DEEPSEEK_MODEL': 'deepseek-chat',
+    # Provider-agnostic AI settings - point these at any OpenAI-compatible
+    # chat-completions endpoint (Groq, Zhipu/GLM, DeepSeek, OpenRouter, etc.)
+    # Using `or` (not the dict .get default) so that an empty-string secret
+    # in GitHub Actions still falls back to the Groq defaults below.
+    'AI_API_KEY': os.environ.get('AI_API_KEY'),
+    'AI_BASE_URL': os.environ.get('AI_BASE_URL') or 'https://api.groq.com/openai/v1/chat/completions',
+    'AI_MODEL': os.environ.get('AI_MODEL') or 'llama-3.3-70b-versatile',
     'AI_RETRIES': 3,
     'MAX_NEWS_AGE_HOURS': 18,
     'HISTORY_SIZE': 300,
@@ -630,18 +635,27 @@ class IranNewsRadar:
     # ───────────────────────── AI analysis ─────────────────────────
 
     def _call_ai(self, system_prompt, user_prompt, temperature=0.2):
-        """Calls the DeepSeek chat-completions API (OpenAI-compatible)."""
-        if not CONFIG.get('DEEPSEEK_KEY'):
-            logger.error("DEEPSEEK_API_KEY is not set.")
+        """
+        Calls an OpenAI-compatible chat-completions endpoint.
+        Provider-agnostic on purpose - controlled entirely by 3 env vars:
+          AI_API_KEY   - the provider's API key
+          AI_BASE_URL  - full chat/completions URL (defaults to Groq)
+          AI_MODEL     - model name for that provider (defaults to a Groq model)
+        This means switching providers (Groq, DeepSeek, Zhipu/GLM, OpenRouter,
+        Together, etc.) never requires touching this code again - just change
+        the env vars.
+        """
+        if not CONFIG.get('AI_API_KEY'):
+            logger.error("AI_API_KEY is not set.")
             return None
 
-        url = "https://api.deepseek.com/chat/completions"
+        url = CONFIG['AI_BASE_URL']
         headers = {
-            "Authorization": f"Bearer {CONFIG['DEEPSEEK_KEY']}",
+            "Authorization": f"Bearer {CONFIG['AI_API_KEY']}",
             "Content-Type": "application/json",
         }
         payload = {
-            "model": CONFIG['DEEPSEEK_MODEL'],
+            "model": CONFIG['AI_MODEL'],
             "messages": [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
@@ -661,10 +675,10 @@ class IranNewsRadar:
                     clean = re.sub(r'```json\s*|```', '', raw_text).strip()
                     return json.loads(clean)
                 else:
-                    logger.error(f"DeepSeek API error {resp.status_code}: {resp.text[:200]}")
+                    logger.error(f"AI API error {resp.status_code}: {resp.text[:200]}")
                 time.sleep(1)
             except Exception as e:
-                logger.error(f"DeepSeek Attempt {attempt + 1} failed: {e}")
+                logger.error(f"AI Attempt {attempt + 1} failed: {e}")
                 time.sleep(2)
         return None
 
@@ -673,7 +687,7 @@ class IranNewsRadar:
         Analyzes multiple candidate news articles in a SINGLE AI API request.
         candidates_data format: list of dicts with {'index', 'source', 'headline', 'text'}
         """
-        if not candidates_data or not CONFIG.get('DEEPSEEK_KEY'):
+        if not candidates_data or not CONFIG.get('AI_API_KEY'):
             return {}
 
         system_prompt = (
