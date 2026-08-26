@@ -1,5 +1,115 @@
 [
     {
+        "id": "d9fe9664fb",
+        "title_fa": "احیای دادگاه‌های غنائم دریایی برای نفت ایران",
+        "title_en": "آمریکا برای توقیف نفت ایران دادگاه‌های «غنائم دریایی» را احیا می‌کند",
+        "summary": [
+            "وزارت دادگستری آمریکا قصد دارد دادگاه‌های غنائم دریایی را فعال کند تا نفتکش‌ها و محموله‌های ایرانی را به مالکیت خود درآورد.",
+            "طرح با چالش‌های حقوقی گسترده مواجه است و ممکن است به دادگاه‌های بین‌المللی کشیده شود."
+        ],
+        "impact": "ایالات متحده می‌تواند به‌صورت قانونی نفت ایران را توقیف کند و درآمدهای حیاتی تهران را کاهش دهد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608265533",
+        "clean_url": "https://www.iranintl.com/202608265533",
+        "image": "http://www.bing.com/th?id=ONUT._I5j63AicqgzE8ppRRqMIQ&pid=News",
+        "timestamp": 1787753760.0
+    },
+    {
+        "id": "0afc202067",
+        "title_fa": "ترامپ «ماموریت موفق» را برای جنگ ایران اعلام کرد",
+        "title_en": "Trump declares ‘Mission Accomplished’ in Iran as conflict drags on",
+        "summary": [
+            "ترامپ تصویری با شعار «Mission Accomplished» برای جنگ ایران منتشر کرد.",
+            "در حالی که جنگ همچنان هزینه‌بر و بدون پیشرفت واضح است."
+        ],
+        "impact": "بیان موفقیت می‌تواند فشار داخلی برای اتخاذ اقدامات سخت‌گیرانه‌تر علیه ایران را افزایش دهد.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-declares-mission-accomplished-iran-194900174.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-declares-mission-accomplished-iran-194900174.html",
+        "image": "http://www.bing.com/th?id=ONUT.BF23e-DuHca-6GwMtALKtA&pid=News",
+        "timestamp": 1787748480.0
+    },
+    {
+        "id": "5ee5e88d8c",
+        "title_fa": "تهدید IRGC: خبرنگاران هدف نظامی",
+        "title_en": "از زندان تا «هدف نظامی»؛ تهدید تازه جمهوری اسلامی علیه روزنامه‌نگاران",
+        "summary": [
+            "سخنگوی ارشد نیروهای مسلح رسانه‌های فارسی‌زبان را «سربازان اسرائیل و آمریکا» نامید.",
+            "ادعا کرد می‌توان این خبرنگاران را در بانک اهداف نظامی قرار داد."
+        ],
+        "impact": "روزنامه‌نگاران ایرانی در معرض خطر بازداشت یا هدف قرارگیری نظامی قرار می‌گیرند.",
+        "tag": "رسانه",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608268519",
+        "clean_url": "https://www.iranintl.com/202608268519",
+        "image": "http://www.bing.com/th?id=ONUT.Cu41qNmEmOoGN8xrhndZ-Q&pid=News",
+        "timestamp": 1787747460.0
+    },
+    {
+        "id": "f4b63526d4",
+        "title_fa": "ایران خودکفایی اقتصادی را در برابر تحریم‌های جدید تضمین می‌کند",
+        "title_en": "Iran emphasises self-sufficiency in battle against US economic war",
+        "summary": [
+            "وزیر اقتصاد به برنامه دو ساله خودکفایی اشاره کرد و گفت تحریم‌های جدید اقتصاد را خنثی نمی‌کند.",
+            "ایران ابزارهای داخلی خود را برای دور زدن تحریم‌ها دارد."
+        ],
+        "impact": "تهیه داخلی می‌تواند فشارهای اقتصادی ناشی از تحریم‌های آمریکا را کاهش دهد.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war",
+        "clean_url": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war",
+        "image": "http://www.bing.com/th?id=ONUT.EG_snlFKljmZi1i2XLSzCA&pid=News",
+        "timestamp": 1787737980.0
+    },
+    {
+        "id": "96d857419d",
+        "title_fa": "ترامپ: رویارویی با ایران ادامه دارد، هیچ عجله‌ای برای مذاکره نیست",
+        "title_en": "ترامپ: رویارویی با جمهوری اسلامی در هر صورت ادامه خواهد یافت، عجله‌ای برای مذاکره ندارم",
+        "summary": [
+            "ترامپ گفت مواجهه آمریکا با جمهوری اسلامی محدود به جدول زمانی خاصی نیست و «هرقدر لازم باشد» ادامه خواهد یافت.",
+            "ادعا کرد نیروهای آمریکا ۲۲ قایق ایرانی را منهدم کرده‌اند.",
+            "تنگه هرمز را باز و تمام مین‌های موجود در آبراه را پاک می‌داند."
+        ],
+        "impact": "اظهارات تند می‌تواند تنش‌های نظامی را تشدید کند و خطر برخوردهای ناخواسته را بالا ببرد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608262852",
+        "clean_url": "https://www.iranintl.com/202608262852",
+        "image": "http://www.bing.com/th?id=ONUT.gdMRZD_St-8Bsw1LmkA7aA&pid=News",
+        "timestamp": 1787734200.0
+    },
+    {
+        "id": "67b6fa166a",
+        "title_fa": "سپاه: توافق با عمان نهایی نشده، هرمز تحت کنترل ایران",
+        "title_en": "سپاه پاسداران: به توافق‌هایی با عمان رسیده‌ایم اما هنوز نهایی نیست",
+        "summary": [
+            "سخنگوی سپاه می‌گوید توافقی با عمان حاصل شده اما هنوز به امضا نرسیده.",
+            "ادعا می‌کند تنگه هرمز به‌طور کامل تحت کنترل جمهوری اسلامی است و هیچ شناور نظامی دشمنی در آن حضور ندارد.",
+            "آمریکا را عامل کارسکنی مذاکرات می‌داند."
+        ],
+        "impact": "اگر توافق نهایی شود، مسیر هرمز می‌تواند دوباره برای حمل و نقل نفت باز شود و بازار جهانی را تحت تأثیر قرار دهد.",
+        "tag": "هرمز",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608265683",
+        "clean_url": "https://www.iranintl.com/202608265683",
+        "image": "http://www.bing.com/th?id=ONUT.UjpCO92lrO16tjux6tucBw&pid=News",
+        "timestamp": 1787730180.0
+    },
+    {
         "id": "f08e58f69d",
         "title_fa": "ازسرگیری تدریجی پروازهای بین‌المللی در آسمان خاورمیانه",
         "title_en": "Airlines gradually restore Middle East services after Iran conflict",
@@ -5437,117 +5547,5 @@
         "clean_url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
         "image": "http://www.bing.com/th?id=ONUT.2c3aoq-MRijaGgDMjO2H8Q&pid=News",
         "timestamp": 1785580920.0
-    },
-    {
-        "id": "3365a76b74",
-        "title_fa": "پهپادهای ایران جنگ را به کویت می‌کشد",
-        "title_en": "Iran stokes the Middle East war with drone attacks on Kuwait",
-        "summary": [
-            "گزارش می‌گوید حملات پهپادی ایران به کویت، آتش جنگ را وارد فاز جدید کرده و تهران عملاً دامنه درگیری را گسترده‌تر می‌کند.",
-            "هم‌زمان منطقه برای موج تازه تشدید آماده می‌شود؛ چون ترامپ از «حمله‌های جدید» حرف زده و همین تهدید، طرف‌های درگیر را به واکنش سریع‌تر وادار می‌کند."
-        ],
-        "impact": "ریسک برخورد مستقیم‌تر بازیگران منطقه‌ای و افزایش حملات تلافی‌جویانه بالا می‌رود.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait/ar-AA29cTpd",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-stokes-the-middle-east-war-with-drone-attacks-on-kuwait/ar-AA29cTpd",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785580320.0
-    },
-    {
-        "id": "3b12fe3d2d",
-        "title_fa": "ترامپ هشدار حملات تازه؛ کویت موشک‌های تهران را رهگیری کرد",
-        "title_en": "Trump-Iran latest: US president warns of fresh strikes",
-        "summary": [
-            "ترامپ با لحن مستقیم از «اقدام‌های تازه» علیه ایران حرف زده؛ یعنی بحث فقط تهدید لفظی نیست و پنجره عملیات در ذهن واشینگتن باز مانده است.",
-            "هم‌زمان گزارش شده کویت چند موشک را از سمت تهران رهگیری کرده؛ این یعنی ریسک درگیری مستقیم منطقه‌ای بالاست و هر شلیک می‌تواند بهانه پاسخ سریع آمریکا شود.",
-            "ارتش ایران هم بلافاصله آمریکا را متهم کرده در «مسیر تشدید تنش» حرکت می‌کند؛ حمله احتمالیِ واشینگتن را به عنوان ادامه همان فشار-تنش معرفی می‌کند تا هزینه سیاسی تهدیدهای ترامپ را پخش کند."
-        ],
-        "impact": "اگر شلیک‌ها/رهگیری‌ها ادامه پیدا کند، واشینگتن احتمالاً به جای عقب‌نشینی، سریع‌تر دنبال ضربه محدود یا بازدارنده خواهد رفت.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/world/trump-iran-latest-us-president-warns-of-fresh-strikes/ar-AA296yRD",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-iran-latest-us-president-warns-of-fresh-strikes/ar-AA296yRD",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA296AX4.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1785574593.0
-    },
-    {
-        "id": "89d9de8761",
-        "title_fa": "نگرانی متحدان از «شکست راهبردی» جنگ ایران آمریکا",
-        "title_en": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
-        "summary": [
-            "متحدان آمریکا از شش‌ماهه شدن جنگ علیه ایران می‌ترسند چون برتری نظامی واشنگتن نتوانسته ایران را به شکل پایدار تغییر دهد؛ همین ناتوانی را فرصتی برای روسیه و چین می‌بینند.",
-            "به‌گفته گزارش، اهداف ترامپ برآورده نشده و آمریکا برای نقش جهانیِ خودش با کمبود تسلیحات کلیدی روبه‌روست؛ هم‌زمان ایران هم در ظاهر عقب نمانده و برنامه هسته‌ای/موشکی «تخریب کامل» نشده، فقط آسیب دیده است.",
-            "کنترل عملی ایران بر تنگه هرمز باعث می‌شود هم حمل‌ونقل و هم زیرساخت انرژی متحدان تحت فشار بماند و موشک/پهپادهای ایران تهدید پایگاه‌های آمریکا در منطقه را ادامه دهد؛ در کنار تلفات نیروهای آمریکایی، این جنگ را از نظر حیثیتی و دیپلماتیک هزینه‌دار کرده است.",
-            "در واشنگتن، تحلیلگران می‌گویند با جابه‌جایی مدام هدف‌ها، اعتبار آمریکا هم در میدان و هم در مذاکره فرسوده می‌شود و تصویر «غیرقابل پیش‌بینی بودن» به ابزار بی‌نظمی جهانی تقویت شده است."
-        ],
-        "impact": "اگر این برداشت متحدان غالب شود، هم انسجام ائتلاف برای فشار بیشتر کم می‌شود و هم ریسک افزایش شکاف سیاسی-نظامی بین آمریکا و شرکایش بالا می‌رود.",
-        "tag": "ایران-راهبردی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
-        "clean_url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
-        "image": "http://www.bing.com/th?id=ONUT.bEscPZVdFe3coUUX5p1OnQ&pid=News",
-        "timestamp": 1785573960.0
-    },
-    {
-        "id": "76dd1a9a8f",
-        "title_fa": "ترامپ: ایران را «خیلی سخت» می‌زنیم؛ هشدار خروج از منطقه",
-        "title_en": "Iran-US War LIVE updates: Trump says will hit Iran ‘very hard’; US embassy urges Americans to consider leaving Middle East",
-        "summary": [
-            "ترامپ صریحاً اعلام کرده که در صورت تداوم درگیری‌ها، حمله به ایران را «خیلی سخت» انجام می‌دهد؛ لحن این خبر یعنی فشار صرفاً سیاسی نیست.",
-            "همزمان سفارت آمریکا به شهروندانش توصیه کرده از خاورمیانه خارج شوند/فکر ترک منطقه را داشته باشند؛ این یعنی آمریکا خودِ افزایش ریسک را جدی‌تر از حرف‌های دیپلماتیک می‌بیند."
-        ],
-        "impact": "ریسک حملات مستقیم یا تشدید ضربات علیه نیروهای همسو با ایران بالا می‌رود و بازار انرژی هم آماده شوک‌های جدیدتر است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Financial Express",
-        "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-homrmuz-oil-price-today-middle-east-attack/4306096/",
-        "clean_url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-homrmuz-oil-price-today-middle-east-attack/4306096",
-        "image": "http://www.bing.com/th?id=ONUT.u89Nb30XlrurPSLedNKPMA&pid=News",
-        "timestamp": 1785572160.0
-    },
-    {
-        "id": "c7d0ac9001",
-        "title_fa": "ساختار چندقدرتی ایران آتش‌بس با آمریکا را سخت می‌کند",
-        "title_en": "Iran's overlapping power centers make ending the war more complicated",
-        "summary": [
-            "نفوذ هم‌زمان چند «مرکز قدرت» در ایران، اجرای هر آتش‌بس با آمریکا را از حالت یک تصمیم ساده خارج می‌کند؛ از سطح عالی تا ساختارهای امنیتی و نظامی.",
-            "حتی اگر واشنگتن و ایران روی آتش‌بس توافق کنند، هماهنگی برای توقف واقعی در میدان، به خاطر رقابت یا تفاوت مأموریت‌ها میان این مراکز پیچیده می‌شود."
-        ],
-        "impact": "هر آتش‌بس احتمالی، شکننده و پرریسک‌تر از چیزی است که صرفاً با اعلام سیاسی قابل تضمین باشد.",
-        "tag": "دیپلماسی-امنیتی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://www.msn.com/en-us/news/world/irans-overlapping-power-centers-make-ending-the-war-more-complicated/ar-AA29bh50",
-        "clean_url": "https://www.msn.com/en-us/news/world/irans-overlapping-power-centers-make-ending-the-war-more-complicated/ar-AA29bh50",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785567162.0
-    },
-    {
-        "id": "582cf2f227",
-        "title_fa": "ترامپ تهدید به حمله بیشتر به ایران؛ کویت هم واکنش داد",
-        "title_en": "Trump threatens more strikes on Iran; Iran accuses US over escalating tensions in Middle East",
-        "summary": [
-            "ترامپ آشکارا روی گزینه «حمله‌های بیشتر» مانور می‌دهد و هم‌زمان فشار برای بازگشایی مسیر حیاتی تنگه هرمز را در مرکز ادبیات تهدیداتش می‌گذارد؛ یعنی تهدید نظامی را به اهرم اقتصادی-تجاری وصل می‌کند.",
-            "ایران همزمان آمریکا را عامل تشدید تنش در خاورمیانه معرفی می‌کند تا هزینه سیاسی تهدیدات واشنگتن را به گردن طرف مقابل بیندازد؛ اما این دو روایت عملاً در یک نقطه مشترک می‌چرخند: افزایش ریسک امنیتی و عملیاتی در آب‌ها و آسمان منطقه.",
-            "خبر کویت از «پاسخ به یک دور جدید پهپاد» نشان می‌دهد ماجرا فقط لفظ نیست و فضای امنیتی منطقه وارد چرخه واکنش‌های سریع شده؛ هر حمله/رهگیری می‌تواند زنجیره بعدی را فعال کند."
-        ],
-        "impact": "ریسک تشدید نظامی و اختلال در کشتیرانی تنگه هرمز بالا می‌رود و احتمال درگیری‌های محدودِ پهپادی/رهگیری بیشتر می‌شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The New Indian Express on MSN",
-        "url": "https://www.msn.com/en-in/news/other/trump-threatens-more-strikes-on-iran-iran-accuses-us-over-escalating-tensions-in-middle-east/ar-AA29bPFe",
-        "clean_url": "https://www.msn.com/en-in/news/other/trump-threatens-more-strikes-on-iran-iran-accuses-us-over-escalating-tensions-in-middle-east/ar-AA29bPFe",
-        "image": "http://www.bing.com/th?id=ONUT.FJEPbyzwZVFhe44avsE_Lg&pid=News",
-        "timestamp": 1785552670.0
     }
 ]
