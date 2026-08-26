@@ -66,8 +66,8 @@ CONFIG = {
     'MAX_TEXT_CHARS': 1800,
     'MIN_TEXT_LEN': 100,
     'MIN_AI_URGENCY_HINT': 5,
-    'GEMINI_KEY': os.environ.get('GEMINI_API_KEY'),
-    'GEMINI_MODEL': 'gemini-3.6-flash',
+    'DEEPSEEK_KEY': os.environ.get('DEEPSEEK_API_KEY'),
+    'DEEPSEEK_MODEL': 'deepseek-chat',
     'AI_RETRIES': 3,
     'MAX_NEWS_AGE_HOURS': 18,
     'HISTORY_SIZE': 300,
@@ -629,47 +629,51 @@ class IranNewsRadar:
 
     # ───────────────────────── AI analysis ─────────────────────────
 
-    def _call_gemini(self, system_prompt, user_prompt, temperature=0.2):
-        if not CONFIG.get('GEMINI_KEY'):
-            logger.error("GEMINI_API_KEY is not set.")
+    def _call_ai(self, system_prompt, user_prompt, temperature=0.2):
+        """Calls the DeepSeek chat-completions API (OpenAI-compatible)."""
+        if not CONFIG.get('DEEPSEEK_KEY'):
+            logger.error("DEEPSEEK_API_KEY is not set.")
             return None
 
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{CONFIG['GEMINI_MODEL']}:generateContent?key={CONFIG['GEMINI_KEY']}"
-        payload = {
-            "system_instruction": {
-                "parts": [{"text": system_prompt}]
-            },
-            "contents": [{
-                "parts": [{"text": user_prompt}]
-            }],
-            "generationConfig": {
-                "response_mime_type": "application/json",
-                "temperature": temperature
-            }
+        url = "https://api.deepseek.com/chat/completions"
+        headers = {
+            "Authorization": f"Bearer {CONFIG['DEEPSEEK_KEY']}",
+            "Content-Type": "application/json",
         }
-        
+        payload = {
+            "model": CONFIG['DEEPSEEK_MODEL'],
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+            "temperature": temperature,
+            "response_format": {"type": "json_object"},
+        }
+
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
-                resp = self.scraper.post(url, json=payload, timeout=CONFIG.get('AI_TIMEOUT', 45))
+                resp = self.scraper.post(
+                    url, headers=headers, json=payload, timeout=CONFIG.get('AI_TIMEOUT', 45)
+                )
                 if resp.status_code == 200:
                     result = resp.json()
-                    raw_text = result['candidates'][0]['content']['parts'][0]['text']
+                    raw_text = result['choices'][0]['message']['content']
                     clean = re.sub(r'```json\s*|```', '', raw_text).strip()
                     return json.loads(clean)
                 else:
-                    logger.error(f"Gemini API error {resp.status_code}: {resp.text[:200]}")
+                    logger.error(f"DeepSeek API error {resp.status_code}: {resp.text[:200]}")
                 time.sleep(1)
             except Exception as e:
-                logger.error(f"Gemini Attempt {attempt + 1} failed: {e}")
+                logger.error(f"DeepSeek Attempt {attempt + 1} failed: {e}")
                 time.sleep(2)
         return None
 
-    def batch_analyze_with_gemini(self, candidates_data):
+    def batch_analyze_with_ai(self, candidates_data):
         """
-        Analyzes multiple candidate news articles in a SINGLE Gemini API request.
+        Analyzes multiple candidate news articles in a SINGLE AI API request.
         candidates_data format: list of dicts with {'index', 'source', 'headline', 'text'}
         """
-        if not candidates_data or not CONFIG.get('GEMINI_KEY'):
+        if not candidates_data or not CONFIG.get('DEEPSEEK_KEY'):
             return {}
 
         system_prompt = (
@@ -704,18 +708,20 @@ class IranNewsRadar:
             "- 7-8: تحریم‌های خفه کننده جدید، سقوط شدید ارزی، اعتراضات سراسری، حملات نیابتی سنگین.\n"
             "- 4-6: تحرکات دیپلماتیک مهم، تنش‌های لفظی مسئولان، مانورهای منطقه‌ای.\n"
             "- 1-3: اظهارات routine، دیدارهای تشریفاتی.\n\n"
-            "تو فهرستی از آیتم‌های خبری با شناسه index دریافت می‌کنی. خروجی باید یک لیست JSON معتبر شامل تحلیل تک تک این آیتم‌ها با ساختار زیر باشد:\n"
-            "[\n"
-            "  {\n"
-            '    "index": 0,\n'
-            '    "title_fa": "تیتر جذاب، روان، غیرتکراری و بدون کلمات خنثی (حداکثر ۱۰ کلمه)",\n'
-            '    "summary": ["نکته تحلیلی ۱ به فارسی روان و بدون کلمات اضافه", "نکته تحلیلی ۲ با تمرکز بر واقعیت پشت خبر"],\n'
-            '    "impact": "تأثیر عملیاتی یا اقتصادی خبر در یک جمله کوتاه، روان و ضربتی",\n'
-            '    "tag": "کلمه کلیدی اصلی (مثلاً: نظامی، ارز، تحریم، نیابتی)",\n'
-            '    "urgency": عدد بین 1 تا 10,\n'
-            '    "sentiment": عدد بین -1.0 تا 1.0\n'
-            "  }\n"
-            "]"
+            "تو فهرستی از آیتم‌های خبری با شناسه index دریافت می‌کنی. خروجی باید یک JSON object معتبر با یک کلید \"items\" باشد که مقدارش آرایه‌ای از تحلیل تک تک این آیتم‌ها با ساختار زیر است:\n"
+            "{\n"
+            '  "items": [\n'
+            "    {\n"
+            '      "index": 0,\n'
+            '      "title_fa": "تیتر جذاب، روان، غیرتکراری و بدون کلمات خنثی (حداکثر ۱۰ کلمه)",\n'
+            '      "summary": ["نکته تحلیلی ۱ به فارسی روان و بدون کلمات اضافه", "نکته تحلیلی ۲ با تمرکز بر واقعیت پشت خبر"],\n'
+            '      "impact": "تأثیر عملیاتی یا اقتصادی خبر در یک جمله کوتاه، روان و ضربتی",\n'
+            '      "tag": "کلمه کلیدی اصلی (مثلاً: نظامی، ارز، تحریم، نیابتی)",\n'
+            '      "urgency": عدد بین 1 تا 10,\n'
+            '      "sentiment": عدد بین -1.0 تا 1.0\n'
+            "    }\n"
+            "  ]\n"
+            "}"
         )
 
         items_input = []
@@ -729,9 +735,10 @@ class IranNewsRadar:
 
         user_prompt = "لطفاً تمامی آیتم‌های زیر را تحلیل و در قالب JSON مشخص‌شده برگردان:\n\n" + "\n".join(items_input)
 
-        data = self._call_gemini(system_prompt, user_prompt, temperature=0.25)
-        if isinstance(data, list):
-            return {item.get('index'): item for item in data if 'index' in item}
+        data = self._call_ai(system_prompt, user_prompt, temperature=0.25)
+        items_list = data.get('items') if isinstance(data, dict) else data
+        if isinstance(items_list, list):
+            return {item.get('index'): item for item in items_list if 'index' in item}
         return {}
         
     def generate_daily_summary(self):
@@ -810,7 +817,7 @@ STRICT OUTPUT JSON:
 }
 """
         user_prompt = f"TODAY NEWS:\n{news_block}\n\nPREVIOUS SUMMARY:\n{previous_block}"
-        return self._call_gemini(system_prompt, user_prompt, temperature=0.2)
+        return self._call_ai(system_prompt, user_prompt, temperature=0.2)
 
     # ───────────────────────── process item ─────────────────────────
     def send_special_report_to_telegram(self, report):
@@ -1275,7 +1282,7 @@ STRICT OUTPUT JSON:
   "bottom_line": "نتیجه‌گیری در یک جمله کوتاه"
 }}
 """
-        data = self._call_gemini(system_prompt, news_text, temperature=0.2)
+        data = self._call_ai(system_prompt, news_text, temperature=0.2)
         if data:
             self._atomic_json_dump('bulletins.json', data)
             logger.info(f">>> Scheduled Bulletin ({edition_title}) generated successfully.")
@@ -1314,7 +1321,7 @@ STRICT OUTPUT JSON:
   "strategic_outlook": "پیش‌بینی ادامه روند این پرونده در هفته آینده"
 }
 """
-        data = self._call_gemini(system_prompt, f"موضوع: {top_tag}\n\nگزارش‌ها:\n{cluster_context}", temperature=0.25)
+        data = self._call_ai(system_prompt, f"موضوع: {top_tag}\n\nگزارش‌ها:\n{cluster_context}", temperature=0.25)
         if data:
             self._atomic_json_dump('special_reports.json', data)
             logger.info(f">>> Special Report on ({top_tag}) generated successfully.")
@@ -1433,7 +1440,7 @@ STRICT OUTPUT JSON:
 
             # 2. Batch AI Analysis in ONE Request
             if scraped_items:
-                ai_batch_results = self.batch_analyze_with_gemini(scraped_items)
+                ai_batch_results = self.batch_analyze_with_ai(scraped_items)
 
                 for item in scraped_items:
                     ai = ai_batch_results.get(item['index'])
