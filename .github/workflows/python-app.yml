@@ -34,7 +34,9 @@ jobs:
       - name: Run News Script
         env: 
           POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
           BASE_SITE_URL: ${{ secrets.BASE_SITE_URL }}
