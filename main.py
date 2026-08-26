@@ -53,7 +53,7 @@ CONFIG = {
     },
     # Dashboard URL - not final yet, so it's read from env instead of hardcoded.
     # Set BASE_SITE_URL once the GitHub Pages / hosting address is decided.
-    'BASE_SITE_URL': os.environ.get('BASE_SITE_URL', 'https://itsyebekhe.github.io/gustavo/'),
+    'BASE_SITE_URL': os.environ.get('BASE_SITE_URL', 'https://nick-machiavelli.github.io/Gustavo'),
     'CHANNEL_LINK': 'https://t.me/Enqelab_e_Iran',
     'TELEGRAM': {
         'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'),
