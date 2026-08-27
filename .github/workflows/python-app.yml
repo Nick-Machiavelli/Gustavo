@@ -41,11 +41,14 @@ jobs:
           missing=0
           if [ -z "${{ secrets.TG_BOT_TOKEN }}" ]; then echo "::error::TG_BOT_TOKEN secret is missing - Telegram dispatch will be skipped"; missing=1; fi
           if [ -z "${{ secrets.TG_CHANNEL_ID }}" ]; then echo "::error::TG_CHANNEL_ID secret is missing - Telegram dispatch will be skipped"; missing=1; fi
-          if [ -z "${{ secrets.AI_API_KEY }}" ]; then echo "::warning::AI_API_KEY secret is missing - AI analysis will be skipped"; fi
-          if [ $missing -eq 1 ]; then echo "::warning::Fix missing secrets at https://github.com/${{ github.repository }}/settings/secrets/actions"; fi
+          if [ -z "${{ secrets.AI_API_KEY }}" ]; then echo "::warning::AI_API_KEY secret is missing - AI analysis will be skipped, falling back to raw snippets"; fi
+          if [ $missing -eq 1 ]; then echo "::warning::Run the workflow once with correct secrets to confirm Telegram posts work."; fi
+          echo "TG_BOT_TOKEN set: $([ -n \"${{ secrets.TG_BOT_TOKEN }}\" ] && echo YES || echo NO)"
+          echo "TG_CHANNEL_ID set: $([ -n \"${{ secrets.TG_CHANNEL_ID }}\" ] && echo YES || echo NO)"
+          echo "AI_API_KEY set: $([ -n \"${{ secrets.AI_API_KEY }}\" ] && echo YES || echo NO)"
 
       - name: Run News Script
-        env: 
+        env:
           POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
           AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
@@ -54,22 +57,25 @@ jobs:
           TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
           BASE_SITE_URL: ${{ secrets.BASE_SITE_URL }}
           MANUAL_URL: ${{ inputs.manual_url }}
-        run: python main.py
+        run: |
+          echo "=== Running Gustavo radar ==="
+          python main.py
+          echo "=== Run exit code: $? ==="
 
       - name: Commit and Push Changes
         run: |
           git config user.name "IranRadarBot"
           git config user.email "bot@noreply.github.com"
-          
+
           # Track all JSON outputs including schedule state (persists dedup/schedule across ephemeral runners)
           git add news.json market.json daily_summary.json bulletins.json special_reports.json schedule_state.json 2>/dev/null || true
           # Also add if they are new/untracked
           git add -A 2>/dev/null || true
-          
+
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          
+
           git commit -m "Update news feed [skip ci]"
           git push

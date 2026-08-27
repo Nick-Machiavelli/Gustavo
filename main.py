@@ -61,7 +61,7 @@ CONFIG = {
     'TIMEOUT': 12,
     'AI_TIMEOUT': 45,
     'MAX_WORKERS': 3,
-    'MAX_CANDIDATES': 15,
+    'MAX_CANDIDATES': 30,
     'MAX_TEXT_CHARS': 1800,
     'MIN_TEXT_LEN': 100,
     'MIN_AI_URGENCY_HINT': 5,
@@ -364,6 +364,21 @@ class IranNewsRadar:
         if self._domain_score('', publisher) >= 8:
             score += 1
         return min(score, 9)
+
+    def _guess_tag_from_title(self, title):
+        """Lightweight heuristic tag used only when AI enrichment is unavailable."""
+        t = (title or '').lower()
+        if any(w in t for w in ['hormuz', 'strait', 'ناو', 'کشتی', 'دریایی', 'خلیج', 'navy', 'ship']):
+            return 'دریایی'
+        if any(w in t for w in ['هسته‌ای', 'اتمی', 'iaea', 'غنی‌سازی', 'nuclear', 'atomic']):
+            return 'هسته‌ای'
+        if any(w in t for w in ['tether', 'تحریم', 'dollar', 'currency', 'ارز', 'dollar', 'rial', 'تومان', 'اقتصاد']):
+            return 'اقتصاد'
+        if any(w in t for w in ['نظامی', 'military', 'missile', 'پهپاد', 'موشک', 'حمله', 'ارتش', 'strike', 'army']):
+            return 'نظامی'
+        if any(w in t for w in ['نیابتی', 'مقاومت', 'حزب‌الله', 'حوثی', 'proxy', 'Houthis', 'Hezbollah']):
+            return 'نیابتی'
+        return 'سیاسی'
 
     def _generate_news_id(self, clean_url):
         return hashlib.md5((clean_url or str(time.time())).encode('utf-8')).hexdigest()[:10]
@@ -734,8 +749,17 @@ class IranNewsRadar:
                 'image': image
             }]
         except Exception as e:
-            logger.error(f"Manual Fetch Error: {e}")
-            return []
+            logger.warning(f"Manual Fetch Error: {e} — attempting single-candidate fallback.")
+            # Fallback: build a minimal candidate from the URL alone so the rest
+            # of the pipeline (scrape_article_data → AI → Telegram) still runs.
+            return [{
+                'title': url.rstrip('/').split('/')[-1] or 'Manual Article',
+                'url': url,
+                'publisher': {'title': 'Manual Source'},
+                'published date': datetime.now(timezone.utc).isoformat(),
+                'description': f'Manual submission: {url}',
+                'image': None,
+            }]
 
     def get_combined_news(self):
         all_entries = []
@@ -1680,31 +1704,90 @@ STRICT OUTPUT JSON:
                     future_to_cand[f] = (idx, cand, raw_title, publisher, final_url, clean_u, snippet)
 
                 for fut in concurrent.futures.as_completed(future_to_cand):
-                    idx, cand, raw_title, publisher, final_url, clean_u, snippet = future_to_cand[fut]
-                    try:
-                        text, photo = fut.result()
+                        idx, cand, raw_title, publisher, final_url, clean_u, snippet = future_to_cand[fut]
+                        try:
+                            text, photo = fut.result()
+                            scraped_items.append({
+                                'index': idx,
+                                'cand': cand,
+                                'headline': raw_title,
+                                'source': publisher,
+                                'url': final_url,
+                                'clean_url': clean_u,
+                                'snippet': snippet,
+                                'text': text,
+                                'photo': photo
+                            })
+                        except Exception as e:
+                            logger.error(f"Scrape worker error: {e}")
+
+                # Fallback: if NO candidate scraped successfully, still build scraped_items
+                # directly from the raw candidates so the AI/urgency layer and Telegram
+                # dispatch always run (previously: scrape-failure on all candidates -> zero posts).
+                if not scraped_items and candidates:
+                    logger.warning("All content extractions failed — building scraped_items from raw snippets.")
+                    for idx, cand in enumerate(candidates):
+                        raw_title = cand.get('title', '').rsplit(' - ', 1)[0].strip()
+                        snippet = cand.get('description', raw_title)
                         scraped_items.append({
                             'index': idx,
                             'cand': cand,
                             'headline': raw_title,
-                            'source': publisher,
-                            'url': final_url,
-                            'clean_url': clean_u,
+                            'source': cand.get('publisher', {}).get('title', 'Unknown'),
+                            'url': cand.get('url', ''),
+                            'clean_url': self._clean_url(cand.get('url', '')),
                             'snippet': snippet,
-                            'text': text,
-                            'photo': photo
+                            'text': snippet,
+                            'photo': self._pick_image(cand.get('image'), fallback_text=raw_title),
                         })
-                    except Exception as e:
-                        logger.error(f"Scrape worker error: {e}")
 
             # 2. Batch AI Analysis in ONE Request
-            if scraped_items:
+            ai_batch_results = {}
+            if CONFIG.get('AI_API_KEY'):
                 ai_batch_results = self.batch_analyze_with_ai(scraped_items)
+                if not ai_batch_results or not any(ai_batch_results.values()):
+                    logger.warning(
+                        "AI batch analysis returned no results — falling back to raw snippets."
+                    )
+            else:
+                logger.warning(
+                    "AI_API_KEY is not set in this run — skipping AI enrichment.\n"
+                    "Falling back to raw snippets (urgency defaulted, no AI summary).\n"
+                    "Fix: set AI_API_KEY/AI_BASE_URL/AI_MODEL secrets at "
+                    "https://github.com/Nick-Machiavelli/Gustavo/settings/secrets/actions"
+                )
+            logger.info(
+                f"AI enriched {len(ai_batch_results)}/{len(scraped_items)} candidate items."
+            )
 
-                for item in scraped_items:
-                    ai = ai_batch_results.get(item['index'])
-                    if not ai:
-                        continue
+            # Heuristic urgency hint in case AI is unavailable — keeps items flowing.
+            for item in scraped_items:
+                if item['index'] in ai_batch_results:
+                    continue
+                # Fallback: build a minimal pseudo-AI result from the raw candidate data
+                ai_batch_results[item['index']] = {
+                    'title_fa': item['headline'],
+                    'title_en': item['headline'],
+                    'summary': [item['snippet'] or item['headline']],
+                    'impact': '...',
+                    'tag': self._guess_tag_from_title(item['headline']),
+                    'urgency': self._cheap_urgency_hint(item['headline'], item['source']),
+                    'sentiment': 0,
+                }
+
+            for item in scraped_items:
+                ai = ai_batch_results.get(item['index'])
+                if not ai:
+                    # Last-resort fallback: if even our pseudo-fill missed something
+                    ai = {
+                        'title_fa': item['headline'],
+                        'title_en': item['headline'],
+                        'summary': [item['snippet'] or item['headline']],
+                        'impact': '...',
+                        'tag': self._guess_tag_from_title(item['headline']),
+                        'urgency': self._cheap_urgency_hint(item['headline'], item['source']),
+                        'sentiment': 0,
+                    }
                     try:
                         urgency_val = int(ai.get('urgency', 3))
                     except Exception:
