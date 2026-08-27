@@ -1000,8 +1000,8 @@ function renderSingleArticlePage(item) {
             <h1 class="text-2xl md:text-3xl font-black text-gustavo-ink leading-tight">${item.title_fa}</h1>
             <p class="text-xs text-gray-500 font-mono dir-ltr text-left opacity-80">${item.title_en}</p>
 
-            <div class="relative w-full h-72 md:h-96 rounded-xl overflow-hidden border border-gray-200">
-                <img src="${imgURL}" alt="Article Photo" class="w-full h-full object-cover">
+            <div class="relative w-full h-72 md:h-96 rounded-xl overflow-hidden border border-gray-200 bg-gustavo-surface">
+                <img src="${imgURL}" alt="Article Photo" class="w-full h-full object-cover" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80'">
             </div>
 
             <div class="flex flex-wrap items-center justify-between text-xs text-gray-600 bg-gustavo-surface p-3 rounded-xl border border-gray-200 gap-3">
@@ -1204,8 +1204,8 @@ function renderHeroLead() {
 
     let html = `
         <div class="grid grid-cols-1 md:grid-cols-12 gap-4 md:gap-5 border-b border-gray-200 pb-5 mb-5">
-            <a href="?id=${mainLead.id || ''}" onclick="event.preventDefault(); openArticleById('${mainLead.id || ''}');" class="md:col-span-7 relative h-52 sm:h-64 md:h-80 rounded-xl overflow-hidden border border-gray-200 group block cursor-pointer">
-                <img src="${mainImg}" alt="Hero Image" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+            <a href="?id=${mainLead.id || ''}" onclick="event.preventDefault(); openArticleById('${mainLead.id || ''}');" class="md:col-span-7 relative h-52 sm:h-64 md:h-80 rounded-xl overflow-hidden border border-gray-200 group block cursor-pointer bg-gustavo-surface">
+                <img src="${mainImg}" alt="Hero Image" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80'">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/30 to-transparent"></div>
                 
                 <div class="absolute top-2.5 right-2.5 bg-gustavo-amber text-white text-[9px] sm:text-[10px] font-black px-2 py-0.5 rounded-xl shadow uppercase tracking-wider">
@@ -1252,8 +1252,8 @@ function renderHeroLead() {
 
         html += `
             <div class="bg-gustavo-surface p-3 rounded-xl border border-gray-200 flex flex-row sm:flex-col justify-between gap-3 space-y-0 sm:space-y-2">
-                <a href="?id=${sec.id || ''}" onclick="event.preventDefault(); openArticleById('${sec.id || ''}');" class="relative h-20 w-24 sm:w-full sm:h-28 flex-shrink-0 rounded-xl overflow-hidden border border-gray-200 block cursor-pointer group">
-                    <img src="${secImg}" alt="Thumbnail" class="w-full h-full object-cover group-hover:scale-105 transition-transform">
+                <a href="?id=${sec.id || ''}" onclick="event.preventDefault(); openArticleById('${sec.id || ''}');" class="relative h-20 w-24 sm:w-full sm:h-28 flex-shrink-0 rounded-xl overflow-hidden border border-gray-200 block cursor-pointer group bg-gustavo-surface">
+                    <img src="${secImg}" alt="Thumbnail" class="w-full h-full object-cover group-hover:scale-105 transition-transform" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80'">
                     <span class="absolute top-1 right-1 bg-gustavo-ink text-white text-[8px] sm:text-[9px] font-bold px-1.5 py-0.5 rounded-xl">
                         ${sec.tag}
                     </span>
@@ -1384,8 +1384,8 @@ function renderFeed() {
         html += `
         <article class="rasad-card p-3 sm:p-5 rounded-xl shadow-sm relative border-r-4 ${tagConfig.border} mb-3 sm:mb-4">
             <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                <div class="w-full sm:w-48 h-44 sm:h-32 flex-shrink-0 rounded-xl overflow-hidden border border-gray-200">
-                    <img src="${imgURL}" alt="Photo" class="w-full h-full object-cover">
+                <div class="w-full sm:w-48 h-44 sm:h-32 flex-shrink-0 rounded-xl overflow-hidden border border-gray-200 bg-gustavo-surface">
+                    <img src="${imgURL}" alt="Photo" class="w-full h-full object-cover" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80'">
                 </div>
 
                 <div class="flex-grow flex flex-col justify-between">

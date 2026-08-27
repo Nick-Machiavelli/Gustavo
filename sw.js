@@ -1,4 +1,4 @@
-const CACHE_NAME = 'rasad-cache-v1';
+const CACHE_NAME = 'gustavo-cache-v3';
 const ASSETS_TO_CACHE = [
     './',
     './index.html'
@@ -21,7 +21,7 @@ self.addEventListener('activate', (event) => {
             return Promise.all(
                 keys.filter(key => key !== CACHE_NAME).map(key => caches.delete(key))
             );
-        })
+        }).then(() => self.clients.claim())
     );
 });
 
@@ -30,11 +30,16 @@ self.addEventListener('fetch', (event) => {
     const url = new URL(event.request.url);
 
     // Handle navigation requests (loading the website itself)
-    // Optimized for Mobile: Serve Cache-First to avoid long loading/timeouts
+    // FIX: Network-first so mobile always gets latest index.html (was cache-first causing stale)
     if (event.request.mode === 'navigate') {
         event.respondWith(
-            caches.match('./index.html')
-                .then((response) => response || fetch(event.request))
+            fetch(event.request)
+                .then((response) => {
+                    const cln = response.clone();
+                    caches.open(CACHE_NAME).then(cache => cache.put('./index.html', cln));
+                    return response;
+                })
+                .catch(() => caches.match('./index.html').then(r => r || caches.match('./')))
         );
         return;
     }
