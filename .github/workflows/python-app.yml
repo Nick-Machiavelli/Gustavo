@@ -1,6 +1,9 @@
 name: Iran Radar Update
 
 on:
+  push:
+    paths:
+      - '.github/workflows/python-app.yml'
   schedule:
       - cron: '*/30 * * * *'
   workflow_dispatch:
