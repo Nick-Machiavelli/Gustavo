@@ -1386,9 +1386,11 @@ STRICT OUTPUT JSON:
             return False
 
     def send_digest_to_telegram(self, items):
-            """Send each news item to Telegram as a simple post:
-            - Title
+            """Send each news item to Telegram as a complete post:
+            - Title (Persian)
+            - Summary/Analysis (Persian)
             - Source
+            - Image (if available)
             - Signature: انقلاب | Shir o Khorshid 🦁🔆
             """
             token = CONFIG['TELEGRAM']['BOT_TOKEN']
@@ -1404,32 +1406,65 @@ STRICT OUTPUT JSON:
             def esc(s):
                 return html.escape(str(s or ''), quote=False)
 
+            send_photo_api = f"https://api.telegram.org/bot{token}/sendPhoto"
             send_message_api = f"https://api.telegram.org/bot{token}/sendMessage"
 
             for item in items:
                 title = esc(item.get('title_fa') or item.get('title_en'))
                 source = esc(item.get('source', 'نامشخص'))
+                summary_raw = item.get('summary', [])
+                if isinstance(summary_raw, str):
+                    summary_raw = [summary_raw]
+                summary_lines = "\n".join(f"• {esc(s)}" for s in summary_raw if s)
+                photo_url = item.get('image')
 
-                # Simple format: Title + Source + Signature
-                caption = f"{title}\n\n📰 منبع: {source}\n\nانقلاب | Shir o Khorshid 🦁🔆"
+                # Build caption: Title + Summary + Source + Signature
+                caption_lines = [f"<b>{title}</b>"]
+                if summary_lines:
+                    caption_lines.append("")
+                    caption_lines.append(summary_lines)
+                caption_lines.append("")
+                caption_lines.append(f"📰 منبع: {source}")
+                caption_lines.append("")
+                caption_lines.append("انقلاب | Shir o Khorshid 🦁🔆")
 
-                payload = {
-                    "chat_id": chat_id,
-                    "text": caption,
-                    "parse_mode": "HTML",
-                    "disable_web_page_preview": True,
-                }
+                caption = "\n".join(caption_lines)
 
-                try:
-                    resp = self.scraper.post(send_message_api, json=payload, timeout=20)
-                    if resp.status_code == 200:
-                        logger.info(f"Posted to Telegram: {title[:60]}")
-                    else:
-                        logger.error(f"sendMessage failed: {resp.status_code} | {resp.text[:300]}")
-                except Exception as e:
-                    logger.error(f"TG send error for item {item.get('id')}: {e}")
+                # Try send with photo first, fallback to text-only
+                sent = False
+                if self._is_valid_image_url(photo_url):
+                    try:
+                        resp = self.scraper.post(send_photo_api, json={
+                            "chat_id": chat_id,
+                            "photo": photo_url,
+                            "caption": caption,
+                            "parse_mode": "HTML",
+                        }, timeout=20)
+                        sent = resp.status_code == 200
+                        if not sent:
+                            logger.error(f"sendPhoto failed: {resp.status_code} | {resp.text[:300]}")
+                    except Exception as e:
+                        logger.error(f"sendPhoto error: {e}")
 
-                # Small delay between posts to avoid rate limits
+                if not sent:
+                    try:
+                        resp = self.scraper.post(send_message_api, json={
+                            "chat_id": chat_id,
+                            "text": caption,
+                            "parse_mode": "HTML",
+                            "disable_web_page_preview": True,
+                        }, timeout=20)
+                        sent = resp.status_code == 200
+                        if not sent:
+                            logger.error(f"sendMessage failed: {resp.status_code} | {resp.text[:300]}")
+                    except Exception as e:
+                        logger.error(f"sendMessage error: {e}")
+
+                if sent:
+                    logger.info(f"Posted to Telegram: {title[:60]}")
+                else:
+                    logger.error(f"Failed to post: {title[:60]}")
+
                 time.sleep(2)
 
     # ───────────────────────── save ─────────────────────────
