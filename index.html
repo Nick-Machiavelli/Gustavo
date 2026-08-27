@@ -551,9 +551,9 @@
                         </div>
 
                         <div class="absolute bottom-3 right-3 left-3">
-                            <p class="text-xs font-bold text-white leading-tight">اتاق تحلیل و پایش هوشمند پدافندی</p>
-                            <p class="text-[10px] text-gray-400 mt-1 font-mono">وضعیت سیستم: آنلاین</p>
-                        </div>
+                                                    <p class="text-xs font-bold text-white leading-tight">اتاق تحلیل و پایش هوشمند</p>
+                                                    <p class="text-[10px] text-gray-400 mt-1 font-mono">وضعیت سیستم: آنلاین</p>
+                                                </div>
                     </div>
 
                     <button onclick="openDailySummaryModal()" class="w-full bg-gustavo-ink hover:bg-gustavo-amber text-white text-xs font-bold py-2.5 rounded-xl transition-colors flex items-center justify-center gap-2">
@@ -605,8 +605,8 @@
                         </div>
                         
                         <div class="h-3 bg-gray-200 rounded-full overflow-hidden p-0.5 border border-gray-300">
-                            <div id="tension-fill" class="h-full bg-gradient-to-r from-green-500 via-yellow-500 to-gustavo-red w-0 transition-all duration-1000"></div>
-                        </div>
+                                                    <div id="tension-fill" class="h-full bg-gradient-to-r from-green-500 via-yellow-500 to-gustavo-amber w-0 transition-all duration-1000"></div>
+                                                </div>
 
                         <div class="flex justify-between text-[10px] text-gray-500 font-mono">
                             <span>عادی</span>
@@ -1708,12 +1708,12 @@ function switchMobileTab(tab) {
 // 1. Dark Mode Toggle
 function toggleDarkMode() {
     const isDark = document.documentElement.classList.toggle('dark');
-    localStorage.setItem('rasad_theme', isDark ? 'dark' : 'light');
+    localStorage.setItem('gustavo_theme', isDark ? 'dark' : 'light');
 }
 
 // Auto-restore user's Dark Mode preference on startup
 (function initTheme() {
-    const savedTheme = localStorage.getItem('rasad_theme');
+    const savedTheme = localStorage.getItem('gustavo_theme');
     if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
         document.documentElement.classList.add('dark');
     }

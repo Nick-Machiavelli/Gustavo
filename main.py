@@ -1386,141 +1386,51 @@ STRICT OUTPUT JSON:
             return False
 
     def send_digest_to_telegram(self, items):
-        """Send each news item to Telegram immediately as its own post,
-        including a visible link to the original article."""
-        token = CONFIG['TELEGRAM']['BOT_TOKEN']
-        chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
-        if not token or not chat_id:
-            logger.error("TG_BOT_TOKEN or TG_CHANNEL_ID is not set – cannot send news digest. Set them in GitHub Secrets (https://github.com/Nick-Machiavelli/Gustavo/settings/secrets/actions).")
-            return
-        if not items:
-            return
+            """Send each news item to Telegram as a simple post:
+            - Title
+            - Source
+            - Signature: انقلاب | Shir o Khorshid 🦁🔆
+            """
+            token = CONFIG['TELEGRAM']['BOT_TOKEN']
+            chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
+            if not token or not chat_id:
+                logger.error("TG_BOT_TOKEN or TG_CHANNEL_ID is not set – cannot send news digest. Set them in GitHub Secrets.")
+                return
+            if not items:
+                return
 
-        items.sort(key=lambda x: x.get('urgency', 3), reverse=True)
+            items.sort(key=lambda x: x.get('urgency', 3), reverse=True)
 
-        def esc(s):
-            return html.escape(str(s or ''), quote=False)
+            def esc(s):
+                return html.escape(str(s or ''), quote=False)
 
-        base_site = CONFIG['BASE_SITE_URL']
-        send_photo_api = f"https://api.telegram.org/bot{token}/sendPhoto"
-        send_message_api = f"https://api.telegram.org/bot{token}/sendMessage"
+            send_message_api = f"https://api.telegram.org/bot{token}/sendMessage"
 
-        for item in items:
-            title = esc(item.get('title_fa') or item.get('title_en'))
-            source = esc(item.get('source', 'Unknown'))
-            impact = esc(item.get('impact', ''))
-            raw_urgency = item.get('urgency', 3)
-            try:
-                urgency = int(raw_urgency)
-            except (TypeError, ValueError):
-                urgency = 3
-            icon = "🔥" if urgency >= 9 else ("🚨" if urgency >= 7 else "🔹")
+            for item in items:
+                title = esc(item.get('title_fa') or item.get('title_en'))
+                source = esc(item.get('source', 'نامشخص'))
 
-            news_id = item.get('id', '')
-            deep = f"{base_site}?id={news_id}" if news_id else base_site
-            src_url = item.get('url') or ''
-            summary_raw = item.get('summary', [])
-            if isinstance(summary_raw, str):
-                summary_raw = [summary_raw]
-            summary_lines = "\n".join(f"• {esc(s)}" for s in summary_raw if s)
+                # Simple format: Title + Source + Signature
+                caption = f"{title}\n\n📰 منبع: {source}\n\n---\nانقلاب | Shir o Khorshid 🦁🔆"
 
-            tag = str(item.get('tag', 'General')).replace(' ', '_')
+                payload = {
+                    "chat_id": chat_id,
+                    "text": caption,
+                    "parse_mode": "HTML",
+                    "disable_web_page_preview": True,
+                }
 
-            caption_lines = [f"{icon} <b>{title}</b>", ""]
-            if summary_lines:
-                caption_lines.append(summary_lines)
-                caption_lines.append("")
-            if impact:
-                caption_lines.append(f"🎯 <b>اثرگذاری:</b> {impact}")
-                caption_lines.append("")
-            caption_lines.append(f"🗞 <b>منبع:</b> {source}")
-            if src_url:
-                safe_url = src_url if (src_url and _is_safe_url(src_url)) else f"{base_site}#{item.get('hash', '')}"
-                caption_lines.append(f"🔗 <a href=\"{esc(safe_url)}\">مشاهده خبر اصلی</a>")
-            caption_lines.append(f"📊 <a href=\"{deep}\">داشبورد گوستاوو</a>")
-            caption_lines.append(f"#{esc(tag)}")
-
-            signature = "\nانقلاب | Shir o Khorshid 🦁🔆"
-            body = "\n".join(caption_lines)
-            # Reserve room for the signature so it never gets truncated off the end
-            max_body_len = 1024 - len(signature)
-            if len(body) > max_body_len:
-                body = body[:max_body_len]
-            caption = body + signature
-
-            inline_keyboard = {
-                "inline_keyboard": [[
-                    {"text": "🔗 لینک خبر", "url": src_url or base_site},
-                    {"text": "📊 داشبورد", "url": deep},
-                ]]
-            }
-
-            photo_url = item.get('image')
-            sent = False
-            try:
-                if self._is_valid_image_url(photo_url):
-                    resp = self.scraper.post(send_photo_api, json={
-                        "chat_id": chat_id,
-                        "photo": photo_url,
-                        "caption": caption,
-                        "parse_mode": "HTML",
-                        "reply_markup": inline_keyboard,
-                    }, timeout=20)
-                    sent = resp.status_code == 200
-                    if not sent:
-                        logger.error(f"sendPhoto failed: {resp.status_code} | {resp.text[:300]}")
-
-                if not sent:
-                    resp2 = self.scraper.post(send_message_api, json={
-                        "chat_id": chat_id,
-                        "text": caption,
-                        "parse_mode": "HTML",
-                        "reply_markup": inline_keyboard,
-                        "disable_web_page_preview": False,
-                    }, timeout=20)
-                    sent = resp2.status_code == 200
-                    if not sent:
-                        logger.error(f"sendMessage failed: {resp2.status_code} | {resp2.text[:300]}")
-
-                if sent:
-                    logger.info(f"Posted to Telegram: {item.get('title_en', '')[:60]}")
-                else:
-                    # Retry once with fallback URL (fixes HTML parse errors / bad URLs)
-                    # Always use a safe dashboard deep-link in the fallback retry
-                    # so an original src_url that is empty/null/javascript: or
-                    # that breaks HTML parse_mode never appears in the caption.
-                    safe_id = item.get('id') or hashlib.md5(str(src_url or '').encode()).hexdigest()[:8]
-                    safe_link = f"{base_site}?id={safe_id}"
-                    retry_inline = {
-                        "inline_keyboard": [[
-                            {"text": "🔗 لینک خبر", "url": safe_link},
-                            {"text": "📊 داشبورد", "url": deep},
-                        ]]
-                    }
-                    # Force-replace any original-article link with the safe dashboard link
-                    caption_fb = body
-                    if src_url and self._is_safe_url(src_url):
-                        caption_fb = caption.replace(f'<a href="{esc(src_url)}">مشاهده خبر اصلی</a>', f'<a href="{esc(safe_link)}">مشاهده خبر اصلی</a>')
+                try:
+                    resp = self.scraper.post(send_message_api, json=payload, timeout=20)
+                    if resp.status_code == 200:
+                        logger.info(f"Posted to Telegram: {title[:60]}")
                     else:
-                        # remove any stale original-article link line that referenced an unsafe/empty url
-                        caption_fb = re.sub(r'<a href="[^"]*">مشاهده خبر اصلی</a>', f'<a href="{esc(safe_link)}">مشاهده خبر اصلی</a>', caption)
-                    retry_payload = {
-                        "chat_id": chat_id,
-                        "text": caption_fb,
-                        "parse_mode": "HTML",
-                        "reply_markup": retry_inline,
-                    }
-                    resp3 = self.scraper.post(send_message_api, json=retry_payload, timeout=20)
-                    if resp3.status_code == 200:
-                        logger.info(f"Posted (fallback) to Telegram: {item.get('title_en', '')[:60]}")
-                        sent = True
-                    else:
-                        logger.error(f"Fallback sendMessage also failed: {resp3.status_code} | {resp3.text[:300]}")
-            except Exception as e:
-                logger.error(f"TG send error for item {item.get('id')}: {e}")
+                        logger.error(f"sendMessage failed: {resp.status_code} | {resp.text[:300]}")
+                except Exception as e:
+                    logger.error(f"TG send error for item {item.get('id')}: {e}")
 
-            # Small delay between posts so items don't get grouped/rate-limited
-            time.sleep(2)
+                # Small delay between posts to avoid rate limits
+                time.sleep(2)
 
     # ───────────────────────── save ─────────────────────────
 
