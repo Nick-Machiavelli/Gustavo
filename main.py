@@ -404,99 +404,178 @@ class IranNewsRadar:
                 return c
         return self._get_fallback_image(fallback_text)
 
-    # ───────────────────────── market ─────────────────────────
+    # ───────────────────────── market (LIVE) ─────────────────────────
     def fetch_market_rates(self):
-        """Fetch USD/EUR/AED + crypto + oil, with dual pricing (USD + TMN)."""
+        """Live: 10 forex (world+ME) + 15 cryptos + 4 oils, dual USD+TMN."""
+        # ---- schema ----
         data = {
             "usd": "نامشخص", "usd_raw": None,
-            "eur": "نامشخص", "aed": "نامشخص",
+            "eur": "نامشخص", "gbp": "نامشخص", "aed": "نامشخص", "try": "نامشخص",
+            "sar": "نامشخص", "kwd": "نامشخص", "qar": "نامشخص", "chf": "نامشخص",
+            "jpy": "نامشخص", "cad": "نامشخص",
+            # 15 cryptos
             "btc_usd": "—", "btc_tmn": "نامشخص",
             "eth_usd": "—", "eth_tmn": "نامشخص",
             "usdt_usd": "1.00", "usdt_tmn": "نامشخص",
+            "bnb_usd": "—", "bnb_tmn": "نامشخص",
+            "sol_usd": "—", "sol_tmn": "نامشخص",
+            "xrp_usd": "—", "xrp_tmn": "نامشخص",
+            "usdc_usd": "1.00", "usdc_tmn": "نامشخص",
+            "doge_usd": "—", "doge_tmn": "نامشخص",
+            "ada_usd": "—", "ada_tmn": "نامشخص",
+            "trx_usd": "—", "trx_tmn": "نامشخص",
+            "avax_usd": "—", "avax_tmn": "نامشخص",
+            "shib_usd": "—", "shib_tmn": "نامشخص",
+            "dot_usd": "—", "dot_tmn": "نامشخص",
+            "link_usd": "—", "link_tmn": "نامشخص",
+            "ltc_usd": "—", "ltc_tmn": "نامشخص",
+            # oils
             "brent_usd": "—", "brent_tmn": "نامشخص",
+            "wti_usd": "—", "wti_tmn": "نامشخص",
+            "opec_usd": "—", "opec_tmn": "نامشخص",
+            "dubai_usd": "—", "dubai_tmn": "نامشخص",
             "oil": "نامشخص",
-            "updated": "--:--"
+            "updated": "--:--",
+            "updated_iso": None
         }
         usd_tmn_raw = None
+
+        # ---- 1) forex: 10 currencies via alanchand ----
+        # alanchand slugs: usd, eur, gbp, aed, try, chf, cad, jpy, sar, qar, kwd ...
+        forex_slugs = {
+            "usd": "usd", "eur": "eur", "gbp": "gbp", "aed": "aed", "try": "try",
+            "sar": "sar", "kwd": "kwd", "qar": "qar", "chf": "chf", "jpy": "jpy"
+        }
+        for key, slug in forex_slugs.items():
+            try:
+                resp = self.scraper.get(f"https://alanchand.com/en/currencies-price/{slug}", timeout=10)
+                if resp.status_code == 200:
+                    soup = BeautifulSoup(resp.text, 'lxml')
+                    inp = soup.find('input', attrs={'data-curr': 'tmn'})
+                    if inp:
+                        val = inp.get('data-price') or inp.get('value')
+                        if val:
+                            raw = int(val.replace(',', '').strip())
+                            tmn = int(raw / 10)
+                            data[key] = f"{tmn:,}"
+                            if key == "usd":
+                                usd_tmn_raw = tmn
+                                data["usd_raw"] = tmn
+                                data["usdt_tmn"] = f"{tmn:,}"
+                                data["usdc_tmn"] = f"{tmn:,}"
+            except Exception:
+                pass
+
+        # fallback for sar/kwd/qar/jpy if alanchand missing: estimate via USD cross from exchangerate.host
+        missing = [k for k in forex_slugs if data.get(k) == "نامشخص" and k != "usd"]
+        if missing and usd_tmn_raw:
+            try:
+                # exchangerate.host is free no-key, CORS ok for backend
+                er = self.scraper.get("https://api.exchangerate.host/latest?base=USD&symbols=EUR,GBP,AED,TRY,SAR,KWD,QAR,CHF,JPY,CAD", timeout=10)
+                if er.status_code == 200:
+                    rates = er.json().get("rates", {})
+                    # rates are units per USD. To get TMN: usd_tmn / USD_per_target? Actually rate = target per USD, so target_tmn = usd_tmn * (1/rate?) Wait: 1 USD = X EUR => 1 EUR = USD/EUR ? Simpler: 1 EUR in TMN = usd_tmn / rate_EUR? No: rate_EUR = EUR per USD, so USD->EUR = rate. EUR->USD = 1/rate. So EUR in TMN = usd_tmn / rate_EUR
+                    inv_map = {"eur":"EUR","gbp":"GBP","aed":"AED","try":"TRY","sar":"SAR","kwd":"KWD","qar":"QAR","chf":"CHF","jpy":"JPY","cad":"CAD"}
+                    for k in missing:
+                        sym = inv_map.get(k)
+                        if sym and sym in rates and rates[sym]:
+                            try:
+                                per_usd = float(rates[sym])
+                                if per_usd and per_usd != 0:
+                                    tmn = int(usd_tmn_raw / per_usd)
+                                    data[k] = f"{tmn:,}"
+                            except Exception:
+                                pass
+            except Exception:
+                pass
+
+        # ---- 2) 15 cryptos via CoinGecko (single call) ----
+        cg_ids = "bitcoin,ethereum,tether,binancecoin,solana,ripple,usd-coin,dogecoin,cardano,tron,avalanche-2,shiba-inu,polkadot,chainlink,litecoin"
+        cg_map = {
+            "bitcoin": ("btc_usd", "btc_tmn"),
+            "ethereum": ("eth_usd", "eth_tmn"),
+            "tether": ("usdt_usd", "usdt_tmn"),
+            "binancecoin": ("bnb_usd", "bnb_tmn"),
+            "solana": ("sol_usd", "sol_tmn"),
+            "ripple": ("xrp_usd", "xrp_tmn"),
+            "usd-coin": ("usdc_usd", "usdc_tmn"),
+            "dogecoin": ("doge_usd", "doge_tmn"),
+            "cardano": ("ada_usd", "ada_tmn"),
+            "tron": ("trx_usd", "trx_tmn"),
+            "avalanche-2": ("avax_usd", "avax_tmn"),
+            "shiba-inu": ("shib_usd", "shib_tmn"),
+            "polkadot": ("dot_usd", "dot_tmn"),
+            "chainlink": ("link_usd", "link_tmn"),
+            "litecoin": ("ltc_usd", "ltc_tmn"),
+        }
         try:
-            resp = self.scraper.get("https://alanchand.com/en/currencies-price/usd", timeout=10)
-            if resp.status_code == 200:
-                soup = BeautifulSoup(resp.text, 'lxml')
-                usd = soup.find('input', attrs={'data-curr': 'tmn'})
-                if usd:
-                    val = usd.get('data-price') or usd.get('value')
-                    if val:
-                        raw = int(val.replace(',', '').strip())
-                        usd_tmn_raw = int(raw / 10)
-                        data["usd"] = f"{usd_tmn_raw:,}"
-                        data["usd_raw"] = usd_tmn_raw
-                        data["usdt_tmn"] = f"{usd_tmn_raw:,}"
-        except Exception:
-            pass
-        try:
-            resp = self.scraper.get("https://alanchand.com/en/currencies-price/eur", timeout=10)
-            if resp.status_code == 200:
-                soup = BeautifulSoup(resp.text, 'lxml')
-                inp = soup.find('input', attrs={'data-curr': 'tmn'})
-                if inp:
-                    val = inp.get('data-price') or inp.get('value')
-                    if val:
-                        raw = int(val.replace(',', '').strip())
-                        data["eur"] = f"{int(raw/10):,}"
-        except Exception:
-            pass
-        try:
-            resp = self.scraper.get("https://alanchand.com/en/currencies-price/aed", timeout=10)
-            if resp.status_code == 200:
-                soup = BeautifulSoup(resp.text, 'lxml')
-                inp = soup.find('input', attrs={'data-curr': 'tmn'})
-                if inp:
-                    val = inp.get('data-price') or inp.get('value')
-                    if val:
-                        raw = int(val.replace(',', '').strip())
-                        data["aed"] = f"{int(raw/10):,}"
-        except Exception:
-            pass
-        try:
-            cg = self.scraper.get(
-                "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,tether&vs_currencies=usd",
-                timeout=10
-            )
+            cg = self.scraper.get(f"https://api.coingecko.com/api/v3/simple/price?ids={cg_ids}&vs_currencies=usd", timeout=12)
             if cg.status_code == 200:
                 j = cg.json()
-                btc_usd = j.get('bitcoin', {}).get('usd')
-                eth_usd = j.get('ethereum', {}).get('usd')
-                usdt_usd = j.get('tether', {}).get('usd')
-                if btc_usd:
-                    data["btc_usd"] = f"{btc_usd:,.0f}" if btc_usd >= 1000 else f"{btc_usd:,.2f}"
-                    if usd_tmn_raw:
-                        data["btc_tmn"] = f"{int(btc_usd * usd_tmn_raw):,}"
-                if eth_usd:
-                    data["eth_usd"] = f"{eth_usd:,.0f}" if eth_usd >= 1000 else f"{eth_usd:,.2f}"
-                    if usd_tmn_raw:
-                        data["eth_tmn"] = f"{int(eth_usd * usd_tmn_raw):,}"
-                if usdt_usd:
-                    data["usdt_usd"] = f"{usdt_usd:.2f}"
+                for cid, (k_usd, k_tmn) in cg_map.items():
+                    v = j.get(cid, {}).get("usd")
+                    if v is not None:
+                        try:
+                            fv = float(v)
+                            # format
+                            if fv >= 1000:
+                                data[k_usd] = f"{fv:,.0f}"
+                            elif fv >= 1:
+                                data[k_usd] = f"{fv:,.2f}"
+                            elif fv >= 0.01:
+                                data[k_usd] = f"{fv:,.4f}"
+                            else:
+                                data[k_usd] = f"{fv:.6f}".rstrip("0").rstrip(".")
+                            if usd_tmn_raw and cid not in ("tether", "usd-coin"):
+                                data[k_tmn] = f"{int(fv * usd_tmn_raw):,}"
+                            elif usd_tmn_raw:
+                                # stablecoins
+                                data[k_tmn] = f"{usd_tmn_raw:,}"
+                        except Exception:
+                            pass
         except Exception:
             pass
-        try:
-            resp = self.scraper.get("https://oilprice.com/oil-price-charts/46", timeout=10)
-            soup = BeautifulSoup(resp.text, 'lxml')
-            oil = soup.select_one(".last_price")
-            if oil:
-                txt = oil.get_text().strip().replace('$','').replace(',','')
-                try:
-                    val = float(txt)
-                    data["brent_usd"] = f"{val:.2f}"
-                    data["oil"] = f"{val:.2f}"
-                    if usd_tmn_raw:
-                        data["brent_tmn"] = f"{int(val * usd_tmn_raw):,}"
-                except Exception:
-                    data["brent_usd"] = txt
-                    data["oil"] = txt
-        except Exception:
-            pass
+
+        # ---- 3) oils: Brent + WTI (+ OPEC/Dubai fallback to Brent) ----
+        def _fetch_oil(url, key_usd, key_tmn):
+            try:
+                resp = self.scraper.get(url, timeout=10)
+                if resp.status_code == 200:
+                    soup = BeautifulSoup(resp.text, 'lxml')
+                    el = soup.select_one(".last_price")
+                    if el:
+                        txt = el.get_text().strip().replace("$","").replace(",","")
+                        try:
+                            val = float(txt)
+                            data[key_usd] = f"{val:.2f}"
+                            data["oil"] = f"{val:.2f}"
+                            if usd_tmn_raw:
+                                data[key_tmn] = f"{int(val * usd_tmn_raw):,}"
+                            return True
+                        except Exception:
+                            data[key_usd] = txt
+            except Exception:
+                pass
+            return False
+
+        _fetch_oil("https://oilprice.com/oil-price-charts/46", "brent_usd", "brent_tmn")
+        _fetch_oil("https://oilprice.com/oil-price-charts/45", "wti_usd", "wti_tmn")
+        # OPEC basket & Dubai: try same endpoints with fallback copy
+        if not _fetch_oil("https://oilprice.com/oil-price-charts/1", "opec_usd", "opec_tmn"):
+            if data["brent_usd"] != "—":
+                data["opec_usd"] = data["brent_usd"]
+                data["opec_tmn"] = data["brent_tmn"]
+        if not _fetch_oil("https://oilprice.com/oil-price-charts/47", "dubai_usd", "dubai_tmn"):
+            if data["brent_usd"] != "—":
+                data["dubai_usd"] = data["brent_usd"]
+                data["dubai_tmn"] = data["brent_tmn"]
+
         data["updated"] = time.strftime("%H:%M")
+        try:
+            from datetime import datetime, timezone as _tz
+            data["updated_iso"] = datetime.now(_tz.utc).isoformat()
+        except Exception:
+            pass
         return data
 
     # ───────────────────────── news search ─────────────────────────

@@ -2,7 +2,7 @@ name: Iran Radar Update
 
 on:
   schedule:
-      - cron: '0,30 * * * *'
+      - cron: '*/15 * * * *'
   workflow_dispatch:
     inputs:
       manual_url:
