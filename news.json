@@ -60,6 +60,66 @@
         "timestamp": 1787801391.0
     },
     {
+        "id": "f431e19a24",
+        "title_fa": "ناو USS Theodore Roosevelt هفت ماه به خاورمیانه می‌رود",
+        "title_en": "USS Theodore Roosevelt to deploy to Middle East for at least seven months",
+        "summary": [
+            "ناو USS Theodore Roosevelt برای حداقل هفت ماه به خاورمیانه اعزام می‌شود.",
+            "وزارت خارجه پاکستان گفت مذاکرات با ایران برای کاهش تنش‌ها و یافتن راه‌حل مسالمت‌آمیز انجام شد.",
+            "ایران نقش واسطه‌گری پاکستان را در صلح‌سازی ارج می‌نهد و از تلاش‌های دیپلماتیک استقبال کرد.",
+            "ادعاهای حضور پاکستان به عنوان نماینده ترامپ رد شد."
+        ],
+        "impact": "حضور ناو آمریکایی فشار نظامی را بالا می‌برد و می‌تواند تنش‌های منطقه‌ای را تشدید کند",
+        "tag": "ناو",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/en/liveblog/202608222141",
+        "clean_url": "https://www.iranintl.com/en/liveblog/202608222141",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/ee8ee468e4b86d02a24e71768b032cfd0d48f3b2-5274x3613.jpg?rect=0,429,5274,2756&w=1200&h=627&q=66&fit=max&auto=format",
+        "timestamp": 1787789940.0
+    },
+    {
+        "id": "e1b1fd9510",
+        "title_fa": "هیچ‌کسی برنده جنگ ایران نیست؛ دلایل",
+        "title_en": "Who's winning the war in Iran? Nobody. Here's why.",
+        "summary": [
+            "تحلیل‌گران می‌گویند هیچ‌کدام از طرفین برنده نیستند؛ هر دو هزینه‌های سنگین می‌پردازند.",
+            "واشنگتن به زور نظامی و تحریم‌ها امید دارد، اما نتوانسته برتری نظامی را به دستاوردهای سیاسی تبدیل کند.",
+            "ایران با تحمل طولانی جنگ و مقاومت در برابر محاصره نفتی ادامه می‌دهد.",
+            "بدون یافتن راه‌حل دیپلماتیک، کشمکش احتمالاً تا سال‌های آینده ادامه خواهد یافت."
+        ],
+        "impact": "پایان‌ناپذیر شدن جنگ، هزینه‌های اقتصادی و انسانی برای هر دو کشور",
+        "tag": "تحلیل",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/whos-winning-war-iran-nobody-070100397.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/whos-winning-war-iran-nobody-070100397.html",
+        "image": "http://www.bing.com/th?id=ONUT.GED3DZDl93EEMLLaGN7XHw&pid=News",
+        "timestamp": 1787788860.0
+    },
+    {
+        "id": "0fef5463f1",
+        "title_fa": "ترامپ پیروزی بزرگ در جنگ با ایران را اعلام کرد",
+        "title_en": "Trump insists U.S. achieving \"very big victory\" in war with Iran",
+        "summary": [
+            "ترامپ گفت آمریکا در جنگ با ایران پیروزی بسیار بزرگی دارد و جنگ تا زمان لازم ادامه می‌یابد.",
+            "او افزود مذاکرات صلح زمان‌بندی نشده و فقط پس از رفع محاصره ناوگان آمریکا ممکن است.",
+            "نتانیاهو گفت توافق دیپلماتیک با ایران غیرممکن است و رهبران آن را \"وحشی\" نامید.",
+            "ایران و عمان درباره مسیر موقت هورموز و پاکسازی مین‌ها بحث می‌کنند، اما ایران خواستار رفع محاصره آمریکایی است."
+        ],
+        "impact": "ادامه جنگ، فشار نظامی و اقتصادی بر ایران و ریسک تشدید تنش‌های خلیج فارس",
+        "tag": "جنگ",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/iran-oman-edge-toward-strait-070327916.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/iran-oman-edge-toward-strait-070327916.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/5a65c386013a2646feb75a62d1a4bdf09e6171aceda2205da0fc8f2a1a7f8e98/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/bddda30bc0732caa836fba24358583c1.jpg",
+        "timestamp": 1787785740.0
+    },
+    {
         "id": "9ca6123c51",
         "title_fa": "ناظران هسته‌ای: ایران توانمندی‌های مهمی حفظ کرده",
         "title_en": "Nuclear watchdog chief warns Iran maintains ‘many capabilities’ as Iranian officials block inspections",
@@ -5497,60 +5557,5 @@
         "clean_url": "https://news.sky.com/story/iran-war-latest-trump-claims-theres-a-deal-strait-of-hormuz-ahead-of-further-negotiations-later-today-13509565",
         "image": "https://e3.365dm.com/26/08/1600x900/skynews-donald-trump-speaks-to-media_7312495.jpg?20260803011002",
         "timestamp": 1785670020.0
-    },
-    {
-        "id": "6f1fac4eff",
-        "title_fa": "ترامپ حمله تازه به ایران را مشروط به معامله سریع عقب انداخت",
-        "title_en": "Trump says US will hold off on fresh Iran attack in hope of quick deal",
-        "summary": [
-            "ترامپ می‌گوید آمریکا تا وقتی بتوان «سریع» به توافق رسید، از حمله جدید به ایران عقب می‌نشیند؛ یعنی جنگ‌گزینی تبدیل به اهرم مذاکره شده، نه راه‌حل دائمی.",
-            "ملاک اعلام‌شده او دو محور است: توقف جاه‌طلبی هسته‌ای ایران و باز شدن مسیر برای ازسرگیری تعاملات؛ پس اگر روند توافق کند شود، فشار نظامی می‌تواند دوباره روی میز برگردد."
-        ],
-        "impact": "فعلاً ریسک یک حمله تازه کم می‌شود، اما زمان‌بر نبودن توافق برای واشنگتن شرط اصلی است و هر تأخیر می‌تواند تهدید را فعال کند.",
-        "tag": "ایران",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/iran-threatens-strike-other-nations-energy-fields-if-us-launches-fresh-attacks-2026-08-01/",
-        "clean_url": "https://www.reuters.com/world/asia-pacific/iran-threatens-strike-other-nations-energy-fields-if-us-launches-fresh-attacks-2026-08-01",
-        "image": "http://www.bing.com/th?id=ONUT.IGTSdUXXZ_ZbC_wNmbDNMw&pid=News",
-        "timestamp": 1785669000.0
-    },
-    {
-        "id": "22869fdf7d",
-        "title_fa": "ترامپ اعلان توقف حملات می‌دهد، اما حملات چند ساعت بعد",
-        "title_en": "Trump frequently announces he's halting strikes in Iran. But they keep happening",
-        "summary": [
-            "ترامپ دوباره گفته حملات جدید علیه ایران را فعلاً متوقف می‌کند، اما در همان الگو: تهدیدِ سنگینِ ضربتی اول، سپس عقب‌نشینیِ لفظی و اعلام آتش‌بس در ادامه؛ نتیجه عملی اما برعکس است.",
-            "در این جنگِ پنج‌ماهه، اعلام‌های توقف معمولاً «با حملات دوباره در روزهای بعد یا حتی ساعات بعد» نقض شده؛ یعنی این پیام‌ها بیشتر ابزار فشار و مدیریت زمان‌اند تا کنترل واقعی میدانی.",
-            "محور جدیدِ وعده‌ها هم گفت‌وگو برای «کاهش جنگ» و فعال‌کردن دوباره تردد بار از تنگه هرمز است؛ اما تداوم حملات نشان می‌دهد اولویت عملی هنوز فشار امنیتی/اقتصادی می‌ماند."
-        ],
-        "impact": "این رفت‌وبرگشت پیام تهدید و توقف، ریسک ناامنی و جهش قیمت نفت و کالاهای پایه را زنده نگه می‌دارد و برنامه‌ریزی حمل‌ونقل دریایی را مختل می‌کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Newsday",
-        "url": "https://www.newsday.com/news/nation/trump-iran-war-us-canceled-strikes-f46551",
-        "clean_url": "https://www.newsday.com/news/nation/trump-iran-war-us-canceled-strikes-f46551",
-        "image": "http://www.bing.com/th?id=ONUT.w8lIT9S5nnXy8hHaODeggw&pid=News",
-        "timestamp": 1785661740.0
-    },
-    {
-        "id": "b9a3b83be7",
-        "title_fa": "ترامپ ضربه نظامی لغو کرد؛ ایران و اسرائیل در آماده‌باش",
-        "title_en": "As Trump cites progress on deal to end war, Iran and Israel remain on alert",
-        "summary": [
-            "ترامپ می‌گوید بعد از روشن شدن چارچوب یک توافق برای پایان جنگ، حمله برنامه‌ریزی‌شده آمریکا به ایران را لغو کرده است؛ یعنی تهدید نظامی به ابزار معامله تبدیل شده.",
-            "در متن توافقی که به گفته او مطرح شده، «باز شدن مسیر حیاتی تنگه هرمز» هم دیده می‌شود؛ همین بند می‌تواند هم اهرم فشار اصلی باشد و هم دلیل باقی ماندن تهران و تل‌آویو در حالت آماده‌باش."
-        ],
-        "impact": "لغو حمله باعث افت فشار لحظه‌ای می‌شود، اما چون توافق هنوز قطعی نیست، ریسک درگیری کنترل‌نشده در منطقه بالا می‌ماند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/as-trump-cites-progress-on-deal-to-end-war-iran-and-israel-remain-on-alert/ar-AA29fGA1",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/as-trump-cites-progress-on-deal-to-end-war-iran-and-israel-remain-on-alert/ar-AA29fGA1",
-        "image": "http://www.bing.com/th?id=ONUT.Ar_ZCI0HzWK3AoY0xIXF2A&pid=News",
-        "timestamp": 1785660183.0
     }
 ]
