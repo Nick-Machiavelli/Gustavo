@@ -1411,7 +1411,7 @@ STRICT OUTPUT JSON:
                 source = esc(item.get('source', 'نامشخص'))
 
                 # Simple format: Title + Source + Signature
-                caption = f"{title}\n\n📰 منبع: {source}\n\n---\nانقلاب | Shir o Khorshid 🦁🔆"
+                caption = f"{title}\n\n📰 منبع: {source}\n\nانقلاب | Shir o Khorshid 🦁🔆"
 
                 payload = {
                     "chat_id": chat_id,
