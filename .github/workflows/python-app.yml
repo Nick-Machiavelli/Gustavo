@@ -3,7 +3,6 @@ name: Iran Radar Update
 on:
   schedule:
     - cron: '0,30 * * * *' # Runs every 30 minutes
-      timezone: Asia/Tehran
   workflow_dispatch:      # Allows manual run
     inputs:
       manual_url:
