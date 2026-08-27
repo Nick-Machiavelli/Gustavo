@@ -5,7 +5,7 @@ Unlike the GitHub Actions workflow (which runs main.py once per cron tick and
 commits the JSON files back to the repo), Railway runs this as a long-lived
 process:
 
-  - A background thread calls IranNewsRadar().run() on a loop, every
+  - A background thread calls Gustavo().run() on a loop, every
     RUN_INTERVAL_MINUTES (default 5), so new news gets fetched and posted to
     Telegram immediately without waiting on GitHub Actions' cron delay.
   - The main thread runs a tiny HTTP server on $PORT that serves the current
@@ -24,9 +24,9 @@ import threading
 import http.server
 import socketserver
 
-from main import IranNewsRadar, logger
+from main import Gustavo, logger
 
-RUN_INTERVAL_MINUTES = int(os.environ.get("RUN_INTERVAL_MINUTES", "5"))
+RUN_INTERVAL_MINUTES = int(os.environ.get("RUN_INTERVAL_MINUTES", "30"))
 PORT = int(os.environ.get("PORT", "8080"))
 
 
@@ -34,7 +34,7 @@ def run_loop():
     while True:
         try:
             logger.info(">>> Starting scrape/post cycle")
-            IranNewsRadar().run()
+            Gustavo().run()
         except Exception as e:
             logger.error(f"Unhandled error in run cycle: {e}")
         logger.info(f">>> Sleeping {RUN_INTERVAL_MINUTES} minute(s) before next cycle")

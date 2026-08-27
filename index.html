@@ -33,7 +33,7 @@
                             line: '#e2e8f0',
                             muted: '#64748b',
                         },
-                        rasad: {
+                        gustavo: {
                             navy: '#0f172a',
                             darknavy: '#0f172a',
                             red: '#f59e0b',
@@ -104,20 +104,20 @@
         .animate-ticker { animation: ticker-scroll 50s linear infinite; }
         .animate-ticker:hover { animation-play-state: paused; }
 
-        .rasad-kicker {
+        .gustavo-kicker {
             color: #0f172a;
             font-weight: 800;
             font-size: 0.78rem;
             letter-spacing: 0.02em;
         }
 
-        .rasad-card {
+        .gustavo-card {
             background: #ffffff;
             border: 1px solid #e2e8f0;
             border-radius: 16px;
             transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
         }
-        .rasad-card:hover {
+        .gustavo-card:hover {
             box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
             transform: translateY(-2px);
         }
@@ -144,7 +144,7 @@
 
         /* Cards & Containers */
         html.dark .bg-white,
-        html.dark .rasad-card {
+        html.dark .gustavo-card {
             background-color: #111827 !important;
             border-color: #1f293d !important;
             color: #f3f4f6 !important;
@@ -317,7 +317,7 @@
     <!-- HOT TOPICS STRIP — soft amber tint -->
     <div class="bg-amber-50/70 border-b border-amber-100 text-xs py-2.5">
         <div class="max-w-[1450px] mx-auto px-4 flex items-center gap-3 overflow-x-auto scrollbar-hide">
-            <span class="rasad-kicker whitespace-nowrap flex items-center gap-1.5 text-gustavo-ink">
+            <span class="gustavo-kicker whitespace-nowrap flex items-center gap-1.5 text-gustavo-ink">
                 <span class="w-7 h-7 rounded-full bg-gustavo-amber text-white flex items-center justify-center text-[11px]"><i class="fas fa-fire"></i></span> سرخط داغ:
             </span>
             <div class="flex items-center gap-2 text-gustavo-muted whitespace-nowrap font-bold">
@@ -473,7 +473,7 @@
                 <!-- 2. SPECIAL REPORT BANNER (USES special_reports.json) -->
                 <div id="special-report-container" class="gustavo-card p-5 relative overflow-hidden border-t-4 border-t-gustavo-ink">
                     <div class="flex justify-between items-center border-b border-gustavo-line pb-3 mb-3">
-                        <span class="rasad-kicker flex items-center gap-1.5 text-gustavo-ink">
+                        <span class="gustavo-kicker flex items-center gap-1.5 text-gustavo-ink">
                             <i class="fas fa-sparkles text-gustavo-amber"></i> پرونده ویژه — تحلیل اختصاصی
                         </span>
                         <span id="special-tag-badge" class="text-xs font-bold px-3 py-1 bg-gustavo-ink text-white rounded-full">
@@ -530,7 +530,7 @@
                 <!-- 1. SCHEDULED EDITION BULLETIN WIDGET (USES bulletins.json) -->
                 <div class="gustavo-card p-4 ">
                     <div class="flex justify-between items-center border-b border-gustavo-line pb-2 mb-3">
-                        <h3 class="rasad-kicker flex items-center gap-1.5">
+                        <h3 class="gustavo-kicker flex items-center gap-1.5">
                             <i class="fas fa-clock text-gustavo-amber"></i> بولتن‌های نوبتی
                         </h3>
                         <span id="bulletin-time-badge" class="text-[10px] font-mono text-gray-400">---</span>
@@ -551,7 +551,7 @@
                         </div>
 
                         <div class="absolute bottom-3 right-3 left-3">
-                            <p class="text-xs font-bold text-white leading-tight">اتاق تحلیل و رصد هوشمند پدافندی</p>
+                            <p class="text-xs font-bold text-white leading-tight">اتاق تحلیل و پایش هوشمند پدافندی</p>
                             <p class="text-[10px] text-gray-400 mt-1 font-mono">وضعیت سیستم: آنلاین</p>
                         </div>
                     </div>
@@ -564,10 +564,10 @@
                 <!-- ═══════════════ REGIONAL RADAR TARGET BOX ═══════════════ -->
                 <div class="gustavo-card p-4 bg-gustavo-ink text-white border-t-4 border-t-gustavo-amber">
                     <div class="flex justify-between items-center border-b border-white/10 pb-2 mb-3">
-                        <span class="rasad-kicker text-amber-400 flex items-center gap-1.5 text-xs">
-                            <i class="fas fa-radar animate-spin text-gustavo-amber"></i> پایش جغرافیایی کانون‌های بحران
+                        <span class="gustavo-kicker text-amber-400 flex items-center gap-1.5 text-xs">
+                            <i class="fas fa-broadcast-tower animate-spin text-gustavo-amber"></i> پایش جغرافیایی کانون‌های بحران
                         </span>
-                        <span class="text-[9px] font-mono bg-gustavo-amber px-1.5 py-0.5 rounded text-white">LIVE RADAR</span>
+                        <span class="text-[9px] font-mono bg-gustavo-amber px-1.5 py-0.5 rounded text-white">LIVE GUSTAVO</span>
                     </div>
 
                     <!-- Interactive Tactical Map Grid -->
@@ -594,7 +594,7 @@
                 <!-- 3. URGENCY THREAT GAUGE PANEL -->
                 <div class="gustavo-card p-5">
                     <div class="flex items-center justify-between border-b border-gray-200 pb-3 mb-3">
-                        <span class="rasad-kicker flex items-center gap-1.5"><i class="fas fa-shield-alt"></i> شاخص فوریت امنیتی</span>
+                        <span class="gustavo-kicker flex items-center gap-1.5"><i class="fas fa-shield-alt"></i> شاخص فوریت امنیتی</span>
                         <span id="tension-percent" class="text-2xl font-black font-brand text-gustavo-amber">0%</span>
                     </div>
 
@@ -605,7 +605,7 @@
                         </div>
                         
                         <div class="h-3 bg-gray-200 rounded-full overflow-hidden p-0.5 border border-gray-300">
-                            <div id="tension-fill" class="h-full bg-gradient-to-r from-green-500 via-yellow-500 to-rasad-red w-0 transition-all duration-1000"></div>
+                            <div id="tension-fill" class="h-full bg-gradient-to-r from-green-500 via-yellow-500 to-gustavo-red w-0 transition-all duration-1000"></div>
                         </div>
 
                         <div class="flex justify-between text-[10px] text-gray-500 font-mono">
@@ -618,7 +618,7 @@
 
                 <!-- 4. GEOPOLITICAL REGIONAL FLASHPOINTS -->
                 <div class="gustavo-card p-4 ">
-                    <h3 class="rasad-kicker border-b border-gustavo-line pb-2 mb-3 flex items-center gap-2">
+                    <h3 class="gustavo-kicker border-b border-gustavo-line pb-2 mb-3 flex items-center gap-2">
                         <i class="fas fa-map-marker-alt"></i> کانون‌های تنش منطقه‌ای
                     </h3>
 
@@ -640,8 +640,8 @@
 
                 <!-- 5. STATS SUMMARY (24H FILTERED) -->
                 <div class="gustavo-card p-4 ">
-                    <h3 class="rasad-kicker border-b border-gustavo-line pb-2 mb-3 flex items-center gap-2">
-                        <i class="fas fa-chart-pie"></i> آمار رصد ۲۴ ساعت اخیر
+                    <h3 class="gustavo-kicker border-b border-gustavo-line pb-2 mb-3 flex items-center gap-2">
+                        <i class="fas fa-chart-pie"></i> آمار گوستاوو ۲۴ ساعت اخیر
                     </h3>
                     <div class="grid grid-cols-2 gap-3 text-center">
                         <div class="p-3 bg-gustavo-surface rounded-xl border border-gray-200">
@@ -657,7 +657,7 @@
 
                 <!-- 6. INTEL MONITORING TOOLS -->
                 <div class="gustavo-card p-4 ">
-                    <h3 class="rasad-kicker border-b border-gustavo-line pb-2 mb-3 flex items-center gap-2">
+                    <h3 class="gustavo-kicker border-b border-gustavo-line pb-2 mb-3 flex items-center gap-2">
                         <i class="fas fa-satellite text-gustavo-ink"></i> ابزارهای پایش ماهواره‌ای
                     </h3>
                     
@@ -874,15 +874,15 @@ function getTagConfig(rawTag) {
     if (['nuclear', 'اتمی'].includes(tag)) tag = 'هسته‌ای';
 
     const configs = {
-        'تشدید': { kicker: 'خبر فوری / تشدید تنش', icon: 'fa-bolt', badgeBg: 'bg-red-100 text-gustavo-amber border-red-300', border: 'border-r-rasad-red' },
+        'تشدید': { kicker: 'خبر فوری / تشدید تنش', icon: 'fa-bolt', badgeBg: 'bg-red-100 text-gustavo-amber border-red-300', border: 'border-r-gustavo-red' },
         'نیابتی': { kicker: 'تحرکات منطقه‌ای / نیابتی', icon: 'fa-user-shield', badgeBg: 'bg-orange-100 text-orange-700 border-orange-300', border: 'border-r-orange-600' },
-        'نظامی': { kicker: 'اقدام نظامی / دفاعی', icon: 'fa-crosshairs', badgeBg: 'bg-red-50 text-gustavo-amber border-red-200', border: 'border-r-rasad-red' },
+        'نظامی': { kicker: 'اقدام نظامی / دفاعی', icon: 'fa-crosshairs', badgeBg: 'bg-red-50 text-gustavo-amber border-red-200', border: 'border-r-gustavo-red' },
         'هسته‌ای': { kicker: 'پرونده هسته‌ای', icon: 'fa-radiation', badgeBg: 'bg-amber-100 text-amber-800 border-amber-300', border: 'border-r-amber-500' },
         'اقتصادی': { kicker: 'بازار و تحریم‌ها', icon: 'fa-chart-line', badgeBg: 'bg-green-100 text-green-800 border-green-300', border: 'border-r-green-600' },
-        'سیاسی': { kicker: 'تحولات سیاسی', icon: 'fa-landmark', badgeBg: 'bg-blue-50 text-gustavo-ink border-blue-200', border: 'border-r-rasad-navy' },
+        'سیاسی': { kicker: 'تحولات سیاسی', icon: 'fa-landmark', badgeBg: 'bg-blue-50 text-gustavo-ink border-blue-200', border: 'border-r-gustavo-ink' },
         'دیپلماسی': { kicker: 'روابط بین‌الملل', icon: 'fa-globe-americas', badgeBg: 'bg-sky-100 text-sky-800 border-sky-300', border: 'border-r-blue-500' }
     };
-    return configs[tag] || { kicker: rawTag || 'گزارش رصد', icon: 'fa-newspaper', badgeBg: 'bg-gray-100 text-gray-700 border-gray-300', border: 'border-r-rasad-navy' };
+    return configs[tag] || { kicker: rawTag || 'گزارش گوستاوو', icon: 'fa-newspaper', badgeBg: 'bg-gray-100 text-gray-700 border-gray-300', border: 'border-r-gustavo-ink' };
 }
 
 /* ═══════════════════════════════════════════════════
@@ -1003,7 +1003,7 @@ function renderSingleArticlePage(item) {
                 <button onclick="showHomeView()" class="px-4 py-2 bg-gustavo-ink text-white text-xs font-bold rounded-xl hover:bg-gustavo-amber transition-colors flex items-center gap-2">
                     <i class="fas fa-arrow-right"></i> بازگشت به صفحه اصلی
                 </button>
-                <span class="rasad-kicker"><i class="fas ${tagConfig.icon}"></i> ${tagConfig.kicker}</span>
+                <span class="gustavo-kicker"><i class="fas ${tagConfig.icon}"></i> ${tagConfig.kicker}</span>
             </div>
 
             <h1 class="text-2xl md:text-3xl font-black text-gustavo-ink leading-tight">${item.title_fa}</h1>
@@ -1068,7 +1068,7 @@ function openDailySummaryModal() {
     content.innerHTML = `
         <div class="border-b border-gray-200 pb-3 mb-4 flex justify-between items-center">
             <div>
-                <span class="rasad-kicker"><i class="fas fa-file-alt"></i> ارزیابی راهبردی ویژه روزانه</span>
+                <span class="gustavo-kicker"><i class="fas fa-file-alt"></i> ارزیابی راهبردی ویژه روزانه</span>
                 <h2 class="text-lg font-bold text-gustavo-ink mt-1">${d.executive_tldr || 'گزارش تحلیلی'}</h2>
             </div>
             <span class="text-xs font-mono font-bold px-3 py-1 bg-red-100 text-gustavo-amber rounded-xl">سطح ریسک: ${d.risk_level || '8'}/10</span>
@@ -1229,7 +1229,7 @@ function renderHeroLead() {
 
             <div class="md:col-span-5 flex flex-col justify-between space-y-3">
                 <div>
-                    <span class="rasad-kicker flex items-center gap-1.5 mb-1 text-[11px]">
+                    <span class="gustavo-kicker flex items-center gap-1.5 mb-1 text-[11px]">
                         <i class="fas ${mainTagConfig.icon}"></i> ${mainTagConfig.kicker}
                     </span>
                     <h2 class="text-lg sm:text-xl md:text-2xl font-black text-gustavo-ink leading-snug hover:text-gustavo-amber transition-colors cursor-pointer">
@@ -1269,7 +1269,7 @@ function renderHeroLead() {
                 </a>
                 <div class="flex-grow flex flex-col justify-between">
                     <div>
-                        <span class="rasad-kicker text-[9px] sm:text-[10px] block mb-0.5">${secConfig.kicker}</span>
+                        <span class="gustavo-kicker text-[9px] sm:text-[10px] block mb-0.5">${secConfig.kicker}</span>
                         <h3 class="text-xs font-bold text-gustavo-ink hover:text-gustavo-amber transition-colors leading-tight line-clamp-2 cursor-pointer">
                             <a href="?id=${sec.id || ''}" onclick="event.preventDefault(); openArticleById('${sec.id || ''}');">${sec.title_fa}</a>
                         </h3>
@@ -1392,7 +1392,7 @@ function renderFeed() {
         }
 
         html += `
-        <article class="rasad-card p-3 sm:p-5 rounded-xl shadow-sm relative border-r-4 ${tagConfig.border} mb-3 sm:mb-4">
+        <article class="gustavo-card p-3 sm:p-5 rounded-xl shadow-sm relative border-r-4 ${tagConfig.border} mb-3 sm:mb-4">
             <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                 <div class="w-full sm:w-48 h-44 sm:h-32 flex-shrink-0 rounded-xl overflow-hidden border border-gray-200 bg-gustavo-surface">
                     <img src="${imgURL}" alt="Photo" class="w-full h-full object-cover" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80'">
@@ -1402,7 +1402,7 @@ function renderFeed() {
                     <div>
                         <div class="flex justify-between items-start gap-2 mb-1.5 flex-wrap xs:flex-nowrap">
                             <div class="flex items-center gap-1.5">
-                                <span class="rasad-kicker flex items-center gap-1 text-[10px] sm:text-xs"><i class="fas ${tagConfig.icon}"></i> ${tagConfig.kicker}</span>
+                                <span class="gustavo-kicker flex items-center gap-1 text-[10px] sm:text-xs"><i class="fas ${tagConfig.icon}"></i> ${tagConfig.kicker}</span>
                                 <span class="text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded-xl border ${tagConfig.badgeBg}">${item.tag}</span>
                             </div>
                             <div class="text-[10px] sm:text-[11px] text-gray-400 font-mono flex items-center gap-1.5">
@@ -1617,10 +1617,10 @@ function renderDashboardView() {
             <!-- Dashboard Header -->
             <div class="bg-gustavo-ink text-white p-6 rounded-xl border-t-4 border-gustavo-amber shadow-md flex justify-between items-center flex-wrap gap-4">
                 <div>
-                    <span class="rasad-kicker text-amber-400"><i class="fas fa-broadcast-tower animate-pulse"></i> اتاق وضعیت و پایش آنلاین</span>
+                    <span class="gustavo-kicker text-amber-400"><i class="fas fa-broadcast-tower animate-pulse"></i> اتاق وضعیت و پایش آنلاین</span>
                     <h2 class="text-xl font-black mt-1">پایش زنده وضعیت امنیت ملی و بازارها</h2>
                 </div>
-                <button onclick="switchTab('news')" class="px-4 py-2 bg-gustavo-amber text-white text-xs font-bold rounded-xl hover:bg-rasad-brightred transition-colors flex items-center gap-2">
+                <button onclick="switchTab('news')" class="px-4 py-2 bg-gustavo-amber text-white text-xs font-bold rounded-xl hover:bg-gustavo-brightred transition-colors flex items-center gap-2">
                     <i class="fas fa-arrow-right"></i> بازگشت به پخش اخبار
                 </button>
             </div>
@@ -1628,19 +1628,19 @@ function renderDashboardView() {
             <!-- Operational Grid -->
             <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
                 <div class="bg-white dark:bg-gray-800 p-5 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm">
-                    <h3 class="rasad-kicker mb-2"><i class="fas fa-layer-group"></i> کل گزارش‌ها</h3>
+                    <h3 class="gustavo-kicker mb-2"><i class="fas fa-layer-group"></i> کل گزارش‌ها</h3>
                     <span class="text-3xl font-black font-brand text-gustavo-ink dark:text-white">${newsData.length}</span>
-                    <p class="text-xs text-gray-500 mt-1">پردازش شده در شبکه رصد</p>
+                    <p class="text-xs text-gray-500 mt-1">پردازش شده در شبکه گوستاوو</p>
                 </div>
 
                 <div class="bg-white dark:bg-gray-800 p-5 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm">
-                    <h3 class="rasad-kicker text-gustavo-amber mb-2"><i class="fas fa-bolt"></i> اخبار فوری و اضطراری</h3>
+                    <h3 class="gustavo-kicker text-gustavo-amber mb-2"><i class="fas fa-bolt"></i> اخبار فوری و اضطراری</h3>
                     <span class="text-3xl font-black font-brand text-gustavo-amber">${newsData.filter(n => n.urgency >= 7).length}</span>
                     <p class="text-xs text-gray-500 mt-1">نیازمند اقدام فوری</p>
                 </div>
 
                 <div class="bg-white dark:bg-gray-800 p-5 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm">
-                    <h3 class="rasad-kicker text-amber-600 mb-2"><i class="fas fa-university"></i> منابع فعال خبری</h3>
+                    <h3 class="gustavo-kicker text-amber-600 mb-2"><i class="fas fa-university"></i> منابع فعال خبری</h3>
                     <span class="text-3xl font-black font-brand text-amber-600">${Object.keys(sources).length}</span>
                     <p class="text-xs text-gray-500 mt-1">خبرگزاری متصل</p>
                 </div>
@@ -1648,7 +1648,7 @@ function renderDashboardView() {
 
             <!-- Distribution by News Sources -->
             <div class="bg-white dark:bg-gray-800 p-5 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm">
-                <h3 class="rasad-kicker mb-4 flex items-center gap-2"><i class="fas fa-newspaper"></i> تفکیک اخبار بر اساس خبرگزاری و منبع</h3>
+                <h3 class="gustavo-kicker mb-4 flex items-center gap-2"><i class="fas fa-newspaper"></i> تفکیک اخبار بر اساس خبرگزاری و منبع</h3>
                 <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
                     ${sourcesHTML}
                 </div>
@@ -1821,7 +1821,7 @@ setInterval(loadData, 30000);
         <!-- Drawer Header Handle -->
         <div class="flex justify-between items-center border-b border-gray-200 pb-3">
             <div class="w-12 h-1 bg-gray-300 rounded-full mx-auto absolute left-1/2 -translate-x-1/2 top-2"></div>
-            <h3 class="rasad-kicker flex items-center gap-2 text-sm">
+            <h3 class="gustavo-kicker flex items-center gap-2 text-sm">
                 <i class="fas fa-satellite text-gustavo-ink"></i> ابزارهای پایش و کانون‌های تنش
             </h3>
             <button onclick="toggleMobileDrawer()" class="text-gray-400 hover:text-gustavo-amber text-lg p-1"><i class="fas fa-times"></i></button>
@@ -1851,7 +1851,7 @@ setInterval(loadData, 30000);
         <!-- 2. Satellite Tools Grid on Mobile -->
         <div>
             <h4 class="font-bold text-xs text-gustavo-ink mb-2 flex items-center gap-1.5">
-                <i class="fas fa-globe text-gustavo-ink"></i> سامانه رادارهای رصد زنده
+                <i class="fas fa-globe text-gustavo-ink"></i> سامانه پایش لحظه‌ای
             </h4>
             <div class="grid grid-cols-2 gap-2 text-xs">
                 <a href="https://firms.modaps.eosdis.nasa.gov/" target="_blank" class="p-3 bg-gustavo-surface rounded-xl border border-gray-200 flex items-center gap-2 font-bold text-gustavo-ink">

@@ -1,4 +1,4 @@
-name: Iran Radar Update
+name: Gustavo News Update
 
 on:
   push:
@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: iran-radar-update
+  group: gustavo-update
   cancel-in-progress: false
 
 jobs:
@@ -61,7 +61,7 @@ jobs:
           BASE_SITE_URL: ${{ secrets.BASE_SITE_URL }}
           MANUAL_URL: ${{ inputs.manual_url }}
         run: |
-          echo "=== Running Gustavo radar ==="
+          echo "=== Running Gustavo news radar ==="
           python main.py 2>&1 | tee /tmp/gustavo_run.log
           echo "=== Run exit code: ${PIPESTATUS[0]} ==="
           # Always archive the log as a workflow artifact for debugging
@@ -78,7 +78,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config user.name "IranRadarBot"
+          git config user.name "GustavoBot"
           git config user.email "bot@noreply.github.com"
 
           # Track all JSON outputs including schedule state (persists dedup/schedule across ephemeral runners)

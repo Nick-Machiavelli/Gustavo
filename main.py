@@ -96,7 +96,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger()
 
 
-class IranNewsRadar:
+class Gustavo:
     def __init__(self):
         self.scraper = cloudscraper.create_scraper(
             browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False}
@@ -1653,7 +1653,7 @@ STRICT OUTPUT JSON:
     # ───────────────────────── main run ─────────────────────────
 
     def run(self):
-        logger.info(">>> Radar Started (optimized search + extract + photos)...")
+        logger.info(">>> Gustavo radar started (optimized search + extract + photos)...")
 
         with open(CONFIG['FILES']['MARKET'], 'w', encoding='utf-8') as f:
             json.dump(self.fetch_market_rates(), f, ensure_ascii=False)
@@ -1938,4 +1938,4 @@ STRICT OUTPUT JSON:
 
 
 if __name__ == "__main__":
-    IranNewsRadar().run()
+    Gustavo().run()
