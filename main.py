@@ -387,20 +387,75 @@ class IranNewsRadar:
         return True
 
     def _get_fallback_image(self, text_or_tag):
+        # Diverse pool per topic — hash picks one to avoid all same-tag same-image duplicates
+        pools = {
+            'sea': [
+                'https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80',
+            ],
+            'military': [
+                'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80',
+            ],
+            'nuclear': [
+                'https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80',
+            ],
+            'economy': [
+                'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=800&q=80',
+            ],
+            'diplomacy': [
+                'https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1531973576160-7125cd663d86?auto=format&fit=crop&w=800&q=80',
+            ],
+            'proxy': [
+                'https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80',
+            ],
+            'generic': [
+                'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80',
+                'https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80',
+            ],
+        }
         t = str(text_or_tag).lower()
-        if any(w in t for w in ['ship', 'navy', 'sea', 'strait', 'hormuz', 'دریایی', 'کشتی', 'خلیج']):
-            return 'https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80'
-        if any(w in t for w in ['missile', 'strike', 'war', 'army', 'military', 'نظامی', 'موشک', 'پهپاد', 'حمله']):
-            return 'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80'
-        if any(w in t for w in ['nuclear', 'atomic', 'iaea', 'هسته‌ای', 'غنی‌سازی']):
-            return 'https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80'
-        if any(w in t for w in ['currency', 'dollar', 'economy', 'تومان', 'دلار', 'تحریم', 'ارز']):
-            return 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80'
-        return 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80'
+        if any(w in t for w in ['ship', 'navy', 'sea', 'strait', 'hormuz', 'دریایی', 'کشتی', 'خلیج', 'ناو']):
+            key = 'sea'
+        elif any(w in t for w in ['missile', 'strike', 'war', 'army', 'military', 'نظامی', 'موشک', 'پهپاد', 'حمله', 'ارتش']):
+            key = 'military'
+        elif any(w in t for w in ['nuclear', 'atomic', 'iaea', 'هسته‌ای', 'غنی‌سازی', 'اتمی']):
+            key = 'nuclear'
+        elif any(w in t for w in ['currency', 'dollar', 'economy', 'تومان', 'دلار', 'تحریم', 'ارز', 'اقتصاد', 'نفت', 'بازار']):
+            key = 'economy'
+        elif any(w in t for w in ['diplomacy', 'دیپلماسی', 'مذاکره', 'سیاسی', 'وزیر', 'سفیر', 'ترامپ', 'پهپاد']):
+            # more specific: trump/politics vs economy already handled
+            if any(w in t for w in ['تحریم', 'ارز', 'اقتصاد']): key = 'economy'
+            else: key = 'diplomacy'
+        elif any(w in t for w in ['نیابتی', 'مقاومت', 'حزب‌الله', 'حوثی', 'محور']):
+            key = 'proxy'
+        else:
+            key = 'generic'
+        pool = pools[key]
+        # hash-based pick for diversity within same tag
+        h = int(hashlib.md5(str(text_or_tag).encode('utf-8')).hexdigest(), 16)
+        return pool[h % len(pool)]
 
     def _pick_image(self, *candidates, fallback_text=''):
         for c in candidates:
             if self._is_valid_image_url(c):
+                # reject tiny bing thumbnails that often are irrelevant (w<200 style)
+                if 'bing.com/th?id=' in c and 'w=100' in c:
+                    continue
                 return c
         return self._get_fallback_image(fallback_text)
 
