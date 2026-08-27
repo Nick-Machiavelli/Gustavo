@@ -465,6 +465,20 @@ class IranNewsRadar:
         h = int(hashlib.md5(str(text_or_tag).encode('utf-8')).hexdigest(), 16)
         return pool[h % len(pool)]
 
+    def _is_safe_url(self, url):
+        """Validate a URL is well-formed and uses http/https scheme.
+        Used to gate source-article links in Telegram posts so a malformed
+        URL (e.g. 'None', empty, or javascript:) never breaks the link in the
+        caption, which previously raised NameError because the symbol was
+        referenced but never defined."""
+        if not url or not isinstance(url, str):
+            return False
+        url = url.strip()
+        if url.lower().startswith(('javascript:', 'data:', 'mailto:')):
+            return False
+        parsed = urlparse(url)
+        return parsed.scheme in ('http', 'https') and bool(parsed.netloc)
+
     def _pick_image(self, *candidates, fallback_text=''):
         for c in candidates:
             if self._is_valid_image_url(c):
@@ -1395,15 +1409,16 @@ STRICT OUTPUT JSON:
             title = esc(item.get('title_fa') or item.get('title_en'))
             source = esc(item.get('source', 'Unknown'))
             impact = esc(item.get('impact', ''))
-            urgency = item.get('urgency', 3)
+            raw_urgency = item.get('urgency', 3)
+            try:
+                urgency = int(raw_urgency)
+            except (TypeError, ValueError):
+                urgency = 3
             icon = "🔥" if urgency >= 9 else ("🚨" if urgency >= 7 else "🔹")
 
             news_id = item.get('id', '')
             deep = f"{base_site}?id={news_id}" if news_id else base_site
             src_url = item.get('url') or ''
-            news_id = item.get('id', '')
-            fallback_url = f"{base_site}?id={news_id}" if news_id else f"{base_site}?id={hashlib.md5(str(src_url).encode()).hexdigest()[:8]}"
-
             summary_raw = item.get('summary', [])
             if isinstance(summary_raw, str):
                 summary_raw = [summary_raw]
@@ -1471,7 +1486,10 @@ STRICT OUTPUT JSON:
                     logger.info(f"Posted to Telegram: {item.get('title_en', '')[:60]}")
                 else:
                     # Retry once with fallback URL (fixes HTML parse errors / bad URLs)
-                    safe_id = item.get('id') or hashlib.md5(str(src_url).encode()).hexdigest()[:8]
+                    # Always use a safe dashboard deep-link in the fallback retry
+                    # so an original src_url that is empty/null/javascript: or
+                    # that breaks HTML parse_mode never appears in the caption.
+                    safe_id = item.get('id') or hashlib.md5(str(src_url or '').encode()).hexdigest()[:8]
                     safe_link = f"{base_site}?id={safe_id}"
                     retry_inline = {
                         "inline_keyboard": [[
@@ -1479,7 +1497,13 @@ STRICT OUTPUT JSON:
                             {"text": "📊 داشبورد", "url": deep},
                         ]]
                     }
-                    caption_fb = body.replace(f"<a href=\"{esc(src_url)}\">مشاهده خبر اصلی</a>", f"<a href=\"{esc(safe_link)}\">مشاهده خبر اصلی</a>") if src_url else body
+                    # Force-replace any original-article link with the safe dashboard link
+                    caption_fb = body
+                    if src_url and self._is_safe_url(src_url):
+                        caption_fb = caption.replace(f'<a href="{esc(src_url)}">مشاهده خبر اصلی</a>', f'<a href="{esc(safe_link)}">مشاهده خبر اصلی</a>')
+                    else:
+                        # remove any stale original-article link line that referenced an unsafe/empty url
+                        caption_fb = re.sub(r'<a href="[^"]*">مشاهده خبر اصلی</a>', f'<a href="{esc(safe_link)}">مشاهده خبر اصلی</a>', caption)
                     retry_payload = {
                         "chat_id": chat_id,
                         "text": caption_fb,
@@ -1581,6 +1605,8 @@ STRICT OUTPUT JSON:
             data = self._proofread_item(data)
             self._atomic_json_dump('bulletins.json', data)
             logger.info(f">>> Scheduled Bulletin ({edition_title}) generated successfully.")
+        else:
+            logger.warning(f"Scheduled Bulletin ({edition_title}) could not be generated (AI returned no result — AI_API_KEY likely missing).")
         return data
 
     def generate_special_topic_report(self):
