@@ -1788,36 +1788,38 @@ STRICT OUTPUT JSON:
                         'urgency': self._cheap_urgency_hint(item['headline'], item['source']),
                         'sentiment': 0,
                     }
-                    try:
-                        urgency_val = int(ai.get('urgency', 3))
-                    except Exception:
-                        urgency_val = 3
-                    try:
-                        ts = parser.parse(item['cand'].get('published date')).timestamp()
-                    except Exception:
-                        ts = time.time()
+                try:
+                    urgency_val = int(ai.get('urgency', 3))
+                except (TypeError, ValueError):
+                    urgency_val = 3
+                try:
+                    ts = parser.parse(item['cand'].get('published date')).timestamp()
+                except Exception:
+                    ts = time.time()
 
-                    photo_url = self._pick_image(item['photo'], item['cand'].get('image'), fallback_text=item['headline'])
-                    news_id = self._generate_news_id(item['clean_url'])
+                photo_url = self._pick_image(item['photo'], item['cand'].get('image'), fallback_text=item['headline'])
+                news_id = self._generate_news_id(item['clean_url'])
 
-                    res = self._proofread_item({
-                        "id": news_id,
-                        "title_fa": ai.get('title_fa', item['headline']),
-                        "title_en": item['headline'],
-                        "summary": ai.get('summary', [item['snippet']]),
-                        "impact": ai.get('impact', '...'),
-                        "tag": ai.get('tag', 'General'),
-                        "urgency": urgency_val,
-                        "sentiment": ai.get('sentiment', 0),
-                        "source": item['source'],
-                        "url": item['url'],
-                        "clean_url": item['clean_url'],
-                        "image": photo_url,
-                        "timestamp": ts
-                    })
-                    new_processed_items.append(res)
-                    self.seen_urls.add(res['clean_url'])
-                    self.recent_title_hashes.add(self._title_hash(res.get('title_en', '')))
+                res = self._proofread_item({
+                    "id": news_id,
+                    "title_fa": ai.get('title_fa', item['headline']),
+                    "title_en": item['headline'],
+                    "summary": ai.get('summary', [item['snippet']]),
+                    "impact": ai.get('impact', '...'),
+                    "tag": ai.get('tag', 'General'),
+                    "urgency": urgency_val,
+                    "sentiment": ai.get('sentiment', 0),
+                    "source": item['source'],
+                    "url": item['url'],
+                    "clean_url": item['clean_url'],
+                    "image": photo_url,
+                    "timestamp": ts
+                })
+                new_processed_items.append(res)
+                self.seen_urls.add(res['clean_url'])
+                self.recent_title_hashes.add(self._title_hash(res.get('title_en', '')))
+                logger.info(f"   Built processed item index={item['index']} -> {res.get('title_en','')[:50]}")
+            logger.info(f"Total processed items queued for dispatch: {len(new_processed_items)}")
 
         if new_processed_items:
             self.existing_news = self.save_news(new_processed_items)
