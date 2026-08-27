@@ -305,6 +305,10 @@
                     <button onclick="showHomeView(); filterFeed('هسته‌ای', this)" class="gustavo-pill bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white transition-colors whitespace-nowrap">پرونده هسته‌ای</button>
                     <button onclick="showHomeView(); filterFeed('اقتصادی', this)" class="gustavo-pill bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white transition-colors whitespace-nowrap">بازار و تحریم</button>
                     <button onclick="showHomeView(); filterFeed('سیاسی', this)" class="gustavo-pill bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white transition-colors whitespace-nowrap">دیپلماسی</button>
+                    <span class="w-px h-6 bg-gustavo-line mx-1 hidden sm:block"></span>
+                    <button onclick="showMarketView('crypto')" id="tab-crypto" class="gustavo-pill bg-amber-50 text-gustavo-ink border-amber-200 hover:bg-gustavo-amber hover:text-white transition-colors whitespace-nowrap"><i class="fab fa-bitcoin"></i> رمزارز</button>
+                    <button onclick="showMarketView('forex')" id="tab-forex" class="gustavo-pill bg-emerald-50 text-gustavo-ink border-emerald-200 hover:bg-emerald-600 hover:text-white transition-colors whitespace-nowrap"><i class="fas fa-dollar-sign"></i> ارز</button>
+                    <button onclick="showMarketView('oil')" id="tab-oil" class="gustavo-pill bg-slate-800 text-white border-slate-700 hover:bg-black transition-colors whitespace-nowrap"><i class="fas fa-oil-can"></i> نفت</button>
                 </div>
             </div>
         </nav>
@@ -335,11 +339,17 @@
                 <i class="fas fa-chart-line"></i> <span class="hidden xs:inline">بازار</span>
             </div>
             <div class="flex items-center gap-4 sm:gap-6 px-3 overflow-x-auto scrollbar-hide font-mono text-[11px] sm:text-xs w-full whitespace-nowrap">
-                <div>USD/TMN: <span id="price-usd" class="font-bold text-emerald-300">در حال دریافت...</span></div>
+                <div>USD: <span id="price-usd" class="font-bold text-emerald-300">...</span> <span class="text-white/50">تومان</span></div>
                 <div class="text-white/20">|</div>
-                <div>BTC/USD: <span id="price-btc" class="font-bold text-amber-300">...</span></div>
+                <div>EUR: <span id="price-eur" class="font-bold text-sky-300">...</span> <span class="text-white/50">تومان</span></div>
                 <div class="text-white/20">|</div>
-                <div>USDT: <span id="price-usdt" class="font-bold text-cyan-300">...</span></div>
+                <div>BTC: <span id="price-btc" class="font-bold text-amber-300">...</span>$ <span id="price-btc-tmn" class="text-amber-200">(... تومان)</span></div>
+                <div class="text-white/20">|</div>
+                <div>ETH: <span id="price-eth" class="font-bold text-violet-300">...</span>$</div>
+                <div class="text-white/20">|</div>
+                <div>Brent: <span id="price-brent" class="font-bold text-orange-300">...</span>$ <span id="price-brent-tmn" class="text-orange-200">(... تومان)</span></div>
+                <div class="text-white/20">|</div>
+                <div>USDT: <span id="price-usdt" class="font-bold text-cyan-300">...</span>$</div>
             </div>
         </div>
     </div>
@@ -353,6 +363,72 @@
             </div>
             <div id="ticker-content" class="flex whitespace-nowrap animate-ticker text-xs font-medium text-gustavo-ink">
                 <span class="px-8 text-gray-500">در حال دریافت آخرین خبرها...</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- MARKET PANELS -->
+    <div id="market-panels" class="max-w-[1450px] mx-auto px-4 pt-4 hidden">
+        <div id="panel-crypto" class="hidden gustavo-card p-5">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="font-black text-gustavo-ink flex items-center gap-2"><span class="w-8 h-8 rounded-xl bg-amber-100 text-gustavo-amber flex items-center justify-center"><i class="fab fa-bitcoin"></i></span> رمزارز — قیمت به دلار و تومان</h2>
+                <button onclick="hideMarketPanels()" class="w-8 h-8 rounded-full bg-gustavo-surface border border-gustavo-line flex items-center justify-center hover:bg-gustavo-line"><i class="fas fa-xmark text-xs"></i></button>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 text-sm" id="crypto-grid">
+                <div class="rounded-2xl border border-amber-200 bg-amber-50 p-4">
+                    <div class="text-gustavo-muted text-xs font-bold mb-1">بیت‌کوین (BTC)</div>
+                    <div class="font-black text-lg"><span id="c-btc-usd">—</span> <span class="text-xs font-normal text-gustavo-muted">$</span></div>
+                    <div class="font-bold text-gustavo-amber text-sm mt-1"><span id="c-btc-tmn">—</span> تومان</div>
+                </div>
+                <div class="rounded-2xl border border-violet-200 bg-violet-50 p-4">
+                    <div class="text-gustavo-muted text-xs font-bold mb-1">اتریوم (ETH)</div>
+                    <div class="font-black text-lg"><span id="c-eth-usd">—</span> <span class="text-xs font-normal text-gustavo-muted">$</span></div>
+                    <div class="font-bold text-violet-600 text-sm mt-1"><span id="c-eth-tmn">—</span> تومان</div>
+                </div>
+                <div class="rounded-2xl border border-cyan-200 bg-cyan-50 p-4">
+                    <div class="text-gustavo-muted text-xs font-bold mb-1">تتر (USDT)</div>
+                    <div class="font-black text-lg"><span id="c-usdt-usd">—</span> <span class="text-xs font-normal text-gustavo-muted">$</span></div>
+                    <div class="font-bold text-cyan-600 text-sm mt-1"><span id="c-usdt-tmn">—</span> تومان</div>
+                </div>
+            </div>
+            <p class="text-[11px] text-gustavo-muted mt-3">نرخ تومان = قیمت دلاری × نرخ دلار بازار آزاد — بروزرسانی هر ۳۰ دقیقه</p>
+        </div>
+        <div id="panel-forex" class="hidden gustavo-card p-5">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="font-black text-gustavo-ink flex items-center gap-2"><span class="w-8 h-8 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center"><i class="fas fa-coins"></i></span> بازار ارز — تومان</h2>
+                <button onclick="hideMarketPanels()" class="w-8 h-8 rounded-full bg-gustavo-surface border border-gustavo-line flex items-center justify-center hover:bg-gustavo-line"><i class="fas fa-xmark text-xs"></i></button>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 text-sm">
+                <div class="rounded-2xl border border-emerald-200 bg-emerald-50 p-4 flex justify-between items-center">
+                    <div><div class="text-xs text-gustavo-muted font-bold">دلار آمریکا</div><div class="text-[11px] text-gustavo-muted">USD</div></div>
+                    <div class="text-left"><div class="font-black text-gustavo-ink"><span id="c-usd">—</span> <span class="text-xs font-normal">تومان</span></div><div class="text-[11px] text-emerald-600">بازار آزاد</div></div>
+                </div>
+                <div class="rounded-2xl border border-sky-200 bg-sky-50 p-4 flex justify-between items-center">
+                    <div><div class="text-xs text-gustavo-muted font-bold">یورو</div><div class="text-[11px] text-gustavo-muted">EUR</div></div>
+                    <div class="text-left"><div class="font-black text-gustavo-ink"><span id="c-eur">—</span> <span class="text-xs font-normal">تومان</span></div></div>
+                </div>
+                <div class="rounded-2xl border border-amber-200 bg-amber-50 p-4 flex justify-between items-center">
+                    <div><div class="text-xs text-gustavo-muted font-bold">درهم امارات</div><div class="text-[11px] text-gustavo-muted">AED</div></div>
+                    <div class="text-left"><div class="font-black text-gustavo-ink"><span id="c-aed">—</span> <span class="text-xs font-normal">تومان</span></div></div>
+                </div>
+            </div>
+        </div>
+        <div id="panel-oil" class="hidden gustavo-card p-5">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="font-black text-gustavo-ink flex items-center gap-2"><span class="w-8 h-8 rounded-xl bg-slate-800 text-white flex items-center justify-center"><i class="fas fa-oil-can"></i></span> نفت — برنت به دلار و تومان</h2>
+                <button onclick="hideMarketPanels()" class="w-8 h-8 rounded-full bg-gustavo-surface border border-gustavo-line flex items-center justify-center hover:bg-gustavo-line"><i class="fas fa-xmark text-xs"></i></button>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
+                <div class="rounded-2xl border border-slate-200 bg-slate-50 p-4">
+                    <div class="text-gustavo-muted text-xs font-bold mb-1">نفت برنت (هر بشکه)</div>
+                    <div class="font-black text-lg"><span id="c-brent-usd">—</span> <span class="text-xs font-normal text-gustavo-muted">$</span></div>
+                    <div class="font-bold text-slate-700 text-sm mt-1"><span id="c-brent-tmn">—</span> تومان</div>
+                </div>
+                <div class="rounded-2xl border border-gustavo-line bg-gustavo-surface p-4 flex flex-col justify-center">
+                    <div class="text-xs text-gustavo-muted font-bold">آخرین بروزرسانی</div>
+                    <div class="font-mono text-sm font-bold text-gustavo-ink mt-1"><span id="c-updated">—</span> به وقت تهران</div>
+                    <div class="text-[11px] text-gustavo-muted mt-1">منبع: OilPrice.com + نرخ دلار آزاد</div>
+                </div>
             </div>
         </div>
     </div>
@@ -675,20 +751,77 @@ function updateClocks() {
 }
 setInterval(updateClocks, 1000); updateClocks();
 
+// ——— Market: header tabs + dual pricing ———
+function showMarketView(which){
+    const wrap = document.getElementById('market-panels');
+    const ids = ['panel-crypto','panel-forex','panel-oil'];
+    if(!wrap) return;
+    wrap.classList.remove('hidden');
+    ids.forEach(id=>{
+        const el=document.getElementById(id);
+        if(el) el.classList.add('hidden');
+    });
+    const target = document.getElementById('panel-'+which);
+    if(target) { target.classList.remove('hidden'); target.scrollIntoView({behavior:'smooth', block:'start'}); }
+    // pill active state
+    document.querySelectorAll('#tab-crypto,#tab-forex,#tab-oil').forEach(b=>b.classList.remove('ring-2','ring-gustavo-amber'));
+    const tab=document.getElementById('tab-'+which);
+    if(tab) tab.classList.add('ring-2','ring-gustavo-amber');
+    // hide main news when a market panel is open on mobile to keep focus
+    if(window.innerWidth<1024) document.getElementById('view-news')?.classList.add('opacity-60');
+}
+function hideMarketPanels(){
+    const wrap=document.getElementById('market-panels');
+    if(wrap) wrap.classList.add('hidden');
+    document.querySelectorAll('#panel-crypto,#panel-forex,#panel-oil').forEach(el=>el?.classList.add('hidden'));
+    document.querySelectorAll('#tab-crypto,#tab-forex,#tab-oil').forEach(b=>b.classList.remove('ring-2','ring-gustavo-amber'));
+    document.getElementById('view-news')?.classList.remove('opacity-60');
+}
+
 async function fetchMarket() {
+    let cgBtc=null, cgEth=null, cgUsdt=null;
     try {
-        const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,tether&vs_currencies=usd');
+        const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,tether&vs_currencies=usd');
         const data = await res.json();
-        document.getElementById('price-btc').innerText = `$${(data.bitcoin.usd/1000).toFixed(1)}K`;
-        document.getElementById('price-usdt').innerText = `$${data.tether.usd.toFixed(3)}`;
+        if(data.bitcoin) cgBtc=data.bitcoin.usd;
+        if(data.ethereum) cgEth=data.ethereum.usd;
+        if(data.tether) cgUsdt=data.tether.usd;
     } catch(e) {}
     try {
         const res = await smartFetch('market.json');
+        if(!res) return;
         const data = await res.json();
-        document.getElementById('price-usd').innerText = data.usd + " تومان";
-    } catch(e) {}
+        // ticker
+        const set = (id, val)=>{ const el=document.getElementById(id); if(el && val && val!=='نامشخص' && val!=='—') el.innerText=val; };
+        set('price-usd', data.usd ? data.usd+' تومان' : null);
+        set('price-eur', data.eur ? data.eur+' تومان' : null);
+        if(data.btc_usd) set('price-btc', data.btc_usd);
+        if(data.btc_tmn) { const el=document.getElementById('price-btc-tmn'); if(el) el.innerText='('+data.btc_tmn+' تومان)'; }
+        if(data.eth_usd) set('price-eth', data.eth_usd);
+        if(data.brent_usd) set('price-brent', data.brent_usd);
+        if(data.brent_tmn){ const el=document.getElementById('price-brent-tmn'); if(el) el.innerText='('+data.brent_tmn+' تومان)'; }
+        if(data.usdt_usd) set('price-usdt', data.usdt_usd);
+        else if(cgUsdt) set('price-usdt', cgUsdt.toFixed(2));
+        // fallback from CoinGecko if backend not yet updated
+        if(!data.btc_usd && cgBtc) set('price-btc', (cgBtc/1000).toFixed(1)+'K');
+        if(!data.eth_usd && cgEth) set('price-eth', (cgEth/1000).toFixed(1)+'K');
+
+        // panels
+        set('c-btc-usd', data.btc_usd || (cgBtc? (cgBtc.toLocaleString('en-US')) : '—'));
+        set('c-btc-tmn', data.btc_tmn || '—');
+        set('c-eth-usd', data.eth_usd || (cgEth? cgEth.toLocaleString('en-US') : '—'));
+        set('c-eth-tmn', data.eth_tmn || '—');
+        set('c-usdt-usd', data.usdt_usd || (cgUsdt? cgUsdt.toFixed(2) : '1.00'));
+        set('c-usdt-tmn', data.usdt_tmn || data.usd || '—');
+        set('c-usd', data.usd || '—');
+        set('c-eur', data.eur || '—');
+        set('c-aed', data.aed || '—');
+        set('c-brent-usd', data.brent_usd || data.oil || '—');
+        set('c-brent-tmn', data.brent_tmn || '—');
+        set('c-updated', data.updated || '--:--');
+    } catch(e) { console.warn('market fetch', e); }
 }
-fetchMarket();
+fetchMarket(); setInterval(fetchMarket, 60000);
 
 function getTagConfig(rawTag) {
     let tag = (rawTag || '').trim().toLowerCase();

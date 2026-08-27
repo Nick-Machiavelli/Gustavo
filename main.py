@@ -405,9 +405,19 @@ class IranNewsRadar:
         return self._get_fallback_image(fallback_text)
 
     # ───────────────────────── market ─────────────────────────
-
     def fetch_market_rates(self):
-        data = {"usd": "نامشخص", "oil": "نامشخص", "updated": "--:--"}
+        """Fetch USD/EUR/AED + crypto + oil, with dual pricing (USD + TMN)."""
+        data = {
+            "usd": "نامشخص", "usd_raw": None,
+            "eur": "نامشخص", "aed": "نامشخص",
+            "btc_usd": "—", "btc_tmn": "نامشخص",
+            "eth_usd": "—", "eth_tmn": "نامشخص",
+            "usdt_usd": "1.00", "usdt_tmn": "نامشخص",
+            "brent_usd": "—", "brent_tmn": "نامشخص",
+            "oil": "نامشخص",
+            "updated": "--:--"
+        }
+        usd_tmn_raw = None
         try:
             resp = self.scraper.get("https://alanchand.com/en/currencies-price/usd", timeout=10)
             if resp.status_code == 200:
@@ -416,7 +426,57 @@ class IranNewsRadar:
                 if usd:
                     val = usd.get('data-price') or usd.get('value')
                     if val:
-                        data["usd"] = f"{int(int(val.replace(',', '')) / 10):,}"
+                        raw = int(val.replace(',', '').strip())
+                        usd_tmn_raw = int(raw / 10)
+                        data["usd"] = f"{usd_tmn_raw:,}"
+                        data["usd_raw"] = usd_tmn_raw
+                        data["usdt_tmn"] = f"{usd_tmn_raw:,}"
+        except Exception:
+            pass
+        try:
+            resp = self.scraper.get("https://alanchand.com/en/currencies-price/eur", timeout=10)
+            if resp.status_code == 200:
+                soup = BeautifulSoup(resp.text, 'lxml')
+                inp = soup.find('input', attrs={'data-curr': 'tmn'})
+                if inp:
+                    val = inp.get('data-price') or inp.get('value')
+                    if val:
+                        raw = int(val.replace(',', '').strip())
+                        data["eur"] = f"{int(raw/10):,}"
+        except Exception:
+            pass
+        try:
+            resp = self.scraper.get("https://alanchand.com/en/currencies-price/aed", timeout=10)
+            if resp.status_code == 200:
+                soup = BeautifulSoup(resp.text, 'lxml')
+                inp = soup.find('input', attrs={'data-curr': 'tmn'})
+                if inp:
+                    val = inp.get('data-price') or inp.get('value')
+                    if val:
+                        raw = int(val.replace(',', '').strip())
+                        data["aed"] = f"{int(raw/10):,}"
+        except Exception:
+            pass
+        try:
+            cg = self.scraper.get(
+                "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,tether&vs_currencies=usd",
+                timeout=10
+            )
+            if cg.status_code == 200:
+                j = cg.json()
+                btc_usd = j.get('bitcoin', {}).get('usd')
+                eth_usd = j.get('ethereum', {}).get('usd')
+                usdt_usd = j.get('tether', {}).get('usd')
+                if btc_usd:
+                    data["btc_usd"] = f"{btc_usd:,.0f}" if btc_usd >= 1000 else f"{btc_usd:,.2f}"
+                    if usd_tmn_raw:
+                        data["btc_tmn"] = f"{int(btc_usd * usd_tmn_raw):,}"
+                if eth_usd:
+                    data["eth_usd"] = f"{eth_usd:,.0f}" if eth_usd >= 1000 else f"{eth_usd:,.2f}"
+                    if usd_tmn_raw:
+                        data["eth_tmn"] = f"{int(eth_usd * usd_tmn_raw):,}"
+                if usdt_usd:
+                    data["usdt_usd"] = f"{usdt_usd:.2f}"
         except Exception:
             pass
         try:
@@ -424,7 +484,16 @@ class IranNewsRadar:
             soup = BeautifulSoup(resp.text, 'lxml')
             oil = soup.select_one(".last_price")
             if oil:
-                data["oil"] = oil.get_text().strip()
+                txt = oil.get_text().strip().replace('$','').replace(',','')
+                try:
+                    val = float(txt)
+                    data["brent_usd"] = f"{val:.2f}"
+                    data["oil"] = f"{val:.2f}"
+                    if usd_tmn_raw:
+                        data["brent_tmn"] = f"{int(val * usd_tmn_raw):,}"
+                except Exception:
+                    data["brent_usd"] = txt
+                    data["oil"] = txt
         except Exception:
             pass
         data["updated"] = time.strftime("%H:%M")
