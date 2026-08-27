@@ -1094,6 +1094,14 @@ function showHomeView() {
     document.getElementById('view-single-article').classList.add('hidden');
     document.getElementById('view-dashboard').classList.add('hidden');
     document.getElementById('view-news').classList.remove('hidden');
+    // also close any open market panels (crypto/forex/oil)
+    const mp = document.getElementById('market-panels');
+    if (mp && !mp.classList.contains('hidden')) {
+        mp.classList.add('hidden');
+        document.querySelectorAll('#panel-crypto,#panel-forex,#panel-oil').forEach(el=>el?.classList.add('hidden'));
+        document.querySelectorAll('#tab-crypto,#tab-forex,#tab-oil').forEach(b=>b.classList.remove('ring-2','ring-gustavo-amber'));
+        document.getElementById('view-news')?.classList.remove('opacity-60');
+    }
 }
 
 function loadMore() {
@@ -1529,10 +1537,28 @@ function filterFeed(tag, btn) {
         c.classList.remove('chip-active');
     });
 
-    if (btn) {
+    // Update active highlight on header nav pills (excluding market tabs)
+    document.querySelectorAll('nav .gustavo-pill:not(#tab-crypto):not(#tab-forex):not(#tab-oil)').forEach(b=>{
+        b.classList.remove('bg-gustavo-ink','text-white','ring-2','ring-gustavo-amber');
+        b.classList.add('bg-white','text-gustavo-ink');
+    });
+    if (btn && btn.closest('nav')) {
+        btn.classList.remove('bg-white','text-gustavo-ink');
+        btn.classList.add('bg-gustavo-ink','text-white');
+    }
+
+    if (btn && btn.closest('#category-chips')) {
         btn.classList.add('chip-active');
-    } else {
+    } else if (!btn) {
         // If triggered from top navigation header, highlight matching chip
+        const chips = document.querySelectorAll('#category-chips button');
+        chips.forEach(chip => {
+            if ((tag === 'all' && chip.innerText.includes('همه اخبار')) || chip.innerText.includes(tag)) {
+                chip.classList.add('chip-active');
+            }
+        });
+    } else if (btn && btn.closest('nav')) {
+        // header pill clicked -> also highlight matching chip
         const chips = document.querySelectorAll('#category-chips button');
         chips.forEach(chip => {
             if ((tag === 'all' && chip.innerText.includes('همه اخبار')) || chip.innerText.includes(tag)) {
