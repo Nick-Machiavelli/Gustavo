@@ -1,5 +1,65 @@
 [
     {
+        "id": "3a0352a3f8",
+        "title_fa": "روپیه هند در برابر دلار ثابت می‌ماند",
+        "title_en": "Indian Rupee opens flat as stronger US Dollar offsets lower crude prices",
+        "summary": [
+            "روپیه پس از تعطیلات به‌صورت افقی باز شد",
+            "دلار قوی به‌دلیل گزارش PCE آمریکا فشار آورد",
+            "قیمت نفت کاهش یافت اما اثرش محدود بود",
+            "شاخص دلار نزدیک به 99.15 باقی مانده"
+        ],
+        "impact": "ثبات کوتاه‌مدت روپیه، فشار بر تراز تجاری هند",
+        "tag": "ارز",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news/indian-rupee-opens-flat-as-stronger-us-dollar-offsets-lower-crude-prices-202608270512",
+        "clean_url": "https://www.fxstreet.com/news/indian-rupee-opens-flat-as-stronger-us-dollar-offsets-lower-crude-prices-202608270512",
+        "image": "https://editorial.fxsstatic.com/images/i/discover-45_Medium.png",
+        "timestamp": 1787807520.0
+    },
+    {
+        "id": "3d9179b1a2",
+        "title_fa": "تحریم‌های جدید ترامپ می‌تواند دولت ایران را تقویت کند",
+        "title_en": "Trump's New Sanctions on Iran Risk Strengthening its Government and harming US Credibility",
+        "summary": [
+            "تحلیل‌گران می‌گویند تحریم‌های هدفمند می‌تواند به تقویت داخلی رژیم منجر شود",
+            "فشار بر اقتصاد ممکن است حمایت داخلی را تقویت کند",
+            "اعتبار آمریکا در منطقه به خطر می‌افتد",
+            "واکنش‌های تلافی‌جویانه ایران محتمل است"
+        ],
+        "impact": "تحریم‌ها ممکن است به تقویت قدرت داخلی ایران و کاهش نفوذ آمریکا منجر شود",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Informed Comment",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IYkN2aTBIb0xXcGJvODdCSEtBVmpfb2pPZlY4MDY3V3hRYXJWMWRlYjl0WEZycURLVWptXzBIWmVwdFd4WUtISmwtdkdxSDZDTUVNRjJwSXBnZUI0anRRdVBsWmNWblF6a3l5NktrQTV2SXBhYk5ZRTEwN1hTRkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IYkN2aTBIb0xXcGJvODdCSEtBVmpfb2pPZlY4MDY3V3hRYXJWMWRlYjl0WEZycURLVWptXzBIWmVwdFd4WUtISmwtdkdxSDZDTUVNRjJwSXBnZUI0anRRdVBsWmNWblF6a3l5NktrQTV2SXBhYk5ZRTEwN1hTRkU",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787803463.0
+    },
+    {
+        "id": "9c7c6dd9a7",
+        "title_fa": "آمریکا تحریم‌های جدید بر ایران اعمال کرد",
+        "title_en": "US expands sanctions on Iran, puts other countries on notice",
+        "summary": [
+            "ایالات متحده تحریم‌های گسترده‌تری بر بخش‌های انرژی و مالی ایران اعمال کرد",
+            "کشورهای دیگر هشدار دریافت کردند که تحت فشار مشابه قرار گیرند",
+            "هدف کاهش توان مالی نظام و حمایت از گروه‌های تروریستی است",
+            "این گام احتمالاً واکنش تلافی‌جویانه ایران را به دنبال دارد"
+        ],
+        "impact": "دسترسی ایران به بازارهای بین‌المللی محدود می‌شود، فشار مالی افزایش می‌یابد",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Scripps News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0VKRHcyQkl3SEdOOTFWcklXNFd4Z3VteUdtcllIV3dYWDV1WjVVcmVHa2REU3BCSjZSSnhwRF9ZUEl1aGFWVG9qbGFDb2lyVjJaUFh5c1g0NUpKMHFiR2plWFo2ZERYbld5eW9La0c4QlBJU19rT3ZLc3MteWpCMS1Zd0ZjRXlSbUJyUzVVQkFKakZpTVJyTWZKQVFyS2NOdHBldXJ4TmR6ZXl4U1o3Zmp2eHQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0VKRHcyQkl3SEdOOTFWcklXNFd4Z3VteUdtcllIV3dYWDV1WjVVcmVHa2REU3BCSjZSSnhwRF9ZUEl1aGFWVG9qbGFDb2lyVjJaUFh5c1g0NUpKMHFiR2plWFo2ZERYbld5eW9La0c4QlBJU19rT3ZLc3MteWpCMS1Zd0ZjRXlSbUJyUzVVQkFKakZpTVJyTWZKQVFyS2NOdHBldXJ4TmR6ZXl4U1o3Zmp2eHQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787801391.0
+    },
+    {
         "id": "9ca6123c51",
         "title_fa": "ناظران هسته‌ای: ایران توانمندی‌های مهمی حفظ کرده",
         "title_en": "Nuclear watchdog chief warns Iran maintains ‘many capabilities’ as Iranian officials block inspections",
@@ -35,6 +95,46 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787781660.0
+    },
+    {
+        "id": "0fdf2f6a93",
+        "title_fa": "تغییر هدف‌های آمریکا؛ خلیج‌فارس اولویت شد",
+        "title_en": "After six months of Iran war, US goals have shifted. The Strait of Hormuz is now a top concern",
+        "summary": [
+            "ترامپ پیش‌بینی کوتاه‌مدت جنگ را لغو کرد",
+            "پس از شش ماه خلیج‌فارس به نقطه حساس تبدیل شد",
+            "فشار بر حمل‌ونقل نفت افزایش یافت",
+            "ریسک تنگناهای انرژی برای جهان بالا رفت"
+        ],
+        "impact": "اختلال در عبور نفت از خلیج‌فارس، قیمت جهانی انرژی می‌چرخد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/after-six-months-of-iran-war-us-goals-have-shifted-the-strait-of-hormuz-is-now-a-top-concern/ar-AA2b0ts4",
+        "clean_url": "https://www.msn.com/en-us/news/other/after-six-months-of-iran-war-us-goals-have-shifted-the-strait-of-hormuz-is-now-a-top-concern/ar-AA2b0ts4",
+        "image": "http://www.bing.com/th?id=ONUT.OmAfClUpeQPw_WOyLzQfpQ&pid=News",
+        "timestamp": 1787778592.0
+    },
+    {
+        "id": "6857b39217",
+        "title_fa": "ایران: تحریم‌های آمریکا بی‌نتیجه، نتانیاهو دیپلماسی را رد کرد",
+        "title_en": "Iran Says US Sanctions Will Achieve Nothing as Netanyahu Dismisses Diplomacy",
+        "summary": [
+            "رئیس‌جمهور ایران گفت تحریم‌ها اقتصاد آمریکا را هدف نمی‌گیرند",
+            "نتانیاهو گفت دیپلماسی برای حل بحران بی‌فایده",
+            "آمریکا برنامه‌ریزی برای فروپاشی اقتصاد ایران را اعلام کرد",
+            "این اظهارات تنش‌های منطقه‌ای را تشدید می‌کند"
+        ],
+        "impact": "تحریم‌های جدید فشار بر ارز و صادرات ایران را افزاش می‌دهد",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Asharq Alawsat (English)",
+        "url": "https://www.msn.com/en-ae/news/other/iran-says-us-sanctions-will-achieve-nothing-as-netanyahu-dismisses-diplomacy/ar-AA2aYQ5z",
+        "clean_url": "https://www.msn.com/en-ae/news/other/iran-says-us-sanctions-will-achieve-nothing-as-netanyahu-dismisses-diplomacy/ar-AA2aYQ5z",
+        "image": "https://static.srpcdigital.com/styles/1037xauto/public/2026-08/__13190406-1787659049_0.jpg.webp?VersionId=vzUBgnIw1zyclkIeBoC7urCnlKvmcUA_",
+        "timestamp": 1787763810.0
     },
     {
         "id": "3f1d7a33a0",
@@ -5452,99 +5552,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/as-trump-cites-progress-on-deal-to-end-war-iran-and-israel-remain-on-alert/ar-AA29fGA1",
         "image": "http://www.bing.com/th?id=ONUT.Ar_ZCI0HzWK3AoY0xIXF2A&pid=News",
         "timestamp": 1785660183.0
-    },
-    {
-        "id": "62060b8506",
-        "title_fa": "روایت قربانیان: بمب EFP ایران در بغداد آغازگر جنگ عدالت",
-        "title_en": "Iran's war on Americans began decades ago. These families still carry the scars",
-        "summary": [
-            "یک نظامی آمریکایی می‌گوید پس از اصابت EFP که به‌گفته او از سوی ایران تامین شده، در بغداد «سه بار مرده» و عملاً از همان نقطه وارد چرخه‌ای طولانی از آسیب و پیگیری شده است.",
-            "این گزارش با تکیه بر خانواده‌های قربانی، فشار افکار عمومی و سیاسی را به نفع پرونده‌سازی حقوقی و امنیتی علیه شبکه‌های مرتبط با تامین تسلیحاتِ نیابتی می‌چرخاند؛ یعنی جنگ روایت‌ها از عملیات نظامی جدا نیست."
-        ],
-        "impact": "این نوع روایت، هزینه سیاسی و رسانه‌ای برای تهران را بالا می‌برد و سوخت پرونده‌های حقوقی/امنیتی علیه تامین‌کنندگان ادعایی فراهم می‌کند.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-war-on-americans-began-decades-ago-these-families-still-carry-the-scars/ar-AA29evdL",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-war-on-americans-began-decades-ago-these-families-still-carry-the-scars/ar-AA29evdL",
-        "image": "http://www.bing.com/th?id=ONUT.t5sOB_wBcEKd-_x4GwTozg&pid=News",
-        "timestamp": 1785646813.0
-    },
-    {
-        "id": "95797a4b44",
-        "title_fa": "شرط ایران برای توقف درگیری: کنترل تنگه هرمز",
-        "title_en": "Iran’s demands leave Trump with few good options",
-        "summary": [
-            "ایران روشن کرده بهای پایان حملات، «کنترل تنگه هرمز» است؛ معامله‌ای که از نظر سیاسی برای کاخ سفید به‌وضوح پرهزینه و ناخوشایند می‌ماند.",
-            "همزمان چرخه حمله-پاسخ ادامه دارد و فشار روی ترامپ را بیشتر می‌کند: بین تشدید نظامی، عقب‌نشینی تحمیلی یا پذیرش یک امتیاز غیرقابل‌هضم سیاسی گیر می‌افتد."
-        ],
-        "impact": "اختلاف اصلی بر سر هرمز باعث می‌شود ترامپ برای خروج از بن‌بست، یا باید ریسک نظامی را بپذیرد یا با هزینه سیاسی عقب بنشیند.",
-        "tag": "تنش",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/08/02/irans-demands-leave-trump-few-good-options-01020961",
-        "clean_url": "https://www.politico.com/news/2026/08/02/irans-demands-leave-trump-few-good-options-01020961",
-        "image": "http://www.bing.com/th?id=ONUT.INpJAjXBAAsK2R8Mo4B20w&pid=News",
-        "timestamp": 1785643260.0
-    },
-    {
-        "id": "0adbf3a872",
-        "title_fa": "ترامپ حمله برنامه‌ریزی‌شده علیه ایران را لغو کرد",
-        "title_en": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
-        "summary": [
-            "ترامپ می‌گوید حمله‌ای که قرار بوده انجام شود را لغو کرده چون «درباره مرزهای یک توافق» به توافق رسیده‌اند.",
-            "او توضیح می‌دهد ایران و هم‌پیمان‌های منطقه‌ای‌اش از آمریکا خواسته‌اند حملات را عقب بیندازد؛ یعنی کل ماجرا از زاویه واشینگتن «قابل معامله» تعریف شده است، نه صرفاً ترس از پاسخ نظامی."
-        ],
-        "impact": "فعلاً مسیر عملیات نظامی آمریکا علیه ایران متوقف می‌شود، اما سیگنال فشار برای گرفتن امتیاز در قالب «توافق» باقی می‌ماند.",
-        "tag": "نظامی-دیپلماتیک",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "CNBC on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-cancels-planned-attack-on-iran-saying-he-reached-an-agreement-over-the-perimeters-of-a-deal/ar-AA29eOfe",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-cancels-planned-attack-on-iran-saying-he-reached-an-agreement-over-the-perimeters-of-a-deal/ar-AA29eOfe",
-        "image": "http://www.bing.com/th?id=ONUT.4stB42Xrn2iYMJJV4Eup0A&pid=News",
-        "timestamp": 1785640715.0
-    },
-    {
-        "id": "3b8abf5100",
-        "title_fa": "ترامپ حمله به ایران را خواباند؛ شرطش «توافق فوری» است",
-        "title_en": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-        "summary": [
-            "ترامپ می‌گوید آمریکا و اسرائیل برای توقف حملات جدید به ایران توافق کرده‌اند، اما این توقف را به رسیدن سریع «معامله» گره می‌زند.",
-            "او وعده می‌دهد «باز شدن کامل و فوری تنگه هرمز» و «پایان تهدید هسته‌ای ایران» بخشی از همان معامله است؛ یعنی اهرم اصلی، گره‌زدن عملیات نظامی به امتیازهای کلیدی اقتصادی و امنیتی است.",
-            "ایران ادعای درخواست تهران برای توقف حملات را رد کرده و می‌گوید نیروهای مسلح در حالت آماده‌باش شدید هستند؛ اختلاف روایت، می‌تواند جنگ روانی را به فاز جدید ببرد.",
-            "در عمل، هم مسیر انرژی (هرمز) و هم تجارت دریایی به‌خاطر بسته‌بودن/اختلال‌ها تحت فشار است؛ خبر ترامپ بیشتر «توقف حمله جدید» را نشان می‌دهد تا پایان بحران."
-        ],
-        "impact": "تا زمان توافق، حمله مستقیم جدید کم می‌شود، اما بازی «فشار نظامی برای گرفتن امتیاز هرمز و پرونده هسته‌ای» ادامه دارد.",
-        "tag": "نظامی-دیپلماتیک",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/why-trump-halted-iran-attacks-094310359.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/why-trump-halted-iran-attacks-094310359.html",
-        "image": "http://www.bing.com/th?id=ONUT.V8Cb_OkrPIxyKUMScJ9v3Q&pid=News",
-        "timestamp": 1785638640.0
-    },
-    {
-        "id": "f79a47ef3e",
-        "title_fa": "ترامپ حمله به ایران را لغو کرد؛ اما آماده‌باش ماند",
-        "title_en": "Trump says he's cancelling strikes on Iran as 'perimeters of a deal' agreed",
-        "summary": [
-            "ترامپ اعلام کرد حمله تازه به ایران را «لغو» کرده چون «حریم‌های یک توافق» بین تهران و چند کشور نامشخص منطقه‌ای با آمریکا بسته شده؛ همزمان شرط گذاشت: لغو حمله به «توانایی سریع برای رسیدن به یک معامله» وابسته است.",
-            "با وجود لغو حمله، از زبان خود ترامپ روشن است که نیروهای آمریکایی «قفل و آماده» هستند؛ یعنی این عقب‌نشینی بیشتر یک کارت مذاکره است تا توقف واقعی تهدید.",
-            "هم‌زمان، اسرائیل هم به این تعهد پیوست؛ از آن طرف خبرگزاری نیمه‌رسمی ایران ادعاهای ترامپ درباره درخواست توقف را «دروغ جدید» خواند و گفت نیروهای ایران در بالاترین سطح آمادگی‌اند.",
-            "هشدار رسمی وزارت خارجه آمریکا به مسافران و ساکنان درباره احتمال لغو پرواز، بسته‌شدن دوره‌ای آسمان و اختلال سفر، با اعلام لغو حمله تناقض نرم دارد: تهدید عملیاتی همچنان روی میز است."
-        ],
-        "impact": "ریسک درگیری فوری کمی عقب می‌رود، ولی به‌خاطر «آمادگی کامل» و شرط مذاکره، بحران می‌تواند سریع دوباره فعال شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-says-hes-cancelling-strikes-093149371.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-hes-cancelling-strikes-093149371.html",
-        "image": "http://www.bing.com/th?id=ONUT.gGiHivtSJtjG2wnq378NFg&pid=News",
-        "timestamp": 1785637860.0
     }
 ]
