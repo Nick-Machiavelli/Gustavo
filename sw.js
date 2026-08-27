@@ -76,7 +76,7 @@ self.addEventListener('fetch', (event) => {
             
             return fetch(event.request).then((networkResponse) => {
                 // Cache external CDNs dynamically as they are requested
-                if (event.request.url.includes('cdn') || event.request.url.includes('cloudflare')) {
+                if (event.request.url.includes('cdn') || event.request.url.includes('cloudflare') || event.request.url.includes('weserv.nl') || event.request.url.includes('unsplash')) {
                     const cln = networkResponse.clone();
                     caches.open(CACHE_NAME).then(cache => cache.put(event.request, cln));
                 }

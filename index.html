@@ -854,6 +854,15 @@ async function fetchMarket() {
 }
 fetchMarket(); setInterval(fetchMarket, 60000);
 
+// Image proxy — wsrv.nl CDN: resizes, converts to webp, caches, bypasses hotlink blocks + faster on mobile
+function proxiedImage(url, w){
+    if(!url) return url;
+    if(url.includes('images.unsplash.com') || url.includes('images.weserv.nl') || url.startsWith('data:')) return url;
+    try{
+        const clean = url.replace(/^https?:\/\//,'');
+        return 'https://images.weserv.nl/?url=' + encodeURIComponent(clean) + '&w=' + (w||600) + '&output=webp&q=80&n=-1';
+    }catch(e){ return url; }
+}
 function getTagConfig(rawTag) {
     let tag = (rawTag || '').trim().toLowerCase();
 
@@ -986,7 +995,7 @@ function renderSingleArticlePage(item) {
         ? item.summary.map(s => `<li class="mb-2 leading-relaxed">${s}</li>`).join('') 
         : `<li>${item.summary || ''}</li>`;
 
-    const imgURL = item.image || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80';
+    const imgURL = proxiedImage(item.image, 800) || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80';
 
     singleView.innerHTML = `
         <div class="bg-white rounded-xl border border-gustavo-line shadow-md p-6 md:p-8 space-y-6">
@@ -1200,7 +1209,7 @@ function renderHeroLead() {
     const secondaryLeads = sorted.slice(1, 4);
 
     const mainTagConfig = getTagConfig(mainLead.tag);
-    const mainImg = mainLead.image || 'https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80';
+    const mainImg = proxiedImage(mainLead.image, 800) || 'https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80';
 
     let html = `
         <div class="grid grid-cols-1 md:grid-cols-12 gap-4 md:gap-5 border-b border-gray-200 pb-5 mb-5">
@@ -1248,7 +1257,7 @@ function renderHeroLead() {
 
     secondaryLeads.forEach(sec => {
         const secConfig = getTagConfig(sec.tag);
-        const secImg = sec.image || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80';
+        const secImg = proxiedImage(sec.image, 400) || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=400&q=80';
 
         html += `
             <div class="bg-gustavo-surface p-3 rounded-xl border border-gray-200 flex flex-row sm:flex-col justify-between gap-3 space-y-0 sm:space-y-2">
@@ -1358,7 +1367,8 @@ function renderFeed() {
             ? item.summary.map(s => `<li class="mb-1">${s}</li>`).join('') 
             : `<li>${item.summary || ''}</li>`;
 
-        const imgURL = item.image || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80';
+        const _rawImg = item.image || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80';
+        const imgURL = _rawImg.includes('images.unsplash.com') ? _rawImg : proxiedImage(_rawImg, 600);
         const readTimeMinutes = Math.max(2, Math.ceil(((item.summary ? item.summary.join(' ').length : 100) + item.title_fa.length) / 150));
 
         const related = newsData
