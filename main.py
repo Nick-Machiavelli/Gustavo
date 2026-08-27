@@ -73,7 +73,7 @@ CONFIG = {
     'AI_BASE_URL': os.environ.get('AI_BASE_URL') or 'https://api.groq.com/openai/v1/chat/completions',
     'AI_MODEL': os.environ.get('AI_MODEL') or 'llama-3.1-8b-instant',
     'AI_RETRIES': 3,
-    'MAX_NEWS_AGE_HOURS': 18,
+    'MAX_NEWS_AGE_HOURS': 36,
     'HISTORY_SIZE': 300,
     'RESOLVE_GOOGLE_URLS': True,
 }
@@ -307,12 +307,12 @@ class IranNewsRadar:
             inter = new_tokens.intersection(existing_tokens)
             union = new_tokens.union(existing_tokens)
             
-            # Jaccard threshold 0.55 - balanced to catch rephrased syndicated headlines without killing distinct stories
-            if union and (len(inter) / len(union)) >= 0.55:
+            # Jaccard threshold 0.60 - relaxed to allow more distinct stories (was 0.55)
+            if union and (len(inter) / len(union)) >= 0.60:
                 return True
 
             # If 3 or more distinct key topical tokens match with high overlap, treat as duplicate
-            if len(inter) >= 3 and len(inter) / min(len(new_tokens), len(existing_tokens)) >= 0.6:
+            if len(inter) >= 3 and len(inter) / min(len(new_tokens), len(existing_tokens)) >= 0.65:
                 return True
 
             # Match against known entity-event cluster groups (require 3+ overlaps to avoid false positives)
@@ -1539,7 +1539,8 @@ STRICT OUTPUT JSON:
             seen_batch_titles = set()
             cutoff_date = datetime.now(timezone.utc) - timedelta(hours=CONFIG['MAX_NEWS_AGE_HOURS'])
 
-            # 1. First pass: filter by age, seen URLs, and exact hashes
+            # 1. First pass: filter by age, seen URLs, and exact hashes (with counters for debugging)
+            cnt_age = cnt_url = cnt_title = cnt_hash = 0
             for item in results:
                 try:
                     p_date = item.get('published date')
@@ -1548,6 +1549,7 @@ STRICT OUTPUT JSON:
                         if dt.tzinfo is None:
                             dt = dt.replace(tzinfo=timezone.utc)
                         if dt < cutoff_date:
+                            cnt_age += 1
                             continue
                 except Exception:
                     pass
@@ -1555,6 +1557,7 @@ STRICT OUTPUT JSON:
                 raw_url = item.get('url', '')
                 clean_u = self._clean_url(raw_url)
                 if clean_u in self.seen_urls:
+                    cnt_url += 1
                     continue
 
                 t = item.get('title', '').rsplit(' - ', 1)[0].strip()
@@ -1562,12 +1565,17 @@ STRICT OUTPUT JSON:
                 th = self._title_hash(t)
 
                 if norm_t in self.seen_titles or norm_t in seen_batch_titles:
+                    cnt_title += 1
                     continue
                 if th in self.recent_title_hashes:
+                    cnt_hash += 1
                     continue
 
                 seen_batch_titles.add(norm_t)
                 candidates.append(item)
+
+            if cnt_age or cnt_url or cnt_title or cnt_hash:
+                logger.info(f"  filtered: age={cnt_age} url_dup={cnt_url} title_dup={cnt_title} hash_dup={cnt_hash} -> kept {len(candidates)} before fuzzy")
 
             # 2. Sort by domain reliability first so top sources are preferred
             candidates.sort(
@@ -1580,15 +1588,19 @@ STRICT OUTPUT JSON:
 
             # 3. Second pass: Cross-deduplicate against historical news AND within current batch
             accepted_candidates = []
+            cnt_fuzzy = 0
             for item in candidates:
                 raw_t = item.get('title', '').rsplit(' - ', 1)[0].strip()
                 
                 # Check against historical news AND candidates already accepted in this run
                 if self._is_duplicate_fuzzy(raw_t, self.existing_news) or self._is_duplicate_fuzzy(raw_t, accepted_candidates):
+                    cnt_fuzzy += 1
                     continue
 
                 accepted_candidates.append(item)
 
+            if cnt_fuzzy:
+                logger.info(f"  fuzzy-dedup filtered {cnt_fuzzy} -> {len(accepted_candidates)} remain")
             candidates = accepted_candidates[:CONFIG.get('MAX_CANDIDATES', 15)]
 
         logger.info(
