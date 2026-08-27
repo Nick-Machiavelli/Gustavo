@@ -1401,6 +1401,8 @@ STRICT OUTPUT JSON:
             news_id = item.get('id', '')
             deep = f"{base_site}?id={news_id}" if news_id else base_site
             src_url = item.get('url') or ''
+            news_id = item.get('id', '')
+            fallback_url = f"{base_site}?id={news_id}" if news_id else f"{base_site}?id={hashlib.md5(str(src_url).encode()).hexdigest()[:8]}"
 
             summary_raw = item.get('summary', [])
             if isinstance(summary_raw, str):
@@ -1418,7 +1420,8 @@ STRICT OUTPUT JSON:
                 caption_lines.append("")
             caption_lines.append(f"🗞 <b>منبع:</b> {source}")
             if src_url:
-                caption_lines.append(f"🔗 <a href=\"{esc(src_url)}\">مشاهده خبر اصلی</a>")
+                safe_url = src_url if (src_url and _is_safe_url(src_url)) else f"{base_site}#{item.get('hash', '')}"
+                caption_lines.append(f"🔗 <a href=\"{esc(safe_url)}\">مشاهده خبر اصلی</a>")
             caption_lines.append(f"📊 <a href=\"{deep}\">داشبورد گوستاوو</a>")
             caption_lines.append(f"#{esc(tag)}")
 
@@ -1466,6 +1469,29 @@ STRICT OUTPUT JSON:
 
                 if sent:
                     logger.info(f"Posted to Telegram: {item.get('title_en', '')[:60]}")
+                else:
+                    # Retry once with fallback URL (fixes HTML parse errors / bad URLs)
+                    safe_id = item.get('id') or hashlib.md5(str(src_url).encode()).hexdigest()[:8]
+                    safe_link = f"{base_site}?id={safe_id}"
+                    retry_inline = {
+                        "inline_keyboard": [[
+                            {"text": "🔗 لینک خبر", "url": safe_link},
+                            {"text": "📊 داشبورد", "url": deep},
+                        ]]
+                    }
+                    caption_fb = body.replace(f"<a href=\"{esc(src_url)}\">مشاهده خبر اصلی</a>", f"<a href=\"{esc(safe_link)}\">مشاهده خبر اصلی</a>") if src_url else body
+                    retry_payload = {
+                        "chat_id": chat_id,
+                        "text": caption_fb,
+                        "parse_mode": "HTML",
+                        "reply_markup": retry_inline,
+                    }
+                    resp3 = self.scraper.post(send_message_api, json=retry_payload, timeout=20)
+                    if resp3.status_code == 200:
+                        logger.info(f"Posted (fallback) to Telegram: {item.get('title_en', '')[:60]}")
+                        sent = True
+                    else:
+                        logger.error(f"Fallback sendMessage also failed: {resp3.status_code} | {resp3.text[:300]}")
             except Exception as e:
                 logger.error(f"TG send error for item {item.get('id')}: {e}")
 
