@@ -59,8 +59,19 @@ jobs:
           MANUAL_URL: ${{ inputs.manual_url }}
         run: |
           echo "=== Running Gustavo radar ==="
-          python main.py
-          echo "=== Run exit code: $? ==="
+          python main.py 2>&1 | tee /tmp/gustavo_run.log
+          echo "=== Run exit code: ${PIPESTATUS[0]} ==="
+          # Always archive the log as a workflow artifact for debugging
+          echo "AI_API_KEY set: $([ -n \"$AI_API_KEY\" ] && echo YES || echo NO)" >> /tmp/gustavo_run.log
+          echo "TG_BOT_TOKEN set: $([ -n \"$TG_BOT_TOKEN\" ] && echo YES || echo NO)" >> /tmp/gustavo_run.log
+          echo "TG_CHANNEL_ID set: $([ -n \"$TG_CHANNEL_ID\" ] && echo YES || echo NO)" >> /tmp/gustavo_run.log
+
+      - name: Upload Debug Log (always)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gustavo-run-log
+          path: /tmp/gustavo_run.log
 
       - name: Commit and Push Changes
         run: |
