@@ -51,9 +51,8 @@ CONFIG = {
         'DAILY_SUMMARY': 'daily_summary.json',
         'SCHEDULE_STATE': 'schedule_state.json'
     },
-    # Dashboard URL - not final yet, so it's read from env instead of hardcoded.
-    # Set BASE_SITE_URL once the GitHub Pages / hosting address is decided.
-    'BASE_SITE_URL': os.environ.get('BASE_SITE_URL') or 'https://itsyebekhe.github.io/gustavo/',
+    # Dashboard URL – auto-corrected to the real Pages URL if env is missing or stale
+    'BASE_SITE_URL': (os.environ.get('BASE_SITE_URL') or '').strip() or 'https://nick-machiavelli.github.io/Gustavo/',
     'CHANNEL_LINK': 'https://t.me/Enqelab_e_Iran',
     'TELEGRAM': {
         'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'),
@@ -238,17 +237,17 @@ class IranNewsRadar:
             inter = new_tokens.intersection(existing_tokens)
             union = new_tokens.union(existing_tokens)
             
-            # Lower Jaccard threshold from 0.5 to 0.32 to catch rephrased syndicated headlines
-            if union and (len(inter) / len(union)) >= 0.32:
+            # Jaccard threshold 0.55 - balanced to catch rephrased syndicated headlines without killing distinct stories
+            if union and (len(inter) / len(union)) >= 0.55:
                 return True
 
-            # If 2 or more distinct key topical tokens match, treat as duplicate story event
-            if len(inter) >= 2 and len(inter) / min(len(new_tokens), len(existing_tokens)) >= 0.5:
+            # If 3 or more distinct key topical tokens match with high overlap, treat as duplicate
+            if len(inter) >= 3 and len(inter) / min(len(new_tokens), len(existing_tokens)) >= 0.6:
                 return True
 
-            # Match against known entity-event cluster groups
+            # Match against known entity-event cluster groups (require 3+ overlaps to avoid false positives)
             for group in key_entity_groups:
-                if len(new_tokens.intersection(group)) >= 2 and len(existing_tokens.intersection(group)) >= 2:
+                if len(new_tokens.intersection(group)) >= 3 and len(existing_tokens.intersection(group)) >= 3:
                     return True
 
         return False
@@ -504,17 +503,15 @@ class IranNewsRadar:
         if "news.google.com" not in url:
             return url
 
-        # Decode base64 Google News URL to avoid landing on JS redirect pages
+        # Attempt 1: Decode base64 Google News URL (works for older CB... format)
         try:
             match = re.search(r'articles/([^?&]+)', url)
             if match:
                 encoded = match.group(1)
-                # Pad base64 string
                 padded = encoded + '=' * (-len(encoded) % 4)
                 import base64
                 decoded_bytes = base64.urlsafe_b64decode(padded.encode('ascii'))
-                # Extract embedded URL from protobuf bytes
-                urls_found = re.findall(rb'https?://[a-zA-Z0-9.\-_~:/?#[\]@!$&\'()*+,;=%]+', decoded_bytes)
+                urls_found = re.findall(rb'https?://[a-zA-Z0-9.\-_~:/?#\[\]@!$&\'()*+,;=%]+', decoded_bytes)
                 for u in urls_found:
                     u_str = u.decode('utf-8', errors='ignore')
                     if "google.com" not in u_str:
@@ -522,13 +519,24 @@ class IranNewsRadar:
         except Exception:
             pass
 
-        try:
-            resp = self.scraper.get(url, allow_redirects=True, timeout=8)
-            if resp.status_code == 200 and "news.google.com" not in resp.url:
-                return resp.url
-        except Exception as e:
-            logger.warning(f"Failed to resolve Google URL {url}: {e}")
+        # Attempt 2: Follow redirect with scraper (handles newer format where base64 decode fails)
+        # Use a browser-like User-Agent already set on self.scraper; try twice with different timeout
+        for timeout in (8, 15):
+            try:
+                resp = self.scraper.get(url, allow_redirects=True, timeout=timeout)
+                if resp.status_code == 200 and "news.google.com" not in resp.url:
+                    # Also try to extract <meta http-equiv="refresh"> or JS redirect from body
+                    if resp.url == url and "news.google.com" in resp.text[:2000]:
+                        m = re.search(r'\"(https?://[^\"]+)\"', resp.text)
+                        if m and "google.com" not in m.group(1):
+                            return m.group(1)
+                    return resp.url
+            except Exception as e:
+                logger.warning(f"Failed to resolve Google URL {url} (timeout {timeout}): {e}")
 
+        # Attempt 3: If still unresolved, return original – caller will still try to scrape it
+        # but log that resolution failed so it is visible in Actions logs
+        logger.warning(f"Could not resolve Google News URL, using as-is (may fail to scrape): {url[:120]}")
         return url
 
     # ───────────────────────── content grab ─────────────────────────
@@ -889,11 +897,14 @@ STRICT OUTPUT JSON:
 
     # ───────────────────────── process item ─────────────────────────
     def send_special_report_to_telegram(self, report):
-        """Format and send Special Topic Report to Telegram nightly."""
+        """Format and send Special Topic Report to Telegram nightly (uses standard sendMessage)."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
-        if not token or not chat_id or not report:
-            logger.warning("TG credentials or report missing. Skipping TG dispatch.")
+        if not token or not chat_id:
+            logger.error("TG_BOT_TOKEN or TG_CHANNEL_ID is not set – cannot send Special Report. Set them in GitHub Secrets.")
+            return False
+        if not report:
+            logger.warning("Special Report is empty. Skipping TG dispatch.")
             return False
 
         def esc(s):
@@ -907,28 +918,8 @@ STRICT OUTPUT JSON:
         tag = esc(report.get('topic_tag', 'پرونده ویژه')).replace(' ', '_')
         headline = esc(report.get('headline', 'گزارش ویژه'))
         lead = esc(report.get('lead_paragraph', ''))
-        
-        findings_li = "".join([f"<li>🔹 {esc(f)}</li>\n" for f in report.get('key_findings', [])])
         regime_vs_reality = esc(report.get('regime_vs_reality', ''))
         strategic_outlook = esc(report.get('strategic_outlook', ''))
-
-        rich_html = (
-            f"<h1>📂 پرونده ویژه شبانگاهی: {headline}</h1>\n"
-            f"<p>⏱ <b>زمان صدور:</b> {time_str} — {date_str} (تهران) | 🏷 #{tag}</p>\n"
-            f"<hr/>\n"
-            f"<p>📌 <b>اصل ماجرا:</b> {lead}</p>\n"
-            f"<h2>🔍 یافته‌های کلیدی و زوایای پنهان</h2>\n"
-            f"<ul>\n{findings_li}</ul>\n"
-            f"<hr/>\n"
-            f"<h2>⚔️ ادعای حکومت در برابر واقعیت میدانی</h2>\n"
-            f"<p>{regime_vs_reality}</p>\n"
-            f"<h2>🔮 چشم‌انداز استراتژیک</h2>\n"
-            f"<p>{strategic_outlook}</p>\n"
-            f"<footer>\n"
-            f"<p>📊 <a href=\"{base_site}\">مشاهده کامل اخبار در داشبورد زنده</a> | 🆔 <a href=\"https://t.me/Enqelab_e_Iran\">@Enqelab_e_Iran</a></p>\n"
-            f"<p>انقلاب | Shir o Khorshid 🦁🔆</p>\n"
-            f"</footer>\n"
-        )
 
         inline_keyboard = {
             "inline_keyboard": [[
@@ -936,29 +927,8 @@ STRICT OUTPUT JSON:
             ]]
         }
 
-        # 1. Send Rich Message
-        rich_api = f"https://api.telegram.org/bot{token}/sendRichMessage"
-        payload = {
-            "chat_id": chat_id,
-            "rich_message": {
-                "html": rich_html,
-                "is_rtl": True,
-            },
-            "reply_markup": inline_keyboard,
-        }
-
-        try:
-            resp = self.scraper.post(rich_api, json=payload, timeout=30)
-            if resp.status_code == 200:
-                logger.info(">>> Special Topic Report successfully sent as Rich Message.")
-                return True
-            logger.warning(f"sendRichMessage for Special Report failed ({resp.status_code}), falling back.")
-        except Exception as e:
-            logger.warning(f"Special Report Rich Message exception: {e}, falling back.")
-
-        # 2. Fallback sendMessage
         findings_text = "".join([f"🔹 {esc(f)}\n" for f in report.get('key_findings', [])])
-        fallback_text = (
+        text = (
             f"📂 <b>پرونده ویژه شبانگاهی: {headline}</b>\n"
             f"⏱ <b>زمان:</b> {time_str} — {date_str} | 🏷 #{tag}\n\n"
             f"📌 <b>اصل ماجرا:</b>\n{lead}\n\n"
@@ -972,22 +942,29 @@ STRICT OUTPUT JSON:
         try:
             resp = self.scraper.post(standard_api, json={
                 "chat_id": chat_id,
-                "text": fallback_text,
+                "text": text,
                 "parse_mode": "HTML",
                 "disable_web_page_preview": True,
                 "reply_markup": inline_keyboard
             }, timeout=30)
-            return resp.status_code == 200
+            if resp.status_code != 200:
+                logger.error(f"Special Report sendMessage failed {resp.status_code}: {resp.text[:500]}")
+                return False
+            logger.info(">>> Special Topic Report sent to Telegram.")
+            return True
         except Exception as e:
-            logger.error(f"Special Report standard fallback error: {e}")
+            logger.error(f"Special Report send error: {e}")
             return False
 
     def send_daily_summary_to_telegram(self, summary):
-        """Format and send Daily Summary using Telegram Rich Messages with RTL support."""
+        """Format and send Daily Summary using standard Telegram HTML (sendMessage)."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
-        if not token or not chat_id or not summary:
-            logger.warning("TG credentials or summary missing. Skipping TG dispatch.")
+        if not token or not chat_id:
+            logger.error("TG_BOT_TOKEN or TG_CHANNEL_ID is not set – cannot send Daily Summary.")
+            return False
+        if not summary:
+            logger.warning("Daily Summary is empty. Skipping TG dispatch.")
             return False
 
         def esc(s):
@@ -998,44 +975,10 @@ STRICT OUTPUT JSON:
         date_str = tehran_now.strftime("%Y/%m/%d")
 
         base_site = CONFIG['BASE_SITE_URL']
-        themes_li = "".join([f"<li>🔹 {esc(t)}</li>\n" for t in summary.get('themes', [])])
-        
         forecast = summary.get('forecast', {})
         most_likely = esc(forecast.get('most_likely_scenario', ''))
-        flashpoint = esc(forecast.get('flashpoint_indicator', ''))
-
         vulns = summary.get('regime_vulnerabilities', {})
         vuln_text = esc(vulns.get('regime_internal_friction') or vulns.get('infrastructure_vulnerability') or '')
-
-        rich_html = (
-            f"<h1>📊 ارزیابی استراتژیک و جمع‌بندی روزانه</h1>\n"
-            f"<p>⏱ <b>زمان صدور:</b> {time_str} — {date_str} (تهران)</p>\n"
-            f"<hr/>\n"
-            f"<details open>\n"
-            f"<summary>📌 <b>چکیده مدیریتی</b></summary>\n"
-            f"<p>{esc(summary.get('executive_tldr'))}</p>\n"
-            f"</details>\n"
-            f"<h2>🎯 محورهای کلیدی ارزیابی</h2>\n"
-            f"<ul>\n{themes_li}</ul>\n"
-            f"<hr/>\n"
-            f"<h2>🧠 تحلیل استراتژیک و موازنه قدرت</h2>\n"
-            f"<p>{esc(summary.get('strategic_assessment'))}</p>\n"
-            f"<h2>🔮 پیش‌بینی سناریوی محتمل (۳ تا ۷ روز آینده)</h2>\n"
-            f"<p>{most_likely}</p>\n"
-            f"<h2>⚠️ شاخص ماشه‌چکان (Flashpoint)</h2>\n"
-            f"<p>{flashpoint}</p>\n"
-            f"<hr/>\n"
-            f"<h2>📈 ارزیابی ریسک و اقتصاد</h2>\n"
-            f"<ul>\n"
-            f"<li>🚨 <b>سطح ریسک:</b> {summary.get('risk_level', '?')}/10 ({esc(summary.get('change_from_previous', ''))})</li>\n"
-            f"<li>💵 <b>چشم‌انداز بازار و ارز:</b> {esc(summary.get('currency_outlook', ''))}</li>\n"
-            f"<li>💥 <b>آسیب‌پذیری حاکمیتی:</b> {vuln_text}</li>\n"
-            f"</ul>\n"
-            f"<footer>\n"
-            f"<p>📊 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده رصد</a> | 🆔 <a href=\"https://t.me/Enqelab_e_Iran\">@Enqelab_e_Iran</a></p>\n"
-            f"<p>انقلاب | Shir o Khorshid 🦁🔆</p>\n"
-            f"</footer>\n"
-        )
 
         inline_keyboard = {
             "inline_keyboard": [[
@@ -1043,28 +986,7 @@ STRICT OUTPUT JSON:
             ]]
         }
 
-        # 1. Primary Attempt: Send Rich Message
-        rich_api = f"https://api.telegram.org/bot{token}/sendRichMessage"
-        payload = {
-            "chat_id": chat_id,
-            "rich_message": {
-                "html": rich_html,
-                "is_rtl": True,
-            },
-            "reply_markup": inline_keyboard,
-        }
-
-        try:
-            resp = self.scraper.post(rich_api, json=payload, timeout=30)
-            if resp.status_code == 200:
-                logger.info(">>> Daily Summary successfully sent as Rich Message.")
-                return True
-            logger.warning(f"sendRichMessage for Daily Summary failed ({resp.status_code}), falling back to sendMessage.")
-        except Exception as e:
-            logger.warning(f"Daily Summary Rich Message exception: {e}, falling back.")
-
-        # 2. Fallback: Standard Telegram HTML sendMessage
-        fallback_text = (
+        text = (
             f"📊 <b>ارزیابی استراتژیک و جمع‌بندی روزانه</b>\n"
             f"⏱ <b>زمان:</b> {time_str} — {date_str} (تهران)\n\n"
             f"📌 <b>چکیده مدیریتی:</b>\n{esc(summary.get('executive_tldr'))}\n\n"
@@ -1078,7 +1000,7 @@ STRICT OUTPUT JSON:
         try:
             resp = self.scraper.post(standard_api, json={
                 "chat_id": chat_id,
-                "text": fallback_text,
+                "text": text,
                 "parse_mode": "HTML",
                 "disable_web_page_preview": True,
                 "reply_markup": inline_keyboard
@@ -1089,11 +1011,14 @@ STRICT OUTPUT JSON:
             return False
 
     def send_bulletin_to_telegram(self, bulletin):
-        """Format and send Scheduled Bulletin using Telegram Rich Messages with RTL support."""
+        """Format and send Scheduled Bulletin using standard Telegram HTML (sendMessage)."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
-        if not token or not chat_id or not bulletin:
-            logger.warning("TG credentials or bulletin missing. Skipping TG dispatch.")
+        if not token or not chat_id:
+            logger.error("TG_BOT_TOKEN or TG_CHANNEL_ID is not set – cannot send Bulletin.")
+            return False
+        if not bulletin:
+            logger.warning("Bulletin is empty. Skipping TG dispatch.")
             return False
 
         def esc(s):
@@ -1103,26 +1028,7 @@ STRICT OUTPUT JSON:
         date_str = esc(bulletin.get('date', ''))
         time_str = esc(bulletin.get('time', '23:00'))
         base_site = CONFIG['BASE_SITE_URL']
-
-        bullets_li = "".join([f"<li>🔹 {esc(b)}</li>\n" for b in bulletin.get('bullets', [])])
         bottom_line = esc(bulletin.get('bottom_line', ''))
-
-        rich_html = (
-            f"<h1>🗞 {title}</h1>\n"
-            f"<p>⏱ <b>زمان صدور:</b> {time_str} — {date_str} (تهران)</p>\n"
-            f"<hr/>\n"
-            f"<h2>📌 سرخط مهم‌ترین نکات بولتن</h2>\n"
-            f"<ul>\n{bullets_li}</ul>\n"
-            f"<hr/>\n"
-            f"<details open>\n"
-            f"<summary>💡 <b>جمع‌بندی نهایی و ارزیابی</b></summary>\n"
-            f"<p>{bottom_line}</p>\n"
-            f"</details>\n"
-            f"<footer>\n"
-            f"<p>📊 <a href=\"{base_site}\">مشاهده جزییات کامل در داشبورد زنده</a> | 🆔 <a href=\"https://t.me/Enqelab_e_Iran\">@Enqelab_e_Iran</a></p>\n"
-            f"<p>انقلاب | Shir o Khorshid 🦁🔆</p>\n"
-            f"</footer>\n"
-        )
 
         inline_keyboard = {
             "inline_keyboard": [[
@@ -1130,29 +1036,8 @@ STRICT OUTPUT JSON:
             ]]
         }
 
-        # 1. Primary Attempt: Send Rich Message
-        rich_api = f"https://api.telegram.org/bot{token}/sendRichMessage"
-        payload = {
-            "chat_id": chat_id,
-            "rich_message": {
-                "html": rich_html,
-                "is_rtl": True,
-            },
-            "reply_markup": inline_keyboard,
-        }
-
-        try:
-            resp = self.scraper.post(rich_api, json=payload, timeout=30)
-            if resp.status_code == 200:
-                logger.info(">>> Scheduled Bulletin successfully sent as Rich Message.")
-                return True
-            logger.warning(f"sendRichMessage for Bulletin failed ({resp.status_code}), falling back to sendMessage.")
-        except Exception as e:
-            logger.warning(f"Bulletin Rich Message exception: {e}, falling back.")
-
-        # 2. Fallback: Standard Telegram HTML sendMessage
         bullets_text = "".join([f"🔹 {esc(b)}\n\n" for b in bulletin.get('bullets', [])])
-        fallback_text = (
+        text = (
             f"🗞 <b>{title}</b>\n"
             f"⏱ <b>زمان:</b> {time_str} — {date_str} (تهران)\n"
             f"───────────────────\n\n"
@@ -1165,14 +1050,18 @@ STRICT OUTPUT JSON:
         try:
             resp = self.scraper.post(standard_api, json={
                 "chat_id": chat_id,
-                "text": fallback_text,
+                "text": text,
                 "parse_mode": "HTML",
                 "disable_web_page_preview": True,
                 "reply_markup": inline_keyboard
             }, timeout=30)
-            return resp.status_code == 200
+            if resp.status_code != 200:
+                logger.error(f"Bulletin sendMessage failed {resp.status_code}: {resp.text[:500]}")
+                return False
+            logger.info(">>> Bulletin sent to Telegram.")
+            return True
         except Exception as e:
-            logger.error(f"Bulletin standard fallback error: {e}")
+            logger.error(f"Bulletin send error: {e}")
             return False
 
     def send_digest_to_telegram(self, items):
@@ -1180,7 +1069,10 @@ STRICT OUTPUT JSON:
         including a visible link to the original article."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
-        if not token or not chat_id or not items:
+        if not token or not chat_id:
+            logger.error("TG_BOT_TOKEN or TG_CHANNEL_ID is not set – cannot send news digest. Set them in GitHub Secrets (https://github.com/Nick-Machiavelli/Gustavo/settings/secrets/actions).")
+            return
+        if not items:
             return
 
         items.sort(key=lambda x: x.get('urgency', 3), reverse=True)

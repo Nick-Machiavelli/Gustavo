@@ -3,7 +3,7 @@ name: Iran Radar Update
 on:
   schedule:
       - cron: '0,30 * * * *'
-  workflow_dispatch:      # Allows manual run
+  workflow_dispatch:
     inputs:
       manual_url:
         description: 'Paste a specific News URL to process (Leave empty for normal mode)'
@@ -13,9 +13,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: iran-radar-update
+  cancel-in-progress: false
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout Code
@@ -24,11 +29,20 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Install Dependencies
         run: |
+          pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: Validate Secrets
+        run: |
+          missing=0
+          if [ -z "${{ secrets.TG_BOT_TOKEN }}" ]; then echo "::error::TG_BOT_TOKEN secret is missing - Telegram dispatch will be skipped"; missing=1; fi
+          if [ -z "${{ secrets.TG_CHANNEL_ID }}" ]; then echo "::error::TG_CHANNEL_ID secret is missing - Telegram dispatch will be skipped"; missing=1; fi
+          if [ -z "${{ secrets.AI_API_KEY }}" ]; then echo "::warning::AI_API_KEY secret is missing - AI analysis will be skipped"; fi
+          if [ $missing -eq 1 ]; then echo "::warning::Fix missing secrets at https://github.com/${{ github.repository }}/settings/secrets/actions"; fi
 
       - name: Run News Script
         env: 
@@ -39,16 +53,23 @@ jobs:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
           BASE_SITE_URL: ${{ secrets.BASE_SITE_URL }}
-          # Pass the manual input to an Environment Variable
           MANUAL_URL: ${{ inputs.manual_url }}
         run: python main.py
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "IranRadarBot"
-          git config --global user.email "bot@noreply.github.com"
+          git config user.name "IranRadarBot"
+          git config user.email "bot@noreply.github.com"
           
-          git add news.json market.json daily_summary.json bulletins.json special_reports.json
+          # Track all JSON outputs including schedule state (persists dedup/schedule across ephemeral runners)
+          git add news.json market.json daily_summary.json bulletins.json special_reports.json schedule_state.json 2>/dev/null || true
+          # Also add if they are new/untracked
+          git add -A 2>/dev/null || true
           
-          # Commit only if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news feed" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          
+          git commit -m "Update news feed [skip ci]"
+          git push
