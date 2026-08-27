@@ -184,6 +184,76 @@ class IranNewsRadar:
         clean = re.sub(r'[^\w\s]', '', text.lower())
         return re.sub(r'\s+', '', clean)
 
+    def _fix_persian_orthography(self, text):
+        """Fix common Persian spelling/orthography errors (zero-width, ye/ke, spacing, common typos).
+        Applied to every AI-generated Persian field before saving/posting."""
+        if not text or not isinstance(text, str):
+            return text
+        # 1. Normalize Arabic ye/ke to Persian
+        text = text.replace('ي', 'ی').replace('ك', 'ک').replace('ۀ', 'هٔ')
+        # 2. Fix common misspellings (without ZWNJ issues – use plain forms)
+        fixes = {
+            'مسول': 'مسئول',
+            'مسولین': 'مسئولان',
+            'مشکلات ': 'مشکلات ',
+            'اتهامات': 'اتهام‌ها',
+            'اقدامات': 'اقدام‌ها',
+            'اطلاعات': 'اطلاعات',
+            'ساختمان': 'ساختمان',
+            'انفجار ': 'انفجار ',
+            'هسته ای': 'هسته‌ای',
+            'هسته‌ای ': 'هسته‌ای ',
+            'موشکی': 'موشکی',
+            'پهپادی': 'پهپادی',
+            'تحریم ها': 'تحریم‌ها',
+            'تحریمها': 'تحریم‌ها',
+            'حمله ها': 'حمله‌ها',
+            'حمله‌ها ': 'حمله‌ها ',
+            'نظامی ': 'نظامی ',
+            'اقتصادی ': 'اقتصادی ',
+            'سیاسی ': 'سیاسی ',
+            'آمریکا ': 'آمریکا ',
+            'اسراییل': 'اسرائیل',
+            'اسراییلی': 'اسرائیلی',
+            'اطلاعات ': 'اطلاعات ',
+            'جمهوری اسلامی': 'جمهوری اسلامی',
+            'سپاه پاسداران': 'سپاه پاسداران',
+            'وزارت خارجه': 'وزارت خارجه',
+            '  ': ' ',
+        }
+        for wrong, correct in fixes.items():
+            text = text.replace(wrong, correct)
+        # 3. Fix verb prefixes: "می رود" -> "می‌رود", "نمی شود" -> "نمی‌شود"
+        text = re.sub(r'\bمی\s+', 'می‌', text)
+        text = re.sub(r'\bنمی\s+', 'نمی‌', text)
+        # 4. Fix plural suffix spacing: "ها " with preceding space -> "‌ها"
+        text = re.sub(r'(\S)\s+ها\b', r'\1‌ها', text)
+        # but revert if it broke valid words like "تنها"
+        text = text.replace('تن‌ها', 'تنها')
+        # 5. Collapse multiple spaces, trim
+        text = re.sub(r'\s+', ' ', text).strip()
+        # 6. Fix punctuation spacing: no space before ، ؛ : . ! ?
+        text = re.sub(r'\s+([،؛:!.؟])', r'\1', text)
+        text = re.sub(r'([،؛:])\s*', r'\1 ', text)
+        text = re.sub(r'\s+', ' ', text).strip()
+        return text
+
+    def _proofread_item(self, item):
+        """Apply orthography fix to all Persian fields of a news/bulletin item."""
+        if not isinstance(item, dict):
+            return item
+        for key in ('title_fa', 'summary', 'impact', 'tag', 'lead_paragraph', 'headline'):
+            if key in item and item[key]:
+                if isinstance(item[key], list):
+                    item[key] = [self._fix_persian_orthography(s) for s in item[key]]
+                elif isinstance(item[key], str):
+                    item[key] = self._fix_persian_orthography(item[key])
+        # also key_findings, bullets, themes etc.
+        for list_key in ('key_findings', 'bullets', 'themes'):
+            if list_key in item and isinstance(item[list_key], list):
+                item[list_key] = [self._fix_persian_orthography(s) for s in item[list_key]]
+        return item
+
     def _title_hash(self, title):
         return hashlib.md5(self._normalize_text(title).encode('utf-8')).hexdigest()
 
@@ -779,6 +849,11 @@ class IranNewsRadar:
             "۶. **تغییر لحن بر اساس اهمیت (Urgency):**\n"
             " - اگر خبر نظامی/فوریت بالاست (۸ تا ۱۰): لحن ضربتی، کوتاه و صریح باشد.\n"
             " - اگر خبر اقتصادی/سیاسی است (۴ تا ۷): لحن تحلیلی و افشاگرانه باشد.\n\n"
+            "۷. **دقت املایی و نگارشی (بسیار مهم - غلط ممنوع):**\n"
+            " - تمام خروجی باید بدون حتی یک غلط املایی و نگارشی باشد. املای فارسی را کاملاً رعایت کن.\n"
+            " - نیم‌فاصله را درست به کار ببر: 'می‌رود' نه 'می رود'، 'تحریم‌ها' نه 'تحریم ها'، 'هسته‌ای' نه 'هسته ای'.\n"
+            " - از حرف 'ی' و 'ک' فارسی استفاده کن نه عربی (ی/ك عربی ممنوع).\n"
+            " - اعداد، تاریخ و اسامی خاص را دقیق بنویس و از حدس املایی پرهیز کن.\n\n"
             "قواعد امتیازبندی فوریت (Urgency Score 1-10):\n"
             "- 9-10: درگیری مستقیم نظامی، کشته شدن مقامات ارشد، ضربه به تاسیسات اتمی/نظامی.\n"
             "- 7-8: تحریم‌های خفه کننده جدید، سقوط شدید ارزی، اعتراضات سراسری، حملات نیابتی سنگین.\n"
@@ -814,7 +889,8 @@ class IranNewsRadar:
         data = self._call_ai(system_prompt, user_prompt, temperature=0.25)
         items_list = data.get('items') if isinstance(data, dict) else data
         if isinstance(items_list, list):
-            return {item.get('index'): item for item in items_list if 'index' in item}
+            # Proofread Persian orthography before returning
+            return {item.get('index'): self._proofread_item(item) for item in items_list if 'index' in item}
         return {}
         
     def generate_daily_summary(self):
@@ -893,7 +969,11 @@ STRICT OUTPUT JSON:
 }
 """
         user_prompt = f"TODAY NEWS:\n{news_block}\n\nPREVIOUS SUMMARY:\n{previous_block}"
-        return self._call_ai(system_prompt, user_prompt, temperature=0.2)
+        result = self._call_ai(system_prompt, user_prompt, temperature=0.2)
+        # Proofread Persian fields
+        if isinstance(result, dict):
+            return self._proofread_item(result)
+        return result
 
     # ───────────────────────── process item ─────────────────────────
     def send_special_report_to_telegram(self, report):
@@ -1232,6 +1312,7 @@ STRICT OUTPUT JSON:
         ])
         system_prompt = f"""
 تو سردبیر ارشد بخش اخبار فوری هستی. برای "{edition_title}" یک خلاصه خبر ۳ دقیقه‌ای روان، ضربتی و بسیار جذاب به فارسی بنویس.
+⚠️ تمام خروجی باید بدون حتی یک غلط املایی/نگارشی باشد — نیم‌فاصله را درست رعایت کن (می‌رود، تحریم‌ها، هسته‌ای) و از ی/ک فارسی استفاده کن.
 خروجی باید JSON زیر باشد:
 {{
   "edition": "{edition_key}",
@@ -1244,6 +1325,7 @@ STRICT OUTPUT JSON:
 """
         data = self._call_ai(system_prompt, news_text, temperature=0.2)
         if data:
+            data = self._proofread_item(data)
             self._atomic_json_dump('bulletins.json', data)
             logger.info(f">>> Scheduled Bulletin ({edition_title}) generated successfully.")
         return data
@@ -1267,6 +1349,7 @@ STRICT OUTPUT JSON:
         ])
         system_prompt = """
 تو تیم تحریریه پرونده‌های ویژه خبری هستی. بر اساس گزارش‌های ورودی که همگی درباره یک موضوع پرخبر امروز هستند، یک «پرونده ویژه اختصاصی» به فارسی روان، جذاب و تحلیل‌گرایانه بنویس.
+⚠️ تمام خروجی باید بدون غلط املایی/نگارشی باشد — نیم‌فاصله را درست رعایت کن (می‌رود، تحریم‌ها، هسته‌ای) و از ی/ک فارسی استفاده کن.
 خروجی باید JSON زیر باشد:
 {
   "topic_tag": "موضوع پرونده",
@@ -1283,6 +1366,7 @@ STRICT OUTPUT JSON:
 """
         data = self._call_ai(system_prompt, f"موضوع: {top_tag}\n\nگزارش‌ها:\n{cluster_context}", temperature=0.25)
         if data:
+            data = self._proofread_item(data)
             self._atomic_json_dump('special_reports.json', data)
             logger.info(f">>> Special Report on ({top_tag}) generated successfully.")
         return data
@@ -1418,7 +1502,7 @@ STRICT OUTPUT JSON:
                     photo_url = self._pick_image(item['photo'], item['cand'].get('image'), fallback_text=item['headline'])
                     news_id = self._generate_news_id(item['clean_url'])
 
-                    res = {
+                    res = self._proofread_item({
                         "id": news_id,
                         "title_fa": ai.get('title_fa', item['headline']),
                         "title_en": item['headline'],
@@ -1432,7 +1516,7 @@ STRICT OUTPUT JSON:
                         "clean_url": item['clean_url'],
                         "image": photo_url,
                         "timestamp": ts
-                    }
+                    })
                     new_processed_items.append(res)
                     self.seen_urls.add(res['clean_url'])
                     self.recent_title_hashes.add(self._title_hash(res.get('title_en', '')))
