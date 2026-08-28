@@ -97,6 +97,7 @@
                                     background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 50%, #020617 100%);
                                 }
 
+
                 /* ====================
                    COMPLETE DARK MODE SYSTEM
                    — covers Hot Topics Strip, Ticker, Tension Panel,
@@ -104,7 +105,71 @@
                    — all with high-contrast colors
                    ==================== */
 
-                /* ---- Body & Cards ---- */
+                /* ---- Light Mode Base (overrides Tailwind defaults for readability) ---- */
+                .text-gray-300,
+                .text-gray-400,
+                .text-gray-500,
+                .text-gray-600 { color: #4b5563 !important; }
+
+                /* ---- Hot Topics Strip (سرخط داغ) — light mode ---- */
+                .bg-amber-50\/70 { background: #fefce8 !important; border-color: #fef08a !important; }
+                .bg-amber-50\/70 .gustavo-kicker,
+                .bg-amber-50\/70 .text-gustavo-ink,
+                .bg-amber-50\/70 span,
+                .bg-amber-50\/70 a { color: #92400e !important; }
+
+                /* ---- Market Ticker ---- */
+                .bg-white.border-gustavo-line.overflow-hidden { background: #ffffff !important; border-color: #e2e8f0 !important; }
+                #ticker-content { color: #0f172a !important; }
+                #ticker-content a { color: #b45309 !important; }
+                #ticker-content .bg-gustavo-ink.text-white { background: #0f172a !important; color: #f3f4f6 !important; }
+
+                /* ---- Security Index ---- */
+                #tension-text { color: #16a34a !important; }
+                #tension-percent { color: #b45309 !important; }
+
+                /* ---- Flashpoint Badges ---- */
+                .bg-red-100 { background: #fee2e2 !important; color: #b91c1c !important; }
+                .bg-orange-100 { background: #ffedd5 !important; color: #c2410c !important; }
+
+                /* ---- Market Tabs ---- */
+                #tab-crypto { color: #92400e !important; }
+                #tab-forex { color: #065f46 !important; }
+                #tab-oil { color: #ffffff !important; }
+
+                /* ---- Nav Pills (light) ---- */
+                .nav-pill-active { background: #0f172a !important; color: #ffffff !important; }
+                .nav-pill-inactive { background: #f8fafc !important; color: #0f172a !important; border: 1px solid #e2e8f0 !important; }
+
+                /* ---- Article & Card Titles ---- */
+                .text-gustavo-ink { color: #0f172a !important; }
+                .text-gustavo-amber { color: #b45309 !important; }
+                .text-gustavo-muted { color: #6b7280 !important; }
+                .text-emerald-700 { color: #065f46 !important; }
+                .text-violet-600, .text-blue-600 { color: #4d4d91 !important; }
+                .text-orange-700, .text-amber-700 { color: #b45309 !important; }
+                .text-sky-700 { color: #03698d !important; }
+                .text-red-700, .text-red-600 { color: #b91c1c !important; }
+                .text-gray-700, .text-gray-500, .text-gray-400, .text-gray-300 { color: #4b5563 !important; }
+
+                /* ---- Form Inputs (light mode) ---- */
+                input, select { background: #f8fafc !important; color: #1e293b !important; border-color: #cbd5e1 !important; }
+
+                /* ---- Empty State ---- */
+                .bg-white.p-12 { background: #ffffff !important; }
+
+                /* ---- Modal Backdrop ---- */
+                #daily-summary-modal > div, #mobile-drawer > div, #mobile-drawer .bg-white.rounded-t-xl { background: #ffffff !important; }
+
+                /* ---- Price Units ---- */
+                .price-currency { color: #4b5563 !important; font-weight: 600; }
+
+                /* ---- Mobile Nav Icons ---- */
+                #mob-nav-threat, #mob-nav-bulletin, #mob-nav-tools { color: #6b7280 !important; }
+
+                /* ----------------------------------------------------------------
+                   DARK MODE OVERRIDES — applies when <html class=\"dark\">
+                   ---------------------------------------------------------------- */
                 html.dark body { background: #0b0f19 !important; color: #f3f4f6 !important; }
                 html.dark .gustavo-card, html.dark .bg-white { background: #111827 !important; border-color: #1f293d !important; color: #f3f4f6 !important; }
                 html.dark .bg-gustavo-surface, html.dark .bg-gray-50, html.dark .bg-gray-100 { background: #1f293d !important; border-color: #374151 !important; color: #e5e7eb !important; }
@@ -162,10 +227,10 @@
                 html.dark .bg-red-50 { background: #2a1215 !important; border-color: #5c1d24 !important; }
                 html.dark .bg-red-50 .text-gustavo-amber { color: #f87171 !important; }
 
-                /* ---- Market Tab Buttons (crypto/forex/oil) — light mode text colors ---- */
-                #tab-crypto { color: #0f172a !important; }
-                #tab-forex { color: #0f172d !important; }
-                #tab-oil { color: #ffffff !important; }
+                /* ---- Market Tab Buttons (crypto/forex/oil) ---- */
+                html.dark #tab-crypto { background: #2a1f0a !important; border-color: #4a3812 !important; color: #fde68a !important; }
+                html.dark #tab-forex { background: #022c27 !important; border-color: #044d42 !important; color: #6ee7b7 !important; }
+                html.dark #tab-oil { background: #1a1a2e !important; border-color: #333366 !important; color: #cbd5e1 !important; }
 
                 /* ---- Nav Pill Tabs (صفحه اصلی، نظامی، ...) ---- */
                 .nav-pill-active { background: #0f172a !important; color: #ffffff !important; }
@@ -178,6 +243,8 @@
                 html.dark #category-chips button.chip-active { background: #f59e0b !important; color: #0f172a !important; }
                 html.dark #category-chips button:not(.chip-active) { background: #1f293d !important; border-color: #374151 !important; color: #e5e7eb !important; }
                 html.dark #category-chips button:not(.chip-active):hover { border-color: #f59e0b !important; }
+                #category-chips button.chip-active { background: #0f172a !important; color: #ffffff !important; }
+                #category-chips button:not(.chip-active) { background: #ffffff !important; border-color: #e2e8f0 !important; color: #0f172a !important; }
 
                 /* ---- Hero Lead / Article Cards ---- */
                 html.dark .bg-gradient-to-t { background: linear-gradient(to top, #00000080, transparent) !important; }
@@ -226,6 +293,9 @@
 
                 /* ---- Analysis Box ---- */
                 html.dark .bg-gustavo-surface\.p-3, html.dark .bg-gustavo-surface\.p-3\.sm\:p-4 { background: #1f293d !important; border-color: #374151 !important; }
+
+                /* ---- Logo Avatar --- */
+                html.dark .gustavo-logo-avatar-inner { background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 50%, #020617 100%) !important; }
 
                 /* ---- Animated Loading ---- */
                 html.dark .animate-pulse .bg-gray-200 { background: #1f293d !important; }
