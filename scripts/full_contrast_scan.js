@@ -61,7 +61,7 @@ function contrast(fg, bg) {
 }
 
 async function runThemeCheck(theme) {
-  const tab = await httpRequest('PUT', 'http://127.0.0.1:9227/json/new?http://localhost:8099/?v=' + Date.now());
+  const tab = await httpRequest('PUT', 'http://127.0.0.1:9227/json/new?http://localhost:8100/?v=' + Date.now());
   const ws = new WS(tab.webSocketDebuggerUrl);
   let id = 0; const pend = {};
   const send = (method, params = {}) => new Promise(r => {

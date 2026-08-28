@@ -104,8 +104,8 @@
                    ==================== */
 
                 /* ---- Light Mode Base (overrides Tailwind defaults for readability) ---- */
-                html:not(.dark) .text-gray-300,
-                html:not(.dark) .text-gray-400,
+                html:not(.dark) .text-gray-700,
+                html:not(.dark) .text-gray-700,
                 html:not(.dark) .text-gray-500,
                 html:not(.dark) .text-gray-600 { color: #4b5563 !important; }
 
@@ -138,12 +138,12 @@
 
                 /* ---- Fix light-unreadable Tailwind tints (amber/emerald/gray-200) ---- */
                 /* Only inside LIGHT surfaces (not the always-dark top rail) */
-                html:not(.dark) :not(.bg-gustavo-ink) > .text-amber-300,
-                html:not(.dark) .text-amber-300:not(.bg-gustavo-ink *),
+                html:not(.dark) :not(.bg-gustavo-ink) > .text-amber-700,
+                html:not(.dark) .text-amber-700:not(.bg-gustavo-ink *),
                 html:not(.dark) .text-amber-400 { color: #b45309 !important; }
-                html:not(.dark) .text-emerald-300,
+                html:not(.dark) .text-emerald-700,
                 html:not(.dark) .text-emerald-400 { color: #047857 !important; }
-                html:not(.dark) .text-gray-200 { color: #6b7280 !important; }
+                html:not(.dark) .text-gray-700 { color: #6b7280 !important; }
                 html:not(.dark) .text-gray-100 { color: #9ca3af !important; }
                 html:not(.dark) .text-gray-50  { color: #9ca3af !important; }
 
@@ -242,7 +242,7 @@
                 .text-orange-700, .text-amber-700 { color: #b45309 !important; }
                 .text-sky-700 { color: #03698d !important; }
                 .text-red-700, .text-red-600 { color: #b91c1c !important; }
-                .text-gray-700, .text-gray-500, .text-gray-400, .text-gray-300 { color: #4b5563 !important; }
+                .text-gray-700, .text-gray-500, .text-gray-700, .text-gray-700 { color: #4b5563 !important; }
 
                 /* ---- Form Inputs (light mode) ---- */
                 input, select { background: #f8fafc !important; color: #1e293b !important; border-color: #cbd5e1 !important; }
@@ -268,8 +268,8 @@
                 html.dark .border-gray-200, html.dark .border-gray-300, html.dark .border-gray-100, html.dark .border-gustavo-line { border-color: #374151 !important; }
                 html.dark .text-gustavo-ink, html.dark .text-gray-800, html.dark .text-gray-700 { color: #f3f4f6 !important; }
                 html.dark .text-gustavo-muted, html.dark .text-gray-600, html.dark .text-gray-500 { color: #9ca3af !important; }
-                html.dark .text-gray-400 { color: #9ca3af !important; }
-                html.dark .text-gray-300 { color: #d1d5db !important; }
+                html.dark .text-gray-700 { color: #9ca3af !important; }
+                html.dark .text-gray-700 { color: #d1d5db !important; }
 
                 /* ---- Hot Topics Strip (سرخط داغ) — amber strip ---- */
                 html.dark .bg-amber-50\/70 { background: #2a1f0a !important; border-color: #4a3812 !important; }
@@ -287,8 +287,8 @@
                 html.dark .bg-white\/10 { background: #0b0f19 !important; border-color: #1f293d !important; }
                 html.dark .bg-gustavo-amber.text-gustavo-ink { background: #f59e0b !important; color: #0f172a !important; }
                 html.dark .text-white\/20 { color: #1f293d !important; }
-                html.dark .text-emerald-300 { color: #6ee7b7 !important; }
-                html.dark .text-amber-300 { color: #fde68a !important; }
+                html.dark .text-emerald-700 { color: #6ee7b7 !important; }
+                html.dark .text-amber-700 { color: #fde68a !important; }
                 html.dark .text-sky-300 { color: #7dd3fc !important; }
                 html.dark .text-violet-300 { color: #c4b5fd !important; }
                 html.dark .text-purple-300 { color: #c084fc !important; }
@@ -341,7 +341,7 @@
                 /* ---- Hero Lead / Article Cards ---- */
                 html.dark .bg-gradient-to-t { background: linear-gradient(to top, #00000080, transparent) !important; }
                 html.dark .bg-black { background: #0b0f19 !important; }
-                html.dark .bg-black .text-gray-400 { color: #9ca3af !important; }
+                html.dark .bg-black .text-gray-700 { color: #9ca3af !important; }
                 html.dark .bg-white\/5, html.dark .bg-gustavo-amber\/30 { background: rgba(245, 158, 11, 0.25) !important; }
                 html.dark .border-white\/10, html.dark .border-white\/20 { border-color: rgba(255, 255, 255, 0.08) !important; }
 
@@ -371,14 +371,14 @@
                 html.dark .bg-gustavo-amber.text-white.border-t-4 { background: #f59e0b !important; border-top-color: #f59e0b !important; }
 
                 /* ---- Footer ---- */
-                html.dark .bg-gustavo-ink.text-gray-300.border-t-4 { background: #0b0f19 !important; border-top-color: #f59e0b !important; }
+                html.dark .bg-gustavo-ink.text-gray-700.border-t-4 { background: #0b0f19 !important; border-top-color: #f59e0b !important; }
 
                 /* ---- Load More Button ---- */
                 html.dark .bg-gustavo-ink.hover\:bg-gustavo-inksoft.text-white { background: #0f172a !important; }
 
                 /* ---- Empty State ---- */
                 html.dark .bg-white.p-12 { background: #111827 !important; }
-                html.dark .text-gray-400.text-4xl, html.dark .text-gray-500.font-medium { color: #9ca3af !important; }
+                html.dark .text-gray-700.text-4xl, html.dark .text-gray-500.font-medium { color: #9ca3af !important; }
 
                 /* ---- Article Badges & Borders ---- */
                 html.dark .border, html.dark .border-2 { border-color: #374151 !important; }
@@ -490,18 +490,18 @@
                 </span>
                 <a href="#" onclick="showHomeView()" class="hover:text-gustavo-amber transition-colors">خانه</a>
                 <a href="#" onclick="switchTab('dashboard')" class="hover:text-gustavo-amber transition-colors">دید اقتصادی</a>
-                <a href="#" onclick="openDailySummaryModal()" class="hover:text-gustavo-amber transition-colors text-amber-300 font-bold"><i class="fas fa-sparkles"></i> بولتن روزانه</a>
+                <a href="#" onclick="openDailySummaryModal()" class="hover:text-gustavo-amber transition-colors text-amber-700 font-bold"><i class="fas fa-sparkles"></i> بولتن روزانه</a>
                                 <div class="hidden sm:flex items-center gap-2 px-2.5 py-1 bg-white/10 rounded-full text-[10px]">
                     <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
                     <span id="sync-label" class="text-white">همگام‌سازی:</span>
                     <span id="github-sync-status" class="text-white font-bold">بروز</span>
                 </div>
             </div>
-            <div class="flex items-center gap-4 text-gray-300">
+            <div class="flex items-center gap-4 text-gray-700">
                 <span>تهران: <strong id="clock-teh" class="text-white font-bold">--:--</strong></span>
-                <span class="text-white/20">|</span>
+                <span class="text-gray-500">|</span>
                 <span>تل‌آویو: <span id="clock-tlv">--:--</span></span>
-                <span class="text-white/20">|</span>
+                <span class="text-gray-500">|</span>
                 <span>واشنگتن: <span id="clock-dc">--:--</span></span>
             </div>
         </div>
@@ -588,19 +588,19 @@
             </div>
             <div class="flex items-center gap-4 sm:gap-6 px-3 overflow-x-auto scrollbar-hide font-mono text-[11px] sm:text-xs w-full whitespace-nowrap">
                 <div>USD <span id="price-usd" class="font-bold text-white">...</span></div>
-                <div class="text-white/20">|</div>
+                <div class="text-gray-500">|</div>
                 <div>EUR <span id="price-eur" class="font-bold text-white">...</span></div>
-                <div class="text-white/20">|</div>
+                <div class="text-gray-500">|</div>
                 <div>BTC <span id="price-btc" class="font-bold text-white">...</span>$</div>
-                <div class="text-white/20">|</div>
+                <div class="text-gray-500">|</div>
                 <div>ETH <span id="price-eth" class="font-bold text-white">...</span>$</div>
-                <div class="text-white/20">|</div>
+                <div class="text-gray-500">|</div>
                 <div>SOL <span id="price-sol" class="font-bold text-white">...</span>$</div>
-                <div class="text-white/20">|</div>
+                <div class="text-gray-500">|</div>
                 <div>Brent <span id="price-brent" class="font-bold text-white">...</span>$</div>
-                <div class="text-white/20">|</div>
+                <div class="text-gray-500">|</div>
                 <div>WTI <span id="price-wti" class="font-bold text-white">...</span>$</div>
-                <div class="text-white/20">|</div>
+                <div class="text-gray-500">|</div>
                 <div class="animate-pulse text-gustavo-amber">● زنده</div>
             </div>
         </div>
@@ -739,7 +739,7 @@
                 <!-- 3. SEARCH & FILTER TOOLBAR -->
                 <div class="gustavo-card p-4 flex flex-col sm:flex-row justify-between gap-3 items-center">
                     <div class="relative w-full sm:w-1/2">
-                        <i class="fas fa-search absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 text-xs"></i>
+                        <i class="fas fa-search absolute right-3 top-1/2 -translate-y-1/2 text-gray-700 text-xs"></i>
                         <input type="text" 
                             placeholder="جستجو در متن یا موضوع اخبار..." 
                             oninput="handleSearch(this.value)"
@@ -781,7 +781,7 @@
                         <h3 class="gustavo-kicker flex items-center gap-1.5">
                             <i class="fas fa-clock text-gustavo-amber"></i> بولتن‌های نوبتی
                         </h3>
-                        <span id="bulletin-time-badge" class="text-[10px] font-mono text-gray-400">---</span>
+                        <span id="bulletin-time-badge" class="text-[10px] font-mono text-gray-700">---</span>
                     </div>
                     <div id="bulletin-widget-content" class="text-xs space-y-2">
                         <p class="text-gray-500">در حال دریافت بولتن نوبتی...</p>
@@ -800,7 +800,7 @@
 
                         <div class="absolute bottom-3 right-3 left-3">
                                                     <p class="text-xs font-bold text-white leading-tight">اتاق تحلیل و پایش هوشمند</p>
-                                                    <p class="text-[10px] text-gray-400 mt-1 font-mono">وضعیت سیستم: آنلاین</p>
+                                                    <p class="text-[10px] text-gray-700 mt-1 font-mono">وضعیت سیستم: آنلاین</p>
                                                 </div>
                     </div>
 
@@ -848,7 +848,7 @@
 
                     <div class="space-y-3">
                         <div class="flex justify-between items-center text-xs">
-                            <span class="text-gray-500 dark:text-gray-400">سطح هشدار:</span>
+                            <span class="text-gray-500 dark:text-gray-700">سطح هشدار:</span>
                                                         <span id="tension-text" class="font-bold text-yellow-600 dark:text-yellow-400">در حال ارزیابی...</span>
                         </div>
                         
@@ -856,7 +856,7 @@
                                                     <div id="tension-fill" class="h-full bg-gradient-to-r from-green-500 via-yellow-500 to-gustavo-amber w-0 transition-all duration-1000"></div>
                                                 </div>
 
-                        <div class="flex justify-between text-[10px] text-gray-500 dark:text-gray-400 font-mono">
+                        <div class="flex justify-between text-[10px] text-gray-500 dark:text-gray-700 font-mono">
                             <span>عادی</span>
                             <span>هشدار</span>
                             <span>بحرانی</span>
@@ -872,15 +872,15 @@
 
                     <div class="space-y-2 text-xs">
                         <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200 dark:border-gray-700">
-                                                    <span class="font-bold text-gustavo-ink dark:text-gray-200">تنگه هرمز و خلیج فارس</span>
+                                                    <span class="font-bold text-gustavo-ink dark:text-gray-700">تنگه هرمز و خلیج فارس</span>
                                                     <span class="px-2 py-0.5 bg-red-100 dark:bg-red-900/30 text-gustavo-amber dark:text-red-300 font-bold text-[10px] rounded-xl">هشدار بالا</span>
                                                     </div>
                                                     <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200 dark:border-gray-700">
-                                                        <span class="font-bold text-gustavo-ink dark:text-gray-200">شبه‌جزیره سینا و مصر</span>
+                                                        <span class="font-bold text-gustavo-ink dark:text-gray-700">شبه‌جزیره سینا و مصر</span>
                                                         <span class="px-2 py-0.5 bg-orange-100 dark:bg-orange-900/30 text-orange-700 dark:text-orange-300 font-bold text-[10px] rounded-xl">تحرکات پهپادی</span>
                                                     </div>
                                                     <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200 dark:border-gray-700">
-                                                        <span class="font-bold text-gustavo-ink dark:text-gray-200">مرزهای لبنان و اسرائیل</span>
+                                                        <span class="font-bold text-gustavo-ink dark:text-gray-700">مرزهای لبنان و اسرائیل</span>
                                                         <span class="px-2 py-0.5 bg-red-100 dark:bg-red-900/30 text-gustavo-amber dark:text-red-300 font-bold text-[10px] rounded-xl">درگیری فعال</span>
                         </div>
                     </div>
@@ -934,13 +934,13 @@
     <!-- DAILY SUMMARY MODAL -->
     <div id="daily-summary-modal" class="fixed inset-0 bg-black/70 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
         <div class="bg-white rounded-xl border-t-8 border-gustavo-amber max-w-3xl w-full max-h-[90vh] overflow-y-auto shadow-2xl p-6 relative">
-            <button onclick="closeDailySummaryModal()" class="absolute top-4 left-4 text-gray-400 hover:text-gustavo-amber text-lg"><i class="fas fa-times"></i></button>
+            <button onclick="closeDailySummaryModal()" class="absolute top-4 left-4 text-gray-700 hover:text-gustavo-amber text-lg"><i class="fas fa-times"></i></button>
             <div id="modal-summary-content"></div>
         </div>
     </div>
 
     <!-- FOOTER -->
-    <footer class="bg-gustavo-ink text-gray-300 text-xs mt-12 border-t-4 border-gustavo-amber rounded-t-2xl">
+    <footer class="bg-gustavo-ink text-gray-700 text-xs mt-12 border-t-4 border-gustavo-amber rounded-t-2xl">
         <div class="max-w-[1450px] mx-auto px-4 py-8 text-center text-gray-500">
             <p>© ۲۰۲۶ گوستاوو — نبض مستقل اخبار ایران. بازنشر با ذکر منبع آزاد است.</p>
             <p class="mt-1 font-mono text-[10px]" id="footer-time">UTC: --:--</p>
@@ -1472,7 +1472,7 @@ function renderHeroLead() {
                 </div>
 
                 <div class="absolute bottom-2.5 right-2.5 left-2.5 text-white text-[11px] sm:text-xs leading-relaxed font-medium backdrop-blur-md bg-black/60 p-2.5 sm:p-3 rounded-xl border border-white/10">
-                    <p class="font-bold text-amber-300 mb-0.5"><i class="fas fa-bullseye"></i> اثرگذاری راهبردی:</p>
+                    <p class="font-bold text-amber-700 mb-0.5"><i class="fas fa-bullseye"></i> اثرگذاری راهبردی:</p>
                     <p class="line-clamp-2 sm:line-clamp-none">${mainLead.impact || '---'}</p>
                 </div>
             </a>
@@ -1603,7 +1603,7 @@ function renderFeed() {
     if (visibleItems.length === 0) {
         container.innerHTML = `
             <div class="bg-white p-12 text-center rounded-xl border border-gustavo-line">
-                <i class="fas fa-inbox text-4xl text-gray-400 mb-3"></i>
+                <i class="fas fa-inbox text-4xl text-gray-700 mb-3"></i>
                 <p class="text-gray-500 font-medium text-xs">هیچ گزارشی یافت نشد.</p>
             </div>
         `;
@@ -1655,7 +1655,7 @@ function renderFeed() {
                                 <span class="gustavo-kicker flex items-center gap-1 text-[10px] sm:text-xs"><i class="fas ${tagConfig.icon}"></i> ${tagConfig.kicker}</span>
                                 <span class="text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded-xl border ${tagConfig.badgeBg}">${item.tag}</span>
                             </div>
-                            <div class="text-[10px] sm:text-[11px] text-gray-400 font-mono flex items-center gap-1.5">
+                            <div class="text-[10px] sm:text-[11px] text-gray-700 font-mono flex items-center gap-1.5">
                                 <span>${timeAgo(item.timestamp * 1000)}</span>
                                 <span>•</span>
                                 <span>${readTimeMinutes} دقیقه</span>
@@ -1675,10 +1675,10 @@ function renderFeed() {
                         <span class="font-bold text-gustavo-ink text-[11px] sm:text-xs"><i class="fas fa-university"></i> ${item.source}</span>
                         
                         <div class="flex items-center gap-3">
-                            <button onclick="copyDeepLink('${item.id || ''}')" class="text-gray-400 hover:text-gustavo-ink font-bold text-xs p-1" title="کپی لینک اختصاصی">
+                            <button onclick="copyDeepLink('${item.id || ''}')" class="text-gray-700 hover:text-gustavo-ink font-bold text-xs p-1" title="کپی لینک اختصاصی">
                                 <i class="fas fa-link"></i>
                             </button>
-                            <button onclick="speakText('${item.title_fa}')" class="text-gray-400 hover:text-gustavo-amber font-bold text-xs p-1" title="شنیدن صوتی">
+                            <button onclick="speakText('${item.title_fa}')" class="text-gray-700 hover:text-gustavo-amber font-bold text-xs p-1" title="شنیدن صوتی">
                                 <i class="fas fa-volume-up"></i>
                             </button>
                             <button onclick="toggleAnalysis(${index})" class="text-gustavo-ink hover:text-gustavo-amber font-bold text-[11px] sm:text-xs flex items-center gap-1">
@@ -1729,7 +1729,7 @@ function updateTicker() {
         html += `
             <a href="?id=${n.id || ''}" onclick="event.preventDefault(); openArticleById('${n.id || ''});" class="px-6 border-l border-gray-200 dark:border-gray-700 hover:text-gustavo-amber transition-colors cursor-pointer inline-flex items-center gap-1.5">
                 <span class="w-2 h-2 rounded-full bg-gustavo-amber animate-ping flex-shrink-0"></span>
-                <span class="font-bold text-gustavo-ink dark:text-gray-200 hover:underline">${displayTitle}</span>
+                <span class="font-bold text-gustavo-ink dark:text-gray-700 hover:underline">${displayTitle}</span>
             </a>
         `;
     });
@@ -1867,7 +1867,7 @@ function renderDashboardView() {
 
     const sourcesHTML = Object.entries(sources).map(([src, count]) => `
         <div class="p-3 bg-gustavo-surface dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 flex justify-between items-center">
-            <span class="font-bold text-gustavo-ink dark:text-gray-200 text-xs">${src}</span>
+            <span class="font-bold text-gustavo-ink dark:text-gray-700 text-xs">${src}</span>
             <span class="px-2 py-0.5 bg-gustavo-ink text-white text-[10px] font-mono rounded-xl">${count} خبر</span>
         </div>
     `).join('');
@@ -1937,12 +1937,12 @@ function switchMobileTab(tab) {
     // Reset active tabs on bottom nav bar
     document.querySelectorAll('[id^="mob-nav-"]').forEach(btn => {
         btn.classList.remove('text-gustavo-amber');
-        btn.classList.add('text-gray-400');
+        btn.classList.add('text-gray-700');
     });
 
     const activeBtn = document.getElementById(`mob-nav-${tab}`);
     if (activeBtn) {
-        activeBtn.classList.remove('text-gray-400');
+        activeBtn.classList.remove('text-gray-700');
         activeBtn.classList.add('text-gustavo-amber');
     }
 
@@ -2046,7 +2046,7 @@ setInterval(loadData, 30000);
             <span>اخبار</span>
         </button>
 
-        <button onclick="switchMobileTab('threat')" id="mob-nav-threat" class="flex flex-col items-center justify-center h-full text-gray-400 hover:text-white transition-colors">
+        <button onclick="switchMobileTab('threat')" id="mob-nav-threat" class="flex flex-col items-center justify-center h-full text-gray-700 hover:text-white transition-colors">
             <div class="relative">
                 <i class="fas fa-shield-alt text-base mb-0.5"></i>
                 <span class="absolute -top-1 -right-2 w-2 h-2 rounded-full bg-gustavo-amber animate-ping"></span>
@@ -2061,12 +2061,12 @@ setInterval(loadData, 30000);
             <span class="text-[9px] mt-0.5">بولتن</span>
         </button>
 
-        <button onclick="switchMobileTab('bulletin')" id="mob-nav-bulletin" class="flex flex-col items-center justify-center h-full text-gray-400 hover:text-white transition-colors">
+        <button onclick="switchMobileTab('bulletin')" id="mob-nav-bulletin" class="flex flex-col items-center justify-center h-full text-gray-700 hover:text-white transition-colors">
             <i class="fas fa-history text-base mb-0.5"></i>
             <span>سرخط‌ها</span>
         </button>
 
-        <button onclick="toggleMobileDrawer()" id="mob-nav-tools" class="flex flex-col items-center justify-center h-full text-gray-400 hover:text-white transition-colors">
+        <button onclick="toggleMobileDrawer()" id="mob-nav-tools" class="flex flex-col items-center justify-center h-full text-gray-700 hover:text-white transition-colors">
             <i class="fas fa-satellite text-base mb-0.5"></i>
             <span>ابزارها</span>
         </button>
@@ -2084,7 +2084,7 @@ setInterval(loadData, 30000);
             <h3 class="gustavo-kicker flex items-center gap-2 text-sm">
                 <i class="fas fa-satellite text-gustavo-ink"></i> ابزارهای پایش و کانون‌های تنش
             </h3>
-            <button onclick="toggleMobileDrawer()" class="text-gray-400 hover:text-gustavo-amber text-lg p-1"><i class="fas fa-times"></i></button>
+            <button onclick="toggleMobileDrawer()" class="text-gray-700 hover:text-gustavo-amber text-lg p-1"><i class="fas fa-times"></i></button>
         </div>
 
         <!-- 1. Regional Flashpoints on Mobile -->
