@@ -106,10 +106,19 @@
                    ==================== */
 
                 /* ---- Light Mode Base (overrides Tailwind defaults for readability) ---- */
-                .text-gray-300,
-                .text-gray-400,
-                .text-gray-500,
-                .text-gray-600 { color: #4b5563 !important; }
+                html:not(.dark) .text-gray-300,
+                html:not(.dark) .text-gray-400,
+                html:not(.dark) .text-gray-500,
+                html:not(.dark) .text-gray-600 { color: #4b5563 !important; }
+
+                /* ---- Fix light-unreadable Tailwind tints (amber/emerald/gray-200) ---- */
+                html:not(.dark) .text-amber-300,
+                html:not(.dark) .text-amber-400 { color: #b45309 !important; }
+                html:not(.dark) .text-emerald-300,
+                html:not(.dark) .text-emerald-400 { color: #047857 !important; }
+                html:not(.dark) .text-gray-200 { color: #6b7280 !important; }
+                html:not(.dark) .text-gray-100 { color: #9ca3af !important; }
+                html:not(.dark) .text-gray-50  { color: #9ca3af !important; }
 
                 /* ---- Hot Topics Strip (سرخط داغ) — light mode ---- */
                 .bg-amber-50\/70 { background: #fefce8 !important; border-color: #fef08a !important; }
