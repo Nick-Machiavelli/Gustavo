@@ -11,41 +11,40 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            darkMode: 'class',
-            theme: {
-                extend: {
-                    fontFamily: {
-                        sans: ['"Vazirmatn FD"', 'sans-serif'],
-                        brand: ['"Inter"', '"Vazirmatn FD"', 'sans-serif'],
-                        mono: ['"Vazirmatn FD"', 'monospace'],
-                    },
-                    colors: {
-                        gustavo: {
-                            ink: '#0f172a',
-                            inksoft: '#1e293b',
-                            amber: '#f59e0b',
-                            amberdark: '#d97706',
-                            teal: '#14b8a6',
-                            surface: '#f8fafc',
-                            line: '#e2e8f0',
-                            muted: '#64748b',
-                            navy: '#0f172a',
-                            darknavy: '#0f172a',
-                            red: '#f59e0b',
-                            brightred: '#d97706',
-                            graybg: '#f8fafc',
-                            border: '#e2e8f0',
-                            text: '#0f172a',
-                            subtext: '#64748b',
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script>
+            tailwind.config = {
+                theme: {
+                    extend: {
+                        fontFamily: {
+                            sans: ['"Vazirmatn FD"', 'sans-serif'],
+                            brand: ['"Inter"', '"Vazirmatn FD"', 'sans-serif'],
+                            mono: ['"Vazirmatn FD"', 'monospace'],
+                        },
+                        colors: {
+                            gustavo: {
+                                ink: '#0f172a',
+                                inksoft: '#1e293b',
+                                amber: '#f59e0b',
+                                amberdark: '#d97706',
+                                teal: '#14b8a6',
+                                surface: '#f8fafc',
+                                line: '#e2e8f0',
+                                muted: '#64748b',
+                                navy: '#0f172a',
+                                darknavy: '#0f172a',
+                                red: '#f59e0b',
+                                brightred: '#d97706',
+                                graybg: '#f8fafc',
+                                border: '#e2e8f0',
+                                text: '#0f172a',
+                                subtext: '#64748b',
+                            }
                         }
                     }
                 }
             }
-        }
-    </script>
+        </script>
 
     <style>
         body { background-color: #f8fafc; color: #0f172a; }
@@ -87,13 +86,6 @@
                                     align-items: center;
                                     gap: 8px;
                                 }
-                                html.dark .gustavo-logo-avatar {
-                                    background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 50%, #111827 100%);
-                                    box-shadow: 0 4px 20px rgba(245, 158, 11, 0.5);
-                                }
-                                html.dark .gustavo-logo-avatar-inner {
-                                    background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 50%, #020617 100%);
-                                }
 
 
                 /* ====================
@@ -104,381 +96,11 @@
                    ==================== */
 
                 /* ---- Light Mode Base (overrides Tailwind defaults for readability) ---- */
-                html:not(.dark) .text-gray-700,
-                html:not(.dark) .text-gray-500,
-                html:not(.dark) .text-gray-600 { color: #4b5563 !important; }
-
-                /* ---- LIGHT MODE: top rail is always dark (bg-gustavo-ink) — fix all text/icon/bg-in-rail ---- */
-                /* Background of the rail stays ink-black even in light mode */
-                html:not(.dark) .bg-gustavo-ink { background: #0f172a !important; }
-                /* Every text/icon inside the rail is forced light for readability */
-                html:not(.dark) .bg-gustavo-ink,
-                html:not(.dark) .bg-gustavo-ink *,
-                html:not(.dark) .bg-gustavo-ink i,
-                html:not(.dark) .bg-gustavo-ink span,
-                html:not(.dark) .bg-gustavo-ink strong,
-                html:not(.dark) .bg-gustavo-ink a,
-                html:not(.dark) .bg-gustavo-ink svg { color: #e5e7eb !important; }
-                /* Amber accents (kicker, hover, live badge) */
-                html:not(.dark) .bg-gustavo-ink .text-gustavo-amber,
-                html:not(.dark) .bg-gustavo-ink .hover\:text-gustavo-amber:hover,
-                html:not(.dark) .bg-gustavo-ink i.fas,
-                html:not(.dark) .bg-gustavo-ink i.fab,
-                html:not(.dark) .bg-gustavo-ink .w-2.h-2.bg-emerald-400 { color: #fbbf24 !important; }
-                /* Live badge dot + "زنده" on dark rail */
-                html:not(.dark) .bg-gustavo-ink .bg-emerald-400 { background: #34d399 !important; }
-                /* Divider pipes */
-                html:not(.dark) .bg-gustavo-ink .text-white\/20,
-                html:not(.dark) .bg-gustavo-ink .text-white\/20 * { color: rgba(255,255,255,0.2) !important; }
-                /* Sync badge (bg-white/10 pseudo-surface) — text must be white, dot amber */
-                html:not(.dark) #sync-label { color: #ffffff !important; }
-                html:not(.dark) #github-sync-status { color: #ffffff !important; }
-                html:not(.dark) #github-sync-status + div .bg-emerald-400 { background: #34d399 !important; }
-
-                /* ---- Fix light-unreadable Tailwind tints (amber/emerald/gray-200) ---- */
-                /* Only inside LIGHT surfaces (not the always-dark top rail) */
-                html:not(.dark) :not(.bg-gustavo-ink) > .text-amber-700,
-                html:not(.dark) .text-amber-700:not(.bg-gustavo-ink *),
-                html:not(.dark) .text-amber-400 { color: #b45309 !important; }
-                html:not(.dark) .text-emerald-700,
-                html:not(.dark) .text-emerald-400 { color: #047857 !important; }
-                html:not(.dark) .text-gray-100 { color: #9ca3af !important; }
-                html:not(.dark) .text-gray-50  { color: #9ca3af !important; }
-
-                /* ---- Market card price tints (light mode) — only on light cards, not dark rail ---- */
-                html:not(.dark) .text-sky-300 { color: #0369a1 !important; }
-                html:not(.dark) .text-sky-400 { color: #0284c7 !important; }
-                html:not(.dark) .text-violet-300 { color: #5b21b6 !important; }
-                html:not(.dark) .text-violet-400 { color: #6d28d9 !important; }
-                html:not(.dark) .text-purple-300 { color: #6b21a8 !important; }
-                html:not(.dark) .text-purple-400 { color: #7e22ce !important; }
-                html:not(.dark) .text-pink-300 { color: #9d174d !important; }
-                html:not(.dark) .text-pink-400 { color: #be185d !important; }
-                html:not(.dark) .text-cyan-300 { color: #0e7490 !important; }
-                html:not(.dark) .text-cyan-400 { color: #0891b2 !important; }
-                html:not(.dark) .text-yellow-300 { color: #a16207 !important; }
-                html:not(.dark) .text-yellow-400 { color: #ca8a04 !important; }
-                html:not(.dark) .text-orange-300 { color: #c2410c !important; }
-                html:not(.dark) .text-orange-400 { color: #ea580c !important; }
-                html:not(.dark) .text-blue-300 { color: #1d4ed8 !important; }
-                html:not(.dark) .text-blue-400 { color: #2563eb !important; }
-                html:not(.dark) .text-red-300 { color: #b91c1c !important; }
-                html:not(.dark) .text-red-400 { color: #dc2626 !important; }
-                html:not(.dark) .text-slate-300 { color: #475569 !important; }
-                html:not(.dark) .text-slate-400 { color: #64748b !important; }
-                html:not(.dark) .text-slate-600 { color: #334155 !important; }
-                html:not(.dark) .text-amber-600 { color: #b45309 !important; }
-                html:not(.dark) .text-amber-700 { color: #92400e !important; }
-                html:not(.dark) .text-emerald-600 { color: #047857 !important; }
-                html:not(.dark) .text-emerald-700 { color: #065f46 !important; }
-                html:not(.dark) .text-violet-600 { color: #5b21b6 !important; }
-                html:not(.dark) .text-purple-600 { color: #6b21a8 !important; }
-                html:not(.dark) .text-pink-600 { color: #9d174d !important; }
-                html:not(.dark) .text-cyan-600 { color: #0e7490 !important; }
-                html:not(.dark) .text-yellow-700 { color: #a16207 !important; }
-                html:not(.dark) .text-orange-600 { color: #c2410c !important; }
-                html:not(.dark) .text-blue-600 { color: #1d4ed8 !important; }
-                html:not(.dark) .text-blue-700 { color: #1e40af !important; }
-                html:not(.dark) .text-red-600 { color: #b91c1c !important; }
-                html:not(.dark) .text-red-700 { color: #991b1b !important; }
-                /* ID-level overrides (beat JS-applied classes) */
-                html:not(.dark) #github-sync-status { color: #ffffff !important; }
-                html:not(.dark) #sync-label { color: #ffffff !important; }
-                html:not(.dark) .bg-white\/10 .text-white\/90 { color: #ffffff !important; }
-                /* Market grid cells: force dark price/name colors in light mode regardless of Tailwind tint */
-                html:not(.dark) #crypto-grid *, html:not(.dark) #forex-grid *, html:not(.dark) #oil-grid *,
-                html:not(.dark) #panel-crypto *, html:not(.dark) #panel-forex *, html:not(.dark) #panel-oil * { color: #334155 !important; }
-                html:not(.dark) #crypto-grid .text-gustavo-amber, html:not(.dark) #forex-grid .text-gustavo-amber, html:not(.dark) #oil-grid .text-gustavo-amber,
-                html:not(.dark) #panel-crypto .text-gustavo-amber, html:not(.dark) #panel-forex .text-gustavo-amber, html:not(.dark) #panel-oil .text-gustavo-amber { color: #b45309 !important; }
-
-                /* ---- Dark mode: market panel header avatars (crypto/forex/oil consistent) ---- */
-                html.dark #panel-crypto .bg-amber-100 { background: #78350f !important; }
-                html.dark #panel-crypto .text-gustavo-amber { color: #fbbf24 !important; }
-                html.dark #panel-forex .bg-emerald-100 { background: #064e3b !important; }
-                html.dark #panel-forex .text-emerald-600 { color: #6ee7b7 !important; }
-                html.dark #panel-oil .bg-orange-100 { background: #7c2d12 !important; }
-                html.dark #panel-oil .text-orange-600 { color: #fbbf24 !important; }
-                html.dark #tab-oil { background: #7c2d12 !important; border-color: #9a3412 !important; color: #fbbf24 !important; }
-                html.dark #tab-oil .fas { color: #fbbf24 !important; }
-
-                /* ---- Hot Topics Strip (سرخط داغ) — light mode ---- */
-                .bg-amber-50\/70 { background: #fefce8 !important; border-color: #fef08a !important; }
-                .bg-amber-50\/70 .gustavo-kicker,
-                .bg-amber-50\/70 .text-gustavo-ink,
-                .bg-amber-50\/70 span,
-                .bg-amber-50\/70 a { color: #92400e !important; }
-
-                /* ---- Market Ticker ---- */
-                .bg-white.border-gustavo-line.overflow-hidden { background: #ffffff !important; border-color: #e2e8f0 !important; }
-                #ticker-content { color: #0f172a !important; }
-                #ticker-content a { color: #b45309 !important; }
-                #ticker-content .bg-gustavo-ink.text-white { background: #0f172a !important; color: #f3f4f6 !important; }
-
-                /* ---- Security Index ---- */
-                #tension-text { color: #16a34a !important; }
-                #tension-percent { color: #b45309 !important; }
-
-                /* ---- Flashpoint Badges ---- */
-                .bg-red-100 { background: #fee2e2 !important; color: #b91c1c !important; }
-                .bg-orange-100 { background: #ffedd5 !important; color: #c2410c !important; }
-
-                /* ---- Market Tabs ---- */
-                #tab-crypto { color: #92400e !important; }
-                #tab-forex { color: #065f46 !important; }
-                #tab-oil { color: #ffffff !important; }
-
-                /* ---- Nav Pills (light) ---- */
-                .nav-pill-active { background: #0f172a !important; color: #ffffff !important; }
-                .nav-pill-inactive { background: #f8fafc !important; color: #0f172a !important; border: 1px solid #e2e8f0 !important; }
-
-                /* ---- Article & Card Titles ---- */
-                .text-gustavo-ink { color: #0f172a !important; }
-                .text-gustavo-amber { color: #b45309 !important; }
-                .text-gustavo-muted { color: #475569 !important; }
-                .text-emerald-700 { color: #065f46 !important; }
-                .text-violet-600, .text-blue-600 { color: #4d4d91 !important; }
-                .text-orange-700, .text-amber-700 { color: #b45309 !important; }
-                .text-sky-700 { color: #03698d !important; }
-                .text-red-700, .text-red-600 { color: #b91c1c !important; }
-                .text-gray-500 { color: #4b5563 !important; }
-
-                /* ---- Form Inputs (light mode) ---- */
-                input, select { background: #f8fafc !important; color: #1e293b !important; border-color: #cbd5e1 !important; }
-
-                /* ---- Empty State ---- */
-                .bg-white.p-12 { background: #ffffff !important; }
-
-                /* ---- Modal Backdrop ---- */
-                #daily-summary-modal > div, #mobile-drawer > div, #mobile-drawer .bg-white.rounded-t-xl { background: #ffffff !important; }
-
-                /* ---- Price Units ---- */
-                .price-currency { color: #4b5563 !important; font-weight: 600; }
-
-                /* ---- Mobile Nav Icons ---- */
-                #mob-nav-threat, #mob-nav-bulletin, #mob-nav-tools { color: #6b7280 !important; }
-
-                /* ----------------------------------------------------------------
-                   DARK MODE OVERRIDES — applies when <html class=\"dark\">
-                   ---------------------------------------------------------------- */
-                html.dark body { background: #0b0f19 !important; color: #f3f4f6 !important; }
-                html.dark .gustavo-card, html.dark .bg-white { background: #111827 !important; border-color: #1f293d !important; color: #f3f4f6 !important; }
-                html.dark .bg-gustavo-surface, html.dark .bg-gray-50, html.dark .bg-gray-100 { background: #1f293d !important; border-color: #374151 !important; color: #e5e7eb !important; }
-                html.dark .border-gray-200, html.dark .border-gray-300, html.dark .border-gray-100, html.dark .border-gustavo-line { border-color: #374151 !important; }
-                html.dark .text-gustavo-ink, html.dark .text-gray-800 { color: #f3f4f6 !important; }
-                html.dark .text-gustavo-muted, html.dark .text-gray-600, html.dark .text-gray-500 { color: #9ca3af !important; }
-                html.dark .text-gray-700 { color: #d1d5db !important; }
-
-                /* ---- Hot Topics Strip (سرخط داغ) — amber strip ---- */
-                html.dark .bg-amber-50\/70 { background: #2a1f0a !important; border-color: #4a3812 !important; }
-                html.dark .bg-amber-50\/70 .text-gustavo-ink,
-                html.dark .bg-amber-50\/70 .gustavo-kicker,
-                html.dark .bg-amber-50\/70 .text-gustavo-line,
-                html.dark .bg-amber-50\/70 span,
-                html.dark .bg-amber-50\/70 a { color: #fde68a !important; }
-                html.dark .bg-amber-50\/70 .hover\:text-gustavo-ink:hover { color: #fbbf24 !important; }
-                html.dark .bg-amber-50\/70 .w-7 { background: #f59e0b !important; }
-
-                /* ---- Market Ticker (پایین‌ترین نوار — USD | EUR | BTC) ---- */
-                html.dark .bg-gustavo-ink.text-white,
-                html.dark .bg-gustavo-ink.text-white\/10,
-                html.dark .bg-white\/10 { background: #0b0f19 !important; border-color: #1f293d !important; }
-                html.dark .bg-gustavo-amber.text-gustavo-ink { background: #f59e0b !important; color: #0f172a !important; }
-                html.dark .text-white\/20 { color: #1f293d !important; }
-                html.dark .text-emerald-700 { color: #6ee7b7 !important; }
-                html.dark .text-amber-700 { color: #fde68a !important; }
-                html.dark .text-sky-300 { color: #7dd3fc !important; }
-                html.dark .text-violet-300 { color: #c4b5fd !important; }
-                html.dark .text-purple-300 { color: #c084fc !important; }
-                html.dark .text-orange-300 { color: #fdba74 !important; }
-                html.dark .text-yellow-300 { color: #fde68a !important; }
-                html.dark .text-red-300 { color: #fca5a5 !important; }
-                html.dark .text-green-400 { color: #34d399 !important; }
-
-                /* ---- Scrolling News Ticker (نوار متحرک خبرها) ---- */
-                html.dark .bg-white.border-gustavo-line.overflow-hidden { background: #111827 !important; border-color: #1f293d !important; }
-                html.dark #ticker-content { color: #e5e7eb !important; }
-                html.dark #ticker-content a { color: #fde68a !important; border-color: #374151 !important; }
-                html.dark #ticker-content a:hover { color: #fbbf24 !important; }
-                html.dark #ticker-content .bg-gustavo-ink.text-white { background: #0f172a !important; color: #f3f4f6 !important; }
-                html.dark #ticker-content .bg-gustavo-amber { background: #f59e0b !important; }
-
-                /* ---- Security Index Panel (شاخص فوریت امنیتی) ---- */
-                html.dark .bg-gray-200 { background: #1f293d !important; border-color: #374151 !important; }
-                html.dark #tension-text { color: #fde68a !important; }
-                html.dark #tension-percent { color: #fde68a !important; }
-                html.dark #tension-fill { background: linear-gradient(to right, #22c55e, #eab308, #f59e0b) !important; }
-
-                /* ---- Flashpoints & Regional Tension Badges ---- */
-                html.dark .bg-red-100 { background: #2a1215 !important; color: #fca5a5 !important; }
-                html.dark .bg-orange-100 { background: #2a1a0a !important; color: #fdba74 !important; }
-                html.dark .bg-emerald-50 { background: #022c27 !important; border-color: #044d42 !important; }
-                html.dark .bg-emerald-50 * { color: #6ee7b7 !important; }
-                html.dark .bg-red-50 { background: #2a1215 !important; border-color: #5c1d24 !important; }
-                html.dark .bg-red-50 .text-gustavo-amber { color: #f87171 !important; }
-
-                /* ---- Market Tab Buttons (crypto/forex/oil) — rewritten with .gustavo-market-tab ---- */
-                                html.dark .gustavo-market-tab#tab-crypto { background: #2a1f0a !important; border-color: #4a3812 !important; color: #fde68a !important; }
-                                html.dark .gustavo-market-tab#tab-crypto:hover { background: #3d2d15 !important; }
-                                html.dark .gustavo-market-tab#tab-crypto .gustavo-tab-icon { color: #fbbf24 !important; }
-                                html.dark .gustavo-market-tab#tab-crypto.active { background: #fde68a !important; color: #1f1404 !important; border-color: #fbbf24 !important; }
-                                html.dark .gustavo-market-tab#tab-crypto.active .gustavo-tab-icon { color: #1f1404 !important; }
-
-                                html:not(.dark) .gustavo-market-tab#tab-crypto { background: #fffbeb !important; border-color: #fde68a !important; color: #92400e !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-crypto:hover { background: #fef3c7 !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-crypto .gustavo-tab-icon { color: #b45309 !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-crypto.active { background: #fde68a !important; color: #1f1404 !important; border-color: #fbbf24 !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-crypto.active .gustavo-tab-icon { color: #1f1404 !important; }
-
-                                html.dark .gustavo-market-tab#tab-forex { background: #062015 !important; border-color: #0a4d30 !important; color: #6ee7b7 !important; }
-                                html.dark .gustavo-market-tab#tab-forex:hover { background: #0a4d30 !important; }
-                                html.dark .gustavo-market-tab#tab-forex .gustavo-tab-icon { color: #34d399 !important; }
-                                html.dark .gustavo-market-tab#tab-forex.active { background: #6ee7b7 !important; color: #022c19 !important; border-color: #34d399 !important; }
-                                html.dark .gustavo-market-tab#tab-forex.active .gustavo-tab-icon { color: #022c19 !important; }
-
-                                html:not(.dark) .gustavo-market-tab#tab-forex { background: #ecfdf5 !important; border-color: #a7f3d0 !important; color: #065f46 !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-forex:hover { background: #d1fae5 !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-forex .gustavo-tab-icon { color: #059669 !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-forex.active { background: #a7f3d0 !important; color: #022c19 !important; border-color: #34d399 !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-forex.active .gustavo-tab-icon { color: #022c19 !important; }
-
-                                html.dark .gustavo-market-tab#tab-oil { background: #2a1800 !important; border-color: #4a2c00 !important; color: #fed7aa !important; }
-                                html.dark .gustavo-market-tab#tab-oil:hover { background: #3d2200 !important; }
-                                html.dark .gustavo-market-tab#tab-oil .gustavo-tab-icon { color: #fb923c !important; }
-                                html.dark .gustavo-market-tab#tab-oil.active { background: #fed7aa !important; color: #1a1200 !important; border-color: #fb923c !important; }
-                                html.dark .gustavo-market-tab#tab-oil.active .gustavo-tab-icon { color: #1a1200 !important; }
-
-                                html:not(.dark) .gustavo-market-tab#tab-oil { background: #fff7ed !important; border-color: #fed7aa !important; color: #c2410c !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-oil:hover { background: #ffedd5 !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-oil .gustavo-tab-icon { color: #ea580c !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-oil.active { background: #fed7aa !important; color: #1a1200 !important; border-color: #fb923c !important; }
-                                html:not(.dark) .gustavo-market-tab#tab-oil.active .gustavo-tab-icon { color: #1a1200 !important; }
-
-                                /* ---- Market Card Styles ---- */
-                                .gustavo-market-card {
-                                    transition: transform 0.15s ease, box-shadow 0.15s ease;
-                                }
-                                .gustavo-market-card:hover {
-                                    transform: translateY(-1px);
-                                    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-                                }
-                                html.dark .gustavo-market-card:hover {
-                                    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-                                }
 
                                 /* ---- Market Panel Headers ---- */
-                                html.dark .gustavo-market-tab + .gustavo-card h2 .w-10.h-10 {
-                                    filter: brightness(1.2);
-                                }
-                                html:not(.dark) .gustavo-market-tab + .gustavo-card h2 .w-10.h-10 {
-                                    filter: brightness(1);
-                                }
 
                 /* ---- Nav Pill Tabs (صفحه اصلی، نظامی، ...) ---- */
                 .nav-pill-active { background: #0f172a !important; color: #ffffff !important; }
-                html.dark .nav-pill-active { background: #f59e0b !important; color: #0f172a !important; }
-                .nav-pill-inactive { background: #ffffff !important; color: #0f172a !important; border-color: #e2e8f0 !important; }
-                html.dark .nav-pill-inactive { background: #1f293d !important; color: #e5e7eb !important; border-color: #374151 !important; }
-                html.dark .nav-pill-inactive:hover { background: #2a1f0a !important; border-color: #f59e0b !important; color: #fde68a !important; }
-
-                /* ---- Category Chips (همه اخبار، نظامی، ...) ---- */
-                html.dark #category-chips button.chip-active { background: #f59e0b !important; color: #0f172a !important; }
-                html.dark #category-chips button:not(.chip-active) { background: #1f293d !important; border-color: #374151 !important; color: #e5e7eb !important; }
-                html.dark #category-chips button:not(.chip-active):hover { border-color: #f59e0b !important; }
-                #category-chips button.chip-active { background: #0f172a !important; color: #ffffff !important; }
-                #category-chips button:not(.chip-active) { background: #ffffff !important; border-color: #e2e8f0 !important; color: #0f172a !important; }
-
-                /* ---- Hero Lead / Article Cards ---- */
-                html.dark .bg-gradient-to-t { background: linear-gradient(to top, #00000080, transparent) !important; }
-                html.dark .bg-black { background: #0b0f19 !important; }
-                html.dark .bg-black .text-gray-700 { color: #9ca3af !important; }
-                html.dark .bg-white\/5, html.dark .bg-gustavo-amber\/30 { background: rgba(245, 158, 11, 0.25) !important; }
-                html.dark .border-white\/10, html.dark .border-white\/20 { border-color: rgba(255, 255, 255, 0.08) !important; }
-
-                /* ---- Dashboard View ---- */
-                html.dark .bg-gustavo-ink.text-white.border-t-4 { background: #0b0f19 !important; border-top-color: #f59e0b !important; }
-                html.dark .bg-gustavo-ink.text-white.p-6 { background: #0b0f19 !important; }
-                html.dark .bg-gustavo-ink.text-white { background: #0b0f19 !important; color: #f3f4f6 !important; }
-
-                /* ---- Stats Numbers ---- */
-                html.dark .text-gustavo-ink { color: #f3f4f6 !important; }
-                html.dark .text-gustavo-amber { color: #f59e0b !important; }
-                html.dark .text-amber-600 { color: #f59e0b !important; }
-                html.dark .text-red-600 { color: #f87171 !important; }
-                html.dark .text-orange-700 { color: #fdba74 !important; }
-                html.dark .text-green-600 { color: #34d399 !important; }
-
-                /* ---- Currency Ticker / price units — high contrast in both themes ---- */
-                .price-currency { color: #4b5563 !important; font-weight: 600; }
-                html.dark .price-currency { color: #cbd5e1 !important; }
-
-                /* ---- Form Inputs & Selects ---- */
-                html.dark input, html.dark select, html.dark input:focus { background: #1f293d !important; color: #ffffff !important; border-color: #374151 !important; }
-
-                /* ---- Modals & Drawers ---- */
-                html.dark #daily-summary-modal > div, html.dark #mobile-drawer > div, html.dark #mobile-drawer .bg-white.rounded-t-xl { background: #111827 !important; border-color: #374151 !important; color: #f3f4f6 !important; }
-                html.dark #mobile-drawer .border-gray-200, html.dark #mobile-drawer .border-t-4 { border-color: #374151 !important; }
-                html.dark .bg-gustavo-amber.text-white.border-t-4 { background: #f59e0b !important; border-top-color: #f59e0b !important; }
-
-                /* ---- Footer ---- */
-                html.dark .bg-gustavo-ink.text-gray-700.border-t-4 { background: #0b0f19 !important; border-top-color: #f59e0b !important; }
-
-                /* ---- Load More Button ---- */
-                html.dark .bg-gustavo-ink.hover\:bg-gustavo-inksoft.text-white { background: #0f172a !important; }
-
-                /* ---- Empty State ---- */
-                html.dark .bg-white.p-12 { background: #111827 !important; }
-                html.dark .text-gray-700.text-4xl, html.dark .text-gray-500.font-medium { color: #9ca3af !important; }
-
-                /* ---- Article Badges & Borders ---- */
-                html.dark .border, html.dark .border-2 { border-color: #374151 !important; }
-
-                /* ---- Analysis Box ---- */
-                html.dark .bg-gustavo-surface\.p-3, html.dark .bg-gustavo-surface\.p-3\.sm\:p-4 { background: #1f293d !important; border-color: #374151 !important; }
-
-                /* ---- Logo Avatar --- */
-                html.dark .gustavo-logo-avatar-inner { background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 50%, #020617 100%) !important; }
-
-                /* ---- Animated Loading ---- */
-                html.dark .animate-pulse .bg-gray-200 { background: #1f293d !important; }
-                html.dark .animate-pulse .bg-gray-300 { background: #374151 !important; }
-
-                /* ---- Mobile Bottom App Bar ---- */
-                html.dark .fixed.bottom-0.bg-gustavo-ink.border-t-2 { background: #0b0f19 !important; border-top-color: #f59e0b !important; }
-
-                /* ---- Live badge in dashboard ---- */
-                html.dark .bg-gustavo-ink.text-white\/80 { background: #0b0f19 !important; }
-
-                /* ---- Text shadows for readability on image overlays ---- */
-                html.dark .text-white { color: #f3f4f6 !important; }
-                html.dark .text-white\/70 { color: #cbd5e1 !important; }
-                html.dark .text-white\/80 { color: #9ca3af !important; }
-
-                /* ---- Icons & SVGs — ensure visibility in both themes ---- */
-                /* Scoped to light mode only: this used to be unscoped, forcing every
-                   icon to dark navy (#0f172a) even in light mode, which made icons
-                   invisible whenever they sat on a dark card/overlay (e.g. the
-                   on-air broadcast box, image overlays) while the page was in
-                   light mode. */
-                html:not(.dark) .fas, html:not(.dark) .far, html:not(.dark) .fab, html:not(.dark) .i[class*="fa-"] { color: #0f172a !important; }
-                html.dark .fas, html.dark .far, html.dark .fab { color: #e5e7eb !important; }
-                /* Icons/text sitting on dark image overlays (e.g. the on-air broadcast
-                   box) were invisible in light mode: the rule above forced them to
-                   dark navy even though their background stayed black. Mirror the
-                   .bg-gustavo-ink treatment above for .bg-black. */
-                html:not(.dark) .bg-black,
-                html:not(.dark) .bg-black *,
-                html:not(.dark) .bg-black i,
-                html:not(.dark) .bg-black span,
-                html:not(.dark) .bg-black p { color: #e5e7eb !important; }
-                html.dark .bg-gustavo-surface:hover .fas,
-                html.dark .bg-gustavo-surface:hover .far,
-                html.dark .bg-gustavo-surface:hover .fab { color: #fbd38d !important; }
-
-                @media (max-width: 768px) {
-            /* Prevent content from hiding behind mobile bottom bar */
-            body {
-                padding-bottom: 70px !important;
-            }
 
             /* Support iOS Safe Area notch at bottom */
             .pb-safe {
@@ -594,18 +216,14 @@
                     <span class="hidden xs:inline">بولتن</span>
                 </button>
 
-                <button onclick="switchTab('dashboard')" class="bg-gustavo-ink hover:bg-gustavo-inksoft text-white text-[11px] sm:text-xs font-bold px-3 sm:px-4 py-2 rounded-full transition-all flex items-center gap-1.5 shadow-sm dark:text-gustavo-amber">
+                <button onclick="switchTab('dashboard')" class="bg-gustavo-ink hover:bg-gustavo-inksoft text-white text-[11px] sm:text-xs font-bold px-3 sm:px-4 py-2 rounded-full transition-all flex items-center gap-1.5 shadow-sm">
                                     <i class="fas fa-signal text-gustavo-amber text-[11px] animate-pulse"></i>
-                                    <span class="dark:text-white">زنده</span>
+                                    <span class="">زنده</span>
                                 </button>
 
-                <button onclick="toggleDarkMode()" class="w-9 h-9 bg-gustavo-surface hover:bg-gustavo-line text-gustavo-ink rounded-full text-xs transition-colors flex items-center justify-center border border-gustavo-line" title="حالت شب">
-                    <i class="fas fa-moon"></i>
-                </button>
             </div>
         </div>
 
-        <!-- Navigation — pill chips with proper light/dark contrast -->
                     <nav class="bg-gustavo-surface border-y border-gustavo-line">
                                         <div class="max-w-[1450px] mx-auto px-2 sm:px-4 flex items-center overflow-x-auto scrollbar-hide">
                                             <div class="flex items-center gap-1.5 py-2 px-1">
@@ -616,7 +234,7 @@
                                                                                             <button onclick="showHomeView(); filterFeed('هسته‌ای', this)" id="desk-tab-haste" class="gustavo-pill nav-pill-inactive whitespace-nowrap">پرونده هسته‌ای</button>
                                                                                             <button onclick="showHomeView(); filterFeed('اقتصادی', this)" id="desk-tab-eqtesadi" class="gustavo-pill nav-pill-inactive whitespace-nowrap">بازار و تحریم</button>
                                                                                             <button onclick="showHomeView(); filterFeed('سیاسی', this)" id="desk-tab-siyasi" class="gustavo-pill nav-pill-inactive whitespace-nowrap">دیپلماسی</button>
-                                                <span class="w-px h-6 bg-gustavo-line mx-1 hidden sm:block dark:bg-gray-700"></span>
+                                                <span class="w-px h-6 bg-gustavo-line mx-1 hidden sm:block"></span>
                                                 <button onclick="showMarketView('crypto')" id="tab-crypto" class="gustavo-market-tab bg-amber-50 text-gustavo-ink border-amber-200 hover:bg-amber-100 transition-all whitespace-nowrap flex items-center gap-1.5 px-3 py-2"><i class="fab fa-bitcoin text-amber-600"></i> <span class="font-semibold">رمزارز</span> <span id="tab-crypto-badge" class="text-[10px] bg-amber-100 text-amber-700 px-1.5 py-0.5 rounded-full font-mono">۱۵</span></button>
                                                                                                 <button onclick="showMarketView('forex')" id="tab-forex" class="gustavo-market-tab bg-emerald-50 text-gustavo-ink border-emerald-200 hover:bg-emerald-100 transition-all whitespace-nowrap flex items-center gap-1.5 px-3 py-2"><i class="fas fa-dollar-sign text-emerald-600"></i> <span class="font-semibold">ارز</span> <span id="tab-forex-badge" class="text-[10px] bg-emerald-100 text-emerald-700 px-1.5 py-0.5 rounded-full font-mono">۱۰</span></button>
                                                                                                 <button onclick="showMarketView('oil')" id="tab-oil" class="gustavo-market-tab bg-orange-50 text-gustavo-ink border-orange-200 hover:bg-orange-100 transition-all whitespace-nowrap flex items-center gap-1.5 px-3 py-2"><i class="fas fa-oil-can text-orange-600"></i> <span class="font-semibold">نفت</span> <span id="tab-oil-badge" class="text-[10px] bg-orange-100 text-orange-700 px-1.5 py-0.5 rounded-full font-mono">۴</span></button>
@@ -934,22 +552,22 @@
 
                 <!-- 3. URGENCY THREAT GAUGE PANEL -->
                 <div class="gustavo-card p-5">
-                    <div class="flex items-center justify-between border-b border-gray-200 dark:border-gray-700 pb-3 mb-3">
-                                            <span class="gustavo-kicker flex items-center gap-1.5 dark:text-gustavo-amber"><i class="fas fa-shield-alt"></i> شاخص فوریت امنیتی</span>
+                    <div class="flex items-center justify-between border-b border-gray-200 pb-3 mb-3">
+                                            <span class="gustavo-kicker flex items-center gap-1.5"><i class="fas fa-shield-alt"></i> شاخص فوریت امنیتی</span>
                         <span id="tension-percent" class="text-2xl font-black font-brand text-gustavo-amber">0%</span>
                     </div>
 
                     <div class="space-y-3">
                         <div class="flex justify-between items-center text-xs">
-                            <span class="text-gray-500 dark:text-gray-700">سطح هشدار:</span>
-                                                        <span id="tension-text" class="font-bold text-yellow-600 dark:text-yellow-400">در حال ارزیابی...</span>
+                            <span class="text-gray-500">سطح هشدار:</span>
+                                                        <span id="tension-text" class="font-bold text-yellow-600">در حال ارزیابی...</span>
                         </div>
                         
-                        <div class="h-3 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden p-0.5 border border-gray-300 dark:border-gray-600">
+                        <div class="h-3 bg-gray-200 rounded-full overflow-hidden p-0.5 border border-gray-300">
                                                     <div id="tension-fill" class="h-full bg-gradient-to-r from-green-500 via-yellow-500 to-gustavo-amber w-0 transition-all duration-1000"></div>
                                                 </div>
 
-                        <div class="flex justify-between text-[10px] text-gray-500 dark:text-gray-700 font-mono">
+                        <div class="flex justify-between text-[10px] text-gray-500 font-mono">
                             <span>عادی</span>
                             <span>هشدار</span>
                             <span>بحرانی</span>
@@ -964,17 +582,17 @@
                     </h3>
 
                     <div class="space-y-2 text-xs">
-                        <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200 dark:border-gray-700">
-                                                    <span class="font-bold text-gustavo-ink dark:text-gray-700">تنگه هرمز و خلیج فارس</span>
-                                                    <span class="px-2 py-0.5 bg-red-100 dark:bg-red-900/30 text-gustavo-amber dark:text-red-300 font-bold text-[10px] rounded-xl">هشدار بالا</span>
+                        <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200">
+                                                    <span class="font-bold text-gustavo-ink">تنگه هرمز و خلیج فارس</span>
+                                                    <span class="px-2 py-0.5 bg-red-100/30 text-gustavo-amber font-bold text-[10px] rounded-xl">هشدار بالا</span>
                                                     </div>
-                                                    <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200 dark:border-gray-700">
-                                                        <span class="font-bold text-gustavo-ink dark:text-gray-700">شبه‌جزیره سینا و مصر</span>
-                                                        <span class="px-2 py-0.5 bg-orange-100 dark:bg-orange-900/30 text-orange-700 dark:text-orange-300 font-bold text-[10px] rounded-xl">تحرکات پهپادی</span>
+                                                    <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200">
+                                                        <span class="font-bold text-gustavo-ink">شبه‌جزیره سینا و مصر</span>
+                                                        <span class="px-2 py-0.5 bg-orange-100/30 text-orange-700 font-bold text-[10px] rounded-xl">تحرکات پهپادی</span>
                                                     </div>
-                                                    <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200 dark:border-gray-700">
-                                                        <span class="font-bold text-gustavo-ink dark:text-gray-700">مرزهای لبنان و اسرائیل</span>
-                                                        <span class="px-2 py-0.5 bg-red-100 dark:bg-red-900/30 text-gustavo-amber dark:text-red-300 font-bold text-[10px] rounded-xl">درگیری فعال</span>
+                                                    <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200">
+                                                        <span class="font-bold text-gustavo-ink">مرزهای لبنان و اسرائیل</span>
+                                                        <span class="px-2 py-0.5 bg-red-100/30 text-gustavo-amber font-bold text-[10px] rounded-xl">درگیری فعال</span>
                         </div>
                     </div>
                 </div>
@@ -1003,17 +621,17 @@
                     </h3>
                     
                     <div class="grid grid-cols-2 gap-2 text-xs">
-                        <a href="https://firms.modaps.eosdis.nasa.gov/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:border-gray-700 transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
+                        <a href="https://firms.modaps.eosdis.nasa.gov/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
                                                     <i class="fas fa-fire text-gustavo-amber"></i> <span>حرارتی ناسا</span>
                                                 </a>
-                                                <a href="https://www.flightradar24.com/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:border-gray-700 transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
-                                                    <i class="fas fa-plane text-blue-600 dark:text-blue-400"></i> <span>رادار پرواز</span>
+                                                <a href="https://www.flightradar24.com/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
+                                                    <i class="fas fa-plane text-blue-600"></i> <span>رادار پرواز</span>
                                                 </a>
-                                                <a href="https://www.marinetraffic.com/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:border-gray-700 transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
-                                                    <i class="fas fa-ship text-teal-600 dark:text-teal-400"></i> <span>ترافیک دریایی</span>
+                                                <a href="https://www.marinetraffic.com/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
+                                                    <i class="fas fa-ship text-teal-600"></i> <span>ترافیک دریایی</span>
                                                 </a>
-                                                <a href="https://netblocks.org/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:border-gray-700 transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
-                                                    <i class="fas fa-network-wired text-purple-600 dark:text-purple-400"></i> <span>پایش اینترنت</span>
+                                                <a href="https://netblocks.org/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
+                                                    <i class="fas fa-network-wired text-purple-600"></i> <span>پایش اینترنت</span>
                                                 </a>
                     </div>
                 </div>
@@ -1820,9 +1438,9 @@ function updateTicker() {
         // Add RTL mark for proper Persian rendering
         const displayTitle = n.title_fa ? '\u200F' + n.title_fa : (n.title_en || 'خبر جدید');
         html += `
-            <a href="?id=${n.id || ''}" onclick="event.preventDefault(); openArticleById('${n.id || ''});" class="px-6 border-l border-gray-200 dark:border-gray-700 hover:text-gustavo-amber transition-colors cursor-pointer inline-flex items-center gap-1.5">
+            <a href="?id=${n.id || ''}" onclick="event.preventDefault(); openArticleById('${n.id || ''});" class="px-6 border-l border-gray-200 hover:text-gustavo-amber transition-colors cursor-pointer inline-flex items-center gap-1.5">
                 <span class="w-2 h-2 rounded-full bg-gustavo-amber animate-ping flex-shrink-0"></span>
-                <span class="font-bold text-gustavo-ink dark:text-gray-700 hover:underline">${displayTitle}</span>
+                <span class="font-bold text-gustavo-ink hover:underline">${displayTitle}</span>
             </a>
         `;
     });
@@ -1896,7 +1514,6 @@ function filterFeed(tag, btn) {
 
     // Update active highlight on header nav pills (excluding market tabs)
     document.querySelectorAll('nav .gustavo-pill:not(#tab-crypto):not(#tab-forex):not(#tab-oil)').forEach(b => {
-        // Reset to inactive state (light mode base, dark mode overrides via CSS)
         b.classList.remove('nav-pill-active');
         b.classList.add('nav-pill-inactive');
     });
@@ -1959,8 +1576,8 @@ function renderDashboardView() {
     });
 
     const sourcesHTML = Object.entries(sources).map(([src, count]) => `
-        <div class="p-3 bg-gustavo-surface dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 flex justify-between items-center">
-            <span class="font-bold text-gustavo-ink dark:text-gray-700 text-xs">${src}</span>
+        <div class="p-3 bg-gustavo-surface rounded-xl border border-gray-200 flex justify-between items-center">
+            <span class="font-bold text-gustavo-ink text-xs">${src}</span>
             <span class="px-2 py-0.5 bg-gustavo-ink text-white text-[10px] font-mono rounded-xl">${count} خبر</span>
         </div>
     `).join('');
@@ -1980,19 +1597,19 @@ function renderDashboardView() {
 
             <!-- Operational Grid -->
             <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <div class="bg-white dark:bg-gray-800 p-5 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm">
+                <div class="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                     <h3 class="gustavo-kicker mb-2"><i class="fas fa-layer-group"></i> کل گزارش‌ها</h3>
-                    <span class="text-3xl font-black font-brand text-gustavo-ink dark:text-white">${newsData.length}</span>
+                    <span class="text-3xl font-black font-brand text-gustavo-ink">${newsData.length}</span>
                     <p class="text-xs text-gray-500 mt-1">پردازش شده در شبکه گوستاوو</p>
                 </div>
 
-                <div class="bg-white dark:bg-gray-800 p-5 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm">
+                <div class="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                     <h3 class="gustavo-kicker text-gustavo-amber mb-2"><i class="fas fa-bolt"></i> اخبار فوری و اضطراری</h3>
                     <span class="text-3xl font-black font-brand text-gustavo-amber">${newsData.filter(n => n.urgency >= 7).length}</span>
                     <p class="text-xs text-gray-500 mt-1">نیازمند اقدام فوری</p>
                 </div>
 
-                <div class="bg-white dark:bg-gray-800 p-5 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm">
+                <div class="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                     <h3 class="gustavo-kicker text-amber-600 mb-2"><i class="fas fa-university"></i> منابع فعال خبری</h3>
                     <span class="text-3xl font-black font-brand text-amber-600">${Object.keys(sources).length}</span>
                     <p class="text-xs text-gray-500 mt-1">خبرگزاری متصل</p>
@@ -2000,7 +1617,7 @@ function renderDashboardView() {
             </div>
 
             <!-- Distribution by News Sources -->
-            <div class="bg-white dark:bg-gray-800 p-5 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm">
+            <div class="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                 <h3 class="gustavo-kicker mb-4 flex items-center gap-2"><i class="fas fa-newspaper"></i> تفکیک اخبار بر اساس خبرگزاری و منبع</h3>
                 <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
                     ${sourcesHTML}
@@ -2058,19 +1675,7 @@ function switchMobileTab(tab) {
     }
 }
 
-// 1. Dark Mode Toggle
-function toggleDarkMode() {
-    const isDark = document.documentElement.classList.toggle('dark');
-    localStorage.setItem('gustavo_theme', isDark ? 'dark' : 'light');
-}
 
-// Auto-restore user's Dark Mode preference on startup
-(function initTheme() {
-    const savedTheme = localStorage.getItem('gustavo_theme');
-    if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        document.documentElement.classList.add('dark');
-    }
-})();
 
 // 2. Power-User Keyboard Shortcuts
 document.addEventListener('keydown', (e) => {
