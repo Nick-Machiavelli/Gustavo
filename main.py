@@ -74,6 +74,15 @@ CONFIG = {
     'AI_BASE_URL': os.environ.get('AI_BASE_URL') or 'https://api.groq.com/openai/v1/chat/completions',
     'AI_MODEL': os.environ.get('AI_MODEL') or 'llama-3.1-8b-instant',
     'AI_RETRIES': 3,
+    # Without an explicit cap, some OpenAI-compatible providers default to a small
+    # max_tokens, which silently truncates the JSON response for large batches -
+    # the whole batch then fails to parse and every item in it falls back to the
+    # low-quality dictionary translation. Give it plenty of room.
+    'AI_MAX_TOKENS': 8000,
+    # Analyze/translate items in small batches instead of one giant request, so a
+    # single truncated/malformed response only affects a handful of items, not
+    # the entire run.
+    'AI_BATCH_SIZE': 8,
     'MAX_NEWS_AGE_HOURS': 36,
     'HISTORY_SIZE': 300,
     'RESOLVE_GOOGLE_URLS': True,
@@ -348,10 +357,26 @@ class Gustavo:
         return 3
 
     def _fallback_translate(self, text):
-        """Translate key geopolitical terms when AI is unavailable.
-        Uses a simple dictionary-based approach to provide minimal Persian output."""
+        """Translate the headline when the AI enrichment step is unavailable or
+        failed for this item. Tries a real machine translation first (Google
+        Translate via deep-translator, already in requirements.txt but was never
+        wired up); only falls back to the crude keyword dictionary below if that
+        also fails (e.g. no network), so we don't ship half-English headlines."""
         if not text:
             return "خبر جدید"
+        try:
+            from deep_translator import GoogleTranslator
+            translated = GoogleTranslator(source='en', target='fa').translate(text)
+            if translated and translated.strip():
+                return translated.strip()
+        except Exception as e:
+            logger.warning(f"Fallback machine translation failed, using dictionary substitution: {e}")
+        return self._dictionary_translate(text)
+
+    def _dictionary_translate(self, text):
+        """Last-resort translation: replaces a handful of known proper nouns/terms
+        and leaves the rest of the sentence untouched. Only used when real
+        machine translation is unreachable."""
         replacements = {
             'Iran': 'ایران',
             'Israel': 'اسرائیل',
@@ -1050,6 +1075,7 @@ class Gustavo:
                 ],
                 "temperature": temperature,
                 "response_format": {"type": "json_object"},
+                "max_tokens": CONFIG.get('AI_MAX_TOKENS', 8000),
             }
 
         model_retried = False
@@ -1146,23 +1172,42 @@ class Gustavo:
             "}"
         )
 
-        items_input = []
-        for item in candidates_data:
-            items_input.append(
-                f"--- ITEM INDEX: {item['index']} ---\n"
-                f"SOURCE: {item['source']}\n"
-                f"HEADLINE: {item['headline']}\n"
-                f"TEXT: {item['text'][:1000]}\n"
-            )
+        # Chunk into small batches instead of sending everything in one request.
+        # A single oversized request risks the provider truncating the JSON
+        # response (no max_tokens headroom), which fails to parse and silently
+        # drops EVERY item in the batch to the crude fallback translator. Smaller
+        # batches keep each response well within budget and contain the blast
+        # radius of any one failure.
+        batch_size = max(1, CONFIG.get('AI_BATCH_SIZE', 8))
+        results = {}
+        for start in range(0, len(candidates_data), batch_size):
+            chunk = candidates_data[start:start + batch_size]
 
-        user_prompt = "لطفاً تمامی آیتم‌های زیر را تحلیل و در قالب JSON مشخص‌شده برگردان:\n\n" + "\n".join(items_input)
+            items_input = []
+            for item in chunk:
+                items_input.append(
+                    f"--- ITEM INDEX: {item['index']} ---\n"
+                    f"SOURCE: {item['source']}\n"
+                    f"HEADLINE: {item['headline']}\n"
+                    f"TEXT: {item['text'][:1000]}\n"
+                )
 
-        data = self._call_ai(system_prompt, user_prompt, temperature=0.25)
-        items_list = data.get('items') if isinstance(data, dict) else data
-        if isinstance(items_list, list):
-            # Proofread Persian orthography before returning
-            return {item.get('index'): self._proofread_item(item) for item in items_list if 'index' in item}
-        return {}
+            user_prompt = "لطفاً تمامی آیتم‌های زیر را تحلیل و در قالب JSON مشخص‌شده برگردان:\n\n" + "\n".join(items_input)
+
+            data = self._call_ai(system_prompt, user_prompt, temperature=0.25)
+            items_list = data.get('items') if isinstance(data, dict) else data
+            if isinstance(items_list, list):
+                # Proofread Persian orthography before returning
+                for item in items_list:
+                    if 'index' in item:
+                        results[item['index']] = self._proofread_item(item)
+            else:
+                logger.warning(
+                    f"AI batch chunk (items {start}-{start + len(chunk) - 1}) "
+                    "returned no usable JSON - those items will fall back."
+                )
+
+        return results
         
     def generate_daily_summary(self):
         now = datetime.now(timezone.utc)

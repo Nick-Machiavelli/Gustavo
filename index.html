@@ -105,7 +105,6 @@
 
                 /* ---- Light Mode Base (overrides Tailwind defaults for readability) ---- */
                 html:not(.dark) .text-gray-700,
-                html:not(.dark) .text-gray-700,
                 html:not(.dark) .text-gray-500,
                 html:not(.dark) .text-gray-600 { color: #4b5563 !important; }
 
@@ -143,7 +142,6 @@
                 html:not(.dark) .text-amber-400 { color: #b45309 !important; }
                 html:not(.dark) .text-emerald-700,
                 html:not(.dark) .text-emerald-400 { color: #047857 !important; }
-                html:not(.dark) .text-gray-700 { color: #6b7280 !important; }
                 html:not(.dark) .text-gray-100 { color: #9ca3af !important; }
                 html:not(.dark) .text-gray-50  { color: #9ca3af !important; }
 
@@ -242,7 +240,7 @@
                 .text-orange-700, .text-amber-700 { color: #b45309 !important; }
                 .text-sky-700 { color: #03698d !important; }
                 .text-red-700, .text-red-600 { color: #b91c1c !important; }
-                .text-gray-700, .text-gray-500, .text-gray-700, .text-gray-700 { color: #4b5563 !important; }
+                .text-gray-500 { color: #4b5563 !important; }
 
                 /* ---- Form Inputs (light mode) ---- */
                 input, select { background: #f8fafc !important; color: #1e293b !important; border-color: #cbd5e1 !important; }
@@ -266,9 +264,8 @@
                 html.dark .gustavo-card, html.dark .bg-white { background: #111827 !important; border-color: #1f293d !important; color: #f3f4f6 !important; }
                 html.dark .bg-gustavo-surface, html.dark .bg-gray-50, html.dark .bg-gray-100 { background: #1f293d !important; border-color: #374151 !important; color: #e5e7eb !important; }
                 html.dark .border-gray-200, html.dark .border-gray-300, html.dark .border-gray-100, html.dark .border-gustavo-line { border-color: #374151 !important; }
-                html.dark .text-gustavo-ink, html.dark .text-gray-800, html.dark .text-gray-700 { color: #f3f4f6 !important; }
+                html.dark .text-gustavo-ink, html.dark .text-gray-800 { color: #f3f4f6 !important; }
                 html.dark .text-gustavo-muted, html.dark .text-gray-600, html.dark .text-gray-500 { color: #9ca3af !important; }
-                html.dark .text-gray-700 { color: #9ca3af !important; }
                 html.dark .text-gray-700 { color: #d1d5db !important; }
 
                 /* ---- Hot Topics Strip (سرخط داغ) — amber strip ---- */
@@ -405,8 +402,22 @@
                 html.dark .text-white\/80 { color: #9ca3af !important; }
 
                 /* ---- Icons & SVGs — ensure visibility in both themes ---- */
-                .fas, .far, .fab, .i[class*="fa-"] { color: #0f172a !important; }
+                /* Scoped to light mode only: this used to be unscoped, forcing every
+                   icon to dark navy (#0f172a) even in light mode, which made icons
+                   invisible whenever they sat on a dark card/overlay (e.g. the
+                   on-air broadcast box, image overlays) while the page was in
+                   light mode. */
+                html:not(.dark) .fas, html:not(.dark) .far, html:not(.dark) .fab, html:not(.dark) .i[class*="fa-"] { color: #0f172a !important; }
                 html.dark .fas, html.dark .far, html.dark .fab { color: #e5e7eb !important; }
+                /* Icons/text sitting on dark image overlays (e.g. the on-air broadcast
+                   box) were invisible in light mode: the rule above forced them to
+                   dark navy even though their background stayed black. Mirror the
+                   .bg-gustavo-ink treatment above for .bg-black. */
+                html:not(.dark) .bg-black,
+                html:not(.dark) .bg-black *,
+                html:not(.dark) .bg-black i,
+                html:not(.dark) .bg-black span,
+                html:not(.dark) .bg-black p { color: #e5e7eb !important; }
                 html.dark .bg-gustavo-surface:hover .fas,
                 html.dark .bg-gustavo-surface:hover .far,
                 html.dark .bg-gustavo-surface:hover .fab { color: #fbd38d !important; }
