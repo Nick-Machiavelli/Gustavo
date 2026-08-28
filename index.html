@@ -198,11 +198,14 @@
                 html:not(.dark) #crypto-grid .text-gustavo-amber, html:not(.dark) #forex-grid .text-gustavo-amber, html:not(.dark) #oil-grid .text-gustavo-amber,
                 html:not(.dark) #panel-crypto .text-gustavo-amber, html:not(.dark) #panel-forex .text-gustavo-amber, html:not(.dark) #panel-oil .text-gustavo-amber { color: #b45309 !important; }
 
-                /* ---- Dark mode: market panel header avatars (crypto/forex consistent) ---- */
+                /* ---- Dark mode: market panel header avatars (crypto/forex/oil consistent) ---- */
                 html.dark #panel-crypto .bg-amber-100 { background: #78350f !important; }
                 html.dark #panel-crypto .text-gustavo-amber { color: #fbbf24 !important; }
                 html.dark #panel-forex .bg-emerald-100 { background: #064e3b !important; }
                 html.dark #panel-forex .text-emerald-600 { color: #6ee7b7 !important; }
+                html.dark #panel-oil .bg-orange-100 { background: #7c2d12 !important; }
+                html.dark #panel-oil .text-orange-600 { color: #fbbf24 !important; }
+                html.dark #tab-oil { background: #7c2d12 !important; border-color: #9a3412 !important; color: #fbbf24 !important; }
 
                 /* ---- Hot Topics Strip (سرخط داغ) — light mode ---- */
                 .bg-amber-50\/70 { background: #fefce8 !important; border-color: #fef08a !important; }
@@ -557,7 +560,7 @@
                                                 <span class="w-px h-6 bg-gustavo-line mx-1 hidden sm:block dark:bg-gray-700"></span>
                                                 <button onclick="showMarketView('crypto')" id="tab-crypto" class="gustavo-pill bg-amber-50 text-gustavo-ink border-amber-200 hover:bg-gustavo-amber hover:text-white transition-colors whitespace-nowrap"><i class="fab fa-bitcoin"></i> رمزارز</button>
                                                 <button onclick="showMarketView('forex')" id="tab-forex" class="gustavo-pill bg-emerald-50 text-gustavo-ink border-emerald-200 hover:bg-emerald-600 hover:text-white transition-colors whitespace-nowrap"><i class="fas fa-dollar-sign"></i> ارز</button>
-                                                <button onclick="showMarketView('oil')" id="tab-oil" class="gustavo-pill bg-slate-800 text-white border-slate-700 hover:bg-black transition-colors whitespace-nowrap"><i class="fas fa-oil-can"></i> نفت</button>
+                                                <button onclick="showMarketView('oil')" id="tab-oil" class="gustavo-pill bg-orange-100 text-orange-600 border-orange-200 hover:bg-gustavo-amber hover:text-white transition-colors whitespace-nowrap"><i class="fas fa-oil-can"></i> نفت</button>
                                             </div>
                                         </div>
                                     </nav>
@@ -676,7 +679,7 @@
         <!-- Oil — 4 -->
         <div id="panel-oil" class="hidden gustavo-card p-5">
             <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
-                <h2 class="font-black text-gustavo-ink flex items-center gap-2"><span class="w-8 h-8 rounded-xl bg-slate-800 text-white flex items-center justify-center"><i class="fas fa-oil-can"></i></span> نفت جهانی — ۴ شاخص اصلی (زنده — دلار و تومان)</h2>
+                <h2 class="font-black text-gustavo-ink flex items-center gap-2"><span class="w-8 h-8 rounded-xl bg-orange-100 text-orange-600 flex items-center justify-center"><i class="fas fa-oil-can"></i></span> نفت جهانی — ۴ شاخص اصلی (زنده — دلار و تومان)</h2>
                 <div class="flex items-center gap-2">
                     <span class="text-[11px] bg-emerald-50 text-emerald-700 border border-emerald-200 rounded-full px-2.5 py-1 font-bold flex items-center gap-1"><span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span> زنده</span>
                     <button onclick="hideMarketPanels()" class="w-8 h-8 rounded-full bg-gustavo-surface border border-gustavo-line flex items-center justify-center hover:bg-gustavo-line"><i class="fas fa-xmark text-xs"></i></button>
