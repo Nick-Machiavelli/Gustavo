@@ -188,6 +188,14 @@
                 html:not(.dark) .text-blue-700 { color: #1e40af !important; }
                 html:not(.dark) .text-red-600 { color: #b91c1c !important; }
                 html:not(.dark) .text-red-700 { color: #991b1b !important; }
+                /* ID-level overrides (beat JS-applied classes) */
+                html:not(.dark) #github-sync-status { color: #ffffff !important; }
+                html:not(.dark) .bg-white\/10 .text-white\/90 { color: #ffffff !important; }
+                /* Market grid cells: force dark price/name colors in light mode regardless of Tailwind tint */
+                html:not(.dark) #crypto-grid *, html:not(.dark) #forex-grid *, html:not(.dark) #oil-grid *,
+                html:not(.dark) #panel-crypto *, html:not(.dark) #panel-forex *, html:not(.dark) #panel-oil * { color: #334155 !important; }
+                html:not(.dark) #crypto-grid .text-gustavo-amber, html:not(.dark) #forex-grid .text-gustavo-amber, html:not(.dark) #oil-grid .text-gustavo-amber,
+                html:not(.dark) #panel-crypto .text-gustavo-amber, html:not(.dark) #panel-forex .text-gustavo-amber, html:not(.dark) #panel-oil .text-gustavo-amber { color: #b45309 !important; }
 
                 /* ---- Hot Topics Strip (سرخط داغ) — light mode ---- */
                 .bg-amber-50\/70 { background: #fefce8 !important; border-color: #fef08a !important; }
