@@ -109,8 +109,17 @@
                 html:not(.dark) .text-gray-500,
                 html:not(.dark) .text-gray-600 { color: #4b5563 !important; }
 
+                /* ---- LIGHT MODE: top rail is always dark (bg-gustavo-ink) — keep text light there ---- */
+                html:not(.dark) .bg-gustavo-ink,
+                html:not(.dark) .bg-gustavo-ink * { color: #e5e7eb !important; }
+                html:not(.dark) .bg-gustavo-ink .text-gustavo-amber,
+                html:not(.dark) .bg-gustavo-ink .hover\:text-gustavo-amber:hover { color: #fbbf24 !important; }
+                html:not(.dark) .bg-gustavo-ink .text-white\/20 { color: rgba(255,255,255,0.2) !important; }
+
                 /* ---- Fix light-unreadable Tailwind tints (amber/emerald/gray-200) ---- */
-                html:not(.dark) .text-amber-300,
+                /* Only inside LIGHT surfaces (not the always-dark top rail) */
+                html:not(.dark) :not(.bg-gustavo-ink) > .text-amber-300,
+                html:not(.dark) .text-amber-300:not(.bg-gustavo-ink *),
                 html:not(.dark) .text-amber-400 { color: #b45309 !important; }
                 html:not(.dark) .text-emerald-300,
                 html:not(.dark) .text-emerald-400 { color: #047857 !important; }
@@ -118,7 +127,7 @@
                 html:not(.dark) .text-gray-100 { color: #9ca3af !important; }
                 html:not(.dark) .text-gray-50  { color: #9ca3af !important; }
 
-                /* ---- Market card price tints (light mode) ---- */
+                /* ---- Market card price tints (light mode) — only on light cards, not dark rail ---- */
                 html:not(.dark) .text-sky-300 { color: #0369a1 !important; }
                 html:not(.dark) .text-sky-400 { color: #0284c7 !important; }
                 html:not(.dark) .text-violet-300 { color: #5b21b6 !important; }
