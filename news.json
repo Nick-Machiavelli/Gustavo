@@ -1093,6 +1093,24 @@
         "timestamp": 1787874275.0430396
     },
     {
+        "id": "02de622a1d",
+        "title_fa": "سرقت گردنبند الماس ملکه نازلی از موزه وین",
+        "title_en": "Queen Nazli's historic diamond necklace stolen from Vienna museum",
+        "summary": [
+            "دو مرد با هویت مسافر عادی وارد موزه شدند، بلیط خریدند و پس از ساعت ۱۴: ۰۰ گردنبند ارزشمند را ربودند.",
+            "این حادثه نشانگر ضعف سامانه‌های امنیتی موزه‌های اروپایی در مقابل هدف‌های با ارزش تاریخی است."
+        ],
+        "impact": "موزه خسارت مالی سنگین و ضربه به اعتبار بین‌المللی خود می‌بیند.",
+        "tag": "سرقت",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Global South World on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/queen-nazlis-historic-diamond-necklace-stolen-from-vienna-museum/ar-AA2b8QNF?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/queen-nazlis-historic-diamond-necklace-stolen-from-vienna-museum/ar-AA2b8QNF",
+        "image": "https://www.bing.com/th?id=ONUT.imOuiO5Yxf0MVz4WIMLrSQ",
+        "timestamp": 1787873815.0
+    },
+    {
         "id": "18d3372bdf",
         "title_fa": "Trump hints at Chinese bank sanctions over Iran ahead of Xi visit",
         "title_en": "Trump hints at Chinese bank sanctions over Iran ahead of Xi visit",
@@ -5514,23 +5532,5 @@
         "clean_url": "https://www.iranintl.com/202608217202",
         "image": "http://www.bing.com/th?id=ONUT.bHufsBSm3YUQkTj-4rkCwg&pid=News",
         "timestamp": 1787312760.0
-    },
-    {
-        "id": "7efbc3aa93",
-        "title_fa": "ادعای شکست نظامی آمریکا؛ تلاش تهران برای توجیه بحران اقتصادی",
-        "title_en": "Top Iran official says US focus on economic warfare shows it has failed militarily",
-        "summary": [
-            "مقامات جمهوری اسلامی ادعا می‌کنند تمرکز واشنگتن بر تحریم‌ها نشان از ترس از مواجهه نظامی دارد؛ خط خبری کاملاً تدافعی برای پنهان کردن بحران شدید ارزی.",
-            "این مانور تبلیغاتی تلاش می‌کند تحریم‌های خفه‌کننده را نقطه ضعف آمریکا جا بزند، در حالی که رژیم هیچ ابزاری برای مهار تورم و فروپاشی اقتصادی ندارد."
-        ],
-        "impact": "این خط کلامی تاثیری بر واقعیت میدانی تحریم‌ها ندارد و تنها برای مصرف داخلی و حفظ روحیه نیروهای وابسته است.",
-        "tag": "جنگ روانی",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3p4enFfTGhkOEU4VkprbkZPLU1DQ0lBOXM1b0wwUlBjS1pwOXY3VnNrbE9Uc0kybHp2bUlsYURlRzF1ejV5cHR5SkVTNUQyc2R4bkxoOEdUWTJ1VzhwWnFmWWhSRF84aTlSWWI0UGY4c1FpNmViOXhWY3JNamJ0d1Zn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3p4enFfTGhkOEU4VkprbkZPLU1DQ0lBOXM1b0wwUlBjS1pwOXY3VnNrbE9Uc0kybHp2bUlsYURlRzF1ejV5cHR5SkVTNUQyc2R4bkxoOEdUWTJ1VzhwWnFmWWhSRF84aTlSWWI0UGY4c1FpNmViOXhWY3JNamJ0d1Zn",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787312530.0
     }
 ]
