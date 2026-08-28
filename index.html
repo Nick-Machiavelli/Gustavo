@@ -109,37 +109,32 @@
                 html:not(.dark) .text-gray-500,
                 html:not(.dark) .text-gray-600 { color: #4b5563 !important; }
 
-                /* ---- LIGHT MODE: top rail is always dark (bg-gustavo-ink) — keep text light there ---- */
+                /* ---- LIGHT MODE: top rail is always dark (bg-gustavo-ink) — fix all text/icon/bg-in-rail ---- */
+                /* Background of the rail stays ink-black even in light mode */
+                html:not(.dark) .bg-gustavo-ink { background: #0f172a !important; }
+                /* Every text/icon inside the rail is forced light for readability */
                 html:not(.dark) .bg-gustavo-ink,
-                html:not(.dark) .bg-gustavo-ink * { color: #e5e7eb !important; }
+                html:not(.dark) .bg-gustavo-ink *,
+                html:not(.dark) .bg-gustavo-ink i,
+                html:not(.dark) .bg-gustavo-ink span,
+                html:not(.dark) .bg-gustavo-ink strong,
+                html:not(.dark) .bg-gustavo-ink a,
+                html:not(.dark) .bg-gustavo-ink svg { color: #e5e7eb !important; }
+                /* Amber accents (kicker, hover, live badge) */
                 html:not(.dark) .bg-gustavo-ink .text-gustavo-amber,
                 html:not(.dark) .bg-gustavo-ink .hover\:text-gustavo-amber:hover,
-                html:not(.dark) .bg-gustavo-ink .text-amber-300,
-                html:not(.dark) .bg-gustavo-ink .text-amber-400,
-                html:not(.dark) .bg-gustavo-ink .text-emerald-300,
-                html:not(.dark) .bg-gustavo-ink .text-emerald-400,
-                html:not(.dark) .bg-gustavo-ink .text-sky-300,
-                html:not(.dark) .bg-gustavo-ink .text-sky-400,
-                html:not(.dark) .bg-gustavo-ink .text-violet-300,
-                html:not(.dark) .bg-gustavo-ink .text-violet-400,
-                html:not(.dark) .bg-gustavo-ink .text-purple-300,
-                html:not(.dark) .bg-gustavo-ink .text-purple-400,
-                html:not(.dark) .bg-gustavo-ink .text-pink-300,
-                html:not(.dark) .bg-gustavo-ink .text-cyan-300,
-                html:not(.dark) .bg-gustavo-ink .text-cyan-400,
-                html:not(.dark) .bg-gustavo-ink .text-yellow-300,
-                html:not(.dark) .bg-gustavo-ink .text-yellow-400,
-                html:not(.dark) .bg-gustavo-ink .text-orange-300,
-                html:not(.dark) .bg-gustavo-ink .text-orange-400,
-                html:not(.dark) .bg-gustavo-ink .text-blue-300,
-                html:not(.dark) .bg-gustavo-ink .text-blue-400,
-                html:not(.dark) .bg-gustavo-ink .text-red-300,
-                html:not(.dark) .bg-gustavo-ink .text-red-400,
-                html:not(.dark) .bg-gustavo-ink .text-slate-300,
-                html:not(.dark) .bg-gustavo-ink .text-slate-400,
-                html:not(.dark) .bg-gustavo-ink .text-gray-300,
-                html:not(.dark) .bg-gustavo-ink .text-gray-400 { color: #fbbf24 !important; }
-                html:not(.dark) .bg-gustavo-ink .text-white\/20 { color: rgba(255,255,255,0.2) !important; }
+                html:not(.dark) .bg-gustavo-ink i.fas,
+                html:not(.dark) .bg-gustavo-ink i.fab,
+                html:not(.dark) .bg-gustavo-ink .w-2.h-2.bg-emerald-400 { color: #fbbf24 !important; }
+                /* Live badge dot + "زنده" on dark rail */
+                html:not(.dark) .bg-gustavo-ink .bg-emerald-400 { background: #34d399 !important; }
+                /* Divider pipes */
+                html:not(.dark) .bg-gustavo-ink .text-white\/20,
+                html:not(.dark) .bg-gustavo-ink .text-white\/20 * { color: rgba(255,255,255,0.2) !important; }
+                /* Sync badge (bg-white/10 pseudo-surface) — text must be white, dot amber */
+                html:not(.dark) #sync-label { color: #ffffff !important; }
+                html:not(.dark) #github-sync-status { color: #ffffff !important; }
+                html:not(.dark) #github-sync-status + div .bg-emerald-400 { background: #34d399 !important; }
 
                 /* ---- Fix light-unreadable Tailwind tints (amber/emerald/gray-200) ---- */
                 /* Only inside LIGHT surfaces (not the always-dark top rail) */
