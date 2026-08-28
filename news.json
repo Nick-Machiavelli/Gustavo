@@ -1,5 +1,23 @@
 [
     {
+        "id": "513c1853f4",
+        "title_fa": "ترامپ و جنگ بی‌پایان ایران",
+        "title_en": "For Trump, the Iran War Is Stuck Between Combat and Genuine Peace",
+        "summary": [
+            "ترامپ جنگ ایران را به‌عنوان «جنگ ابدی» توصیف کرد؛ هدف واضحی مطرح نکرده است",
+            "بدون برنامه‌ریزی واضح، جنگ می‌تواند هزینه‌های نظامی و انسانی را افزایش دهد"
+        ],
+        "impact": "عدم تعیین هدف واضح، ریسک تشدید درگیری و فشار اقتصادی بر ایران را بالا می‌برد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html",
+        "clean_url": "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1787958083.9065413
+    },
+    {
         "id": "87c5fd3f3e",
         "title_fa": "شش ماه جنگ آمریکا‑ایران؛ هزینه‌ها در حال انفجار",
         "title_en": "6 months into US-Iran war, Chicago-area experts question path forward as costs mount",
@@ -5515,23 +5533,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGhRc1VWaXJQSGdUNnNsNTRYd0dRQUhISk1zMko0S2FTS0N0Zmd6ZW45VF9PWFpTSlpHVjhXWUN5dG8wdW9OdER2QnVmUDhiaXRjckJmdWsza1NwRVI1TlBQWUZnUmQ0WVQzUDRNUXJZOFNJUUtKQ0NfS3RSdURtNUR6UFVOdTctaU5BT3F1aEV3TWs",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1787298956.0
-    },
-    {
-        "id": "30b56b8afe",
-        "title_fa": "افزایش تحرکات مرزی میان ایران و عراق",
-        "title_en": "US-Iran Conflict: Iranians cross into Iraq as tensions remain high",
-        "summary": [
-            "هم‌زمان با بالا گرفتن تنش میان ایران و آمریکا، تردد غیرعادی در مرزهای غربی و ورود نیروها به خاک عراق ثبت شده است.",
-            "عراق بار دیگر به کانون احتمالی تسویه‌حساب‌های منطقه‌ای و مواضع گروه‌های نیابتی تبدیل می‌شود."
-        ],
-        "impact": "افزایش احتمال درگیری‌های نیابتی در خاک عراق و ناامنی مرزی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "news.cgtn.com",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MdjdqY3dyR09tVGlQVmZSZGJLNC1Md0lzUkJ4c21VVUZLaUJfWVNMdTBlSkxPMTIxWXNoSDFyYlJCcTNoaEdnN3Vob2NZMU1UVmh6Rjl3bUJ4dkNKZV9FU05US2owZkF2anlCRHBaZktVZWVlVFFYYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MdjdqY3dyR09tVGlQVmZSZGJLNC1Md0lzUkJ4c21VVUZLaUJfWVNMdTBlSkxPMTIxWXNoSDFyYlJCcTNoaEdnN3Vob2NZMU1UVmh6Rjl3bUJ4dkNKZV9FU05US2owZkF2anlCRHBaZktVZWVlVFFYYw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787298075.0
     }
 ]
