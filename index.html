@@ -231,71 +231,122 @@
                     color: #60a5fa !important; /* Bright blue title text */
                 }
 
-                /* Dark Mode fixes for Market Tab Buttons (amber-50, emerald-50, slate-800) */
-                html.dark .bg-amber-50,
-                html.dark .bg-emerald-50 {
-                    background-color: #1f293d !important;
-                    border-color: #374151 !important;
-                    color: #e5e7eb !important;
-                }
+                /* ============================================================
+                   COMPLETE DARK MODE FIXES — All components
+                   ============================================================ */
 
-                html.dark .bg-slate-800 {
-                    background-color: #0f172a !important;
-                    border-color: #1e293b !important;
-                    color: #f3f4f6 !important;
-                }
+                /* Hot Topics Strip (سرخط داغ) */
+                        html.dark .bg-amber-50\/70 {
+                            background-color: #2a1f0a !important;
+                            border-color: #4a3812 !important;
+                        }
+                        html.dark .bg-amber-50\/70 .text-gustavo-ink,
+                        html.dark .bg-amber-50\/70 .gustavo-kicker {
+                            color: #fde68a !important;
+                        }
+                        html.dark .bg-amber-50\/70 .text-gustavo-muted {
+                            color: #fbbf24 !important;
+                        }
+                        html.dark .bg-amber-50\/70 a {
+                            color: #fde68a !important;
+                        }
+                        html.dark .bg-amber-50\/70 a:hover {
+                            color: #fbbf24 !important;
+                        }
+                        html.dark .bg-amber-50\/70 .text-gustavo-line {
+                            color: #4a3812 !important;
+                        }
 
-                /* Ensure market panel grids are visible in dark mode */
-                html.dark #panel-crypto .rounded-2xl,
-                html.dark #panel-forex .rounded-2xl,
-                html.dark #panel-oil .rounded-2xl {
-                    background-color: #1f293d !important;
-                    border-color: #374151 !important;
-                    color: #e5e7eb !important;
-                }
+                        /* Scrolling News Ticker (نوار متحرک) */
+                        html.dark .bg-white.border-gustavo-line {
+                            background-color: #111827 !important;
+                            border-color: #1f293d !important;
+                        }
+                        html.dark #ticker-content {
+                            color: #e5e7eb !important;
+                        }
+                        html.dark #ticker-content a {
+                            color: #e5e7eb !important;
+                            border-color: #374151 !important;
+                        }
+                        html.dark #ticker-content a:hover {
+                            color: #f59e0b !important;
+                        }
+                        html.dark #ticker-content .bg-gustavo-amber {
+                            background-color: #f59e0b !important;
+                        }
 
-                html.dark #panel-crypto .text-gustavo-muted,
-                html.dark #panel-forex .text-gustavo-muted,
-                html.dark #panel-oil .text-gustavo-muted {
-                    color: #9ca3af !important;
-                }
+                        /* Security Index Panel (شاخص فوریت امنیتی) */
+                        html.dark .bg-gray-200 {
+                            background-color: #1f293d !important;
+                            border-color: #374151 !important;
+                        }
+                        html.dark .bg-gray-200 .text-gray-500 {
+                            color: #9ca3af !important;
+                        }
+                        html.dark #tension-text {
+                            color: #fde68a !important;
+                        }
+                        html.dark #tension-fill {
+                            background: linear-gradient(to right, #22c55e, #eab308, #f59e0b) !important;
+                        }
 
-                /* Ticker dark mode */
-                html.dark .border-gray-200 {
-                    border-color: #374151 !important;
-                }
+                        /* Flashpoints Panel (کانون‌های تنش) */
+                        html.dark .bg-gustavo-surface {
+                            background-color: #1f293d !important;
+                            border-color: #374151 !important;
+                        }
+                        html.dark .bg-red-100 {
+                            background-color: #2a1215 !important;
+                            color: #fca5a5 !important;
+                        }
+                        html.dark .bg-orange-100 {
+                            background-color: #2a1a0a !important;
+                            color: #fdba74 !important;
+                        }
 
-                /* Chip active state in dark mode */
-                html.dark .chip-active {
-                    background-color: #f59e0b !important;
-                    border-color: #f59e0b !important;
-                    color: #0f172a !important;
-                }
+                        /* Stats Panel */
+                        html.dark .bg-red-50 {
+                            background-color: #2a1215 !important;
+                            border-color: #5c1d24 !important;
+                        }
+                        html.dark .bg-red-50 .text-gustavo-amber {
+                            color: #f87171 !important;
+                        }
 
-                /* Category chips in dark mode */
-                html.dark #category-chips button:not(.chip-active) {
-                    background-color: #1f293d !important;
-                    border-color: #374151 !important;
-                    color: #e5e7eb !important;
-                }
+                        /* Market Ticker (بازار) - already dark bg, ensure text visible */
+                        html.dark .bg-gustavo-ink .text-white\/20 {
+                            color: #374151 !important;
+                        }
 
-                html.dark #category-chips button:not(.chip-active):hover {
-                    border-color: #f59e0b !important;
-                }
+                        /* Nav Pill Tabs - Active/Inactive states */
+                        html.dark .nav-pill-active {
+                            background-color: #f59e0b !important;
+                            color: #0f172a !important;
+                        }
+                        html.dark .nav-pill-inactive {
+                            background-color: #1f293d !important;
+                            color: #e5e7eb !important;
+                            border-color: #374151 !important;
+                        }
+                        html.dark .nav-pill-inactive:hover {
+                            border-color: #f59e0b !important;
+                            background-color: #2a1f0a !important;
+                        }
 
-                /* Dropdown in dark mode */
-                html.dark select {
-                    background-color: #1f293d !important;
-                    color: #ffffff !important;
-                    border-color: #374151 !important;
-                }
-
-                /* Input in dark mode */
-                html.dark input[type="text"] {
-                    background-color: #1f293d !important;
-                    color: #ffffff !important;
-                    border-color: #374151 !important;
-                }
+                        /* Category chips */
+                        html.dark #category-chips button.chip-active {
+                            background-color: #f59e0b !important;
+                            color: #0f172a !important;
+                        }
+                        html.dark #category-chips button:not(.chip-active) {
+                            background-color: #1f293d !important;
+                            border-color: #374151 !important;
+                            color: #e5e7eb !important;
+                        }
+                        html.dark #category-chips button:not(.chip-active):hover {
+                            border-color: #f59e0b !important;
+                        }
     </style>
 </head>
 
@@ -362,22 +413,22 @@
 
         <!-- Navigation — pill chips on light surface -->
                 <nav class="bg-gustavo-surface border-y border-gustavo-line">
-                    <div class="max-w-[1450px] mx-auto px-2 sm:px-4 flex items-center overflow-x-auto scrollbar-hide">
-                        <div class="flex items-center gap-1.5 py-2 px-1">
-                            <button onclick="showHomeView(); filterFeed('all', this)" id="desk-tab-news" class="gustavo-pill bg-gustavo-ink text-white whitespace-nowrap dark:bg-gustavo-amber dark:text-gustavo-ink">صفحه اصلی</button>
-                            <button onclick="showHomeView(); filterFeed('نظامی', this)" class="gustavo-pill bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">نظامی و دفاعی</button>
-                            <button onclick="showHomeView(); filterFeed('نیابتی', this)" class="gustavo-pill bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">تحرکات نیابتی</button>
-                            <button onclick="showHomeView(); filterFeed('تشدید', this)" class="gustavo-pill bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">هشدار تشدید</button>
-                            <button onclick="showHomeView(); filterFeed('هسته‌ای', this)" class="gustavo-pill bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">پرونده هسته‌ای</button>
-                            <button onclick="showHomeView(); filterFeed('اقتصادی', this)" class="gustavo-pill bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">بازار و تحریم</button>
-                            <button onclick="showHomeView(); filterFeed('سیاسی', this)" class="gustavo-pill bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">دیپلماسی</button>
-                            <span class="w-px h-6 bg-gustavo-line mx-1 hidden sm:block dark:bg-gray-700"></span>
-                            <button onclick="showMarketView('crypto')" id="tab-crypto" class="gustavo-pill bg-amber-50 text-gustavo-ink border-amber-200 hover:bg-gustavo-amber hover:text-white dark:bg-amber-900/30 dark:text-amber-300 dark:border-amber-800 dark:hover:bg-amber-900/50 transition-colors whitespace-nowrap"><i class="fab fa-bitcoin"></i> رمزارز</button>
-                            <button onclick="showMarketView('forex')" id="tab-forex" class="gustavo-pill bg-emerald-50 text-gustavo-ink border-emerald-200 hover:bg-emerald-600 hover:text-white dark:bg-emerald-900/30 dark:text-emerald-300 dark:border-emerald-800 dark:hover:bg-emerald-900/50 transition-colors whitespace-nowrap"><i class="fas fa-dollar-sign"></i> ارز</button>
-                            <button onclick="showMarketView('oil')" id="tab-oil" class="gustavo-pill bg-slate-800 text-white border-slate-700 hover:bg-black dark:bg-slate-900 dark:text-slate-300 dark:border-slate-700 dark:hover:bg-black transition-colors whitespace-nowrap"><i class="fas fa-oil-can"></i> نفت</button>
-                        </div>
-                    </div>
-                </nav>
+                                    <div class="max-w-[1450px] mx-auto px-2 sm:px-4 flex items-center overflow-x-auto scrollbar-hide">
+                                        <div class="flex items-center gap-1.5 py-2 px-1">
+                                            <button onclick="showHomeView(); filterFeed('all', this)" id="desk-tab-news" class="gustavo-pill nav-pill-active bg-gustavo-ink text-white whitespace-nowrap">صفحه اصلی</button>
+                                            <button onclick="showHomeView(); filterFeed('نظامی', this)" id="desk-tab-nazami" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">نظامی و دفاعی</button>
+                                            <button onclick="showHomeView(); filterFeed('نیابتی', this)" id="desk-tab-niabati" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">تحرکات نیابتی</button>
+                                            <button onclick="showHomeView(); filterFeed('تشدید', this)" id="desk-tab-tashdid" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">هشدار تشدید</button>
+                                            <button onclick="showHomeView(); filterFeed('هسته‌ای', this)" id="desk-tab-haste" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">پرونده هسته‌ای</button>
+                                            <button onclick="showHomeView(); filterFeed('اقتصادی', this)" id="desk-tab-eqtesadi" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">بازار و تحریم</button>
+                                            <button onclick="showHomeView(); filterFeed('سیاسی', this)" id="desk-tab-siyasi" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">دیپلماسی</button>
+                                            <span class="w-px h-6 bg-gustavo-line mx-1 hidden sm:block dark:bg-gray-700"></span>
+                                            <button onclick="showMarketView('crypto')" id="tab-crypto" class="gustavo-pill bg-amber-50 text-gustavo-ink border-amber-200 hover:bg-gustavo-amber hover:text-white dark:bg-amber-900/30 dark:text-amber-300 dark:border-amber-800 dark:hover:bg-amber-900/50 transition-colors whitespace-nowrap"><i class="fab fa-bitcoin"></i> رمزارز</button>
+                                            <button onclick="showMarketView('forex')" id="tab-forex" class="gustavo-pill bg-emerald-50 text-gustavo-ink border-emerald-200 hover:bg-emerald-600 hover:text-white dark:bg-emerald-900/30 dark:text-emerald-300 dark:border-emerald-800 dark:hover:bg-emerald-900/50 transition-colors whitespace-nowrap"><i class="fas fa-dollar-sign"></i> ارز</button>
+                                            <button onclick="showMarketView('oil')" id="tab-oil" class="gustavo-pill bg-slate-800 text-white border-slate-700 hover:bg-black dark:bg-slate-900 dark:text-slate-300 dark:border-slate-700 dark:hover:bg-black transition-colors whitespace-nowrap"><i class="fas fa-oil-can"></i> نفت</button>
+                                        </div>
+                                    </div>
+                                </nav>
     </header>
 
     <!-- HOT TOPICS STRIP — soft amber tint -->
@@ -1648,6 +1699,17 @@ function filterFeed(tag, btn) {
                 chip.classList.add('chip-active');
             }
         });
+    }
+
+    // Show/hide Hero Lead: only on "all" filter (Home tab)
+    const heroContainer = document.getElementById('hero-lead-container');
+    if (heroContainer) {
+        if (tag === 'all') {
+            heroContainer.classList.remove('hidden');
+            renderHeroLead(); // Re-render in case data changed
+        } else {
+            heroContainer.classList.add('hidden');
+        }
     }
 
     renderFeed();
