@@ -679,6 +679,26 @@
         "timestamp": 1787858940.0
     },
     {
+        "id": "1796537096",
+        "title_fa": "قیمت نفت خام بالا رفت؛ تردیدهای دیپلوماسی پایان جنگ آمریکا‑ایران",
+        "title_en": "Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War",
+        "summary": [
+            "گزارش WSJ نشان داد ترامپ تمایلی به بازگشت به توافق ژوئن ندارد",
+            "بازار از خطر قطع جریان نفت خاورمیانه نگران شد و قیمت‌ها را فشار داد",
+            "نفت WTI با 1.58٪ صعود کرد؛ واکنش سریع به ریسک ژئوپولیتیک",
+            "قیمت گازوئیل نیز به‌دلیل همان عوامل کمی افزایش یافت"
+        ],
+        "impact": "قیمت نفت خام روزانه حدود 1.5٪ افزایش یافت؛ هزینه‌های انرژی و فشار بر تورم جهانی بالا رفت",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Barchart · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/crude-oil-settles-higher-diplomacy-191636335.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-settles-higher-diplomacy-191636335.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/b38318330c92ac93a081252350c20f53.jpg",
+        "timestamp": 1787858185.0
+    },
+    {
         "id": "840636af83",
         "title_fa": "اسرائیل از طرح غزه ترامپ حمایت می‌کند؛ ایران مانع آی‌ای‌ای",
         "title_en": "Israel backs Trump's Gaza plan; Iran bars IAEA from bombed sites TV7 Israel News - 27 Aug.",
@@ -5504,22 +5524,5 @@
         "clean_url": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
         "image": "http://www.bing.com/th?id=ONUT.WoiYlkZokJuJQ9tT2a4UPg&pid=News",
         "timestamp": 1787244960.0
-    },
-    {
-        "id": "b484ea4339",
-        "title_fa": "Donald Trump Just Explained Why Iran Should Have a Nuclear Weapon",
-        "title_en": "Donald Trump Just Explained Why Iran Should Have a Nuclear Weapon",
-        "summary": [
-            "Donald Trump Just Explained Why Iran Should Have a Nuclear Weapon"
-        ],
-        "impact": "تحولات و رویدادهای جاری مرتبط با ایران و منطقه.",
-        "tag": "خبر فوری",
-        "urgency": 7,
-        "sentiment": 0.0,
-        "source": "The Atlantic",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlFja2NaTHRyRFF2WEFpcVRsbVg3YmxzTzFsdmc1aHo2eHRoN29GcWxLT05BMTR1ckZ0Rk9GTDVWZ0E4UXlRZXliRFJIUUdERjNmOVBFN0RCQ1lnZ1JhZWlobVhnMGh0cDNxRTJPTzVxS1BET2NCYTlVakhFQ2pSQ1hpTUNMM09EalpMUDN0cUp0Y3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlFja2NaTHRyRFF2WEFpcVRsbVg3YmxzTzFsdmc1aHo2eHRoN29GcWxLT05BMTR1ckZ0Rk9GTDVWZ0E4UXlRZXliRFJIUUdERjNmOVBFN0RCQ1lnZ1JhZWlobVhnMGh0cDNxRTJPTzVxS1BET2NCYTlVakhFQ2pSQ1hpTUNMM09EalpMUDN0cUp0Y3M",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787244883.0
     }
 ]
