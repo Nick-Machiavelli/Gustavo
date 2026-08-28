@@ -1,5 +1,25 @@
 [
     {
+        "id": "1bf4c7c7c1",
+        "title_fa": "ترامپ تجارت‌جنگی با کانادا را آغاز کرد",
+        "title_en": "Trump’s make-believe presidency is crashing into reality",
+        "summary": [
+            "ترامپ به‌جای رفع مشکلات داخلی، جنگ تجاری با کانادا را راه‌اندازی کرد",
+            "این اقدام قیمت توالت‌کاغذ، چوب و آلومینیوم را در آمریکا بالا می‌برد",
+            "سیاست‌های او بیشتر برای جلب توجه و سود شخصی است تا کاهش تورم",
+            "آمریکا در این مسیر به‌دست‌نشانده‌های اقتصادی خود آسیب می‌رساند"
+        ],
+        "impact": "قیمت کالاهای مصرفی در آمریکا بالا می‌رود و فشار بر تورم افزوده می‌شود",
+        "tag": "تجارت",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "ms",
+        "url": "https://www.ms.now/news/trump-versus-reality-iran-war-inflation-canada-trade",
+        "clean_url": "https://www.ms.now/news/trump-versus-reality-iran-war-inflation-canada-trade",
+        "image": "https://www.bing.com/th?id=ONUT.zVJYq4VVZzallZCIrntr4A",
+        "timestamp": 1787952729.3740036
+    },
+    {
         "id": "4d49b6dc33",
         "title_fa": "۶ ماه جنگ؛ رژیم ایران پابرجاست، اهداف آمریکا نامشخص",
         "title_en": "Six Months In, Iran’s Regime Stands, U.S. Goals Remain Unmet",
@@ -5506,24 +5526,5 @@
         "clean_url": "https://www.msn.com/en-ph/politics/government/us-pushes-allies-china-to-back-trump-s-economic-war-on-iran/ar-AA2aBxnC",
         "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/21/358110.jpg",
         "timestamp": 1787277911.0
-    },
-    {
-        "id": "f2e92ba404",
-        "title_fa": "توسل پزشکیان به شعار عزت برای خروج از بحران جنگ",
-        "title_en": "یک شرکت تحلیل داده‌های کشتیرانی: تنها ۷ کشتی حمل کالا پنج‌شنبه از تنگه هرمز گذشتند",
-        "summary": [
-            "مسعود پزشکیان صریحاً خواستار پایان جنگ شد و اعتراف کرد شعارهای تند، هزینه‌های کمرشکن تورم را به مردم تحمیل کرده است.",
-            "ادعای پایان درگیری از «موضع عزت» صرفاً مانوری برای سرپوش گذاشتن بر هراس حاکمیت از فروپاشی اقتصادی و فلج شدن زیرساخت‌هاست.",
-            "تأکید بر آمادگی نیروهای مسلح، تلاش تکراری برای حفظ روحیه بدنه متزلزل حامیان رژیم است."
-        ],
-        "impact": "آشکار شدن اثر فشارها، ایجاد شکاف در خط کلامی حاکمیت و تمایل پنهانی به فوریت در عقب‌نشینی.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/fa/liveblog/iran-conflict-August21",
-        "clean_url": "https://www.iranintl.com/fa/liveblog/iran-conflict-August21",
-        "image": "http://www.bing.com/th?id=ONUT.l9ErcM7VkdmB-vetxPLMag&pid=News",
-        "timestamp": 1787276040.0
     }
 ]
