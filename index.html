@@ -64,14 +64,181 @@
             transform: translateY(-2px);
         }
         .gustavo-pill {
-            border-radius: 9999px;
-            font-weight: 700;
-            font-size: 12px;
-            padding: 6px 14px;
-            border: 1px solid #e2e8f0;
-        }
+                    border-radius: 9999px;
+                    font-weight: 700;
+                    font-size: 12px;
+                    padding: 6px 14px;
+                    border: 1px solid #e2e8f0;
+                }
 
-        @media (max-width: 768px) {
+                /* Gustavo Logo/Avatar — oval background with custom amber/ink gradient */
+                                .gustavo-logo-avatar {
+                                    background: linear-gradient(135deg, #f59e0b 0%, #d97706 50%, #0f172a 100%);
+                                    border-radius: 9999px;
+                                    padding: 2px;
+                                    display: inline-flex;
+                                    align-items: center;
+                                    justify-content: center;
+                                    box-shadow: 0 4px 14px rgba(245, 158, 11, 0.35);
+                                }
+                                .gustavo-logo-avatar-inner {
+                                    background: #0f172a;
+                                    border-radius: 9999px;
+                                    padding: 8px 16px;
+                                    display: flex;
+                                    align-items: center;
+                                    gap: 8px;
+                                }
+                                html.dark .gustavo-logo-avatar {
+                                    background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 50%, #111827 100%);
+                                    box-shadow: 0 4px 20px rgba(245, 158, 11, 0.5);
+                                }
+                                html.dark .gustavo-logo-avatar-inner {
+                                    background: #111827;
+                                }
+
+                /* ====================
+                   COMPLETE DARK MODE SYSTEM
+                   — covers Hot Topics Strip, Ticker, Tension Panel,
+                     Market Tabs, Callouts, Articles, Modals, Mobile Drawer
+                   — all with high-contrast colors
+                   ==================== */
+
+                /* ---- Body & Cards ---- */
+                html.dark body { background: #0b0f19 !important; color: #f3f4f6 !important; }
+                html.dark .gustavo-card, html.dark .bg-white { background: #111827 !important; border-color: #1f293d !important; color: #f3f4f6 !important; }
+                html.dark .bg-gustavo-surface, html.dark .bg-gray-50, html.dark .bg-gray-100 { background: #1f293d !important; border-color: #374151 !important; color: #e5e7eb !important; }
+                html.dark .border-gray-200, html.dark .border-gray-300, html.dark .border-gray-100, html.dark .border-gustavo-line { border-color: #374151 !important; }
+                html.dark .text-gustavo-ink, html.dark .text-gray-800, html.dark .text-gray-700 { color: #f3f4f6 !important; }
+                html.dark .text-gustavo-muted, html.dark .text-gray-600, html.dark .text-gray-500 { color: #9ca3af !important; }
+                html.dark .text-gray-400 { color: #9ca3af !important; }
+                html.dark .text-gray-300 { color: #d1d5db !important; }
+
+                /* ---- Hot Topics Strip (سرخط داغ) — amber strip ---- */
+                html.dark .bg-amber-50\/70 { background: #2a1f0a !important; border-color: #4a3812 !important; }
+                html.dark .bg-amber-50\/70 .text-gustavo-ink,
+                html.dark .bg-amber-50\/70 .gustavo-kicker,
+                html.dark .bg-amber-50\/70 .text-gustavo-line,
+                html.dark .bg-amber-50\/70 span,
+                html.dark .bg-amber-50\/70 a { color: #fde68a !important; }
+                html.dark .bg-amber-50\/70 .hover\:text-gustavo-ink:hover { color: #fbbf24 !important; }
+                html.dark .bg-amber-50\/70 .w-7 { background: #f59e0b !important; }
+
+                /* ---- Market Ticker (پایین‌ترین نوار — USD | EUR | BTC) ---- */
+                html.dark .bg-gustavo-ink.text-white,
+                html.dark .bg-gustavo-ink.text-white\/10,
+                html.dark .bg-white\/10 { background: #0b0f19 !important; border-color: #1f293d !important; }
+                html.dark .bg-gustavo-amber.text-gustavo-ink { background: #f59e0b !important; color: #0f172a !important; }
+                html.dark .text-white\/20 { color: #1f293d !important; }
+                html.dark .text-emerald-300 { color: #6ee7b7 !important; }
+                html.dark .text-amber-300 { color: #fde68a !important; }
+                html.dark .text-sky-300 { color: #7dd3fc !important; }
+                html.dark .text-violet-300 { color: #c4b5fd !important; }
+                html.dark .text-purple-300 { color: #c084fc !important; }
+                html.dark .text-orange-300 { color: #fdba74 !important; }
+                html.dark .text-yellow-300 { color: #fde68a !important; }
+                html.dark .text-red-300 { color: #fca5a5 !important; }
+                html.dark .text-green-400 { color: #34d399 !important; }
+
+                /* ---- Scrolling News Ticker (نوار متحرک خبرها) ---- */
+                html.dark .bg-white.border-gustavo-line.overflow-hidden { background: #111827 !important; border-color: #1f293d !important; }
+                html.dark #ticker-content { color: #e5e7eb !important; }
+                html.dark #ticker-content a { color: #fde68a !important; border-color: #374151 !important; }
+                html.dark #ticker-content a:hover { color: #fbbf24 !important; }
+                html.dark #ticker-content .bg-gustavo-ink.text-white { background: #0f172a !important; color: #f3f4f6 !important; }
+                html.dark #ticker-content .bg-gustavo-amber { background: #f59e0b !important; }
+
+                /* ---- Security Index Panel (شاخص فوریت امنیتی) ---- */
+                html.dark .bg-gray-200 { background: #1f293d !important; border-color: #374151 !important; }
+                html.dark #tension-text { color: #fde68a !important; }
+                html.dark #tension-percent { color: #fde68a !important; }
+                html.dark #tension-fill { background: linear-gradient(to right, #22c55e, #eab308, #f59e0b) !important; }
+
+                /* ---- Flashpoints & Regional Tension Badges ---- */
+                html.dark .bg-red-100 { background: #2a1215 !important; color: #fca5a5 !important; }
+                html.dark .bg-orange-100 { background: #2a1a0a !important; color: #fdba74 !important; }
+                html.dark .bg-emerald-50 { background: #022c27 !important; border-color: #044d42 !important; }
+                html.dark .bg-emerald-50 * { color: #6ee7b7 !important; }
+                html.dark .bg-red-50 { background: #2a1215 !important; border-color: #5c1d24 !important; }
+                html.dark .bg-red-50 .text-gustavo-amber { color: #f87171 !important; }
+
+                /* ---- Market Tab Buttons (crypto/forex/oil) ---- */
+                html.dark #tab-crypto { background: #2a1f0a !important; border-color: #4a3812 !important; color: #fde68a !important; }
+                html.dark #tab-forex { background: #022c27 !important; border-color: #044d42 !important; color: #6ee7b7 !important; }
+                html.dark #tab-oil { background: #1a1a2e !important; border-color: #333366 !important; color: #cbd5e1 !important; }
+
+                /* ---- Nav Pill Tabs (صفحه اصلی، نظامی، ...) ---- */
+                .nav-pill-active { background: #0f172a !important; color: #ffffff !important; }
+                html.dark .nav-pill-active { background: #f59e0b !important; color: #0f172a !important; }
+                .nav-pill-inactive { background: #ffffff !important; color: #0f172a !important; border-color: #e2e8f0 !important; }
+                html.dark .nav-pill-inactive { background: #1f293d !important; color: #e5e7eb !important; border-color: #374151 !important; }
+                html.dark .nav-pill-inactive:hover { background: #2a1f0a !important; border-color: #f59e0b !important; color: #fde68a !important; }
+
+                /* ---- Category Chips (همه اخبار، نظامی، ...) ---- */
+                html.dark #category-chips button.chip-active { background: #f59e0b !important; color: #0f172a !important; }
+                html.dark #category-chips button:not(.chip-active) { background: #1f293d !important; border-color: #374151 !important; color: #e5e7eb !important; }
+                html.dark #category-chips button:not(.chip-active):hover { border-color: #f59e0b !important; }
+
+                /* ---- Hero Lead / Article Cards ---- */
+                html.dark .bg-gradient-to-t { background: linear-gradient(to top, #00000080, transparent) !important; }
+                html.dark .bg-black { background: #0b0f19 !important; }
+                html.dark .bg-black .text-gray-400 { color: #9ca3af !important; }
+                html.dark .bg-white\/5, html.dark .bg-gustavo-amber\/30 { background: rgba(245, 158, 11, 0.25) !important; }
+                html.dark .border-white\/10, html.dark .border-white\/20 { border-color: rgba(255, 255, 255, 0.08) !important; }
+
+                /* ---- Dashboard View ---- */
+                html.dark .bg-gustavo-ink.text-white.border-t-4 { background: #0b0f19 !important; border-top-color: #f59e0b !important; }
+                html.dark .bg-gustavo-ink.text-white.p-6 { background: #0b0f19 !important; }
+                html.dark .bg-gustavo-ink.text-white { background: #0b0f19 !important; color: #f3f4f6 !important; }
+
+                /* ---- Stats Numbers ---- */
+                html.dark .text-gustavo-ink { color: #f3f4f6 !important; }
+                html.dark .text-gustavo-amber { color: #f59e0b !important; }
+                html.dark .text-amber-600 { color: #f59e0b !important; }
+                html.dark .text-red-600 { color: #f87171 !important; }
+                html.dark .text-orange-700 { color: #fdba74 !important; }
+                html.dark .text-green-600 { color: #34d399 !important; }
+
+                /* ---- Form Inputs & Selects ---- */
+                html.dark input, html.dark select, html.dark input:focus { background: #1f293d !important; color: #ffffff !important; border-color: #374151 !important; }
+
+                /* ---- Modals & Drawers ---- */
+                html.dark #daily-summary-modal > div, html.dark #mobile-drawer > div, html.dark #mobile-drawer .bg-white.rounded-t-xl { background: #111827 !important; border-color: #374151 !important; color: #f3f4f6 !important; }
+                html.dark #mobile-drawer .border-gray-200, html.dark #mobile-drawer .border-t-4 { border-color: #374151 !important; }
+                html.dark .bg-gustavo-amber.text-white.border-t-4 { background: #f59e0b !important; border-top-color: #f59e0b !important; }
+
+                /* ---- Footer ---- */
+                html.dark .bg-gustavo-ink.text-gray-300.border-t-4 { background: #0b0f19 !important; border-top-color: #f59e0b !important; }
+
+                /* ---- Load More Button ---- */
+                html.dark .bg-gustavo-ink.hover\:bg-gustavo-inksoft.text-white { background: #0f172a !important; }
+
+                /* ---- Empty State ---- */
+                html.dark .bg-white.p-12 { background: #111827 !important; }
+                html.dark .text-gray-400.text-4xl, html.dark .text-gray-500.font-medium { color: #9ca3af !important; }
+
+                /* ---- Article Badges & Borders ---- */
+                html.dark .border, html.dark .border-2 { border-color: #374151 !important; }
+
+                /* ---- Analysis Box ---- */
+                html.dark .bg-gustavo-surface\.p-3, html.dark .bg-gustavo-surface\.p-3\.sm\:p-4 { background: #1f293d !important; border-color: #374151 !important; }
+
+                /* ---- Animated Loading ---- */
+                html.dark .animate-pulse .bg-gray-200 { background: #1f293d !important; }
+                html.dark .animate-pulse .bg-gray-300 { background: #374151 !important; }
+
+                /* ---- Mobile Bottom App Bar ---- */
+                html.dark .fixed.bottom-0.bg-gustavo-ink.border-t-2 { background: #0b0f19 !important; border-top-color: #f59e0b !important; }
+
+                /* ---- Live badge in dashboard ---- */
+                html.dark .bg-gustavo-ink.text-white\/80 { background: #0b0f19 !important; }
+
+                /* ---- Text shadows for readability on image overlays ---- */
+                html.dark .text-white { color: #f3f4f6 !important; }
+                html.dark .text-white\/70 { color: #cbd5e1 !important; }
+                html.dark .text-white\/80 { color: #9ca3af !important; }
+
+                @media (max-width: 768px) {
             /* Prevent content from hiding behind mobile bottom bar */
             body {
                 padding-bottom: 70px !important;
@@ -136,218 +303,11 @@
         .scrollbar-hide::-webkit-scrollbar { display: none; }
         .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
 
-        /* Global Dark Mode Overrides */
-        html.dark body {
-            background-color: #0b0f19 !important;
-            color: #f3f4f6 !important;
-        }
-
-        /* Cards & Containers */
-        html.dark .bg-white,
-        html.dark .gustavo-card {
-            background-color: #111827 !important;
-            border-color: #1f293d !important;
-            color: #f3f4f6 !important;
-        }
-
-        /* Light Gray Backgrounds (Inputs, Sub-boxes, Secondary Cards) */
-        html.dark .bg-gustavo-surface,
-        html.dark .bg-gray-100,
-        html.dark .bg-gray-50 {
-            background-color: #1f293d !important;
-            border-color: #374151 !important;
-            color: #e5e7eb !important;
-        }
-
-        /* Borders & Dividers */
-        html.dark .border-gray-200,
-        html.dark .border-gray-300,
-        html.dark .border-gray-100,
-        html.dark .border-gustavo-line {
-            border-color: #1f293d !important;
-        }
-
-        /* Text Colors */
-        html.dark .text-gustavo-ink,
-        html.dark .text-gustavo-ink,
-        html.dark .text-gray-800,
-        html.dark .text-gray-700 {
-            color: #f3f4f6 !important;
-        }
-
-        html.dark .text-gustavo-muted,
-        html.dark .text-gray-600,
-        html.dark .text-gray-500 {
-            color: #9ca3af !important;
-        }
-
-        /* Form Inputs & Select Dropdowns */
-        html.dark input,
-        html.dark select {
-            background-color: #1f293d !important;
-            color: #ffffff !important;
-            border-color: #374151 !important;
-        }
-
-        /* Modals & Mobile Drawers */
-        html.dark #daily-summary-modal > div,
-        html.dark #mobile-drawer > div {
-            background-color: #111827 !important;
-            color: #f3f4f6 !important;
-            border-color: #374151 !important;
-        }
-
-        /* Dark Mode fixes for Red Callout Boxes ("ادعای حاکمیت در برابر واقعیت میدانی" & "آسیب‌پذیری‌ها") */
-                html.dark .bg-red-50 {
-                    background-color: #2a1215 !important;
-                    border-color: #5c1d24 !important;
-                }
-
-                html.dark .bg-red-50 p,
-                html.dark .bg-red-50 li,
-                html.dark .bg-red-50 span {
-                    color: #fca5a5 !important; /* Soft high-contrast light red text */
-                }
-
-                html.dark .bg-red-50 .font-bold,
-                html.dark .bg-red-50 .text-gustavo-amber {
-                    color: #f87171 !important; /* Bright red title text */
-                }
-
-                /* Dark Mode fixes for Blue Callout Boxes ("چشم‌انداز پیش‌رو" & "بازار") */
-                html.dark .bg-blue-50 {
-                    background-color: #0f1f38 !important;
-                    border-color: #1e3a66 !important;
-                }
-
-                html.dark .bg-blue-50 p,
-                html.dark .bg-blue-50 li,
-                html.dark .bg-blue-50 span {
-                    color: #bfdbfe !important; /* Soft high-contrast light blue text */
-                }
-
-                html.dark .bg-blue-50 .font-bold,
-                html.dark .bg-blue-50 .text-gustavo-ink {
-                    color: #60a5fa !important; /* Bright blue title text */
-                }
-
-                /* ============================================================
-                   COMPLETE DARK MODE FIXES — All components
-                   ============================================================ */
-
-                /* Hot Topics Strip (سرخط داغ) */
-                        html.dark .bg-amber-50\/70 {
-                            background-color: #2a1f0a !important;
-                            border-color: #4a3812 !important;
-                        }
-                        html.dark .bg-amber-50\/70 .text-gustavo-ink,
-                        html.dark .bg-amber-50\/70 .gustavo-kicker {
-                            color: #fde68a !important;
-                        }
-                        html.dark .bg-amber-50\/70 .text-gustavo-muted {
-                            color: #fbbf24 !important;
-                        }
-                        html.dark .bg-amber-50\/70 a {
-                            color: #fde68a !important;
-                        }
-                        html.dark .bg-amber-50\/70 a:hover {
-                            color: #fbbf24 !important;
-                        }
-                        html.dark .bg-amber-50\/70 .text-gustavo-line {
-                            color: #4a3812 !important;
-                        }
-
-                        /* Scrolling News Ticker (نوار متحرک) */
-                        html.dark .bg-white.border-gustavo-line {
-                            background-color: #111827 !important;
-                            border-color: #1f293d !important;
-                        }
-                        html.dark #ticker-content {
-                            color: #e5e7eb !important;
-                        }
-                        html.dark #ticker-content a {
-                            color: #e5e7eb !important;
-                            border-color: #374151 !important;
-                        }
-                        html.dark #ticker-content a:hover {
-                            color: #f59e0b !important;
-                        }
-                        html.dark #ticker-content .bg-gustavo-amber {
-                            background-color: #f59e0b !important;
-                        }
-
-                        /* Security Index Panel (شاخص فوریت امنیتی) */
-                        html.dark .bg-gray-200 {
-                            background-color: #1f293d !important;
-                            border-color: #374151 !important;
-                        }
-                        html.dark .bg-gray-200 .text-gray-500 {
-                            color: #9ca3af !important;
-                        }
-                        html.dark #tension-text {
-                            color: #fde68a !important;
-                        }
-                        html.dark #tension-fill {
-                            background: linear-gradient(to right, #22c55e, #eab308, #f59e0b) !important;
-                        }
-
-                        /* Flashpoints Panel (کانون‌های تنش) */
-                        html.dark .bg-gustavo-surface {
-                            background-color: #1f293d !important;
-                            border-color: #374151 !important;
-                        }
-                        html.dark .bg-red-100 {
-                            background-color: #2a1215 !important;
-                            color: #fca5a5 !important;
-                        }
-                        html.dark .bg-orange-100 {
-                            background-color: #2a1a0a !important;
-                            color: #fdba74 !important;
-                        }
-
-                        /* Stats Panel */
-                        html.dark .bg-red-50 {
-                            background-color: #2a1215 !important;
-                            border-color: #5c1d24 !important;
-                        }
-                        html.dark .bg-red-50 .text-gustavo-amber {
-                            color: #f87171 !important;
-                        }
-
-                        /* Market Ticker (بازار) - already dark bg, ensure text visible */
-                        html.dark .bg-gustavo-ink .text-white\/20 {
-                            color: #374151 !important;
-                        }
-
-                        /* Nav Pill Tabs - Active/Inactive states */
-                        html.dark .nav-pill-active {
-                            background-color: #f59e0b !important;
-                            color: #0f172a !important;
-                        }
-                        html.dark .nav-pill-inactive {
-                            background-color: #1f293d !important;
-                            color: #e5e7eb !important;
-                            border-color: #374151 !important;
-                        }
-                        html.dark .nav-pill-inactive:hover {
-                            border-color: #f59e0b !important;
-                            background-color: #2a1f0a !important;
-                        }
-
-                        /* Category chips */
-                        html.dark #category-chips button.chip-active {
-                            background-color: #f59e0b !important;
-                            color: #0f172a !important;
-                        }
-                        html.dark #category-chips button:not(.chip-active) {
-                            background-color: #1f293d !important;
-                            border-color: #374151 !important;
-                            color: #e5e7eb !important;
-                        }
-                        html.dark #category-chips button:not(.chip-active):hover {
-                            border-color: #f59e0b !important;
-                        }
     </style>
+</head>
+
+<body class="font-sans antialiased text-gustavo-ink selection:bg-gustavo-amber selection:text-white">
+
 </head>
 
 <body class="font-sans antialiased text-gustavo-ink selection:bg-gustavo-amber selection:text-white">
@@ -381,12 +341,14 @@
     <!-- ═══════════════ MAIN HEADER — redesigned: dark ink with amber accent, rounded card logo ═══════════════ -->
     <header class="bg-white border-b border-gustavo-line shadow-sm sticky top-0 z-40">
         <div class="max-w-[1450px] mx-auto px-3 sm:px-4 py-2 sm:py-3 flex justify-between items-center gap-2">
-            <!-- Logo — compact on mobile -->
-            <div class="flex items-center gap-2 sm:gap-3">
-                <a href="#" onclick="showHomeView()" class="bg-gustavo-ink text-white font-brand font-black px-2.5 sm:px-3 py-1.5 sm:py-2 text-[15px] sm:text-xl md:text-2xl tracking-tight rounded-xl sm:rounded-2xl flex items-center gap-1.5 sm:gap-2 shadow-sm">
-                    <span class="tracking-tighter">GUSTAVO</span>
-                    <span class="bg-gustavo-amber text-gustavo-ink px-1.5 sm:px-2 py-0.5 text-[9px] sm:text-[11px] font-sans font-extrabold rounded-full leading-none">نبض خبر</span>
-                </a>
+            <!-- Logo — compact on mobile with oval background -->
+                        <div class="flex items-center gap-2 sm:gap-3">
+                            <a href="#" onclick="showHomeView()" class="gustavo-logo-avatar flex items-center gap-1.5 sm:gap-2 shadow-sm">
+                                <div class="gustavo-logo-avatar-inner">
+                                    <span class="tracking-tighter font-brand font-black text-white text-[15px] sm:text-xl md:text-2xl">GUSTAVO</span>
+                                    <span class="bg-gustavo-amber text-gustavo-ink px-1.5 sm:px-2 py-0.5 text-[9px] sm:text-[11px] font-sans font-extrabold rounded-full leading-none whitespace-nowrap">نبض خبر</span>
+                                </div>
+                            </a>
                 <div class="hidden lg:block border-r border-gustavo-line pr-3">
                     <h1 class="text-[11px] font-extrabold text-gustavo-ink leading-none">رسانه مستقل نبض خبر ایران</h1>
                     <p class="text-[10px] text-gustavo-muted mt-1">پوشش لحظه‌ای تحولات سیاسی، اقتصادی و میدانی</p>
@@ -400,10 +362,10 @@
                     <span class="hidden xs:inline">بولتن</span>
                 </button>
 
-                <button onclick="switchTab('dashboard')" class="bg-gustavo-ink hover:bg-gustavo-inksoft text-white text-[11px] sm:text-xs font-bold px-3 sm:px-4 py-2 rounded-full transition-all flex items-center gap-1.5 shadow-sm">
-                    <i class="fas fa-signal text-gustavo-amber text-[11px] animate-pulse"></i>
-                    <span>زنده</span>
-                </button>
+                <button onclick="switchTab('dashboard')" class="bg-gustavo-ink hover:bg-gustavo-inksoft text-white text-[11px] sm:text-xs font-bold px-3 sm:px-4 py-2 rounded-full transition-all flex items-center gap-1.5 shadow-sm dark:text-gustavo-amber">
+                                    <i class="fas fa-signal text-gustavo-amber text-[11px] animate-pulse"></i>
+                                    <span class="dark:text-white">زنده</span>
+                                </button>
 
                 <button onclick="toggleDarkMode()" class="w-9 h-9 bg-gustavo-surface hover:bg-gustavo-line text-gustavo-ink rounded-full text-xs transition-colors flex items-center justify-center border border-gustavo-line" title="حالت شب">
                     <i class="fas fa-moon"></i>
@@ -411,24 +373,24 @@
             </div>
         </div>
 
-        <!-- Navigation — pill chips on light surface -->
-                <nav class="bg-gustavo-surface border-y border-gustavo-line">
-                                    <div class="max-w-[1450px] mx-auto px-2 sm:px-4 flex items-center overflow-x-auto scrollbar-hide">
-                                        <div class="flex items-center gap-1.5 py-2 px-1">
-                                            <button onclick="showHomeView(); filterFeed('all', this)" id="desk-tab-news" class="gustavo-pill nav-pill-active bg-gustavo-ink text-white whitespace-nowrap">صفحه اصلی</button>
-                                            <button onclick="showHomeView(); filterFeed('نظامی', this)" id="desk-tab-nazami" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">نظامی و دفاعی</button>
-                                            <button onclick="showHomeView(); filterFeed('نیابتی', this)" id="desk-tab-niabati" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">تحرکات نیابتی</button>
-                                            <button onclick="showHomeView(); filterFeed('تشدید', this)" id="desk-tab-tashdid" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">هشدار تشدید</button>
-                                            <button onclick="showHomeView(); filterFeed('هسته‌ای', this)" id="desk-tab-haste" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">پرونده هسته‌ای</button>
-                                            <button onclick="showHomeView(); filterFeed('اقتصادی', this)" id="desk-tab-eqtesadi" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">بازار و تحریم</button>
-                                            <button onclick="showHomeView(); filterFeed('سیاسی', this)" id="desk-tab-siyasi" class="gustavo-pill nav-pill-inactive bg-white text-gustavo-ink hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gustavo-ink dark:hover:text-white transition-colors whitespace-nowrap">دیپلماسی</button>
-                                            <span class="w-px h-6 bg-gustavo-line mx-1 hidden sm:block dark:bg-gray-700"></span>
-                                            <button onclick="showMarketView('crypto')" id="tab-crypto" class="gustavo-pill bg-amber-50 text-gustavo-ink border-amber-200 hover:bg-gustavo-amber hover:text-white dark:bg-amber-900/30 dark:text-amber-300 dark:border-amber-800 dark:hover:bg-amber-900/50 transition-colors whitespace-nowrap"><i class="fab fa-bitcoin"></i> رمزارز</button>
-                                            <button onclick="showMarketView('forex')" id="tab-forex" class="gustavo-pill bg-emerald-50 text-gustavo-ink border-emerald-200 hover:bg-emerald-600 hover:text-white dark:bg-emerald-900/30 dark:text-emerald-300 dark:border-emerald-800 dark:hover:bg-emerald-900/50 transition-colors whitespace-nowrap"><i class="fas fa-dollar-sign"></i> ارز</button>
-                                            <button onclick="showMarketView('oil')" id="tab-oil" class="gustavo-pill bg-slate-800 text-white border-slate-700 hover:bg-black dark:bg-slate-900 dark:text-slate-300 dark:border-slate-700 dark:hover:bg-black transition-colors whitespace-nowrap"><i class="fas fa-oil-can"></i> نفت</button>
+        <!-- Navigation — pill chips with proper light/dark contrast -->
+                    <nav class="bg-gustavo-surface border-y border-gustavo-line">
+                                        <div class="max-w-[1450px] mx-auto px-2 sm:px-4 flex items-center overflow-x-auto scrollbar-hide">
+                                            <div class="flex items-center gap-1.5 py-2 px-1">
+                                                <button onclick="showHomeView(); filterFeed('all', this)" id="desk-tab-news" class="gustavo-pill nav-pill-active whitespace-nowrap">صفحه اصلی</button>
+                                                                                            <button onclick="showHomeView(); filterFeed('نظامی', this)" id="desk-tab-nazami" class="gustavo-pill nav-pill-inactive whitespace-nowrap">نظامی و دفاعی</button>
+                                                                                            <button onclick="showHomeView(); filterFeed('نیابتی', this)" id="desk-tab-niabati" class="gustavo-pill nav-pill-inactive whitespace-nowrap">تحرکات نیابتی</button>
+                                                                                            <button onclick="showHomeView(); filterFeed('تشدید', this)" id="desk-tab-tashdid" class="gustavo-pill nav-pill-inactive whitespace-nowrap">هشدار تشدید</button>
+                                                                                            <button onclick="showHomeView(); filterFeed('هسته‌ای', this)" id="desk-tab-haste" class="gustavo-pill nav-pill-inactive whitespace-nowrap">پرونده هسته‌ای</button>
+                                                                                            <button onclick="showHomeView(); filterFeed('اقتصادی', this)" id="desk-tab-eqtesadi" class="gustavo-pill nav-pill-inactive whitespace-nowrap">بازار و تحریم</button>
+                                                                                            <button onclick="showHomeView(); filterFeed('سیاسی', this)" id="desk-tab-siyasi" class="gustavo-pill nav-pill-inactive whitespace-nowrap">دیپلماسی</button>
+                                                <span class="w-px h-6 bg-gustavo-line mx-1 hidden sm:block dark:bg-gray-700"></span>
+                                                <button onclick="showMarketView('crypto')" id="tab-crypto" class="gustavo-pill bg-amber-50 text-gustavo-ink border-amber-200 hover:bg-gustavo-amber hover:text-white transition-colors whitespace-nowrap"><i class="fab fa-bitcoin"></i> رمزارز</button>
+                                                <button onclick="showMarketView('forex')" id="tab-forex" class="gustavo-pill bg-emerald-50 text-gustavo-ink border-emerald-200 hover:bg-emerald-600 hover:text-white transition-colors whitespace-nowrap"><i class="fas fa-dollar-sign"></i> ارز</button>
+                                                <button onclick="showMarketView('oil')" id="tab-oil" class="gustavo-pill bg-slate-800 text-white border-slate-700 hover:bg-black transition-colors whitespace-nowrap"><i class="fas fa-oil-can"></i> نفت</button>
+                                            </div>
                                         </div>
-                                    </div>
-                                </nav>
+                                    </nav>
     </header>
 
     <!-- HOT TOPICS STRIP — soft amber tint -->
@@ -710,22 +672,22 @@
 
                 <!-- 3. URGENCY THREAT GAUGE PANEL -->
                 <div class="gustavo-card p-5">
-                    <div class="flex items-center justify-between border-b border-gray-200 pb-3 mb-3">
-                        <span class="gustavo-kicker flex items-center gap-1.5"><i class="fas fa-shield-alt"></i> شاخص فوریت امنیتی</span>
+                    <div class="flex items-center justify-between border-b border-gray-200 dark:border-gray-700 pb-3 mb-3">
+                                            <span class="gustavo-kicker flex items-center gap-1.5 dark:text-gustavo-amber"><i class="fas fa-shield-alt"></i> شاخص فوریت امنیتی</span>
                         <span id="tension-percent" class="text-2xl font-black font-brand text-gustavo-amber">0%</span>
                     </div>
 
                     <div class="space-y-3">
                         <div class="flex justify-between items-center text-xs">
-                            <span class="text-gray-500">سطح هشدار:</span>
-                            <span id="tension-text" class="font-bold text-yellow-600">در حال ارزیابی...</span>
+                            <span class="text-gray-500 dark:text-gray-400">سطح هشدار:</span>
+                                                        <span id="tension-text" class="font-bold text-yellow-600 dark:text-yellow-400">در حال ارزیابی...</span>
                         </div>
                         
-                        <div class="h-3 bg-gray-200 rounded-full overflow-hidden p-0.5 border border-gray-300">
+                        <div class="h-3 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden p-0.5 border border-gray-300 dark:border-gray-600">
                                                     <div id="tension-fill" class="h-full bg-gradient-to-r from-green-500 via-yellow-500 to-gustavo-amber w-0 transition-all duration-1000"></div>
                                                 </div>
 
-                        <div class="flex justify-between text-[10px] text-gray-500 font-mono">
+                        <div class="flex justify-between text-[10px] text-gray-500 dark:text-gray-400 font-mono">
                             <span>عادی</span>
                             <span>هشدار</span>
                             <span>بحرانی</span>
@@ -740,17 +702,17 @@
                     </h3>
 
                     <div class="space-y-2 text-xs">
-                        <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200">
-                            <span class="font-bold text-gustavo-ink">تنگه هرمز و خلیج فارس</span>
-                            <span class="px-2 py-0.5 bg-red-100 text-gustavo-amber font-bold text-[10px] rounded-xl">هشدار بالا</span>
-                        </div>
-                        <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200">
-                            <span class="font-bold text-gustavo-ink">شبه‌جزیره سینا و مصر</span>
-                            <span class="px-2 py-0.5 bg-orange-100 text-orange-700 font-bold text-[10px] rounded-xl">تحرکات پهپادی</span>
-                        </div>
-                        <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200">
-                            <span class="font-bold text-gustavo-ink">مرزهای لبنان و اسرائیل</span>
-                            <span class="px-2 py-0.5 bg-red-100 text-gustavo-amber font-bold text-[10px] rounded-xl">درگیری فعال</span>
+                        <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200 dark:border-gray-700">
+                                                    <span class="font-bold text-gustavo-ink dark:text-gray-200">تنگه هرمز و خلیج فارس</span>
+                                                    <span class="px-2 py-0.5 bg-red-100 dark:bg-red-900/30 text-gustavo-amber dark:text-red-300 font-bold text-[10px] rounded-xl">هشدار بالا</span>
+                                                    </div>
+                                                    <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200 dark:border-gray-700">
+                                                        <span class="font-bold text-gustavo-ink dark:text-gray-200">شبه‌جزیره سینا و مصر</span>
+                                                        <span class="px-2 py-0.5 bg-orange-100 dark:bg-orange-900/30 text-orange-700 dark:text-orange-300 font-bold text-[10px] rounded-xl">تحرکات پهپادی</span>
+                                                    </div>
+                                                    <div class="flex justify-between items-center p-2 bg-gustavo-surface rounded-xl border border-gray-200 dark:border-gray-700">
+                                                        <span class="font-bold text-gustavo-ink dark:text-gray-200">مرزهای لبنان و اسرائیل</span>
+                                                        <span class="px-2 py-0.5 bg-red-100 dark:bg-red-900/30 text-gustavo-amber dark:text-red-300 font-bold text-[10px] rounded-xl">درگیری فعال</span>
                         </div>
                     </div>
                 </div>
@@ -779,18 +741,18 @@
                     </h3>
                     
                     <div class="grid grid-cols-2 gap-2 text-xs">
-                        <a href="https://firms.modaps.eosdis.nasa.gov/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
-                            <i class="fas fa-fire text-gustavo-amber"></i> <span>حرارتی ناسا</span>
-                        </a>
-                        <a href="https://www.flightradar24.com/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
-                            <i class="fas fa-plane text-blue-600"></i> <span>رادار پرواز</span>
-                        </a>
-                        <a href="https://www.marinetraffic.com/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
-                            <i class="fas fa-ship text-teal-600"></i> <span>ترافیک دریایی</span>
-                        </a>
-                        <a href="https://netblocks.org/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
-                            <i class="fas fa-network-wired text-purple-600"></i> <span>پایش اینترنت</span>
-                        </a>
+                        <a href="https://firms.modaps.eosdis.nasa.gov/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:border-gray-700 transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
+                                                    <i class="fas fa-fire text-gustavo-amber"></i> <span>حرارتی ناسا</span>
+                                                </a>
+                                                <a href="https://www.flightradar24.com/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:border-gray-700 transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
+                                                    <i class="fas fa-plane text-blue-600 dark:text-blue-400"></i> <span>رادار پرواز</span>
+                                                </a>
+                                                <a href="https://www.marinetraffic.com/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:border-gray-700 transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
+                                                    <i class="fas fa-ship text-teal-600 dark:text-teal-400"></i> <span>ترافیک دریایی</span>
+                                                </a>
+                                                <a href="https://netblocks.org/" target="_blank" class="p-2.5 bg-gustavo-surface hover:bg-gustavo-ink hover:text-white dark:bg-gray-800 dark:border-gray-700 transition-colors rounded-xl border border-gray-200 flex items-center gap-2">
+                                                    <i class="fas fa-network-wired text-purple-600 dark:text-purple-400"></i> <span>پایش اینترنت</span>
+                                                </a>
                     </div>
                 </div>
 
@@ -1593,7 +1555,8 @@ function updateTicker() {
     let html = '';
     newsData.slice(0, 12).forEach(n => {
         // Use title_fa if available, otherwise fallback to title_en
-        const displayTitle = n.title_fa || n.title_en || 'خبر جدید';
+        // Add RTL mark for proper Persian rendering
+        const displayTitle = n.title_fa ? '\u200F' + n.title_fa : (n.title_en || 'خبر جدید');
         html += `
             <a href="?id=${n.id || ''}" onclick="event.preventDefault(); openArticleById('${n.id || ''});" class="px-6 border-l border-gray-200 dark:border-gray-700 hover:text-gustavo-amber transition-colors cursor-pointer inline-flex items-center gap-1.5">
                 <span class="w-2 h-2 rounded-full bg-gustavo-amber animate-ping flex-shrink-0"></span>
@@ -1625,13 +1588,14 @@ function updateTension(data) {
 
     fill.style.width = `${pct}%`;
     percent.innerText = `${pct}%`;
+    percent.className = "text-2xl font-black font-brand text-gustavo-amber";
 
     if (pct < 45) {
         txt.innerText = "عادی / با ثبات";
-        txt.className = "font-bold text-green-600";
+        txt.className = "font-bold text-green-400";
     } else if (pct < 75) {
         txt.innerText = "حساس / سطح هشدار";
-        txt.className = "font-bold text-amber-600";
+        txt.className = "font-bold text-gustavo-amber";
     } else {
         txt.innerText = "بحرانی / سطح حاد";
         txt.className = "font-bold text-gustavo-amber animate-pulse";
@@ -1661,7 +1625,7 @@ function updateStats(data) {
 
 function filterFeed(tag, btn) {
     currentFilter = tag;
-    itemsToShow = 10; // Reset pagination instantly for new filter
+    itemsToShow = 10;
 
     // Update active highlight on category chips
     document.querySelectorAll('#category-chips button').forEach(c => {
@@ -1669,30 +1633,22 @@ function filterFeed(tag, btn) {
     });
 
     // Update active highlight on header nav pills (excluding market tabs)
-    document.querySelectorAll('nav .gustavo-pill:not(#tab-crypto):not(#tab-forex):not(#tab-oil)').forEach(b=>{
-        // Reset to default state (light mode)
-        b.classList.remove('bg-gustavo-ink','text-white','ring-2','ring-gustavo-amber');
-        b.classList.add('bg-white','text-gustavo-ink','dark:bg-gray-800','dark:text-gray-200');
+    document.querySelectorAll('nav .gustavo-pill:not(#tab-crypto):not(#tab-forex):not(#tab-oil)').forEach(b => {
+        // Reset to inactive state (light mode base, dark mode overrides via CSS)
+        b.classList.remove('nav-pill-active');
+        b.classList.add('nav-pill-inactive');
     });
+
     if (btn && btn.closest('nav')) {
-        // Active state for light mode
-        btn.classList.remove('bg-white','text-gustavo-ink','dark:bg-gray-800','dark:text-gray-200');
-        // Active state for dark mode
-        btn.classList.add('bg-gustavo-ink','text-white','dark:bg-gustavo-amber','dark:text-gustavo-ink');
+        // Active state — handled by CSS (.nav-pill-active)
+        btn.classList.remove('nav-pill-inactive');
+        btn.classList.add('nav-pill-active');
     }
 
     if (btn && btn.closest('#category-chips')) {
         btn.classList.add('chip-active');
     } else if (!btn) {
-        // If triggered from top navigation header, highlight matching chip
-        const chips = document.querySelectorAll('#category-chips button');
-        chips.forEach(chip => {
-            if ((tag === 'all' && chip.innerText.includes('همه اخبار')) || chip.innerText.includes(tag)) {
-                chip.classList.add('chip-active');
-            }
-        });
-    } else if (btn && btn.closest('nav')) {
-        // header pill clicked -> also highlight matching chip
+        // If triggered programmatically (not from a button), highlight matching chip
         const chips = document.querySelectorAll('#category-chips button');
         chips.forEach(chip => {
             if ((tag === 'all' && chip.innerText.includes('همه اخبار')) || chip.innerText.includes(tag)) {
@@ -1706,7 +1662,7 @@ function filterFeed(tag, btn) {
     if (heroContainer) {
         if (tag === 'all') {
             heroContainer.classList.remove('hidden');
-            renderHeroLead(); // Re-render in case data changed
+            renderHeroLead();
         } else {
             heroContainer.classList.add('hidden');
         }
