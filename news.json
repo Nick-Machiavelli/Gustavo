@@ -944,6 +944,26 @@
         "timestamp": 1787868360.0
     },
     {
+        "id": "a9ad00ceae",
+        "title_fa": "بارن ترامپ پس از تهدید ایران منزوی شد",
+        "title_en": "Barron Trump becoming 'reclusive' after Iran puts a bounty on him",
+        "summary": [
+            "ادعای جایزه‌پاداش ایران برای کشتن بارن ترامپ در رسانه‌های غربی بدون منبع موثق منتشر شده است",
+            "خبر در فضای توطئه‌گرایانه و ضد‌ایرانی پخش شده؛ شواهدی از سوی دولت یا نهادهای ایرانی وجود ندارد",
+            "حتی اگر تهدیدی باشد، بارن تحت محافظت شدید خانواده و مقامات است و تأثیر عملی کمی دارد",
+            "سخنرانی یا بیانیه رسمی ایران این موضوع را رد کرده؛ اعتبار خبر بسیار پایین است"
+        ],
+        "impact": "تأثیر عملی بر روابط آمریکا‑ایران کم، اما می‌تواند حس اضطراب در فضای اطلاعاتی را افزایش دهد",
+        "tag": "امنیتی",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-za/news/other/barron-trump-becoming-reclusive-after-iran-puts-a-bounty-on-him/ar-AA2b8f1H?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-za/news/other/barron-trump-becoming-reclusive-after-iran-puts-a-bounty-on-him/ar-AA2b8f1H",
+        "image": "https://www.bing.com/th?id=ONUT.ENbszs8gkHL2cl1tgOrsOQ",
+        "timestamp": 1787868055.0
+    },
+    {
         "id": "edbd7d96d3",
         "title_fa": "Military action against Iran not over: Trump",
         "title_en": "Military action against Iran not over: Trump",
@@ -5512,24 +5532,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/irans-president-calls-end-war-123133352.html",
         "image": "http://www.bing.com/th?id=ONUT.JqU7uQumB5zjs2gDCdneeg&pid=News",
         "timestamp": 1787290200.0
-    },
-    {
-        "id": "6c58095057",
-        "title_fa": "هشدار مستقیم آمریکا به متحدان و چین: هدف فروپاشی اقتصاد تهران است",
-        "title_en": "US warns allies and China to join Iran economic pressure campaign",
-        "summary": [
-            "دونالد ترامپ وعده سنگین‌ترین عملیات اقتصادی تاریخ علیه جمهوری اسلامی را داده و صریحاً هدف را فروپاشی ساختار حاکم اعلام کرد.",
-            "وزیر خزانه‌داری آمریکا تحریم‌کنندگان را تهدید کرد که هرگونه ارتباط مالی با تهران به نابودی اقتصادی خود آن‌ها می‌انجامد.",
-            "تهران این اقدامات را تروریسم اقتصادی خوانده اما گزینه‌های محدودی برای مقابله دارد."
-        ],
-        "impact": "قطع آخرین خطوط ارتباطی تجارت خارجی و احتمال وقفه کامل در صادرات نفت به چین.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "France 24",
-        "url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
-        "clean_url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
-        "image": "https://s.france24.com/media/display/715e1cda-9cb3-11f1-88f2-005056a90284/w:1280/p:16x9/02b5331290807cad5fafd6d3a495468f1fc01b9e.jpg",
-        "timestamp": 1787287080.0
     }
 ]
