@@ -1,5 +1,41 @@
 [
     {
+        "id": "193dbd51ad",
+        "title_fa": "ترامپ برای روسیه درخواست صلح می‌کند",
+        "title_en": "Sources say Trump begging Russia to make nice as punishing midterms loom",
+        "summary": [
+            "منابع می‌گویند ترامپ برای جلوگیری از تأثیر منفی میانی‌دوره‌ها، به روسیه نزدیک می‌شود",
+            "این تغییر لحن نشان‌دهنده ضعف استراتژی قبلی است"
+        ],
+        "impact": "روابط آمریکا‑روسیه ممکن است تحت فشار انتخابات داخلی آمریکا تغییر کند",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/sources-say-trump-begging-russia-to-make-nice-as-punishing-midterms-loom/ar-AA2b8usC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/sources-say-trump-begging-russia-to-make-nice-as-punishing-midterms-loom/ar-AA2b8usC",
+        "image": "https://www.bing.com/th?id=ONUT.IweY3pw1LvSxic8GRQytIg",
+        "timestamp": 1787959858.9166281
+    },
+    {
+        "id": "9aff30f571",
+        "title_fa": "دورهٔ خطرناک جنگ ایران هنوز ادامه دارد",
+        "title_en": "Six months later: Iran war far from settled and in 'very dangerous period'",
+        "summary": [
+            "گزارش‌ها می‌گویند دورهٔ فعلی جنگ ایران «بسیار خطرناک» است و هیچ نشانهٔ پایان واضحی نیست",
+            "هر گونه تشدید نظامی می‌تواند به تلفات سنگین منجر شود"
+        ],
+        "impact": "دولت‌های منطقه باید برنامه‌های اضطراری برای مقابله با تشدید جنگ داشته باشند",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "National Desk",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLW80MzdsbXAyOUxwY1B0TVRlRFlmaDVrVU9udjRORkhrZDFoc2dpRXFKNnFLMjFjQkxmVi1ubFBwZWEtYjVKVUZaV0M0aTZwSDBWRzYtMUtlV0V6VkZnSndfbDlqdG93VlFuN3cxLVJHRXdRTnZGX29XbV9xQ0RoaXZMU1hjTk5VSmRDLWZncFlJVHZtTUU5U2pLbGd4TFNmd1FRYTR5Y0N4R1haLVRjNF9UNWtfYzB5S3haTGhMRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLW80MzdsbXAyOUxwY1B0TVRlRFlmaDVrVU9udjRORkhrZDFoc2dpRXFKNnFLMjFjQkxmVi1ubFBwZWEtYjVKVUZaV0M0aTZwSDBWRzYtMUtlV0V6VkZnSndfbDlqdG93VlFuN3cxLVJHRXdRTnZGX29XbV9xQ0RoaXZMU1hjTk5VSmRDLWZncFlJVHZtTUU5U2pLbGd4TFNmd1FRYTR5Y0N4R1haLVRjNF9UNWtfYzB5S3haTGhMRQ",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1787959389.0
+    },
+    {
         "id": "513c1853f4",
         "title_fa": "ترامپ و جنگ بی‌پایان ایران",
         "title_en": "For Trump, the Iran War Is Stuck Between Combat and Genuine Peace",
@@ -295,6 +331,24 @@
         "clean_url": "https://www.msn.com/en-ca/politics/international-relations/as-europe-remains-divided-over-israel-north-macedonia-finds-new-reasons-to-stand-with-jerusalem/ar-AA2b7bxx",
         "image": "https://www.bing.com/th?id=ONUT.VXjHCWAKNZlIq6C6io0uiw",
         "timestamp": 1787932892.3479333
+    },
+    {
+        "id": "ee658aaeff",
+        "title_fa": "شش ماه جنگ؛ رهبر ایران همچنان نامرئی",
+        "title_en": "Iran's disfigured supreme leader remains invisible six months into an existential war",
+        "summary": [
+            "شش ماه پس از آغاز جنگ، رهبری ایران هنوز در فضای عمومی دیده نمی‌شود",
+            "این عدم حضور نشان‌دهنده فشار داخلی و تلاش برای حفظ تصویر رهبری است"
+        ],
+        "impact": "عدم حضور رهبر می‌تواند به تضعیف روحیهٔ نیروهای نظامی منجر شود",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/irans-disfigured-supreme-leader-remains-invisible-six-months-into-an-existential-2026-08-28/",
+        "clean_url": "https://www.reuters.com/world/middle-east/irans-disfigured-supreme-leader-remains-invisible-six-months-into-an-existential-2026-08-28",
+        "image": "https://www.reuters.com/resizer/v2/Z5IJNVGJJFOLPCOYPWUGPP3EJE.jpg?auth=64b600e4cc4b31ced0c97a74b2c16e757a22196579caf244f94dc67c42dea2f0&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1787932500.0
     },
     {
         "id": "a51fd456e6",
@@ -805,6 +859,42 @@
         "timestamp": 1787895420.0
     },
     {
+        "id": "2813d7f9a0",
+        "title_fa": "بازارها به بن‌بست جنگ ایران عادت کردند",
+        "title_en": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight",
+        "summary": [
+            "بازارهای جهانی پس از شش ماه جنگ، به بن‌بست اقتصادی عادت کرده‌اند",
+            "نوسان قیمت نفت و ارزهای منطقه‌ای به‌طور ثابت بالا مانده است"
+        ],
+        "impact": "سرمایه‌گذاران به‌دنبال راه‌حل‌های کوتاه‌مدت برای حفظ سود هستند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/money/other/six-months-into-the-iran-war-markets-become-accustomed-to-stalemate-with-no-end-in-sight/ar-AA2b5Huh",
+        "clean_url": "https://www.msn.com/en-us/money/other/six-months-into-the-iran-war-markets-become-accustomed-to-stalemate-with-no-end-in-sight/ar-AA2b5Huh",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1787893336.0
+    },
+    {
+        "id": "6e713a5692",
+        "title_fa": "سفرهٔ ترامپ به ایران خطر بحران‌های فراتر را دارد",
+        "title_en": "Six months on, Trump's Iran 'excursion' risks igniting crises far beyond the Middle East",
+        "summary": [
+            "ادعای ترامپ مبنی بر «سفره کوتاه» به ایران، به یک بحران چندقاره‌ای تبدیل شده",
+            "تنش‌های ناشی از این جنگ، خطر گسترش به اروپا و آسیا را دارد"
+        ],
+        "impact": "افزایش تنش‌های بین‌المللی می‌تواند مسیر انرژی جهانی را مختل کند",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://www.msn.com/en-us/news/other/six-months-on-trump-s-iran-excursion-risks-igniting-crises-far-beyond-the-middle-east/ar-AA2b5iCE",
+        "clean_url": "https://www.msn.com/en-us/news/other/six-months-on-trump-s-iran-excursion-risks-igniting-crises-far-beyond-the-middle-east/ar-AA2b5iCE",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-24t224334z-930246863-rc275natbtm3-rtrmadp-3-usa-trump.JPG?c=16x9&q=w_800,c_fill",
+        "timestamp": 1787889629.0
+    },
+    {
         "id": "10dd5b4484",
         "title_fa": "بسته‌سازی نیروی‌دریایی آمریکا صادرات نفت ایران را ۸۰٪ کاهش داد",
         "title_en": "U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare",
@@ -911,6 +1001,42 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-promised-a-short-iran-war-six-months-later-he-has-few-good-options/ar-AA2b6MD1",
         "image": "http://www.bing.com/th?id=ONUT.wxKtHkUBQMUBG1ZXHZHfbw&pid=News",
         "timestamp": 1787882400.0
+    },
+    {
+        "id": "39834096f1",
+        "title_fa": "ترامپ فشار مالی بر ایران را تشدید می‌کند",
+        "title_en": "Going all in on sanctions, Trump limits how much he can squeeze out of Iran",
+        "summary": [
+            "ترامپ می‌گوید تحریم‌های مالی می‌توانند فشار کافی بر تهران برای پذیرش توافق هورموز ایجاد کنند",
+            "بدون فشار نظامی، توافق هسته‌ای گسترده‌تری در دسترس نیست؛ اما تحریم‌ها می‌توانند مسیر مذاکرات را باز کنند"
+        ],
+        "impact": "تحریم‌های جدید می‌توانند خروج نفت ایران از بازار را محدود کنند",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/going-all-in-on-sanctions-trump-limits-how-much-he-can-squeeze-out-of-iran/",
+        "clean_url": "https://www.timesofisrael.com/going-all-in-on-sanctions-trump-limits-how-much-he-can-squeeze-out-of-iran",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26233841326505.jpg",
+        "timestamp": 1787875200.0
+    },
+    {
+        "id": "0bfe39c886",
+        "title_fa": "سپرینت ترامپ در ایران به سردی تبدیل شد",
+        "title_en": "How Trump's sprint for victory in Iran turned into a slog",
+        "summary": [
+            "ترامپ انتظار داشت که جنگ ایران در چند هفته پایان یابد؛ اما حالا به یک جنگ طولانی تبدیل شده",
+            "پیش‌بینی‌های اولیه او با واقعیت‌های میدانی کاملاً متفاوت است"
+        ],
+        "impact": "تأخیر در پایان جنگ هزینه‌های نظامی و انسانی را دوچندان می‌کند",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-sprint-victory-iran-turned-050000516.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-sprint-victory-iran-turned-050000516.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/8bf910bd111cb8a58738d9b780a88b765f223357600f9753b60b94ad89c4cbc7/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/the_telegraph_258/a5a36473d047f65f90b5ea0d46f270b2.jpg",
+        "timestamp": 1787875200.0
     },
     {
         "id": "494c7dee46",
@@ -5406,132 +5532,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3p4enFfTGhkOEU4VkprbkZPLU1DQ0lBOXM1b0wwUlBjS1pwOXY3VnNrbE9Uc0kybHp2bUlsYURlRzF1ejV5cHR5SkVTNUQyc2R4bkxoOEdUWTJ1VzhwWnFmWWhSRF84aTlSWWI0UGY4c1FpNmViOXhWY3JNamJ0d1Zn",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1787312530.0
-    },
-    {
-        "id": "c9d174c404",
-        "title_fa": "اعتراف مقام ارشد تهران به خفگی اقتصادی تحت تحریم‌ها",
-        "title_en": "Iran Must Plan to Overcome ‘Unjust Sanctions,’ Top Tehran Official Says",
-        "summary": [
-            "تأکید مقامات تهران بر لزوم «برنامه‌ریزی برای عبور از تحریم‌های ظالمانه»، اعتراف به بی‌اثری ادعاهای قبلی مبنی بر خنثی‌سازی تحریم‌هاست.",
-            "رژیم در مواجهه با خشم عمومی تلاش می‌کند فلج اقتصادی ناشی از سوءمدیریت را کاملاً به فشارهای خارجی نسبت دهد."
-        ],
-        "impact": "تعمیق بی‌اعتمادی عمومی به وعده‌های اقتصادی حاکمیت و ریزش بیشتر ارزش پول ملی.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEpoQTB6TlFFcU42Z2lLV3VhMVJhSS1fTVJTZGxZb0dWLVNSRWR0Mkhmc21CclNXaVpfdW1QQ081Q2xhQkx6NnVLT2dMelZHV0s4MUhzRTV1R1FWc2dCTzFORWdkeFUxOVg0MWZzdTFYcDJDTEJyQ0drdTJQN3A1U3dZNjdlSjF0WjRPQTlxNjZtVzR0S2p0MkxB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEpoQTB6TlFFcU42Z2lLV3VhMVJhSS1fTVJTZGxZb0dWLVNSRWR0Mkhmc21CclNXaVpfdW1QQ081Q2xhQkx6NnVLT2dMelZHV0s4MUhzRTV1R1FWc2dCTzFORWdkeFUxOVg0MWZzdTFYcDJDTEJyQ0drdTJQN3A1U3dZNjdlSjF0WjRPQTlxNjZtVzR0S2p0MkxB",
-        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787309050.0
-    },
-    {
-        "id": "8f6f40f14f",
-        "title_fa": "کشیده شدن پای اروپا به مناقشه؛ تهدید موشکی پایگاه بلغارستان توسط تهران",
-        "title_en": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
-        "summary": [
-            "تهران برای بازدارندگی در برابر آمریکا، بانک اهداف خود را گسترش داده و پایگاه‌های پشتیبانی واشنگتن در بلغارستان و جنوب شرقی اروپا را زیر نظر گرفته است.",
-            "گسترش دامنه تهدیدات موشکی به معابر دوردست نشان‌دهنده تلاش سپاه برای تحمیل هزینه به متحدان منطقه‌ای و فرامنطقه‌ای آمریکاست."
-        ],
-        "impact": "افزایش سطح هشدار امنیتی در بالکان و احتمال ورود فعالانه اتحادیه اروپا به تحریم‌های تسلیحاتی جدید علیه ایران.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/why-iran-threatening-europe-strategically-172917330.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/why-iran-threatening-europe-strategically-172917330.html",
-        "image": "http://www.bing.com/th?id=ONUT.9ZaHDNoGpz5maQnxGlFLuA&pid=News",
-        "timestamp": 1787308200.0
-    },
-    {
-        "id": "07adf820f6",
-        "title_fa": "تهدید آمریکا به تحریم‌های خفه‌کننده و واکنش لفظی تهران",
-        "title_en": "Iran vows ‘devastating’ response as US threatens crushing sanctions designed to ‘collapse’ regime",
-        "summary": [
-            "واشنگتن با سنگین‌ترین بسته فشار مالی تاریخ، فروپاشی ساختار اقتصادی حکومت را هدف گرفته است.",
-            "تهران با خط‌ونشان کلامی از پاسخ «ویرانگر» دم می‌زند، اما ابزارهای واقعی برای مقابله با این حجم از انزوا را ندارد.",
-            "تغییر استراتژی آمریکا از مهار تدریجی به ضربات سریع مالی، منابع ارزی ایران را کاملاً مسدود خواهد کرد."
-        ],
-        "impact": "جهش شدید نرخ ارز و فلج شدن آخرین شریان‌های صادراتی حکومت.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-vows-devastating-response-as-us-threatens-crushing-sanctions-designed-to-collapse-regime/ar-AA2aFlzV",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-vows-devastating-response-as-us-threatens-crushing-sanctions-designed-to-collapse-regime/ar-AA2aFlzV",
-        "image": "http://www.bing.com/th?id=ONUT.5hLr1u1Jp6Se0y8BMfuXPQ&pid=News",
-        "timestamp": 1787305282.0
-    },
-    {
-        "id": "63a3a6f0ab",
-        "title_fa": "تمرکز ویژه رسانه‌های بین‌المللی بر تحرکات نظامی ایران",
-        "title_en": "Iran War: Latest News, Live Coverage and Video",
-        "summary": [
-            "پوشش پیوسته و لحظه‌ای اخبار درگیری‌ها نشان می‌دهد پرونده ایران همچنان در صدر اولویت‌های امنیتی و رسانه‌ای غرب قرار دارد."
-        ],
-        "impact": "تشدید جنگ روانی و حساسیت آنی بازارهای جهانی به کوچک‌ترین تحرک نظامی در خلیج فارس.",
-        "tag": "رسانه",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787304269.0
-    },
-    {
-        "id": "af0ffea02c",
-        "title_fa": "ارزیابی تاب‌آوری رژیم ایران پس از شش ماه فشار حداکثری",
-        "title_en": "After six months of war, Washington has failed to strangle Iran’s economy",
-        "summary": [
-            "تحلیلگران غربی می‌گویند فشار اقتصادی واشنگتن هنوز منجر به فروپاشی کامل ساختار مالی رژیم نشده است.",
-            "واقعیت این است که معیشت جامعه فروپاشیده، اما حاکمیت با فروش قاچاق نفت و سرکوب داخلی، منابع بقای خود را تامین می‌کند."
-        ],
-        "impact": "احتمال اتخاذ تدابیر انسدادی شدیدتر از سوی آمریکا برای بستن منافذ قاچاق نفت ایران.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "EL PAÍS English",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkpxaFhEMTF1TTRyR211YnNILUtfb0VZVmhGdDYwN3VvMUFySThIcDhuTXV4elZ4SlhtT2Z4c3FZTDc2NUtydHJ5bGxMQ0E4V0p3NHRuQnZ5VUduN2pjVFp2aHlEN0hmd2YyWDNJbkp2ME12SnpJUmZKaDNDQjZjVWNWWDF5OElKMkxCYnhkRS12ZFdwdFk4cTFtSlNidDRMMC1LMFBwM1dWVk5JaHpFNndqbksxY0puOXJXb21mWThLQ2tzUXNZ0gHbAUFVX3lxTE1yNWpWUTJ5ZjV1a2oxLTdBdG1RX3ZTSm1uV2ZPVDRiV0lZSXlsUi03Rkd5QWhWR05HWVp6UWIyMGxPa2t1TnQzSHN4MWxYdkR6OFpYYl9ndExSdUhwVkxNdWE3WXA1dE1UbXU5YmtteHA5MlNSaC1XUFg2N1JhUWE0NkN5bHVRUU9KcWNoWXNWQkZBVEtMQ0J0SXdtYU0yV0o2ZnozbC1xLVBTdjc4cXNYRWhjSUhEc1pKRE1ZRHlzUzNpYkVYanN0UkNObG1EbU1jNC1fdjFIUDFVQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkpxaFhEMTF1TTRyR211YnNILUtfb0VZVmhGdDYwN3VvMUFySThIcDhuTXV4elZ4SlhtT2Z4c3FZTDc2NUtydHJ5bGxMQ0E4V0p3NHRuQnZ5VUduN2pjVFp2aHlEN0hmd2YyWDNJbkp2ME12SnpJUmZKaDNDQjZjVWNWWDF5OElKMkxCYnhkRS12ZFdwdFk4cTFtSlNidDRMMC1LMFBwM1dWVk5JaHpFNndqbksxY0puOXJXb21mWThLQ2tzUXNZ0gHbAUFVX3lxTE1yNWpWUTJ5ZjV1a2oxLTdBdG1RX3ZTSm1uV2ZPVDRiV0lZSXlsUi03Rkd5QWhWR05HWVp6UWIyMGxPa2t1TnQzSHN4MWxYdkR6OFpYYl9ndExSdUhwVkxNdWE3WXA1dE1UbXU5YmtteHA5MlNSaC1XUFg2N1JhUWE0NkN5bHVRUU9KcWNoWXNWQkZBVEtMQ0J0SXdtYU0yV0o2ZnozbC1xLVBTdjc4cXNYRWhjSUhEc1pKRE1ZRHlzUzNpYkVYanN0UkNObG1EbU1jNC1fdjFIUDFVQQ",
-        "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787301345.0
-    },
-    {
-        "id": "946beb0e89",
-        "title_fa": "برنامه آمریکا برای اعمال سنگین‌ترین دور تحریم‌ها علیه ایران",
-        "title_en": "US Plans Toughest Sanctions Yet Against Iran",
-        "summary": [
-            "واشنگتن در حال آماده‌سازی بسته‌ای بی‌سابقه از تحریم‌هاست تا مجاری باقی‌مانده تنفس اقتصادی تهران را کاملاً مسدود کند.",
-            "تمرکز اصلی این دور از فشارها بر شبکه صادرات غیررسمی نفت و شبکه صرافی‌های واسطه در امارات و چین خواهد بود.",
-            "این اقدام پیامی صریح به جمهوری اسلامی برای عقب‌نشینی از رفتارهای بی‌ثبات‌کننده و کاهش منابع مالی نیابتی‌هاست."
-        ],
-        "impact": "تنگ‌تر شدن حلقه تحریم‌ها فشار روانی و واقعی سنگینی بر بازار ارزی تهران وارد کرده و جهش نرخ دلار را تسریع می‌کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Media Line",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFNzSm9xa1hOQkVGTlNKbXBwOEk4WmJwV2RWeHNoN3lvamhKd21JZWU2c0cwQUVDVmZRSjZzYkJvcU1ZU21Pc1FCdllfWndKVHlXVVY0eVhjS3c2UXJFelVmbnhnZTJqbU1SWDFMT1VHeWI2VWpwM0hKSnJmOWJwRVRKUlVRN3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFNzSm9xa1hOQkVGTlNKbXBwOEk4WmJwV2RWeHNoN3lvamhKd21JZWU2c0cwQUVDVmZRSjZzYkJvcU1ZU21Pc1FCdllfWndKVHlXVVY0eVhjS3c2UXJFelVmbnhnZTJqbU1SWDFMT1VHeWI2VWpwM0hKSnJmOWJwRVRKUlVRN3c",
-        "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787300989.0
-    },
-    {
-        "id": "6c784d9065",
-        "title_fa": "ارزیابی شریان‌های اقتصادی ایران در خلیج فارس",
-        "title_en": "What to Know About Iran’s Economic Ties With Gulf Countries",
-        "summary": [
-            "کشورهای حاشیه خلیج فارس همچنان به عنوان سوپاپ اطمینان مالی و مسیر اصلی دور زدن تحریم‌ها برای تهران عمل می‌کنند.",
-            "توازن شکننده میان روابط تجاری کشورهای عربی با ایران و فشارهای سنگین واشنگتن تحت شعاع قرار گرفته است."
-        ],
-        "impact": "تنگ‌تر شدن احتمالی کانال‌های مبادلات ارزی در امارات و قطر.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGhRc1VWaXJQSGdUNnNsNTRYd0dRQUhISk1zMko0S2FTS0N0Zmd6ZW45VF9PWFpTSlpHVjhXWUN5dG8wdW9OdER2QnVmUDhiaXRjckJmdWsza1NwRVI1TlBQWUZnUmQ0WVQzUDRNUXJZOFNJUUtKQ0NfS3RSdURtNUR6UFVOdTctaU5BT3F1aEV3TWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGhRc1VWaXJQSGdUNnNsNTRYd0dRQUhISk1zMko0S2FTS0N0Zmd6ZW45VF9PWFpTSlpHVjhXWUN5dG8wdW9OdER2QnVmUDhiaXRjckJmdWsza1NwRVI1TlBQWUZnUmQ0WVQzUDRNUXJZOFNJUUtKQ0NfS3RSdURtNUR6UFVOdTctaU5BT3F1aEV3TWs",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787298956.0
     }
 ]
