@@ -316,10 +316,62 @@
                 html.dark .bg-red-50 { background: #2a1215 !important; border-color: #5c1d24 !important; }
                 html.dark .bg-red-50 .text-gustavo-amber { color: #f87171 !important; }
 
-                /* ---- Market Tab Buttons (crypto/forex/oil) ---- */
-                html.dark #tab-crypto { background: #2a1f0a !important; border-color: #4a3812 !important; color: #fde68a !important; }
-                html.dark #tab-forex { background: #022c27 !important; border-color: #044d42 !important; color: #6ee7b7 !important; }
-                html.dark #tab-oil { background: #1a1a2e !important; border-color: #333366 !important; color: #cbd5e1 !important; }
+                /* ---- Market Tab Buttons (crypto/forex/oil) — rewritten with .gustavo-market-tab ---- */
+                                html.dark .gustavo-market-tab#tab-crypto { background: #2a1f0a !important; border-color: #4a3812 !important; color: #fde68a !important; }
+                                html.dark .gustavo-market-tab#tab-crypto:hover { background: #3d2d15 !important; }
+                                html.dark .gustavo-market-tab#tab-crypto .gustavo-tab-icon { color: #fbbf24 !important; }
+                                html.dark .gustavo-market-tab#tab-crypto.active { background: #fde68a !important; color: #1f1404 !important; border-color: #fbbf24 !important; }
+                                html.dark .gustavo-market-tab#tab-crypto.active .gustavo-tab-icon { color: #1f1404 !important; }
+
+                                html:not(.dark) .gustavo-market-tab#tab-crypto { background: #fffbeb !important; border-color: #fde68a !important; color: #92400e !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-crypto:hover { background: #fef3c7 !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-crypto .gustavo-tab-icon { color: #b45309 !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-crypto.active { background: #fde68a !important; color: #1f1404 !important; border-color: #fbbf24 !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-crypto.active .gustavo-tab-icon { color: #1f1404 !important; }
+
+                                html.dark .gustavo-market-tab#tab-forex { background: #062015 !important; border-color: #0a4d30 !important; color: #6ee7b7 !important; }
+                                html.dark .gustavo-market-tab#tab-forex:hover { background: #0a4d30 !important; }
+                                html.dark .gustavo-market-tab#tab-forex .gustavo-tab-icon { color: #34d399 !important; }
+                                html.dark .gustavo-market-tab#tab-forex.active { background: #6ee7b7 !important; color: #022c19 !important; border-color: #34d399 !important; }
+                                html.dark .gustavo-market-tab#tab-forex.active .gustavo-tab-icon { color: #022c19 !important; }
+
+                                html:not(.dark) .gustavo-market-tab#tab-forex { background: #ecfdf5 !important; border-color: #a7f3d0 !important; color: #065f46 !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-forex:hover { background: #d1fae5 !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-forex .gustavo-tab-icon { color: #059669 !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-forex.active { background: #a7f3d0 !important; color: #022c19 !important; border-color: #34d399 !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-forex.active .gustavo-tab-icon { color: #022c19 !important; }
+
+                                html.dark .gustavo-market-tab#tab-oil { background: #2a1800 !important; border-color: #4a2c00 !important; color: #fed7aa !important; }
+                                html.dark .gustavo-market-tab#tab-oil:hover { background: #3d2200 !important; }
+                                html.dark .gustavo-market-tab#tab-oil .gustavo-tab-icon { color: #fb923c !important; }
+                                html.dark .gustavo-market-tab#tab-oil.active { background: #fed7aa !important; color: #1a1200 !important; border-color: #fb923c !important; }
+                                html.dark .gustavo-market-tab#tab-oil.active .gustavo-tab-icon { color: #1a1200 !important; }
+
+                                html:not(.dark) .gustavo-market-tab#tab-oil { background: #fff7ed !important; border-color: #fed7aa !important; color: #c2410c !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-oil:hover { background: #ffedd5 !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-oil .gustavo-tab-icon { color: #ea580c !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-oil.active { background: #fed7aa !important; color: #1a1200 !important; border-color: #fb923c !important; }
+                                html:not(.dark) .gustavo-market-tab#tab-oil.active .gustavo-tab-icon { color: #1a1200 !important; }
+
+                                /* ---- Market Card Styles ---- */
+                                .gustavo-market-card {
+                                    transition: transform 0.15s ease, box-shadow 0.15s ease;
+                                }
+                                .gustavo-market-card:hover {
+                                    transform: translateY(-1px);
+                                    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+                                }
+                                html.dark .gustavo-market-card:hover {
+                                    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+                                }
+
+                                /* ---- Market Panel Headers ---- */
+                                html.dark .gustavo-market-tab + .gustavo-card h2 .w-10.h-10 {
+                                    filter: brightness(1.2);
+                                }
+                                html:not(.dark) .gustavo-market-tab + .gustavo-card h2 .w-10.h-10 {
+                                    filter: brightness(1);
+                                }
 
                 /* ---- Nav Pill Tabs (صفحه اصلی، نظامی، ...) ---- */
                 .nav-pill-active { background: #0f172a !important; color: #ffffff !important; }
@@ -565,9 +617,9 @@
                                                                                             <button onclick="showHomeView(); filterFeed('اقتصادی', this)" id="desk-tab-eqtesadi" class="gustavo-pill nav-pill-inactive whitespace-nowrap">بازار و تحریم</button>
                                                                                             <button onclick="showHomeView(); filterFeed('سیاسی', this)" id="desk-tab-siyasi" class="gustavo-pill nav-pill-inactive whitespace-nowrap">دیپلماسی</button>
                                                 <span class="w-px h-6 bg-gustavo-line mx-1 hidden sm:block dark:bg-gray-700"></span>
-                                                <button onclick="showMarketView('crypto')" id="tab-crypto" class="gustavo-pill bg-amber-50 text-gustavo-ink border-amber-200 hover:bg-gustavo-amber hover:text-white transition-colors whitespace-nowrap"><i class="fab fa-bitcoin"></i> رمزارز</button>
-                                                <button onclick="showMarketView('forex')" id="tab-forex" class="gustavo-pill bg-emerald-50 text-gustavo-ink border-emerald-200 hover:bg-emerald-600 hover:text-white transition-colors whitespace-nowrap"><i class="fas fa-dollar-sign"></i> ارز</button>
-                                                <button onclick="showMarketView('oil')" id="tab-oil" class="gustavo-pill bg-orange-100 text-gray-800 border-orange-200 hover:bg-gustavo-amber hover:text-white transition-colors whitespace-nowrap"><i class="fas fa-oil-can"></i> نفت</button>
+                                                <button onclick="showMarketView('crypto')" id="tab-crypto" class="gustavo-market-tab bg-amber-50 text-gustavo-ink border-amber-200 hover:bg-amber-100 transition-all whitespace-nowrap flex items-center gap-1.5 px-3 py-2"><i class="fab fa-bitcoin text-amber-600"></i> <span class="font-semibold">رمزارز</span> <span id="tab-crypto-badge" class="text-[10px] bg-amber-100 text-amber-700 px-1.5 py-0.5 rounded-full font-mono">۱۵</span></button>
+                                                                                                <button onclick="showMarketView('forex')" id="tab-forex" class="gustavo-market-tab bg-emerald-50 text-gustavo-ink border-emerald-200 hover:bg-emerald-100 transition-all whitespace-nowrap flex items-center gap-1.5 px-3 py-2"><i class="fas fa-dollar-sign text-emerald-600"></i> <span class="font-semibold">ارز</span> <span id="tab-forex-badge" class="text-[10px] bg-emerald-100 text-emerald-700 px-1.5 py-0.5 rounded-full font-mono">۱۰</span></button>
+                                                                                                <button onclick="showMarketView('oil')" id="tab-oil" class="gustavo-market-tab bg-orange-50 text-gustavo-ink border-orange-200 hover:bg-orange-100 transition-all whitespace-nowrap flex items-center gap-1.5 px-3 py-2"><i class="fas fa-oil-can text-orange-600"></i> <span class="font-semibold">نفت</span> <span id="tab-oil-badge" class="text-[10px] bg-orange-100 text-orange-700 px-1.5 py-0.5 rounded-full font-mono">۴</span></button>
                                             </div>
                                         </div>
                                     </nav>
@@ -633,73 +685,103 @@
     <!-- MARKET PANELS — LIVE: 15 cryptos / 10 forex / 4 oils -->
     <div id="market-panels" class="max-w-[1450px] mx-auto px-4 pt-4 hidden">
         <!-- Crypto — 15 -->
-        <div id="panel-crypto" class="hidden gustavo-card p-5">
-            <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
-                <h2 class="font-black text-gustavo-ink flex items-center gap-2"><span class="w-8 h-8 rounded-xl bg-amber-100 text-gustavo-amber flex items-center justify-center"><i class="fab fa-bitcoin"></i></span> رمزارز — ۱۵ ارز برتر جهان (زنده — دلار و تومان)</h2>
-                <div class="flex items-center gap-2">
-                    <span class="text-[11px] bg-emerald-50 text-emerald-700 border border-emerald-200 rounded-full px-2.5 py-1 font-bold flex items-center gap-1"><span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span> زنده</span>
-                    <button onclick="hideMarketPanels()" class="w-8 h-8 rounded-full bg-gustavo-surface border border-gustavo-line flex items-center justify-center hover:bg-gustavo-line"><i class="fas fa-xmark text-xs"></i></button>
+                <div id="panel-crypto" class="hidden gustavo-card p-5">
+                    <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
+                        <h2 class="font-black text-gustavo-ink flex items-center gap-2">
+                            <span class="w-10 h-10 rounded-xl bg-gradient-to-br from-amber-100 to-amber-200 text-amber-700 flex items-center justify-center shadow-sm">
+                                <i class="fab fa-bitcoin text-lg"></i>
+                            </span> 
+                            <span class="text-base">رمزارز</span>
+                            <span class="text-[10px] bg-amber-100 text-amber-700 px-2 py-0.5 rounded-full font-mono font-bold">۱۵ ارز</span>
+                        </h2>
+                        <div class="flex items-center gap-2">
+                            <span class="text-[10px] bg-emerald-50 text-emerald-700 border border-emerald-200 rounded-full px-2.5 py-1 font-bold flex items-center gap-1">
+                                <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span> زنده
+                            </span>
+                            <button onclick="hideMarketPanels()" class="w-8 h-8 rounded-full bg-gustavo-surface border border-gustavo-line flex items-center justify-center hover:bg-gustavo-line transition-colors" title="بستن">
+                                <i class="fas fa-xmark text-xs"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 text-sm" id="crypto-grid">
+                        <div class="gustavo-market-card rounded-2xl border border-amber-200 bg-amber-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">BTC <span class="font-normal">بیت‌کوین</span></div><div class="font-black"><span id="c-btc-usd">—</span> <span class="text-[11px] font-normal price-currency">$</span></div><div class="text-xs font-bold text-amber-700"><span id="c-btc-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-violet-200 bg-violet-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">ETH <span class="font-normal">اتریوم</span></div><div class="font-black"><span id="c-eth-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-violet-700"><span id="c-eth-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-cyan-200 bg-cyan-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">USDT <span class="font-normal">تتر</span></div><div class="font-black"><span id="c-usdt-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-cyan-700"><span id="c-usdt-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-yellow-200 bg-yellow-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">BNB</div><div class="font-black"><span id="c-bnb-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-yellow-700"><span id="c-bnb-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-purple-200 bg-purple-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">SOL <span class="font-normal">سولانا</span></div><div class="font-black"><span id="c-sol-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-purple-700"><span id="c-sol-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-slate-200 bg-slate-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">XRP <span class="font-normal">ریپل</span></div><div class="font-black"><span id="c-xrp-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-slate-700"><span id="c-xrp-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-cyan-200 bg-cyan-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">USDC</div><div class="font-black"><span id="c-usdc-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-cyan-700"><span id="c-usdc-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-amber-200 bg-amber-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">DOGE <span class="font-normal">دوج</span></div><div class="font-black"><span id="c-doge-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-amber-700"><span id="c-doge-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-blue-200 bg-blue-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">ADA <span class="font-normal">کاردانو</span></div><div class="font-black"><span id="c-ada-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-blue-700"><span id="c-ada-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-red-200 bg-red-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">TRX <span class="font-normal">ترون</span></div><div class="font-black"><span id="c-trx-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-red-700"><span id="c-trx-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-red-200 bg-red-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">AVAX <span class="font-normal">آوالانچ</span></div><div class="font-black"><span id="c-avax-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-red-700"><span id="c-avax-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-orange-200 bg-orange-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">SHIB <span class="font-normal">شیبا</span></div><div class="font-black"><span id="c-shib-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-orange-700"><span id="c-shib-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-pink-200 bg-pink-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">DOT <span class="font-normal">پولکادات</span></div><div class="font-black"><span id="c-dot-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-pink-700"><span id="c-dot-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-blue-200 bg-blue-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">LINK</div><div class="font-black"><span id="c-link-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-blue-700"><span id="c-link-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-gray-200 bg-gray-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">LTC <span class="font-normal">لایت‌کوین</span></div><div class="font-black"><span id="c-ltc-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-gray-700"><span id="c-ltc-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                    </div>
+                    <p class="text-[11px] text-gustavo-muted mt-3 flex items-center gap-1.5"><i class="fas fa-info-circle"></i> منبع زنده: CoinGecko — تومان = دلار × نرخ دلار آزاد — بروزرسانی خودکار هر ۶۰ ثانیه</p>
                 </div>
-            </div>
-            <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 text-sm" id="crypto-grid">
-                <div class="rounded-2xl border border-amber-200 bg-amber-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">BTC <span class="font-normal">بیت‌کوین</span></div><div class="font-black"><span id="c-btc-usd">—</span> <span class="text-[11px] font-normal price-currency">$</span></div><div class="text-xs font-bold text-gustavo-amber"><span id="c-btc-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-violet-200 bg-violet-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">ETH <span class="font-normal">اتریوم</span></div><div class="font-black"><span id="c-eth-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-violet-600"><span id="c-eth-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-cyan-200 bg-cyan-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">USDT <span class="font-normal">تتر</span></div><div class="font-black"><span id="c-usdt-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-cyan-600"><span id="c-usdt-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-yellow-200 bg-yellow-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">BNB</div><div class="font-black"><span id="c-bnb-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-yellow-700"><span id="c-bnb-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-purple-200 bg-purple-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">SOL <span class="font-normal">سولانا</span></div><div class="font-black"><span id="c-sol-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-purple-600"><span id="c-sol-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-slate-200 bg-slate-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">XRP <span class="font-normal">ریپل</span></div><div class="font-black"><span id="c-xrp-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-slate-600"><span id="c-xrp-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-cyan-200 bg-cyan-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">USDC</div><div class="font-black"><span id="c-usdc-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-cyan-700"><span id="c-usdc-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-amber-200 bg-amber-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">DOGE <span class="font-normal">دوج</span></div><div class="font-black"><span id="c-doge-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-amber-700"><span id="c-doge-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-blue-200 bg-blue-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">ADA <span class="font-normal">کاردانو</span></div><div class="font-black"><span id="c-ada-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-blue-600"><span id="c-ada-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-red-200 bg-red-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">TRX <span class="font-normal">ترون</span></div><div class="font-black"><span id="c-trx-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-red-600"><span id="c-trx-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-red-200 bg-red-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">AVAX <span class="font-normal">آوالانچ</span></div><div class="font-black"><span id="c-avax-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-red-700"><span id="c-avax-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-orange-200 bg-orange-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">SHIB <span class="font-normal">شیبا</span></div><div class="font-black"><span id="c-shib-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-orange-600"><span id="c-shib-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-pink-200 bg-pink-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">DOT <span class="font-normal">پولکادات</span></div><div class="font-black"><span id="c-dot-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-pink-600"><span id="c-dot-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-blue-200 bg-blue-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">LINK</div><div class="font-black"><span id="c-link-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-blue-700"><span id="c-link-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-gray-200 bg-gray-50 p-3"><div class="text-[11px] text-gustavo-muted font-bold">LTC <span class="font-normal">لایت‌کوین</span></div><div class="font-black"><span id="c-ltc-usd">—</span> <span class="price-currency">$</span></div><div class="text-xs font-bold text-gray-700"><span id="c-ltc-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-            </div>
-            <p class="text-[11px] text-gustavo-muted mt-3">منبع زنده: CoinGecko — تومان = دلار × نرخ دلار آزاد — بروزرسانی خودکار هر ۶۰ ثانیه</p>
-        </div>
-        <!-- Forex — 10 -->
-        <div id="panel-forex" class="hidden gustavo-card p-5">
-            <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
-                <h2 class="font-black text-gustavo-ink flex items-center gap-2"><span class="w-8 h-8 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center"><i class="fas fa-coins"></i></span> ارز — ۱۰ ارز مهم جهان و خاورمیانه (زنده — تومان)</h2>
-                <div class="flex items-center gap-2">
-                    <span class="text-[11px] bg-emerald-50 text-emerald-700 border border-emerald-200 rounded-full px-2.5 py-1 font-bold flex items-center gap-1"><span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span> زنده</span>
-                    <button onclick="hideMarketPanels()" class="w-8 h-8 rounded-full bg-gustavo-surface border border-gustavo-line flex items-center justify-center hover:bg-gustavo-line"><i class="fas fa-xmark text-xs"></i></button>
+                <!-- Forex — 10 -->
+                <div id="panel-forex" class="hidden gustavo-card p-5">
+                    <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
+                        <h2 class="font-black text-gustavo-ink flex items-center gap-2">
+                            <span class="w-10 h-10 rounded-xl bg-gradient-to-br from-emerald-100 to-emerald-200 text-emerald-700 flex items-center justify-center shadow-sm">
+                                <i class="fas fa-dollar-sign text-lg"></i>
+                            </span> 
+                            <span class="text-base">ارز</span>
+                            <span class="text-[10px] bg-emerald-100 text-emerald-700 px-2 py-0.5 rounded-full font-mono font-bold">۱۰ ارز</span>
+                        </h2>
+                        <div class="flex items-center gap-2">
+                            <span class="text-[10px] bg-emerald-50 text-emerald-700 border border-emerald-200 rounded-full px-2.5 py-1 font-bold flex items-center gap-1">
+                                <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span> زنده
+                            </span>
+                            <button onclick="hideMarketPanels()" class="w-8 h-8 rounded-full bg-gustavo-surface border border-gustavo-line flex items-center justify-center hover:bg-gustavo-line transition-colors" title="بستن">
+                                <i class="fas fa-xmark text-xs"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3 text-sm">
+                        <div class="gustavo-market-card rounded-2xl border border-emerald-200 bg-emerald-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">دلار آمریکا</div><div class="text-[11px] text-gustavo-muted">USD</div></div><div class="text-left font-black"><span id="c-usd">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-sky-200 bg-sky-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">یورو</div><div class="text-[11px] text-gustavo-muted">EUR</div></div><div class="text-left font-black"><span id="c-eur">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-indigo-200 bg-indigo-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">پوند انگلیس</div><div class="text-[11px] text-gustavo-muted">GBP</div></div><div class="text-left font-black"><span id="c-gbp">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-amber-200 bg-amber-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">درهم امارات</div><div class="text-[11px] text-gustavo-muted">AED</div></div><div class="text-left font-black"><span id="c-aed">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-red-200 bg-red-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">لیر ترکیه</div><div class="text-[11px] text-gustavo-muted">TRY</div></div><div class="text-left font-black"><span id="c-try">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-green-200 bg-green-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">ریال عربستان</div><div class="text-[11px] text-gustavo-muted">SAR</div></div><div class="text-left font-black"><span id="c-sar">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-yellow-200 bg-yellow-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">دینار کویت</div><div class="text-[11px] text-gustavo-muted">KWD</div></div><div class="text-left font-black"><span id="c-kwd">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-purple-200 bg-purple-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">ریال قطر</div><div class="text-[11px] text-gustavo-muted">QAR</div></div><div class="text-left font-black"><span id="c-qar">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-slate-200 bg-slate-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">فرانک سوئیس</div><div class="text-[11px] text-gustavo-muted">CHF</div></div><div class="text-left font-black"><span id="c-chf">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-pink-200 bg-pink-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">ین ژاپن (۱۰۰)</div><div class="text-[11px] text-gustavo-muted">JPY</div></div><div class="text-left font-black"><span id="c-jpy">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
+                    </div>
+                    <p class="text-[11px] text-gustavo-muted mt-3 flex items-center gap-1.5"><i class="fas fa-info-circle"></i> منبع: Alanchand + exchangerate.host — بروزرسانی هر ۱۵ دقیقه از سرور + هر ۶۰ ثانیه در مرورگر</p>
                 </div>
-            </div>
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3 text-sm">
-                <div class="rounded-2xl border border-emerald-200 bg-emerald-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">دلار آمریکا</div><div class="text-[11px] text-gustavo-muted">USD</div></div><div class="text-left font-black"><span id="c-usd">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-sky-200 bg-sky-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">یورو</div><div class="text-[11px] text-gustavo-muted">EUR</div></div><div class="text-left font-black"><span id="c-eur">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-indigo-200 bg-indigo-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">پوند انگلیس</div><div class="text-[11px] text-gustavo-muted">GBP</div></div><div class="text-left font-black"><span id="c-gbp">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-amber-200 bg-amber-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">درهم امارات</div><div class="text-[11px] text-gustavo-muted">AED</div></div><div class="text-left font-black"><span id="c-aed">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-red-200 bg-red-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">لیر ترکیه</div><div class="text-[11px] text-gustavo-muted">TRY</div></div><div class="text-left font-black"><span id="c-try">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-green-200 bg-green-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">ریال عربستان</div><div class="text-[11px] text-gustavo-muted">SAR</div></div><div class="text-left font-black"><span id="c-sar">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-yellow-200 bg-yellow-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">دینار کویت</div><div class="text-[11px] text-gustavo-muted">KWD</div></div><div class="text-left font-black"><span id="c-kwd">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-purple-200 bg-purple-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">ریال قطر</div><div class="text-[11px] text-gustavo-muted">QAR</div></div><div class="text-left font-black"><span id="c-qar">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-slate-200 bg-slate-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">فرانک سوئیس</div><div class="text-[11px] text-gustavo-muted">CHF</div></div><div class="text-left font-black"><span id="c-chf">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-pink-200 bg-pink-50 p-3 flex justify-between items-center"><div><div class="text-xs font-bold">ین ژاپن (۱۰۰)</div><div class="text-[11px] text-gustavo-muted">JPY</div></div><div class="text-left font-black"><span id="c-jpy">—</span> <span class="text-xs font-normal price-currency">تومان</span></div></div>
-            </div>
-            <p class="text-[11px] text-gustavo-muted mt-3">منبع: Alanchand + exchangerate.host — بروزرسانی هر ۱۵ دقیقه از سرور + هر ۶۰ ثانیه در مرورگر</p>
-        </div>
-        <!-- Oil — 4 -->
-        <div id="panel-oil" class="hidden gustavo-card p-5">
-            <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
-                <h2 class="font-black text-gustavo-ink flex items-center gap-2"><span class="w-8 h-8 rounded-xl bg-orange-100 text-orange-600 flex items-center justify-center"><i class="fas fa-oil-can"></i></span> نفت جهانی — ۴ شاخص اصلی (زنده — دلار و تومان)</h2>
-                <div class="flex items-center gap-2">
-                    <span class="text-[11px] bg-emerald-50 text-emerald-700 border border-emerald-200 rounded-full px-2.5 py-1 font-bold flex items-center gap-1"><span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span> زنده</span>
-                    <button onclick="hideMarketPanels()" class="w-8 h-8 rounded-full bg-gustavo-surface border border-gustavo-line flex items-center justify-center hover:bg-gustavo-line"><i class="fas fa-xmark text-xs"></i></button>
+                <!-- Oil — 4 -->
+                <div id="panel-oil" class="hidden gustavo-card p-5">
+                    <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
+                        <h2 class="font-black text-gustavo-ink flex items-center gap-2">
+                            <span class="w-10 h-10 rounded-xl bg-gradient-to-br from-orange-100 to-orange-200 text-orange-700 flex items-center justify-center shadow-sm">
+                                <i class="fas fa-oil-can text-lg"></i>
+                            </span> 
+                            <span class="text-base">نفت</span>
+                            <span class="text-[10px] bg-orange-100 text-orange-700 px-2 py-0.5 rounded-full font-mono font-bold">۴ شاخص</span>
+                        </h2>
+                        <div class="flex items-center gap-2">
+                            <span class="text-[10px] bg-emerald-50 text-emerald-700 border border-emerald-200 rounded-full px-2.5 py-1 font-bold flex items-center gap-1">
+                                <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span> زنده
+                            </span>
+                            <button onclick="hideMarketPanels()" class="w-8 h-8 rounded-full bg-gustavo-surface border border-gustavo-line flex items-center justify-center hover:bg-gustavo-line transition-colors" title="بستن">
+                                <i class="fas fa-xmark text-xs"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 text-sm">
+                        <div class="gustavo-market-card rounded-2xl border border-slate-200 bg-slate-50 p-4"><div class="text-xs font-bold text-gustavo-muted">برنت (Brent)</div><div class="font-black text-lg mt-1"><span id="c-brent-usd">—</span> <span class="price-currency">$</span></div><div class="text-sm font-bold text-slate-700"><span id="c-brent-tmn">—</span> تومان <span class="text-[11px] font-normal text-gustavo-muted">/ بشکه</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-amber-200 bg-amber-50 p-4"><div class="text-xs font-bold text-gustavo-muted">وست تگزاس (WTI)</div><div class="font-black text-lg mt-1"><span id="c-wti-usd">—</span> <span class="price-currency">$</span></div><div class="text-sm font-bold text-amber-700"><span id="c-wti-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-emerald-200 bg-emerald-50 p-4"><div class="text-xs font-bold text-gustavo-muted">سبد اوپک (OPEC)</div><div class="font-black text-lg mt-1"><span id="c-opec-usd">—</span> <span class="price-currency">$</span></div><div class="text-sm font-bold text-emerald-700"><span id="c-opec-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                        <div class="gustavo-market-card rounded-2xl border border-sky-200 bg-sky-50 p-4"><div class="text-xs font-bold text-gustavo-muted">دوبی / عمان</div><div class="font-black text-lg mt-1"><span id="c-dubai-usd">—</span> <span class="price-currency">$</span></div><div class="text-sm font-bold text-sky-700"><span id="c-dubai-tmn">—</span> <span class="price-currency">تومان</span></div></div>
+                    </div>
+                    <div class="mt-3 flex items-center justify-between text-[11px] text-gustavo-muted"><span class="flex items-center gap-1.5"><i class="fas fa-info-circle"></i> منبع: OilPrice.com — تومان = دلار × نرخ آزاد</span><span class="font-mono font-bold"><span id="c-updated">—</span> تهران</span></div>
                 </div>
-            </div>
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 text-sm">
-                <div class="rounded-2xl border border-slate-200 bg-slate-50 p-4"><div class="text-xs font-bold text-gustavo-muted">برنت (Brent)</div><div class="font-black text-lg mt-1"><span id="c-brent-usd">—</span> <span class="price-currency">$</span></div><div class="text-sm font-bold text-slate-700"><span id="c-brent-tmn">—</span> تومان <span class="text-[11px] font-normal text-gustavo-muted">/ بشکه</span></div></div>
-                <div class="rounded-2xl border border-amber-200 bg-amber-50 p-4"><div class="text-xs font-bold text-gustavo-muted">وست تگزاس (WTI)</div><div class="font-black text-lg mt-1"><span id="c-wti-usd">—</span> <span class="price-currency">$</span></div><div class="text-sm font-bold text-amber-700"><span id="c-wti-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-emerald-200 bg-emerald-50 p-4"><div class="text-xs font-bold text-gustavo-muted">سبد اوپک (OPEC)</div><div class="font-black text-lg mt-1"><span id="c-opec-usd">—</span> <span class="price-currency">$</span></div><div class="text-sm font-bold text-emerald-700"><span id="c-opec-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-                <div class="rounded-2xl border border-sky-200 bg-sky-50 p-4"><div class="text-xs font-bold text-gustavo-muted">دوبی / عمان</div><div class="font-black text-lg mt-1"><span id="c-dubai-usd">—</span> <span class="price-currency">$</span></div><div class="text-sm font-bold text-sky-700"><span id="c-dubai-tmn">—</span> <span class="price-currency">تومان</span></div></div>
-            </div>
-            <div class="mt-3 flex items-center justify-between text-[11px] text-gustavo-muted"><span>منبع: OilPrice.com — تومان = دلار × نرخ آزاد</span><span class="font-mono font-bold"><span id="c-updated">—</span> تهران</span></div>
-        </div>
     </div>
 
     <!-- MAIN CONTAINER -->
