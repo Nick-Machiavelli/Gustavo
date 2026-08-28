@@ -1,5 +1,41 @@
 [
     {
+        "id": "c08f6d7e26",
+        "title_fa": "مقدونیه شمالی روابط نزدیک‌تر با اسرائیل",
+        "title_en": "As Europe remains divided over Israel, North Macedonia finds new reasons to stand with Jerusalem",
+        "summary": [
+            "وزیر خارجه مقدونیه پروازهای مستقیم و تجارت با اسرائیل را تقویت می‌کند",
+            "این گام در میان تقسیمات اروپایی درباره اسرائیل واکنش‌های متفاوتی برانگیخته است"
+        ],
+        "impact": "تقویت روابط تجاری و مسافرتی بین دو کشور، فشار بر سیاست‌های اروپایی",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-ca/politics/international-relations/as-europe-remains-divided-over-israel-north-macedonia-finds-new-reasons-to-stand-with-jerusalem/ar-AA2b7bxx?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/politics/international-relations/as-europe-remains-divided-over-israel-north-macedonia-finds-new-reasons-to-stand-with-jerusalem/ar-AA2b7bxx",
+        "image": "https://www.bing.com/th?id=ONUT.VXjHCWAKNZlIq6C6io0uiw",
+        "timestamp": 1787932892.3479333
+    },
+    {
+        "id": "a51fd456e6",
+        "title_fa": "آمنیستی در مورد سرکوب حقوق بشر در کویت هشدار داد",
+        "title_en": "Amnesty International warns Kuwait’s counter-terrorism crackdown amid Iran conflict endangers fundamental human rights",
+        "summary": [
+            "آمنیستی اعلام کرد اقدام‌ها ضدتروریستی کویت در پی تنش‌های ایران‑کویت، حقوق اساسی را تهدید می‌کند",
+            "سرکوب می‌تواند فشار بین‌المللی بر کویت را افزایش دهد"
+        ],
+        "impact": "افزایش نگرانی‌های بین‌المللی و احتمال تحریم‌های حقوق بشری",
+        "tag": "حقوق بشر",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Jurist.org",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdXBGZFJidTFxc2dtUGZycldGdnVTeE5jVXViWHJmWGx1WEFKOU9BSXlvQ1NrR29WS3l3UHlINzBJNlg5SURkV0ZrRW51LTVYUDhMMkdaUnRQNER6WDl3QWc4Zk5tN0E5QnR3WVBuamVUeFF5ekZodnd4ZTVnbzhyZnNZbTdmempadTVCZlVHbm9tVS1hNnpjeDJEOURVNTJRZ0lIa1FhS1VfNUFudXY0YW5HMUMyRzNwM3hwWEJlaW9ObkRoQk9OX1p1eUthb3BxMU80TDVvRGRPVUhNQlowaXlZZVF1Tnd5Vnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdXBGZFJidTFxc2dtUGZycldGdnVTeE5jVXViWHJmWGx1WEFKOU9BSXlvQ1NrR29WS3l3UHlINzBJNlg5SURkV0ZrRW51LTVYUDhMMkdaUnRQNER6WDl3QWc4Zk5tN0E5QnR3WVBuamVUeFF5ekZodnd4ZTVnbzhyZnNZbTdmempadTVCZlVHbm9tVS1hNnpjeDJEOURVNTJRZ0lIa1FhS1VfNUFudXY0YW5HMUMyRzNwM3hwWEJlaW9ObkRoQk9OX1p1eUthb3BxMU80TDVvRGRPVUhNQlowaXlZZVF1Tnd5Vnc",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1787932400.0
+    },
+    {
         "id": "73418a8c1a",
         "title_fa": "بیوگرافی شخصی در متن نامرتبط",
         "title_en": "Facing the Crooked of Hormuz",
@@ -282,6 +318,24 @@
         "clean_url": "https://www.nytimes.com/2026/08/28/business/iran-war-oil-stocks-prices.html",
         "image": "https://static01.nyt.com/images/2026/08/27/multimedia/iran-markets-promo-phck/iran-markets-promo-phck-facebookJumbo.jpg",
         "timestamp": 1787911320.0
+    },
+    {
+        "id": "0c9359ae66",
+        "title_fa": "سایبر حملهٔ مخفی ایران به آمریکا",
+        "title_en": "Iran’s Hidden Weapon Leaves US Exposed to Catastrophic Attack",
+        "summary": [
+            "ایران توانسته حملات سایبری به زیرساخت‌های انرژی و آب آمریکا انجام دهد",
+            "این حملات می‌توانند شبکه‌های برق و آب را مختل کرده و امنیت ملی را به خطر اندازند"
+        ],
+        "impact": "آسیب به زیرساخت‌های حیاتی آمریکا و هزینه‌های امنیتی بالا",
+        "tag": "سایبر",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-hidden-weapon-leaves-us-exposed-to-catastrophic-attack-12375428",
+        "clean_url": "https://www.newsweek.com/iran-hidden-weapon-leaves-us-exposed-to-catastrophic-attack-12375428",
+        "image": "http://www.bing.com/th?id=ONUT.kJ-Qo6JvTKE6zjvH9W--CQ&pid=News",
+        "timestamp": 1787905260.0
     },
     {
         "id": "ed927dbe87",
@@ -1141,6 +1195,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmE4U1UyUHprQ283UWNqQWJDTmV3TGEta3Q3S3Q3YXc3anh2RUNNaFJKRUd2TmIyWE0xeldyaGRkUDM2VEFTcFpKNXBoSnFITUJHNjZNX2g4V2hmYW1GcFRpSkQybmx0V1dBTXBHM0xhcWhpMTQxaG00X2tYU0NiUGdfMmQ1azZZRkhqT0lLQVZxNmpLWmsyamliamlveXp2UWtERFVnUk52UGxQTFFGaDJReGV3OVNCeTA2dA",
         "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1787827091.0
+    },
+    {
+        "id": "77f8358d7b",
+        "title_fa": "اخبار مختلط ایالات متحده از گاردین",
+        "title_en": "US latest news",
+        "summary": [
+            "مجموعه‌ای از عناوین ورزشی و سیاسی به‌صورت خبرنامه ارائه شده",
+            "اطلاعات خاصی درباره سیاست یا امنیت ارائه نمی‌شود"
+        ],
+        "impact": "اطلاع‌رسانی عمومی، تأثیر عملی محدود",
+        "tag": "اخبار عمومی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1787827080.0
     },
     {
         "id": "da0ea29188",
@@ -5449,75 +5521,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlFja2NaTHRyRFF2WEFpcVRsbVg3YmxzTzFsdmc1aHo2eHRoN29GcWxLT05BMTR1ckZ0Rk9GTDVWZ0E4UXlRZXliRFJIUUdERjNmOVBFN0RCQ1lnZ1JhZWlobVhnMGh0cDNxRTJPTzVxS1BET2NCYTlVakhFQ2pSQ1hpTUNMM09EalpMUDN0cUp0Y3M",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1787244883.0
-    },
-    {
-        "id": "93b307d4eb",
-        "title_fa": "هشدار موشکی ترامپ در منطقه تنگه هرمز",
-        "title_en": "Iran live updates: Trump threatens to bomb Oman over Strait of Hormuz",
-        "summary": [
-            "ترامپ با خط‌ونشان کشیدن برای منطقه، بر سر مسدودسازی یا ناامنی در تنگه هرمز موضع‌گیری تندی اتخاذ کرده است.",
-            "عدم توافق میان واشنگتن و تهران، امنیت خطوط انتقال انرژی در خلیج فارس را به نقطه بحرانی نزدیک می‌کند."
-        ],
-        "impact": "ریسک بالای درگیری نظامی مستقیم و جهش آنی قیمت جهانی نفت.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "abc News",
-        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-says-us-control-of-strait-of-hormuz-a-great-idea/ar-AA2agTBg",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-says-us-control-of-strait-of-hormuz-a-great-idea/ar-AA2agTBg",
-        "image": "https://i.abcnewsfe.com/a/f3ac78eb-ca1f-4cf6-950f-0fc9e806b279/Trump-DB-260817_1786968320439_hpMain_16x9.jpg?w=1600",
-        "timestamp": 1787244540.0
-    },
-    {
-        "id": "b751a0e9e7",
-        "title_fa": "Trump warns 'economic consequences' for nations helping Iran",
-        "title_en": "Trump warns 'economic consequences' for nations helping Iran",
-        "summary": [
-            "Trump warns 'economic consequences' for nations helping Iran"
-        ],
-        "impact": "تحولات و رویدادهای جاری مرتبط با ایران و منطقه.",
-        "tag": "خبر فوری",
-        "urgency": 7,
-        "sentiment": 0.0,
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kU2ZDenpzTlRoVEx6bWJtUnk5ZGtpcjJBdWw3YnRyWjBBbUp1bnZqVWxQc0tTUjd2YUcwTTlEZ0p1MDRkUThiLWxtNkxLdnRiX2ZzR0p3UnB3MmhtemdmRkVTdVcwMGk1c2FFbUJBUUZheGpBZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kU2ZDenpzTlRoVEx6bWJtUnk5ZGtpcjJBdWw3YnRyWjBBbUp1bnZqVWxQc0tTUjd2YUcwTTlEZ0p1MDRkUThiLWxtNkxLdnRiX2ZzR0p3UnB3MmhtemdmRkVTdVcwMGk1c2FFbUJBUUZheGpBZUE",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787244075.0
-    },
-    {
-        "id": "792f88f55b",
-        "title_fa": "اخطار شدید ترامپ به کشورهای کمک‌کننده به تهران",
-        "title_en": "Trump issues stark warning: Economic consequences for nations aiding Iran",
-        "summary": [
-            "ترامپ به تمام کشورها هشدار داد که تنفس دادن به اقتصاد تهران عواقب سنگین تجاری برای آن‌ها دارد.",
-            "هم‌زمان با تشدید تنش‌های منطقه‌ای، واشنگتن سیاست انتخاب بین بازار آمریکا یا معامله با تهران را احیا کرده است."
-        ],
-        "impact": "افزایش انزوای بین‌المللی و تشدید ریزش ارزش پول ملی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Newspoint",
-        "url": "https://www.msn.com/en-in/politics/international-relations/trump-issues-stark-warning-economic-consequences-for-nations-aiding-iran/ar-AA2aAnNr",
-        "clean_url": "https://www.msn.com/en-in/politics/international-relations/trump-issues-stark-warning-economic-consequences-for-nations-aiding-iran/ar-AA2aAnNr",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA24iyEB.img?w=640&h=480&m=4&q=50",
-        "timestamp": 1787243277.0
-    },
-    {
-        "id": "f0c6128322",
-        "title_fa": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
-        "title_en": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
-        "summary": [
-            "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate"
-        ],
-        "impact": "تحولات و رویدادهای جاری مرتبط با ایران و منطقه.",
-        "tag": "خبر فوری",
-        "urgency": 7,
-        "sentiment": 0.0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787242849.0
     }
 ]
