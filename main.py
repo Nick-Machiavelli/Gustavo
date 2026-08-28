@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup
 from gnews import GNews
 from ddgs import DDGS
 from dateutil import parser
+import re
 import hashlib
 
 # --- CONFIGURATION ---
@@ -345,6 +346,35 @@ class Gustavo:
             if domain.split('.')[0] in pub:
                 return score
         return 3
+
+    def _fallback_translate(self, text):
+        """Translate key geopolitical terms when AI is unavailable.
+        Uses a simple dictionary-based approach to provide minimal Persian output."""
+        if not text:
+            return "خبر جدید"
+        replacements = {
+            'Iran': 'ایران',
+            'Israel': 'اسرائیل',
+            'Israeli': 'اسرائیلی',
+            'Netanyahu': 'نتانیاهو',
+            'Trump': 'ترامپ',
+            'U.S.': 'ایالات متحده',
+            'United States': 'ایالات متحده',
+            'U.S': 'ایالات متحده',
+            'Military': 'نظامی',
+            'War': 'جنگ',
+            'Sanctions': 'تحریم‌ها',
+            'Regime': 'رژیم',
+            'Revolution': 'انقلاب',
+            'Attack': 'حمله',
+            'Missile': 'موشک',
+        }
+        translated = text
+        for eng, per in replacements.items():
+            translated = re.sub(re.escape(eng), per, translated, flags=re.IGNORECASE)
+        if translated == text:
+            return "خبر بین‌المللی — بدون ترجمه خودکار"
+        return translated
 
     def _cheap_urgency_hint(self, title, publisher=""):
         t = (title or '').lower()
@@ -1763,7 +1793,7 @@ STRICT OUTPUT JSON:
                     continue
                 # Fallback: build a minimal pseudo-AI result from the raw candidate data
                 ai_batch_results[item['index']] = {
-                    'title_fa': item['headline'],
+                    'title_fa': self._fallback_translate(item['headline']),
                     'title_en': item['headline'],
                     'summary': [item['snippet'] or item['headline']],
                     'impact': '...',
@@ -1777,7 +1807,7 @@ STRICT OUTPUT JSON:
                 if not ai:
                     # Last-resort fallback: if even our pseudo-fill missed something
                     ai = {
-                        'title_fa': item['headline'],
+                        'title_fa': self._fallback_translate(item['headline']),
                         'title_en': item['headline'],
                         'summary': [item['snippet'] or item['headline']],
                         'impact': '...',

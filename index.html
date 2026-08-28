@@ -312,6 +312,13 @@
                 html.dark .text-white\/70 { color: #cbd5e1 !important; }
                 html.dark .text-white\/80 { color: #9ca3af !important; }
 
+                /* ---- Icons & SVGs — ensure visibility in both themes ---- */
+                .fas, .far, .fab, .i[class*="fa-"] { color: #0f172a !important; }
+                html.dark .fas, html.dark .far, html.dark .fab { color: #e5e7eb !important; }
+                html.dark .bg-gustavo-surface:hover .fas,
+                html.dark .bg-gustavo-surface:hover .far,
+                html.dark .bg-gustavo-surface:hover .fab { color: #fbd38d !important; }
+
                 @media (max-width: 768px) {
             /* Prevent content from hiding behind mobile bottom bar */
             body {
