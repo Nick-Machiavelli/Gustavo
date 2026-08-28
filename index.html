@@ -1169,6 +1169,8 @@ function showHomeView() {
     document.getElementById('view-single-article').classList.add('hidden');
     document.getElementById('view-dashboard').classList.add('hidden');
     document.getElementById('view-news').classList.remove('hidden');
+    // Re-render Hero Lead when returning to Home tab
+    renderHeroLead();
     // also close any open market panels (crypto/forex/oil)
     const mp = document.getElementById('market-panels');
     if (mp && !mp.classList.contains('hidden')) {
