@@ -277,6 +277,23 @@
         "timestamp": 1787939220.0
     },
     {
+        "id": "9b4a0f65b7",
+        "title_fa": "خبر بین‌المللی — بدون ترجمه خودکار",
+        "title_en": "ترامپ برای در اختیار گرفتن یک‌پنجم ذخایر نفت ونزوئلا خیز برداشت",
+        "summary": [
+            "دونالد ترامپ از توافقی برای تسلط آمریکا بر بیش از ۶۵ میلیارد بشکه از ذخایر نفت ونزوئلا خبر داد؛ اقدامی که می‌تواند دسترسی پالایشگاه‌های آمریکایی به نفت خام را افزایش دهد و از فشار قیمت سوخت بکاهد."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608288151",
+        "clean_url": "https://www.iranintl.com/202608288151",
+        "image": "http://www.bing.com/th?id=ONUT.bPp2uRAnfvNERvDbdMofog&pid=News",
+        "timestamp": 1787935980.0
+    },
+    {
         "id": "5d514233d4",
         "title_fa": "ترامپ trashed for undermining his own policy to protect his friends",
         "title_en": "Trump trashed for undermining his own policy to protect his friends",
@@ -1052,6 +1069,40 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-promised-a-short-iran-war-six-months-later-he-has-few-good-options/ar-AA2b6MD1",
         "image": "http://www.bing.com/th?id=ONUT.wxKtHkUBQMUBG1ZXHZHfbw&pid=News",
         "timestamp": 1787882400.0
+    },
+    {
+        "id": "a60e69d9d7",
+        "title_fa": "US-اسرائیل-ایران جنگ latest live news: US targets Banque Misr UAE branches, تحریم‌ها Bank Melli Dubai manager, Hong Kong firm over ایران support",
+        "title_en": "US-Israel-Iran war latest live news: US targets Banque Misr UAE branches, sanctions Bank Melli Dubai manager, Hong Kong firm over Iran support",
+        "summary": [
+            "India, Aug. 28 -- US-Israel-Iran War Latest Live News: The United States has stepped up its economic pressure campaign..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": 0,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/money/financial-regulation/us-israel-iran-war-latest-live-news-us-targets-banque-misr-uae-branches-sanctions-bank-melli-dubai-manager-hong-kong-firm-over-iran-support/ar-AA2b8elH?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/money/financial-regulation/us-israel-iran-war-latest-live-news-us-targets-banque-misr-uae-branches-sanctions-bank-melli-dubai-manager-hong-kong-firm-over-iran-support/ar-AA2b8elH",
+        "image": "https://www.bing.com/th?id=ONUT.MrK37HNII3shyPqOUOMOUQ",
+        "timestamp": 1787876153.0
+    },
+    {
+        "id": "e38a49217c",
+        "title_fa": "Oil futures fall as Persian Gulf exports may have recovered to two-thirds of pre-جنگ levels",
+        "title_en": "Oil futures fall as Persian Gulf exports may have recovered to two-thirds of pre-war levels",
+        "summary": [
+            "Crude oil futures fell Friday and for the week as traders took notice that more oil is covertly making it out of the Persian Gulf region, even as hopes fade for peace talks between the U.S. and Iran..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Seeking Alpha on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/oil-futures-fall-as-persian-gulf-exports-may-have-recovered-to-two-thirds-of-pre-war-levels/ar-AA2b8Hbq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/oil-futures-fall-as-persian-gulf-exports-may-have-recovered-to-two-thirds-of-pre-war-levels/ar-AA2b8Hbq",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1787876153.0
     },
     {
         "id": "1ac4d6140b",
@@ -5469,60 +5520,5 @@
         "clean_url": "https://www.moneycontrol.com/world/iran-shifts-to-offensive-military-doctrine-warns-us-of-devastating-retaliation-article-14012886.html",
         "image": "http://www.bing.com/th?id=ONUT.R4hJdX-59pwaSpS5L2KEiw&pid=News",
         "timestamp": 1787334660.0
-    },
-    {
-        "id": "d1eccd6df1",
-        "title_fa": "له شدن سفره مردم زیر بار جنگ اقتصادی و کسری بودجه حکومت",
-        "title_en": "Iranian families struggle to afford the basics as US ratchets up economic warfare",
-        "summary": [
-            "تشدید تحریم‌های اقتصادی آمریکا در کنار سوءمدیریت عمیق داخلی، معیشت روزمره و تامین کالاهای اولیه را برای خانواده‌های ایرانی غیرممکن کرده است.",
-            "فشار حداکثری واشنگتن منابع مالی حکومت را هدف گرفته، اما بار اصلی سقوط ارزش پول ملی مستقیماً بر دوش اقشار کم‌درآمد افتاده است."
-        ],
-        "impact": "تنگ‌تر شدن خط فقر، رکوردشکنی تورم کالاهای اساسی و بالا رفتن پتانسیل خیزش‌های معیشتی در سراسر کشور.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Boston Herald",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSjYzOXZLS0VSNkxGdzdyNlJHWGREUHhhbGtXMm5sVVVRcHZuRk52c2I4NlJBc1FGeTYxd3FoUEVjbHR1MFMzMEZJMndUT1BVRnlFNjJJaHZVTnpSNHlMdVZNTWFaNnljNTFaZk84WTI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSjYzOXZLS0VSNkxGdzdyNlJHWGREUHhhbGtXMm5sVVVRcHZuRk52c2I4NlJBc1FGeTYxd3FoUEVjbHR1MFMzMEZJMndUT1BVRnlFNjJJaHZVTnpSNHlMdVZNTWFaNnljNTFaZk84WTI",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787332499.0
-    },
-    {
-        "id": "54e82ce198",
-        "title_fa": "وعده «دی-دی اقتصادی» ترامپ؛ فشار بی‌سابقه بر شریان‌های مالی تهران",
-        "title_en": "Trump wants to unleash ‘economic D-Day’. But Iran is no stranger to pain",
-        "summary": [
-            "ترامپ از آغاز یک جنگ اقتصادی تمام‌عیار برای قطع کامل منابع مالی و فلج کردن توان منطقه‌ای حکومت خبر داده است.",
-            "با وجود بحران شدید ارزی در داخل ایران، فشار اقتصادی به تنهایی و بدون مکمل‌های سخت نظامی، به سرعت رفتار تهران را تغییر نمی‌دهد."
-        ],
-        "impact": "شوک سنگین به بازار ارز و سخت‌تر شدن بی‌سابقه تجارت خارجی ایران.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-wants-unleash-economic-d-050000913.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-wants-unleash-economic-d-050000913.html",
-        "image": "http://www.bing.com/th?id=ONUT.AAxTsd41MmoF9krf05dJ0A&pid=News",
-        "timestamp": 1787331600.0
-    },
-    {
-        "id": "f37a3abb25",
-        "title_fa": "تدارک تندروهای تهران برای جنگ طولانی با آمریکا پشت نقاب مذاکرات",
-        "title_en": "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War",
-        "summary": [
-            "تندروهای حکومت در پوشش چراغ‌سبز نشان دادن به مذاکرات صلح، در حال آماده‌سازی زیرساخت‌ها برای یک درگیری طولانی‌مدت و پرهزینه با آمریکا هستند.",
-            "تهران از تاکتیک خرید زمان استفاده می‌کند تا ظرفیت‌های موشکی و منطقه‌ای خود را برای نبرد احتمالی بازسازی و تقویت کند.",
-            "این دوگانگی رفتاری نشان می‌دهد هرگونه توافق دیپلماتیک برای جمهوری اسلامی صرفاً یک تنفس تاکتیکی است، نه تغییر استراتژی."
-        ],
-        "impact": "افزایش احتمال درگیری مستقیم نظامی و بی‌اعتباری کامل فرآیندهای دیپلماتیک در میان‌مدت.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJSaVhVRDBpM2o2QVRmZ2NtR1FhSGtDS2NKbFBBdU1pVEUxS3ZFTTh6eGh2cDlWT0hJR1hJblg3QzV0WW85M3VhYmxzd182S20zdUoxUlh0Mm8wT2FtZnltbWJBbnVLNWlfU3l1M1BPVDctRHREM0t5M1pieGhLbjU5VjctajFqTzE1eVVZMFdRMjNRNl9oTjF2N0lxaFJXNmtadnlNb1FrdzhORDQ1OTRlNEhOUnFxMEY5Q2tQUDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJSaVhVRDBpM2o2QVRmZ2NtR1FhSGtDS2NKbFBBdU1pVEUxS3ZFTTh6eGh2cDlWT0hJR1hJblg3QzV0WW85M3VhYmxzd182S20zdUoxUlh0Mm8wT2FtZnltbWJBbnVLNWlfU3l1M1BPVDctRHREM0t5M1pieGhLbjU5VjctajFqTzE1eVVZMFdRMjNRNl9oTjF2N0lxaFJXNmtadnlNb1FrdzhORDQ1OTRlNEhOUnFxMEY5Q2tQUDA",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787328915.0
     }
 ]
