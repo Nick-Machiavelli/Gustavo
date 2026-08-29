@@ -1,5 +1,39 @@
 [
     {
+        "id": "b3b370d022",
+        "title_fa": "ریموند جی د سوزا: آمریکای ترامپ در حال از دست دادن کنترل خود است",
+        "title_en": "Raymond J. de Souza: Trump's America is losing its grip",
+        "summary": [
+            "The Trump administration declared economically lethal sanctions against Iran. This is supposedly an augmentation of the..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "National Post",
+        "url": "https://nationalpost.com/opinion/trumps-america-is-losing-its-grip",
+        "clean_url": "https://nationalpost.com/opinion/trumps-america-is-losing-its-grip",
+        "image": "https://www.bing.com/th?id=ONUT.fnSq74O5rGnc3iKOct793Q",
+        "timestamp": 1787999830.652672
+    },
+    {
+        "id": "7fb12e38cb",
+        "title_fa": "The ایران جنگ is showing the costs of ترامپ’s strongman economics",
+        "title_en": "The Iran war is showing the costs of Trump’s strongman economics",
+        "summary": [
+            "The Iran war is showing the costs of that approach, quite literally. Six months into a conflict Trump chose to launch and has chosen to continue, higher gas prices are hurting Americans. Since gas..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "ms",
+        "url": "https://www.ms.now/news/news-analysis/trump-strongman-economics-prices",
+        "clean_url": "https://www.ms.now/news/news-analysis/trump-strongman-economics-prices",
+        "image": "https://www.ms.now/wp-content/uploads/2026/08/260828-gas-prices-oil-iran-war-us-usa-middle-east-freedom-fuel-station-es.webp?crop=0px,180px,1446px,759px&w=1200&h=630",
+        "timestamp": 1787999830.6516237
+    },
+    {
         "id": "ed2abe17cd",
         "title_fa": "خبر بین‌المللی — بدون ترجمه خودکار",
         "title_en": "Western left’s ‘politics of purity’ ultimately reinforces the very imperialism it claims to oppose: Legal historian",
@@ -5420,42 +5454,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/ar-AA2aL612",
         "image": "http://www.bing.com/th?id=ONUT.c2wgriiJ5upF5c-xh1vPmg&pid=News",
         "timestamp": 1787462685.0
-    },
-    {
-        "id": "ffdcb758bd",
-        "title_fa": "خط و نشان امنیتی تهران برای همسایگان در پی انزوای اقتصادی",
-        "title_en": "Iran security chief threatens neighbors against economic measures, and other Mideast developments",
-        "summary": [
-            "دبیر شورای عالی امنیت ملی ایران همسایگان را از همراهی با تحریم‌ها و فشارهای اقتصادی علیه تهران برحذر داشت.",
-            "این خط و نشان‌ها، هراس عمیق حکومت از بسته‌تر شدن مجاری تنفسی تجاری در منطقه را افشا می‌کند."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک با کشورهای همسایه و احتمال اخلال در مبادلات مرزی.",
-        "tag": "امنیتی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGJoVXJCaUN6MGRKNTgzWENod2VrN29OUllhaVUwTFQ5VjZpc0tEWlNiNHUzWjAxMlZiUVl6Z2FTd0I1cmUwandhdFl3SGo4NENwV3k0XzlrNDlodFJtWXkta3VETkd4UjgyTEdVRUhzOHcxZEdHMkpaZXJQQVlJZUlud2Q0NVMyMHBQSDVobnc4clZEYVBIVVVxRG5MdEE2UG1yNmtYR2IxWDhGaldPZTNIb2phQmVvSlo5UTdUby1GQWlBUXFz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGJoVXJCaUN6MGRKNTgzWENod2VrN29OUllhaVUwTFQ5VjZpc0tEWlNiNHUzWjAxMlZiUVl6Z2FTd0I1cmUwandhdFl3SGo4NENwV3k0XzlrNDlodFJtWXkta3VETkd4UjgyTEdVRUhzOHcxZEdHMkpaZXJQQVlJZUlud2Q0NVMyMHBQSDVobnc4clZEYVBIVVVxRG5MdEE2UG1yNmtYR2IxWDhGaldPZTNIb2phQmVvSlo5UTdUby1GQWlBUXFz",
-        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787462655.0
-    },
-    {
-        "id": "4490a791b3",
-        "title_fa": "دلار ۲۰۰ هزار تومانی؛ سقوط بی‌سابقه ارزش ریال",
-        "title_en": "قیمت هر دلار آمریکا به ۲۰۰ هزار تومان رسید و رکورد جدیدی ثبت کرد",
-        "summary": [
-            "عبور دلار از مرز ۲۰۰ هزار تومان و سکه از ۲۱۸ میلیون تومان، نشان‌دهنده از دست رفتن کامل کنترل بازار توسط بانک مرکزی است.",
-            "سایه سنگین تحریم‌های جدید و انزوای بین‌المللی، موج کم‌نظیری از فرار سرمایه و خریدهای هیجانی ارز ایجاد کرده است.",
-            "ریزش مداوم ارزش پول ملی، قدرت خرید طبقات مختلف جامعه را نابود کرده و خطر نارضایتی‌های گسترده را تشدید می‌کند."
-        ],
-        "impact": "فروپاشی قدرت خرید مردم و جهش ناگهانی تورم در تمامی کالاهای اساسی",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608235063",
-        "clean_url": "https://www.iranintl.com/202608235063",
-        "image": "http://www.bing.com/th?id=ONUT.U2q1qxnh8xhkqU1YzKGNkg&pid=News",
-        "timestamp": 1787461200.0
     }
 ]
