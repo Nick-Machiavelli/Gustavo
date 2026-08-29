@@ -1071,6 +1071,40 @@
         "timestamp": 1787882400.0
     },
     {
+        "id": "2f580dc492",
+        "title_fa": "خبر بین‌المللی — بدون ترجمه خودکار",
+        "title_en": "New York Times",
+        "summary": [
+            "Nepal Roughly Doubles Number of Missing to 1,900 Amid a Desperate Search China offers condolences while emphasizing that the disaster began in Nepal. What to know about Mount Kailash, which drew..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "nytimes.com",
+        "url": "https://www.nytimes.com/",
+        "clean_url": "https://www.nytimes.com",
+        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+        "timestamp": 1787877078.0
+    },
+    {
+        "id": "8ab30a77b7",
+        "title_fa": "ترامپ says ایالات متحده makes deal to control 65 billion barrels of Venezuelan oil reserves",
+        "title_en": "Trump says U.S. makes deal to control 65 billion barrels of Venezuelan oil reserves",
+        "summary": [
+            "U.S. President Donald Trump on Friday said the U.S. has entered an agreement with Venezuela to take control of 65 billion..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "CBC.ca",
+        "url": "https://www.cbc.ca/news/world/trump-venezuela-oil-reserves-deal-9.7325117",
+        "clean_url": "https://www.cbc.ca/news/world/trump-venezuela-oil-reserves-deal-9.7325117",
+        "image": "https://www.bing.com/th?id=ONUT.Me7qkAshy3pIB2ciuIzFyg",
+        "timestamp": 1787877078.0
+    },
+    {
         "id": "a60e69d9d7",
         "title_fa": "US-اسرائیل-ایران جنگ latest live news: US targets Banque Misr UAE branches, تحریم‌ها Bank Melli Dubai manager, Hong Kong firm over ایران support",
         "title_en": "US-Israel-Iran war latest live news: US targets Banque Misr UAE branches, sanctions Bank Melli Dubai manager, Hong Kong firm over Iran support",
@@ -5483,42 +5517,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WVkxodTc2T1BBeGJ3N0lpc2NEZG1YNEd5eV9IZGFBVnNWMHpKekszay1PSjl3Z3BsQURrazM0Q0o5SWEzamhfR0hGTTlBZVNYc1Mwb1JybS12QnR3TlAtYjlWbVVFdEVKNktzQnhOcUdJd2s4N01B",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1787337033.0
-    },
-    {
-        "id": "a876fb027d",
-        "title_fa": "تشدید تنش در هرمز؛ خط و نشان متقابل واشنگتن و تهران",
-        "title_en": "Hormuz is our territory: Trump's warning as Iran vows devastating response",
-        "summary": [
-            "تهران در پاسخ به تحریم‌های جدید آمریکا، دوباره به کارت تهدید امنیت کشتیرانی در تنگه هرمز متوسل شد.",
-            "واشنگتن با هشداری صریح، خط قرمز خود را امنیت دریانوردی آزاد اعلام کرده و آمادگی برای تشدید فشارها را نشان داده است."
-        ],
-        "impact": "جهش قیمت جهانی نفت و افزایش شدید هزینه بیمه نفتکش‌ها در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "India Today on MSN",
-        "url": "https://www.msn.com/en-in/news/other/hormuz-is-our-territory-trumps-warning-as-iran-vows-devastating-response/ar-AA2aGreY",
-        "clean_url": "https://www.msn.com/en-in/news/other/hormuz-is-our-territory-trumps-warning-as-iran-vows-devastating-response/ar-AA2aGreY",
-        "image": "http://www.bing.com/th?id=ONUT.QyppnCkr63zE8_QxrtvjNQ&pid=News",
-        "timestamp": 1787335620.0
-    },
-    {
-        "id": "0244f9e182",
-        "title_fa": "تغییر دکترین نظامی تهران به حالت تهاجمی و بازسازی تجهیزات",
-        "title_en": "Iran shifts to offensive military doctrine, warns US of ‘devastating’ retaliation",
-        "summary": [
-            "ارتش جمهوری اسلامی ادعا کرده دکترین خود را از دفاعی به تهاجمی تغییر داده و بازسازی نیروها را آغاز کرده است.",
-            "محمد اکرمی‌نیا، سخنگوی ارتش، از فرصت آتش‌بس برای نوسازی تجهیزات، ترمیم آسیب‌ها و تغییر تاکتیک‌های رزمی خبر داد.",
-            "این خط کلامی جدید بیشتر یک مانور جنگ روانی برای ترمیم بازدارندگی از دست‌رفته و کتمان خسارات درگیری‌های اخیر است."
-        ],
-        "impact": "افزایش ریسک درگیری‌های شتاب‌زده و تداوم سایه جنگ بر بازارهای مالی.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/iran-shifts-to-offensive-military-doctrine-warns-us-of-devastating-retaliation-article-14012886.html",
-        "clean_url": "https://www.moneycontrol.com/world/iran-shifts-to-offensive-military-doctrine-warns-us-of-devastating-retaliation-article-14012886.html",
-        "image": "http://www.bing.com/th?id=ONUT.R4hJdX-59pwaSpS5L2KEiw&pid=News",
-        "timestamp": 1787334660.0
     }
 ]
