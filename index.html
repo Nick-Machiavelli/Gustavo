@@ -32,8 +32,7 @@
                                 line: '#e2e8f0',
                                 muted: '#64748b',
                                 navy: '#0f172a',
-                                darknavy: '#0f172a',
-                                red: '#f59e0b',
+                                                                red: '#f59e0b',
                                 brightred: '#d97706',
                                 graybg: '#f8fafc',
                                 border: '#e2e8f0',
@@ -79,36 +78,20 @@
                                     box-shadow: 0 4px 14px rgba(245, 158, 11, 0.35);
                                 }
                                 .gustavo-logo-avatar-inner {
-                                    background: #0f172a;
-                                    border-radius: 9999px;
-                                    padding: 8px 16px;
-                                    display: flex;
-                                    align-items: center;
-                                    gap: 8px;
-                                }
+                                                                    background: #0f172a;
+                                                                    border-radius: 9999px;
+                                                                    padding: 8px 16px;
+                                                                    display: flex;
+                                                                    align-items: center;
+                                                                    gap: 8px;
+                                                                }
 
+                                                                /* ---- Market Panel Headers ---- */
 
-                /* ====================
-                   COMPLETE DARK MODE SYSTEM
-                   — covers Hot Topics Strip, Ticker, Tension Panel,
-                     Market Tabs, Callouts, Articles, Modals, Mobile Drawer
-                   — all with high-contrast colors
-                   ==================== */
+                                                /* ---- Nav Pill Tabs (صفحه اصلی، نظامی، ...) ---- */
+                                                .nav-pill-active { background: #0f172a !important; color: #ffffff !important; }
 
-                /* ---- Light Mode Base (overrides Tailwind defaults for readability) ---- */
-
-                                /* ---- Market Panel Headers ---- */
-
-                /* ---- Nav Pill Tabs (صفحه اصلی، نظامی، ...) ---- */
-                .nav-pill-active { background: #0f172a !important; color: #ffffff !important; }
-
-            /* Support iOS Safe Area notch at bottom */
-            .pb-safe {
-                padding-bottom: env(safe-area-inset-bottom, 8px);
-            }
-        }
-
-        .overflow-x-auto {
+                                                        .overflow-x-auto {
             -webkit-overflow-scrolling: touch;
         }
 
