@@ -1,5 +1,22 @@
 [
     {
+        "id": "61e7da347e",
+        "title_fa": "گزارش‌ها حاکی از آن است که آمریکا به پرتابگرهای ایرانی در جزیره لارک حمله کرده است",
+        "title_en": "US reportedly struck Iranian launchers on Larak Island",
+        "summary": [
+            "US reportedly struck Iranian launchers on Larak Island The Jerusalem Post"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnS0I2TG8xUnpZX3pvRGs5ZmNlNFN2bHN1emk4WjhzNXlIeV9yXzJ0WGxRbFlTNjV3aEd2MWZwNmptQ0Q0OFd3bUx1TFFMTUdVVTlxVFZQV3pISHRiOW90SFRNYmtCbjRxcUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnS0I2TG8xUnpZX3pvRGs5ZmNlNFN2bHN1emk4WjhzNXlIeV9yXzJ0WGxRbFlTNjV3aEd2MWZwNmptQ0Q0OFd3bUx1TFFMTUdVVTlxVFZQV3pISHRiOW90SFRNYmtCbjRxcUE",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788118506.0
+    },
+    {
         "id": "51e22d4fd7",
         "title_fa": "خبر بین‌المللی — بدون ترجمه خودکار",
         "title_en": "Chuck Schumer’s many compromises to maintain political power",
@@ -1224,6 +1241,23 @@
         "timestamp": 1788036000.0
     },
     {
+        "id": "0da74f36b1",
+        "title_fa": "بانکهای مرکزی مصر و امارات: درباره پیشنهاد دسترسی دلاری شعب بانک مصر هماهنگ است",
+        "title_en": "بانکهای مرکزی مصر و امارات: درباره پیشنهاد قطع دسترسی دلاری شعب بانک مصر هماهنگ هستیم",
+        "summary": [
+            "بانکهای مرکزی مصر و امارات متحده عربی اعلام کردند در پی پیشنهاد آمریکا برای قطع دسترسی شعب بانک مصر در امارات به تراکنشهای..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608308306",
+        "clean_url": "https://www.iranintl.com/202608308306",
+        "image": "https://www.bing.com/th?id=ONUT.ZJ5NpqNUd3l2XPH5eLxYdw",
+        "timestamp": 1788035829.0
+    },
+    {
         "id": "0f5cd1a9c5",
         "title_fa": "ترامپ با نزدیک شدن به انتخابات میان دوره ای آمریکا، بدلکاری‌ها را افزایش می‌دهد",
         "title_en": "Trump steps up stunts as US midterms loom",
@@ -1239,6 +1273,23 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/trump-steps-up-stunts-as-us-midterms-loom/ar-AA2bbp8B",
         "image": "https://www.bing.com/th?id=ONUT.51RHkYccJvsPSIosJgd0bA",
         "timestamp": 1788034072.5617592
+    },
+    {
+        "id": "4c6c539fe6",
+        "title_fa": "جنگ ایران زنده: سپاه پاسداران انقلاب اسلامی بمباران جزیره لارک ایران را تایید کرد و قول پاسخ داد",
+        "title_en": "Iran war live: IRGC confirms US bombed Iran’s Larak Island, vows response",
+        "summary": [
+            "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington. Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the ‘same..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": 0,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2276029215-1788120294.jpg?resize=1920%2C1440",
+        "timestamp": 1788034020.0
     },
     {
         "id": "3c15665844",
@@ -5138,61 +5189,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-settles-higher-diplomacy-191636335.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/b38318330c92ac93a081252350c20f53.jpg",
         "timestamp": 1787858185.0
-    },
-    {
-        "id": "840636af83",
-        "title_fa": "اسرائیل از طرح غزه ترامپ حمایت می‌کند؛ ایران مانع آی‌ای‌ای",
-        "title_en": "Israel backs Trump's Gaza plan; Iran bars IAEA from bombed sites TV7 Israel News - 27 Aug.",
-        "summary": [
-            "اسرائیل اعلام کرد طرح غزه پیشنهادی ترامپ را می‌پذیرد و به اجرای آن کمک خواهد کرد.",
-            "در عین حال ایران اجازه دسترسی سازمان بین‌المللی انرژی به سایت‌های بمبارده‌شده را رد کرده است."
-        ],
-        "impact": "تقویت موضع اسرائیل در مذاکرات غزه و محدود شدن نظارت بین‌المللی بر ایران.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tWG1lYkNpY2FuUmt3bU4yYjUzVlBJYzZ2d0xVLWJDSHR1eEF0UXlxVUtpQ0g2TnlFQzd1OS03QkRvdVVpNmVTZHBsMkFMU2ZiM3l4T1AxLU5CZndRQkZTeFBOSHhCZEFST3V2SkphdURLNnBzbHAw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tWG1lYkNpY2FuUmt3bU4yYjUzVlBJYzZ2d0xVLWJDSHR1eEF0UXlxVUtpQ0g2TnlFQzd1OS03QkRvdVVpNmVTZHBsMkFMU2ZiM3l4T1AxLU5CZndRQkZTeFBOSHhCZEFST3V2SkphdURLNnBzbHAw",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787855734.0
-    },
-    {
-        "id": "4ef07838b8",
-        "title_fa": "میم پیروزی ترامپ در ایران به‌سر می‌برد",
-        "title_en": "‘How Many Times Now?!’: Trump’s Delusional Iran Victory Meme Blows Up in His Face as Internet Spots Infamous Mistake He Really Should’ve Seen Coming",
-        "summary": [
-            "ترامپ بارها جنگ ایران را «پیروزی» خوانده در حالی که تنش‌ها ادامه دارد",
-            "میم «Mission Accomplished» به مقایسه با بوش 2003 اشاره دارد و نشان می‌دهد ادعای پایان جنگ نادرست است",
-            "این ادعا می‌تواند فشار داخلی و بین‌المللی علیه ترامپ را تقویت کند"
-        ],
-        "impact": "ادعای پیروزی نادرست، اعتبار ترامپ را در سیاست خارجی کاهش می‌دهد",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "Atlanta Black Star",
-        "url": "https://atlantablackstar.com/2026/08/27/trumps-delusional-iran-victory-meme-blows-up-in-his-face/",
-        "clean_url": "https://atlantablackstar.com/2026/08/27/trumps-delusional-iran-victory-meme-blows-up-in-his-face",
-        "image": "https://www.bing.com/th?id=ONUT.hcfa71b2bPv8MsNvX9TuIA",
-        "timestamp": 1787854736.8205273
-    },
-    {
-        "id": "aadac8e794",
-        "title_fa": "ترامپ با تهدید هرمز، ریسک‌های انرژی را نشان داد",
-        "title_en": "ترامپ با تهران کاری را کرد که رهبران پیشین باید میکردند: دشمن را جدی گرفت",
-        "summary": [
-            "تیسن در مقاله‌ای به هشدارهای قبلی درباره بسته شدن تنگه هرمز توسط ایران اشاره کرد",
-            "او می‌گوید اگر ترامپ به این هشدار گوش می‌داد، امروز این بحران پیش نمی‌آمد",
-            "این پیام نشان می‌دهد ترامپ به‌جای دیپلماسی، به‌سختی‌های نظامی تمایل دارد"
-        ],
-        "impact": "تهدید بسته شدن هرمز توسط ایران، نوسان شدید قیمت نفت و بی‌ثباتی بازارهای انرژی جهانی را به‌وجود می‌آورد",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608275603",
-        "clean_url": "https://www.iranintl.com/202608275603",
-        "image": "https://www.bing.com/th?id=ONUT.Z2vcth-dcfX9fgUP4KAIUg",
-        "timestamp": 1787853773.5768046
     }
 ]
