@@ -34,6 +34,23 @@
         "timestamp": 1788151032.5255382
     },
     {
+        "id": "c86ab01623",
+        "title_fa": "آخرین تحولات جنگ ایران و آمریکا",
+        "title_en": "Latest developments in the US-Iran war",
+        "summary": [
+            "Latest developments in the US-Iran war France 24"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "France 24",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNy03T2dIWnN3RUdUTlhha3VhdjdMWTF2bnQwYTNvR0NSTmtCajdQbzRFWWdobldCMVRMMEtRa0hWWXp0Q3plMTM4NVVPSEJwMURLNU1qMXRoa0tkWlNKNE9Qd3Z3SE14TG9HdTZGWkpyYkNoSFc2Nk03V0tFSmFtaG9LbEI4ck5RekRxWUVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNy03T2dIWnN3RUdUTlhha3VhdjdMWTF2bnQwYTNvR0NSTmtCajdQbzRFWWdobldCMVRMMEtRa0hWWXp0Q3plMTM4NVVPSEJwMURLNU1qMXRoa0tkWlNKNE9Qd3Z3SE14TG9HdTZGWkpyYkNoSFc2Nk03V0tFSmFtaG9LbEI4ck5RekRxWUVn",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788146118.0
+    },
+    {
         "id": "e0d3d4a705",
         "title_fa": "ایالات متحده به پرتاب کننده های موشکی ایران در حالی که تهران انتقام می‌گیرد، به پایگاه های آمریکایی در اردن حمله می‌کند",
         "title_en": "US strikes Iranian missile launchers as Tehran retaliates, attacks American bases in Jordan",
@@ -355,6 +372,23 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-applying-total-pressure-against-iran-rep-brian-mast-says/vi-AA2bdz0R",
         "image": "https://www.bing.com/th?id=ONUT.OBLpQdFayueoOLL-_IX1Mw",
         "timestamp": 1788109632.2974749
+    },
+    {
+        "id": "142a6da1d9",
+        "title_fa": "ترامپ با ایران مشکل اعتبار دارد",
+        "title_en": "Trump has a credibility problem with Iran",
+        "summary": [
+            "After six months of war with Iran, President Trump has a credibility problem. His blustering threats, alternating with claims of imminent peace and victory, are doubted by friends and foe. Will his..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Daily Press",
+        "url": "https://www.dailypress.net/opinion/editorial/2026/08/trump-has-a-credibility-problem-with-iran/",
+        "clean_url": "https://www.dailypress.net/opinion/editorial/2026/08/trump-has-a-credibility-problem-with-iran",
+        "image": "https://ogden_images.s3.amazonaws.com/www.dailypress.net/images/2026/07/15100909/website_logo.png",
+        "timestamp": 1788109200.0
     },
     {
         "id": "2b39175a01",
@@ -5124,41 +5158,5 @@
         "clean_url": "https://www.yahoo.com/news/us/articles/six-months-war-us-iran-123710898.html",
         "image": "http://www.bing.com/th?id=ONUT.uJaNRyGz518LDfJB1QgniQ&pid=News",
         "timestamp": 1787895420.0
-    },
-    {
-        "id": "2813d7f9a0",
-        "title_fa": "بازارها به بن‌بست جنگ ایران عادت کردند",
-        "title_en": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight",
-        "summary": [
-            "بازارهای جهانی پس از شش ماه جنگ، به بن‌بست اقتصادی عادت کرده‌اند",
-            "نوسان قیمت نفت و ارزهای منطقه‌ای به‌طور ثابت بالا مانده است"
-        ],
-        "impact": "سرمایه‌گذاران به‌دنبال راه‌حل‌های کوتاه‌مدت برای حفظ سود هستند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "CNBC",
-        "url": "https://www.msn.com/en-us/money/other/six-months-into-the-iran-war-markets-become-accustomed-to-stalemate-with-no-end-in-sight/ar-AA2b5Huh",
-        "clean_url": "https://www.msn.com/en-us/money/other/six-months-into-the-iran-war-markets-become-accustomed-to-stalemate-with-no-end-in-sight/ar-AA2b5Huh",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1787893336.0
-    },
-    {
-        "id": "6e713a5692",
-        "title_fa": "سفرهٔ ترامپ به ایران خطر بحران‌های فراتر را دارد",
-        "title_en": "Six months on, Trump's Iran 'excursion' risks igniting crises far beyond the Middle East",
-        "summary": [
-            "ادعای ترامپ مبنی بر «سفره کوتاه» به ایران، به یک بحران چندقاره‌ای تبدیل شده",
-            "تنش‌های ناشی از این جنگ، خطر گسترش به اروپا و آسیا را دارد"
-        ],
-        "impact": "افزایش تنش‌های بین‌المللی می‌تواند مسیر انرژی جهانی را مختل کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CNN",
-        "url": "https://www.msn.com/en-us/news/other/six-months-on-trump-s-iran-excursion-risks-igniting-crises-far-beyond-the-middle-east/ar-AA2b5iCE",
-        "clean_url": "https://www.msn.com/en-us/news/other/six-months-on-trump-s-iran-excursion-risks-igniting-crises-far-beyond-the-middle-east/ar-AA2b5iCE",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-24t224334z-930246863-rc275natbtm3-rtrmadp-3-usa-trump.JPG?c=16x9&q=w_800,c_fill",
-        "timestamp": 1787889629.0
     }
 ]
