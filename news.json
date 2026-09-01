@@ -799,6 +799,23 @@
         "timestamp": 1788234660.0
     },
     {
+        "id": "00b6616bc8",
+        "title_fa": "رئیس جمهور ایران پیشنهاد \"متقابل\" در صورت بازگشت آمریکا به توافق صلح موقت ژوئن را داد",
+        "title_en": "Iran’s President Offers To ‘Reciprocate’ If U.S. Returns To June Interim Peace Deal",
+        "summary": [
+            "The push to go back to the deal agreed to in June comes a day after renewed hostilities which saw the U.S. military target Iranian forces along the Hormuz Strait."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/09/01/iran-president-offers-to-reciprocate-if-us-returns-to-june-interim-peace-deal/",
+        "clean_url": "https://www.forbes.com/sites/siladityaray/2026/09/01/iran-president-offers-to-reciprocate-if-us-returns-to-june-interim-peace-deal",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a96ab68803e86a55761a71a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "timestamp": 1788234000.0
+    },
+    {
         "id": "1cacb74deb",
         "title_fa": "رئیس‌جمهور ایران می‌گوید اگر آمریکا چنین کند، ایران به توافق آتش‌بس باز خواهد گشت و دیگر اخبار خاورمیانه",
         "title_en": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news",
@@ -1562,6 +1579,57 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckVzckJ6UXNDYjd0TU15Y3E4cnFRQ1BUUFppX3lHRjZuMEJWa0Y5NlQzMmFvcjBYa0ZLMzRoSlBrMmc1YzBta0E1ZFVxTmJoQ1g1ZE1NQkNTMFJBbUpaTHBMRjMwM25jZ1VxM3ZiRDRaRmd6Szl1NldnbVpXb3NpUkw2aVFqOGZwaGpiXy1xYXY5LWMydGlsQ3BvWQ",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788189724.0
+    },
+    {
+        "id": "ad9538fdaf",
+        "title_fa": "مقامات فلسطینی می‌گویند عملیات اسرائیل در غزه 4 کشته بر جای گذاشت",
+        "title_en": "Israeli Operation in Gaza Kills 4, Palestinian Officials Say",
+        "summary": [
+            "Israel’s defense minister said the operation resulted in the capture of a senior Hamas member. Hamas said Israel sent covert operatives into Gaza City."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "clean_url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788189170.0
+    },
+    {
+        "id": "f43a6842b8",
+        "title_fa": "دونالد ترامپ \"چه سوال احمقانه ای\" را مطرح می‌کند و کنفرانس مطبوعاتی را به طرز چشمگیری به پایان می‌رساند",
+        "title_en": "Donald Trump snaps 'what a stupid question' and dramatically ends press conference",
+        "summary": [
+            "President Donald Trump snapped at a reporter after a question about using a nuclear weapon in Iran. He said the U.S. had..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Stringr on MSN",
+        "url": "https://www.msn.com/en-us/news/other/donald-trump-snaps-what-a-stupid-question-and-dramatically-ends-press-conference/vi-AA2blOLC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-snaps-what-a-stupid-question-and-dramatically-ends-press-conference/vi-AA2blOLC",
+        "image": "https://www.bing.com/th?id=ONUT.cXvh_FwLPQ8tEusP4sgrAQ",
+        "timestamp": 1788189170.0
+    },
+    {
+        "id": "fc9eb882e5",
+        "title_fa": "هانتر بایدن اعتراف کرد که پدرش در ارسال سلاح به اسرائیل اشتباه کرده است",
+        "title_en": "Hunter Biden Admits His Father Was ‘Wrong’ To Send Weapons To Israel",
+        "summary": [
+            "Hunter Biden has offered a rare break from his usual defense of his father while discussing the war in Gaza. The Hunter Biden..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/hunter-biden-admits-father-wrong-141000637.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/hunter-biden-admits-father-wrong-141000637.html",
+        "image": "https://www.bing.com/th?id=ONUT.c5kYErX993NduI095izHuQ",
+        "timestamp": 1788189170.0
     },
     {
         "id": "9a11e6e6d7",
@@ -5030,73 +5098,5 @@
         "clean_url": "https://www.bankingnews.gr/diethni/articles/896417/us-trick-to-manipulate-markets-with-the-new-hormuz-route-why-israel-possesses-nuclear-weapons-while-iran-cannot+title=",
         "image": "https://www.bankingnews.gr/media/k2/items/cache/95585f66d5f115b143146a599935e120_XL.jpg",
         "timestamp": 1788036000.0
-    },
-    {
-        "id": "0da74f36b1",
-        "title_fa": "بانکهای مرکزی مصر و امارات: درباره پیشنهاد دسترسی دلاری شعب بانک مصر هماهنگ است",
-        "title_en": "بانکهای مرکزی مصر و امارات: درباره پیشنهاد قطع دسترسی دلاری شعب بانک مصر هماهنگ هستیم",
-        "summary": [
-            "بانکهای مرکزی مصر و امارات متحده عربی اعلام کردند در پی پیشنهاد آمریکا برای قطع دسترسی شعب بانک مصر در امارات به تراکنشهای..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608308306",
-        "clean_url": "https://www.iranintl.com/202608308306",
-        "image": "https://www.bing.com/th?id=ONUT.ZJ5NpqNUd3l2XPH5eLxYdw",
-        "timestamp": 1788035829.0
-    },
-    {
-        "id": "0f5cd1a9c5",
-        "title_fa": "ترامپ با نزدیک شدن به انتخابات میان دوره ای آمریکا، بدلکاری‌ها را افزایش می‌دهد",
-        "title_en": "Trump steps up stunts as US midterms loom",
-        "summary": [
-            "From a row with Canada to proposed talks with North Korea's Kim, is the US president trying to distract voters from his..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "South China Morning Post on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/trump-steps-up-stunts-as-us-midterms-loom/ar-AA2bbp8B?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/trump-steps-up-stunts-as-us-midterms-loom/ar-AA2bbp8B",
-        "image": "https://www.bing.com/th?id=ONUT.51RHkYccJvsPSIosJgd0bA",
-        "timestamp": 1788034072.5617592
-    },
-    {
-        "id": "4c6c539fe6",
-        "title_fa": "جنگ ایران زنده: سپاه پاسداران انقلاب اسلامی بمباران جزیره لارک ایران را تایید کرد و قول پاسخ داد",
-        "title_en": "Iran war live: IRGC confirms US bombed Iran’s Larak Island, vows response",
-        "summary": [
-            "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington. Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the ‘same..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2276029215-1788120294.jpg?resize=1920%2C1440",
-        "timestamp": 1788034020.0
-    },
-    {
-        "id": "3c15665844",
-        "title_fa": "Shin Bet confirms significant ایرانian threat against Yair نتانیاهو prompted evacuation from US",
-        "title_en": "Shin Bet confirms significant Iranian threat against Yair Netanyahu prompted evacuation from US",
-        "summary": [
-            "Shin Bet confirms significant Iranian threat against Yair Netanyahu prompted evacuation from US The Jerusalem Post"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwcjJnYTd3QUN4NTFBdmZucmJYbXBwczVNa0YwNEc3ckhSaS1GOFNCNnpQbjJDTGpYVEY3anBYOGZTVmIzRnRiaGMxVUlZOE9YalZYWVh2OGd2RjRi?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwcjJnYTd3QUN4NTFBdmZucmJYbXBwczVNa0YwNEc3ckhSaS1GOFNCNnpQbjJDTGpYVEY3anBYOGZTVmIzRnRiaGMxVUlZOE9YalZYWVh2OGd2RjRi",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788033871.0
     }
 ]
