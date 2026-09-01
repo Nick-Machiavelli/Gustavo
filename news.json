@@ -68,6 +68,23 @@
         "timestamp": 1788298807.734777
     },
     {
+        "id": "ac80d88fb2",
+        "title_fa": "ناظر هسته‌ای سازمان ملل متحد هشدار داد که نیاز فوری به دسترسی به سایت های ایران است",
+        "title_en": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+        "summary": [
+            "The IAEA said lack of information and access to facilities to verify Iran's nuclear material is a proliferation concern."
+        ],
+        "impact": "...",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9738003551e-1788295168.jpg?resize=1920,1440",
+        "timestamp": 1788298020.0
+    },
+    {
         "id": "f849ca8aa0",
         "title_fa": "هاروارد: ایران همیشه «جانشین» روسیه و چین بوده است",
         "title_en": "Iran has always been a 'surrogate' of Russia and China: Harward",
@@ -5081,22 +5098,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/report-hegseth-told-iran-war-too-much-for-too-long/ar-AA2be5oB",
         "image": "http://www.bing.com/th?id=ONUT.PzU3yWs7mClQFerdD-X1YQ&pid=News",
         "timestamp": 1788082303.0
-    },
-    {
-        "id": "49f22e312f",
-        "title_fa": "خبر بین‌المللی — بدون ترجمه خودکار",
-        "title_en": "Leader: Any divisive act by anyone in any position serves enemy’s objective",
-        "summary": [
-            "The Leader of the Islamic Revolution said in a message that anyone, regardless of their position, who takes any action that leads to..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "parstoday",
-        "url": "https://parstoday.ir/en/news/iran-i245774-leader_any_divisive_act_by_anyone_in_any_position_serves_enemy’s_objective",
-        "clean_url": "https://parstoday.ir/en/news/iran-i245774-leader_any_divisive_act_by_anyone_in_any_position_serves_enemy’s_objective",
-        "image": "https://media.parstoday.ir/image/4cc040338ee51b2qdoo_800C450.jpg",
-        "timestamp": 1788080837.0440319
     }
 ]
