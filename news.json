@@ -1,5 +1,22 @@
 [
     {
+        "id": "f07c4be2a3",
+        "title_fa": "ایران می‌گوید با وجود تحریم‌های آمریکا، ارز خارجی کافی دارد",
+        "title_en": "Iran says it has enough foreign currency despite US sanctions",
+        "summary": [
+            "Iran says it has enough foreign currency despite US sanctions Reuters"
+        ],
+        "impact": "...",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmpRVW0wSlR3WnJacEhxTk9ldXVERXk3QXVFc1ZZV2oyNVM5TEVId1RYU0JsOWN5Y0R5bXZKcklUaTNHWmN1X3JPUDh1N2VmS3U4by1QM1NDZksxNm1kdHA4elBUWFNteFB3UlpKcEtJbjE1S19sNDBVcXRUZ3MxM0xGOEV3Q2hFQmVvU1p0clY4R3c1M2o3TDUwVVcwU3FiWkJoN01NQ2J5QmRkUTdyQUkzSXNwUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmpRVW0wSlR3WnJacEhxTk9ldXVERXk3QXVFc1ZZV2oyNVM5TEVId1RYU0JsOWN5Y0R5bXZKcklUaTNHWmN1X3JPUDh1N2VmS3U4by1QM1NDZksxNm1kdHA4elBUWFNteFB3UlpKcEtJbjE1S19sNDBVcXRUZ3MxM0xGOEV3Q2hFQmVvU1p0clY4R3c1M2o3TDUwVVcwU3FiWkJoN01NQ2J5QmRkUTdyQUkzSXNwUQ",
+        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788244860.0
+    },
+    {
         "id": "73ffdb4f6f",
         "title_fa": "تفسیر: ثروت نفتی آمریکا از درگیری با ایران دوام خواهد آورد",
         "title_en": "COMMENTARY: The Americas’ oil bonanza will outlast the Iran conflict",
@@ -1069,6 +1086,23 @@
         "clean_url": "https://www.ndtv.com/opinion/how-a-friendship-treat-helped-india-against-pak-china-and-us-in-1971-11981976",
         "image": "https://www.bing.com/th?id=ONUT.fscY-CmWbxYiFyT1ptrlmQ",
         "timestamp": 1788179830.367473
+    },
+    {
+        "id": "77f8358d7b",
+        "title_fa": "آخرین اخبار آمریکا",
+        "title_en": "US latest news",
+        "summary": [
+            "This live blog is now closed. A year on from the purge, with thousands of jobs cut and billions in foreign aid lost, a former leader reflects on the sorry saga – and why it would never happen to Nasa..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1788179820.0
     },
     {
         "id": "650668754a",
@@ -5064,39 +5098,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/democrats-try-to-divorce-themselves-from-a-toxic-hasan-piker/ar-AA2batuA",
         "image": "https://www.bing.com/th?id=ONUT.7Zo-Ji27dOE99147taU2Sw",
         "timestamp": 1788003414.9957461
-    },
-    {
-        "id": "cbe0efc370",
-        "title_fa": "ترامپ برای پایان دادن به جنگ به خزانه داری اعتماد دارد که دیپلماسی نمی‌تواند",
-        "title_en": "Trump trusts Treasury to end the war that diplomacy will not",
-        "summary": [
-            "The Pentagon may have ceased its offensive in Iran for now, but the latest front in President Donald Trump’s war on the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-trusts-treasury-to-end-the-war-that-diplomacy-will-not/ar-AA2ba9Bb?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-trusts-treasury-to-end-the-war-that-diplomacy-will-not/ar-AA2ba9Bb",
-        "image": "https://www.bing.com/th?id=ONUT.2l51MhDZp0XJm9gmFSdERQ",
-        "timestamp": 1788001624.0886474
-    },
-    {
-        "id": "c41e31eed7",
-        "title_fa": "فراتر از هرمز: وعده استراتژیک INSTC",
-        "title_en": "Beyond Hormuz: Strategic promise of INSTC",
-        "summary": [
-            "The INSTC may be featured in the catalogue of issues to be discussed at the BRICS Summit. INSTC is a multimodal transport..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/ht-insight/international-affairs/beyond-hormuz-strategic-promise-of-instc-101787999099873.html",
-        "clean_url": "https://www.hindustantimes.com/ht-insight/international-affairs/beyond-hormuz-strategic-promise-of-instc-101787999099873.html",
-        "image": "https://www.bing.com/th?id=ONUT.TfpliRZK-WE8CjUzpRzTeQ",
-        "timestamp": 1788001624.0883708
     }
 ]
