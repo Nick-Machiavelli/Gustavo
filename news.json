@@ -540,6 +540,26 @@
         "timestamp": 1788363245.0
     },
     {
+        "id": "7f6fdd3017",
+        "title_fa": "قیمت نفت به‌دلیل ترس از جنگ آمریکا-ایران بالا رفت",
+        "title_en": "Fears of an Extended US-Iran Conflict Boost Crude Oil Prices",
+        "summary": [
+            "قیمت نفت خام WTI به بالاترین شش هفته‌ای رسید.",
+            "افزایش به‌دلیل تشدید تنش‌های نظامی در تنگه هرمز بود.",
+            "موجودی‌های هفتگی EIA کاهش یافتند، اما خروج نفت از تنگه نگرانی‌ها را کم کرد.",
+            "نوسان قیمت می‌تواند فشار بر هزینه‌های حمل‌ونقل و تورم انرژی را افزاش دهد."
+        ],
+        "impact": "افزایش قیمت نفت به‌سرعت هزینه‌های حمل‌ونقل و تورم انرژی را تقویت می‌کند.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Barchart · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/fears-extended-us-iran-conflict-153900010.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/fears-extended-us-iran-conflict-153900010.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/ca88e087f12a3f8d2cc35756e5cb650e.jpg",
+        "timestamp": 1788361971.0
+    },
+    {
         "id": "1a013ddbe9",
         "title_fa": "به روز رسانی زنده: جدیدترین‌ها از اسرائیل، ایران و خاورمیانه",
         "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
@@ -555,6 +575,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JLVlrMkNGNGkyLXR2OC1yMTJsSXZaaFZ0QVhCWlAta0JSblV2VGRkQVNKSEVoOU1ONzFGYlh1YVc3X0d5UHdvVmFmTkkyeU9xdWNIWkdiZEM3ZV9yc2VLQWM5am1HU1ZpbU9CQlQ3dnFtNTJnOTk2bjJwSE1SeEU",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788361634.0
+    },
+    {
+        "id": "f98080984a",
+        "title_fa": "ایران به آمریکا استراتژی جدیدی در برابر حملات اعلام کرد",
+        "title_en": "'You will fail to escape depths of hell': Iran warns US of 'new strategy' after fresh strikes",
+        "summary": [
+            "دبیر شورای امنیت ملی پس از حملات تازه به اهداف نزدیک هرمز، تهدید به استراتژی جدید در میادین جنگی، دیپلماتیک و اقتصادی کرد.",
+            "پیام در توییتر منتشر شد و نشان از واکنش شدید ایران به فشارهای نظامی آمریکا دارد.",
+            "ترامپ عملیات «بزرگ و قدرتمند» را توصیف کرد؛ این ادعا تنش‌ها را تشدید می‌کند.",
+            "احتمال تشدید تحریم‌ها و اقدام‌ها نیابتی علیه ایران افزایش یافت."
+        ],
+        "impact": "تهدید استراتژی جدید می‌تواند واکنش نظامی یا اقتصادی آمریکا را تشدید کند و تنش‌های خلیج فارس را بالا ببرد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/you-will-fail-to-escape-depths-of-hell-iran-warns-us-of-new-strategy-after-fresh-strikes-article-14021302.html",
+        "clean_url": "https://www.moneycontrol.com/world/you-will-fail-to-escape-depths-of-hell-iran-warns-us-of-new-strategy-after-fresh-strikes-article-14021302.html",
+        "image": "http://www.bing.com/th?id=ONUT.T9a8kHgypzmWyXLqjwKPDg&pid=News",
+        "timestamp": 1788361440.0
     },
     {
         "id": "843d76698a",
@@ -5123,39 +5163,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/republicans-are-losing-patience-with-trump-s-iran-whiplash/ar-AA2biD5H",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788187934.0
-    },
-    {
-        "id": "38d48dbda3",
-        "title_fa": "\"آیزنهاور در قبر خود می‌چرخید\": بسیاری از جمهوری خواهان به دلیل توهین ترامپ در مورد ایران به سر می‌برند",
-        "title_en": "‘Eisenhower would be spinning in his grave’: Many Republicans are over Trump’s Iran bluster",
-        "summary": [
-            "Still, some administration allies remain sanguine about the latest round of strikes and the president’s fresh threats to escalate the war. They believe Trump is astutely keeping the pressure on Iran,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/08/31/republicans-are-losing-patience-with-trumps-iran-whiplash-01057917",
-        "clean_url": "https://www.politico.com/news/2026/08/31/republicans-are-losing-patience-with-trumps-iran-whiplash-01057917",
-        "image": "http://www.bing.com/th?id=ONUT.wXD5XFVjcnIy-Ph8DRsnpg&pid=News",
-        "timestamp": 1788187860.0
-    },
-    {
-        "id": "f2d10495d7",
-        "title_fa": "با «قلعه شکن»، موشک ایران که در جنگ آمریکا ویران می‌کند، آشنا شوید",
-        "title_en": "Meet 'Castle Breaker,' Iran's missile wreaking havoc in US war",
-        "summary": [
-            "Exclusive: Analysts tell USA TODAY the US military wasn't prepared to stop the 'maneuverable' Kheibar Shekan missile Tehran has deployed in the six-month war."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/war-and-conflicts/military/meet-castle-breaker-iran-s-new-missile-wreaking-havoc-in-us-war/ar-AA2biZaA",
-        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/meet-castle-breaker-iran-s-new-missile-wreaking-havoc-in-us-war/ar-AA2biZaA",
-        "image": "http://www.bing.com/th?id=ONUT.SWwJRY9KIUMp1nCAWAawcg&pid=News",
-        "timestamp": 1788186684.0
     }
 ]
