@@ -1,5 +1,79 @@
 [
     {
+        "id": "2dae594ef2",
+        "title_fa": "ترامپ ادعا کرد قیمت‌ها ارزان‌تر شد: دارو، گوشت، بنزین",
+        "title_en": "Trump Touts Supposedly “Cheaper” Drugs, Beef and Gas Prices in Truth Social Post",
+        "summary": [
+            "ادعای کاهش قیمت‌ها بدون ارائه داده‌های مستقل است",
+            "این پیام سعی دارد تصویری مثبت از عملکرد اقتصادی دولت پیش از انتخابات بدهد",
+            "آمار واقعی نشان می‌دهد کاهش در برخی بخش‌ها محدود و ناپایدار است"
+        ],
+        "impact": "احتمال افزایش حمایت داخلی از ترامپ در کوتاه‌مدت، اما خطر کاهش اعتبار در صورت بررسی دقیق",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Truthout",
+        "url": "https://truthout.org/articles/trump-touts-supposedly-cheaper-drugs-beef-and-gas-prices-in-truth-social-post/",
+        "clean_url": "https://truthout.org/articles/trump-touts-supposedly-cheaper-drugs-beef-and-gas-prices-in-truth-social-post",
+        "image": "https://truthout.org/app/uploads/2026/09/2026-0902-trump.jpg",
+        "timestamp": 1788383534.3639157
+    },
+    {
+        "id": "e1956d582c",
+        "title_fa": "اظهار نظر سارا نتانیاهو انتخابات اسرائیل را دگرگون کرد",
+        "title_en": "How Sara Netanyahu’s October 7 remark successfully hijacked the Israeli election agenda",
+        "summary": [
+            "بیان او باعث شد رسانه‌ها به‌جای مسائل امنیتی، به شخصیت او بپردازند",
+            "این حرکت تصویر سخت‌گیرانه حزب را تقویت کرد و می‌تواند رأی‌گیری را به نفع او تغییر دهد",
+            "انتقادهای داخلی نسبت به استفاده از این موضوع به‌عنوان ابزار انتخاباتی افزایش یافت"
+        ],
+        "impact": "تغییر تمرکز رسانه‌ای می‌تواند نتایج انتخابات را تحت‌تأثیر قرار دهد",
+        "tag": "انتخابات",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/how-sara-netanyahu-s-october-7-remark-successfully-hijacked-the-israeli-election-agenda/ar-AA2brFBZ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/how-sara-netanyahu-s-october-7-remark-successfully-hijacked-the-israeli-election-agenda/ar-AA2brFBZ",
+        "image": "https://www.bing.com/th?id=ONUT.ezZrg_TvBzqnttr0NPyhBQ",
+        "timestamp": 1788383534.3625717
+    },
+    {
+        "id": "d9f33f0990",
+        "title_fa": "ترامپ هشدار داد: آماده حمله به ایران هر لحظه",
+        "title_en": "Iran war live: Trump warns he’s 'prepared' to launch attack 'any time'",
+        "summary": [
+            "بیان آمادگی برای حمله، فشار روانی مستقیم بر نظامی‑نظامی تهران را تقویت می‌کند",
+            "تهدید می‌تواند قیمت نفت را به‌سرعت بالا ببرد و بازارهای منطقه‌ای را ناآرام سازد",
+            "ایران ممکن است با نمایش نیروی موشکی واکنش نشان دهد و خطر تصاعد درگیری را افزایش دهد"
+        ],
+        "impact": "افزایش تنش نظامی می‌تواند مسیر مذاکرات هسته‌ای را به‌سختی‌تر کند",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-war-live-cyberattacks-targeted-critical-us-infrastructure/ar-AA2bofvW?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-cyberattacks-targeted-critical-us-infrastructure/ar-AA2bofvW",
+        "image": "https://www.bing.com/th?id=ONUT.dy96cm4Rfw5WMxYFnpv_ww",
+        "timestamp": 1788383534.3619776
+    },
+    {
+        "id": "5236abd391",
+        "title_fa": "جهان نیوز به طور خلاصه: تشدید جنگ ایران و آمریکا، کمک به میانمار، تلفات در اوکراین",
+        "title_en": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
+        "summary": [
+            "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine UN News"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "UN News",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVGxtMk43bFBRN3ExU2Qzem5tTjljcHMtT0xyYVRBanNJVm9jUEwzaENRM0psOEpiSDlGanhHY19vU3ZQQWZLdGhCUDFEVV9hQTJJa2s5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVGxtMk43bFBRN3ExU2Qzem5tTjljcHMtT0xyYVRBanNJVm9jUEwzaENRM0psOEpiSDlGanhHY19vU3ZQQWZLdGhCUDFEVV9hQTJJa2s5QQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788381086.0
+    },
+    {
         "id": "a1181a5ea6",
         "title_fa": "بحران گرسنگی در ایران",
         "title_en": "The Next Iran Crisis: Starvation",
@@ -17,6 +91,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GbDA4WWVCd21nMWlXYndfRHNWc0xoRWc0STgwRndtM2J2cmJDVmdQZ2p5QkY3WUYtRm5PU0VVRGxqLVVraWNOdUx1TnNwVlBtR2pHWEttSW0xT2djZEpBUzZPd0R4cnVtbklpaFpGdE1tRnQ3",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788379801.0
+    },
+    {
+        "id": "c32401ff94",
+        "title_fa": "سنت‌کام: ارتش آمریکا غیرنظامی هدف نمی‌گیرد، سپاه هدف‌گیری می‌کند",
+        "title_en": "US military ‘never targets civilians, unlike the IRGC,’ CENTCOM says",
+        "summary": [
+            "بیان رسمی سیتکام سعی دارد تصویر آمریکا را به‌عنوان نیروی «غیرنظامی» نشان دهد",
+            "این ادعا به‌منظور فشار بر جامعه بین‌المللی علیه سپاه طراحی شده است",
+            "سپاه ایران این نکته را رد کرده و به‌دستگاه‌های دفاعی خود اطمینان می‌دهد"
+        ],
+        "impact": "می‌تواند دیدگاه‌های بین‌المللی را نسبت به مسئولیت‌های انسانی در جنگ تغییر دهد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YMzBEWlZQcWRja0YzRXVtalpHVGd6ZHZvSnBzUVphSXFMNlFqU1NXVXNkaFZkM0g0M0tUdzdlVEJlbC1IQS03VHJQMnZVZVM1NGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YMzBEWlZQcWRja0YzRXVtalpHVGd6ZHZvSnBzUVphSXFMNlFqU1NXVXNkaFZkM0g0M0tUdzdlVEJlbC1IQS03VHJQMnZVZVM1NGc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788379526.0
     },
     {
         "id": "1464c066f0",
@@ -5057,90 +5150,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFhkRnRzak5Ma1JHdTZLUVcwS1ZDd0Q0VTdsS3QyeHVJeUdNc2otVDZ5NHNxRTBHVmFVNlctLW1acm1NZ0lKbTY3ejByZkhacUJ0UUNnUm84aGp5MTZseDU2aHdodHlPYkZleDBwc0E2ZnpzSndteVBFeVEwYXBONGRNVDExTGVWUk03MzdiUmRKbS1uQVE",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788184146.0
-    },
-    {
-        "id": "f5cae9c81f",
-        "title_fa": "ترامپ Posts AI Slop as ایران جنگ Reignites",
-        "title_en": "Trump Posts AI Slop as Iran War Reignites",
-        "summary": [
-            "The president is posting AI slop about the Iran war as the two sides exchanged strikes for the first time in weeks."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-posts-ai-slop-iran-131753022.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-posts-ai-slop-iran-131753022.html",
-        "image": "https://www.bing.com/th?id=ONUT.SJNWDv0SpZWOzGLpSQStuQ",
-        "timestamp": 1788183569.3375273
-    },
-    {
-        "id": "8adb4f2cba",
-        "title_fa": "واشنگتن دو قرارداد صلح شکست خورده دارد و هر دو به یک شکل شکست خوردند",
-        "title_en": "Washington has two failed peace deals and both failed the same way",
-        "summary": [
-            "The sixty-day window that Washington and Tehran gave themselves to end their war expired on August 17 without an agreement, leaving the two sides deadlocked over the Strait of Hormuz and the"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Middle East Monitor",
-        "url": "https://www.middleeastmonitor.com/20260831-washington-has-two-failed-peace-deals-and-both-failed-the-same-way/",
-        "clean_url": "https://www.middleeastmonitor.com/20260831-washington-has-two-failed-peace-deals-and-both-failed-the-same-way",
-        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/08/AA-20260831-42349259-42349257-GIANT_ANTIUS_BILLBOARD_DISPLAYED_IN_TEHRAN_AMID_RISING_IRANUS_TENSIONS.jpg?fit=920%2C613&ssl=1",
-        "timestamp": 1788182880.0
-    },
-    {
-        "id": "320212132c",
-        "title_fa": "جنگ ایران و آمریکا زنده: ترامپ می‌گوید ارتش آمریکا همچنان ممکن است به ایران ضربه بزند",
-        "title_en": "Iran-US war live: Trump says American military may still 'smack' Iran",
-        "summary": [
-            "Iran-US war latest: Trump says American military may still ‘smack’ Iran despite it being a ‘failed nation’ - Trump vowed retaliation for Iranian strikes on US military bases in Jordan..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/iran-us-war-live-trump-says-american-military-may-still-smack-iran/ar-AA2beUF6",
-        "clean_url": "https://www.msn.com/en-gb/news/other/iran-us-war-live-trump-says-american-military-may-still-smack-iran/ar-AA2beUF6",
-        "image": "http://www.bing.com/th?id=ONUT.dTqZGcgiQEj1Unfqm9Bi4A&pid=News",
-        "timestamp": 1788182799.0
-    },
-    {
-        "id": "5aeecab4bb",
-        "title_fa": "Donald ترامپ says US will hit ایران ‘hard’ as conflict reignites",
-        "title_en": "Donald Trump says US will hit Iran ‘hard’ as conflict reignites",
-        "summary": [
-            "Donald Trump says US will hit Iran ‘hard’ as conflict reignites Financial Times"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUYwb2Y0RnFESWdoUWRnSUtya3owcWNkQmFXSDNuVTBuaDduVTFfbFdsVTFyYmN2cTFkQjRRVDQ0ZEZaMWh1MDd3SlFua25wRkk0RzlGUWlMa3RpWlJPSzB5Sm9FeWNkdlUyZkU5WEIwWERiNEVwNkhsN3Z1Y0lwWTZiYnI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUYwb2Y0RnFESWdoUWRnSUtya3owcWNkQmFXSDNuVTBuaDduVTFfbFdsVTFyYmN2cTFkQjRRVDQ0ZEZaMWh1MDd3SlFua25wRkk0RzlGUWlMa3RpWlJPSzB5Sm9FeWNkdlUyZkU5WEIwWERiNEVwNkhsN3Z1Y0lwWTZiYnI",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788182533.0
-    },
-    {
-        "id": "b2163bb68a",
-        "title_fa": "اسپانیا روز سه شنبه کاهش قیمت سوخت را آغاز کرد",
-        "title_en": "Spain launches new fuel price cuts on Tuesday",
-        "summary": [
-            "The measures set out in the government's crisis response plan automatically adapt to the current state of prices..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "SUR in English",
-        "url": "https://www.surinenglish.com/spain/fuel-price-comes-20260901134711-nt.html",
-        "clean_url": "https://www.surinenglish.com/spain/fuel-price-comes-20260901134711-nt.html",
-        "image": "https://www.bing.com/th?id=ONUT.JwjgtpGbweNMQ7UxwEzuoQ",
-        "timestamp": 1788181991.0
     }
 ]
