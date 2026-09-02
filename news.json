@@ -425,6 +425,23 @@
         "timestamp": 1788282789.1931891
     },
     {
+        "id": "3e3b216997",
+        "title_fa": "سازمان ملل در آستانه مجمع عمومی با رای مناقشه برانگیز هسته‌ای ایران مواجه است",
+        "title_en": "UN faces contentious Iran nuclear vote ahead of General Assembly",
+        "summary": [
+            "Diplomats say a vote raises the prospect of vetoes by both Russia and China. Read more at straitstimes.com. Read more at straitstimes.com."
+        ],
+        "impact": "...",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/united-states/un-faces-contentious-iran-nuclear-vote-ahead-of-general-assembly",
+        "clean_url": "https://www.straitstimes.com/world/united-states/un-faces-contentious-iran-nuclear-vote-ahead-of-general-assembly",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/97cb72ceae7c8139d63944b73fe7896eb084fca07d58ce243138de18fb09dcdf",
+        "timestamp": 1788282360.0
+    },
+    {
         "id": "2a579ae1bb",
         "title_fa": "با تشدید جنگ، ایالات متحده حملات جدیدی را علیه ایران انجام می‌دهد",
         "title_en": "US launches new strikes against Iran as war escalates",
@@ -559,6 +576,23 @@
         "clean_url": "https://tass.com/world/2180931",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1788278460.0
+    },
+    {
+        "id": "da914b85e4",
+        "title_fa": "ارتش آمریکا آخرین حملات علیه ایران را تکمیل می‌کند، در حالی که ترامپ قول تلافی بیشتر تهران را می‌دهد",
+        "title_en": "US military completes latest strikes against Iran, while Trump vows more for Tehran's retaliation",
+        "summary": [
+            "U.S. Central Command says it has completed its latest round of attacks against Iranian military targets, while President Donald Trump vowed more strikes for Tehran’s retaliation. U.S. forces struck..."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-military-completes-latest-strikes-against-iran-while-trump-vows-more-for-tehran-s-retaliation/ar-AA2bm2Qa",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-military-completes-latest-strikes-against-iran-while-trump-vows-more-for-tehran-s-retaliation/ar-AA2bm2Qa",
+        "image": "http://www.bing.com/th?id=ONUT.Q8rN-nX9VNV8OfUDY3dtmw&pid=News",
+        "timestamp": 1788278100.0
     },
     {
         "id": "8c0b4b2bc6",
@@ -5064,39 +5098,5 @@
         "clean_url": "https://www.ms.now/opinion/toilet-paper-trump-canada-trade-war-inflation",
         "image": "https://www.bing.com/th?id=ONUT.vJNCtjKdo-azuH10Lr8FSQ",
         "timestamp": 1788084585.2576158
-    },
-    {
-        "id": "13f8518037",
-        "title_fa": "ترامپ's ایران جنگ sparks rare rift with top نظامی leaders over what comes next",
-        "title_en": "Trump's Iran war sparks rare rift with top military leaders over what comes next",
-        "summary": [
-            "The warning came from Army, Navy, and Air Force chiefs and four-star commanders overseeing US operations in Europe, Asia, and Latin America..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "MEAWW News on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/trump-s-iran-war-sparks-rare-rift-with-top-military-leaders-over-what-comes-next/ar-AA2bdVFm",
-        "clean_url": "https://www.msn.com/en-us/politics/government/trump-s-iran-war-sparks-rare-rift-with-top-military-leaders-over-what-comes-next/ar-AA2bdVFm",
-        "image": "http://www.bing.com/th?id=ONUT.QXZ3Y9Xzi2-befi22l7t3A&pid=News",
-        "timestamp": 1788084280.0
-    },
-    {
-        "id": "55b3453198",
-        "title_fa": "متحد ایستاده ایم: ماموریت مادام العمر آیت الله خامنه ای برای اتحاد مسلمانان در برابر توطئه های خصمانه دشمنان",
-        "title_en": "United we stand: Ayatollah Khamenei’s lifelong mission to unite Muslims against enemies’ hostile plots",
-        "summary": [
-            "Ayatollah Seyyed Ali Khamenei consistently and unwaveringly championed Muslim unity as a religious principle and a source of..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/08/30/775338/Ayatollah-Khamenei-lifelong-mission-unite-Muslims-against-enemies-hostile-plots",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/08/30/775338/Ayatollah-Khamenei-lifelong-mission-unite-Muslims-against-enemies-hostile-plots",
-        "image": "https://www.bing.com/th?id=ONUT.CghQCuZllhFFBM8KP6EhkQ",
-        "timestamp": 1788082631.7755318
     }
 ]
