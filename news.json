@@ -1,5 +1,24 @@
 [
     {
+        "id": "a1181a5ea6",
+        "title_fa": "بحران گرسنگی در ایران",
+        "title_en": "The Next Iran Crisis: Starvation",
+        "summary": [
+            "تحریم‌های بین‌المللی و سقوط ارزش پول، دسترسی به مواد غذایی اساسی را به‌سختی میسر می‌کند.",
+            "کاهش تولید داخلی و مشکلات زنجیره تأمین، نرخ گرسنگی را به‌خصوص در مناطق حاشیه‌ای بالا برده است.",
+            "اگر وضعیت بهبود نیابد، احتمال بروز ناآرامی‌های اجتماعی و مهاجرت‌های گسترده افزایش می‌یابد."
+        ],
+        "impact": "تشدید ناآرامی‌های داخلی و فشار بر منابع انسانی و بهداشتی کشور",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Middle East Forum",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GbDA4WWVCd21nMWlXYndfRHNWc0xoRWc0STgwRndtM2J2cmJDVmdQZ2p5QkY3WUYtRm5PU0VVRGxqLVVraWNOdUx1TnNwVlBtR2pHWEttSW0xT2djZEpBUzZPd0R4cnVtbklpaFpGdE1tRnQ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GbDA4WWVCd21nMWlXYndfRHNWc0xoRWc0STgwRndtM2J2cmJDVmdQZ2p5QkY3WUYtRm5PU0VVRGxqLVVraWNOdUx1TnNwVlBtR2pHWEttSW0xT2djZEpBUzZPd0R4cnVtbklpaFpGdE1tRnQ3",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788379801.0
+    },
+    {
         "id": "1464c066f0",
         "title_fa": "ترامپ به استفاده از سلاح هسته‌ای علیه ایران فکر می‌کند",
         "title_en": "Trump contemplates using nukes against Iran",
@@ -1842,6 +1861,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-warns-of-biggest-attack-of-them-all-after-fresh-strikes-live/ar-AA2bjqOd",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bjPXc.img?w=534&h=356&m=6&x=205&y=177&s=325&d=325",
         "timestamp": 1788296116.0
+    },
+    {
+        "id": "ee13bfbaa2",
+        "title_fa": "هشدار تند ترامپ به ایران",
+        "title_en": "US NEWS LIVE: Trump’s Iran Decision Sparks Global Tensions, World on Edge | US Iran War Update",
+        "summary": [
+            "ترامپ در ملاقات با نتانیاهو گفت: «اگر ایران تهدید کرد، کار را تمام می‌کنم»؛ تهدید مستقیم به تدارکات نظامی ایران.",
+            "بیان این حرف باعث نگرانی در بازارهای نفت و سهام شد؛ قیمت نفت در ساعت‌های بعدی صعود کرد.",
+            "نتانیاهو واکنش حمایتی نشان داد و گفت ایالات متحده و اسرائیل برای مقابله با تهدیدات هسته‌ای متحدند."
+        ],
+        "impact": "افزایش خطر عملیات نظامی مستقیم یا فشار اقتصادی شدید علیه ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "military-stuff",
+        "url": "https://www.military-stuff.org/us-news-live-trumps-iran-decision-sparks-global-tensions-world-on-edge-us-iran-war-update/",
+        "clean_url": "https://www.military-stuff.org/us-news-live-trumps-iran-decision-sparks-global-tensions-world-on-edge-us-iran-war-update",
+        "image": "https://i.ytimg.com/vi/Ligg7fGOxe8/maxresdefault_live.jpg",
+        "timestamp": 1788295284.0
     },
     {
         "id": "f849ca8aa0",
@@ -5104,39 +5142,5 @@
         "clean_url": "https://www.surinenglish.com/spain/fuel-price-comes-20260901134711-nt.html",
         "image": "https://www.bing.com/th?id=ONUT.JwjgtpGbweNMQ7UxwEzuoQ",
         "timestamp": 1788181991.0
-    },
-    {
-        "id": "0ff5c1e374",
-        "title_fa": "با تشدید جنگ آمریکا، ایران به دنبال حمایت از دوست ترامپ است",
-        "title_en": "Iran Looks to Trump Friend for Support as US War Intensifies",
-        "summary": [
-            "For India, uncertainties about the U.S. war \"have only strengthened the case for continued diplomatic engagement with Iran.\"..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/iran-looks-to-trump-friend-for-support-war-intensifies-india-12387149",
-        "clean_url": "https://www.newsweek.com/iran-looks-to-trump-friend-for-support-war-intensifies-india-12387149",
-        "image": "http://www.bing.com/th?id=ONUT._UeI4PkNu2ybBxowRaX_VA&pid=News",
-        "timestamp": 1788181680.0
-    },
-    {
-        "id": "53e942c411",
-        "title_fa": "Six months into US-ایران جنگ: Strait of Hormuz crisis, global economic shock and India’s strategic test",
-        "title_en": "Six months into US-Iran war: Strait of Hormuz crisis, global economic shock and India’s strategic test",
-        "summary": [
-            "In Shishir Gupta’s assessment, the failure to produce a regime-changing outcome means that Iran has neither capitulated nor..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/six-months-into-us-iran-war-strait-of-hormuz-crisis-global-economic-shock-and-indias-strategic-test-101788177059195.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/six-months-into-us-iran-war-strait-of-hormuz-crisis-global-economic-shock-and-indias-strategic-test-101788177059195.html",
-        "image": "https://www.bing.com/th?id=ONUT.GMvxyW1ovSRoiAZ2T5lQmw",
-        "timestamp": 1788181644.479428
     }
 ]
