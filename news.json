@@ -1,5 +1,25 @@
 [
     {
+        "id": "91d6380f87",
+        "title_fa": "آمریکا بزرگ‌ترین تهدید اقتصادی استرالیا",
+        "title_en": "We’re all paying a Trump tax — because the US is our biggest economic threat",
+        "summary": [
+            "توافق تجاری آمریکا‑استرالیا باعث کسری تجاری نزدیک به ۳۷۰ میلیارد دلار شد",
+            "کسر تجاری با چین بیش از ۷۷۰ میلیارد دلار است؛ نشان‌دهنده وابستگی اقتصادی نامتعادل است",
+            "قوانین کپی‌رایت تحمیل‌شده توسط آمریکا به صنایع خلاق استرالیا آسیب زد",
+            "استرالیا برای کاهش وابستگی به آمریکا باید تنوع‌پذیری تجاری را تقویت کند"
+        ],
+        "impact": "کاهش توان رقابتی اقتصادی استرالیا در برابر آمریکا",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Crikey",
+        "url": "https://www.crikey.com.au/2026/09/03/us-government-debt-bonds-surging-donald-trump/",
+        "clean_url": "https://www.crikey.com.au/2026/09/03/us-government-debt-bonds-surging-donald-trump",
+        "image": "https://www.bing.com/th?id=ONUT.rwCipW1dy_7Epv4C7APBqw",
+        "timestamp": 1788392359.5053988
+    },
+    {
         "id": "3d65299758",
         "title_fa": "چین و اروپا به خطر استراتژیک هورموز پی بردند",
         "title_en": "Iran conflict 'laid bare' Europe and China's dependence on the Strait of Hormuz: Conway",
@@ -111,6 +131,26 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-cyberattacks-targeted-critical-us-infrastructure/ar-AA2bofvW",
         "image": "https://www.bing.com/th?id=ONUT.dy96cm4Rfw5WMxYFnpv_ww",
         "timestamp": 1788383534.3619776
+    },
+    {
+        "id": "54c25f57f1",
+        "title_fa": "نتانیاهو در حضور دانش‌آموزان یشوا سرود راست‌گرا می‌خواند",
+        "title_en": "Netanyahu seen nodding as yeshiva students sing song popular with far right",
+        "summary": [
+            "نتانیاهو در مراسمی با دانش‌آموزان یشوا سرودی محبوب جناح راست می‌خواند",
+            "این صحنه نشان‌دهنده نفوذ رویکردهای افراطی در فضای سیاسی اسرائیل است",
+            "احتمال تقویت رادیکالیسم و تأثیر بر روابط داخلی و بین‌المللی اسرائیل وجود دارد",
+            "در حال حاضر پیامدهای امنیتی فوری ندارد"
+        ],
+        "impact": "تقویت رادیکالیسم در فضای سیاسی اسرائیل",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/pm-seen-nodding-as-yeshiva-students-sing-song-about-taking-vengeance-against-palestinians/ar-AA2brzf2",
+        "clean_url": "https://www.msn.com/en-us/news/other/pm-seen-nodding-as-yeshiva-students-sing-song-about-taking-vengeance-against-palestinians/ar-AA2brzf2",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788382981.0
     },
     {
         "id": "a3fe1b7c9a",
@@ -1215,6 +1255,26 @@
         "clean_url": "https://www.al-monitor.com/originals/2026/09/iran-vows-continued-military-action-amid-renewed-hostilities-us",
         "image": "http://www.bing.com/th?id=ONUT.AitjqKTTPtqqO6qJPaZkYQ&pid=News",
         "timestamp": 1788330900.0
+    },
+    {
+        "id": "7ca0c39543",
+        "title_fa": "ترامپ آماده حمله به ایران؛ اسرائیل به لبنان و ایران",
+        "title_en": "Israel carries out 7 strikes in southern Lebanon in evening, 3 targeting Ali Taher | LIVE",
+        "summary": [
+            "بیانیه ترامپ نشان‌دهنده آمادگی فوری ایالات متحده برای حمله نظامی به ایران است",
+            "حملات هوایی اسرائیل به جنوب لبنان هدف‌های مرتبط با حزب‌الله را هدف گرفتند",
+            "حمله هوایی آمریکا در ایران ۱۸ کشته و ۱۰۸ مجروح ایجاد کرد؛ خطر تشدید تنش‌های منطقه‌ای",
+            "این مجموعه اقدام‌ها می‌تواند نوسان شدید قیمت نفت و بی‌ثباتی امنیتی را به دنبال داشته باشد"
+        ],
+        "impact": "افزایش خطر جنگ منطقه‌ای و نوسان شدید قیمت نفت",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "L'Orient Today",
+        "url": "https://today.lorientlejour.com/article/1546305/us-strikes-kill-at-least-11-in-iran-tehran-claims-retaliatory-attacks-on-bahrain-jordan-iraq-israel-intensifies-strikes-on-ali-taher-and-mansouri-in-s.html",
+        "clean_url": "https://today.lorientlejour.com/article/1546305/us-strikes-kill-at-least-11-in-iran-tehran-claims-retaliatory-attacks-on-bahrain-jordan-iraq-israel-intensifies-strikes-on-ali-taher-and-mansouri-in-s.html",
+        "image": "https://s.lorientlejour.com/storage/attachments/1547/2026-09-02T022113Z_2143204264_RC2QANAZC6JL_RTRMADP_3_IRAN-CRISIS-THAILAND-USA_615890.jpg/r/800/2026-09-02T022113Z_2143204264_RC2QANAZC6JL_RTRMADP_3_IRAN-CRISIS-THAILAND-USA_615890.jpg",
+        "timestamp": 1788330720.0
     },
     {
         "id": "a7fcdd848f",
@@ -5115,56 +5175,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-snaps-what-a-stupid-question-and-dramatically-ends-press-conference/vi-AA2blOLC",
         "image": "https://www.bing.com/th?id=ONUT.cXvh_FwLPQ8tEusP4sgrAQ",
         "timestamp": 1788189170.0
-    },
-    {
-        "id": "fc9eb882e5",
-        "title_fa": "هانتر بایدن اعتراف کرد که پدرش در ارسال سلاح به اسرائیل اشتباه کرده است",
-        "title_en": "Hunter Biden Admits His Father Was ‘Wrong’ To Send Weapons To Israel",
-        "summary": [
-            "Hunter Biden has offered a rare break from his usual defense of his father while discussing the war in Gaza. The Hunter Biden..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/hunter-biden-admits-father-wrong-141000637.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/hunter-biden-admits-father-wrong-141000637.html",
-        "image": "https://www.bing.com/th?id=ONUT.c5kYErX993NduI095izHuQ",
-        "timestamp": 1788189170.0
-    },
-    {
-        "id": "9a11e6e6d7",
-        "title_fa": "Crude Prices Jump as the US and ایران Exchange حملهs",
-        "title_en": "Crude Prices Jump as the US and Iran Exchange Attacks",
-        "summary": [
-            "October WTI crude oil (CLV26 ) is up +1.82 (+2.18%) today, and October RBOB gasoline (RBV26 ) is up..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Barchart · via Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/crude-prices-jump-us-iran-152613187.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-jump-us-iran-152613187.html",
-        "image": "https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef.jpg",
-        "timestamp": 1788188818.0
-    },
-    {
-        "id": "c25b020d3b",
-        "title_fa": "ایران که به تحریم‌ها عادت کرده، درد ناشی از فشارهای جدید ایالات متحده را ذکر می‌کند اما خم نمی‌شود",
-        "title_en": "Iran, accustomed to sanctions, cites pain of new U.S. pressure but doesn’t bend",
-        "summary": [
-            "Iran, accustomed to sanctions, cites pain of new U.S. pressure but doesn’t bend The Washington Post"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3ZpU1VSZGhaaEd4SkpVb3dmTU82ekF3ckFjVXQzcFBBZXhSWnhCenVBUXZKbUlkWEdfVVdKaWNscDRzd1IzOU9XeEt0ZzgyMjRKMlZtOGZXRXJoVmpwRTQ1NmJLUUFWd0VTQ1lYNnV6a0w0cEt0UDhPc3BpTGN1eUJKSWhtbGxhcmpER3ZMZG1xUXdjVEc3NGhjOTIzUjByT3V5Q1V0dF9WSEdGbGNV?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3ZpU1VSZGhaaEd4SkpVb3dmTU82ekF3ckFjVXQzcFBBZXhSWnhCenVBUXZKbUlkWEdfVVdKaWNscDRzd1IzOU9XeEt0ZzgyMjRKMlZtOGZXRXJoVmpwRTQ1NmJLUUFWd0VTQ1lYNnV6a0w0cEt0UDhPc3BpTGN1eUJKSWhtbGxhcmpER3ZMZG1xUXdjVEc3NGhjOTIzUjByT3V5Q1V0dF9WSEdGbGNV",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788188360.0
     }
 ]
