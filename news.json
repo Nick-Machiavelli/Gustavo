@@ -812,6 +812,23 @@
         "timestamp": 1788445140.0
     },
     {
+        "id": "dbf1972a2b",
+        "title_fa": "ریال ایران در سقوط آزاد: چگونه تحریم‌های آمریکا زندگی روزمره را تغییر می‌دهد، افکار عمومی برای مردم ایران",
+        "title_en": "Iran's Rial in Free Fall: How US Sanctions Are Reshaping Daily Life, Public Opinion for the Iranian People",
+        "summary": [
+            "A woman walks on a street in Tehran, Iran, Sept. 2, 2026. Photo: Majid Asgaripour/WANA (West Asia News Agency) via"
+        ],
+        "impact": "...",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "Algemeiner",
+        "url": "https://www.algemeiner.com/2026/09/03/irans-rial-free-fall-how-us-sanctions-reshaping-daily-life-public-opinion-iranian-people/",
+        "clean_url": "https://www.algemeiner.com/2026/09/03/irans-rial-free-fall-how-us-sanctions-reshaping-daily-life-public-opinion-iranian-people",
+        "image": "https://www.algemeiner.com/wp-content/uploads/2026/09/2026-09-03T150155Z_2_LYNXMPEM821HQ_RTROPTP_4_IRAN-CRISIS-1.jpg",
+        "timestamp": 1788443700.0
+    },
+    {
         "id": "807c31aecf",
         "title_fa": "قیمت نفت به دلیل جنگ ایران ادامه دارد",
         "title_en": "Oil Extends Rally With Iran Conflict Seen Dragging On",
@@ -2253,6 +2270,23 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-conflict-laid-bare-europe-and-chinas-dependence-on-the-strait-of-hormuz-conway/vi-AA2brpi7",
         "image": "https://www.bing.com/th?id=ONUT.GyiTsIcE0b3FO0vnu_5elw",
         "timestamp": 1788388851.90357
+    },
+    {
+        "id": "d60c57633f",
+        "title_fa": "بسته بندی صبح: ASX 200 در حال جهش است، S&P 500 در حالی که بازدهی یک نفس طول می‌کشد، روند سه روزه باخت را پشت سر می‌گذارد.",
+        "title_en": "Morning wrap: ASX 200 to bounce, S&P 500 snaps three-day losing streak as yields take a breather",
+        "summary": [
+            "ASX 200 futures are up 38 pts (-0.42%) as US benchmarks bounce, yields ease and oil settles flat."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Market Index",
+        "url": "https://www.msn.com/en-au/news/other/morning-wrap-asx-200-to-bounce-s-p-500-snaps-three-day-losing-streak-as-yields-take-a-breather/ar-AA2brzJ8",
+        "clean_url": "https://www.msn.com/en-au/news/other/morning-wrap-asx-200-to-bounce-s-p-500-snaps-three-day-losing-streak-as-yields-take-a-breather/ar-AA2brzJ8",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788388662.0
     },
     {
         "id": "65b5e335f4",
@@ -5369,39 +5403,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-clarifies-that-he-is-not-accusing-security-officials-of-betrayal-on-oct-7-just-failure",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/image-18.png",
         "timestamp": 1788294900.0
-    },
-    {
-        "id": "cbb238ea2d",
-        "title_fa": "به روز رسانی زنده ایران: پس از انجام حملات، آمریکا نسبت به تشدید تنش در صورت پاسخ ایران هشدار می‌دهد",
-        "title_en": "Iran live updates: After launching strikes, US warns of escalation if Iran responds",
-        "summary": [
-            "The strikes follow attacks against commercial shipping and service members."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-after-launching-strikes-us-warns-of-escalation-if-iran-responds/ar-AA2bg0t7",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-after-launching-strikes-us-warns-of-escalation-if-iran-responds/ar-AA2bg0t7",
-        "image": "http://www.bing.com/th?id=ONUT.JOYGLvbu8bJwmWC9Ab_zqw&pid=News",
-        "timestamp": 1788292800.0
-    },
-    {
-        "id": "a4b5fb2d7f",
-        "title_fa": "آژانس بین‌المللی انرژی اتمی پیشرفت در تحقیقات سوریه را گزارش می‌دهد، اما در ایران هیچ اتفاقی نیفتاده است",
-        "title_en": "IAEA reports progress in Syria investigation, none in Iran",
-        "summary": [
-            "IAEA reports progress in Syria investigation, none in Iran Reuters"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWJkQnpXaUwtdTBFczlaR1piOG9rcHdpVFVwZ3ZyNzR2UUdaWGo3RV9HaDNGenp2TkI5NlBER2J3WDJGVVFYVkYyUnJISDgzYVRGd0paWmd6SnBDRHliMVVvMFdMMHBpbWVoQ041bkpyaWxNS0dPajRhTkRoZnRoUzdyaXVMYzZpRjBQRFBFOG94WDNBenB3WXU3TTlVOWVMTkhzQjZoRWsyUEx4NkRJYkVZM2tkR1BXQUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTWJkQnpXaUwtdTBFczlaR1piOG9rcHdpVFVwZ3ZyNzR2UUdaWGo3RV9HaDNGenp2TkI5NlBER2J3WDJGVVFYVkYyUnJISDgzYVRGd0paWmd6SnBDRHliMVVvMFdMMHBpbWVoQ041bkpyaWxNS0dPajRhTkRoZnRoUzdyaXVMYzZpRjBQRFBFOG94WDNBenB3WXU3TTlVOWVMTkhzQjZoRWsyUEx4NkRJYkVZM2tkR1BXQUE",
-        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788292339.0
     }
 ]
