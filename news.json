@@ -1,5 +1,24 @@
 [
     {
+        "id": "32c65b8cd5",
+        "title_fa": "برگزاری اجلاس برکس در دهلی نوین",
+        "title_en": "BRICS Comes to New Delhi",
+        "summary": [
+            "اجلاس برکس ۱۴-۱۵ سپتامبر در دهلی برگزار می‌شود",
+            "حضور روسیه، چین، هند، برزیل و آفریقای جنوبی در زمان تنش‌های خاورمیانه و اوکراین",
+            "تصمیمات اقتصادی این نشست می‌تواند جریان سرمایه‌گذاری‌های منطقه‌ای را تحت تأثیر قرار دهد"
+        ],
+        "impact": "تقویت همکاری‌های اقتصادی برکس، ممکن است فشار بر نظام‌های مالی غربی را افزایش دهد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/opinion/world/brics-comes-to-new-delhi-article-156034158",
+        "clean_url": "https://www.timesnownews.com/opinion/world/brics-comes-to-new-delhi-article-156034158",
+        "image": "https://www.bing.com/th?id=ONUT.5FjOIjL2zy4muha-mHT4eQ",
+        "timestamp": 1788412766.3646364
+    },
+    {
         "id": "6b9ff96331",
         "title_fa": "انتخابات اولیه آمریکا و شکست‌های سیاسی تازه",
         "title_en": "The primary is over now come the primetime mistakes",
@@ -74,6 +93,25 @@
         "clean_url": "https://www.upi.com/Top_News/World-News/2026/09/02/asan-institute-nuclear-weapons-north-korea/4091788393486",
         "image": "https://www.bing.com/th?id=ONUT.uJLWCgPXVl2y5Sen08dA-A",
         "timestamp": 1788394907.6990845
+    },
+    {
+        "id": "57cdae8a58",
+        "title_fa": "ایران واکنش به «عملیات خروج اقتصادی»؛ فشارهای جدید",
+        "title_en": "Iran Responds to \"Operation Economic Outcast\"",
+        "summary": [
+            "ایالات متحده با مسدودیت‌های دریایی و تحریم‌های جدید فشار اقتصادی بر ایران را تشدید کرده",
+            "داخل ایران بحث‌های داخلی درباره پاسخ نظامی یا اقتصادی ادامه دارد، اما هنوز تصمیم‌گیری نهایی نیست",
+            "تداوم حملات به زیرساخت‌های نظامی ایران، اما اجتناب از هدف‌های غیرنظامی اقتصادی"
+        ],
+        "impact": "تشدید فشار اقتصادی بر جمعیت ایران و احتمال تغییر استراتژی داخلی",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Soufan Center",
+        "url": "https://thesoufancenter.org/intelbrief-2026-september-3/",
+        "clean_url": "https://thesoufancenter.org/intelbrief-2026-september-3",
+        "image": "https://thesoufancenter.org/wp-content/uploads/2026/09/AP26245588981544-scaled.jpg",
+        "timestamp": 1788393600.0
     },
     {
         "id": "91d6380f87",
@@ -468,6 +506,24 @@
         "timestamp": 1788378128.0
     },
     {
+        "id": "ffe48724fa",
+        "title_fa": "حمله ایران به کویت؛ ترامپ می‌گوید جنگ طولانی نمی‌شود",
+        "title_en": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+        "summary": [
+            "ارتش کویت گزارش کرد موشک و پهپادهای ایرانی به خاکش شلیک شد",
+            "ترامپ اعلام کرد تنش‌های خاورمیانه «زیاد زمان نخواهد برد» و تهدید به اقدام‌ها بیشتر کرد"
+        ],
+        "impact": "تحریک واکنش نظامی کویت و احتمال گسترش درگیری به کشورهای همسایه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "CNBC on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-attacks-kuwait-as-trump-says-renewed-mideast-hostilities-will-not-last-too-long/ar-AA2bsffs",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-attacks-kuwait-as-trump-says-renewed-mideast-hostilities-will-not-last-too-long/ar-AA2bsffs",
+        "image": "http://www.bing.com/th?id=ONUT.vxZdK4GqmE-wUZjt70Z6cQ&pid=News",
+        "timestamp": 1788377192.0
+    },
+    {
         "id": "e48a240b59",
         "title_fa": "بیسنت: ایران به سمت فروپاشی سریع می‌رود",
         "title_en": "Bessent: Iran is in a \"death spiral,\" state will collapse \"slowly, then quickly\"",
@@ -702,6 +758,43 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQazJuODZHeW45dmRSY1hzUVRLQ1JfYlZoNFY0S0VHYWtpZEFRVUl6dlhlUHlzN3liSV9FWFNkM3RKZVBZSlhCTGViYWtOSUlSWk13YzNJMTZ5ZmI5TXFLWnZOSnQ5VmZ3SlRHOGpfemlCeDQ3ajgwUEpTTDc4YkFSVko2cjc5ZjRqZDR3eUc5U0xQUXlxdmRMbnpvcTNSNklkWlh3TC1yX0pIbDVzSnc1MnRZeERjNHJxNVhvSDdBcDZZUHplOEtIY1gyMVFVdDBScmhkaXRtdjFGaUxlaUxHamFoLTdQUlBzNWs3VjF1WkRxc3JfSFE",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788368662.0
+    },
+    {
+        "id": "aa43719015",
+        "title_fa": "تشدید جنگ ایران؛ مرگ‌ومیر غیرنظامیان در خطر",
+        "title_en": "Iran war escalation raises concern over civilian death toll",
+        "summary": [
+            "افزایش حملات هوایی آمریکا به سواحل ایران، تلفات غیرنظامی بالا رفت",
+            "جامعه بین‌المللی نگران افزایش مرگ‌ومیر غیرنظامیان و احتمال تشدید مناقشه است"
+        ],
+        "impact": "افزایش فشار نظامی بر زیرساخت‌های غیرنظامی ایران و تشدید واکنش‌های بین‌المللی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-war-escalation-raises-concern-over-civilian-death-toll-2026-09-03/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iran-war-escalation-raises-concern-over-civilian-death-toll-2026-09-03",
+        "image": "http://www.bing.com/th?id=ONUT.UKYrn2-OAiiCV_BdaXNjnA&pid=News",
+        "timestamp": 1788368400.0
+    },
+    {
+        "id": "c7aaf1b327",
+        "title_fa": "ترامپ تهدید به حملات بیشتر؛ تلفات ایران به ۱۸ رسید",
+        "title_en": "Trump threatens more strikes as death toll in Iran rises to 18",
+        "summary": [
+            "ترامپ گفت آمریکا می‌تواند هر زمان که بخواهد به ایران حمله کند",
+            "تلفات حملات اخیر آمریکا به ۱۸ کشته و بیش از ۱۰۸ مجروح رسید، شامل کودکان",
+            "ایران با حملات به پایگاه‌های آمریکایی در خاورمیانه پاسخ داد"
+        ],
+        "impact": "افزایش خطر برخورد مستقیم نظامی بین آمریکا و ایران، احتمال گسترش تلفات غیرنظامی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-more-strikes-death-014532516.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-threatens-more-strikes-death-014532516.html",
+        "image": "http://www.bing.com/th?id=ONUT.h1Fn9bsGxOqCjJfHj5cUfg&pid=News",
+        "timestamp": 1788368400.0
     },
     {
         "id": "befb562dbe",
@@ -5112,90 +5205,5 @@
         "clean_url": "https://www.presstv.co.uk/Detail/2026/08/31/775433/Iran-media-professionals-commitment-Leader-guidelines",
         "image": "https://www.bing.com/th?id=ONUT.HJ_cSsJyb7ikU33oyf2KCw",
         "timestamp": 1788199642.4324121
-    },
-    {
-        "id": "a033cc173b",
-        "title_fa": "درگیری آمریکا و سپاه در تنگه هرمز؛ اردوغان به صهیونیسم اعلان جنگ داد TV7 اسرائیل نیوز - 31 آگوست.",
-        "title_en": "US, IRGC clash in Strait of Hormuz; Erdogan declares war on Zionism TV7 Israel News - 31 Aug.",
-        "summary": [
-            "US, IRGC clash in Strait of Hormuz; Erdogan declares war on Zionism TV7 Israel News - 31 Aug. TV7 Israel News"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpZWxkNEpPaWxKTEY5S3hqWkVfTDh3NE53WjhCZS1ldERuWGxFck9kTWhTMk82OU9uZWc0UUxQNDgyRjJDT2FpRDNJRjlvdzduWUZqV0NRWlFlOVU3bnpnMk85WnRpY3FTb1ZVaUNuVGZpZlJ6MVdV?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpZWxkNEpPaWxKTEY5S3hqWkVfTDh3NE53WjhCZS1ldERuWGxFck9kTWhTMk82OU9uZWc0UUxQNDgyRjJDT2FpRDNJRjlvdzduWUZqV0NRWlFlOVU3bnpnMk85WnRpY3FTb1ZVaUNuVGZpZlJ6MVdV",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788199450.0
-    },
-    {
-        "id": "975abd6103",
-        "title_fa": "آنچه که شرط احمدی نژاد موساد بود درست و غلط بود",
-        "title_en": "What the Mossad's Ahmadinejad Bet got right -- and wrong",
-        "summary": [
-            "Where the creative plan of the Mossad stumbled and what the plan for overthrowing Iran's current regime needs to succeed. Opinion."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Israel National News",
-        "url": "https://www.israelnationalnews.com/news/432530",
-        "clean_url": "https://www.israelnationalnews.com/news/432530",
-        "image": "https://2.a7.org/files/pictures/000/1154439.jpg",
-        "timestamp": 1788198900.0
-    },
-    {
-        "id": "c18930ac66",
-        "title_fa": "خزانه داری ایالات متحده دارایی های مرتبط با سپاه پاسداران انقلاب اسلامی را در سراسر جهان ردیابی می‌کند و به شرکت‌ها در مورد اقدام هشدار می‌دهد",
-        "title_en": "US Treasury tracks IRGC-linked assets worldwide, warns businesses of action",
-        "summary": [
-            "US Treasury freezes nearly $500 million in IRGC-linked assets including $131 million in crypto, warns digital asset firms of secondary sanctions..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-treasury-irgc-asset-freeze-crypto/",
-        "clean_url": "https://cryptobriefing.com/us-treasury-irgc-asset-freeze-crypto",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/01123351/library-us-treasury-tracks-irgc-linked-assets-worldwide-warns-bu-800x450.png",
-        "timestamp": 1788197982.0
-    },
-    {
-        "id": "f04dbc68d4",
-        "title_fa": "تحریم‌ها Watch (August 2026)",
-        "title_en": "Sanctions Watch (August 2026)",
-        "summary": [
-            "Sanctions Watch (August 2026) cepr.net"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "cepr.net",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwalBmZ0xrMzB2bnlCa3JHaThOajczbWlJREV0ZmFNX2tZNjVXeDd2blNicmttWDlxX0twX0djdVBlZm55dWRPQ2J1czF2MjNfbmVjREwteThPaXgtZUdVRE0wamZ6bjQxQ3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwalBmZ0xrMzB2bnlCa3JHaThOajczbWlJREV0ZmFNX2tZNjVXeDd2blNicmttWDlxX0twX0djdVBlZm55dWRPQ2J1czF2MjNfbmVjREwteThPaXgtZUdVRE0wamZ6bjQxQ3c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788197656.0
-    },
-    {
-        "id": "88c6e906db",
-        "title_fa": "ترامپ همزمان با تبادل آتش بین ایران و آمریکا در شعله ور شدن جدید، اقدام‌ها بیشتری را تهدید می‌کند",
-        "title_en": "Trump threatens further action as US and Iran exchange fire in new flare-up",
-        "summary": [
-            "Trump threatens further action as US and Iran exchange fire in new flare-up The Guardian"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUpmdGNNVndvczlTbUpBZ243RmpsZlEyOFpsQ3ZnMmxPaVFXMDhxdklkeEZkcHo1STdwYjE0YkVuVFpxdGdDSW43dXNqN3lXMmpzN0JhTFZmYnlpVVJUbzR3eEhTeUpLWEk0YnN5N3dyZTY1VW5wXzgyN1BFQXVycE80aWVMY3RmOVZ2Q1Q0b1Z2T0tmSWZ2eDFTWG9BVEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUpmdGNNVndvczlTbUpBZ243RmpsZlEyOFpsQ3ZnMmxPaVFXMDhxdklkeEZkcHo1STdwYjE0YkVuVFpxdGdDSW43dXNqN3lXMmpzN0JhTFZmYnlpVVJUbzR3eEhTeUpLWEk0YnN5N3dyZTY1VW5wXzgyN1BFQXVycE80aWVMY3RmOVZ2Q1Q0b1Z2T0tmSWZ2eDFTWG9BVEE",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788197220.0
     }
 ]
