@@ -1,5 +1,41 @@
 [
     {
+        "id": "c9881ec6b1",
+        "title_fa": "طرح پاردون ۲۵۰ زندانی توسط ترامپ",
+        "title_en": "Trump's controversial plan to pardon 250 jailbirds in one go is very much alive. His heart says 'WHAT A GESTURE!' His advisers are not so sure...",
+        "summary": [
+            "ترامپ قصد دارد ۲۵۰ زندانی را به‌صورت یکجا عفو کند تا سالگرد ۲۵۰ سالگی جمهوری را جشن بگیرد.",
+            "مشاوران او نسبت به این حرکت شک دارند؛ برخی آن را گام سیاسی و برخی را بازی‌مانند می‌دانند."
+        ],
+        "impact": "اگر اجرا شود، فشار سیاسی داخلی آمریکا افزایش می‌یابد و واکنش‌های مخالفان تقویت می‌شود.",
+        "tag": "پاردون",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Daily Mail",
+        "url": "https://www.dailymail.com/news/article-16102399/Trumps-controversial-plan-pardon-250-jailbirds-one-alive-heart-says-GESTURE-advisers-not-sure.html",
+        "clean_url": "https://www.dailymail.com/news/article-16102399/Trumps-controversial-plan-pardon-250-jailbirds-one-alive-heart-says-GESTURE-advisers-not-sure.html",
+        "image": "https://www.bing.com/th?id=ONUT.mLE2zM1jtXqxMEnjf5VcvA",
+        "timestamp": 1788455536.5412362
+    },
+    {
+        "id": "43e6491110",
+        "title_fa": "ایالات متحده در تلاش برای پایان جنگ شش‌ماهه با ایران",
+        "title_en": "The US Struggles to End the Six-Month Iran Conflict",
+        "summary": [
+            "دولت آمریکا هنوز نتوانسته راه حلی برای پایان درگیری شش ماهه با ایران پیدا کند.",
+            "تحریم‌های جدید و فشارهای دیپلماتیک به‌نظر می‌رسد اثر قابل‌توجهی نداشته باشد."
+        ],
+        "impact": "ادامه درگیری هزینه‌های نظامی و اقتصادی آمریکا را بالا می‌برد.",
+        "tag": "ایران-تعارض",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDYzVmRlUWVNaFE3UGR1dnBkZFFzZmJFOFIyd3JEVmNIVk1LZlNfcDNvYm9ueGJTVlRlXzJqcU1zWnJVcTNLTnlra3ZMc19acGx0N3M5cWVka293TmN3TUxZOFZVeV94bXpoMEdSX09TLUJ4Ym05Y1plR2VYN2Nxd1NWUmZzaFNHTk4taE56Z0ttYlRMSXB0aGlzYlRVVWF3TVdqNUR0QXpnN1VnaGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDYzVmRlUWVNaFE3UGR1dnBkZFFzZmJFOFIyd3JEVmNIVk1LZlNfcDNvYm9ueGJTVlRlXzJqcU1zWnJVcTNLTnlra3ZMc19acGx0N3M5cWVka293TmN3TUxZOFZVeV94bXpoMEdSX09TLUJ4Ym05Y1plR2VYN2Nxd1NWUmZzaFNHTk4taE56Z0ttYlRMSXB0aGlzYlRVVWF3TVdqNUR0QXpnN1VnaGc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788454557.0
+    },
+    {
         "id": "9178f38a3e",
         "title_fa": "معامله نفت ونزویول: آیا سودی می‌آورد؟",
         "title_en": "Will The U.S.’ Big, New Venezuelan Oil Deal End Up A Dry Hole?",
@@ -17,6 +53,24 @@
         "clean_url": "https://www.forbes.com/sites/steveforbes/2026/09/03/will-the-us-big-new-venezuelan-oil-deal-end-up-a-dry-hole",
         "image": "https://www.bing.com/th?id=ONUT.WRuO6okXVD8ddN1DYVkpNg",
         "timestamp": 1788453710.598927
+    },
+    {
+        "id": "0c96d393f8",
+        "title_fa": "ترامپ از مدیریت مهمات آمریکا در جنگ ایران دفاع می‌کند",
+        "title_en": "Trump defends handling of US munitions amid Iran conflict",
+        "summary": [
+            "ترامپ اعلام کرد که توزیع سلاح‌های آمریکا در منطقه تحت کنترل دقیق است.",
+            "او می‌گوید هیچ‌گونه استفاده نادرست از مهمات توسط نیروهای آمریکایی رخ نداده."
+        ],
+        "impact": "بیان این موضع می‌تواند فشار بین‌المللی بر آمریکا را کاهش دهد، اما انتقادات داخلی را تشدید می‌کند.",
+        "tag": "سلاح-امریکا",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0ktRXdsZlZqVGc2eWdWVk84M2ltYkRKOGcwU3B4OTh3RWR6V2hMbzgxZ2JNWTI4anByeHY4czlYcENpRFBjZjVTZDJjT3pTMENWUlZOR1hZeVhiV2lpZ3E2eWprTkNVbnp3enFTZ3FDTFFzdElOTDVMOGRuQ3Q4M0JqTTMwNUQxU1RlZVVub9IBlAFBVV95cUxQYUNyaVRPSkdOVTZaeWlvUFh5RXR0Q01veHJHQi14OVlkM3k0emQ1SWp4dUthV3V6Rl9qVTlaalRoeDVWTmc0RVY2Z1dWOFJHampwanVIM0FwZ21yYWxTNVphVG9tY2JMZEZXQVhQTjN1NmRCTm4wU3JtSWR0c2J6WHdCUlVIcktndXhlT3JIVERSSDFz?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0ktRXdsZlZqVGc2eWdWVk84M2ltYkRKOGcwU3B4OTh3RWR6V2hMbzgxZ2JNWTI4anByeHY4czlYcENpRFBjZjVTZDJjT3pTMENWUlZOR1hZeVhiV2lpZ3E2eWprTkNVbnp3enFTZ3FDTFFzdElOTDVMOGRuQ3Q4M0JqTTMwNUQxU1RlZVVub9IBlAFBVV95cUxQYUNyaVRPSkdOVTZaeWlvUFh5RXR0Q01veHJHQi14OVlkM3k0emQ1SWp4dUthV3V6Rl9qVTlaalRoeDVWTmc0RVY2Z1dWOFJHampwanVIM0FwZ21yYWxTNVphVG9tY2JMZEZXQVhQTjN1NmRCTm4wU3JtSWR0c2J6WHdCUlVIcktndXhlT3JIVERSSDFz",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788453060.0
     },
     {
         "id": "ca680ebe4f",
@@ -5317,56 +5371,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-rallies-concern-prolonged-disruption-152804006.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0.jpg",
         "timestamp": 1788277189.0
-    },
-    {
-        "id": "57b30d0183",
-        "title_fa": "ترامپ پس از حملات جدید آمریکا، ایران را به \"بزرگترین حمله از همه آنها\" تهدید کرد",
-        "title_en": "Trump Threatens Iran With ‘Biggest Attack of Them All’ After New US Strikes",
-        "summary": [
-            "U.S. military action resumed against Iranian-linked targets as the Trump administration paired renewed strikes with escalating economic pressure on Tehran."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/us-resumes-iran-war-strikes-economic-pressure-trump-12390872",
-        "clean_url": "https://www.newsweek.com/us-resumes-iran-war-strikes-economic-pressure-trump-12390872",
-        "image": "https://assets.newsweek.com/wp-content/uploads/2026/09/AP26212588786989.jpg?w=1200&crop=1",
-        "timestamp": 1788274980.0
-    },
-    {
-        "id": "d37e22da79",
-        "title_fa": "جنگ ایران: ترامپ می‌تواند به همان سیاست های شکست خورده ادامه دهد",
-        "title_en": "Iran war: Trump can continue the same failed policies",
-        "summary": [
-            "Bombing and sanctions have not worked. The US president must seize this moment to establish a comprehensive regional security framework"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/opinion/iran-war-trump-can-continue-same-failed-policies-or-shape-historic-legacy",
-        "clean_url": "https://www.middleeasteye.net/opinion/iran-war-trump-can-continue-same-failed-policies-or-shape-historic-legacy",
-        "image": "https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/us-trump-white-house-washington-august-2026-jim-watson-afp.jpg.webp?itok=DlfmP2tJ",
-        "timestamp": 1788274620.0
-    },
-    {
-        "id": "c8a83d2de4",
-        "title_fa": "وزیر ارتش درست قبل از استعفا به ترامپ درباره هگزت هشدار داد",
-        "title_en": "Army Secretary Warned Trump About Hegseth Just Before Resigning",
-        "summary": [
-            "Army Secretary Dan Driscoll—one of the highest ranking officials in the Defense Department—warned President Trump that Defense Secretary Pete Hegseth's mass purge of military leadership could have a..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/army-secretary-warned-trump-hegseth-142141537.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/army-secretary-warned-trump-hegseth-142141537.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/61d041446cea1e3481b1f1e5c2144d4d700c595aefcae5a7e668d6ebd70cc266/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_new_republic_521%2F0ea286597376b98a37638f0e0d29ba31.jpg",
-        "timestamp": 1788274010.7690425
     }
 ]
