@@ -1,5 +1,41 @@
 [
     {
+        "id": "50076411dc",
+        "title_fa": "گردنبند تاریخی با ریشه ایرانی دزدیده شد",
+        "title_en": "Stolen heritage",
+        "summary": [
+            "یک گردنبند ۲۰۰ قیراطی که قبلاً به ملکهٔ نازلی مصر تعلق داشت، در روزهای اخیر از موزه‌ای در وین سرقت شد.",
+            "این قطعه به عروسی ۱۹۳۹ فرزند فوزیا با محمدرضا پهلوی مرتبط است و ارزش تاریخی و نمادین بالایی دارد."
+        ],
+        "impact": "سرقت می‌تواند فشار بر بازارهای آثار باستانی و درخواست‌های بازگشت را افزایش دهد.",
+        "tag": "میراث",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Gulf Today",
+        "url": "https://www.gulftoday.ae/opinion/2026/09/03/stolen-heritage",
+        "clean_url": "https://www.gulftoday.ae/opinion/2026/09/03/stolen-heritage",
+        "image": "https://www.bing.com/th?id=ONUT.98Oq1av3navMRdsGVG8n9w",
+        "timestamp": 1788446495.4928691
+    },
+    {
+        "id": "0f871fc677",
+        "title_fa": "نویسندگان چپ نامه‌ای علیه جنگ ایران منتشر کردند",
+        "title_en": "When the left speaks the language of Empire against Iran",
+        "summary": [
+            "گروهی از روشنفکران چپ، از جمله آنجلا دیویس و جودیت باتلر، نامه‌ای به زندانیان سیاسی ایران فرستادند.",
+            "متن نامه با مقایسهٔ ناعادلانهٔ جمهوری اسلامی و نیروهای آمریکا‑اسرائیل، سعی در تضعیف مشروعیت دفاع ایران دارد."
+        ],
+        "impact": "این پیام می‌تواند حمایت بین‌المللی از موضع ایران را تحت فشار قرار دهد.",
+        "tag": "امپریالیسم",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "Middle East Monitor",
+        "url": "https://www.middleeastmonitor.com/20260903-when-the-left-speaks-the-language-of-empire-against-iran/",
+        "clean_url": "https://www.middleeastmonitor.com/20260903-when-the-left-speaks-the-language-of-empire-against-iran",
+        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/09/AA-20260903-42374652-42374651-TRACES_OF_US_ATTACKS_ON_TEHRAN-1.jpg?fit=920%2C613&ssl=1",
+        "timestamp": 1788446495.4924574
+    },
+    {
         "id": "56a7b5e457",
         "title_fa": "پیت هگزث در حال از دست دادن رهبران ارشد نظامی بود... سپس وزیر ارتش مستقیماً به سمت ترامپ رفت",
         "title_en": "Pete Hegseth was already losing senior military leaders... then the Army secretary went straight to Trump",
@@ -89,6 +125,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/to-rearm-the-military-needs-much-more-than-money/ar-AA2buFoi",
         "image": "https://www.bing.com/th?id=ONUT.Te0VoaJ2EA8Y3kPh2y7g6g",
         "timestamp": 1788441239.2934632
+    },
+    {
+        "id": "06d2eae1df",
+        "title_fa": "اسرای اسرائیل پنج زندانی لبنانی را آزاد کرد",
+        "title_en": "PM's office confirms Israel freeing 5 Lebanese civilian detainees as Beirut aids search for Jewish remains",
+        "summary": [
+            "اسرای اسرائیل پنج شهروند لبنانی را پس از فشار بین‌المللی آزاد کرد.",
+            "بروکسل و بیروت در حال هماهنگی برای جستجوی بقایای یهودیانی هستند که در لبنان دفن شده‌اند."
+        ],
+        "impact": "آزادسازی می‌تواند تنش‌های مرزی اسرائیل‑لبنان را کمی کاهش دهد.",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/pm-s-office-confirms-israel-freeing-5-lebanese-civilian-detainees-as-beirut-aids-search-for-jewish-remains/ar-AA2bugLV",
+        "clean_url": "https://www.msn.com/en-us/news/other/pm-s-office-confirms-israel-freeing-5-lebanese-civilian-detainees-as-beirut-aids-search-for-jewish-remains/ar-AA2bugLV",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260814__C4NY63K__v1__HighRes__LebanonIsraelIranUsWar-1024x640.jpg",
+        "timestamp": 1788440748.0
     },
     {
         "id": "73878856e1",
@@ -3227,6 +3281,24 @@
         "timestamp": 1788323400.0
     },
     {
+        "id": "40b39901c0",
+        "title_fa": "۱۷۰ دوربین ترافیکی جدید در تهران نصب شد",
+        "title_en": "۱۷۰ دوربین ترافیکی جدید در تهران نصب شد و شبکه نظارتی پایتخت گسترش یافت",
+        "summary": [
+            "تهران با نصب ۱۷۰ دوربین جدید، پوشش نظارتی شهر را به‌طور قابل توجهی گسترش داد.",
+            "در عین حال، گزارش‌هایی از فشار بر فروشندگان برای تحویل حافظهٔ دوربین‌ها به مقامات امنیتی در جریان اعتراضات دیماه دریافت شده است."
+        ],
+        "impact": "شبکهٔ نظارتی گسترده می‌تواند نظارت بر تخلفات رانندگی را بهبود بخشد اما خطر سوءاستفاده برای شناسایی معترضان را افزایش می‌دهد.",
+        "tag": "حمل_و_نقل",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609025143",
+        "clean_url": "https://www.iranintl.com/202609025143",
+        "image": "http://www.bing.com/th?id=ONUT.ZDAuelgYI_vQlze13Y8hLw&pid=News",
+        "timestamp": 1788322740.0
+    },
+    {
         "id": "d70edbf304",
         "title_fa": "ایرانian sanction, Chinese arena",
         "title_en": "Iranian sanction, Chinese arena",
@@ -5265,73 +5337,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/duplicitous-allies-deserve-trump-s-scrutiny/ar-AA2bkrJS",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788262867.362402
-    },
-    {
-        "id": "19df094ce9",
-        "title_fa": "جعل جنگ با ایران توسط هوش مصنوعی ترامپ ممکن است خیانت نهایی به اعتماد را ثابت کند",
-        "title_en": "Trump’s AI fakery of Iran war may prove the ultimate betrayal of trust",
-        "summary": [
-            "Trump’s AI fakery in Iran war may prove the ultimate betrayal of Americans’ trust, experts warn - ANALYSIS: Seven years ago,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-za/news/other/trump-s-ai-fakery-of-iran-war-may-prove-the-ultimate-betrayal-of-trust/ar-AA2bkCiN?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-za/news/other/trump-s-ai-fakery-of-iran-war-may-prove-the-ultimate-betrayal-of-trust/ar-AA2bkCiN",
-        "image": "https://www.bing.com/th?id=ONUT.rECAL4IsAvtBD5RyZNo7_w",
-        "timestamp": 1788262867.3619194
-    },
-    {
-        "id": "3475b7c765",
-        "title_fa": "بایکوت سبزها در کنار هم ایستادن نشان می‌دهد که آن حزب به چه چیزی تبدیل شده است",
-        "title_en": "The Green’s boycott of Standing Together exposes what that party has become",
-        "summary": [
-            "The message is that there are no Israelis pure enough or acceptable enough for anti-Zionists in the Green Party to talk to,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Jewish News",
-        "url": "https://www.jewishnews.co.uk/the-greens-boycott-of-standing-together-exposes-what-that-party-has-become/",
-        "clean_url": "https://www.jewishnews.co.uk/the-greens-boycott-of-standing-together-exposes-what-that-party-has-become",
-        "image": "https://www.bing.com/th?id=ONUT.RGclyvu0HBsE2bWktCAVTQ",
-        "timestamp": 1788262867.3616872
-    },
-    {
-        "id": "b8885359bc",
-        "title_fa": "ایران نسبت به واکنش شدید آمریکا به حملاتش به ایران - سپاه پاسداران انقلاب اسلامی - هشدار داد",
-        "title_en": "Iran warns US of severe response to its attacks on Iran — IRGC",
-        "summary": [
-            "The United States will regret its new attacks, IRGC spokesman Hossein Mohebi stated TEHRAN, September 1. /TASS/. Spokesman for the Islamic Revolutionary Guard Corps (IRGC, elite units of the Iranian army) Hossein Mohebi has warned the United States of a severe punishment for its renewed attacks on the Islamic Republic."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2180663",
-        "clean_url": "https://tass.com/world/2180663",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1788262740.0
-    },
-    {
-        "id": "db81ad2ace",
-        "title_fa": "جنگ، آخرین اخبار حمله هوایی آمریکا به فرودگاه غیرنظامی جیرفت ایران",
-        "title_en": "War, latest news. US air strike on the civilian airport in Jiroft, Iran",
-        "summary": [
-            "Tensions between the US and Iran in the Middle East have flared up again. Last night, an oil tanker was hit by gunfire in the Strait of Hormuz. Meanwhile, the US Army Secretary, Driscoll, has resigned following months of tension with Hegseth."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "en.ilsole24ore",
-        "url": "https://en.ilsole24ore.com/art/war-latest-news-iran-us-army-secretary-driscoll-resigns-AJ1jK9z",
-        "clean_url": "https://en.ilsole24ore.com/art/war-latest-news-iran-us-army-secretary-driscoll-resigns-AJ1jK9z",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/02/Immagini/Ritagli/LP_24707710-U37436722650xLU-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-        "timestamp": 1788262020.0
     }
 ]
