@@ -1,5 +1,65 @@
 [
     {
+        "id": "670f4cee79",
+        "title_fa": "نقض کارایی تیم ترامپ در دفاع و بهداشت",
+        "title_en": "From DHS to the Pentagon, Team Trump’s incompetence is on full display",
+        "summary": [
+            "گزارش‌ها نشان می‌دهد تیم ترامپ در وزارت امنیت داخلی و پنتاگون عملکرد ضعیفی دارد",
+            "بحران‌های بهداشتی و هزینه‌های زندگی در آمریکا در حال تشدید است",
+            "تمرکز رئیس‌جمهور بر مسائل شخصی باعث کاهش کارایی دولت شده",
+            "این وضعیت می‌تواند حمایت عمومی را بیشتر کاهش دهد"
+        ],
+        "impact": "کاهش کارایی دولت باعث تضعیف توان مقابله با بحران‌های داخلی و خارجی می‌شود",
+        "tag": "دفاع",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "ms",
+        "url": "https://www.ms.now/news/news-analysis/trump-administration-incompetence-iran-war-economy",
+        "clean_url": "https://www.ms.now/news/news-analysis/trump-administration-incompetence-iran-war-economy",
+        "image": "https://www.bing.com/th?id=ONUT.RTTxp2g3z_RJjXYGnAbI2A",
+        "timestamp": 1788430449.8861804
+    },
+    {
+        "id": "649b60c65b",
+        "title_fa": "نفت‌معامله ترامپ با ونزوئلا؛ تهدید دموکراسی",
+        "title_en": "Venezuelans: Trump's real crime isn't taking your oil — it's obstructing your democracy",
+        "summary": [
+            "ترامپ ادعا می‌کند کنترل نفت ونزوئلا را به دست گرفته",
+            "این معامله به‌نظر می‌رسد ادامهٔ فساد نفتی را تقویت می‌کند",
+            "انتقادهای داخلی و بین‌المللی به تجاوز اقتصادی آمریکا",
+            "احتمال تحریم‌های جدید علیه ونزوئلا افزایش می‌یابد"
+        ],
+        "impact": "تجارت نفتی جدید می‌تواند تحریم‌های بیشتر علیه ونزوئلا و تنش‌های اقتصادی آمریکا را به دنبال داشته باشد",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "WLRN",
+        "url": "https://www.wlrn.org/commentary/2026-09-03/venezuela-trump-oil-democracy",
+        "clean_url": "https://www.wlrn.org/commentary/2026-09-03/venezuela-trump-oil-democracy",
+        "image": "https://www.bing.com/th?id=ONUT.zgWcM5ts2qRX0wJEMdOJcg",
+        "timestamp": 1788430449.8853405
+    },
+    {
+        "id": "e921293236",
+        "title_fa": "کاتز: حملات گسترده در صورت حمله ایران به اسرائیل",
+        "title_en": "‘Back to the Stone Age’: Katz threatens sweeping strikes if Iran attacks Israel",
+        "summary": [
+            "کاتز هشدار داد در صورت حمله ایران به اسرائیل، عملیات هوایی گسترده‌ای انجام می‌شود",
+            "این تهدید می‌تواند به تشدید تنش‌های منطقه‌ای منجر شود",
+            "ایران ممکن است پاسخ نظامی متناسبی بدهد",
+            "جامعه بین‌المللی احتمالاً فشار برای دیپلماسی را افزایش می‌دهد"
+        ],
+        "impact": "تهدید کاتز می‌تواند به ردپوش نظامی گسترده و افزایش خطر جنگ در خاورمیانه منجر شود",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yZVUxNWRvLUphSGptSzl2ZWo3ZVZzY3V1WTRyZU1CZm12eXBrYjNTSUpXTjg1MXcxU1JZNnRsNGkwcFV3OXB2WDhpZ2ZZeXZlRFgyQWhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yZVUxNWRvLUphSGptSzl2ZWo3ZVZzY3V1WTRyZU1CZm12eXBrYjNTSUpXTjg1MXcxU1JZNnRsNGkwcFV3OXB2WDhpZ2ZZeXZlRFgyQWhn",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788429969.0
+    },
+    {
         "id": "a46da1f110",
         "title_fa": "تجلیل ترامپ از پیمان مکه و برنامهٔ خروج نیروهای آمریکا",
         "title_en": "The Iran War Will Change the Middle East. The US May Not Like It.",
@@ -2845,6 +2905,26 @@
         "timestamp": 1788313138.0
     },
     {
+        "id": "fec8cee68e",
+        "title_fa": "ترامپ با مشکلات داخلی و حمایت محدود",
+        "title_en": "Donald Trump",
+        "summary": [
+            "دادگاه عالی پروژه بالکونی سفیدخانه را تأیید کرد",
+            "سایر طرح‌های ترامپ در واشنگتن به تعویق مانده‌اند",
+            "حمایت پایه حزبی قوی اما امتیازهای پایین در میان رأی‌دهندگان میانی",
+            "این ترکیب می‌تواند توان سیاسی او را در انتخابات میانی تضعیف کند"
+        ],
+        "impact": "پیشنهادهای اقتصادی ترامپ در واشنگتن به تعویق می‌افتند و فشار بر حمایت میانی او افزوده می‌شود",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "nytimes.com",
+        "url": "https://www.nytimes.com/spotlight/donald-trump",
+        "clean_url": "https://www.nytimes.com/spotlight/donald-trump",
+        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+        "timestamp": 1788312960.0
+    },
+    {
         "id": "21d80c6d14",
         "title_fa": "خبر بین‌المللی — بدون ترجمه خودکار",
         "title_en": "Canada Tariffs, Again",
@@ -2928,6 +3008,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNdUZpaEJ4VVFlR0lXZEx4Sk83c2RnN2hWVnl2WTZfaHo5MWNURElXQUVHd1VTS1lDMGtIOGhPZ2dPS2h5ZXlSWElqRndEV1RuWjJMNXZxaTdyUUJEVGdtQlIxV212UQ",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788309451.0
+    },
+    {
+        "id": "56a91cb0d8",
+        "title_fa": "ضربه هوایی آمریکا به ایران؛ وعده ترامپ برای تکرار",
+        "title_en": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+        "summary": [
+            "نیروی هوایی آمریکا به اهداف نظامی ایران حمله کرد",
+            "حمله منجر به کشته شدن پنج نفر در یک عروسی شد",
+            "ترامپ اعلام کرد که پاسخ‌های بیشتری به تهران خواهد داد",
+            "این رویداد خطر تشدید جنگ نیمه‌ساکن را بالا برده است"
+        ],
+        "impact": "حمله هوایی آمریکا به ایران خطر شروع جنگ مستقیم را بالا می‌برد و بازارهای انرژی را ناآرام می‌کند",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+        "clean_url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+        "image": "http://www.bing.com/th?id=ONUT.7dkup-w_VbMbpXq_ul4dOg&pid=News",
+        "timestamp": 1788308100.0
     },
     {
         "id": "99c4fd4ce1",
@@ -5176,90 +5276,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmJOb19mc01kRTRlbi1Hd2VNR1RUUGtrVHZHeUNQT2F2aDJjajlqNU5LeEVweVA4cko3QmNPcFJyN0d4dE92ZWNWYzlQUkNKTW1KbF9FeW9ZVzZIaGNqSWVOU1lJMHl4V0ZlV0FOS0tXaGpXVkhPOXdoU3I0NzhsaGZzc2o",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788235668.0
-    },
-    {
-        "id": "e664c6fc4b",
-        "title_fa": "بازگشت غیرمنتظره پیام صادقیان؛ از سایت شرطبندی و محرومیت ۱۵ ساله تا حضور در صداوسیما",
-        "title_en": "بازگشت غیرمنتظره پیام صادقیان؛ از سایت شرط‌بندی و محرومیت ۱۵ ساله تا حضور در صداوسیما",
-        "summary": [
-            "آبان ۱۳۹۸ بود که کمیته اخلاق فدراسیون فوتبال، حکم سنگینی را برای پیام صادقیان، ستاره پیشین پرسپولیس و تیم ملی، صادر کرد."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609010764",
-        "clean_url": "https://www.iranintl.com/202609010764",
-        "image": "http://www.bing.com/th?id=ONUT.3zNtTCo9m3aUfvJn8OLcKA&pid=News",
-        "timestamp": 1788234660.0
-    },
-    {
-        "id": "00b6616bc8",
-        "title_fa": "رئیس جمهور ایران پیشنهاد \"متقابل\" در صورت بازگشت آمریکا به توافق صلح موقت ژوئن را داد",
-        "title_en": "Iran’s President Offers To ‘Reciprocate’ If U.S. Returns To June Interim Peace Deal",
-        "summary": [
-            "The push to go back to the deal agreed to in June comes a day after renewed hostilities which saw the U.S. military target Iranian forces along the Hormuz Strait."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/siladityaray/2026/09/01/iran-president-offers-to-reciprocate-if-us-returns-to-june-interim-peace-deal/",
-        "clean_url": "https://www.forbes.com/sites/siladityaray/2026/09/01/iran-president-offers-to-reciprocate-if-us-returns-to-june-interim-peace-deal",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a96ab68803e86a55761a71a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "timestamp": 1788234000.0
-    },
-    {
-        "id": "f95b73fb9c",
-        "title_fa": "پس از ادعای ترامپ درباره «تقریباً کنترل کامل» تنگه هرمز، قیمت نفت برنت به بالای 96 دلار در هر بشکه رسید.",
-        "title_en": "Brent crude tops $96 per barrel after Trump claims 'almost total control' of Strait of Hormuz",
-        "summary": [
-            "Oil prices rose for the third consecutive session on Wednesday as traders were jittery of extended disruption to crude supplies via Hormuz after a fresh renewal in hostilities between the US and Iran."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Business Today",
-        "url": "https://www.businesstoday.in/world/story/brent-crude-tops-96-per-barrel-after-trump-claims-almost-total-control-of-strait-of-hormuz-552702-2026-09-02",
-        "clean_url": "https://www.businesstoday.in/world/story/brent-crude-tops-96-per-barrel-after-trump-claims-almost-total-control-of-strait-of-hormuz-552702-2026-09-02",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6a9785da51911-donald-trumps-hormuz-announcement-sends-oil-markets-on-edge-0211332-16x9.jpg",
-        "timestamp": 1788232379.0
-    },
-    {
-        "id": "1cacb74deb",
-        "title_fa": "رئیس‌جمهور ایران می‌گوید اگر آمریکا چنین کند، ایران به توافق آتش‌بس باز خواهد گشت و دیگر اخبار خاورمیانه",
-        "title_en": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news",
-        "summary": [
-            "Iran's president said Tuesday that his country is ready to return to the ceasefire deal reached with the United States in June if Washington does the same, in conciliatory remarks following the first..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-president-says-iran-would-return-to-ceasefire-agreement-if-us-does-and-other-mideast-news/ar-AA2bkQr7",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-president-says-iran-would-return-to-ceasefire-agreement-if-us-does-and-other-mideast-news/ar-AA2bkQr7",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788230102.0
-    },
-    {
-        "id": "3ed57c3a06",
-        "title_fa": "در اینجا فهرستی از زیرساخت های انرژی خلیج فارس آسیب دیده در جنگ ایران آمده است",
-        "title_en": "Here’s a List of Gulf Energy Infrastructure Damaged in Iran War",
-        "summary": [
-            "Here’s a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSQUpsbFBZdHJBVzE5RksxTlV3a01Mb0c1bHktX0RSeXhLR3c1bC1JZ3FBUUtWcEYzbkNWZEV1SXQ1QUl2LW1oR0VMa2lvQ0dycm1QMHRWQmpRUjNDOTlqZ2xoU2xkOWZab25sb1R6UW56QWJqb0h0NjRaX3RiOFpCQTc5UzQtRjlMWFBFWG9QazFHQnpHTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSQUpsbFBZdHJBVzE5RksxTlV3a01Mb0c1bHktX0RSeXhLR3c1bC1JZ3FBUUtWcEYzbkNWZEV1SXQ1QUl2LW1oR0VMa2lvQ0dycm1QMHRWQmpRUjNDOTlqZ2xoU2xkOWZab25sb1R6UW56QWJqb0h0NjRaX3RiOFpCQTc5UzQtRjlMWFBFWG9QazFHQnpHTg",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788229969.0
     }
 ]
