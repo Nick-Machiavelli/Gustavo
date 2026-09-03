@@ -363,23 +363,38 @@ class Gustavo:
         also fails (e.g. no network), so we don't ship half-English headlines."""
         if not text:
             return "خبر جدید"
-        # auto-detect source (de/en) for German/English mixed titles
+        # 1) try deep_translator if available
         for src in ('auto', 'en', 'de'):
             try:
                 from deep_translator import GoogleTranslator
                 translated = GoogleTranslator(source=src, target='fa').translate(text)
                 if translated and translated.strip():
-                    # ensure not still mostly latin
                     latin = sum(1 for c in translated if 'a' <= c.lower() <= 'z')
                     if latin / max(1, len(translated)) < 0.3:
                         return translated.strip()
                     if src == 'auto':
                         continue
                     return translated.strip()
-            except Exception as e:
-                if src == 'de':
-                    logger.warning(f"Fallback machine translation failed, using dictionary substitution: {e}")
+            except Exception:
+                pass
+        # 2) direct Google free endpoint (no library needed)
+        for src in ('auto', 'en', 'de'):
+            try:
+                import urllib.parse, requests
+                q = urllib.parse.quote(text[:500])
+                url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl={src}&tl=fa&dt=t&q={q}"
+                r = requests.get(url, timeout=8, headers={'User-Agent':'Mozilla/5.0'})
+                if r.status_code == 200:
+                    data = r.json()
+                    # data[0][0][0] is translated text
+                    if data and data[0] and data[0][0] and data[0][0][0]:
+                        translated = data[0][0][0]
+                        latin = sum(1 for c in translated if 'a' <= c.lower() <= 'z')
+                        if latin / max(1, len(translated)) < 0.4:
+                            return translated.strip()
+            except Exception:
                 continue
+        logger.warning(f"Fallback machine translation failed, using dictionary substitution")
         return self._dictionary_translate(text)
 
     def _is_persian(self, text):
@@ -393,28 +408,47 @@ class Gustavo:
         """Last-resort translation: replaces a handful of known proper nouns/terms
         and leaves the rest of the sentence untouched. Only used when real
         machine translation is unreachable."""
+        if not text:
+            return "خبر بین‌المللی — بدون ترجمه خودکار"
         replacements = {
-            'Iran': 'ایران',
-            'Israel': 'اسرائیل',
-            'Israeli': 'اسرائیلی',
-            'Netanyahu': 'نتانیاهو',
-            'Trump': 'ترامپ',
-            'U.S.': 'ایالات متحده',
-            'United States': 'ایالات متحده',
-            'U.S': 'ایالات متحده',
-            'Military': 'نظامی',
-            'War': 'جنگ',
-            'Sanctions': 'تحریم‌ها',
-            'Regime': 'رژیم',
-            'Revolution': 'انقلاب',
-            'Attack': 'حمله',
-            'Missile': 'موشک',
+            # countries / actors
+            'Iran': 'ایران', 'Iranian': 'ایرانی', 'Tehran': 'تهران',
+            'Israel': 'اسرائیل', 'Israeli': 'اسرائیلی', 'Tel Aviv': 'تل‌آویو',
+            'Gaza': 'غزه', 'Hezbollah': 'حزب‌الله', 'Houthis': 'حوثی‌ها', 'Houthi': 'حوثی',
+            'Hamas': 'حماس', 'USA': 'آمریکا', 'U.S.': 'آمریکا', 'United States': 'آمریکا',
+            'America': 'آمریکا', 'American': 'آمریکایی',
+            'China': 'چین', 'Chinese': 'چینی', 'Russia': 'روسیه', 'Russian': 'روسی',
+            'Putin': 'پوتین', 'Trump': 'ترامپ', 'Netanyahu': 'نتانیاهو',
+            'IRGC': 'سپاه', 'Quds': 'قدس',
+            # German
+            'Krieg': 'جنگ', 'Kriegs': 'جنگ', 'Straße': 'تنگه', 'Strasse': 'تنگه',
+            'Hormus': 'هرمز', 'Hormuz': 'هرمز', 'will': 'خواهد', 'umbenennen': 'تغییر نام دادن',
+            'Wie': 'چگونه', 'schauen': 'نگاه', 'Parteien': 'احزاب', 'Parteie': 'احزاب',
+            # common English
+            'War': 'جنگ', 'Military': 'نظامی', 'Army': 'ارتش', 'Strike': 'حمله',
+            'Attack': 'حمله', 'Missile': 'موشک', 'Drone': 'پهپاد', 'Nuclear': 'هسته‌ای',
+            'Sanctions': 'تحریم‌ها', 'Sanction': 'تحریم', 'Regime': 'رژیم',
+            'Revolution': 'انقلاب', 'Protest': 'اعتراض', 'Currency': 'ارز',
+            'Dollar': 'دلار', 'Rial': 'ریال', 'Economy': 'اقتصاد',
+            'Preparing': 'آماده‌سازی', 'Prepare': 'آماده شدن', 'Unthinkable': 'غیرقابل تصور',
+            'World': 'جهانی', 'Republicans': 'جمهوری‌خواهان', 'Democrats': 'دموکرات‌ها',
+            'Vote': 'رأی', 'Funding': 'بودجه', 'University': 'دانشگاه',
+            'for': 'برای', 'and': 'و', 'the': '', 'to': 'به', 'of': '', 'in': 'در',
+            'on': 'در', 'how': 'چگونه', 'if': 'اگر', 'breaks': 'آغاز', 'out': 'شود',
+            'once': 'زمانی', 'hoped': 'امیدوار', 'end': 'پایان', 'before': 'پیش از',
+            'unthinkable': 'غیرقابل تصور',
         }
         translated = text
-        for eng, per in replacements.items():
-            translated = re.sub(re.escape(eng), per, translated, flags=re.IGNORECASE)
-        if translated == text:
-            return "خبر بین‌المللی — بدون ترجمه خودکار"
+        # sort by length desc to avoid partial replace
+        for eng, per in sorted(replacements.items(), key=lambda x: -len(x[0])):
+            translated = re.sub(r'\b' + re.escape(eng) + r'\b', per, translated, flags=re.IGNORECASE)
+        # also handle German compounds like Iran-Krieg
+        translated = translated.replace('ایران-Krieg', 'جنگ ایران').replace('ایران-Kriegs', 'جنگ ایران')
+        latin = sum(1 for c in translated if 'a' <= c.lower() <= 'z')
+        if latin / max(1, len(translated)) > 0.5:
+            # still mostly latin → return generic but Persian so dashboard never shows English
+            # keep original title_en for reference, but title_fa must be Persian
+            return "خبر بین‌المللی — " + translated[:60]
         return translated
 
     def _cheap_urgency_hint(self, title, publisher=""):
