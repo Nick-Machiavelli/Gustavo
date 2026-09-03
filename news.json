@@ -1,5 +1,94 @@
 [
     {
+        "id": "d7bcb2db6e",
+        "title_fa": "جرائم جنگی آمریکا در ایران؛ پرسش مسئولیت‌پذیری",
+        "title_en": "Six Months Into the US‑Iran War, Will There Be Any Accountability for Potential War Crimes?",
+        "summary": [
+            "کارشناسان بین‌المللی ادعا می‌کنند جنگ آمریکا‑ایران نقض چارچوب حقوق بین‌الملل است",
+            "بررسی و پیگیری جرائم احتمالی می‌تواند پیش‌شرط محاکمه‌های آینده باشد"
+        ],
+        "impact": "اگر پیگیری شود، ممکن است تحریم‌های جدید و فشار دیپلماتیک بر واشنگتن ایجاد شود",
+        "tag": "حقوق",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Bucks County Beacon",
+        "url": "https://buckscountybeacon.com/2026/09/six-months-into-the-us-iran-war-will-there-be-any-accountability-for-potential-war-crimes/",
+        "clean_url": "https://buckscountybeacon.com/2026/09/six-months-into-the-us-iran-war-will-there-be-any-accountability-for-potential-war-crimes",
+        "image": "https://www.bing.com/th?id=ONUT.fNi8VBJfWe3yOerawVPHYA",
+        "timestamp": 1788469979.451896
+    },
+    {
+        "id": "9c8f044cf3",
+        "title_fa": "شش ماه پس از شروع جنگ، ترامپ هنوز نتوانست پایان دهد",
+        "title_en": "Six months on, Trump struggles to end a war he started",
+        "summary": [
+            "هدف اولیه ترامپ (سرنگونی رژیم و جلوگیری از سلاح هسته‌ای) هنوز محقق نشده",
+            "تبادل موشکی اخیر نشان می‌دهد جنگ به‌صورت تداومی ادامه دارد"
+        ],
+        "impact": "عدم پیشرفت می‌تواند هزینه‌های مالی و انسانی آمریکا را افزایش دهد",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Business Standard",
+        "url": "https://www.tbsnews.net/thoughts/six-months-trump-struggles-end-war-he-started-1532851",
+        "clean_url": "https://www.tbsnews.net/thoughts/six-months-trump-struggles-end-war-he-started-1532851",
+        "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/03/kphqoojaiblmncbgy55od2j4om_1.png",
+        "timestamp": 1788469979.4515939
+    },
+    {
+        "id": "e44795385a",
+        "title_fa": "پزشک نوبل: ترامپ خطرناک‌تر از قبل",
+        "title_en": "This Nobel-Winning Psychiatrist Issued A Chilling New Warning About Donald Trump",
+        "summary": [
+            "دکتر هِنری آبراهام هشدار داد که رفتارهای ترامپ می‌تواند به تصمیمات هسته‌ای منجر شود",
+            "این اظهارات فشار روانی بر رهبری آمریکا را نشان می‌دهد"
+        ],
+        "impact": "اعتماد جهانی به تصمیمات ایالات متحده ممکن است تحت فشار قرار گیرد",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/nobel-winning-psychiatrist-issued-chilling-203101032.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/nobel-winning-psychiatrist-issued-chilling-203101032.html",
+        "image": "https://www.bing.com/th?id=ONUT.OyuJCx39xSur-egZs42uWw",
+        "timestamp": 1788469979.4508553
+    },
+    {
+        "id": "099493f73a",
+        "title_fa": "جنگ ایران زنده: جی دی ونس مدعی است چین به انزوای تهران کمک خواهد کرد",
+        "title_en": "Iran war live: JD Vance claims China will help isolate Tehran",
+        "summary": [
+            "Iran-US war latest: JD Vance claims China will help economically isolate Tehran and says conflict ‘not a war’ - Vice..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-war-live-jd-vance-claims-china-will-help-isolate-tehran/ar-AA2bt9Ke?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-jd-vance-claims-china-will-help-isolate-tehran/ar-AA2bt9Ke",
+        "image": "https://www.bing.com/th?id=ONUT.sNAnD-GtLHIhB8WRSlD43A",
+        "timestamp": 1788469979.4501524
+    },
+    {
+        "id": "4d3b3b749b",
+        "title_fa": "جِی‌دی ونس: درگیری ایران جنگ نیست",
+        "title_en": "Vance says Iran conflict is not a war, declines to offer timeline for end",
+        "summary": [
+            "ونس اعلام کرد که وضعیت ایران جنگ نیست و زمان پایان را مشخص نکرد",
+            "این بیانیه فشار سیاسی آمریکا را نشان می‌دهد ولی ریسک تشدید تنش‌ها باقیست"
+        ],
+        "impact": "بیان عدم جنگ ممکن است مذاکرات را دشوار کند",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "reuters.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788468810.0
+    },
+    {
         "id": "b664d65cd2",
         "title_fa": "پوتین و ترامپ: دو رهبر در جنگ‌های بی‌پایان",
         "title_en": "DC Edit | Putin, Trump: Two Leaders Now Fighting Endless Wars",
@@ -1503,6 +1592,24 @@
         "timestamp": 1788413835.0
     },
     {
+        "id": "ebfa47780e",
+        "title_fa": "ایران به پایگاه‌های آمریکا در امارات و کویت حمله کرد",
+        "title_en": "Iran strikes US bases in the UAE and Kuwait. Netanyahu: 'The fall of the Iranian regime is within reach'",
+        "summary": [
+            "ایران موشک‌های خود را به پایگاه‌های آمریکایی در امارات و کویت شلیک کرد",
+            "نتانیاهو گفت سقوط رژیم ایران در دسترس است؛ تنش‌های نظامی منطقه به اوج رسید"
+        ],
+        "impact": "حمله مستقیم می‌تواند پاسخ نظامی گسترده و نوسان قیمت نفت را به دنبال داشته باشد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "en.ilsole24ore",
+        "url": "https://en.ilsole24ore.com/art/iranian-raids-on-us-bases-in-kuwait-hegseth-and-troops-in-the-middle-east-until-2027-AJonF71",
+        "clean_url": "https://en.ilsole24ore.com/art/iranian-raids-on-us-bases-in-kuwait-hegseth-and-troops-in-the-middle-east-until-2027-AJonF71",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/04/Immagini/Ritagli/LP_24714401-U17503476571irh-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+        "timestamp": 1788413160.0
+    },
+    {
         "id": "32c65b8cd5",
         "title_fa": "برگزاری اجلاس برکس در دهلی نوین",
         "title_en": "BRICS Comes to New Delhi",
@@ -2039,6 +2146,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEpoYWdZZzJ2OWlRMFZXS1paQmM4N3RVMG9GX0dXaV9Ldk51S0hMeE81Vm5IY3VsSVptZUZXdmxUbXVfeDVnb2FESFZmV2xxYU5aOVVFaUVtVWVfaEdBZnQwdkZDS0l5NHJTLXRGZzAzTk8zS2FOWWN2Ykl5LXFiSEotdkduM3F1TGUyOWFKWm9CNWN1Q2lvRkh0bG5pbFU5ZWhmWTNzcnZ1b0tKME9WbmJaVdIBuAFBVV95cUxOR0xKaFlrSV84MmlTUC1mekhRWV90RkJzWXRDUDJQVWhfNFlwRjh4cDlmemhBSzVPNzdidVVHN1QwcDVzdUNHWlFJOVRUbUtuOElkQThFTnZDa1UyRmpDRkJ0QVBxX1N4anBRcnZyY0hOY0xGSXZ1M2EtSmVYRTQyTFA3V1g0eU4wTWdiZ0RSTExTa3RVRHJnZExtTTdoZFRhMHRuSy1GWDJoenJaT1RWWkZPLW1yampE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788384251.0
+    },
+    {
+        "id": "fcb715a8f0",
+        "title_fa": "ترافیک نفت در هرمز پس از حملات آمریکا بازگشت",
+        "title_en": "Iran’s grip on Hormuz weakens as oil traffic rebounds after US strikes",
+        "summary": [
+            "پس از حملات به رادارهای ایرانی، حجم نفت عبوری به سطوح پیش‌جنگ نزدیک شد",
+            "نشان می‌دهد فشار آمریکا هنوز نتوانسته مسیر اصلی انرژی را قطع کند"
+        ],
+        "impact": "بازگشت جریان نفت می‌تواند فشار اقتصادی بر ایران را کاهش دهد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Arkansas Public Advocate on MSN",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/iran-s-grip-on-hormuz-weakens-as-oil-traffic-rebounds-after-us-strikes/ar-AA2bvEwh?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/iran-s-grip-on-hormuz-weakens-as-oil-traffic-rebounds-after-us-strikes/ar-AA2bvEwh",
+        "image": "https://www.bing.com/th?id=ONUT.AAmKcCKy_7uGdya_Roi-Kw",
+        "timestamp": 1788383569.0
     },
     {
         "id": "2dae594ef2",
@@ -5283,124 +5408,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-captured-hamas-commander-was-chief-of-the-terror-groups-internal-security-apparatus",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/photo_2026-09-01_18-52-02.jpg",
         "timestamp": 1788288960.0
-    },
-    {
-        "id": "f316b31567",
-        "title_fa": "افزایش قیمت نفت خام با تشدید خصومت‌های آمریکا و ایران",
-        "title_en": "Crude Prices Surge on Escalation of US-Iran Hostilities",
-        "summary": [
-            "October WTI crude oil (CLV26 ) closed up +4.46 (+5.20%) on Tuesday, and October RBOB gasoline (RBV26..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Barchart · via Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-escalation-us-191334343.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-escalation-us-191334343.html",
-        "image": "https://media.zenfs.com/en/barchart_com_477/8e9e755c7ef7fa235e7e307e9b9106d6.jpg",
-        "timestamp": 1788288354.0
-    },
-    {
-        "id": "9e89847e05",
-        "title_fa": "چرا پاکستان از آخرین تحریم‌های ترامپ علیه ایران شانه خالی می‌کند؟",
-        "title_en": "Why Pakistan Is Shrugging Off Trump’s Latest Iran Sanctions",
-        "summary": [
-            "A Pakistani statement signals to Tehran that Islamabad will not undermine a relationship or existing trade ties that have long faced pressure from U.S. sanctions."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/09/why-pakistan-is-shrugging-off-trumps-latest-iran-sanctions/",
-        "clean_url": "https://thediplomat.com/2026/09/why-pakistan-is-shrugging-off-trumps-latest-iran-sanctions",
-        "image": "http://www.bing.com/th?id=ONUT.FNQYuUkB1EB6_TuAxjjM-A&pid=News",
-        "timestamp": 1788287280.0
-    },
-    {
-        "id": "30db3182f0",
-        "title_fa": "EXCLUSIVE: US Mysteriously Waives تحریم‌ها Against ایران’s Bloodthirsty State Broadcaster, Again, Even as Network Puts Bounties on ترامپ Family’s Heads",
-        "title_en": "EXCLUSIVE: US Mysteriously Waives Sanctions Against Iran’s Bloodthirsty State Broadcaster, Again, Even as Network Puts Bounties on Trump Family’s Heads",
-        "summary": [
-            "The State Department quietly waived mandatory sanctions on Iran's radical state broadcaster at two pivotal junctures this..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The Washington Free Beacon",
-        "url": "https://freebeacon.com/trump-administration/exclusive-us-mysteriously-waives-sanctions-against-irans-bloodthirsty-state-broadcaster-again-even-as-network-puts-bounties-on-trump-familys-heads/",
-        "clean_url": "https://freebeacon.com/trump-administration/exclusive-us-mysteriously-waives-sanctions-against-irans-bloodthirsty-state-broadcaster-again-even-as-network-puts-bounties-on-trump-familys-heads",
-        "image": "https://www.bing.com/th?id=ONUT.NPxnLBy0Cmfi8Nxx3xeGbg",
-        "timestamp": 1788286523.3294268
-    },
-    {
-        "id": "88d084c133",
-        "title_fa": "حملات جدید آمریکا به ایران در اطراف تنگه هرمز",
-        "title_en": "US launches new barrage of strikes on Iran around Strait of Hormuz",
-        "summary": [
-            "US launches new barrage of strikes on Iran around Strait of Hormuz Reuters"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 7,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWVYQlZISm1jT2ZUaUZ4bDJ2ZE10ZEpaeXo5MnBPQTJYS0ZJNDFjNmdBNGlPQjdyRTIxMVJWeDYzTlFEZi1wVm55eUJTUjkxSjB2WnVVU3NLaEtjTWlMTFFXZlZuTDYyNzREc3hxWnpxRzdUV2MtRUdhei12TE9TQ0Rrc1hTMEN4alFnS1VFcVRzSEM1dmVxR2FYbzZXb1B2a254Y2FlVXlNMFBhQVlFRTAyNzdoaE1FN2Q5dFF0LS1PZDR3bm1PS2JR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWVYQlZISm1jT2ZUaUZ4bDJ2ZE10ZEpaeXo5MnBPQTJYS0ZJNDFjNmdBNGlPQjdyRTIxMVJWeDYzTlFEZi1wVm55eUJTUjkxSjB2WnVVU3NLaEtjTWlMTFFXZlZuTDYyNzREc3hxWnpxRzdUV2MtRUdhei12TE9TQ0Rrc1hTMEN4alFnS1VFcVRzSEM1dmVxR2FYbzZXb1B2a254Y2FlVXlNMFBhQVlFRTAyNzdoaE1FN2Q5dFF0LS1PZDR3bm1PS2JR",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788286265.0
-    },
-    {
-        "id": "8bf47eaea2",
-        "title_fa": "سپاه: آمریکا از حملات جدید به ایران پشیمان خواهد شد",
-        "title_en": "US ‘will regret’ new attacks on Iran, says IRGC",
-        "summary": [
-            "US ‘will regret’ new attacks on Iran, says IRGC Anadolu Ajansı"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHo0RG80R20tdTVRUV9CY0JBeC1VX3Z3dTBwMElEZXh6OXBMMjZfSDJzWjBONGhnNkhiRWowbWVpNUNlWTNRcUlOakJmdHg5ajhUNEhENFJ1N2hmMm53RDcyNC1iemFpcWxXSXZrWlI0WENSeEVQOW5NM0p2bmUwejlSQ3F0MUtpZWxYWXlTSXFISmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHo0RG80R20tdTVRUV9CY0JBeC1VX3Z3dTBwMElEZXh6OXBMMjZfSDJzWjBONGhnNkhiRWowbWVpNUNlWTNRcUlOakJmdHg5ajhUNEhENFJ1N2hmMm53RDcyNC1iemFpcWxXSXZrWlI0WENSeEVQOW5NM0p2bmUwejlSQ3F0MUtpZWxYWXlTSXFISmM",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788285680.0
-    },
-    {
-        "id": "a292beb05a",
-        "title_fa": "همزمان با حملات تجاری آمریکا و تهران، ایران به ترامپ پیشنهاد می‌کند که از رمپ خارج شود",
-        "title_en": "Iran offers Trump an off-ramp as US, Tehran trade strikes",
-        "summary": [
-            "Iran urged the United States to return to a June interim agreement Tuesday, offering to reciprocate even as President Donald Trump threatened additional strikes after Tehran fired missiles at American forces in Jordan."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Daily Caller",
-        "url": "https://www.msn.com/en-us/news/other/iran-offers-trump-an-off-ramp-as-us-tehran-trade-strikes/ar-AA2bmsy7",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-offers-trump-an-off-ramp-as-us-tehran-trade-strikes/ar-AA2bmsy7",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788285572.0
-    },
-    {
-        "id": "9a20b26b44",
-        "title_fa": "The US نظامی began striking targets in ایران, CENTCOM says",
-        "title_en": "The US military began striking targets in Iran, CENTCOM says",
-        "summary": [
-            "The US military began striking targets in Iran, CENTCOM says Al Jazeera"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1hFc0hzeE9TUzdkczhyV2w2QlRoQjBLTXgtUjRITkhRQmVrbXBxWmFIV3hsd19CbTZpTm9tNUpqVTNFcUt2OXpVRjlQd0NBdE5PMzZRT0x6OXhQb3lTRFZKNERtTHp3MTFCUk9Tb2E4NmJfNDltYjl4WkcwamlCSkU0V2s5U1FBajlkbmYtX1l6eko2OFdpYzg4c1RLcWwxRXB1cl9jRDA2am9ZNXfSAbMBQVVfeXFMUEs2a2ZRU2dQa1AxeGNsX3NtRVFYZTl2dGwwQjhPaEFfajNtSzUxRnE3MkRwVmlZZzEteV8xcDk0YmZPSEVSSWJDQ0RTNHpUZ1V4SnIxbXMwXzhUVXJBdlVQdHBDRXNEMk5ycnp5bEkwbTFaZE41N1NVelREUk9NVlBoSmctaXdjendHSnl6M1dTWEdteWZGTXRjMjZpWFE5Q25TTF9uRFBIdEJWYi1ocU44TU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1hFc0hzeE9TUzdkczhyV2w2QlRoQjBLTXgtUjRITkhRQmVrbXBxWmFIV3hsd19CbTZpTm9tNUpqVTNFcUt2OXpVRjlQd0NBdE5PMzZRT0x6OXhQb3lTRFZKNERtTHp3MTFCUk9Tb2E4NmJfNDltYjl4WkcwamlCSkU0V2s5U1FBajlkbmYtX1l6eko2OFdpYzg4c1RLcWwxRXB1cl9jRDA2am9ZNXfSAbMBQVVfeXFMUEs2a2ZRU2dQa1AxeGNsX3NtRVFYZTl2dGwwQjhPaEFfajNtSzUxRnE3MkRwVmlZZzEteV8xcDk0YmZPSEVSSWJDQ0RTNHpUZ1V4SnIxbXMwXzhUVXJBdlVQdHBDRXNEMk5ycnp5bEkwbTFaZE41N1NVelREUk9NVlBoSmctaXdjendHSnl6M1dTWEdteWZGTXRjMjZpWFE5Q25TTF9uRFBIdEJWYi1ocU44TU0",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788285200.0
     }
 ]
