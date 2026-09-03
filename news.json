@@ -1,5 +1,24 @@
 [
     {
+        "id": "ec0b646a9f",
+        "title_fa": "ترامپ نقشه‌های متحدان را برای مالوین‌ها سلاح می‌کند",
+        "title_en": "Trump Is Weaponizing Allied Maps. It Could Blow Up in His Face",
+        "summary": [
+            "ترامپ موضع خود را درباره مالوین‌ها (جزایر فالکلند) بازنگری کرد",
+            "این واکنش پس از انتقاد بریتانیا از آمریکا در جنگ ایران بود",
+            "نشان می‌دهد ترامپ به راحتی مواضع متحدان را به نفع منافع خود تغییر می‌دهد"
+        ],
+        "impact": "تضعیف اتحاد غربی در مواجهه با ایران و احتمال کاهش حمایت بریتانیا",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-allied-maps-falklands-lake-america-geography-12401703",
+        "clean_url": "https://www.newsweek.com/trump-allied-maps-falklands-lake-america-geography-12401703",
+        "image": "https://www.bing.com/th?id=ONUT.7t6KiKRitzrQc91MzSQQ2Q",
+        "timestamp": 1788471582.7540696
+    },
+    {
         "id": "d7bcb2db6e",
         "title_fa": "جرائم جنگی آمریکا در ایران؛ پرسش مسئولیت‌پذیری",
         "title_en": "Six Months Into the US‑Iran War, Will There Be Any Accountability for Potential War Crimes?",
@@ -105,6 +124,25 @@
         "clean_url": "https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-putin-trump-two-leaders-now-fighting-endless-wars-1984682",
         "image": "https://www.bing.com/th?id=ONUT.tkrQs3klERNU4HnpWXWV6w",
         "timestamp": 1788468077.290112
+    },
+    {
+        "id": "66ddb5b7fb",
+        "title_fa": "ترامپ: رژیم ایران روز به روز ضعیف‌تر می‌شود",
+        "title_en": "US-Iran War LIVE: 'The Regime is Getting Weaker and Weaker by the Day,' says US President Donald Trump",
+        "summary": [
+            "ترامپ ادعا کرد کنترل تقریباً کامل استراتژیک تنگه هرمز را دارد",
+            "تهدید به حملات شدیدتر علیه ایران شد",
+            "این اظهارات می‌تواند فشار نظامی را افزایش دهد"
+        ],
+        "impact": "افزایش تنش در تنگه هرمز و خطر اختلال در حمل و نقل نفت",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
+        "image": "https://images.timesnownews.com/thumb/msid-156030033,thumbsize-1196109,width-1280,height-720,resizemode-75/156030033.jpg",
+        "timestamp": 1788466440.0
     },
     {
         "id": "69fdc9e31a",
@@ -216,6 +254,25 @@
         "timestamp": 1788460697.0
     },
     {
+        "id": "cf9cd1d19c",
+        "title_fa": "نتانیاهو: سرنگونی رژیم ایران هدف اصلی اسرائیل",
+        "title_en": "Netanyahu: Toppling Iranian regime is Israel's 'central mission,' goal 'within reach'",
+        "summary": [
+            "نتانیاهو اعلام کرد سرنگونی ایران در دسترس است",
+            "این هدف را «مأموریت مرکزی» اسرائیل می‌داند",
+            "بیان این هدف می‌تواند حمایت بین‌المللی را به چالش بکشد"
+        ],
+        "impact": "تشدید فشار دیپلماتیک بر ایران و احتمال عملیات مخفی",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/netanyahu-toppling-iranian-regime-is-israel-s-central-mission-goal-within-reach/ar-AA2bw30H",
+        "clean_url": "https://www.msn.com/en-us/news/other/netanyahu-toppling-iranian-regime-is-israel-s-central-mission-goal-within-reach/ar-AA2bw30H",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/WhatsApp-Image-2026-09-03-at-19.05.23.jpeg",
+        "timestamp": 1788459546.0
+    },
+    {
         "id": "00a0bc4c56",
         "title_fa": "جنگ سایه‌ای آمریکا‑ایران به مرحله جدید رسید",
         "title_en": "Before the threat becomes an attack",
@@ -286,6 +343,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNNHFhd3lzbWV5YUNhRW85M1R4aTYzWjNYal9KaFRIVTdOUF9waGgtTlNTcHktMkE3dk92NTBES203NV9ORjZ3ZTVUeFpPNWhvV1pmUU53X0EwMVlud2ZJNDhGX1BTVnpCdllWeU9KWDhKbGoyaUJ5V1NZY1NsLWdtZmFBc3BETFZ6ZkFWNmg1MFYzWUxWdDFMbnFEb0RCa1poRnBjWFlodUx6Mjh3Nk0tNVpEcXZ6VzFyN3JpbWVmaG5DZ3kwOERZeFZLNG0zbmpCX0ZXejZfN0NMQlZEdGc2VldFZUFDd1UydmVjdlJGQXhoMllzanNsa002TU5xTTJMX1ZWcEc0S2dhNzNSc0FlTlVFbUZGcGI3NndEUzFn",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788458013.0
+    },
+    {
+        "id": "f5de1cada4",
+        "title_fa": "شرکت‌های دفاعی اسرائیل به نتانیاهو درباره تأخیر بودجه هشدار دادند",
+        "title_en": "Report: Defense firms warn Netanyahu that budget delay threatens arms production, national security",
+        "summary": [
+            "صنایع نظامی هشدار دادند تأخیر بودجه می‌تواند تولید سلاح را به خطر بیندازد",
+            "امنیت ملی اسرائیل تحت فشار قرار می‌گیرد",
+            "این موضوع ممکن است توان نظامی اسرائیل علیه ایران را کاهش دهد"
+        ],
+        "impact": "کاهش توان تولید سلاح‌های پیشرفته اسرائیل و کاهش فشار نظامی بر ایران",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/report-defense-firms-warn-netanyahu-that-budget-delay-threatens-arms-production-national-security/ar-AA2bvyry",
+        "clean_url": "https://www.msn.com/en-us/news/other/report-defense-firms-warn-netanyahu-that-budget-delay-threatens-arms-production-national-security/ar-AA2bvyry",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788457345.0
     },
     {
         "id": "c9881ec6b1",
@@ -930,6 +1006,25 @@
         "timestamp": 1788436647.0
     },
     {
+        "id": "83cbe75934",
+        "title_fa": "ایران پایگاه‌های آمریکایی در کویت و امارات را هدف گرفت",
+        "title_en": "Iran hits US targets as Washington says probing wedding strike",
+        "summary": [
+            "ایران ادعا کرد به پایگاه هوایی احمد الجابر در کویت و پایگاه مینهاد در امارات حمله کرد",
+            "کویت حمله را «نقض جدی قوانین بین‌المللی» نامید",
+            "این حملات پس از حمله به عروسی در کوهستک رخ داد"
+        ],
+        "impact": "تشدید جنگ‌سازهای خلیج و خطر بسته شدن مسیرهای تجاری",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/iran-attacks-us-targets-despite-051825045.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/iran-attacks-us-targets-despite-051825045.html",
+        "image": "http://www.bing.com/th?id=ONUT.GhIdbf27wbqKNCpZw9nUCg&pid=News",
+        "timestamp": 1788435900.0
+    },
+    {
         "id": "d07fef5794",
         "title_fa": "خطای نتانیاهو؛ گسترش جنگ ایران‑اسرائیل",
         "title_en": "Benjamin Netanyahu's strategic mistake just triggered the wider Iran war",
@@ -1309,6 +1404,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdkQzRVFLWWFzN09fbVNiWndkcEtRWUpzVVdvS0hHY2NWczN1aF96VnYzWnpvOXVqTTRCaHJsNng4Ull4VjdrTlJRbFNrN2YwUVNqX2N0M2lleTRMQ0d6V2dKam1fQ2FqRksxV1QtLUZKb2hKb2RCbzhfdTZoSDRvMHlUVDNnd2VKOGlwajU5ejVSMkNOb1VfSm5MdG5BdkdJQ3Jrb2NUajRzRl8wTUdaN3NNd3hqNFpOb3JsMXYyYi1lbE1kdjJTempXYw",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788426130.0
+    },
+    {
+        "id": "386535e1ff",
+        "title_fa": "شش نیروی نیروی دریایی ایران در حملات آمریکا کشته شد",
+        "title_en": "West Asia war LIVE: Iran media says six navy personnel killed in U.S. attacks",
+        "summary": [
+            "خبرگزاری تسنیم شش نفر از نیروی دریایی ارتش را در حملات آمریکا اعلام کرد",
+            "تلفات شامل مناطق مختلف از خوزستان تا جزیره لاوان است",
+            "ایران پیش از این پایگاه‌های آمریکایی در کویت را هدف قرار داد"
+        ],
+        "impact": "تضعیف توان نیروی دریایی ایران و تشدید پاسخ نظامی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-3-2026/article71422466.ece",
+        "clean_url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-3-2026/article71422466.ece",
+        "image": "https://th-i.thgim.com/public/incoming/wu85e2/article71424290.ece/alternates/LANDSCAPE_1200/AFP_C76U3WR.jpg",
+        "timestamp": 1788426060.0
     },
     {
         "id": "c681cb3a5f",
@@ -2127,6 +2241,23 @@
         "clean_url": "https://www.msn.com/en-us/news/other/dem-influencer-delivers-brutal-takedown-of-gop-s-attack-dog-you-re-a-loser/ar-AA2brwCs",
         "image": "https://www.bing.com/th?id=ONUT.aC7Vyy_YFhLyuGCZKusx0Q",
         "timestamp": 1788385230.5804112
+    },
+    {
+        "id": "ed02419816",
+        "title_fa": "ایران پس از هشدار ترامپ تلافی می‌کند، اما پایگاه‌های آمریکایی اصابت نکرد",
+        "title_en": "Iran Retaliates After Trump Warning, but No US Bases Hit",
+        "summary": [
+            "Iran launched overnight attacks against U.S. forces in the Middle East after President Donald Trump warned Tehran that the United States was prepared to strike again, but none of the military..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-retaliates-trump-warning-no-204035593.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-retaliates-trump-warning-no-204035593.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/6e7c9af60d0839768e74183fd6a80f69335e49f1fe5280dade5dc8290ad4c964/lightyear_networkapi/resizefill_w600_h518%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F1b453083ba9bb0011d81786d4f003180.png",
+        "timestamp": 1788385172.0
     },
     {
         "id": "2fd24af5c6",
@@ -5286,127 +5417,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/best-wipeouts-on-the-internet/vi-AA2auXCF",
         "image": "https://www.bing.com/th?id=ONUT.42zyVoAejXtwRIbHmFdurw",
         "timestamp": 1788291496.0
-    },
-    {
-        "id": "feb8d031f8",
-        "title_fa": "بحران داخلی جمهوری‌حزب، ترامپ تحت فشار هم‌پیمانان",
-        "title_en": "Snowballing crisis rocks GOP as Trump lambasted by his own allies",
-        "summary": [
-            "اعضای حزب جمهوری‌خواه به ترامپ هشدار دادند که به مسأله‌ای مهم بی‌توجهی می‌کند",
-            "این انتقادات نشان‌دهنده تقسیم‌پذیری داخلی در حزب است",
-            "توان سیاسی ترامپ برای اعمال فشار بر ایران ممکن است تضعیف شود",
-            "نقطه ضعف داخلی می‌تواند استراتژی‌های خارجی او را تحت تأثیر قرار دهد"
-        ],
-        "impact": "کاهش توان سیاسی ترامپ برای فشار بر ایران",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Raw Story on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/snowballing-crisis-rocks-gop-as-trump-lambasted-by-his-own-allies/ar-AA2brL8c?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/snowballing-crisis-rocks-gop-as-trump-lambasted-by-his-own-allies/ar-AA2brL8c",
-        "image": "https://www.bing.com/th?id=ONUT.5TZ-d3YzOZ2_Q7CkD6PaFw",
-        "timestamp": 1788291496.0
-    },
-    {
-        "id": "a411e0668c",
-        "title_fa": "ترامپ باید با ایران کاری «متفاوت» انجام دهد: ریت. سپهبد کیت کلوگ",
-        "title_en": "Trump is going to have to do something 'different' with Iran: Ret. Lt. Gen. Keith Kellogg",
-        "summary": [
-            "Ret. Lt. Gen. Keith Kellogg discusses Army Secretary Dan Driscoll submitting his resignation to President Donald Trump, what the leadership shake-up could mean for the U.S. military, and the next..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "FOX News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-is-going-to-have-to-do-something-different-with-iran-ret-lt-gen-keith-kellogg/vi-AA2bn651?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-is-going-to-have-to-do-something-different-with-iran-ret-lt-gen-keith-kellogg/vi-AA2bn651",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788291494.978118
-    },
-    {
-        "id": "0fd6c66d0b",
-        "title_fa": "ترامپ می‌گوید ایالات متحده حملات «بزرگ و قدرتمند» را علیه ایران انجام داده است",
-        "title_en": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says",
-        "summary": [
-            "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says NBC News"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788290203.0
-    },
-    {
-        "id": "54da0833bc",
-        "title_fa": "آمریکا می‌گوید ایران کنترل هرمز را در دست ندارد، در «مارپیچ مرگ» اقتصادی است",
-        "title_en": "Iran does not have Hormuz control, it's in economic 'death spiral', says US",
-        "summary": [
-            "US Treasury Secretary Scott Bessent asserts that Iran is in an economic 'death spiral' due to intense financial pressure. He confirms US control over the Strait of Hormuz, suggesting sanctions.."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AP7AM",
-        "url": "https://www.ap7am.com/en/134792/iran-does-not-have-hormuz-control-its-in-economic-death-spiral-says-us",
-        "clean_url": "https://www.ap7am.com/en/134792/iran-does-not-have-hormuz-control-its-in-economic-death-spiral-says-us",
-        "image": "https://imgc.ap7am.com/bimg/cr-20260902enba3ab7a7867514a7.jpg?format=webp",
-        "timestamp": 1788289980.0
-    },
-    {
-        "id": "a15d09cfc0",
-        "title_fa": "ایران پس از حملات آمریکا تلافی می‌کند و هشدار ترامپ را نادیده می‌گیرد که ممکن است «بسیار شدیدتر» ضربه بخورد.",
-        "title_en": "Iran retaliates after US strikes, defying Trump’s warning it could be hit 'much harder'",
-        "summary": [
-            "The US military carried out additional strikes on Iran on Tuesday, prompting Tehran to attack Jordan, Bahrain and Kuwait in defiance of a warning from President Donald Trump that any retaliation would..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-retaliates-after-us-strikes-defying-trump-s-warning-it-could-be-hit-much-harder/ar-AA2bmeSe",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-retaliates-after-us-strikes-defying-trump-s-warning-it-could-be-hit-much-harder/ar-AA2bmeSe",
-        "image": "http://www.bing.com/th?id=ONUT.4ZWerZI--LAnAoQjVwn1QA&pid=News",
-        "timestamp": 1788289782.0
-    },
-    {
-        "id": "7acda6c79a",
-        "title_fa": "ارتش آمریکا می‌گوید در حال حمله به اهدافی در ایران و سایر اخبار خاورمیانه است",
-        "title_en": "US military says it’s striking targets in Iran, and other Mideast news",
-        "summary": [
-            "US military says it’s striking targets in Iran, and other Mideast news AP News"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788289140.0
-    },
-    {
-        "id": "2fbda12fbc",
-        "title_fa": "نتانیاهو می‌گوید فرمانده دستگیر شده حماس، رئیس دستگاه امنیت داخلی این گروه تروریستی است.",
-        "title_en": "Netanyahu says captured Hamas commander was chief of the terror group's internal security apparatus",
-        "summary": [
-            "Prime Minister Benjamin Netanyahu says the Hamas commander captured earlier today in Gaza City was chief of the terror group's internal security apparatus. He was named earlier as Muein al-Arabid."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-captured-hamas-commander-was-chief-of-the-terror-groups-internal-security-apparatus/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-captured-hamas-commander-was-chief-of-the-terror-groups-internal-security-apparatus",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/photo_2026-09-01_18-52-02.jpg",
-        "timestamp": 1788288960.0
     }
 ]
