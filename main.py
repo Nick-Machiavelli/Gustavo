@@ -52,7 +52,7 @@ CONFIG = {
         'SCHEDULE_STATE': 'schedule_state.json'
     },
     # Dashboard URL – auto-corrected to the real Pages URL if env is missing or stale
-    'BASE_SITE_URL': (os.environ.get('BASE_SITE_URL') or '').strip() or 'https://nick-machiavelli.github.io/News.ir/',
+    'BASE_SITE_URL': (os.environ.get('BASE_SITE_URL') or '').strip() or 'https://nick-machiavelli.github.io/Gustavo/',
     'CHANNEL_LINK': 'https://t.me/Enqelab_e_Iran',
     'TELEGRAM': {
         'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'),
@@ -1824,7 +1824,7 @@ STRICT OUTPUT JSON:
                     "AI_API_KEY is not set in this run — skipping AI enrichment.\n"
                     "Falling back to raw snippets (urgency defaulted, no AI summary).\n"
                     "Fix: set AI_API_KEY/AI_BASE_URL/AI_MODEL secrets at "
-                    "https://github.com/Nick-Machiavelli/News.ir/settings/secrets/actions"
+                    "https://github.com/Nick-Machiavelli/Gustavo/settings/secrets/actions"
                 )
             logger.info(
                 f"AI enriched {len(ai_batch_results)}/{len(scraped_items)} candidate items."
