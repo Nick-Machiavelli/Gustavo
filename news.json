@@ -1,5 +1,25 @@
 [
     {
+        "id": "88fbd0a61e",
+        "title_fa": "ترامپ: احتمال شورش داخلی در ایران در اثر فشارها",
+        "title_en": "Donald Trump administration: Internal uprising in Iran possible amid pressure campaign",
+        "summary": [
+            "دولت ترامپ اعلام کرد که فشارهای اقتصادی و دیپلماتیک می‌تواند باعث بروز شورش داخلی در ایران شود",
+            "این اظهارات در پیش‌دست انتخابات میانی آمریکا برای فشار بر رژیم هدف‌گذاری شده",
+            "ایران هنوز واکنش رسمی نداده",
+            "احتمال استفاده از تحریم‌های جدید برای تحریک ناآرامی‌ها وجود دارد"
+        ],
+        "impact": "تقویت حمایت داخلی مخالفان ایران و افزایش تنش‌های دیپلماتیک",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uZWpfeDZkN24wcjJTZjIzdktlSnFQb0lueTNuQ2RsZHFSR1NrTFU1TWxQd0xNWThJdGROU0dFX3Y1ZmhzQXpfUUJINGdScGc0bWtSdTBjWmxPQTJ2Q2pXRlpIX2NrSm4xNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uZWpfeDZkN24wcjJTZjIzdktlSnFQb0lueTNuQ2RsZHFSR1NrTFU1TWxQd0xNWThJdGROU0dFX3Y1ZmhzQXpfUUJINGdScGc0bWtSdTBjWmxPQTJ2Q2pXRlpIX2NrSm4xNEE",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788416544.0
+    },
+    {
         "id": "32c65b8cd5",
         "title_fa": "برگزاری اجلاس برکس در دهلی نوین",
         "title_en": "BRICS Comes to New Delhi",
@@ -1942,6 +1962,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekNsWEt4cEh2RVhBNk5nQXJSczQ2QjJlU2hONHpGLXRBSVg1bi1wdWljNXZOd0lvS0toX0ZiZmpaNUVpaG9QbmMtTHBkdzRBUXZMVjU0al9iQUFVQWRvZzFTek5MOGhyME9Ea3Y4a0ZiUVNOUXR1VDRZQi1Td09pT1ZpanoxQ1BKVVp2NWc5WlZPT3hVSDJ2aWZZMExHU1J4aUhKSjFEZ3JWdmo3",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788322409.0
+    },
+    {
+        "id": "d8783edb0c",
+        "title_fa": "ایران به همسایگان خلیج شلیک کرد؛ واکنش به حملات آمریکا",
+        "title_en": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit",
+        "summary": [
+            "ایران پس از حمله هوایی آمریکا به موشک‌پرتاب‌ها و کشته شدن مهمانان عروسی، موشک به پایگاه‌های آمریکایی در اردن شلیک کرد",
+            "موشک‌ها توسط سامانه‌های دفاعی آمریکا رهگیری شد",
+            "این رخداد پس از یک ماه سکوت نظامی و باعث افزایش قیمت نفت شد",
+            "فشار اقتصادی و تحریم‌ها بر ایران در این زمان اوج گرفته است"
+        ],
+        "impact": "افزایش خطر مستقیم در خلیج، احتمال گسترش درگیری و فشار بیشتر بر قیمت نفت",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Los Angeles Daily News",
+        "url": "https://www.dailynews.com/2026/09/02/iran-attacks-gulf-neighbors-us-strikes/",
+        "clean_url": "https://www.dailynews.com/2026/09/02/iran-attacks-gulf-neighbors-us-strikes",
+        "image": "http://www.bing.com/th?id=ONUT.s9Y0AeFAi5cq73rMWK5OqQ&pid=News",
+        "timestamp": 1788322380.0
     },
     {
         "id": "5cd3f5da01",
@@ -5180,39 +5220,5 @@
         "clean_url": "https://en.yenisafak.com/columns/abdullah-muradoglu/can-they-save-netanyahu-3722604",
         "image": "https://www.bing.com/th?id=ONUT.0x_lDQ0m8NPIbjr8M_p7jQ",
         "timestamp": 1788206822.3016334
-    },
-    {
-        "id": "2e55ad4a31",
-        "title_fa": "گزارش جدید پناهگاه دست نخورده ایران را افشا می‌کند که ممکن است فعالیت هسته‌ای در حال انجام رژیم را پنهان کند",
-        "title_en": "New report exposes intact Iranian bunker that may hide regime's ongoing nuclear work",
-        "summary": [
-            "The bunkered Natanz structure was built between 2010 and 2017, raising urgent questions about Iran's uranium enrichment capabilities after two wars."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/new-report-exposes-intact-iranian-bunker-may-hide-regimes-ongoing-nuclear-work",
-        "clean_url": "https://www.foxnews.com/world/new-report-exposes-intact-iranian-bunker-may-hide-regimes-ongoing-nuclear-work",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/iran-nuclear-weapons-2026.jpg",
-        "timestamp": 1788206700.0
-    },
-    {
-        "id": "47e1462893",
-        "title_fa": "President ترامپ Declares ایران a ‘Failed Nation,’ Claims Credit for اسرائیل’s Survival",
-        "title_en": "President Trump Declares Iran a ‘Failed Nation,’ Claims Credit for Israel’s Survival",
-        "summary": [
-            "President Trump Declares Iran a ‘Failed Nation,’ Claims Credit for Israel’s Survival The Media Line"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Media Line",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDByem1DT1F3YnFpdDA0VkxPQlV6OEFJdmRVMjdxRldMS3FSMWF6WmZPZXhwaUNjZDNiVTRyWUhCX1NUejhzaUZDQ2FZQU5DWUltMDBoUnFPZVBaLTdKa29JOEtYWmdHcDFLSVUyczZONXJWUXZ1V0luNlg4aEViSDdDNTBKUmFTNTZOZk9jYzhhdjlqb2NDRUhHSmVnVktkUEc1ak1nZkhRNk9KNWtMbGlJV2FVSFk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDByem1DT1F3YnFpdDA0VkxPQlV6OEFJdmRVMjdxRldMS3FSMWF6WmZPZXhwaUNjZDNiVTRyWUhCX1NUejhzaUZDQ2FZQU5DWUltMDBoUnFPZVBaLTdKa29JOEtYWmdHcDFLSVUyczZONXJWUXZ1V0luNlg4aEViSDdDNTBKUmFTNTZOZk9jYzhhdjlqb2NDRUhHSmVnVktkUEc1ak1nZkhRNk9KNWtMbGlJV2FVSFk",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788205611.0
     }
 ]
