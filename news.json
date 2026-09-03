@@ -450,6 +450,24 @@
         "timestamp": 1788378152.0
     },
     {
+        "id": "5b8356d10b",
+        "title_fa": "قیمت نفت به‌دلیل تشدید تنش‌های آمریکا‑ایران بالا رفت",
+        "title_en": "Crude Oil Prices Supported by Escalation of US-Iran Hostilities",
+        "summary": [
+            "افزایش قیمت نفت خام به بالاترین سطح شش هفته‌ای پس از تشدید درگیری‌های نظامی بین دو کشور",
+            "نگرانی‌ها درباره قطع‌وتصلی مسیرهای نفتی در تنگه هرمز باعث تقویت قیمت‌ها شد، اما خروج نفت از تنگه کاهش یافت و فشار خرید را کم کرد"
+        ],
+        "impact": "هزینه‌های بالاتر انرژی برای بازارهای جهانی و فشار بر اقتصادهای وابسته به نفت",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Barchart · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-supported-escalation-191450462.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-supported-escalation-191450462.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/b38318330c92ac93a081252350c20f53.jpg",
+        "timestamp": 1788378128.0
+    },
+    {
         "id": "e48a240b59",
         "title_fa": "بیسنت: ایران به سمت فروپاشی سریع می‌رود",
         "title_en": "Bessent: Iran is in a \"death spiral,\" state will collapse \"slowly, then quickly\"",
@@ -610,6 +628,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/ms-now-guest-says-us-is-unable-to-get-ally-support-as-trump-has-made-this-huge-error/ar-AA2brqhd",
         "image": "https://www.bing.com/th?id=ONUT.F30hharLTMcQILu1HlB0kQ",
         "timestamp": 1788372974.8735182
+    },
+    {
+        "id": "f08b913c62",
+        "title_fa": "موشک خیبر شکن، تهدید جدید ایران برای نیروی نظامی آمریکا",
+        "title_en": "Meet 'Castle Breaker,' Iran's missile wreaking havoc in US war",
+        "summary": [
+            "موشک‌قابل‌حرکت خیبر شکن توسط تهران در جنگ شش‌ماهه به کار رفته و توانست سامانه‌های دفاعی آمریکا را به‌چالش بکشد",
+            "تحلیل‌گران می‌گویند ایالات متحده برای مقابله با این سلاح آماده نبود و نیاز به ارتقاء سامانه‌های دفاعی دارد"
+        ],
+        "impact": "کاهش توان دفاعی آمریکا در منطقه و تشدید تنش‌های نظامی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/meet-castle-breaker-irans-missile-wreaking-havoc-in-us-war/ar-AA2biZaA",
+        "clean_url": "https://www.msn.com/en-us/news/other/meet-castle-breaker-irans-missile-wreaking-havoc-in-us-war/ar-AA2biZaA",
+        "image": "http://www.bing.com/th?id=ONUT.SWwJRY9KIUMp1nCAWAawcg&pid=News",
+        "timestamp": 1788371994.0
     },
     {
         "id": "562bd0db08",
@@ -2011,6 +2047,24 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2276029215-1788120294.jpg?resize=1920%2C1440",
         "timestamp": 1788313620.0
+    },
+    {
+        "id": "4decb98eb5",
+        "title_fa": "هشدار روبی و ممنوعیت هوش مصنوعی در مدارس نیویورک",
+        "title_en": "Globe at a glance: From Rubio warning Iran allies to NYC schools banning AI",
+        "summary": [
+            "روبی ایالات متحده هشدار داد که هم‌پیمانان ایران در منطقه خاورمیانه تهدیدی برای امنیت آمریکا هستند",
+            "مدارس نیویورک استفاده از ابزارهای هوش مصنوعی را محدود کردند؛ این تصمیم به‌دلیل نگرانی از دسترسی دانش‌آموزان به فناوری‌های پیشرفته است"
+        ],
+        "impact": "افزایش فشار دیپلماتیک بر ایران و محدودیت‌های آموزشی در ایالات متحده",
+        "tag": "دیپلماتیک",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/globe-at-a-glance-from-rubio-warning-iran-allies-to-nyc-schools-banning-ai-14042778.html",
+        "clean_url": "https://www.firstpost.com/world/globe-at-a-glance-from-rubio-warning-iran-allies-to-nyc-schools-banning-ai-14042778.html",
+        "image": "https://www.bing.com/th?id=ONUT.iIMu0Sjlhpe0fs7xsweY0A",
+        "timestamp": 1788313327.0
     },
     {
         "id": "cf4eb68d47",
@@ -5143,56 +5197,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUpmdGNNVndvczlTbUpBZ243RmpsZlEyOFpsQ3ZnMmxPaVFXMDhxdklkeEZkcHo1STdwYjE0YkVuVFpxdGdDSW43dXNqN3lXMmpzN0JhTFZmYnlpVVJUbzR3eEhTeUpLWEk0YnN5N3dyZTY1VW5wXzgyN1BFQXVycE80aWVMY3RmOVZ2Q1Q0b1Z2T0tmSWZ2eDFTWG9BVEE",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788197220.0
-    },
-    {
-        "id": "cca64f3ae2",
-        "title_fa": "ترامپ پس از اولین حملات آمریکا و ایران در یک ماه گذشته قول \"تلافی\" کرد",
-        "title_en": "Trump vows 'retaliation' after first US-Iran strikes in a month",
-        "summary": [
-            "Iran and the US have exchanged strikes for the first time in a month, causing oil prices to rise more than two percent"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/trump-vows-retaliation-after-first-us-iran-strikes-month",
-        "clean_url": "https://www.newarab.com/news/trump-vows-retaliation-after-first-us-iran-strikes-month",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2292345083.jpeg?itok=RfIAqqpG",
-        "timestamp": 1788196560.0
-    },
-    {
-        "id": "e47881f131",
-        "title_fa": "تلاش ترامپ برای جلوگیری از نتیجه معکوس بیشتر جنگ ایران",
-        "title_en": "Trump’s try to keep the Iran war from backfiring further",
-        "summary": [
-            "Despite the excitement around Donald Trump’s new sanctions and even the US strikes against the Iranian island of Larak just hours ago, much..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Asia Times",
-        "url": "https://asiatimes.com/2026/09/trumps-try-to-keep-the-iran-war-from-backfiring-further/",
-        "clean_url": "https://asiatimes.com/2026/09/trumps-try-to-keep-the-iran-war-from-backfiring-further",
-        "image": "http://www.bing.com/th?id=ONUT.cl2xbAQtOC8JVRH76GLpSQ&pid=News",
-        "timestamp": 1788195600.0
-    },
-    {
-        "id": "7b356f70a8",
-        "title_fa": "جنگ ایران زنده: ترامپ متعهد شد که پس از اولین درگیری در ماه گذشته به ایران ضربه \"سخت\" خواهد زد",
-        "title_en": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
-        "summary": [
-            "Iran’s Islamic Revolutionary Guard Corps reports that its air defenses intercepted a US MQ-9 drone over the eastern Strait of Hormuz, following a pledge from US President Donald Trump to respond to..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T175100Z_942363201_RC2I9NAHPTC6_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1788215429.jpg?resize=1920%2C1440",
-        "timestamp": 1788195600.0
     }
 ]
