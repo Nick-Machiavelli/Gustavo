@@ -1,5 +1,24 @@
 [
     {
+        "id": "e433526859",
+        "title_fa": "ایالات متحده و کره‌جنوبی باید چارچوب هسته‌ای مشترک بسازند",
+        "title_en": "Report urges stronger U.S.-South Korea nuclear planning against North",
+        "summary": [
+            "پژوهشگر کره‌جنوبی ترکیب توان هسته‌ای و نظامی را در چارچوب مشترک پیشنهاد می‌کند",
+            "طرح در واکنش به ادغام سلاح‌های هسته‌ای و معمولی توسط شمال‌کره است",
+            "جنگ روسیه‑اوکراین به تسریع این ایده کمک کرده"
+        ],
+        "impact": "تقویت توان دفاعی منطقه و فشار بر شمال‌کره و چین",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "UPI",
+        "url": "https://www.upi.com/Top_News/World-News/2026/09/02/asan-institute-nuclear-weapons-north-korea/4091788393486/",
+        "clean_url": "https://www.upi.com/Top_News/World-News/2026/09/02/asan-institute-nuclear-weapons-north-korea/4091788393486",
+        "image": "https://www.bing.com/th?id=ONUT.uJLWCgPXVl2y5Sen08dA-A",
+        "timestamp": 1788394907.6990845
+    },
+    {
         "id": "91d6380f87",
         "title_fa": "آمریکا بزرگ‌ترین تهدید اقتصادی استرالیا",
         "title_en": "We’re all paying a Trump tax — because the US is our biggest economic threat",
@@ -20,6 +39,25 @@
         "timestamp": 1788392359.5053988
     },
     {
+        "id": "abe26fb264",
+        "title_fa": "ترامپ ایران را مسخره می‌کند؛ تلفات ما خندیده نمی‌شود",
+        "title_en": "Iran is a joke to Trump. Our US casualties aren't laughing. | Opinion",
+        "summary": [
+            "نویسنده می‌گوید ترامپ با شوخی درباره ایران جان سربازان را به خطر می‌اندازد",
+            "این طرز فکر باعث کاهش اعتبار سیاست خارجی آمریکا می‌شود",
+            "واکنش عمومی ممکن است به فشار داخلی برای تغییر مسیر منجر شود"
+        ],
+        "impact": "تضعیف حمایت عمومی از مداخلات نظامی آمریکا",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2w3ejg5clpfQnhGQXFXOWJZUUMzTFh0ZTduR0lWb2VLRGxfT2tyZl9icV9saDRLOUF0Z0NIcEk0YlFlbmtsR1hVa2xFdXQyRlM0OUw5MVJ1cXdIeTd5Zzk3cjJGU2xlem9ERmxKdElWQkpyRUNXREpiazZzUU5pRXVnYnBVMHVfZXFrSWJoeFh1bnpTTnVleFBUVklRMGNDNjlSZ3pBZS1pV1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2w3ejg5clpfQnhGQXFXOWJZUUMzTFh0ZTduR0lWb2VLRGxfT2tyZl9icV9saDRLOUF0Z0NIcEk0YlFlbmtsR1hVa2xFdXQyRlM0OUw5MVJ1cXdIeTd5Zzk3cjJGU2xlem9ERmxKdElWQkpyRUNXREpiazZzUU5pRXVnYnBVMHVfZXFrSWJoeFh1bnpTTnVleFBUVklRMGNDNjlSZ3pBZS1pV1E",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788390480.0
+    },
+    {
         "id": "3d65299758",
         "title_fa": "چین و اروپا به خطر استراتژیک هورموز پی بردند",
         "title_en": "Iran conflict 'laid bare' Europe and China's dependence on the Strait of Hormuz: Conway",
@@ -38,6 +76,23 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-conflict-laid-bare-europe-and-chinas-dependence-on-the-strait-of-hormuz-conway/vi-AA2brpi7",
         "image": "https://www.bing.com/th?id=ONUT.GyiTsIcE0b3FO0vnu_5elw",
         "timestamp": 1788388851.90357
+    },
+    {
+        "id": "65b5e335f4",
+        "title_fa": "ترامپ تحت فشار برای مهار نبردهای میان دوره ای ایران قرار دارد",
+        "title_en": "Trump under pressure to contain Iran fighting as midterms near",
+        "summary": [
+            "Trump under pressure to contain Iran fighting as midterms near The Hill"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREFLazNfYm1LYk5peW10SE9nNjJyNU1lT2lDcFlrVURPaDVmVndTbjJLOXNaamhFN0F5bWhpNmpLbW5zeHY4cWxTQTVfZTlfYWJraHNmN25DLVVSRnJBVmVIWm5kSS1OaUFLbm1ubVFtVFZLWkVpTmpEMEZrbmYxUVo2NmhHQTZJc2fSAY8BQVVfeXFMUFpsdjlHM2M0WWZ0UHZja3ltLVlsYzlXbnhYcjdZWlFBbGo4RWV2b1JtbHpBaGhTS21CTXZ3RHdMR29oSzRRRG1XZ0VFcFVOQmxLOWE0U2NMTkZvZDJjWFlfUG9kV0pkNlFqNmZmNi1nNHRydktYajNfdm9KSHBiUFd1WEtsZ1hudVhDVVc3T0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREFLazNfYm1LYk5peW10SE9nNjJyNU1lT2lDcFlrVURPaDVmVndTbjJLOXNaamhFN0F5bWhpNmpLbW5zeHY4cWxTQTVfZTlfYWJraHNmN25DLVVSRnJBVmVIWm5kSS1OaUFLbm1ubVFtVFZLWkVpTmpEMEZrbmYxUVo2NmhHQTZJc2fSAY8BQVVfeXFMUFpsdjlHM2M0WWZ0UHZja3ltLVlsYzlXbnhYcjdZWlFBbGo4RWV2b1JtbHpBaGhTS21CTXZ3RHdMR29oSzRRRG1XZ0VFcFVOQmxLOWE0U2NMTkZvZDJjWFlfUG9kV0pkNlFqNmZmNi1nNHRydktYajNfdm9KSHBiUFd1WEtsZ1hudVhDVVc3T0k",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788388320.0
     },
     {
         "id": "13fc971dad",
@@ -760,6 +815,25 @@
         "clean_url": "https://www.msn.com/en-nz/news/other/trump-doesn-t-understand-the-forever-war-he-s-created-with-iran/ar-AA2bpRo3",
         "image": "https://www.bing.com/th?id=ONUT.Dxtc4Byf5DPi3QvJvB8pgg",
         "timestamp": 1788356560.8187587
+    },
+    {
+        "id": "2e32ad74be",
+        "title_fa": "ترامپ: ایالات متحده هر زمان می‌تواند به ایران حمله کند",
+        "title_en": "Live Updates: Trump says U.S. prepared to strike Iran \"anytime we want\" after carrying out \"very heavy attack\"",
+        "summary": [
+            "ترامپ به صراحت اعلام کرد آمادگی برای حملات بیشتر به ایران را دارد",
+            "ادعای حمله به مهمانی عروسی و تلفات غیرنظامی توسط آمریکا رد شد",
+            "مرکز فرماندهی آمریکا ۸۶ کشتی تجاری را در بلوکاد خلیج بازگرداند"
+        ],
+        "impact": "افزایش خطر تشدید جنگ و فشار بر ناوبری خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-dismisses-diplomacy-tehran-says-wedding-hit-in-strike/",
+        "clean_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-dismisses-diplomacy-tehran-says-wedding-hit-in-strike",
+        "image": "http://www.bing.com/th?id=ONUT.2KMRJj-6lrI09aP-wC5KjA&pid=News",
+        "timestamp": 1788356220.0
     },
     {
         "id": "f805b13863",
@@ -5107,73 +5181,5 @@
         "clean_url": "https://www.rawstory.com/trump-venezuela-oil",
         "image": "https://www.bing.com/th?id=ONUT.r5TygIVY1-LjRmQfE9Sd7Q",
         "timestamp": 1788192439.771398
-    },
-    {
-        "id": "c65cf1b1a8",
-        "title_fa": "ترامپ Administration Imposes New تحریم‌ها on ایران",
-        "title_en": "Trump Administration Imposes New Sanctions on Iran",
-        "summary": [
-            "Trump Administration Imposes New Sanctions on Iran The Institute for Energy Research"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The Institute for Energy Research",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFhjeUJuUzExR0RvMl9zWHFrSmcyUVMxY0NDa3Q5c3NRYXlndTMwaHUxUDVIYnNlTDVfb2ZGM3RJYXFsTHFKZnJnLWVPOTIzR2h1enFSVHAwYkdYT1VPZEdTOHVFalVXZkNyUENIOTlhejQtOUY2bHRGZ1RIZ2JkQk5QMDkzUUNCSGYxdFNNREVoYkFVcmlLeWNGbjUzeUZUckVpMEtXeHdXR1c0cTRDX0RXN2F5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFhjeUJuUzExR0RvMl9zWHFrSmcyUVMxY0NDa3Q5c3NRYXlndTMwaHUxUDVIYnNlTDVfb2ZGM3RJYXFsTHFKZnJnLWVPOTIzR2h1enFSVHAwYkdYT1VPZEdTOHVFalVXZkNyUENIOTlhejQtOUY2bHRGZ1RIZ2JkQk5QMDkzUUNCSGYxdFNNREVoYkFVcmlLeWNGbjUzeUZUckVpMEtXeHdXR1c0cTRDX0RXN2F5QQ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788191596.0
-    },
-    {
-        "id": "2707bcfda7",
-        "title_fa": "شعله ور شدن اخیر بین آمریکا و ایران به آرامش درگیری پایان می‌دهد",
-        "title_en": "Latest flare-up between US and Iran bring conflict's lull to an end",
-        "summary": [
-            "Latest flare-up between US and Iran bring conflict's lull to an end France 24"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckVzckJ6UXNDYjd0TU15Y3E4cnFRQ1BUUFppX3lHRjZuMEJWa0Y5NlQzMmFvcjBYa0ZLMzRoSlBrMmc1YzBta0E1ZFVxTmJoQ1g1ZE1NQkNTMFJBbUpaTHBMRjMwM25jZ1VxM3ZiRDRaRmd6Szl1NldnbVpXb3NpUkw2aVFqOGZwaGpiXy1xYXY5LWMydGlsQ3BvWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckVzckJ6UXNDYjd0TU15Y3E4cnFRQ1BUUFppX3lHRjZuMEJWa0Y5NlQzMmFvcjBYa0ZLMzRoSlBrMmc1YzBta0E1ZFVxTmJoQ1g1ZE1NQkNTMFJBbUpaTHBMRjMwM25jZ1VxM3ZiRDRaRmd6Szl1NldnbVpXb3NpUkw2aVFqOGZwaGpiXy1xYXY5LWMydGlsQ3BvWQ",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788189724.0
-    },
-    {
-        "id": "ad9538fdaf",
-        "title_fa": "مقامات فلسطینی می‌گویند عملیات اسرائیل در غزه 4 کشته بر جای گذاشت",
-        "title_en": "Israeli Operation in Gaza Kills 4, Palestinian Officials Say",
-        "summary": [
-            "Israel’s defense minister said the operation resulted in the capture of a senior Hamas member. Hamas said Israel sent covert operatives into Gaza City."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-        "clean_url": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788189170.0
-    },
-    {
-        "id": "f43a6842b8",
-        "title_fa": "دونالد ترامپ \"چه سوال احمقانه ای\" را مطرح می‌کند و کنفرانس مطبوعاتی را به طرز چشمگیری به پایان می‌رساند",
-        "title_en": "Donald Trump snaps 'what a stupid question' and dramatically ends press conference",
-        "summary": [
-            "President Donald Trump snapped at a reporter after a question about using a nuclear weapon in Iran. He said the U.S. had..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Stringr on MSN",
-        "url": "https://www.msn.com/en-us/news/other/donald-trump-snaps-what-a-stupid-question-and-dramatically-ends-press-conference/vi-AA2blOLC?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-snaps-what-a-stupid-question-and-dramatically-ends-press-conference/vi-AA2blOLC",
-        "image": "https://www.bing.com/th?id=ONUT.cXvh_FwLPQ8tEusP4sgrAQ",
-        "timestamp": 1788189170.0
     }
 ]
