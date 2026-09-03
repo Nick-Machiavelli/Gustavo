@@ -1,5 +1,25 @@
 [
     {
+        "id": "1323a1e4c3",
+        "title_fa": "ویدئوی ادعای تهدید ۵۲ هدف ایرانی توسط ترامپ",
+        "title_en": "Trump killed Qasem Soleimani… then threatened 52 Iranian targets if Tehran retaliated",
+        "summary": [
+            "ویدئو ادعای تهدید ۵۲ هدف ایرانی را به‌عنوان بخشی از روایت‌سازی ترامپ نشان می‌دهد",
+            "هیچ بیانیه رسمی جدیدی از ترامپ در این زمینه منتشر نشده؛ محتوا صرفاً بازنگری دوره اول ریاست‌جمهوری است",
+            "چنین روایت‌ها می‌توانند افکار عمومی را نسبت به خطرات نظامی افزایش دهند",
+            "باید از انتشار شایعات بی‌پایه جلوگیری کرد تا تنش‌های غیرضروری بین دو کشور تشدید نشود"
+        ],
+        "impact": "افزایش اضطراب عمومی و فشار دیپلماتیک بر روابط آمریکا‑ایران",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "FORGOTTEN HISTORY on MSN",
+        "url": "https://www.msn.com/en-ph/news/other/trump-killed-qasem-soleimani-then-threatened-52-iranian-targets-if-tehran-retaliated/vi-AA2bpNQY?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ph/news/other/trump-killed-qasem-soleimani-then-threatened-52-iranian-targets-if-tehran-retaliated/vi-AA2bpNQY",
+        "image": "https://www.bing.com/th?id=ONUT.-fLH3lpDhpCF4CS3788vSg",
+        "timestamp": 1788433940.7164965
+    },
+    {
         "id": "3c25d7164a",
         "title_fa": "فشار چین بر ژاپن به نقطه شکست رسید",
         "title_en": "China’s pressure campaign against Japan is backfiring badly",
@@ -17,6 +37,26 @@
         "clean_url": "https://asiatimes.com/2026/09/chinas-pressure-campaign-against-japan-is-backfiring-badly",
         "image": "https://asiatimes.com/wp-content/uploads/2025/12/Japan-Sanae-Takaichi-.jpg",
         "timestamp": 1788432064.3813186
+    },
+    {
+        "id": "f25081ca2c",
+        "title_fa": "کمبود ۸۰۰ دارو در ایران؛ هزینه‌ها سه‌برابر می‌شود",
+        "title_en": "Iran drug shortages hit 800 medicines as costs could triple",
+        "summary": [
+            "کمبود ۸۰۰ دارو به‌خصوص در بیمارستان‌ها باعث مرگ‌ومیر بیماران می‌شود",
+            "هزینه‌های سه‌برابر دارو فشار مالی شدید بر بیماران و نظام بهداشت می‌گذارد",
+            "بحران ناشی از تحریم‌های دارویی و مشکلات تولید داخلی است",
+            "دولت باید به‌سرعت راه‌حل‌های واردات یا تولید داخلی پیدا کند"
+        ],
+        "impact": "تشدید بحران بهداشتی و افزایش هزینه‌های درمان",
+        "tag": "دارو",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "iranintl.com",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTGQ4elJVbTdWSFZmc1Q5UFFHX3haNS1KSUVsam1feUdUNmlWZ29tYkw0NVdUaEdSZUdqbGtZdG8tSkFHVklqT0VUYTFhZlpoNGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTGQ4elJVbTdWSFZmc1Q5UFFHX3haNS1KSUVsam1feUdUNmlWZ29tYkw0NVdUaEdSZUdqbGtZdG8tSkFHVklqT0VUYTFhZlpoNGc",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788431944.0
     },
     {
         "id": "63fc801aa1",
@@ -115,6 +155,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yZVUxNWRvLUphSGptSzl2ZWo3ZVZzY3V1WTRyZU1CZm12eXBrYjNTSUpXTjg1MXcxU1JZNnRsNGkwcFV3OXB2WDhpZ2ZZeXZlRFgyQWhn",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788429969.0
+    },
+    {
+        "id": "bf80bee475",
+        "title_fa": "استفاده طولانی‌مدت نیروهای آمریکا در خاورمیانه فشار می‌آورد",
+        "title_en": "Longer Middle East Deployments Strain U.S. Forces as Iran Conflict Drags On | The 10-Point for September 3",
+        "summary": [
+            "نیروهای آمریکایی به‌دلیل ادامه درگیری با ایران به‌صورت طولانی‌مدت در خاورمیانه مستقرند",
+            "این استقرار طولانی باعث خستگی، هزینه‌های بالا و کمبود نیروی انسانی می‌شود",
+            "فشار بر توان عملیاتی آمریکا می‌تواند واکنش‌های منطقه‌ای را تحت تأثیر قرار دهد",
+            "ضرورت بازنگری استراتژیک در حضور نظامی برای جلوگیری از فرسودگی نیروها وجود دارد"
+        ],
+        "impact": "کاهش کارایی نیروی نظامی آمریکا و افزایش هزینه‌های دفاعی",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0xvN2xocmd5Z1NfSmpyTVV4Qm1WWnRQN0pzM3pnbGhPNjZLd1FCYV9zVUQ1eThYRGpSSEhyYzd3TkowdXcwV3ZHWDBuM2tZLWxBVExFdEpMOS1yQkE3WXhXNXBXQ3dPWnBQTERYazVrX0pGM2NzWVc5SDBGQjk5RTZld3M5dkh5ZlRQamxyU09zZ0E2S3NSQS1rSFlRYmUzOGdyQ1dVUXhoM0ZSbEFRelJJMnEyclhQNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0xvN2xocmd5Z1NfSmpyTVV4Qm1WWnRQN0pzM3pnbGhPNjZLd1FCYV9zVUQ1eThYRGpSSEhyYzd3TkowdXcwV3ZHWDBuM2tZLWxBVExFdEpMOS1yQkE3WXhXNXBXQ3dPWnBQTERYazVrX0pGM2NzWVc5SDBGQjk5RTZld3M5dkh5ZlRQamxyU09zZ0E2S3NSQS1rSFlRYmUzOGdyQ1dVUXhoM0ZSbEFRelJJMnEyclhQNkE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788428589.0
     },
     {
         "id": "b6deddc984",
@@ -5235,56 +5295,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmpRVW0wSlR3WnJacEhxTk9ldXVERXk3QXVFc1ZZV2oyNVM5TEVId1RYU0JsOWN5Y0R5bXZKcklUaTNHWmN1X3JPUDh1N2VmS3U4by1QM1NDZksxNm1kdHA4elBUWFNteFB3UlpKcEtJbjE1S19sNDBVcXRUZ3MxM0xGOEV3Q2hFQmVvU1p0clY4R3c1M2o3TDUwVVcwU3FiWkJoN01NQ2J5QmRkUTdyQUkzSXNwUQ",
         "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788244860.0
-    },
-    {
-        "id": "73ffdb4f6f",
-        "title_fa": "تفسیر: ثروت نفتی آمریکا از درگیری با ایران دوام خواهد آورد",
-        "title_en": "COMMENTARY: The Americas’ oil bonanza will outlast the Iran conflict",
-        "summary": [
-            "COMMENTARY: The Americas’ oil bonanza will outlast the Iran conflict Reuters"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEVteXgtY0ZZbHpwZWliT1lOMWVzV2llVmg3MV9QVHBrLXFxU1N4UmxueUkzeG5rTnduUFAycjcwSnQ1ZWtuX2ptdzYyWVgxa1hHNXFGSGp0ZlFqQmRXUE0wZG1XbjlhcEZTU0puZG0tOFh5R0R4c0c2Y2ZaUWdBQ01zMExvWGFDZkgzNGRCcU1MOGhPV1Q1S1BCMUdwSGZyZjZRZ3BwTVZURHQtVF96dXBVT3c1S28?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEVteXgtY0ZZbHpwZWliT1lOMWVzV2llVmg3MV9QVHBrLXFxU1N4UmxueUkzeG5rTnduUFAycjcwSnQ1ZWtuX2ptdzYyWVgxa1hHNXFGSGp0ZlFqQmRXUE0wZG1XbjlhcEZTU0puZG0tOFh5R0R4c0c2Y2ZaUWdBQ01zMExvWGFDZkgzNGRCcU1MOGhPV1Q1S1BCMUdwSGZyZjZRZ3BwTVZURHQtVF96dXBVT3c1S28",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788242400.0
-    },
-    {
-        "id": "cb849aa8a3",
-        "title_fa": "گابل، تحلیلگر آمریکایی می‌گوید، سازمان همکاری شانگهای روسیه، قدرت خود را در حال کاهش نقاب نشان می‌دهد",
-        "title_en": "Russia’s SCO Show Masks Shrinking Power, US Analyst Goble Says",
-        "summary": [
-            "Paul Goble says Moscow’s reliance on China, Iran and North Korea reflects shrinking influence, lost soft power and the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Kyiv Post",
-        "url": "https://www.kyivpost.com/interviews/83455",
-        "clean_url": "https://www.kyivpost.com/interviews/83455",
-        "image": "https://www.bing.com/th?id=ONUT.uHIMLsLA3CIEEzuVBJNUVQ",
-        "timestamp": 1788239534.8591042
-    },
-    {
-        "id": "bcff22529a",
-        "title_fa": "تحریم‌ها and bombs won’t end the جنگ in ایران. ترامپ is running out of options against an intractable foe",
-        "title_en": "Sanctions and bombs won’t end the war in Iran. Trump is running out of options against an intractable foe",
-        "summary": [
-            "The Trump administration is trying every tactic to get Iran to capitulate, but there is only one path forward for both sides."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "The Conversation",
-        "url": "https://theconversation.com/sanctions-and-bombs-wont-end-the-war-in-iran-trump-is-running-out-of-options-against-an-intractable-foe-290852",
-        "clean_url": "https://theconversation.com/sanctions-and-bombs-wont-end-the-war-in-iran-trump-is-running-out-of-options-against-an-intractable-foe-290852",
-        "image": "https://www.bing.com/th?id=ONUT.S1-iMiKoG96vJbOjMHhqog",
-        "timestamp": 1788237711.076428
     }
 ]
