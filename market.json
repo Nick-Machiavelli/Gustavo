@@ -6,11 +6,16 @@
     "aed": "60,420",
     "try": "4,650",
     "sar": "59,100",
+<<<<<<< Updated upstream
     "kwd": "718,260",
+=======
+    "kwd": "718,300",
+>>>>>>> Stashed changes
     "qar": "60,880",
     "chf": "274,800",
     "jpy": "1,424",
     "cad": "نامشخص",
+<<<<<<< Updated upstream
     "btc_usd": "81,325",
     "btc_tmn": "18,046,017,500",
     "eth_usd": "2,505",
@@ -21,20 +26,42 @@
     "bnb_tmn": "160,844,215",
     "sol_usd": "104.93",
     "sol_tmn": "23,283,967",
+=======
+    "btc_usd": "81,397",
+    "btc_tmn": "18,061,994,300",
+    "eth_usd": "2,506",
+    "eth_tmn": "556,028,144",
+    "usdt_usd": "1.00",
+    "usdt_tmn": "221,900",
+    "bnb_usd": "725.28",
+    "bnb_tmn": "160,939,632",
+    "sol_usd": "105.03",
+    "sol_tmn": "23,306,157",
+>>>>>>> Stashed changes
     "xrp_usd": "1.46",
     "xrp_tmn": "323,974",
     "usdc_usd": "1.00",
     "usdc_tmn": "221,900",
+<<<<<<< Updated upstream
     "doge_usd": "0.0878",
     "doge_tmn": "19,493",
     "ada_usd": "0.2216",
     "ada_tmn": "49,181",
     "trx_usd": "0.3311",
     "trx_tmn": "73,479",
+=======
+    "doge_usd": "0.0880",
+    "doge_tmn": "19,519",
+    "ada_usd": "0.2220",
+    "ada_tmn": "49,260",
+    "trx_usd": "0.3313",
+    "trx_tmn": "73,515",
+>>>>>>> Stashed changes
     "avax_usd": "7.54",
     "avax_tmn": "1,673,126",
     "shib_usd": "0.000005",
     "shib_tmn": "1",
+<<<<<<< Updated upstream
     "dot_usd": "0.8908",
     "dot_tmn": "197,662",
     "link_usd": "11.91",
@@ -52,4 +79,23 @@
     "oil": "91.71",
     "updated": "22:22",
     "updated_iso": "2026-09-03T22:22:04.674270+00:00"
+=======
+    "dot_usd": "0.8917",
+    "dot_tmn": "197,868",
+    "link_usd": "11.92",
+    "link_tmn": "2,645,048",
+    "ltc_usd": "51.54",
+    "ltc_tmn": "11,436,726",
+    "brent_usd": "91.70",
+    "brent_tmn": "20,348,230",
+    "wti_usd": "91.70",
+    "wti_tmn": "20,348,230",
+    "opec_usd": "91.70",
+    "opec_tmn": "20,348,230",
+    "dubai_usd": "91.70",
+    "dubai_tmn": "20,348,230",
+    "oil": "91.70",
+    "updated": "01:49",
+    "updated_iso": "2026-09-03T22:19:32.314193+00:00"
+>>>>>>> Stashed changes
 }
