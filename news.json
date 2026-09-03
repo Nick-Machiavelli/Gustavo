@@ -1,5 +1,43 @@
 [
     {
+        "id": "3c25d7164a",
+        "title_fa": "فشار چین بر ژاپن به نقطه شکست رسید",
+        "title_en": "China’s pressure campaign against Japan is backfiring badly",
+        "summary": [
+            "چین شرطی‌سازی ژاپن درباره تایوان را ادامه می‌دهد",
+            "واکنش ژاپن نشان می‌دهد روابط دو کشور به‌سختی می‌گیرد",
+            "سیاست‌های تنبیهی چین ممکن است به عقب‌گرد اقتصادی منجر شود"
+        ],
+        "impact": "تجارت چین‑ژاپن تحت فشار می‌گیرد و رشد منطقه‌ای کاهش می‌یابد",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Asia Times",
+        "url": "https://asiatimes.com/2026/09/chinas-pressure-campaign-against-japan-is-backfiring-badly/",
+        "clean_url": "https://asiatimes.com/2026/09/chinas-pressure-campaign-against-japan-is-backfiring-badly",
+        "image": "https://asiatimes.com/wp-content/uploads/2025/12/Japan-Sanae-Takaichi-.jpg",
+        "timestamp": 1788432064.3813186
+    },
+    {
+        "id": "63fc801aa1",
+        "title_fa": "ایران به آمریکا درباره حمله به ریدج لبنان هشدار داد",
+        "title_en": "Iran warns US over Lebanon ridge strike",
+        "summary": [
+            "ایران اعلام کرد هرگونه حمله به ریدج لبنان پیامدهای جدی برای ایالات متحده دارد",
+            "این هشدار پس از گزارش‌های حمله هوایی آمریکا به موقعیت‌های نظامی در لبنان صادر شد",
+            "تنش‌های ایران‑آمریکا در خاورمیانه به سطح خطرناک‌تری رسیده است"
+        ],
+        "impact": "امکان گسترش عملیات نظامی و تحریم‌های جدید علیه شرکت‌های نظامی آمریکا وجود دارد",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "www.israelhayom.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0hIZFB3bktHVTRYeGR5X1JkX0h1bFNkcTlwLVBUM3U4N253Q1dKRTVHLWRac2hDajAxN1doU19HYVVPN0dlUzhwUnV3dXdzc0dhcFMxV2h3eHA1b3V0TzlzTnJQUUc5SFdDSExxWjdCYnNvc1JndmtFVE1ZWGhaWG54R1lhQndlV2lMYVV2Sll6cWNmVlVMWm13?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0hIZFB3bktHVTRYeGR5X1JkX0h1bFNkcTlwLVBUM3U4N253Q1dKRTVHLWRac2hDajAxN1doU19HYVVPN0dlUzhwUnV3dXdzc0dhcFMxV2h3eHA1b3V0TzlzTnJQUUc5SFdDSExxWjdCYnNvc1JndmtFVE1ZWGhaWG54R1lhQndlV2lMYVV2Sll6cWNmVlVMWm13",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788430772.0
+    },
+    {
         "id": "670f4cee79",
         "title_fa": "نقض کارایی تیم ترامپ در دفاع و بهداشت",
         "title_en": "From DHS to the Pentagon, Team Trump’s incompetence is on full display",
@@ -40,6 +78,25 @@
         "timestamp": 1788430449.8853405
     },
     {
+        "id": "02c2a84def",
+        "title_fa": "کاتز: اسرائیل بدون محدودیت به زیرساخت‌های انرژی ایران ضربه می‌زند",
+        "title_en": "Katz: If Iran attacks, Israel will be ‘free from all constraints’ and strike energy infrastructure",
+        "summary": [
+            "یوسف کاتز هشدار داد در صورت حمله ایران، اسرائیل به تمام امکانات انرژی هدف می‌گیرد",
+            "این اظهارات نشان‌دهنده آماده‌سازی برای عملیات گسترده نظامی است",
+            "احتمال واکنش تلافی‌جویانه ایران و گسترش درگیری در خاورمیانه بالا است"
+        ],
+        "impact": "تحریم‌های انرژی جدید و خطر قطع گاز برای کشورهای همسایه پیش‌بینی می‌شود",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWFBVHJmTWN6Y3ZsSG1MdUIwQXFqM2Vib2NTWFF2RzY2WlBiY3N4SmQzamE1WVY2eFY1eUtnWm8zVFVTUkVrRkktbGNLRmlReF94QkROT2pBN2ktUjBNX1RLdHhVdFdOclFnSTg5SUYwbnotcU9NcWJzb0ZSZlVoRmswT0Z0Uml2WXZKdDdNWVhpdkhPMGs4TWpuM3hMYVdEbTB5YWtlYnRSTW94MWtDcm1LUi04eGxnZldxTjNpT2RETXVaTmRGOUh5UHVRbEF2ejNqRnB1dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWFBVHJmTWN6Y3ZsSG1MdUIwQXFqM2Vib2NTWFF2RzY2WlBiY3N4SmQzamE1WVY2eFY1eUtnWm8zVFVTUkVrRkktbGNLRmlReF94QkROT2pBN2ktUjBNX1RLdHhVdFdOclFnSTg5SUYwbnotcU9NcWJzb0ZSZlVoRmswT0Z0Uml2WXZKdDdNWVhpdkhPMGs4TWpuM3hMYVdEbTB5YWtlYnRSTW94MWtDcm1LUi04eGxnZldxTjNpT2RETXVaTmRGOUh5UHVRbEF2ejNqRnB1dw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788430110.0
+    },
+    {
         "id": "e921293236",
         "title_fa": "کاتز: حملات گسترده در صورت حمله ایران به اسرائیل",
         "title_en": "‘Back to the Stone Age’: Katz threatens sweeping strikes if Iran attacks Israel",
@@ -58,6 +115,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yZVUxNWRvLUphSGptSzl2ZWo3ZVZzY3V1WTRyZU1CZm12eXBrYjNTSUpXTjg1MXcxU1JZNnRsNGkwcFV3OXB2WDhpZ2ZZeXZlRFgyQWhn",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788429969.0
+    },
+    {
+        "id": "b6deddc984",
+        "title_fa": "امارات پس از حملات به کمپین فشار آمریکا بر ایران نزدیک‌تر می‌شود",
+        "title_en": "UAE moves closer to US Iran pressure campaign after attacks",
+        "summary": [
+            "UAE moves closer to US Iran pressure campaign after attacks The Arab Weekly"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Arab Weekly",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1B0VEZaYm5Zci1fck5iTl9lbjVJbDhGVGpuZzgtSVNTdldGNkpvRzJYTjh0MktRV1kxc3ZWdFF1YW0tNG5wa3llUG1tb3JoNENnY1lRUWZQUzR6WlNJdmc0WFpmS3Q0cWdsUG9ELW5hRGFLUnF5eWVqTzZYd2hJeG9IUkdMeTlBN2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1B0VEZaYm5Zci1fck5iTl9lbjVJbDhGVGpuZzgtSVNTdldGNkpvRzJYTjh0MktRV1kxc3ZWdFF1YW0tNG5wa3llUG1tb3JoNENnY1lRUWZQUzR6WlNJdmc0WFpmS3Q0cWdsUG9ELW5hRGFLUnF5eWVqTzZYd2hJeG9IUkdMeTlBN2c",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788426984.0
     },
     {
         "id": "a46da1f110",
@@ -619,6 +693,25 @@
         "clean_url": "https://www.upi.com/Top_News/World-News/2026/09/02/asan-institute-nuclear-weapons-north-korea/4091788393486",
         "image": "https://www.bing.com/th?id=ONUT.uJLWCgPXVl2y5Sen08dA-A",
         "timestamp": 1788394907.6990845
+    },
+    {
+        "id": "4e68f9191b",
+        "title_fa": "ایران به پایگاه‌های کویت و امارات حمله کرد",
+        "title_en": "Iran war live: Tehran says it targeted Kuwait, UAE over US military support",
+        "summary": [
+            "ایران ادعا کرد حملات پاسخی به «جنایات» آمریکا است",
+            "کویت حمله را نقض حاکمیت و تهدید امنیتی نامید",
+            "این اقدام خطر تشدید تنش‌های خلیج فارس را افزایش می‌دهد"
+        ],
+        "impact": "تحریم‌های جدید و حضور نظامی آمریکا در خلیج فارس محتمل است",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14183923-1785753354.jpg?resize=1920%2C1440",
+        "timestamp": 1788393600.0
     },
     {
         "id": "57cdae8a58",
@@ -1878,6 +1971,25 @@
         "clean_url": "https://www.ndtv.com/opinion/chinas-quiet-power-grab-hiding-in-plain-sight-11991931",
         "image": "https://www.bing.com/th?id=ONUT.EkijBFTb3P8OHlmG-oihyg",
         "timestamp": 1788345686.8914225
+    },
+    {
+        "id": "4c644e14c9",
+        "title_fa": "بدر اعتراف کرد هزاران معترض را کشته",
+        "title_en": "Iranian-backed militia Badr admits it killed, wounded thousands of protesters in Iraq in 2019",
+        "summary": [
+            "هدیر آلمیری نقش گروه در سرکوب 2019 را تأیید کرد",
+            "این اعتراف شواهدی برای دخالت ایران در عراق فراهم می‌کند",
+            "جامعه بین‌المللی ممکن است فشار بیشتری بر militi‌ها اعمال کند"
+        ],
+        "impact": "تحقیقات حقوقی و تحریم‌های هدفمند علیه گروه‌های حمایت‌شده توسط ایران افزایش می‌یابد",
+        "tag": "حقوقی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iranian-backed-militia-badr-admits-094031931.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iranian-backed-militia-badr-admits-094031931.html",
+        "image": "https://www.bing.com/th?id=ONUT.2sQuJQMu3RM4OT4faPAsTw",
+        "timestamp": 1788345656.0
     },
     {
         "id": "8a5f831c8c",
@@ -5174,107 +5286,5 @@
         "clean_url": "https://theconversation.com/sanctions-and-bombs-wont-end-the-war-in-iran-trump-is-running-out-of-options-against-an-intractable-foe-290852",
         "image": "https://www.bing.com/th?id=ONUT.S1-iMiKoG96vJbOjMHhqog",
         "timestamp": 1788237711.076428
-    },
-    {
-        "id": "1acdd9da30",
-        "title_fa": "«به آنها ضربه محکمی بزنید»: آیا ترامپ استراتژی «جدید» دیگری در رابطه با ایران دارد، آیا می‌تواند کارساز باشد؟",
-        "title_en": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
-        "summary": [
-            "Trump signals harsher response as US-Iran hostilities escalate, raising fears of prolonged conflict in the Gulf region."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/hit-them-hard-does-trump-113814559.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/hit-them-hard-does-trump-113814559.html",
-        "image": "http://www.bing.com/th?id=ONUT.c52DDRqLBkWpzi2bBu-dMA&pid=News",
-        "timestamp": 1788237480.0
-    },
-    {
-        "id": "1e0bc80c5c",
-        "title_fa": "ترامپ متعهد شده که به ایران ضربه سختی بزند، به گفته آمریکا ده‌ها کشتی در هرمز اسکورت می‌شود",
-        "title_en": "Trump vows to hit Iran hard, says US escorting dozens of ships in Hormuz",
-        "summary": [
-            "Trump vows to hit Iran hard, says US escorting dozens of ships in Hormuz Al Jazeera"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdlVjVnJob3NkOWhEQmpuc3JOXy1ycTRJdGgxRGM1LVlWUmNoWmxvc0o0VVludHBLUnZqYVJjN1ZaalVyb3lGTE1RcndhSHlRY1laWmF2azhzaUVTR2JDdk9kZ2NubHVUVDBfMmJtUkl3aWVPSm0yZUFnQVBEZlRieFA5N09WMmRYSktodHlkZ3Zwc3VWZDg2eGg1LUk1S0xjdEpZY9IBqgFBVV95cUxPcmsxTkMwd3FHZHdIQWF0aFNKdEplbjlUY0JqRGF0V1JvRUw3a0tfTjl4ZVhoRGFfczdjcENoN0RZcGJiNjFUQjRNTGd4MmN6dVFkX2I4OXJVa2lybU84MXoxbU9PY2R3SnZCX1JKNDNUOFd3aENpMHNYdTAtaHZnbFhtUGpWNTJWTk9fWVNZUUs2VHR2YnVaTHNvZDdEWnpaRjhJU1dTQmk3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdlVjVnJob3NkOWhEQmpuc3JOXy1ycTRJdGgxRGM1LVlWUmNoWmxvc0o0VVludHBLUnZqYVJjN1ZaalVyb3lGTE1RcndhSHlRY1laWmF2azhzaUVTR2JDdk9kZ2NubHVUVDBfMmJtUkl3aWVPSm0yZUFnQVBEZlRieFA5N09WMmRYSktodHlkZ3Zwc3VWZDg2eGg1LUk1S0xjdEpZY9IBqgFBVV95cUxPcmsxTkMwd3FHZHdIQWF0aFNKdEplbjlUY0JqRGF0V1JvRUw3a0tfTjl4ZVhoRGFfczdjcENoN0RZcGJiNjFUQjRNTGd4MmN6dVFkX2I4OXJVa2lybU84MXoxbU9PY2R3SnZCX1JKNDNUOFd3aENpMHNYdTAtaHZnbFhtUGpWNTJWTk9fWVNZUUs2VHR2YnVaTHNvZDdEWnpaRjhJU1dTQmk3UQ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788236226.0
-    },
-    {
-        "id": "193b53e6b5",
-        "title_fa": "پس از تهدید ترامپ به حملات بیشتر، ایران از آمریکا می‌خواهد به توافق موقت پایبند باشد",
-        "title_en": "Iran urges US to comply with interim deal after Trump threatens further strikes",
-        "summary": [
-            "Iran said on Tuesday it would reciprocate if the United States honoured its commitments under a ​June interim deal on halting their conflict, but tensions remained high after U.S. President Donald..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/iran-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01/",
-        "clean_url": "https://www.reuters.com/world/middle-east/iran-urges-us-comply-with-interim-deal-after-trump-threatens-further-strikes-2026-09-01",
-        "image": "http://www.bing.com/th?id=ONUT.YLYX-vvmbRgbRzH9RQdoxA&pid=News",
-        "timestamp": 1788235980.0
-    },
-    {
-        "id": "141810a484",
-        "title_fa": "اریک استاکلبک: سپاه در حال جنگ خواهد بود",
-        "title_en": "The IRGC will go down fighting: Erick Stakelbeck",
-        "summary": [
-            "A 'Fox News @ Night' panel discusses escalating tensions between the U.S. and Iran."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "FOX News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/the-irgc-will-go-down-fighting-erick-stakelbeck/vi-AA2bjN2v?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/the-irgc-will-go-down-fighting-erick-stakelbeck/vi-AA2bjN2v",
-        "image": "https://www.bing.com/th?id=ONUT.i41NXPcucpSxgt_wqaytbw",
-        "timestamp": 1788235945.4092314
-    },
-    {
-        "id": "4cecc1879c",
-        "title_fa": "سر به سر | چرا سپر مکه پاکستان شمشیر هند را کور نمی‌کند؟",
-        "title_en": "Head-on | Why Pakistan’s Mecca shield won’t blunt India’s sword",
-        "summary": [
-            "For all Pakistan’s swagger over the Mecca pact, neither Saudi Arabia nor Turkey is likely to fight its battles against India..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/head-on-why-pakistans-mecca-shield-wont-blunt-indias-sword-14042271.html",
-        "clean_url": "https://www.firstpost.com/opinion/head-on-why-pakistans-mecca-shield-wont-blunt-indias-sword-14042271.html",
-        "image": "https://www.bing.com/th?id=ONUT.cKHh3-osbQh1k_gsG3njyw",
-        "timestamp": 1788235945.4088466
-    },
-    {
-        "id": "3c9d2d4808",
-        "title_fa": "سیاستگذار بانک مرکزی اروپا هشدار داد «تعارض فرسایشی» در ایران می‌تواند تورم را بالا نگه دارد",
-        "title_en": "‘Conflict of attrition’ in Iran could keep inflation high, ECB policymaker warns",
-        "summary": [
-            "‘Conflict of attrition’ in Iran could keep inflation high, ECB policymaker warns Financial Times"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmJOb19mc01kRTRlbi1Hd2VNR1RUUGtrVHZHeUNQT2F2aDJjajlqNU5LeEVweVA4cko3QmNPcFJyN0d4dE92ZWNWYzlQUkNKTW1KbF9FeW9ZVzZIaGNqSWVOU1lJMHl4V0ZlV0FOS0tXaGpXVkhPOXdoU3I0NzhsaGZzc2o?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmJOb19mc01kRTRlbi1Hd2VNR1RUUGtrVHZHeUNQT2F2aDJjajlqNU5LeEVweVA4cko3QmNPcFJyN0d4dE92ZWNWYzlQUkNKTW1KbF9FeW9ZVzZIaGNqSWVOU1lJMHl4V0ZlV0FOS0tXaGpXVkhPOXdoU3I0NzhsaGZzc2o",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788235668.0
     }
 ]
