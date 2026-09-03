@@ -19,15 +19,15 @@ import hashlib
 
 # --- CONFIGURATION ---
 CONFIG = {
-    'SEARCH_QUERY': 'Iran AND (Israel OR USA OR nuclear OR conflict OR sanctions OR currency OR IRGC)',
+    'SEARCH_QUERY': '(Iran OR USA OR Israel) AND (policy OR politics OR diplomacy OR sanctions OR nuclear OR military OR election)',
     'SEARCH_QUERIES': [
-        'Iran (Israel OR Gaza OR Hezbollah OR Houthis) (attack OR strike OR missile OR drone)',
-        'Iran (nuclear OR IAEA OR enrichment OR sanctions)',
-        'Iran (dollar OR rial OR currency OR IRGC OR economy)',
-        '(Trump OR "Donald Trump") (Iran OR "regime change" OR sanctions OR nuclear OR Israel)',
-        '(Netanyahu OR "Benjamin Netanyahu") (Iran OR strike OR nuclear OR Hezbollah OR IRGC)',
-        '("Reza Pahlavi" OR "شاهزاده رضا پهلوی" OR "Pahlavi") (Iran OR opposition OR transition OR speech)',
-        '("IRGC" OR "Qhalibaf" OR "Qaani" OR "سپاه پاسداران") (Iran OR missile OR proxies OR threat)'
+        'USA policy Iran Israel (sanctions OR diplomacy OR military OR Congress)',
+        'Israel policy Iran USA (Netanyahu OR Knesset OR military OR diplomacy)',
+        'Iran policy USA Israel (Government OR parliament OR nuclear OR sanctions)',
+        '(Trump OR \"Donald Trump\") Iran Israel policy sanctions diplomacy',
+        '(Netanyahu OR \"Benjamin Netanyahu\") Iran USA policy',
+        'Iran USA Israel trilateral relations policy',
+        'Washington Tehran Tel Aviv diplomacy nuclear sanctions',
     ],
     'TARGET_SOURCES': [
         'iranintl.com', 'bbc.com/persian', 'radiofarda.com', 'independentpersian.com',
@@ -53,7 +53,7 @@ CONFIG = {
     },
     # Dashboard URL – auto-corrected to the real Pages URL if env is missing or stale
     'BASE_SITE_URL': (os.environ.get('BASE_SITE_URL') or '').strip() or 'https://nick-machiavelli.github.io/Gustavo/',
-    'CHANNEL_LINK': 'https://t.me/Enqelab_e_Iran',
+    'CHANNEL_LINK': 'https://t.me/Gus_tavo_news',
     'TELEGRAM': {
         'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'),
         'CHANNEL_ID': os.environ.get('TG_CHANNEL_ID')
