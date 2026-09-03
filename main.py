@@ -19,15 +19,21 @@ import hashlib
 
 # --- CONFIGURATION ---
 CONFIG = {
-    'SEARCH_QUERY': '(Iran OR USA OR Israel) AND (policy OR politics OR diplomacy OR sanctions OR nuclear OR military OR election)',
+    'SEARCH_QUERY': 'Iran AND (Israel OR USA OR nuclear OR conflict OR sanctions OR currency OR IRGC OR policy OR diplomacy)',
     'SEARCH_QUERIES': [
-        'USA policy Iran Israel (sanctions OR diplomacy OR military OR Congress)',
-        'Israel policy Iran USA (Netanyahu OR Knesset OR military OR diplomacy)',
-        'Iran policy USA Israel (Government OR parliament OR nuclear OR sanctions)',
-        '(Trump OR \"Donald Trump\") Iran Israel policy sanctions diplomacy',
-        '(Netanyahu OR \"Benjamin Netanyahu\") Iran USA policy',
+        # قبلی‌ها — نگه داشته شد
+        'Iran (Israel OR Gaza OR Hezbollah OR Houthis) (attack OR strike OR missile OR drone)',
+        'Iran (nuclear OR IAEA OR enrichment OR sanctions)',
+        'Iran (dollar OR rial OR currency OR IRGC OR economy)',
+        '(Trump OR \"Donald Trump\") (Iran OR \"regime change\" OR sanctions OR nuclear OR Israel)',
+        '(Netanyahu OR \"Benjamin Netanyahu\") (Iran OR strike OR nuclear OR Hezbollah OR IRGC)',
+        '(\"Reza Pahlavi\" OR \"شاهزاده رضا پهلوی\" OR \"Pahlavi\") (Iran OR opposition OR transition OR speech)',
+        '(\"IRGC\" OR \"Qhalibaf\" OR \"Qaani\" OR \"سپاه پاسداران\") (Iran OR missile OR proxies OR threat)',
+        # جدید — تمرکز روی سیاست‌های آمریکا/اسرائیل/ایران
+        'USA policy Iran Israel (sanctions OR diplomacy OR Congress)',
+        'Israel policy Iran USA (Knesset OR diplomacy)',
         'Iran USA Israel trilateral relations policy',
-        'Washington Tehran Tel Aviv diplomacy nuclear sanctions',
+        'Washington Tehran Tel Aviv diplomacy',
     ],
     'TARGET_SOURCES': [
         'iranintl.com', 'bbc.com/persian', 'radiofarda.com', 'independentpersian.com',
