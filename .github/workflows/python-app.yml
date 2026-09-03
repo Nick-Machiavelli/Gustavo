@@ -1,4 +1,4 @@
-name: Gustavo News Update
+name: News.ir Update
 
 on:
   push:
@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: gustavo-update
+  group: news-ir-update
   cancel-in-progress: false
 
 jobs:
@@ -61,10 +61,9 @@ jobs:
           BASE_SITE_URL: ${{ secrets.BASE_SITE_URL }}
           MANUAL_URL: ${{ inputs.manual_url }}
         run: |
-          echo "=== Running Gustavo news radar ==="
+          echo "=== Running News.ir radar ==="
           python main.py 2>&1 | tee /tmp/gustavo_run.log
           echo "=== Run exit code: ${PIPESTATUS[0]} ==="
-          # Always archive the log as a workflow artifact for debugging
           echo "AI_API_KEY set: $([ -n \"$AI_API_KEY\" ] && echo YES || echo NO)" >> /tmp/gustavo_run.log
           echo "TG_BOT_TOKEN set: $([ -n \"$TG_BOT_TOKEN\" ] && echo YES || echo NO)" >> /tmp/gustavo_run.log
           echo "TG_CHANNEL_ID set: $([ -n \"$TG_CHANNEL_ID\" ] && echo YES || echo NO)" >> /tmp/gustavo_run.log
@@ -81,9 +80,7 @@ jobs:
           git config user.name "GustavoBot"
           git config user.email "bot@noreply.github.com"
 
-          # Track all JSON outputs including schedule state (persists dedup/schedule across ephemeral runners)
           git add news.json market.json daily_summary.json bulletins.json special_reports.json schedule_state.json 2>/dev/null || true
-          # Also add if they are new/untracked
           git add -A 2>/dev/null || true
 
           if git diff --staged --quiet; then

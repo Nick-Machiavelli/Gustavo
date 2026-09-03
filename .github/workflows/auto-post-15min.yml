@@ -1,0 +1,59 @@
+name: Auto Post Every 15 Minutes
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # هر 15 دقیقه
+  workflow_dispatch: {}       # اجرای دستی از تب Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-ir-auto-post
+  cancel-in-progress: false
+
+jobs:
+  auto-post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run poster (once)
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+          BASE_SITE_URL: ${{ secrets.BASE_SITE_URL }}
+          INTERVAL_MINUTES: '15'
+        run: |
+          python auto_poster.py --once 2>&1 | tee /tmp/poster.log
+          echo "exit:$?"
+
+      - name: Commit JSON changes
+        if: always()
+        run: |
+          git config user.name "NewsBot"
+          git config user.email "bot@noreply.github.com"
+          git add news.json market.json daily_summary.json bulletins.json special_reports.json schedule_state.json 2>/dev/null || true
+          git diff --staged --quiet && echo "no changes" && exit 0
+          git commit -m "auto-post 15min [skip ci]"
+          git push
+
+      - name: Upload log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: poster-log
+          path: /tmp/poster.log

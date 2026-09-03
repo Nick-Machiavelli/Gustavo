@@ -90,7 +90,8 @@
 
                                                 /* ---- Nav Pill Tabs (صفحه اصلی، نظامی، ...) ---- */
                                                 .nav-pill-active { background: #0f172a !important; color: #ffffff !important; }
-
+                                                .nav-pill-inactive { background: #ffffff !important; color: #0f172a !important; border: 1px solid #e2e8f0; }
+                                                @keyframes progress { 0% { transform: translateX(-100%); } 100% { transform: translateX(100%); } }
                                                         .overflow-x-auto {
             -webkit-overflow-scrolling: touch;
         }
@@ -648,48 +649,50 @@ let dailySummaryData = null;
 let currentFilter = 'all';
 let currentSearch = '';
 let currentSort = 'newest';
+let currentSourceFilter = 'all';
 let itemsToShow = 10;
 
-// Data is served locally by the same app (worker.py serves this directory over HTTP),
-// so we fetch same-origin first. If you also mirror the JSON files to a GitHub repo,
-// fill in GITHUB_USER / GITHUB_REPO below to use it as a fallback.
-const GITHUB_USER = '';
-const GITHUB_REPO = '';
-const GITHUB_RAW_BASE = GITHUB_USER && GITHUB_REPO
-    ? `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/`
-    : null;
-const GITHUB_CDN_BASE = GITHUB_USER && GITHUB_REPO
-    ? `https://cdn.jsdelivr.net/gh/${GITHUB_USER}/${GITHUB_REPO}@main/`
-    : null;
+// Data is served locally (same-origin). Fallback to GitHub raw if needed.
+const GITHUB_USER = 'Nick-Machiavelli';
+const GITHUB_REPO = 'News.ir';
+const GITHUB_RAW_BASE = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/`;
+const GITHUB_CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USER}/${GITHUB_REPO}@main/`;
+
+function escapeJs(str){
+    if(!str) return '';
+    return String(str).replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/"/g,'&quot;').replace(/\n/g,' ').replace(/
+/g,'');
+}
+function escapeHtml(str){
+    if(!str) return '';
+    return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
 
 async function smartFetch(filename) {
     const cacheBuster = `t=${Date.now()}`;
     const controller = new AbortController();
     const timeoutId = setTimeout(() => controller.abort(), 10000);
-
-    // 1. Primary: same-origin fetch (works out of the box on Railway/any host)
+    let lastError = null;
+    // 1. Primary: same-origin fetch
     try {
         const response = await fetch(`./${filename}?${cacheBuster}`, { signal: controller.signal });
         clearTimeout(timeoutId);
         if (response.ok) return response;
-    } catch (e) {}
+        lastError = `same-origin ${response.status}`;
+    } catch (e) { lastError = e; }
     clearTimeout(timeoutId);
-
-    if (!GITHUB_RAW_BASE) return;
-
-    // 2. Fallback: Raw GitHub (only used if GITHUB_USER/GITHUB_REPO are set above)
+    // 2. Fallback: Raw GitHub
     try {
         const response = await fetch(`${GITHUB_RAW_BASE}${filename}?${cacheBuster}`);
         if (response.ok) return response;
-    } catch (e) {}
-
+    } catch (e) { lastError = e; }
     // 3. Fallback: GitHub CDN (jsDelivr)
     try {
         const response = await fetch(`${GITHUB_CDN_BASE}${filename}?${cacheBuster}`);
         if (response.ok) return response;
-    } catch (e) {
-        console.error(`Error loading ${filename}:`, e);
-    }
+    } catch (e) { lastError = e; }
+    console.warn(`smartFetch failed for ${filename}:`, lastError);
+    return null;
 }
 
 /* CLOCKS & MARKETS */
@@ -1065,9 +1068,15 @@ function loadMore() {
 function copyDeepLink(id) {
     if(!id) return;
     const deepURL = `${window.location.origin}${window.location.pathname}?id=${id}`;
-    navigator.clipboard.writeText(deepURL).then(() => {
-        alert(`لینک اختصاصی این خبر کپی شد:\n${deepURL}`);
-    });
+    if(navigator.clipboard && navigator.clipboard.writeText){
+        navigator.clipboard.writeText(deepURL).then(() => {
+            alert(`لینک اختصاصی این خبر کپی شد:\n${deepURL}`);
+        }).catch(()=>{
+            prompt('لینک را کپی کنید:', deepURL);
+        });
+    } else {
+        prompt('لینک را کپی کنید:', deepURL);
+    }
 }
 
 function speakText(text) {
@@ -1082,22 +1091,25 @@ function speakText(text) {
 async function loadData() {
     const loader = document.getElementById('sync-loader');
     if (loader) loader.classList.remove('opacity-0');
-
     try {
         const res = await smartFetch('news.json');
+        if (!res) throw new Error('news.json fetch failed');
         const data = await res.json();
-        newsData = data;
-
+        newsData = Array.isArray(data) ? data : [];
         if (!checkDeepLink()) {
             renderHeroLead();
             renderFeed();
         }
-
+        renderCategoryChips();
         updateTicker();
-        updateTension(data);
-        updateStats(data);
+        updateTension(newsData);
+        updateStats(newsData);
         populateSourceDropdown();
-    } catch (e) {} finally {
+    } catch (e) {
+        console.warn('loadData failed:', e);
+        const container = document.getElementById('feed-container');
+        if(container) container.innerHTML = `<div class="bg-amber-50 border border-amber-200 p-4 rounded-xl text-xs text-amber-800">خطا در بارگذاری اخبار — اتصال را بررسی کنید و <button onclick="loadData()" class="underline font-bold">تلاش مجدد</button> کنید.</div>`;
+    } finally {
         if (loader) loader.classList.add('opacity-0');
     }
 }
@@ -1157,7 +1169,7 @@ function renderHeroLead() {
 
     let html = `
         <div class="grid grid-cols-1 md:grid-cols-12 gap-4 md:gap-5 border-b border-gray-200 pb-5 mb-5">
-            <a href="?id=${mainLead.id || ''}" onclick="event.preventDefault(); openArticleById('${mainLead.id || ''}');" class="md:col-span-7 relative h-52 sm:h-64 md:h-80 rounded-xl overflow-hidden border border-gray-200 group block cursor-pointer bg-gustavo-surface">
+            <a href="?id=${mainLead.id || ''}" onclick="event.preventDefault(); openArticleById('${escapeJs(mainLead.id || '')}');" class="md:col-span-7 relative h-52 sm:h-64 md:h-80 rounded-xl overflow-hidden border border-gray-200 group block cursor-pointer bg-gustavo-surface">
                 <img src="${mainImg}" alt="Hero Image" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80'">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/30 to-transparent"></div>
                 
@@ -1167,28 +1179,28 @@ function renderHeroLead() {
 
                 <div class="absolute bottom-2.5 right-2.5 left-2.5 text-white text-[11px] sm:text-xs leading-relaxed font-medium backdrop-blur-md bg-black/60 p-2.5 sm:p-3 rounded-xl border border-white/10">
                     <p class="font-bold text-amber-700 mb-0.5"><i class="fas fa-bullseye"></i> اثرگذاری راهبردی:</p>
-                    <p class="line-clamp-2 sm:line-clamp-none">${mainLead.impact || '---'}</p>
+                    <p class="line-clamp-2 sm:line-clamp-none">${escapeHtml(mainLead.impact) || '---'}</p>
                 </div>
             </a>
 
             <div class="md:col-span-5 flex flex-col justify-between space-y-3">
                 <div>
                     <span class="gustavo-kicker flex items-center gap-1.5 mb-1 text-[11px]">
-                        <i class="fas ${mainTagConfig.icon}"></i> ${mainTagConfig.kicker}
+                        <i class="fas ${mainTagConfig.icon}"></i> ${escapeHtml(mainTagConfig.kicker)}
                     </span>
                     <h2 class="text-lg sm:text-xl md:text-2xl font-black text-gustavo-ink leading-snug hover:text-gustavo-amber transition-colors cursor-pointer">
-                        <a href="?id=${mainLead.id || ''}" onclick="event.preventDefault(); openArticleById('${mainLead.id || ''}');">${mainLead.title_fa}</a>
+                        <a href="?id=${mainLead.id || ''}" onclick="event.preventDefault(); openArticleById('${escapeJs(mainLead.id || '')}');">${escapeHtml(mainLead.title_fa)}</a>
                     </h2>
-                    <p class="text-[11px] sm:text-xs text-gray-500 font-mono dir-ltr text-left mt-1.5 opacity-80 line-clamp-2">${mainLead.title_en}</p>
+                    <p class="text-[11px] sm:text-xs text-gray-500 font-mono dir-ltr text-left mt-1.5 opacity-80 line-clamp-2">${escapeHtml(mainLead.title_en)}</p>
                 </div>
 
                 <div class="flex items-center justify-between text-[11px] sm:text-xs text-gray-500 pt-2 border-t border-gray-100">
-                    <span>منبع: <strong class="text-gustavo-ink">${mainLead.source}</strong></span>
+                    <span>منبع: <strong class="text-gustavo-ink">${escapeHtml(mainLead.source)}</strong></span>
                     <div class="flex items-center gap-2">
-                        <button onclick="copyDeepLink('${mainLead.id || ''}')" class="px-2.5 py-1 bg-gray-100 hover:bg-gray-200 text-gustavo-ink font-bold rounded-xl border border-gray-300" title="کپی لینک اختصاصی">
+                        <button onclick="copyDeepLink('${escapeJs(mainLead.id || '')}')" class="px-2.5 py-1 bg-gray-100 hover:bg-gray-200 text-gustavo-ink font-bold rounded-xl border border-gray-300" title="کپی لینک اختصاصی">
                             <i class="fas fa-link"></i>
                         </button>
-                        <button onclick="speakText('${mainLead.title_fa}. ${mainLead.impact}')" class="px-3 py-1 bg-gustavo-ink text-white hover:bg-gustavo-amber transition-colors rounded-xl flex items-center gap-1.5 font-bold">
+                        <button onclick="speakText('${escapeJs(mainLead.title_fa)}. ${escapeJs(mainLead.impact)}')" class="px-3 py-1 bg-gustavo-ink text-white hover:bg-gustavo-amber transition-colors rounded-xl flex items-center gap-1.5 font-bold">
                             <i class="fas fa-volume-up"></i> صوتی
                         </button>
                     </div>
@@ -1205,21 +1217,21 @@ function renderHeroLead() {
 
         html += `
             <div class="bg-gustavo-surface p-3 rounded-xl border border-gray-200 flex flex-row sm:flex-col justify-between gap-3 space-y-0 sm:space-y-2">
-                <a href="?id=${sec.id || ''}" onclick="event.preventDefault(); openArticleById('${sec.id || ''}');" class="relative h-20 w-24 sm:w-full sm:h-28 flex-shrink-0 rounded-xl overflow-hidden border border-gray-200 block cursor-pointer group bg-gustavo-surface">
+                <a href="?id=${sec.id || ''}" onclick="event.preventDefault(); openArticleById('${escapeJs(sec.id || '')}');" class="relative h-20 w-24 sm:w-full sm:h-28 flex-shrink-0 rounded-xl overflow-hidden border border-gray-200 block cursor-pointer group bg-gustavo-surface">
                     <img src="${secImg}" alt="Thumbnail" class="w-full h-full object-cover group-hover:scale-105 transition-transform" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80'">
                     <span class="absolute top-1 right-1 bg-gustavo-ink text-white text-[8px] sm:text-[9px] font-bold px-1.5 py-0.5 rounded-xl">
-                        ${sec.tag}
+                        ${escapeHtml(sec.tag)}
                     </span>
                 </a>
                 <div class="flex-grow flex flex-col justify-between">
                     <div>
-                        <span class="gustavo-kicker text-[9px] sm:text-[10px] block mb-0.5">${secConfig.kicker}</span>
+                        <span class="gustavo-kicker text-[9px] sm:text-[10px] block mb-0.5">${escapeHtml(secConfig.kicker)}</span>
                         <h3 class="text-xs font-bold text-gustavo-ink hover:text-gustavo-amber transition-colors leading-tight line-clamp-2 cursor-pointer">
-                            <a href="?id=${sec.id || ''}" onclick="event.preventDefault(); openArticleById('${sec.id || ''}');">${sec.title_fa}</a>
+                            <a href="?id=${sec.id || ''}" onclick="event.preventDefault(); openArticleById('${escapeJs(sec.id || '')}');">${escapeHtml(sec.title_fa)}</a>
                         </h3>
                     </div>
                     <div class="flex justify-between items-center text-[10px] text-gray-500 pt-1 mt-1 border-t border-gray-200">
-                        <span>${sec.source}</span>
+                        <span>${escapeHtml(sec.source)}</span>
                         <span>${timeAgo(parseTs(sec.timestamp) * 1000)}</span>
                     </div>
                 </div>
@@ -1327,7 +1339,7 @@ function renderFeed() {
                         ${related.map(r => `
                             <li class="text-[11px] text-gustavo-amber hover:underline font-bold flex items-center gap-1.5">
                                 <span class="w-1 h-1 bg-gustavo-amber rounded-full flex-shrink-0"></span>
-                                <a href="?id=${r.id}" onclick="event.preventDefault(); openArticleById('${r.id}');" class="line-clamp-1">${r.title_fa}</a>
+                                <a href="?id=${r.id}" onclick="event.preventDefault(); openArticleById('${escapeJs(r.id)}');" class="line-clamp-1">${escapeHtml(r.title_fa)}</a>
                             </li>
                         `).join('')}
                     </ul>
@@ -1346,8 +1358,8 @@ function renderFeed() {
                     <div>
                         <div class="flex justify-between items-start gap-2 mb-1.5 flex-wrap xs:flex-nowrap">
                             <div class="flex items-center gap-1.5">
-                                <span class="gustavo-kicker flex items-center gap-1 text-[10px] sm:text-xs"><i class="fas ${tagConfig.icon}"></i> ${tagConfig.kicker}</span>
-                                <span class="text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded-xl border ${tagConfig.badgeBg}">${item.tag}</span>
+                                <span class="gustavo-kicker flex items-center gap-1 text-[10px] sm:text-xs"><i class="fas ${tagConfig.icon}"></i> ${escapeHtml(tagConfig.kicker)}</span>
+                                <span class="text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded-xl border ${tagConfig.badgeBg}">${escapeHtml(item.tag)}</span>
                             </div>
                             <div class="text-[10px] sm:text-[11px] text-gray-700 font-mono flex items-center gap-1.5">
                                 <span>${timeAgo(item.timestamp * 1000)}</span>
@@ -1357,22 +1369,22 @@ function renderFeed() {
                         </div>
 
                         <h3 class="text-sm sm:text-base font-bold text-gustavo-ink leading-snug hover:text-gustavo-amber transition-colors mb-1">
-                            <a href="?id=${item.id || ''}" onclick="event.preventDefault(); openArticleById('${item.id || ''}');">${item.title_fa}</a>
+                            <a href="?id=${item.id || ''}" onclick="event.preventDefault(); openArticleById('${escapeJs(item.id || '')}');">${escapeHtml(item.title_fa)}</a>
                         </h3>
 
-                        <p class="text-[10px] sm:text-[11px] text-gray-500 dir-ltr text-left font-mono opacity-80 line-clamp-1">${item.title_en}</p>
+                        <p class="text-[10px] sm:text-[11px] text-gray-500 dir-ltr text-left font-mono opacity-80 line-clamp-1">${escapeHtml(item.title_en)}</p>
                     </div>
 
                     ${relatedHTML}
 
                     <div class="mt-3 pt-2 border-t border-gray-100 flex items-center justify-between text-xs text-gray-600">
-                        <span class="font-bold text-gustavo-ink text-[11px] sm:text-xs"><i class="fas fa-university"></i> ${item.source}</span>
+                        <span class="font-bold text-gustavo-ink text-[11px] sm:text-xs"><i class="fas fa-university"></i> ${escapeHtml(item.source)}</span>
                         
                         <div class="flex items-center gap-3">
-                            <button onclick="copyDeepLink('${item.id || ''}')" class="text-gray-700 hover:text-gustavo-ink font-bold text-xs p-1" title="کپی لینک اختصاصی">
+                            <button onclick="copyDeepLink('${escapeJs(item.id || '')}')" class="text-gray-700 hover:text-gustavo-ink font-bold text-xs p-1" title="کپی لینک اختصاصی">
                                 <i class="fas fa-link"></i>
                             </button>
-                            <button onclick="speakText('${item.title_fa}')" class="text-gray-700 hover:text-gustavo-amber font-bold text-xs p-1" title="شنیدن صوتی">
+                            <button onclick="speakText('${escapeJs(item.title_fa)}')" class="text-gray-700 hover:text-gustavo-amber font-bold text-xs p-1" title="شنیدن صوتی">
                                 <i class="fas fa-volume-up"></i>
                             </button>
                             <button onclick="toggleAnalysis(${index})" class="text-gustavo-ink hover:text-gustavo-amber font-bold text-[11px] sm:text-xs flex items-center gap-1">
@@ -1680,8 +1692,6 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
-let currentSourceFilter = 'all';
-
 function populateSourceDropdown() {
     const dropdown = document.getElementById('source-filter');
     if (!dropdown || !newsData.length) return;
@@ -1702,12 +1712,6 @@ function filterBySource(source) {
     itemsToShow = 10; // Reset pagination instantly for source selection
     renderFeed();
 }
-
-let filtered = newsData.filter(n => {
-    const matchesCategory = currentFilter === 'all' || (n.tag && n.tag.trim() === currentFilter);
-    const matchesSource = currentSourceFilter === 'all' || n.source === currentSourceFilter;
-    return matchesCategory && matchesSource;
-});
 
 /* INITIALIZATION */
 loadData();
