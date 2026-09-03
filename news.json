@@ -1,5 +1,81 @@
 [
     {
+        "id": "b08177c7dd",
+        "title_fa": "هشدار ترامپ: ممکن است از دفاع جزایر فالکلند حمایت نکند",
+        "title_en": "Trump’s Falklands move shows Britain must be ready to defend itself",
+        "summary": [
+            "ترامپ اعلام کرد ممکن است در صورت حمله به فالکلند، حمایت بریتانیا را ندهد",
+            "این سخن فشار بر بودجه دفاعی انگلستان را افزایش می‌دهد",
+            "تهدید روسیه به هدف‌گیری نظامی بریتانیا نیز در پس‌زمینه مطرح است"
+        ],
+        "impact": "نیاز انگلستان به تقویت خودکفایی دفاعی و بازنگری استراتژی",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-falklands-move-shows-britain-123212000.html",
+        "clean_url": "https://www.aol.com/articles/trump-falklands-move-shows-britain-123212000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/09/03/13372e7f-069d-3e3e-8703-2c1ce887b165/2233b6ae-b3bf-4bf6-9700-9939f6b1a49a.jpg",
+        "timestamp": 1788441239.2943368
+    },
+    {
+        "id": "68daab084d",
+        "title_fa": "رهبر سپاه: تلافی حملهٔ آمریکا به عروسی",
+        "title_en": "Iran’s IRGC chief vows says deadly US strike on wedding ‘will not go unanswered’",
+        "summary": [
+            "سپاه ایران پس از حملهٔ آمریکا به عروسی، تهدید به تلافی مستقیم کرد",
+            "احتمال افزایش تنش‌های نظامی در خاورمیانه و گسترش به مناطق دیگر",
+            "این تهدید می‌تواند به حملات نیابتی یا هدف‌گیری زیرساخت‌های آمریکایی منجر شود"
+        ],
+        "impact": "افزایش خطر برخورد نظامی مستقیم بین ایران و آمریکا",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-chief-vows-says-deadly-us-strike-on-wedding-will-not-go-unanswered/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/irans-irgc-chief-vows-says-deadly-us-strike-on-wedding-will-not-go-unanswered",
+        "image": "https://www.bing.com/th?id=ONUT.tD8_nzFb5bbh6crpCyrzQw",
+        "timestamp": 1788441239.2937856
+    },
+    {
+        "id": "eb4edeb375",
+        "title_fa": "نیاز ارتش آمریکا به سرعت‌تری در بازسازی برای مقابله با چین",
+        "title_en": "To rearm, the military needs much more than money",
+        "summary": [
+            "چین تهدید به تصرف تایوان می‌کند؛ آمریکا باید سرعت بازسازی سلاح‌ها را دوچندان کند",
+            "صرف پول کافی نیست؛ تولید سریع، زنجیره تأمین و نوآوری نیز ضروری‌اند",
+            "این فشار می‌تواند هزینه‌های دفاعی را به سطوح بالاتری برساند"
+        ],
+        "impact": "افزایش هزینه‌های دفاعی آمریکا و تقویت حضور نظامی در آسیا",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/to-rearm-the-military-needs-much-more-than-money/ar-AA2buFoi?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/to-rearm-the-military-needs-much-more-than-money/ar-AA2buFoi",
+        "image": "https://www.bing.com/th?id=ONUT.Te0VoaJ2EA8Y3kPh2y7g6g",
+        "timestamp": 1788441239.2934632
+    },
+    {
+        "id": "73878856e1",
+        "title_fa": "اسرائیل با افزایش بیانیه‌های ضد‑ایرانی تنش‌ها را تشدید می‌کند",
+        "title_en": "Israel ratchets up anti-Iran rhetoric amid rising tensions",
+        "summary": [
+            "اسرائیل به‌طور مداوم اتهام‌ها علیه برنامه هسته‌ای ایران را تقویت می‌کند",
+            "این rhetoric فشار دیپلماتیک بر ایران را بالا برده و خطر برخورد نظامی را افزایش می‌دهد",
+            "واکنش‌های بین‌المللی به این اظهارات متفاوت است"
+        ],
+        "impact": "تشدید فشار سیاسی بر ایران و احتمال اعمال تحریم‌های جدید",
+        "tag": "دیپلوماسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Arab Weekly",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHJaLUhmRGY2d3lVUzVvRjFSbHdMbTNXNE50MHlpQUlDUk5maUdZYlRZdXVjZDczdFhLNHkxLS1tNlVQemdNOEt3VndIaDJiVkpBR0NIeDhwY251cml6dnE2VHhBdkJ0emNNMF8yZHV1MlZFdHhQUE5DX1N5aHQyT1VNTnhpNVFX?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHJaLUhmRGY2d3lVUzVvRjFSbHdMbTNXNE50MHlpQUlDUk5maUdZYlRZdXVjZDczdFhLNHkxLS1tNlVQemdNOEt3VndIaDJiVkpBR0NIeDhwY251cml6dnE2VHhBdkJ0emNNMF8yZHV1MlZFdHhQUE5DX1N5aHQyT1VNTnhpNVFX",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788440536.0
+    },
+    {
         "id": "ba99d40f3a",
         "title_fa": "ترامپ نام‌گذاری استراتژیک برای تنگه هرمز پیشنهاد داد",
         "title_en": "Demented Donald Dreams Of 'Trump Strait'",
@@ -285,6 +361,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yZVUxNWRvLUphSGptSzl2ZWo3ZVZzY3V1WTRyZU1CZm12eXBrYjNTSUpXTjg1MXcxU1JZNnRsNGkwcFV3OXB2WDhpZ2ZZeXZlRFgyQWhn",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788429969.0
+    },
+    {
+        "id": "36ea9e87ad",
+        "title_fa": "وزرأ اتحادیه اروپا در مورد اسرائیل و اوکراین به بن‌بست رسیدند",
+        "title_en": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
+        "summary": [
+            "مذاکرات وزرا برای اتخاذ موضع مشترک دربارهٔ اسرائیل و اوکراین به بن‌بست ختم شد",
+            "عدم توافق می‌تواند کارایی سیاست خارجی اتحادیه را تضعیف کند",
+            "این بن‌بست توان تصمیم‌گیری سریع اتحادیه در مواجهه با بحران‌ها را کاهش می‌دهد"
+        ],
+        "impact": "کاهش توان تصمیم‌گیری سریع اتحادیه در مواجهه با بحران‌ها",
+        "tag": "دیپلوماسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1VCTmMwVzdocjRYNmloM3ZPbHJtN2dvNTR2TEFYRTJ6ZXBvSHdkNlVyV3RIQ3JhV3EwdWRSRGxmSXZBSWF2WnBMblgyckdzUnNzWGNTRVNJNDdtTHlZRVBHbm1LVGJYRjdUVUJzaVVSRDM0QWxteEZIOXZldnJJMXk3OGM3N0Q4VEpWa0hVYnVyampkM21yVXYwNlZqRFV2WW5FcGdISTNjbU3SAbABQVVfeXFMTUszaEhVV1ZnMXBnN0x3SVIyNXRJN1ZTOUV1TjA3ck9uOG9MUl9sQ1FMT1FTQ0pieVVYV2FSdkZZMktkaUFTX09mUUpIZWRYa0hBVGVDQUxZc1pIOHhhWHhycWVObDFkd0ZWeDhTMHREVGI2YmZhcWlNdHlVb2NDR2pZS1Byenk4TzZibXJweS1sLTVhOS1jeHQyRjZWVTFzZXhWUHprYnk5TEpuZWhhQUc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1VCTmMwVzdocjRYNmloM3ZPbHJtN2dvNTR2TEFYRTJ6ZXBvSHdkNlVyV3RIQ3JhV3EwdWRSRGxmSXZBSWF2WnBMblgyckdzUnNzWGNTRVNJNDdtTHlZRVBHbm1LVGJYRjdUVUJzaVVSRDM0QWxteEZIOXZldnJJMXk3OGM3N0Q4VEpWa0hVYnVyampkM21yVXYwNlZqRFV2WW5FcGdISTNjbU3SAbABQVVfeXFMTUszaEhVV1ZnMXBnN0x3SVIyNXRJN1ZTOUV1TjA3ck9uOG9MUl9sQ1FMT1FTQ0pieVVYV2FSdkZZMktkaUFTX09mUUpIZWRYa0hBVGVDQUxZc1pIOHhhWHhycWVObDFkd0ZWeDhTMHREVGI2YmZhcWlNdHlVb2NDR2pZS1Byenk4TzZibXJweS1sLTVhOS1jeHQyRjZWVTFzZXhWUHprYnk5TEpuZWhhQUc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788428622.0
     },
     {
         "id": "bf80bee475",
@@ -2028,6 +2123,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/visiting-gaza-netanyahu-says-israel-not-leaving-area-it-holds-doing-everything-to-disarm-hamas/ar-AA2bqggd",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788355425.0
+    },
+    {
+        "id": "0ade3a9476",
+        "title_fa": "قیمت طلا پس از اشارهٔ ترامپ به درگیری کوتاه‌مدت با ایران",
+        "title_en": "Gold rebounds as Trump signals short Iran conflict; Fed rate fears, US jobs data cap gains",
+        "summary": [
+            "اظهارات ترامپ دربارهٔ احتمال درگیری کوتاه‌مدت با ایران، باعث رشد قیمت طلا شد",
+            "نگرانی‌های نرخ بهره فدرال و داده‌های شغلی آمریکا همچنان فشار بر بازارهای مالی را محدود می‌کند",
+            "نوسان طلا نشان می‌دهد بازار به تحولات ژئوپولیتیک حساس است"
+        ],
+        "impact": "تقویت کوتاه‌مدت طلا، اما عدم تثبیت بازارهای مالی",
+        "tag": "طلا",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Hindustan Times on MSN",
+        "url": "https://www.msn.com/en-in/money/economy/gold-rebounds-as-trump-signals-short-iran-conflict-fed-rate-fears-us-jobs-data-cap-gains/ar-AA2buPrh?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/money/economy/gold-rebounds-as-trump-signals-short-iran-conflict-fed-rate-fears-us-jobs-data-cap-gains/ar-AA2buPrh",
+        "image": "https://www.bing.com/th?id=ONUT.f5JPgTRPNb44lqTgDsXpag",
+        "timestamp": 1788354825.0
     },
     {
         "id": "df17b2846d",
@@ -5211,107 +5325,5 @@
         "clean_url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
         "image": "http://www.bing.com/th?id=ONUT.Y-JhXue83-4jqi5IrQmqxA&pid=News",
         "timestamp": 1788257640.0
-    },
-    {
-        "id": "c165b5cea3",
-        "title_fa": "تلاطم های جدید ثبات جنگ ایران را برای ترامپ بر هم می‌زند",
-        "title_en": "New turbulence upends stability of Iran war for Trump",
-        "summary": [
-            "New turbulence upends stability of Iran war for Trump The Hill"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUtYUURvOXRYSVZWdFRSQWctZ3NqX0dJOTN5RnkwbFNsWDVJelYwejBUNEwzaGlPWlh5Qzc5Rl95TXM0aXR4ajlOODU4ZzNzZG5iR01oenZWa0QzalROQzk2LURGalVwSlNsTHJBSkdwRnItRzc0cEtOd1QzcDRsaGtyeGhfcVctdTJmemxDeEE0VzFuVUNUUU130gGfAUFVX3lxTE10MjdmbW0wSktlQTNuY0ltM2JIaEZNNUZNQnA3X2lMbG9KNDNsa19XSmdvWEdvNTU3SkhqemI1Zm5rczFud3RVWDhfSzU2VVhRQWc0VEl2YjR5NWlqNDlEbXV3WG1Tby1SaG1vdGFhNFZCN2lsU3J4OGdZTGNWYTJ1NU5BdlEtUzA2bVBkeU5aLWwtbFUtVm1ZOWN2bkkyRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUtYUURvOXRYSVZWdFRSQWctZ3NqX0dJOTN5RnkwbFNsWDVJelYwejBUNEwzaGlPWlh5Qzc5Rl95TXM0aXR4ajlOODU4ZzNzZG5iR01oenZWa0QzalROQzk2LURGalVwSlNsTHJBSkdwRnItRzc0cEtOd1QzcDRsaGtyeGhfcVctdTJmemxDeEE0VzFuVUNUUU130gGfAUFVX3lxTE10MjdmbW0wSktlQTNuY0ltM2JIaEZNNUZNQnA3X2lMbG9KNDNsa19XSmdvWEdvNTU3SkhqemI1Zm5rczFud3RVWDhfSzU2VVhRQWc0VEl2YjR5NWlqNDlEbXV3WG1Tby1SaG1vdGFhNFZCN2lsU3J4OGdZTGNWYTJ1NU5BdlEtUzA2bVBkeU5aLWwtbFUtVm1ZOWN2bkkyRQ",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788256800.0
-    },
-    {
-        "id": "0c4574143a",
-        "title_fa": "به‌روزرسانی زنده ایران: سنتکام می‌گوید آمریکا حمله به اهداف سپاه پاسداران انقلاب اسلامی در ایران را آغاز کرده است",
-        "title_en": "Iran live updates: US has begun striking IRGC targets in Iran, CENTCOM says",
-        "summary": [
-            "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes targeting military, government and infrastructure sites. Delegations from..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "abc News",
-        "url": "https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582",
-        "clean_url": "https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed",
-        "image": "http://www.bing.com/th?id=ONUT.Xx0LLkmZ3XFlen8xRd_JxA&pid=News",
-        "timestamp": 1788256440.0
-    },
-    {
-        "id": "1510f3bd57",
-        "title_fa": "Explosions seen over Jordanian city of Aqaba as ایران says it is retaliating for ایالات متحده strikes",
-        "title_en": "Explosions seen over Jordanian city of Aqaba as Iran says it is retaliating for U.S. strikes",
-        "summary": [
-            "The U.S. military hit targets in Iran on Tuesday after it said Tehran tried to attack commercial ships and American forces in the Middle East, as hostilities flare once again in an intermittent war..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/u-military-says-hitting-targets-164758447.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/u-military-says-hitting-targets-164758447.html",
-        "image": "http://www.bing.com/th?id=ONUT.6mpxavB0usrLY6qTEVbSFw&pid=News",
-        "timestamp": 1788256020.0
-    },
-    {
-        "id": "5eacd79c9d",
-        "title_fa": "سایه فزاینده ترکیه بر سوریه امنیت آمریکا را تهدید می‌کند | نظر",
-        "title_en": "Turkey’s Growing Shadow Over Syria Threatens U.S. Security | Opinion",
-        "summary": [
-            "Post-Assad Syria is a battleground for Turkish, Saudi and Qatari influence, with Ankara gaining ground over U.S. aims..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/turkeys-growing-shadow-over-syria-threatens-u-s-security-opinion-12381111",
-        "clean_url": "https://www.newsweek.com/turkeys-growing-shadow-over-syria-threatens-u-s-security-opinion-12381111",
-        "image": "https://www.bing.com/th?id=ONUT.SSV46VPZ4qKWoDqkbIAQYQ",
-        "timestamp": 1788255744.2813125
-    },
-    {
-        "id": "2fc2d9cfae",
-        "title_fa": "ترامپ در مذاکرات دروغ می‌گوید و به متحدان وفادارش خیانت می‌کند",
-        "title_en": "Trump lies in negotiations and betrays loyal allies",
-        "summary": [
-            "Mr. “Art of the Deal,” President Trump has a proven track record of undermining his negotiating positions with both America’s..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "New York Daily News",
-        "url": "https://www.nydailynews.com/2026/09/01/trump-lies-in-negotiations-and-betrays-loyal-allies/",
-        "clean_url": "https://www.nydailynews.com/2026/09/01/trump-lies-in-negotiations-and-betrays-loyal-allies",
-        "image": "https://www.bing.com/th?id=ONUT.7UtCkhUHwvKtKeKp2Q7BNg",
-        "timestamp": 1788255744.2801445
-    },
-    {
-        "id": "b68daacfdb",
-        "title_fa": "mideast-ایران-اسرائیل-palestinians-august-31-2026: Latest Updates",
-        "title_en": "mideast-iran-israel-palestinians-august-31-2026: Latest Updates",
-        "summary": [
-            "mideast-iran-israel-palestinians-august-31-2026: Latest Updates Audacy"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Audacy",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXVMUWhuTXhEQ1RGamNPZ1k2VTRESmtYWFpTVW1lbFRFYlVoS09EQTJWOXdMTjdDRE5GekplNElyVWhDZWhBWE1mbGZPSjlnTUpkdnFka2N2bHNXMHFhYURQSXp3RjZRWkZyYjRjX0ppUGxaeXJEN2c0MmlhQ2lCaElvbHFVU1BL?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXVMUWhuTXhEQ1RGamNPZ1k2VTRESmtYWFpTVW1lbFRFYlVoS09EQTJWOXdMTjdDRE5GekplNElyVWhDZWhBWE1mbGZPSjlnTUpkdnFka2N2bHNXMHFhYURQSXp3RjZRWkZyYjRjX0ppUGxaeXJEN2c0MmlhQ2lCaElvbHFVU1BL",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788255304.0
     }
 ]
