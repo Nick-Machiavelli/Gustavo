@@ -1,5 +1,62 @@
 [
     {
+        "id": "6b9ff96331",
+        "title_fa": "انتخابات اولیه آمریکا و شکست‌های سیاسی تازه",
+        "title_en": "The primary is over now come the primetime mistakes",
+        "summary": [
+            "دیوید ساندرز به عنوان «پرایم‌تایم» شناخته می‌شود اما نامزدهای سیاسی این‌بار آماده صحنه نیستند.",
+            "هریشل واکر در انتخابات سنا جورجیا با نتایج ضعیف مواجه شد.",
+            "گراهام پلتنر با اتهام‌ها جدی جنسی و تاتوهای نازی‌وار سر و کار دارد."
+        ],
+        "impact": "اعتماد عمومی به نامزدهای تازه‌کار کاهش می‌یابد و فضای سیاسی داخلی تندتر می‌شود.",
+        "tag": "سیاست_آمریکا",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/primary-over-now-come-primetime-mistakes",
+        "clean_url": "https://www.foxnews.com/politics/primary-over-now-come-primetime-mistakes",
+        "image": "https://www.bing.com/th?id=ONUT.13apcZ5hQ2o2qP85IFBskg",
+        "timestamp": 1788397892.0159822
+    },
+    {
+        "id": "70282b4e9d",
+        "title_fa": "دلیل محبوبیت دالی پارتون در میان مردم",
+        "title_en": "Christine Flowers",
+        "summary": [
+            "دالی پارتون به‌عنوان نماد موسیقی، مد و فرهنگ در طول دهه‌ها باقی مانده است.",
+            "عشق عمومی به او بیشتر از حضور فیزیکی در کنسرت‌هاست."
+        ],
+        "impact": "نماد فرهنگی همچنان بر فروش محصولات و رسانه‌های مرتبط تأثیر مثبت دارد.",
+        "tag": "فرهنگ",
+        "urgency": 1,
+        "sentiment": 0.2,
+        "source": "Crescent-News",
+        "url": "https://www.crescent-news.com/opinion/opinion_columnists/christine-flowers---love-politics-and-dolly-parton/article_26e1a377-3d9a-4269-9d57-fa44a747e71a.html",
+        "clean_url": "https://www.crescent-news.com/opinion/opinion_columnists/christine-flowers---love-politics-and-dolly-parton/article_26e1a377-3d9a-4269-9d57-fa44a747e71a.html",
+        "image": "https://www.bing.com/th?id=ONUT.mjJTdGMbFrWT6IZm4k1O6g",
+        "timestamp": 1788397892.0146
+    },
+    {
+        "id": "63760cd8a1",
+        "title_fa": "رشد بحران اقتصادی و فشارهای نظامی در ایران",
+        "title_en": "Schrödinger’s Strait",
+        "summary": [
+            "ریال به ۲٫۲ میلیون تومان مقابل دلار رسید؛ اولین بار در تاریخ.",
+            "ریاض برای قرض‌گیری ۸ میلیارد دلار به سمت ایران رفت.",
+            "۲٬۵۰۰ زندانی عفو شد اما تعداد محکومین جدید در حال افزایش است.",
+            "بازپرداخت حقوق بازنشستگان به ترتیب حروف الفبا انجام می‌شود."
+        ],
+        "impact": "نرخ تورم و فشارهای مالی بر مردم به اوج می‌رسد، احتمال ناآرامی‌های اجتماعی بالا می‌رود.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Alhurra",
+        "url": "https://alhurra.com/en/37411",
+        "clean_url": "https://alhurra.com/en/37411",
+        "image": "https://i0.wp.com/alhurra.com/wp-content/uploads/2026/09/image-2026-09-02T160434.499.jpg?fit=602%2C401&ssl=1",
+        "timestamp": 1788397892.0141397
+    },
+    {
         "id": "e433526859",
         "title_fa": "ایالات متحده و کره‌جنوبی باید چارچوب هسته‌ای مشترک بسازند",
         "title_en": "Report urges stronger U.S.-South Korea nuclear planning against North",
@@ -37,6 +94,24 @@
         "clean_url": "https://www.crikey.com.au/2026/09/03/us-government-debt-bonds-surging-donald-trump",
         "image": "https://www.bing.com/th?id=ONUT.rwCipW1dy_7Epv4C7APBqw",
         "timestamp": 1788392359.5053988
+    },
+    {
+        "id": "22f6684781",
+        "title_fa": "ترامپ: آمریکا به مین‌های هرمز حمله کرد",
+        "title_en": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
+        "summary": [
+            "ترامپ ادعا کرد نیروی هوایی آمریکا مین‌های دریایی ایران را در تنگه هرمز نابود کرد.",
+            "این اقدام پس از هشدارهای مکرر آمریکا درباره تهدیدات ناوبری بود."
+        ],
+        "impact": "تنش نظامی در خلیج فارس به اوج می‌رسد؛ خطر گسترش درگیری‌های مستقیم بالا می‌رود.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJhNDBNOW00TjJ1ZjdIQ3BmSHJpSEVEVTVKMkNaRksxaDByenc5V2pRZVd1WENGVFA3WVgwbXhfNHd6UWxxZTRzZnp2amJ0cHBZWEY5d2k1TkNabjEzbVM5RVQwQVU2TUUzQjA0OXdub2NmNG1iTHhMcUFFY3Q0VElYZ0hxZzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJhNDBNOW00TjJ1ZjdIQ3BmSHJpSEVEVTVKMkNaRksxaDByenc5V2pRZVd1WENGVFA3WVgwbXhfNHd6UWxxZTRzZnp2amJ0cHBZWEY5d2k1TkNabjEzbVM5RVQwQVU2TUUzQjA0OXdub2NmNG1iTHhMcUFFY3Q0VElYZ0hxZzg",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788391440.0
     },
     {
         "id": "abe26fb264",
@@ -93,6 +168,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREFLazNfYm1LYk5peW10SE9nNjJyNU1lT2lDcFlrVURPaDVmVndTbjJLOXNaamhFN0F5bWhpNmpLbW5zeHY4cWxTQTVfZTlfYWJraHNmN25DLVVSRnJBVmVIWm5kSS1OaUFLbm1ubVFtVFZLWkVpTmpEMEZrbmYxUVo2NmhHQTZJc2fSAY8BQVVfeXFMUFpsdjlHM2M0WWZ0UHZja3ltLVlsYzlXbnhYcjdZWlFBbGo4RWV2b1JtbHpBaGhTS21CTXZ3RHdMR29oSzRRRG1XZ0VFcFVOQmxLOWE0U2NMTkZvZDJjWFlfUG9kV0pkNlFqNmZmNi1nNHRydktYajNfdm9KSHBiUFd1WEtsZ1hudVhDVVc3T0k",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788388320.0
+    },
+    {
+        "id": "d41d196bd0",
+        "title_fa": "ترامپ و شی در واشنگتن: انتظارات کم",
+        "title_en": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
+        "summary": [
+            "ترامپ و رئیس‌جمهور چین در دی‌سی ملاقات می‌کنند؛ کارشناسان چین انتظار پیشرفت خاصی ندارند.",
+            "موضوعات کلیدی شامل تجارت، تحریم‌ها و وضعیت تایوان است."
+        ],
+        "impact": "احتمال تغییر اساسی در سیاست‌های دو کشور کم است؛ مذاکرات ممکن است به حفظ وضعیت فعلی منجر شود.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWtOaVR1Zm5zTG1DdFRobVR4MlJRTi1FSVd4cXpxS2F4cFJpUE5pVDZ6S1lJenNPQlZJUmFSajMzU2R3Tzdsa29XZkcyS0pYTGU2bzZMYXVHNDVjMFEtbzJlZHRWVl9kMGxaX2NVV3pGV2dJN01zUVRnOV9PYVdiUjNGMWttd9IBiwFBVV95cUxNZGh6UFJNeDJlSC1XcHlZS0k5QnJ6RWpYSmNxRHF6YVcyTFB0NDQ2ZUdnVXM4azdBUklWNldDUWZ4V0VkOHFPMXpxTzYwVWYzbWdWdndVWmNNbXByQ3A1Z1VCYTRtTGF6aUNQNkJZdE9QbE9SckIzUUZSbDRleGkwWjV3OVR4UEVvN2w0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWtOaVR1Zm5zTG1DdFRobVR4MlJRTi1FSVd4cXpxS2F4cFJpUE5pVDZ6S1lJenNPQlZJUmFSajMzU2R3Tzdsa29XZkcyS0pYTGU2bzZMYXVHNDVjMFEtbzJlZHRWVl9kMGxaX2NVV3pGV2dJN01zUVRnOV9PYVdiUjNGMWttd9IBiwFBVV95cUxNZGh6UFJNeDJlSC1XcHlZS0k5QnJ6RWpYSmNxRHF6YVcyTFB0NDQ2ZUdnVXM4azdBUklWNldDUWZ4V0VkOHFPMXpxTzYwVWYzbWdWdndVWmNNbXByQ3A1Z1VCYTRtTGF6aUNQNkJZdE9QbE9SckIzUUZSbDRleGkwWjV3OVR4UEVvN2w0",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788386401.0
     },
     {
         "id": "13fc971dad",
@@ -355,6 +448,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPSXBTRHN2d2d6ekNmSjVlQ3cxMTNuRUlCa2c5Nm9CWXUyM0hRS3B5bGxHRTl4LXpybHJEazhVNmh1VWdzaDRKd3A1eE5IRVJudElPUURZS1lCUDJrRjBPeFZiOUpsN2ZsSDkxQ2lqR3lfcHgxU2hNbGt5Z0xLQlBlcDM1VTZRUGJENmpvMlBpME4yNzlCdGhuWjFPY0p3VDFmR2FSUl9XbTVuV2pHUk1NZmh2TGdGcGNTOTdBdTE1UWhHVkJMSlZlWVVVMmd0YjZQR1MwaDVzNENUckdPS3dUTzRheGxuMHM0YWVicnZuUFFTVmtlM2ZKcXlfOWM2SHFzWUd1bUhxV01Yb3JLOUdTc0pTX2NCZnBQdXQ5WWZ2OVQxTjRKbTdBV21ubm5CaWVpbk9aSUF3",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788378152.0
+    },
+    {
+        "id": "e48a240b59",
+        "title_fa": "بیسنت: ایران به سمت فروپاشی سریع می‌رود",
+        "title_en": "Bessent: Iran is in a \"death spiral,\" state will collapse \"slowly, then quickly\"",
+        "summary": [
+            "اسکات بیسنت گفت فشارهای مالی آمریکا به نقطه شکست خواهد رسید.",
+            "او پیش‌بینی کرد که نهادهای داخلی ایران به‌سرعت یکدیگر را هدف می‌گیرند."
+        ],
+        "impact": "افزایش تحریم‌ها می‌تواند به تلاطم داخلی و تضعیف توان نظامی منجر شود.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "RealClearPolitics",
+        "url": "https://www.msn.com/en-us/news/other/bessent-iran-is-in-a-death-spiral-state-will-collapse-slowly-then-quickly/ar-AA2brt8I",
+        "clean_url": "https://www.msn.com/en-us/news/other/bessent-iran-is-in-a-death-spiral-state-will-collapse-slowly-then-quickly/ar-AA2brt8I",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2brqzC.img?w=1280&h=800&m=4&q=85",
+        "timestamp": 1788377080.0
     },
     {
         "id": "3a326db215",
@@ -5083,107 +5194,5 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T175100Z_942363201_RC2I9NAHPTC6_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1788215429.jpg?resize=1920%2C1440",
         "timestamp": 1788195600.0
-    },
-    {
-        "id": "db055cce8c",
-        "title_fa": "بسنت می‌گوید هدفش وادار کردن ایران به توافق با آمریکا از طریق تحریم است",
-        "title_en": "Bessent says his goal to force Iran to strike deal with US through sanctions",
-        "summary": [
-            "The US administration wants to use sanctions to force Tehran to enter into an agreement with Washington, said Treasury Secretary Scott Bessent. Re..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2180563",
-        "clean_url": "https://tass.com/world/2180563",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1788195011.0
-    },
-    {
-        "id": "efbab847b8",
-        "title_fa": "اخبار جنگ ایران به روز رسانی زنده: آمریکا تحریم‌های ثانویه هفتگی را علیه تهران اعمال می‌کند؟ بسنت می‌گوید: «ما با بانک‌ها شروع می‌کنیم».",
-        "title_en": "Iran war news LIVE Updates: US to impose weekly secondary sanctions on Tehran? Bessent says, 'We're starting with banks'",
-        "summary": [
-            "Iran war news LIVE Updates: The US Treasury Department is likely to unveil weekly new secondary sanctions aimed at increasing economic pressure on Iran, with an initial focus on banks, US Treasury Secretary Scott Bessent said on Sunday."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "Live Mint",
-        "url": "https://www.msn.com/en-in/news/other/iran-war-news-live-updates-us-to-impose-weekly-secondary-sanctions-on-tehran-bessent-says-we-re-starting-with-banks/ar-AA2beGb5",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-war-news-live-updates-us-to-impose-weekly-secondary-sanctions-on-tehran-bessent-says-we-re-starting-with-banks/ar-AA2beGb5",
-        "image": "https://www.livemint.com/lm-img/img/2026/08/31/1600x900/logo/US_iran_1788137898285_1788137902805_ae8a2024-4cbc-4d04-8c93-440e66fc9915.jpg",
-        "timestamp": 1788194640.0
-    },
-    {
-        "id": "9c39c23433",
-        "title_fa": "پس از اینکه ایران اعلام کرد به دو پایگاه آمریکایی در اردن حمله کرده است، ترامپ متعهد شد که واکنش سختی نشان دهد",
-        "title_en": "Trump Vows Hard Response After Iran Says It Attacked Two U.S. Bases in Jordan",
-        "summary": [
-            "Iran says it hit two U.S. bases in Jordan; Trump vows a hard response. U.S. hit IRGC launchers on Larak. Pentagon inks 7-year THAAD, PAC-3 deals with GD, Lockhe"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "briefs",
-        "url": "https://www.briefs.co/news/trump-vows-hard-response-after-iran-says-it-attacked-two-u-s/",
-        "clean_url": "https://www.briefs.co/news/trump-vows-hard-response-after-iran-says-it-attacked-two-u-s",
-        "image": "https://www.briefs.co/wp-content/uploads/2026/08/trump-vows-hard-response-after-iran-says-it-attacked-two-u-s.png",
-        "timestamp": 1788194580.0
-    },
-    {
-        "id": "4656d5f65d",
-        "title_fa": "نظر: برنهام همه نشانه هایی را ارائه کرده است که از عهده این کار برنمی آید",
-        "title_en": "Opinion: Burnham has given every indication he's not up to the job",
-        "summary": [
-            "The mist is clearing, and we can at last see the figure of Andy Burnham stumbling across the bog as he really is. If you had..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Mail on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/opinion-burnham-has-given-every-indication-hes-not-up-to-the-job/ar-AA2bgU4T?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/opinion-burnham-has-given-every-indication-hes-not-up-to-the-job/ar-AA2bgU4T",
-        "image": "https://www.bing.com/th?id=ONUT.KS-pK0D83FuK_j0UpNb5vg",
-        "timestamp": 1788194238.433655
-    },
-    {
-        "id": "54c2cfa0bf",
-        "title_fa": "آمریکا و ایران برای هرگونه توافق صلح باید چه مسائلی را حل کنند؟",
-        "title_en": "What Issues Do The US And Iran Need to Resolve for Any Peace Deal?",
-        "summary": [
-            "What Issues Do The US And Iran Need to Resolve for Any Peace Deal? EnergyNow.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788193992.0
-    },
-    {
-        "id": "0ec3974380",
-        "title_fa": "نظر | دو جنگ و یک سازمان همکاری شانگهای همستر",
-        "title_en": "Opinion | Two wars and a hamstrung SCO",
-        "summary": [
-            "Twenty-five years ago, China, Russia and four Central Asian states founded the Shanghai Cooperation Organisation (SCO) to..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "News18 on MSN",
-        "url": "https://www.msn.com/en-in/news/other/opinion-two-wars-and-a-hamstrung-sco/ar-AA2bhaAR?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/opinion-two-wars-and-a-hamstrung-sco/ar-AA2bhaAR",
-        "image": "https://www.bing.com/th?id=ONUT.KMl_jG-UnYeafSBdiGLKew",
-        "timestamp": 1788192439.7723634
     }
 ]
