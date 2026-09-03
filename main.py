@@ -71,7 +71,7 @@ CONFIG = {
     # in GitHub Actions still falls back to the Groq defaults below.
     'AI_API_KEY': os.environ.get('AI_API_KEY'),
     'AI_BASE_URL': os.environ.get('AI_BASE_URL') or 'https://api.groq.com/openai/v1/chat/completions',
-    'AI_MODEL': os.environ.get('AI_MODEL') or 'llama-3.1-8b-instant',
+    'AI_MODEL': os.environ.get('AI_MODEL') or 'llama-3.3-70b-versatile',
     'AI_RETRIES': 3,
     # Without an explicit cap, some OpenAI-compatible providers default to a small
     # max_tokens, which silently truncates the JSON response for large batches -
@@ -363,14 +363,31 @@ class Gustavo:
         also fails (e.g. no network), so we don't ship half-English headlines."""
         if not text:
             return "خبر جدید"
-        try:
-            from deep_translator import GoogleTranslator
-            translated = GoogleTranslator(source='en', target='fa').translate(text)
-            if translated and translated.strip():
-                return translated.strip()
-        except Exception as e:
-            logger.warning(f"Fallback machine translation failed, using dictionary substitution: {e}")
+        # auto-detect source (de/en) for German/English mixed titles
+        for src in ('auto', 'en', 'de'):
+            try:
+                from deep_translator import GoogleTranslator
+                translated = GoogleTranslator(source=src, target='fa').translate(text)
+                if translated and translated.strip():
+                    # ensure not still mostly latin
+                    latin = sum(1 for c in translated if 'a' <= c.lower() <= 'z')
+                    if latin / max(1, len(translated)) < 0.3:
+                        return translated.strip()
+                    if src == 'auto':
+                        continue
+                    return translated.strip()
+            except Exception as e:
+                if src == 'de':
+                    logger.warning(f"Fallback machine translation failed, using dictionary substitution: {e}")
+                continue
         return self._dictionary_translate(text)
+
+    def _is_persian(self, text):
+        """True if text is mostly Persian (not latin)"""
+        if not text:
+            return False
+        latin = sum(1 for c in text if 'a' <= c.lower() <= 'z')
+        return latin / max(1, len(text)) < 0.25
 
     def _dictionary_translate(self, text):
         """Last-resort translation: replaces a handful of known proper nouns/terms
@@ -1199,6 +1216,11 @@ class Gustavo:
                 # Proofread Persian orthography before returning
                 for item in items_list:
                     if 'index' in item:
+                        # اگر AI هنوز انگلیسی/آلمانی برگردوند، دوباره ترجمه کن
+                        if not self._is_persian(item.get('title_fa', '')):
+                            orig = next((c['headline'] for c in chunk if c['index'] == item['index']), item.get('title_fa',''))
+                            item['title_fa'] = self._fallback_translate(orig)
+                            logger.info(f"AI title was latin, re-translated index {item['index']}: {item['title_fa'][:40]}")
                         results[item['index']] = self._proofread_item(item)
             else:
                 logger.warning(
@@ -1872,7 +1894,7 @@ STRICT OUTPUT JSON:
 
                 res = self._proofread_item({
                     "id": news_id,
-                    "title_fa": ai.get('title_fa', item['headline']),
+                    "title_fa": ai.get('title_fa', item['headline']) if self._is_persian(ai.get('title_fa','')) else self._fallback_translate(item['headline']),
                     "title_en": item['headline'],
                     "summary": ai.get('summary', [item['snippet']]),
                     "impact": ai.get('impact', '...'),
