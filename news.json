@@ -1,5 +1,24 @@
 [
     {
+        "id": "0e46ee0eea",
+        "title_fa": "هند به بیانیه SCO درباره ایران پیوست؛ نگرانی از چین‑روسی",
+        "title_en": "India joined SCO’s Iran statement. It must ensure China-Russia agenda doesn’t shape BRICS",
+        "summary": [
+            "هند با پیوستن به بیانیه SCO درباره حمایت از ایران موقعیت خود را در مقابل چین‑روسی تقویت کرد",
+            "هند هشدار داد برنامه‌های چین‑روسی نباید مسیر برکس را تغییر دهد",
+            "این موضع می‌تواند تعادل قدرت در گروه‌های چندجانبه را حفظ کند"
+        ],
+        "impact": "هند در مذاکرات برکس سعی می‌کند استقلال استراتژیک خود را نشان دهد؛ ممکن است فشار بر چین‑روسی افزایش یابد",
+        "tag": "دیپلوماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Print on MSN",
+        "url": "https://www.msn.com/en-in/news/other/india-joined-sco-s-iran-statement-it-must-ensure-china-russia-agenda-doesn-t-shape-brics/ar-AA2by0z8?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/india-joined-sco-s-iran-statement-it-must-ensure-china-russia-agenda-doesn-t-shape-brics/ar-AA2by0z8",
+        "image": "https://www.bing.com/th?id=ONUT.RDBcf3F5NjyY-1TsHbp2HA",
+        "timestamp": 1788504119.795998
+    },
+    {
         "id": "ff48d00108",
         "title_fa": "پروژه هسته‌ای پاکستان، تهدیدی برای اسرائیل و آمریکا",
         "title_en": "Pakistan’s nuclear projection should worry Israel, America",
@@ -1057,6 +1076,25 @@
         "clean_url": "https://www.washingtonpost.com/world/2026/09/03/iran-fires-missiles-drones-kuwait-strikes-resume-us-war",
         "image": "http://www.bing.com/th?id=ONUT.b4zEPEVWcLRz0OK0NivHPw&pid=News",
         "timestamp": 1788421140.0
+    },
+    {
+        "id": "d7b1efd0a6",
+        "title_fa": "هشدار امنیتی سفارت‌های آمریکا پس از حملات خونین در ایران",
+        "title_en": "Iran war latest: US embassies issue security alert after Tehran's neighbours condemn 'heinous' attacks",
+        "summary": [
+            "سفارت‌های آمریکا پس از حملات در تهران هشدار امنیتی صادر کردند",
+            "این اقدام نشان‌دهنده تشدید تنش‌های منطقه‌ای و احتمال محدود شدن فعالیت‌های دیپلماتیک است",
+            "همسایگان ایران حملات را «وحشیانه» نامیدند؛ فشار بین‌المللی بر تهران افزوده می‌شود"
+        ],
+        "impact": "فعالیت‌های سفارت‌های آمریکا در ایران محدود می‌شود؛ احتمال خروج پرسنل و کاهش تبادل اطلاعات",
+        "tag": "سفارت",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Sky",
+        "url": "https://news.sky.com/story/iran-israel-latest-trump-lebanon-hezbollah-netanyahu-strike-attack-live-13509565",
+        "clean_url": "https://news.sky.com/story/iran-israel-latest-trump-lebanon-hezbollah-netanyahu-strike-attack-live-13509565",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788417715.0
     },
     {
         "id": "1eb66c8d69",
