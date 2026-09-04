@@ -1,5 +1,23 @@
 [
     {
+        "id": "a05fca67fd",
+        "title_fa": "پنتاگون جنگ ایران را پنهان می‌کند",
+        "title_en": "Hegseth's Pentagon is hiding Iran war from the American public | Opinion",
+        "summary": [
+            "نویسنده می‌گوید رسانه‌ها و مردم از اهداف واقعی عملیات آمریکا بی‌خبرند.",
+            "ادعای شفافیت اداری آمریکا در مقابل واقعیت عدم اطلاع‌رسانی، به‌نظر می‌رسد تلاشی برای مخفی کردن خسارات نظامی باشد."
+        ],
+        "impact": "افزایش شک و تردید عمومی در آمریکا نسبت به مشروعیت جنگ، که می‌تواند فشار داخلی برای تغییر سیاست ایجاد کند.",
+        "tag": "پنتاگون",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/hegseths-pentagon-hiding-iran-war-100607800.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/hegseths-pentagon-hiding-iran-war-100607800.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/a4a2d6c651ce5d71d637868d3ea9e42d8332524f993edee1cf7e6e2b296fd674/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_opinion_532%2Fbdcb4a9df0f8d907b99eee3eb1cfe9c0.jpg",
+        "timestamp": 1788518152.0751846
+    },
+    {
         "id": "b9440e8cb0",
         "title_fa": "تنش های تجاری بین ایالات متحده و کانادا می‌تواند نحوه کشت محصولات کشاورزی را تغییر دهد",
         "title_en": "Trade tensions between US-Canada could change how farmers grow crops",
@@ -337,6 +355,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjRvdUswTGVHMExlMHpBc1BCcDNGNkU1MWtvM0xFWWY2WDBMc2J3WmpfaXFkMmdHZFpybUZ6RC0tNEhGbkpwMTllZ1B2eDk3Um1TbTR3T1hGMXl4OTNEbUFPUzlzUU9HTFQwTkZxSzFVNWc0MzZjdUVqMV9LcEpMOWJjWDgwYkxac0h2ckxZT1ZiWFVvZmg4bHBManRyS1FJTmQwSVNOSHZXS3NscXc",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788509832.0
+    },
+    {
+        "id": "5b400f655d",
+        "title_fa": "واکنش معاون آمریکا به حمله عروسی در ایران",
+        "title_en": "Iran war live: Vance says 'sometimes things happen' on wedding strike",
+        "summary": [
+            "معاون آمریکا ادعا کرد برخی حوادث ناخواسته رخ می‌دهند و جنگ را رد کرد.",
+            "این حرف سعی دارد فشار بین‌المللی بر ایران را کاهش دهد و مسئولیت قتل پنج نفر را کم‌رنگ کند."
+        ],
+        "impact": "کاهش موقت فشار دیپلماتیک آمریکا، اما احتمال تشدید انتقادات داخلی در ایالات متحده.",
+        "tag": "جنگ",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/other/iran-war-live-vance-says-sometimes-things-happen-on-wedding-strike/ar-AA2bxXNe",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-vance-says-sometimes-things-happen-on-wedding-strike/ar-AA2bxXNe",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bw6ak.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1788509804.0
     },
     {
         "id": "e58f6e5861",
