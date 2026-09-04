@@ -55,6 +55,26 @@
         "timestamp": 1788482697.5314
     },
     {
+        "id": "1b3465abf5",
+        "title_fa": "حمله پهپادی به انبار نفتی سوچی",
+        "title_en": "UAV attack caused a fire at an oil depot in Sochi, according to TASS",
+        "summary": [
+            "پوهپادهای نظامی باعث آتش‌سوزی در انبار سوچی شد؛ این مکان فقط یک انبار محلی است و به مسیرهای اصلی صادرات نفت وصل نیست.",
+            "در گذشته حملات به انبارهای محلی تأثیر کوتاه‌مدت و محدود بر قیمت نفت داشته؛ در مقابل، حملات به پالایشگاه‌ها یا ترمینال‌های صادراتی قیمت را به‌صورت پایدار بالا می‌برند.",
+            "کلید پیگیری این است که آیا این حمله بخشی از یک موج هماهنگ علیه زیرساخت‌های انرژی روسیه است یا یک حادثهٔ منفرد.",
+            "اگر ادعاهای خسارت به تسهیلات دیگر تأیید شود، احتمال افزایش ناگهانی نوسان بازار نفت وجود دارد."
+        ],
+        "impact": "قیمت نفت ممکن است به‌صورت لحظه‌ای ارتقا یابد اما اثر طولانی‌مدت ندارد.",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "newsquawk",
+        "url": "https://www.newsquawk.com/headlines/uav-attack-caused-a-fire-at-an-oil-depot-in-sochi-according-to-tass",
+        "clean_url": "https://www.newsquawk.com/headlines/uav-attack-caused-a-fire-at-an-oil-depot-in-sochi-according-to-tass",
+        "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Geopolitical/3.png",
+        "timestamp": 1788480000.0
+    },
+    {
         "id": "b464a84329",
         "title_fa": "ونس «بسیار مشکوک» حمله آمریکا به جشن عروسی ایران ضربه زد",
         "title_en": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party",
