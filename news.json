@@ -1,5 +1,45 @@
 [
     {
+        "id": "6e0679cb1b",
+        "title_fa": "ترامپ به تخریب ماشین جنگی ایران پرداخته",
+        "title_en": "Trump is dismantling Iran’s war machine, but America still needs an endgame",
+        "summary": [
+            "حملات اخیر سی‌سی‌سی به سامانه‌های رادار و دفاعی سپاه رهبری، توان نظامی ایران را به‌طور قابل‌توجهی تضعیف کرد",
+            "این اقدام نشان می‌دهد واشنگتن دیگر اجازه نمی‌دهد تهدیدات ایران بدون پاسخ بماند",
+            "تضعیف زیرساخت‌های دریایی ایران، ریسک تصادم در خلیج فارس را کاهش می‌دهد",
+            "پیام واضح به تهران: هرگونه تجاوز هزینه سنگینی خواهد داشت"
+        ],
+        "impact": "ایران با کاهش توان دفاعی، در منطقه کمتر می‌تواند فشار نظامی اعمال کند",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/trump-dismantling-irans-war-machine-america-still-needs-endgame",
+        "clean_url": "https://www.foxnews.com/opinion/trump-dismantling-irans-war-machine-america-still-needs-endgame",
+        "image": "https://www.bing.com/th?id=ONUT.mfLZc-kBmY83dfrxWEyVmQ",
+        "timestamp": 1788528225.7179315
+    },
+    {
+        "id": "f071d2d2cc",
+        "title_fa": "نِسل از خطرات ضدسامی در دموکراسی هشدار داد",
+        "title_en": "Now they want us to commit suicide",
+        "summary": [
+            "نِسل به دلیل تهدیدهای ضدسامی از حضور در کنوانسیون دموکرات‌ها خودداری کرد",
+            "او بیان کرد که برخی جناح‌های طرفدار فلسطین، انتقاداتشان را به شکل حملات شخصی به یهودیان تبدیل می‌کنند",
+            "این اظهارات واکنش مثبت جامعه یهودی آمریکا را برانگیخت و فشار داخلی بر حزب دموکرات را افزایش داد",
+            "جدال داخلی دموکرات‌ها بر سر سیاست خاورمیانه به‌صورت عمیق‌تری در حال شکل‌گیری است"
+        ],
+        "impact": "افزایش فشار بر رهبری دموکرات‌ها برای مقابله با ضدسامی‌گری داخلی",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/opinion/column/ben-cohen/now-they-want-us-to-commit-suicide",
+        "clean_url": "https://www.jns.org/opinion/column/ben-cohen/now-they-want-us-to-commit-suicide",
+        "image": "https://www.bing.com/th?id=ONUT.Hd1BHQAon9wNed3n6Strrg",
+        "timestamp": 1788528225.7176354
+    },
+    {
         "id": "c1b5a253d9",
         "title_fa": "بازار اوراق قرضه در بحران، ریسک وام مسکونی بالا رفت",
         "title_en": "The bond market is revolting — and your mortgage is the first casualty",
