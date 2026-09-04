@@ -1,5 +1,25 @@
 [
     {
+        "id": "ab17fb7a9a",
+        "title_fa": "ادعاهای بهبود وضعیت مرز و بازار کار زیر سوال",
+        "title_en": "Ideas & Opinions — Paul D. Hauck: Are things really getting better?",
+        "summary": [
+            "نویسنده می‌گوید مرز تقریباً بسته است اما آمار نشان می‌دهد بیش از دو‑سوم بازداشت‌ها بدون سابقه کیفری بوده",
+            "آمار ICE نشان می‌دهد تنها ۱۷٪ بازداشت‌شدگان پیشینه جنایی داشته‌اند",
+            "آمار شغلی نشان می‌دهد تعداد کل مشاغل از ۱۳۵٫۹ میلیون در آغاز دوره ترامپ به ۱۳۳٫۵۵ میلیون در ژوئیه ۲۰۲۶ کاهش یافته",
+            "ادعاهای بهبود بازار کار بدون شواهد قوی باقی می‌مانند"
+        ],
+        "impact": "تصویر نادرست از بهبود مهاجرت و اشتغال می‌تواند سیاست‌گذاران و رأی‌دهندگان را گمراه کند",
+        "tag": "مهاجرت",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "The Union",
+        "url": "https://www.theunion.com/news/community/ideas-opinions-paul-d-hauck-are-things-really-getting-better/article_f121b9c4-f05e-4dc9-a6a6-dad7f05b23e4.html",
+        "clean_url": "https://www.theunion.com/news/community/ideas-opinions-paul-d-hauck-are-things-really-getting-better/article_f121b9c4-f05e-4dc9-a6a6-dad7f05b23e4.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/custom/image/895f2392-650d-11ed-9099-fb46053bbb4c.png?resize=600%2C315",
+        "timestamp": 1788565633.072178
+    },
+    {
         "id": "5b0f92bb7c",
         "title_fa": "خبر بین‌المللی — ایران Faces UN Security Council Referral Over هسته‌ای Stando",
         "title_en": "Iran Faces UN Security Council Referral Over Nuclear Standoff",
@@ -218,6 +238,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0xvN2xocmd5Z1NfSmpyTVV4Qm1WWnRQN0pzM3pnbGhPNjZLd1FCYV9zVUQ1eThYRGpSSEhyYzd3TkowdXcwV3ZHWDBuM2tZLWxBVExFdEpMOS1yQkE3WXhXNXBXQ3dPWnBQTERYazVrX0pGM2NzWVc5SDBGQjk5RTZld3M5dkh5ZlRQamxyU09zZ0E2S3NSQS1rSFlRYmUzOGdyQ1dVUXhoM0ZSbEFRelJJMnEyclhQNkE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788552827.0
+    },
+    {
+        "id": "bc963341c8",
+        "title_fa": "ممنوعیت یک‌ساله هوش مصنوعی در مدارس نیویورک",
+        "title_en": "Mamdani announces one-year ban on AI use in NYC public schools",
+        "summary": [
+            "مردم‌نهاد شهر نیویورک یک‌سال استفاده دانش‌آموزان از ابزارهای تولیدی هوش مصنوعی را ممنوع کرد",
+            "حدود ۶۰۰٬۰۰۰ دانش‌آموز از کلاس‌های K‑2 تا هشتم تحت این ممنوعیت قرار می‌گیرند",
+            "دبیرستان‌ها فقط در پنج برنامه آزمایشی تحت نظارت معلم می‌توانند از AI استفاده کنند"
+        ],
+        "impact": "آموزش ابتدایی و متوسطه بدون دسترسی به AI، سرعت پذیرش فناوری در مدارس را کاهش می‌دهد",
+        "tag": "آموزش",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/news/u-s-news/mamdani-announces-one-year-ban-on-ai-use-in-nyc-public-schools",
+        "clean_url": "https://www.jns.org/news/u-s-news/mamdani-announces-one-year-ban-on-ai-use-in-nyc-public-schools",
+        "image": "https://static.jns.org/dims4/default/128f342/2147483647/strip/true/crop/5760x3243+0+93/resize/1000x563!/format/webp/quality/90/?url=https://static.jns.org/4c/b9/e809903a4a8a9c775c9d0aee594c/pexels-gustavo-fring-5621945.jpg",
+        "timestamp": 1788551160.0
     },
     {
         "id": "bf0dfb9836",
@@ -5368,39 +5407,5 @@
         "clean_url": "https://tradersunion.com/news/financial-news/show/3216292-us-energy-employment-growth-report",
         "image": "https://www.bing.com/th?id=ONUT.z5eR7VZwpimtGyl2e6I-hQ",
         "timestamp": 1788391206.0
-    },
-    {
-        "id": "26699e29a5",
-        "title_fa": "خبر بین‌المللی — Federal court backs Sable Offshore oil operations در Califor",
-        "title_en": "Federal court backs Sable Offshore oil operations in California dispute",
-        "summary": [
-            "A federal court supports Sable Offshore's effort to restart oil production in California's Santa Ynez Unit, dismissing..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "tradersunion",
-        "url": "https://tradersunion.com/news/financial-news/show/3216289-federal-court-sable-offshore-ruling/",
-        "clean_url": "https://tradersunion.com/news/financial-news/show/3216289-federal-court-sable-offshore-ruling",
-        "image": "https://www.bing.com/th?id=ONUT.bJOFO0RooQWfYjH5dZf2LQ",
-        "timestamp": 1788391206.0
-    },
-    {
-        "id": "16ba59e15d",
-        "title_fa": "خبر بین‌المللی — Vance: US investigating حمله در ایران wedding 'very fully'",
-        "title_en": "Vance: US investigating strike on Iran wedding 'very fully'",
-        "summary": [
-            "US Vice President JD Vance told reporters on Thursday that the US is \"very fully\" investigating the military's reported..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/news/vance-us-investigating-strike-iran-wedding-very-fully",
-        "clean_url": "https://www.middleeasteye.net/news/vance-us-investigating-strike-iran-wedding-very-fully",
-        "image": "https://www.bing.com/th?id=ONUT.SGUWoVsCy3RBAhqD3FMsBg",
-        "timestamp": 1788391205.0
     }
 ]
