@@ -1,5 +1,23 @@
 [
     {
+        "id": "a73a684237",
+        "title_fa": "سیا باید جمهوری اسلامی را نابود کند",
+        "title_en": "The Islamic Republic is crumbling. It’s time for the CIA to finish it off",
+        "summary": [
+            "مقاله ادعا می‌کند رژیم ایران در نقطه ضعف تاریخی است",
+            "پیشنهاد می‌شود عملیات مخفی سیا برای سرنگونی دولت انجام شود"
+        ],
+        "impact": "افزایش تنش‌های مخفی بین آمریکا و ایران، خطر اقدام‌ها سایبری یا اطلاعاتی",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.9,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/the-islamic-republic-is-crumbling-it-s-time-for-the-cia-to-finish-it-off/ar-AA2byM9h?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/the-islamic-republic-is-crumbling-it-s-time-for-the-cia-to-finish-it-off/ar-AA2byM9h",
+        "image": "https://www.bing.com/th?id=ONUT.e3sw4xjYIh1GsHB7ehSInA",
+        "timestamp": 1788523444.7059348
+    },
+    {
         "id": "9445d4a27f",
         "title_fa": "تنظیم مجدد نفتالی بنت: چرا نخست وزیر سابق وعده های خود را زیر پا گذاشت؟",
         "title_en": "Naftali Bennett’s reset: Why the former PM broke his promises",
@@ -852,6 +870,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2J4YmRsQjhNWG93RGdSR0dsUlBxeDZNWkNteDhGSVJQenpxTWlVemUtVFdVNzk4RTBJa2lpaFhRdnk5QlNBUlByN3c1N1pYam9yTE83cHJhX1k1cFVNVUdpWlFiVHliQmd3Nzl4cUVlaGxMTzJjcVd6TC1DUHp5blZMRGEwdDZEbkVYa2JNc05rNVRsam1ZTGg5VVlkd0tGNlFMTmVQdDJxOGvSAbABQVVfeXFMUFF4OWRySnJuRWh1aTRFZ09OQlY3R2k5UzNuRGhjcWQwODZYWnctS0FlRzlIaVVMQVU5dHQwQk94c2prVTF2UXM0ZHhPRkdkanhkV0c1Sy1pZUtZdWRTVXBqYmpPMC1LQ0t2T1pRLWpHZmRQYmJackJyS0tHbTB6bHZCS1JUZWZ5T09uQV8zWl9acmxIaXA4RHNYYmJrcHVpX2lBT3VPVFVNNHpvQlVFUV8",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788489900.0
+    },
+    {
+        "id": "cd35c3ad7b",
+        "title_fa": "جنگ ایران ادامه دارد؛ جمهوری‌خواهان بی‌تفاوت",
+        "title_en": "The Iran war drags on. Republicans are watching from the sidelines.",
+        "summary": [
+            "شش ماه پس از شروع، هزینه‌ها بالا رفته و هیچ رأی‌گیری در کنگره صورت نگرفته",
+            "اکثر نمایندگان جمهوری‌خواه نیازی به مجوز یا اعلان جنگ نمی‌بینند"
+        ],
+        "impact": "ادامه عملیات نظامی بدون نظارت قانون اساسی، خطر تشدید درگیری",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "ms",
+        "url": "https://www.ms.now/news/iran-war-republicans-watching-from-sidelines",
+        "clean_url": "https://www.ms.now/news/iran-war-republicans-watching-from-sidelines",
+        "image": "http://www.bing.com/th?id=ONUT.1_AHbDsGQiLzZ7eoN0A0Kg&pid=News",
+        "timestamp": 1788487200.0
+    },
+    {
+        "id": "3570a4f57e",
+        "title_fa": "روز باز پاراکنک‌های ورزشی آذربایجان",
+        "title_en": "National Paralympic Committee to hold Para Athletics Open Day",
+        "summary": [
+            "کمیته ملی پاراکنک‌ها در 17 سپتامبر در مرکز دو و میدانی باکوی برنامه باز دارد",
+            "هدف شناسایی استعدادهای 12 تا 17 ساله با ناتوانی‌های مختلف است"
+        ],
+        "impact": "تقویت حضور آذربایجان در مسابقات پاراکنک‌های بین‌المللی",
+        "tag": "ورزش",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "AzerNews",
+        "url": "https://www.azernews.az/sports/263389.html",
+        "clean_url": "https://www.azernews.az/sports/263389.html",
+        "image": "https://www.azernews.az/media/2026/09/04/17883594631921233289_1200x630.jpg",
+        "timestamp": 1788486780.0
     },
     {
         "id": "f184fcc644",
@@ -1847,6 +1901,60 @@
         "clean_url": "https://ippmedia.co.tz/the-guardian/features/read/how-has-life-changed-for-common-iranians-six-months-into-the-war-2026-09-03-122630",
         "image": "https://ippmedia.co.tz/storage/post-feature-images/9992a4e4-3d55-4974-a9e0-427a1fbfdf0d.png",
         "timestamp": 1788438360.0
+    },
+    {
+        "id": "976fac142b",
+        "title_fa": "قیمت دیزل آمریکا به رکورد تاریخی پس از جنگ ایران",
+        "title_en": "Live Updates: Iran war drives U.S. diesel price to record high as Vance downplays the conflict and its impact",
+        "summary": [
+            "قیمت دیزل به 5.85 دلار در گالن رسید؛ بالاترین سطح تا به حال",
+            "معاون وینس گفت جنگ ایران مانع افزایش بیشتر قیمت شد اما آن را «جنگ» نمی‌نامید"
+        ],
+        "impact": "هزینه حمل و نقل و قیمت کالاهای مصرفی در آمریکا به شدت بالا می‌رود",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day",
+        "image": "https://www.bing.com/th?id=ONUT.XUe9tNwoEy5IEfGci1tzcg",
+        "timestamp": 1788437036.0
+    },
+    {
+        "id": "be463e1d75",
+        "title_fa": "جهان‌سازی به اقتصاد غرب ضربه زد",
+        "title_en": "The day globalization's chickens came home to roost for Western economies",
+        "summary": [
+            "زنجیره‌های تأمین به‌هم ریخته و تورم شدید شد",
+            "جنگ ایران به هزینه‌های انرژی افزوده و فشار بر اقتصاد غرب را افزایش داد"
+        ],
+        "impact": "کاهش رشد اقتصادی و فشار بر سیاست‌های پولی در غرب",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "David Woo Unbound on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/the-day-globalization-s-chickens-came-home-to-roost-for-western-economies/vi-AA2byuwP?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/the-day-globalization-s-chickens-came-home-to-roost-for-western-economies/vi-AA2byuwP",
+        "image": "https://www.bing.com/th?id=ONUT.LS6oEsdQrHMsJWvZU3RjSw",
+        "timestamp": 1788437036.0
+    },
+    {
+        "id": "6da3acd748",
+        "title_fa": "شواهد تسلط سپاه بر ایران و فشار بر ترامپ",
+        "title_en": "Why Iran may be running out the clock on Trump, with IRGC takeover evidence exposed",
+        "summary": [
+            "گزارش می‌گوید سپاه پاسداران کنترل کلیدی بر نهادهای دولتی دارد",
+            "این تسلط می‌تواند مذاکرات با ترامپ را به نقطه‌عطفی برساند"
+        ],
+        "impact": "احتمال افزایش فشار دیپلماتیک و ریسک تداوم تنش‌های نظامی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "David Woo Unbound on MSN",
+        "url": "https://www.msn.com/en-us/video/other/why-iran-may-be-running-out-the-clock-on-trump-with-irgc-takeover-evidence-exposed/vi-AA2byBZf?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/video/other/why-iran-may-be-running-out-the-clock-on-trump-with-irgc-takeover-evidence-exposed/vi-AA2byBZf",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788437036.0
     },
     {
         "id": "efe2dbbfd4",
