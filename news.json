@@ -1,5 +1,24 @@
 [
     {
+        "id": "cd256a2ea0",
+        "title_fa": "ترامپ تحریم و حمله، ایران سرسخت می‌ماند",
+        "title_en": "Sanctions, strikes, stalemate: Trump tightens the noose, Iran refuses to blink",
+        "summary": [
+            "ترامپ اعلام کرد تحریم‌های جدید و حملات هوایی علیه ایران را گسترش می‌دهد تا فشار اقتصادی را دوچندان کند",
+            "ایران با رد هرگونه تسلیم، زیرساخت‌های نفتی و نظامی خود را حفظ می‌کند و به هیچ‌چیز چشم نمی‌پوشاند",
+            "این تنش می‌تواند مسیر مذاکرات را به سمت رکود بکشاند و ریسک تصاعد نظامی را بالا ببرد"
+        ],
+        "impact": "تحریم‌های سنگین و حملات هوایی می‌تواند صادرات نفت را به‌طور جدی کاهش دهد و فشار مالی بر بانک‌های ایرانی را تشدید کند",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/opinion/sanctions-strikes-stalemate-trump-tightens-the-noose-iran-refuses-to-blink-14043156.html",
+        "clean_url": "https://www.firstpost.com/opinion/sanctions-strikes-stalemate-trump-tightens-the-noose-iran-refuses-to-blink-14043156.html",
+        "image": "https://www.bing.com/th?id=ONUT.-JnHpj463QFEht5zvSwdeg",
+        "timestamp": 1788504831.8670034
+    },
+    {
         "id": "0e46ee0eea",
         "title_fa": "هند به بیانیه SCO درباره ایران پیوست؛ نگرانی از چین‑روسی",
         "title_en": "India joined SCO’s Iran statement. It must ensure China-Russia agenda doesn’t shape BRICS",
@@ -1076,6 +1095,25 @@
         "clean_url": "https://www.washingtonpost.com/world/2026/09/03/iran-fires-missiles-drones-kuwait-strikes-resume-us-war",
         "image": "http://www.bing.com/th?id=ONUT.b4zEPEVWcLRz0OK0NivHPw&pid=News",
         "timestamp": 1788421140.0
+    },
+    {
+        "id": "2d7f825fb6",
+        "title_fa": "نایب‌رئیس آمریکا جنگ ایران را جنگ نمی‌نامد",
+        "title_en": "Iran war is not a war, US VP Vance says",
+        "summary": [
+            "جانی دی. ونس گفت درگیری جاری را «جنگ» نمی‌نامد و به‌جای آن «منازعه» می‌داند",
+            "این بیانیه سعی دارد فشار بین‌المللی را کاهش دهد و گزینه‌های دیپلماتیک را باز نگه دارد",
+            "با این حال، درگیری‌های مسلحانه در مرزها و حملات نیابتی همچنان ادامه دارد و ریسک تشدید را حذف نمی‌کند"
+        ],
+        "impact": "بیان عدم جنگ می‌تواند مانع تصویب تحریم‌های جدید توسط برخی کشورها شود و فضای دیپلماتیک را نرم‌تر کند",
+        "tag": "بیانیه",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Global News - Inquirer.net on MSN",
+        "url": "https://www.msn.com/en-ph/news/other/iran-war-is-not-a-war-us-vp-vance-says/ar-AA2bwl8t?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ph/news/other/iran-war-is-not-a-war-us-vp-vance-says/ar-AA2bwl8t",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788418427.0
     },
     {
         "id": "d7b1efd0a6",
