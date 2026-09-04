@@ -1,5 +1,43 @@
 [
     {
+        "id": "c1b5a253d9",
+        "title_fa": "بازار اوراق قرضه در بحران، ریسک وام مسکونی بالا رفت",
+        "title_en": "The bond market is revolting — and your mortgage is the first casualty",
+        "summary": [
+            "بازار جهانی اوراق دولتی به‌سرعت می‌لرزد و نرخ بهره‌ها صعود می‌کند",
+            "سرمایه‌گذاران به‌دنبال پناهگاهی امن می‌گردند؛ هزینه وام مسکن برای خانوارها به‌طور چشمگیری افزایش می‌یابد",
+            "بانک‌ها فشار نقدینگی می‌گیرند و امکان اعطای وام جدید کاهش می‌یابد"
+        ],
+        "impact": "قیمت مسکن و هزینه زندگی در کوتاه‌مدت به‌طور قابل‌توجهی ارتقاء می‌یابد",
+        "tag": "اوراق",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/the-bond-market-is-revolting-and-your-mortgage-is-the-first-casualty/ar-AA2bysIi?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/the-bond-market-is-revolting-and-your-mortgage-is-the-first-casualty/ar-AA2bysIi",
+        "image": "https://www.bing.com/th?id=ONUT.2ojiZ7MhGhLxoYvFE8goZg",
+        "timestamp": 1788527020.788491
+    },
+    {
+        "id": "1a0f063d99",
+        "title_fa": "میلی، از آشفتگی ترامپ برای فشار بر فالکلند استفاده می‌کند",
+        "title_en": "Milei is using Falkands to exploit Trump chaos. The UK can do nothing",
+        "summary": [
+            "میلی، رئیس‌جمهور آرژانتین، با اشاره به منازعات فالکلند سعی دارد توجه جهانی را از بحران داخلی آمریکا منحرف کند",
+            "این استراتژی نشان می‌دهد که رقبای غرب از هر ناهماهنگی سیاسی در ایالات متحده بهره‌برداری می‌کنند",
+            "انگلیس در این بازی نقش محدودی دارد و نمی‌تواند مداخله مستقیم انجام دهد"
+        ],
+        "impact": "تحریک‌های سیاسی می‌تواند فشار دیپلماتیک بر روابط آمریکا‑انگلستان را افزاش دهد",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-ie/news/other/milei-is-using-falkands-to-exploit-trump-chaos-the-uk-can-do-nothing/ar-AA2byFyS?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ie/news/other/milei-is-using-falkands-to-exploit-trump-chaos-the-uk-can-do-nothing/ar-AA2byFyS",
+        "image": "https://www.bing.com/th?id=ONUT.kRlEA5PAbypiw5TPO6m2ug",
+        "timestamp": 1788527020.7882216
+    },
+    {
         "id": "6522f3f497",
         "title_fa": "اسماعیل لاگاردین | دشمن قریب الوقوع بی پروایی و حماقت تهدیدات تحریمی بسنت",
         "title_en": "ISMAIL LAGARDIEN | The imminent nemesis of recklessness and folly of Bessent’s threats of sanctions",
@@ -101,6 +139,25 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/the-islamic-republic-is-crumbling-it-s-time-for-the-cia-to-finish-it-off/ar-AA2byM9h",
         "image": "https://www.bing.com/th?id=ONUT.e3sw4xjYIh1GsHB7ehSInA",
         "timestamp": 1788523444.7059348
+    },
+    {
+        "id": "f8a8c3a69b",
+        "title_fa": "تحریم‌های آمریکا به ایران فشار اقتصادی می‌آورد",
+        "title_en": "US sanctions and blockade on Iran are beginning to bite",
+        "summary": [
+            "محدودیت‌های مالی و حمل‌ونقل کالاهای حساس به‌سرعت وارد بازار ایران می‌شود",
+            "شرکت‌های بین‌المللی به‌دلیل ریسک‌های قانونی از تعامل با ایران خودداری می‌کنند",
+            "قیمت نفت و ارز داخلی تحت فشار شدید قرار می‌گیرد"
+        ],
+        "impact": "کاهش صادرات و افزایش تورم می‌تواند به‌سرعت به‌نقطه‌سختی اقتصادی منجر شود",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Marine Link",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlk2aVk3TEJxTVNDVnhrM1ZjS2VsUW55TGhlVHFQU1hxN3U4X2VYQ2NWcEstVm5EbFozTWhqaTN4WThpRW1HeHczR0NuVTJoeS1USGdUODF2Sk5PLW9PY2hIU3M0VzMweGxhY3dMTHZNX0YtWC15WW91bTJSclRQT2MwX0c3c1RuZVo4Q2FKNEdOS2huLUs1ZXRrVUl2VnotQ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlk2aVk3TEJxTVNDVnhrM1ZjS2VsUW55TGhlVHFQU1hxN3U4X2VYQ2NWcEstVm5EbFozTWhqaTN4WThpRW1HeHczR0NuVTJoeS1USGdUODF2Sk5PLW9PY2hIU3M0VzMweGxhY3dMTHZNX0YtWC15WW91bTJSclRQT2MwX0c3c1RuZVo4Q2FKNEdOS2huLUs1ZXRrVUl2VnotQ0E",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788523206.0
     },
     {
         "id": "9445d4a27f",
