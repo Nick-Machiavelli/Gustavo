@@ -1,5 +1,23 @@
 [
     {
+        "id": "43bb611287",
+        "title_fa": "ترامپ در آستانه انتخابات ۲۰۲۶ ذهن‌پراکند",
+        "title_en": "As the 2026 general election kicks off, Trump is clearly preoccupied",
+        "summary": [
+            "ترامپ در دوره پیش‌انتخابی ۲۰۲۶ به جای تمرکز بر برنامه‌های سیاسی، به موضوعات پراکنده می‌پردازد",
+            "تحلیل‌گران می‌گویند این رفتار می‌تواند تصویر نامطمئن‌تری از رهبری جمهوری‌خواهان ارائه دهد"
+        ],
+        "impact": "احتمال تغییر مسیر استراتژی حزب جمهوری‌خواه و تأثیر بر تصمیم‌گیری رای‌دهندگان",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/as-the-2026-general-election-kicks-off-trump-is-clearly-preoccupied/ar-AA2bAUin?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/as-the-2026-general-election-kicks-off-trump-is-clearly-preoccupied/ar-AA2bAUin",
+        "image": "https://www.bing.com/th?id=ONUT.U_R3LvfDoV9TTU6yPkm4XQ",
+        "timestamp": 1788546955.6256785
+    },
+    {
         "id": "ce1ede5c6e",
         "title_fa": "میدان نفتی کلیدی تهدید فاکلندهای میلی",
         "title_en": "The oil field at the heart of Milei’s Falklands threat",
@@ -2913,6 +2931,24 @@
         "clean_url": "https://www.azernews.az/region/263361.html",
         "image": "https://www.azernews.az/media/2026/09/03/403095.jpg",
         "timestamp": 1788462060.0
+    },
+    {
+        "id": "a206ae66a8",
+        "title_fa": "تهدید اسرائیل به ضربه‌زدن به انرژی و شهرهای ایرانی",
+        "title_en": "US-Iran war: Israel threatens to strike Iranian energy, civilian sites",
+        "summary": [
+            "وزیر دفاع اسرائیل اعلام کرد هر حمله‌ای از ایران منجر به هدف قرار دادن زیرساخت‌های انرژی و مناطق مسکونی می‌شود",
+            "تهدید مستقیم به سایت‌های غیرنظامی خطر تشدید تنش‌های نظامی در خاورمیانه را افزایش می‌دهد"
+        ],
+        "impact": "احتمال قطع صادرات نفت و گاز ایران و تشدید فشار دیپلماتیک بر خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "WION on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-iran-war-israel-threatens-to-strike-iranian-energy-civilian-sites/vi-AA2bzi3Q?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-israel-threatens-to-strike-iranian-energy-civilian-sites/vi-AA2bzi3Q",
+        "image": "https://www.bing.com/th?id=ONUT.72KQyV9sd4w7CcBHHbU2sw",
+        "timestamp": 1788460551.0
     },
     {
         "id": "f43980bac6",
