@@ -1,5 +1,24 @@
 [
     {
+        "id": "6f0718b4fd",
+        "title_fa": "هند باید صدای خلیج را بشنود",
+        "title_en": "The Gulf is calling and New Delhi must listen",
+        "summary": [
+            "هند تا کنون با حفظ فاصله استراتژیک، به خلیج به‌عنوان بازار نفت و نیروی کار نگاه کرده است",
+            "اکنون فشارهای اقتصادی و امنیتی منطقه‌ای، سیاست «چند‌تطبیق» را به «همسویی فعال» تبدیل می‌کند",
+            "تغییر رویکرد می‌تواند فرصت‌های تجاری را گسترش دهد اما ریسک تضعیف تعادل بین رقبای منطقه‌ای را به‌هم می‌زند"
+        ],
+        "impact": "تقویت حضور تجاری هند در خلیج، اما احتمال بروز تنش‌های دیپلماتیک با رقبای منطقه‌ای",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/opinion/lead/the-gulf-is-calling-and-new-delhi-must-listen/article71428972.ece",
+        "clean_url": "https://www.thehindu.com/opinion/lead/the-gulf-is-calling-and-new-delhi-must-listen/article71428972.ece",
+        "image": "https://www.bing.com/th?id=ONUT.FoivrpYk0sBW9h0X8fC0gg",
+        "timestamp": 1788549034.5736825
+    },
+    {
         "id": "b928fc964c",
         "title_fa": "کارویل ترامپ را به خاطر شکست کنوانسیون تحقیر کرد",
         "title_en": "Carville Humiliates Trump Over Convention Fiasco",
@@ -49,6 +68,26 @@
         "clean_url": "https://forward.com/opinion/848228/netanyahu-conspiracy-campaign-strategy",
         "image": "https://www.bing.com/th?id=ONUT.BScXX3j7jieBCyhIK34nfQ",
         "timestamp": 1788548585.2743196
+    },
+    {
+        "id": "cce55ff32a",
+        "title_fa": "قرارداد هسته‌ای آمریکا‑عربستان مسیر سلاح را می‌گشاید",
+        "title_en": "US-Saudi nuclear deal 'glide path' to bomb, senior House Dem tells JNS",
+        "summary": [
+            "نماینده براد شرمن می‌گوید توافق هسته‌ای با عربستان می‌تواند در ۱۰‑۱۵ سال سلاح هسته‌ای بدهد",
+            "توافق بدون نظارت آژانس بین‌المللی انرژی هسته‌ای و شامل غنی‌سازی و بازپردازش است؛ او آن را بدتر از برجام می‌داند",
+            "این اظهارات می‌تواند فشار بر کنگره برای رد یا اصلاح توافق افزایش دهد",
+            "اگر اجرا شود، تعادل هسته‌ای خاورمیانه به‌سختی تحت‌الشعاع می‌شود"
+        ],
+        "impact": "افزایش تنش‌های هسته‌ای خاورمیانه و احتمال تحریم‌های جدید علیه عربستان",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/news/u-s-news/us-saudi-nuclear-deal-glide-path-to-bomb-senior-house-dem-tells-jns",
+        "clean_url": "https://www.jns.org/news/u-s-news/us-saudi-nuclear-deal-glide-path-to-bomb-senior-house-dem-tells-jns",
+        "image": "https://static.jns.org/dims4/default/feea418/2147483647/strip/true/crop/6400x3600+0+336/resize/1440x810!/format/webp/quality/90/?url=https://k2-prod-jns-prod.s3.us-east-1.amazonaws.com/brightspot/ad/b6/1f5b8f80441aaaf54f19aa2dbffc/gettyimages-2246892283.jpg",
+        "timestamp": 1788547020.0
     },
     {
         "id": "43bb611287",
