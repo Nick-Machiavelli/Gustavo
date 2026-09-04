@@ -1,5 +1,23 @@
 [
     {
+        "id": "cb14b048c9",
+        "title_fa": "برکس در دهلی: هند می‌خواهد نفوذ استراتژیک بگیرد",
+        "title_en": "BRICS In Delhi: Can India Turn A Diverse Bloc Into Strategic Influence?",
+        "summary": [
+            "برکس با حضور ۱۱ کشور و ۱۰ شریک سعی دارد صدای واحدی در بحران‌های جهانی پیدا کند",
+            "هند به عنوان رئیس، می‌خواهد استقلال استراتژیک نشان دهد و تعادل بین روسیه‑چین‑ایران را حفظ کند"
+        ],
+        "impact": "تصمیمات برکس می‌تواند مسیر تجارت بین‌المللی و سیاست‌های تحریمی را تحت تأثیر قرار دهد",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Free Press Journal",
+        "url": "https://www.freepressjournal.in/analysis/brics-in-delhi-can-india-turn-a-diverse-bloc-into-strategic-influence",
+        "clean_url": "https://www.freepressjournal.in/analysis/brics-in-delhi-can-india-turn-a-diverse-bloc-into-strategic-influence",
+        "image": "https://www.bing.com/th?id=ONUT.dDYhMNFfDxllKX6KrzVvoA",
+        "timestamp": 1788537804.1924827
+    },
+    {
         "id": "4c31cb8624",
         "title_fa": "ویکتور دیویس هانسون: استراتژی ترامپ و بسنت در مورد آناکوندا در حال تشدید شدن است",
         "title_en": "Victor Davis Hanson: Trump’s, Bessent’s ‘Anaconda’ Strategy Is Tightening Around Iran",
@@ -1153,6 +1171,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788510769.0
+    },
+    {
+        "id": "e99ce63efe",
+        "title_fa": "هفت جزیرهٔ کنترل‌گر هرمز",
+        "title_en": "The seven islands: what we know about Iran's maritime line controlling Hormuz",
+        "summary": [
+            "ایران جزایر را به \"ناحیه‌های ثابت هوایی\" تبدیل کرده تا مسیر کشتی‌های نفتی را هدایت کند",
+            "این ساختار باعث محدود شدن عبور آزاد کشتی‌ها و افزایش ریسک نوسان قیمت انرژی می‌شود"
+        ],
+        "impact": "کاهش ظرفیت عبور نفت جهانی و فشار بر بازار انرژی",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/irans-seven-islands-strengthen-hormuz-control",
+        "clean_url": "https://www.newarab.com/news/irans-seven-islands-strengthen-hormuz-control",
+        "image": "http://www.bing.com/th?id=ONUT.x2KENSg5Yg4nMhMriebBuw&pid=News",
+        "timestamp": 1788510600.0
     },
     {
         "id": "32b300c6b5",
@@ -2692,6 +2728,24 @@
         "clean_url": "https://www.msn.com/en-xl/news/news/democrat-blew-off-paralyzed-veterans-for-israel-as-staff-expose-his-cold-response-to-cop-s-funeral/ar-AA2byXR8",
         "image": "https://www.bing.com/th?id=ONUT.EB_4jqQZPbmEt3y8V2faRg",
         "timestamp": 1788446519.0
+    },
+    {
+        "id": "93befe12d8",
+        "title_fa": "وینس: تا توقف حملات هرمز مذاکرات نیست",
+        "title_en": "Vance says no talks with Iran until Hormuz attacks stop",
+        "summary": [
+            "آمریکا گفت تا ایران حملات به کشتی‌ها در هرمز را متوقف نکند، هیچ گفتگویی آغاز نمی‌شود",
+            "این موضع می‌تواند فشار دیپلماتیک و تحریمی جدیدی به تهران وارد کند"
+        ],
+        "impact": "تشدید تنش‌های دریایی و احتمال اعمال تحریم‌های سخت‌تر علیه ایران",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/videos/news/world/2026/09/03/vance-says-no-talks-with-iran-until-hormuz-attacks-stop/91599524007/",
+        "clean_url": "https://www.usatoday.com/videos/news/world/2026/09/03/vance-says-no-talks-with-iran-until-hormuz-attacks-stop/91599524007",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/PDTN/91599499007-getty-images-2293375940.jpg?crop=4175,2349,x0,y217&width=3200&height=1801&format=pjpg&auto=webp",
+        "timestamp": 1788445440.0
     },
     {
         "id": "32524b949c",
