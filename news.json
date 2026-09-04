@@ -1,5 +1,25 @@
 [
     {
+        "id": "5d291c2b3a",
+        "title_fa": "جنگ هویت اسرائیل، تهدیدی برای ایالات متحده",
+        "title_en": "America, beware: The battle over Israel’s identity could be coming for the US",
+        "summary": [
+            "اسرائیل درگیر جدال داخلی بر سر مشروعیت و هویت ملی است",
+            "این کشمکش می‌تواند سیاست خارجی واشنگتن را به چالش بکشد",
+            "آمریکا باید پیش از گسترش بحران، موضع واضحی اتخاذ کند",
+            "در صورت ادامه تنش، فشارهای دیپلماتیک و اقتصادی بر آمریکا افزایش می‌یابد"
+        ],
+        "impact": "تغییر مسیر سیاست خاورمیانه آمریکا و احتمال اعمال تحریم‌های جدید",
+        "tag": "ژئوپلیتیک",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/america-beware-the-battle-over-israel-s-identity-could-be-coming-for-the-us/ar-AA2bAqBq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/america-beware-the-battle-over-israel-s-identity-could-be-coming-for-the-us/ar-AA2bAqBq",
+        "image": "https://www.bing.com/th?id=ONUT.3HM6vPiKMEOOMe9aulI5Gg",
+        "timestamp": 1788561551.0770106
+    },
+    {
         "id": "a524c50ec2",
         "title_fa": "اکسل مرک استدلال می‌کند که دو برابر شدن اقتصاد مستلزم دخالت کمتر سیاستی است",
         "title_en": "Doubling economy requires less policy interference, Axel Merk argues",
@@ -3219,6 +3239,26 @@
         "timestamp": 1788475249.0167384
     },
     {
+        "id": "d14057abe0",
+        "title_fa": "خبرنگاران مسلمان در دهلی تحت ضربه پلیس",
+        "title_en": "Muslim women journalists allege police assault in Indian capital",
+        "summary": [
+            "دو خبرنگار زن مسلمان پس از پرسش از وزیر داخلی، توسط پلیس بازداشت شدند",
+            "آنها ادعا کردند در حین بازجویی به دلیل مذهبشان مورد ضرب و شتم شدید شدند",
+            "این حادثه واکنش شدید سازمان‌های خبری بین‌المللی و نهادهای حقوق بشر را برانگیخت",
+            "فشار داخلی بر دولت هندی برای اصلاح رفتار پلیس نسبت به اقلیت‌ها افزایش یافت"
+        ],
+        "impact": "افزایش تنش‌های داخلی هند و خطر تحریم‌های بین‌المللی بر نهادهای امنیتی",
+        "tag": "حقوق_بشر",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "muslimnetwork",
+        "url": "https://www.muslimnetwork.tv/muslim-women-journalists-allege-police-assault-in-indian-capital/",
+        "clean_url": "https://www.muslimnetwork.tv/muslim-women-journalists-allege-police-assault-in-indian-capital",
+        "image": "https://www.bing.com/th?id=ONUT.LLsU1ZATs_XEbTiMF_Rw5Q",
+        "timestamp": 1788475143.0
+    },
+    {
         "id": "6e423860bf",
         "title_fa": "وزیر دفاع اسرائیل از تصرف مرتفع‌پوششی حزب‌الله خوشنود شد",
         "title_en": "Israel defense minister hails capture of Hezbollah highland in Lebanon",
@@ -3650,6 +3690,26 @@
         "clean_url": "https://www.azernews.az/region/263361.html",
         "image": "https://www.azernews.az/media/2026/09/03/403095.jpg",
         "timestamp": 1788462060.0
+    },
+    {
+        "id": "2da3d908d6",
+        "title_fa": "ترامپ: ویدیوهای نظامی جعلی و ملاقات با ربی‌های ضد صهیونیست",
+        "title_en": "Donald Trump",
+        "summary": [
+            "ترامپ ویدیوهای ساختگی از حملات نظامی را در شبکه‌های اجتماعی منتشر کرد",
+            "این کار باعث گمراهی عمومی و فشار بر روابط آمریکا با کشورهای آمریکای لاتین شد",
+            "او در جلسه‌ای خصوصی با شش ربی ضد صهیونیست، به نقد سیاست‌های اسرائیل پرداخت",
+            "رئیس‌جمهور کاستاریکا اعلام کرد هر عملیات نظامی آمریکا در خاک او نیاز به تصویب کنگره دارد"
+        ],
+        "impact": "اعتماد عمومی به اطلاعات نظامی آمریکا تحت فشار قرار می‌گیرد و روابط با کاستاریکا دچار سردی می‌شود",
+        "tag": "اطلاعات",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/tag/donald-trump/",
+        "clean_url": "https://www.aljazeera.com/tag/donald-trump",
+        "image": "https://www.aljazeera.com/images/logo_aje_social.png",
+        "timestamp": 1788460920.0
     },
     {
         "id": "a206ae66a8",
@@ -5339,56 +5399,5 @@
         "clean_url": "https://www.channelnewsasia.com/world/us-pressure-iran-sanctions-blockade-6360946",
         "image": "https://www.bing.com/th?id=ONUT.tKLecfMWMRd5GKvIsOCWhw",
         "timestamp": 1788389225.0
-    },
-    {
-        "id": "21542d8ad6",
-        "title_fa": "خبر بین‌المللی — نتانیاهو declares toppling ایران's رژیم 'core mission,' says",
-        "title_en": "Netanyahu declares toppling Iran's regime 'core mission,' says goal within reach",
-        "summary": [
-            "Israeli Prime Minister Benjamin Netanyahu has publicly declared that toppling Iran's regime is Israel's \"core mission,\"..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Herald Business",
-        "url": "https://biz.heraldcorp.com/article/10862299",
-        "clean_url": "https://biz.heraldcorp.com/article/10862299",
-        "image": "https://www.bing.com/th?id=ONUT.ejfyfGLDZwgYZxhxBNxqYw",
-        "timestamp": 1788389225.0
-    },
-    {
-        "id": "c78b16da26",
-        "title_fa": "تشدید جنگ در ایران نگرانی از تلفات غیرنظامیان را افزایش می‌دهد",
-        "title_en": "Iran war escalation raises concern over civilian death toll",
-        "summary": [
-            "The recent escalation of the Iran war has cast renewed attention on its civilian toll after Iran reported four killed and dozens wounded at a wedding."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Defense News",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll/",
-        "clean_url": "https://www.defensenews.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll",
-        "image": "http://www.bing.com/th?id=ONUT.UGdbVthV5acIJ15rgUN5cA&pid=News",
-        "timestamp": 1788378360.0
-    },
-    {
-        "id": "e77bc2f798",
-        "title_fa": "نتانیاهو هشدار داد حمله احتمالی تهران به اسرائیل «یکی از آخرین تصمیم‌های آنها» خواهد بود",
-        "title_en": "نتانیاهو هشدار داد حمله احتمالی تهران به اسرائیل «یکی از آخرین تصمیم‌های آنها» خواهد بود",
-        "summary": [
-            "بنیامین نتانیاهو هشدار داد حمله احتمالی تهران به اسرائیل «یکی از آخرین تصمیم‌های آنها» خواهد بود. اورشلیم‌پست هم‌زمان گزارش داد ارتش اسرائیل برای ازسرگیری سریع حملات به ایران آماده است و برنامه هسته‌ا..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609036420",
-        "clean_url": "https://www.iranintl.com/202609036420",
-        "image": "http://www.bing.com/th?id=ONUT.iaZ7DBREc0ilVJJuOH6dLQ&pid=News",
-        "timestamp": 1788372540.0
     }
 ]
