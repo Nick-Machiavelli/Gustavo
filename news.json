@@ -387,6 +387,24 @@
         "timestamp": 1788454420.0
     },
     {
+        "id": "34bfa0b527",
+        "title_fa": "بحران بندر جِبل‌علی به‌دلیل مسدود شدن هرمز",
+        "title_en": "Dubai's biggest port faces collapse as Hormuz blockade chokes trade",
+        "summary": [
+            "حجم بارگیری در جِبل‌علی بیش از ۹۰٪ کاهش یافته؛ این بندر ۲۰٪ تولید ناخالص امارات را تشکیل می‌دهد.",
+            "مسدود شدن هرمز باعث شد روزانه فقط ۱۷ کشتی عبور کند؛ راه‌حل‌های جایگزین همچون بنادر فجیره هنوز توان جایگزینی ندارند."
+        ],
+        "impact": "کاهش شدید تجارت بین‌المللی امارات، فشار بر رشد اقتصادی و وابستگی به مسیرهای دریایی دیگر",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "AzerNews",
+        "url": "https://www.azernews.az/region/263347.html",
+        "clean_url": "https://www.azernews.az/region/263347.html",
+        "image": "https://www.azernews.az/media/2026/09/03/untitled-35-640x400.png",
+        "timestamp": 1788452820.0
+    },
+    {
         "id": "f683c1a378",
         "title_fa": "افزایش قیمت نفت خام به عنوان پایانی برای جنگ آمریکا و ایران",
         "title_en": "Crude Oil Prices Rally as No End in Sight to US-Iran War",
@@ -419,6 +437,24 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/trump-declares-iran-in-great-trouble-as-vance-says-end-uncertain/ar-AA2bwiO7",
         "image": "http://www.bing.com/th?id=ONUT.JxcH2SD7hnhd9filsXItPA&pid=News",
         "timestamp": 1788448757.0
+    },
+    {
+        "id": "bde99d77ad",
+        "title_fa": "میلی سیرس نام خانوادگی‌اش را حذف کرد",
+        "title_en": "Miley Cyrus drops her surname as she enters new musical era",
+        "summary": [
+            "آرتیست برای ورود به دورهٔ جدید موسیقی، هویت دیجیتالی‌اش را به «Miley» تغییر داد.",
+            "تغییر نام همزمان با اعلام آلبوم دهم اوست؛ احتمال بازآفرینی برند و جذب مخاطب جدید بالا است."
+        ],
+        "impact": "تقویت تصویر بازاریابی سیرس و احتمال افزایش فروش آلبوم جدید",
+        "tag": "فرهنگ",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "AzerNews",
+        "url": "https://www.azernews.az/culture/263334.html",
+        "clean_url": "https://www.azernews.az/culture/263334.html",
+        "image": "https://www.azernews.az/media/2026/09/03/wedwedew.jpg",
+        "timestamp": 1788448440.0
     },
     {
         "id": "d0f7eb200d",
