@@ -1,5 +1,23 @@
 [
     {
+        "id": "4e98510d37",
+        "title_fa": "دولت‌های شرق مدیترانه برای مقابله با ترکیه متحد می‌شوند",
+        "title_en": "The Mediterranean answers back",
+        "summary": [
+            "کشورهای شرق مدیترانه پس از فعالیت‌های ترکیه، تمایل به تشکیل ائتلاف‌های جدید نشان دادند",
+            "این روند می‌تواند تعادل قدرت در منطقه را به چالش بکشاند"
+        ],
+        "impact": "افزایش تنش‌های نظامی‑سیاسی در مدیترانه شرقی",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Blogs | The Times of Israel",
+        "url": "https://blogs.timesofisrael.com/the-mediterranean-answers-back/",
+        "clean_url": "https://blogs.timesofisrael.com/the-mediterranean-answers-back",
+        "image": "https://www.bing.com/th?id=ONUT.f3OuEMf7gIMPa3Y_VO2nOg",
+        "timestamp": 1788545013.0124464
+    },
+    {
         "id": "ce41cec3f3",
         "title_fa": "خبر بین‌المللی — 'Literally drooling' ترامپ running شود time به turn things",
         "title_en": "'Literally drooling' Trump running out of time to turn things around: veteran columnist",
@@ -104,6 +122,24 @@
         "clean_url": "https://newrepublic.com/post/215137/trump-war-mail-in-ballots-hurt-native-american-voters",
         "image": "https://www.bing.com/th?id=ONUT.Q1a86VlkgVU98ZXkD5Fopg",
         "timestamp": 1788539057.7366893
+    },
+    {
+        "id": "1aadb4dd3f",
+        "title_fa": "تحریم جدید آمریکا بر بانک ترکیه‌ای مرتبط با ایران",
+        "title_en": "US-Iran War Live Updates: US says 15 million barrels of oil moved through Hormuz",
+        "summary": [
+            "آمریکا بانک ترکیه‌ای Golden Global Yatirim و دو زیرمجموعه‌اش را به فهرست SDN افزود؛ دسترسی به دلار برایشان قطع شد",
+            "اقدام پس از نگرانی‌های IAEA از انبار اورانیوم ۶۰٪ ایران و فشار برای دسترسی کامل بازرسان صورت گرفت"
+        ],
+        "impact": "محدودیت مالی بر شبکه سایه‌بانکی ایران و فشار بیشتر بر برنامه هسته‌ای",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-missiles-drones-strike-gulf-countries-middle-east-conflict-airstrikes-strait-of-harmuz-latest-news/liveblog/133749921.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-missiles-drones-strike-gulf-countries-middle-east-conflict-airstrikes-strait-of-harmuz-latest-news/liveblog/133749921.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133749921,width-1280,height-720,imgsize-853038,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1788538380.0
     },
     {
         "id": "cb14b048c9",
@@ -2840,6 +2876,42 @@
         "clean_url": "https://www.msn.com/en-us/news/other/netanyahu-toppling-iranian-regime-is-israel-s-central-mission-goal-within-reach/ar-AA2bw30H",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/WhatsApp-Image-2026-09-03-at-19.05.23.jpeg",
         "timestamp": 1788459546.0
+    },
+    {
+        "id": "7ee214bfb1",
+        "title_fa": "دعوت به ثبت‌نام خبرنامه روزانه WBOC",
+        "title_en": "It's The Home Stretch For November Elections",
+        "summary": [
+            "WBOC از کاربران می‌خواهد برای دریافت خلاصه اخبار روزانه ثبت‌نام کنند",
+            "خطای پردازش ممکن است دریافت خبرنامه را مختل کند"
+        ],
+        "impact": "بدون تغییر در وضعیت سیاسی یا اقتصادی",
+        "tag": "سازمانی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "WBOC TV",
+        "url": "https://www.wboc.com/news/its-the-home-stretch-for-november-elections/video_e4283aeb-8af4-59eb-981e-7d58c7900fe3.html",
+        "clean_url": "https://www.wboc.com/news/its-the-home-stretch-for-november-elections/video_e4283aeb-8af4-59eb-981e-7d58c7900fe3.html",
+        "image": "https://www.bing.com/th?id=ONUT.-FuylRlxaBwY-E7r9ZODiA",
+        "timestamp": 1788458606.0
+    },
+    {
+        "id": "656ad60af7",
+        "title_fa": "هزینه‌های رو به افزایش کشاورزان و مشتریان گاز",
+        "title_en": "Rising costs for farmers lamented while Firmus gas customers also see bills hiked up",
+        "summary": [
+            "رئیس پیشین UFU هزینه‌های فاکتورهای کشاورزان را «وحشت‌بار» توصیف کرد",
+            "مشتریان گاز Firmus نیز شاهد افزایش صورتحساب‌ها هستند"
+        ],
+        "impact": "کاهش خنثی‌سازی مالی کشاورزان و فشار بر مصرف‌کنندگان گاز",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "Belfast News Letter on MSN",
+        "url": "https://www.msn.com/en-gb/money/economy/rising-costs-for-farmers-lamented-while-firmus-gas-customers-also-see-bills-hiked-up/ar-AA2bABL3?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/money/economy/rising-costs-for-farmers-lamented-while-firmus-gas-customers-also-see-bills-hiked-up/ar-AA2bABL3",
+        "image": "https://www.bing.com/th?id=ONUT.NHGbw_6Lrw5umWPCFandkA",
+        "timestamp": 1788458606.0
     },
     {
         "id": "6988f38fa8",
