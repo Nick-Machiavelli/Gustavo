@@ -617,6 +617,26 @@
         "timestamp": 1788526550.323295
     },
     {
+        "id": "3c976d0084",
+        "title_fa": "قیمت دیزل آمریکا به رکورد ۵٫۸۵ دلار رسید",
+        "title_en": "Price of diesel in U.S. hits record as Vance downplays Iran war impact",
+        "summary": [
+            "قیمت دیزل در ایالات متحده به ۵٫۸۵ دلار در هر گالن رسید",
+            "معاون رئیس‌جمهور جِی‌دی ونس اثر جنگ ایران را کم‌اهمیت جلوه داد",
+            "تعداد کشتی‌های عبوری از تنگه هرمز به‌طور قابل‌توجهی کاهش یافت",
+            "افزایش قیمت سوخت باعث فشار بیشتر بر هزینه‌های حمل‌ونقل می‌شود"
+        ],
+        "impact": "هزینه‌های حمل‌ونقل و قیمت کالاها برای مصرف‌کنندگان آمریکایی بالا می‌رود",
+        "tag": "انرژی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/b418a44aa221bdc67bd9bc348c7c331880e547a3db8cbfb9eaa0590f40b44ed6/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/c938b3269ee372db2af80f14cdd335a2.jpg",
+        "timestamp": 1788526440.0
+    },
+    {
         "id": "b7e8dcafe2",
         "title_fa": "شبکه های تجاری در سایه عراق به ایران کمک می‌کنند تا از فشار اقتصادی ایالات متحده فرار کند",
         "title_en": "Iraq’s shadow trade networks help Iran evade US eonomic pressure",
@@ -2329,6 +2349,26 @@
         "clean_url": "https://english.alarabiya.net/News/middle-east/2026/09/04/israel-defense-minister-hails-capture-of-hezbollah-highland-in-lebanon",
         "image": "https://vid.alarabiya.net/images/2024/11/11/854bc38a-7478-48a2-a5e8-276c28089fdf/854bc38a-7478-48a2-a5e8-276c28089fdf_16x9_600x338.JPG",
         "timestamp": 1788474900.0
+    },
+    {
+        "id": "94318928ec",
+        "title_fa": "ایران ترجیح می‌دهد درگیری با آمریکا ادامه یابد",
+        "title_en": "Iran prefers conflict with US over peace to suppress internal uprising, human rights activist warns",
+        "summary": [
+            "رژیم برای سرکوب اعتراضات داخلی از تهدید خارجی استفاده می‌کند",
+            "آمریکا حملات هوایی به پایگاه‌های ایرانی در اردن و بحرین انجام داد",
+            "تعهدات صلحی که آمریکا ارائه کرد، پس از حملات به کشتی‌ها نقض شد",
+            "این سیاست خطر تشدید تنش‌های خلیج فارس و هزینه‌های نظامی را بالا می‌برد"
+        ],
+        "impact": "تنش‌های نظامی در خلیج فارس افزایش می‌یابد و فشار بر اقتصاد داخلی ایران شدت می‌گیرد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/iran-prefers-conflict-us-over-peace-suppress-internal-uprising-human-rights-activist-warns",
+        "clean_url": "https://www.foxnews.com/world/iran-prefers-conflict-us-over-peace-suppress-internal-uprising-human-rights-activist-warns",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/khamenei-hormuz.jpg",
+        "timestamp": 1788474660.0
     },
     {
         "id": "a60def10c3",
