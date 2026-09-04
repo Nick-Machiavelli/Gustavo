@@ -1,5 +1,24 @@
 [
     {
+        "id": "cac857de6a",
+        "title_fa": "آیا آمریکا به نیابتی چین در تایوان تبدیل می‌شود؟",
+        "title_en": "Will the US become China’s indirect enforcer on Taiwan?",
+        "summary": [
+            "اختلاف بیانیه‌های واشنگتن و پکن پس از نشست ترامپ‑شی نشان می‌دهد که هر دو طرف سعی در حفظ تصویر عمومی دارند، نه توافق مخفی.",
+            "دعوت ترامپ به شی برای واشنگتن می‌تواند چین را وادار کند تا از تمایل آمریکا به ثبات برای محدود کردن تایوان استفاده کند.",
+            "در صورت برگزاری نشست، احتمال می‌رود آمریکا به‌صورت غیرمستقیم نقش نیابتی چین در منطقه را ایفا کند و تنش‌های اقیانوسی تشدید شود."
+        ],
+        "impact": "چین ممکن است از ایالات متحده برای فشار بر تایوان بهره ببرد و خطر تشدید تنش‌های منطقه‌ای افزایش یابد",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Asia Times",
+        "url": "https://asiatimes.com/2026/09/will-the-us-become-chinas-indirect-enforcer-on-taiwan/",
+        "clean_url": "https://asiatimes.com/2026/09/will-the-us-become-chinas-indirect-enforcer-on-taiwan",
+        "image": "https://asiatimes.com/wp-content/uploads/2024/08/US-Taiwan-Flags.jpg",
+        "timestamp": 1788513832.9264
+    },
+    {
         "id": "e54210748c",
         "title_fa": "درون دنیای فانتزی دونالد ترامپ",
         "title_en": "Inside the fantasy world of Donald Trump",
@@ -1383,6 +1402,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/i-wouldn-t-call-it-a-war-vance-downplays-conflict-with-iran-even-as-strikes-continue/ar-AA2bw1mH",
         "image": "http://www.bing.com/th?id=ONUT.0WA2MAYeW-6DrXNKFh2eBg&pid=News",
         "timestamp": 1788439866.0
+    },
+    {
+        "id": "daa5abc8c1",
+        "title_fa": "ایران به آمریکا هشدار پاسخ قوی به حمله اسرائیل",
+        "title_en": "Iran has warned US it will respond forcefully to any Israeli offensive on south Lebanon ridge",
+        "summary": [
+            "تهدید ایران نشان می‌دهد که در صورت حمله اسرائیل به ریدج علی‌طاهر، نیروی سپاه ممکن است به صورت مستقیم به نیروهای آمریکایی واکنش نشان دهد.",
+            "حضور بیش از دوازده نفر از سپاه پاسداران در این نقطه، نشانگر آماده‌سازی برای گسترش جبهه به جنوب لبنان است.",
+            "اگر ایالات متحده برای حمایت از اسرائیل اقدام کند، خطر گسترش جنگ به خلیج فارس و مسیرهای انرژی افزایش می‌یابد."
+        ],
+        "impact": "افزایش خطر برخورد نظامی بین آمریکا و ایران و تهدید به اختلال در مسیرهای نفتی خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/iran-warned-us-against-israeli-attack-on-south-lebanon-ridge-held-by-hezbollah/",
+        "clean_url": "https://www.timesofisrael.com/iran-warned-us-against-israeli-attack-on-south-lebanon-ridge-held-by-hezbollah",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260814__C4NY63K__v1__HighRes__LebanonIsraelIranUsWar.jpg",
+        "timestamp": 1788438480.0
     },
     {
         "id": "6a0c91188c",
