@@ -1,5 +1,81 @@
 [
     {
+        "id": "655400269b",
+        "title_fa": "حمایت‌های برجسته برای انتخابات ۸ سپتامبر",
+        "title_en": "Some high profile endorsements for Sept. 8 election: Letters",
+        "summary": [
+            "مارتا فولر کلارک و دیگران از مائورا سالیوان در انتخابات کنگره حمایت کردند",
+            "این نامه‌ها بر تجربه نظامی و خدمات دولتی او تأکید دارند",
+            "حمایت‌های برجسته می‌تواند شانس پیروزی او را در ناحیه ۱ نیوهمپشایر افزایش دهد"
+        ],
+        "impact": "تقویت شانس مائورا سالیوان در انتخابات، ممکن است ترکیب کنگره را تغییر دهد",
+        "tag": "انتخابات",
+        "urgency": 1,
+        "sentiment": 0.1,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/high-profile-endorsements-sept-8-090448624.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/high-profile-endorsements-sept-8-090448624.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/d377f0dff962ee45fa3e6d5f24a04b427c387742798665c2965357f9d853e396/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fusatoday-portsmouthseacoastonline-light_7237.png",
+        "timestamp": 1788516223.4197855
+    },
+    {
+        "id": "3960076d16",
+        "title_fa": "روث بار از رابطه‌اش با نتانیاهو می‌گوید",
+        "title_en": "Ruth Bar breaks silence on her 1993 affair with Netanyahu, his early political rise",
+        "summary": [
+            "روث بار پس از ۳۳ سال اولین بار درباره رابطه‌اش با نتانیاهو صحبت کرد",
+            "او ادعا می‌کند این رابطه بر مسیر سیاسی نتانیاهو تأثیر داشته است",
+            "افشاگری می‌تواند تصویر عمومی نتانیاهو را در اسرائیل تحت فشار قرار دهد"
+        ],
+        "impact": "احتمال فشار داخلی بر نتانیاهو و تقویت مخالفان سیاسی",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/ruth-bar-breaks-silence-on-her-1993-affair-with-netanyahu-his-early-political-rise/ar-AA2bxu9x?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/ruth-bar-breaks-silence-on-her-1993-affair-with-netanyahu-his-early-political-rise/ar-AA2bxu9x",
+        "image": "https://www.bing.com/th?id=ONUT.YM9r_cwGi66iRHWehjqtSg",
+        "timestamp": 1788516223.4189396
+    },
+    {
+        "id": "0169994741",
+        "title_fa": "ترامپ باید طوم باراک را برکنار کند",
+        "title_en": "Trump should dismiss Tom Barrack",
+        "summary": [
+            "طوم باراک، سفیر آمریکا در ترکیه، به‌عنوان دوست نزدیک ترامپ شناخته می‌شود",
+            "انتقادها می‌گویند حضور او باعث تضعیف سیاست‌های آمریکا در ترکیه می‌شود",
+            "برکناری او می‌تواند روابط دو جانبه را به‌سوی تعادل بازگرداند"
+        ],
+        "impact": "تغییر در سیاست‌های آمریکا‑ترکیه، احتمال کاهش تنش‌های منطقه‌ای",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/trump-should-dismiss-tom-barrack/ar-AA2by9Ku?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/trump-should-dismiss-tom-barrack/ar-AA2by9Ku",
+        "image": "https://www.bing.com/th?id=ONUT.vYCPI5tSvhfy3sZVaUuG2Q",
+        "timestamp": 1788516223.4185333
+    },
+    {
+        "id": "28fcd74680",
+        "title_fa": "تهدید اسرائیل به ناباتیه: پیش‌دستی انتخاباتی",
+        "title_en": "Is Nabatieh the Target and Ali al-Taher the Pretext?",
+        "summary": [
+            "اسرائیل قصد دارد با استفاده از تپه‌های علی‌الطاهر، شهر ناباتیه را به‌عنوان پیش‌دستی انتخاباتی به‌دست آورد",
+            "این پیش‌دستی می‌تواند منجر به گسترش عملیات نظامی در جنوب لبنان و تلفات غیرنظامی شود",
+            "فشار بر ناباتیه بخشی از استراتژی کلی اسرائیل برای تضعیف حماس و حزب‌الله است"
+        ],
+        "impact": "افزایش خطر درگیری مرزی و تلفات غیرنظامی در جنوب لبنان",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/opinion/5314618-nabatieh-target-and-ali-al-taher-pretext",
+        "clean_url": "https://english.aawsat.com/opinion/5314618-nabatieh-target-and-ali-al-taher-pretext",
+        "image": "https://static.srpcdigital.com/styles/thumbnail/public/2023-05/Fahs.png",
+        "timestamp": 1788516223.418117
+    },
+    {
         "id": "d9effb255d",
         "title_fa": "متن حاکم بر کوکی‌ها؛ خبری نیست",
         "title_en": "Ein Gespenst sanktionieren: Europas leere Geste gegen Iran",
@@ -34,6 +110,25 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/skin-crawling-critics-horrified-trump-090622880.html",
         "image": "https://www.bing.com/th?id=ONUT.FUOyIKD1Cswq_mhJOmPzTQ",
         "timestamp": 1788515435.1323712
+    },
+    {
+        "id": "e1a788c306",
+        "title_fa": "راه‌حل‌های خطرناک برای جنگ ایران",
+        "title_en": "The Wild Way Out of the Iran War That Still Manages to Be Better Than Any Alternative",
+        "summary": [
+            "مقاله به‌دنبال راه‌حل‌های غیرنظامی برای خروج از جنگ ایران می‌گردد",
+            "نویسنده معتقد است حتی گزینه‌های خطرناک‌تر از جنگ، هزینه‌های انسانی و اقتصادی بیشتری دارند",
+            "پیشنهادها شامل دیپلماسی چندجانبه و فشار اقتصادی هدفمند است"
+        ],
+        "impact": "تشویق به دیپلماسی فعال، کاهش احتمال تشدید درگیری",
+        "tag": "تحلیل",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Slate",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGxqNmRjWTRySzlHZXJ2MjMyR2V2ay1NcEtEelZMbjIybmNsLUl5Y1cza0ItQVpRMVdfWXNBTzNmWURZQjBRdm1pTnlJaW42RzAycHJDcUlPYndrNXRINHJhaUZUSTdiWXhQMV94QzlfeGRCUTJoUm1MTlNpbmdzQjlDT25oRUZYRjk5b2VxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGxqNmRjWTRySzlHZXJ2MjMyR2V2ay1NcEtEelZMbjIybmNsLUl5Y1cza0ItQVpRMVdfWXNBTzNmWURZQjBRdm1pTnlJaW42RzAycHJDcUlPYndrNXRINHJhaUZUSTdiWXhQMV94QzlfeGRCUTJoUm1MTlNpbmdzQjlDT25oRUZYRjk5b2VxUQ",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788514800.0
     },
     {
         "id": "ba7e662f56",
