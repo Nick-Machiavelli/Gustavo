@@ -1103,6 +1103,25 @@
         "timestamp": 1788528225.7176354
     },
     {
+        "id": "5406c7bd60",
+        "title_fa": "ایران آمریکا را به ذخیره‌سازی سوخت هشدار داد",
+        "title_en": "Iran warns Americans to stockpile fuel as diesel hits record $5.85 amid Hormuz disruption",
+        "summary": [
+            "قیمت دیزل آمریکا به 5.85 دلار رسید؛ رکورد تاریخی که ناشی از اختلال در تنگه هرمز است.",
+            "ایران با پیام هشدار سعی در ایجاد فشار روانی بر مصرف‌کنندگان و دولت آمریکا دارد.",
+            "هشدار انرژی به‌عنوان ابزار دیپلماسی به کار رفته؛ هنوز شواهدی برای کمبود ملی وجود ندارد."
+        ],
+        "impact": "قیمت بنزین و دیزل در ایالات متحده بالا می‌رود، هزینه حمل‌ونقل و فشار بر تورم افزایش می‌یابد.",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Arkansas Public Advocate on MSN",
+        "url": "https://www.msn.com/en-us/money/general/iran-warns-americans-to-stockpile-fuel-as-diesel-hits-record-5-85-amid-hormuz-disruption/ar-AA2bBid3",
+        "clean_url": "https://www.msn.com/en-us/money/general/iran-warns-americans-to-stockpile-fuel-as-diesel-hits-record-5-85-amid-hormuz-disruption/ar-AA2bBid3",
+        "image": "http://www.bing.com/th?id=ONUT.nk7XHVcDBgMCgunvNMwvTQ&pid=News",
+        "timestamp": 1788527537.0
+    },
+    {
         "id": "8634041bee",
         "title_fa": "ایالات متحده و ایران در تنگه هرمز به جدال می‌پردازند",
         "title_en": "The US wants to manage the stalemate in the Strait of Hormuz. Iran wants to break it",
@@ -5362,22 +5381,5 @@
         "clean_url": "https://www.iranintl.com/202609025453",
         "image": "http://www.bing.com/th?id=ONUT.090q5T58zlvzY3wnWz9rKA&pid=News",
         "timestamp": 1788366900.0
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "آخرین اخبار آمریکا",
-        "title_en": "US latest news",
-        "summary": [
-            "This live blog is now closed. ‘Where the wealthiest country in the world allocates money has always been a question of political will over political way’ Sign up for This Week in Trumpland A deep dive..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1788362760.0
     }
 ]
