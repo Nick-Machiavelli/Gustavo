@@ -2388,6 +2388,26 @@
         "timestamp": 1788504831.8670034
     },
     {
+        "id": "55a86f1d72",
+        "title_fa": "منع سه‌دوندگان اسرائیلی از مسابقه در ایرلند شمالی",
+        "title_en": "Israeli triathletes barred from race in Northern Ireland after organizer objects",
+        "summary": [
+            "برگزارکننده مسابقه به دلیل اعتراض به وضعیت فلسطینیان، حضور ورزشکاران اسرائیلی را مسدود کرد",
+            "دلیل رسمی منع، «تلاش برای نشان دادن عادی‌سازی» حضور اسرائیلی‌هاست، نه مذهب یا نژاد",
+            "این تصمیم می‌تواند فشار سیاسی بر رویدادهای ورزشی بین‌المللی را افزایش دهد",
+            "ورزشکاران اسرائیلی فرصت‌های رقابتی خود را در این مسابقه از دست می‌دهند"
+        ],
+        "impact": "حذف تیم اسرائیلی از رقابت، تنش‌های سیاسی در حوزه ورزش و محدود شدن دسترسی به مسابقات بین‌المللی برای آن‌ها",
+        "tag": "ورزش",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/israeli-triathletes-barred-from-race-in-northern-ireland-after-organizer-objects/",
+        "clean_url": "https://www.timesofisrael.com/israeli-triathletes-barred-from-race-in-northern-ireland-after-organizer-objects",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260803__2288835150__v1__HighRes__2026IronmanCanadaOttawa-e1788493527520.jpg",
+        "timestamp": 1788504540.0
+    },
+    {
         "id": "0e46ee0eea",
         "title_fa": "هند به بیانیه SCO درباره ایران پیوست؛ نگرانی از چین‑روسی",
         "title_en": "India joined SCO’s Iran statement. It must ensure China-Russia agenda doesn’t shape BRICS",
@@ -5370,22 +5390,5 @@
         "clean_url": "https://www.iranintl.com/202609036420",
         "image": "http://www.bing.com/th?id=ONUT.iaZ7DBREc0ilVJJuOH6dLQ&pid=News",
         "timestamp": 1788372540.0
-    },
-    {
-        "id": "cc0a46aec8",
-        "title_fa": "اکسیوس: ویتکاف و مقام ارشد اماراتی گام‌های بعدی علیه تهران را بررسی کردند",
-        "title_en": "اکسیوس: ویتکاف و مقام ارشد اماراتی گام‌های بعدی علیه تهران را بررسی کردند",
-        "summary": [
-            "اکسیوس گزارش داد استیو ویتکاف، فرستاده کاخ سفید، با شیخ طحنون بن زاید، مشاور امنیت ملی امارات متحده عربی، درباره گام‌های بعدی در قبال حکومت ایران گفت‌وگو کرده است؛ دیداری که هم‌زمان با تشدید فشار اقتص..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609036620",
-        "clean_url": "https://www.iranintl.com/202609036620",
-        "image": "http://www.bing.com/th?id=ONUT.lfyVeFhFOF4swwK44A688w&pid=News",
-        "timestamp": 1788371220.0
     }
 ]
