@@ -139,6 +139,25 @@
         "timestamp": 1788473423.0
     },
     {
+        "id": "0fab4e5a9d",
+        "title_fa": "وینس: این را جنگ نمی‌نامم",
+        "title_en": "‘I Wouldn’t Call It a War’: Vance Plays Down Recent Iran Strikes",
+        "summary": [
+            "وزیر امور خارجه آمریکا تأکید کرد که حملات اخیر به ایران جنگ نیست و هدف محدود به پاسخ به تهدیدات است.",
+            "این بیانیه سعی دارد فشار بین‌المللی را کاهش دهد و از گسترش کشمکش‌های نظامی جلوگیری کند.",
+            "با این حال، عملیات هوایی ادامه دارد و نشانگر عدم تمایل به عقب‌نشینی کامل است."
+        ],
+        "impact": "کاهش تنش‌های دیپلماتیک در سطح عمومی، اما عملیات نظامی همچنان ادامه دارد",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZTlIZFN4VEdtQk5IY0VpQnh0Y1BOSjFzVHU3Tm9ocVdyb1VKeEVHcFNyNGxzeVhSUldYVFpWaS0zUHpNY1JhaUNyTUpVUzVCU1RoN0V3bzNkQXZDRjdsY2lzc1lJdWVnRGRXYlU3OWJxNWx4N2c2bTJZT0J4d0p3bEljbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZTlIZFN4VEdtQk5IY0VpQnh0Y1BOSjFzVHU3Tm9ocVdyb1VKeEVHcFNyNGxzeVhSUldYVFpWaS0zUHpNY1JhaUNyTUpVUzVCU1RoN0V3bzNkQXZDRjdsY2lzc1lJdWVnRGRXYlU3OWJxNWx4N2c2bTJZT0J4d0p3bEljbw",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788472309.0
+    },
+    {
         "id": "7cfbb18a11",
         "title_fa": "جمهوری خواهان زمانی امیدوار بودند که جنگ ایران قبل از انتخابات پایان یابد. آنها از این رویا دست کشیده اند.",
         "title_en": "Republicans once hoped the Iran war would end before the elections. They’ve given up that dream.",
@@ -458,6 +477,42 @@
         "clean_url": "https://www.cnn.com/2026/09/03/politics/trump-regime-change-iran",
         "image": "http://www.bing.com/th?id=ONUT.YdyN8jLdUW7ebXTjLOHWcg&pid=News",
         "timestamp": 1788400800.0
+    },
+    {
+        "id": "6f20804c4b",
+        "title_fa": "ترامپ پس از حمله تجاری آمریکا به ایران برای اولین بار در یک ماه گذشته گفت: «من موضع ما را دوست دارم».",
+        "title_en": "Trump says 'I like our position' after US trades strikes with Iran for first time in a month",
+        "summary": [
+            "The U.S. and Iran have spent the previous three days trading strikes, marking the end of roughly a month of relative calm during which the White House had sought to focus almost exclusively on economic pressure."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/trump-iran-war-strikes-oil-prices-rise-09-02-26",
+        "clean_url": "https://www.foxnews.com/live-news/trump-iran-war-strikes-oil-prices-rise-09-02-26",
+        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/015742076ab1bde185740128ef8df0b1.png?ve=1&tl=1",
+        "timestamp": 1788400560.0
+    },
+    {
+        "id": "66ddb5b7fb",
+        "title_fa": "ترامپ: آماده حمله دوباره به ایران",
+        "title_en": "US-Iran War LIVE: 'The Regime is Getting Weaker and Weaker by the Day,' says US President Donald Trump",
+        "summary": [
+            "ترامپ اعلام کرد ایالات متحده می‌تواند هر زمان به ایران ضربه‌ای سخت‌تر بزند و کنترل تقریباً کامل بر تنگه هرمز دارد.",
+            "این ادعا نشان می‌دهد نیروی دفاعی آمریکا در خلیج فارس تقویت شده و تهدید مستقیم به تاسیسات هسته‌ای و نظامی ایران می‌شود.",
+            "بیان این موضع در آستانه انتخابات میانی می‌تواند فشار داخلی آمریکا را برای ادامه سیاست سخت‌گیری افزایش دهد."
+        ],
+        "impact": "افزایش خطر تشدید درگیری نظامی در خلیج فارس و فشار بر مسیرهای نفتی منطقه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
+        "image": "https://www.bing.com/th?id=ONUT.jBgjXaH1cvrnvGxk8ENiuA",
+        "timestamp": 1788393868.0
     },
     {
         "id": "42a89e4490",
