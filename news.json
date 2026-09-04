@@ -1,5 +1,41 @@
 [
     {
+        "id": "d9effb255d",
+        "title_fa": "متن حاکم بر کوکی‌ها؛ خبری نیست",
+        "title_en": "Ein Gespenst sanktionieren: Europas leere Geste gegen Iran",
+        "summary": [
+            "متن فقط درباره جمع‌آوری رضایت برای کوکی‌های وب‌سایت است.",
+            "هیچ اطلاعاتی درباره ایران یا رویداد سیاسی ارائه نمی‌دهد."
+        ],
+        "impact": "بدون اثر عملی یا سیاسی.",
+        "tag": "غیرقابل‌تحلیل",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Linke Zeitung",
+        "url": "https://linkezeitung.de/?start=320",
+        "clean_url": "https://linkezeitung.de",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788515435.132628
+    },
+    {
+        "id": "536a86b2da",
+        "title_fa": "ترامپ می‌خواهد قوسی عظیم در واشنگتن بسازد",
+        "title_en": "‘My Skin Is Crawling’: Critics Horrified By Trump’s ‘Disgraceful’ New Monument",
+        "summary": [
+            "ترامپ طرح ساخت قوس بزرگ بین یادمان لینکلن و گورستان آرلینگتون را پیش کشیده؛ کارگزار داخلی گفت کار در دو هفته آینده آغاز می‌شود.",
+            "منتقدان این پروژه را هدررفت پول در زمان بحران هزینه‌ها و جنگ طولانی می‌نامند."
+        ],
+        "impact": "هزینه میلیاردی در زمان بحران اقتصادی و فشار عمومی بر دولت.",
+        "tag": "سیاست داخلی",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/skin-crawling-critics-horrified-trump-090622880.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/skin-crawling-critics-horrified-trump-090622880.html",
+        "image": "https://www.bing.com/th?id=ONUT.FUOyIKD1Cswq_mhJOmPzTQ",
+        "timestamp": 1788515435.1323712
+    },
+    {
         "id": "ba7e662f56",
         "title_fa": "پس از حملات مجدد آمریکا و ایران",
         "title_en": "After renewed US-Iran strikes",
@@ -1526,6 +1562,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-turns-to-a-dual-economic-and-military-approach-in-latest-attempt-to-squeeze-iran/ar-AA2bvPYt",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788430667.0
+    },
+    {
+        "id": "e0358b3006",
+        "title_fa": "ایران به کویت شلیک کرد؛ انتقام از بمباران‌های آمریکا",
+        "title_en": "Iran targets Kuwait in retaliation for US bombardmentsPublished on: September 4, 2026 8:18 AM",
+        "summary": [
+            "ایران به کویت شلیک کرد تا به حملات هوایی آمریکا در همان هفته پاسخ دهد.",
+            "این اقدام خطر تشدید تنش‌های خلیج فارس و احتمال واکنش نظامی گسترده‌تر را افزایش داد."
+        ],
+        "impact": "افزایش خطر جنگ در خلیج فارس و تهدید ناوبری کشتی‌ها.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Daily Times on MSN",
+        "url": "https://www.msn.com/en-xl/asia/pakistan/iran-targets-kuwait-in-retaliation-for-us-bombardmentspublished-on-september-4-2026-818-am/ar-AA2bxvvP?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/iran-targets-kuwait-in-retaliation-for-us-bombardmentspublished-on-september-4-2026-818-am/ar-AA2bxvvP",
+        "image": "https://www.bing.com/th?id=ONUT.XpQUqltNCUxK-ilqqIyaiw",
+        "timestamp": 1788429029.0
     },
     {
         "id": "896245e8f1",
