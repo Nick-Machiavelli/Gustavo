@@ -1,5 +1,25 @@
 [
     {
+        "id": "0b89818f67",
+        "title_fa": "دیتاسنترها و خشم عمومی شبیه فرکینگ",
+        "title_en": "The freakout over data centers is just another fracking backlash we need to ignore",
+        "summary": [
+            "مقاله می‌گوید ۷۰٪ مردم دیتاسنترها را رد می‌کنند و این واکنش شبیه به ضد‑فرکینگ است",
+            "نویسنده معتقد است باید این مخالفت را نادیده گرفت تا زیرساخت‌های هوش مصنوعی پیش بروند",
+            "رقابت چین در ساخت دیتاسنترها فشار بر سرمایه‌گذاری‌های داخلی آمریکا را افزون می‌کند",
+            "اگر دولت به اعتراض‌ها واکنش ندهد، پروژه‌ها ممکن است با موانع قانونی و اجتماعی روبرو شوند"
+        ],
+        "impact": "سرعت گسترش دیتاسنترهای هوش مصنوعی در آمریکا ممکن است به دلیل مخالفت عمومی و رقابت چین کاهش یابد",
+        "tag": "دیتاسنتر",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/the-freakout-over-data-centers-is-just-another-fracking-backlash-we-need-to-ignore/ar-AA2bCLwy?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/the-freakout-over-data-centers-is-just-another-fracking-backlash-we-need-to-ignore/ar-AA2bCLwy",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788612184.2397363
+    },
+    {
         "id": "96820eeccf",
         "title_fa": "شش ماه جنگ ایران‑آمریکا؛ هیچ‌کس برنده نیست",
         "title_en": "Commentary: At 6 months, there is no clear winner in the Iran war",
@@ -5427,25 +5447,5 @@
         "clean_url": "https://www.aol.com/articles/cnns-kaitlan-collins-savagely-shutdown-180344000.html",
         "image": "https://www.bing.com/th?id=ONUT.G8IV6C55SThEWplbVMut3g",
         "timestamp": 1788462169.0
-    },
-    {
-        "id": "d36c8865ce",
-        "title_fa": "چارلز سلطان عمان را در اکتبر می‌پذیرد",
-        "title_en": "King Charles to host Oman's sultan in October",
-        "summary": [
-            "مهمان‌پذیری بریتانیا به سلطان عمان نشانگر تقویت روابط غرب‑خاورمیانه است",
-            "عمان و ایران برای بازگشت ناوگان تجاری به هرمز به توافق رسیده‌اند؛ اجرای آن به تعهدات آمریکا بستگی دارد",
-            "دیدار در ویندزور می‌تواند فشار بین‌المللی بر ایران برای بازگشایی تنگه را افزایش دهد",
-            "امکان همکاری‌های امنیتی و نظارتی مشترک بین انگلستان، فرانسه و عمان در خلیج"
-        ],
-        "impact": "تقویت حضور غرب در خلیج و فشار بر ایران برای بازگشایی هرمز",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/region/263361.html",
-        "clean_url": "https://www.azernews.az/region/263361.html",
-        "image": "https://www.azernews.az/media/2026/09/03/403095.jpg",
-        "timestamp": 1788462060.0
     }
 ]
