@@ -523,6 +523,26 @@
         "timestamp": 1788606178.2028728
     },
     {
+        "id": "274613935c",
+        "title_fa": "بحران عمیق اقتصادی ایران؛ نیروی‌دریایی آمریکا صادرات نفت را مسدود کرد",
+        "title_en": "Iran faces deepening economic crisis as US Navy blocks oil shipments, rial hits record low",
+        "summary": [
+            "ناوگان آمریکا تقریباً تمام صادرات نفت ایران را قطع کرده و مسیرهای حمل‌ونقل را بلوک می‌کند",
+            "ریال به رکورد پایین تاریخی رسیده؛ فشارهای مالی و تحریم‌های ترکیبی سبب سقوط ارزش پول ملی شده",
+            "شش ماه جنگ با آمریکا و اسرائیل اقتصاد را به لبهٔ فروپاشی کشانده؛ منابع مالی دولت به‌سر می‌برد",
+            "تورم سراسری و ناآرامی‌های اجتماعی احتمالاً با ادامه مسدودسازی تشدید می‌شود"
+        ],
+        "impact": "کاهش شدید درآمد ارزی و تشدید تورم؛ فشار بر دولت برای پذیرش مذاکرات جدید اقتصادی",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Benzinga on MSN",
+        "url": "https://www.msn.com/en-us/money/general/iran-faces-deepening-economic-crisis-as-us-navy-blocks-oil-shipments-rial-hits-record-low/ar-AA2bEleq",
+        "clean_url": "https://www.msn.com/en-us/money/general/iran-faces-deepening-economic-crisis-as-us-navy-blocks-oil-shipments-rial-hits-record-low/ar-AA2bEleq",
+        "image": "http://www.bing.com/th?id=ONUT.2FTybn954_glKsAZXhceWg&pid=News",
+        "timestamp": 1788606111.0
+    },
+    {
         "id": "e2f98bb038",
         "title_fa": "انفجارهای نزدیک جزیره خرم",
         "title_en": "Iran war: Explosions reported near Kharg Island",
@@ -5433,24 +5453,5 @@
         "clean_url": "https://www.azernews.az/region/263386.html",
         "image": "https://www.azernews.az/media/2025/06/15/israel-katz1723827196-0-640x480.jpg",
         "timestamp": 1788485760.0
-    },
-    {
-        "id": "9ff70d64b4",
-        "title_fa": "وینس: پایان جنگ ایران تا انتخابات میانه نامشخص",
-        "title_en": "Trump Administration Updates: Vance Says ‘I Don’t Know’ if Iran War Will Be Over by Midterms",
-        "summary": [
-            "وینس به عدم قطعیت زمان پایان جنگ اشاره کرد، نشان‌دهنده عدم توافق داخلی آمریکا",
-            "این عدم قطعیت فشار دیپلماتیک بر ایران را کاهش می‌دهد و ریسک تشدید تنش را بالا می‌برد",
-            "انتخابات میانه می‌تواند تصمیم‌گیری‌های سخت‌تری در خصوص تحریم‌ها ایجاد کند"
-        ],
-        "impact": "عدم قطعیت زمان پایان جنگ، مانع اقدام سریع دیپلماتیک و ادامه تحریم‌های سنگین می‌شود",
-        "tag": "جنگ",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CYmZlT3B0akpuUHViOXdkT2t3M29uX01vTzJZREJ1SGVoaEloWk1Rc2NzaGFScFZJeFdXQ3p1NE5ubVBMMHN3bkRsSXRwNVk5djZJQVFpajJGd3dKU2p6Yk4ydw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CYmZlT3B0akpuUHViOXdkT2t3M29uX01vTzJZREJ1SGVoaEloWk1Rc2NzaGFScFZJeFdXQ3p1NE5ubVBMMHN3bkRsSXRwNVk5djZJQVFpajJGd3dKU2p6Yk4ydw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788485558.0
     }
 ]
