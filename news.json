@@ -1,5 +1,24 @@
 [
     {
+        "id": "0fb046c92e",
+        "title_fa": "ترامپ: آمریکا ممکن است به سایت هسته‌ای ایران ضربه بزند",
+        "title_en": "Trump: US may strike Iranian nuclear site soon",
+        "summary": [
+            "ترامپ به‌صراحت گفت ایالات متحده آماده حمله به تاسیسات هسته‌ای ایران است",
+            "این اظهارات فشار دیپلماتیک را بالا می‌برد و ریسک تصعید تنش‌های نظامی را افزایش می‌دهد",
+            "واکنش‌های منطقه‌ای و چین می‌تواند منجر به تحریم‌های جدید علیه ایران شود"
+        ],
+        "impact": "احتمال افزایش تنش‌های نظامی و اعمال تحریم‌های سخت‌گیرانه علیه ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "chinadailyasia.com",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vbXJuR1pHMWJlLUFZVnVQakRhOHl4dDJNenJkU1BoZEZhbnMySEdmRDV0MDV4MUkzOWZtdlMyV0JCeXNGN3A0b3Fqc0ZkOW96UWFVd1FOWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vbXJuR1pHMWJlLUFZVnVQakRhOHl4dDJNenJkU1BoZEZhbnMySEdmRDV0MDV4MUkzOWZtdlMyV0JCeXNGN3A0b3Fqc0ZkOW96UWFVd1FOWXc",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788576511.0
+    },
+    {
         "id": "ec37fead46",
         "title_fa": "جنگ روسیه‑اوکراین و آمریکا‑ایران به آتش‌سوزی می‌رسند",
         "title_en": "No extinguishers as embers of ongoing wars turn into leaping flames",
@@ -5398,23 +5417,5 @@
         "clean_url": "https://en.ilsole24ore.com/art/iranian-raids-on-us-bases-in-kuwait-hegseth-and-troops-in-the-middle-east-until-2027-AJonF71",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/04/Immagini/Ritagli/LP_24714401-U17503476571irh-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
         "timestamp": 1788413160.0
-    },
-    {
-        "id": "aa43719015",
-        "title_fa": "ایران قربانیان حمله عروسی آمریکا را دفن کرد",
-        "title_en": "Iran buries victims of reported US wedding attack, fires on Kuwait",
-        "summary": [
-            "حمله عروسی باعث کشته شدن چندین ایرانی شد و تنش‌ها را تشدید کرد",
-            "آتش‌سوزی در کویت پس از این حمله می‌تواند به گسترش درگیری در خلیج فارس منجر شود"
-        ],
-        "impact": "ایران ممکن است پاسخ نظامی یا دیپلماتیک بدهد؛ خطر تشدید درگیری خلیج فارس بالا است",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/iran-war-escalation-raises-concern-over-civilian-death-toll-2026-09-03/",
-        "clean_url": "https://www.reuters.com/world/middle-east/iran-war-escalation-raises-concern-over-civilian-death-toll-2026-09-03",
-        "image": "https://www.bing.com/th?id=ONUT.UKYrn2-OAiiCV_BdaXNjnA",
-        "timestamp": 1788410944.0
     }
 ]
