@@ -51,6 +51,26 @@
         "timestamp": 1788592290.704243
     },
     {
+        "id": "23bbcd9524",
+        "title_fa": "انفجارهای ناشناخته در جزیره خَرگ",
+        "title_en": "Blasts heard near Iran’s Kharg Island; origin unknown",
+        "summary": [
+            "انفجار در منطقهٔ کلیدی نفتی ایران رخ داد؛ منبع هنوز مشخص نیست",
+            "عدم شفافیت منبع، تنش‌های نظامی خلیج فارس را تشدید می‌کند",
+            "اگر توسط نیروهای خارجی باشد، می‌تواند پیش‌درآمد عملیات نظامی باشد",
+            "ایران احتمالاً پاسخی نظامی یا دیپلماتیک خواهد داد"
+        ],
+        "impact": "تنش‌های نظامی در خلیج فارس بالا می‌رود و خطر اختلال در صادرات نفت افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmJZbmVLUHF3c2E5cEFWUmE0WkxVY0tsNTlzUTVGSko5al9VNEVmeXpSUGZXSnluQTVBRzVWYThDVVJmZC1IMi1fZnBueHl5b3lCekl4eDdzdnRmV2Q2eTV0M1NLYWdlYVpMd3ZGWFdNWjVLSXFiaEtHMVFLaFpHX2Y0Z08wLW9EeGkyamdyQlFIdE5xZmtwV1ZtQnpKdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmJZbmVLUHF3c2E5cEFWUmE0WkxVY0tsNTlzUTVGSko5al9VNEVmeXpSUGZXSnluQTVBRzVWYThDVVJmZC1IMi1fZnBueHl5b3lCekl4eDdzdnRmV2Q2eTV0M1NLYWdlYVpMd3ZGWFdNWjVLSXFiaEtHMVFLaFpHX2Y0Z08wLW9EeGkyamdyQlFIdE5xZmtwV1ZtQnpKdw",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788591632.0
+    },
+    {
         "id": "c5f04dec57",
         "title_fa": "تحریم آمریکا بر نهاد مالی ترکیه برای حمایت از سپاه",
         "title_en": "Live updates • U.S. sanctions Turkish financial body for aiding Iran's Revolutionary Guard",
@@ -5407,25 +5427,5 @@
         "clean_url": "https://www.timesofisrael.com/iran-warned-us-against-israeli-attack-on-south-lebanon-ridge-held-by-hezbollah",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260814__C4NY63K__v1__HighRes__LebanonIsraelIranUsWar.jpg",
         "timestamp": 1788438480.0
-    },
-    {
-        "id": "6a0c91188c",
-        "title_fa": "شش ماه جنگ، زندگی عادی ایرانیان دگرگون",
-        "title_en": "How has life changed for common Iranians six months into the war?",
-        "summary": [
-            "شش ماه پس از شروع جنگ، زندگی روزمره ایرانیان به‌طور جدی دگرگون شده",
-            "کمبود کالا، افزایش قیمت‌ها و محدودیت‌های ارتباطی حس می‌شود",
-            "مردم برای بقا به‌دنبال راه‌حل‌های ساده و خودکفایی می‌گردند",
-            "دولت سعی می‌کند بدون تغییر ایدئولوژی، شرایط را مدیریت کند"
-        ],
-        "impact": "نارضایتی عمومی بالا می‌رود و احتمال اعتراضات گسترده افزایش می‌یابد",
-        "tag": "اجتماعی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "ippmedia",
-        "url": "https://ippmedia.co.tz/the-guardian/features/read/how-has-life-changed-for-common-iranians-six-months-into-the-war-2026-09-03-122630",
-        "clean_url": "https://ippmedia.co.tz/the-guardian/features/read/how-has-life-changed-for-common-iranians-six-months-into-the-war-2026-09-03-122630",
-        "image": "https://ippmedia.co.tz/storage/post-feature-images/9992a4e4-3d55-4974-a9e0-427a1fbfdf0d.png",
-        "timestamp": 1788438360.0
     }
 ]
