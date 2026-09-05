@@ -1,5 +1,25 @@
 [
     {
+        "id": "2c55d09b82",
+        "title_fa": "تحلیل ترسناک جِی‌دی ونس در مقاله Raw Story",
+        "title_en": "Buried in JD Vance's scary-as-hell rant was a terrifying admission | Opinion",
+        "summary": [
+            "مقاله Raw Story جِی‌دی ونس را «متعصب مذهبی» توصیف می‌کند و لحن انتقادی شدیدی دارد",
+            "این توصیف می‌تواند تصویر او را در میان رای‌دهندگان میانه‌رو تخریب کند",
+            "متن حاوی ادعاهای غیرقابل تأیید است و بیشتر به تحریک احساسات می‌پردازد",
+            "تأثیر کلی بر سیاست‌های کلان آمریکا محدود است"
+        ],
+        "impact": "احتمال کاهش حمایت میانه‌روها از جِی‌دی ونس در انتخابات آینده",
+        "tag": "آمریکا",
+        "urgency": 2,
+        "sentiment": -0.8,
+        "source": "Raw Story on MSN",
+        "url": "https://www.msn.com/en-au/politics/government/buried-in-jd-vance-s-scary-as-hell-rant-was-a-terrifying-admission-opinion/ar-AA2bCr6f?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-au/politics/government/buried-in-jd-vance-s-scary-as-hell-rant-was-a-terrifying-admission-opinion/ar-AA2bCr6f",
+        "image": "https://www.bing.com/th?id=ONUT.nynzETke9Tkwl_mT7bWkzg",
+        "timestamp": 1788607246.3137167
+    },
+    {
         "id": "9223dcd749",
         "title_fa": "آیا آمریکا به تاریک‌گاه دموکراسی رسیده؟",
         "title_en": "Has America entered a democratic Twilight Zone? | Opinion",
@@ -5416,22 +5436,5 @@
         "clean_url": "https://www.msn.com/en-gb/money/economy/rising-costs-for-farmers-lamented-while-firmus-gas-customers-also-see-bills-hiked-up/ar-AA2bABL3",
         "image": "https://www.bing.com/th?id=ONUT.NHGbw_6Lrw5umWPCFandkA",
         "timestamp": 1788458606.0
-    },
-    {
-        "id": "6988f38fa8",
-        "title_fa": "چین گروه 20 را به ترویج حمایت گرایی متهم می‌کند",
-        "title_en": "China accuses G20 of promoting protectionism",
-        "summary": [
-            "Chinese Commerce Ministry spokesperson Ling Huang accused other G20 members of \"promoting protectionism\" on Thursday after they backed a statement criticizing heavy reliance on exports."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/region/263360.html",
-        "clean_url": "https://www.azernews.az/region/263360.html",
-        "image": "https://www.azernews.az/media/2026/09/03/393205.jpg",
-        "timestamp": 1788458400.0
     }
 ]
