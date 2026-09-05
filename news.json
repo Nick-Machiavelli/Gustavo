@@ -1,5 +1,43 @@
 [
     {
+        "id": "e97dc8361a",
+        "title_fa": "سه بحران همزمان: واشنگتن، مسکو و نپال",
+        "title_en": "THE THREE FIRES: Why Washington, Moscow and Kathmandu Are Testing the World's Patience All at Once",
+        "summary": [
+            "جنگی که واشنگتن و تل‌آویو علیه تهران آغاز کرده، هنوز به‌صورت مستقیم در خلیج هرمز ادامه دارد.",
+            "در اوکراین یک پهپاد روسی به مرکز اطلاعات ملی حمله کرد؛ نشان‌دهنده گسترش تنش‌های چند‌جانبه است.",
+            "فاجعه طبیعی در نپال به‌عنوان یادآوری از ضعف توان مقابله جهانی از بحران‌ها مطرح شد."
+        ],
+        "impact": "تداخل چندین بحران می‌تواند تمرکز بین‌المللی را از ایران بگیرد و واکنش‌ها را پراکنده کند.",
+        "tag": "جیوپولیتیک",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "Modern Ghana",
+        "url": "https://www.modernghana.com/news/1525173/the-three-fires-why-washington-moscow-and-kathma.html",
+        "clean_url": "https://www.modernghana.com/news/1525173/the-three-fires-why-washington-moscow-and-kathma.html",
+        "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
+        "timestamp": 1788601165.5321884
+    },
+    {
+        "id": "e38ccdbd14",
+        "title_fa": "استراتژی فشار اقتصادی آمریکا بر ایران",
+        "title_en": "Civil War Strategies in the Strait of Hormuz",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا اعلام کرد که قصد دارد اقتصاد ایران را خفه کند.",
+            "ترامپ تمایلی به فرستادن نیروهای زمینی به ایران نشان نداده و به دنبال فشارهای غیرنظامی است.",
+            "این رویکرد شبیه طرح اناکوندا در جنگ داخلی آمریکا است؛ اما بدون حمله زمینی ادامه می‌یابد."
+        ],
+        "impact": "تحریم‌های شدید می‌تواند توان مالی رژیم را به‌سختی کاهش دهد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Washington Free Beacon",
+        "url": "https://freebeacon.com/columns/civil-war-strategies-in-the-strait-of-hormuz/",
+        "clean_url": "https://freebeacon.com/columns/civil-war-strategies-in-the-strait-of-hormuz",
+        "image": "https://www.bing.com/th?id=ONUT.2JP701bPiE6JtiflzAplHQ",
+        "timestamp": 1788601165.5317879
+    },
+    {
         "id": "8e08333819",
         "title_fa": "تنسی می‌تواند رنسانس هسته‌ای آمریکا را رهبری کند | نظر",
         "title_en": "Tennessee can lead America’s nuclear renaissance | Opinion",
@@ -5394,40 +5432,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/the-cia-tracked-iran-s-leader-for-months-israel-needed-just-30-seconds/vi-AA2bzMGn",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788453595.0
-    },
-    {
-        "id": "34bfa0b527",
-        "title_fa": "بحران بندر جِبل‌علی به‌دلیل مسدود شدن هرمز",
-        "title_en": "Dubai's biggest port faces collapse as Hormuz blockade chokes trade",
-        "summary": [
-            "حجم بارگیری در جِبل‌علی بیش از ۹۰٪ کاهش یافته؛ این بندر ۲۰٪ تولید ناخالص امارات را تشکیل می‌دهد.",
-            "مسدود شدن هرمز باعث شد روزانه فقط ۱۷ کشتی عبور کند؛ راه‌حل‌های جایگزین همچون بنادر فجیره هنوز توان جایگزینی ندارند."
-        ],
-        "impact": "کاهش شدید تجارت بین‌المللی امارات، فشار بر رشد اقتصادی و وابستگی به مسیرهای دریایی دیگر",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/region/263347.html",
-        "clean_url": "https://www.azernews.az/region/263347.html",
-        "image": "https://www.azernews.az/media/2026/09/03/untitled-35-640x400.png",
-        "timestamp": 1788452820.0
-    },
-    {
-        "id": "85c17e48a9",
-        "title_fa": "گاز روز کارگر هرگز به این گرانی نبوده است. ترامپ به دنبال پاسخ است",
-        "title_en": "Labor Day gas has never been this expensive; Trump is scrambling for answers",
-        "summary": [
-            "Americans will likely face the highest Labor Day gas prices on record this holiday weekend. It’s another blow to a “drill, baby, drill” president who campaigned on affordable energy."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "WRAL",
-        "url": "https://www.wral.com/news/ap/labor-day-gas-expensive-trump-scramble-answers-september-2026/",
-        "clean_url": "https://www.wral.com/news/ap/labor-day-gas-expensive-trump-scramble-answers-september-2026",
-        "image": "https://images.wral.com/6c1579d9-da5a-43f8-a2ce-7e9217748149?w=1200&h=630&height=630",
-        "timestamp": 1788452021.0
     }
 ]
