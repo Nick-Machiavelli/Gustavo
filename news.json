@@ -1834,6 +1834,45 @@
         "timestamp": 1788558420.0
     },
     {
+        "id": "45d3bc5866",
+        "title_fa": "قیمت بنزین در لس آنجلس افزایشی شد",
+        "title_en": "SoCal gas prices continue to rise",
+        "summary": [
+            "قیمت گالن بنزین خودسرویس در لس آنجلس ۲.۶ سنت افزایش یافت",
+            "این افزایش نشان‌دهنده فشارهای عرضه‑تقاضا در بازار غربی است",
+            "رانندگان ممکن است هزینه سفر روزانه را تا چند دلار بیشتر بپردازند"
+        ],
+        "impact": "هزینه حمل و نقل شخصی و تجاری در جنوب‑کالیفرنیا بالا می‌رود",
+        "tag": "قیمت‌بنزین",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "2UrbanGirls on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/socal-gas-prices-continue-to-rise/ar-AA2bEgyX?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/socal-gas-prices-continue-to-rise/ar-AA2bEgyX",
+        "image": "https://www.bing.com/th?id=ONUT.xzFF9DIn2Bue9Gt6xYQoUg",
+        "timestamp": 1788558416.0
+    },
+    {
+        "id": "5e1d428511",
+        "title_fa": "حمله هوایی آمریکا به سه تانکر نفت ایرانی",
+        "title_en": "US Fighters, Drones Strike 3 Iranian Oil Tankers After Iran Fires on Navy Ships",
+        "summary": [
+            "آمریکا با ترکیبی از جنگنده و پهپاد سه تانکر ایرانی را هدف گرفت",
+            "پیام واضح به سپاه: هر شلیک به کشتی‌های آمریکایی هزینه اقتصادی بالاتری دارد",
+            "تانکرهای هدف در نزدیکی جزیره خرم و شهر جاسک بودند",
+            "این اقدام پس از حمله موشکی ناموفق ایران به ناو هواپیمابر آمریکا انجام شد"
+        ],
+        "impact": "تحریم‌های اقتصادی آمریکا بر ناوگان نفتی ایران سنگین‌تر می‌شود",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Air & Space Forces Magazine",
+        "url": "https://www.airandspaceforces.com/us-strikes-3-iranian-tankers-fighters-and-drones-trump-administration-seeks-higher-economic-costs-iran/",
+        "clean_url": "https://www.airandspaceforces.com/us-strikes-3-iranian-tankers-fighters-and-drones-trump-administration-seeks-higher-economic-costs-iran",
+        "image": "https://www.bing.com/th?id=ONUT.tkP9mX1_tjfp-lSwS0l1rQ",
+        "timestamp": 1788558416.0
+    },
+    {
         "id": "81120784bb",
         "title_fa": "پیشنویس قطعنامه سازمان ملل برای گزارش ایران به شورای امنیت",
         "title_en": "UN nuclear agency members draft resolution reporting Iran to the UN Security Council",
@@ -5430,40 +5469,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NNm96YlhIQ2dJaXllV2FWTlNqMHdmaXNuQVN2U2hJbkhTREc4U3JQYkt4VGdoU1ZUX2tkUGhxM0tMM3hodjdvTU16aG5PeUMwRElSTGNRZHpMdEs2MTQtcmhWUlFRajdmcndOMUdULWRpZjlCcmlEWnV6d0dTUUE",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788490805.0
-    },
-    {
-        "id": "92170ed1f3",
-        "title_fa": "سخنرانی سفیدخانه درباره شفافیت انتخابات",
-        "title_en": "Election Integrity",
-        "summary": [
-            "ادعای وجود ضعف‌های جدی در ماشین‌های رأی‌گیری الکترونیکی مطرح شد",
-            "انتشار اسناد طبقه‌بندی‌شده نشان می‌دهد اطلاعات قبلی درباره امنیت سیستم‌ها مخفی بوده"
-        ],
-        "impact": "اعتماد عمومی به فرآیندهای انتخابی ممکن است تحت فشار قرار گیرد",
-        "tag": "انتخابات",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "The White House",
-        "url": "https://www.whitehouse.gov/election-integrity/",
-        "clean_url": "https://www.whitehouse.gov/election-integrity",
-        "image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-        "timestamp": 1788490800.0
-    },
-    {
-        "id": "163487946d",
-        "title_fa": "اتحادیه اروپا به «عملیات طردشده اقتصادی» به رهبری ایالات متحده می‌پیوندد که ایران فریاد می‌زند که ناپاک است",
-        "title_en": "European Union joins U.S.-led 'Operation Economic Outcast' as Iran cries foul",
-        "summary": [
-            "European Union joins U.S.-led 'Operation Economic Outcast' as Iran cries foul CNBC"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2J4YmRsQjhNWG93RGdSR0dsUlBxeDZNWkNteDhGSVJQenpxTWlVemUtVFdVNzk4RTBJa2lpaFhRdnk5QlNBUlByN3c1N1pYam9yTE83cHJhX1k1cFVNVUdpWlFiVHliQmd3Nzl4cUVlaGxMTzJjcVd6TC1DUHp5blZMRGEwdDZEbkVYa2JNc05rNVRsam1ZTGg5VVlkd0tGNlFMTmVQdDJxOGvSAbABQVVfeXFMUFF4OWRySnJuRWh1aTRFZ09OQlY3R2k5UzNuRGhjcWQwODZYWnctS0FlRzlIaVVMQVU5dHQwQk94c2prVTF2UXM0ZHhPRkdkanhkV0c1Sy1pZUtZdWRTVXBqYmpPMC1LQ0t2T1pRLWpHZmRQYmJackJyS0tHbTB6bHZCS1JUZWZ5T09uQV8zWl9acmxIaXA4RHNYYmJrcHVpX2lBT3VPVFVNNHpvQlVFUV8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2J4YmRsQjhNWG93RGdSR0dsUlBxeDZNWkNteDhGSVJQenpxTWlVemUtVFdVNzk4RTBJa2lpaFhRdnk5QlNBUlByN3c1N1pYam9yTE83cHJhX1k1cFVNVUdpWlFiVHliQmd3Nzl4cUVlaGxMTzJjcVd6TC1DUHp5blZMRGEwdDZEbkVYa2JNc05rNVRsam1ZTGg5VVlkd0tGNlFMTmVQdDJxOGvSAbABQVVfeXFMUFF4OWRySnJuRWh1aTRFZ09OQlY3R2k5UzNuRGhjcWQwODZYWnctS0FlRzlIaVVMQVU5dHQwQk94c2prVTF2UXM0ZHhPRkdkanhkV0c1Sy1pZUtZdWRTVXBqYmpPMC1LQ0t2T1pRLWpHZmRQYmJackJyS0tHbTB6bHZCS1JUZWZ5T09uQV8zWl9acmxIaXA4RHNYYmJrcHVpX2lBT3VPVFVNNHpvQlVFUV8",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788489900.0
     }
 ]
