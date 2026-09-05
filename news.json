@@ -20,6 +20,23 @@
         "timestamp": 1788619624.4718046
     },
     {
+        "id": "e4b5afa48d",
+        "title_fa": "فرماندهی مرکزی ارتش آمریکا اعلام کرد که پس از حمله سپاه پاسداران انقلاب اسلامی به ناوهای آمریکایی به سه نفتکش ایرانی حمله کرد",
+        "title_en": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
+        "summary": [
+            "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says Reuters"
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 9,
+        "sentiment": 0,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788619321.0
+    },
+    {
         "id": "12a2bb89cf",
         "title_fa": "مدل ونزوئلا واشنگتن تغییر رژیم با فاکتور است",
         "title_en": "Washington’s Venezuela model is regime change with an invoice",
@@ -849,6 +866,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLU9EcjZYNWd6ak04V0I3YmtlX3A3eGRVNWJnTUdENWJVaS11ajEzQkNOY215ajdaQklGY0FhUEZ4UmRFVVR3N3R3R3E2ckRITjJWVUsyVFlRUTA5cUNwS2U5WmJoazVXZ1dqQ2UzOUNPUW1KcFg1TXMxYjhzaXdCa1lpamxMVnJvWkE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788579476.0
+    },
+    {
+        "id": "490f177777",
+        "title_fa": "تاکتیک آمریکا: حمله به سه تانکر نفت ایرانی",
+        "title_en": "Live Updates: IDF strikes Hezbollah targets in southern Lebanon, Trump plans regional strategy for post-Iran war",
+        "summary": [
+            "آمریکا در پاسخ به حمله ناوگان ایرانی، سه تانکر نفت را هدف قرار داد؛ نشانگر تشدید تنش‌های دریایی است",
+            "این اقدام می‌تواند فشار اقتصادی بر ایران را افزون کند و مسیر تحریم‌های جدید را هموار سازد",
+            "همزمان، ترامپ برنامه‌ای برای بازسازی منطقه پس از جنگ ایران طرح می‌کند؛ احتمال تغییر استراتژی نظامی‑سیاسی آمریکا"
+        ],
+        "impact": "حمله به تانکرها ریسک تشدید درگیری خلیج فارس و فشار بیشتر بر اقتصاد نفتی ایران را افزایش می‌دهد",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-05/live-updates-907625",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-05/live-updates-907625",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733704",
+        "timestamp": 1788579420.0
     },
     {
         "id": "fc24b65189",
@@ -5420,41 +5456,5 @@
         "clean_url": "https://www.foxnews.com/world/iran-prefers-conflict-us-over-peace-suppress-internal-uprising-human-rights-activist-warns",
         "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/khamenei-hormuz.jpg",
         "timestamp": 1788474660.0
-    },
-    {
-        "id": "a60def10c3",
-        "title_fa": "ونس می‌گوید جنگ با ایران «جنگ» نیست، زیرا ترامپ تلاش می‌کند با نزدیک شدن به انتخابات، درگیری‌های غیرمحبوب را مدیریت کند.",
-        "title_en": "Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears",
-        "summary": [
-            "Vice President JD Vance on Thursday rejected the use of the word \"war\" to describe the U.S. fighting with Iran as he steered clear of predicting that the six-month-old conflict would be over by November's midterm elections,"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo Finance Canada",
-        "url": "https://ca.finance.yahoo.com/news/vance-says-iran-fight-isnt-003045382.html",
-        "clean_url": "https://ca.finance.yahoo.com/news/vance-says-iran-fight-isnt-003045382.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/0af067480ab27242cec1ee9880a07e6558824c2401f508a25439cfde3b3ff80a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcp_finance_889%2F8426926d410ab4c88664793e2beea665.jpg",
-        "timestamp": 1788474660.0
-    },
-    {
-        "id": "bc29b6edc2",
-        "title_fa": "آیا موشکی به عروسی در ایران برخورد کرد؟",
-        "title_en": "US investigating if missile hit Iran wedding, Vance says",
-        "summary": [
-            "وینس گفت ایالات متحده در حال بررسی شواهد موشکی به هدف عروسی در ایران است",
-            "اگر تأیید شود، می‌تواند تنش‌های منطقه‌ای را به‌سختی افزایش دهد",
-            "این رویداد نشان می‌دهد که اطلاعات جنگی هنوز به‌دقت بررسی می‌شود"
-        ],
-        "impact": "ممکن است فشار دیپلماتیک بر ایران و واکنش نظامی را تشدید کند",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMEZVQnZ4T0hIaEV0UW9jcUpPcDFyOUpLbGVNdXN0bW5ycXBabkJielhZV2gxUDNNWk1JZHZXZmtQTzhRVWZDM2Vadkt4NWlOdnlLMmxHUFVjUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMEZVQnZ4T0hIaEV0UW9jcUpPcDFyOUpLbGVNdXN0bW5ycXBabkJielhZV2gxUDNNWk1JZHZXZmtQTzhRVWZDM2Vadkt4NWlOdnlLMmxHUFVjUQ",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788473999.0
     }
 ]
