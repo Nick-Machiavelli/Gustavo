@@ -40,6 +40,26 @@
         "timestamp": 1788606178.2028728
     },
     {
+        "id": "e2f98bb038",
+        "title_fa": "انفجارهای نزدیک جزیره خرم",
+        "title_en": "Iran war: Explosions reported near Kharg Island",
+        "summary": [
+            "گزارش‌ها حاکی از انفجارهای ناگهانی در آب‌های خرم، نزدیک پایانه نفتی کلیدی ایران است",
+            "این حادثه می‌تواند نشانه‌ای از فشار نظامی یا نیابتی علیه صادرات نفت ایران باشد",
+            "اگر منبع خارجی باشد، خطر تشدید تنش‌های خلیج فارس و کاهش تدارکات انرژی جهانی افزایش می‌یابد",
+            "ایران جزئیات رسمی منتشر نکرده؛ احتمال استفاده از این رویداد برای فشارهای دیپلماتیک یا تحریم‌های جدید وجود دارد"
+        ],
+        "impact": "اختلال در صادرات نفت خرم و تشدید تنش‌های نظامی در خلیج فارس",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "dw.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU3pLYWpDN09lUFNmZ2lTMm54cklVSHQ0M0NiM0NZdGpiZkdEQmdDcGhlSDZ4TGFZWWNuWXctcHM3MC1aVXp3bFF1MG9kVUVYUl9idWE0WkNjOGxMNGYyWGNwX1pOSUVfS0hHSGZlN0FzMnhSYk5BSl85eVQzNzVhVjFYNGlIZlR0bFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU3pLYWpDN09lUFNmZ2lTMm54cklVSHQ0M0NiM0NZdGpiZkdEQmdDcGhlSDZ4TGFZWWNuWXctcHM3MC1aVXp3bFF1MG9kVUVYUl9idWE0WkNjOGxMNGYyWGNwX1pOSUVfS0hHSGZlN0FzMnhSYk5BSl85eVQzNzVhVjFYNGlIZlR0bFE",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788606065.0
+    },
+    {
         "id": "d040489271",
         "title_fa": "سرزنش UnitedHealthcare در اختلاف لی هلث | نظر نامه‌ها",
         "title_en": "Blame UnitedHealthcare in Lee Health dispute | Opinion letters",
@@ -5423,23 +5443,6 @@
         "url": "https://www.kcci.com/article/mortgage-rates-highest-level/73605510",
         "clean_url": "https://www.kcci.com/article/mortgage-rates-highest-level/73605510",
         "image": "https://kubrick.htvapps.com/htv-prod/images/1f88cea2-291c-4fd1-bd43-1c4c9ea3984e.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0913xh&resize=1200%3A*",
-        "timestamp": 1788459837.0
-    },
-    {
-        "id": "9b77e6a57a",
-        "title_fa": "ترامپ پس از نگرانی های امنیتی بار دیگر با جت قطری پرواز می‌کند",
-        "title_en": "Trump Plans Flight On Qatari Jet Again After Security Concerns",
-        "summary": [
-            "President Donald Trump plans to again fly on the jet gifted from Qatar that was quickly retrofitted to join the Air Force One fleet—after taking the jet out of service for more security upgrades..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-plans-flight-qatari-jet-171547216.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-plans-flight-qatari-jet-171547216.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/2c708d3bba415ae2a4027345c63852314f42b38d93cb58f02dd19d85f2403b7a/lightyear_networkapi/resizefill_w958_h639%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_staff_375%2F2bafbf3ad20f964e57d4c4b19262f160.jpg",
         "timestamp": 1788459837.0
     }
 ]
