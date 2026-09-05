@@ -1,5 +1,24 @@
 [
     {
+        "id": "c20b5139e2",
+        "title_fa": "ایران هدف‌گیری ناوهای آمریکا پس از حمله به تانکرها",
+        "title_en": "Iran targets US warships after tanker strikes as Washington raises the economic cost",
+        "summary": [
+            "حملهٔ ایران به ناو حامل‌جنگی و ناو destroyer بدون خسارت، نشانگر ارتقای ریسک نظامی است",
+            "واشنگتن با توقیف سه تانکر نفت، فشار اقتصادی را مستقیماً به عملیات نظامی پیوند داد",
+            "این تبادل تهدیدها می‌تواند مسیر تصاعد به درگیری گسترده‌تر را هموار کند"
+        ],
+        "impact": "امکان بروز درگیری مستقیم در خلیج فارس و تشدید تحریم‌های نفتی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Arkansas Public Advocate",
+        "url": "https://www.msn.com/en-us/money/general/iran-targets-us-warships-after-tanker-strikes-as-washington-raises-the-economic-cost/ar-AA2bDYXG",
+        "clean_url": "https://www.msn.com/en-us/money/general/iran-targets-us-warships-after-tanker-strikes-as-washington-raises-the-economic-cost/ar-AA2bDYXG",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bE6GX.img?w=883&h=500&m=4&q=90",
+        "timestamp": 1788646314.0
+    },
+    {
         "id": "d4a713e98c",
         "title_fa": "«او یک شوخی است!»: ترامپ فکر می‌کرد کابوس کشتی جنگی‌اش را پشت سرش می‌گذارد، سپس عکس‌های جدیدی را روی سطح می‌گذارد و آنچه را که ترجیح می‌دهد دور از چشم نگه دارد، افشا می‌کند.",
         "title_en": "‘He’s a Joke!’: Trump Thought He’d Put His Warship Nightmare Behind Him, Then New Photos Surface, Exposing What He’d Rather Keep Out of Sight",
@@ -15,6 +34,25 @@
         "clean_url": "https://atlantablackstar.com/2026/09/05/trump-warship-nightmare-comes-back-to-haunt-him",
         "image": "https://www.bing.com/th?id=ONUT.pJJWUjrET_FC7ouFsmHo7Q",
         "timestamp": 1788643233.154258
+    },
+    {
+        "id": "76ff588f9e",
+        "title_fa": "تحریم بانک ترکیه‌ای برای تأمین مالی نفت ایران",
+        "title_en": "US sanctions Turkish bank network Israel wanted closed over alleged IRGC oil financing",
+        "summary": [
+            "ایالات متحده بانک ترکیه‌ای Golden Global Investment Bank را به دلیل انتقال سرمایه‌های نفتی ایران مسدود کرد",
+            "این اقدام نشان می‌دهد که بانک‌های منطقه‌ای می‌توانند به عنوان مسیر مالی برای سپاه پاسداران عمل کنند",
+            "همکاری اطلاعاتی اسرائیل و آمریکا در شناسایی این شبکه، فشار مالی بر برنامه هسته‌ای ایران را تقویت می‌کند"
+        ],
+        "impact": "کاهش دسترسی ایران به نقدینگی برای تأمین مالی عملیات نظامی",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/article/hk9d1115dzl",
+        "clean_url": "https://www.ynetnews.com/article/hk9d1115dzl",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/17/H1IIZ9P1fg/H1IIZ9P1fg_0_0_860_573_0_large.jpg",
+        "timestamp": 1788641340.0
     },
     {
         "id": "7be772b630",
@@ -5432,43 +5470,5 @@
         "clean_url": "https://www.azernews.az/region/263408.html",
         "image": "https://www.azernews.az/media/2026/09/04/npr-brightspots3amazonaws_1.png",
         "timestamp": 1788493680.0
-    },
-    {
-        "id": "93269195ee",
-        "title_fa": "پولیس بنگلور FIR مراسم پاکسازی با تبعیض ثبت کرد",
-        "title_en": "Bengaluru Police File FIR Over Purification Ritual Row After Kharge Rally",
-        "summary": [
-            "رمان‌پپا، نماینده کنگره، شکایت کرد که در هلدوانی مراسم پاکسازی با تبعیض کست‌وار انجام شده و مکان را «ناپاک» اعلام کرده‌اند.",
-            "پولیس بنگلور FIR صفر ثبت کرد؛ این اقدام نشان‌دهنده حساسیت مقامات به ادعاهای تبعیض مذهبی‑کست‌وار در فضای عمومی است.",
-            "حادثه پس از رالی خارجی رخ داد و می‌تواند تنش‌های اجتماعی در اوتاراکند را تشدید کند."
-        ],
-        "impact": "ممکن است منجر به بررسی قانونی مراسم‌های مذهبی‑کست‌وار و افزایش نظارت دولتی بر تجمعات عمومی شود",
-        "tag": "اجتماعی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/india/video/bengaluru-police-file-fir-over-purification-ritual-row-after-kharge-rally-ytvd-2987486-2026-09-05",
-        "clean_url": "https://www.indiatoday.in/india/video/bengaluru-police-file-fir-over-purification-ritual-row-after-kharge-rally-ytvd-2987486-2026-09-05",
-        "image": "https://www.bing.com/th?id=ONUT.8oqv__f3YEK7k-DUWJ9bdw",
-        "timestamp": 1788491561.0
-    },
-    {
-        "id": "f18be3693e",
-        "title_fa": "نیروهای نیابتی ایران دیگر یک جبهه نیستند",
-        "title_en": "اکونومیست: نیروهای نیابتی جمهوری اسلامی دیگر یک جبهه واحد نیستند",
-        "summary": [
-            "اکونومیست می‌گوید پس از سه سال جنگ، شبکه نیابتی ایران به چند گروه مستقل تقسیم شده",
-            "حزب‌الله تحت کنترل تهران باقی مانده، اما حوثی‌ها و حماس تصمیمات خود را بر اساس منافع ملی می‌گیرند",
-            "این تفرقه توان حمله‌های متقابل را کاهش می‌دهد اما خطر ریسک‌های پیش‌بینی‌نشده برای تهران را بالا می‌برد"
-        ],
-        "impact": "تفرقه نیابتی توان مقابلهٔ متحدانهٔ ایران را کاهش می‌دهد و ریسک گسترش درگیری‌های منطقه‌ای را بالا می‌برد",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609045690",
-        "clean_url": "https://www.iranintl.com/202609045690",
-        "image": "http://www.bing.com/th?id=ONUT.2nauZzxS-7yK2PKbRABXaA&pid=News",
-        "timestamp": 1788491160.0
     }
 ]
