@@ -2359,6 +2359,24 @@
         "timestamp": 1788529818.2630682
     },
     {
+        "id": "f6f91e27d8",
+        "title_fa": "پلی‌گراف برای افسران ارشد نظامی آمریکا به‌دلیل نشت‌های جنگ ایران",
+        "title_en": "Senior US military staff subjected to polygraphs over Iran war leaks",
+        "summary": [
+            "پنتاگن حدود ۵۰ نفر از افسران و کارمندان ارشد ستاد مشترک را تحت پلی‌گراف قرار داد تا منبع نشت‌های اطلاعاتی درباره جنگ آمریکا‑اسرائیل با ایران را شناسایی کند",
+            "این اقدام نشان می‌دهد که نشت‌های مربوط به کمبود مهمات پیشرفته آمریکا به رسانه‌ها، فشار داخلی برای حفظ محرمانگی و جلوگیری از تضعیف توان نظامی در مواجهه با تهدیدات منطقه‌ای را افزایش می‌دهد"
+        ],
+        "impact": "شناسایی منبع نشت می‌تواند مانع انتشار بیشتر اطلاعات حساس و حفظ توان نظامی آمریکا در برابر ایران شود",
+        "tag": "نشت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/senior-us-military-staff-subjected-polygraphs-over-iran-leaks",
+        "clean_url": "https://www.newarab.com/news/senior-us-military-staff-subjected-polygraphs-over-iran-leaks",
+        "image": "https://www.bing.com/th?id=ONUT.d4r3UXvoy44ahQ7sXo6y_w",
+        "timestamp": 1788529638.0
+    },
+    {
         "id": "c4255aec5c",
         "title_fa": "پیمان دفاعی عربستان‑ترکیه‑پاکستان؛ تهدید یا فرصت برای ایران",
         "title_en": "The Mecca Pact: Threat to Iran or an Opportunity to Reshape Regional Security?",
@@ -5434,22 +5452,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/trump-again-claims-that-us-may-soon-hit-irans-pickaxe-mountain-nuclear-site",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788465786.0
-    },
-    {
-        "id": "8fb99c230e",
-        "title_fa": "خبر بین‌المللی — State Department commends اسرائیل's release Lebanese prison",
-        "title_en": "State Department commends Israel's release of Lebanese prisoners, wants more talks",
-        "summary": [
-            "The State Department on Thursday commended Israel's release of Lebanese prisoners to Lebanon and said it hoped for further talks between the two countries,"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Al Arabiya English",
-        "url": "https://english.alarabiya.net/News/middle-east/2026/09/03/state-department-commends-israel-s-release-of-lebanese-prisoners-wants-more-talks",
-        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/09/03/state-department-commends-israel-s-release-of-lebanese-prisoners-wants-more-talks",
-        "image": "https://vid.alarabiya.net/images/2026/09/02/d344174a-f1e4-491c-925b-fc4b35fce235/d344174a-f1e4-491c-925b-fc4b35fce235_16x9_600x338.jpg",
-        "timestamp": 1788465600.0
     }
 ]
