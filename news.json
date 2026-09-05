@@ -1,5 +1,23 @@
 [
     {
+        "id": "d8560aa109",
+        "title_fa": "برانسون: رهبری نادان سبب افزایش بلیط هواپیما شد",
+        "title_en": "Branson: 'Foolish leaders' cause airfare surge",
+        "summary": [
+            "برانسون می‌گوید افزایش قیمت بلیط به دلیل جنگ و تصمیمات نادانانه است",
+            "این اظهارات می‌تواند فشار بر سیاست‌گذاران برای کاهش هزینه‌های انرژی ایجاد کند"
+        ],
+        "impact": "قیمت بلیط‌ها بالا می‌رود، هزینه سفر برای مسافران و شرکت‌های هواپیمایی افزایش می‌یابد",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "The Chosun Ilbo on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/branson-foolish-leaders-cause-airfare-surge/ar-AA2bCkxR?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/branson-foolish-leaders-cause-airfare-surge/ar-AA2bCkxR",
+        "image": "https://www.bing.com/th?id=ONUT.Rds1DI4tth7CLBZcUE57lw",
+        "timestamp": 1788580999.8695095
+    },
+    {
         "id": "87b7a79bc1",
         "title_fa": "لیس کلونِس: انفانتینو باید از فیفا برود",
         "title_en": "The lonely crusader against Gianni Infantino",
@@ -128,6 +146,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZUJSb2J0R0d4ZmdQWHNiWE5QcGdlaFVDYnc1R1phcE5kbVJTR0pHd2xaY3lxY1dzYTE5eEtNd2tFOXU2ZHJpbExTSlFsMEZqVU5Pa2ZRNjI2dzFEdDUyZkJjdjRLdDQxZThQbGtnX2JIdVFZLW9yOGx0U05ybFFDd19GRE9PbkdEcUd4NHZ2VVNiT1RvOFJKdzJsNE9jQnNuZXFlZlZVUHpra3AtWnJfeXlfaGRvMXJ0bzdNcFhfMFZYLUpvUURZNHhuMVRueU14QkxYMnplYUhTYVJKZkphZnRBbDJad21G",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788571837.0
+    },
+    {
+        "id": "8798550e2c",
+        "title_fa": "اسرائیل به مبارزه با حزب‌الله ادامه می‌دهد، مذاکرات با لبنان را می‌پذیرد",
+        "title_en": "Israel vows to continue fighting Hezbollah but agrees to talks with Lebanon",
+        "summary": [
+            "اسرائیل اعلام کرد که عملیات نظامی علیه حزب‌الله ادامه دارد",
+            "در عین حال آماده مذاکرات مستقیم با دولت لبنان برای کاهش تنش‌هاست",
+            "استراتژی دوگانه فشار نظامی و دیپلماسی محدود می‌تواند مسیر درگیری را تغییر دهد"
+        ],
+        "impact": "جبهه شمالی اسرائیل تحت فشار می‌ماند؛ احتمال تشدید درگیری یا کاهش تنش بسته به پیشرفت مذاکرات",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "VPM",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRW1hSHpIUXBiMFQ0U3U3N0RuZDJGRXhVMUgtQWl6WjFQN1F0c28wMDBxVUF3NFBZYWs5TDdWNUNxa090dkNSQUxEOGlyZWEyUWJFaVB2RHpEeGphTmdENEJUR01Qb1pKOW15eXRYbmNhZG9IbVAxMWktQUozUkxWZlk4Y0R0dy1XMW9qblowcVN1QzEybDV2Ny1pMXFHOE9LTlE0c1lIc24wYkFYaFJvMXpRa1UxYTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRW1hSHpIUXBiMFQ0U3U3N0RuZDJGRXhVMUgtQWl6WjFQN1F0c28wMDBxVUF3NFBZYWs5TDdWNUNxa090dkNSQUxEOGlyZWEyUWJFaVB2RHpEeGphTmdENEJUR01Qb1pKOW15eXRYbmNhZG9IbVAxMWktQUozUkxWZlk4Y0R0dy1XMW9qblowcVN1QzEybDV2Ny1pMXFHOE9LTlE0c1lIc24wYkFYaFJvMXpRa1UxYTg",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788571542.0
     },
     {
         "id": "419f5fb320",
@@ -5380,39 +5417,5 @@
         "clean_url": "https://www.msn.com/en-my/politics/government/milei-touts-winds-of-change-as-he-reasserts-argentina-s-claim-to-the-falklands/ar-AA2by5Kv",
         "image": "https://www.bing.com/th?id=ONUT.Xvf3RmchUnuCT2DRB2rwAA",
         "timestamp": 1788421323.0
-    },
-    {
-        "id": "47a0bf1e65",
-        "title_fa": "همزمان با از سرگیری حملات در جنگ با آمریکا، ایران موشک‌ها و پهپادها را به سوی کویت شلیک می‌کند.",
-        "title_en": "Iran fires missiles and drones at Kuwait as strikes resume in war with U.S.",
-        "summary": [
-            "The Kuwaiti military said its air defenses confronted “hostile” attacks by Iran while Tehran accused the U.S. of bombing a wedding and called for an investigation."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/03/iran-fires-missiles-drones-kuwait-strikes-resume-us-war/",
-        "clean_url": "https://www.washingtonpost.com/world/2026/09/03/iran-fires-missiles-drones-kuwait-strikes-resume-us-war",
-        "image": "http://www.bing.com/th?id=ONUT.b4zEPEVWcLRz0OK0NivHPw&pid=News",
-        "timestamp": 1788421140.0
-    },
-    {
-        "id": "446e297ed4",
-        "title_fa": "دور سوم برای دونالد ترامپ؟ تحلیلگر چینی که جنگ ایران و آمریکا را پیش‌بینی کرده بود، شکافی را آشکار می‌کند",
-        "title_en": "Third term for Donald Trump? Chinese analyst who foresaw US-Iran war reveals loophole",
-        "summary": [
-            "The US midterm elections are scheduled for November 3, 2026. During these elections, all 435 seats in the US House of..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Business Today",
-        "url": "https://www.businesstoday.in/world/story/third-term-for-donald-trump-chinese-analyst-who-foresaw-us-iran-war-reveals-loophole-553324-2026-09-04",
-        "clean_url": "https://www.businesstoday.in/world/story/third-term-for-donald-trump-chinese-analyst-who-foresaw-us-iran-war-reveals-loophole-553324-2026-09-04",
-        "image": "https://www.bing.com/th?id=ONUT.OLzlFLElb4hYRmNPUP9AUw",
-        "timestamp": 1788419017.0
     }
 ]
