@@ -1,5 +1,22 @@
 [
     {
+        "id": "2423807898",
+        "title_fa": "سپاه پاسداران انقلاب اسلامی مدعی است که ایران کشتی‌ها و نفتکش‌های آمریکایی را در تلافی حملات آمریکا هدف قرار می‌دهد",
+        "title_en": "Iran targets US ships, oil tankers in retaliation for US strikes, IRGC claims",
+        "summary": [
+            "Iran targets US ships, oil tankers in retaliation for US strikes, IRGC claims The Jerusalem Post"
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 8,
+        "sentiment": 0,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9haUhLblF5cUJOWk1ueEpwbUtyd2J3YU0xbTExRnJDcHRjd29NUDBvOTI2c3NZSUlMa0tZclJYQ2Z4eXB2QnlLNDdNUzhRT2V1enBTX3prOWJRZXRxODdQOTFScVFpUXQ1aXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9haUhLblF5cUJOWk1ueEpwbUtyd2J3YU0xbTExRnJDcHRjd29NUDBvOTI2c3NZSUlMa0tZclJYQ2Z4eXB2QnlLNDdNUzhRT2V1enBTX3prOWJRZXRxODdQOTFScVFpUXQ1aXc",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788638427.0
+    },
+    {
         "id": "b9ed4a0d1f",
         "title_fa": "نتانیاهو و توطئه «شورش ژنرال‌ها»؛ تضادهای آشکار",
         "title_en": "Netanyahu’s October 7 ‘generals’ revolt’ conspiracy runs into a contradiction",
@@ -424,6 +441,26 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-working-on-something-much-bigger-in-the-middle-east-after-iran-war/ar-AA2bCJjz",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788615172.3232882
+    },
+    {
+        "id": "b00823b9e6",
+        "title_fa": "ایران پس از حمله آمریکا به تانکرهای خارگ واکنش شدید",
+        "title_en": "Iranian media says US strikes oil tanker at key export hub Kharg Island",
+        "summary": [
+            "ایالات متحده تانکری در جزیره‌ خارگ هدف قرار داد؛ رسانه‌های ایرانی این حمله را به‌عنوان تهدید مستقیم به صادرات نفت توصیف کردند",
+            "تهدید تلافی‌جویی تهران شامل هدف قرار دادن کشتی‌های آمریکایی و تانکرهای نفتی است و می‌تواند به مواجهه نظامی منجر شود",
+            "تحریم‌های جدید و خطر قطع جریان نفت، فشار اقتصادی شدید بر ایران را تشدید می‌کند",
+            "افزایش تنش در خلیج فارس احتمالاً باعث نوسان قیمت نفت جهانی و کاهش ترافیک تجاری منطقه می‌شود"
+        ],
+        "impact": "احتمال افزایش تنش‌های نظامی در خلیج فارس و کاهش صادرات نفت ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/iranian-media-says-us-strikes-oil-tanker-at-key-export-hub-kharg-island/",
+        "clean_url": "https://www.timesofisrael.com/iranian-media-says-us-strikes-oil-tanker-at-key-export-hub-kharg-island",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260310__A2NB7DZ__v3__HighRes__IranUsIsraelWarEnergyOil-e1773443140960.jpg",
+        "timestamp": 1788614400.0
     },
     {
         "id": "28d4840d5b",
@@ -5425,39 +5462,5 @@
         "clean_url": "https://www.usnews.com/news/world/articles/2026-09-03/milei-vows-tougher-sanctions-defense-push-over-falklands-oil-drilling",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788486720.0
-    },
-    {
-        "id": "7349e2ea39",
-        "title_fa": "افزایش قیمت بنزین مسافران جاده ای روز کارگر را تحت فشار قرار داد زیرا نیویورک به 4.25 دلار در هر گالن رسید.",
-        "title_en": "Soaring gas prices squeeze Labor Day road trippers as NYC hits $4.25 a gallon",
-        "summary": [
-            "Drivers are paying more at the pump this Labor Day weekend, with gas prices topping $4.20 a gallon across parts of the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ABC7 New York on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/soaring-gas-prices-squeeze-labor-day-road-trippers-as-nyc-hits-4-25-a-gallon/ar-AA2bxPxg?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/soaring-gas-prices-squeeze-labor-day-road-trippers-as-nyc-hits-4-25-a-gallon/ar-AA2bxPxg",
-        "image": "https://www.bing.com/th?id=ONUT.kn9rFVKpwURYyHrAV0yPNw",
-        "timestamp": 1788486482.0
-    },
-    {
-        "id": "66ddb5b7fb",
-        "title_fa": "جنگ ایران و آمریکا زنده: نیروهای یمنی پهپاد حوثی را بر فراز خط مقدم تعز در میان درگیری‌های جدید سرنگون کردند.",
-        "title_en": "US-Iran War LIVE: Yemeni Forces Shoot Down Houthi Drone Over Taiz Frontline Amid Renewed Fighting",
-        "summary": [
-            "The US-Iran war has erupted into another dangerous phase after Washington launched a fresh wave of strikes on Iranian..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
-        "image": "https://www.bing.com/th?id=ONUT.jBgjXaH1cvrnvGxk8ENiuA",
-        "timestamp": 1788486482.0
     }
 ]
