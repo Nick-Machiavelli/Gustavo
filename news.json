@@ -19,6 +19,26 @@
         "timestamp": 1788566700.0
     },
     {
+        "id": "bf1ea85ebc",
+        "title_fa": "جکیریس: جنگ انتخابی علیه ایران شکست خورده",
+        "title_en": "#ISRAELIRANWAR. The Houthis control Dubas Hill, a strategic position overlooking Hays. Saudi militias flee. IDF: Al-Tahr clearance operation in Lebanon is complete",
+        "summary": [
+            "جکیریس گفت جنگ انتخابی علیه ایران شکست خورده و سیاست‌های واشنگتن را به شدت نقد کرد",
+            "وینس ادعا کرد ترکیه، آذربایجان و کشورهای خلیج فارس پشت صحنه از آمریکا حمایت می‌کنند تا ایران به حملات به کشتی‌ها واکنش نشان دهد",
+            "اتحادیه اروپا به‌سرعت به تحریم‌های اقتصادی علیه ایران پیوست",
+            "نتانیجه پس از انتشار ضبط صوتی مورد انتقاد شدید داخلی قرار گرفته است"
+        ],
+        "impact": "تحریم‌های جدید فشار اقتصادی بر ایران را افزایش می‌دهد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "AGC Communication",
+        "url": "https://www.agcnews.eu/israeliranwar-the-houthis-control-dubas-hill-a-strategic-position-overlooking-hays-saudi-militias-flee-idf-al-tahr-clearance-operation-in-lebanon-is-complete/",
+        "clean_url": "https://www.agcnews.eu/israeliranwar-the-houthis-control-dubas-hill-a-strategic-position-overlooking-hays-saudi-militias-flee-idf-al-tahr-clearance-operation-in-lebanon-is-complete",
+        "image": "https://i0.wp.com/www.agcnews.eu/wp-content/uploads/05frontiisrirn0509202605.png?fit=1000%2C447&quality=80&ssl=1",
+        "timestamp": 1788566400.0
+    },
+    {
         "id": "ab17fb7a9a",
         "title_fa": "ادعاهای بهبود وضعیت مرز و بازار کار زیر سوال",
         "title_en": "Ideas & Opinions — Paul D. Hauck: Are things really getting better?",
@@ -74,6 +94,24 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/ai-boom-play-it-safe-with-public-utilities/ar-AA2bAqSl",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788564003.9673407
+    },
+    {
+        "id": "9a8001c5fa",
+        "title_fa": "وینس: آمریکا در جنگ با ایران نیست",
+        "title_en": "Vance says US not at 'war' with Iran, scores killed in new Houthi offensive",
+        "summary": [
+            "وینس در کاخ سفید گفت عملیات‌های بزرگ نظامی علیه ایران تمام شده است",
+            "هدف اصلی جلوگیری از حملات به کشتی‌های تجاری است و زمان پایان جنگ نامشخص باقی مانده"
+        ],
+        "impact": "ناوبری تجاری خلیج فارس همچنان در معرض خطر حملات است",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/vance-says-us-not-war-scores-killed-houthi-offensive",
+        "clean_url": "https://www.newarab.com/news/vance-says-us-not-war-scores-killed-houthi-offensive",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2292745765.jpeg?itok=c62W3k3J",
+        "timestamp": 1788563520.0
     },
     {
         "id": "5d291c2b3a",
@@ -3044,6 +3082,24 @@
         "timestamp": 1788485400.0
     },
     {
+        "id": "acc0518cf9",
+        "title_fa": "ترامپ دستورالعمل تاریخی برای بازار گوشت امضا کرد",
+        "title_en": "Trump signs ‘historic’ beef market executive order",
+        "summary": [
+            "ترامپ دو فرمان اجرایی برای کاهش قیمت گوشت گاو و حمایت از دامداران امضا کرد",
+            "در پرسش و پاسخ، پرسش درباره جنگ ایران مطرح شد اما تمرکز بر بازار داخلی باقی ماند"
+        ],
+        "impact": "قیمت گوشت در آمریکا ممکن است کاهش یابد",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "FOX 9 Minneapolis-St. Paul",
+        "url": "https://www.fox9.com/video/fmc-c9xfjnvbwpbgnco1",
+        "clean_url": "https://www.fox9.com/video/fmc-c9xfjnvbwpbgnco1",
+        "image": "https://www.bing.com/th?id=ONUT.l7Oe6auKf5bcV5ALyZfcXw",
+        "timestamp": 1788484854.0
+    },
+    {
         "id": "2c41b1889e",
         "title_fa": "اسرایل حمله به غزه و لبنان؛ دیزل آمریکا رکورد جدید",
         "title_en": "Live: Israel continues attacking Gaza, southern Lebanon",
@@ -5359,58 +5415,5 @@
         "clean_url": "https://apnews.com/video/amid-legal-battle-over-trumps-proposed-mail-voting-limits-ballots-set-to-be-mailed-to-nc-voters-dbd0aa7da6b24c00abff185f93a6afe9",
         "image": "https://dims.apnews.com/dims4/default/7435277/2147483647/strip/true/crop/1621x1080+150+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2Fa9%2F3853fa1deebe7a100bd814f360db%2Fus-nc-election-early-voting-20260904cr-1920x1080.jpg",
         "timestamp": 1788396290.0
-    },
-    {
-        "id": "66ddb5b7fb",
-        "title_fa": "ترامپ: آماده حمله دوباره به ایران",
-        "title_en": "US-Iran War LIVE: 'The Regime is Getting Weaker and Weaker by the Day,' says US President Donald Trump",
-        "summary": [
-            "ترامپ اعلام کرد ایالات متحده می‌تواند هر زمان به ایران ضربه‌ای سخت‌تر بزند و کنترل تقریباً کامل بر تنگه هرمز دارد.",
-            "این ادعا نشان می‌دهد نیروی دفاعی آمریکا در خلیج فارس تقویت شده و تهدید مستقیم به تاسیسات هسته‌ای و نظامی ایران می‌شود.",
-            "بیان این موضع در آستانه انتخابات میانی می‌تواند فشار داخلی آمریکا را برای ادامه سیاست سخت‌گیری افزایش دهد."
-        ],
-        "impact": "افزایش خطر تشدید درگیری نظامی در خلیج فارس و فشار بر مسیرهای نفتی منطقه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.3,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
-        "image": "https://www.bing.com/th?id=ONUT.jBgjXaH1cvrnvGxk8ENiuA",
-        "timestamp": 1788393868.0
-    },
-    {
-        "id": "42a89e4490",
-        "title_fa": "خبر بین‌المللی — 'You weren't there به help me': ترامپ hints US may not back",
-        "title_en": "'You weren't there to help me': Trump hints US may not back UK in Falklands conflict, citing Iran support row",
-        "summary": [
-            "US President Donald Trump declined to commit Washington’s support for Britain in a future Falklands conflict, pointing to the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/you-weren-t-there-to-help-me-trump-hints-us-may-not-back-uk-in-falklands-conflict-citing-iran-support-row-article-14022336.html",
-        "clean_url": "https://www.moneycontrol.com/world/you-weren-t-there-to-help-me-trump-hints-us-may-not-back-uk-in-falklands-conflict-citing-iran-support-row-article-14022336.html",
-        "image": "https://www.bing.com/th?id=ONUT.vpPEwJGWQSyc35QhBoQdNA",
-        "timestamp": 1788392823.0
-    },
-    {
-        "id": "13f4a1e401",
-        "title_fa": "خبر بین‌المللی — ‘Edge Abyss’: ایران Buries Wedding Victims as Qalibaf Chal",
-        "title_en": "‘Edge of the Abyss’: Iran Buries Wedding Victims as Qalibaf Challenges Bessent",
-        "summary": [
-            "Iran buried victims of a US strike on a wedding gathering as Tehran and Israel exchanged new threats amid renewed regional..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Palestine Chronicle",
-        "url": "https://www.palestinechronicle.com/edge-of-the-abyss-iran-buries-wedding-victims-as-qalibaf-challenges-bessent/",
-        "clean_url": "https://www.palestinechronicle.com/edge-of-the-abyss-iran-buries-wedding-victims-as-qalibaf-challenges-bessent",
-        "image": "https://www.bing.com/th?id=ONUT.8XkCAZDvZKQj2ZgcuGoEbg",
-        "timestamp": 1788392823.0
     }
 ]
