@@ -1,5 +1,56 @@
 [
     {
+        "id": "2e44a21bfc",
+        "title_fa": "\"بیا سپتامبر…\"",
+        "title_en": "‘Come September…’",
+        "summary": [
+            "Making predictions in print is rarely a good idea, and saying “I told you so” is always rude, but rules are made to be broken..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Winnipeg Free Press",
+        "url": "https://www.winnipegfreepress.com/opinion/analysis/2026/09/05/come-september",
+        "clean_url": "https://www.winnipegfreepress.com/opinion/analysis/2026/09/05/come-september",
+        "image": "https://www.bing.com/th?id=ONUT.E6CvhmxUfTjn3AY9qxbA9Q",
+        "timestamp": 1788592290.7056596
+    },
+    {
+        "id": "3002d6e140",
+        "title_fa": "جنگ بعدی خاورمیانه هسته‌ای خواهد بود - همه اینها به لطف ترامپ است",
+        "title_en": "The next Middle East war will be nuclear – all thanks to Trump",
+        "summary": [
+            "The public have a more acute sense of what World War Three might be like than politicians This is Dispatches with Patrick..."
+        ],
+        "impact": "...",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "inews.co.uk",
+        "url": "https://inews.co.uk/opinion/next-war-nuclear-all-thanks-to-trump-4744833",
+        "clean_url": "https://inews.co.uk/opinion/next-war-nuclear-all-thanks-to-trump-4744833",
+        "image": "https://www.bing.com/th?id=ONUT.k4PgMHFGMv0KpugR072Uqw",
+        "timestamp": 1788592290.7053192
+    },
+    {
+        "id": "4460ee46d6",
+        "title_fa": "شاشی ثارور در مورد سیاست دولت در خلیج فارس: چرا استراتژی قدیمی آسیای غربی هند ممکن است اهمیت خود را از دست بدهد",
+        "title_en": "Why India’s old West Asia strategy may be losing relevance: Shashi Tharoor on government’s Gulf policy",
+        "summary": [
+            "Shashi Tharoor argues that India’s traditional West Asia strategy, built around economic ties and strategic distance, is..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Business Today",
+        "url": "https://www.businesstoday.in/india/story/why-indias-old-west-asia-strategy-may-be-losing-relevance-shashi-tharoor-on-governments-gulf-policy-553423-2026-09-05",
+        "clean_url": "https://www.businesstoday.in/india/story/why-indias-old-west-asia-strategy-may-be-losing-relevance-shashi-tharoor-on-governments-gulf-policy-553423-2026-09-05",
+        "image": "https://www.bing.com/th?id=ONUT.yOHzMJJR4FRn7-91VzhzNw",
+        "timestamp": 1788592290.704243
+    },
+    {
         "id": "c5f04dec57",
         "title_fa": "تحریم آمریکا بر نهاد مالی ترکیه برای حمایت از سپاه",
         "title_en": "Live updates • U.S. sanctions Turkish financial body for aiding Iran's Revolutionary Guard",
@@ -5376,59 +5427,5 @@
         "clean_url": "https://ippmedia.co.tz/the-guardian/features/read/how-has-life-changed-for-common-iranians-six-months-into-the-war-2026-09-03-122630",
         "image": "https://ippmedia.co.tz/storage/post-feature-images/9992a4e4-3d55-4974-a9e0-427a1fbfdf0d.png",
         "timestamp": 1788438360.0
-    },
-    {
-        "id": "976fac142b",
-        "title_fa": "قیمت دیزل آمریکا به رکورد تاریخی پس از جنگ ایران",
-        "title_en": "Live Updates: Iran war drives U.S. diesel price to record high as Vance downplays the conflict and its impact",
-        "summary": [
-            "قیمت دیزل به 5.85 دلار در گالن رسید؛ بالاترین سطح تا به حال",
-            "معاون وینس گفت جنگ ایران مانع افزایش بیشتر قیمت شد اما آن را «جنگ» نمی‌نامید"
-        ],
-        "impact": "هزینه حمل و نقل و قیمت کالاهای مصرفی در آمریکا به شدت بالا می‌رود",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day",
-        "image": "https://www.bing.com/th?id=ONUT.XUe9tNwoEy5IEfGci1tzcg",
-        "timestamp": 1788437036.0
-    },
-    {
-        "id": "be463e1d75",
-        "title_fa": "جهان‌سازی به اقتصاد غرب ضربه زد",
-        "title_en": "The day globalization's chickens came home to roost for Western economies",
-        "summary": [
-            "زنجیره‌های تأمین به‌هم ریخته و تورم شدید شد",
-            "جنگ ایران به هزینه‌های انرژی افزوده و فشار بر اقتصاد غرب را افزایش داد"
-        ],
-        "impact": "کاهش رشد اقتصادی و فشار بر سیاست‌های پولی در غرب",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": -0.5,
-        "source": "David Woo Unbound on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/the-day-globalization-s-chickens-came-home-to-roost-for-western-economies/vi-AA2byuwP?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/the-day-globalization-s-chickens-came-home-to-roost-for-western-economies/vi-AA2byuwP",
-        "image": "https://www.bing.com/th?id=ONUT.LS6oEsdQrHMsJWvZU3RjSw",
-        "timestamp": 1788437036.0
-    },
-    {
-        "id": "6da3acd748",
-        "title_fa": "شواهد تسلط سپاه بر ایران و فشار بر ترامپ",
-        "title_en": "Why Iran may be running out the clock on Trump, with IRGC takeover evidence exposed",
-        "summary": [
-            "گزارش می‌گوید سپاه پاسداران کنترل کلیدی بر نهادهای دولتی دارد",
-            "این تسلط می‌تواند مذاکرات با ترامپ را به نقطه‌عطفی برساند"
-        ],
-        "impact": "احتمال افزایش فشار دیپلماتیک و ریسک تداوم تنش‌های نظامی",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "David Woo Unbound on MSN",
-        "url": "https://www.msn.com/en-us/video/other/why-iran-may-be-running-out-the-clock-on-trump-with-irgc-takeover-evidence-exposed/vi-AA2byBZf?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/video/other/why-iran-may-be-running-out-the-clock-on-trump-with-irgc-takeover-evidence-exposed/vi-AA2byBZf",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788437036.0
     }
 ]
