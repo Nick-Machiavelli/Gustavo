@@ -425,6 +425,26 @@
         "timestamp": 1788618766.7114708
     },
     {
+        "id": "d1ce1fa5a7",
+        "title_fa": "فرستادگان ترامپ در مسکو به مذاکرات پایان جنگ اوکراین پرداخته‌اند",
+        "title_en": "فرستادگان ترامپ با پوتین در مسکو درباره پایان جنگ اوکراین گفت‌وگو کردند",
+        "summary": [
+            "ملاقات سه ساعته با پوتین نشان‌دهنده جدیت آمریکا برای بازگرداندن مذاکرات مستقیم است",
+            "پیشنهادهای تازه ترامپ هنوز نامشخص اما هدف سرگیری مذاکراتی است که شش ماه پیش متوقف شد",
+            "این گام می‌تواند فشار دیپلماتیک بر روسیه را پیش از سفر به کیف افزایش دهد",
+            "موفقیت مذاکرات می‌تواند تحریم‌ها و هزینه‌های جنگ را برای هر دو طرف کاهش دهد"
+        ],
+        "impact": "راه‌گشایی برای بازگشت به میز صلح و تقویت فشار اقتصادی بر روسیه",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609051105",
+        "clean_url": "https://www.iranintl.com/202609051105",
+        "image": "http://www.bing.com/th?id=ONUT.svTRln9TbUa5h8Qtza4xfw&pid=News",
+        "timestamp": 1788618300.0
+    },
+    {
         "id": "2262160f35",
         "title_fa": "سازمان CENTCOM سه تانکر نفت سپاه را نابود کرد",
         "title_en": "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships",
@@ -5451,24 +5471,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkhMbUlSNm9PVEtvaDlNbDlOdjNKUktrdmszTGZsM3pjWFZYRWp4NEtlODhJQ0JvX014ZFZGbHVjUXpsMm9XQjFCbTlkU09qWnNVQkVmc216ck02YlB5SjlBRFZoTGxmNTl4Qlk1b09idFpwakNIaUdtMGZaYVJFTG1sS18",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788494488.0
-    },
-    {
-        "id": "a8fd1b690f",
-        "title_fa": "پهپاد روسی ساختمان سرویس امنیت اوکراین را هدف گرفت",
-        "title_en": "Russian drone hits Ukraine's Security Service building",
-        "summary": [
-            "پهپاد روسی به‌طور مستقیم به ساختمان مرکزی سرویس امنیت اوکراین در کیف حمله کرد",
-            "رئیس‌جمهور اوکراین دستور پاسخ متقابل و ملموس را داد و پنج نفر را مجروح کرد",
-            "این حمله نشان‌دهنده تشدید عملیات هوایی روسیه در برابر نهادهای امنیتی اوکراین است"
-        ],
-        "impact": "تشدید جنگ هوایی روسیه‑اوکراین و افزایش تلفات غیرنظامی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/region/263408.html",
-        "clean_url": "https://www.azernews.az/region/263408.html",
-        "image": "https://www.azernews.az/media/2026/09/04/npr-brightspots3amazonaws_1.png",
-        "timestamp": 1788493680.0
     }
 ]
