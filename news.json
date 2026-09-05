@@ -1,5 +1,25 @@
 [
     {
+        "id": "59e8f17c71",
+        "title_fa": "بدهی ملی آمریکا به ۴۰ تریلیون دلار رسید",
+        "title_en": "Personal Finance: How to eat an elephant — tackling the national debt",
+        "summary": [
+            "بدهی عمومی به ۴۰ تریلیون دلار رسید؛ بزرگ‌ترین رقم تاریخ مالی آمریکا",
+            "کسری بودجه ۲ تریلیون دلار در سال ۲۰۲۶ یعنی ۶٪ تولید ناخالص داخلی",
+            "۷۵٪ هزینه‌های فدرال ثابت (امنیت اجتماعی، Medicare) و ۱ تریلیون دلار بهره، مانع انعطاف‌پذیری مالی می‌شود",
+            "تنها راه‌های کاهش فشار مالی، کاهش هزینه‌های اختیاری یا افزایش مالیات است"
+        ],
+        "impact": "بار سنگین بدهی می‌تواند تورم، فشار بر نرخ بهره و کاهش سرمایه‌گذاری را تشدید کند",
+        "tag": "بدهی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Chattanooga Times Free Press",
+        "url": "https://www.timesfreepress.com/news/2026/sep/05/personal-finance-how-to-eat-an-elephant-tackling/",
+        "clean_url": "https://www.timesfreepress.com/news/2026/sep/05/personal-finance-how-to-eat-an-elephant-tackling",
+        "image": "https://www.bing.com/th?id=ONUT.Xu0ac_KRUA0m-oXLjFc-dw",
+        "timestamp": 1788624747.0301826
+    },
+    {
         "id": "cf48bf18da",
         "title_fa": "دیپلماسی کره‌ای ترامپ: حواس‌پرتی از جنگ ایران",
         "title_en": "Donald Trump’s Korea diplomacy is a distraction exercise",
@@ -5438,22 +5458,5 @@
         "clean_url": "https://www.thedailybeast.com/vance-pretends-trumps-biggest-problem-doesnt-exist",
         "image": "https://www.thedailybeast.com/resizer/v2/RN7CYR6V75C7VPHU3SMWRW2EGE.JPG?smart=true&auth=dac94fd601f78a27c81a08d1d2a63ce619b004dc29fb8d7b71982d9de0869c92&width=1200&height=630",
         "timestamp": 1788475654.6238632
-    },
-    {
-        "id": "f562e8ea1e",
-        "title_fa": "مقام امنیتی روسیه: «مسیر ترامپ» می‌تواند حضور نظامی آمریکا را در نزدیکی ایران فراهم کند",
-        "title_en": "Russian security official: 'Trump Route' could enable US military presence near Iran",
-        "summary": [
-            "The implementation of the so-called \"Trump Route\" through Armenia could enable the deployment of US military and intelligence infrastructure near the Iranian border, Deputy Secretary of the Russian Security Council Aleksey Shevtsov has said."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/region/263384.html",
-        "clean_url": "https://www.azernews.az/region/263384.html",
-        "image": "https://www.azernews.az/media/2025/01/24/kremlin.jpg",
-        "timestamp": 1788475560.0
     }
 ]
