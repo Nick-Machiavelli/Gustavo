@@ -535,6 +535,26 @@
         "timestamp": 1788589604.0
     },
     {
+        "id": "ffea432f6a",
+        "title_fa": "پزشکیان: همبستگی ملی در برابر فشار اقتصادی آمریکا",
+        "title_en": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+        "summary": [
+            "رئیس‌جمهور تأکید کرد تحریم‌های جدید نمی‌تواند وحدت داخلی را بشکند",
+            "تحریم‌های «D‑Day» هدف قطع منابع مالی رژیم و سپاه است",
+            "فشار اقتصادی می‌تواند بخش‌های کلیدی را مختل کند اما واکنش داخلی محدود می‌ماند",
+            "چسبیدن به سیاست‌های قبلی ریسک ناآرامی‌های گسترده را کاهش می‌دهد"
+        ],
+        "impact": "تحریم‌های سنگین آمریکا جریان‌های مالی مهم را مختل می‌کند، اما همبستگی داخلی مانع بروز ناآرامی‌های گسترده می‌شود",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure",
+        "clean_url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure",
+        "image": "http://www.bing.com/th?id=ONUT.rJkaqMuWGCoA_yYhc-Nv-g&pid=News",
+        "timestamp": 1788588420.0
+    },
+    {
         "id": "6ed0a3e4d3",
         "title_fa": "تحریم آمریکا بر بانک ترکیه به‌دلیل ارتباط با سپاه",
         "title_en": "US imposes sanctions on Turkish bank, prompting legal threat",
@@ -5430,22 +5450,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenRCZV9ZWThEU0FmbEJjLXJ5YlhCN2VGaEtJT3dsMDdTdjBiQ2IzQTZTbFpoU094OGFtVVFORDRCMUVsOTBOUWRRcWR1cWF2ZzJZdDdsa2F6b05oaW95bk9tT01ZRWxMUzVBX3JLNTkwMHAxbVFMb0hnVE54RkVVZVBQblBfT0FZ0gGOAUFVX3lxTFBiNEptTlZUWkFWVmRPdnNJY29jMFh5OENsVEgwNWtNdURMb1lkLVVEWHppNVhyNlFNeENTdTZmWjRUNmRpazBudXRNQ0RNX3BldjZoR1dOVWIwTnhuU3phd283dExteWM4MkJfaWpYTnFldU9aWm9odlNiaS1BVkdTYU00WFJPSTc0RXdKVFE",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788464760.0
-    },
-    {
-        "id": "b76feb0251",
-        "title_fa": "خبر بین‌المللی — Crude Oil Prices Settle Higher در US-ایران Tensions",
-        "title_en": "Crude Oil Prices Settle Higher on US-Iran Tensions",
-        "summary": [
-            "October WTI crude oil (CLV26 ) closed up +0.29 (+0.32%) on Thursday, and October RBOB gasoline (RBV26 ) closed up +0.0311 (+1.00%). Crude oil and..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Barchart · via Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-settle-higher-191321257.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-settle-higher-191321257.html",
-        "image": "https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0.jpg",
-        "timestamp": 1788464435.0
     }
 ]
