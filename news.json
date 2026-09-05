@@ -407,6 +407,25 @@
         "timestamp": 1788616329.0
     },
     {
+        "id": "66ddb5b7fb",
+        "title_fa": "سپاه بر ۳ تانکر حمله؛ ترامپ ادعای کنترل هورموز",
+        "title_en": "US-Iran War LIVE: IRGC Navy Claims Attacks on 3 Tankers Using ‘Unauthorised’ Hormuz Routes",
+        "summary": [
+            "سپاه نیروی‌دریایی ایران ادعا کرد به ۳ تانکر که از مسیرهای «غیرمجاز» هورموز عبور می‌کردند، حمله کرد؛ تنش در تنگه به اوج رسید.",
+            "ترامپ گفت ایالات متحده تقریباً کنترل کامل هورموز را دارد و تهدید کرد حملات سخت‌تر و گسترده‌تری به ایران بکند.",
+            "تبادل حملات می‌تواند مسیرهای نفتی خلیج فارس را مختل کند و هزینه‌های حمل و نقل را به‌سرعت بالا ببرد."
+        ],
+        "impact": "حمل و نقل نفت خلیج ممکن است به‌سرعت مختل شود و هزینه‌های باربری به‌طور چشمگیری افزایش یابد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
+        "image": "http://www.bing.com/th?id=ONUT.jBgjXaH1cvrnvGxk8ENiuA&pid=News",
+        "timestamp": 1788615960.0
+    },
+    {
         "id": "d2b7727920",
         "title_fa": "توهم خطرناک کنترل تهران",
         "title_en": "Tehran’s Dangerous Illusion of Control",
@@ -5447,22 +5466,5 @@
         "clean_url": "https://www.ms.now/news/iran-war-republicans-watching-from-sidelines",
         "image": "http://www.bing.com/th?id=ONUT.1_AHbDsGQiLzZ7eoN0A0Kg&pid=News",
         "timestamp": 1788487200.0
-    },
-    {
-        "id": "39d384f3bd",
-        "title_fa": "سیسی بسنت، وزیر خزانه داری آمریکا می‌گوید اتحادیه اروپا رسماً به «عملیات اقتصادی Outcast» به رهبری آمریکا علیه ایران می‌پیوندد.",
-        "title_en": "Treasury Secy Bessent says EU \"officially\" joins US-led \"Operation Economic Outcast\" against Iran",
-        "summary": [
-            "US Treasury Secretary Scott Bessent on Thursday (local time) said that the European Union has \"officially joined\" the US-led \"Operation Economic Outcast\" against Iran, welcoming what he described as the bloc's strong and early stance in maintaining economic pressure on Tehran as the West Asia conflict continues."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "WebIndia123",
-        "url": "https://news.webindia123.com/news/Articles/World/20260904/4494457.html",
-        "clean_url": "https://news.webindia123.com/news/Articles/World/20260904/4494457.html",
-        "image": "https://www.webindia123.com/home_files/inchome/images/facebook.png",
-        "timestamp": 1788487080.0
     }
 ]
