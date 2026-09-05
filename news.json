@@ -1,5 +1,24 @@
 [
     {
+        "id": "b9ed4a0d1f",
+        "title_fa": "نتانیاهو و توطئه «شورش ژنرال‌ها»؛ تضادهای آشکار",
+        "title_en": "Netanyahu’s October 7 ‘generals’ revolt’ conspiracy runs into a contradiction",
+        "summary": [
+            "سند 55 صفحه‌ای نتانیاهو ترکیبی از نقل‌قول‌های دستکاری‌شدهٔ سپاه، ادعای حملهٔ ترکی به سوریه و شایعات دربارهٔ یائیر نتانیاهو است.",
+            "هدف اصلی این روایت، تخفیف مسئولیت دولت اسرائیل در انتخابات و جلب حمایت داخلی با به تصویر کشیدن دشمنان خارجی است.",
+            "تحقیقات نشان می‌دهد اکثر بخش‌های کتاب و سریال «شورش ژنرال‌ها» به‌صورت جراحی شده‌اند و شواهدی برای وجود واقعهٔ واقعی وجود ندارد."
+        ],
+        "impact": "افزایش پروپاگاندا علیه ایران و تقویت تصویر منفی در فضای سیاسی داخلی و بین‌المللی.",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/article/rjrrykc00ge",
+        "clean_url": "https://www.ynetnews.com/article/rjrrykc00ge",
+        "image": "https://www.bing.com/th?id=ONUT.wPSZ6cqpXIfh7Bm5JXmUVg",
+        "timestamp": 1788637081.0409374
+    },
+    {
         "id": "aac492df36",
         "title_fa": "آمار بد ترامپ: پیش‌درآمد فاجعه اقتصادی",
         "title_en": "Trump's avalanche of bad numbers is a countdown to 'disaster': report",
@@ -1827,6 +1846,43 @@
         "clean_url": "https://www.jns.org/news/u-s-news/mamdani-announces-one-year-ban-on-ai-use-in-nyc-public-schools",
         "image": "https://static.jns.org/dims4/default/128f342/2147483647/strip/true/crop/5760x3243+0+93/resize/1000x563!/format/webp/quality/90/?url=https://static.jns.org/4c/b9/e809903a4a8a9c775c9d0aee594c/pexels-gustavo-fring-5621945.jpg",
         "timestamp": 1788551160.0
+    },
+    {
+        "id": "d9b5a4f25a",
+        "title_fa": "تشدید جنگ ایران-آمریکا: موشک سپاه و حمله به تانکرها",
+        "title_en": "BIG escalation in Iran-US war: IRGC targets US warships, CENTCOM strikes Iranian tankers off Kharg Island, Hegseth issues chilling warning; what exactly happened?",
+        "summary": [
+            "سپاه پاسداران موشک‌های بالستیک به یک ناو هواپیمابر و ناوشکن آمریکایی شلیک کرد؛ نیروی‌های آمریکایی موفق به دفع حمله شدند.",
+            "در پاسخ، فرماندهی مرکزی آمریکا سه تانکر نفتی ایرانی را در خلیج فارس «به‌طور دائم» غیرفعال کرد.",
+            "هیچ تلفات انسانی گزارش نشده اما خطر اشتباه محاسبه‌ای و گسترش درگیری به سایر کشورهای منطقه وجود دارد."
+        ],
+        "impact": "اختلال در جریان نفت خلیج فارس و افزایش هزینه‌های بیمه‌نامه‌های کشتی‌ها.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "News24",
+        "url": "https://news24online.com/world/big-escalation-in-iran-us-war-irgc-targets-us-warships-centcom-strikes-iranian-tankers-off-kharg-island-hegseth-issues-chilling-warning-what-exactly-happened/916563/",
+        "clean_url": "https://news24online.com/world/big-escalation-in-iran-us-war-irgc-targets-us-warships-centcom-strikes-iranian-tankers-off-kharg-island-hegseth-issues-chilling-warning-what-exactly-happened/916563",
+        "image": "https://www.bing.com/th?id=ONUT.n5BxtNnWxILXdGkJPuWOPQ",
+        "timestamp": 1788550676.0
+    },
+    {
+        "id": "a70684094e",
+        "title_fa": "میلی در برابر پروژه نفتی فالکلند: وحدت ملی",
+        "title_en": "Milei finds unity in pushback against Falkland Islands oil project",
+        "summary": [
+            "جاویر میلی با شعار دفاع از حاکمیت ملی، مخالفت گستردهٔ مردم آرژانتین با حفرچاه‌های نفتی نزدیک جزایر فالکلند را تقویت کرد.",
+            "این موضع‌گیری باعث به تعویق افتادن پروژهٔ نفتی می‌شود و فشار بر سرمایه‌گذاران خارجی را افزایش می‌دهد."
+        ],
+        "impact": "تقویت پایه‌های سیاسی میلی و ایجاد تنش بیشتر در مذاکرات بین‌المللی پیرامون فالکلند.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/energy/milei-finds-unity-pushback-against-falkland-islands-oil-project-2026-09-05/",
+        "clean_url": "https://www.reuters.com/business/energy/milei-finds-unity-pushback-against-falkland-islands-oil-project-2026-09-05",
+        "image": "https://www.bing.com/th?id=ONUT.Bo1kf3NR0zZgTYX9-a2x_A",
+        "timestamp": 1788550675.0
     },
     {
         "id": "a9ab0c6729",
@@ -5396,63 +5452,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CYmZlT3B0akpuUHViOXdkT2t3M29uX01vTzJZREJ1SGVoaEloWk1Rc2NzaGFScFZJeFdXQ3p1NE5ubVBMMHN3bkRsSXRwNVk5djZJQVFpajJGd3dKU2p6Yk4ydw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788485558.0
-    },
-    {
-        "id": "3677ebbbe5",
-        "title_fa": "دادستانی تهران رسانه دیدارنیوز را متهم کرد",
-        "title_en": "اعلام جرم دادستانی علیه دیدارنیوز پس از اعتراض پروانه سلحشوری به تجمعات شبانه و اعدام‌ها",
-        "summary": [
-            "دادستانی تهران پس از انتشار نظرات پروانه سلحشوری، پرونده قضایی علیه عوامل و مسئولان دیدارنیوز تشکیل داد.",
-            "متهمین به «محتوای کذب و توهین‌آمیز» متهم شده‌اند؛ جزئیات دقیق محتوا منتشر نشده است.",
-            "سازمان دفاع از جریان آزاد اطلاعات این اقدام را الگوی سرکوب آزادی بیان می‌داند.",
-            "حالت مشابه در سال‌های گذشته نشان‌دهنده ادامه فشار بر رسانه‌های مخالف است."
-        ],
-        "impact": "تشدید سرکوب رسانه‌های مخالف و محدودتر شدن فضای عمومی برای نقد دولت.",
-        "tag": "سرکوب",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609049017",
-        "clean_url": "https://www.iranintl.com/202609049017",
-        "image": "http://www.bing.com/th?id=ONUT.b4e-klr513OcTzzmmvJQ-w&pid=News",
-        "timestamp": 1788485400.0
-    },
-    {
-        "id": "acc0518cf9",
-        "title_fa": "ترامپ دستورالعمل تاریخی برای بازار گوشت امضا کرد",
-        "title_en": "Trump signs ‘historic’ beef market executive order",
-        "summary": [
-            "ترامپ دو فرمان اجرایی برای کاهش قیمت گوشت گاو و حمایت از دامداران امضا کرد",
-            "در پرسش و پاسخ، پرسش درباره جنگ ایران مطرح شد اما تمرکز بر بازار داخلی باقی ماند"
-        ],
-        "impact": "قیمت گوشت در آمریکا ممکن است کاهش یابد",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "FOX 9 Minneapolis-St. Paul",
-        "url": "https://www.fox9.com/video/fmc-c9xfjnvbwpbgnco1",
-        "clean_url": "https://www.fox9.com/video/fmc-c9xfjnvbwpbgnco1",
-        "image": "https://www.bing.com/th?id=ONUT.l7Oe6auKf5bcV5ALyZfcXw",
-        "timestamp": 1788484854.0
-    },
-    {
-        "id": "2c41b1889e",
-        "title_fa": "اسرایل حمله به غزه و لبنان؛ دیزل آمریکا رکورد جدید",
-        "title_en": "Live: Israel continues attacking Gaza, southern Lebanon",
-        "summary": [
-            "اسرایل به‌صورت مداوم به غزه و جنوب لبنان حملات هوایی می‌گیرد؛ خطر گسترش جنگ در منطقه افزایش می‌یابد.",
-            "قیمت دیزل در ایالات متحده به 5.85 دلار در گالن رسید؛ هزینه‌های کشاورزی و زنجیره تأمین غذا به شدت فشار می‌آید.",
-            "وزیر خارجه ایران از آمریکایی‌ها می‌خواهد به‌دلیل جنگ با ایران، هزینه‌های زندگی را بپذیرند؛ پیام سیاسی در دل بحران اقتصادی.",
-            "افزایش 30 تا 50 درصدی هزینه سوخت، هزینه نهایی مواد غذایی را برای مصرف‌کنندگان آمریکایی بالا می‌برد."
-        ],
-        "impact": "هجوم اسرائیل خطر تشدید درگیری خاورمیانه را دارد؛ رکورد قیمت دیزل آمریکا هزینه کشاورزان و خرده‌فروشان را به‌طور مستقیم افزایش می‌کند.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/live/live-us-and-iran-confirm-peace-accord-signing-set-friday-geneva",
-        "clean_url": "https://www.middleeasteye.net/live/live-us-and-iran-confirm-peace-accord-signing-set-friday-geneva",
-        "image": "https://www.middleeasteye.net/sites/default/files/2026-09/2026-09-04T174912Z_1909862348_RC29CNASHGOB_RTRMADP_3_IRAN-CRISIS-USA-STRIKES-SIRIK.JPG",
-        "timestamp": 1788483774.0
     }
 ]
