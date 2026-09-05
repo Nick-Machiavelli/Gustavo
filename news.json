@@ -2027,6 +2027,26 @@
         "timestamp": 1788544050.3290539
     },
     {
+        "id": "0ff569c609",
+        "title_fa": "نیروهای آمریکا سه تانکر نفت ایران را هدف گرفت",
+        "title_en": "US military hits three Iran oil tankers, including one off Kharg Island",
+        "summary": [
+            "مرکز فرماندهی آمریکا اعلام کرد سه تانکر مرتبط با سپاه پاسداران در خلیج فارس و نزد جزیره خرمشهر نابود شد",
+            "حملات پس از شلیک سپاه به کشتی‌های جنگی آمریکا انجام شد؛ هدف تخریب توان حمل‌ونقل نفتی ایران بود",
+            "تانکرهای هدف شامل M/T Downy (نزدیک خرمشهر)، M/T Stark 1 (نزدیک جاسک) و M/T Kylo (خلیج عمان) بودند",
+            "این اقدام نشانگر تشدید جنگ‌نامی واشنگتن علیه ایران پس از تجدید تهدیدات ترامپ است"
+        ],
+        "impact": "توان حمل‌ونقل نفتی ایران در خلیج فارس به شدت محدود می‌شود؛ فشار اقتصادی و نظامی بر سپاه افزایش می‌یابد",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/us-military-hits-three-iran-oil-tankers-including-one-kharg",
+        "clean_url": "https://www.newarab.com/news/us-military-hits-three-iran-oil-tankers-including-one-kharg",
+        "image": "https://www.bing.com/th?id=ONUT.KkZqmi-dHTUsBoHPkXkALg",
+        "timestamp": 1788544023.0
+    },
+    {
         "id": "03999edc0c",
         "title_fa": "نمایندگان ویژه ترامپ به مسکو برای مذاکرات اوکراین رفتند",
         "title_en": "نمایندگان ویژه ترامپ برای گفتوگو با پوتین درباره جنگ اوکراین وارد مسکو شدند",
@@ -5438,22 +5458,5 @@
         "clean_url": "https://www.msn.com/en-sg/news/other/editor-s-notes-the-man-who-decides-which-jews-the-president-hears/ar-AA2bw1cA",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788477625.416687
-    },
-    {
-        "id": "c6867a6df5",
-        "title_fa": "خبر بین‌المللی — Panicked GOP insiders beg ترامپ family به realize 'they’re r",
-        "title_en": "Panicked GOP insiders beg Trump family to realize 'they’re rich enough' already",
-        "summary": [
-            "Inside sources in the GOP are seriously peeved that President Donald Trump and his family can't stop concentrating on enriching themselves long enough to get Republicans through the November midterms."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-nz/news/other/panicked-gop-insiders-beg-trump-family-to-realize-they-re-rich-enough-already/ar-AA2bw4xG?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-nz/news/other/panicked-gop-insiders-beg-trump-family-to-realize-they-re-rich-enough-already/ar-AA2bw4xG",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788477622.7074878
     }
 ]
