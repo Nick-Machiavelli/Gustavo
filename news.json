@@ -1,5 +1,25 @@
 [
     {
+        "id": "2262160f35",
+        "title_fa": "سازمان CENTCOM سه تانکر نفت سپاه را نابود کرد",
+        "title_en": "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships",
+        "summary": [
+            "ایران دو ناو جنگی آمریکا را هدف قرار داد و واکنش فوری نیروی دریایی آمریکا را برانگیخت.",
+            "در پی حمله، نیروی هوایی CENTCOM سه تانکر نفتی سپاه را در آب‌های خلیج فارس نابود کرد.",
+            "از دست دادن این تانکر‌ها به صادرات نفت ایران ضربه‌ای جدی می‌زند و هزینه مالی قابل توجهی ایجاد می‌کند.",
+            "حادثه خطر تشدید درگیری‌های دریایی در استراتژیک‌ترین مسیر نفتی جهان را بالا برد."
+        ],
+        "impact": "حملات آمریکا به تانکرهای نفتی، توان صادرات نفت ایران را کاهش داده و نشان‌دهنده تمایل ایالات متحده به استفاده از نیروی نظامی در خلیج فارس است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "centcom.mil",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUlTZFBuUlJVZUprUjUyUWdLUmkzSzR5RmZIOEZkXzAtWXppQ0tfQ2hCWDNiamwxOWxtbzNkMW1KdEFPZWtuamFSVEoxZzJpVFJjMjQ2a3N2eTA0aTM1VllnMXBiNU96VzJIT0JIUWpwRmtuX1oyWlhSVEppSDJUenZVcEI4X0VaamNxc053UU9BSHVWOFZUaUxVblBHNGlaM2I2NHU3MFBsTFhIWFNoYVR2Vkk4TnNrd2RkMUpqSjhxOUs1bW1ua18wNDQ0TWRPUnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUlTZFBuUlJVZUprUjUyUWdLUmkzSzR5RmZIOEZkXzAtWXppQ0tfQ2hCWDNiamwxOWxtbzNkMW1KdEFPZWtuamFSVEoxZzJpVFJjMjQ2a3N2eTA0aTM1VllnMXBiNU96VzJIT0JIUWpwRmtuX1oyWlhSVEppSDJUenZVcEI4X0VaamNxc053UU9BSHVWOFZUaUxVblBHNGlaM2I2NHU3MFBsTFhIWFNoYVR2Vkk4TnNrd2RkMUpqSjhxOUs1bW1ua18wNDQ0TWRPUnc",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788617536.0
+    },
+    {
         "id": "d2b7727920",
         "title_fa": "توهم خطرناک کنترل تهران",
         "title_en": "Tehran’s Dangerous Illusion of Control",
@@ -5437,22 +5457,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788470134.0
-    },
-    {
-        "id": "442eae264f",
-        "title_fa": "ایران به کویت حمله کرد و به آمریکا هشدار داد که جنگ همه جانبه ممکن است بازگردد",
-        "title_en": "Iran strikes Kuwait, warning US that all-out war could return",
-        "summary": [
-            "The US and Iran are back to exchanging fire over the past two days, with reports of a strike on Kuwait overnight and the death toll in Iran up to 18."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/iran-strikes-kuwait-warning-us-all-out-war-could-return",
-        "clean_url": "https://www.newarab.com/news/iran-strikes-kuwait-warning-us-all-out-war-could-return",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2293242334.jpeg?itok=HqjEvvLz",
-        "timestamp": 1788469260.0
     }
 ]
