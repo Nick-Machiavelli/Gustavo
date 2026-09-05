@@ -1,5 +1,25 @@
 [
     {
+        "id": "d39a5ffe67",
+        "title_fa": "پیشنهادات نظرسنجی نشان می‌دهد محبوبیت ترامپ در سقوط",
+        "title_en": "Trump’s popularity has reached a critical point",
+        "summary": [
+            "نظرسنجی‌های RealClearPolitics، NYT و Nate Silver نشان می‌دهند امتیاز تأیید ترامپ زیر 40٪ است",
+            "این سقوط محبوبیت در دوره دوم ریاست‌جمهوری، فشار سیاسی جدی بر او ایجاد می‌کند",
+            "حتی رسانه‌های دوستدار او نتوانستند تصویر مثبت حفظ کنند؛ ریسک تضعیف حمایت حزبی بالا است",
+            "ادامه این روند می‌تواند تصمیم‌گیری‌های خارجی، از جمله سیاست‌های ایران، را تحت فشار قرار دهد"
+        ],
+        "impact": "کاهش توان سیاسی ترامپ برای اعمال فشار یا تحریم‌های جدید علیه ایران",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Las Vegas Sun",
+        "url": "https://lasvegassun.com/news/2026/sep/05/trumps-popularity-has-reached-a-critical-point/",
+        "clean_url": "https://lasvegassun.com/news/2026/sep/05/trumps-popularity-has-reached-a-critical-point",
+        "image": "https://assets.lasvegassun.com/media/assets/images/icons/favicon-app.png",
+        "timestamp": 1788600094.5122485
+    },
+    {
         "id": "5391874e91",
         "title_fa": "عباس با زایونیست یواو سِگالوویچ در فهرست عربی می‌جنگد",
         "title_en": "Mansour Abbas is betting on a Zionist to make Palestinian votes count",
@@ -140,6 +160,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmJZbmVLUHF3c2E5cEFWUmE0WkxVY0tsNTlzUTVGSko5al9VNEVmeXpSUGZXSnluQTVBRzVWYThDVVJmZC1IMi1fZnBueHl5b3lCekl4eDdzdnRmV2Q2eTV0M1NLYWdlYVpMd3ZGWFdNWjVLSXFiaEtHMVFLaFpHX2Y0Z08wLW9EeGkyamdyQlFIdE5xZmtwV1ZtQnpKdw",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788591632.0
+    },
+    {
+        "id": "c4b5f453f1",
+        "title_fa": "ترامپ کشنر و ویتکاف را برای صلح اوکراین می‌فرستد",
+        "title_en": "Trump sends Kushner, Witkoff to Moscow and Kyiv with new plan to 'end war'",
+        "summary": [
+            "ترامپ کشنر و ویتکاف را به مسکو و کیف می‌فرستد تا طرح صلح جدیدی ارائه دهند",
+            "ملاقات با پوتین پیش از سفر به کیف می‌تواند فشار دیپلماتیک بر روسیه را افزایش دهد",
+            "زلنسکی درخواست آتش‌بس موقت برای مدت سفر کرد؛ نشان از تمایل به مذاکره است",
+            "اگر طرح موفق شود، مسیر پایان جنگ تغییر می‌کند؛ اما ریسک عدم پذیرش روسیه وجود دارد"
+        ],
+        "impact": "امکان کاهش سرنوشت جنگ اوکراین و تغییر تعادل قدرت منطقه‌ای",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/trump-sends-kushner-witkoff-to-moscow-and-kyiv-with-new-plan-to-end-war/",
+        "clean_url": "https://www.timesofisrael.com/trump-sends-kushner-witkoff-to-moscow-and-kyiv-with-new-plan-to-end-war",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26102061314573-e1775997014971.jpg",
+        "timestamp": 1788591240.0
     },
     {
         "id": "c5f04dec57",
@@ -769,6 +809,26 @@
         "clean_url": "https://www.moneycontrol.com/world/us-hits-turkish-bank-with-iran-sanctions-warns-more-banks-could-follow-article-14023098.html",
         "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260418141930_Scott-Bessent-US.png",
         "timestamp": 1788555000.0
+    },
+    {
+        "id": "9049679e73",
+        "title_fa": "اظهار نظر توهین‌آمیز ترامپ درباره جنگ ایران",
+        "title_en": "Trump ripped apart for 'absolutely horrible' comments about Iran war being 'small potatoes'",
+        "summary": [
+            "ترامپ جنگ ایران‑عراق را «سیب زمینی کوچک» نامید؛ واکنش شدید مقامات آمریکایی",
+            "سناتور وارن آن را «کاملاً وحشتناک» توصیف کرد؛ فشار داخلی بر دولت افزایش یافت",
+            "این بیانیه می‌تواند روابط دیپلماتیک با تهران را به‌هم بزند",
+            "احتمال واکنش تند ایران و تقویت حمایت‌های مخالفان داخلی"
+        ],
+        "impact": "تنش‌های سیاسی داخلی آمریکا و خطر تشدید تنش‌های نظامی با ایران",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "HuffPost on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-ripped-apart-for-absolutely-horrible-comments-about-iran-war-being-small-potatoes/ar-AA2bBI4f",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-ripped-apart-for-absolutely-horrible-comments-about-iran-war-being-small-potatoes/ar-AA2bBI4f",
+        "image": "http://www.bing.com/th?id=ONUT.aq6KQ0FbRP3ghIqGFgUuhg&pid=News",
+        "timestamp": 1788554821.0
     },
     {
         "id": "b5e34869f8",
@@ -5369,57 +5429,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-rally-no-153527029.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef.jpg",
         "timestamp": 1788449897.0
-    },
-    {
-        "id": "689c5f4001",
-        "title_fa": "ترامپ تهدید کرد که تجارت با کشورهای دارای کسری تجاری آمریکا را متوقف خواهد کرد مگر اینکه فدرال رزرو نرخ بهره را کاهش دهد",
-        "title_en": "Trump threatens to ‘stop trading’ with US trade-deficit countries unless Fed cuts rates",
-        "summary": [
-            "President Trump demanded lower interest rates after a strong August jobs report, warning that the US could stop trading with..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/trump-threatens-to-stop-trading-with-us-trade-deficit-countries-unless-fed-cuts-rates-14043347.html",
-        "clean_url": "https://www.firstpost.com/world/trump-threatens-to-stop-trading-with-us-trade-deficit-countries-unless-fed-cuts-rates-14043347.html",
-        "image": "https://www.bing.com/th?id=ONUT.JENuhVr_kLOYzkMq8QlE2Q",
-        "timestamp": 1788449763.0
-    },
-    {
-        "id": "3ad1500d90",
-        "title_fa": "همانطور که ونس می‌گوید، ترامپ ایران را در «مشکل بزرگ» اعلام کرده است",
-        "title_en": "Trump declares Iran in 'great trouble' as Vance says end uncertain",
-        "summary": [
-            "U.S. President Donald Trump stated on the 3rd regarding military operations against Iran, “We have prevented Iran from acquiring nuclear weapons and have defeated their naval, air forces, and command..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Chosun Ilbo on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/trump-declares-iran-in-great-trouble-as-vance-says-end-uncertain/ar-AA2bwiO7",
-        "clean_url": "https://www.msn.com/en-xl/news/other/trump-declares-iran-in-great-trouble-as-vance-says-end-uncertain/ar-AA2bwiO7",
-        "image": "http://www.bing.com/th?id=ONUT.JxcH2SD7hnhd9filsXItPA&pid=News",
-        "timestamp": 1788448757.0
-    },
-    {
-        "id": "1b7a52260c",
-        "title_fa": "تاکر کارلسون و وی‌پیشین جِی‌دی ونس در جدال سیاسی",
-        "title_en": "'JD Vance Faces MAGA Revolt!': Tucker Carlson Praise Lands VP In Hot Water; Trump Shocked | Watch",
-        "summary": [
-            "لامور حمله سرسختانه‌ای به کارلسون کرد و از حمایت او برای ونس انتقاد کرد",
-            "این کشمکش نشان می‌دهد رده‌های راست‌گرا در ایالات متحده هنوز به توافق داخلی نرسیده‌اند"
-        ],
-        "impact": "تقویت تقسیمات داخل حزب جمهوری‌خواه؛ احتمال تضعیف حمایت از ونس در انتخابات آینده",
-        "tag": "سیاست آمریکا",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "The Times of India",
-        "url": "https://www.msn.com/en-in/news/other/jd-vance-faces-maga-revolt-tucker-carlson-praise-lands-vp-in-hot-water-trump-shocked-watch/vi-AA2bwL1F",
-        "clean_url": "https://www.msn.com/en-in/news/other/jd-vance-faces-maga-revolt-tucker-carlson-praise-lands-vp-in-hot-water-trump-shocked-watch/vi-AA2bwL1F",
-        "image": "https://static.toiimg.com/thumb/msid-133748542,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1788448440.0
     }
 ]
