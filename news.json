@@ -1,5 +1,59 @@
 [
     {
+        "id": "2583fad76c",
+        "title_fa": "نتانیاهو برای رهبری جنگی خود پرچم می‌کشد",
+        "title_en": "Netanyahu is trying to rally Israel around the flag — and save himself",
+        "summary": [
+            "نتانیاهو سعی دارد تصویر خود را به عنوان رهبر جنگی تقویت کند",
+            "او برای حفظ قدرت، به عملیات‌های نظامی در غزه تکیه می‌کند"
+        ],
+        "impact": "فضای انتخاباتی اسرائیل به سمت ملی‌گرایی و حمایت از عملیات‌های نظامی می‌رود",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "ms",
+        "url": "https://www.ms.now/israel-hamas-war/benjamin-netanyahu-israeli-election-violence-gaza-west-bank-lebanon",
+        "clean_url": "https://www.ms.now/israel-hamas-war/benjamin-netanyahu-israeli-election-violence-gaza-west-bank-lebanon",
+        "image": "https://www.ms.now/wp-content/uploads/2026/09/260903-ali-velshi-on-israel-benjamin-netanyahu-zz.webp?w=1200&h=630&crop=1",
+        "timestamp": 1788604382.6139176
+    },
+    {
+        "id": "8923045e01",
+        "title_fa": "اظهار جدید ترامپ درباره ایران، استدلالش را دگرگون کرد",
+        "title_en": "Something Trump just said about Iran changes his entire argument",
+        "summary": [
+            "در مصاحبه اخیر، ترامپ گفت می‌تواند تحریم‌های کلان را حذف کند",
+            "او ادعا کرد مذاکرات هسته‌ای می‌تواند بدون فشار ادامه یابد"
+        ],
+        "impact": "احتمال کاهش فشار دیپلماتیک آمریکا بر ایران و تغییر مسیر مذاکرات هسته‌ای",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The David Pakman Show on MSN",
+        "url": "https://www.msn.com/en-us/news/other/something-trump-just-said-about-iran-changes-his-entire-argument-my-analysis/vi-AA2bCt2m?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/something-trump-just-said-about-iran-changes-his-entire-argument-my-analysis/vi-AA2bCt2m",
+        "image": "https://www.bing.com/th?id=ONUT.mblp3GwOQCDJnXpVVjG35w",
+        "timestamp": 1788604382.6136203
+    },
+    {
+        "id": "75c371d57a",
+        "title_fa": "نشانه‌های پیش‌آمد شکست احتمالی ترامپ",
+        "title_en": "Les signes avant-coureurs d’une possible défaite pour Donald Trump",
+        "summary": [
+            "نظرسنجی‌ها نشان می‌دهند حمایت‌گذاران ترامپ به سرعت در حال کاهش است",
+            "رقیب اصلی او در حال جذب رای‌های میانسال و زنان می‌شود"
+        ],
+        "impact": "شکست احتمالی ترامپ می‌تواند مسیر سیاست‌های داخلی و خارجی آمریکا را به‌طور اساسی تغییر دهد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "LaNature.ca on MSN",
+        "url": "https://www.msn.com/fr-be/actualite/other/les-signes-avant-coureurs-d-une-possible-défaite-pour-donald-trump/ar-AA2bCmPh?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/fr-be/actualite/other/les-signes-avant-coureurs-d-une-possible-défaite-pour-donald-trump/ar-AA2bCmPh",
+        "image": "https://www.bing.com/th?id=ONUT.JYSxbqmr67pXPT3uvPer2g",
+        "timestamp": 1788604382.6132793
+    },
+    {
         "id": "ff23ebf5d1",
         "title_fa": "رسانه‌ها درباره سقوط ایران اشتباه کردند",
         "title_en": "The Iraq War Cheerleaders Were Wrong. They're Wrong About Iran Too. (opinion)",
@@ -5378,60 +5432,5 @@
         "clean_url": "https://www.msn.com/en-ca/money/economy/august-jobs-report-disappointing-but-too-soon-to-sound-the-alarm-economists/ar-AA2bxCwO",
         "image": "https://www.bing.com/th?id=ONUT.r76roQkt_VwMhWdhueIj1g",
         "timestamp": 1788457132.0
-    },
-    {
-        "id": "80326efd8e",
-        "title_fa": "بسنت می‌گوید اتحادیه اروپا به «عملیات طرد اقتصادی» آمریکا علیه جمهوری اسلامی پیوسته است",
-        "title_en": "بسنت می‌گوید اتحادیه اروپا به «عملیات طرد اقتصادی» آمریکا علیه جمهوری اسلامی پیوسته است",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا اعلام کرد اتحادیه اروپا به «عملیات طرد اقتصادی» علیه حکومت ایران پیوسته است؛ عملیاتی که واشینگتن می‌گوید هدف آن قطع همه مسیرهای باقی‌مانده تامین مالی جمهوری اسلامی است."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609047541",
-        "clean_url": "https://www.iranintl.com/202609047541",
-        "image": "http://www.bing.com/th?id=ONUT.cKiecDrBfmBrWdKgpMEB9Q&pid=News",
-        "timestamp": 1788456660.0
-    },
-    {
-        "id": "099493f73a",
-        "title_fa": "جِی‌دی ونس: چین اقتصاداً ایران را منزوی می‌کند",
-        "title_en": "Iran war live: JD Vance claims China will help isolate Tehran",
-        "summary": [
-            "جِی‌دی ونس گفت چین به‌سرعت در کنار ایالات متحده، تحریم‌های اقتصادی علیه تهران را تقویت می‌کند.",
-            "او تضاد ایران‑آمریکا را «جنگ نیست» نامید؛ در عین حال معاون رئیس‌جمهور ادعا کرد عملیات‌های اصلی حدود شش هفته طول کشید.",
-            "اگر چین هم‌راستا شود، ایران با کمبود نفت، ارز و دسترسی محدود به فناوری‌های پیشرفته مواجه می‌شود."
-        ],
-        "impact": "ایران با فشار اقتصادی چین، به‌سرعت با بحران مالی و تجاری عمیق‌تر روبه‌رو می‌شود.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-live-jd-vance-claims-china-will-help-isolate-tehran/ar-AA2bt9Ke",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-jd-vance-claims-china-will-help-isolate-tehran/ar-AA2bt9Ke",
-        "image": "http://www.bing.com/th?id=ONUT.sNAnD-GtLHIhB8WRSlD43A&pid=News",
-        "timestamp": 1788456590.0
-    },
-    {
-        "id": "1d182a9b6e",
-        "title_fa": "آزادی چهار زندانی لبنانی توسط اسرائیل",
-        "title_en": "Israel frees 4 more Lebanon prisoners in a deal tied to missing Jews from Lebanese civil war",
-        "summary": [
-            "اسرائیل چهار زندانی لبنانی را در ازای یافتن یهودیان گمشدهٔ جنگ داخلی آزاد کرد",
-            "این گام می‌تواند تنش‌های مرزی اسرائیل‑لبنان را کمی کاهش دهد",
-            "با این حال ریشه‌های اختلافات سیاسی و امنیتی همچنان پابرجاست"
-        ],
-        "impact": "آزادسازی فشار دیپلماتیک بر اسرائیل را کم می‌کند",
-        "tag": "دیپلماتیک",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/israel-frees-4-more-lebanon-prisoners-in-a-deal-tied-to-missing-jews-from-lebanese-civil-war/ar-AA2bybQy?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/israel-frees-4-more-lebanon-prisoners-in-a-deal-tied-to-missing-jews-from-lebanese-civil-war/ar-AA2bybQy",
-        "image": "https://www.bing.com/th?id=ONUT.TD3GkLm4MBzAeJG2pGp5mg",
-        "timestamp": 1788455517.0
     }
 ]
