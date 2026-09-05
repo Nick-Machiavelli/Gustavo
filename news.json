@@ -1,5 +1,25 @@
 [
     {
+        "id": "ec37fead46",
+        "title_fa": "جنگ روسیه‑اوکراین و آمریکا‑ایران به آتش‌سوزی می‌رسند",
+        "title_en": "No extinguishers as embers of ongoing wars turn into leaping flames",
+        "summary": [
+            "جبهه روسیه‑اوکراین به مرزهای ناتو نزدیک می‌شود؛ تهدید مستقیم برای امنیت اروپا افزایش می‌یابد",
+            "تجدید تنش‌های آمریکا‑ایران پس از یک ماه سکوت، خطر درگیری نظامی در خاورمیانه را زنده می‌کند",
+            "عدم وجود ابزارهای خاموش‌کننده نشان می‌دهد که هر دو جنگ می‌توانند به‌سرعت گسترش یابند",
+            "استفاده از پهپادها و حملات غیرمتقارن احتمالاً به‌عنوان ابزار اصلی در این مرحله ظاهر می‌شود"
+        ],
+        "impact": "ریسک مستقیم نظامی برای ناتو و ایالات متحده بالا می‌رود؛ احتمال درگیری گسترده منطقه‌ای افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/russia-ukraine-war-us-iran-middle-east-conflict-germany-airport-attack-nato-unites-2985164-2026-09-05",
+        "clean_url": "https://www.indiatoday.in/world/story/russia-ukraine-war-us-iran-middle-east-conflict-germany-airport-attack-nato-unites-2985164-2026-09-05",
+        "image": "https://www.bing.com/th?id=ONUT.H99CzyCxK3pKNM3xlsfohg",
+        "timestamp": 1788574356.6337118
+    },
+    {
         "id": "9e1fb4ad82",
         "title_fa": "کاخ سفید جنگ در ایران را کم اهمیت جلوه می‌دهد زیرا درگیری به مرز 6 ماه می‌رسد",
         "title_en": "White House downplays war in Iran as conflict reaches 6-month mark",
@@ -698,6 +718,25 @@
         "clean_url": "https://blogs.timesofisrael.com/the-mediterranean-answers-back",
         "image": "https://www.bing.com/th?id=ONUT.f3OuEMf7gIMPa3Y_VO2nOg",
         "timestamp": 1788545013.0124464
+    },
+    {
+        "id": "4bdd984b36",
+        "title_fa": "تحریم‌های نفتی ایران دیگر زمان ندارند",
+        "title_en": "Time is no longer on Iran’s side in the battle of the blockades",
+        "summary": [
+            "آمریکا به کشورهای خلیج فارس کمک می‌کند تا نفت خود را از منطقه خارج کنند و در عین حال حمل و نقل نفت ایران را مسدود می‌سازد",
+            "ایران با کاهش شدید صادرات نفتی، فشار مالی و ارزی شدیدی را تجربه خواهد کرد",
+            "این اقدام باعث تقویت موقعیت اقتصادی حامیان آمریکا در خلیج می‌شود و توانایی فشار بر تهران را افزایش می‌دهد"
+        ],
+        "impact": "درآمدهای ارزی ایران به‌طور چشمگیری کاهش می‌یابد و توان مالی برای مقاومت در برابر تحریم‌ها تضعیف می‌شود",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/time-is-no-longer-on-iran-s-side-in-the-battle-of-the-blockades/ar-AA2bAEdY",
+        "clean_url": "https://www.msn.com/en-us/news/other/time-is-no-longer-on-iran-s-side-in-the-battle-of-the-blockades/ar-AA2bAEdY",
+        "image": "http://www.bing.com/th?id=ONUT.r5l5HuDwceLPS3TzUqGstw&pid=News",
+        "timestamp": 1788544800.0
     },
     {
         "id": "10184cd160",
@@ -5381,42 +5420,5 @@
         "clean_url": "https://www.iranintl.com/202609037774",
         "image": "http://www.bing.com/th?id=ONUT.ckghw-3xDkj_RrPxaesbnA&pid=News",
         "timestamp": 1788410640.0
-    },
-    {
-        "id": "1ae5731074",
-        "title_fa": "ترامپ: آماده حمله به ایران در هر لحظه",
-        "title_en": "Iran war live: Trump warns he's 'prepared' to launch attack 'any time'",
-        "summary": [
-            "ترامپ گفت آماده است هر لحظه به ایران حمله جدیدی انجام دهد",
-            "این حرف در حین افزایش تنش‌های نظامی و تبادل آتش بین دو کشور مطرح شد",
-            "سفارت‌های آمریکا هشدارهای امنیتی صادر کرده‌اند",
-            "بیانیه می‌تواند واکنش‌های نظامی دیگر کشورها را برانگیزد"
-        ],
-        "impact": "احتمال شروع عملیات نظامی گسترده در خاورمیانه افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-live-trump-warns-he-s-prepared-to-launch-attack-any-time/ar-AA2bofvW",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-trump-warns-he-s-prepared-to-launch-attack-any-time/ar-AA2bofvW",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bofvQ.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1788410287.0
-    },
-    {
-        "id": "92158534e1",
-        "title_fa": "جنگ ایران تا انتخابات میان دوره ای نوامبر پایان می‌یابد؟ در اینجا چیزی است که معاون رئیس جمهور ایالات متحده JD Vance می‌گوید",
-        "title_en": "Iran war to end by November mid-term elections? Here's what US Vice-President JD Vance says",
-        "summary": [
-            "Asked directly whether the confrontation would be resolved by the midterms, Vance first pushed back on the premise of the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "NDTV Profit on MSN",
-        "url": "https://www.msn.com/en-in/politics/government/iran-war-to-end-by-november-mid-term-elections-here-s-what-us-vice-president-jd-vance-says/ar-AA2bxl4I?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/politics/government/iran-war-to-end-by-november-mid-term-elections-here-s-what-us-vice-president-jd-vance-says/ar-AA2bxl4I",
-        "image": "https://www.bing.com/th?id=ONUT.8JPr1PfT1inBWOmnslD2Fg",
-        "timestamp": 1788408794.0
     }
 ]
