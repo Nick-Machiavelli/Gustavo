@@ -1,5 +1,25 @@
 [
     {
+        "id": "96820eeccf",
+        "title_fa": "شش ماه جنگ ایران‑آمریکا؛ هیچ‌کس برنده نیست",
+        "title_en": "Commentary: At 6 months, there is no clear winner in the Iran war",
+        "summary": [
+            "شش ماه پس از شروع درگیری، نتایج واضحی به دست نیامده.",
+            "ادعاهای پیروزمندی ترامپ با واقعیت میدانی تضاد دارد.",
+            "الگوی تکرار حملات و مذاکرات کوتاه‌مدت همچنان ادامه دارد.",
+            "تنش‌ها و فشار اقتصادی بر ایران به احتمال زیاد ادامه خواهد یافت."
+        ],
+        "impact": "عدم قطعیت برای سیاست خارجی آمریکا و ادامه هزینه‌های نظامی",
+        "tag": "تحلیل",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Yakima Herald",
+        "url": "https://www.yakimaherald.com/opinion/commentary-at-6-months-there-is-no-clear-winner-in-the-iran-war/article_6f2fbcf9-adab-472f-8bdc-80c6d616ab68.html",
+        "clean_url": "https://www.yakimaherald.com/opinion/commentary-at-6-months-there-is-no-clear-winner-in-the-iran-war/article_6f2fbcf9-adab-472f-8bdc-80c6d616ab68.html",
+        "image": "https://www.bing.com/th?id=ONUT.MvbceEStNbFQrKEUtrNZvg",
+        "timestamp": 1788611157.419139
+    },
+    {
         "id": "2c55d09b82",
         "title_fa": "تحلیل ترسناک جِی‌دی ونس در مقاله Raw Story",
         "title_en": "Buried in JD Vance's scary-as-hell rant was a terrifying admission | Opinion",
@@ -514,6 +534,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WbkNmY0Q4VFdoOFVJNnZILXpMQnU4UjFkR1lVdlpHMHJQbkRRZWtzVDJablNWN3lkRFdxRWlMU3BMLVpUd3h1Y0xYRlNkQmM4a2RBb1NJVUNWbEN0SGZnN09R",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788585485.0
+    },
+    {
+        "id": "7d2c6ae22e",
+        "title_fa": "اعلام حمله موشکی آمریکا به تانکر ایرانی در خرم",
+        "title_en": "Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg",
+        "summary": [
+            "رسانه‌های دولتی ایران ادعا کردند موشک‌های آمریکا تانکر نفتی را هدف گرفتند.",
+            "نیروی هوایی آمریکا هنوز تأیید نکرده؛ احتمال اطلاعات نادرست وجود دارد.",
+            "در صورت صحت، فشار نظامی جدید بر خلیج فارس و هزینه‌های حمل‌ونقل نفت می‌شود."
+        ],
+        "impact": "افزایش هزینه‌های حمل‌ونقل نفت و احتمال تحریم‌های جدید",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
+        "clean_url": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
+        "image": "http://www.bing.com/th?id=ONUT.imGNvRJTE9mO1WTIIdLDLg&pid=News",
+        "timestamp": 1788583200.0
     },
     {
         "id": "5f6d7e6064",
@@ -1123,6 +1162,25 @@
         "clean_url": "https://geopoliticalfutures.com/is-russia-escalating-george-friedman-breaks-down-the-threat-podcast",
         "image": "https://www.bing.com/th?id=ONUT.ElvPcqCz7KnDWfKL0EzrNA",
         "timestamp": 1788554125.151224
+    },
+    {
+        "id": "814ab85de9",
+        "title_fa": "سینینورهای کوئینز به مبارزه دیجیتال علیه نفرت می‌پیوندند",
+        "title_en": "Nonprofit trains Queens seniors to be social media keyboard warriors against Jew-hatred",
+        "summary": [
+            "سازمان غیرانتفاعی IMPACT به سالمندان آموزش رسانه‌های دیجیتال می‌دهد.",
+            "هدف مقابله با نفرت‌پراکنی آنلاین و ارتقای آگاهی عمومی است.",
+            "حضور نسل مسن در فضای مجازی می‌تواند صدای جدیدی به مبارزه بدهد."
+        ],
+        "impact": "تقویت مبارزه آنلاین علیه نفرت؛ افزایش مشارکت شهروندان",
+        "tag": "اجتماعی",
+        "urgency": 2,
+        "sentiment": 0.4,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/news/u-s-news/nonprofit-trains-queens-seniors-to-be-social-media-keyboard-warriors-against-jew-hatred",
+        "clean_url": "https://www.jns.org/news/u-s-news/nonprofit-trains-queens-seniors-to-be-social-media-keyboard-warriors-against-jew-hatred",
+        "image": "https://static.jns.org/dims4/default/819c948/2147483647/strip/true/crop/4032x3024+0+0/resize/1440x1080!/format/webp/quality/90/?url=https://k2-prod-jns-prod.s3.us-east-1.amazonaws.com/brightspot/70/95/e76e0f9b4d4a8204a1348e703cc4/img-5345.jpeg",
+        "timestamp": 1788553980.0
     },
     {
         "id": "2ea91dcaf8",
@@ -5392,57 +5450,5 @@
         "clean_url": "https://www.aljazeera.com/tag/donald-trump",
         "image": "https://www.aljazeera.com/images/logo_aje_social.png",
         "timestamp": 1788460920.0
-    },
-    {
-        "id": "a206ae66a8",
-        "title_fa": "تهدید اسرائیل به ضربه‌زدن به انرژی و شهرهای ایرانی",
-        "title_en": "US-Iran war: Israel threatens to strike Iranian energy, civilian sites",
-        "summary": [
-            "وزیر دفاع اسرائیل اعلام کرد هر حمله‌ای از ایران منجر به هدف قرار دادن زیرساخت‌های انرژی و مناطق مسکونی می‌شود",
-            "تهدید مستقیم به سایت‌های غیرنظامی خطر تشدید تنش‌های نظامی در خاورمیانه را افزایش می‌دهد"
-        ],
-        "impact": "احتمال قطع صادرات نفت و گاز ایران و تشدید فشار دیپلماتیک بر خاورمیانه",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "WION on MSN",
-        "url": "https://www.msn.com/en-in/news/other/us-iran-war-israel-threatens-to-strike-iranian-energy-civilian-sites/vi-AA2bzi3Q?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-israel-threatens-to-strike-iranian-energy-civilian-sites/vi-AA2bzi3Q",
-        "image": "https://www.bing.com/th?id=ONUT.72KQyV9sd4w7CcBHHbU2sw",
-        "timestamp": 1788460551.0
-    },
-    {
-        "id": "f43980bac6",
-        "title_fa": "اولین صادرات ارمنستان به آذربایجان سوال بزرگتری را در مورد سود صلح باز می‌کند [تحلیل]",
-        "title_en": "Armenia's first export to Azerbaijan opens bigger question of peace profits [ANALYSIS]",
-        "summary": [
-            "After nearly three decades of conflict, Azerbaijan and Armenia are witnessing developments that would have been difficult to imagine only a few years ago. For some time now, weapons have effectively fallen silent between the two countries,"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/analysis/263348.html",
-        "clean_url": "https://www.azernews.az/analysis/263348.html",
-        "image": "https://www.azernews.az/media/2026/09/03/161d1a53-51a5-407e-a9e4-92572eb213ca.jpg",
-        "timestamp": 1788460200.0
-    },
-    {
-        "id": "6b4c7b0d71",
-        "title_fa": "نرخ وام مسکن به بالاترین سطح خود از ژوئیه 2025 رسیده است. در اینجا معنای آن برای کیف پول شما آمده است",
-        "title_en": "Mortgage rates just hit their highest level since July 2025. Here’s what that means for your wallet",
-        "summary": [
-            "The average rate for a 30-year mortgage rose to 6.71%, according to the latest data drop from Freddie Mac for the week ending Sept. 3. This is the highest the mortgage rate has been since July 2025,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "KCCI 8 News",
-        "url": "https://www.kcci.com/article/mortgage-rates-highest-level/73605510",
-        "clean_url": "https://www.kcci.com/article/mortgage-rates-highest-level/73605510",
-        "image": "https://kubrick.htvapps.com/htv-prod/images/1f88cea2-291c-4fd1-bd43-1c4c9ea3984e.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0913xh&resize=1200%3A*",
-        "timestamp": 1788459837.0
     }
 ]
