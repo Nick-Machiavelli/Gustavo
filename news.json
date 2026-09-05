@@ -1,5 +1,25 @@
 [
     {
+        "id": "9223dcd749",
+        "title_fa": "آیا آمریکا به تاریک‌گاه دموکراسی رسیده؟",
+        "title_en": "Has America entered a democratic Twilight Zone? | Opinion",
+        "summary": [
+            "مقامات و شهروندان آمریکا رفتارهای مخالف حزبی را توجیه می‌کنند که پیشتر محکوم می‌شدند",
+            "مسائل اوکراین، ایران، غزه و مهاجرت به عنوان آزمون‌های اخلاقی برای اصول قانون و کرامت انسانی مطرح شده‌اند",
+            "نویسنده می‌گوید قدرت واقعی کشور نه فقط نظامی یا اقتصادی، بلکه خدمت به مردم است",
+            "اگر این روند ادامه یابد، پایه‌های دموکراسی به‌تدریج فرسوده می‌شود"
+        ],
+        "impact": "اعتماد عمومی به نهادهای دموکراتیک آمریکا کاهش می‌یابد",
+        "tag": "دموکراسی",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/opinion/2026/09/05/has-america-entered-a-democratic-twilight-zone-opinion/91590866007/",
+        "clean_url": "https://www.usatoday.com/story/opinion/2026/09/05/has-america-entered-a-democratic-twilight-zone-opinion/91590866007",
+        "image": "https://www.bing.com/th?id=ONUT.LKLs9gPlt3j3EvX7u70C3A",
+        "timestamp": 1788606178.2028728
+    },
+    {
         "id": "d040489271",
         "title_fa": "سرزنش UnitedHealthcare در اختلاف لی هلث | نظر نامه‌ها",
         "title_en": "Blame UnitedHealthcare in Lee Health dispute | Opinion letters",
@@ -5416,22 +5436,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment",
         "image": "http://www.bing.com/th?id=ONUT.9mC560wltLW0TZsneBiTAw&pid=News",
         "timestamp": 1788457140.0
-    },
-    {
-        "id": "f454b0df3d",
-        "title_fa": "راجر واترز عنوان کنفرانس \"حقیقت\" 11 سپتامبر را در موزه متعلق به نیویورک خواهد داشت",
-        "title_en": "Roger Waters to headline 9/11 'truth' conference at NYC-owned museum",
-        "summary": [
-            "Former Pink Floyd frontman and event organizers have falsely linked Israel to Sept. 11 attack; publicly subsidized El Museo..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel on MSN",
-        "url": "https://www.msn.com/en-us/news/other/roger-waters-to-headline-9-11-truth-conference-at-nyc-owned-museum/ar-AA2bAeuK?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/roger-waters-to-headline-9-11-truth-conference-at-nyc-owned-museum/ar-AA2bAeuK",
-        "image": "https://www.bing.com/th?id=ONUT.1GvfCCrOW7CEVwSHARy8mQ",
-        "timestamp": 1788457132.0
     }
 ]
