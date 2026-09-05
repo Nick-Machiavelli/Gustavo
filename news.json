@@ -17,6 +17,25 @@
         "timestamp": 1788615501.742448
     },
     {
+        "id": "502ce59a0c",
+        "title_fa": "ایران محور حمله به اسرائیل را تقویت می‌کند",
+        "title_en": "Iran rebuilding its axis for attack on Israel, Israeli assessment says",
+        "summary": [
+            "اطلاعات اسرائیلی نشان می‌دهد ایران شبکه‌های نظامی در خاورمیانه را هم‌پوشانی می‌کند",
+            "تقویت موشک‌ها و پهپادهای پیشرفته هدف مستقیم اسرائیل است",
+            "این حرکت می‌تواند تنش‌های نظامی را به سطح جدیدی برساند"
+        ],
+        "impact": "ریسک برخورد نظامی در منطقه به سرعت افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tbjJBU0JLWHMtWjBZOEZGcGVDUHcwZVgzbFlxb3RPZVJYM3Z6S2ttOGhBZDNwT0Vpc2lxRkRGYUd1bWluWFJlNGtoWVQ0aTB0NTBBRDhuT0Fva3ZX?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tbjJBU0JLWHMtWjBZOEZGcGVDUHcwZVgzbFlxb3RPZVJYM3Z6S2ttOGhBZDNwT0Vpc2lxRkRGYUd1bWluWFJlNGtoWVQ0aTB0NTBBRDhuT0Fva3ZX",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788615223.0
+    },
+    {
         "id": "add877aaa7",
         "title_fa": "ترامپ برنامه بزرگ‌تری برای خاورمیانه پس از جنگ ایران",
         "title_en": "Trump working on 'something much bigger' in the Middle East after Iran war",
@@ -2182,6 +2201,25 @@
         "clean_url": "https://inews.co.uk/news/world/trumps-uk-nuclear-claim-latest-rambling-old-man-lost-it-4749378",
         "image": "https://www.bing.com/th?id=ONUT.LnWsh2v6DmG9lohv_RvNLw",
         "timestamp": 1788530609.4332962
+    },
+    {
+        "id": "ef8eb54b03",
+        "title_fa": "تحریم‌های جدید آمریکا علیه ایران و معامله سلاح‌سازی سعودی",
+        "title_en": "US-Israel-Iran war live news: UK warns of 'economic fallout' as US approves $5 billion Saudi arms deal and expands Iran sanctions",
+        "summary": [
+            "افزایش تحریم‌ها فشار اقتصادی بر ایران را تشدید می‌کند",
+            "معامله 5 میلیارد دلاری سلاح با سعودی واکنش شدید بریتانیا را برانگیخت",
+            "قیمت انرژی منطقه بالا می‌رود و هزینه‌های قرض‌گیری افزایش می‌یابد"
+        ],
+        "impact": "ایران با کاهش دسترسی به ارز و افزایش هزینه‌های واردات مواجه می‌شود",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-live-news-uk-warns-of-economic-fallout-as-us-approves-5-billion-saudi-arms-deal-and-expands-iran-sanctions-whats-next/ar-AA2bCKNw?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-live-news-uk-warns-of-economic-fallout-as-us-approves-5-billion-saudi-arms-deal-and-expands-iran-sanctions-whats-next/ar-AA2bCKNw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788530609.0
     },
     {
         "id": "bf5be98c0f",
@@ -4528,6 +4566,24 @@
         "timestamp": 1788490805.0
     },
     {
+        "id": "92170ed1f3",
+        "title_fa": "سخنرانی سفیدخانه درباره شفافیت انتخابات",
+        "title_en": "Election Integrity",
+        "summary": [
+            "ادعای وجود ضعف‌های جدی در ماشین‌های رأی‌گیری الکترونیکی مطرح شد",
+            "انتشار اسناد طبقه‌بندی‌شده نشان می‌دهد اطلاعات قبلی درباره امنیت سیستم‌ها مخفی بوده"
+        ],
+        "impact": "اعتماد عمومی به فرآیندهای انتخابی ممکن است تحت فشار قرار گیرد",
+        "tag": "انتخابات",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The White House",
+        "url": "https://www.whitehouse.gov/election-integrity/",
+        "clean_url": "https://www.whitehouse.gov/election-integrity",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+        "timestamp": 1788490800.0
+    },
+    {
         "id": "163487946d",
         "title_fa": "اتحادیه اروپا به «عملیات طردشده اقتصادی» به رهبری ایالات متحده می‌پیوندد که ایران فریاد می‌زند که ناپاک است",
         "title_en": "European Union joins U.S.-led 'Operation Economic Outcast' as Iran cries foul",
@@ -5401,56 +5457,5 @@
         "clean_url": "https://www.tbsnews.net/thoughts/six-months-trump-struggles-end-war-he-started-1532851",
         "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/03/kphqoojaiblmncbgy55od2j4om_1.png",
         "timestamp": 1788468540.0
-    },
-    {
-        "id": "50f8c415d8",
-        "title_fa": "اسرائیل نسبت به عواقب حمله به این کشور به ایران هشدار داد",
-        "title_en": "Israel warns Iran of consequences of an attack on the country",
-        "summary": [
-            "Israel warns Iran of consequences of an attack on the country NewsNation"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "NewsNation",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdDRGbGJ4VmlGTmM0R0xHMWpaX2RVS2xHa3g1Z1hCODF2WlU4ZDZFbWlERHZzeDkxQlpxWmFUdnFUcF9mOGpwOVhxeE92S1BBSFZ3aVZ5NmZQem5IcUJOZ1FYYUhQU3k2Z0czTTJSUzEwTWxyd2RxVXBibFRyTDZqc01aTzlKVXkzV1BSR0RwXzZ1d9IBlwFBVV95cUxNMjVrNnVXNDBnaWZ1NU1JLUxtRjRBaWc0c2gyQjYwZndqSzhKWllYS2FfZWpNR0hhNGxUYTZBZDlER3ZyV3N6R2VpOHpkaF9uc2dTSFd1VlcyVWxMVXhwa3JHRmZuM1loNzNMR3VSUmFfM1dReEo2VENoVnpqcTg4RFFBY3M3NVFVcEsyb3BMaEJ3VjUybHJN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdDRGbGJ4VmlGTmM0R0xHMWpaX2RVS2xHa3g1Z1hCODF2WlU4ZDZFbWlERHZzeDkxQlpxWmFUdnFUcF9mOGpwOVhxeE92S1BBSFZ3aVZ5NmZQem5IcUJOZ1FYYUhQU3k2Z0czTTJSUzEwTWxyd2RxVXBibFRyTDZqc01aTzlKVXkzV1BSR0RwXzZ1d9IBlwFBVV95cUxNMjVrNnVXNDBnaWZ1NU1JLUxtRjRBaWc0c2gyQjYwZndqSzhKWllYS2FfZWpNR0hhNGxUYTZBZDlER3ZyV3N6R2VpOHpkaF9uc2dTSFd1VlcyVWxMVXhwa3JHRmZuM1loNzNMR3VSUmFfM1dReEo2VENoVnpqcTg4RFFBY3M3NVFVcEsyb3BMaEJ3VjUybHJN",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788467297.0
-    },
-    {
-        "id": "edb742d398",
-        "title_fa": "سازمان های حقوق بشر از کنگره می‌خواهند لایحه ادغام نظامی آمریکا و اسرائیل را لغو کند",
-        "title_en": "Rights organizations demand Congress scrap US-Israel military integration bill",
-        "summary": [
-            "American civil rights and advocacy organizations have issued a blunt demand to Congress: strip a controversial provision from..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Tehran Times",
-        "url": "https://www.tehrantimes.com/news/529673/Rights-organizations-demand-Congress-scrap-US-Israel-military",
-        "clean_url": "https://www.tehrantimes.com/news/529673/Rights-organizations-demand-Congress-scrap-US-Israel-military",
-        "image": "https://www.bing.com/th?id=ONUT.yCZYqN4N5sEBKt13rXjfbA",
-        "timestamp": 1788466368.0
-    },
-    {
-        "id": "60697f0eeb",
-        "title_fa": "خبر بین‌المللی — ترامپ again claims that US may soon hit ایران’s Pickaxe moun",
-        "title_en": "Trump again claims that US may soon hit Iran’s Pickaxe mountain nuclear site",
-        "summary": [
-            "US President Donald Trump again claims that the US may soon hit Iran’s Pickaxe mountain nuclear site. “We may hit Pickaxe Mountain very soon… if there is anything going on with Pickaxe,” Trump tells..."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/trump-again-claims-that-us-may-soon-hit-irans-pickaxe-mountain-nuclear-site/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/trump-again-claims-that-us-may-soon-hit-irans-pickaxe-mountain-nuclear-site",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788465786.0
     }
 ]
