@@ -1,5 +1,24 @@
 [
     {
+        "id": "b0727ac390",
+        "title_fa": "مهاجران سِیوتا دلفین نوزاد را زدند",
+        "title_en": "Migrants spark outrage after video shows baby dolphin beaten during beach celebration",
+        "summary": [
+            "ویدئویی نشان می‌دهد گروهی از مهاجران سِیوتا دلفین نوزاد را از آب بیرون کشیده و با چوب به آن ضربه زدند.",
+            "محلی‌ها با فریاد «نه» سعی کردند دست‌اندرکاران را متوقف کنند؛ در نهایت دلفین به آب بازگردانده شد اما جانش به خطر افتاد.",
+            "حادثه موجی از خشم در شهر ایجاد کرده و فشار برای بررسی رفتار مهاجران و اعمال قوانین حفاظت از حیات‌وحش را افزایش می‌دهد."
+        ],
+        "impact": "احتمال بررسی قانونی و محدودیت‌های ورود مهاجران در سِیوتا افزایش می‌یابد.",
+        "tag": "حیوانات",
+        "urgency": 2,
+        "sentiment": -0.9,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/migrants-spark-outrage-video-shows-baby-dolphin-beaten-beach-celebration",
+        "clean_url": "https://www.foxnews.com/world/migrants-spark-outrage-video-shows-baby-dolphin-beaten-beach-celebration",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Ceuta-migrants-dolphin-001.jpg",
+        "timestamp": 1788566700.0
+    },
+    {
         "id": "ab17fb7a9a",
         "title_fa": "ادعاهای بهبود وضعیت مرز و بازار کار زیر سوال",
         "title_en": "Ideas & Opinions — Paul D. Hauck: Are things really getting better?",
@@ -5390,22 +5409,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-struggling-to-stay-afloat-against-us-economic-pressures-blockade/ar-AA2bwqwl",
         "image": "https://www.bing.com/th?id=ONUT.1YsWKtH-TRzIxDlW68sk8Q",
         "timestamp": 1788392347.0
-    },
-    {
-        "id": "690c9b3b2f",
-        "title_fa": "خبر بین‌المللی — U.S. Department Energy releases employment report showing g",
-        "title_en": "U.S. Department of Energy releases employment report showing growth in power and fuel jobs",
-        "summary": [
-            "The latest U.S. Department of Energy report reveals expanding power and fuel jobs, higher-than-average pay, and rising demand..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "tradersunion",
-        "url": "https://tradersunion.com/news/financial-news/show/3216292-us-energy-employment-growth-report/",
-        "clean_url": "https://tradersunion.com/news/financial-news/show/3216292-us-energy-employment-growth-report",
-        "image": "https://www.bing.com/th?id=ONUT.z5eR7VZwpimtGyl2e6I-hQ",
-        "timestamp": 1788391206.0
     }
 ]
