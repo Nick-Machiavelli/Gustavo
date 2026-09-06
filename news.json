@@ -1762,6 +1762,25 @@
         "timestamp": 1788598553.0
     },
     {
+        "id": "f5b94cc4c0",
+        "title_fa": "دستگیری چندین نفر به‌خاطر پرچم مخالفان ممنوع",
+        "title_en": "Iran arrests multiple people accused of waving flag of outlawed opposition group",
+        "summary": [
+            "این دستگیری‌ها نشان می‌دهد دولت هر نماد مخالفی را به‌سرعت سرکوب می‌کند",
+            "ویدئوی پرچم می‌تواند به‌عنوان نماد مقاومت داخلی شناخته شود و واکنش‌های بین‌المللی را به‌وجود آورد",
+            "اقدام باعث تشدید سرکوب آزادی‌های مدنی و فشار بیشتر بر دیپلماتیک‌های غربی می‌شود"
+        ],
+        "impact": "افزایش فشار بین‌المللی و تضعیف فضای سیاسی داخلی",
+        "tag": "سرکوب",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/iran-arrests-multiple-people-accused-of-waving-flag-of-outlawed-opposition-group/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/iran-arrests-multiple-people-accused-of-waving-flag-of-outlawed-opposition-group",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788596016.0
+    },
+    {
         "id": "5453ec516d",
         "title_fa": "زنده - در حالی که آمریکا خطر تشدید تنش در ایران را می‌بیند، نفتکش در نزدیکی جزیره خارگ مورد اصابت قرار گرفت",
         "title_en": "Live - Tanker hit near Kharg Island as US sees risk of major Iran escalation",
@@ -5477,22 +5496,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/skin-crawling-critics-horrified-trump-090622880.html",
         "image": "https://www.bing.com/th?id=ONUT.FUOyIKD1Cswq_mhJOmPzTQ",
         "timestamp": 1788515435.1323712
-    },
-    {
-        "id": "cbb590773c",
-        "title_fa": "خبر بین‌المللی — Mission Hospital McDowell raises آمریکایی flag به honor vete",
-        "title_en": "Mission Hospital McDowell raises American flag to honor veterans",
-        "summary": [
-            "It was an opportunity to come together as a community and recognize the service and sacrifice of the men and women who have..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The McDowell News",
-        "url": "https://mcdowellnews.com/news/local/article_392b17d5-ddf8-4317-8670-c6b56c5c3e3b.html",
-        "clean_url": "https://mcdowellnews.com/news/local/article_392b17d5-ddf8-4317-8670-c6b56c5c3e3b.html",
-        "image": "https://www.bing.com/th?id=ONUT.58KP5vHhkyNwdZKmSwe-DA",
-        "timestamp": 1788515228.0
     }
 ]
