@@ -1,5 +1,24 @@
 [
     {
+        "id": "ae5d5ed07f",
+        "title_fa": "محور دفاعی جدید میان عربستان، ترکیه و پاکستان در مکه",
+        "title_en": "From the Baghdad Pact to Mecca: Why the New Defense Axis Is More Than a “Sunni NATO”",
+        "summary": [
+            "سه کشور سنی‑اکثریت با امضای توافق‌نامه دفاعی مشترک، تعهد به دفاع متقابل در برابر هر حمله‌ای را اعلام کردند.",
+            "این پیمان، اولین ائتلاف نظامی سنی‑محور با قابلیت جمع‌آوری توان هسته‌ای، انرژی و نیروی نظامی است.",
+            "ایجاد چنین محوری می‌تواند تعادل قدرت در خاورمیانه را به نفع ایران و اسرائیل به‌سختی تغییر دهد."
+        ],
+        "impact": "تقویت توان نظامی سنی‌ها و فشار بر ایران و اسرائیل، احتمال افزایش حضور نظامی در منطقه.",
+        "tag": "دفاع",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Washington Report on Middle East Affairs",
+        "url": "https://www.wrmea.org/other/from-the-baghdad-pact-to-mecca-why-the-new-defense-axis-is-more-than-a-sunni-nato.html",
+        "clean_url": "https://www.wrmea.org/other/from-the-baghdad-pact-to-mecca-why-the-new-defense-axis-is-more-than-a-sunni-nato.html",
+        "image": "https://www.wrmea.org/images/2026/08/30/views01x730.jpg",
+        "timestamp": 1788693107.5651724
+    },
+    {
         "id": "d33948890a",
         "title_fa": "سخنرانی کاکس و تیراندازی به ترامپ",
         "title_en": "Excerpt from Spencer Cox’s ‘Off Ramp’: Stopping the spiral of retribution",
@@ -175,6 +194,25 @@
         "clean_url": "https://www.businesstoday.in/world/story/next-big-war-israel-says-iran-planning-multi-front-attack-with-hezbollah-hamas-houthis-553500-2026-09-06",
         "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6a9d31f71cfa2-hezbollah--hamas--houthis-in-joint-drill-with-iran-for-simultaneous-strike-062713751-16x9.jpg",
         "timestamp": 1788688560.0
+    },
+    {
+        "id": "3c976d0084",
+        "title_fa": "تهدید تلافی دردناک ایران پس از حمله به تانکرهای نفتی",
+        "title_en": "Iran threatens \"more painful\" retaliation after U.S. strikes Iranian oil tankers",
+        "summary": [
+            "ایران پس از غیرفعال‌سازی سه تانکر توسط نیروی‌دریایی آمریکا، واکنش تندتر و شدیدتری را وعده داد.",
+            "گفتار نماینده مجلس نشان‌دهنده احتمال استفاده از موشک‌های بالستیک یا حملات نیابتی علیه ناوگان آمریکایی است.",
+            "افزایش تنش می‌تواند فشار بر کشتی‌های تجاری در خلیج فارس را بالا برده و مسیرهای انرژی را مختل کند."
+        ],
+        "impact": "ممکن است تنش‌های خلیج فارس به درگیری گسترده‌تر تبدیل شود و مسیرهای نفتی خطرناک شوند.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html?bcmt=1",
+        "clean_url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/c08cd2c4a3041391bf8fa99badc99ac939b3fc2ebfa126f437895121017c4634/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/f01e9dfb73ab05e949937e4779eaa2df.jpg",
+        "timestamp": 1788687960.0
     },
     {
         "id": "cf8ee6bed4",
@@ -5451,39 +5489,5 @@
         "clean_url": "https://www.msn.com/en-ie/news/other/milei-is-using-falkands-to-exploit-trump-chaos-the-uk-can-do-nothing/ar-AA2byFyS",
         "image": "https://www.bing.com/th?id=ONUT.kRlEA5PAbypiw5TPO6m2ug",
         "timestamp": 1788527020.7882216
-    },
-    {
-        "id": "6522f3f497",
-        "title_fa": "اسماعیل لاگاردین | دشمن قریب الوقوع بی پروایی و حماقت تهدیدات تحریمی بسنت",
-        "title_en": "ISMAIL LAGARDIEN | The imminent nemesis of recklessness and folly of Bessent’s threats of sanctions",
-        "summary": [
-            "History carries important lessons. When the florin approached its end in the early 16th century, Florence became a hotbed of..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Sasfin Bank",
-        "url": "https://www.businessday.co.za/opinion/2026-09-04-ismail-lagardien-the-imminent-nemesis-of-recklessness-and-folly-of-bessents-threats-of-sanctions/",
-        "clean_url": "https://www.businessday.co.za/opinion/2026-09-04-ismail-lagardien-the-imminent-nemesis-of-recklessness-and-folly-of-bessents-threats-of-sanctions",
-        "image": "https://www.bing.com/th?id=ONUT.FqN_QB2qIwk1UCUTiLADnw",
-        "timestamp": 1788526550.324192
-    },
-    {
-        "id": "573a51faba",
-        "title_fa": "ترامپ تحقیر شد زیرا جنگ او سوخت کلیدی را به رکورد بالایی می‌رساند",
-        "title_en": "Trump humiliated as his war pushes key fuel to record high",
-        "summary": [
-            "The average price of diesel has surged to a new record, spiking to $5.85 per gallon and creating a major issue for Donald..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Daily Beast on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/trump-humiliated-as-his-war-pushes-key-fuel-to-record-high/ar-AA2bzlEP?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/trump-humiliated-as-his-war-pushes-key-fuel-to-record-high/ar-AA2bzlEP",
-        "image": "https://www.bing.com/th?id=ONUT.FZxlfLWA7hbBzf_QRvCwBQ",
-        "timestamp": 1788526550.323295
     }
 ]
