@@ -1,5 +1,23 @@
 [
     {
+        "id": "88fcb777e3",
+        "title_fa": "ترامپ در برابر رئیس‌جمهور خجالت‌زده شد",
+        "title_en": "This bumbling Trump buffoon just humiliated his boss in front of the entire world | Opinion",
+        "summary": [
+            "نویسنده با طنز می‌گوید ترامپ در یک رخداد عمومی سر رئیس‌جمهور را خجالت‌زده کرد.",
+            "این روایت نشان می‌دهد که حتی شخصیت‌های پیشین آمریکا هنوز در عرصه رسانه‌ای به‌دست‌نشانده‌اند."
+        ],
+        "impact": "تقویت تصویر منفی ترامپ در افکار عمومی جهانی.",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "Raw Story on MSN",
+        "url": "https://www.msn.com/en-us/news/other/this-bumbling-trump-buffoon-just-humiliated-his-boss-in-front-of-the-entire-world-opinion/ar-AA2bG6uN?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/this-bumbling-trump-buffoon-just-humiliated-his-boss-in-front-of-the-entire-world-opinion/ar-AA2bG6uN",
+        "image": "https://www.bing.com/th?id=ONUT.FnHsT_Bz7L8v-58CUGYSLw",
+        "timestamp": 1788700910.249418
+    },
+    {
         "id": "64b2f153b0",
         "title_fa": "جنگ ایران: هزینه صلح در برابر جنگ",
         "title_en": "The Iran War: Between the Costs of Peace and War",
@@ -474,6 +492,24 @@
         "timestamp": 1788686559.7927496
     },
     {
+        "id": "0f86701e05",
+        "title_fa": "امریکا رد ادعای حمله به کشتی بدون سرنشین",
+        "title_en": "US denies Iran's claim to have struck an unmanned ship, and other Mideast news",
+        "summary": [
+            "سخنگوی فرماندهی مرکزی آمریکا ادعا کرد گزارش ایران درباره ضربه به کشتی بی‌سرنشین کلّاً نادرست است.",
+            "این رد ادعا در حالی است که دو طرف هفته گذشته به تبادل آتش در هرمز ادامه دادند."
+        ],
+        "impact": "کاهش احتمال تشدید تنش‌های نظامی در کوتاه‌مدت، اما عدم اعتماد متقابل باقی می‌ماند.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Associated Press · via Yahoo News",
+        "url": "https://www.yahoo.com/news/world/articles/iran-says-hit-us-ship-093513422.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-says-hit-us-ship-093513422.html",
+        "image": "https://media.zenfs.com/en/ap.org/e4eaed737497ffc83b4332f704ad7959.jpg",
+        "timestamp": 1788686505.0
+    },
+    {
         "id": "1feece45dc",
         "title_fa": "حملات ایران تنگه هرمز را در بن بست کشنده نگه می‌دارد",
         "title_en": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate",
@@ -850,6 +886,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWTNoSlZEbU95SVVIek1DX2ctNlFicEl6V0ZQdXpwWXR4Zmp2RDl1NGhOSldRR0lWMGEtS3NXenNUSTlGVEtGOUJlWVJDd0g4Y2I5STE3bDR1NDI4Y0w2d2ltTzZ6VUdiWk5FRk5tN250WUJBaDZKY3I4bUZLSUlCZjVHWS1KdHpsOHZvX3pfNF9wZzlPem8xMHo2Y3Q",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788674128.0
+    },
+    {
+        "id": "4754cd15f9",
+        "title_fa": "تهدید ایران به پاسخ قوی‌تر در خلیج هرمز",
+        "title_en": "Iran Threatens Greater Force If US Launches More Attacks",
+        "summary": [
+            "سخنران مجلس ایران گفت هر حمله‌ای به منافعش با واکنش سریع‌تر و دردناک‌تر جواب داده می‌شود.",
+            "ایران همچنان کنترل استراتژیک هرمز را حفظ کرده و می‌خواهد فشار آمریکا را با تهدید نظامی تقویت کند."
+        ],
+        "impact": "افزایش خطر برخورد مستقیم نیرویی در مسیر حمل‌ونقل نفت جهانی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Channels Television",
+        "url": "https://www.channelstv.com/2026/09/06/iran-threatens-greater-force-if-us-launches-more-attacks/",
+        "clean_url": "https://www.channelstv.com/2026/09/06/iran-threatens-greater-force-if-us-launches-more-attacks",
+        "image": "http://www.bing.com/th?id=ONUT.s9EnBbKTmQ6IPxHHMu47lw&pid=News",
+        "timestamp": 1788673800.0
     },
     {
         "id": "5b03d005c0",
@@ -5433,61 +5487,5 @@
         "clean_url": "https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues",
         "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/tunnel-nepal-1.1.png",
         "timestamp": 1788530580.0
-    },
-    {
-        "id": "c61bc5e5be",
-        "title_fa": "خبر بین‌المللی — ایران down به 2 months fuel supply as brutal US تحریم‌ها ta",
-        "title_en": "Iran down to 2 months of fuel supply as brutal US sanctions take their toll",
-        "summary": [
-            "Iran is facing a potential economic disaster as the besieged Islamic Republic’s fuel reserves have dwindled to a paltry two-month supply, following months of punishing US bombing campaigns and a fresh..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/money/general/iran-down-to-2-months-of-fuel-supply-as-brutal-us-sanctions-take-their-toll/ar-AA2bB83b",
-        "clean_url": "https://www.msn.com/en-us/money/general/iran-down-to-2-months-of-fuel-supply-as-brutal-us-sanctions-take-their-toll/ar-AA2bB83b",
-        "image": "http://www.bing.com/th?id=ONUT.RuV1njQuOcvAers8XJyXzg&pid=News",
-        "timestamp": 1788530453.0
-    },
-    {
-        "id": "e565aea708",
-        "title_fa": "آمریکا مسیر مالی ایران به ترکیه را می‌بندد",
-        "title_en": "Exclusive | US severs Iran’s financial lifeline to NATO ally Turkey with bank sanctions: ‘Find out the hard way’",
-        "summary": [
-            "ایالات متحده تحریم‌های بانکی جدیدی علیه ترکیه اعمال کرد تا انتقال مالی ایران به ترکیه متوقف شود",
-            "این اقدام پیام واضحی به ترکیه برای قطع همکاری‌های مالی با ایران است",
-            "ترکیه ممکن است به‌سرعت راه‌های جایگزین برای تجارت با ایران پیدا کند",
-            "تحریم‌ها فشار اقتصادی بر ایران و ترکیه را افزاش می‌دهد"
-        ],
-        "impact": "تشدید فشار اقتصادی بر ترکیه و ایران، احتمال کاهش تجارت انرژی",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "New York Post",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHJNV1dhTGpWSDUybEtxSHpfVHpkY28yWnVtX09lSWF1UG02cmk0a2k2bHpmOExFTzVRTFNzd285Y3pMSVg5MnVXeS02R01lOEJWZmhCQlRTQ0NxUXc1ZERMeGZFYWFjOUFvMWxCSGhQV1JLemFEMjJvczBwOTd5emJoVjEtZGliT1VoVzcwTnpsRkN5X0ZXXzNnNGNWendUMDcyM2NNVG5RVzFJRzJlRXdBeXQ0Tlpib1FYR2NjcG9HankwVHFrNEY5TkNRU2VPS0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHJNV1dhTGpWSDUybEtxSHpfVHpkY28yWnVtX09lSWF1UG02cmk0a2k2bHpmOExFTzVRTFNzd285Y3pMSVg5MnVXeS02R01lOEJWZmhCQlRTQ0NxUXc1ZERMeGZFYWFjOUFvMWxCSGhQV1JLemFEMjJvczBwOTd5emJoVjEtZGliT1VoVzcwTnpsRkN5X0ZXXzNnNGNWendUMDcyM2NNVG5RVzFJRzJlRXdBeXQ0Tlpib1FYR2NjcG9HankwVHFrNEY5TkNRU2VPS0E",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788530400.0
-    },
-    {
-        "id": "c3a1e172b6",
-        "title_fa": "دولت‌های غربی ایران را به شورای امنیت می‌فرستند",
-        "title_en": "US and E3 push to report Iran to UN Security Council at upcoming IAEA meeting",
-        "summary": [
-            "ایالات متحده، فرانسه، آلمان و بریتانیا در جلسه هیئت حاکمان آژانس بین‌المللی انرژی اتمی قطعنامه‌ای برای ارجاع ایران به شورای امنیت آماده می‌کنند",
-            "موضوع اصلی 440 کیلوگرم اورانیوم غنی‌شده به 60٪ است که بازرسین نتوانسته‌اند تأیید کنند",
-            "اگر قطعنامه تصویب شود، فشار دیپلماتیک و احتمال تحریم‌های جدید علیه تهران افزایش می‌یابد"
-        ],
-        "impact": "ایران ممکن است با تحریم‌های سخت‌گیرانه‌تری مواجه شود",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-e3-iran-iaea-un-security-council/",
-        "clean_url": "https://cryptobriefing.com/us-e3-iran-iaea-un-security-council",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/04095253/library-us-and-e3-push-to-report-iran-to-un-security-council-at--800x450.png",
-        "timestamp": 1788529920.0
     }
 ]
