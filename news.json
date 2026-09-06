@@ -1,5 +1,24 @@
 [
     {
+        "id": "5783be849b",
+        "title_fa": "سرود تجلیل از کارگران گِرمی‌تیا",
+        "title_en": "We Are Girmitiyas — From India To The World: A Tribute to the Indentured Labourers and Their Generations",
+        "summary": [
+            "آهنگی احساسی به کارگران گِرمی‌تیا که از هند به سراسر جهان رفتند، تقدیم می‌کند.",
+            "متن به سختی‌ها، جدایی و سپس موفقیت نسل‌های بعدی در کشورهای مختلف اشاره دارد.",
+            "تاکید بر نقش این مهاجران در شکل‌گیری جوامع معاصر از معلم تا دیپلمات دارد."
+        ],
+        "impact": "افزایش شناخت تاریخی کارگران گِرمی‌تیا و تقویت هویت فرهنگی دیاسپورای ایشان",
+        "tag": "فرهنگی",
+        "urgency": 1,
+        "sentiment": 0.2,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/opinion/india/we-are-girmitiyas-from-india-to-the-world-a-tribute-to-the-indentured-labourers-and-their-generations-article-156099554",
+        "clean_url": "https://www.timesnownews.com/opinion/india/we-are-girmitiyas-from-india-to-the-world-a-tribute-to-the-indentured-labourers-and-their-generations-article-156099554",
+        "image": "https://www.bing.com/th?id=ONUT.FBbERthL6Zu9jKmAmhELqQ",
+        "timestamp": 1788732706.2307093
+    },
+    {
         "id": "8096c8a107",
         "title_fa": "بحران طولانی رهایی روهینگی‌ها در بنگلادش",
         "title_en": "Protracted Rohingya Crisis: Challenges And Realities Of Repatriation – OpEd",
@@ -1201,6 +1220,25 @@
         "clean_url": "https://www.hindustantimes.com/world-news/javier-milei-s-outburst-over-the-falklands-is-a-mark-of-weakness-101788660249525.html",
         "image": "https://www.hindustantimes.com/ht-img/img/2026/09/06/1600x900/logo/ARGENTINA_1788660459796_43b05a94-6299-4c26-a003-ac19f89af687_1788660460042_76de16c7-d169-4ecc-8932-d36cb6eb5188_3cda7aa6-0cba-498a-9f11-3a588f30dd11_b684b832-81ac-40d2-a821-944fcaddf9de.JPG",
         "timestamp": 1788687292.7903411
+    },
+    {
+        "id": "77f8358d7b",
+        "title_fa": "اخبار ورزشی آمریکا: اوپن 2026 و لیگ NFL",
+        "title_en": "US latest news",
+        "summary": [
+            "در اوپن 2026، مدوِدِف مقابل تیافوی و آلکاراز بر پل اوپین پیروز شد.",
+            "سابالِنکا و نوسکووا در روز هشتم مسابقات فدراسیون بین‌المللی بسکتبال پیروز شدند.",
+            "رُجر گودِل، پس از تمدید قرارداد، ۲۴ سال ریاست لیگ NFL را ادامه می‌دهد."
+        ],
+        "impact": "جذب مخاطب جهانی به مسابقات تنیس و فوتبال آمریکا و تثبیت حضور رسانه‌ای",
+        "tag": "ورزشی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1788686580.0
     },
     {
         "id": "9048b9deac",
@@ -5445,42 +5483,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-uk-france-germany-draft-un-resolution-to-refer-iran-over-nuclear-breaches/ar-AA2bAJhD",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bAtfj.img?w=1280&h=720&m=4&q=70",
         "timestamp": 1788565892.0
-    },
-    {
-        "id": "ab17fb7a9a",
-        "title_fa": "ادعاهای بهبود وضعیت مرز و بازار کار زیر سوال",
-        "title_en": "Ideas & Opinions — Paul D. Hauck: Are things really getting better?",
-        "summary": [
-            "نویسنده می‌گوید مرز تقریباً بسته است اما آمار نشان می‌دهد بیش از دو‑سوم بازداشت‌ها بدون سابقه کیفری بوده",
-            "آمار ICE نشان می‌دهد تنها ۱۷٪ بازداشت‌شدگان پیشینه جنایی داشته‌اند",
-            "آمار شغلی نشان می‌دهد تعداد کل مشاغل از ۱۳۵٫۹ میلیون در آغاز دوره ترامپ به ۱۳۳٫۵۵ میلیون در ژوئیه ۲۰۲۶ کاهش یافته",
-            "ادعاهای بهبود بازار کار بدون شواهد قوی باقی می‌مانند"
-        ],
-        "impact": "تصویر نادرست از بهبود مهاجرت و اشتغال می‌تواند سیاست‌گذاران و رأی‌دهندگان را گمراه کند",
-        "tag": "مهاجرت",
-        "urgency": 2,
-        "sentiment": -0.5,
-        "source": "The Union",
-        "url": "https://www.theunion.com/news/community/ideas-opinions-paul-d-hauck-are-things-really-getting-better/article_f121b9c4-f05e-4dc9-a6a6-dad7f05b23e4.html",
-        "clean_url": "https://www.theunion.com/news/community/ideas-opinions-paul-d-hauck-are-things-really-getting-better/article_f121b9c4-f05e-4dc9-a6a6-dad7f05b23e4.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/theunion.com/content/tncms/custom/image/895f2392-650d-11ed-9099-fb46053bbb4c.png?resize=600%2C315",
-        "timestamp": 1788565633.072178
-    },
-    {
-        "id": "5b0f92bb7c",
-        "title_fa": "خبر بین‌المللی — ایران Faces UN Security Council Referral Over هسته‌ای Stando",
-        "title_en": "Iran Faces UN Security Council Referral Over Nuclear Standoff",
-        "summary": [
-            "Western powers seek UN Security Council referral for Iran over nuclear concerns. Learn how this geopolitical tension impacts global oil prices and investors."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "whalesbook",
-        "url": "https://www.whalesbook.com/news/English/world-affairs/Iran-Faces-UN-Security-Council-Referral-Over-Nuclear-Standoff/6a9b527a40007e01b83a08fe",
-        "clean_url": "https://www.whalesbook.com/news/English/world-affairs/Iran-Faces-UN-Security-Council-Referral-Over-Nuclear-Standoff/6a9b527a40007e01b83a08fe",
-        "image": "https://images.whalesbook.com/images/images/mtnkzkcxc392.jpeg",
-        "timestamp": 1788564060.0
     }
 ]
