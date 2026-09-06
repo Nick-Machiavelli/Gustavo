@@ -1,5 +1,24 @@
 [
     {
+        "id": "0570f646bf",
+        "title_fa": "ایران میلیاردها دلار را از طریق بانک‌های آمریکا می‌فرستد",
+        "title_en": "Despite sanctions, Iran funnels billions through US banks",
+        "summary": [
+            "ایران با استفاده از شرکت‌های پوششی، میلیاردها دلار را به حساب‌های آمریکایی می‌برد.",
+            "این جریان مالی تحریم‌های آمریکا را دور می‌زند و به تأمین هزینه‌های سپاه کمک می‌کند.",
+            "آژانس‌های نظارتی آمریکا ممکن است نظارت سخت‌تری روی تراکنش‌های بین‌المللی اعمال کنند."
+        ],
+        "impact": "دسترس به منابع مالی برای ایران افزایش می‌یابد؛ فشار اقتصادی آمریکا تضعیف می‌شود.",
+        "tag": "مالی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "israelhayom.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWTNoSlZEbU95SVVIek1DX2ctNlFicEl6V0ZQdXpwWXR4Zmp2RDl1NGhOSldRR0lWMGEtS3NXenNUSTlGVEtGOUJlWVJDd0g4Y2I5STE3bDR1NDI4Y0w2d2ltTzZ6VUdiWk5FRk5tN250WUJBaDZKY3I4bUZLSUlCZjVHWS1KdHpsOHZvX3pfNF9wZzlPem8xMHo2Y3Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWTNoSlZEbU95SVVIek1DX2ctNlFicEl6V0ZQdXpwWXR4Zmp2RDl1NGhOSldRR0lWMGEtS3NXenNUSTlGVEtGOUJlWVJDd0g4Y2I5STE3bDR1NDI4Y0w2d2ltTzZ6VUdiWk5FRk5tN250WUJBaDZKY3I4bUZLSUlCZjVHWS1KdHpsOHZvX3pfNF9wZzlPem8xMHo2Y3Q",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788674128.0
+    },
+    {
         "id": "6b4b97c149",
         "title_fa": "ایران: ناوهای آمریکایی پس از حمله موشکی فرار کردند",
         "title_en": "Iran Says US Warships Forced to Flee after Ballistic Missile Attack",
@@ -298,6 +317,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788648247.0
+    },
+    {
+        "id": "093964f4f6",
+        "title_fa": "آمریکا تانکرهای ایران را پس از حمله موشکی نابود کرد",
+        "title_en": "US military says it destroyed 3 Iranian oil tankers after missile attacks",
+        "summary": [
+            "سه تانکر نفتی ایران در خلیج فارس توسط نیروی هوایی ایالات متحده هدف قرار گرفت.",
+            "موشک‌های سپاه پاسداران به کشتی‌های جنگی آمریکا برخورد نکردند؛ ناوبری نیروی دریایی ایالات متحده ثابت شد.",
+            "این عملیات به شبکه مالی سایه‌ای سپاه ضربه می‌زند و توان مالی آن را کاهش می‌دهد."
+        ],
+        "impact": "کاهش توان مالی سپاه؛ تنش نظامی بین آمریکا و ایران تشدید می‌شود.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "AzerNews",
+        "url": "https://www.azernews.az/region/263449.html",
+        "clean_url": "https://www.azernews.az/region/263449.html",
+        "image": "https://www.azernews.az/media/2026/09/05/thumbs_b_c_4b9bd8bca9fcaa61848b270d0cd586f8.jpg",
+        "timestamp": 1788648000.0
     },
     {
         "id": "c20b5139e2",
@@ -5454,42 +5492,5 @@
         "clean_url": "https://www.politico.com/news/2026/09/04/iran-escalation-us-midterms-01065126",
         "image": "http://www.bing.com/th?id=ONUT.9mjeVSwaL8Xp2DBLVJbQEw&pid=News",
         "timestamp": 1788512520.0
-    },
-    {
-        "id": "5853ad3de6",
-        "title_fa": "\"ما در بن بست هستیم\": درگیری آمریکا و ایران بدون پایان قابل مشاهده است",
-        "title_en": "‘We are stalled’: US-Iran conflict stuck with no end in sight",
-        "summary": [
-            "‘We are stalled’: US-Iran conflict stuck with no end in sight Jefferson City News Tribune"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Jefferson City News Tribune",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUJyUWZYUExaZHNRbTNZTFFBTW1pdXp4N2xmQUVSc2hKd0dHdzV1bDJXZzZLbjE3cXBKZ2FvTWxRb0xFb2pIZTNucFZqQ1VGNzY1Qk5fUHBlcU4xYk1VZ3lJZjJIenh3d2ZmWVUxcmNHNEc5aUlsUUFTcmlySTRzRno3eFF1VnYyMTlCSWV1cEd3Y1VReHRnUC1CZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUJyUWZYUExaZHNRbTNZTFFBTW1pdXp4N2xmQUVSc2hKd0dHdzV1bDJXZzZLbjE3cXBKZ2FvTWxRb0xFb2pIZTNucFZqQ1VGNzY1Qk5fUHBlcU4xYk1VZ3lJZjJIenh3d2ZmWVUxcmNHNEc5aUlsUUFTcmlySTRzRno3eFF1VnYyMTlCSWV1cEd3Y1VReHRnUC1CZw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788512400.0
-    },
-    {
-        "id": "59e10accff",
-        "title_fa": "آی‌دی‌اف در غزه و کرانه‌غربی عملیات گسترده",
-        "title_en": "Live Updates: IDF kills Hamas terrorist in Gaza, raids West Bank terror infrastructure",
-        "summary": [
-            "نیروهای زمینی اسرائیل یک تروریست حماس را در غزه کشته و زیرساخت‌های تروریستی در کرانه‌غربی را هدف قرار دادند.",
-            "در شهر قدیمی اورشلیم یک حمله تروریستی خنثی شد؛ در لبنان، تونل‌های حزب‌الله در مرتفع علی‌الطاهر پاکسازی شد.",
-            "سخنگوی ارتش اعلام کرد در ساعات آینده حملات هوایی به لبنان انجام خواهد شد.",
-            "صدای انفجارها در گالilee شمالی، دره هوولا و احتمالا در ارتفاعات گولان شمالی شنیده شد."
-        ],
-        "impact": "کاهش موقت توانایی حماس و فشار بیشتر بر گروه‌های تروریستی منطقه",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": 0.3,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-04/live-updates-907568",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-04/live-updates-907568",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/707445",
-        "timestamp": 1788512280.0
     }
 ]
