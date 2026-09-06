@@ -1,5 +1,22 @@
 [
     {
+        "id": "e5e51430a9",
+        "title_fa": "مشکل اعتدال چیست؟",
+        "title_en": "What’s the Matter With Moderation?",
+        "summary": [
+            "Hoping to break a 94-year losing streak, Kansas Democrats have turned to Adam Hamilton, a Methodist pastor whose mood may not match his party’s."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/ideas/2026/09/adam-hamilton-kansas-senate-race/688531/",
+        "clean_url": "https://www.theatlantic.com/ideas/2026/09/adam-hamilton-kansas-senate-race/688531",
+        "image": "https://cdn.theatlantic.com/thumbor/KOuTxj-sROFjkzCIinMzWmDKZ4w=/0x61:2876x1559/1200x625/media/img/mt/2026/09/2026_08_09_AdamHamilton/original.jpg",
+        "timestamp": 1788696953.7150507
+    },
+    {
         "id": "6ef5d3138a",
         "title_fa": "عمان و معامله مخفی در تنگه هرمز",
         "title_en": "Oman played both sides — until it didn’t. How a secret shipping deal ignited the Strait of Hormuz",
@@ -811,6 +828,23 @@
         "clean_url": "https://english.aawsat.com/arab-world/5315173-hezbollah-throws-blame-lebanese-state-israeli-escalation",
         "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1759337_0.jpeg.webp?VersionId=W5d1_V55PSdxlI6psTe8UwBivnNFYCn8",
         "timestamp": 1788672900.0
+    },
+    {
+        "id": "de2fde6bc8",
+        "title_fa": "ایران نسبت به پاسخ \"دردناک تر\" به حملات ایالات متحده با افزایش فشار اقتصادی هشدار می‌دهد",
+        "title_en": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
+        "summary": [
+            "Iranian parliament speaker Mohammad Bagher Ghalibaf warned that future attacks on Iran would receive a “faster, heavier, and more painful” response. U.S. Central Command said American forces struck..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+        "clean_url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108359320-1788693543339-gettyimages-2292604250-AFP_C74Y6WE.jpeg?v=1788695254&w=1920&h=1080",
+        "timestamp": 1788670920.0
     },
     {
         "id": "6b4b97c149",
@@ -2053,6 +2087,23 @@
         "clean_url": "https://www.yakimaherald.com/opinion/commentary-at-6-months-there-is-no-clear-winner-in-the-iran-war/article_6f2fbcf9-adab-472f-8bdc-80c6d616ab68.html",
         "image": "https://www.bing.com/th?id=ONUT.MvbceEStNbFQrKEUtrNZvg",
         "timestamp": 1788611157.419139
+    },
+    {
+        "id": "2e9c5212e4",
+        "title_fa": "نتانیاهو قطر را «دولت متخاصم» می‌خواند که دوحه علیه ایران عقب‌نشینی می‌کند",
+        "title_en": "Netanyahu calls Qatar 'hostile state' as Doha pushes back against Iran",
+        "summary": [
+            "Netanyahu defended Israel’s 2025 strike on Doha and called Qatar a “hostile state,\" while Qatar separately accused Iran of..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-gb/politics/government/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran/ar-AA2bF0tK?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/politics/government/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran/ar-AA2bF0tK",
+        "image": "https://www.bing.com/th?id=ONUT.HKK-6jctqXRlrJhMoR55sA",
+        "timestamp": 1788610547.0
     },
     {
         "id": "57837dbe30",
@@ -5430,58 +5481,5 @@
         "clean_url": "https://www.newarab.com/news/senior-us-military-staff-subjected-polygraphs-over-iran-leaks",
         "image": "https://www.bing.com/th?id=ONUT.d4r3UXvoy44ahQ7sXo6y_w",
         "timestamp": 1788529638.0
-    },
-    {
-        "id": "c4255aec5c",
-        "title_fa": "پیمان دفاعی عربستان‑ترکیه‑پاکستان؛ تهدید یا فرصت برای ایران",
-        "title_en": "The Mecca Pact: Threat to Iran or an Opportunity to Reshape Regional Security?",
-        "summary": [
-            "سه کشور پیمان دفاعی امضا کردند؛ حمله به یکی، حمله به همه محسوب می‌شود.",
-            "ایران به‌دلیل رقابت تاریخی با عربستان، این توافق را تهدیدی می‌بیند.",
-            "پیمان هنوز در مرحله اولیه است و نقش واقعی‌اش در منطقه نامشخص است."
-        ],
-        "impact": "ایران ممکن است فشار نظامی و دیپلماتیک جدیدی را تجربه کند",
-        "tag": "پیمان",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "Middle East Monitor",
-        "url": "https://www.middleeastmonitor.com/20260904-the-mecca-pact-threat-to-iran-or-an-opportunity-to-reshape-regional-security/",
-        "clean_url": "https://www.middleeastmonitor.com/20260904-the-mecca-pact-threat-to-iran-or-an-opportunity-to-reshape-regional-security",
-        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/08/AA-20260807-42161786-42161785-TURKIYE_SAUDI_ARABIA_AND_PAKISTAN_SIGN_TRILATERAL_DEFENSE_PACT.jpg?fit=920%2C613&ssl=1",
-        "timestamp": 1788529323.666189
-    },
-    {
-        "id": "b2e156a6a9",
-        "title_fa": "JD Vance Reaches برای پوتین’s Playbook در ایران (Not a) جنگ",
-        "title_en": "JD Vance Reaches for Putin’s Playbook on the Iran (Not a) War",
-        "summary": [
-            "JD Vance told reporters he wouldn't call the conflict in Iran a war. Putin said much the same thing when he invaded Ukraine."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/jd-vance-putin-playbook-iran-war-12404954",
-        "clean_url": "https://www.newsweek.com/jd-vance-putin-playbook-iran-war-12404954",
-        "image": "https://www.bing.com/th?id=ONUT.sp33j_Nc4GzSgJCX_FUQpA",
-        "timestamp": 1788528997.9821594
-    },
-    {
-        "id": "95d51b6691",
-        "title_fa": "ایجاد مناطق کشتار هستهای؛ رقیب نتانیاهو در انتخابات اسرائیل چه برنامهای برای ایران دارد؟",
-        "title_en": "ایجاد مناطق کشتار هستهای؛ رقیب نتانیاهو در انتخابات اسرائیل چه برنامهای برای ایران دارد؟",
-        "summary": [
-            "روزنامه اسرائیلی جروزالم پست در گزارشی اختصاصی مدعی شده که به راهکارهای متفاوت آیزنکوت برای مدیریت جبهههای لبنان و غزه، و همچنین نحوه برخورد سختگیرانه او با خشونتهای افراطی در کرانه باختری دست یافته..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "یورونیوز",
-        "url": "https://parsi.euronews.com/2026/09/04/nuclear-kill-zones-in-iran-what-would-eisenkot-do-if-he-beats-netanyahu",
-        "clean_url": "https://parsi.euronews.com/2026/09/04/nuclear-kill-zones-in-iran-what-would-eisenkot-do-if-he-beats-netanyahu",
-        "image": "https://images.euronews.com/articles/stories/09/90/18/09/1200x675_cmsv2_4a39e1b1-59b3-5fbe-aed8-24ea786f9dc6-9901809.jpg",
-        "timestamp": 1788528997.9812715
     }
 ]
