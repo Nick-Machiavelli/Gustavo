@@ -69,6 +69,23 @@
         "timestamp": 1788712508.8676407
     },
     {
+        "id": "9ed9e4b9e6",
+        "title_fa": "اسرائیلی حمله Kills Two People در غزه",
+        "title_en": "Israeli Strike Kills Two People in Gaza",
+        "summary": [
+            "An Israeli strike killed at least two Palestinians, including a child, in the Gaza Strip on Sunday, health officials said. Mohamed Abu Selmia, head of the enclave's largest Al Shifa Hospital, said the Israeli airstrike struck a vehicle in western Gaza City killing two people,"
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/arab-world/5315352-israeli-strike-kills-two-people-gaza",
+        "clean_url": "https://english.aawsat.com/arab-world/5315352-israeli-strike-kills-two-people-gaza",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1760475_0.jpeg.webp?VersionId=RwTQ4ilAmJ_S3R670cQudX4Q8tmtNxA4",
+        "timestamp": 1788712140.0
+    },
+    {
         "id": "173bf1f827",
         "title_fa": "نتانیاهو: ایران رژیم's 'پایان is near,' اسرائیل determined به 'complete mission' toppling it",
         "title_en": "Netanyahu: Iran regime's 'end is near,' Israel determined to 'complete mission' of toppling it",
@@ -2214,6 +2231,23 @@
         "clean_url": "https://www.azernews.az/region/263442.html",
         "image": "https://www.azernews.az/media/2026/09/05/1033422-934871-1287x836.jpg",
         "timestamp": 1788631200.0
+    },
+    {
+        "id": "700d8d61c3",
+        "title_fa": "خبر بین‌المللی — ایران جنگ latest: US hits three ایرانی oil tankers",
+        "title_en": "Iran war latest: US hits three Iranian oil tankers",
+        "summary": [
+            "Iran navy warns all vessels in 'Persian Gulf and near Strait of Hormuz' The navy of Iran's Islamic Revolutionary Guard Corps has warned all vessels in \"the Persian Gulf and near the Strait of Hormuz..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Sky",
+        "url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
+        "clean_url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788629929.0
     },
     {
         "id": "6f423b3ea3",
@@ -5458,39 +5492,5 @@
         "clean_url": "https://www.thehindu.com/opinion/lead/the-gulf-is-calling-and-new-delhi-must-listen/article71428972.ece",
         "image": "https://www.bing.com/th?id=ONUT.FoivrpYk0sBW9h0X8fC0gg",
         "timestamp": 1788549034.5736825
-    },
-    {
-        "id": "d639c5bd6d",
-        "title_fa": "خبر بین‌المللی — ترامپ says ایران conflict, which has killed 18 US service me",
-        "title_en": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’",
-        "summary": [
-            "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’ cnn.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "cnn.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53alVLRTNPV1hocjlTbVhwb3U5eFg1S3doWVVqdG9GYXNiS1VMWmwyWjhpMDh0UjdrSE9wVWEzVXBMcGdJbllzWUI2eHhaRmpqb1FnUHMzbG5HeDZ4anpISm5DeHdjNk9HR2JTRXlkWHNyQ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53alVLRTNPV1hocjlTbVhwb3U5eFg1S3doWVVqdG9GYXNiS1VMWmwyWjhpMDh0UjdrSE9wVWEzVXBMcGdJbllzWUI2eHhaRmpqb1FnUHMzbG5HeDZ4anpISm5DeHdjNk9HR2JTRXlkWHNyQ0k",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788548871.0
-    },
-    {
-        "id": "b928fc964c",
-        "title_fa": "کارویل ترامپ را به خاطر شکست کنوانسیون تحقیر کرد",
-        "title_en": "Carville Humiliates Trump Over Convention Fiasco",
-        "summary": [
-            "President Donald Trump’s unprecedented midterm convention is shaping up to be such a disaster that veteran Democratic..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/videos/carville-humiliates-trump-over-convention-180522547.html",
-        "clean_url": "https://www.yahoo.com/news/videos/carville-humiliates-trump-over-convention-180522547.html",
-        "image": "https://www.bing.com/th?id=ONUT.XpvjdOzvf6VX1-7ArNPD1w",
-        "timestamp": 1788548588.5861225
     }
 ]
