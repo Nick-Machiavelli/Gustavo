@@ -1,5 +1,24 @@
 [
     {
+        "id": "d33948890a",
+        "title_fa": "سخنرانی کاکس و تیراندازی به ترامپ",
+        "title_en": "Excerpt from Spencer Cox’s ‘Off Ramp’: Stopping the spiral of retribution",
+        "summary": [
+            "کاکس در کنفرانس ملی فرمانداران به ضرورت کاهش قطبی‌سازی سیاسی اشاره کرد",
+            "او هشدار داد که بدون اقدام جدی خطر جنگ داخلی می‌تواند دوباره شعله‌ور شود",
+            "۲۴ ساعت پس از پایان سخنرانی، تیراندازی به ترامپ در پنسیلوانیا رخ داد"
+        ],
+        "impact": "تیراندازی به رئیس‌جمهور می‌تواند بحران سیاسی آمریکا را تشدید کرده و روابط بین‌المللی را تحت فشار قرار دهد",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/excerpt-spencer-cox-off-ramp-100000251.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/excerpt-spencer-cox-off-ramp-100000251.html",
+        "image": "https://www.bing.com/th?id=ONUT.W-wZb15N_nEp8kQY8giYkA",
+        "timestamp": 1788691656.5924327
+    },
+    {
         "id": "53a1d9d6b4",
         "title_fa": "پیت هگزت یک توپ ویرانگر است",
         "title_en": "Pete Hegseth Is a Wrecking Ball",
@@ -552,6 +571,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUJ0TDg4eFpubWFGLVZVS2JaX2xpWnFEM0o5TVQ3MGtJenVweFhHWGVPei1BVE1wTlhqa2U4Z0tNSE1tanhJYWo5LWtqdHpfQTVJOTc1NWxxZUkwSi1hUjVGWGVMcUI5Q1JQVHJrSFBUV1ZkRUxJU1g2Z0U4N0k3RzlnZFA5bGlRRlpkTmo1dnFIOTZpQWN6cnJMdmJmaGEwNkE",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788677079.0
+    },
+    {
+        "id": "dd4cd7bf2b",
+        "title_fa": "هزینه سنگ طلا برای ایرانیان در کمپین اقتصادی ترامپ",
+        "title_en": "US-Iran war: Could 'gold on lease' cost Iranians heavily? What expert warned as Trump steps up economic campaign",
+        "summary": [
+            "ترامپ با فشار اقتصادی جدید ایران را به پذیرش تسویه‌نامه وادار می‌کند",
+            "طرح «طلا به اجاره» می‌تواند بدهی‌های ارزی ایرانیان را چند برابر کند",
+            "این حرکت در چارچوب «عملیات Economic Outcast» برای جداسازی مالی ایران است"
+        ],
+        "impact": "هزینه سنگ طلا می‌تواند تورم و قدرت خرید ایرانیان را به‌سرعت تشدید کند",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Mint",
+        "url": "https://www.msn.com/en-in/news/other/us-iran-war-could-gold-on-lease-cost-iranians-heavily-what-expert-warned-as-trump-steps-up-economic-campaign/ar-AA2bEOIW",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-could-gold-on-lease-cost-iranians-heavily-what-expert-warned-as-trump-steps-up-economic-campaign/ar-AA2bEOIW",
+        "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Iran_1788676471675_e47c1740-2af8-4d57-b742-474c54efa079_1788676474758_a3264355-a968-4315-bc4f-3e4797d0334b_49cf419d-5e83-47d4-92ec-a211bc4e6a85_54c1726a-3853-4029-8f61-c031baca70a5.jpg",
+        "timestamp": 1788676606.0
     },
     {
         "id": "3c660e86da",
@@ -5450,39 +5488,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16dXZBQW1xYkFBam1uamdPS1dMS0ZGNEZNZmtvTGtXY3I2Y0RFV3N3cVpPTmlzekdYTHh3eFRyWVNORV9lNk1ScXBvTmR1OVhheDVsU3ZYNXRsN2gx",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788526410.0
-    },
-    {
-        "id": "67c21db14d",
-        "title_fa": "ترامپ وعده «روز D-اقتصادی» را برای ایران داد. تا کنون، اقدام‌ها به صورت قطره ای انجام شده است",
-        "title_en": "Trump promised ‘economic D-Day’ for Iran. So far, actions have come in drips",
-        "summary": [
-            "US Secretary of State Marco Rubio this week instructed diplomats around the world to tell their host countries they must “systematically identify and sever” ties to Iran, and those with branches of..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/09/04/politics/trump-economic-d-day-actions-skepticism",
-        "clean_url": "https://www.cnn.com/2026/09/04/politics/trump-economic-d-day-actions-skepticism",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-26t011607z-1958370069-rc2r5naht8f6-rtrmadp-3-iran-crisis-economy.jpg?c=16x9&q=w_800,c_fill",
-        "timestamp": 1788526260.0
-    },
-    {
-        "id": "fbec42231e",
-        "title_fa": "تعمیرات بین ایالتی 40 اکنون 2.8 میلیارد دلار هزینه دارد که از برآورد اولیه بیشتر است. در اینجا دلیل آن است",
-        "title_en": "Interstate 40 repairs now cost $2.8B, up from initial estimate. Here's why",
-        "summary": [
-            "Rebuilding Interstate 40’s path through the Pigeon River Gorge after Hurricane Helene will cost about $2.8 billion — a 40%..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The McDowell News",
-        "url": "https://mcdowellnews.com/news/state-regional/north-carolina/article_cea32f5f-dff0-5507-83d7-55089d364a9d.html",
-        "clean_url": "https://mcdowellnews.com/news/state-regional/north-carolina/article_cea32f5f-dff0-5507-83d7-55089d364a9d.html",
-        "image": "https://www.bing.com/th?id=ONUT.oY5_h-W1kgqht1oi9XEVOg",
-        "timestamp": 1788526257.0
     }
 ]
