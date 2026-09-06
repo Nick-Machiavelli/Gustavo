@@ -311,6 +311,26 @@
         "timestamp": 1788632643.6908247
     },
     {
+        "id": "a8006e4545",
+        "title_fa": "موشک‌های بالستیک ایران به ناوهای آمریکایی شلیک شد",
+        "title_en": "US-Iran war LIVE: Iran fires several ballistic missiles at US aircraft carrier, destroyer harassing Iranian ships",
+        "summary": [
+            "نیروی هوایی سپاه ادعا کرد چند موشک بالستیک به ناو حامل هواپیما و ناو destroyer آمریکا شلیک کرد.",
+            "این حمله در قالب انتقاد از مسدودسازی و تهدید به کشتی‌های ایرانی بیان شد.",
+            "تا کنون هیچ مدرک تصویری یا تأیید رسمی از نیروی دریایی آمریکا منتشر نشده؛ احتمال استفاده از جنگ روانی وجود دارد.",
+            "اگر صحت داشته باشد، خطر برخورد مستقیم نظامی بین دو طرف به اوج می‌رسد و ممکن است واکنش نظامی آمریکا را برانگیزد."
+        ],
+        "impact": "افزایش خطر برخورد مستقیم نظامی و احتمال گسترش جنگ بین ایران و آمریکا.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/us-news/iran-war-news-latest-live-updates-donald-trump-bahrain-kuwait-jd-vance-abbas-araghchi-pezeshkian-strait-of-hormuz-attack-11788655201814.html",
+        "clean_url": "https://www.livemint.com/news/us-news/iran-war-news-latest-live-updates-donald-trump-bahrain-kuwait-jd-vance-abbas-araghchi-pezeshkian-strait-of-hormuz-attack-11788655201814.html",
+        "image": "http://www.bing.com/th?id=ONUT.stW9AYKJZf51zLADrnB9yw&pid=News",
+        "timestamp": 1788632100.0
+    },
+    {
         "id": "65ed9c6a1d",
         "title_fa": "ایران به‌عنوان حواس‌پرتی جهانی",
         "title_en": "Is Iran distracting from bigger issues?",
@@ -5461,22 +5481,5 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/argentina-s-government-moves-to-enforce-falkland-islands-oil-sanctions/ar-AA2bC32Q",
         "image": "https://www.bing.com/th?id=ONUT.44_XpFRvU0iOQnoEoddcrg",
         "timestamp": 1788502533.0
-    },
-    {
-        "id": "3f6184b029",
-        "title_fa": "هم‌زمان با وخامت بحران دارو، رییس کمیسیون بهداشت مجلس کمبودها را «غیرجدی» خواند",
-        "title_en": "هم‌زمان با وخامت بحران دارو، رییس کمیسیون بهداشت مجلس کمبودها را «غیرجدی» خواند",
-        "summary": [
-            "با وجود گزارش‌های متعدد درباره تشدید بحران دارو در ایران، حسین‌علی شهریاری، رییس کمیسیون بهداشت و درمان مجلس شورای اسلامی، کوشید ابعاد این بحران را کم‌اهمیت جلوه دهد و کمبودهای موجود را «غیرجدی» توصیف..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609047823",
-        "clean_url": "https://www.iranintl.com/202609047823",
-        "image": "http://www.bing.com/th?id=ONUT.AVmc7DrlavVWcsaan2OxPA&pid=News",
-        "timestamp": 1788501780.0
     }
 ]
