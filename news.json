@@ -1,5 +1,62 @@
 [
     {
+        "id": "0909cf12d0",
+        "title_fa": "ایده روبین برای صومالی‌لند؛ جبهه‌ای نو در منازعه قهرمانان",
+        "title_en": "Michael Rubin’s Somaliland idea looks like a new front in an old war",
+        "summary": [
+            "مایکل روبین، پژوهشگر AEI، پیشنهاد ساختن «صومالی‌لند» برای حل مناقشه آذربایجان‑ارمنستان را مطرح کرد",
+            "نقش گروه‌های لابی خارجی در شکل‌گیری این طرح می‌تواند مانع تثبیت صلح شود",
+            "اگر طرح اجرا شود، ممکن است توازن قدرت در قفقاز به‌طور غیرمنتظره‌ای تغییر کند"
+        ],
+        "impact": "ایجاد فشار جدید بر مذاکرات صلح و احتمال بروز تنش‌های جدید",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "AzerNews",
+        "url": "https://www.azernews.az/analysis/263484.html",
+        "clean_url": "https://www.azernews.az/analysis/263484.html",
+        "image": "https://www.bing.com/th?id=ONUT.nQszkbLMFSLxpcjL9Xs3rw",
+        "timestamp": 1788726149.9003377
+    },
+    {
+        "id": "77a0c97b2d",
+        "title_fa": "حذف گافنی از فهرست حددلات هاردی اسرائیل",
+        "title_en": "Gafni’s ouster marks a changing era for Israel’s haredi parties - and for Netanyahu",
+        "summary": [
+            "مسئولان حددلات هاردی موشنی گافنی را پس از ۳۸ سال حضور در کنیست حذف کردند",
+            "این تصمیم نشان می‌دهد که قدرت داخل احزاب هاردی در حال جابجایی است و فشار بر نتانیاهو افزایش یافته",
+            "حذف ممکن است باعث بازنگری در استراتژی‌های سیاسی نتانیاهو شود"
+        ],
+        "impact": "تضعیف پایه حمایت حددلات هاردی از دولت نتانیاهو",
+        "tag": "سیاست داخلی",
+        "urgency": 3,
+        "sentiment": -0.1,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/israel-election-2026/article-907743",
+        "clean_url": "https://www.jpost.com/israel-election-2026/article-907743",
+        "image": "https://www.bing.com/th?id=ONUT.549Oh2wgjWKMLMSuHUQOmQ",
+        "timestamp": 1788726149.900144
+    },
+    {
+        "id": "82030cb992",
+        "title_fa": "جلوگیری از برخورد اسرائیل‑ترکیه در سوریه",
+        "title_en": "Not a zero-sum game: How to prevent an Israeli-Turkish clash in Syria",
+        "summary": [
+            "موساد و وزیر خارجه سوریه برای کاهش تنش پس از حمله اسرائیل به پایگاه هوایی شمال غربی سوریه تماس گرفتند",
+            "ترکیه قصد نصب رادار و پهپادهای خود را داشت؛ اسرائیل این حضور را تهدیدی برای امنیت خود می‌داند",
+            "اگر تنش حل نشود، احتمال برخورد هوایی بین دو کشور افزایش می‌یابد"
+        ],
+        "impact": "احتمال تصاعد نظامی در شمال سوریه و تغییر تعادل قدرت منطقه",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/opinion/article-907443",
+        "clean_url": "https://www.jpost.com/opinion/article-907443",
+        "image": "https://www.bing.com/th?id=ONUT.HRxWvZB9wv8o7B1qPdpodA",
+        "timestamp": 1788726149.8998923
+    },
+    {
         "id": "a713d18cca",
         "title_fa": "نقش‌گر سابق جمهوری‌خواه، دستیار برتر ترامپ را به خطر می‌بیند",
         "title_en": "Ex-Republican blasts top Trump aide as 'wrecking ball' endangering US",
@@ -5427,60 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPal90WEFPVUFPa2NUMlFuNEdHX2RnTWJEY2NBOWZaTXJNLWU0d0t3bzgxaHdQa21Sdl9YMDN5UW5qRVZhNVU3bDJoUlFHOElQQ0FlRDczSXNpdkdrdUY1bU1LVmJNeVctb0l3bHBLUTNJTEVFcFdHTDZiMjJMeUlMWm8yaEFxcVVPRGQtclB0QmRhMzVtdW1oaVlYOHBGYk42YWNvSVBRUTY4U0dqaDE2R3M3b1hQVUc5TDNPZEV3MXdIV01UeWc",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788558891.0
-    },
-    {
-        "id": "644f679a6e",
-        "title_fa": "آمریکا و متحدان پیش‌نویس قطعنامه‌ای برای ارجاع ایران به شورای امنیت سازمان ملل به دلیل «عدم پایبندی» به هسته‌ای",
-        "title_en": "US, allies draft resolution to refer Iran to UNSC over nuclear 'noncompliance'",
-        "summary": [
-            "Move follows growing standoff, with IAEA inspectors unable to verify Iran's nuclear stockpile since US-Israeli strikes in June 2025"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "National Herald",
-        "url": "https://www.nationalheraldindia.com/international/us-allies-draft-resolution-to-refer-iran-to-unsc-over-nuclear-noncompliance",
-        "clean_url": "https://www.nationalheraldindia.com/international/us-allies-draft-resolution-to-refer-iran-to-unsc-over-nuclear-noncompliance",
-        "image": "https://cf-images.assettype.com/nationalherald%2F2022-09%2F4128e638-1a70-4574-8ba3-614849cc214d%2F62684115_403.jpg?rect=0%2C0%2C940%2C494&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "timestamp": 1788558480.0
-    },
-    {
-        "id": "d4578891fc",
-        "title_fa": "شهردار نیویورک در بورُ‌پارک به استقبال گرم رسید",
-        "title_en": "Mamdani got 'warm welcome' at Brooklyn Judaica store, his office tells JNS",
-        "summary": [
-            "زهران ممدانی در فروشگاه یهودی ایچلرز به‌مردم محلی سلام کرد",
-            "او دربارهٔ مشکلات محله و برنامه‌های شهرداری گفت",
-            "این بازدید برای تقویت روابط شهرداری با جامعه یهودی در زمان عیدهای عبری انجام شد"
-        ],
-        "impact": "تقویت تعامل شهرداری با جامعه یهودی و ارتقای حمایت‌های محلی",
-        "tag": "سیاست داخلی",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "Jewish News Syndicate",
-        "url": "https://www.jns.org/news/u-s-news/mamdani-got-warm-welcome-at-brooklyn-judaica-store-his-office-tells-jns",
-        "clean_url": "https://www.jns.org/news/u-s-news/mamdani-got-warm-welcome-at-brooklyn-judaica-store-his-office-tells-jns",
-        "image": "https://static.jns.org/dims4/default/6831926/2147483647/strip/true/crop/2700x1519+0+0/resize/1440x810!/format/webp/quality/90/?url=https://k2-prod-jns-prod.s3.us-east-1.amazonaws.com/brightspot/bf/1b/3c956014441a93f707256eb3aa9a/55504962530-2d3f6c4b1a-o.jpg",
-        "timestamp": 1788558420.0
-    },
-    {
-        "id": "45d3bc5866",
-        "title_fa": "قیمت بنزین در لس آنجلس افزایشی شد",
-        "title_en": "SoCal gas prices continue to rise",
-        "summary": [
-            "قیمت گالن بنزین خودسرویس در لس آنجلس ۲.۶ سنت افزایش یافت",
-            "این افزایش نشان‌دهنده فشارهای عرضه‑تقاضا در بازار غربی است",
-            "رانندگان ممکن است هزینه سفر روزانه را تا چند دلار بیشتر بپردازند"
-        ],
-        "impact": "هزینه حمل و نقل شخصی و تجاری در جنوب‑کالیفرنیا بالا می‌رود",
-        "tag": "قیمت‌بنزین",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "2UrbanGirls on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/socal-gas-prices-continue-to-rise/ar-AA2bEgyX?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/socal-gas-prices-continue-to-rise/ar-AA2bEgyX",
-        "image": "https://www.bing.com/th?id=ONUT.xzFF9DIn2Bue9Gt6xYQoUg",
-        "timestamp": 1788558416.0
     }
 ]
