@@ -1,5 +1,23 @@
 [
     {
+        "id": "a713d18cca",
+        "title_fa": "نقش‌گر سابق جمهوری‌خواه، دستیار برتر ترامپ را به خطر می‌بیند",
+        "title_en": "Ex-Republican blasts top Trump aide as 'wrecking ball' endangering US",
+        "summary": [
+            "یک نماینده پیشین جمهوری‌خواه، دستیار ارشد ترامپ را به «توپ خراب‌کننده» تشبیه کرد",
+            "او ادعا کرد این شخص تصمیمات خطرناکی برای امنیت ملی می‌گیرد"
+        ],
+        "impact": "ایجاد تنش داخلی در دولت ترامپ و کاهش ثبات سیاسی",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-ca/politics/government/ex-republican-blasts-top-trump-aide-as-wrecking-ball-endangering-us/ar-AA2bGGXm?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/politics/government/ex-republican-blasts-top-trump-aide-as-wrecking-ball-endangering-us/ar-AA2bGGXm",
+        "image": "https://www.bing.com/th?id=ONUT.OxpKyG5jHIOjrPercFjfiQ",
+        "timestamp": 1788723138.6833014
+    },
+    {
         "id": "f764b3dbee",
         "title_fa": "تشدید جنگ آمریکا‑ایران در خلیج‌فارس",
         "title_en": "Bogged down: On the U.S.-Iran conflict escalation",
@@ -1865,6 +1883,25 @@
         "timestamp": 1788654240.0
     },
     {
+        "id": "c144f3bfc1",
+        "title_fa": "توافق هسته‌ای ایران تا سقوط رژیم به تعویق می‌افتد",
+        "title_en": "Iran Nuclear Deal Might Be Delayed Until Regime Change in Tehran, Energy Secretary Says",
+        "summary": [
+            "وزیر انرژی آمریکا گفت توافق هسته‌ای تا تغییر حکومت در تهران امکان‌پذیر نیست",
+            "نیروهای آمریکا چند کشتی ایرانی را هدف حمله کردند و توان تولید سلاح هسته‌ای را تضعیف کردند",
+            "ایالات متحده با متحدان منطقه‌ای برای نابودی توان هسته‌ای ایران همکاری می‌کند"
+        ],
+        "impact": "تأخیر در مذاکرات هسته‌ای و تشدید فشار نظامی بر ایران",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/world/iran-nuclear-deal-might-be-delayed-until-regime-change-in-tehran-energy-secretary-says-6084096",
+        "clean_url": "https://www.theepochtimes.com/world/iran-nuclear-deal-might-be-delayed-until-regime-change-in-tehran-energy-secretary-says-6084096",
+        "image": "https://img.theepochtimes.com/assets/uploads/2026/04/17/id6013586-DSC04089-Chris-Wright-1080x720.jpg",
+        "timestamp": 1788652800.0
+    },
+    {
         "id": "5a2624b5a6",
         "title_fa": "دادگاه پراتو کارگر را بابت دست‌مالی‌های ناخواسته جبران کرد",
         "title_en": "Workplace harassment, even unwanted caresses and confidences can be compensated",
@@ -2175,6 +2212,24 @@
         "clean_url": "https://www.ynetnews.com/article/rjrrykc00ge",
         "image": "https://www.bing.com/th?id=ONUT.wPSZ6cqpXIfh7Bm5JXmUVg",
         "timestamp": 1788637081.0409374
+    },
+    {
+        "id": "15cf913668",
+        "title_fa": "بدون نفت روسیه جهان دچار بحران می‌شود",
+        "title_en": "US trade war: What if Russian oil is excluded from markets? Envoy Alipov warns 'world will not cope'",
+        "summary": [
+            "سفیر روسیه اعلام کرد حذف نفت روسیه از بازار جهانی باعث ناتوانی سیستم انرژی خواهد شد",
+            "او هشدار داد کشورهای مصرف‌کننده نمی‌توانند تقاضای از دست رفته را جبران کنند"
+        ],
+        "impact": "قیمت‌های نفت و گاز جهانی بالا می‌رود و فشار بر اقتصادهای وابسته افزایش می‌یابد",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Mint on MSN",
+        "url": "https://www.msn.com/en-in/money/general/us-trade-war-what-if-russian-oil-is-excluded-from-markets-envoy-alipov-warns-world-will-not-cope/ar-AA2bGBSY?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/money/general/us-trade-war-what-if-russian-oil-is-excluded-from-markets-envoy-alipov-warns-world-will-not-cope/ar-AA2bGBSY",
+        "image": "https://www.bing.com/th?id=ONUT.BCf8mrQ13DlXTm_apI-4RQ",
+        "timestamp": 1788636733.0
     },
     {
         "id": "aac492df36",
@@ -5431,58 +5486,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-ripped-apart-for-absolutely-horrible-comments-about-iran-war-being-small-potatoes/ar-AA2bBI4f",
         "image": "http://www.bing.com/th?id=ONUT.aq6KQ0FbRP3ghIqGFgUuhg&pid=News",
         "timestamp": 1788554821.0
-    },
-    {
-        "id": "b5e34869f8",
-        "title_fa": "خبر بین‌المللی — Is روسیه Escalating? George Friedman آغاز Down Threat",
-        "title_en": "Is Russia Escalating? George Friedman Breaks Down the Threat",
-        "summary": [
-            "Russia relations. On this episode of Talking Geopolitics, GPF Chairman George Friedman joins host Christian Smith to discuss..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Geopolitical Futures",
-        "url": "https://geopoliticalfutures.com/is-russia-escalating-george-friedman-breaks-down-the-threat-podcast/",
-        "clean_url": "https://geopoliticalfutures.com/is-russia-escalating-george-friedman-breaks-down-the-threat-podcast",
-        "image": "https://www.bing.com/th?id=ONUT.ElvPcqCz7KnDWfKL0EzrNA",
-        "timestamp": 1788554125.151224
-    },
-    {
-        "id": "814ab85de9",
-        "title_fa": "سینینورهای کوئینز به مبارزه دیجیتال علیه نفرت می‌پیوندند",
-        "title_en": "Nonprofit trains Queens seniors to be social media keyboard warriors against Jew-hatred",
-        "summary": [
-            "سازمان غیرانتفاعی IMPACT به سالمندان آموزش رسانه‌های دیجیتال می‌دهد.",
-            "هدف مقابله با نفرت‌پراکنی آنلاین و ارتقای آگاهی عمومی است.",
-            "حضور نسل مسن در فضای مجازی می‌تواند صدای جدیدی به مبارزه بدهد."
-        ],
-        "impact": "تقویت مبارزه آنلاین علیه نفرت؛ افزایش مشارکت شهروندان",
-        "tag": "اجتماعی",
-        "urgency": 2,
-        "sentiment": 0.4,
-        "source": "Jewish News Syndicate",
-        "url": "https://www.jns.org/news/u-s-news/nonprofit-trains-queens-seniors-to-be-social-media-keyboard-warriors-against-jew-hatred",
-        "clean_url": "https://www.jns.org/news/u-s-news/nonprofit-trains-queens-seniors-to-be-social-media-keyboard-warriors-against-jew-hatred",
-        "image": "https://static.jns.org/dims4/default/819c948/2147483647/strip/true/crop/4032x3024+0+0/resize/1440x1080!/format/webp/quality/90/?url=https://k2-prod-jns-prod.s3.us-east-1.amazonaws.com/brightspot/70/95/e76e0f9b4d4a8204a1348e703cc4/img-5345.jpeg",
-        "timestamp": 1788553980.0
-    },
-    {
-        "id": "2ea91dcaf8",
-        "title_fa": "ترامپ درگیری با ایران را \"سیب زمینی کوچک\" می‌خواند و می‌گوید با ونس موافق است که این \"جنگ\" نیست.",
-        "title_en": "Trump calls Iran conflict 'small potatoes' and says he agrees with Vance that it's not a 'war'",
-        "summary": [
-            "Trump calls Iran conflict 'small potatoes' and says he agrees with Vance that it's not a 'war' WRAL"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "WRAL",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUl82MzJ2XzFtQTI0VEV0cjFPOHpuSm5oMEsteFJnSGQwcFBxUnR1NFhKMnotR2pXZXFITG83NFRzRjNzdmNkZlNNdlo2cmlWR3JVUXVsMHIybmpXUVFfajljdWJ1OTJkX29DeWlmVlQyMnIyX1FjN2tjLXVNOV9PcFVlOG9EazgzSHVlRkYyTzFMVVZ4LWtiNWpuMWtkY29ZSE9tZHJISlU5ZHdfOTJHZGg3YWFLT09ENVF5MmlQVHVxNWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUl82MzJ2XzFtQTI0VEV0cjFPOHpuSm5oMEsteFJnSGQwcFBxUnR1NFhKMnotR2pXZXFITG83NFRzRjNzdmNkZlNNdlo2cmlWR3JVUXVsMHIybmpXUVFfajljdWJ1OTJkX29DeWlmVlQyMnIyX1FjN2tjLXVNOV9PcFVlOG9EazgzSHVlRkYyTzFMVVZ4LWtiNWpuMWtkY29ZSE9tZHJISlU5ZHdfOTJHZGg3YWFLT09ENVF5MmlQVHVxNWc",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788553656.0
     }
 ]
