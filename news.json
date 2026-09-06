@@ -2233,6 +2233,62 @@
         "timestamp": 1788629760.0
     },
     {
+        "id": "870b0cd007",
+        "title_fa": "قیمت بنزین زیر سه دلار می‌رسد؟",
+        "title_en": "Transcript: Energy Secretary Chris Wright on \"Face the Nation with Margaret Brennan,\" Sept. 6, 2026",
+        "summary": [
+            "ترامپ‌ادمن تغییر مقررات پالایشگاه‌ها را اجرا کرد تا تولید بنزین و دیزل افزایش یابد.",
+            "پس از تعطیلات کارگر تقاضا کاهش می‌یابد؛ پیش‌بینی قیمت‌ها به سمت پایین است.",
+            "این پیش‌بینی مشروط به ادامه سیاست‌های حمایتی و عدم بحران ژئوپلیتیک است."
+        ],
+        "impact": "کاهش قیمت بنزین می‌تواند فشار هزینه‌های حمل‌ونقل را بر مصرف‌کنندگان و کسب‌وکارها کم کند.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/chris-wright-energy-secretary-face-the-nation-09-06-2026/",
+        "clean_url": "https://www.cbsnews.com/news/chris-wright-energy-secretary-face-the-nation-09-06-2026",
+        "image": "https://www.bing.com/th?id=ONUT.WNDj9sFBnZpraVseWB-qdA",
+        "timestamp": 1788629559.0
+    },
+    {
+        "id": "ae7767e29e",
+        "title_fa": "هواداران برنلی درباره جذب جیمی واردی",
+        "title_en": "Are you happy with the Vardy signing?",
+        "summary": [
+            "هواداران برنلی نظرسنجی درباره رضایت از جذب واردی را انجام دادند.",
+            "واردی با تجربه‌اش می‌تواند خط حمله تیم را تقویت کند، اما هزینه و عملکرد قبلی‌اش سؤال‌برانگیز است."
+        ],
+        "impact": "رضایت یا عدم رضایت هواداران می‌تواند حمایت مالی و عملکرد تیم برنلی را تحت تأثیر قرار دهد.",
+        "tag": "ورزش",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "BBC on MSN",
+        "url": "https://www.msn.com/en-us/news/other/are-you-happy-with-the-vardy-signing/ar-AA2bFNk2?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/are-you-happy-with-the-vardy-signing/ar-AA2bFNk2",
+        "image": "https://www.bing.com/th?id=ONUT.WV2EU3NHOwTp4PALxtls5g",
+        "timestamp": 1788629559.0
+    },
+    {
+        "id": "ef27d67a38",
+        "title_fa": "ترامپ برای حفظ قانون رای‌گیری پستی به دادگاه عالی رفت",
+        "title_en": "Trump Administration Asks Supreme Court To Allow Controversial Mail-In Ballot Rule Before Midterms",
+        "summary": [
+            "دولت ترامپ درخواست توقف حکم دادگاه فدرال که اجرای قانون جدید پست را مسدود کرده است.",
+            "قانون جدید ایالت‌ها را ملزم می‌کند اطلاعات رأی‌دهندگان را پیش از تحویل رای به پایگاه داده فدرال بفرستند؛ مخالفان آن را نقض حقوق انتخابی می‌دانند.",
+            "اگر قانون اجرا شود، می‌تواند روند رأی‌گیری در میانه‌دوره را تحت فشار قرار دهد."
+        ],
+        "impact": "اجرای قانون می‌تواند دسترسی به رای‌گیری پستی را محدود کند و نتایج میانه‌دوره را تحت تأثیر قرار دهد.",
+        "tag": "انتخابات",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-administration-asks-supreme-court-163200296.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-administration-asks-supreme-court-163200296.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/a2e27d5de6e6d0ceae9582bcd4a8790c916ccb882e3399a9131a8d88835fa814/lightyear_networkapi/resizefill_w958_h538%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_staff_375%2F54f23fda45a52d4cd1cc8e494521b530.jpg",
+        "timestamp": 1788629559.0
+    },
+    {
         "id": "7a1baaaca7",
         "title_fa": "ایران نسبت به پاسخ «شدیدتر» پس از حملات اخیر به آمریکا هشدار داد",
         "title_en": "Iran warns US of ‘more intense’ response after latest strikes",
@@ -5436,56 +5492,5 @@
         "clean_url": "https://www.yahoo.com/news/videos/carville-humiliates-trump-over-convention-180522547.html",
         "image": "https://www.bing.com/th?id=ONUT.XpvjdOzvf6VX1-7ArNPD1w",
         "timestamp": 1788548588.5861225
-    },
-    {
-        "id": "f115490d08",
-        "title_fa": "خبر بین‌المللی — verdict | Kill leaders, save رژیم? Why ایران refuses به f",
-        "title_en": "The verdict | Kill the leaders, save the regime? Why Iran refuses to fall",
-        "summary": [
-            "For decades, regime change in Iran was the ambition nobody in Washington or Jerusalem quite wanted to admit openly. Not anymore. Donald Trump is again asking when Iranians will “rise up and fight.”..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "WION on MSN",
-        "url": "https://www.msn.com/en-in/news/other/the-verdict-kill-the-leaders-save-the-regime-why-iran-refuses-to-fall/ar-AA2bzcxO?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/the-verdict-kill-the-leaders-save-the-regime-why-iran-refuses-to-fall/ar-AA2bzcxO",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788548586.9396715
-    },
-    {
-        "id": "6f3c0a2c42",
-        "title_fa": "در upcoming اسرائیلی election, نتانیاهو is آماده‌سازی به blame a loss در conspiracy",
-        "title_en": "In upcoming Israeli election, Netanyahu is preparing to blame a loss on conspiracy",
-        "summary": [
-            "Sara Netanyahu’s extraordinary attack on Yair Golan reveals a reelection strategy increasingly built on vilification,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Forward",
-        "url": "https://forward.com/opinion/848228/netanyahu-conspiracy-campaign-strategy/",
-        "clean_url": "https://forward.com/opinion/848228/netanyahu-conspiracy-campaign-strategy",
-        "image": "https://www.bing.com/th?id=ONUT.BScXX3j7jieBCyhIK34nfQ",
-        "timestamp": 1788548585.2743196
-    },
-    {
-        "id": "8d0c0f9b37",
-        "title_fa": "خبر بین‌المللی — Car seat, seat belt misuse tied به severe injuries در childr",
-        "title_en": "Car seat, seat belt misuse tied to severe injuries in children",
-        "summary": [
-            "Provider: The Ohio State University..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Campus Insights Media on MSN",
-        "url": "https://www.msn.com/en-us/autos/general/car-seat-seat-belt-misuse-tied-to-severe-injuries-in-children/vi-AA2bDwil?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/autos/general/car-seat-seat-belt-misuse-tied-to-severe-injuries-in-children/vi-AA2bDwil",
-        "image": "https://www.bing.com/th?id=ONUT.4DQ3rD1JfEBGme81zo5svg",
-        "timestamp": 1788547334.0
     }
 ]
