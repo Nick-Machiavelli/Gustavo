@@ -1,5 +1,41 @@
 [
     {
+        "id": "8094b670e2",
+        "title_fa": "درس‌های دو سالگرد تراژیک برای ایالات متحده",
+        "title_en": "Opinion: Lessons from 2 awful anniversaries",
+        "summary": [
+            "مقاله‌ای به‌مقابله دو سالگرد 9/11 و قتل کاریک چارلی کِرک می‌پردازد و سؤالاتی درباره وحدت ملی آمریکا مطرح می‌کند.",
+            "نویسنده به‌دنبال درس‌های تاریخی برای مقابله با افراط‌گرایی و قطبی‌سازی سیاسی است."
+        ],
+        "impact": "می‌تواند به‌بحث‌های عمومی درباره همبستگی و رادیکالیسم کمک کند.",
+        "tag": "تحلیل",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/opinion-lessons-2-awful-anniversaries-100000040.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/opinion-lessons-2-awful-anniversaries-100000040.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/a58caea8b5367a5dca68b7614e4b574d5ec8d4cea39b6a75cd1a32b20971c058/lightyear_networkapi/resizefill_w800_h533%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeseret_news_992%2Fa89d68994b1089c60d9d7eb569b4fbbf.jpg",
+        "timestamp": 1788690878.9650507
+    },
+    {
+        "id": "039c90296f",
+        "title_fa": "پدر جوانی که به‌دنبال معنا در آمریکا رها شد",
+        "title_en": "He's trying to make it in America by arguing that you can't",
+        "summary": [
+            "پدر جوانی در آمریکا پس از ناامیدی از ایده ملی‌گرایانه کشورش، نظرات انتقادی‌اش را در شبکه‌های اجتماعی به اشتراک گذاشت.",
+            "داستان او نماد جریانی است که مهاجران به‌دنبال هویت و امید در جامعه میزبان می‌گردند."
+        ],
+        "impact": "بحث‌های فرهنگی و سیاسی درباره مهاجرت و ادغام را تشدید می‌کند.",
+        "tag": "جامعه",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/he-s-trying-to-make-it-in-america-by-arguing-that-you-can-t/ar-AA2bF50v?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/he-s-trying-to-make-it-in-america-by-arguing-that-you-can-t/ar-AA2bF50v",
+        "image": "https://www.bing.com/th?id=ONUT.Z8xo9uJIm0EdFHe4zGD7pA",
+        "timestamp": 1788690878.9643178
+    },
+    {
         "id": "8d1e84498d",
         "title_fa": "تصمیم بیمه درمانی لی ضربه ای به سالمندان | نظر نامه‌ها",
         "title_en": "Lee Health insurance decision a blow to seniors | Opinion letters",
@@ -594,6 +630,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iM2Q0YUIzZGtnRUp5ZWVmSUFzUlRDdGJfYkFacGt2aFdCd3BoX3JtVE1ScThTNWtGOHd6Qm15WWV4dHFEQmVQN3J3c08",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788665688.0
+    },
+    {
+        "id": "14514d8498",
+        "title_fa": "هشدار پانتتا: جنگ ایران‑آمریکا شش ماه دیگر ادامه می‌یابد",
+        "title_en": "Iran war likely to drag on for another six months, ex-US defense secretary warns",
+        "summary": [
+            "پانتتا، وزیر دفاع پیشین آمریکا، گفت جنگی که ترامپ علیه ایران آغاز کرد، بدون راه‌حل واضح، احتمال ادامه شش ماه دیگر را دارد.",
+            "او این وضعیت را «جنگ ابدی» در خاورمیانه تشبیه کرد و هشدار داد که گزینه‌های دیپلماتیک محدود است."
+        ],
+        "impact": "ادامه جنگ فشار نظامی و اقتصادی بر خاورمیانه را افزاش می‌دهد و ریسک گسترش درگیری‌های منطقه‌ای را بالا می‌برد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.85,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/sep/06/iran-war-trump-leon-panetta-interview",
+        "clean_url": "https://www.theguardian.com/world/2026/sep/06/iran-war-trump-leon-panetta-interview",
+        "image": "https://i.guim.co.uk/img/media/1258098f38efe380ce0f620d13673ee9a81bed26/738_0_3697_2957/master/3697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd90a25ba2be97999e8c8e27e0657b8c",
+        "timestamp": 1788664860.0
     },
     {
         "id": "544f829d50",
@@ -1901,6 +1955,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/blame-unitedhealthcare-lee-health-dispute-100407550.html",
         "image": "https://www.bing.com/th?id=ONUT.JGmrHXhVkxDgDUUwrOx5YQ",
         "timestamp": 1788605249.9178734
+    },
+    {
+        "id": "1df7059b03",
+        "title_fa": "تهدید ایران به کشتی‌ها در تنگه هورموز پس از حمله",
+        "title_en": "Iran-US war latest: Tehran attacks ships in Strait of Hormuz",
+        "summary": [
+            "ایران به‌سرعت کشتی‌های تجاری در تنگه هورموز را هدف قرار داد پس از حمله آمریکا به تانکرهای نفتی ایرانی.",
+            "این اقدام نشان‌دهنده گسترش عملیات نیابتی و خطر تشدید تنش‌های دریایی است."
+        ],
+        "impact": "ترافیک تجاری در خلیج فارس مختل می‌شود و هزینه‌های حمل‌ونقل نفت به‌سرعت بالا می‌رود.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-tehran-attacks-ships-in-strait-of-hormuz/ar-AA2bECgq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-tehran-attacks-ships-in-strait-of-hormuz/ar-AA2bECgq",
+        "image": "https://www.bing.com/th?id=ONUT.VfLnwfUgLmnER7SfeOOnOQ",
+        "timestamp": 1788604471.0
     },
     {
         "id": "2583fad76c",
@@ -5412,75 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWHRrRnc3SXNqcWUtdHVhUG5UTGJCYVI1aE5KT0dKSllUSjRNS3dyNHhEUXZKbXAyaFRGaTF0X0NEOXlZN3F6SGxOMzc3RWxUSzRZN1VVTXVIdHRQUjI5d1JRdzVwTnlwNkxsY2hycjdvUzBPREdEMkl2aTNqNFUwVUZ6ODliOFpZaGhpUWxGSFZZRlRMQkt5U1BXTl9XZjRSYmJyaVR1RWxrNlhaVWt1RC0wWFo3clRkcC1SSlBvM2xjZTBlSkphM21pTE44cDRo",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788525736.0
-    },
-    {
-        "id": "f1300e1424",
-        "title_fa": "ترامپ: احتمال حمله به کوه کلنگ گزلا نزدیک است",
-        "title_en": "ترامپ از احتمال حمله قریب‌الوقوع آمریکا به کوه کلنگ گزلا خبر داد",
-        "summary": [
-            "ترامپ گفت اگر فعالیتی در کوه کلنگ گزلا شناسایی شود، آمریکا ممکن است به‌زودی به این تاسیسات هدف بگیرد.",
-            "او به عملیات قبلی علیه مواضع سپاه پاسداران و عبور کشتی‌ها از تنگه هرمز اشاره کرد و این حمله را «درگیری نظامی کوچک» توصیف کرد.",
-            "هشدار قبلی در تیرماه نیز به هدف‌گیری سنگین این سایت اشاره داشت؛ اکنون احتمال اجرای آن افزایش یافته."
-        ],
-        "impact": "تشدید تنش‌های نظامی و احتمال اعمال تحریم‌های جدید علیه ایران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609047345",
-        "clean_url": "https://www.iranintl.com/202609047345",
-        "image": "http://www.bing.com/th?id=ONUT.PQZkZpqEElRWL9_lY2_ytw&pid=News",
-        "timestamp": 1788525360.0
-    },
-    {
-        "id": "f1eaf08379",
-        "title_fa": "CHOP می‌خواست در مورد بچه های بیمار صحبت کند. جان فترمن گفته است: \"خب من نیستم.\"",
-        "title_en": "CHOP wanted to talk about sick kids. John Fetterman reportedly said, “Well I’m not.”",
-        "summary": [
-            "I have a little history with John Fetterman. I campaigned for him in 2016. I spoke with him at length on the phone (interview..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "A Day In Our Shoes on MSN",
-        "url": "https://www.msn.com/en-us/politics/general/chop-wanted-to-talk-about-sick-kids-john-fetterman-reportedly-said-well-i-m-not/ar-AA2bz1Ws?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/general/chop-wanted-to-talk-about-sick-kids-john-fetterman-reportedly-said-well-i-m-not/ar-AA2bz1Ws",
-        "image": "https://www.bing.com/th?id=ONUT.4mnigYMWpemWAv7RX8dUDQ",
-        "timestamp": 1788524243.5077326
-    },
-    {
-        "id": "867406772c",
-        "title_fa": "زمانی که هاوارد لوتنیک در حال تمجید از ترامپ بود، اتفاقی برای ترامپ افتاد",
-        "title_en": "Something happened to Trump while Howard Lutnick was praising him",
-        "summary": [
-            "Donald Trump appears to doze off again during a public appearance as Commerce Secretary Howard Lutnick enthusiastically praises his administration’s record. David Pakman examines the footage as..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The David Pakman Show on MSN",
-        "url": "https://www.msn.com/en-us/news/other/something-happened-to-trump-while-howard-lutnick-was-praising-him-here-s-my-take/vi-AA2byxp1?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/something-happened-to-trump-while-howard-lutnick-was-praising-him-here-s-my-take/vi-AA2byxp1",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788524243.5073748
-    },
-    {
-        "id": "1f14bc1017",
-        "title_fa": "بریکس پلاس فرصت هند برای شکل دادن به دنیای چند قطبی است",
-        "title_en": "BRICS+ is India’s opportunity to shape a multipolar world",
-        "summary": [
-            "During India’s BRICS Chairship, healthcare and healthy lifestyle initiatives have been showcased through several platforms."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/brics-is-indias-opportunity-to-shape-a-multipolar-world-14043292.html",
-        "clean_url": "https://www.firstpost.com/opinion/brics-is-indias-opportunity-to-shape-a-multipolar-world-14043292.html",
-        "image": "https://www.bing.com/th?id=ONUT.qwvHVfUOFSKth_Xm5rcQlw",
-        "timestamp": 1788524243.506294
     }
 ]
