@@ -1832,6 +1832,25 @@
         "timestamp": 1788600094.5122485
     },
     {
+        "id": "fce14531f5",
+        "title_fa": "پیشرفت‌های اصلاح قضایی دولت، ولی دادگاه عالی سرنوشت را می‌سنجد",
+        "title_en": "Coalition scored successes in judicial overhaul, but High Court, elections, will decide its fate",
+        "summary": [
+            "دولت اسرائیل تعدادی از اصلاحات قضایی را تصویب کرد، اما بخش کلیدی تعیین قضات هنوز در معرض چالش است.",
+            "قضات عالی‌دادگاه احتمالاً این تغییرات را لغو می‌کند؛ این تصمیم می‌تواند مسیر اصلاحات را به کلی تغییر دهد.",
+            "انتخابات پیش‌رو می‌تواند فشار سیاسی بر دولت را افزاش دهد و باعث بازنگری در برنامه اصلاحی شود."
+        ],
+        "impact": "قضایای داخلی و روابط بین‌المللی اسرائیل تحت فشار می‌مانند؛ هر تصمیم دادگاه می‌تواند واکنش‌های بین‌المللی را تحریک کند.",
+        "tag": "قضایی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/coalition-scored-successes-in-judicial-overhaul-but-high-court-elections-will-decide-its-fate/",
+        "clean_url": "https://www.timesofisrael.com/coalition-scored-successes-in-judicial-overhaul-but-high-court-elections-will-decide-its-fate",
+        "image": "https://www.bing.com/th?id=ONUT.LIYdASIXTT9WAEQb-y81UA",
+        "timestamp": 1788598988.0
+    },
+    {
         "id": "5391874e91",
         "title_fa": "عباس با زایونیست یواو سِگالوویچ در فهرست عربی می‌جنگد",
         "title_en": "Mansour Abbas is betting on a Zionist to make Palestinian votes count",
@@ -5470,24 +5489,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3p2Z091R213TGV1WGtBN2hmcFlFRS1lVjhBS2NBRHE1MWNiMjdxUVlIZTJTbUxYZ1VkTHhpc0psMXFvSWJjaHFCblBJM1hkZlVlNDRHX09oRTFxRGJJVlV2LWozWHJRdjFDc2NkYWJVdVRKdXNxekdhRF9ZVzNzMkdDNjV2X3UwbHJOTm1fSFdQOUNoNEFmZ2hEcFZTMGds",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788516688.0
-    },
-    {
-        "id": "655400269b",
-        "title_fa": "حمایت‌های برجسته برای انتخابات ۸ سپتامبر",
-        "title_en": "Some high profile endorsements for Sept. 8 election: Letters",
-        "summary": [
-            "مارتا فولر کلارک و دیگران از مائورا سالیوان در انتخابات کنگره حمایت کردند",
-            "این نامه‌ها بر تجربه نظامی و خدمات دولتی او تأکید دارند",
-            "حمایت‌های برجسته می‌تواند شانس پیروزی او را در ناحیه ۱ نیوهمپشایر افزایش دهد"
-        ],
-        "impact": "تقویت شانس مائورا سالیوان در انتخابات، ممکن است ترکیب کنگره را تغییر دهد",
-        "tag": "انتخابات",
-        "urgency": 1,
-        "sentiment": 0.1,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/high-profile-endorsements-sept-8-090448624.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/high-profile-endorsements-sept-8-090448624.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/d377f0dff962ee45fa3e6d5f24a04b427c387742798665c2965357f9d853e396/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fusatoday-portsmouthseacoastonline-light_7237.png",
-        "timestamp": 1788516223.4197855
     }
 ]
