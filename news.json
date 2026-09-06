@@ -2179,6 +2179,25 @@
         "timestamp": 1788634195.2114837
     },
     {
+        "id": "d7c7bb61d3",
+        "title_fa": "ترامپ برای احیای محدودیت رای‌گیری پستی به دادگاه عالی",
+        "title_en": "Trump asks Supreme Court to revive mail-ballot restrictions before midterms",
+        "summary": [
+            "درخواست ترامپ هدفش فعال‌سازی محدودیت‌های پستی است که می‌تواند صدهای دموکرات را کاهش دهد",
+            "اگر دادگاه موافقت کند، نتایج میانی‌ها می‌تواند به نفع جمهوری‌خواهان تغییر کند",
+            "قضات فدرال پیشین طرح را مسدود کرده بود؛ این نشان از جدال قضایی عمیق دارد"
+        ],
+        "impact": "ممکن است میلیون‌ها رأی‌گیرنده پستی از شرکت در میانی‌ها منع شوند و تعادل کنگره تحت فشار قرار گیرد",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-asks-supreme-court-revive-173652144.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-asks-supreme-court-revive-173652144.html",
+        "image": "https://www.bing.com/th?id=ONUT.cLGoXFVmfvM5959gZBK6Hw",
+        "timestamp": 1788633363.0
+    },
+    {
         "id": "749434b3b5",
         "title_fa": "ایران حملات نفتکش‌های آمریکایی را محکوم کرد",
         "title_en": "Iran condemns US strikes on oil tankers as 'illegal, aggressive'",
@@ -5475,23 +5494,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd3FKX0pGNHE1R3pSWFdxekVScEtDYk5jazNtRGprX1oyU2hOTGg2d0tLRHMwTVdqbEhucm13eWlURGpQSU1IWmJQMk1zM25KYVoyclRRR1pWY09ITkMyaUdyQ0RTeTdBUXV4RXpMbFNjbXJUdmdsdEhFaXJSVWc3OXhyV2pUMDhsNWtDNkJiWW9xdURCVXRIOEkwbExJcVNVLW40",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788549801.0
-    },
-    {
-        "id": "867aa6cc36",
-        "title_fa": "استرالیا در تردید میان آمریکا و خاورمیانه",
-        "title_en": "Australia appears confused about its place in the global world order",
-        "summary": [
-            "سیاست‌مداران استرالیا هنوز درباره هزینه‌های وابستگی به آمریکا و خطرات ناشی از جنگ‌های آن در خاورمیانه بحثی جدی نکرده‌اند",
-            "ادغام تدریجی مناقشات اوکراین و خلیج فارس، به‌ویژه همکاری فنی ایران‑روسی، فشار جدیدی بر استراتژی امنیتی استرالیا ایجاد می‌کند"
-        ],
-        "impact": "عدم تصمیم‌گیری واضح می‌تواند روابط تجاری و نظامی استرالیا را با هر دو بلوک آمریکا و روسیه‑ایران به خطر بیندازد",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ABC (Australian Broadcasting Corporation)",
-        "url": "https://www.abc.net.au/news/2026-09-05/united-states-richard-marles-donald-trump-aukus-paul-keating/107097650",
-        "clean_url": "https://www.abc.net.au/news/2026-09-05/united-states-richard-marles-donald-trump-aukus-paul-keating/107097650",
-        "image": "https://www.bing.com/th?id=ONUT.LK0o6HtW-pvN7bH-L9MJDg",
-        "timestamp": 1788549534.588698
     }
 ]
