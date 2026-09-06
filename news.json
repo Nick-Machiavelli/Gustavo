@@ -55,6 +55,25 @@
         "timestamp": 1788700910.249418
     },
     {
+        "id": "c605cf08e4",
+        "title_fa": "سفیر آمریکا اد ملباند را به ضد‌یهودی متهم کرد",
+        "title_en": "US ambassador to Israel accuses Ed Miliband of 'Jew hate' over Gaza",
+        "summary": [
+            "سفیر آمریکا در اسرائیل اد ملباند را به‌خاطر اظهاراتش درباره گازا «ضد‌یهودی» متهم کرد",
+            "این اتهام پس از اعلام ملباند مبنی بر «بازنشانی» سیاست بریتانیا نسبت به اسرائیل مطرح شد",
+            "ادعای سفیر می‌تواند روابط سیاسی بین آمریکا، بریتانیا و اسرائیل را تنش‌زا کند"
+        ],
+        "impact": "تنش‌های سیاسی بین سه کشور تشدید می‌شود",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-ie/politics/government/us-ambassador-to-israel-accuses-ed-miliband-of-jew-hate-over-gaza/ar-AA2bFRlI",
+        "clean_url": "https://www.msn.com/en-ie/politics/government/us-ambassador-to-israel-accuses-ed-miliband-of-jew-hate-over-gaza/ar-AA2bFRlI",
+        "image": "https://s.yimg.com/lo/mysterio/api/d725ae970dbc06fe717ef16087ccda49f8cc374b20ce90799f658a137769ad36/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/the_independent_577/245d8efd0963e2f62a8756297c8d30d1.jpg",
+        "timestamp": 1788700108.0
+    },
+    {
         "id": "64b2f153b0",
         "title_fa": "جنگ ایران: هزینه صلح در برابر جنگ",
         "title_en": "The Iran War: Between the Costs of Peace and War",
@@ -414,6 +433,25 @@
         "clean_url": "https://www.businesstoday.in/world/story/next-big-war-israel-says-iran-planning-multi-front-attack-with-hezbollah-hamas-houthis-553500-2026-09-06",
         "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6a9d31f71cfa2-hezbollah--hamas--houthis-in-joint-drill-with-iran-for-simultaneous-strike-062713751-16x9.jpg",
         "timestamp": 1788688560.0
+    },
+    {
+        "id": "6462850cc9",
+        "title_fa": "عراقی ارگچی با وزرای خارجه ترکیه و عربستان تماس گرفت",
+        "title_en": "Iran's Foreign Minister Holds Talks With Turkish, Saudi Counterparts",
+        "summary": [
+            "وزیر خارجه ایران با همتایان ترکیه و عربستان درباره تحولات منطقه‌ای گفت‌وگو کرد",
+            "امنیت در تنگه هرمز جزو موضوعات اصلی مکالمه بود",
+            "تماس‌ها در چارچوب تلاش‌های دیپلماتیک ایران برای کاهش تنش با آمریکا و اسرائیل انجام شد"
+        ],
+        "impact": "فشار دیپلماتیک بر آمریکا و اسرائیل ممکن است کاهش یابد",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Khaama Press",
+        "url": "https://www.khaama.com/irans-foreign-minister-holds-talks-with-turkish-saudi-counterparts/",
+        "clean_url": "https://www.khaama.com/irans-foreign-minister-holds-talks-with-turkish-saudi-counterparts",
+        "image": "https://www.khaama.com/wp-content/uploads/2026/09/Iran-and-Suadi-arabia-Turkish-Fms.webp",
+        "timestamp": 1788688140.0
     },
     {
         "id": "3c976d0084",
@@ -868,6 +906,25 @@
         "timestamp": 1788677079.0
     },
     {
+        "id": "3b7aa421a0",
+        "title_fa": "دیدار نمایندگان ترامپ با زلنسکی در کی‌یف",
+        "title_en": "دیدار فرستادگان ترامپ با زلنسکی در کی‌یف پس از رایزنی با پوتین",
+        "summary": [
+            "استیو ویتکاف و جرد کوشنر پس از مذاکرات سه ساعته با پوتین به کی‌یف رفتند",
+            "آن‌ها با زلنسکی و مقامات اوکراین درباره مسیر پایان جنگ گفتگو کردند",
+            "روسیه مذاکرات را «بسیار مفید» خواند اما رایتزر پیشرفت ملموسی نمی‌بیند"
+        ],
+        "impact": "فشار دیپلماتیک آمریکا برای خاتمه جنگ اوکراین افزایش می‌یابد",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609066854",
+        "clean_url": "https://www.iranintl.com/202609066854",
+        "image": "http://www.bing.com/th?id=ONUT.xJ1k9g9hnNQWzFqCMKWBgQ&pid=News",
+        "timestamp": 1788676920.0
+    },
+    {
         "id": "dd4cd7bf2b",
         "title_fa": "هزینه سنگ طلا برای ایرانیان در کمپین اقتصادی ترامپ",
         "title_en": "US-Iran war: Could 'gold on lease' cost Iranians heavily? What expert warned as Trump steps up economic campaign",
@@ -1234,6 +1291,26 @@
         "timestamp": 1788662410.1052501
     },
     {
+        "id": "499cda3346",
+        "title_fa": "حمله اسرائیل بیمارستان غندور در نبطیه را نابود کرد",
+        "title_en": "Israeli airstrikes completely destroyed hospital in southern Lebanon: Health Ministry",
+        "summary": [
+            "حملات هوایی اسرائیل کل بیمارستان غندور در نبطیه‌ال‑فوقا را به‌طور کامل تخریب کرد",
+            "وزارت بهداشت لبنان این تخریب را نقض قوانین بین‌المللی به شمار می‌آورد",
+            "بیمارستان پیش از دو ماه به‌دلیل حملات قبلی تعطیل بود و به‌عنوان پناهگاه برای آوارگان عمل می‌کرد",
+            "از ۲ مارس تا کنون ۱۷ بیمارستان دیگر نیز آسیب دیده‌اند"
+        ],
+        "impact": "کاهش شدید توان درمانی جنوب لبنان و تشدید بحران انسانی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "anews",
+        "url": "https://www.anews.com.tr/middle-east/2026/09/06/israeli-airstrikes-completely-destroyed-hospital-in-southern-lebanon-health-ministry",
+        "clean_url": "https://www.anews.com.tr/middle-east/2026/09/06/israeli-airstrikes-completely-destroyed-hospital-in-southern-lebanon-health-ministry",
+        "image": "https://ia.tmgrup.com.tr/124b89/806/378/0/67/800/441?u=https://i.tmgrup.com.tr/anews/v1/2026/09/06/israeli-airstrikes-completely-destroyed-hospital-in-southern-lebanon-health-ministry-1788699439334.jpg",
+        "timestamp": 1788660000.0
+    },
+    {
         "id": "c9ef14a8a2",
         "title_fa": "سپاه موشک‌های بالستیک به ناوهای آمریکایی شلیک کرد",
         "title_en": "Iran Says Missiles Fired at US Warships",
@@ -1308,6 +1385,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Jb2VPcl9zWHYyel9VYXE5RHpuSmVtRWVoSnRtX2lvMjR0VFJyWkhwQVI5aGlkdXgzV1R0NVhMV3RrcXFwclBOc2RBRGNKNFhZMjh5MjZJNF9uSktPa19leVo3alNpelFSRkE0NzEzeDFfRE3SAYcBQVVfeXFMTlFUVTJ0U3Vld1N0SXAyLTlhM09jdW5XMDdkZ0JIX0NrXzRLTlZEZ0thRG9OdWgtVjlxR2R5QzB0a3UwV1dxZkw2SmlORjlNcVhIRmJXZHJVUW9jWUcxRXcycGNtX0VXcHBoN1p0em1iV0p4X3JHWGp6N01UZnYzRUl3WEpJLUg0",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788654240.0
+    },
+    {
+        "id": "5a2624b5a6",
+        "title_fa": "دادگاه پراتو کارگر را بابت دست‌مالی‌های ناخواسته جبران کرد",
+        "title_en": "Workplace harassment, even unwanted caresses and confidences can be compensated",
+        "summary": [
+            "دادگاه کار پراتو تصمیم گرفت کارفرما به خاطر تماس‌های جسمی ناخواسته به کارمند خسارت بدهد",
+            "رفتار شامل نوازش‌های غیرمجاز و گفت‌وگوهای شخصی بدون رضایت بود",
+            "حکم شامل پرداخت غرامت و تأکید بر ممنوعیت چنین رفتارها در محیط کار است"
+        ],
+        "impact": "شرکت‌ها ملزم به بازنگری سیاست‌های harassment می‌شوند",
+        "tag": "حقوقی",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260906KRONOS-202609121285254141_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1788652800.0
     },
     {
         "id": "23e80e0a7d",
@@ -1563,6 +1659,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9haUhLblF5cUJOWk1ueEpwbUtyd2J3YU0xbTExRnJDcHRjd29NUDBvOTI2c3NZSUlMa0tZclJYQ2Z4eXB2QnlLNDdNUzhRT2V1enBTX3prOWJRZXRxODdQOTFScVFpUXQ1aXc",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788638427.0
+    },
+    {
+        "id": "9765b28ed8",
+        "title_fa": "پوتین ۷۲ ساعت توقف حملات به کی‌یف را اعلام کرد",
+        "title_en": "Putin orders 72-hour pause in Kyiv strikes as Ukraine agrees to halt attacks on Moscow",
+        "summary": [
+            "زلنسکی توافق کرد حملات به مسکو را متوقف کند",
+            "پوتین به همین دلیل ۷۲ ساعت توقف حملات هوایی به کی‌یف را دستور داد",
+            "این گام نشانگر احتمال مذاکرات محدود بین روسیه و اوکراین است"
+        ],
+        "impact": "کاهش موقت تلفات نظامی و فرصت برای مذاکرات فراهم می‌شود",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/putin-orders-72-hour-pause-in-kyiv-strikes-as-ukraine-agrees-to-halt-attacks-on-moscow/",
+        "clean_url": "https://www.timesofisrael.com/putin-orders-72-hour-pause-in-kyiv-strikes-as-ukraine-agrees-to-halt-attacks-on-moscow",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26239490041422.jpg",
+        "timestamp": 1788638280.0
     },
     {
         "id": "b9ed4a0d1f",
@@ -2121,6 +2236,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUlTZFBuUlJVZUprUjUyUWdLUmkzSzR5RmZIOEZkXzAtWXppQ0tfQ2hCWDNiamwxOWxtbzNkMW1KdEFPZWtuamFSVEoxZzJpVFJjMjQ2a3N2eTA0aTM1VllnMXBiNU96VzJIT0JIUWpwRmtuX1oyWlhSVEppSDJUenZVcEI4X0VaamNxc053UU9BSHVWOFZUaUxVblBHNGlaM2I2NHU3MFBsTFhIWFNoYVR2Vkk4TnNrd2RkMUpqSjhxOUs1bW1ua18wNDQ0TWRPUnc",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788617536.0
+    },
+    {
+        "id": "e42192074f",
+        "title_fa": "پیمان مکه: اتحاد دفاعی سه کشور خاورمیانه",
+        "title_en": "The Mecca Pact: An alliance of three states or the beginning of a new security architecture?",
+        "summary": [
+            "عربستان، ترکیه و پاکستان پیمان دفاعی مشترک امضا کردند",
+            "تعهد به پاسخ نظامی به هر حمله علیه یکی از اعضا اعلام شد",
+            "جزئیات تعهدات هنوز منتشر نشده و قابلیت تبدیل به معماری امنیتی منطقه‌ای نامشخص است"
+        ],
+        "impact": "احتمال بروز تنش‌های جدید در صورت حمله به یکی از اعضا افزایش می‌یابد",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Defence24.com",
+        "url": "https://defence24.com/geopolitics/the-mecca-pact-an-alliance-of-three-states-or-the-beginning-of-a-new-security-architecture",
+        "clean_url": "https://defence24.com/geopolitics/the-mecca-pact-an-alliance-of-three-states-or-the-beginning-of-a-new-security-architecture",
+        "image": "https://www.bing.com/th?id=ONUT.cznzeKGSGzQRY4hTu0SkIA",
+        "timestamp": 1788617518.0
     },
     {
         "id": "1a42157721",
@@ -5355,135 +5489,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/elections/donald-trump-has-no-idea-of-the-tidal-wave-that-s-coming-for-him/ar-AA2bz86R",
         "image": "https://www.bing.com/th?id=ONUT.vXWaVcgJOl6gbvCQv8EOog",
         "timestamp": 1788534774.300928
-    },
-    {
-        "id": "3fc9c5337b",
-        "title_fa": "ایالات متحده بانک ترکیه‌ای را به‌دلیل ارتباط با ایران تحریم کرد",
-        "title_en": "US sanctions Turkey-based bank over Iran ties",
-        "summary": [
-            "دولت آمریکا بانک ترکیه‌ای را به‌خاطر تراکنش‌های مالی با ایران هدف قرار داد",
-            "تحریم شامل مسدودسازی دارایی‌های بانک در آمریکا و ممنوعیت استفاده از سیستم مالی سوئفت است",
-            "این اقدام فشار اقتصادی بر ایران را تشدید می‌کند و روابط مالی ترکیه‑ایران را تحت فشار می‌گذارد",
-            "بانک ممکن است برای دور زدن تحریم به روش‌های جایگزین یا شرکای جدید روی آورد"
-        ],
-        "impact": "تحریم بانک ترکیه‌ای، دسترسی ایران به منابع مالی بین‌المللی را محدود می‌کند",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Al-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNU9zWFZ5bGI2UWgwLXg4bFE5amp2Slo4VVIwR3Y1YU9SZUNGQlEtWTFTbW1PMlgzdkFiUHRmSTRsLURvQkEwUjdVMUdXTm9ySTk1Y05ZQmVRelpyUHNHTEM3aXpSMWpQVnlfa0h4VFdzMmdGSVpmWVZOMVZycFBKZU5uUXg2X3JHcUN0c21nSUc1Vno5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNU9zWFZ5bGI2UWgwLXg4bFE5amp2Slo4VVIwR3Y1YU9SZUNGQlEtWTFTbW1PMlgzdkFiUHRmSTRsLURvQkEwUjdVMUdXTm9ySTk1Y05ZQmVRelpyUHNHTEM3aXpSMWpQVnlfa0h4VFdzMmdGSVpmWVZOMVZycFBKZU5uUXg2X3JHcUN0c21nSUc1Vno5",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788534635.0
-    },
-    {
-        "id": "e1baac54ba",
-        "title_fa": "نقش ایران در بخشودگی دیکتاتور پس از بمب‌گذاری بغداد ۲۰۰۹",
-        "title_en": "I survived the 2009 Baghdad bombing. Here’s how Iran forced us to forgive the dictator who did it",
-        "summary": [
-            "نویسنده ادعا می‌کند پس از بمب‌گذاری در بغداد، ایران فشار برای بخشودگی صدام حسین اعمال کرد",
-            "این روایت نشانگر تلاش‌های مخفیانه تهران برای شکل‌دهی به سیاست‌های منطقه‌ای پس از سقوط صدام است",
-            "منابع مستقل برای این ادعاها وجود ندارد؛ بنابراین باید با احتیاط بررسی شود"
-        ],
-        "impact": "تقویت روایت‌های ضد‑ایرانی در فضای عمومی و احتمال تشدید تنش‌های ایدئولوژیک",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/i-survived-the-2009-baghdad-bombing-here-s-how-iran-forced-us-to-forgive-the-dictator-who-did-it/ar-AA2bzp6t?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/i-survived-the-2009-baghdad-bombing-here-s-how-iran-forced-us-to-forgive-the-dictator-who-did-it/ar-AA2bzp6t",
-        "image": "https://www.bing.com/th?id=ONUT.W5oU0FEebHgtYKQr8wQxxA",
-        "timestamp": 1788534187.9802542
-    },
-    {
-        "id": "451ebb6b79",
-        "title_fa": "تحریم بانک ترکیه‌ای، رگ مالی ایران هدف شد",
-        "title_en": "US issues sanctions on Turkish bank that it calls a ‘critical financial lifeline’ for Iran",
-        "summary": [
-            "آمریکا بانک ترکیه‌ای را که به‌عنوان مسیر اصلی انتقال پول به ایران عمل می‌کند، تحریم کرد تا جریان‌های مالی پناهنده به تحریم‌ها را قطع کند",
-            "تحریم باعث می‌شود بانک‌های ترکیه‌ای از همکاری با ایران دست بکشند و تهران مجبور به یافتن مسیرهای جایگزین مانند رمزارز یا شرکای دیگر شود",
-            "این اقدام فشار اقتصادی بر ایران را افزیش می‌دهد و نشان می‌دهد ایالات متحده قصد دارد فشار مالی را حتی در برابر همسایگان منطقه‌ای تقویت کند"
-        ],
-        "impact": "دسترسی ایران به ارزهای بین‌المللی محدود می‌شود و فشار مالی بر اقتصاد کشور شدت می‌گیرد",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanB5cnFJYmZzM1AxbjlvTGZnanhyQzRiYWIzXzNPV1Y1NzhkRlUxZEIxMUdMVDZiX3l3U2N0dDNUZnRNeWF5UHM0SHhJNE55TmtyUDBOSHZWekxwdGZaVUJrWUM1QnpnY2R0TGlieVNhR3ZrTGV0Vi1KYk41bHVwSW4zRXRmcFNILVBXTzNQdm0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanB5cnFJYmZzM1AxbjlvTGZnanhyQzRiYWIzXzNPV1Y1NzhkRlUxZEIxMUdMVDZiX3l3U2N0dDNUZnRNeWF5UHM0SHhJNE55TmtyUDBOSHZWekxwdGZaVUJrWUM1QnpnY2R0TGlieVNhR3ZrTGV0Vi1KYk41bHVwSW4zRXRmcFNILVBXTzNQdm0",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788534180.0
-    },
-    {
-        "id": "4e74e3548c",
-        "title_fa": "خبر بین‌المللی — Japan's former defense chief urges PM به challenge U.S. تحری",
-        "title_en": "Japan's former defense chief urges PM to challenge U.S. sanctions on ICC president",
-        "summary": [
-            "Gen Nakatani, a veteran lawmaker in the governing party, urged Prime Minister Sanae Takaichi to protest more firmly and demand that the U.S. withdraw the measures."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Los Angeles Times",
-        "url": "https://www.msn.com/en-us/news/other/japans-former-defense-chief-urges-pm-to-challenge-us-sanctions-on-icc-president/ar-AA2bzYVr",
-        "clean_url": "https://www.msn.com/en-us/news/other/japans-former-defense-chief-urges-pm-to-challenge-us-sanctions-on-icc-president/ar-AA2bzYVr",
-        "image": "https://dims.apnews.com/dims4/default/5747296/2147483647/strip/true/crop/3938x2624+158+0/resize/980x653!/quality/90/?url=https://assets.apnews.com/74/bf/304f1e39d80a0681328c26e0ed7a/43e29f5bcf584098a11f4ff14f37668b",
-        "timestamp": 1788533960.0
-    },
-    {
-        "id": "5c55ffc190",
-        "title_fa": "ایالات متحده بانک ترکیه‌ای با ارتباط ایران را تحریم کرد",
-        "title_en": "US Sanctions Small Turkish Investment Bank Over Iran Links",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا بانک ترکیه‌ای را به دلیل ارتباط با ایران تحریم کرد",
-            "این تحریم می‌تواند دسترسی بانک به سیستم مالی بین‌المللی را قطع کند",
-            "هدف، محدود کردن جریان‌های مالی به برنامه هسته‌ای ایران است"
-        ],
-        "impact": "قطع مسیرهای مالی بانک ترکیه‌ای، فشار بر اقتصاد ایران",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUV9VUTJhVExOaWJLaVk3YWRxUWNjWDBLQWJ4bkFKWEY0TlZvLU1lVVRnbWVadC1SM2VDa0NzYVpYbUVGd0p5NzdibW5wRVl3bkFZa3N5NW9MSmhVaG5sTXF2M3IzS3c5ODhLdXM2bDlWT2ZOc1F6eGgwVjRWb212RWxpb3BtZmcwRExxSFRzejBTaTVzRG5LX2ctNXBJcW91bFBQdWh4ZE4zYlBVOGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUV9VUTJhVExOaWJLaVk3YWRxUWNjWDBLQWJ4bkFKWEY0TlZvLU1lVVRnbWVadC1SM2VDa0NzYVpYbUVGd0p5NzdibW5wRVl3bkFZa3N5NW9MSmhVaG5sTXF2M3IzS3c5ODhLdXM2bDlWT2ZOc1F6eGgwVjRWb212RWxpb3BtZmcwRExxSFRzejBTaTVzRG5LX2ctNXBJcW91bFBQdWh4ZE4zYlBVOGc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788533858.0
-    },
-    {
-        "id": "1929221d80",
-        "title_fa": "«تکه بزرگی از قلب ما از این زمین جا ماند»: خانواده‌های نظامی درباره سربازان کشته و زخمی شده در جنگ ایران - ای‌بی‌سی نیوز",
-        "title_en": "'A big piece of our hearts left this earth': Military families reflect on service members killed, injured in Iran war - ABC News",
-        "summary": [
-            "'A big piece of our hearts left this earth': Military families reflect on service members killed, injured in Iran war ABC News - Breaking News, Latest News and Videos"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzJWcmVEeGZUdnNJbkdEZXJVSXdZSHJTNUphSjBXRDNLbnBqbTNXYm1jM25LU0gtelZ0d2FTX2FNRHFGQTc2OUN5TnhibUpWbU1aQ2xZcjdYX2UyaDNJOVhjOU5CZWI4MlJkWF9wOEp3U1pHVTF4V0ZCcDZCTTVHZWVlYVF5aHFyX1hlbU94UW1ya0tibllWMmpMaEd4VE5Oc3BZ0gGoAUFVX3lxTE5GVnZNemM2TUZwdTF2c0ZPeUV2T1NjbGxZOFc4Vk12OFVjUEF2LXJZbzdNajhlYnFBcldmYWhUalZfZ01HZE1TakpsaHV4SkttOEFrQWNUejlINngteDRRTFNVNGQyQ2Q1UXhQeXhKZDhNSkRweXpybW84NFhFUzUyMGFNUUQ0NUNteUdiVFM0bHR3b3c4Mjdtb2JvQ2ZPNGJuSWkwRy1mVg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzJWcmVEeGZUdnNJbkdEZXJVSXdZSHJTNUphSjBXRDNLbnBqbTNXYm1jM25LU0gtelZ0d2FTX2FNRHFGQTc2OUN5TnhibUpWbU1aQ2xZcjdYX2UyaDNJOVhjOU5CZWI4MlJkWF9wOEp3U1pHVTF4V0ZCcDZCTTVHZWVlYVF5aHFyX1hlbU94UW1ya0tibllWMmpMaEd4VE5Oc3BZ0gGoAUFVX3lxTE5GVnZNemM2TUZwdTF2c0ZPeUV2T1NjbGxZOFc4Vk12OFVjUEF2LXJZbzdNajhlYnFBcldmYWhUalZfZ01HZE1TakpsaHV4SkttOEFrQWNUejlINngteDRRTFNVNGQyQ2Q1UXhQeXhKZDhNSkRweXpybW84NFhFUzUyMGFNUUQ0NUNteUdiVFM0bHR3b3c4Mjdtb2JvQ2ZPNGJuSWkwRy1mVg",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788533130.0
-    },
-    {
-        "id": "a843da84bd",
-        "title_fa": "آمریکا شرکت‌های ترکیه‌ای مرتبط با ایران را تحریم کرد",
-        "title_en": "US targets Turkish entities with Iran-related sanctions",
-        "summary": [
-            "واحدهای مالی آمریکا شرکت‌های ترکیه‌ای را که در زنجیره‌های مالی ایران فعال‌اند هدف گرفتند",
-            "تحریم‌های ثانویه می‌تواند دسترسی این شرکت‌ها به سیستم مالی بین‌المللی را مسدود کند",
-            "اقدام آمریکا فشار بیشتری بر ترکیه برای قطع ارتباطات تجاری با تهران اعمال می‌کند"
-        ],
-        "impact": "کاهش توان مالی ترکیه در تجارت با ایران و احتمال بروز تنش‌های دیپلماتیک بین دو کشور",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSml5Y093OWVORkhPb29wMzl1QlYxcWtjWGYwUTNFSUh3bkNTU3NJZ0d3eG9UbUNxeXM4eGE3U2V5ejVqaThPemU1WDBoMndmY0NxOUhKamRhUExmMjBnMDY2RXQ1b2FBMFI4X1NOcjJZNDlaSDR1dGZSclJoM3FOOElibjhITXVjS1ZiVTBpeFNUVXZuaWlORUNENUw1YVJNcFRYUXNwRERJZTgxb1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSml5Y093OWVORkhPb29wMzl1QlYxcWtjWGYwUTNFSUh3bkNTU3NJZ0d3eG9UbUNxeXM4eGE3U2V5ejVqaThPemU1WDBoMndmY0NxOUhKamRhUExmMjBnMDY2RXQ1b2FBMFI4X1NOcjJZNDlaSDR1dGZSclJoM3FOOElibjhITXVjS1ZiVTBpeFNUVXZuaWlORUNENUw1YVJNcFRYUXNwRERJZTgxb1E",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788533010.0
     }
 ]
