@@ -19,6 +19,25 @@
         "timestamp": 1788716824.264392
     },
     {
+        "id": "f3760f615f",
+        "title_fa": "مدرسه‌ای که در اوایل جنگ سوخت، اکنون یادبود کودکان",
+        "title_en": "Iranian school struck in war's earliest attacks now a memorial for children",
+        "summary": [
+            "مدرسه‌ای که در اولین حملات جنگ ایران‑عراق هدف شد، امروز به نماد مقاومت تبدیل شده.",
+            "تابلوهای نقشه ایران، مدادهای بزرگ و پرتره‌های علم‌پژوهان حس غم و افتخار را در بازدیدکنندگان برمی‌انگیزد.",
+            "یادبود می‌تواند به‌عنوان ابزار آموزشی برای نسل جدید درباره هزینه‌های جنگ به کار رود."
+        ],
+        "impact": "تقویت حافظه جمعی درباره تلفات جنگ و افزایش فشار داخلی برای جلوگیری از تکرار درگیری‌ها",
+        "tag": "یادبود",
+        "urgency": 2,
+        "sentiment": -0.8,
+        "source": "The Tribune-Democrat",
+        "url": "https://www.tribdem.com/news/latest_news/iranian-school-struck-in-wars-earliest-attacks-now-a-memorial-for-children/article_e1d29ddd-aa15-55e6-aa8f-7f2b742eaaab.html",
+        "clean_url": "https://www.tribdem.com/news/latest_news/iranian-school-struck-in-wars-earliest-attacks-now-a-memorial-for-children/article_e1d29ddd-aa15-55e6-aa8f-7f2b742eaaab.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/f/5c/f5c30a48-c798-5d69-a7ac-276265f91939/6a9d7ced1449c.image.jpg?crop=1763,926,0,124&resize=1200,630&order=crop,resize",
+        "timestamp": 1788715800.0
+    },
+    {
         "id": "8196099b29",
         "title_fa": "سخن‌پذیری آمریکا برای صلح اوکراین‑روسیه",
         "title_en": "Talking peace in the Russia-Ukraine war",
@@ -5472,25 +5491,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-blacklists-turkish-bank-and-two-subsidiaries-over-alleged-iran-financial-links/ar-AA2bAS60",
         "image": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/golden_1788549014127_29316262-e948-4b3b-96f6-fc0b33e771dc_1788549021457_ff6509d5-1ca7-4ab9-9574-56e10dca639f_5c5c8405-81af-44ee-94f6-774f0f820247_78e1991f-8f7a-4d0b-9a5f-21eb82cdaa77.png",
         "timestamp": 1788549477.0
-    },
-    {
-        "id": "d7bc02ef7e",
-        "title_fa": "تحریم بانک ترکیه‌ای برای قطع جریان مالی ایران",
-        "title_en": "US Targets Turkish Bank In New Bid To Cut Iran's Financial Lifelines",
-        "summary": [
-            "آمریکا بانک گلدن گلوبال و دو شرکت زیرمجموعه‌اش را به فهرست SDN افزود و دسترسی به سیستم مالی آمریکا را مسدود کرد",
-            "این اقدام بخشی از عملیات «Economic Outcast» است که هدفش فشار بر درآمدهای نفتی ایران است",
-            "بانک ادعا می‌کند روابط مالی با ایران ندارد، اما تحریم‌ها می‌تواند روابط تجاری ترکیه‑ایران را تحت فشار قرار دهد",
-            "مجوز عمومی برای تسویه حساب‌ها صادر شد؛ اما فعالیت‌های آینده بانک به‌شدت محدود می‌شود"
-        ],
-        "impact": "جریان درآمد نفتی ایران تحت فشار می‌افتد و توان مالی برای خرید تجهیزات نظامی کاهش می‌یابد",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-turkey-bank-sanctions-treasury-economic-outcast/33847194.html",
-        "clean_url": "https://www.rferl.org/a/iran-turkey-bank-sanctions-treasury-economic-outcast/33847194.html",
-        "image": "https://gdb.rferl.org/55f6dde7-e814-4bf7-d3cd-08de3c914337_cx26_cy24_cw73_w1200_h630.jpg",
-        "timestamp": 1788549360.0
     }
 ]
