@@ -1,5 +1,24 @@
 [
     {
+        "id": "9e26da3dbe",
+        "title_fa": "قوه قضائیه به دهلی می‌رود؛ گام جدید دیپلماسی قضایی",
+        "title_en": "A new chapter in judicial diplomacy",
+        "summary": [
+            "سفر رئیس قوه قضائیه به دهلی نشانگر تقویت روابط قضایی ایران با برکس است",
+            "برکس به عنوان بستر حقوقی برای مقابله با تحریم‌های غربی به کار گرفته می‌شود",
+            "ایران سعی دارد نقش قانونی بین‌المللی خود را در ساختارهای جدید قدرت گسترش دهد"
+        ],
+        "impact": "امکان استفاده از ابزارهای حقوقی بین‌المللی برای کاهش فشارهای تحریمی",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/529758/A-new-chapter-in-judicial-diplomacy",
+        "clean_url": "https://www.tehrantimes.com/news/529758/A-new-chapter-in-judicial-diplomacy",
+        "image": "https://www.bing.com/th?id=ONUT.xCeVbIiyVfOu-25s1xk_lQ",
+        "timestamp": 1788728569.2872138
+    },
+    {
         "id": "4340b7aaff",
         "title_fa": "تیم میلر به عملکرد پِت هگست هجوم می‌کند",
         "title_en": "Why Tim Miller says Pete Hegseth is struggling in his role",
@@ -499,6 +518,25 @@
         "clean_url": "https://www.iranintl.com/202609062295",
         "image": "https://www.bing.com/th?id=ONUT.huuhVBPxMYdaTo7FyEexDA",
         "timestamp": 1788702422.7190263
+    },
+    {
+        "id": "355376ca23",
+        "title_fa": "ترامپ در آزمون هرمز؛ ایران پیش‌حمله می‌گوید",
+        "title_en": "Iran signals possible first strikes as Trump faces a Strait of Hormuz test",
+        "summary": [
+            "ترامپ با فشارهای اقتصادی و تهدیدات نظامی به ایران فشار می‌آورد؛ ایران واکنش پیش‌پیشگیرانه را مطرح کرد",
+            "اظهار نماینده ارتش نشان از احتمال گسترش درگیری در تنگه هرمز دارد",
+            "اگر پیش‌حمله رخ دهد، ناوبری در هرمز مختل می‌شود و قیمت نفت جهانی می‌جهد"
+        ],
+        "impact": "اختلال ناوبری هرمز و افزایش نااطمینانی در بازار نفت",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/iran-signals-possible-first-strikes-as-trump-faces-a-strait-of-hormuz-test/ar-AA2bGHoR",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-signals-possible-first-strikes-as-trump-faces-a-strait-of-hormuz-test/ar-AA2bGHoR",
+        "image": "http://www.bing.com/th?id=ONUT.j7BoNHV9vi9BEc91CQi9ww&pid=News",
+        "timestamp": 1788701716.0
     },
     {
         "id": "001318135c",
@@ -5443,40 +5481,5 @@
         "clean_url": "https://www.republicworld.com/global-news/us-strikes-3-iranian-oil-tankers-iran-claims-retaliatory-strikes-on-american-warships-2026-09-05-136393",
         "image": "https://www.bing.com/th?id=ONUT.xgi8r4-ZSc_FDye6vujLAQ",
         "timestamp": 1788563465.0
-    },
-    {
-        "id": "4e46684715",
-        "title_fa": "نمایندگان ترامپ به مسکو سفر کردند",
-        "title_en": "Trump's envoys Jared Kushner and Steve Witkoff meet Putin and speak for more than three hours",
-        "summary": [
-            "جرد کوشنر و استیو ویتکاف بیش از سه ساعت با ولادیمیر پوتین در کرملین گفت‌وگو کردند",
-            "مذاکرات به‌صورت بسته برگزار شد و جزئیات هنوز فاش نشده"
-        ],
-        "impact": "امکان بازگشت مذاکرات سطح بالا بین آمریکا و روسیه، اما اثر ملموس هنوز نامشخص",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Daily Mail on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/trump-s-envoys-jared-kushner-and-steve-witkoff-meet-putin-and-speak-for-more-than-three-hours/ar-AA2bDHjz?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/trump-s-envoys-jared-kushner-and-steve-witkoff-meet-putin-and-speak-for-more-than-three-hours/ar-AA2bDHjz",
-        "image": "https://www.bing.com/th?id=ONUT.cqb_UnXoJbhc4Q2JrhvKMg",
-        "timestamp": 1788563465.0
-    },
-    {
-        "id": "05b3183897",
-        "title_fa": "پس از پایان جنگ ایران، کدام شرکت‌ها پاکسازی خواهند شد؟: مگوایر",
-        "title_en": "Which Firms Will Clean Up After the Iran War is Finally Over?: Maguire",
-        "summary": [
-            "Which Firms Will Clean Up After the Iran War is Finally Over?: Maguire EnergyNow.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZktZaE05UVpOVGdLSlRYZDJMTkVCZDJBZ0ZuNnpHdEdEUFp6TGEwUTZpQVI4U3RvTmNuUnBZYjBNY2d1R01nbGUtMk8yS0c1YXlWZzV2YTRsQ1NiTlZlMUdCWHlibjJZNGlRRmFyU1B5bXdPei1CakhyczN6NG84SkF5S1lSOWxISzZuVVBUMmJsSUUwbFBhbmhEZC1OaGZT?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZktZaE05UVpOVGdLSlRYZDJMTkVCZDJBZ0ZuNnpHdEdEUFp6TGEwUTZpQVI4U3RvTmNuUnBZYjBNY2d1R01nbGUtMk8yS0c1YXlWZzV2YTRsQ1NiTlZlMUdCWHlibjJZNGlRRmFyU1B5bXdPei1CakhyczN6NG84SkF5S1lSOWxISzZuVVBUMmJsSUUwbFBhbmhEZC1OaGZT",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788562813.0
     }
 ]
