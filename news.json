@@ -646,6 +646,24 @@
         "timestamp": 1788631412.7843702
     },
     {
+        "id": "6084f2e45d",
+        "title_fa": "لتونی و لتونی‌ا بررسی ممنوعیت گندم روسیه",
+        "title_en": "Latvia, Lithuania weigh ban on Russian grain transit amid rising shipments",
+        "summary": [
+            "پس از حملات پهپادی اوکراین، روسیه مسیرهای صادراتی گندم را به بنادر بالتیک منتقل کرده است",
+            "لتونی و لتونی‌ا قصد دارند عبور گندم روسیه را مسدود کنند؛ این اقدام فشار اقتصادی بر مسکن روسیه را افزایش می‌دهد"
+        ],
+        "impact": "مسدود شدن عبور گندم روسیه می‌تواند صادرات آن را به‌سختی کاهش دهد و فشار تحریم‌ها را تقویت کند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "AzerNews",
+        "url": "https://www.azernews.az/region/263442.html",
+        "clean_url": "https://www.azernews.az/region/263442.html",
+        "image": "https://www.azernews.az/media/2026/09/05/1033422-934871-1287x836.jpg",
+        "timestamp": 1788631200.0
+    },
+    {
         "id": "eceb0b12fb",
         "title_fa": "حملات متقابل آمریکا و جمهوری اسلامی نبرد بر سر تنگه هرمز را تشدید کرد",
         "title_en": "حملات متقابل آمریکا و جمهوری اسلامی نبرد بر سر تنگه هرمز را تشدید کرد",
@@ -5473,22 +5491,5 @@
         "clean_url": "https://www.npr.org/2026/09/04/nx-s1-5945582/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work",
         "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
         "timestamp": 1788513219.7796466
-    },
-    {
-        "id": "8fe0688c02",
-        "title_fa": "خبر بین‌المللی — Explosions near ایران’s Kharg Island hours after ترامپ warns",
-        "title_en": "Explosions near Iran’s Kharg Island hours after Trump warns of Pickaxe Mountain, calls war ‘small potatoes’",
-        "summary": [
-            "Explosions near Iran’s Kharg Island hours after Trump warns of Pickaxe Mountain, calls war ‘small potatoes’..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Hindustan Times on MSN",
-        "url": "https://www.msn.com/en-in/news/world/explosions-near-iran-s-kharg-island-hours-after-trump-warns-of-pickaxe-mountain-calls-war-small-potatoes/ar-AA2bCpQ1?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/world/explosions-near-iran-s-kharg-island-hours-after-trump-warns-of-pickaxe-mountain-calls-war-small-potatoes/ar-AA2bCpQ1",
-        "image": "https://www.bing.com/th?id=ONUT.Cdr_1adoSBim6ZJHRxNn0A",
-        "timestamp": 1788513125.0
     }
 ]
