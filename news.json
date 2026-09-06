@@ -1,5 +1,25 @@
 [
     {
+        "id": "64b2f153b0",
+        "title_fa": "جنگ ایران: هزینه صلح در برابر جنگ",
+        "title_en": "The Iran War: Between the Costs of Peace and War",
+        "summary": [
+            "واشنگتن و تهران به هفت ماه کشمکش رسیده‌اند؛ هیچ‌کدام پیروزی واضحی ندارند.",
+            "سپاه پاسداران هزینهٔ صلح را بالاتر از جنگ می‌داند چون وضعیت اضطراری به آن قدرت سیاسی و اقتصادی می‌دهد.",
+            "حفظ وضعیت «منطقه خاکستری» به سپاه اجازه می‌دهد اقتصاد تحت کنترل خود را گسترش دهد و اعتراضات را سرکوب کند.",
+            "اگر صلح برقرار شود، ساختارهای اقتصادی و سیاسی سپاه به خطر می‌افتند و فشار داخلی بر دولت افزایش می‌یابد."
+        ],
+        "impact": "ادامهٔ تنش باعث تداوم بحران اقتصادی و فشار بیشتر بر مردم می‌شود.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/opinion/5315270-iran-war-between-costs-peace-and-war",
+        "clean_url": "https://english.aawsat.com/opinion/5315270-iran-war-between-costs-peace-and-war",
+        "image": "https://static.srpcdigital.com/styles/thumbnail/public/2026-06/6e81114b-43af-411d-b757-cd8e8c82c7d9.jpeg",
+        "timestamp": 1788698397.4780598
+    },
+    {
         "id": "e5e51430a9",
         "title_fa": "مشکل اعتدال چیست؟",
         "title_en": "What’s the Matter With Moderation?",
@@ -5463,23 +5483,5 @@
         "clean_url": "https://www.aol.com/articles/milei-exploiting-trump-chaos-threats-125524000.html",
         "image": "https://www.bing.com/th?id=ONUT.jpKwPVQVsfzpLGZem_-uuQ",
         "timestamp": 1788529818.2630682
-    },
-    {
-        "id": "f6f91e27d8",
-        "title_fa": "پلی‌گراف برای افسران ارشد نظامی آمریکا به‌دلیل نشت‌های جنگ ایران",
-        "title_en": "Senior US military staff subjected to polygraphs over Iran war leaks",
-        "summary": [
-            "پنتاگن حدود ۵۰ نفر از افسران و کارمندان ارشد ستاد مشترک را تحت پلی‌گراف قرار داد تا منبع نشت‌های اطلاعاتی درباره جنگ آمریکا‑اسرائیل با ایران را شناسایی کند",
-            "این اقدام نشان می‌دهد که نشت‌های مربوط به کمبود مهمات پیشرفته آمریکا به رسانه‌ها، فشار داخلی برای حفظ محرمانگی و جلوگیری از تضعیف توان نظامی در مواجهه با تهدیدات منطقه‌ای را افزایش می‌دهد"
-        ],
-        "impact": "شناسایی منبع نشت می‌تواند مانع انتشار بیشتر اطلاعات حساس و حفظ توان نظامی آمریکا در برابر ایران شود",
-        "tag": "نشت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/senior-us-military-staff-subjected-polygraphs-over-iran-leaks",
-        "clean_url": "https://www.newarab.com/news/senior-us-military-staff-subjected-polygraphs-over-iran-leaks",
-        "image": "https://www.bing.com/th?id=ONUT.d4r3UXvoy44ahQ7sXo6y_w",
-        "timestamp": 1788529638.0
     }
 ]
