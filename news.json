@@ -2443,6 +2443,26 @@
         "timestamp": 1788652047.1701584
     },
     {
+        "id": "9e04fe9e56",
+        "title_fa": "تیراندازی مسلحان در زاهدان دو نیروی نظامی کشته شد",
+        "title_en": "در حمله افراد مسلح در زاهدان دو نیروی نظامی کشته شدند",
+        "summary": [
+            "دو نیروی قرارگاه عملیاتی شهید میرحسینی در خودروی پشتیبانی هدف تیراندازی مسلحان ناشناس شدند",
+            "هیچ گروهی مسئولیت حمله را نپذیرفت؛ امنیت استان تحت فشار است",
+            "مقامات محلی این حادثه را تروریستی خوانده و از شهادت نیروها یاد کردند",
+            "حمله نشان می‌دهد مسیرهای پشتیبانی نظامی در مناطق مرزی هنوز هدف‌پذیرند"
+        ],
+        "impact": "امنیت محلی تضعیف شد؛ عملیات پشتیبانی نظامی در سیستان‑بلوچستان با خطر بیشتری مواجه شد",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.85,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609069649",
+        "clean_url": "https://www.iranintl.com/202609069649",
+        "image": "https://www.bing.com/th?id=ONUT.BrGgO2zmMKHNQaiPXBt8bA",
+        "timestamp": 1788651178.0
+    },
+    {
         "id": "81d0f1a91f",
         "title_fa": "حمله موشکی سپاه به ناو و ناوشکن آمریکایی",
         "title_en": "Iran’s Revolutionary Guards say missiles struck US aircraft carrier, destroyer",
@@ -5456,25 +5476,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5WGNYWEZQZjg3R1d5R2hRWk1oYWY4VS03eFFDRXRQUzJRWHhCdEFEYTloN2JWWF9EY3JvZ1J1WVptNlJOM3doQmdGSDhYcEZ5LVVwLUJB",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788577776.0
-    },
-    {
-        "id": "ece19bc59b",
-        "title_fa": "تهدید ترامپ به حمله به کوه پیککس",
-        "title_en": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-        "summary": [
-            "ترامپ گفت آمریکا ممکن است «بسیار زود» به پایگاه زیرزمینی پیککس در نزدیکی نطنز حمله کند.",
-            "ساعات پس از این حرف، یک تانکر نفتی ایرانی در خرمشهر توسط چهار موشک آمریکایی هدف قرار گرفت.",
-            "حمله به تانکر که ۹۰٪ صادرات نفت ایران را پشتیبانی می‌کند، نشانگر ارتقای عملیات نیابتی آمریکاست.",
-            "تهدید مکرر به هدف‌های هسته‌ای می‌تواند فشار دیپلماتیک و تحریم‌های جدید را به‌سرعت افزایش دهد."
-        ],
-        "impact": "احتمال حمله هوایی به زیرساخت هسته‌ای و تشدید تحریم‌های اقتصادی علیه ایران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now",
-        "clean_url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-04T221528Z_895138784_RC2LCNAPY03B_RTRMADP_3_USA-TRUMP-1788602392.jpg?resize=1920%2C1440",
-        "timestamp": 1788576960.0
     }
 ]
