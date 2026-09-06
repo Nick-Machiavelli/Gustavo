@@ -1,5 +1,44 @@
 [
     {
+        "id": "c4cdbeb284",
+        "title_fa": "هشداری از کلنل ارتش اسرائیل: عقب‌نشینی زودهنگام ممنوع",
+        "title_en": "IDF Colonel warns: Israel must not withdraw from Gaza and Lebanon prematurely",
+        "summary": [
+            "کلنل اورن زینی، فرمانده پیشین، توانمندی‌های اطلاعاتی شین‌بت و نیروهای امنیتی را ستود",
+            "او هشدار داد هر توافقی که به عقب‌نشینی زودهنگام در غزه یا لبنان منجر شود، مأموریت‌های نظامی را به خطر می‌اندازد",
+            "این اظهارات پس از دستگیری «سرپرست شین‌بت حماس» منتشر شد و نشان‌دهنده فشار داخلی اسرائیل است"
+        ],
+        "impact": "احتمال افزایش فشار نظامی اسرائیل بر غزه و لبنان و محدود کردن گزینه‌های دیپلماتیک",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/israel-news/defense-news/article-907657",
+        "clean_url": "https://www.jpost.com/israel-news/defense-news/article-907657",
+        "image": "https://www.bing.com/th?id=ONUT.69US0-S6EuAxuKqcnVz64A",
+        "timestamp": 1788663790.0950828
+    },
+    {
+        "id": "dc6eb0cb95",
+        "title_fa": "حمله هوایی آمریکا به سه تانکر نفت ایران",
+        "title_en": "US Fighters and Drones Strike 3 Iranian Oil Tankers in Retaliation for Ship Attacks",
+        "summary": [
+            "نیروی هوایی آمریکا با جنگنده‌ها و پهپادها سه تانکر نفتی ایرانی را هدف گرفت",
+            "این حمله به عنوان انتقام از حملات قبلی به کشتی‌های تجاری انجام شد",
+            "هر کدام از تانکرها حدود دو میلیون بشکه نفت حمل می‌کردند؛ خسارت اقتصادی و فشار بر صادرات نفت ایران را افزایش می‌دهد",
+            "اقدام آمریکا می‌تواند تنش‌های خاورمیانه را به نقطه انفجار نزدیک کند"
+        ],
+        "impact": "توقف موقت صادرات نفت ایران و تشدید تنش‌های نظامی در خلیج",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Air & Space Forces Magazine",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVkdsREpXUFVsTXNZMUwyVnNlN1pTSV8xUklBQzRURWlYUEY5LVBnSEszUzUwTWVxbGRWWGZFYm5hS1k3TTNXZmpNNUZyLUtoZVFmY2xHVUkxYll0RTYxb2JOWlNaQUVkWUZ3c293cE9jRVZXOGVPTUxPeVc0dTMxZEJadC1pRWg2bkxCNjhkUzJ0eGJDLVZ0YVpQNUZtSlVfbkxXd29zVktyaDBOWUxpZks5YW8wTnpqNkw1ZzZ4dE1ZbnZNa0dadFdXXzhNOEVEYU1N?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVkdsREpXUFVsTXNZMUwyVnNlN1pTSV8xUklBQzRURWlYUEY5LVBnSEszUzUwTWVxbGRWWGZFYm5hS1k3TTNXZmpNNUZyLUtoZVFmY2xHVUkxYll0RTYxb2JOWlNaQUVkWUZ3c293cE9jRVZXOGVPTUxPeVc0dTMxZEJadC1pRWg2bkxCNjhkUzJ0eGJDLVZ0YVpQNUZtSlVfbkxXd29zVktyaDBOWUxpZks5YW8wTnpqNkw1ZzZ4dE1ZbnZNa0dadFdXXzhNOEVEYU1N",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788662871.0
+    },
+    {
         "id": "ae65b7182a",
         "title_fa": "سکس بسنت: ما رژیم ایران را خفه خواهیم کرد",
         "title_en": "Sec Bessent: We're going to asphyxiate Iran's regime",
@@ -5444,41 +5483,5 @@
         "clean_url": "https://www.israelnationalnews.com/news/432723",
         "image": "https://2.a7.org/files/pictures/000/1143383.jpg",
         "timestamp": 1788505440.0
-    },
-    {
-        "id": "5622d63971",
-        "title_fa": "جی دی ونس می‌گوید، درگیری ایران و آمریکا «جنگ نیست» را تماشا کنید. نفت به بزرگترین سود هفتگی از ماه جولای رسیده است",
-        "title_en": "Watch US-Iran Conflict Isn’t a ‘War,’ JD Vance Says; Oil Heads for Biggest Weekly Gain Since July",
-        "summary": [
-            "Watch US-Iran Conflict Isn’t a ‘War,’ JD Vance Says; Oil Heads for Biggest Weekly Gain Since July Bloomberg.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlJJbWNGU1RqZDliMlh2T1ZZZjJxNk5rLTFTSFlUT1pla19UOVBvUWVhYkh0b1VZX3c5UXhWeFFiUXYyb0hwSkRVVW1kNVBwSndKNXExNUR3dXNmUjIwbjVwejFuVGI4Z3NoREpkT0RrRkRzTUo3M1R0V2tpb0NpcndUN3ZwaUxKWk15OTlRVTRXaGJyVnBNdm5n?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlJJbWNGU1RqZDliMlh2T1ZZZjJxNk5rLTFTSFlUT1pla19UOVBvUWVhYkh0b1VZX3c5UXhWeFFiUXYyb0hwSkRVVW1kNVBwSndKNXExNUR3dXNmUjIwbjVwejFuVGI4Z3NoREpkT0RrRkRzTUo3M1R0V2tpb0NpcndUN3ZwaUxKWk15OTlRVTRXaGJyVnBNdm5n",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788505184.0
-    },
-    {
-        "id": "cd256a2ea0",
-        "title_fa": "ترامپ تحریم و حمله، ایران سرسخت می‌ماند",
-        "title_en": "Sanctions, strikes, stalemate: Trump tightens the noose, Iran refuses to blink",
-        "summary": [
-            "ترامپ اعلام کرد تحریم‌های جدید و حملات هوایی علیه ایران را گسترش می‌دهد تا فشار اقتصادی را دوچندان کند",
-            "ایران با رد هرگونه تسلیم، زیرساخت‌های نفتی و نظامی خود را حفظ می‌کند و به هیچ‌چیز چشم نمی‌پوشاند",
-            "این تنش می‌تواند مسیر مذاکرات را به سمت رکود بکشاند و ریسک تصاعد نظامی را بالا ببرد"
-        ],
-        "impact": "تحریم‌های سنگین و حملات هوایی می‌تواند صادرات نفت را به‌طور جدی کاهش دهد و فشار مالی بر بانک‌های ایرانی را تشدید کند",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/sanctions-strikes-stalemate-trump-tightens-the-noose-iran-refuses-to-blink-14043156.html",
-        "clean_url": "https://www.firstpost.com/opinion/sanctions-strikes-stalemate-trump-tightens-the-noose-iran-refuses-to-blink-14043156.html",
-        "image": "https://www.bing.com/th?id=ONUT.-JnHpj463QFEht5zvSwdeg",
-        "timestamp": 1788504831.8670034
     }
 ]
