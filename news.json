@@ -17,6 +17,26 @@
         "timestamp": 1788652047.1701584
     },
     {
+        "id": "81d0f1a91f",
+        "title_fa": "حمله موشکی سپاه به ناو و ناوشکن آمریکایی",
+        "title_en": "Iran’s Revolutionary Guards say missiles struck US aircraft carrier, destroyer",
+        "summary": [
+            "سپاه پاسداران اعلام کرد موشک‌های خود را به ناو و ناوشکن آمریکا شلیک کرد.",
+            "این اولین برخورد مستقیم موشکی با ناوهای جنگی آمریکا در خلیج است.",
+            "واکنش آمریکا احتمالاً شامل پاسخ نظامی گسترده خواهد شد.",
+            "تنش‌های دریایی مسیرهای حمل و نقل نفت خلیج را به خطر می‌اندازد."
+        ],
+        "impact": "پاسخ نظامی آمریکا و تشدید تحریم‌ها، خطر جدی برای عبور نفت در خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0tBUUJvc3JmSlVaZjlQamlPYkliS1I5blZjZXp6M013d1R2dVcwdW81S2RoWHdrTFd0aENRNE01SG9KNlRjWFdFbWF6eWZYQlNVbjdzbTZnNTRCQUQwMG12ekFhM1BvaHpfTzZucFkyVXNnTUpOLU14Tk1pUkpxYVJHWlc1U2VKSkxkTVNhSDNUU21IRDk3SFp5a2w1YzZWOEtsT1lwb2VxbVBDUC0wQUoyczFYRDdLNUphUnBRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0tBUUJvc3JmSlVaZjlQamlPYkliS1I5blZjZXp6M013d1R2dVcwdW81S2RoWHdrTFd0aENRNE01SG9KNlRjWFdFbWF6eWZYQlNVbjdzbTZnNTRCQUQwMG12ekFhM1BvaHpfTzZucFkyVXNnTUpOLU14Tk1pUkpxYVJHWlc1U2VKSkxkTVNhSDNUU21IRDk3SFp5a2w1YzZWOEtsT1lwb2VxbVBDUC0wQUoyczFYRDdLNUphUnBRMA",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788651125.0
+    },
+    {
         "id": "3cf71b4117",
         "title_fa": "آمریکا سه تانکر نفت ایران را نابود کرد",
         "title_en": "Trump admin shows Iran what real power looks like: Responds to attack by annihilating 3 oil tankers",
@@ -35,6 +55,23 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-admin-shows-iran-what-real-power-looks-like-responds-to-attack-by-annihilating-3-oil-tankers/ar-AA2bEqGv",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bE9lW.img?w=1200&h=630&m=4&q=79",
         "timestamp": 1788649051.0
+    },
+    {
+        "id": "1e81917b5c",
+        "title_fa": "ایالات متحده و ایران حملات تلافی جویانه به کشتی‌ها را به عنوان شعله ور درگیری تجارت می‌کنند",
+        "title_en": "US and Iran trade retaliatory attacks on ships as conflict flares",
+        "summary": [
+            "US and Iran trade retaliatory attacks on ships as conflict flares BBC"
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 7,
+        "sentiment": 0,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788648247.0
     },
     {
         "id": "c20b5139e2",
@@ -5436,42 +5473,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iranian-leadership-considers-escalation-as-us-officials-fear-military-cyberattacks/ar-AA2bC7pY",
         "image": "https://www.bing.com/th?id=ONUT.E_tglB532WuOpl3rNvEC9Q",
         "timestamp": 1788499272.0
-    },
-    {
-        "id": "07f82a1641",
-        "title_fa": "تحریم نفتی آمریکا بحران اقتصادی ایران را تشدید می‌کند",
-        "title_en": "US Oil Blockade Deepens Iran's Economic Crisis",
-        "summary": [
-            "آمریکا با فشار بر صادرات نفت و شبکه‌های مالی، دسترسی ایران به ارز خارجی را به شدت محدود کرده است",
-            "بارگیری نفت خام ایران از ۱٫۷ میلیون بشکه در سال گذشته به حدود ۲۶۰ هزار بشکه در ماه جاری سقوط کرده",
-            "کاهش درآمد نفتی باعث تضعیف ریال و افزایش هزینه‌های بازسازی پس از جنگ می‌شود",
-            "سیاست‌های ثانویه تحریمی آمریکا مسیرهای دور زدن تحریم را پرهزینه‌تر کرده"
-        ],
-        "impact": "کاهش شدید صادرات نفتی، فشار بر ارز و توان خرید دولت",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.9,
-        "source": "EconoTimes",
-        "url": "https://www.econotimes.com/US-Oil-Blockade-Deepens-Irans-Economic-Crisis-1751276",
-        "clean_url": "https://www.econotimes.com/US-Oil-Blockade-Deepens-Irans-Economic-Crisis-1751276",
-        "image": "https://f1.econotimes.com/2020/01/232xctc0br.jpg",
-        "timestamp": 1788498480.0
-    },
-    {
-        "id": "facff3ab2e",
-        "title_fa": "اگر Sindoor از سر گرفته شود چه؟ آیا سعودی‌ها و ترک‌ها برای کمک به پاکستان عجله خواهند کرد؟",
-        "title_en": "What If Sindoor Resumes? Will Saudis, Turks Rush To Help Pakistan?",
-        "summary": [
-            "A question has been raised whether the Mecca Pact will have a negative impact on our doctrine that the Operation Sindoor has only been suspended and that it would be resumed if Pakistan engages in..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Rediff.com",
-        "url": "https://www.rediff.com/news/column/what-if-sindoor-resumes-will-saudis-turks-rush-to-help-pakistan/20260904.htm",
-        "clean_url": "https://www.rediff.com/news/column/what-if-sindoor-resumes-will-saudis-turks-rush-to-help-pakistan/20260904.htm",
-        "image": "https://im.rediff.com/1200-630/news/2026/sep/02mecca-pact-1.jpg",
-        "timestamp": 1788498210.1909425
     }
 ]
