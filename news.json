@@ -1,5 +1,25 @@
 [
     {
+        "id": "6bb78a5762",
+        "title_fa": "مردم ایران هرگز از مبارزه دست نکشیدند",
+        "title_en": "Mr. President, You Asked When the Iranian People Will Rise Up. They Never Stopped Fighting.",
+        "summary": [
+            "بلاگ‌های مخالف‌حکومت می‌گویند مردم از سال ۷۹ تا امروز به‌صورت پیوسته اعتراض کرده‌اند",
+            "این روایت سعی دارد تصویر مقاومت مردمی را در برابر رژیم تقویت کند",
+            "اگرچه برخی اعتراضات محلی بوده، اما هنوز نشانه‌ای از سقوط نظام وجود ندارد",
+            "پیام اصلی جذب حمایت بین‌المللی برای تغییر سیاسی است"
+        ],
+        "impact": "تقویت روایت مقاومت می‌تواند فشار بین‌المللی بر رژیم را بالا ببرد",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.5,
+        "source": "The Blogs | The Times of Israel",
+        "url": "https://blogs.timesofisrael.com/mr-president-you-asked-when-the-iranian-people-will-rise-up-they-never-stopped-fighting/",
+        "clean_url": "https://blogs.timesofisrael.com/mr-president-you-asked-when-the-iranian-people-will-rise-up-they-never-stopped-fighting",
+        "image": "https://www.bing.com/th?id=ONUT.o3_-Mro1aq3xoO64ay8NrQ",
+        "timestamp": 1788654907.5603976
+    },
+    {
         "id": "23e80e0a7d",
         "title_fa": "هزینه های جنگ ایران برای چندین دهه ادامه خواهد داشت",
         "title_en": "The Costs of the Iran War Will Continue For Decades",
@@ -1599,6 +1619,26 @@
         "clean_url": "https://www.indiatoday.in/world/story/russia-ukraine-war-us-iran-middle-east-conflict-germany-airport-attack-nato-unites-2985164-2026-09-05",
         "image": "https://www.bing.com/th?id=ONUT.H99CzyCxK3pKNM3xlsfohg",
         "timestamp": 1788574356.6337118
+    },
+    {
+        "id": "71a5ad621e",
+        "title_fa": "ایران پس از شش ماه جنگ با آمریکا اعتماد دارد",
+        "title_en": "Irán está más confiado después de 6 meses de guerra con EE. UU.",
+        "summary": [
+            "اطلاعات جدید ایالات متحده نشان می‌دهد ایران توانایی‌های نظامی خود را بهتر می‌شناسد",
+            "این شناخت باعث افزایش اعتماد رهبری به استقامت در مقابل فشارهای آمریکا شده",
+            "احتمال تقویت موضع دیپلماتیک ایران در مذاکرات آینده افزایش می‌یابد",
+            "افزایش اعتماد ممکن است به تداوم تنش‌های منطقه‌ای منجر شود"
+        ],
+        "impact": "اعتماد بیشتر ایران می‌تواند فشارهای اقتصادی آمریکا را سخت‌تر کند",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/es/2026/09/05/espanol/estados-unidos/iran-guerra.html",
+        "clean_url": "https://www.nytimes.com/es/2026/09/05/espanol/estados-unidos/iran-guerra.html",
+        "image": "http://www.bing.com/th?id=ONUT.YOZm-NOuqce0DTPdPlqegg&pid=News",
+        "timestamp": 1788573900.0
     },
     {
         "id": "9e1fb4ad82",
@@ -5436,42 +5476,5 @@
         "clean_url": "https://www.firstpost.com/opinion/pakistans-nuclear-projection-should-worry-israel-america-14043122.html",
         "image": "https://www.bing.com/th?id=ONUT.nfSoh4-gGt39NTHNGMd5Bg",
         "timestamp": 1788500439.468594
-    },
-    {
-        "id": "d7b1efd0a6",
-        "title_fa": "معاون رئیس‌جمهور: ماه‌های تاریک برای آمریکا",
-        "title_en": "Iran war latest: Iranian vice president warns US of 'dark months' ahead",
-        "summary": [
-            "معاون رئیس‌جمهور ایران به‌صورت علنی آمریکا را از پیش‌بینی ماه‌های سخت هشدار داد.",
-            "هشدار پس از افزایش تحریم‌های آمریکا و حضور نظامی آن در خاورمیانه صادر شد.",
-            "پیام داخلی برای تقویت حس ملی‌گرایی و مقاومت در برابر فشارهای خارجی است.",
-            "احتمال واکنش تند آمریکا یا اعمال تحریم‌های جدید در پیش است."
-        ],
-        "impact": "تنش‌های دیپلماتیک بین ایران و آمریکا تشدید می‌شود و احتمال تحریم‌های جدید افزایش می‌یابد.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Sky",
-        "url": "https://news.sky.com/story/iran-israel-latest-trump-lebanon-hezbollah-netanyahu-strike-attack-live-13509565",
-        "clean_url": "https://news.sky.com/story/iran-israel-latest-trump-lebanon-hezbollah-netanyahu-strike-attack-live-13509565",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788500371.0
-    },
-    {
-        "id": "e9d5a4aaf9",
-        "title_fa": "خبر بین‌المللی — ایرانی leadership considers escalation as US officials fear",
-        "title_en": "Iranian leadership considers escalation as US officials fear military, cyberattacks",
-        "summary": [
-            "Throughout the war, Iran gained a better understanding of its military strengths and confidence regarding its capabilities,..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iranian-leadership-considers-escalation-as-us-officials-fear-military-cyberattacks/ar-AA2bC7pY?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/iranian-leadership-considers-escalation-as-us-officials-fear-military-cyberattacks/ar-AA2bC7pY",
-        "image": "https://www.bing.com/th?id=ONUT.E_tglB532WuOpl3rNvEC9Q",
-        "timestamp": 1788499272.0
     }
 ]
