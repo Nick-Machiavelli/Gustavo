@@ -711,6 +711,25 @@
         "timestamp": 1788685802.0
     },
     {
+        "id": "a5c2a8b2a4",
+        "title_fa": "حمایت جمهوری‌خواهان از مدیریت ترامپ در جنگ ایران کاهش یافت",
+        "title_en": "Support for Trump’s Iran War Handling Drops Among Republicans",
+        "summary": [
+            "نظرسنجی NBC نشان داد تنها 31٪ از جمهوری‌خواهان مدیریت ترامپ در جنگ ایران را به‌طور قاطع می‌پسندند؛ این رقم نسبت به بهار سقوط شدیدی داشته است",
+            "در حالی که رضایت کلی GOP از ترامپ بالاست، شور و شوق برای سیاست‌های نظامی‌اش در حال تضعیف است",
+            "کاهش حمایت می‌تواند فشار داخلی برای تغییر مسیر دیپلماتیک یا کاهش تنش‌های هورموز ایجاد کند"
+        ],
+        "impact": "کاهش شور جمهوری‌خواهان ممکن است فشار برای بازنگری استراتژی نظامی آمریکا در خلیج فارس را افزایش دهد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-iran-war-handling-republicans-poll-12409994",
+        "clean_url": "https://www.newsweek.com/trump-iran-war-handling-republicans-poll-12409994",
+        "image": "http://www.bing.com/th?id=ONUT.weepYntTEO7Hc1jy01m_VQ&pid=News",
+        "timestamp": 1788684540.0
+    },
+    {
         "id": "6293a93264",
         "title_fa": "ایران برنامه‌ریزی حمله چند‌جبهه‌ای را اعلام کرد",
         "title_en": "'Israeli' intel indicates Iran preparing multi-front attack with allies: Hebrew media",
@@ -2005,6 +2024,25 @@
         "clean_url": "https://247wallst.com/investing/2026/09/06/former-trump-economic-adviser-irans-oil-exports-have-fallen-to-zero-heres-what-it-could-mean-for-oil-prices",
         "image": "http://www.bing.com/th?id=ONUT.nBbaneD0SSpSjsrAqxOHbA&pid=News",
         "timestamp": 1788629760.0
+    },
+    {
+        "id": "f592219215",
+        "title_fa": "سفر نمایندگان ترامپ به اوکراین و فشارهای مالی",
+        "title_en": "Donald Trump",
+        "summary": [
+            "استیو ویتکاف و جرد کوشنر به‌عنوان نمایندگان ترامپ به کیف سفر کردند؛ اولین حضور رسمی تیم او در اوکراین است",
+            "هزینه‌های بالای استقراض برای خزانه‌داری آمریکا به‌سرعت در حال افزایش است و این مسأله به‌صورت مستقیم بر سیاست‌های مالی دولت اثر می‌گذارد",
+            "حضور نمایندگان در اوکراین می‌تواند نشانگر تقویت روابط اقتصادی و نظامی آمریکا با کی‌یو باشد"
+        ],
+        "impact": "تقویت روابط با اوکراین می‌تواند فشار بر رقبای منطقه و هزینه‌های مالی آمریکا را بالا ببرد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/donald-trump/",
+        "clean_url": "https://www.washingtonpost.com/donald-trump",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788627600.0
     },
     {
         "id": "3fdacc81b1",
@@ -5456,39 +5494,5 @@
         "clean_url": "https://www.iranintl.com/202609050470",
         "image": "http://www.bing.com/th?id=ONUT.eEFxFnWX-mRuuqLMFps_bg&pid=News",
         "timestamp": 1788541200.0
-    },
-    {
-        "id": "cf5c73c327",
-        "title_fa": "خبر بین‌المللی — آمریکایی Götterdämmerung",
-        "title_en": "American Götterdämmerung",
-        "summary": [
-            "NEW YORK — In what Treasury Secretary Scott Bessent has heralded as an Economic D-Day, the United States is threatening to..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Manila Times on MSN",
-        "url": "https://www.msn.com/en-ph/news/other/american-götterdämmerung/ar-AA2bzliC?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ph/news/other/american-götterdämmerung/ar-AA2bzliC",
-        "image": "https://www.bing.com/th?id=ONUT.FYnTDjS4aJpXDYZLnyMx9A",
-        "timestamp": 1788540006.6823986
-    },
-    {
-        "id": "6282c1f0a6",
-        "title_fa": "مالک تتریس به خاطر بازی آرکید «ساخت دیوار» در سایت جدید کاخ سفید به تیم ترامپ انتقاد کرد",
-        "title_en": "Tetris owner lashes out at Trump team over ‘Build the Wall’ arcade game on new White House site",
-        "summary": [
-            "The company stressed that it had no role in creating the game and added that it takes ‘copyright infringement very seriously’..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/tetris-owner-lashes-trump-team-153554014.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/tetris-owner-lashes-trump-team-153554014.html",
-        "image": "https://www.bing.com/th?id=ONUT.nrUB9dcUlXYcS6-5VIQRMw",
-        "timestamp": 1788539977.0
     }
 ]
