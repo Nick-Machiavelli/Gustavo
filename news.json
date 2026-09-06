@@ -1,5 +1,25 @@
 [
     {
+        "id": "001318135c",
+        "title_fa": "ایران با لحن سرسخت، اما زیر فشار اقتصادی",
+        "title_en": "Iran clings on to a defiant tone. Is a language of desperation peeping out?",
+        "summary": [
+            "اظهارات معاون نشانگر تشدید تورم، بیکاری و کمبود کالاست",
+            "لحن سرسخت صرفاً پوشش برای تحریم‌های جدید و فشارهای مالی است",
+            "ارزش ارز ملی احتمالاً کاهش می‌یابد و سرمایه‌گذاری داخلی تضعیف می‌شود",
+            "دولت ممکن است برای خنثی‌کردن اعتراضات، محدودیت‌های اجتماعی را تشدید کند"
+        ],
+        "impact": "تورم و ارز در کوتاه‌مدت شدت می‌گیرد، سرمایه‌گذاری خارجی می‌گریزد",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "International Business Times on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-clings-on-to-a-defiant-tone-is-a-language-of-desperation-peeping-out/ar-AA2bFiXS?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-clings-on-to-a-defiant-tone-is-a-language-of-desperation-peeping-out/ar-AA2bFiXS",
+        "image": "https://www.bing.com/th?id=ONUT.yVXmPF7R7fS61Whp12WDNQ",
+        "timestamp": 1788701610.193076
+    },
+    {
         "id": "88fcb777e3",
         "title_fa": "ترامپ در برابر رئیس‌جمهور خجالت‌زده شد",
         "title_en": "This bumbling Trump buffoon just humiliated his boss in front of the entire world | Opinion",
@@ -5470,22 +5490,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/a-navy-seal-was-asked-how-he-d-end-the-iran-war-quickly-his-answer-left-the-room-almost-speechless/vi-AA2byVpn",
         "image": "https://www.bing.com/th?id=ONUT.jS0Z3R4R0PxYbHKZT7P1Qg",
         "timestamp": 1788530603.4859538
-    },
-    {
-        "id": "ba0596b5f4",
-        "title_fa": "خبر بین‌المللی — Trapped Nepal workers pulled alive from tunnel 9 days after",
-        "title_en": "Trapped Nepal workers pulled alive from tunnel 9 days after deadly flooding, raising hope for more rescues",
-        "summary": [
-            "Two workers were pulled alive from a Nepal hydropower tunnel nine days after catastrophic floods, and one rescued man says more people are trapped inside."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues",
-        "clean_url": "https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/tunnel-nepal-1.1.png",
-        "timestamp": 1788530580.0
     }
 ]
