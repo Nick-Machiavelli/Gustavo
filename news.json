@@ -1,5 +1,22 @@
 [
     {
+        "id": "c4d2de97a6",
+        "title_fa": "«نوستراداموس چین» 5 پیش بینی تلخ برای سال 2027 می‌کند",
+        "title_en": "‘China’s Nostradamus’ makes 5 grim predictions for 2027",
+        "summary": [
+            "Sorry it couldn't be better news."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Metro on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/china-s-nostradamus-makes-5-grim-predictions-for-2027/ar-AA2bJEXm?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/china-s-nostradamus-makes-5-grim-predictions-for-2027/ar-AA2bJEXm",
+        "image": "https://www.bing.com/th?id=ONUT.HzpW6pECWceKBqar5p53Gw",
+        "timestamp": 1788788310.7972107
+    },
+    {
         "id": "7e45667952",
         "title_fa": "تهدید ایران به شرکت‌های نفتی آمریکا پس از حملهٔ سیتاکام",
         "title_en": "Iran to announce new Strait of Hormuz route as gas prices hit record high on Labor Day",
@@ -2170,6 +2187,40 @@
         "clean_url": "https://www.iranintl.com/202609062295",
         "image": "https://www.bing.com/th?id=ONUT.huuhVBPxMYdaTo7FyEexDA",
         "timestamp": 1788702422.7190263
+    },
+    {
+        "id": "3d09a0a423",
+        "title_fa": "آذربایجان پیش از COP31 خواستار همکاری قوی تر در زمینه آب و هوا است",
+        "title_en": "Azerbaijan calls for stronger climate cooperation ahead of COP31",
+        "summary": [
+            "Climate disasters could put even more pressure on vulnerable economies, COP29 President and Azerbaijani President’s Climate..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "AzerNews",
+        "url": "https://www.azernews.az/nation/263499.html",
+        "clean_url": "https://www.azernews.az/nation/263499.html",
+        "image": "https://www.bing.com/th?id=ONUT.9EiadtVmORDWLFP5oeefpg",
+        "timestamp": 1788701903.0
+    },
+    {
+        "id": "d49c8d0b04",
+        "title_fa": "قیمت نفت در حالی افزایش می‌یابد که ایران می‌گوید کنترل تنگه هرمز را گسترش خواهد داد",
+        "title_en": "Oil prices up as Iran says it will expand control over Strait of Hormuz",
+        "summary": [
+            "Prices shot up after the U.S. and Israel attacked Iran in February and have not settled down since. Crude oil traffic through the key Strait of Hormuz has plunged, and Iran has refused to reopen the..."
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-seeks-more-control-strait-080632293.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-seeks-more-control-strait-080632293.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/b908defcff231e901a02cbeeeb0c103fd5aface1a197d81674ccd00f2b10c195/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fff1230a8e61f924f7f6bd06d9fa4fac2.jpg",
+        "timestamp": 1788701903.0
     },
     {
         "id": "355376ca23",
@@ -5421,61 +5472,5 @@
         "clean_url": "https://www.timesofisrael.com/over-60-killed-in-yemen-as-houthis-battle-saudi-backed-forces-near-red-sea-gateway",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260905__C7EW4UR__v1__HighRes__YemenIranUsIsraelWarHouthis.jpg",
         "timestamp": 1788627420.0
-    },
-    {
-        "id": "a077828195",
-        "title_fa": "آمریکا به تانکرهای نفتی ایران ضربه زد",
-        "title_en": "US hits Iranian oil tankers, and other key Mideast developments",
-        "summary": [
-            "آمریکا با حمله به تانکرهای نفتی، فشار اقتصادی بر ایران را به اوج رساند",
-            "درآمد نفتی ایران به‌سرعت کاهش می‌یابد و تحریم‌های جدید احتمالاً اعمال می‌شود",
-            "تهدیدات پاسخ نظامی یا تقویت ناوگان ایرانی می‌تواند تشدید تنش‌ها را به دنبال داشته باشد",
-            "تحولات خاورمیانه در پی این اقدام، خطر برخوردهای گسترده‌تر را افزایش می‌دهد"
-        ],
-        "impact": "کاهش شدید درآمد نفتی ایران و تشدید تنش‌های نظامی‑اقتصادی در خاورمیانه",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "apnews.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVN4T1g5S1hSM09nX0hpMGNGZkx2WkFWUXdobTNjYnFlZVgxY1Y2VldMRnRLS1hHcGNrcjVZczkxVmxZaHQxTlFJR3Q0dzZFVlJGamQxSGVuMlpMRkxKeWlWZ2x3RkE5ckVCMU1EZ0VEamxqX1VXQlR1TVJtaFBEN1phTlcwd2p5WE04a2VERlBZZw",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788627240.0
-    },
-    {
-        "id": "653b03e396",
-        "title_fa": "سو-57 روسیه به مادر‌کشتی پروازی تبدیل شد",
-        "title_en": "Putin's Su-57 Game-Changer; Stealth Fighter To Unleash Drone Swarm; NATO Air Defence On Alert?",
-        "summary": [
-            "سو-57 به بستر پروازی برای پرتاب پهپادهای کم‌قابلیت شناسایی تبدیل می‌شود؛ این پهپادها می‌توانند به‌صورت شناسایی، جنگ الکترونیک یا ضربه عمل کنند.",
-            "طرح جدید به هواپیما اجازه می‌دهد از فاصله دورتر به هدف نزدیک شود و ریسک برخورد مستقیم با سامانه‌های دفاعی دشمن را کاهش دهد.",
-            "اگرچه هنوز جزئیات فنی کامل نیست، اما حضور این سامانه در نمایشگاه مصر نشان از پیشرفت جدی روسیه در ترکیب هواپیماهای باندیک و پهپادهای خودکار دارد."
-        ],
-        "impact": "قابلیت ارسال پهپادهای خودکار از سو-57 می‌تواند تعادل هوایی در مناطق پرتنش را به نفع روسیه تغییر دهد.",
-        "tag": "هوافضا",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/putins-su-57-game-changer-stealth-fighter-to-unleash-drone-swarm-nato-air-defence-on-alert/videoshow/133798906.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/putins-su-57-game-changer-stealth-fighter-to-unleash-drone-swarm-nato-air-defence-on-alert/videoshow/133798906.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133798906,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1788627000.0
-    },
-    {
-        "id": "b15c8fbd38",
-        "title_fa": "خبر بین‌المللی — ایران plotting new Oct 7-style حمله against اسرائیل, insider",
-        "title_en": "Iran plotting new Oct 7-style attack against Israel, insiders warn",
-        "summary": [
-            "Israeli intelligence claims that Iran is planning a brutal attack reminiscent of the one carried out by Hamas on October 7,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/iran-plotting-oct-7-style-153200000.html",
-        "clean_url": "https://www.aol.com/articles/iran-plotting-oct-7-style-153200000.html",
-        "image": "https://www.bing.com/th?id=ONUT.eROi3_E2bcNPiKGsV_Nzpg",
-        "timestamp": 1788626090.0
     }
 ]
