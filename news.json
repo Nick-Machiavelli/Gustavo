@@ -831,6 +831,23 @@
         "timestamp": 1788707160.0
     },
     {
+        "id": "59b1fdecc6",
+        "title_fa": "اطلاعات کافی برای تحلیل موجود نیست",
+        "title_en": "Iran, US Trade Tit-for-Tat Tanker Attacks as War Drags On",
+        "summary": [
+            "متن خبر حاوی محتوای خبری معتبر نیست"
+        ],
+        "impact": "عدم تأثیر عملی",
+        "tag": "نامشخص",
+        "urgency": 1,
+        "sentiment": 0,
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-09-06/iran-us-trade-tit-for-tat-tanker-attacks-as-war-drags-on",
+        "clean_url": "https://www.bloomberg.com/news/newsletters/2026-09-06/iran-us-trade-tit-for-tat-tanker-attacks-as-war-drags-on",
+        "image": "http://www.bing.com/th?id=ONUT.MrAftOf5tExdycfgZp5EDQ&pid=News",
+        "timestamp": 1788705120.0
+    },
+    {
         "id": "a275dcf48b",
         "title_fa": "ایران موشک بالستیک به هدف‌های آمریکایی شلیک کرد",
         "title_en": "Iran launches new ballistic missile strikes in Hormuz and targets US base in Jordan",
@@ -2397,6 +2414,43 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlZUtHclZYRDFFYjRlUTQ5S3VaNnc0SGx1WEM5ekVHb21CSndzSUQ4VmtxOVlGSk5TVlo5SWZPZFlrWGJyN0J5RWFiX192NVBkUWdIdUZOc1NjWHJvWDlyWlczSUVqcDV0a0NocmozQllweEpPZml6VjRhcjhFYkU",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788663605.0
+    },
+    {
+        "id": "62c3f4b2e7",
+        "title_fa": "حملات در حارموز، ترافیک به کم‌ترین سطح",
+        "title_en": "Hormuz Traffic Dips To Lowest Since May After US, Iranian Strikes On Ships",
+        "summary": [
+            "متوسط عبور کشتی‌های تجاری به ۱۰ عدد در روز رسید، پایین‌ترین مقدار از مه",
+            "حملات هوایی آمریکا به سه تانکر ایرانی و واکنش ایران، کشتی‌ها مسیرهای امن‌تری انتخاب کردند",
+            "کاهش عبور کشتی‌ها می‌تواند فشار بر صادرات نفت و نوسان قیمت جهانی را تشدید کند"
+        ],
+        "impact": "کاهش عبور کشتی‌ها، احتمال کاهش صادرات نفت و نوسان قیمت نفت",
+        "tag": "حملات-دریایی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "gCaptain",
+        "url": "https://gcaptain.com/hormuz-traffic-dips-to-lowest-since-may-after-us-iranian-strikes-on-ships/",
+        "clean_url": "https://gcaptain.com/hormuz-traffic-dips-to-lowest-since-may-after-us-iranian-strikes-on-ships",
+        "image": "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-24T194006Z_526739983_RC2LD6A7RFZM_RTRMADP_3_IRAN-CRISIS-SHIPPING-800x533.jpg",
+        "timestamp": 1788662992.0
+    },
+    {
+        "id": "8f287f6bb0",
+        "title_fa": "آمریکا ضربه ایران به کشتی بدون سرنشین را رد کرد",
+        "title_en": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
+        "summary": [
+            "نیروی هوایی آمریکا اعلام کرد هیچ خسارتی به کشتی نظامی بدون سرنشین در حارموز ثبت نشده",
+            "ایران ادعا می‌کند حمله‌ای انجام داده؛ این اختلاف می‌تواند تنش‌های دریایی را تشدید کند"
+        ],
+        "impact": "ادعای متقابل، احتمال افزایش فشار دیپلماتیک در منطقه",
+        "tag": "ادعای-حمله",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-denies-that-iran-struck-an-uncrewed-us-military-ship-in-the-strait-of-hormuz/ar-AA2bES8a?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-denies-that-iran-struck-an-uncrewed-us-military-ship-in-the-strait-of-hormuz/ar-AA2bES8a",
+        "image": "https://www.bing.com/th?id=ONUT.BGw8Ep3ojUCeuowB0v55Cw",
+        "timestamp": 1788662992.0
     },
     {
         "id": "dc6eb0cb95",
@@ -5430,56 +5484,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WbkNmY0Q4VFdoOFVJNnZILXpMQnU4UjFkR1lVdlpHMHJQbkRRZWtzVDJablNWN3lkRFdxRWlMU3BMLVpUd3h1Y0xYRlNkQmM4a2RBb1NJVUNWbEN0SGZnN09R",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788585485.0
-    },
-    {
-        "id": "ff074becaa",
-        "title_fa": "اعضای آژانس بین المللی انرژی اتمی پیش نویس قطعنامه گزارش ایران را به شورای امنیت سازمان ملل متحد",
-        "title_en": "IAEA members draft resolution reporting Iran to the UN Security Council",
-        "summary": [
-            "Asharq Al Awsat The United States, Britain, France and Germany have drafted a resolution for possible consideration by the Board of Governors of the UN nuclear watchdog that seeks to refer Iran to the UN Security Council for failure to comply with its nuclear nonproliferation obligations,"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Asharq Al-Awsat",
-        "url": "https://www.msn.com/en-ae/news/other/iaea-members-draft-resolution-reporting-iran-to-the-un-security-council/ar-AA2bC3wQ",
-        "clean_url": "https://www.msn.com/en-ae/news/other/iaea-members-draft-resolution-reporting-iran-to-the-un-security-council/ar-AA2bC3wQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788584550.0
-    },
-    {
-        "id": "76860a83b3",
-        "title_fa": "انفجار تانکر سوخت ایران ۱۱ کشته و ۷ زخمی بر جای گذاشت. هشدار آمریکا به تهران در بحبوحه افزایش تنش‌ها",
-        "title_en": "Iran fuel tanker explosion kills 11, 7 injured; US warns Tehran amid rising tensions",
-        "summary": [
-            "A fuel tanker explosion in western Iran killed 11 people and injured seven. Meanwhile, US-Iran tensions escalated after..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Zee Business",
-        "url": "https://www.zeebiz.com/world/news-iran-fuel-tanker-explosion-kills-11-7-injured-us-warns-tehran-amid-rising-tensions-401717",
-        "clean_url": "https://www.zeebiz.com/world/news-iran-fuel-tanker-explosion-kills-11-7-injured-us-warns-tehran-amid-rising-tensions-401717",
-        "image": "https://www.bing.com/th?id=ONUT.BTgZ-UvCD8jJ42Mtap-vww",
-        "timestamp": 1788583706.0
-    },
-    {
-        "id": "96753b8b98",
-        "title_fa": "مکالمه جنگنده‌ آمریکایی با نفتکش حامل نفت ایران در تنگه هرمز و دادن اخطار پیش از شلیک",
-        "title_en": "مکالمه جنگنده‌ آمریکایی با نفتکش حامل نفت ایران در تنگه هرمز و دادن اخطار پیش از شلیک",
-        "summary": [
-            "ایران‌اینترنشنال به سه فایل مکالمه بین ارتش آمریکا و عرشه و اتاق مخابرات نفتکش استارک۱ دست یافته که هدف تهدید قرار گرفته است. صبح شنبه ۱۴ شهریور، رسانه‌ها در ایران از شلیک ارتش ایالات متحده به یک نفتک..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609054616",
-        "clean_url": "https://www.iranintl.com/202609054616",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/de75430b89caf3b58bb47c4b76cf00bbc94ac10f-800x534.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1788583320.0
     }
 ]
