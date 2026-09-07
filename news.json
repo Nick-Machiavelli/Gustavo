@@ -1,5 +1,41 @@
 [
     {
+        "id": "595bac3cee",
+        "title_fa": "معامله نفت ونتورا؛ تسلط آمریکا",
+        "title_en": "The biggest oil heist in world history",
+        "summary": [
+            "ترامپ ادعای کنترل ۶۵ میلیارد بشکه نفت ونتورا را کرد",
+            "رئیس‌جمهور ونتورا این توافق را به‌عنوان سرمایه‌گذاری برای بازسازی توصیف کرد، در حالی که واقعیت تسلط ایالات متحده است"
+        ],
+        "impact": "افزایش فشار اقتصادی بر ونتورا و تقویت نفوذ آمریکا در منطقه",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Communist",
+        "url": "https://communist.red/the-biggest-oil-heist-in-world-history/",
+        "clean_url": "https://communist.red/the-biggest-oil-heist-in-world-history",
+        "image": "https://communist.red/wp-content/uploads/2026/09/Trump_oil_Image_own_work.jpg",
+        "timestamp": 1788780265.268402
+    },
+    {
+        "id": "535843e12f",
+        "title_fa": "سخنرانی سرپرست کارگری ترامپ به کارگران",
+        "title_en": "I'm the acting secretary of Labor and I'm here to say thank you to the American worker",
+        "summary": [
+            "سرپرست کارگری ادعای قدردانی از کارگران آمریکایی را تکرار کرد",
+            "به دستاوردهای تاریخی آمریکا اشاره شد بدون اشاره به سیاست‌های جاری"
+        ],
+        "impact": "تقویت روایت ملی‌گرایانه در میان کارگران",
+        "tag": "کار",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/acting-secretary-labor-thank-american-worker",
+        "clean_url": "https://www.foxnews.com/opinion/acting-secretary-labor-thank-american-worker",
+        "image": "https://www.bing.com/th?id=ONUT.r66jWFDTM6fjcOPxvK0esw",
+        "timestamp": 1788780265.2674887
+    },
+    {
         "id": "97634d9014",
         "title_fa": "بیوه خلبان آمریکایی به دلیل درگیری با ایران \"جنگ نیست\" مزایای دریافتی را رد کرد",
         "title_en": "US airman's widow denied benefits as Iran conflict 'not a war'",
@@ -51,6 +87,24 @@
         "timestamp": 1788777694.7787597
     },
     {
+        "id": "272b057a84",
+        "title_fa": "قیمت نفت پس از حملات تجاری آمریکا‑ایران",
+        "title_en": "Oil Prices Churn After U.S. and Iran Trade Strikes",
+        "summary": [
+            "پس از حملات تجاری جدید، نوسان شدید در قیمت نفت مشاهده شد",
+            "بازارها به عدم قطعیت در عرضه نفت خاورمیانه واکنش نشان دادند"
+        ],
+        "impact": "نوسان قیمت نفت به‌صورت مستقیم بر هزینه‌های انرژی جهانی اثر می‌گذارد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tdXhlb3hCRjN0TWt4Vkl1THhuUklqUGJTbzgybGZ4WFB2Q2oxUVd1Mk5Zd09MS3FuZ0pMd29lMk9WSmMzMktxZkpVaTQxczI3UEJnSkxlMkl4dEE1ODcyX2xPZmQweDJSeVpuamRyS1dBdGJZVDVzT2trSWY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tdXhlb3hCRjN0TWt4Vkl1THhuUklqUGJTbzgybGZ4WFB2Q2oxUVd1Mk5Zd09MS3FuZ0pMd29lMk9WSmMzMktxZkpVaTQxczI3UEJnSkxlMkl4dEE1ODcyX2xPZmQweDJSeVpuamRyS1dBdGJZVDVzT2trSWY",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788777600.0
+    },
+    {
         "id": "591846bd32",
         "title_fa": "تحلیل: ترامپ و گرایش به جنگ‌گری بدون توجیه",
         "title_en": "How Decades of Privatization Unleashed Trump’s Warmongering",
@@ -88,6 +142,24 @@
         "clean_url": "https://www.thedailybeast.com/trumps-big-strait-of-hormuz-brag-blows-up-in-humiliating-reality-check",
         "image": "https://www.bing.com/th?id=ONUT.0NJbn1Rw8k7XHClcUmHD0Q",
         "timestamp": 1788776018.6256135
+    },
+    {
+        "id": "576644acc4",
+        "title_fa": "جنگ آمریکا‑ایران؛ چین برتری می‌گیرد",
+        "title_en": "US-Iran conflict hands China's Xi upper hand ahead of Trump meeting: Experts - ABC News",
+        "summary": [
+            "کارشناسان می‌گویند تنش‌های اخیر آمریکا‑ایران موقعیت ژی جین‌پینگ را در مذاکرات پیش‌رو تقویت می‌کند",
+            "این برتری می‌تواند به چین مزایای تجاری و ژئوپلیتیکی بدهد"
+        ],
+        "impact": "چین می‌تواند در مذاکرات تجاری با آمریکا موقعیت قوی‌تری داشته باشد",
+        "tag": "دیپلوماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2k5Mk1XbUpobmNmYW5kZ1huaXcxbVVqVGhydnlXMGNrdlMxU3dEc1NVTVZqZ0tDSm9nSC1wblpPRS1FYmFWcWV0VW5IZUFTNlhqX0Y1YUtUUF9uTEV6Tl8wOEtMNjZNeDZjQnJjaTlQTzU4aGVTendmOWJVdll4anJVREs0S2NuVHkyTUpNUEIwV3RyTnfSAZsBQVVfeXFMTmVaLV9INXRNSmpOTXVPMGhVV21KWnFIelNwb0Q1dE51YV95RFpUYzA3S0RxbmgzQmRTcHlfVjgtRjdHTEdNZG5XZE91eHFRT21raHF1OEpFeHFhSzVlT2JWYVhTNmFhNklta05jRnBBMzh6MVNLUlIyQUx6N0FaWlNPLTNkRngyNzRPaFktamlkOHk3Ukk3OTJOU0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2k5Mk1XbUpobmNmYW5kZ1huaXcxbVVqVGhydnlXMGNrdlMxU3dEc1NVTVZqZ0tDSm9nSC1wblpPRS1FYmFWcWV0VW5IZUFTNlhqX0Y1YUtUUF9uTEV6Tl8wOEtMNjZNeDZjQnJjaTlQTzU4aGVTendmOWJVdll4anJVREs0S2NuVHkyTUpNUEIwV3RyTnfSAZsBQVVfeXFMTmVaLV9INXRNSmpOTXVPMGhVV21KWnFIelNwb0Q1dE51YV95RFpUYzA3S0RxbmgzQmRTcHlfVjgtRjdHTEdNZG5XZE91eHFRT21raHF1OEpFeHFhSzVlT2JWYVhTNmFhNklta05jRnBBMzh6MVNLUlIyQUx6N0FaWlNPLTNkRngyNzRPaFktamlkOHk3Ukk3OTJOU0E",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788775228.0
     },
     {
         "id": "5b2477c1cc",
@@ -603,6 +675,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/europe-wrestles-impact-historic-regional-040728654.html",
         "image": "https://s.yimg.com/lo/mysterio/api/f4023b05f115d53946b699010645d513594a36e15ab519af89fd35d09f6cbc7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff299f226b313027a1f574c7e1100957b.jpg",
         "timestamp": 1788755870.901093
+    },
+    {
+        "id": "a121f9d7ea",
+        "title_fa": "جنگ ایران؛ تغییرات اساسی اقتصاد جهانی",
+        "title_en": "Three ways the Iran war changed the global economy",
+        "summary": [
+            "قیمت گاز بالای ۴ دلار و نرخ وام مسکن نزدیک ۷٪ ناشی از جنگ است",
+            "کنترل استراتژیک خوراکی هرمز پس از حمله آمریکا و اسرائیل مسیرهای نفتی را دگرگون کرد"
+        ],
+        "impact": "قیمت‌های انرژی و هزینه‌های حمل‌ونقل جهانی بالا می‌رود",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/07/business/iran-war-economy",
+        "clean_url": "https://www.cnn.com/2026/09/07/business/iran-war-economy",
+        "image": "http://www.bing.com/th?id=ONUT.l5IwiTi35cVVTG5m6OXGFw&pid=News",
+        "timestamp": 1788753600.0
     },
     {
         "id": "a4b0e1fdc2",
@@ -2035,6 +2125,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/netanyahu-s-false-promise-of-study-or-serve/ar-AA2bFd8Q",
         "image": "https://www.bing.com/th?id=ONUT.2q7YnpzSuEHldozicjbfjg",
         "timestamp": 1788694421.075823
+    },
+    {
+        "id": "4c08f0b81b",
+        "title_fa": "باکو‑تهران پیشرفت پروژه‌های حمل‌ونقل",
+        "title_en": "Baku, Tehran discuss progress on key transport projects",
+        "summary": [
+            "وزیر راه ایران و معاون نخست‌وزیر آذربایجان درباره پل آغ‌بند‑کلاله گفتگو کردند",
+            "پروژه‌های جاده‌ای و ترانزیت به‌عنوان محورهای همکاری اقتصادی تأکید شد"
+        ],
+        "impact": "تقویت مسیرهای تجاری زمینی بین دو کشور",
+        "tag": "حمل‌ونقل",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "AzerNews",
+        "url": "https://www.azernews.az/nation/263494.html",
+        "clean_url": "https://www.azernews.az/nation/263494.html",
+        "image": "https://www.azernews.az/media/2026/09/07/iranaz_229.jpg",
+        "timestamp": 1788693858.0
     },
     {
         "id": "54f161b353",
@@ -5384,112 +5492,5 @@
         "clean_url": "https://defence24.com/geopolitics/the-mecca-pact-an-alliance-of-three-states-or-the-beginning-of-a-new-security-architecture",
         "image": "https://www.bing.com/th?id=ONUT.cznzeKGSGzQRY4hTu0SkIA",
         "timestamp": 1788617518.0
-    },
-    {
-        "id": "1a42157721",
-        "title_fa": "خبر بین‌المللی — US-ایران جنگ Live: ایران, US و اسرائیل trade blows as Lebano",
-        "title_en": "US-Iran War Live: Iran, US and Israel trade blows as Lebanon front heats up",
-        "summary": [
-            "President Donald Trump told reporters on Friday that the United States may hit Iran's Pickaxe Mountain very soon. He also accused Democrats of preferring a US defeat in the Iran conflict over a White House victory as Republicans face November midterm elections amid rising food and fuel prices."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/world/story/us-iran-strait-of-hormuz-trump-tehran-missiles-gulf-countries-kuwait-bahrain-oil-attacks-2987446-2026-09-05",
-        "clean_url": "https://www.indiatoday.in/world/story/us-iran-strait-of-hormuz-trump-tehran-missiles-gulf-countries-kuwait-bahrain-oil-attacks-2987446-2026-09-05",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202609/donald-trump-023536396-16x9.png?VersionId=IBKTYb.gHH00zCtb9jc0twHDdt39mXZ7",
-        "timestamp": 1788617460.0
-    },
-    {
-        "id": "4b31e43eac",
-        "title_fa": "حمله اسرائیل به جنوب لبنان، ۴ کشته شد",
-        "title_en": "Israeli strikes kill 4 in southern Lebanon",
-        "summary": [
-            "اسرائیل به‌خاطر حملات پهپادی حزب‌الله، در منطقه امنیتی جنوب لبنان دو زن و دو مرد را کشت.",
-            "هشدار تخلیه آنلاین ساعت ۶ صبح برای عرب‌سلیم صادر شد؛ اما ساختمان هدف مورد هدف قرار گرفت.",
-            "حمله بیمارستان و ساختمان وزارت مالیه را تخریب کرد؛ دو دختر نیز مجروح شدند.",
-            "پس از آتش‌بس ژوئن، این حمله تنش‌های مرزی را تشدید می‌کند."
-        ],
-        "impact": "ثبات امنیتی جنوب لبنان به‌خطر افتاد و خطر گسترش درگیری‌های مرزی افزایش یافت.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "CBC.ca",
-        "url": "https://www.cbc.ca/news/world/israeli-strikes-southern-lebanon-9.7334203",
-        "clean_url": "https://www.cbc.ca/news/world/israeli-strikes-southern-lebanon-9.7334203",
-        "image": "https://i.cbc.ca/ais/bc38f716-92b6-4e8a-ba8d-0af6edfc1998,1788698670422/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C4000%2C2250%29%3BResize%3D620",
-        "timestamp": 1788616983.0
-    },
-    {
-        "id": "83399034cc",
-        "title_fa": "ارتش آمریکا می‌گوید سه نفتکش ایرانی در خلیج فارس حمله کردند",
-        "title_en": "US military says three Iranian tankers struck in Gulf",
-        "summary": [
-            "US military says three Iranian tankers struck in Gulf cnn.com"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "cnn.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVlZfRVpnZHk5LUZINnd1bUh0Mkp3N3FoU3ZpT1Rad3ZwbzU2SllpNEUzeFpjdms2SWI4MWFCSVU4S2JtQ3BRTUNRQ01ybWprRmFybkNUdDk4TWxtZTFiWV9CQzJha0JWdlh0XzhHUzJSa2hEQkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVlZfRVpnZHk5LUZINnd1bUh0Mkp3N3FoU3ZpT1Rad3ZwbzU2SllpNEUzeFpjdms2SWI4MWFCSVU4S2JtQ3BRTUNRQ01ybWprRmFybkNUdDk4TWxtZTFiWV9CQzJha0JWdlh0XzhHUzJSa2hEQkE",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788616329.0
-    },
-    {
-        "id": "578450dc34",
-        "title_fa": "مهدی تارتار: محکوم به بردن هستیم، هیچ چیزی مثل فوتبال پاک به فوتبال ما کمک نمیکند",
-        "title_en": "مهدی تارتار: محکوم به بردن هستیم، هیچ چیزی مثل فوتبال پاک به فوتبال ما کمک نمیکند",
-        "summary": [
-            "مهدی تارتار، سرمربی پرسپولیس، در نشست خبری پیش از دیدار مقابل ذوبآهن گفت: «یک بازی بسیار مهم با یک تیم باتجربه و باکیفیت..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609069296",
-        "clean_url": "https://www.iranintl.com/202609069296",
-        "image": "https://www.bing.com/th?id=ONUT.KvNou50LOm1gtIo2fAReVA",
-        "timestamp": 1788616017.0
-    },
-    {
-        "id": "66ddb5b7fb",
-        "title_fa": "سپاه بر ۳ تانکر حمله؛ ترامپ ادعای کنترل هورموز",
-        "title_en": "US-Iran War LIVE: IRGC Navy Claims Attacks on 3 Tankers Using ‘Unauthorised’ Hormuz Routes",
-        "summary": [
-            "سپاه نیروی‌دریایی ایران ادعا کرد به ۳ تانکر که از مسیرهای «غیرمجاز» هورموز عبور می‌کردند، حمله کرد؛ تنش در تنگه به اوج رسید.",
-            "ترامپ گفت ایالات متحده تقریباً کنترل کامل هورموز را دارد و تهدید کرد حملات سخت‌تر و گسترده‌تری به ایران بکند.",
-            "تبادل حملات می‌تواند مسیرهای نفتی خلیج فارس را مختل کند و هزینه‌های حمل و نقل را به‌سرعت بالا ببرد."
-        ],
-        "impact": "حمل و نقل نفت خلیج ممکن است به‌سرعت مختل شود و هزینه‌های باربری به‌طور چشمگیری افزایش یابد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
-        "image": "http://www.bing.com/th?id=ONUT.jBgjXaH1cvrnvGxk8ENiuA&pid=News",
-        "timestamp": 1788615960.0
-    },
-    {
-        "id": "90b85bdac4",
-        "title_fa": "خبر بین‌المللی — Federal Judge Authorises ICE به Force-Feed Cuban Detainee در",
-        "title_en": "Federal Judge Authorises ICE To Force-Feed Cuban Detainee on Hunger Strike With Surgical Feeding Tube",
-        "summary": [
-            "A Texas judge has authorised involuntary feeding for a Cuban hunger striker in ICE custody, raising ethical concerns over..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "International Business Times UK",
-        "url": "https://www.ibtimes.co.uk/texas-judge-approves-involuntary-feeding-cuban-hunger-striker-1818075",
-        "clean_url": "https://www.ibtimes.co.uk/texas-judge-approves-involuntary-feeding-cuban-hunger-striker-1818075",
-        "image": "https://www.bing.com/th?id=ONUT.7fP4Q7ojmZiDWdfu0dKa1w",
-        "timestamp": 1788615581.0
     }
 ]
