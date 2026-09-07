@@ -704,6 +704,25 @@
         "timestamp": 1788721853.0829737
     },
     {
+        "id": "911ee23728",
+        "title_fa": "مکلمور خواستار آزادی فلسطین در کنسرت اد شیرن",
+        "title_en": "Macklemore Calls for 'Free Palestine' Onstage During Ed Sheeran Tour",
+        "summary": [
+            "مکلمور در استیج اد شیرن پیام سیاسی به مخاطبان آمریکایی داد",
+            "تاکید بر این‌که مردم غزه و کرانه اشغالی فراموش نشده‌اند",
+            "این ابراز نظر می‌تواند فشار عمومی برای بررسی وضعیت فلسطین در ایالات متحده را تقویت کند"
+        ],
+        "impact": "آگاهی عمومی در آمریکا از بحران فلسطین افزایش می‌یابد و ممکن است فشار بر تصمیم‌گیری‌های سیاسی ایجاد شود",
+        "tag": "فلسطین",
+        "urgency": 3,
+        "sentiment": 0.6,
+        "source": "Variety",
+        "url": "https://www.msn.com/en-us/news/other/macklemore-calls-for-free-palestine-onstage-during-ed-sheeran-tour/ar-AA2bGiDe",
+        "clean_url": "https://www.msn.com/en-us/news/other/macklemore-calls-for-free-palestine-onstage-during-ed-sheeran-tour/ar-AA2bGiDe",
+        "image": "https://s.yimg.com/lo/mysterio/api/e06699684043c8957091ee0fb5bdeb95cd178ff5d09390c775906abfb753b575/lightyear_networkapi/resizefill_w976;quality_80;format_webp/https://media.zenfs.com/en/variety.com/151cbff1c3ef4e3f92ba6cf698e66d42.jpg",
+        "timestamp": 1788720557.0
+    },
+    {
         "id": "8a8a9fff21",
         "title_fa": "با شعله ور شدن جنگ ایران، دونالد ترامپ به دنبال خروجی برای کاهش دردهای سیاسی فزاینده است",
         "title_en": "As the Iran war flares, Donald Trump looks for an exit to ease mounting political pain",
@@ -5476,23 +5495,5 @@
         "clean_url": "https://www.aljazeera.com/opinions/2026/9/5/mansour-abbas-is-betting-on-a-zionist-to-make-arab-votes-count",
         "image": "https://www.bing.com/th?id=ONUT.P8Am4fWVrt84DCzhuNtLqg",
         "timestamp": 1788598983.3967025
-    },
-    {
-        "id": "32a30c1ed4",
-        "title_fa": "چین می‌خواهد برتر شود؛ هند مانعش می‌شود",
-        "title_en": "‘China wants to be No. 1, India stands in its way’: Ex-Diplomat on Beijing, Brics and America",
-        "summary": [
-            "چین هدف شماره یک جهانی شدن را اعلام کرد، اما رشد اقتصادی هند مسیر او را مسدود می‌کند",
-            "رقابت چین و هند در بریکس و میان‌امریکا می‌تواند تعادل قدرت در آسیا را دگرگون کند"
-        ],
-        "impact": "رقابت چین‑هند ممکن است مسیر تجاری و نظامی منطقه را بازنویسی کند",
-        "tag": "چین-هند",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/china-wants-to-be-no-1-india-stands-in-its-way-ex-diplomat-on-beijing-brics-and-america-14043395.html",
-        "clean_url": "https://www.firstpost.com/opinion/china-wants-to-be-no-1-india-stands-in-its-way-ex-diplomat-on-beijing-brics-and-america-14043395.html",
-        "image": "https://www.bing.com/th?id=ONUT.n41L7xOUxiuSVIej4xuKVw",
-        "timestamp": 1788598983.3963375
     }
 ]
