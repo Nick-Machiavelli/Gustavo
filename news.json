@@ -1,5 +1,24 @@
 [
     {
+        "id": "1d4e9a806e",
+        "title_fa": "کارشناس CNN سفر نمایندگان ترامپ به روسیه/اوکراین",
+        "title_en": "CNN Defense Expert Roasts Trump Envoy’s ‘Whatever Happens’ Approach to Russia-Ukraine War",
+        "summary": [
+            "کارشناس می‌گوید رویکرد «هرچه شود» نمایندگان ترامپ نشان از بی‌سابقه‌گی در سیاست خارجی است",
+            "او اشاره می‌کند که مذاکرات شش ماهه به دلیل جنگ ایران‑توسط ترامپ متوقف شد",
+            "این بی‌ثباتی می‌تواند فشار دیپلماتیک آمریکا را در بحران اوکراین تضعیف کند"
+        ],
+        "impact": "بی‌ثباتی در سیاست آمریکا، احتمال کاهش اثرگذاری دیپلماتیک در مذاکرات اوکراین",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/cnn-defense-expert-roasts-trump-191315195.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/cnn-defense-expert-roasts-trump-191315195.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/018ca9ec55082711b3a45e957f944f586f98e564c972dc024173f45878bbd7e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2F60b4a35e96fff5a174c52ada10bd68b9.jpg",
+        "timestamp": 1788810450.2216053
+    },
+    {
         "id": "3ac1afc882",
         "title_fa": "تهدید مسلحانه داخلی ایران",
         "title_en": "The domestic armed threat facing Iran",
@@ -5430,25 +5449,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-denies-that-iran-struck-an-uncrewed-us-military-ship-in-the-strait-of-hormuz/ar-AA2bES8a",
         "image": "https://www.bing.com/th?id=ONUT.BGw8Ep3ojUCeuowB0v55Cw",
         "timestamp": 1788662992.0
-    },
-    {
-        "id": "dc6eb0cb95",
-        "title_fa": "حمله هوایی آمریکا به سه تانکر نفت ایران",
-        "title_en": "US Fighters and Drones Strike 3 Iranian Oil Tankers in Retaliation for Ship Attacks",
-        "summary": [
-            "نیروی هوایی آمریکا با جنگنده‌ها و پهپادها سه تانکر نفتی ایرانی را هدف گرفت",
-            "این حمله به عنوان انتقام از حملات قبلی به کشتی‌های تجاری انجام شد",
-            "هر کدام از تانکرها حدود دو میلیون بشکه نفت حمل می‌کردند؛ خسارت اقتصادی و فشار بر صادرات نفت ایران را افزایش می‌دهد",
-            "اقدام آمریکا می‌تواند تنش‌های خاورمیانه را به نقطه انفجار نزدیک کند"
-        ],
-        "impact": "توقف موقت صادرات نفت ایران و تشدید تنش‌های نظامی در خلیج",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Air & Space Forces Magazine",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVkdsREpXUFVsTXNZMUwyVnNlN1pTSV8xUklBQzRURWlYUEY5LVBnSEszUzUwTWVxbGRWWGZFYm5hS1k3TTNXZmpNNUZyLUtoZVFmY2xHVUkxYll0RTYxb2JOWlNaQUVkWUZ3c293cE9jRVZXOGVPTUxPeVc0dTMxZEJadC1pRWg2bkxCNjhkUzJ0eGJDLVZ0YVpQNUZtSlVfbkxXd29zVktyaDBOWUxpZks5YW8wTnpqNkw1ZzZ4dE1ZbnZNa0dadFdXXzhNOEVEYU1N?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVkdsREpXUFVsTXNZMUwyVnNlN1pTSV8xUklBQzRURWlYUEY5LVBnSEszUzUwTWVxbGRWWGZFYm5hS1k3TTNXZmpNNUZyLUtoZVFmY2xHVUkxYll0RTYxb2JOWlNaQUVkWUZ3c293cE9jRVZXOGVPTUxPeVc0dTMxZEJadC1pRWg2bkxCNjhkUzJ0eGJDLVZ0YVpQNUZtSlVfbkxXd29zVktyaDBOWUxpZks5YW8wTnpqNkw1ZzZ4dE1ZbnZNa0dadFdXXzhNOEVEYU1N",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788662871.0
     }
 ]
