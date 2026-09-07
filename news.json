@@ -1,5 +1,24 @@
 [
     {
+        "id": "8ddc0fedb4",
+        "title_fa": "نمایش بزرگ ترامپ برای فرار از بحران کره شمالی",
+        "title_en": "Concern over Trump's 'big show' to escape crisis",
+        "summary": [
+            "ترامپ با نمایش قدرت در مقابل کره شمالی سعی دارد تصویر قوی‌تری از خود بسازد",
+            "تحلیلگران می‌گویند این حرکت بیشتر برای جلب حمایت داخلی است تا حل واقعی بحران",
+            "ریسک تشدید تنش‌های نظامی در شبه‌جزیره کره افزایش یافت"
+        ],
+        "impact": "تنش‌های نظامی در شبه‌جزیره کره ممکن است به درگیری‌های مستقیم منجر شود",
+        "tag": "سیاست-آمریکا",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Chosun Ilbo on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/concern-over-trumps-big-show-to-escape-crisis/ar-AA2bKtaS?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/concern-over-trumps-big-show-to-escape-crisis/ar-AA2bKtaS",
+        "image": "https://www.bing.com/th?id=ONUT.s9ynUz_Qj1J4SJXDWTsv-Q",
+        "timestamp": 1788793395.0726695
+    },
+    {
         "id": "6db8c34ee8",
         "title_fa": "پاپازین: فرانسه باید به تهدیدهای آذربایجان تسلیم شود",
         "title_en": "Franck Papazian wants France to act like the dictatorship it opposes",
@@ -176,6 +195,25 @@
         "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-07-26",
         "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/a11f43f066a4370039b40387602749f0.jpg?ve=1&tl=1",
         "timestamp": 1788786600.0
+    },
+    {
+        "id": "361663043a",
+        "title_fa": "جنگ‌های ایران و اوکراین منجر به کمبود سوخت کشتی‌ها شد",
+        "title_en": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
+        "summary": [
+            "جنگ‌های جاری ایران و اوکراین باعث کاهش تولید سوخت‌های دریایی شد",
+            "کشتی‌های تجاری در مسیرهای اصلی با کمبود سوخت مواجه شده و هزینه‌های حمل‌ونقل افزایش یافت",
+            "این وضعیت ممکن است فشار بر قیمت کالاهای وارداتی را تقویت کند"
+        ],
+        "impact": "هزینه حمل‌ونقل دریایی افزایش می‌یابد و زنجیره تأمین جهانی تحت فشار قرار می‌گیرد",
+        "tag": "سوخت-دریایی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQm00Zy1HeEFXTUZiYXR5cHZNeXBVVnFnUzI0YVdHVW5ya1M3QkFpVDNwLXFnOUpsWUdOX1BGMDVUanlFazU1LTc0Y1I2UFNPazI4TlR0SkZkNGZIMXlMWDJOR25SQmRuTEFNQ1VpbUxsbmpWQi1MeWNEOHJXRW9WdWNzeFkySUlFR1hQS2M2LUVrNy1tYkpzaWZBMVdpNHV3TVlIekRmb2taRXVVbVJvTNIBtgFBVV95cUxQWGtVU0l3aG41TUZvRVJ2NF9yWTBHOWpZM1YyT1BqSFVsdDZyZEZuUmJYRmw3Z3Q4T2tCY3RmSC0tRlRqaVMySXZfdFktTEhsbF9oTGEwX08walNFZzhLYXhQa29JOHMtbC12U2p4czB2eE53MVRfOXZpNDNqTmJnZXRzR2JyU0pRSEc2QXk1LWFsZWlJdGNjSTc1YXMwS3JKc05BRXFEdHFRRHd1T2hqUVNCeTBMQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQm00Zy1HeEFXTUZiYXR5cHZNeXBVVnFnUzI0YVdHVW5ya1M3QkFpVDNwLXFnOUpsWUdOX1BGMDVUanlFazU1LTc0Y1I2UFNPazI4TlR0SkZkNGZIMXlMWDJOR25SQmRuTEFNQ1VpbUxsbmpWQi1MeWNEOHJXRW9WdWNzeFkySUlFR1hQS2M2LUVrNy1tYkpzaWZBMVdpNHV3TVlIekRmb2taRXVVbVJvTNIBtgFBVV95cUxQWGtVU0l3aG41TUZvRVJ2NF9yWTBHOWpZM1YyT1BqSFVsdDZyZEZuUmJYRmw3Z3Q4T2tCY3RmSC0tRlRqaVMySXZfdFktTEhsbF9oTGEwX08walNFZzhLYXhQa29JOHMtbC12U2p4czB2eE53MVRfOXZpNDNqTmJnZXRzR2JyU0pRSEc2QXk1LWFsZWlJdGNjSTc1YXMwS3JKc05BRXFEdHFRRHd1T2hqUVNCeTBMQQ",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788785381.0
     },
     {
         "id": "02f4fc90e2",
@@ -2327,6 +2365,44 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkVLMTZQeFM3OWk2ZllGdUdVdFBUSVJVVEVDX2tsbUJyVENIbmxicGFFdUt4LVhSUTRubm9ZR3EyREFQQ0U2VWpMMl9jall6Vk0tWGxDeTByVjFxOGI2RDlXNFhLSU92a3ZQcHR4OTdMWGFsNHJhZUpvbGFyTDRIR3RELVZFa2JJM1FPUGRQUEJNZw",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788707160.0
+    },
+    {
+        "id": "841e279354",
+        "title_fa": "قیمت نفت نزدیک سقف شش هفته‌ای پس از حملات آمریکا‑ایران",
+        "title_en": "Oil prices hold near six-week highs on US-Iran attacks",
+        "summary": [
+            "حملات متقابل آمریکا و ایران به کشتی‌ها در تنگه هرمز، نگرانی از قطع طولانی‌مدت عرضه نفت",
+            "قیمت برنت به ۸۲ دلار رسید و بازارها به دنبال تحریم‌های جدید می‌گردند",
+            "این فشار می‌تواند نوسان شدید در بازارهای انرژی ایجاد کند"
+        ],
+        "impact": "قیمت نفت بالا می‌رود و هزینه‌های انرژی جهانی را فشار می‌دهد",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/energy/oil-extends-gains-after-us-iran-strike-ships-2026-09-07/",
+        "clean_url": "https://www.reuters.com/business/energy/oil-extends-gains-after-us-iran-strike-ships-2026-09-07",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788706988.0
+    },
+    {
+        "id": "65875bb47e",
+        "title_fa": "ترامپ نقشه نوکسانز را به 'آمریکای نو' تغییر داد",
+        "title_en": "Trump posts map renaming New Mexico to 'New America'",
+        "summary": [
+            "ترامپ نقشه‌ای منتشر کرد که ایالت نیومکزیکو را «آمریکای نو» می‌نامد",
+            "این اقدام واکنش‌های خنده‌دار و انتقادی در شبکه‌های اجتماعی برانگیخت",
+            "هیچ تغییر قانونی در مرزها یا نام‌گذاری صورت نگرفت"
+        ],
+        "impact": "هیجان‌زدگی سیاسی بدون اثر واقعی بر سیاست داخلی یا خارجی آمریکا",
+        "tag": "نقشه-ترامپ",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-posts-map-renaming-new-mexico-to-new-america/ar-AA2bJrwq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-posts-map-renaming-new-mexico-to-new-america/ar-AA2bJrwq",
+        "image": "https://www.bing.com/th?id=ONUT.Fj-ypSXmBRIWU_baGJpWBQ",
+        "timestamp": 1788706988.0
     },
     {
         "id": "d543087d1e",
@@ -5398,73 +5474,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/trump-s-dangerous-fantasies-have-cut-him-off-from-basic-facts/ar-AA2bDT4N",
         "image": "https://www.bing.com/th?id=ONUT.X-CKdFk8pqoq1eewtd5WkQ",
         "timestamp": 1788634195.2114837
-    },
-    {
-        "id": "1e83ee320a",
-        "title_fa": "اسرائیل می‌گوید نتانیاهو دستور تخلیه برخی شهرک های کرانه باختری را صادر کرده است",
-        "title_en": "Israel Says Netanyahu Ordered Evacuation Of Some West Bank Settlements",
-        "summary": [
-            "While all Israeli settlements in the West Bank are considered illegal under international law, some established without..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/world-news/israel-says-netanyahu-ordered-evacuation-of-some-west-bank-settlements-12010483",
-        "clean_url": "https://www.ndtv.com/world-news/israel-says-netanyahu-ordered-evacuation-of-some-west-bank-settlements-12010483",
-        "image": "https://www.bing.com/th?id=ONUT.-gTeKGZfnaa_bDHlBWtGBg",
-        "timestamp": 1788634072.0
-    },
-    {
-        "id": "0ece84f0d1",
-        "title_fa": "حملات تجاری آمریکا و ایران به کشتی‌ها با عمیق‌تر شدن جنگ",
-        "title_en": "US, Iran trade strikes on ships as war deepens",
-        "summary": [
-            "Three Iranian oil tankers were struck by US military forces on 5 September after Iran attempted to target two American naval vessels with ballistic missiles, according to US Central Command (Centcom),..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Argus Media",
-        "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2874214-us-iran-trade-strikes-on-ships-as-war-deepens",
-        "clean_url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2874214-us-iran-trade-strikes-on-ships-as-war-deepens",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788634071.0
-    },
-    {
-        "id": "7c7fd20f91",
-        "title_fa": "ایران متعهد به واکنش اقتصادی در شرایطی است که جنگ مجدد عرضه نفت را تهدید می‌کند",
-        "title_en": "Iran vows economic response as renewed fighting threatens oil supplies",
-        "summary": [
-            "Iran pledged additional measures to support its sanctions-battered economy as renewed clashes with the United States raised..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Seeking Alpha on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/iran-vows-economic-response-as-renewed-fighting-threatens-oil-supplies/ar-AA2bFIN0?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-vows-economic-response-as-renewed-fighting-threatens-oil-supplies/ar-AA2bFIN0",
-        "image": "https://www.bing.com/th?id=ONUT.tlxNwv5vbAIgKK6JpAZ2GQ",
-        "timestamp": 1788634071.0
-    },
-    {
-        "id": "8224731e8a",
-        "title_fa": "CAIR-LA مراسم اصلی جشن اویغور را پس از اینکه ادعا کرد اسرائیل کنترل کنگره را در اختیار دارد نامگذاری کرد.",
-        "title_en": "CAIR-LA Names Cenk Uygur Gala Keynote After He Claimed Israel Controls Congress",
-        "summary": [
-            "On September 4, 2026, the Los Angeles chapter of the Council on American-Islamic Relations (CAIR-LA) featured Cenk Uygur,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "combatantisemitism",
-        "url": "https://combatantisemitism.org/cam-news/cair-la-names-cenk-uygur-gala-keynote-after-he-claimed-israel-controls-congress/",
-        "clean_url": "https://combatantisemitism.org/cam-news/cair-la-names-cenk-uygur-gala-keynote-after-he-claimed-israel-controls-congress",
-        "image": "https://www.bing.com/th?id=ONUT.rEMi8sbGE7nmBBNHLm_xVw",
-        "timestamp": 1788633660.0
     }
 ]
