@@ -1,5 +1,25 @@
 [
     {
+        "id": "90b0c37869",
+        "title_fa": "استراتژی چند‌محور هند در مقابل چین",
+        "title_en": "How strategic multi-engagement remains an appropriate choice for India",
+        "summary": [
+            "هند با چین در زمینه‌های اقتصادی، امنیتی و فناوری هم‌کاری می‌کند",
+            "اختلافات ژئوپلیتیک و عدم توازن قدرت باعث چالش می‌شود",
+            "سیاست چند‌محور به دیپلماتیک‌ها اجازه می‌دهد تا از تنش‌های مستقیم دور بمانند",
+            "این رویکرد می‌تواند تعادل قدرت در آسیا را حفظ کند"
+        ],
+        "impact": "رویکرد چند‌محور هند مانع تشدید تنش‌های هند‑چین می‌شود و فضای همکاری منطقه‌ای را گسترش می‌دهد",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/how-strategic-multi-engagement-remains-an-appropriate-choice-for-india-10867313/",
+        "clean_url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/how-strategic-multi-engagement-remains-an-appropriate-choice-for-india-10867313",
+        "image": "https://www.bing.com/th?id=ONUT.ZOYzqtbvY0kl4LE1lF5Uag",
+        "timestamp": 1788788597.671665
+    },
+    {
         "id": "c4d2de97a6",
         "title_fa": "«نوستراداموس چین» 5 پیش بینی تلخ برای سال 2027 می‌کند",
         "title_en": "‘China’s Nostradamus’ makes 5 grim predictions for 2027",
@@ -1059,6 +1079,26 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/democrats-hoping-to-appear-normal-as-they-roll-out-their-blue-wave-of-weirdos-ahead-of-critical-midterms/ar-AA2bGYEt",
         "image": "https://www.bing.com/th?id=ONUT.RclpVRfclqurSvuwjApMAg",
         "timestamp": 1788752284.8161783
+    },
+    {
+        "id": "6f2ad5922b",
+        "title_fa": "اوکراین تا کنون ۴.۸ میلیارد دلار بدهی پرداخت کرد",
+        "title_en": "Ukraine pays more than $4.8 billion to creditors since start of year",
+        "summary": [
+            "اوکراین از ابتدای سال ۴.۸۱ میلیارد دلار به طلبکاران پرداخت کرده",
+            "بیشترین سهم به صندوق بین‌المللی پول رفت",
+            "بدهی کل به حدود ۲۱۸‑۲۱۹ میلیارد دلار رسیده و ماهانه ۴‑۵ میلیارد دلار افزوده می‌شود",
+            "پیش‌بینی می‌شود تا پایان ۲۰۲۶ هر شهروند حدود ۸۵۰۰ دلار بدهی داشته باشد"
+        ],
+        "impact": "بدهی رو به رشد اوکراین فشار مالی داخلی را تشدید می‌کند و ریسک پیش‌فرض برای سرمایه‌گذاران را بالا می‌برد",
+        "tag": "بدهی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2183441",
+        "clean_url": "https://tass.com/economy/2183441",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1788746580.0
     },
     {
         "id": "152a3b6fa6",
@@ -5435,42 +5475,5 @@
         "clean_url": "https://www.iranintl.com/202609066560",
         "image": "http://www.bing.com/th?id=ONUT.IBZpd_Sgo1Jvc2pWAC9gSA&pid=News",
         "timestamp": 1788627600.0
-    },
-    {
-        "id": "eceb0b12fb",
-        "title_fa": "حملات متقابل آمریکا و جمهوری اسلامی نبرد بر سر تنگه هرمز را تشدید کرد",
-        "title_en": "حملات متقابل آمریکا و جمهوری اسلامی نبرد بر سر تنگه هرمز را تشدید کرد",
-        "summary": [
-            "حمله آمریکا به سه نفتکش ایرانی و ادعای تهران درباره هدف قرار دادن شش شناور، مناقشه بر سر کنترل تنگه هرمز را وارد مرحله‌ای خطرناک‌تر کرده است. به نوشته گلف‌نیوز ادامه این حملات می‌تواند روند شکننده باز..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609063448",
-        "clean_url": "https://www.iranintl.com/202609063448",
-        "image": "http://www.bing.com/th?id=ONUT.dBY9-yVIKFd3GF93MxwRmQ&pid=News",
-        "timestamp": 1788627600.0
-    },
-    {
-        "id": "62491cec9e",
-        "title_fa": "۶۰ کشته در یمن؛ حوثی‌ها با نیروهای سعودی درگیر",
-        "title_en": "Over 60 killed in Yemen as Houthis battle Saudi-backed forces near Red Sea gateway",
-        "summary": [
-            "بیش از ۶۰ نفر، از جمله ۶ غیرنظامی، در نبردهای نزدیک دروازهٔ دریای سرخ کشته شدند",
-            "حمایت ایران از حوثی‌ها باعث تشدید درگیری با نیروهای سعودی و متحدانش شد",
-            "حملهٔ هوایی سعودی به مواضع حوثی‌ها نشان افزایش فشار هوایی در منطقه است",
-            "کشتار غیرنظامیان خطر تشدید واکنش‌های بین‌المللی و تهدید مسیرهای تجاری مهم را افزایش می‌دهد"
-        ],
-        "impact": "امنیت مسیرهای تجاری خلیج فارس به خطر می‌افتد و فشار اقتصادی بر کشورهای منطقه بالا می‌رود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/over-60-killed-in-yemen-as-houthis-battle-saudi-backed-forces-near-red-sea-gateway/",
-        "clean_url": "https://www.timesofisrael.com/over-60-killed-in-yemen-as-houthis-battle-saudi-backed-forces-near-red-sea-gateway",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260905__C7EW4UR__v1__HighRes__YemenIranUsIsraelWarHouthis.jpg",
-        "timestamp": 1788627420.0
     }
 ]
