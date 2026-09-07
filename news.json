@@ -1,5 +1,43 @@
 [
     {
+        "id": "0a9dd0ab08",
+        "title_fa": "ایران توان نظامی برای پاسخ به تهدید آمریکا ندارد",
+        "title_en": "Iran has ‘no means’ to respond to US threats: RET Marine colonel",
+        "summary": [
+            "بازنشسته‌کالونل مارین می‌گوید ایران تجهیزات کافی برای حمله نظامی ندارد",
+            "این حرف پس از حملات هوایی آمریکا به تانکرهای ایرانی منتشر شد",
+            "تحلیل نشان می‌دهد تهدیدهای مستقیم آمریکا ممکن است به فشار اقتصادی محدود شود"
+        ],
+        "impact": "امکان پاسخ نظامی ایران به تهدیدهای آمریکا به‌طور عملی محدود می‌شود",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "FOX News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-has-no-means-to-respond-to-us-threats-ret-marine-colonel/vi-AA2bL07O?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-has-no-means-to-respond-to-us-threats-ret-marine-colonel/vi-AA2bL07O",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788817272.3809087
+    },
+    {
+        "id": "14dcec62e0",
+        "title_fa": "قیمت نفت به‌دلیل تشدید درگیری‌ها در تنگه هرمز جهش کرد",
+        "title_en": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+        "summary": [
+            "حملات متقابل آمریکا و ایران در هرمز باعث نگرانی بازار نفت شد",
+            "قیمت نفت برنت به بالای ۸۰ دلار رسید",
+            "ادامه درگیری می‌تواند فشار بر اقتصاد جهانی را افزایش دهد"
+        ],
+        "impact": "قیمت نفت بالا می‌رود و هزینه‌های انرژی جهانی را ارتقا می‌دهد",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788815843.0
+    },
+    {
         "id": "743f84111e",
         "title_fa": "«در آن باش»: پاسخ کانادا به ترامپ اصلاً آن چیزی نیست که او انتظار داشت",
         "title_en": "'Have at it': Canada's response to Trump is not at all what he expected",
@@ -5410,42 +5448,5 @@
         "clean_url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
         "image": "https://image.cnbcfm.com/api/v1/image/108359320-1788693543339-gettyimages-2292604250-AFP_C74Y6WE.jpeg?v=1788695254&w=1920&h=1080",
         "timestamp": 1788670920.0
-    },
-    {
-        "id": "37a9f496a2",
-        "title_fa": "ایران مدعی حمله به کشتی بدون سرنشین آمریکایی در تنگه هرمز با تشدید حملات است",
-        "title_en": "Iran claims strike on unmanned US vessel in Strait of Hormuz as attacks intensify",
-        "summary": [
-            "Iran said Sunday it struck an unmanned US vessel trying to enter the Strait of Hormuz, the latest salvo in a new flare-up of fighting between the two countries. The US did not immediately confirm the..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/iran-claims-strike-on-unmanned-us-vessel-in-strait-of-hormuz-as-attacks-intensify/ar-AA2bFOuG",
-        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/iran-claims-strike-on-unmanned-us-vessel-in-strait-of-hormuz-as-attacks-intensify/ar-AA2bFOuG",
-        "image": "http://www.bing.com/th?id=ONUT.PjQjDXkMTCTjOebPA001hQ&pid=News",
-        "timestamp": 1788670796.0
-    },
-    {
-        "id": "6b4b97c149",
-        "title_fa": "ایران: ناوهای آمریکایی پس از حمله موشکی فرار کردند",
-        "title_en": "Iran Says US Warships Forced to Flee after Ballistic Missile Attack",
-        "summary": [
-            "ایران ادعا کرد موشکی بالستیک به ناوهای آمریکا شلیک کرد و آن‌ها را مجبور به عقب‌نشینی کرد",
-            "هیچ منبع مستقل تأیید نکرده و امکان استفاده از این ادعا برای فشار روانی بر نیروی دریایی آمریکا وجود دارد",
-            "اگر ادعا صحت داشته باشد، خطر تشدید تنش‌های نظامی در خلیج فارس به‌طور قابل‌توجهی بالا می‌رود",
-            "این روایت می‌تواند به تحریم‌های جدید یا اقدام‌ها دیپلماتیک علیه آمریکا منجر شود"
-        ],
-        "impact": "ممکن است عملیات نیروی دریایی آمریکا در خلیج فارس محدود شود و تنش‌های نظامی منطقه افزایش یابد",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Palestine Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ25McFVMMFV4SWFPRlRRZHVibkVJWUVuazFuelk4MFVkTG40b0lKUjRmQ1dHdXJGOURqcTFOU0o2bURXRzlKSkdfYWU5QTRoaHJoU2g2MWdkalVwSXpWZzM4UzdqVmhicWt3cVo4aFQyN21TY3pzZmNsQ3ZiV1hqcmFCcU5wU3NsQkRyOUFUU3ZFTTJ3c0FOTVktbzR6VjVPSDlZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ25McFVMMFV4SWFPRlRRZHVibkVJWUVuazFuelk4MFVkTG40b0lKUjRmQ1dHdXJGOURqcTFOU0o2bURXRzlKSkdfYWU5QTRoaHJoU2g2MWdkalVwSXpWZzM4UzdqVmhicWt3cVo4aFQyN21TY3pzZmNsQ3ZiV1hqcmFCcU5wU3NsQkRyOUFUU3ZFTTJ3c0FOTVktbzR6VjVPSDlZ",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788670492.0
     }
 ]
