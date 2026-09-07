@@ -1909,6 +1909,26 @@
         "timestamp": 1788752284.8161783
     },
     {
+        "id": "fec8cee68e",
+        "title_fa": "پروژه‌های داخلی ترامپ در انتظار تأیید نهایی",
+        "title_en": "Donald Trump",
+        "summary": [
+            "پروژهٔ قوس پیروزی ۲۵۰ فوتی و سالن بالکانی سفید‌خانه هنوز تأیید نهایی ندارند و به‌دست‌اندرکاران دولتی وابسته‌اند",
+            "استیفای داوید در وزارت دفاع و خروج دانیل دریسکل نشان می‌دهد که درون‌سازمان‌ها دچار کشمکش‌های جدی هستند",
+            "پایه حزبی ترامپ قوی است اما امتیاز پایین او در میان رای‌دهندگان میانه، خطر از دست دادن رأی‌های کلیدی را افزایش می‌دهد",
+            "طرح کاهش تعرفه گوشت گاو و تنش‌های تجاری با کانادا، نگرانی‌های اقتصادی جمهوری‌خواهان را تشدید می‌کند"
+        ],
+        "impact": "تاخیر یا پیشبرد این پروژه‌ها و سیاست‌های تجاری می‌تواند حمایت عمومی از ترامپ را در انتخابات آینده تقویت یا تضعیف کند",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "nytimes.com",
+        "url": "https://www.nytimes.com/spotlight/donald-trump",
+        "clean_url": "https://www.nytimes.com/spotlight/donald-trump",
+        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+        "timestamp": 1788750300.0
+    },
+    {
         "id": "563c3de631",
         "title_fa": "خبر بین‌المللی — Asian Stocks Rally as Strong US Payrolls Counter Rate-Hike F",
         "title_en": "Asian Stocks Rally as Strong US Payrolls Counter Rate-Hike Fears, Oil Climbs",
@@ -5429,24 +5449,5 @@
         "clean_url": "https://www.msn.com/en-ca/money/economy/analysis-ship-fuel-shortage-looms-as-refiners-strained-by-war-favour-other-products/ar-AA2bGR5X",
         "image": "https://www.bing.com/th?id=ONUT.hHP_reJk66PkogtYs_G2HA",
         "timestamp": 1788668001.0
-    },
-    {
-        "id": "8f623e7098",
-        "title_fa": "ایران تهدید به حمله پیش‌دستی، تردید ترامپ",
-        "title_en": "Trump just got hit with a major new military problem: Iran says its forces may now strike first, not just respond",
-        "summary": [
-            "سخنران ارتش ایران اعلام کرد که نیروها می‌توانند پیش از حمله دشمن عمل کنند",
-            "این اظهارات نگرانی استراتژیک آمریکا را برانگیخت",
-            "ترامپ هنوز واکنش رسمی نداده اما احتمال حضور نظامی بیشتر در خلیج فارس بالا است"
-        ],
-        "impact": "ریسک برخورد مستقیم بین نیروهای آمریکا و ایران افزایش یافت و احتمال بسط عملیات نظامی شد",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/general/general/trump-just-got-hit-with-a-major-new-military-problem-iran-says-its-forces-may-now-strike-first-not-just-respond/ar-AA2bEXSV",
-        "clean_url": "https://www.msn.com/en-us/general/general/trump-just-got-hit-with-a-major-new-military-problem-iran-says-its-forces-may-now-strike-first-not-just-respond/ar-AA2bEXSV",
-        "image": "http://www.bing.com/th?id=ONUT.kA2eqFYlKHcmAuN8gRLQDg&pid=News",
-        "timestamp": 1788667628.0
     }
 ]
