@@ -740,6 +740,25 @@
         "timestamp": 1788776580.0
     },
     {
+        "id": "0b3070b8ac",
+        "title_fa": "تحریم‌های ترامپ ایران را به تهدید نظامی می‌کشاند",
+        "title_en": "Trump’s blockade pushes Iran toward military escalation",
+        "summary": [
+            "ترامپ مذاکرات را رها کرده و با تحریم‌های گسترده، ضربه‌ای نظامی به ایران وارد کرده است",
+            "تهدید ارتش ایران برای گسترش جنگ به منظور بازگرداندن مذاکرات، نشانه‌ای از فشار بی‌سابقه است",
+            "مسدودسازی دریایی کالاها، اقتصاد ایران را به بن‌بست کشانده و مردم را تحت فشار شدید قرار می‌دهد"
+        ],
+        "impact": "تحریم‌های چندوجهی و تهدید نظامی می‌تواند به تداوم تنش‌های نظامی و فروپاشی اقتصادی منجر شود",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/07/middleeast/trump-blockade-iran-military-escalation-intl-latam",
+        "clean_url": "https://www.cnn.com/2026/09/07/middleeast/trump-blockade-iran-military-escalation-intl-latam",
+        "image": "http://www.bing.com/th?id=ONUT._zqxmTuJ_D4CQQWDETqDsw&pid=News",
+        "timestamp": 1788776340.0
+    },
+    {
         "id": "fe97e5187f",
         "title_fa": "کاهش ناگهانی کشتی‌ها در هرمز؛ ادعای ترامپ بی‌پایه",
         "title_en": "Trump’s Big Brag Blows Up in Humiliating Reality Check",
@@ -3571,6 +3590,25 @@
         "timestamp": 1788691204.7657568
     },
     {
+        "id": "8e017aed2f",
+        "title_fa": "خامی‌نه‌ای نگران اقتصاد و همبستگی اجتماعی است",
+        "title_en": "Even Supreme Leader Mojtaba Khamenei is worried about Iran’s economy and ‘social cohesion’ as US pressure gets tougher to withstand",
+        "summary": [
+            "رهبر ایران به تورم، بیکاری و نوسان قیمت‌ها به عنوان چالش‌های جدی اشاره کرد",
+            "فشار اقتصادی آمریکا باعث تضعیف توان خرید مردم و کاهش همبستگی اجتماعی شده است",
+            "عدم حضور رهبر در صحنه سیاسی، نشان از اضطراب عمیق در رده‌های بالایی قدرت دارد"
+        ],
+        "impact": "رکود اقتصادی و ناآرامی‌های اجتماعی می‌تواند به تضعیف ثبات داخلی منجر شود",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.65,
+        "source": "Fortune on MSN",
+        "url": "https://www.msn.com/en-us/money/general/even-supreme-leader-mojtaba-khamenei-is-worried-about-iran-s-economy-and-social-cohesion-as-us-pressure-gets-tougher-to-withstand/ar-AA2bGaPc",
+        "clean_url": "https://www.msn.com/en-us/money/general/even-supreme-leader-mojtaba-khamenei-is-worried-about-iran-s-economy-and-social-cohesion-as-us-pressure-gets-tougher-to-withstand/ar-AA2bGaPc",
+        "image": "http://www.bing.com/th?id=ONUT.14n_vZtYEqgrYXnV74Pdhw&pid=News",
+        "timestamp": 1788691063.0
+    },
+    {
         "id": "8094b670e2",
         "title_fa": "درس‌های دو سالگرد تراژیک برای ایالات متحده",
         "title_en": "Opinion: Lessons from 2 awful anniversaries",
@@ -5435,42 +5473,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788648247.0
-    },
-    {
-        "id": "093964f4f6",
-        "title_fa": "آمریکا تانکرهای ایران را پس از حمله موشکی نابود کرد",
-        "title_en": "US military says it destroyed 3 Iranian oil tankers after missile attacks",
-        "summary": [
-            "سه تانکر نفتی ایران در خلیج فارس توسط نیروی هوایی ایالات متحده هدف قرار گرفت.",
-            "موشک‌های سپاه پاسداران به کشتی‌های جنگی آمریکا برخورد نکردند؛ ناوبری نیروی دریایی ایالات متحده ثابت شد.",
-            "این عملیات به شبکه مالی سایه‌ای سپاه ضربه می‌زند و توان مالی آن را کاهش می‌دهد."
-        ],
-        "impact": "کاهش توان مالی سپاه؛ تنش نظامی بین آمریکا و ایران تشدید می‌شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/region/263449.html",
-        "clean_url": "https://www.azernews.az/region/263449.html",
-        "image": "https://www.azernews.az/media/2026/09/05/thumbs_b_c_4b9bd8bca9fcaa61848b270d0cd586f8.jpg",
-        "timestamp": 1788648000.0
-    },
-    {
-        "id": "7b9bc1da74",
-        "title_fa": "ترامپ در اولین شب کنوانسیون RNC سخن می‌گوید",
-        "title_en": "Trump shakes up RNC midterm convention schedule, says he’ll speak on night one",
-        "summary": [
-            "ترامپ برنامه‌ریزی کرد که در شب اول کنوانسیون RNC در دالاس سخنرانی کند",
-            "این حضور نشان می‌دهد که او می‌خواهد رهبری حزب را پیش از انتخابات ۲۰۲۴ تقویت کند"
-        ],
-        "impact": "حضور او می‌تواند حمایت پایه رأی‌دهندگان رپابلیکن را در روزهای نخستین انتخابات تقویت کند",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "The Hill on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/trump-shakes-up-rnc-midterm-convention-schedule-says-he-ll-speak-on-night-one/ar-AA2bE6qp?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/politics/trump-shakes-up-rnc-midterm-convention-schedule-says-he-ll-speak-on-night-one/ar-AA2bE6qp",
-        "image": "https://www.bing.com/th?id=ONUT.us-D-ZatIWCUsPYYJAUFQg",
-        "timestamp": 1788647609.0
     }
 ]
