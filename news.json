@@ -1,5 +1,24 @@
 [
     {
+        "id": "fe97e5187f",
+        "title_fa": "کاهش ناگهانی کشتی‌ها در هرمز؛ ادعای ترامپ بی‌پایه",
+        "title_en": "Trump’s Big Brag Blows Up in Humiliating Reality Check",
+        "summary": [
+            "داده‌های Kpler میانگین ۱۰ روزه عبور کشتی‌ها را به ۱۰ کاهش داده؛ پایین‌ترین سطح از ماه مه",
+            "ادعای ترامپ مبنی بر فشار شدید بر ایران با واقعیت ترافیک کم در تضاد است",
+            "کاهش عبور کشتی‌ها نشان می‌دهد تحریم‌های دریایی اثر محدود دارند و مسیر می‌تواند به سرعت مسدود شود"
+        ],
+        "impact": "کاهش عبور کشتی‌ها به سرعت صادرات نفت ایران ضربه می‌زند و فشار اقتصادی آمریکا را کم می‌کند",
+        "tag": "حمل‌ونقل",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/trumps-big-strait-of-hormuz-brag-blows-up-in-humiliating-reality-check/",
+        "clean_url": "https://www.thedailybeast.com/trumps-big-strait-of-hormuz-brag-blows-up-in-humiliating-reality-check",
+        "image": "https://www.bing.com/th?id=ONUT.0NJbn1Rw8k7XHClcUmHD0Q",
+        "timestamp": 1788776018.6256135
+    },
+    {
         "id": "05c85f9357",
         "title_fa": "در این روز کارگر، ترامپ به آمریکایی های شاغل ابراز همدردی نمی‌کند",
         "title_en": "On this Labor Day, Trump offers no sympathy to working Americans",
@@ -266,6 +285,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788764220.0
+    },
+    {
+        "id": "95b95aab31",
+        "title_fa": "خلاصه خبری ن.س.ر.ای ۷ سپتامبر ۲۰۲۶",
+        "title_en": "Iran News in Brief – September 7, 2026 - National Council of Resistance of Iran",
+        "summary": [
+            "ن.س.ر.ای روزانه اخبار مخالفان را منتشر می‌کند تا جهان را از وضعیت داخل ایران آگاه سازد",
+            "انتشار این خبر نشان می‌دهد اپوزیسیون هنوز توانایی جمع‌آوری اطلاعات و انتشار پیام دارد"
+        ],
+        "impact": "تقویت تصویر بین‌المللی مخالفان و فشار دیپلماتیک بر رژیم",
+        "tag": "اپوزیسیون",
+        "urgency": 3,
+        "sentiment": 0.3,
+        "source": "National Council of Resistance of Iran - NCRI",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PWU42RDdmX2ZXRF9KcUUtMWRkUy1EWkc1QTlKVHd2SHViQmtYel96NmVobzBUdkJmeGpmQ1JLZHdDUWdfMTVPZk1PNmw1Si16TUU1dWg0eVNZVzBiSzNNTEdnYVUyWnZqN2pDRWV5U3pDQ2tYQ0tPYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PWU42RDdmX2ZXRF9KcUUtMWRkUy1EWkc1QTlKVHd2SHViQmtYel96NmVobzBUdkJmeGpmQ1JLZHdDUWdfMTVPZk1PNmw1Si16TUU1dWg0eVNZVzBiSzNNTEdnYVUyWnZqN2pDRWV5U3pDQ2tYQ0tPYQ",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788763612.0
     },
     {
         "id": "2f2701ed3d",
@@ -5456,43 +5493,5 @@
         "clean_url": "https://www.msn.com/en-gb/general/general/a-quiet-storm-s-brewing-and-it-could-change-everything-before-the-midterms/ar-AA2bFi6N",
         "image": "https://www.bing.com/th?id=ONUT.DmbdDHeqpIS2qWmX16Zejw",
         "timestamp": 1788608367.0
-    },
-    {
-        "id": "9234656190",
-        "title_fa": "استراحت کوتاه، زوِرِف در اوپن آمریکا",
-        "title_en": "Mini break aids Zverev at US Open",
-        "summary": [
-            "زوِرِف پس از استراحت کوتاه، بازی‌اش را در اوپن آمریکا تقویت کرد",
-            "این بازگشت می‌تواند او را برای دورهای بعدی و بهبود رتبه جهانی‌اش تقویت کند"
-        ],
-        "impact": "شانس زوِرِف برای صعود به نیمه‌نهایی و افزایش امتیاز رنکینگ بالا می‌رود",
-        "tag": "ورزش",
-        "urgency": 2,
-        "sentiment": 0.6,
-        "source": "Amazon S3 on MSN",
-        "url": "https://www.msn.com/en-gb/sport/tennis/mini-break-aids-zverev-at-us-open/vi-AA2bF0fE?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/sport/tennis/mini-break-aids-zverev-at-us-open/vi-AA2bF0fE",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788608367.0
-    },
-    {
-        "id": "2c55d09b82",
-        "title_fa": "تحلیل ترسناک جِی‌دی ونس در مقاله Raw Story",
-        "title_en": "Buried in JD Vance's scary-as-hell rant was a terrifying admission | Opinion",
-        "summary": [
-            "مقاله Raw Story جِی‌دی ونس را «متعصب مذهبی» توصیف می‌کند و لحن انتقادی شدیدی دارد",
-            "این توصیف می‌تواند تصویر او را در میان رای‌دهندگان میانه‌رو تخریب کند",
-            "متن حاوی ادعاهای غیرقابل تأیید است و بیشتر به تحریک احساسات می‌پردازد",
-            "تأثیر کلی بر سیاست‌های کلان آمریکا محدود است"
-        ],
-        "impact": "احتمال کاهش حمایت میانه‌روها از جِی‌دی ونس در انتخابات آینده",
-        "tag": "آمریکا",
-        "urgency": 2,
-        "sentiment": -0.8,
-        "source": "Raw Story on MSN",
-        "url": "https://www.msn.com/en-au/politics/government/buried-in-jd-vance-s-scary-as-hell-rant-was-a-terrifying-admission-opinion/ar-AA2bCr6f?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/politics/government/buried-in-jd-vance-s-scary-as-hell-rant-was-a-terrifying-admission-opinion/ar-AA2bCr6f",
-        "image": "https://www.bing.com/th?id=ONUT.nynzETke9Tkwl_mT7bWkzg",
-        "timestamp": 1788607246.3137167
     }
 ]
