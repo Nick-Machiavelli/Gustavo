@@ -1,5 +1,22 @@
 [
     {
+        "id": "ee511fbaab",
+        "title_fa": "«بله!»: ترامپ پنجره‌های ضد گلوله هیولا را به نمایش می‌گذارد - اما یکی از جزئیات باعث می‌شود مردم آن کامیون پذیرایی را دوباره به کانون توجه کنند",
+        "title_en": "‘Yikes!’: Trump Shows Off the Beast’s Jaw-Dropping Bulletproof Windows — But One Detail Has Folks Dragging That Catering Truck Back into the Spotlight",
+        "summary": [
+            "President Donald Trump loves to be seen as a symbol of American wealth and power, but sometimes his attempts to display..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Atlanta Black Star",
+        "url": "https://atlantablackstar.com/2026/09/07/trump-shows-off-the-beasts-bulletproof-windows-but-folks-bring-up-that-catering-truck/",
+        "clean_url": "https://atlantablackstar.com/2026/09/07/trump-shows-off-the-beasts-bulletproof-windows-but-folks-bring-up-that-catering-truck",
+        "image": "https://www.bing.com/th?id=ONUT.Lv6LznVCpcKJHDl2UaWubQ",
+        "timestamp": 1788807121.4840558
+    },
+    {
         "id": "94068dce18",
         "title_fa": "وزیر انرژی: معامله با ایران باید تا «دولت بعدی» صبر کرد",
         "title_en": "Energy Secretary: Deal With Iran May Have To Wait Until 'Next Administration'",
@@ -2381,6 +2398,23 @@
         "clean_url": "https://www.thehindu.com/opinion/editorial/bogged-down-on-the-us-iran-conflict-escalation/article71435336.ece",
         "image": "https://www.thehindu.com/theme/images/og-image.png",
         "timestamp": 1788721853.0829737
+    },
+    {
+        "id": "cde8c895d9",
+        "title_fa": "ترامپ می‌گوید بمباردیر کانادا نمی‌تواند در آمریکا بفروشد مگر اینکه در آنجا بسازد",
+        "title_en": "Trump says Canada's Bombardier cannot sell in US unless it builds there",
+        "summary": [
+            "President Donald Trump said on Monday that Canada-based airplane maker Bombardier would no longer be allowed to sell in the United States unless it started manufacturing in the country."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/aerospace-defense/trump-says-canadas-bombardier-cannot-sell-us-unless-it-builds-there-2026-09-07/",
+        "clean_url": "https://www.reuters.com/business/aerospace-defense/trump-says-canadas-bombardier-cannot-sell-us-unless-it-builds-there-2026-09-07",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788720712.0
     },
     {
         "id": "911ee23728",
@@ -5417,44 +5451,5 @@
         "clean_url": "https://www.deccanchronicle.com/west-asia/iran-targets-us-linked-vessels-in-strait-of-hormuz-1985199",
         "image": "https://www.bing.com/th?id=ONUT.AE6mNuNJq2KHZmb8ccni7g",
         "timestamp": 1788658447.12175
-    },
-    {
-        "id": "934d5e4297",
-        "title_fa": "قیمت نفت پس از حملات آمریکا و ایران به کشتی‌ها",
-        "title_en": "Oil extends gains after US and Iran strike ships",
-        "summary": [
-            "ایالات متحده و ایران به‌صورت متقابل به کشتی‌های تجاری در مسیرهای نفتی حمله کردند و تنش‌های دریایی را تشدید کردند",
-            "این رویداد باعث شد قیمت نفت برنت به بالاترین سطح هفته برسد",
-            "رشد ریسک حملات نیابتی هزینه‌های حمل و نقل را بالا می‌برد و فشار بر زنجیره تأمین انرژی می‌گذارد",
-            "بازارهای انرژی تا روشن شدن وضعیت امنیتی ممکن است نوسان شدیدی داشته باشند"
-        ],
-        "impact": "قیمت نفت برنت صعود می‌کند، هزینه حمل و نقل افزایش می‌یابد و فشار بر بازارهای انرژی جهانی شدت می‌گیرد",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/oil-extends-gains-after-us-and-iran-strike-ships/ar-AA2bH7I1?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/oil-extends-gains-after-us-and-iran-strike-ships/ar-AA2bH7I1",
-        "image": "https://www.bing.com/th?id=ONUT.OktIJ8avcZ4B_VshPZVJiQ",
-        "timestamp": 1788657720.0
-    },
-    {
-        "id": "51ba164398",
-        "title_fa": "هشدار دکمه هسته‌ای ترامپ به ایران",
-        "title_en": "Bye, bye Kharg Island!: Trump gives 'nuclear' button warning to Iran after Hormuz ship strike",
-        "summary": [
-            "ترامپ تصویر هوش مصنوعی از انفجارهای هسته‌ای منتشر کرد و به ایران گفت دکمه هسته‌ایش را فشار می‌دهد.",
-            "این پیام پس از حمله به کشتی در تنگه هرمز و پیش‌زمینه تنش‌های نفتی است.",
-            "واکنش بین‌المللی می‌تواند فشار دیپلماتیک و تحریم‌های جدید را به دنبال داشته باشد."
-        ],
-        "impact": "افزایش فشار سیاسی و احتمال اعمال تحریم‌های سخت‌گیرانه علیه ایران",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/politics/government/bye-bye-kharg-island-trump-gives-nuclear-button-warning-to-iran-after-hormuz-ship-strike/vi-AA2bH2me?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/politics/government/bye-bye-kharg-island-trump-gives-nuclear-button-warning-to-iran-after-hormuz-ship-strike/vi-AA2bH2me",
-        "image": "https://www.bing.com/th?id=ONUT.z7HiOivtjqCqNw1BCEcrhA",
-        "timestamp": 1788656613.0
     }
 ]
