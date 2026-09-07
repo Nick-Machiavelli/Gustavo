@@ -1,5 +1,25 @@
 [
     {
+        "id": "dd883096c7",
+        "title_fa": "ترامپ با سیاست‌های ضد اتحادیه کارگران آمریکا را خسته کرد",
+        "title_en": "‘The most anti-union president’: how Trump turned his back on US workers | US unions",
+        "summary": [
+            "ترامپ پس از وعدهٔ حمایت از کارگر، با کاهش ۲۰٪ بازرسی‌های OSHA و به تعویق انداختن قانون سیلیکا، به منافع کارفرمایان گرایش پیدا کرد",
+            "اتحادیهٔ معدن‌کاران درخواست اجرای فوری قانون محدودیت گرد و غبار سیلیکا را کرده‌اند اما دولت این اقدام را به تعویق می‌اندازد",
+            "کاهش بازرسی‌های ایمنی خطر حوادث کاری را افزایش می‌دهد و نارضایتی کارگران را تشدید می‌کند",
+            "این سیاست‌ها باعث کاهش حمایت عمومی از ترامپ در میان کارگران و تقویت مخالفت اتحادیات می‌شود"
+        ],
+        "impact": "اعتماد کارگران به دولت تضعیف می‌شود؛ فشار بر روابط کارگری‑کارفرما افزایش می‌یابد",
+        "tag": "کارگری",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "europesays",
+        "url": "https://www.europesays.com/3238117/",
+        "clean_url": "https://www.europesays.com/3238117",
+        "image": "https://www.bing.com/th?id=ONUT.G-WTHsd5YHBss9DlQWpaHA",
+        "timestamp": 1788784235.0210419
+    },
+    {
         "id": "579b677908",
         "title_fa": "دو ماه بنزین باقی‌مانده برای ایران",
         "title_en": "Tehran just got handed a countdown by its own officials: Around two months of gasoline left, senior sources tell Reuters",
@@ -2104,6 +2124,46 @@
         "clean_url": "https://english.aawsat.com/opinion/5315270-iran-war-between-costs-peace-and-war",
         "image": "https://static.srpcdigital.com/styles/thumbnail/public/2026-06/6e81114b-43af-411d-b757-cd8e8c82c7d9.jpeg",
         "timestamp": 1788698397.4780598
+    },
+    {
+        "id": "f088997337",
+        "title_fa": "قیمت‌بنزین بالا می‌رود؛ ایران «منطقه محرمانه» در هرمز",
+        "title_en": "Gas prices increase as Iran announces plan to create an 'exclusion zone' around Strait of Hormuz",
+        "summary": [
+            "اعلام «منطقه محرمانه» توسط ایران خطر مسدود شدن ناوگان تجاری در هرمز را افزایش می‌دهد",
+            "حملهٔ آمریکا به سه تانکر نفتی ایرانی پیش از این تصمیم، تنش را به نقطهٔ اوج رسانده",
+            "بازارهای نفت پیش‌بینی می‌کنند قیمت بنزین در ایالات متحده تا ۰٫۲ دلار در هر گالن افزایش یابد",
+            "تا حل مسالمت‌آمیز نشود، نوسان قیمت‌ها ادامه خواهد داشت"
+        ],
+        "impact": "قیمت بنزین در ایالات متحده به‌سرعت بالا می‌رود، فشار بر کیف پول مصرف‌کنندگان",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "KCCI 8 News",
+        "url": "https://www.kcci.com/article/iran-announces-plan-strait-of-hormuz-exclusion-zone/73628966",
+        "clean_url": "https://www.kcci.com/article/iran-announces-plan-strait-of-hormuz-exclusion-zone/73628966",
+        "image": "https://kubrick.htvapps.com/vidthumb/6e3e42c3-7143-4d87-a343-6f6e4d2170c1/9804e726-1b20-4aae-995c-91d571026650.png?crop=0.9951083158630328xw%3A1xh%3Bcenter%2Ctop&resize=1200%3A*",
+        "timestamp": 1788697823.0
+    },
+    {
+        "id": "18a5019778",
+        "title_fa": "فصل تابستانی یادآور خلل‌های جدی در ایمنی غذا",
+        "title_en": "A summer of recalls exposes holes in the nation’s food safety net",
+        "summary": [
+            "فراخوانی وسیع برای بازگشت محصولات معیوب از جمله فلفل‌جات، توت‌های منجمد و سبزیجات جوانه‌دار نشان داد زنجیره تأمین غذاهای بسته‌بندی‌شده آسیب‌پذیر است",
+            "عدم هماهنگی مؤسسات نظارتی باعث شد مشکلات به‌سرعت شناسایی نشوند و مصرف‌کنندگان در معرض خطر بمانند",
+            "این بازنگری‌ها فشار بر قوانین ایمنی غذا را برای تقویت نظارت و شفافیت بیشتر افزایش می‌دهد",
+            "اگر اصلاحات سریع انجام نشود، احتمال بروز بحران‌های بهداشتی گسترده در فصل گرما بالا می‌رود"
+        ],
+        "impact": "اعتماد عمومی به محصولات غذایی کاهش می‌یابد؛ ریسک بیماری‌های خوراکی افزایش می‌یابد",
+        "tag": "غذا",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Greensboro News & Record",
+        "url": "https://greensboro.com/news/nation-world/government-politics/article_92314a3e-29f6-59b7-8649-2bae6a2f9b15.html",
+        "clean_url": "https://greensboro.com/news/nation-world/government-politics/article_92314a3e-29f6-59b7-8649-2bae6a2f9b15.html",
+        "image": "https://www.bing.com/th?id=ONUT.9l7-X28y7gmfrGnoh7NQ8w",
+        "timestamp": 1788697823.0
     },
     {
         "id": "e5e51430a9",
@@ -5430,59 +5490,5 @@
         "clean_url": "https://www.msn.com/en-ae/news/other/qatars-quiet-diplomacy-reopens-iran-nuclear-talks/vi-AA2bDmgP",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788620400.0
-    },
-    {
-        "id": "39da68251b",
-        "title_fa": "سیاست‌های اقتصادی ترامپ با تورم می‌جنگند",
-        "title_en": "Trump’s economic policies are colliding with a sleeping giant: report",
-        "summary": [
-            "گروه‌های حمایت‌کننده ادعا می‌کنند سیاست‌های مالی ترامپ با تورم بالا درگیر شده‌اند",
-            "نرخ تورم در دوره دوم ترامپ به‌سختی کنترل می‌شود",
-            "کاهش مالیات و هزینه‌های دولتی فشار بر مصرف‌کنندگان را افزایش می‌دهد",
-            "ادامه این روند می‌تواند حمایت عمومی از دولت ترامپ را تضعیف کند"
-        ],
-        "impact": "تورم بالا هزینه زندگی آمریکایی‌ها را بالا برده و فشار بر انتخابات آینده را افزایش می‌دهد",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-ca/money/general/trump-s-economic-policies-are-colliding-with-a-sleeping-giant-report/ar-AA2bCxdK?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/money/general/trump-s-economic-policies-are-colliding-with-a-sleeping-giant-report/ar-AA2bCxdK",
-        "image": "https://www.bing.com/th?id=ONUT.A4PLYBnYgsfUvAXtoTi47A",
-        "timestamp": 1788619624.4718046
-    },
-    {
-        "id": "e4b5afa48d",
-        "title_fa": "فرماندهی مرکزی ارتش آمریکا اعلام کرد که پس از حمله سپاه پاسداران انقلاب اسلامی به ناوهای آمریکایی به سه نفتکش ایرانی حمله کرد",
-        "title_en": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
-        "summary": [
-            "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says Reuters"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 9,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788619321.0
-    },
-    {
-        "id": "12a2bb89cf",
-        "title_fa": "مدل ونزوئلا واشنگتن تغییر رژیم با فاکتور است",
-        "title_en": "Washington’s Venezuela model is regime change with an invoice",
-        "summary": [
-            "The first photographs of Nicolas Maduro inside an American detention facility surfaced this week as he waits for a trial that..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ZNetwork on MSN",
-        "url": "https://www.msn.com/en-us/news/other/washington-s-venezuela-model-is-regime-change-with-an-invoice/ar-AA2bCH6m?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/washington-s-venezuela-model-is-regime-change-with-an-invoice/ar-AA2bCH6m",
-        "image": "https://www.bing.com/th?id=ONUT.zcoiS3MTEzZ546uEEvh6wQ",
-        "timestamp": 1788618766.7114708
     }
 ]
