@@ -1,5 +1,24 @@
 [
     {
+        "id": "7e45667952",
+        "title_fa": "تهدید ایران به شرکت‌های نفتی آمریکا پس از حملهٔ سیتاکام",
+        "title_en": "Iran to announce new Strait of Hormuz route as gas prices hit record high on Labor Day",
+        "summary": [
+            "سپاه پاسداران موشک‌های بالستیک به ناوهای آمریکایی شلیک کرد و سیتاکام سه تانکر نفتی ایرانی را هدف قرار داد.",
+            "مجلس ایران، به رهبری محمد باقر قالیباف، تهدید به حملات تازه به دارایی‌های انرژی آمریکا کرد.",
+            "تهدید ایران به مسدود کردن مسیرهای حمل و نقل در تنگه هرمز می‌تواند قیمت نفت را بیشتر بالا ببرد."
+        ],
+        "impact": "افزایش خطر تعارض نظامی در خلیج فارس و فشار بر بازارهای انرژی جهانی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-07-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-07-26",
+        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/a11f43f066a4370039b40387602749f0.jpg?ve=1&tl=1",
+        "timestamp": 1788786600.0
+    },
+    {
         "id": "02f4fc90e2",
         "title_fa": "خبر بین‌المللی — Syria و Turkish-اسرائیلی Tensions",
         "title_en": "Syria and the Turkish-Israeli Tensions",
@@ -32,6 +51,25 @@
         "clean_url": "https://www.foxnews.com/video/6404710631112",
         "image": "https://www.bing.com/th?id=ONUT.bD9NaMF2uCDpep7igwlxRQ",
         "timestamp": 1788785205.9801798
+    },
+    {
+        "id": "75c71458c8",
+        "title_fa": "آمریکا درخواست ارجاع به شورای امنیت برای نقض هسته‌ای",
+        "title_en": "US seeks UN Security Council referral over Iran nuclear non-compliance - Bloomberg",
+        "summary": [
+            "دولت آمریکا خواستار ارجاع مسأله عدم تبعیت ایران از برجام به شورای امنیت ملل شد.",
+            "در صورت تصویب، امکان اعمال تحریم‌های جدید و فشار دیپلماتیک بر تهران افزایش می‌یابد.",
+            "ایران هنوز به برخی الزامات نظارتی سازمان بین‌المللی انرژی متعهد نشده است."
+        ],
+        "impact": "احتمال اعمال تحریم‌های بین‌المللی جدید و تشدید فشار بر برنامه هسته‌ای ایران",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mU1FkNERvcUdWbnVPU3ZMckUxdDEteUczZEdyRXZfZGNkVGM5MG5ibW1VbW1ZNlczVHRKRzRyMjlIcW50S1J6dS1hQlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mU1FkNERvcUdWbnVPU3ZMckUxdDEteUczZEdyRXZfZGNkVGM5MG5ibW1VbW1ZNlczVHRKRzRyMjlIcW50S1J6dS1hQlE",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788784697.0
     },
     {
         "id": "dd883096c7",
@@ -193,6 +231,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWE9EVm91WFdPZksyQ1B1Zm1feVB1SnRXOEtLTmdKN0NjTVlVVTd6cm54c2ZUYnFJMTF4azVFRm10YXVJRGxmQk1qVzh1VG9DMWJvQ204b1dISU1PVUd6Y3RqeGM3ek0yRGVSZUVaWkFOWU5FTHJ3aF9xVWw3MFpnQUVvTVRtcy1UTDc40gGQAUFVX3lxTE1kX180cXV3OTMyUFpxWHBHWmZGTjByN2M3M3JUQ0llTjRFYVdVVDJjMGVrZUYxNU5iTDFMTUhZUkhMaGt0dUF4WU04Rnh3WnVqOGYxVFNOaFhWT0pkdVRDRTVES0Q0YjRvcExFWURpUXZ2WVYxekQ4SWxJbEdZYXZ5c2FmSExNN2F0clYyZTRyRw",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788779025.0
+    },
+    {
+        "id": "05b3183897",
+        "title_fa": "پس از جنگ ایران؛ چه شرکت‌هایی پاک‌سازی می‌کنند؟",
+        "title_en": "Which Firms Will Clean Up After the Iran War is Finally Over?: Maguire",
+        "summary": [
+            "تحلیل‌گران می‌پرسند کدام شرکت‌های بین‌المللی پس از پایان جنگ مسئول پاک‌سازی محیطی خواهند شد.",
+            "تحریم‌های جاری ممکن است ورود شرکت‌های غربی را محدود کند و فرصت را به شرکت‌های آسیایی بدهد.",
+            "بازار تعمیرات زیرساخت‌های نفتی و گازی ایران پس از جنگ می‌تواند میلیاردها دلار ارزش داشته باشد."
+        ],
+        "impact": "تعیین بازیگران اقتصادی در بازسازی زیرساخت‌های نفتی ایران پس از جنگ",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZktZaE05UVpOVGdLSlRYZDJMTkVCZDJBZ0ZuNnpHdEdEUFp6TGEwUTZpQVI4U3RvTmNuUnBZYjBNY2d1R01nbGUtMk8yS0c1YXlWZzV2YTRsQ1NiTlZlMUdCWHlibjJZNGlRRmFyU1B5bXdPei1CakhyczN6NG84SkF5S1lSOWxISzZuVVBUMmJsSUUwbFBhbmhEZC1OaGZT?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZktZaE05UVpOVGdLSlRYZDJMTkVCZDJBZ0ZuNnpHdEdEUFp6TGEwUTZpQVI4U3RvTmNuUnBZYjBNY2d1R01nbGUtMk8yS0c1YXlWZzV2YTRsQ1NiTlZlMUdCWHlibjJZNGlRRmFyU1B5bXdPei1CakhyczN6NG84SkF5S1lSOWxISzZuVVBUMmJsSUUwbFBhbmhEZC1OaGZT",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788778376.0
     },
     {
         "id": "221af1a851",
@@ -856,6 +913,25 @@
         "clean_url": "https://www.msn.com/en-ae/politics/government/iran-raises-price-of-petrol-as-us-applies-economic-pressure/ar-AA2bJd1w",
         "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788757425.0
+    },
+    {
+        "id": "66ddb5b7fb",
+        "title_fa": "هشدار تازهٔ ایران؛ ترامپ کنترل هرمز را ادعا می‌کند",
+        "title_en": "US-Iran War LIVE | Iran's Fresh Warning to US: Response To New Attacks Will Be 'Faster, Heavier, More Painful'",
+        "summary": [
+            "ایران اعلام کرد پاسخ به حملات جدید «سریع‌تر، سنگین‌تر و دردناک‌تر» خواهد بود.",
+            "دونالد ترامپ ادعا کرد ایالات متحده تقریباً تمام کنترل تنگه هرمز را در دست دارد.",
+            "بنیامین نتانیاهو گفت پایان رژیم در ایران نزدیک است و این بحران را فرصتی برای اسرائیل می‌داند."
+        ],
+        "impact": "تشدید تنش‌های نظامی بین آمریکا و ایران و احتمال حملات گسترده در خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-latest-news-on-iran-strikes-iran-us-bases-in-middle-east-as-america-launches-fresh-attacks-gulf-region-tensions-liveblog-156030033",
+        "image": "https://images.timesnownews.com/thumb/msid-156030033,thumbsize-1196109,width-1280,height-720,resizemode-75/156030033.jpg",
+        "timestamp": 1788756420.0
     },
     {
         "id": "1d77739681",
@@ -5401,82 +5477,5 @@
         "clean_url": "https://www.aol.com/articles/iran-plotting-oct-7-style-153200000.html",
         "image": "https://www.bing.com/th?id=ONUT.eROi3_E2bcNPiKGsV_Nzpg",
         "timestamp": 1788626090.0
-    },
-    {
-        "id": "73fad4008e",
-        "title_fa": "خبر بین‌المللی — ترامپ says ایران جنگ is ‘small potatoes’ as both sides excha",
-        "title_en": "Trump says Iran war is ‘small potatoes’ as both sides exchange strikes",
-        "summary": [
-            "ABC News’ senior political correspondent Rachel Scott reports on the latest developments in Iran on “This Week.”..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-says-iran-war-is-small-potatoes-as-both-sides-exchange-strikes/vi-AA2bGcsA?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-iran-war-is-small-potatoes-as-both-sides-exchange-strikes/vi-AA2bGcsA",
-        "image": "https://www.bing.com/th?id=ONUT.QlTvw6Qla3HPRHvTM2mz2w",
-        "timestamp": 1788626090.0
-    },
-    {
-        "id": "22a37b449f",
-        "title_fa": "قیمت نفت ممکن است به ۴۰ دلار برسد",
-        "title_en": "Bessent predicts oil prices could drop as low as $40 after Iran conflict ends and supply floods market",
-        "summary": [
-            "بستنت پیش‌بینی می‌کند پس از پایان جنگ ایران، عرضه نفت به‌سرعت افزایش یابد",
-            "این افزایش عرضه می‌تواند قیمت نفت را به محدوده ۴۰ تا ۵۰ دلار برساند",
-            "کاهش قیمت نفت فشار مالی بر بودجه نفتی ایران را تشدید می‌کند",
-            "بازارهای جهانی ممکن است به‌سرعت واکنش نشان دهند و نوسان ایجاد شود"
-        ],
-        "impact": "کاهش شدید قیمت نفت، کاهش درآمدهای نفتی ایران و فشار بر سود شرکت‌های انرژی",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/bessent-predicts-oil-prices-could-drop-as-low-as-40-after-iran-conflict-ends-and-supply-floods-market/ar-AA2bG2ky?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/bessent-predicts-oil-prices-could-drop-as-low-as-40-after-iran-conflict-ends-and-supply-floods-market/ar-AA2bG2ky",
-        "image": "https://www.bing.com/th?id=ONUT.kP7JbU68kHU2yxMRYtZ_9g",
-        "timestamp": 1788625377.0
-    },
-    {
-        "id": "9a0a14de64",
-        "title_fa": "رونق کالاهای مگا در دوره دوم ترامپ فروکش می‌کند",
-        "title_en": "In Trump’s second term, the MAGA merchandise boom is going bust",
-        "summary": [
-            "فروش کالاهای MAGA در فروشگاه‌های ایالت ویرجینیا به‌سختی ادامه دارد",
-            "این کاهش نشان‌دهنده خستگی حامیان مالی از شعارهای تکراری است",
-            "کاهش فروش می‌تواند منبع درآمد مهم برای کمپین‌های حزبی را تهدید کند",
-            "بازارهای مرتبط با تبلیغات سیاسی ممکن است فشار مالی بیشتری ببینند"
-        ],
-        "impact": "کاهش درآمدهای حامیان مالی و ضعف در جذب حمایت مالی جدید برای حزب",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/money/general/in-trump-s-second-term-the-maga-merchandise-boom-is-going-bust/ar-AA2bGhvc?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/general/in-trump-s-second-term-the-maga-merchandise-boom-is-going-bust/ar-AA2bGhvc",
-        "image": "https://www.bing.com/th?id=ONUT.O5Kt5cgkFLJSpddTjtHhHg",
-        "timestamp": 1788625377.0
-    },
-    {
-        "id": "efe8837179",
-        "title_fa": "وزیر انرژی ترامپ از پیش‌بینی قیمت گاز خودداری می‌کند",
-        "title_en": "Trump Official Keeps Distancing Himself From Predicting Gas Prices — But Doing It Anyway",
-        "summary": [
-            "رایت می‌گوید پیش‌بینی‌گر نیست اما هنوز انتظار کاهش قیمت گاز را دارد",
-            "او به تأخیر در اجرای توافق نفتی با ونزوئلا اشاره کرد",
-            "در اوایل جنگ ایران، او پیش‌بینی زیر ۳ دلار در هر گالن را کرده بود",
-            "اکنون او با احتیاط می‌گوید بازار باید صبر کند"
-        ],
-        "impact": "عدم اطمینان بازار گاز، فشار بر انتظارات مصرف‌کنندگان و تأثیر بر سیاست‌های انرژی داخلی",
-        "tag": "قیمت‌گاز",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-official-keeps-distancing-himself-151915125.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-official-keeps-distancing-himself-151915125.html",
-        "image": "https://www.bing.com/th?id=ONUT.Mfa3uvidsS6HIAs-u9sT5A",
-        "timestamp": 1788625377.0
     }
 ]
