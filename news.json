@@ -2260,6 +2260,26 @@
         "timestamp": 1788736200.0
     },
     {
+        "id": "692af22e48",
+        "title_fa": "حمله اسرائیل به سامانه‌های دفاعی ایران و کاهش تردد هورموز",
+        "title_en": "US Iran War Live Updates: UN urges US, Iran for 'immediate return to negotiations'",
+        "summary": [
+            "اسرائیل در عملیات «شیر خروش» سامانه‌های دفاعی ایران را تخریب کرد و هواپیماهای جنگی متعددی درگیر شدند",
+            "تردد کشتی‌ها در تنگه هورموز به 10 کشتی در روز رسید؛ پایین‌ترین سطح از ماه مه",
+            "حمله به تأسیسات آرمانکو در جزین نشانگر گسترش درگیری به سمت عربستان است",
+            "این تحولات فشار نظامی و اقتصادی بر خلیج فارس را افزون می‌کند"
+        ],
+        "impact": "کاهش شدید ترافیک نفتی و افزایش خطر گسترش درگیری نظامی در خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-donald-trump-strait-of-hormuz-middle-east-conflict-irgc-attacks-us-bases-iranian-tanker-strike-jordan-tehran-latest-news/liveblog/133825156.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-donald-trump-strait-of-hormuz-middle-east-conflict-irgc-attacks-us-bases-iranian-tanker-strike-jordan-tehran-latest-news/liveblog/133825156.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133825156,width-1280,height-720,imgsize-347308,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1788735960.0
+    },
+    {
         "id": "64ff03e8d4",
         "title_fa": "جمیل هیل حسادت به کایتلین در WNBA را نقد کرد",
         "title_en": "Jemele Hill slams ‘jealous of Caitlin’ narrative as Enes Kanter Freedom targets Indiana Fever",
@@ -5431,22 +5451,5 @@
         "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes/ar-AA2bEQJW",
         "image": "https://s.yimg.com/lo/mysterio/api/c2b554c5158ea34223a5621cf0028e6a646ff1abc078af21426c671bc926c2d5/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/al_jazeera_289/fd69ccb99223a82fa36573c14392193c.jpg",
         "timestamp": 1788670937.0
-    },
-    {
-        "id": "de2fde6bc8",
-        "title_fa": "ایران نسبت به پاسخ \"دردناک تر\" به حملات ایالات متحده با افزایش فشار اقتصادی هشدار می‌دهد",
-        "title_en": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
-        "summary": [
-            "Iranian parliament speaker Mohammad Bagher Ghalibaf warned that future attacks on Iran would receive a “faster, heavier, and more painful” response. U.S. Central Command said American forces struck..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-        "clean_url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108359320-1788693543339-gettyimages-2292604250-AFP_C74Y6WE.jpeg?v=1788695254&w=1920&h=1080",
-        "timestamp": 1788670920.0
     }
 ]
