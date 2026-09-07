@@ -2436,6 +2436,25 @@
         "timestamp": 1788662410.1052501
     },
     {
+        "id": "783f51ce36",
+        "title_fa": "قیمت نفت بالا رفت؛ ترس از تداوم درگیری در هرمز",
+        "title_en": "Oil prices rise as US-Iran tanker strikes deepen Hormuz fears; Brent nears $97",
+        "summary": [
+            "حملات متقابل آمریکا و ایران به تانکرها نگرانی از قطع‌وتوصیل نفت از تنگه هرمز را افزایش داد",
+            "برنت به 96.8 دلار و WTI به 92.14 دلار رسید؛ هفته گذشته قیمت‌ها به ترتیب ۷.۸٪ و ۱۰٪ رشد کردند",
+            "کاهش جریان نفت از هرمز می‌تواند فشار بر بازارهای جهانی و تورم انرژی را تشدید کند"
+        ],
+        "impact": "قیمت نفت جهانی بالا می‌رود؛ هزینه‌های سوخت برای کشورهای واردکننده افزایش می‌یابد",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/business/oil-prices-rise-as-us-iran-tanker-strikes-deepen-hormuz-fears-brent-nears-97-14023849.html",
+        "clean_url": "https://www.moneycontrol.com/news/business/oil-prices-rise-as-us-iran-tanker-strikes-deepen-hormuz-fears-brent-nears-97-14023849.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2020/04/brent-crude.jpg",
+        "timestamp": 1788662169.0
+    },
+    {
         "id": "499cda3346",
         "title_fa": "حمله اسرائیل بیمارستان غندور در نبطیه را نابود کرد",
         "title_en": "Israeli airstrikes completely destroyed hospital in southern Lebanon: Health Ministry",
@@ -5462,24 +5481,5 @@
         "clean_url": "https://www.iranintl.com/202609054616",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/de75430b89caf3b58bb47c4b76cf00bbc94ac10f-800x534.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1788583320.0
-    },
-    {
-        "id": "7d2c6ae22e",
-        "title_fa": "اعلام حمله موشکی آمریکا به تانکر ایرانی در خرم",
-        "title_en": "Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg",
-        "summary": [
-            "رسانه‌های دولتی ایران ادعا کردند موشک‌های آمریکا تانکر نفتی را هدف گرفتند.",
-            "نیروی هوایی آمریکا هنوز تأیید نکرده؛ احتمال اطلاعات نادرست وجود دارد.",
-            "در صورت صحت، فشار نظامی جدید بر خلیج فارس و هزینه‌های حمل‌ونقل نفت می‌شود."
-        ],
-        "impact": "افزایش هزینه‌های حمل‌ونقل نفت و احتمال تحریم‌های جدید",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
-        "clean_url": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
-        "image": "http://www.bing.com/th?id=ONUT.imGNvRJTE9mO1WTIIdLDLg&pid=News",
-        "timestamp": 1788583200.0
     }
 ]
