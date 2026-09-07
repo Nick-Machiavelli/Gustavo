@@ -1014,6 +1014,24 @@
         "timestamp": 1788763612.0
     },
     {
+        "id": "fd48a122e3",
+        "title_fa": "ذخایر بین‌المللی روسیه در آگوست ۶٫۷٪ رشد کرد",
+        "title_en": "Russia's international reserves gain 6.76% in August to $769 bln — Central Bank",
+        "summary": [
+            "ذخایر بین‌المللی روسیه تا ۱ سپتامبر ۲۰۲۶ به ۷۶۹ میلیارد دلار رسید؛ رشد ۶.۷۶٪ نسبت به اوت",
+            "افزایش عمده در طلا و ارزهای خارجی نشان می‌دهد تحریم‌ها نتوانسته‌اند توان مالی بانک مرکزی را به‌طور جدی تضعیف کند"
+        ],
+        "impact": "قابلیت ادامه هزینه‌های نظامی روسیه و فشار کمتر بر اقتصاد داخلی",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2183687",
+        "clean_url": "https://tass.com/economy/2183687",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1788762540.0
+    },
+    {
         "id": "2f2701ed3d",
         "title_fa": "فشاری اقتصادی بر درآمد نفت ایران در چین",
         "title_en": "Economic Compellence Beyond the Buyer: Targeting Iran’s Oil-Revenue Network in China",
@@ -3847,6 +3865,24 @@
         "timestamp": 1788683024.0652025
     },
     {
+        "id": "f43dd92ea3",
+        "title_fa": "تشدید درگیری آمریکا‑ایران در تنگه هرمز",
+        "title_en": "The U.S .and Iran are intensifying attacks in the Strait of Hormuz",
+        "summary": [
+            "هر دو طرف به‌صورت متقابل به کشتی‌ها و زیرسطوح در هرمز شلیک کردند؛ ایالات متحده سه کشتی ایرانی را نابود کرد و ایران سوبمارین آمریکایی را هدف گرفت",
+            "فرمانده سیتادام براد کوپر هشدار داد که پاسخ آمریکا می‌تواند «قوی‌تر» باشد؛ خطر گسترش جنگ‌ناشای در مسیرهای نفتی خلیج فارس بالا رفت"
+        ],
+        "impact": "اختلال شدید در عبور کشتی‌های تجاری و خطر گسترش درگیری نظامی در مسیرهای نفتی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/09/06/g-s1-142193/us-iran-attacks-strait-of-hormuz",
+        "clean_url": "https://www.npr.org/2026/09/06/g-s1-142193/us-iran-attacks-strait-of-hormuz",
+        "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+        "timestamp": 1788682620.0
+    },
+    {
         "id": "a16d4f655f",
         "title_fa": "قیمت نفت به بالاترین سطح چهار هفته‌ای رسید",
         "title_en": "Oil Hits Four-Week High as US-Iran Conflict Escalates",
@@ -5435,41 +5471,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/fuel-prices-in-turkey-break-fresh-records-over-unending-iran-war/ar-AA2bG5Fr",
         "image": "https://www.bing.com/th?id=ONUT.lPuZ_lDsusxOo3xqmEhSNQ",
         "timestamp": 1788637079.0
-    },
-    {
-        "id": "15cf913668",
-        "title_fa": "بدون نفت روسیه جهان دچار بحران می‌شود",
-        "title_en": "US trade war: What if Russian oil is excluded from markets? Envoy Alipov warns 'world will not cope'",
-        "summary": [
-            "سفیر روسیه اعلام کرد حذف نفت روسیه از بازار جهانی باعث ناتوانی سیستم انرژی خواهد شد",
-            "او هشدار داد کشورهای مصرف‌کننده نمی‌توانند تقاضای از دست رفته را جبران کنند"
-        ],
-        "impact": "قیمت‌های نفت و گاز جهانی بالا می‌رود و فشار بر اقتصادهای وابسته افزایش می‌یابد",
-        "tag": "نفت",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Mint on MSN",
-        "url": "https://www.msn.com/en-in/money/general/us-trade-war-what-if-russian-oil-is-excluded-from-markets-envoy-alipov-warns-world-will-not-cope/ar-AA2bGBSY?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/general/us-trade-war-what-if-russian-oil-is-excluded-from-markets-envoy-alipov-warns-world-will-not-cope/ar-AA2bGBSY",
-        "image": "https://www.bing.com/th?id=ONUT.BCf8mrQ13DlXTm_apI-4RQ",
-        "timestamp": 1788636733.0
-    },
-    {
-        "id": "aac492df36",
-        "title_fa": "آمار بد ترامپ: پیش‌درآمد فاجعه اقتصادی",
-        "title_en": "Trump's avalanche of bad numbers is a countdown to 'disaster': report",
-        "summary": [
-            "گزارش i Paper نشان می‌دهد تورم، بیکاری و بدهی دولتی به‌سرعت در حال افزایش است.",
-            "در عین حال ترامپ با اعداد منفی مواجه شده و ادعای بهبود اقتصاد را تضعیف می‌کند."
-        ],
-        "impact": "کاهش اعتماد رأی‌دهندگان به حزب جمهوری‌خواه و فشار بر استراتژی‌های انتخاباتی.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-nz/news/other/trump-s-avalanche-of-bad-numbers-is-a-countdown-to-disaster-report/ar-AA2bE0Qh?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-nz/news/other/trump-s-avalanche-of-bad-numbers-is-a-countdown-to-disaster-report/ar-AA2bE0Qh",
-        "image": "https://www.bing.com/th?id=ONUT.aX4CPVhzlbATOW7tWVwTog",
-        "timestamp": 1788634967.3809116
     }
 ]
