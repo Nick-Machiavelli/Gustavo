@@ -1,5 +1,22 @@
 [
     {
+        "id": "fc9a78550d",
+        "title_fa": "ترامپ hit ایران’s هسته‌ای sites... but تهران may now want bomb more than ever",
+        "title_en": "Trump hit Iran’s nuclear sites... but Tehran may now want the bomb more than ever",
+        "summary": [
+            "Israel and the United States inflicted enormous damage on Iran’s military and nuclear infrastructure, but destroying Tehran’s..."
+        ],
+        "impact": "...",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "RealLifeLore on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-hit-iran-s-nuclear-sites-but-tehran-may-now-want-the-bomb-more-than-ever-their-only-guarantee-of-safety/vi-AA2bKlef?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-hit-iran-s-nuclear-sites-but-tehran-may-now-want-the-bomb-more-than-ever-their-only-guarantee-of-safety/vi-AA2bKlef",
+        "image": "https://www.bing.com/th?id=ONUT.ue75w40pqpAKpRDyBCuy1g",
+        "timestamp": 1788794010.8565156
+    },
+    {
         "id": "8ddc0fedb4",
         "title_fa": "نمایش بزرگ ترامپ برای فرار از بحران کره شمالی",
         "title_en": "Concern over Trump's 'big show' to escape crisis",
@@ -1719,6 +1736,23 @@
         "clean_url": "https://www.tehrantimes.com/news/529758/A-new-chapter-in-judicial-diplomacy",
         "image": "https://www.bing.com/th?id=ONUT.xCeVbIiyVfOu-25s1xk_lQ",
         "timestamp": 1788728569.2872138
+    },
+    {
+        "id": "d257875b40",
+        "title_fa": "خبر بین‌المللی — ایران’s regional attacks highlight worldview behind conflict",
+        "title_en": "Iran’s regional attacks highlight worldview behind conflict",
+        "summary": [
+            "This is a familiar pattern from the past six months, but what might be new to you is that it's partly based in Shia Islam doctrine."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Mission Network News",
+        "url": "https://www.mnnonline.org/news/irans-regional-attacks-highlight-worldview-behind-conflict/",
+        "clean_url": "https://www.mnnonline.org/news/irans-regional-attacks-highlight-worldview-behind-conflict",
+        "image": "http://www.bing.com/th?id=ONUT.pV4yP8YrhknIiOPVmxVhmw&pid=News",
+        "timestamp": 1788728400.0
     },
     {
         "id": "a91149491d",
@@ -5437,42 +5471,5 @@
         "clean_url": "https://www.msn.com/en-nz/news/other/maga-gov-says-what-youth-really-need-from-the-gop-is-more-bootstrap/ar-AA2bEiGQ",
         "image": "https://www.bing.com/th?id=ONUT.bL27D031Z5hDHXF3fxK_OA",
         "timestamp": 1788634967.3806014
-    },
-    {
-        "id": "cf9502aa27",
-        "title_fa": "آمریکا سه تانکر نفت ایران را نابود کرد",
-        "title_en": "West Asia conflict LIVE updates: U.S., Iran exchange fresh fire",
-        "summary": [
-            "آمریکا سه تانکر نفت ایرانی را هدف حمله کرد؛ ایران به‌منظور پاسخ به حملات موشکی به ناوهای آمریکایی واکنش نشان داد",
-            "واشنگتن تحریم‌های جدیدی علیه شرکت‌های مرتبط با مالیات ایران اعمال کرد تا فشار اقتصادی را افزایش دهد",
-            "درگیری شش ماهه به‌صورت بازگشت آتش ادامه دارد و مسیر صلح را به‌سختی می‌گیرد",
-            "کنترل استراتژیک هرمز توسط ایران و مقابله واشنگتن با مسدودسازی بندرها، ریسک‌های تجاری منطقه را بالا برده است"
-        ],
-        "impact": "حمله به تانکرها و تحریم‌های تازه، توان اقتصادی ایران را به‌طور مستقیم تضعیف می‌کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
-        "clean_url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
-        "image": "https://th-i.thgim.com/public/incoming/lbzidl/article71434447.ece/alternates/LANDSCAPE_1200/2026-09-05T151319Z_529793962_RC22DNA4NWBZ_RTRMADP_3_IRAN-CRISIS-CENTCOM.JPG",
-        "timestamp": 1788634560.0
-    },
-    {
-        "id": "9cf6452ba3",
-        "title_fa": "خبر بین‌المللی — ترامپ's 'dangerous fantasies' have cut him off from basic fa",
-        "title_en": "Trump's 'dangerous fantasies' have cut him off from basic facts",
-        "summary": [
-            "President Donald Trump's view of the world has been overcome by \"dangerous fantasies,\" according to a new piece from The i..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/trump-s-dangerous-fantasies-have-cut-him-off-from-basic-facts/ar-AA2bDT4N?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/trump-s-dangerous-fantasies-have-cut-him-off-from-basic-facts/ar-AA2bDT4N",
-        "image": "https://www.bing.com/th?id=ONUT.X-CKdFk8pqoq1eewtd5WkQ",
-        "timestamp": 1788634195.2114837
     }
 ]
