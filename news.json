@@ -1,5 +1,22 @@
 [
     {
+        "id": "56ce2e2daa",
+        "title_fa": "ترامپ سعی کرد جریان نفت تنگه هرمز را بازی کند - اما یک مشکل وجود دارد",
+        "title_en": "Trump tried to play up Strait of Hormuz oil flow – but there's a problem",
+        "summary": [
+            "Trump tried to play up Strait of Hormuz oil flow – but there's a problem..."
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Indy100 on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/trump-tried-to-play-up-strait-of-hormuz-oil-flow-but-there-s-a-problem/ar-AA2bJS4Y?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/trump-tried-to-play-up-strait-of-hormuz-oil-flow-but-there-s-a-problem/ar-AA2bJS4Y",
+        "image": "https://www.bing.com/th?id=ONUT.bFx_7v0oeuRImV268RywPw",
+        "timestamp": 1788789105.3427935
+    },
+    {
         "id": "90b0c37869",
         "title_fa": "استراتژی چند‌محور هند در مقابل چین",
         "title_en": "How strategic multi-engagement remains an appropriate choice for India",
@@ -35,6 +52,40 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/china-s-nostradamus-makes-5-grim-predictions-for-2027/ar-AA2bJEXm",
         "image": "https://www.bing.com/th?id=ONUT.HzpW6pECWceKBqar5p53Gw",
         "timestamp": 1788788310.7972107
+    },
+    {
+        "id": "4f1931a885",
+        "title_fa": "خبر بین‌المللی — ایران warns South Korea against involvement در Strait هرمز",
+        "title_en": "Iran warns South Korea against involvement in Strait of Hormuz",
+        "summary": [
+            "Iran warned South Korea over a possible military role in the Strait of Hormuz as tensions rise and shipping through the key waterway declines."
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Siasat Daily",
+        "url": "https://www.siasat.com/iran-warns-south-korea-against-involvement-in-strait-of-hormuz-3538054/",
+        "clean_url": "https://www.siasat.com/iran-warns-south-korea-against-involvement-in-strait-of-hormuz-3538054",
+        "image": "https://cdn.siasat.com/wp-content/uploads/2026/09/strait-of-hormuz-bandar-abbas-iran.webp",
+        "timestamp": 1788787680.0
+    },
+    {
+        "id": "030a9aec8d",
+        "title_fa": "ایران بازرسی های هسته‌ای آژانس بین المللی انرژی اتمی را در حالی که بن بست از یک سال فراتر رفته است، متوقف می‌کند",
+        "title_en": "Iran halts IAEA nuclear inspections as standoff surpasses one year",
+        "summary": [
+            "Iran has blocked IAEA nuclear inspections since mid-2025, leaving 440kg of 60%-enriched uranium unverified as the standoff enters its second"
+        ],
+        "impact": "...",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-halts-iaea-nuclear-inspections-standoff/",
+        "clean_url": "https://cryptobriefing.com/iran-halts-iaea-nuclear-inspections-standoff",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07092748/library-iran-halts-iaea-nuclear-inspections-as-standoff-surpasse-800x450.png",
+        "timestamp": 1788787620.0
     },
     {
         "id": "7e45667952",
@@ -2210,6 +2261,23 @@
         "clean_url": "https://www.moneycontrol.com/world/iran-warns-us-of-more-painful-response-after-latest-strikes-as-hormuz-tensions-rise-article-14023748.html",
         "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260826120830_Hormuz-New-8.jpg",
         "timestamp": 1788703800.0
+    },
+    {
+        "id": "4b50737010",
+        "title_fa": "خبر بین‌المللی — US, اسرائیل must be promptly engaged در discussion در Middle",
+        "title_en": "US, Israel must be promptly engaged in discussion on Middle East security — Lavrov",
+        "summary": [
+            "The United States and Israel should promptly engage in discussions on Middle East security before new election cycles begin, Russian Foreign Minister Sergey Lavrov said during a meeting with students..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2183663",
+        "clean_url": "https://tass.com/politics/2183663",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1788702692.0
     },
     {
         "id": "f5e0dc63ce",
@@ -5402,78 +5470,5 @@
         "clean_url": "https://www.firstpost.com/world/netanyahu-orders-dismantling-of-unauthorised-west-bank-settler-outposts-amid-us-pressure-14043643.html",
         "image": "https://www.bing.com/th?id=ONUT.oixkQdW_ErcMvEDNo4ja3A",
         "timestamp": 1788628817.0
-    },
-    {
-        "id": "84bc65a87a",
-        "title_fa": "خبر بین‌المللی — ایران touts نظامی response as US maintains blockade, hits ta",
-        "title_en": "Iran touts military response as US maintains blockade, hits tankers",
-        "summary": [
-            "Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-touts-military-response-us-161706913.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-touts-military-response-us-161706913.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/964606f78f0c804145a15d27809cbd009f1f41443cac37da8d689e7517567df3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7e4191caa934393737e0bdf0f8e8084a.jpg",
-        "timestamp": 1788628817.0
-    },
-    {
-        "id": "20fa2a25cb",
-        "title_fa": "هشدار پانتا: جنگ ایران‑آمریکا ۶ ماه دیگر ادامه دارد",
-        "title_en": "US-Iran war: Ex-US official warns war could continue for 6 more months, reveals 3 options for Trump as conflict reaches dangerous deadlock",
-        "summary": [
-            "پانتا می‌گوید ترامپ فقط سه مسیر محدود برای پایان جنگ دارد و هر کدام ریسک‌های بزرگ دارد",
-            "بدون توافق واضح، درگیری نظامی و فشارهای اقتصادی برای هر دو کشور ادامه می‌یابد",
-            "جنگ طولانی می‌تواند هزینه‌های انسانی و مالی مشابه عراق‑افغانستان را به بار آورد",
-            "عدم پیشرفت مذاکرات صلحی، خطر تشدید درگیری‌های نیابتی در منطقه را بالا می‌برد"
-        ],
-        "impact": "ادامه جنگ ۶ ماهه فشار نظامی و تحریم‌ها را تشدید می‌کند و ثبات خاورمیانه را به‌هم می‌زند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "News24",
-        "url": "https://news24online.com/world/us-iran-war-ex-us-official-warns-war-could-continue-for-6-more-months-reveals-3-options-for-trump-as-conflict-reaches-dangerous-deadlock/916881/",
-        "clean_url": "https://news24online.com/world/us-iran-war-ex-us-official-warns-war-could-continue-for-6-more-months-reveals-3-options-for-trump-as-conflict-reaches-dangerous-deadlock/916881",
-        "image": "https://www.bing.com/th?id=ONUT.ab-L7Xwg6HPtaVJm16sO7g",
-        "timestamp": 1788627759.0
-    },
-    {
-        "id": "f592219215",
-        "title_fa": "سفر نمایندگان ترامپ به اوکراین و فشارهای مالی",
-        "title_en": "Donald Trump",
-        "summary": [
-            "استیو ویتکاف و جرد کوشنر به‌عنوان نمایندگان ترامپ به کیف سفر کردند؛ اولین حضور رسمی تیم او در اوکراین است",
-            "هزینه‌های بالای استقراض برای خزانه‌داری آمریکا به‌سرعت در حال افزایش است و این مسأله به‌صورت مستقیم بر سیاست‌های مالی دولت اثر می‌گذارد",
-            "حضور نمایندگان در اوکراین می‌تواند نشانگر تقویت روابط اقتصادی و نظامی آمریکا با کی‌یو باشد"
-        ],
-        "impact": "تقویت روابط با اوکراین می‌تواند فشار بر رقبای منطقه و هزینه‌های مالی آمریکا را بالا ببرد",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/donald-trump/",
-        "clean_url": "https://www.washingtonpost.com/donald-trump",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788627600.0
-    },
-    {
-        "id": "3fdacc81b1",
-        "title_fa": "دو آپارتمان لوکس مرتبط با مجتبی خامنه‌ای در لندن به فروش گذاشته شدند",
-        "title_en": "دو آپارتمان لوکس مرتبط با مجتبی خامنه‌ای در لندن به فروش گذاشته شدند",
-        "summary": [
-            "روزنامه ساندی‌تایمز گزارش داد دو آپارتمان لوکس مرتبط با مجتبی خامنه‌ای، رهبر جمهوری اسلامی، در ساختمانی مشرف به کاخ کنزینگتون لندن برای فروش عرضه شده‌اند."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609066560",
-        "clean_url": "https://www.iranintl.com/202609066560",
-        "image": "http://www.bing.com/th?id=ONUT.IBZpd_Sgo1Jvc2pWAC9gSA&pid=News",
-        "timestamp": 1788627600.0
     }
 ]
