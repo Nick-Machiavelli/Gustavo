@@ -1,5 +1,25 @@
 [
     {
+        "id": "591846bd32",
+        "title_fa": "تحلیل: ترامپ و گرایش به جنگ‌گری بدون توجیه",
+        "title_en": "How Decades of Privatization Unleashed Trump’s Warmongering",
+        "summary": [
+            "مقاله تاریخی نشان می‌دهد ترامپ بدون توجیه عمومی به جنگ ایران رفت",
+            "این اقدام خلاف سنت‌های پیشین رئیس‌جمهوران آمریکا در کسب حمایت مجلس بود",
+            "تحلیلگرها می‌گویند این رفتار می‌تواند اعتماد بین‌المللی به آمریکا را کاهش دهد",
+            "اما تأثیر مستقیم بر سیاست‌های جاری کمتر است"
+        ],
+        "impact": "تصویر منفی از سیاست خارجی آمریکا شکل می‌گیرد، اما اثر ملموس فوری ندارد",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/decades-privatization-unleashed-trump-warmongering-100000141.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/decades-privatization-unleashed-trump-warmongering-100000141.html",
+        "image": "https://www.bing.com/th?id=ONUT.KnDJ1WaIz5QBEm5Z_awF0g",
+        "timestamp": 1788777396.948945
+    },
+    {
         "id": "fe97e5187f",
         "title_fa": "کاهش ناگهانی کشتی‌ها در هرمز؛ ادعای ترامپ بی‌پایه",
         "title_en": "Trump’s Big Brag Blows Up in Humiliating Reality Check",
@@ -17,6 +37,26 @@
         "clean_url": "https://www.thedailybeast.com/trumps-big-strait-of-hormuz-brag-blows-up-in-humiliating-reality-check",
         "image": "https://www.bing.com/th?id=ONUT.0NJbn1Rw8k7XHClcUmHD0Q",
         "timestamp": 1788776018.6256135
+    },
+    {
+        "id": "5b2477c1cc",
+        "title_fa": "ایران منطقه‌منع در خلیج فارس اعلام کرد، تهدید تحریم کشتی‌ها",
+        "title_en": "Iran Announces New Persian Gulf ‘Exclusion Zone,’ Threatens Sanctions on Vessels",
+        "summary": [
+            "ایران اعلام کرد در خلیج فارس منطقه‌منعی برای کشتی‌های غیرایرانی ایجاد می‌کند",
+            "تهدید به تحریم کشتی‌های عبورکننده، فشار اقتصادی بر تجارت بین‌المللی را افزایش می‌دهد",
+            "این اقدام می‌تواند واکنش نظامی یا دیپلماتیک کشورهای صاحب‌حاکمیت را برانگیزد",
+            "مسیرهای جایگزین برای عبور از خلیج ممکن است هزینه و زمان را بالا ببرند"
+        ],
+        "impact": "کشتی‌ها مجبور به دور زدن مسیر جدید می‌شوند، هزینه حمل و نقل دریایی افزایش می‌یابد",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "IranWire",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU28yMDRkaDZjNlRCY0pnRXdoZ0o1QWJKMUt1TDJ0OWR6OG1wSlBXazZPWWswWEx2LUhMZFQ1MWRWa2s4UHJRbmJYN0NLMk1Rc2hzcG8wR2c0ZVdoMG9LYWp0X3hETGoydi1mS0J2T2F4WVZVaXlBdVdoU0JsUGJlZlZnNnBsc0RCV1BsYmF6SGNWRHJzQzVRVW95bWItbE1oSmxqcXNCUkVVU1Nyd3F3clNsdTI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU28yMDRkaDZjNlRCY0pnRXdoZ0o1QWJKMUt1TDJ0OWR6OG1wSlBXazZPWWswWEx2LUhMZFQ1MWRWa2s4UHJRbmJYN0NLMk1Rc2hzcG8wR2c0ZVdoMG9LYWp0X3hETGoydi1mS0J2T2F4WVZVaXlBdVdoU0JsUGJlZlZnNnBsc0RCV1BsYmF6SGNWRHJzQzVRVW95bWItbE1oSmxqcXNCUkVVU1Nyd3F3clNsdTI",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788774975.0
     },
     {
         "id": "05c85f9357",
@@ -87,6 +127,26 @@
         "timestamp": 1788772490.4829504
     },
     {
+        "id": "f35487dce4",
+        "title_fa": "حوثی‌ها سعودی‌ها را متهم به حملات هوایی کردند",
+        "title_en": "Yemen's Iran-backed Houthis accuse Saudi Arabia of air raids, missile strikes",
+        "summary": [
+            "حوثی‌ها ادعا می‌کنند سعودی‌ها در مناطق مختلف یمن هوای‌پیمایی کرده‌اند",
+            "این ادعاها در حین پیشروی حوثی‌ها به سمت باب‌ال‌مندب مطرح شد",
+            "اگر صحت داشته باشد، خطر تشدید درگیری هوایی در مسیر استراتژیک کشتی‌ها افزایش می‌یابد",
+            "واکنش بین‌المللی هنوز نامشخص است"
+        ],
+        "impact": "افزایش خطر حملات هوایی به کشتی‌ها در باب‌ال‌مندب، ترافیک دریایی منطقه مختل می‌شود",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/yemens-iran-backed-houthis-accuse-saudi-arabia-of-air-raids-missile-strikes/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/yemens-iran-backed-houthis-accuse-saudi-arabia-of-air-raids-missile-strikes",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788771360.0
+    },
+    {
         "id": "7f6f7d4819",
         "title_fa": "ایالات متحده ایران را به شورای امنیت ارجاع می‌دهد",
         "title_en": "US proposes referring Iran to UN Security Council over nuclear inspections",
@@ -105,6 +165,26 @@
         "clean_url": "https://cryptobriefing.com/us-iran-un-security-council-nuclear-referral",
         "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07044852/library-us-proposes-referring-iran-to-un-security-council-over-n-800x450.png",
         "timestamp": 1788770940.0
+    },
+    {
+        "id": "216d6ac4b8",
+        "title_fa": "قیمت نفت به‌دلیل تنش‌های تازه آمریکا‑ایران در هرمز بالا رفت",
+        "title_en": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks",
+        "summary": [
+            "قیمت نفت پس از گزارش‌های جدید درباره جنگ‌افزایی آمریکا و ایران در هرمز ارتقا یافت",
+            "ریسک قطع‌تامین نفت از مسیر هرمز باعث نگرانی سرمایه‌گذاران شد",
+            "بازارها پیش‌بینی می‌کنند نوسان قیمت تا چند درصد ادامه یابد",
+            "این فشار می‌تواند تورم انرژی را در کشورهای وابسته به نفت تشدید کند"
+        ],
+        "impact": "قیمت‌های جهانی نفت بالا می‌رود، هزینه‌های حمل و نقل انرژی افزایش می‌یابد",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "wsj.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788770674.0
     },
     {
         "id": "4745e6b337",
@@ -5417,79 +5497,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/the-freakout-over-data-centers-is-just-another-fracking-backlash-we-need-to-ignore/ar-AA2bCLwy",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788612184.2397363
-    },
-    {
-        "id": "96820eeccf",
-        "title_fa": "شش ماه جنگ ایران‑آمریکا؛ هیچ‌کس برنده نیست",
-        "title_en": "Commentary: At 6 months, there is no clear winner in the Iran war",
-        "summary": [
-            "شش ماه پس از شروع درگیری، نتایج واضحی به دست نیامده.",
-            "ادعاهای پیروزمندی ترامپ با واقعیت میدانی تضاد دارد.",
-            "الگوی تکرار حملات و مذاکرات کوتاه‌مدت همچنان ادامه دارد.",
-            "تنش‌ها و فشار اقتصادی بر ایران به احتمال زیاد ادامه خواهد یافت."
-        ],
-        "impact": "عدم قطعیت برای سیاست خارجی آمریکا و ادامه هزینه‌های نظامی",
-        "tag": "تحلیل",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Yakima Herald",
-        "url": "https://www.yakimaherald.com/opinion/commentary-at-6-months-there-is-no-clear-winner-in-the-iran-war/article_6f2fbcf9-adab-472f-8bdc-80c6d616ab68.html",
-        "clean_url": "https://www.yakimaherald.com/opinion/commentary-at-6-months-there-is-no-clear-winner-in-the-iran-war/article_6f2fbcf9-adab-472f-8bdc-80c6d616ab68.html",
-        "image": "https://www.bing.com/th?id=ONUT.MvbceEStNbFQrKEUtrNZvg",
-        "timestamp": 1788611157.419139
-    },
-    {
-        "id": "2e9c5212e4",
-        "title_fa": "نتانیاهو قطر را «دولت متخاصم» می‌خواند که دوحه علیه ایران عقب‌نشینی می‌کند",
-        "title_en": "Netanyahu calls Qatar 'hostile state' as Doha pushes back against Iran",
-        "summary": [
-            "Netanyahu defended Israel’s 2025 strike on Doha and called Qatar a “hostile state,\" while Qatar separately accused Iran of..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Euronews on MSN",
-        "url": "https://www.msn.com/en-gb/politics/government/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran/ar-AA2bF0tK?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/politics/government/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran/ar-AA2bF0tK",
-        "image": "https://www.bing.com/th?id=ONUT.HKK-6jctqXRlrJhMoR55sA",
-        "timestamp": 1788610547.0
-    },
-    {
-        "id": "57837dbe30",
-        "title_fa": "ایران پیش‌نویس توافق آمریکا را با معافیت نفتی می‌پذیرد",
-        "title_en": "Iran Says Draft US Deal Includes Oil Sanctions Waiver, Nuclear Limits and Asset Release",
-        "summary": [
-            "ایران اعلام کرد پیش‌نویس توافق پیشنهادی آمریکا شامل معافیت موقت تحریم‌های نفتی است",
-            "در عوض، محدودیت‌های هسته‌ای و آزادسازی دارایی‌ها به‌عنوان شرط مطرح شده",
-            "این پیشنهاد می‌تواند راه‌حلی برای رفع تنش‌های اقتصادی منطقه‌ای باشد",
-            "جزئیات فنی و زمان‌بندی آزادسازی دارایی‌ها هنوز نامشخص است"
-        ],
-        "impact": "اگر توافق نهایی شود، صادرات نفتی ایران می‌تواند به‌سرعت بازگردد و فشار مالی بر رژیم کاهش یابد",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788609603.0
-    },
-    {
-        "id": "f5542d51dd",
-        "title_fa": "ماهها درمان مخفیانه برای نجات پای گلولهخورده یک معترض در قزوین",
-        "title_en": "ماهها درمان مخفیانه برای نجات پای گلولهخورده یک معترض در قزوین",
-        "summary": [
-            "برادر یک معترض ۳۴ ساله در قزوین به ایراناینترنشنال گفت برادرش پس از اصابت گلوله جنگی به ساق پا، پنج جراحی سنگین انجام داده و..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609064025",
-        "clean_url": "https://www.iranintl.com/202609064025",
-        "image": "https://www.bing.com/th?id=ONUT.pC4lJ8vhOv70iwvf7hjITw",
-        "timestamp": 1788608820.0
     }
 ]
