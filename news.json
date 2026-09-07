@@ -2421,6 +2421,26 @@
         "timestamp": 1788718920.0
     },
     {
+        "id": "1daf4eed67",
+        "title_fa": "آمریکا سه تانکر نفت ایران را هدف گرفت",
+        "title_en": "Iran war latest: US hits three Iranian oil tankers",
+        "summary": [
+            "نیروهای آمریکایی در خلیج فارس به سه تانکر نفتی ایرانی حمله کردند؛ این اقدام به‌عنوان پاسخ به تهدیدات منطقه‌ای مطرح شد",
+            "حمله می‌تواند مسیر حمل و نقل نفت ایران را مختل کند و فشار اقتصادی بر تهران را افزایشی کند",
+            "تحریم‌های جدید احتمالاً به‌سرعت اعمال می‌شود و قیمت نفت در بازارهای جهانی نوسان می‌گیرد",
+            "این اقدام ریسک تشدید تنش‌های نظامی بین دو کشور را به‌طور واضح نشان می‌دهد"
+        ],
+        "impact": "کاهش توان صادرات نفتی ایران و تشدید تحریم‌های اقتصادی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Sky",
+        "url": "https://news.sky.com/story/iran-war-live-strait-of-hormuz-trump-latest-gulf-states-13509565",
+        "clean_url": "https://news.sky.com/story/iran-war-live-strait-of-hormuz-trump-latest-gulf-states-13509565",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788718529.0
+    },
+    {
         "id": "abbeb81991",
         "title_fa": "وزیر انرژی پس از نابودسازی سه تانکر ایرانی، واقع‌گرایی می‌گوید",
         "title_en": "Energy secretary gives reality check after US military takes out three Iranian oil tankers",
@@ -5444,25 +5464,6 @@
         "url": "https://www.theepochtimes.com/world/iran-nuclear-deal-might-be-delayed-until-regime-change-in-tehran-energy-secretary-says-6084096",
         "clean_url": "https://www.theepochtimes.com/world/iran-nuclear-deal-might-be-delayed-until-regime-change-in-tehran-energy-secretary-says-6084096",
         "image": "https://img.theepochtimes.com/assets/uploads/2026/04/17/id6013586-DSC04089-Chris-Wright-1080x720.jpg",
-        "timestamp": 1788652800.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "دادگاه پراتو کارگر را بابت دست‌مالی‌های ناخواسته جبران کرد",
-        "title_en": "Workplace harassment, even unwanted caresses and confidences can be compensated",
-        "summary": [
-            "دادگاه کار پراتو تصمیم گرفت کارفرما به خاطر تماس‌های جسمی ناخواسته به کارمند خسارت بدهد",
-            "رفتار شامل نوازش‌های غیرمجاز و گفت‌وگوهای شخصی بدون رضایت بود",
-            "حکم شامل پرداخت غرامت و تأکید بر ممنوعیت چنین رفتارها در محیط کار است"
-        ],
-        "impact": "شرکت‌ها ملزم به بازنگری سیاست‌های harassment می‌شوند",
-        "tag": "حقوقی",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260906KRONOS-202609121285254141_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
         "timestamp": 1788652800.0
     }
 ]
