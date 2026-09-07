@@ -1,5 +1,45 @@
 [
     {
+        "id": "1f0b9f48f6",
+        "title_fa": "نابرابری پاداش در مسابقات تنیس یو‌اس‌اوپن",
+        "title_en": "Readers sound off on the U.S. Open, tech moguls and donation ethics",
+        "summary": [
+            "نویسنده به نابرابری زمان بازی بین مردان و زنان اشاره می‌کند؛ زنان ۹۰ دقیقه، مردان حدود سه ساعت",
+            "اگرچه پاداش مالی برابر است، طولانی‌تر بودن مسابقات مردانه باعث خستگی و هزینه‌های بیشتر می‌شود",
+            "پیشنهاد «نود اد» برای کوتاه کردن بازی‌های مردانه مطرح شد اما به‌نظر می‌رسد پذیرشش کم است",
+            "تغییر قوانین برای برابری زمان بازی در کوتاه‌مدت عملی نیست و احتمالاً بحث عمومی را ادامه می‌دهد"
+        ],
+        "impact": "بحث عمومی درباره عدالت مسابقات تنیس تشدید می‌شود؛ فشار برای اصلاح قوانین بازی افزایش می‌یابد",
+        "tag": "ورزشی",
+        "urgency": 1,
+        "sentiment": 0.1,
+        "source": "New York Daily News",
+        "url": "https://www.nydailynews.com/2026/09/07/readers-sound-off-on-the-u-s-open-tech-moguls-and-donation-ethics/",
+        "clean_url": "https://www.nydailynews.com/2026/09/07/readers-sound-off-on-the-u-s-open-tech-moguls-and-donation-ethics",
+        "image": "https://www.bing.com/th?id=ONUT._hwz04Fxly52YhEKlSsjeA",
+        "timestamp": 1788765317.432877
+    },
+    {
+        "id": "bce877a7bf",
+        "title_fa": "ایران منطقه‌ ممنوع جدید در خلیج فارس اعلام می‌کند",
+        "title_en": "Iran says to announce new restricted zone in the Gulf in the coming days",
+        "summary": [
+            "تهدید جدید ایران برای محدود کردن عبور کشتی‌ها در بخش وسیعی از خلیج فارس",
+            "اعلام این اقدام در روزهای آینده می‌تواند فشار بر مسیرهای تجاری بین‌المللی را افزایش دهد",
+            "احتمال واکنش نظامی یا دیپلماتیک ایالات متحده و هم‌پیمانان در پی این تصمیم بالا است",
+            "این حرکت نشان‌دهنده تمایل تهران به استفاده از ابزارهای ساحلی برای تقویت موضعش در مذاکرات هسته‌ای است"
+        ],
+        "impact": "کشتی‌های تجاری مجبور به دور زدن مسیر جدید می‌شوند؛ هزینه و زمان حمل‌ونقل به‌طور قابل‌توجهی افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788764220.0
+    },
+    {
         "id": "2f2701ed3d",
         "title_fa": "فشاری اقتصادی بر درآمد نفت ایران در چین",
         "title_en": "Economic Compellence Beyond the Buyer: Targeting Iran’s Oil-Revenue Network in China",
@@ -5464,41 +5504,5 @@
         "clean_url": "https://www.modernghana.com/news/1525173/the-three-fires-why-washington-moscow-and-kathma.html",
         "image": "https://cdn.modernghana.com/images/content/12302020113338-1j041q5ccw-writer.jpg",
         "timestamp": 1788601165.5321884
-    },
-    {
-        "id": "e38ccdbd14",
-        "title_fa": "استراتژی فشار اقتصادی آمریکا بر ایران",
-        "title_en": "Civil War Strategies in the Strait of Hormuz",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا اعلام کرد که قصد دارد اقتصاد ایران را خفه کند.",
-            "ترامپ تمایلی به فرستادن نیروهای زمینی به ایران نشان نداده و به دنبال فشارهای غیرنظامی است.",
-            "این رویکرد شبیه طرح اناکوندا در جنگ داخلی آمریکا است؛ اما بدون حمله زمینی ادامه می‌یابد."
-        ],
-        "impact": "تحریم‌های شدید می‌تواند توان مالی رژیم را به‌سختی کاهش دهد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "The Washington Free Beacon",
-        "url": "https://freebeacon.com/columns/civil-war-strategies-in-the-strait-of-hormuz/",
-        "clean_url": "https://freebeacon.com/columns/civil-war-strategies-in-the-strait-of-hormuz",
-        "image": "https://www.bing.com/th?id=ONUT.2JP701bPiE6JtiflzAplHQ",
-        "timestamp": 1788601165.5317879
-    },
-    {
-        "id": "8e08333819",
-        "title_fa": "تنسی می‌تواند رنسانس هسته‌ای آمریکا را رهبری کند | نظر",
-        "title_en": "Tennessee can lead America’s nuclear renaissance | Opinion",
-        "summary": [
-            "Tennessee helped usher America into the nuclear age, and now has an opportunity to help shape what comes next, Lt. Gov. Randy..."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Knoxville News Sentinel",
-        "url": "https://www.knoxnews.com/story/opinion/columnists/2026/09/05/tennessee-can-lead-americas-nuclear-renaissance/91612135007/",
-        "clean_url": "https://www.knoxnews.com/story/opinion/columnists/2026/09/05/tennessee-can-lead-americas-nuclear-renaissance/91612135007",
-        "image": "https://www.bing.com/th?id=ONUT.r8JwAjBtOZFoeeRhd0ubmA",
-        "timestamp": 1788600825.879869
     }
 ]
