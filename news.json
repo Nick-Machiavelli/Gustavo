@@ -356,6 +356,26 @@
         "timestamp": 1788745308.0
     },
     {
+        "id": "6466f33c19",
+        "title_fa": "ایران مسیر جدید هورموز را اعلام می‌کند",
+        "title_en": "Iran plans new Hormuz corridor as shipping plunges and Gulf allies question US protection",
+        "summary": [
+            "ایران ناحیه محدود جدیدی در خلیج فارس تعریف می‌کند؛ هر کشتی وارد شده به فهرست تحریم‌ها افزوده می‌شود",
+            "استان‌دار با عمان نقشه مسیر بین‌المللی جدید در آب‌های مشترک را تصویب کرده؛ مدیریت این مسیر به عهده ایران است",
+            "اقدام در واکنش به حملات اخیر آمریکا به کشتی‌ها و افزایش قیمت نفت انجام می‌شود",
+            "کشورهای خلیج فارس از توان محافظتی آمریکا سؤال می‌کنند؛ خطر تشدید تنش‌های منطقه‌ای وجود دارد"
+        ],
+        "impact": "کشتی‌های تجاری مسیر طولانی‌تری می‌پذیرند؛ هزینه حمل‌ونقل و بیمه به‌طور قابل‌توجهی بالا می‌رود",
+        "tag": "حمل‌ونقل",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/article/hyjslln00gg",
+        "clean_url": "https://www.ynetnews.com/article/hyjslln00gg",
+        "image": "http://www.bing.com/th?id=ONUT.BL3xQsRYOnHkuozqKYEybw&pid=News",
+        "timestamp": 1788745020.0
+    },
+    {
         "id": "b7af91062d",
         "title_fa": "تلاش دشوار ترامپ در میانه جنگ ایران",
         "title_en": "CNBC Daily Open: Trump's ‘little excursion’ becomes an uphill battle as Iran war continues",
@@ -5486,25 +5506,5 @@
         "clean_url": "https://www.indiaweekly.biz/sebi-adani-group-hindenburg-research-kingdon-capital-management",
         "image": "https://www.bing.com/th?id=ONUT.3QKYjk3sDwynZMdm410hLw",
         "timestamp": 1788603736.0
-    },
-    {
-        "id": "ff23ebf5d1",
-        "title_fa": "رسانه‌ها درباره سقوط ایران اشتباه کردند",
-        "title_en": "The Iraq War Cheerleaders Were Wrong. They're Wrong About Iran Too. (opinion)",
-        "summary": [
-            "سخنرانان حامی جنگ عراق پیش‌بینی کردند که ایران به‌سرعت سقوط می‌کند.",
-            "جنگ در ایران پس از چهار هفته به آتش‌بس رسید و دولت سقوط نکرد.",
-            "این خطا نشان می‌دهد پیش‌بینی‌های نظامی‑سیاسی بدون شواهد می‌تواند گمراه‌کننده باشد.",
-            "بدون تغییر رویکرد تحلیلی، احتمال تکرار چنین اشتباهاتی در آینده بالاست."
-        ],
-        "impact": "اعتماد عمومی به تحلیل‌های نظامی‑سیاسی غربی کاهش می‌یابد",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iraq-war-cheerleaders-were-wrong-100001682.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iraq-war-cheerleaders-were-wrong-100001682.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/c5e2955de9b1dc301b4d214619ead00ab93c9edd02d618eaef6c595685ab4170/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freason_com_245%2F326d1ba4e37a2cfc7617540153ffdf0a.jpg",
-        "timestamp": 1788603674.2386587
     }
 ]
