@@ -17,6 +17,26 @@
         "timestamp": 1788772490.4829504
     },
     {
+        "id": "7f6f7d4819",
+        "title_fa": "ایالات متحده ایران را به شورای امنیت ارجاع می‌دهد",
+        "title_en": "US proposes referring Iran to UN Security Council over nuclear inspections",
+        "summary": [
+            "آمریکا به همراه بریتانیا، فرانسه و آلمان، مجلس ۳۵ نفره هیئت‌مدیره آژانس بین‌المللی انرژی هسته‌ای را برای ارجاع ایران به شورای امنیت فشار می‌آورد.",
+            "این درخواست اولین ارجاع مشابه در حدود دو دهه است و پس از قطع دسترسی بازرسین به سایت‌های غنی‌سازی کلیدی صورت می‌گیرد.",
+            "پیشنهاد بر پایه قطعنامهٔ ژوئن ۲۰۲۵ است که ایران را به نقض تعهدات عدم گسترش هسته‌ای متهم کرد و از افشای موجودی هسته‌ای و دسترسی کامل بازرسین خواست.",
+            "عدم همکاری ایران می‌تواند منجر به اعمال تحریم‌های جدید و تشدید فشار دیپلماتیک بین‌المللی شود."
+        ],
+        "impact": "ارجاع به شورای امنیت احتمالاً تحریم‌های جدید را فعال می‌کند و فشار اقتصادی بر ایران را شدت می‌بخشد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-un-security-council-nuclear-referral/",
+        "clean_url": "https://cryptobriefing.com/us-iran-un-security-council-nuclear-referral",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07044852/library-us-proposes-referring-iran-to-un-security-council-over-n-800x450.png",
+        "timestamp": 1788770940.0
+    },
+    {
         "id": "4745e6b337",
         "title_fa": "توافق هسته‌ای ایران به رهبری جدید منتظر می‌ماند",
         "title_en": "Iran nuclear deal may await new leadership as US pressure deepens",
@@ -5486,23 +5506,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-tehran-attacks-ships-in-strait-of-hormuz/ar-AA2bECgq",
         "image": "https://www.bing.com/th?id=ONUT.VfLnwfUgLmnER7SfeOOnOQ",
         "timestamp": 1788604471.0
-    },
-    {
-        "id": "2583fad76c",
-        "title_fa": "نتانیاهو برای رهبری جنگی خود پرچم می‌کشد",
-        "title_en": "Netanyahu is trying to rally Israel around the flag — and save himself",
-        "summary": [
-            "نتانیاهو سعی دارد تصویر خود را به عنوان رهبر جنگی تقویت کند",
-            "او برای حفظ قدرت، به عملیات‌های نظامی در غزه تکیه می‌کند"
-        ],
-        "impact": "فضای انتخاباتی اسرائیل به سمت ملی‌گرایی و حمایت از عملیات‌های نظامی می‌رود",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "ms",
-        "url": "https://www.ms.now/israel-hamas-war/benjamin-netanyahu-israeli-election-violence-gaza-west-bank-lebanon",
-        "clean_url": "https://www.ms.now/israel-hamas-war/benjamin-netanyahu-israeli-election-violence-gaza-west-bank-lebanon",
-        "image": "https://www.ms.now/wp-content/uploads/2026/09/260903-ali-velshi-on-israel-benjamin-netanyahu-zz.webp?w=1200&h=630&crop=1",
-        "timestamp": 1788604382.6139176
     }
 ]
