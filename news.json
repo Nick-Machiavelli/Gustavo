@@ -531,6 +531,26 @@
         "timestamp": 1788716824.264392
     },
     {
+        "id": "5539ab5462",
+        "title_fa": "لاوروف مرز را به‌اعلام جنگ علیه روسیه متهم کرد",
+        "title_en": "'Germany Declares War On Russia': Sergei Lavrov's Explosive Attack On Merz Over Leipzig Drone Row",
+        "summary": [
+            "لاوروف گفت وعده مرز برای تبدیل آلمان به \"قدرت نظامی برتر اروپا\" معادل اعلام جنگ است",
+            "این اتهام پس از بسته شدن کنسولگری روسیه در برلین و اتهام لِیپزیگ به پهپادهای روسی مطرح شد",
+            "روسیه ادعا می‌کند برلین شواهد ساختگی برای توجیه تحریم‌ها فراهم کرده",
+            "تنش دیپلماتیک می‌تواند فشار بر مذاکرات امنیتی اروپا‑روسیه را افزایش دهد"
+        ],
+        "impact": "بیان‌های تند می‌تواند روابط آلمان‑روسیه را به‌سوی جدایی دیپلماتیک و تشدید تحریم‌ها بکشاند",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/international/germany-declares-war-on-russia-sergei-lavrovs-explosive-attack-on-merz-over-leipzig-drone-row/videoshow/133859641.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/international/germany-declares-war-on-russia-sergei-lavrovs-explosive-attack-on-merz-over-leipzig-drone-row/videoshow/133859641.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133859641,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1788716460.0
+    },
+    {
         "id": "f3760f615f",
         "title_fa": "مدرسه‌ای که در اوایل جنگ سوخت، اکنون یادبود کودکان",
         "title_en": "Iranian school struck in war's earliest attacks now a memorial for children",
@@ -1657,6 +1677,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUkI5S3doOWVtUHhfdEU2d2RqTVZvakc1bTN2QUdmUEhQSmx1WThYQWoteGpjSGJLU1FMbmc4LWU5R20xLVBER182eG1FZm11ZHFWY1pvdEIzMlo2ZkFpeTlBQi1xd01UMUswenhqTXhCa2Ftd29nZ1RpUFo4REU0MFVoX3Y4RzJKd1E",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788685802.0
+    },
+    {
+        "id": "8896a2029a",
+        "title_fa": "اسرائیل به‌پشت پرتاب پهپادهای حزب‌الله در لبنان حمله کرد",
+        "title_en": "Israel Strikes Southern Lebanon, Warns Arsalim Residents",
+        "summary": [
+            "اسرائیل ادعای پرتاب دو پهپاد توسط حزب‌الله را \"نقض آشکار\" نامید و یکی را نابود کرد",
+            "هشدار به ساکنان عربسلیم برای ترک شهر و جلوگیری از تشدید درگیری در \"منطقه امنیتی\"",
+            "هیچ تلفات انسانی گزارش نشده اما عملیات می‌تواند به گسترش درگیری مرزی منجر شود"
+        ],
+        "impact": "حمله می‌تواند مرز جنوب لبنان را به‌سوی درگیری گسترده‌تر سوق دهد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Jordan News",
+        "url": "https://www.jordannews.jo/Section-20/Middle-East/Israel-Strikes-Southern-Lebanon-Warns-Arsalim-Residents-55316",
+        "clean_url": "https://www.jordannews.jo/Section-20/Middle-East/Israel-Strikes-Southern-Lebanon-Warns-Arsalim-Residents-55316",
+        "image": "https://imgy.pro/jordannews/993x560/9202669756280435152.jpg",
+        "timestamp": 1788685740.0
     },
     {
         "id": "c53851f47c",
@@ -5446,43 +5485,5 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/bottom-of-the-sea-us-shares-video-of-deadly-strikes-on-iranian-oil-tanker-watch-article-156095431",
         "image": "https://www.bing.com/th?id=ONUT.TA9xA422t53hqaQ4iFpJhQ",
         "timestamp": 1788585678.0
-    },
-    {
-        "id": "6ed0a3e4d3",
-        "title_fa": "تحریم آمریکا بر بانک ترکیه به‌دلیل ارتباط با سپاه",
-        "title_en": "US imposes sanctions on Turkish bank, prompting legal threat",
-        "summary": [
-            "آمریکا بانک ترکیه‌ای را به‌خاطر تسهیل تراکنش‌های میلیونی برای سپاه پاسداران تحریم کرد.",
-            "تحریم باعث می‌شود بانک نتواند به سامانه‌های مالی بین‌المللی دسترسی داشته باشد و فشار بر اقتصاد ترکیه افزاش یابد.",
-            "بانک می‌تواند در دادگاه‌های آمریکا به چالش کشیدن تحریم‌ها بپردازد؛ اما تا زمان تصمیم‌گیری، تراکنش‌های ایرانی محدود می‌شود."
-        ],
-        "impact": "کاهش توان مالی ایران و فشار بر روابط بانکی ترکیه‑ایران",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/money/other/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat/ar-AA2bBQlc",
-        "clean_url": "https://www.msn.com/en-us/money/other/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat/ar-AA2bBQlc",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788585545.0
-    },
-    {
-        "id": "733914c960",
-        "title_fa": "چرا روز دی‌دی روز شکست بود",
-        "title_en": "Why 'D-Day' was destined to be a dud",
-        "summary": [
-            "مقاله ادعا می‌کند برنامه دی‌دی به دلیل مشکلات لجستیکی و تصمیم‌گیری‌های نادرست شکست خورد",
-            "نویسنده به عدم هماهنگی فرماندهان و کمبود اطلاعات هوایی اشاره می‌کند",
-            "این تحلیل نشان می‌دهد حتی عملیات‌های بزرگ هم می‌توانند به‌دلیل خطاهای انسانی ناکام بمانند"
-        ],
-        "impact": "یادآوری خطرهای برنامه‌ریزی نادرست برای عملیات‌های نظامی آینده",
-        "tag": "نظامی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Responsible Statecraft",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WbkNmY0Q4VFdoOFVJNnZILXpMQnU4UjFkR1lVdlpHMHJQbkRRZWtzVDJablNWN3lkRFdxRWlMU3BMLVpUd3h1Y0xYRlNkQmM4a2RBb1NJVUNWbEN0SGZnN09R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WbkNmY0Q4VFdoOFVJNnZILXpMQnU4UjFkR1lVdlpHMHJQbkRRZWtzVDJablNWN3lkRFdxRWlMU3BMLVpUd3h1Y0xYRlNkQmM4a2RBb1NJVUNWbEN0SGZnN09R",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788585485.0
     }
 ]
