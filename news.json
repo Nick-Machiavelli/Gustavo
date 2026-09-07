@@ -1139,6 +1139,25 @@
         "timestamp": 1788720068.2200933
     },
     {
+        "id": "307a381844",
+        "title_fa": "تخمین وزیر انرژی آمریکا: توافق هسته‌ای ایران به‌زودی میسر نیست",
+        "title_en": "U.S. energy secretary says Iran nuclear deal 'may not' happen anytime soon",
+        "summary": [
+            "وزیر انرژی ایالات متحده اعلام کرد مذاکرات هسته‌ای با ایران در آینده نزدیک پیشرفت نخواهد کرد.",
+            "او به‌جای دیپلماسی، تخریب توانایی‌های هسته‌ای ایران را گزینهٔ نظامی می‌داند.",
+            "این اظهارات می‌تواند فشار بین‌المللی بر تهران را افزایشداده و مذاکرات را به‌سختی ادامه دهد."
+        ],
+        "impact": "افزایش تنش‌های نظامی‑سیاستی و کاهش امید به رفع تحریم‌ها برای ایران",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/06/us-energy-secretary-chris-wright-says-iran-nuclear-deal-may-not-happen/",
+        "clean_url": "https://www.washingtonpost.com/world/2026/09/06/us-energy-secretary-chris-wright-says-iran-nuclear-deal-may-not-happen",
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ES2AB6I2YJ34MUENBP42RYG4KU_size-normalized.jpg&w=1440",
+        "timestamp": 1788718920.0
+    },
+    {
         "id": "abbeb81991",
         "title_fa": "وزیر انرژی پس از نابودسازی سه تانکر ایرانی، واقع‌گرایی می‌گوید",
         "title_en": "Energy secretary gives reality check after US military takes out three Iranian oil tankers",
@@ -5475,24 +5494,5 @@
         "clean_url": "https://www.msn.com/en-au/politics/government/buried-in-jd-vance-s-scary-as-hell-rant-was-a-terrifying-admission-opinion/ar-AA2bCr6f",
         "image": "https://www.bing.com/th?id=ONUT.nynzETke9Tkwl_mT7bWkzg",
         "timestamp": 1788607246.3137167
-    },
-    {
-        "id": "ac0e5fc0dd",
-        "title_fa": "ایران ادعای حمله به تانکر در خلیج خرگ",
-        "title_en": "Iran accuses U.S. of targeting a tanker near Kharg Island, and other Mideast news",
-        "summary": [
-            "ایران می‌گوید ایالات متحده تانکری نزدیک جزیره خرگ را هدف قرار داد",
-            "اگر ادعا تأیید شود، احتمال واکنش نظامی ایران علیه متحدان آمریکا در منطقه بالا می‌رود",
-            "این حادثه می‌تواند فشار تحریم‌ها را تشدید کند و مسیر مذاکرات هسته‌ای را پیچیده‌تر کند"
-        ],
-        "impact": "افزایش خطر برخورد نظامی در خلیج فارس و تشدید تنش‌های منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Tribune-Democrat",
-        "url": "https://www.tribdem.com/news/latest_news/iran-accuses-u-s-of-targeting-a-tanker-near-kharg-island-and-other-mideast-news/article_95dd1931-54ea-5437-906a-38f6973ad8dc.html",
-        "clean_url": "https://www.tribdem.com/news/latest_news/iran-accuses-u-s-of-targeting-a-tanker-near-kharg-island-and-other-mideast-news/article_95dd1931-54ea-5437-906a-38f6973ad8dc.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/7/54/754e2310-cab7-594f-91ca-f257b62368a3/6a9aa93036b3c.image.jpg?crop=1763,926,0,124&resize=1200,630&order=crop,resize",
-        "timestamp": 1788606900.0
     }
 ]
