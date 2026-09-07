@@ -1,5 +1,22 @@
 [
     {
+        "id": "e4312d8ee9",
+        "title_fa": "دونالد ترامپ آخر هفته را با بازی در نقش یک ابرشرور در شبکه Truth Social گذراند",
+        "title_en": "Donald Trump spent the weekend cosplaying as a supervillain on Truth Social",
+        "summary": [
+            "Like 'Minions' supervillain Gru, on Sunday afternoon President Donald Trump attempted to steal the moon, and later proposed..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Rolling Stone Australia on MSN",
+        "url": "https://www.msn.com/en-au/entertainment/general/donald-trump-spent-the-weekend-cosplaying-as-a-supervillain-on-truth-social/ar-AA2bKQga?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-au/entertainment/general/donald-trump-spent-the-weekend-cosplaying-as-a-supervillain-on-truth-social/ar-AA2bKQga",
+        "image": "https://www.bing.com/th?id=ONUT.ywyFz1-Xng-gtAWyKiJtmw",
+        "timestamp": 1788819752.837093
+    },
+    {
         "id": "2df6ff9b36",
         "title_fa": "طرح جدید ترامپ: پرداخت به مادران بیکار",
         "title_en": "Trump admin preparing plan to boost nuclear families by paying stay-at-home moms: report",
@@ -524,6 +541,23 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-hit-iran-s-nuclear-sites-but-tehran-may-now-want-the-bomb-more-than-ever-their-only-guarantee-of-safety/vi-AA2bKlef",
         "image": "https://www.bing.com/th?id=ONUT.ue75w40pqpAKpRDyBCuy1g",
         "timestamp": 1788794010.8565156
+    },
+    {
+        "id": "65c1776ade",
+        "title_fa": "ایران قیمت بنزین را برای مصرف کنندگان سنگین در بحبوحه جنگ و فشار اقتصادی دو برابر می‌کند",
+        "title_en": "Iran doubles gasoline price for heavy users amid war, economic strain",
+        "summary": [
+            "Iran has doubled gasoline prices for motorists exceeding their monthly quota, as fuel shortages, inflation and war-related pressures strain the economy."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/iran-doubles-gasoline-price-for-heavy-users-amid-war-economic-strain-article-14024706.html",
+        "clean_url": "https://www.moneycontrol.com/world/iran-doubles-gasoline-price-for-heavy-users-amid-war-economic-strain-article-14024706.html",
+        "image": "http://www.bing.com/th?id=ONUT.AllRftofqwdSmU2HIri4Gg&pid=News",
+        "timestamp": 1788793860.0
     },
     {
         "id": "8ddc0fedb4",
@@ -5416,42 +5450,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/iran-claims-strike-on-us-navy-drone-us-says-its-total-lie-as-hormuz-clashes-rage-on/ar-AA2bFtP9",
         "image": "https://www.bing.com/th?id=ONUT.Dsufce-eKkNlO8SWZvVjOQ",
         "timestamp": 1788673858.0
-    },
-    {
-        "id": "4754cd15f9",
-        "title_fa": "تهدید ایران به پاسخ قوی‌تر در خلیج هرمز",
-        "title_en": "Iran Threatens Greater Force If US Launches More Attacks",
-        "summary": [
-            "سخنران مجلس ایران گفت هر حمله‌ای به منافعش با واکنش سریع‌تر و دردناک‌تر جواب داده می‌شود.",
-            "ایران همچنان کنترل استراتژیک هرمز را حفظ کرده و می‌خواهد فشار آمریکا را با تهدید نظامی تقویت کند."
-        ],
-        "impact": "افزایش خطر برخورد مستقیم نیرویی در مسیر حمل‌ونقل نفت جهانی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Channels Television",
-        "url": "https://www.channelstv.com/2026/09/06/iran-threatens-greater-force-if-us-launches-more-attacks/",
-        "clean_url": "https://www.channelstv.com/2026/09/06/iran-threatens-greater-force-if-us-launches-more-attacks",
-        "image": "http://www.bing.com/th?id=ONUT.s9EnBbKTmQ6IPxHHMu47lw&pid=News",
-        "timestamp": 1788673800.0
-    },
-    {
-        "id": "5b03d005c0",
-        "title_fa": "کاهش فشار ایران در هرمز به‌دلیل تحریم‌های آمریکا",
-        "title_en": "Iran's Hormuz leverage wanes as US economic squeeze bites",
-        "summary": [
-            "تحریم‌های مالی آمریکا توانایی ایران برای استفاده از تنگه هرمز را کاهش داد",
-            "کشتی‌های تجاری کمتر به تهدیدهای نیابتی ایران واکنش نشان می‌دهند",
-            "کاهش اهرام هرمز می‌تواند قیمت نفت خاورمیانه را تثبیت کند"
-        ],
-        "impact": "توان ایران برای فشار بر مسیرهای نفتی کم شد و فشار اقتصادی بر رژیم افزایش یافت",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/energy/irans-hormuz-leverage-wanes-us-economic-squeeze-bites-2026-09-06/",
-        "clean_url": "https://www.reuters.com/business/energy/irans-hormuz-leverage-wanes-us-economic-squeeze-bites-2026-09-06",
-        "image": "http://www.bing.com/th?id=ONUT.NUoaJ7sHcHVUYVSN8qAAnA&pid=News",
-        "timestamp": 1788673680.0
     }
 ]
