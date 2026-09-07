@@ -596,6 +596,25 @@
         "timestamp": 1788776841.0
     },
     {
+        "id": "47e59f602d",
+        "title_fa": "حملهٔ مرگبار اسرائیل به لبنان",
+        "title_en": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
+        "summary": [
+            "اسرائیل پس از تصرف یک مرتفع استراتژیک، حملات هوایی گسترده‌ای به مواضع حزب‌الله انجام داد.",
+            "تشدید جنگ می‌تواند به طولانی شدن اشغال سرزمین‌های لبنانی و گسترش درگیری‌های مرزی منجر شود.",
+            "تحریک نیروهای لبنانی برای پاسخ نظامی و خطر گسترش درگیری به مناطق دیگر منطقه."
+        ],
+        "impact": "افزایش تنش‌های نظامی در خاورمیانه و خطر گسترش جنگ به کشورهای همسایه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+        "clean_url": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788776580.0
+    },
+    {
         "id": "fe97e5187f",
         "title_fa": "کاهش ناگهانی کشتی‌ها در هرمز؛ ادعای ترامپ بی‌پایه",
         "title_en": "Trump’s Big Brag Blows Up in Humiliating Reality Check",
@@ -5453,24 +5472,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9haUhLblF5cUJOWk1ueEpwbUtyd2J3YU0xbTExRnJDcHRjd29NUDBvOTI2c3NZSUlMa0tZclJYQ2Z4eXB2QnlLNDdNUzhRT2V1enBTX3prOWJRZXRxODdQOTFScVFpUXQ1aXc",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788638427.0
-    },
-    {
-        "id": "9765b28ed8",
-        "title_fa": "پوتین ۷۲ ساعت توقف حملات به کی‌یف را اعلام کرد",
-        "title_en": "Putin orders 72-hour pause in Kyiv strikes as Ukraine agrees to halt attacks on Moscow",
-        "summary": [
-            "زلنسکی توافق کرد حملات به مسکو را متوقف کند",
-            "پوتین به همین دلیل ۷۲ ساعت توقف حملات هوایی به کی‌یف را دستور داد",
-            "این گام نشانگر احتمال مذاکرات محدود بین روسیه و اوکراین است"
-        ],
-        "impact": "کاهش موقت تلفات نظامی و فرصت برای مذاکرات فراهم می‌شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/putin-orders-72-hour-pause-in-kyiv-strikes-as-ukraine-agrees-to-halt-attacks-on-moscow/",
-        "clean_url": "https://www.timesofisrael.com/putin-orders-72-hour-pause-in-kyiv-strikes-as-ukraine-agrees-to-halt-attacks-on-moscow",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26239490041422.jpg",
-        "timestamp": 1788638280.0
     }
 ]
