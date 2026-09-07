@@ -1,5 +1,23 @@
 [
     {
+        "id": "2df6ff9b36",
+        "title_fa": "طرح جدید ترامپ: پرداخت به مادران بیکار",
+        "title_en": "Trump admin preparing plan to boost nuclear families by paying stay-at-home moms: report",
+        "summary": [
+            "دولت ترامپ برنامه‌ای برای پرداخت به مادران خانه‌دار برای تقویت خانواده‌های هسته‌ای آماده می‌کند.",
+            "طرح با هزینه بالا و انتقادات درباره نقش جنسیتی مواجه است."
+        ],
+        "impact": "بودجه فدرال تحت فشار می‌گیرد و بحث‌های سیاسی درباره نقش زنان تشدید می‌شود.",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "The Western Journal on MSN",
+        "url": "https://www.msn.com/en-us/lifestyle/other/trump-admin-preparing-plan-to-boost-nuclear-families-by-paying-stay-at-home-moms-report/ar-AA2bKsWw?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/lifestyle/other/trump-admin-preparing-plan-to-boost-nuclear-families-by-paying-stay-at-home-moms-report/ar-AA2bKsWw",
+        "image": "https://www.bing.com/th?id=ONUT.Zgm5ZjHASdcFUP85vRlQDQ",
+        "timestamp": 1788819196.0969286
+    },
+    {
         "id": "0a9dd0ab08",
         "title_fa": "ایران توان نظامی برای پاسخ به تهدید آمریکا ندارد",
         "title_en": "Iran has ‘no means’ to respond to US threats: RET Marine colonel",
@@ -561,6 +579,24 @@
         "clean_url": "https://www.azernews.az/analysis/263501.html",
         "image": "https://www.bing.com/th?id=ONUT.5pjMcqfeh_QxjBPxG1UNCw",
         "timestamp": 1788791828.0166497
+    },
+    {
+        "id": "ecfe23b0a0",
+        "title_fa": "موشک بالستیک جدید ایران: پیش‌دستی علیه هر تهدید",
+        "title_en": "Iran says improved ballistic missile shows it will take preemptive action against threats",
+        "summary": [
+            "ایران موشکی با قابلیت‌های بهبود یافته به نمایش گذاشت و گفت می‌تواند پیش‌دستی کند.",
+            "این تغییر رویکرد خطر پیش‌دستی را در منطقه افزایش می‌دهد و واکنش‌های نظامی دیگر کشورها را تحریک می‌کند."
+        ],
+        "impact": "خطر پیش‌دستی نظامی ایران منطقه را بی‌ثبات می‌کند.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-says-improved-ballistic-missile-shows-it-will-take-preemptive-action-against-threats/ar-AA2bKFBE",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-says-improved-ballistic-missile-shows-it-will-take-preemptive-action-against-threats/ar-AA2bKFBE",
+        "image": "http://www.bing.com/th?id=ONUT.AAnXJGMLh5bEPwOcXNkJ5A&pid=News",
+        "timestamp": 1788791087.0
     },
     {
         "id": "08be602296",
@@ -5417,39 +5453,5 @@
         "clean_url": "https://www.reuters.com/business/energy/irans-hormuz-leverage-wanes-us-economic-squeeze-bites-2026-09-06",
         "image": "http://www.bing.com/th?id=ONUT.NUoaJ7sHcHVUYVSN8qAAnA&pid=News",
         "timestamp": 1788673680.0
-    },
-    {
-        "id": "578450dc34",
-        "title_fa": "مهدی تارتار: محکوم به بردن هستیم، هیچ چیزی مثل فوتبال پاک به فوتبال ما کمک نمی‌کند",
-        "title_en": "مهدی تارتار: محکوم به بردن هستیم، هیچ چیزی مثل فوتبال پاک به فوتبال ما کمک نمی‌کند",
-        "summary": [
-            "مهدی تارتار، سرمربی پرسپولیس، در نشست خبری پیش از دیدار مقابل ذوب‌آهن گفت: «یک بازی بسیار مهم با یک تیم باتجربه و باکیفیت داریم. با توجه به اینکه هفته قبل دو امتیاز از دست دادیم، محکوم به بردن هستیم و..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609069296",
-        "clean_url": "https://www.iranintl.com/202609069296",
-        "image": "http://www.bing.com/th?id=ONUT.KvNou50LOm1gtIo2fAReVA&pid=News",
-        "timestamp": 1788672900.0
-    },
-    {
-        "id": "9411d84c87",
-        "title_fa": "حزب‌الله لبنان را به دلیل تشدید تنش‌ها توسط اسرائیل مقصر می‌داند",
-        "title_en": "Hezbollah Throws Blame on Lebanese State for Israeli Escalation",
-        "summary": [
-            "Lebanon's Hezbollah party continues to throw the blame on Lebanese authorities for Israel's military escalations in the South, as a ministerial source questions the party's silence over the fall of the strategic Ali al-Taher hill following reports of an Iranian-US deal."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/arab-world/5315173-hezbollah-throws-blame-lebanese-state-israeli-escalation",
-        "clean_url": "https://english.aawsat.com/arab-world/5315173-hezbollah-throws-blame-lebanese-state-israeli-escalation",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1759337_0.jpeg.webp?VersionId=W5d1_V55PSdxlI6psTe8UwBivnNFYCn8",
-        "timestamp": 1788672900.0
     }
 ]
