@@ -1,5 +1,23 @@
 [
     {
+        "id": "779aefae7e",
+        "title_fa": "غرب رسانه‌ها معیارهای متفاوتی برای آذربایجان دارد",
+        "title_en": "Why is Azerbaijan held to a different standard by Western media?",
+        "summary": [
+            "چندین رسانه غربی به‌صورت همزمان روایت یک‌سو درباره حوادث آذربایجان منتشر می‌کنند",
+            "کانال پلیس «نکستا» لهستان مثال واضحی از هماهنگی سیاسی در پوشش حادثه گوران‌بوی است"
+        ],
+        "impact": "تقویت تصویر منفی بین‌المللی از آذربایجان، فشار بر روابط دیپلماتیک",
+        "tag": "رسانه",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "AzerNews",
+        "url": "https://www.azernews.az/nation/263526.html",
+        "clean_url": "https://www.azernews.az/nation/263526.html",
+        "image": "https://www.bing.com/th?id=ONUT.jm8BZYZtATn4GGSW4-n5pg",
+        "timestamp": 1788804217.2583168
+    },
+    {
         "id": "6b045b7895",
         "title_fa": "ترامپ در یک سری پست های جنون آمیز روز کارگر، خود را «بزرگترین» معرفی می‌کند",
         "title_en": "Trump touts himself as 'greatest' in series of manic Labor Day posts",
@@ -753,6 +771,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788776841.0
+    },
+    {
+        "id": "12309635bc",
+        "title_fa": "دلارهای نفت ایران خشک می‌شود؛ بحران عمیق‌تر می‌شود",
+        "title_en": "Iran’s oil dollars are drying up—and plunging it deeper into crisis",
+        "summary": [
+            "تحریم‌های آمریکا مسیر صادرات نفت را مسدود کرده و حجم فروش روزانه را به‌نیمه کاهش داده",
+            "کاهش درآمد ارزی باعث فشار شدید بر بودجه و افزایش وابستگی به بازارهای غیرقانونی می‌شود"
+        ],
+        "impact": "کاهش شدید ارزهای نفتی، تنگنا در تأمین هزینه‌های دولتی",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.85,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/iran-s-oil-dollars-are-drying-up-and-plunging-it-deeper-into-crisis/ar-AA2bKRol",
+        "clean_url": "https://www.msn.com/en-us/money/economy/iran-s-oil-dollars-are-drying-up-and-plunging-it-deeper-into-crisis/ar-AA2bKRol",
+        "image": "http://www.bing.com/th?id=ONUT.5t71uPUyEgw0faAsG9wKjg&pid=News",
+        "timestamp": 1788776700.0
     },
     {
         "id": "47e59f602d",
@@ -5428,41 +5464,5 @@
         "clean_url": "https://jen.jiji.com/jc/eng_agt",
         "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
         "timestamp": 1788652800.0
-    },
-    {
-        "id": "23e80e0a7d",
-        "title_fa": "هزینه های جنگ ایران برای چندین دهه ادامه خواهد داشت",
-        "title_en": "The Costs of the Iran War Will Continue For Decades",
-        "summary": [
-            "Like wars before it, the costs of the current war with Iran will go on for decades to pay for the human and physical damage..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/williamhartung/2026/09/05/the-costs-of-the-iran-war-will-continue-for-decades/",
-        "clean_url": "https://www.forbes.com/sites/williamhartung/2026/09/05/the-costs-of-the-iran-war-will-continue-for-decades",
-        "image": "https://www.bing.com/th?id=ONUT.Qza2WI17IDEtO3CihDLcAQ",
-        "timestamp": 1788652047.1701584
-    },
-    {
-        "id": "ea6f36e219",
-        "title_fa": "آینده‌ ASX 200 ثابت، دستمزدهای آمریکا S&P را پایین آورد",
-        "title_en": "Morning wrap: ASX 200 futures flat, hot US August payrolls drag the S&P 500 and Dow lower",
-        "summary": [
-            "دستمزدهای ماه اوت آمریکا تقریباً سه برابر پیش‌بینی‌ها شد و فشار فروش بر شاخص‌های اصلی آمریکا را افزایش داد",
-            "آینده‌های ASX 200 تغییر ناچیزی داشتند؛ نشان می‌دهد واکنش داخلی استرالیا به این داده‌ها کم است",
-            "S&P 500 و Dow به‌دلیل نگرانی از سیاست‌های پولی فدرال رزرو کمی افت کردند"
-        ],
-        "impact": "سرمایه‌گذاران جهانی محتاط می‌شوند و ریسک‌پذیری در بازارهای سهام کاهش می‌یابد",
-        "tag": "بازار",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Market Index on MSN",
-        "url": "https://www.msn.com/en-au/money/top-stocks/morning-wrap-asx-200-futures-flat-hot-us-august-payrolls-drag-the-s-p-500-and-dow-lower/ar-AA2bHeMM?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/money/top-stocks/morning-wrap-asx-200-futures-flat-hot-us-august-payrolls-drag-the-s-p-500-and-dow-lower/ar-AA2bHeMM",
-        "image": "https://www.bing.com/th?id=ONUT.8iW6KwPSgK8EtWL0ZdDIHQ",
-        "timestamp": 1788651543.0
     }
 ]
