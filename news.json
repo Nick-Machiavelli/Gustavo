@@ -1,5 +1,24 @@
 [
     {
+        "id": "fc7e319f4c",
+        "title_fa": "زیا یوسف و تبعیض علیه مهاجران",
+        "title_en": "Reform UK's Zia Yusuf pulls up the ladder on Britain's immigrants",
+        "summary": [
+            "اظهارات یوسف نشان می‌دهد رادیکال‌سازی افکار در Reform UK در حال تشدید است",
+            "بیان او درباره نامزد سوسیالیست، به‌عنوان حمله‌ای به مهاجران شناخته می‌شود",
+            "این حرف‌ها می‌تواند باعث واکنش منفی عمومی و فشار رسانه‌ای بر حزب شود"
+        ],
+        "impact": "احتمال افزایش فشار عمومی بر Reform UK و کاهش حمایت‌های انتخاباتی",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/opinion/reform-uks-zia-yusuf-pulls-ladder-britains-immigrants",
+        "clean_url": "https://www.middleeasteye.net/opinion/reform-uks-zia-yusuf-pulls-ladder-britains-immigrants",
+        "image": "https://www.bing.com/th?id=ONUT.eWrqLzn2V1d_V0ihjde4VA",
+        "timestamp": 1788813679.833964
+    },
+    {
         "id": "1897dd0f3b",
         "title_fa": "تجمع اعتراضی کارگران نفت و بازنشستگان مخابرات در چند شهر",
         "title_en": "کارکنان نفت، بازنشستگان مخابرات و جویندگان کار در چند شهر ایران تجمع اعتراضی برگزار کردند",
@@ -5429,25 +5448,5 @@
         "clean_url": "https://government.economictimes.indiatimes.com/news/defence/us-strikes-irans-oil-tankers-as-the-middle-east-loses-its-path-to-ending-the-war/133824235",
         "image": "https://www.bing.com/th?id=ONUT.TowhxO7-ko4r2ScmqwfjDw",
         "timestamp": 1788665735.5999062
-    },
-    {
-        "id": "aee08177b3",
-        "title_fa": "ایران آماده حمله چند‌جبهه‌ای به اسرائیل",
-        "title_en": "Iran preparing coordinated multi-front attack on Israel - JPost",
-        "summary": [
-            "ادعای ژاپست مبنی بر برنامه‌ریزی حملهٔ همزمان ایران به اسرائیل، نشانگر تشدید گفتارهای تهدیدآمیز در خاورمیانه است",
-            "اگر این ادعاها صحت داشته باشند، اسرائیل و متحدانش احتمالاً واکنش نظامی یا دیپلماتیک قوی نشان می‌دهند",
-            "ایالات متحده ممکن است تحریم‌های جدیدی علیه نهادهای نظامی و مالی ایران اعمال کند",
-            "حکومت ایران هنوز پاسخی رسمی نداده؛ اما این روایت می‌تواند فشار داخلی و خارجی را افزایش دهد"
-        ],
-        "impact": "تشدید تنش‌های نظامی منطقه‌ای و احتمال اعمال تحریم‌های سخت‌گیرانه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iM2Q0YUIzZGtnRUp5ZWVmSUFzUlRDdGJfYkFacGt2aFdCd3BoX3JtVE1ScThTNWtGOHd6Qm15WWV4dHFEQmVQN3J3c08?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iM2Q0YUIzZGtnRUp5ZWVmSUFzUlRDdGJfYkFacGt2aFdCd3BoX3JtVE1ScThTNWtGOHd6Qm15WWV4dHFEQmVQN3J3c08",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788665688.0
     }
 ]
