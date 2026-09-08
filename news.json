@@ -1,5 +1,24 @@
 [
     {
+        "id": "01754cad4d",
+        "title_fa": "هشدار نتانیاهو پیش از حمله ۷ اکتبر",
+        "title_en": "Making sense of that big story saying Netanyahu was warned about Oct 7",
+        "summary": [
+            "روزنامهٔ هرتس منتشر کرد که نتانیاهو هفته‌ها پیش از ۷ اکتبر هشدارهای جدی دربارهٔ حملهٔ حماس دریافت کرده بود",
+            "این افشاگری می‌تواند فشار داخلی بر دولت اسرائیل را برای بازنگری در ارزیابی تهدیدها افزایش دهد",
+            "تحلیل‌گران می‌گویند این خبر ممکن است روابط بین‌المللی اسرائیل را تحت فشار بیشتری قرار دهد"
+        ],
+        "impact": "تقویت فشار سیاسی داخلی بر نتانیاهو و احتمال تغییر استراتژی امنیتی اسرائیل",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Talking Points Memo on MSN",
+        "url": "https://www.msn.com/en-us/news/other/making-sense-of-that-big-story-saying-netanyahu-was-warned-about-oct-7/ar-AA2bOWqL?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/making-sense-of-that-big-story-saying-netanyahu-was-warned-about-oct-7/ar-AA2bOWqL",
+        "image": "https://www.bing.com/th?id=ONUT.m7gV4Gq0Nm_vHJIC3O2mzQ",
+        "timestamp": 1788892914.3890831
+    },
+    {
         "id": "e5252bc296",
         "title_fa": "تحریم ایالات متحده بر ده‌ها شرکت هواپیمایی ایرانی",
         "title_en": "U.S. places sanctions on dozens of Iranian airlines as conflict escalates",
@@ -2754,6 +2773,25 @@
         "timestamp": 1788806940.0
     },
     {
+        "id": "25ae7248e2",
+        "title_fa": "حمله حوثی‌ها به عربستان؛ تهدید موشکی ایران",
+        "title_en": "Iran-backed Houthi rebels attack Saudi Arabia in major escalation that injures dozens",
+        "summary": [
+            "حملهٔ حوثی‌ها به عربستان باعث جرح ده‌ها نفر شد و تنش‌های خلیج را به اوج رساند",
+            "رئیس‌جمهور ایران، مسعود پزشکیان، مقاومت کامل در برابر آمریکا و تهدید به واکنش پیشگیرانه موشکی را اعلام کرد",
+            "ایران ادعا کرد موشک بالستیک جدیدی را آزمایش کرده و آماده استفاده در صورت تهدید شد"
+        ],
+        "impact": "افزایش خطر تدارکات نظامی در خلیج، احتمال واکنش نظامی گستردهٔ ایالات‑متحده یا عربستان",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-september-8",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-september-8",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/91a270a689548fb957878d7f4a0aec3a.jpg",
+        "timestamp": 1788806509.0
+    },
+    {
         "id": "94068dce18",
         "title_fa": "وزیر انرژی: معامله با ایران باید تا «دولت بعدی» صبر کرد",
         "title_en": "Energy Secretary: Deal With Iran May Have To Wait Until 'Next Administration'",
@@ -5401,44 +5439,5 @@
         "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-oil-gas-price-strikes",
         "image": "https://www.bing.com/th?id=ONUT.-QS9OJB5jRTYxi2nsQdQjg",
         "timestamp": 1788752573.0
-    },
-    {
-        "id": "766f010d33",
-        "title_fa": "دموکرات‌ها پیش‌نمایش «امواج آبی» پیش انتخابات میانی",
-        "title_en": "Democrats hoping to appear 'normal' as they roll out their blue wave of weirdos ahead of critical midterms",
-        "summary": [
-            "حزب دموکرات سعی می‌کند تصویر «نرمال» خود را پیش از انتخابات میانی نشان دهد.",
-            "کاندیداهای غیرمتعارف در فهرست انتخاباتی جای می‌گیرند و ممکن است رأی‌دهندگان میانه‌رو را دلسرد کنند.",
-            "استفاده از شعار «امواج آبی» برای جذب پایه حمایت‌کنندگان جوان هدف‌گذاری شده است.",
-            "اگر واکنش عمومی منفی باشد، می‌تواند تعادل کنگره را به نفع جمهوری‌خواهان تغییر دهد."
-        ],
-        "impact": "تغییر در نگرش رأی‌دهندگان می‌تواند نتایج انتخابات میانی و ترکیب کنگره را تحت تأثیر قرار دهد.",
-        "tag": "انتخابات",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/democrats-hoping-to-appear-normal-as-they-roll-out-their-blue-wave-of-weirdos-ahead-of-critical-midterms/ar-AA2bGYEt?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/democrats-hoping-to-appear-normal-as-they-roll-out-their-blue-wave-of-weirdos-ahead-of-critical-midterms/ar-AA2bGYEt",
-        "image": "https://www.bing.com/th?id=ONUT.RclpVRfclqurSvuwjApMAg",
-        "timestamp": 1788752284.8161783
-    },
-    {
-        "id": "fcb48f8069",
-        "title_fa": "سرقت ترسناک سگ؛ زنجیره‌ای از بخشش",
-        "title_en": "Terrifying dog theft sets off chain reaction of forgiveness and compassion",
-        "summary": [
-            "یک سگ در باغ‌وحش به‌سرعت دزدیده شد و واکنش‌های عجیبی در شبکه‌های اجتماعی به‌وجود آمد",
-            "به‌جای خشم، کاربران پیام‌های همدلی و بخشش منتشر کردند",
-            "این حادثه نشان داد که حتی در وقایع منفی، حس همدلی می‌تواند گسترش یابد"
-        ],
-        "impact": "تاثیر محدود؛ فقط بر احساسات عمومی و فضای آنلاین",
-        "tag": "اجتماعی",
-        "urgency": 1,
-        "sentiment": -0.1,
-        "source": "Zoo Land on MSN",
-        "url": "https://www.msn.com/en-us/news/other/terrifying-dog-theft-sets-off-chain-reaction-of-forgiveness-and-compassion/vi-AA2bxraC?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/terrifying-dog-theft-sets-off-chain-reaction-of-forgiveness-and-compassion/vi-AA2bxraC",
-        "image": "https://www.bing.com/th?id=ONUT.dlHPemyslYhQ2DWwrCJMHQ",
-        "timestamp": 1788752261.0
     }
 ]
