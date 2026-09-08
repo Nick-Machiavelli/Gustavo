@@ -2885,6 +2885,42 @@
         "timestamp": 1788824700.0
     },
     {
+        "id": "afcbc5a545",
+        "title_fa": "هاکابی: ترامپ ایران را بمباران و ورشکست می‌کند",
+        "title_en": "Mike Huckabee says Trump bombing, bankrupting Iran to protect US",
+        "summary": [
+            "هاکابی می‌گوید ترامپ حملات هوایی به ایران انجام داده و اقتصادش را به‌تدریج تخریب می‌کند.",
+            "او تأکید می‌کند تهدید اصلی ایران علیه آمریکا است و مردم باید از خستگی سیاسی بیدار شوند."
+        ],
+        "impact": "افزایش فشار نظامی و اقتصادی بر ایران، احتمال تشدید تحریم‌ها و تنش‌های منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/08/world-news/mike-huckabee-says-trump-bombing-bankrupting-iran-to-protect-us/",
+        "clean_url": "https://nypost.com/2026/09/08/world-news/mike-huckabee-says-trump-bombing-bankrupting-iran-to-protect-us",
+        "image": "https://www.bing.com/th?id=ONUT.tKUfUvmC-Vezr1oZ6kGqUg",
+        "timestamp": 1788824369.0
+    },
+    {
+        "id": "e819e185ff",
+        "title_fa": "پری و وزرای کار و مسکن به مرکز گودویل می‌روند",
+        "title_en": "Scott Perry, 2 U.S. cabinet secretaries visit local businesses",
+        "summary": [
+            "وزرای کار و مسکن همراه با اسکار پِری به مرکز توزیع گودویل در میدل‌تاون سر زدند.",
+            "بازدید نشانگر تمایل دولت به حمایت از کسب‌وکارهای محلی و ارتقای تصویر مثبت دولتی است."
+        ],
+        "impact": "تقویت روابط تجاری محلی و ارتقای تصویر دولت در سطح عمومی",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.5,
+        "source": "ABC27",
+        "url": "https://www.abc27.com/pennsylvania-politics/scott-perry-2-u-s-cabinet-secretaries-visit-local-businesses/",
+        "clean_url": "https://www.abc27.com/pennsylvania-politics/scott-perry-2-u-s-cabinet-secretaries-visit-local-businesses",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788824369.0
+    },
+    {
         "id": "824d709ccb",
         "title_fa": "ترامپ هزینه‌های جنگ ایران را کم‌اهمیت می‌داند",
         "title_en": "What Trump’s “small potatoes” remark about 18 deaths reveals",
@@ -5360,42 +5396,5 @@
         "clean_url": "https://www.foxnews.com/opinion/acting-secretary-labor-thank-american-worker",
         "image": "https://www.bing.com/th?id=ONUT.r66jWFDTM6fjcOPxvK0esw",
         "timestamp": 1788780265.2674887
-    },
-    {
-        "id": "6c3bb94b87",
-        "title_fa": "حمله حوثی‌ها به سایت‌های نفتی عربستان، ۷۳ زخمی",
-        "title_en": "Houthi strikes set fire to Saudi oil sites and wound 73, plus other key Mideast news",
-        "summary": [
-            "حوثی‌ها به چند پایگاه نفتی سعودی حمله کردند و آتش‌سوزی ایجاد کردند",
-            "۷۳ نفر، عمدتاً کارگران، در اثر انفجارها و سوزش‌ها زخمی شدند",
-            "حمله می‌تواند خروجی نفت سعودی را کاهش داده و نوسان قیمت جهانی را تشدید کند",
-            "این رخداد نشان از تشدید تنش‌های نظامی در خلیج فارس دارد"
-        ],
-        "impact": "کاهش تولید نفت سعودی و فشار بر بازارهای انرژی جهانی",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "SFGATE",
-        "url": "https://www.sfgate.com/news/article/houthi-strikes-set-fire-to-saudi-oil-sites-and-22421584.php",
-        "clean_url": "https://www.sfgate.com/news/article/houthi-strikes-set-fire-to-saudi-oil-sites-and-22421584.php",
-        "image": "https://www.bing.com/th?id=ONUT.rGmMuTTqVBeUUQxUELdAwg",
-        "timestamp": 1788780209.0
-    },
-    {
-        "id": "b5e6a2d0d0",
-        "title_fa": "خبر بین‌المللی — UK set به ban trade with illegal اسرائیلی settlements",
-        "title_en": "UK set to ban trade with illegal Israeli settlements",
-        "summary": [
-            "British Foreign Secretary Ed Miliband is expected to announce a ban on trade with illegal Israeli settlements on Tuesday."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/region/263542.html",
-        "clean_url": "https://www.azernews.az/region/263542.html",
-        "image": "https://www.azernews.az/media/2025/10/14/uk-flag_-svet-foto-900x600.png",
-        "timestamp": 1788779590.0
     }
 ]
