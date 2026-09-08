@@ -2631,6 +2631,25 @@
         "timestamp": 1788752640.0
     },
     {
+        "id": "7295437bc2",
+        "title_fa": "ایران منطقه‌ٔ ممنوعه در هرمز را اعلام می‌کند",
+        "title_en": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb",
+        "summary": [
+            "ایران قصد دارد ناحیه‌ای ممنوعه در اطراف تنگه هرمز ایجاد کند و عبور کشتی‌ها بدون اجازه را مسدود کند.",
+            "این اقدام می‌تواند فشار بر مسیرهای حمل‌ونقل نفت را افزایش دهد و قیمت نفت برنت را به بالاترین سطوح چند هفته اخیر برساند.",
+            "تهدید تلافی‌جویانه پس از حملهٔ آمریکا به سه تانکر ایرانی، خطر تشدید درگیری‌های دریایی را نشان می‌دهد."
+        ],
+        "impact": "قیمت نفت و گاز جهانی بالا می‌رود؛ ناوبری کشتی‌ها در هرمز با خطر مواجه می‌شود.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-oil-gas-price-strikes/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-oil-gas-price-strikes",
+        "image": "https://www.bing.com/th?id=ONUT.-QS9OJB5jRTYxi2nsQdQjg",
+        "timestamp": 1788752573.0
+    },
+    {
         "id": "766f010d33",
         "title_fa": "دموکرات‌ها پیش‌نمایش «امواج آبی» پیش انتخابات میانی",
         "title_en": "Democrats hoping to appear 'normal' as they roll out their blue wave of weirdos ahead of critical midterms",
@@ -5434,24 +5453,5 @@
         "clean_url": "https://www.khaama.com/irans-foreign-minister-holds-talks-with-turkish-saudi-counterparts",
         "image": "https://www.khaama.com/wp-content/uploads/2026/09/Iran-and-Suadi-arabia-Turkish-Fms.webp",
         "timestamp": 1788688140.0
-    },
-    {
-        "id": "3c976d0084",
-        "title_fa": "تهدید تلافی دردناک ایران پس از حمله به تانکرهای نفتی",
-        "title_en": "Iran threatens \"more painful\" retaliation after U.S. strikes Iranian oil tankers",
-        "summary": [
-            "ایران پس از غیرفعال‌سازی سه تانکر توسط نیروی‌دریایی آمریکا، واکنش تندتر و شدیدتری را وعده داد.",
-            "گفتار نماینده مجلس نشان‌دهنده احتمال استفاده از موشک‌های بالستیک یا حملات نیابتی علیه ناوگان آمریکایی است.",
-            "افزایش تنش می‌تواند فشار بر کشتی‌های تجاری در خلیج فارس را بالا برده و مسیرهای انرژی را مختل کند."
-        ],
-        "impact": "ممکن است تنش‌های خلیج فارس به درگیری گسترده‌تر تبدیل شود و مسیرهای نفتی خطرناک شوند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html?bcmt=1",
-        "clean_url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/c08cd2c4a3041391bf8fa99badc99ac939b3fc2ebfa126f437895121017c4634/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/f01e9dfb73ab05e949937e4779eaa2df.jpg",
-        "timestamp": 1788687960.0
     }
 ]
