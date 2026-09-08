@@ -2527,6 +2527,26 @@
         "timestamp": 1788780265.2674887
     },
     {
+        "id": "6c3bb94b87",
+        "title_fa": "حمله حوثی‌ها به سایت‌های نفتی عربستان، ۷۳ زخمی",
+        "title_en": "Houthi strikes set fire to Saudi oil sites and wound 73, plus other key Mideast news",
+        "summary": [
+            "حوثی‌ها به چند پایگاه نفتی سعودی حمله کردند و آتش‌سوزی ایجاد کردند",
+            "۷۳ نفر، عمدتاً کارگران، در اثر انفجارها و سوزش‌ها زخمی شدند",
+            "حمله می‌تواند خروجی نفت سعودی را کاهش داده و نوسان قیمت جهانی را تشدید کند",
+            "این رخداد نشان از تشدید تنش‌های نظامی در خلیج فارس دارد"
+        ],
+        "impact": "کاهش تولید نفت سعودی و فشار بر بازارهای انرژی جهانی",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "SFGATE",
+        "url": "https://www.sfgate.com/news/article/houthi-strikes-set-fire-to-saudi-oil-sites-and-22421584.php",
+        "clean_url": "https://www.sfgate.com/news/article/houthi-strikes-set-fire-to-saudi-oil-sites-and-22421584.php",
+        "image": "https://www.bing.com/th?id=ONUT.rGmMuTTqVBeUUQxUELdAwg",
+        "timestamp": 1788780209.0
+    },
+    {
         "id": "b5e6a2d0d0",
         "title_fa": "خبر بین‌المللی — UK set به ban trade with illegal اسرائیلی settlements",
         "title_en": "UK set to ban trade with illegal Israeli settlements",
@@ -5429,22 +5449,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEgwa2ZtcDltWEhUUExFSjljRC1QaTNFMVRjOTNBay1WZ2M1M1pRb25PRVBJa09HM2Ztb3lRZjdxcnRsQUNVbV9DSzVGWXhjR2IzMldISnhjZHF2VlFSTXdwUHl5bTB2dUtnZG5jclNjWUw3VVN4TVVUTXRjQ1Axa2FPeW04ZWdqSUdyMGNCTE9Temc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788710760.0
-    },
-    {
-        "id": "807c31aecf",
-        "title_fa": "پایان معاملات آتی نفت خام درهم آمیخته با پایانی برای درگیری آمریکا و ایران",
-        "title_en": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict",
-        "summary": [
-            "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict WSJ"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788710622.0
     }
 ]
