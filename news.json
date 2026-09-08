@@ -1,5 +1,25 @@
 [
     {
+        "id": "ab4dfa5f7b",
+        "title_fa": "قمة SCO در بیشکک: تقویت جهان چندقطبی",
+        "title_en": "Bishkek SCO summit: multipolar Eurasia takes shape",
+        "summary": [
+            "۲۶مین اجلاس SCO به مناسبت ۲۵ سالگی سازمان برگزار شد و به تقویت نظام چندقطبی جهانی پرداخته شد.",
+            "رهبری چین، روسیه، هند، پاکستان، ایران و دیگر کشورهای عضو بر امنیت منطقه‌ای و یکپارچگی اقتصادی تأکید کردند.",
+            "انتقال ریاست دوره‌ای به پاکستان برای سال ۲۰۲۷ نقش جنوب آسیا را در جغرافیای اوراسیا تقویت می‌کند.",
+            "رقابت‌های داخلی بین اعضا همچنان چالش‌ساز است اما چارچوب کلی همکاری حفظ شده است."
+        ],
+        "impact": "تقویت هم‌پوشانی استراتژیک شرق‑غرب و کاهش فشار غرب بر کشورهای آسیای میانه.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Business Recorder",
+        "url": "https://www.brecorder.com/news/40438484/bishkek-sco-summit-multipolar-eurasia-takes-shape",
+        "clean_url": "https://www.brecorder.com/news/40438484/bishkek-sco-summit-multipolar-eurasia-takes-shape",
+        "image": "https://www.bing.com/th?id=ONUT.DzceMSE60seVluqx_wcw2Q",
+        "timestamp": 1788876953.1639788
+    },
+    {
         "id": "9ebc612af3",
         "title_fa": "کارلسن علیه ترامپ؛ هانسون هشدار بزرگ‌ترین اشتباه",
         "title_en": "Tucker Carlson turned against Trump, Victor Davis Hanson says he's about to make the worst mistake of his career",
@@ -50,6 +70,26 @@
         "clean_url": "https://www.foxnews.com/politics/fox-news-power-rankings-whats-economy",
         "image": "https://www.bing.com/th?id=ONUT.xO6emMCo1ggjlcoeRjM-6Q",
         "timestamp": 1788873335.6036527
+    },
+    {
+        "id": "807c31aecf",
+        "title_fa": "قیمت نفت در انتظار پایان مناقشه آمریکا‑ایران",
+        "title_en": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict",
+        "summary": [
+            "آتی‌فیوچ‌های نفت با نوسان ترکیبی بسته شدند؛ عدم قطعیت مناقشه آمریکا‑ایران عامل اصلی است.",
+            "بازارها انتظار دارند تا زمانی که تنش‌ها حل نشود، نوسان قیمت ادامه یابد.",
+            "نگرانی از اختلال در تأمین نفت خلیج فارس فشار خرید را افزایش می‌دهد.",
+            "تحلیل‌گران پیش‌بینی می‌کنند نوسان قیمت در کوتاه‌مدت پابرجا بماند."
+        ],
+        "impact": "نوسان شدید قیمت نفت، فشار بر هزینه‌های انرژی جهانی و ریسک تورم در اقتصادهای واردکننده.",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788873232.0
     },
     {
         "id": "a82bd03670",
@@ -805,6 +845,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHBmYzdQM0diZVpnUkxnU0RpaDFsdnZDdXk0QWJnZHhfbW5WSmdQNTZxUmVyRUVUY19oVnpIbWRLNUEwWjQtV0p4aXFhdXlaZ3MzUi1zWHZEbUgweGdkMEZRb0tZUXp4ZzlkYXdYMzdWRFZHUngzVWY0Y29jdEhkRUFUbF9DQUZMcWREWGRXWTJoMDctRXRvT1M2R25YT3c3TUJYYjFKUmVHSUI4Z1l0Xw",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788850496.0
+    },
+    {
+        "id": "10222e3911",
+        "title_fa": "تهدید موشکی ایران به ناوهای آمریکایی",
+        "title_en": "Iran war: Tehran’s assertive rhetoric signals a new and dangerous phase in conflict",
+        "summary": [
+            "ایران ادعا می‌کند موشک جامد‌سوخت قاسم بصیر می‌تواند پیش از وقوع تهدید هدف‌گیری کند.",
+            "واشنگتن می‌گوید ناوهای خود را از حمله دور نگه داشته اما نمی‌تواند تأیید کند موشک جدید به کار رفته است.",
+            "سخنرانی‌های تند ایران نشان می‌دهد استراتژی از واکنش‌پذیری به پیش‌دستی تغییر یافته است.",
+            "اگر این تهدید عملی شود، خطر برخورد مستقیم نظامی در خلیج هرمز به شدت افزایش می‌یابد."
+        ],
+        "impact": "افزایش خطر برخورد مستقیم نیروی دریایی آمریکا با ایران و تشدید تحریم‌های اقتصادی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Conversation",
+        "url": "https://theconversation.com/iran-war-tehrans-assertive-rhetoric-signals-a-new-and-dangerous-phase-in-conflict-291478",
+        "clean_url": "https://theconversation.com/iran-war-tehrans-assertive-rhetoric-signals-a-new-and-dangerous-phase-in-conflict-291478",
+        "image": "http://www.bing.com/th?id=ONUT.jGF6xmGR-1BP_OlTSX97gg&pid=News",
+        "timestamp": 1788850080.0
     },
     {
         "id": "02320f0e9a",
@@ -5401,61 +5461,5 @@
         "clean_url": "https://tradersunion.com/news/geopolitics-trade/show/3255271-uk-us-leaders-economy-ukraine-mideast-call",
         "image": "https://www.bing.com/th?id=ONUT.1bZtmPJ6jdMcxUdDS1jh-Q",
         "timestamp": 1788722506.0
-    },
-    {
-        "id": "9a9260e075",
-        "title_fa": "خبر بین‌المللی — نتانیاهو orders West Bank outposts به be removed amid US pre",
-        "title_en": "Netanyahu orders West Bank outposts to be removed amid US pressure, sources tell Reuters",
-        "summary": [
-            "The post Netanyahu orders West Bank outposts to be removed amid US pressure, sources tell Reuters appeared first on The Times of Israel."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/politics/government/netanyahu-orders-west-bank-outposts-to-be-removed-amid-us-pressure-sources-tell-reuters/ar-AA2bFUVA",
-        "clean_url": "https://www.msn.com/en-us/politics/government/netanyahu-orders-west-bank-outposts-to-be-removed-amid-us-pressure-sources-tell-reuters/ar-AA2bFUVA",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AFP__20260520__B3FD34L__v1__HighRes__PalestinianIsraelConflictWestBank.jpg",
-        "timestamp": 1788721920.0
-    },
-    {
-        "id": "f764b3dbee",
-        "title_fa": "تشدید جنگ آمریکا‑ایران در خلیج‌فارس",
-        "title_en": "Bogged down: On the U.S.-Iran conflict escalation",
-        "summary": [
-            "ایران کشتی‌های جنگی آمریکا را در مجاورت تنگه‌هرمز هدف قرار داد و آمریکا سه تانکر نفتی ایرانی را در خلیج مورد حمله قرار داد.",
-            "پس از سقوط توافق‌نامهٔ اسلام‌آباد، هر دو طرف به حملات تلافی‌جویانه ادامه دادند؛ آمریکا از تحریم‌های اقتصادی به حملات هوایی بازگشت.",
-            "ایران مسیر جنوب خلیج را که آمریکا برای عبور تانکرها استفاده می‌کرد هدف گرفت و سپس به پایگاه‌های آمریکایی در کویت، بحرین و اردن حمله کرد.",
-            "این چرخهٔ تلافی‑تلافی خطر گسترش درگیری به کشورهای همسایه و اختلال شدید در حمل و نقل نفت را افزایش می‌دهد."
-        ],
-        "impact": "افزایش خطر جنگ منطقه‌ای و اختلال در مسیرهای نفتی خلیج‌فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/opinion/editorial/bogged-down-on-the-us-iran-conflict-escalation/article71435336.ece",
-        "clean_url": "https://www.thehindu.com/opinion/editorial/bogged-down-on-the-us-iran-conflict-escalation/article71435336.ece",
-        "image": "https://www.thehindu.com/theme/images/og-image.png",
-        "timestamp": 1788721853.0829737
-    },
-    {
-        "id": "c803b60b89",
-        "title_fa": "کوشنر: انتخابات اسرائیل پیشرفت غزه را به تاخیر می‌اندازد",
-        "title_en": "U.S. envoy Jared Kushner attributes the lack of progress on Gaza to upcoming Israeli elections: \"Makes them a little irrational\"",
-        "summary": [
-            "کوشنر گفت انتخابات اکتبر در اسرائیل باعث بی‌ثباتی تصمیم‌گیری درباره غزه شده است.",
-            "این اظهارات نشان می‌دهد فشار داخلی اسرائیل می‌تواند مسیر مذاکرات بازسازی را تغییر دهد.",
-            "تاخیر در طرح بازسازی غزه می‌تواند ریسک گسترش ناآرامی‌ها را در منطقه افزایش دهد."
-        ],
-        "impact": "تاخیر در بازسازی غزه و تشدید تنش‌های منطقه‌ای",
-        "tag": "سیاست خارجی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/jared-kushner-gaza-peace-deal-israel-elections/",
-        "clean_url": "https://www.cbsnews.com/news/jared-kushner-gaza-peace-deal-israel-elections",
-        "image": "https://www.bing.com/th?id=ONUT.FHaZytLMEmnmxEkCiX8xGQ",
-        "timestamp": 1788721352.0
     }
 ]
