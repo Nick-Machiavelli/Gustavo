@@ -1,5 +1,45 @@
 [
     {
+        "id": "68be9f8297",
+        "title_fa": "کاندیدای غیرشهروندی برای نیروی پلیس دانبری مورد انتقاد",
+        "title_en": "Candace Fay blasts Danbury's decision to allow non-citizens to apply for police force",
+        "summary": [
+            "کاندیدای شهروندی‌غیرآمریکایی می‌تواند برای پلیس دانبری درخواست بدهد",
+            "کاندیدا فای به خطرات امنیتی، بررسی پیشینه و هماهنگی با ICE اشاره کرد",
+            "این تصمیم باعث بحث‌های سیاسی محلی درباره مهاجرت و امنیت عمومی شد",
+            "هنوز هیچ تغییر رسمی در قوانین استخدام پلیس اعمال نشده"
+        ],
+        "impact": "بحث عمومی درباره پذیرش مهاجران در نیروی پلیس افزایش می‌یابد و ممکن است سیاست‌های استخدام را تحت تأثیر قرار دهد",
+        "tag": "مهاجرت",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/video/6404754465112",
+        "clean_url": "https://www.foxnews.com/video/6404754465112",
+        "image": "https://www.bing.com/th?id=ONUT.2mG4coyDMJR1stYvFt_NwA",
+        "timestamp": 1788865409.3780396
+    },
+    {
+        "id": "def8a5810d",
+        "title_fa": "انگلستان تحریم‌های جدید علیه ایران به دلیل برنامه هسته‌ای",
+        "title_en": "UK expands Iran sanctions over nuclear program and hostile activity",
+        "summary": [
+            "انگلستان تحریم‌های جدیدی علیه شرکت‌ها و افراد مرتبط با برنامه هسته‌ای ایران اعمال کرد",
+            "تحریم‌ها شامل ممنوعیت دسترسی به بازار مالی بریتانیا و مسدودسازی اموال هستند",
+            "این اقدام پس از گزارش‌های جدید درباره فعالیت‌های مخرب ایران در منطقه انجام شد",
+            "تحریم‌ها فشار اقتصادی بر ایران را افزایشی می‌کند و روابط دیپلماتیک را تنش‌زا می‌سازد"
+        ],
+        "impact": "تحریم‌های جدید فشار مالی بر ایران را تشدید می‌کند و مسیر مذاکرات هسته‌ای را دشوارتر می‌سازد",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5icTZsdzdhaFdxRlVsai1lVkF3dnF0cjNhSmNJOVdqYldmTVdQMVdiN0R3T0dHaldrUEZ4ODFFOFlETy1BemFYMFVQNnVOVUFvX0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5icTZsdzdhaFdxRlVsai1lVkF3dnF0cjNhSmNJOVdqYldmTVdQMVdiN0R3T0dHaldrUEZ4ODFFOFlETy1BemFYMFVQNnVOVUFvX0E",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788865014.0
+    },
+    {
         "id": "f5d6fbeb24",
         "title_fa": "ترامپ نمی‌بیند که اسرائیلی‌ها او را در ایران بازی می‌کنند | نامه‌ها",
         "title_en": "Trump doesn't see he's been played by the Israelis in Iran | Letters",
@@ -1748,6 +1788,26 @@
         "timestamp": 1788801765.7532184
     },
     {
+        "id": "d2cf55a2ef",
+        "title_fa": "تهدید ایران به هدف‌گیری دارایی‌های انرژی آمریکا در خلیج",
+        "title_en": "Iran Threatens to Target U.S. Energy Assets in Gulf If U.S. Strikes Again",
+        "summary": [
+            "گوینده مجلس ایران، محمدباقر قالیباف، گفت هر حمله آمریکا به کشتی‌های ایرانی، منجر به هدف‌گیری نفت‌کش‌های آمریکایی می‌شود",
+            "این تهدید پس از هشدار وزیر دفاع آمریکا درباره نابودی تانکرهای ایرانی صادر شد",
+            "اعلام این پیام در زمان فشار اقتصادی و مذاکرات متوقف شده درباره جنگ اوکراین-ایران است",
+            "اگر آمریکا به حمله ادامه دهد، خطر تشدید درگیری نظامی در خلیج فارس بالا می‌رود"
+        ],
+        "impact": "احتمال هدف‌گیری تانکرهای آمریکایی و تشدید تنش‌های نظامی در خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/09/08/iran-us-war-strait-of-hormuz-gulf-targets/",
+        "clean_url": "https://time.com/article/2026/09/08/iran-us-war-strait-of-hormuz-gulf-targets",
+        "image": "http://www.bing.com/th?id=ONUT.V1al3UmPbEKQjD8sF5xXJg&pid=News",
+        "timestamp": 1788800400.0
+    },
+    {
         "id": "c3d2547853",
         "title_fa": "منابع می‌گویند که برنامه هسته‌ای ایران به شدت آسیب دیده است، اما خطر همچنان ادامه دارد",
         "title_en": "Iran’s nuclear program is badly damaged, but danger persists, sources say",
@@ -2465,6 +2525,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWE9EVm91WFdPZksyQ1B1Zm1feVB1SnRXOEtLTmdKN0NjTVlVVTd6cm54c2ZUYnFJMTF4azVFRm10YXVJRGxmQk1qVzh1VG9DMWJvQ204b1dISU1PVUd6Y3RqeGM3ek0yRGVSZUVaWkFOWU5FTHJ3aF9xVWw3MFpnQUVvTVRtcy1UTDc40gGQAUFVX3lxTE1kX180cXV3OTMyUFpxWHBHWmZGTjByN2M3M3JUQ0llTjRFYVdVVDJjMGVrZUYxNU5iTDFMTUhZUkhMaGt0dUF4WU04Rnh3WnVqOGYxVFNOaFhWT0pkdVRDRTVES0Q0YjRvcExFWURpUXZ2WVYxekQ4SWxJbEdZYXZ5c2FmSExNN2F0clYyZTRyRw",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788779025.0
+    },
+    {
+        "id": "62215b3b11",
+        "title_fa": "۱۵ مرد هندی‌تبار در کانادا به اتهام اخاذی دستگیر شدند",
+        "title_en": "15 Indian-origin men charged in Canada extortion probe; police release photos",
+        "summary": [
+            "پلیس کلگری ۱۵ مرد هندی‌تبار را به ۵۶ جرم مختلف از جمله اخاذی و تیراندازی متهم کرد",
+            "همه متهمان با ویزای دانشجویی یا کاری در کانادا بوده‌اند و شهروند کانادا نیستند",
+            "تنها یک نفر در بازداشت باقی مانده، بقیه با ضمانت آزاد شدند",
+            "این پرونده بخشی از یک تحقیق گسترده‌تر درباره ۴۹ حادثه اخاذی در جامعه جنوب آسیایی شهر است"
+        ],
+        "impact": "اعضای جامعه جنوب آسیایی تحت فشار قانونی قرار می‌گیرند و پلیس کانادا تصویر امنیتی خود را تقویت می‌کند",
+        "tag": "جرم",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/15-indian-origin-men-charged-in-canada-extortion-probe-police-release-photos/articleshow/133918333.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/rest-of-world/15-indian-origin-men-charged-in-canada-extortion-probe-police-release-photos/articleshow/133918333.cms",
+        "image": "https://www.bing.com/th?id=ONUT.iQ3cF2HiU5HF4qo0jdc2lg",
+        "timestamp": 1788779002.0
     },
     {
         "id": "05b3183897",
@@ -5369,73 +5449,5 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/uae-is-building-alternative-trade-routes-to-bypass-strait-of-hormuz-amid-us-iran-war-article-156103977",
         "image": "https://www.bing.com/th?id=ONUT.Y83ZNXfSuyxABaGaBepSng",
         "timestamp": 1788709821.0
-    },
-    {
-        "id": "970fa7860f",
-        "title_fa": "فرماندار نیومکزیکو پست «آمریکای جدید» ترامپ را پاره کرد و گفت که نام آن «قابل بحث نیست»",
-        "title_en": "New Mexico governor rips Trump’s ‘New America’ post, says name ‘isn’t up for debate’",
-        "summary": [
-            "New Mexico Gov. Michelle Lujan Grisham (D) slammed President Trump’s recent posts where he said renaming her state as “New..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NewsNation",
-        "url": "https://www.newsnationnow.com/politics/trump-new-mexico-new-america/",
-        "clean_url": "https://www.newsnationnow.com/politics/trump-new-mexico-new-america",
-        "image": "https://www.bing.com/th?id=ONUT.Fzh0zI9vnNYeHHLWizzLjw",
-        "timestamp": 1788709820.0
-    },
-    {
-        "id": "265d5a4f1d",
-        "title_fa": "ترامپ روی خود به عنوان ناجی میان دوره ای شرط بندی می‌کند. آیا «ترومپاپالوزا» نتیجه معکوس خواهد داشت؟",
-        "title_en": "Trump bets on himself as midterm savior. Will 'Trumpapalooza' backfire?",
-        "summary": [
-            "Trump is putting himself center stage in the midterms with a Dallas convention, even as his low approval rating threatens to drag down GOP candidates."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-bets-on-himself-as-midterm-savior-will-trumpapalooza-backfire/ar-AA2bEELG?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-bets-on-himself-as-midterm-savior-will-trumpapalooza-backfire/ar-AA2bEELG",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788709820.0
-    },
-    {
-        "id": "c0ba31959a",
-        "title_fa": "2 آپارتمان لندن در نزدیکی سفارت رژیم صهیونیستی که گمان می‌رود متعلق به خامنه ای باشد به فروش می‌رسد",
-        "title_en": "2 London apartments near Israeli embassy thought to be owned by Khamenei go up for sale",
-        "summary": [
-            "Properties reportedly put up for sale when Iranian banker Ali Ansari, believed to be supreme leader's frontman, defaults on mortgages after being sanctioned by UK and US The post 2 London apartments near Israeli embassy thought to be owned by Khamenei go up for sale appeared first on The Times of Israel."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/news/other/2-london-apartments-near-israeli-embassy-thought-to-be-owned-by-khamenei-go-up-for-sale/ar-AA2bG2vg",
-        "clean_url": "https://www.msn.com/en-us/news/other/2-london-apartments-near-israeli-embassy-thought-to-be-owned-by-khamenei-go-up-for-sale/ar-AA2bG2vg",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/DUAL-7.jpeg",
-        "timestamp": 1788708575.0
-    },
-    {
-        "id": "310c72b562",
-        "title_fa": "خبر بین‌المللی — ایران focuses در economic problems, but warns 'more painful",
-        "title_en": "Iran focuses on economic problems, but warns of 'more painful' response if attacked",
-        "summary": [
-            "Tehran announces 'Economic War Headquarters,' as US sanctions bite; Iran's oil minister says Kharg Island hit 550 times in recent months, as CENTCOM strikes ship off its coast"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/iran-focuses-on-economic-problems-but-warns-of-more-painful-response-if-attacked/",
-        "clean_url": "https://www.timesofisrael.com/iran-focuses-on-economic-problems-but-warns-of-more-painful-response-if-attacked",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26247222738586.jpg",
-        "timestamp": 1788708540.0
     }
 ]
