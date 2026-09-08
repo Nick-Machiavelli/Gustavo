@@ -1,5 +1,24 @@
 [
     {
+        "id": "b331b64320",
+        "title_fa": "ترامپ نقشه‌اش را از تسخیر قاره نشان داد",
+        "title_en": "'This is not normal': Trump shares map depicting the US having conquered an entire continent",
+        "summary": [
+            "ترامپ نقشه‌ای منتشر کرد که ادعا می‌کند ایالات متحده تمام قاره را به‌دست آورده است.",
+            "این تصویر هیچ‌گونه پایهٔ واقعی ندارد و صرفاً یک ادعای توهین‌آمیز است.",
+            "انتشار چنین شایعه‌ای می‌تواند به‌سرعت در فضای مجازی پخش شود و به‌سوء‌استفاده از اعتبار رهبری منجر شود."
+        ],
+        "impact": "افزایش شایعات می‌کاهد اعتماد داخلی به رهبری",
+        "tag": "اطلاعات نادرست",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "Indy100 on MSN",
+        "url": "https://www.msn.com/en-gb/politics/government/this-is-not-normal-trump-shares-map-depicting-the-us-having-conquered-an-entire-continent/ar-AA2bObDv?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/politics/government/this-is-not-normal-trump-shares-map-depicting-the-us-having-conquered-an-entire-continent/ar-AA2bObDv",
+        "image": "https://www.bing.com/th?id=ONUT.vvAYV-IHA0YoEtgi0D7ZLg",
+        "timestamp": 1788878648.881116
+    },
+    {
         "id": "0fad08f9b9",
         "title_fa": "چگونه آخرین تحریم‌های ایران می‌تواند آسیای مرکزی را تحت تاثیر قرار دهد",
         "title_en": "How the latest Iran sanctions could impact Central Asia",
@@ -1413,6 +1432,25 @@
         "timestamp": 1788826011.0
     },
     {
+        "id": "07dd5309ca",
+        "title_fa": "ایران هنوز برنده جنگ نیست",
+        "title_en": "Iran Is Not Even Close to Winning the War",
+        "summary": [
+            "تحلیلگران می‌گویند ایالات متحده نتوانسته جنگ را به‌سرعت به‌پایان برساند.",
+            "ایران همچنان توانایی پرتاب موشک و پهپادهای محدود را دارد.",
+            "فشارهای سیاسی داخلی آمریکا، به‌ویژه انتخابات میانی، بر روایت‌های پیروزی تأثیر گذاشته‌اند."
+        ],
+        "impact": "ادامه تنش‌های نظامی باعث تداوم تحریم‌ها و هزینه‌های اقتصادی می‌شود",
+        "tag": "تحلیل",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/opinion/iran-is-not-even-close-to-winning-the-war-6081826",
+        "clean_url": "https://www.theepochtimes.com/opinion/iran-is-not-even-close-to-winning-the-war-6081826",
+        "image": "https://img.theepochtimes.com/assets/uploads/2026/09/05/id6083993-GettyImages-2264902029-vs-1080x720.jpg",
+        "timestamp": 1788825600.0
+    },
+    {
         "id": "f449af650c",
         "title_fa": "ایران عدم تقارن را معکوس می‌کند",
         "title_en": "Iran Reverses the Asymmetry",
@@ -2466,6 +2504,25 @@
         "clean_url": "https://www.newsday.com/news/nation/mideast-iran-us-hormuz-lebanon-israel-d12007",
         "image": "https://cdn.newsday.com/ace/c:ZjA4YmJmODgtYmE2Zi00:OGY4YzMzY2UtZDA3YS00/landscape/1280",
         "timestamp": 1788792300.0
+    },
+    {
+        "id": "d5ec9cc9b5",
+        "title_fa": "کمانده بسج در راسک کشته شد",
+        "title_en": "IRGC-affiliated Basij commander killed in attack in Iran",
+        "summary": [
+            "یک فرماندهٔ بسیج در راسک، استان سیستان و بلوچستان، توسط افراد مسلح کشته شد.",
+            "هویت قاتلان هنوز مشخص نیست؛ نیروهای امنیتی در پی شناسایی آن‌ها هستند.",
+            "منطقه مرزی با گروه‌های مسلحی چون جیش‌العدل همواره تحت فشار است."
+        ],
+        "impact": "تشدید عملیات امنیتی در مرزهای شرقی و احتمال تلفات بیشتر",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "Roya News English",
+        "url": "https://en.royanews.tv/news/73461/IRGC-affiliated-Basij-commander-killed-in-attack-in-Iran",
+        "clean_url": "https://en.royanews.tv/news/73461/IRGC-affiliated-Basij-commander-killed-in-attack-in-Iran",
+        "image": "https://www.bing.com/th?id=ONUT.sErjD10I29rvtYdij4TF6A",
+        "timestamp": 1788792243.0
     },
     {
         "id": "d57b06d6d9",
@@ -5400,63 +5457,5 @@
         "clean_url": "https://www.europesays.com/3236860",
         "image": "https://www.bing.com/th?id=ONUT.E8cuvPtwbEfqrQvSXY5G3g",
         "timestamp": 1788726909.577244
-    },
-    {
-        "id": "faae6ab756",
-        "title_fa": "اولین زن در فهرست حزبی حریدی برای کنیست",
-        "title_en": "Haredi Public party reveals first woman in Israel's history running for Knesset with a haredi party",
-        "summary": [
-            "حضور دکتر نچومی یافه اولین زن در حزب حریدی است و نشانگر تغییرات اجتماعی در جامعهٔ ارتدکس می‌شود",
-            "لیست او می‌تواند حمایت‌های مذهبی را جذب کند و به مرزهای جنسیتی در سیاست فشار بدهد",
-            "این حرکت احتمالاً واکنش‌های مخالفان حریدی را برانگیخته و رقابت‌های انتخاباتی را پیچیده می‌کند",
-            "اگر حزب به آستانهٔ عبور از ۳٫۲۵٪ برسد، حضور او نقش کلیدی در تشکیل ائتلاف‌ها خواهد داشت"
-        ],
-        "impact": "تقویت ترکیب حمایت‌های مذهبی و زنان‌ساز در کنیست و امکان تغییر تعادل قدرت",
-        "tag": "انتخابات",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/israel-election-2026/article-907867",
-        "clean_url": "https://www.jpost.com/israel-election-2026/article-907867",
-        "image": "https://www.bing.com/th?id=ONUT.9ZJ5zk3DS9mlKVjSwhGOcQ",
-        "timestamp": 1788726206.0
-    },
-    {
-        "id": "0909cf12d0",
-        "title_fa": "ایده روبین برای صومالی‌لند؛ جبهه‌ای نو در منازعه قهرمانان",
-        "title_en": "Michael Rubin’s Somaliland idea looks like a new front in an old war",
-        "summary": [
-            "مایکل روبین، پژوهشگر AEI، پیشنهاد ساختن «صومالی‌لند» برای حل مناقشه آذربایجان‑ارمنستان را مطرح کرد",
-            "نقش گروه‌های لابی خارجی در شکل‌گیری این طرح می‌تواند مانع تثبیت صلح شود",
-            "اگر طرح اجرا شود، ممکن است توازن قدرت در قفقاز به‌طور غیرمنتظره‌ای تغییر کند"
-        ],
-        "impact": "ایجاد فشار جدید بر مذاکرات صلح و احتمال بروز تنش‌های جدید",
-        "tag": "دیپلماتیک",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/analysis/263484.html",
-        "clean_url": "https://www.azernews.az/analysis/263484.html",
-        "image": "https://www.bing.com/th?id=ONUT.nQszkbLMFSLxpcjL9Xs3rw",
-        "timestamp": 1788726149.9003377
-    },
-    {
-        "id": "77a0c97b2d",
-        "title_fa": "حذف گافنی از فهرست حددلات هاردی اسرائیل",
-        "title_en": "Gafni’s ouster marks a changing era for Israel’s haredi parties - and for Netanyahu",
-        "summary": [
-            "مسئولان حددلات هاردی موشنی گافنی را پس از ۳۸ سال حضور در کنیست حذف کردند",
-            "این تصمیم نشان می‌دهد که قدرت داخل احزاب هاردی در حال جابجایی است و فشار بر نتانیاهو افزایش یافته",
-            "حذف ممکن است باعث بازنگری در استراتژی‌های سیاسی نتانیاهو شود"
-        ],
-        "impact": "تضعیف پایه حمایت حددلات هاردی از دولت نتانیاهو",
-        "tag": "سیاست داخلی",
-        "urgency": 3,
-        "sentiment": -0.1,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/israel-election-2026/article-907743",
-        "clean_url": "https://www.jpost.com/israel-election-2026/article-907743",
-        "image": "https://www.bing.com/th?id=ONUT.549Oh2wgjWKMLMSuHUQOmQ",
-        "timestamp": 1788726149.900144
     }
 ]
