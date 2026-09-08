@@ -1,5 +1,41 @@
 [
     {
+        "id": "fd23d46602",
+        "title_fa": "ترامپ به فدرال رزرو دستور کاهش نرخ بهره داد",
+        "title_en": "Readers sound off on interest rates, fall activities and Stacy Keach",
+        "summary": [
+            "تهدید ترامپ به کاهش نرخ بهره نشان‌دهنده فشار سیاسی بر استقلال بانک مرکزی است",
+            "پاسخ فدرال رزرو به این فشار می‌تواند تورم و ارزش دلار را تحت فشار شدید قرار دهد"
+        ],
+        "impact": "کاهش نرخ بهره می‌تواند تورم را تشدید و ارزش دلار را تضعیف کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "New York Daily News",
+        "url": "https://www.nydailynews.com/2026/09/08/readers-sound-off-on-interest-rates-fall-activities-and-stacy-keach/",
+        "clean_url": "https://www.nydailynews.com/2026/09/08/readers-sound-off-on-interest-rates-fall-activities-and-stacy-keach",
+        "image": "https://www.bing.com/th?id=ONUT.2AQrftpk8y-QoMsHQaqZbw",
+        "timestamp": 1788858851.84575
+    },
+    {
+        "id": "038a43a40b",
+        "title_fa": "ایران تهدید به پاسخ تلافی‌جویانه علیه حملات آمریکا کرد",
+        "title_en": "Iran vows to retaliate if US attacks its assets",
+        "summary": [
+            "سخن قلی‌باف نشان می‌دهد ایران آماده حملات به زیرساخت‌های انرژی آمریکا در خلیج فارس است",
+            "این تهدید خطر تصعید نظامی و نوسان شدید قیمت نفت را افزایش می‌دهد"
+        ],
+        "impact": "تهدید تلافی می‌تواند مسیر جنگ‌محور را باز کند و بازار انرژی را به‌نوسان بیندازد",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Arkansas Democrat-Gazette",
+        "url": "https://www.arkansasonline.com/news/2026/sep/08/iran-vows-to-retaliate-if-us-attacks-its-assets/",
+        "clean_url": "https://www.arkansasonline.com/news/2026/sep/08/iran-vows-to-retaliate-if-us-attacks-its-assets",
+        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+        "timestamp": 1788858000.0
+    },
+    {
         "id": "53381e16cd",
         "title_fa": "دونالد ترامپ در نقش فانوس سبز؟ چرا دولت ترامپ باید استفاده از ارجاعات فرهنگ پاپ (سوء) را متوقف کند؟",
         "title_en": "Donald Trump as Green Lantern? Why the Trump administration needs to stop (mis)using pop culture references",
@@ -1032,6 +1068,24 @@
         "clean_url": "https://www.newcastleherald.com.au/story/9345065/crispin-hull-trumps-ratings-expose-worst-leadership",
         "image": "https://www.bing.com/th?id=ONUT.3Da96gKZp_SUugKW4_9d4g",
         "timestamp": 1788811408.5650406
+    },
+    {
+        "id": "e804cebebe",
+        "title_fa": "قیمت نفت پس از حملات حوثی‌ها به شهرهای سعودی",
+        "title_en": "Middle East latest: Oil prices spike after attacks on Saudi Arabian cities by Houthis",
+        "summary": [
+            "حمله حوثی‌ها به شهرهای سعودی نگرانی بازارهای انرژی را برانگیخت",
+            "افزایش قیمت نفت می‌تواند فشار بر اقتصادهای مصرف‌کننده و تحریم‌ها را تشدید کند"
+        ],
+        "impact": "افزایش قیمت نفت به‌سرعت هزینه‌های واردات انرژی را برای کشورهای خریدار بالا می‌برد",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Sky News",
+        "url": "https://news.sky.com/story/middle-east-iran-war-latest-saudi-arabia-houthis-yemen-strait-of-hormuz-trump-strikes-attack-13509565",
+        "clean_url": "https://news.sky.com/story/middle-east-iran-war-latest-saudi-arabia-houthis-yemen-strait-of-hormuz-trump-strikes-attack-13509565",
+        "image": "https://e3.365dm.com/26/09/1600x900/skynews-saudi-arabia-houthis_7344719.jpg?20260908063526",
+        "timestamp": 1788811260.0
     },
     {
         "id": "1d4e9a806e",
@@ -5390,62 +5444,5 @@
         "clean_url": "https://www.msn.com/en-ie/politics/government/us-ambassador-to-israel-accuses-ed-miliband-of-jew-hate-over-gaza/ar-AA2bFRlI",
         "image": "https://s.yimg.com/lo/mysterio/api/d725ae970dbc06fe717ef16087ccda49f8cc374b20ce90799f658a137769ad36/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/the_independent_577/245d8efd0963e2f62a8756297c8d30d1.jpg",
         "timestamp": 1788700108.0
-    },
-    {
-        "id": "179d04ed58",
-        "title_fa": "خبر بین‌المللی — ایران به unveil new Persian Gulf restricted zone و هرمز corr",
-        "title_en": "Iran to unveil new Persian Gulf restricted zone and Hormuz corridor",
-        "summary": [
-            "Iran said it will announce a new restricted zone in the Persian Gulf in the coming days, along with maps of a new shipping..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Baird Maritime",
-        "url": "https://www.bairdmaritime.com/shipping/iran-to-unveil-new-persian-gulf-restricted-zone-and-hormuz-corridor",
-        "clean_url": "https://www.bairdmaritime.com/shipping/iran-to-unveil-new-persian-gulf-restricted-zone-and-hormuz-corridor",
-        "image": "https://www.bing.com/th?id=ONUT.QYIuCwTFgIJKxglqj6_7mQ",
-        "timestamp": 1788698794.0
-    },
-    {
-        "id": "64b2f153b0",
-        "title_fa": "جنگ ایران: هزینه صلح در برابر جنگ",
-        "title_en": "The Iran War: Between the Costs of Peace and War",
-        "summary": [
-            "واشنگتن و تهران به هفت ماه کشمکش رسیده‌اند؛ هیچ‌کدام پیروزی واضحی ندارند.",
-            "سپاه پاسداران هزینهٔ صلح را بالاتر از جنگ می‌داند چون وضعیت اضطراری به آن قدرت سیاسی و اقتصادی می‌دهد.",
-            "حفظ وضعیت «منطقه خاکستری» به سپاه اجازه می‌دهد اقتصاد تحت کنترل خود را گسترش دهد و اعتراضات را سرکوب کند.",
-            "اگر صلح برقرار شود، ساختارهای اقتصادی و سیاسی سپاه به خطر می‌افتند و فشار داخلی بر دولت افزایش می‌یابد."
-        ],
-        "impact": "ادامهٔ تنش باعث تداوم بحران اقتصادی و فشار بیشتر بر مردم می‌شود.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/opinion/5315270-iran-war-between-costs-peace-and-war",
-        "clean_url": "https://english.aawsat.com/opinion/5315270-iran-war-between-costs-peace-and-war",
-        "image": "https://static.srpcdigital.com/styles/thumbnail/public/2026-06/6e81114b-43af-411d-b757-cd8e8c82c7d9.jpeg",
-        "timestamp": 1788698397.4780598
-    },
-    {
-        "id": "f088997337",
-        "title_fa": "قیمت‌بنزین بالا می‌رود؛ ایران «منطقه محرمانه» در هرمز",
-        "title_en": "Gas prices increase as Iran announces plan to create an 'exclusion zone' around Strait of Hormuz",
-        "summary": [
-            "اعلام «منطقه محرمانه» توسط ایران خطر مسدود شدن ناوگان تجاری در هرمز را افزایش می‌دهد",
-            "حملهٔ آمریکا به سه تانکر نفتی ایرانی پیش از این تصمیم، تنش را به نقطهٔ اوج رسانده",
-            "بازارهای نفت پیش‌بینی می‌کنند قیمت بنزین در ایالات متحده تا ۰٫۲ دلار در هر گالن افزایش یابد",
-            "تا حل مسالمت‌آمیز نشود، نوسان قیمت‌ها ادامه خواهد داشت"
-        ],
-        "impact": "قیمت بنزین در ایالات متحده به‌سرعت بالا می‌رود، فشار بر کیف پول مصرف‌کنندگان",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "KCCI 8 News",
-        "url": "https://www.kcci.com/article/iran-announces-plan-strait-of-hormuz-exclusion-zone/73628966",
-        "clean_url": "https://www.kcci.com/article/iran-announces-plan-strait-of-hormuz-exclusion-zone/73628966",
-        "image": "https://kubrick.htvapps.com/vidthumb/6e3e42c3-7143-4d87-a343-6f6e4d2170c1/9804e726-1b20-4aae-995c-91d571026650.png?crop=0.9951083158630328xw%3A1xh%3Bcenter%2Ctop&resize=1200%3A*",
-        "timestamp": 1788697823.0
     }
 ]
