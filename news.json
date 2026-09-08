@@ -2134,6 +2134,24 @@
         "timestamp": 1788766686.4106085
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "اخبار ورزشی آمریکا: تنیس، فوتبال و لیگ قهرمانان",
+        "title_en": "US latest news",
+        "summary": [
+            "روزنامه گاردین ترکیبی از اخبار ورزشی و سیاسی آمریکا را منتشر کرد",
+            "بخش ورزشی شامل نتایج تنیس و لیگ قهرمانان بود، در حالی که بخش سیاسی به بیانیه‌های ترامپ اشاره کرد"
+        ],
+        "impact": "خوانندگان با ترکیب این محتوا ممکن است توجه خود را از مسائل ژئوپلیتیک به سرگرمی‌های ورزشی معطوف کنند",
+        "tag": "ورزش",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1788765600.0
+    },
+    {
         "id": "c4bf6e0667",
         "title_fa": "چگونه میلیاردها پول ایران از طریق بانک های ایالات متحده عبور می‌کند",
         "title_en": "How Billions in Iranian Money Passes Through U.S. Banks",
@@ -2596,6 +2614,26 @@
         "clean_url": "https://finance.biggo.com/news/17438bdc-fbe4-4d45-9590-b5dd8201a439",
         "image": "https://img.biggo.com/Z8bymCQrkSijwU1d5kYHJCKaFkJyg-OB_N2Vpvj9H-M/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzE3NDM4YmRjLWZiZTQtNGQ0NS05NTkwLWI1ZGQ4MjAxYTQzOV8xNzg4NzQ5ODYzX2RlZmF1bHQuanBn.jpg",
         "timestamp": 1788749700.0
+    },
+    {
+        "id": "61a196ed83",
+        "title_fa": "ترامپ پیش‌بینی بنزین زیر ۲ دلار پس از پیروزی ایران",
+        "title_en": "Trump forecasts oil below $2 a gallon after US ‘victory’ over Iran",
+        "summary": [
+            "ترامپ قیمت بنزین را به‌عنوان نشانهٔ پایان جنگ با ایران مطرح کرد",
+            "او هزینهٔ انرژی را مستقیماً به عملیات نظامی در خاورمیانه ربط داد",
+            "تهدید مداوم به عدم اجازه داشتن سلاح هسته‌ای برای ایران در پیام حضور داشت",
+            "این پیش‌بینی می‌تواند فشارهای اقتصادی بر بازارهای جهانی را تقویت کند"
+        ],
+        "impact": "کاهش پیش‌بینی‌شده قیمت بنزین می‌تواند تقاضای داخلی را تحریک و فشار بر سیاست‌های تحریمی آمریکا را کاهش دهد",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "ET EnergyWorld",
+        "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/trump-forecasts-oil-below-2-a-gallon-after-us-victory-over-iran/133903039",
+        "clean_url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/trump-forecasts-oil-below-2-a-gallon-after-us-victory-over-iran/133903039",
+        "image": "https://www.bing.com/th?id=ONUT.Wuum_y-gPchEN1qR05o11Q",
+        "timestamp": 1788748967.0
     },
     {
         "id": "62cc137b23",
@@ -5416,45 +5454,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ080ODZJRFNyUlhPRnN3WVhPbXRMN1dJazdYRGxKYnZiUzFYYnN6b0hBUkh0b1NyTFVEWFNDanE5bTI2dDF0QnNUZV9EWHc0bktjQWl0ZUgzMEFlYzhDeUkwR0g0d25UX1g1SE43UDY0bUZabGp2aXNZMjBWWHVyTHdsS2pYYjNVZWRTUEFhdHNHa28xUXJQRWN6NkgtazJ0LU9tOXpWVk1BeF81S3c",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788687300.0
-    },
-    {
-        "id": "77b68042af",
-        "title_fa": "مقاله‌نویس اسرائیلی به بریکس‌کردن ایران می‌پردازد",
-        "title_en": "Israel’s Game",
-        "summary": [
-            "مقاله اسرائیلی ادعا می‌کند جنگ هوایی بر ایران شکست خورده و هدف بریکس‌کردن است",
-            "پیشنهاد «بalkanization» ایران نشان از برنامه‌ریزی برای تجزیه ساختارهای حکومتی دارد",
-            "این دیدگاه می‌تواند توجیه سیاست‌های فشار غرب بر خاورمیانه را تقویت کند",
-            "واکنش‌های داخلی ایران نسبت به چنین ادعاها می‌تواند ناآرامی‌های داخلی را تشدید کند"
-        ],
-        "impact": "تقویت روایت ضد-ایرانی در غرب، احتمال تشدید تحریم‌ها",
-        "tag": "جنگ",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Middle East Monitor",
-        "url": "https://www.middleeastmonitor.com/20260906-israels-game/",
-        "clean_url": "https://www.middleeastmonitor.com/20260906-israels-game",
-        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/08/AA-20260822-42274049-42274028-ANTIZIONIST_DEMONSTRATORS_BLOCK_THE_ROAD_OUTSIDE_THE_ISRAELI_CONSULATE_IN_NEW_YORK.jpg?fit=920%2C613&ssl=1",
-        "timestamp": 1788687292.7908056
-    },
-    {
-        "id": "5c3b32e781",
-        "title_fa": "میلِی ادعای سرسختانه مالویناس؛ تنش آرژانتین‑بریتانیا",
-        "title_en": "Javier Milei’s outburst over the Falklands is a mark of weakness",
-        "summary": [
-            "ادعای قطعی مالویناس توسط میلِی، ریسک تشدید دیپلماتیک با لندن را بالا می‌برد",
-            "حضور اره‌جنگی نمادین نشان از تمایل به فشار نمادین، نه نظامی، دارد",
-            "واکنش بریتانیا احتمالاً محدود به بیانیه‌های دیپلماتیک خواهد بود؛ خطر جنگ کم",
-            "این حرکت می‌تواند حمایت ملی‌گرایانه داخلی آرژانتین را تقویت کند"
-        ],
-        "impact": "احتمال افزایش تنش دیپلماتیک و فشار بر مذاکرات تجاری",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/javier-milei-s-outburst-over-the-falklands-is-a-mark-of-weakness-101788660249525.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/javier-milei-s-outburst-over-the-falklands-is-a-mark-of-weakness-101788660249525.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/06/1600x900/logo/ARGENTINA_1788660459796_43b05a94-6299-4c26-a003-ac19f89af687_1788660460042_76de16c7-d169-4ecc-8932-d36cb6eb5188_3cda7aa6-0cba-498a-9f11-3a588f30dd11_b684b832-81ac-40d2-a821-944fcaddf9de.JPG",
-        "timestamp": 1788687292.7903411
     }
 ]
