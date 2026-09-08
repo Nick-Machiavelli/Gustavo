@@ -1,5 +1,24 @@
 [
     {
+        "id": "24befd20cd",
+        "title_fa": "هزینه‌های بهداشت آمریکا: بحران جدی",
+        "title_en": "Americans aren't divided on health care. Washington is. | Opinion",
+        "summary": [
+            "نظرسنجی نشان می‌دهد اکثر آمریکایی‌ها خواستار کاهش هزینه‌های درمان هستند، نه تقسیم‌نظر حزبی",
+            "هزینه‌های پرمیوم سالانه از تورم پیشی گرفته و خانواده‌ها را تحت فشار قرار می‌دهد",
+            "پیشنهادهای کنگره برای کنترل قیمت دارو و بیمه می‌تواند مسیر اصلاح را باز کند"
+        ],
+        "impact": "افزایش فشار بر قانونگذاران برای اصلاح هزینه‌های بهداشت",
+        "tag": "بهداشت",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/americans-arent-divided-health-care-090538987.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/americans-arent-divided-health-care-090538987.html",
+        "image": "https://www.bing.com/th?id=ONUT.BTrKrSLzjp5guQcxojtDQQ",
+        "timestamp": 1788859505.444528
+    },
+    {
         "id": "fd23d46602",
         "title_fa": "ترامپ به فدرال رزرو دستور کاهش نرخ بهره داد",
         "title_en": "Readers sound off on interest rates, fall activities and Stacy Keach",
@@ -2377,6 +2396,44 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/idf-troops-kill-palestinian-who-stabbed-wounded-israeli-man-in-west-bank-attack",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/mada-west-bank-1.jpeg",
         "timestamp": 1788773160.0
+    },
+    {
+        "id": "902e7009c2",
+        "title_fa": "صادرات چین در آگوست فشار بر مذاکرات ترامپ",
+        "title_en": "China’s Surging Exports Loom Over Trump’s Talks With Xi",
+        "summary": [
+            "صادرات چین در آگوست ۲۵٪ رشد کرد؛ رکوردی که به زودی در مذاکرات تجاری ترامپ‑شی حس می‌شود",
+            "افزایش صادرات می‌تواند فشار بر تحریم‌های آمریکا را تقویت کند",
+            "اگر چین این شتاب را حفظ کند، مذاکرات ممکن است به سمت تسهیل تحریم‌ها کشیده شود"
+        ],
+        "impact": "تقویت موقعیت چین در مذاکرات، احتمال کاهش فشار تحریمی آمریکا",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html",
+        "clean_url": "https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html",
+        "image": "https://www.bing.com/th?id=ONUT.vHglmLXBjUdy2exeUF41IA",
+        "timestamp": 1788773099.0
+    },
+    {
+        "id": "f5b2c1a360",
+        "title_fa": "حمله حوثی‌ها به تأسیسات انرژی سعودی",
+        "title_en": "Houthi attacks disrupt Saudi energy facilities, wound 73, authorities say",
+        "summary": [
+            "حوثی‌ها در ۸ سپتامبر به چند پایانه نفتی سعودی حمله کردند و عملیات را متوقف کردند",
+            "۷۳ نفر زخمی شدند؛ خسارت مستقیم به صادرات نفتی جهان",
+            "این حمله می‌تواند قیمت نفت را بالا ببرد و فشار بین‌المللی بر یمن را تشدید کند"
+        ],
+        "impact": "اختلال در تولید نفت سعودی، نوسان قیمت جهانی و تشدید تنش خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/general/houthi-attacks-disrupt-saudi-energy-facilities-wound-73-authorities-say/ar-AA2bMQli?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/houthi-attacks-disrupt-saudi-energy-facilities-wound-73-authorities-say/ar-AA2bMQli",
+        "image": "https://www.bing.com/th?id=ONUT.n7lJg68rtEjXVVDqhbua9g",
+        "timestamp": 1788773099.0
     },
     {
         "id": "3c976d0084",
@@ -5388,61 +5445,5 @@
         "clean_url": "https://www.msn.com/es-us/noticias/other/ir%C3%A1n-advierte-que-intensificar%C3%A1-su-respuesta-a-los-ataques-de-eeuu/ar-AA2bGSHg",
         "image": "http://www.bing.com/th?id=ONUT.53h1l92bCUAs5fblFzXZqQ&pid=News",
         "timestamp": 1788701210.0
-    },
-    {
-        "id": "88fcb777e3",
-        "title_fa": "ترامپ در برابر رئیس‌جمهور خجالت‌زده شد",
-        "title_en": "This bumbling Trump buffoon just humiliated his boss in front of the entire world | Opinion",
-        "summary": [
-            "نویسنده با طنز می‌گوید ترامپ در یک رخداد عمومی سر رئیس‌جمهور را خجالت‌زده کرد.",
-            "این روایت نشان می‌دهد که حتی شخصیت‌های پیشین آمریکا هنوز در عرصه رسانه‌ای به‌دست‌نشانده‌اند."
-        ],
-        "impact": "تقویت تصویر منفی ترامپ در افکار عمومی جهانی.",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "Raw Story on MSN",
-        "url": "https://www.msn.com/en-us/news/other/this-bumbling-trump-buffoon-just-humiliated-his-boss-in-front-of-the-entire-world-opinion/ar-AA2bG6uN?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/this-bumbling-trump-buffoon-just-humiliated-his-boss-in-front-of-the-entire-world-opinion/ar-AA2bG6uN",
-        "image": "https://www.bing.com/th?id=ONUT.FnHsT_Bz7L8v-58CUGYSLw",
-        "timestamp": 1788700910.249418
-    },
-    {
-        "id": "f55f65f6c9",
-        "title_fa": "هند با RBI اقتصاد را در جنگ آمریکا‑ایران حفظ کرد",
-        "title_en": "India holds strong: How government & RBI worked to shield economy from US-Iran war",
-        "summary": [
-            "هند با کاهش تعرفه‌های تجاری و مداخلات RBI از فشارهای ناشی از جنگ آمریکا‑ایران عبور کرد",
-            "ذخایر ارزی به بالاترین سطح تاریخی رسید و جمع‌آوری GST رشد پایداری نشان داد",
-            "رشد تولید ناخالص داخلی در سال جاری به ۷٫۸٪ حفظ شد، نشان از انعطاف‌پذیری اقتصاد بزرگ جنوب آسیا دارد"
-        ],
-        "impact": "قابلیت حفظ رشد بالا، هند را به عنوان جذاب‌ترین بازار برای سرمایه‌گذاران خارجی تثبیت می‌کند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.7,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/india-holds-strong-how-government-rbi-worked-to-shield-economy-from-us-iran-war/articleshow/133838157.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/business/india-business/india-holds-strong-how-government-rbi-worked-to-shield-economy-from-us-iran-war/articleshow/133838157.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133838541,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1788700200.0
-    },
-    {
-        "id": "c605cf08e4",
-        "title_fa": "سفیر آمریکا اد ملباند را به ضد‌یهودی متهم کرد",
-        "title_en": "US ambassador to Israel accuses Ed Miliband of 'Jew hate' over Gaza",
-        "summary": [
-            "سفیر آمریکا در اسرائیل اد ملباند را به‌خاطر اظهاراتش درباره گازا «ضد‌یهودی» متهم کرد",
-            "این اتهام پس از اعلام ملباند مبنی بر «بازنشانی» سیاست بریتانیا نسبت به اسرائیل مطرح شد",
-            "ادعای سفیر می‌تواند روابط سیاسی بین آمریکا، بریتانیا و اسرائیل را تنش‌زا کند"
-        ],
-        "impact": "تنش‌های سیاسی بین سه کشور تشدید می‌شود",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-ie/politics/government/us-ambassador-to-israel-accuses-ed-miliband-of-jew-hate-over-gaza/ar-AA2bFRlI",
-        "clean_url": "https://www.msn.com/en-ie/politics/government/us-ambassador-to-israel-accuses-ed-miliband-of-jew-hate-over-gaza/ar-AA2bFRlI",
-        "image": "https://s.yimg.com/lo/mysterio/api/d725ae970dbc06fe717ef16087ccda49f8cc374b20ce90799f658a137769ad36/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/the_independent_577/245d8efd0963e2f62a8756297c8d30d1.jpg",
-        "timestamp": 1788700108.0
     }
 ]
