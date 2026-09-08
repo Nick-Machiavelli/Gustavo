@@ -57,6 +57,25 @@
         "timestamp": 1788840814.0440507
     },
     {
+        "id": "861a057e0e",
+        "title_fa": "آمریکا حضور نظامی خاورمیانه را کاهش می‌دهد",
+        "title_en": "Military and intelligence officials discuss smaller presence in the Middle East as US looks for another post-9/11 strategy",
+        "summary": [
+            "مقامات نظامی و اطلاعاتی آمریکا به دنبال استراتژی پس از 9/11، حضور کوچک‌تری در منطقه می‌خواهند",
+            "کاهش نیروها می‌تواند فضا را برای رقبای منطقه‌ای مثل ایران و ترکیه باز کند",
+            "فشار دیپلماتیک آمریکا بر برنامه هسته‌ای ایران ممکن است با این تصمیم کم شود"
+        ],
+        "impact": "کاهش حضور آمریکا ممکن است تعادل قدرت در خاورمیانه را به نفع ایران تغییر دهد",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObG9HRm9laFNTOXRIVWlzb0ZfaVR3dkxSa2JCX0RrT1d3VWRuTTFZQ29pNjN3STBhNHZ1M3dFOU5WZ1dfdlFQN3dyRzhXemR5azZpQWhxalNjOXlidXRqY1ptSThTbGhMUzdLb3ROa1hLdjUxSGRBZ3llVl95TnUtTGc4M1pFQmpaZ1hLeXEwNEVUbEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObG9HRm9laFNTOXRIVWlzb0ZfaVR3dkxSa2JCX0RrT1d3VWRuTTFZQ29pNjN3STBhNHZ1M3dFOU5WZ1dfdlFQN3dyRzhXemR5azZpQWhxalNjOXlidXRqY1ptSThTbGhMUzdLb3ROa1hLdjUxSGRBZ3llVl95TnUtTGc4M1pFQmpaZ1hLeXEwNEVUbEU",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788840090.0
+    },
+    {
         "id": "e381e2619d",
         "title_fa": "چرا آمریکا نمی‌تواند ایران را خفه کند؟",
         "title_en": "Why America Can’t Strangle Iran",
@@ -473,6 +492,25 @@
         "clean_url": "https://www.msn.com/en-ca/politics/government/what-trump-s-small-potatoes-remark-about-18-deaths-reveals/vi-AA2bL5AK",
         "image": "https://www.bing.com/th?id=ONUT.8o_2wWXO9GBwrWkN1wsH7A",
         "timestamp": 1788823997.082664
+    },
+    {
+        "id": "b95fdfc978",
+        "title_fa": "قیمت‌نفت ایران بالا رفت، ترافیک هرمز کاهش یافت",
+        "title_en": "Iran hikes gasoline prices as Hormuz traffic continues to fall: Live",
+        "summary": [
+            "افزایش قیمت بنزین فشار مالی بر مردم را تقویت می‌کند و احتمال تظاهرات را بالا می‌برد",
+            "کاهش عبور کشتی‌ها از هرمز نشان‌دهنده فشار بین‌المللی و ریسک‌های حمل‌ونقل نفتی است",
+            "تحریم‌های آمریکا به اقتصاد نفت‌کشیده ایران ضربه می‌زند؛ دولت برای جبران سعی در افزایش مالیات دارد"
+        ],
+        "impact": "هزینه زندگی مردم بالا می‌رود و درآمد نفتی کشور کاهش می‌یابد",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-hikes-gasoline-prices-as-hormuz-traffic-continues-to-fall-live/ar-AA2bMGVT",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-hikes-gasoline-prices-as-hormuz-traffic-continues-to-fall-live/ar-AA2bMGVT",
+        "image": "http://www.bing.com/th?id=ONUT.BKtLNsWsciuUcQnQObSi_g&pid=News",
+        "timestamp": 1788823975.0
     },
     {
         "id": "9f6158d488",
@@ -5420,42 +5458,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/excerpt-spencer-cox-off-ramp-100000251.html",
         "image": "https://www.bing.com/th?id=ONUT.W-wZb15N_nEp8kQY8giYkA",
         "timestamp": 1788691656.5924327
-    },
-    {
-        "id": "8a5db4f6a6",
-        "title_fa": "هشت کشور مسلمان به نتانیاهو درباره خروج فلسطینی‌ها هشدار دادند",
-        "title_en": "Muslim Nations WARN Netanyahu: Palestinians Cannot Be Removed From Gaza Under Any Label",
-        "summary": [
-            "هشت کشور از جمله عربستان و ترکیه به نتانیاهو گفتند جمعیت فلسطینی را نمی‌توان به هر شکل از غزه حذف کرد",
-            "این هشدارها به دلیل طرح‌های برخی وزرا برای «انتقال داوطلبانه» فلسطینی‌ها صادر شد",
-            "دولت‌های مسلمان معتقدند این اقدام حقوق بشر را نقض می‌کند و می‌تواند به بی‌ثباتی منطقه منجر شود",
-            "نزدیک شدن به انتخابات اسرائیل فشار داخلی بر نتانیاهو را افزایش می‌دهد"
-        ],
-        "impact": "افزایش فشار دیپلماتیک بر اسرائیل و احتمال تشدید بحران انسانی در غزه",
-        "tag": "سیاست",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/muslim-nations-warn-netanyahu-palestinians-cannot-be-removed-from-gaza-under-any-label/videoshow/133849900.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/muslim-nations-warn-netanyahu-palestinians-cannot-be-removed-from-gaza-under-any-label/videoshow/133849900.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133849900,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1788691380.0
-    },
-    {
-        "id": "5f5f6ff78c",
-        "title_fa": "اصغر شرفی: باید جلوی خداداد عزیزی را بگیرند و او را ادب کنند",
-        "title_en": "اصغر شرفی: باید جلوی خداداد عزیزی را بگیرند و او را ادب کنند",
-        "summary": [
-            "اصغر شرفی، پیشکسوت فوتبال ایران، در واکنش به رفتار خداداد عزیزی در حاشیه دیدار تراکتور و گلگهر به ایسنا گفت: «باید او را ادب..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609077088",
-        "clean_url": "https://www.iranintl.com/202609077088",
-        "image": "https://www.bing.com/th?id=ONUT.IEK_EhFt1wqfVnVocvfG2Q",
-        "timestamp": 1788691287.0
     }
 ]
