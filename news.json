@@ -108,6 +108,23 @@
         "timestamp": 1788852194.0
     },
     {
+        "id": "63a3a6f0ab",
+        "title_fa": "جنگ ایران: آخرین اخبار، پوشش زنده و تصویری",
+        "title_en": "Iran War: Latest News, Live Coverage and Video",
+        "summary": [
+            "Iran War: Latest News, Live Coverage and Video NBC News"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788851842.0
+    },
+    {
         "id": "cf26807813",
         "title_fa": "اهرم هرمز ایران با شروع تحریم‌های آمریکا زیر سوال رفته است",
         "title_en": "Iran's Hormuz leverage in question as US sanctions begin to bite",
@@ -451,6 +468,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTmpkNE5lUWw4MVRiYklqNk5pcy1NU1NaWXNUNGZsVEItb21oTkljOEJUYTB5N0l0cnNELXhYTWtnWXpXa0NuQ1FGNzhTTVp2MmlkUFQxaGc3cnNRaVFFeTBlZXRLQmxOZTZ0U1BBTlF2MGlCSUVQNEpUNWVSTXFhZFctcHg3WnlHakl2Szl4dVVjSkZFWHNwa1UzbjZkd2tLLUVR",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788831679.0
+    },
+    {
+        "id": "21e327100c",
+        "title_fa": "با افزایش دوباره قیمت سوخت، دولت ایران از شهروندان می‌خواهد که قیمت سوخت را کاهش دهند",
+        "title_en": "As fuel prices rise again, Iran’s government urges citizens to cut back",
+        "summary": [
+            "Huge antigovernment protests in late December 2022 and early 2023 started after anger over fuel price increases. Iranians are already feeling the impact of a downturn in economic activity, high..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back",
+        "image": "http://www.bing.com/th?id=ONUT.9xGSq4ZZ8A0JIyuQd6i2rg&pid=News",
+        "timestamp": 1788830100.0
     },
     {
         "id": "74850a69fc",
@@ -5413,43 +5447,5 @@
         "clean_url": "https://www.theatlantic.com/ideas/2026/09/adam-hamilton-kansas-senate-race/688531",
         "image": "https://cdn.theatlantic.com/thumbor/KOuTxj-sROFjkzCIinMzWmDKZ4w=/0x61:2876x1559/1200x625/media/img/mt/2026/09/2026_08_09_AdamHamilton/original.jpg",
         "timestamp": 1788696953.7150507
-    },
-    {
-        "id": "5407a4be62",
-        "title_fa": "قیمت بنزین برای مصرف‌کنندگان سنگین افزایش می‌یابد",
-        "title_en": "Iran's government to raise fuel price for heavy users",
-        "summary": [
-            "دولت برای کاهش کمبود سوخت، مصرف بالای 110 لیتر در ماه را مشمول افزایش قیمت می‌کند",
-            "این تصمیم می‌تواند فشار مالی بر رانندگان سنگین و شرکت‌های حمل‌ونقل را بالا ببرد",
-            "احتمال بروز اعتراضات عمومی در شهرهای بزرگ به دلیل هزینه‌های بالاتر وجود دارد"
-        ],
-        "impact": "هزینه حمل‌ونقل بالا می‌رود و فشار بر تورم و هزینه‌های زندگی افزایش می‌یابد",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/energy/irans-government-raise-fuel-price-heavy-users-2026-09-06/",
-        "clean_url": "https://www.reuters.com/business/energy/irans-government-raise-fuel-price-heavy-users-2026-09-06",
-        "image": "http://www.bing.com/th?id=ONUT.NUoaJ7sHcHVUYVSN8qAAnA&pid=News",
-        "timestamp": 1788696780.0
-    },
-    {
-        "id": "6ef5d3138a",
-        "title_fa": "عمان و معامله مخفی در تنگه هرمز",
-        "title_en": "Oman played both sides — until it didn’t. How a secret shipping deal ignited the Strait of Hormuz",
-        "summary": [
-            "عمان پس از سال‌ها نقش میانجیگری، به‌طور مخفی با ایران و چین در حمل و نقل نفت همکاری کرد",
-            "کشف این معامله باعث افزایش تنش در تنگه هرمز و خطر اختلال در مسیرهای تجاری شد",
-            "واشنگتن ممکن است واکنش نظامی یا تحریمی نشان دهد"
-        ],
-        "impact": "اختلال در عبور کشتی‌ها، افزایش هزینه حمل و نقل و فشار بر اقتصاد جهانی",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/general/general/oman-played-both-sides-until-it-didn-t-how-a-secret-shipping-deal-ignited-the-strait-of-hormuz/ar-AA2bEVl6?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/general/general/oman-played-both-sides-until-it-didn-t-how-a-secret-shipping-deal-ignited-the-strait-of-hormuz/ar-AA2bEVl6",
-        "image": "https://www.bing.com/th?id=ONUT.YcnDgM5qMHcTh4qoqLXEKw",
-        "timestamp": 1788696230.2756467
     }
 ]
