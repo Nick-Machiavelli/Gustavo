@@ -1,5 +1,23 @@
 [
     {
+        "id": "a522048245",
+        "title_fa": "محنز مایمانات و مریم رجوی؛ چالش جدی رژیم",
+        "title_en": "These two women are the most serious challenge to Ayatollah's brutal regime in Iran",
+        "summary": [
+            "حضور محنظ مایمانات در کنار مریم رجوی نشان می‌دهد که جبهه زنان مخالف به‌صورت سازمان‌یافته در حال گسترش است",
+            "این ترکیب می‌تواند حمایت بین‌المللی را جلب کند و فشار داخلی بر رهبری را تقویت کند"
+        ],
+        "impact": "تقویت توان سیاسی مخالفان و احتمال افزایش تحرکات اعتراضی داخلی",
+        "tag": "اپوزیسیون",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Daily Express on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/these-two-women-are-the-most-serious-challenge-to-ayatollah-s-brutal-regime-in-iran/ar-AA2bOeGY?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/these-two-women-are-the-most-serious-challenge-to-ayatollah-s-brutal-regime-in-iran/ar-AA2bOeGY",
+        "image": "https://www.bing.com/th?id=ONUT.Dn6Qx9i0tYRNRkHNmwVrjA",
+        "timestamp": 1788880469.9984443
+    },
+    {
         "id": "6f7dce2fd1",
         "title_fa": "جنگ و سرکوب: ایرانیان بین «دو تیغ قیچی»",
         "title_en": "Guerra e repressione: gli iraniani tra \"due lame di forbice”",
@@ -2535,6 +2553,24 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/iaea-says-iran-blocking-nuclear-inspectors-as-hormuz-threats-mount/ar-AA2bL18G",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bLdYX.img?w=800&h=450&m=4&q=75",
         "timestamp": 1788795718.0
+    },
+    {
+        "id": "2dd4b21f16",
+        "title_fa": "تحریم‌های بریتانیا بر سرزمین‌های فلسطینی؛ واکنش آمریکا و اسرائیل",
+        "title_en": "Miliband risks backlash from US and Israel as UK announces West Bank sanctions",
+        "summary": [
+            "اعلام تحریم‌های جدید بریتانیا علیه نهادهای فلسطینی، واکنش سرسختانه آمریکا و اسرائیل را برانگیخت",
+            "این گام می‌تواند روابط دو جانبه لندن‑واشنگتن را تحت فشار قرار دهد و مذاکرات صلح را پیچیده‌تر کند"
+        ],
+        "impact": "تشدید تنش‌های دیپلماتیک در خاورمیانه و خطر کاهش همکاری‌های غربی",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "London Evening Standard on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/miliband-risks-backlash-from-us-and-israel-as-uk-announces-west-bank-sanctions/ar-AA2bNGDL?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/miliband-risks-backlash-from-us-and-israel-as-uk-announces-west-bank-sanctions/ar-AA2bNGDL",
+        "image": "https://www.bing.com/th?id=ONUT.QiVHDLke9wX13f1xfQ1-Xw",
+        "timestamp": 1788794065.0
     },
     {
         "id": "fc9a78550d",
@@ -5422,39 +5458,5 @@
         "clean_url": "https://www.tehrantimes.com/news/529758/A-new-chapter-in-judicial-diplomacy",
         "image": "https://www.bing.com/th?id=ONUT.xCeVbIiyVfOu-25s1xk_lQ",
         "timestamp": 1788728569.2872138
-    },
-    {
-        "id": "11ad3a26f5",
-        "title_fa": "آمریکا و ایران حملات کشتیرانی را تشدید کردند",
-        "title_en": "America and Iran escalate shipping attacks",
-        "summary": [
-            "On Saturday America attacked three Iranian oil tankers, disabling two and sinking another. It says it did so after Iran tried to strike American warships deployed in the Middle East. In the latest phase in their ever-shifting war,"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Economist",
-        "url": "https://www.economist.com/the-world-in-brief/2026/09/07/7751e21b-1918-40a7-943f-1d54a7177083",
-        "clean_url": "https://www.economist.com/the-world-in-brief/2026/09/07/7751e21b-1918-40a7-943f-1d54a7177083",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788728520.0
-    },
-    {
-        "id": "d257875b40",
-        "title_fa": "خبر بین‌المللی — ایران’s regional attacks highlight worldview behind conflict",
-        "title_en": "Iran’s regional attacks highlight worldview behind conflict",
-        "summary": [
-            "This is a familiar pattern from the past six months, but what might be new to you is that it's partly based in Shia Islam doctrine."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Mission Network News",
-        "url": "https://www.mnnonline.org/news/irans-regional-attacks-highlight-worldview-behind-conflict/",
-        "clean_url": "https://www.mnnonline.org/news/irans-regional-attacks-highlight-worldview-behind-conflict",
-        "image": "http://www.bing.com/th?id=ONUT.pV4yP8YrhknIiOPVmxVhmw&pid=News",
-        "timestamp": 1788728400.0
     }
 ]
