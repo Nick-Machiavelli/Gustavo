@@ -1068,6 +1068,24 @@
         "timestamp": 1788858851.84575
     },
     {
+        "id": "15e579f661",
+        "title_fa": "تحریم‌های جدید آمریکا علیه بخش هوایی ایران",
+        "title_en": "US Treasury targets Iran's aviation sector with sweeping new sanctions",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا ۳۶ محدودیت جدید علیه شرکت‌های هواپیمایی و تأمین‌کنندگان قطعات ایران اعمال کرد",
+            "محدودیت‌ها شامل ممنوعیت بیمه، لیزینگ و دسترسی به فناوری‌های پیشرفته می‌شود و فشار اقتصادی بر صنعت هوایی را شدت می‌بخشد"
+        ],
+        "impact": "پروازهای بین‌المللی ایران کاهش می‌یابد و هزینه‌های عملیاتی هواپیمایی‌ها به شدت بالا می‌رود",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/us-treasury-targets-iran-s-aviation-sector-with-sweeping-new-sanctions/ar-AA2bOGpX",
+        "clean_url": "https://www.msn.com/en-us/money/economy/us-treasury-targets-iran-s-aviation-sector-with-sweeping-new-sanctions/ar-AA2bOGpX",
+        "image": "http://www.bing.com/th?id=ONUT.sd1DaGX-XWK7iu2sleIsfg&pid=News",
+        "timestamp": 1788858503.0
+    },
+    {
         "id": "038a43a40b",
         "title_fa": "ایران تهدید به پاسخ تلافی‌جویانه علیه حملات آمریکا کرد",
         "title_en": "Iran vows to retaliate if US attacks its assets",
@@ -5428,25 +5446,5 @@
         "clean_url": "https://today.lorientlejour.com/article/1546737/israel-kills-at-least-11-people-in-heavy-overnight-strikes-on-southern-lebanon-iran-set-to-declare-no-go-zone-near-strait-of-hormuz-live.html",
         "image": "https://s.lorientlejour.com/storage/attachments/1547/2026-09-06T085615Z_1583916286_RC2FDNAS76CO_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-ATTACKS_118222.jpg/r/800/2026-09-06T085615Z_1583916286_RC2FDNAS76CO_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-ATTACKS_118222.jpg",
         "timestamp": 1788743160.0
-    },
-    {
-        "id": "8f3a2c2c01",
-        "title_fa": "ترامپ: قیمت گاز زیر ۲ دلار پس از پیروزی ایران",
-        "title_en": "Trump Claims Gas Prices Will Drop To This Amount ‘When We WIN The War With Iran’",
-        "summary": [
-            "ترامپ در توییت ادعا کرد که پیروزی آمریکا در جنگ ایران باعث سقوط قیمت گاز به زیر ۲ دلار می‌شود",
-            "این پیش‌بینی در حالی است که قیمت‌ها بالای ۴ دلار هستند و به‌نظر رسیده‌است صرفاً ریتوریک سیاسی",
-            "اگرچه این حرف می‌تواند فشار بر دولت آمریکا برای مداخله نظامی ایجاد کند",
-            "کارشناسان می‌گویند قیمت گاز تحت تأثیر عوامل جهانی است، نه تنها یک جنگ منطقه‌ای"
-        ],
-        "impact": "افزایش فشار سیاسی برای مداخله نظامی، اما تغییر واقعی در قیمت گاز نامشخص",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-claims-gas-prices-drop-000547340.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-claims-gas-prices-drop-000547340.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/c6435319924e50d54e6befe77362f5eefd58344cd35ede9831ea9715fb77709c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2F7863c97ee1d23eb2ff3db5f663d8d1d3.jpg",
-        "timestamp": 1788743039.0
     }
 ]
