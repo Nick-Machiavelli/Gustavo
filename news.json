@@ -1,5 +1,25 @@
 [
     {
+        "id": "e5252bc296",
+        "title_fa": "تحریم ایالات متحده بر ده‌ها شرکت هواپیمایی ایرانی",
+        "title_en": "U.S. places sanctions on dozens of Iranian airlines as conflict escalates",
+        "summary": [
+            "تحریم‌ها دسترسی هواپیماها به قطعات و خدمات فنی را قطع می‌کند و هزینه‌های پرواز را بالا می‌برد.",
+            "اقدام آمریکا در پی تشدید تنش‌های منطقه‌ای و نقش ایران در حمایت از گروه‌های مسلح است.",
+            "شرکت‌های هواپیمایی ممکن است برنامه‌های پروازی را لغو یا کاهش دهند؛ گردشگری و تجارت تحت فشار می‌افتد.",
+            "تحریم‌های جدید می‌تواند نارضایتی اقتصادی داخلی را تشدید کند."
+        ],
+        "impact": "پروازهای داخلی و بین‌المللی ایران مختل می‌شود، هزینه‌های حمل‌ونقل به شدت افزایش می‌یابد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.85,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnRIWmQtZm5Yb2NyNzJ5Y2pYa1FycUVYWlI2ZFJ4emQ4R3RIYTVCRVNXc0FPMVk1M0VsRVFoNG5Wa1h3bDZ0UHB2ckpiUzdwQlNGa0hSR2FPc211VmN2a2I0WnhubFRzTnZOc3hxMTZveklOSXBYVlNqbW9WS0tQbmRLU2tIVm1icXRUdWZKMTBNOC1GYmcxQVlKQ0VkaGczTzZfWnJkaTlydFl0cGJ1eXZBcWNKUkJiaEk1ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnRIWmQtZm5Yb2NyNzJ5Y2pYa1FycUVYWlI2ZFJ4emQ4R3RIYTVCRVNXc0FPMVk1M0VsRVFoNG5Wa1h3bDZ0UHB2ckpiUzdwQlNGa0hSR2FPc211VmN2a2I0WnhubFRzTnZOc3hxMTZveklOSXBYVlNqbW9WS0tQbmRLU2tIVm1icXRUdWZKMTBNOC1GYmcxQVlKQ0VkaGczTzZfWnJkaTlydFl0cGJ1eXZBcWNKUkJiaEk1ZA",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788891632.0
+    },
+    {
         "id": "63dd2e611f",
         "title_fa": "اولین رئیس بلک اسمیتسونیان در بحبوحه درگیری با ترامپ بازنشسته شد",
         "title_en": "First Black Smithsonian Head Retires Amid Fight With Trump",
@@ -5420,25 +5440,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/terrifying-dog-theft-sets-off-chain-reaction-of-forgiveness-and-compassion/vi-AA2bxraC",
         "image": "https://www.bing.com/th?id=ONUT.dlHPemyslYhQ2DWwrCJMHQ",
         "timestamp": 1788752261.0
-    },
-    {
-        "id": "fec8cee68e",
-        "title_fa": "پروژه‌های داخلی ترامپ در انتظار تأیید نهایی",
-        "title_en": "Donald Trump",
-        "summary": [
-            "پروژهٔ قوس پیروزی ۲۵۰ فوتی و سالن بالکانی سفید‌خانه هنوز تأیید نهایی ندارند و به‌دست‌اندرکاران دولتی وابسته‌اند",
-            "استیفای داوید در وزارت دفاع و خروج دانیل دریسکل نشان می‌دهد که درون‌سازمان‌ها دچار کشمکش‌های جدی هستند",
-            "پایه حزبی ترامپ قوی است اما امتیاز پایین او در میان رای‌دهندگان میانه، خطر از دست دادن رأی‌های کلیدی را افزایش می‌دهد",
-            "طرح کاهش تعرفه گوشت گاو و تنش‌های تجاری با کانادا، نگرانی‌های اقتصادی جمهوری‌خواهان را تشدید می‌کند"
-        ],
-        "impact": "تاخیر یا پیشبرد این پروژه‌ها و سیاست‌های تجاری می‌تواند حمایت عمومی از ترامپ را در انتخابات آینده تقویت یا تضعیف کند",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "nytimes.com",
-        "url": "https://www.nytimes.com/spotlight/donald-trump",
-        "clean_url": "https://www.nytimes.com/spotlight/donald-trump",
-        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-        "timestamp": 1788750300.0
     }
 ]
