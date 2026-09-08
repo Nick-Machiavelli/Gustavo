@@ -87,6 +87,25 @@
         "timestamp": 1788878393.52678
     },
     {
+        "id": "5e92719992",
+        "title_fa": "تحریم جدید آمریکا بر خطوط هوایی ایران",
+        "title_en": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا بیش از ۳۰ شرکت، از جمله چند شرکت هواپیمایی، را هدف تحریم قرار داد",
+            "هدف این تحریم فشار اقتصادی بیشتر بر ایران در دوران جنگ و افزایش قیمت نفت است",
+            "شرکت‌های هواپیمایی ایرانی خطر از دست دادن دسترسی به سیستم‌های مالی بین‌المللی را دارند"
+        ],
+        "impact": "کاهش توان مالی شرکت‌های هواپیمایی ایران و تشدید فشار اقتصادی",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalAtMWRtbEh6eG5ZUmxXdGZqRG9rQXIwMWh2NFJGRUs2VU9ILVBPNkdTSld1cjMyWEVSd0VsRFF2NlNCVHB3ZVZWZHYtWHZGNXJOY0RuSmxFUTkwZlMtdVlFWHBpdWJfVEZnYV9HNm9QNG4waXoyTzBYOG9UV1cwNkszNUxxQdIBiwFBVV95cUxQcHlGc2p6aXAxNTlpYkV4MllDb2h0ZmdIX0ZNMWxGN1FlYkZSbTRERXBndWk5SUl6cjNhN3dSTGVXbnQzR2tuN01TRVQydFg0Ni14NXVhUFRoS3hkN253MGdNSXJzM25jc3ZJcWFiRmFSYlhIdnFjdFl1RWhYc2IxTUlzWHdtdkp2dWxZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalAtMWRtbEh6eG5ZUmxXdGZqRG9rQXIwMWh2NFJGRUs2VU9ILVBPNkdTSld1cjMyWEVSd0VsRFF2NlNCVHB3ZVZWZHYtWHZGNXJOY0RuSmxFUTkwZlMtdVlFWHBpdWJfVEZnYV9HNm9QNG4waXoyTzBYOG9UV1cwNkszNUxxQdIBiwFBVV95cUxQcHlGc2p6aXAxNTlpYkV4MllDb2h0ZmdIX0ZNMWxGN1FlYkZSbTRERXBndWk5SUl6cjNhN3dSTGVXbnQzR2tuN01TRVQydFg0Ni14NXVhUFRoS3hkN253MGdNSXJzM25jc3ZJcWFiRmFSYlhIdnFjdFl1RWhYc2IxTUlzWHdtdkp2dWxZ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788877801.0
+    },
+    {
         "id": "0a8e79dbec",
         "title_fa": "دستورالعمل حجاب اجباری در دانشگاه‌ها نزدیک شد",
         "title_en": "حکومت از ابلاغ قریبالوقوع دستورالعمل حجاب اجباری در دانشگاههای ایران خبر داد",
@@ -105,6 +124,23 @@
         "clean_url": "https://www.iranintl.com/202609087914",
         "image": "https://www.bing.com/th?id=ONUT.t1LuTpCN6AU--1-9gYxw2g",
         "timestamp": 1788877575.786894
+    },
+    {
+        "id": "e41edce9a1",
+        "title_fa": "خبر بین‌المللی — US Treasury targets over 30 entities including airlines در n",
+        "title_en": "US Treasury targets over 30 entities including airlines in new Iran sanctions",
+        "summary": [
+            "US Treasury targets over 30 entities including airlines in new Iran sanctions Iran International"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fbFRpRW1PVl9fN2NFaHhxdnAzZGtEekFkNDFSQWF2ZmQycDBOdnZ4ZVV0WE1DR1A2cFp6Uk5WNjdndUpDb1hRcGtvU2k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fbFRpRW1PVl9fN2NFaHhxdnAzZGtEekFkNDFSQWF2ZmQycDBOdnZ4ZVV0WE1DR1A2cFp6Uk5WNjdndUpDb1hRcGtvU2k",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788877229.0
     },
     {
         "id": "ab4dfa5f7b",
@@ -2533,6 +2569,24 @@
         "clean_url": "https://www.moneycontrol.com/world/iran-doubles-gasoline-price-for-heavy-users-amid-war-economic-strain-article-14024706.html",
         "image": "http://www.bing.com/th?id=ONUT.AllRftofqwdSmU2HIri4Gg&pid=News",
         "timestamp": 1788793860.0
+    },
+    {
+        "id": "1f8bce0501",
+        "title_fa": "امتیاز حمایت ترامپ به رکورد پایین رسید",
+        "title_en": "Trump’s Approval Rating Reaches New Floors In 2 Polls—As Support Among GOP Voters Slips",
+        "summary": [
+            "نظرسنجی‌ها نشان می‌دهند حمایت ترامپ در میان رای‌دهندگان جمهوری‌خواه به‌طور چشمگیری کاهش یافته",
+            "این افت می‌تواند فشار بر برنامه‌های او برای بازگشت به کاخ سفید ایجاد کند"
+        ],
+        "impact": "کاهش توان سیاسی ترامپ برای رهبری احزاب و انتخابات آینده",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips/",
+        "clean_url": "https://www.forbes.com/sites/saradorn/2026/09/08/trumps-approval-rating-reaches-new-floors-in-2-polls-as-support-among-gop-voters-slips",
+        "image": "https://www.bing.com/th?id=ONUT.fEsCa1N_m3f3gTY0UDXw3w",
+        "timestamp": 1788793472.0
     },
     {
         "id": "8ddc0fedb4",
@@ -5402,58 +5456,5 @@
         "clean_url": "https://www.mnnonline.org/news/irans-regional-attacks-highlight-worldview-behind-conflict",
         "image": "http://www.bing.com/th?id=ONUT.pV4yP8YrhknIiOPVmxVhmw&pid=News",
         "timestamp": 1788728400.0
-    },
-    {
-        "id": "a91149491d",
-        "title_fa": "خبر بین‌المللی — Beersheba mayor reportedly turns down نتانیاهو offer No. 3",
-        "title_en": "Beersheba mayor reportedly turns down Netanyahu offer of No. 3 slot on Likud slate, top portfolio and title of deputy PM",
-        "summary": [
-            "The post Beersheba mayor reportedly turns down Netanyahu offer of No. 3 slot on Likud slate, top portfolio and title of deputy PM appeared first on The Times of Israel."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/politics/government/beersheba-mayor-reportedly-turns-down-netanyahu-offer-of-no-3-slot-on-likud-slate-top-portfolio-and-title-of-deputy-pm/ar-AA2bGuOO",
-        "clean_url": "https://www.msn.com/en-us/politics/government/beersheba-mayor-reportedly-turns-down-netanyahu-offer-of-no-3-slot-on-likud-slate-top-portfolio-and-title-of-deputy-pm/ar-AA2bGuOO",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/montage-2up-20260906-4c66fb.jpg",
-        "timestamp": 1788728280.0
-    },
-    {
-        "id": "b418c7317f",
-        "title_fa": "ایران اعلام منطقه محرمانه جدید در تنگه هرمز",
-        "title_en": "Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz",
-        "summary": [
-            "ایران قصد دارد با تعیین «منطقه محرمانه» مانع عبور کشتی‌های نظامی و تجاری در حوالی هرمز شود.",
-            "این اقدام واکنشی به فشارهای بین‌المللی و حضور ناوهای آمریکایی است و پیام تهدیدی به مخالفان می‌فرستد.",
-            "اگر اجرا شود، مسیر اصلی انتقال نفت جهان مختل می‌شود و هزینه‌های حمل‌ونقل به‌سرعت بالا می‌رود."
-        ],
-        "impact": "کاهش عبور نفت و تشدید تنش‌های دریایی در خلیج فارس",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnRWSTAzR3R1bWNOYUlFbC12M3pENWFESjZQaGtFbThpdVZGV0dHRzVrRGthN3BDandiaVFKWGR1RndvbzBCb3puLVFlc2IyX1hpVWRFQmlRQURQejVNTFMyX2lOMElxQ1RmN2h4XzA1UUFCbHl1WF9SNWJkSTdJZVMxVjV4MDVaRGUxam9MSC1Ga2ZVUmx4ZE1YZWF2Nk5TREJjd3hyRGd4amNpamFRNE1vYzlTQdIBuwFBVV95cUxOZW5HQzlaUDRkN2syOGlqa3JGYXZjUlgxYW9OS2VTdHVJYkVxNktCME1fUFRRMEhUVV9qSWg2b3pWaXA1N0V1UnZ0NWhiUzdyRFpsanZqNVpfSlFESU55cDA5a0Q0RFlpejFnV2N0QWFERFB4dnQ1U3lqbHRZdVpFeV91Z284Vkc3QkxVbDRIaHdEVWxveE0xT3dGSVU3WG1XRmdzdGRtbFpGbEwwWGc3SDNfUTh5QjNxeks4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnRWSTAzR3R1bWNOYUlFbC12M3pENWFESjZQaGtFbThpdVZGV0dHRzVrRGthN3BDandiaVFKWGR1RndvbzBCb3puLVFlc2IyX1hpVWRFQmlRQURQejVNTFMyX2lOMElxQ1RmN2h4XzA1UUFCbHl1WF9SNWJkSTdJZVMxVjV4MDVaRGUxam9MSC1Ga2ZVUmx4ZE1YZWF2Nk5TREJjd3hyRGd4amNpamFRNE1vYzlTQdIBuwFBVV95cUxOZW5HQzlaUDRkN2syOGlqa3JGYXZjUlgxYW9OS2VTdHVJYkVxNktCME1fUFRRMEhUVV9qSWg2b3pWaXA1N0V1UnZ0NWhiUzdyRFpsanZqNVpfSlFESU55cDA5a0Q0RFlpejFnV2N0QWFERFB4dnQ1U3lqbHRZdVpFeV91Z284Vkc3QkxVbDRIaHdEVWxveE0xT3dGSVU3WG1XRmdzdGRtbFpGbEwwWGc3SDNfUTh5QjNxeks4",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788728040.0
-    },
-    {
-        "id": "2d4d9ca0f0",
-        "title_fa": "هزینه انرژی جنگ ایران برای آمریکایی‌ها به 100 میلیارد دلار رسید",
-        "title_en": "Iran War Energy Costs Hit $100 Billion for Americans",
-        "summary": [
-            "The Iran war has cost Americans $100 billion in higher energy prices, according to a real-time estimate from Brown University..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/iran-war-energy-costs-hit-194547918.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/iran-war-energy-costs-hit-194547918.html",
-        "image": "https://www.bing.com/th?id=ONUT.nEfmZeqBLIoQAtrH_0mpdA",
-        "timestamp": 1788727739.0
     }
 ]
