@@ -1,5 +1,25 @@
 [
     {
+        "id": "20e153d380",
+        "title_fa": "پیمان دفاعی مکه؛ هند باید هوشیار باشد",
+        "title_en": "India and the strange new geometry of power in West Asia",
+        "summary": [
+            "پیمان دفاعی میان عربستان، پاکستان و ترکیه به‌صورت دائمی در ریاض شکل گرفت",
+            "هدف اتحاد تقویت بازدارندگی جمعی و همکاری صنعتی نظامی است",
+            "این ساختار می‌تواند تعادل قدرت در غرب آسیا را برای هند تغییر دهد",
+            "نامزد پاکستانی به‌عنوان دبیرکل نشان‌دهنده نقش کلیدی پاکستان در رهبری است"
+        ],
+        "impact": "هند ممکن است استراتژی‌های نظامی‑اقتصادی خود را در غرب آسیا بازنگری کند",
+        "tag": "دفاع",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/opinion/india-and-the-strange-new-geometry-of-power-in-west-asia-14044154.html",
+        "clean_url": "https://www.firstpost.com/opinion/india-and-the-strange-new-geometry-of-power-in-west-asia-14044154.html",
+        "image": "https://www.bing.com/th?id=ONUT.qBsMkUA43MqEN0WbGXyF6g",
+        "timestamp": 1788871649.6550155
+    },
+    {
         "id": "702ec888da",
         "title_fa": "خروج از اوپک به ونزوئلا نفت خود را پس نمی‌دهد",
         "title_en": "Leaving OPEC won’t give Venezuela its oil back",
@@ -1511,6 +1531,26 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-has-no-means-to-respond-to-us-threats-ret-marine-colonel/vi-AA2bL07O",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788817272.3809087
+    },
+    {
+        "id": "5d5af2a430",
+        "title_fa": "حمله حوثی‌ها به عربستان؛ صدمات و نوسان نفت",
+        "title_en": "Scores wounded as Iran-backed Houthis attack Saudi Arabia in major regional escalation",
+        "summary": [
+            "حوثی‌های یمن حمله موشکی گسترده‌ای به زیرساخت‌های نفتی عربستان انجام داد",
+            "صدها نفر زخمی شدند و آتش‌سوزی در چندین پالایشگاه رخ داد",
+            "قیمت نفت جهانی بالای 1٪ افزایش یافت؛ نگرانی از قطع مسیرهای صادراتی از طریق دریای سرخ",
+            "عربستان واکنش نظامی قاطع اعلام کرد و مسیرهای صادراتی را به بندر یانبو تغییر داد"
+        ],
+        "impact": "افزایش قیمت نفت و خطر گسترش درگیری‌های نیابتی در خلیج",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/08/middleeast/houthis-attack-saudi-arabia-yemen-intl-hnk",
+        "clean_url": "https://www.cnn.com/2026/09/08/middleeast/houthis-attack-saudi-arabia-yemen-intl-hnk",
+        "image": "http://www.bing.com/th?id=ONUT.QcdnW2JB67usjUMg6ih8Tg&pid=News",
+        "timestamp": 1788816180.0
     },
     {
         "id": "14dcec62e0",
@@ -5412,44 +5452,5 @@
         "clean_url": "https://www.washingtonpost.com/world/2026/09/06/us-energy-secretary-chris-wright-says-iran-nuclear-deal-may-not-happen",
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ES2AB6I2YJ34MUENBP42RYG4KU_size-normalized.jpg&w=1440",
         "timestamp": 1788718920.0
-    },
-    {
-        "id": "1daf4eed67",
-        "title_fa": "آمریکا سه تانکر نفت ایران را هدف گرفت",
-        "title_en": "Iran war latest: US hits three Iranian oil tankers",
-        "summary": [
-            "نیروهای آمریکایی در خلیج فارس به سه تانکر نفتی ایرانی حمله کردند؛ این اقدام به‌عنوان پاسخ به تهدیدات منطقه‌ای مطرح شد",
-            "حمله می‌تواند مسیر حمل و نقل نفت ایران را مختل کند و فشار اقتصادی بر تهران را افزایشی کند",
-            "تحریم‌های جدید احتمالاً به‌سرعت اعمال می‌شود و قیمت نفت در بازارهای جهانی نوسان می‌گیرد",
-            "این اقدام ریسک تشدید تنش‌های نظامی بین دو کشور را به‌طور واضح نشان می‌دهد"
-        ],
-        "impact": "کاهش توان صادرات نفتی ایران و تشدید تحریم‌های اقتصادی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Sky",
-        "url": "https://news.sky.com/story/iran-war-live-strait-of-hormuz-trump-latest-gulf-states-13509565",
-        "clean_url": "https://news.sky.com/story/iran-war-live-strait-of-hormuz-trump-latest-gulf-states-13509565",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788718529.0
-    },
-    {
-        "id": "abbeb81991",
-        "title_fa": "وزیر انرژی پس از نابودسازی سه تانکر ایرانی، واقع‌گرایی می‌گوید",
-        "title_en": "Energy secretary gives reality check after US military takes out three Iranian oil tankers",
-        "summary": [
-            "حمله نظامی آمریکا به سه تانکر نفتی ایران نشانگر تشدید فشار اقتصادی بر تهران است",
-            "هدف اصلی این اقدام قطع مسیر حمل‌ونقل نفتی و نشان دادن عزم واشنگتن برای کنترل استراتژیک دریایی است",
-            "ایران احتمالاً با پاسخ نظامی یا دیپلماتیک واکنش نشان خواهد داد و تنش‌های خلیج فارس تشدید می‌شود"
-        ],
-        "impact": "صادرات نفتی ایران به‌سرعت کاهش می‌یابد و فشار مالی بر دولت ایرانی شدت می‌گیرد",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Daily Caller on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/energy-secretary-gives-reality-check-after-us-military-takes-out-three-iranian-oil-tankers/ar-AA2bG5jE?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/energy-secretary-gives-reality-check-after-us-military-takes-out-three-iranian-oil-tankers/ar-AA2bG5jE",
-        "image": "https://www.bing.com/th?id=ONUT.K9tdHiDyTQu2ky49yIFxsA",
-        "timestamp": 1788716824.264392
     }
 ]
