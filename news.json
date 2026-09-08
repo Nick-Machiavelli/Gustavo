@@ -1966,6 +1966,25 @@
         "timestamp": 1788773160.0
     },
     {
+        "id": "3c976d0084",
+        "title_fa": "تهدید تلافی دردناک‌تر ایران پس از حمله آمریکا",
+        "title_en": "Iran threatens \"more painful\" retaliation after U.S. strikes Iranian oil tankers",
+        "summary": [
+            "آمریکا سه تانکر نفتی ایرانی را در خلیج فارس و خلیج عمان به‌طور کامل از کار انداخت؛ هیچ کشتی آمریکایی صدمه‌ای ندید.",
+            "سخنگوی مجلس ایران وعدهٔ پاسخ «شدیدتر و دردناک‌تر» داد و نشان داد که تهدید تلافی‌جویی در پیش است.",
+            "ترامپ جنگ را «سیب زمینی کوچک» نامید و سعی کرد فشار داخلی را کاهش دهد؛ این بی‌توجهی می‌تواند تنش را تشدید کند."
+        ],
+        "impact": "افزایش خطر برخورد نظامی در خلیج فارس و احتمال تحریم‌های جدید علیه ایران",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/b418a44aa221bdc67bd9bc348c7c331880e547a3db8cbfb9eaa0590f40b44ed6/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/c938b3269ee372db2af80f14cdd335a2.jpg",
+        "timestamp": 1788772920.0
+    },
+    {
         "id": "c2b71c16e6",
         "title_fa": "ترامپ مانع صلح است",
         "title_en": "Trump is the obstacle to peace",
@@ -5431,22 +5450,5 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/dr-doom-nouriel-roubini-lays-out-the-4-things-he-s-worried-about-in-the-us-economy/ar-AA2bEFGH",
         "image": "https://www.bing.com/th?id=ONUT.oFRCdn4JY_LZNLwfPH2TKw",
         "timestamp": 1788690148.9221582
-    },
-    {
-        "id": "b11425f372",
-        "title_fa": "به نظر می‌رسد جمهوری خواهان فقط زمانی که از نظر سیاسی مناسب آنها باشد، یهودی ستیزی را صدا می‌کنند. ایلان ماسک این را ثابت می‌کند.",
-        "title_en": "Republicans seem to only call out antisemitism when it suits them politically. Elon Musk proves it.",
-        "summary": [
-            "The irony of Musk’s statement is that Nazis and other white supremacist groups accused Jews of standing apart from white..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ms",
-        "url": "https://www.ms.now/opinion/musk-antisemitism-republicans-vance-piker-democrats",
-        "clean_url": "https://www.ms.now/opinion/musk-antisemitism-republicans-vance-piker-democrats",
-        "image": "https://www.bing.com/th?id=ONUT.wfZ-NU0Bxh4aYheiQCNRsQ",
-        "timestamp": 1788690148.9219837
     }
 ]
