@@ -1,5 +1,24 @@
 [
     {
+        "id": "74850a69fc",
+        "title_fa": "تشدید جنگ‌دریایی ایران و آمریکا",
+        "title_en": "Iran, US escalate naval war as conflict flares up",
+        "summary": [
+            "هر دو طرف در خلیج فارس به‌صورت فعال به‌دست‌گیری و تهدید کشتی‌ها پرداخته‌اند.",
+            "تشدید درگیری می‌تواند مسیرهای نفتی را مسدود کرده و هزینه‌های حمل‌ونقل را بالا ببرد.",
+            "جامعه بین‌المللی احتمالاً با فشارهای دیپلماتیک و تحریم‌های جدید واکنش نشان خواهد داد."
+        ],
+        "impact": "مسدود شدن مسیرهای نفتی خلیج فارس و افزایش هزینه‌های انرژی جهانی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Amwaj.media",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1dId0MxUjVNS3dZSmpUMTlqM1R0bFkyMlJ6MlRiQWxrSm1YbUNTTEs0ZXFFbkhZa3lqSDNBbl9RZGhsaDlaZmZEQUJwS0xXOVEtejBmcGlSbldUcGRSQVBSQ0syNThnY3hjQlhGZXdpdHhrWVE3dDgtVG9XNVJIM2RVd0JQSHlJNXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1dId0MxUjVNS3dZSmpUMTlqM1R0bFkyMlJ6MlRiQWxrSm1YbUNTTEs0ZXFFbkhZa3lqSDNBbl9RZGhsaDlaZmZEQUJwS0xXOVEtejBmcGlSbldUcGRSQVBSQ0syNThnY3hjQlhGZXdpdHhrWVE3dDgtVG9XNVJIM2RVd0JQSHlJNXc",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788828300.0
+    },
+    {
         "id": "427a96d08d",
         "title_fa": "هشدار جهانی بر سلاح‌های خودکار",
         "title_en": "Autonomous weapons and killer robots: New warnings, old habits",
@@ -5432,23 +5451,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/news/putin-confident-he-will-capture-donbas-by-year-end-reuters/ar-AA2bF4qZ",
         "image": "https://www.bing.com/th?id=ONUT.pXKvMslrYGn2X5TyJ2Feag",
         "timestamp": 1788683024.0652025
-    },
-    {
-        "id": "f43dd92ea3",
-        "title_fa": "تشدید درگیری آمریکا‑ایران در تنگه هرمز",
-        "title_en": "The U.S .and Iran are intensifying attacks in the Strait of Hormuz",
-        "summary": [
-            "هر دو طرف به‌صورت متقابل به کشتی‌ها و زیرسطوح در هرمز شلیک کردند؛ ایالات متحده سه کشتی ایرانی را نابود کرد و ایران سوبمارین آمریکایی را هدف گرفت",
-            "فرمانده سیتادام براد کوپر هشدار داد که پاسخ آمریکا می‌تواند «قوی‌تر» باشد؛ خطر گسترش جنگ‌ناشای در مسیرهای نفتی خلیج فارس بالا رفت"
-        ],
-        "impact": "اختلال شدید در عبور کشتی‌های تجاری و خطر گسترش درگیری نظامی در مسیرهای نفتی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/09/06/g-s1-142193/us-iran-attacks-strait-of-hormuz",
-        "clean_url": "https://www.npr.org/2026/09/06/g-s1-142193/us-iran-attacks-strait-of-hormuz",
-        "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-        "timestamp": 1788682620.0
     }
 ]
