@@ -1,5 +1,22 @@
 [
     {
+        "id": "79df16c458",
+        "title_fa": "خلاصه سرمقاله: ایالات متحده",
+        "title_en": "Editorial roundup: United States",
+        "summary": [
+            "Excerpts from recent editorials in the United States and abroad: ___ Sept. 4 The Washington Post says Trump's inflation plan is to extort the Fed President Donald Trump’s preferred monetary policy is..."
+        ],
+        "impact": "...",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/money/general/editorial-roundup-united-states/ar-AA2bPOyC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/editorial-roundup-united-states/ar-AA2bPOyC",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788911246.1929133
+    },
+    {
         "id": "a30799ee25",
         "title_fa": "خبرنگار 60 Minutes به تسلط بی‌سوادان بر CBS هشدار داد",
         "title_en": "Ousted '60 Minutes' journalist breaks silence on MAGA mouthpiece 'dilettantes' at CBS",
@@ -5378,23 +5395,5 @@
         "clean_url": "https://communist.red/the-biggest-oil-heist-in-world-history",
         "image": "https://communist.red/wp-content/uploads/2026/09/Trump_oil_Image_own_work.jpg",
         "timestamp": 1788780265.268402
-    },
-    {
-        "id": "535843e12f",
-        "title_fa": "سخنرانی سرپرست کارگری ترامپ به کارگران",
-        "title_en": "I'm the acting secretary of Labor and I'm here to say thank you to the American worker",
-        "summary": [
-            "سرپرست کارگری ادعای قدردانی از کارگران آمریکایی را تکرار کرد",
-            "به دستاوردهای تاریخی آمریکا اشاره شد بدون اشاره به سیاست‌های جاری"
-        ],
-        "impact": "تقویت روایت ملی‌گرایانه در میان کارگران",
-        "tag": "کار",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/acting-secretary-labor-thank-american-worker",
-        "clean_url": "https://www.foxnews.com/opinion/acting-secretary-labor-thank-american-worker",
-        "image": "https://www.bing.com/th?id=ONUT.r66jWFDTM6fjcOPxvK0esw",
-        "timestamp": 1788780265.2674887
     }
 ]
