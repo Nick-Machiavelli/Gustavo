@@ -1,5 +1,23 @@
 [
     {
+        "id": "c1b57cf130",
+        "title_fa": "مقاله نظری NDTV درباره اقتصاد جدید عدم قطعیت",
+        "title_en": "Opinion | India And The New Economics of Uncertainty",
+        "summary": [
+            "متن مقاله در دسترس نیست؛ فقط لینک شکسته‌ای ارائه شده",
+            "به دلیل عدم وجود محتوا نمی‌توان نکات تحلیلی یا پیامدهای اقتصادی را استخراج کرد"
+        ],
+        "impact": "اطلاعات کافی برای ارزیابی اثر اقتصادی موجود نیست",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/opinion/india-and-the-new-economics-of-uncertainty-12017497",
+        "clean_url": "https://www.ndtv.com/opinion/india-and-the-new-economics-of-uncertainty-12017497",
+        "image": "https://www.bing.com/th?id=ONUT.0nW7DvxzPYNOtwE0M_UOcw",
+        "timestamp": 1788862466.1165297
+    },
+    {
         "id": "143d4728a9",
         "title_fa": "خبر بین‌المللی — ترامپ, GOP turn up heat به ensure fairness, purge wokism در",
         "title_en": "Trump, GOP turn up the heat to ensure fairness, purge wokism on campuses",
@@ -573,6 +591,24 @@
         "timestamp": 1788836584.1639736
     },
     {
+        "id": "d49c8d0b04",
+        "title_fa": "قیمت نفت به $100 نزدیک؛ ایران تهدید به منطقه‌گیری دریایی",
+        "title_en": "Price of crude oil nears $100 a barrel as U.S.-Iran stalemate continues",
+        "summary": [
+            "قیمت نفت برنت به 99 دلار رسید؛ افزایش ناشی از تنش‌های ایالات متحده‑ایران است",
+            "نهاد امنیت ملی ایران اعلام کرد منطقه‌گیری دریایی در تنگه هرمز ایجاد می‌کند و موشک‌های جدید می‌تواند ناوهای آمریکایی را هدف بگیرد"
+        ],
+        "impact": "افزایش قیمت نفت و تهدیدات نظامی می‌تواند نوسانات شدید در بازارهای جهانی و فشار اقتصادی بر آمریکا ایجاد کند",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-seeks-more-control-strait-080632293.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-seeks-more-control-strait-080632293.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/fb41a0e3e836824ef731be729e4f4b0c1bd47ac4db834750e145bf5284107785/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F44dc6e73ee02f2a1cd02040a868b66b8.jpg",
+        "timestamp": 1788834180.0
+    },
+    {
         "id": "6b132f2cc1",
         "title_fa": "خبر بین‌المللی — US-Saudi هسته‌ای deal comes with collateral damage برای non-",
         "title_en": "US-Saudi nuclear deal comes with collateral damage for non-proliferation",
@@ -808,6 +844,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZWXFva3llMnEyVWRyanpTUWR6bWxxamVkbUxmTHVUY003ZXE4NVVrbVcwcTRfZlVQeXVlZTF0bW9iSXpmTHliZW4wWU1UUHlSWXc",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788826011.0
+    },
+    {
+        "id": "72f07d92a0",
+        "title_fa": "گرسّی هشدار جدی به برنامه هسته‌ای ایران",
+        "title_en": "Grossi Sounds Alarm on Iran's Nuclear Program",
+        "summary": [
+            "آی‌اِی‌اِی‌ا اعلام کرد که ایران اطلاعاتی درباره وضعیت تأسیسات هسته‌ای خود ارائه نکرده و دسترسی به آن‌ها مسدود است",
+            "عدم همکاری ایران ریسک گسترش فناوری هسته‌ای را بالا می‌برد و می‌تواند منجر به تحریم‌های سخت‌تر بین‌المللی شود"
+        ],
+        "impact": "فقدان شفافیت ایران فشار دیپلماتیک و اقتصادی را بر علیه جمهوری اسلامی تشدید می‌کند",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/world/5315862-grossi-sounds-alarm-irans-nuclear-program",
+        "clean_url": "https://english.aawsat.com/world/5315862-grossi-sounds-alarm-irans-nuclear-program",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1762476_0.jpeg.webp?VersionId=yDCJrR8AmTF7oU_OBRRQUx_8uUhVoloy",
+        "timestamp": 1788825600.0
     },
     {
         "id": "ef5707d22a",
@@ -5386,59 +5440,5 @@
         "clean_url": "https://www.morninghoney.com/p/donald-trump-sparks-wig-rumors-again-with-dramatically-different-hairdo",
         "image": "https://www.bing.com/th?id=ONUT.jAQ9m-wQnOOzPSxfpFHsyw",
         "timestamp": 1788705753.0
-    },
-    {
-        "id": "ef7ed61094",
-        "title_fa": "ژنرال ارمنی که از حضور نظامی روسیه حمایت می‌کرد، می‌گوید که تابعیت خود را رها کرده است",
-        "title_en": "Armenian general who advocated Russian military presence says he has renounced citizenship",
-        "summary": [
-            "Grigoryants, a former Soviet military commander who played a prominent role in the formation of Armenia’s armed forces and..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/region/263510.html",
-        "clean_url": "https://www.azernews.az/region/263510.html",
-        "image": "https://www.bing.com/th?id=ONUT.p_kG8Gj70BQN_HfwTm6Ucg",
-        "timestamp": 1788705753.0
-    },
-    {
-        "id": "59b1fdecc6",
-        "title_fa": "اطلاعات کافی برای تحلیل موجود نیست",
-        "title_en": "Iran, US Trade Tit-for-Tat Tanker Attacks as War Drags On",
-        "summary": [
-            "متن خبر حاوی محتوای خبری معتبر نیست"
-        ],
-        "impact": "عدم تأثیر عملی",
-        "tag": "نامشخص",
-        "urgency": 1,
-        "sentiment": 0,
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-09-06/iran-us-trade-tit-for-tat-tanker-attacks-as-war-drags-on",
-        "clean_url": "https://www.bloomberg.com/news/newsletters/2026-09-06/iran-us-trade-tit-for-tat-tanker-attacks-as-war-drags-on",
-        "image": "http://www.bing.com/th?id=ONUT.MrAftOf5tExdycfgZp5EDQ&pid=News",
-        "timestamp": 1788705120.0
-    },
-    {
-        "id": "a275dcf48b",
-        "title_fa": "ایران موشک بالستیک به هدف‌های آمریکایی شلیک کرد",
-        "title_en": "Iran launches new ballistic missile strikes in Hormuz and targets US base in Jordan",
-        "summary": [
-            "ایران سه موشک ضدکشتی بالستیک در تنگه هرمز پرتاب کرد و هدف انتقال نفت را هدف قرار داد",
-            "یک موشک به پایگاه نظامی آمریکا در اردن رسید و خسارات احتمالی ایجاد کرد",
-            "تهران این حملات را واکنش به حملات آمریکا به تانکرهای ایرانی می‌داند و آن را «جنایت جنگی» خوانده",
-            "گام ایران نشان از تغییر به استراتژی پیش‌دستی و خطر تشدید درگیری در خاورمیانه دارد"
-        ],
-        "impact": "مناطق حمل‌ونقل انرژی و نیروهای آمریکایی در خاورمیانه با خطر مستقیم مواجه می‌شوند",
-        "tag": "موشک",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "bankingnews.gr",
-        "url": "https://www.bankingnews.gr/diethni/articles/897699/iran-launches-new-ballistic-missile-strikes-in-hormuz-and-targets-us-base-in-jordan",
-        "clean_url": "https://www.bankingnews.gr/diethni/articles/897699/iran-launches-new-ballistic-missile-strikes-in-hormuz-and-targets-us-base-in-jordan",
-        "image": "https://www.bankingnews.gr/media/k2/items/cache/c28e0da9d6c7e4efd1945dedf655c245_XL.jpg",
-        "timestamp": 1788704760.0
     }
 ]
