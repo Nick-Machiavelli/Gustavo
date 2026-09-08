@@ -1,5 +1,63 @@
 [
     {
+        "id": "e1a25ba188",
+        "title_fa": "بیمه مدیکیر پوشش CBD را گسترش داد",
+        "title_en": "Medicare now covers CBD, but Congress wants to ban it | Opinion",
+        "summary": [
+            "برنامه آزمایشی مدیکیر محصولات CBD را تحت پوشش قرار داد",
+            "کنگره در حال پیش‌نویس قانونی برای ممنوعیت این محصولات است",
+            "این تضاد می‌تواند دسترسی بیماران به درمان‌های کم‌ریسک را محدود کند"
+        ],
+        "impact": "ممنوعیت کنگره می‌تواند دسترسی بیماران به CBD را قطع کند",
+        "tag": "بهداشت",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/medicare-now-covers-cbd-congress-093058693.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/medicare-now-covers-cbd-congress-093058693.html",
+        "image": "https://www.bing.com/th?id=ONUT.LqP7AfgwEBeA5BJHuBZu-w",
+        "timestamp": 1788861133.5238194
+    },
+    {
+        "id": "c81581a220",
+        "title_fa": "افزایش بنزین و حضور گسترده نیروهای امنیتی",
+        "title_en": "استقرار گسترده نیروهای سرکوبگر در شهرها همزمان با افزایش قیمت بنزین",
+        "summary": [
+            "قیمت بنزین سوم به ۱۰ هزار تومان ارتقا یافت",
+            "نیروهای امنیتی در شهرهای مختلف اطراف پمپ‌ها مستقر شدند",
+            "کاربران گزارش کاهش سرعت اینترنت در برخی مناطق کردند",
+            "ترکیب این عوامل می‌تواند نارضایتی عمومی را تشدید کند"
+        ],
+        "impact": "افزایش هزینه سوخت و حضور نیروی امنیتی می‌تواند اعتراضات مردمی را برانگیزد",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609085933",
+        "clean_url": "https://www.iranintl.com/202609085933",
+        "image": "https://www.bing.com/th?id=ONUT.tXHnTNCZjTdeAGycJEl90A",
+        "timestamp": 1788861133.5231855
+    },
+    {
+        "id": "ba672bc8c6",
+        "title_fa": "تورم ناشی از سیاست‌های ترامپ فشار بر فدرال رزرو",
+        "title_en": "Trumpflation is a problem for Fed Chair Kevin Warsh, but it's not the only serious inflationary threat",
+        "summary": [
+            "مقاله می‌گوید تورم ناشی از سیاست‌های مالی ترامپ فشار جدیدی بر فدرال رزرو ایجاد کرده",
+            "علاوه بر این، عوامل دیگر مانند هزینه‌های انرژی و زنجیره تأمین نیز به افزایش قیمت‌ها کمک می‌کنند",
+            "این ترکیب خطرات تورمی را برای اقتصاد آمریکا تشدید می‌کند"
+        ],
+        "impact": "فشار تورمی ناشی از سیاست‌های ترامپ می‌تواند نرخ بهره فدرال را بالا ببرد",
+        "tag": "تورم",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Motley Fool on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/trumpflation-is-a-problem-for-fed-chair-kevin-warsh-but-it-s-not-the-only-serious-inflationary-threat/ar-AA2bMwtp?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/trumpflation-is-a-problem-for-fed-chair-kevin-warsh-but-it-s-not-the-only-serious-inflationary-threat/ar-AA2bMwtp",
+        "image": "https://www.bing.com/th?id=ONUT.PEfR6OWOYXJ6cbPQhsvJtQ",
+        "timestamp": 1788861133.5228696
+    },
+    {
         "id": "0df8965406",
         "title_fa": "کانادا تعرفه های تلافی جویانه ایالات متحده را آغاز می‌کند، حوثی های مورد حمایت ایران به عربستان سعودی حمله می‌کنند: به روز رسانی زنده",
         "title_en": "Canada Launches Retaliatory U.S. Tariffs, Iran-Backed Houthis Attack Saudi Arabia: Live Updates",
@@ -1194,6 +1252,25 @@
         "timestamp": 1788810446.0
     },
     {
+        "id": "bc0ee624d9",
+        "title_fa": "ایران تهدید به موشک جدید علیه ناوهای آمریکا",
+        "title_en": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
+        "summary": [
+            "ایران اعلام کرد موشک پیشرفته‌ای به ناوهای آمریکایی شلیک کرده",
+            "در عین حال، تهدید به «جنگ اقتصادی» علیه ایالات متحده کرد",
+            "این حرکت می‌تواند فشار دیپلماتیک و نظامی را افزایش دهد"
+        ],
+        "impact": "ممکن است تنش‌های نظامی ایران‑آمریکا به سرعت تشدید شود",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/ar-AA2bLuVP",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/ar-AA2bLuVP",
+        "image": "http://www.bing.com/th?id=ONUT.qrBEuQiL_XPCK6N1d620Bw&pid=News",
+        "timestamp": 1788808690.0
+    },
+    {
         "id": "3ac1afc882",
         "title_fa": "تهدید مسلحانه داخلی ایران",
         "title_en": "The domestic armed threat facing Iran",
@@ -1678,6 +1755,25 @@
         "timestamp": 1788791828.0166497
     },
     {
+        "id": "bf7e2a365a",
+        "title_fa": "راهنمای UPSC: روابط چین و اقتصاد جهانی",
+        "title_en": "UPSC Key: Chief Justice of High Court, Salwa Judum and Sovereign Credit Rating",
+        "summary": [
+            "مقاله به اهمیت روابط چین برای آزمون UPSC اشاره می‌کند",
+            "مباحثی مثل نقدینگی اضافی و تحریم‌های اقتصادی در سرفصل‌های آزمون گنجانده شده‌اند",
+            "داوطلبان باید این موضوعات را در هر دو مرحله آزمون بررسی کنند"
+        ],
+        "impact": "آگاهی از روابط چین برای داوطلبان UPSC می‌تواند نمره‌های کلیدی را بهبود بخشد",
+        "tag": "آزمون",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-chief-justice-of-high-court-salwa-judum-and-sovereign-credit-rating-10867409/",
+        "clean_url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-chief-justice-of-high-court-salwa-judum-and-sovereign-credit-rating-10867409",
+        "image": "https://images.indianexpress.com/2026/09/UPSC-Key-7th-Sept-2026.jpg",
+        "timestamp": 1788791460.0
+    },
+    {
         "id": "ecfe23b0a0",
         "title_fa": "موشک بالستیک جدید ایران: پیش‌دستی علیه هر تهدید",
         "title_en": "Iran says improved ballistic missile shows it will take preemptive action against threats",
@@ -1817,6 +1913,26 @@
         "clean_url": "https://cryptobriefing.com/iran-halts-iaea-nuclear-inspections-standoff",
         "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07092748/library-iran-halts-iaea-nuclear-inspections-as-standoff-surpasse-800x450.png",
         "timestamp": 1788787620.0
+    },
+    {
+        "id": "c35a419e14",
+        "title_fa": "صندوق ثروت ملی روسیه به ۱۵۴ میلیارد دلار رسید",
+        "title_en": "Russia's National Wealth Fund totals $154 bln as of September 1 — finance ministry",
+        "summary": [
+            "صندوق ثروت ملی ۱۳.۱۹ تریلیون روبل (۱۵۴ میلیارد دلار) شد",
+            "دارایی‌های نقدی ۴ تریلیون روبل (۴۶.۷ میلیارد دلار) است",
+            "درآمدهای ارزی تا اوت ۲۰۲۶ حدود ۷۰.۸ میلیون دلار بود",
+            "این ارقام نشان‌دهنده توان مالی روسیه در مواجهه با تحریم‌هاست"
+        ],
+        "impact": "حجم عظیم صندوق به روسیه امکان حمایت از هزینه‌های دفاعی و اقتصادی را می‌دهد",
+        "tag": "مالی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2183691",
+        "clean_url": "https://tass.com/economy/2183691",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1788787140.0
     },
     {
         "id": "bf5fc3b33b",
@@ -5330,112 +5446,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2xpdE5HdkkyNmp2a1hxZnpsal83dWRsdFpfemVQdHFuS3pBVFJPSndsZFNiYzVOVDRQWDNRb3JXa041QkoyOGt6SEJHMTc1U2FCdENUbUNzZTgzcDZreVhNSmQ5ajgwdkN1TEYwcFZ2d0FjbEVEMEN2VlZnWGRGUXNLc9IBiAFBVV95cUxQUU5keWo1eG1yTzJHaHNXSUVSLVJQYTJaT0xoVlVlVkc0ajRYcG9PZjlNMXVubXpJbmQ3bjF5S2pGcWQ5eVpCNWJ3eFlIZEEtaDg0WHZ4Ym9VOE1odDdpTFdFYlRidUMxVFdLbXpUZVVYTFJTcnI5UUMzV2dhSnEyWDdoUGFQRUNo",
         "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788703920.0
-    },
-    {
-        "id": "48a4479401",
-        "title_fa": "گالیباف: پاسخ دردناک‌تر به هر حمله آمریکا",
-        "title_en": "Iran warns US of 'more painful' response after latest strikes as Hormuz tensions rise",
-        "summary": [
-            "گالیباف گفت دوره پاسخ متناسب به پایان رسیده و هر تجاوزی با واکنش سریع و شدید مواجه می‌شود.",
-            "ایالات متحده با اعمال تحریم‌های جدید فشار اقتصادی بر ایران را تشدید کرده است.",
-            "کنترل ایران بر تنگه هرمز و واکنش‌های احتمالی واشنگتن می‌تواند خطر گسترش درگیری را بالا ببرد."
-        ],
-        "impact": "تهدید گسترش درگیری در تنگه هرمز و تشدید تحریم‌های اقتصادی علیه ایران.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/iran-warns-us-of-more-painful-response-after-latest-strikes-as-hormuz-tensions-rise-article-14023748.html",
-        "clean_url": "https://www.moneycontrol.com/world/iran-warns-us-of-more-painful-response-after-latest-strikes-as-hormuz-tensions-rise-article-14023748.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260826120830_Hormuz-New-8.jpg",
-        "timestamp": 1788703800.0
-    },
-    {
-        "id": "68cd233d58",
-        "title_fa": "۲۳ میلیون یورو برای خنک‌سازی مدارس کستیا لا مانچا",
-        "title_en": "Castilla-La Mancha aprobará una inversión de 23 millones para climatizar los centros de titularidad de la Junta",
-        "summary": [
-            "مجلس منطقه‌ای کستیا لا مانچا ۲۳ میلیون یورو برای نصب سیستم‌های تهویه در مدارس دولتی تصویب کرد",
-            "بهبود کیفیت هوای داخل کلاس‌ها می‌تواند حضور دانش‌آموزان و عملکرد تحصیلی را ارتقا دهد",
-            "پروژه باعث ایجاد مشاغل موقت در بخش ساخت و نصب خواهد شد",
-            "در درازمدت هزینه‌های انرژی و نگهداری مدارس کاهش می‌یابد"
-        ],
-        "impact": "محیط آموزشی راحت‌تر، کاهش غیبت دانش‌آموزان و صرفه‌جویی انرژی در سال‌های آینده",
-        "tag": "آموزش",
-        "urgency": 2,
-        "sentiment": 0.7,
-        "source": "Europa Press on MSN",
-        "url": "https://www.msn.com/es-es/política/gobierno/castilla-la-mancha-aprobará-una-inversión-de-23-millones-para-climatizar-los-centros-de-titularidad-de-la-junta/ar-AA2bJYdr?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/es-es/política/gobierno/castilla-la-mancha-aprobará-una-inversión-de-23-millones-para-climatizar-los-centros-de-titularidad-de-la-junta/ar-AA2bJYdr",
-        "image": "https://www.bing.com/th?id=ONUT.ssHV4ICAiL6XZ3yHy8CGOA",
-        "timestamp": 1788703394.0
-    },
-    {
-        "id": "4b50737010",
-        "title_fa": "خبر بین‌المللی — US, اسرائیل must be promptly engaged در discussion در Middle",
-        "title_en": "US, Israel must be promptly engaged in discussion on Middle East security — Lavrov",
-        "summary": [
-            "The United States and Israel should promptly engage in discussions on Middle East security before new election cycles begin, Russian Foreign Minister Sergey Lavrov said during a meeting with students..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2183663",
-        "clean_url": "https://tass.com/politics/2183663",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1788702692.0
-    },
-    {
-        "id": "f5e0dc63ce",
-        "title_fa": "شکست ناهید کیانی و امیرسینا بختیاری در گرندپری تکواندو",
-        "title_en": "شکست ناهید کیانی و امیرسینا بختیاری در گرندپری تکواندو",
-        "summary": [
-            "ناهید کیانی و امیرسینا بختیاری، دو نماینده ایران، در روز دوم مرحله دوم رقابتهای گرندپری تکواندو ۲۰۲۶ با شکست مقابل رقبای خود..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609062295",
-        "clean_url": "https://www.iranintl.com/202609062295",
-        "image": "https://www.bing.com/th?id=ONUT.huuhVBPxMYdaTo7FyEexDA",
-        "timestamp": 1788702422.7190263
-    },
-    {
-        "id": "3d09a0a423",
-        "title_fa": "آذربایجان پیش از COP31 خواستار همکاری قوی تر در زمینه آب و هوا است",
-        "title_en": "Azerbaijan calls for stronger climate cooperation ahead of COP31",
-        "summary": [
-            "Climate disasters could put even more pressure on vulnerable economies, COP29 President and Azerbaijani President’s Climate..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/nation/263499.html",
-        "clean_url": "https://www.azernews.az/nation/263499.html",
-        "image": "https://www.bing.com/th?id=ONUT.9EiadtVmORDWLFP5oeefpg",
-        "timestamp": 1788701903.0
-    },
-    {
-        "id": "d49c8d0b04",
-        "title_fa": "قیمت نفت در حالی افزایش می‌یابد که ایران می‌گوید کنترل تنگه هرمز را گسترش خواهد داد",
-        "title_en": "Oil prices up as Iran says it will expand control over Strait of Hormuz",
-        "summary": [
-            "Prices shot up after the U.S. and Israel attacked Iran in February and have not settled down since. Crude oil traffic through the key Strait of Hormuz has plunged, and Iran has refused to reopen the..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-seeks-more-control-strait-080632293.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-seeks-more-control-strait-080632293.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/b908defcff231e901a02cbeeeb0c103fd5aface1a197d81674ccd00f2b10c195/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fff1230a8e61f924f7f6bd06d9fa4fac2.jpg",
-        "timestamp": 1788701903.0
     }
 ]
