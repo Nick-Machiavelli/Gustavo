@@ -1,5 +1,23 @@
 [
     {
+        "id": "9ebc612af3",
+        "title_fa": "کارلسن علیه ترامپ؛ هانسون هشدار بزرگ‌ترین اشتباه",
+        "title_en": "Tucker Carlson turned against Trump, Victor Davis Hanson says he's about to make the worst mistake of his career",
+        "summary": [
+            "ویدئویی نشان می‌دهد کارلسن روابطش با ترامپ را قطع کرده و به سمت انتقادات جدی می‌رود.",
+            "هانسون پیش‌بینی می‌کند این جدایی می‌تواند بزرگ‌ترین اشتباه سیاسی کارلسن باشد."
+        ],
+        "impact": "تضعیف اتحاد جناح راست در رسانه‌های محافظه‌کار ایالات متحده",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Ben Dykes on MSN",
+        "url": "https://www.msn.com/en-us/news/other/tucker-carlson-turned-against-trump-victor-davis-hanson-says-he-s-about-to-make-the-worst-mistake-of-his-career-my-take/vi-AA2bOdk3?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/tucker-carlson-turned-against-trump-victor-davis-hanson-says-he-s-about-to-make-the-worst-mistake-of-his-career-my-take/vi-AA2bOdk3",
+        "image": "https://www.bing.com/th?id=ONUT.h1_49Kz30Ceh-FqEQkfakQ",
+        "timestamp": 1788873980.1588523
+    },
+    {
         "id": "10702fb5fe",
         "title_fa": "چه کسی واقعاً در اشتباه دفاعی تاریخی ایالات متحده مقصر است",
         "title_en": "Who’s really to blame for the US’ historic defense blunder",
@@ -2507,6 +2525,25 @@
         "clean_url": "https://cryptobriefing.com/iran-halts-iaea-nuclear-inspections-standoff",
         "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07092748/library-iran-halts-iaea-nuclear-inspections-as-standoff-surpasse-800x450.png",
         "timestamp": 1788787620.0
+    },
+    {
+        "id": "b7bc9060cc",
+        "title_fa": "شکست آتش‌بس یمن؛ حمله هوایی هوثی‌ها به عربستان",
+        "title_en": "Yemen truce unravels as Houthis attack Saudi Arabia and ground fighting intensifies",
+        "summary": [
+            "پس از چهار سال آتش‌بس، جنگ در یمن دوباره شعله‌ور شد و درگیری‌های زمینی گسترش یافت.",
+            "هوثی‌ها موشک و پهپاد به تأسیسات نفتی جنوب عربستان پرتاب کردند؛ ۷۳ نفر مجروح و چند مرکز انرژی بسته شد.",
+            "عربستان در عرض ساعت با حملات هوایی در ماریب، تایز و الوظیعه واکنش نشان داد و تنش‌ها تشدید شد."
+        ],
+        "impact": "توقف تولید نفت در عربستان و تشدید تنش‌های امنیتی خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/article/hjehddaogg",
+        "clean_url": "https://www.ynetnews.com/article/hjehddaogg",
+        "image": "https://www.bing.com/th?id=ONUT.2Y581Asvjfx5QCZYDt0AqQ",
+        "timestamp": 1788787570.0
     },
     {
         "id": "c35a419e14",
@@ -5416,39 +5453,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/macklemore-calls-for-free-palestine-onstage-during-ed-sheeran-tour/ar-AA2bGiDe",
         "image": "https://s.yimg.com/lo/mysterio/api/e06699684043c8957091ee0fb5bdeb95cd178ff5d09390c775906abfb753b575/lightyear_networkapi/resizefill_w976;quality_80;format_webp/https://media.zenfs.com/en/variety.com/151cbff1c3ef4e3f92ba6cf698e66d42.jpg",
         "timestamp": 1788720557.0
-    },
-    {
-        "id": "8a8a9fff21",
-        "title_fa": "با شعله ور شدن جنگ ایران، دونالد ترامپ به دنبال خروجی برای کاهش دردهای سیاسی فزاینده است",
-        "title_en": "As the Iran war flares, Donald Trump looks for an exit to ease mounting political pain",
-        "summary": [
-            "The Iran war is showing signs it could drag on into next year as Iran seemingly looks to prolong Donald Trump's political..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ABC (Australian Broadcasting Corporation)",
-        "url": "https://www.abc.net.au/news/2026-09-07/iran-war-donald-trump-running-out-of-cards-in-war-he-cannot-end/107114640",
-        "clean_url": "https://www.abc.net.au/news/2026-09-07/iran-war-donald-trump-running-out-of-cards-in-war-he-cannot-end/107114640",
-        "image": "https://www.bing.com/th?id=ONUT.xLHBfhU1bIcJsnvw2SJnNQ",
-        "timestamp": 1788720479.603467
-    },
-    {
-        "id": "95a2cb6ada",
-        "title_fa": "خبر بین‌المللی — US presence در Gulf 'not enough' برای security, Qatari offic",
-        "title_en": "US presence in Gulf 'not enough' for security, Qatari official says",
-        "summary": [
-            "Foreign ministry spokesperson Majed al-Ansari seemed to encourage a diversification away from sole reliance on Washington..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/news/us-presence-gulf-region-not-enough-security-qatari-official-says",
-        "clean_url": "https://www.middleeasteye.net/news/us-presence-gulf-region-not-enough-security-qatari-official-says",
-        "image": "https://www.bing.com/th?id=ONUT.aNeTzJTYgMoou0uM1XbHow",
-        "timestamp": 1788720265.0
     }
 ]
