@@ -1,5 +1,41 @@
 [
     {
+        "id": "a82bd03670",
+        "title_fa": "ترامپ وعدهٔ بنزین ۲ دلاری را به تعویق انداخت",
+        "title_en": "Trump moves goalposts on $2 gasoline promise ahead of midterms",
+        "summary": [
+            "پیشنهاد بنزین ارزان پیش از انتخابات اجرا نشد و قیمت همچنان بالاست",
+            "قیمت سوخت بالا فشار هزینهٔ زندگی را تشدید می‌کند"
+        ],
+        "impact": "کاهش اعتبار ترامپ در میان رأی‌دهندگان می‌شود",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "MeidasTouch News on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/trump-moves-goalposts-on-2-gasoline-promise-ahead-of-midterms/ar-AA2bNTdz?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/trump-moves-goalposts-on-2-gasoline-promise-ahead-of-midterms/ar-AA2bNTdz",
+        "image": "https://www.bing.com/th?id=ONUT.gElTyUH9npdAGpQ0JoUwbQ",
+        "timestamp": 1788872665.678638
+    },
+    {
+        "id": "7f8b7aaa19",
+        "title_fa": "توافق تاریخی ترامپ با ونزوئلا و اثر بر هزینهٔ زندگی",
+        "title_en": "Trump made a historic oil deal with Venezuela - then the cost of living equation started to change",
+        "summary": [
+            "توافق نفتی با ونزوئلا عرضهٔ نفت آمریکا را افزایش داد",
+            "با این حال قیمت بنزین داخلی ثابت مانده؛ مشکل هزینهٔ زندگی ریشه عمیق‌تری دارد"
+        ],
+        "impact": "کاهش کوتاه‌مدت قیمت بنزین ممکن است اما فشار کلی هزینه‌ها باقی می‌ماند",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Ben Dykes on MSN",
+        "url": "https://www.msn.com/en-us/money/general/trump-made-a-historic-oil-deal-with-venezuela-then-the-cost-of-living-equation-started-to-change-my-take/vi-AA2bNwot?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/trump-made-a-historic-oil-deal-with-venezuela-then-the-cost-of-living-equation-started-to-change-my-take/vi-AA2bNwot",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788872665.6782396
+    },
+    {
         "id": "20e153d380",
         "title_fa": "پیمان دفاعی مکه؛ هند باید هوشیار باشد",
         "title_en": "India and the strange new geometry of power in West Asia",
@@ -2493,6 +2529,25 @@
         "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-07-26",
         "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/a11f43f066a4370039b40387602749f0.jpg?ve=1&tl=1",
         "timestamp": 1788786600.0
+    },
+    {
+        "id": "0a3218ead8",
+        "title_fa": "برادران اسرائیلی با ساخت پیش‌ساخت‌ها، گسترش شهرک‌های غیرقانونی در کرانه",
+        "title_en": "How two Israeli brothers are driving a West Bank settler land grab",
+        "summary": [
+            "شرکت لبی با تولید خانه‌های پیش‌ساخت، سرعت گسترش شهرک‌های غیرمجاز را افزایش می‌دهد",
+            "این کار مستقیماً منجر به رانده شدن فلسطینیان از زمین‌هایشان می‌شود",
+            "نشانه‌ای از حمایت غیرمستقیم دولت اسرائیل از استراتژی گسترش سریع است"
+        ],
+        "impact": "تشدید تنش‌های سرزمینی و کاهش امید به صلح در منطقه",
+        "tag": "سرزمین",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "sowetan",
+        "url": "https://www.sowetan.co.za/news/world/2026-09-08-how-two-israeli-brothers-are-driving-a-west-bank-settler-land-grab/",
+        "clean_url": "https://www.sowetan.co.za/news/world/2026-09-08-how-two-israeli-brothers-are-driving-a-west-bank-settler-land-grab",
+        "image": "https://www.bing.com/th?id=ONUT.L2-NPpkrR7EmgezpLuSKnA",
+        "timestamp": 1788786256.0
     },
     {
         "id": "361663043a",
@@ -5395,62 +5450,5 @@
         "clean_url": "https://www.jpost.com/opinion/article-907481",
         "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/536478",
         "timestamp": 1788720068.2200933
-    },
-    {
-        "id": "b5dc159425",
-        "title_fa": "ایران منطقه محدود جدیدی در حوالی هرمز اعلام می‌کند",
-        "title_en": "Iran to set new restricted zone outside Strait of Hormuz",
-        "summary": [
-            "محمود رضایی اعلام کرد که کشتی‌های عبوری بدون هماهنگی با تهران به فهرست تحریم‌های ایران اضافه می‌شوند",
-            "منطقه محدود از خط مسدودسازی ناوگان آمریکا تا بخش‌هایی از خلیج فارس گسترش می‌یابد",
-            "تهدید به تحریم‌های بیمه‌ای می‌تواند هزینه عبور کشتی‌ها را به شدت بالا ببرد"
-        ],
-        "impact": "هزینه‌های حمل‌ونقل نفت و گاز افزایش می‌یابد و ریسک بیمه‌گری کشتی‌ها بالا می‌رود",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "NHK",
-        "url": "https://www3.nhk.or.jp/nhkworld/news/20260908de48900/",
-        "clean_url": "https://www3.nhk.or.jp/nhkworld/news/20260908de48900",
-        "image": "https://www.bing.com/th?id=ONUT.NFdPZVxl0_q8AzdKmCRzgA",
-        "timestamp": 1788719154.0
-    },
-    {
-        "id": "0dba2f82bf",
-        "title_fa": "ایران شرکت‌های انرژی آمریکا را تهدید می‌کند",
-        "title_en": "Iran threatens US energy firms amid tanker attacks",
-        "summary": [
-            "تهدید به حمله به شرکت‌های نفت و گاز آمریکایی پس از اتهام واشنگتن به «نابود کردن» تانکرهای ایرانی",
-            "ایران قصد دارد منطقه محدود جدیدی در نزدیکی هرمز راه‌اندازی کند و مسیر حمل‌ونقل جدیدی با عمان اعلام کند",
-            "این پیام می‌تواند فشار دیپلماتیک و اقتصادی بر روابط آمریکا‑ایران را تشدید کند"
-        ],
-        "impact": "سرمایه‌گذاران انرژی آمریکا ممکن است از پروژه‌های خاورمیانه عقب‌نشینی کنند",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/iran-threatens-us-energy-firms-amid-tanker-attacks",
-        "clean_url": "https://www.newarab.com/news/iran-threatens-us-energy-firms-amid-tanker-attacks",
-        "image": "https://www.bing.com/th?id=ONUT.2zT7FYZRXFHi1qGRUj3LFA",
-        "timestamp": 1788719154.0
-    },
-    {
-        "id": "307a381844",
-        "title_fa": "تخمین وزیر انرژی آمریکا: توافق هسته‌ای ایران به‌زودی میسر نیست",
-        "title_en": "U.S. energy secretary says Iran nuclear deal 'may not' happen anytime soon",
-        "summary": [
-            "وزیر انرژی ایالات متحده اعلام کرد مذاکرات هسته‌ای با ایران در آینده نزدیک پیشرفت نخواهد کرد.",
-            "او به‌جای دیپلماسی، تخریب توانایی‌های هسته‌ای ایران را گزینهٔ نظامی می‌داند.",
-            "این اظهارات می‌تواند فشار بین‌المللی بر تهران را افزایشداده و مذاکرات را به‌سختی ادامه دهد."
-        ],
-        "impact": "افزایش تنش‌های نظامی‑سیاستی و کاهش امید به رفع تحریم‌ها برای ایران",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/06/us-energy-secretary-chris-wright-says-iran-nuclear-deal-may-not-happen/",
-        "clean_url": "https://www.washingtonpost.com/world/2026/09/06/us-energy-secretary-chris-wright-says-iran-nuclear-deal-may-not-happen",
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ES2AB6I2YJ34MUENBP42RYG4KU_size-normalized.jpg&w=1440",
-        "timestamp": 1788718920.0
     }
 ]
