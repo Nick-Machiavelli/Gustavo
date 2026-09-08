@@ -1,5 +1,24 @@
 [
     {
+        "id": "427a96d08d",
+        "title_fa": "هشدار جهانی بر سلاح‌های خودکار",
+        "title_en": "Autonomous weapons and killer robots: New warnings, old habits",
+        "summary": [
+            "سازمان ملل و صلیب سرخ خواستند سلاح‌های خودکار ممنوع شوند",
+            "دو دسته خطرناک شناسایی شد: سلاح‌های پیش‌بینی‌ناپذیر و ضدنفس",
+            "این سلاح‌ها به‌عنوان نقض اخلاقی و قانونی توصیف شد"
+        ],
+        "impact": "ممنوعیت سلاح‌های خودکار می‌تواند چارچوب‌های نظامی آینده را تغییر دهد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Green Left",
+        "url": "https://www.greenleft.org.au/2026/1462/world/autonomous-weapons-and-killer-robots-new-warnings-old-habits",
+        "clean_url": "https://www.greenleft.org.au/2026/1462/world/autonomous-weapons-and-killer-robots-new-warnings-old-habits",
+        "image": "https://www.greenleft.org.au/sites/default/files/2026/09/08/where_the_wild_flowers_are-6721943.jpg",
+        "timestamp": 1788827663.5159428
+    },
+    {
         "id": "b966e6d9eb",
         "title_fa": "سپر آکیلس یونان: نماد تغییر استراتژیک",
         "title_en": "On Greece-Israel relations: From Achilles to Ayil",
@@ -17,6 +36,25 @@
         "clean_url": "https://www.dailysabah.com/opinion/op-ed/on-greece-israel-relations-from-achilles-to-ayil",
         "image": "https://www.bing.com/th?id=ONUT.XvrIU8No_hY3c_Xa84cDCw",
         "timestamp": 1788826887.0333605
+    },
+    {
+        "id": "16d5f9ba6f",
+        "title_fa": "قطر خواستار کاهش تدریجی تنش‌ها",
+        "title_en": "Qatar calls for phased de-escalation for sustainable solution to Iran war",
+        "summary": [
+            "قطر فراخوان کرد تا به‌صورت مرحله‌ای تنش‌های جنگ ایران کاهش یابد",
+            "تاکید بر راه‌حل پایدار برای جلوگیری از تشدید درگیری",
+            "این درخواست می‌تواند فشار بین‌المللی برای مذاکرات صلحی را بالا ببرد"
+        ],
+        "impact": "فراخوان قطر ممکن است مذاکرات صلحی را تسریع کند و هزینه‌های جنگ را کاهش دهد",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORlMyS0IxSmJLd19HcG80V1djUVhYeFdubmFHQjU3am5FRG1ONjdQbnhPX3NSNHNwaF9la3ZfbGF0Qlc5WS1zVmVYV0d3YzNnRXZpcGtnaU1WTEZxSElLWkFfaUpLa3ZmNzFEXzFzMmNpTlk1NjlGM1pZY0kzLUtyazJZelczN2sxeERSSkNPR0o2VDZ0V3Z3RUd4bTk4dGhSTVdNRTFYNXNja05yX2pQQ3ZXcUdSQW9ValE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORlMyS0IxSmJLd19HcG80V1djUVhYeFdubmFHQjU3am5FRG1ONjdQbnhPX3NSNHNwaF9la3ZfbGF0Qlc5WS1zVmVYV0d3YzNnRXZpcGtnaU1WTEZxSElLWkFfaUpLa3ZmNzFEXzFzMmNpTlk1NjlGM1pZY0kzLUtyazJZelczN2sxeERSSkNPR0o2VDZ0V3Z3RUd4bTk4dGhSTVdNRTFYNXNja05yX2pQQ3ZXcUdSQW9ValE",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788824845.0
     },
     {
         "id": "34e32e20ab",
@@ -5412,40 +5450,5 @@
         "clean_url": "https://www.npr.org/2026/09/06/g-s1-142193/us-iran-attacks-strait-of-hormuz",
         "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
         "timestamp": 1788682620.0
-    },
-    {
-        "id": "a16d4f655f",
-        "title_fa": "قیمت نفت به بالاترین سطح چهار هفته‌ای رسید",
-        "title_en": "Oil Hits Four-Week High as US-Iran Conflict Escalates",
-        "summary": [
-            "تشدید تنش‌های نظامی بین آمریکا و ایران نگرانی‌های شدید بازار انرژی را برانگیخت",
-            "قیمت نفت بر پایه گزارش‌ها به بالاترین سطح چهار هفته‌ای رسید و فشار بر هزینه‌های واردات انرژی را افزایش داد"
-        ],
-        "impact": "هزینه‌های انرژی برای ایران و کشورهای وابسته به نفت به سرعت بالا می‌رود",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQy01UEF6ZmZXakRJbEhwaVpocWR1UVNRTnVucWFlU2Fpcl8tbF9TbW1yR1JSWEZVc0ItdDc5bUpmcE96SWI1czlDVzh0amFKSnhWSkIyTFJGemdnTkpndlZ2REhFdk8tVDF5QWtzejFIN0xDLTRHajZwYm9oaFBScGE3dGJJQkdWMHByTw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQy01UEF6ZmZXakRJbEhwaVpocWR1UVNRTnVucWFlU2Fpcl8tbF9TbW1yR1JSWEZVc0ItdDc5bUpmcE96SWI1czlDVzh0amFKSnhWSkIyTFJGemdnTkpndlZ2REhFdk8tVDF5QWtzejFIN0xDLTRHajZwYm9oaFBScGE3dGJJQkdWMHByTw",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788682217.0
-    },
-    {
-        "id": "986cf54148",
-        "title_fa": "وزیر دفاع اسبق آمریکا گفت: جنگ ایران شش ماه دیگر ادامه خواهد داشت",
-        "title_en": "Iran war will continue for six more months, ex-US defence chief says",
-        "summary": [
-            "Iran war will continue for another six months, former US defence secretary says - The US and Iran are caught in ‘terrible stalemate’, former CIA chief says..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/iran-war-will-continue-for-six-more-months-ex-us-defence-chief-says/ar-AA2bFKqt",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-war-will-continue-for-six-more-months-ex-us-defence-chief-says/ar-AA2bFKqt",
-        "image": "http://www.bing.com/th?id=ONUT.IZ15ujSKbQhefat4gJAB2Q&pid=News",
-        "timestamp": 1788681323.0
     }
 ]
