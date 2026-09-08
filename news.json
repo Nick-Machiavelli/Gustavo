@@ -1,5 +1,43 @@
 [
     {
+        "id": "02bc12952c",
+        "title_fa": "ترامپ: پس از پیروزی در ایران، نفت زیر ۲ دلار",
+        "title_en": "Trump Claims Oil Prices will Drop Below $2 After US Wins War with Iran",
+        "summary": [
+            "ترامپ در توییت خود گفت که پایان جنگ با ایران، قیمت بنزین را به زیر دو دلار می‌کشاند.",
+            "او همچنین تأکید کرد ایالات متحده اجازه نخواهد داد ایران سلاح هسته‌ای داشته باشد.",
+            "این ادعا بدون سند است و هدفش فشار سیاسی بر ایران است."
+        ],
+        "impact": "اگر این تهدید به عمل درآید، بازارهای انرژی ناآرام می‌شوند و تنش‌های ژئوپلیتیک تشدید می‌شود.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Deccan Chronicle",
+        "url": "https://www.deccanchronicle.com/world/americas/trump-claims-oil-prices-will-drop-below-2-after-us-wins-war-with-iran-1985684",
+        "clean_url": "https://www.deccanchronicle.com/world/americas/trump-claims-oil-prices-will-drop-below-2-after-us-wins-war-with-iran-1985684",
+        "image": "https://www.bing.com/th?id=ONUT.D9rWTIj2DQ3bHFcYzRvl6w",
+        "timestamp": 1788836584.1644354
+    },
+    {
+        "id": "a18dd7105c",
+        "title_fa": "BRICS به نقطه عطف 20 سالگی: جهان چندقطبی",
+        "title_en": "BRICS at 20: The Era Of A Multipolar World",
+        "summary": [
+            "BRICS پس از دو دهه رشد، به گروهی با ۱۱ عضو کامل و ۱۰ شریک تبدیل شد.",
+            "این بلوک اکنون سعی دارد ساختارهای غربی مثل IMF و شورای امنیت را بازنگری کند.",
+            "تغییر مرکز جاذبه اقتصادی به جنوب جهانی، به معنای کاهش نفوذ غرب است."
+        ],
+        "impact": "قوه اقتصادی کشورهای جنوب، فشار بیشتری بر سیاست‌های مالی غربی خواهد آورد.",
+        "tag": "BRICS",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/opinion/world/brics-at-20-the-era-of-a-multipolar-world-article-156116219",
+        "clean_url": "https://www.timesnownews.com/opinion/world/brics-at-20-the-era-of-a-multipolar-world-article-156116219",
+        "image": "https://www.bing.com/th?id=ONUT.g5Un9VJ95HAq8aj3dNIHPQ",
+        "timestamp": 1788836584.1639736
+    },
+    {
         "id": "6b132f2cc1",
         "title_fa": "خبر بین‌المللی — US-Saudi هسته‌ای deal comes with collateral damage برای non-",
         "title_en": "US-Saudi nuclear deal comes with collateral damage for non-proliferation",
@@ -5415,44 +5453,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/lebanon-president-calls-for-us-help-as-israeli-strikes-kill-7/ar-AA2bGunX",
         "image": "https://s.yimg.com/lo/mysterio/api/707166e3018f27af6bf243918f69eadcaa28f91a00f77fcbc0c73d4ba6ff455c/lightyear_networkapi/smartcrop_w896_h504_faces;quality_95/https://media.zenfs.com/en/afp.com.sg/d07a1941af6cc5ae174279ea48b83deb.jpg",
         "timestamp": 1788687600.0
-    },
-    {
-        "id": "fdefc4fbc2",
-        "title_fa": "فشار اقتصادی آمریکا توانمندی ایران در هرمز را کم می‌کند",
-        "title_en": "Iran loses some Hormuz leverage as US economic offensive tightens the squeeze: Report",
-        "summary": [
-            "تحریم‌های جدید آمریکا بر ناوگان حمل‌ونقل نفتی ایران، توانایی تهدید بسته شدن تنگه هرمز را کاهش داده است.",
-            "کاهش اهرم هرمز باعث می‌شود ایران به‌جای فشار نظامی، به راهکارهای دیپلماتیک و بازارهای جایگزین روی آورد.",
-            "کشورهای خاورمیانه و خریداران نفت ممکن است برای جبران ریسک‌های حمل‌ونقل، مسیرهای طولانی‌تر و گران‌تر را انتخاب کنند."
-        ],
-        "impact": "ایران دیگر نمی‌تواند با تهدید بسته شدن هرمز، فشار اقتصادی بر کشورهای مصرف‌کننده نفت اعمال کند؛ قیمت نفت و امنیت منطقه تحت فشار می‌افتند.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/business/iran-hormuz-leverage-us-economic-squeeze-14043795.html",
-        "clean_url": "https://www.firstpost.com/business/iran-hormuz-leverage-us-economic-squeeze-14043795.html",
-        "image": "https://www.bing.com/th?id=ONUT.hoZxbqWqZ1m9iQ-yitW2oQ",
-        "timestamp": 1788687575.0
-    },
-    {
-        "id": "bd967a6eb0",
-        "title_fa": "ایران ادعا کرد کشتی آمریکایی را هدف قرار داد",
-        "title_en": "Iran says it hit a US ship in a week of renewed hostilities, and other Mideast news",
-        "summary": [
-            "ایران می‌گوید در هفته‌ای پرتنش، یک کشتی جنگی ایالات متحده را مورد اصابت قرار داده است.",
-            "این ادعا در چارچوب تشدید درگیری‌های میانه‌شرق و پس‌زمینهٔ عملیات‌های هوایی اخیر ایران مطرح شد.",
-            "نیروی دریایی آمریکا هنوز تأیید یا رد رسمی نداده؛ اما احتمال واکنش نظامی مستقیم بالا است.",
-            "اگر صحت ادعا ثابت شود، خطر برخورد مستقیم بین دو نیروی دریایی در خلیج فارس به‌طور چشمگیری افزایش می‌یابد."
-        ],
-        "impact": "افزایش خطر برخورد مستقیم بین نیروی دریایی آمریکا و ایران و احتمال اعمال تحریم‌های جدید.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Audacy",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ080ODZJRFNyUlhPRnN3WVhPbXRMN1dJazdYRGxKYnZiUzFYYnN6b0hBUkh0b1NyTFVEWFNDanE5bTI2dDF0QnNUZV9EWHc0bktjQWl0ZUgzMEFlYzhDeUkwR0g0d25UX1g1SE43UDY0bUZabGp2aXNZMjBWWHVyTHdsS2pYYjNVZWRTUEFhdHNHa28xUXJQRWN6NkgtazJ0LU9tOXpWVk1BeF81S3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ080ODZJRFNyUlhPRnN3WVhPbXRMN1dJazdYRGxKYnZiUzFYYnN6b0hBUkh0b1NyTFVEWFNDanE5bTI2dDF0QnNUZV9EWHc0bktjQWl0ZUgzMEFlYzhDeUkwR0g0d25UX1g1SE43UDY0bUZabGp2aXNZMjBWWHVyTHdsS2pYYjNVZWRTUEFhdHNHa28xUXJQRWN6NkgtazJ0LU9tOXpWVk1BeF81S3c",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788687300.0
     }
 ]
