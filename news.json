@@ -964,6 +964,26 @@
         "timestamp": 1788807121.4840558
     },
     {
+        "id": "3aecc3b7de",
+        "title_fa": "حمله حوثی‌ها به تسهیلات انرژی سعودی؛ صدمات و بالارفتن نفت",
+        "title_en": "Iran-backed Houthis attack Saudi energy facilities, wounding dozens and sending oil prices higher",
+        "summary": [
+            "حمایت ایران از حوثی‌ها منجر به حمله به زیرساخت‌های انرژی سعودی و مجروح شدن ده‌ها نفر شد",
+            "قیمت نفت در بازار جهانی پس از حمله به سرعت بالا رفت",
+            "تهدید ایران به «جنگ اقتصادی» و شلیک موشک پیشرفته به ناوهای آمریکایی خطر تشدید درگیری‌های منطقه‌ای را افزایش داد",
+            "احتمال اعمال تحریم‌های جدید آمریکا علیه ایران و حوثی‌ها در پیش است"
+        ],
+        "impact": "قیمت نفت جهانی ارتقا یافت و فشار اقتصادی بر عربستان و ایالات متحده افزایش یافت",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles-2026-09-08/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles-2026-09-08",
+        "image": "http://www.bing.com/th?id=ONUT.g6Q7RYHlblg_5ww1WgT7Sg&pid=News",
+        "timestamp": 1788806940.0
+    },
+    {
         "id": "94068dce18",
         "title_fa": "وزیر انرژی: معامله با ایران باید تا «دولت بعدی» صبر کرد",
         "title_en": "Energy Secretary: Deal With Iran May Have To Wait Until 'Next Administration'",
@@ -5433,24 +5453,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/banking-on-the-dollar-how-iran-keeps-9bn-flowing-through-us-banks-despite-sanctions/articleshow/133834388.cms",
         "image": "https://static.toiimg.com/thumb/msid-133835065,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1788693120.0
-    },
-    {
-        "id": "ae5d5ed07f",
-        "title_fa": "محور دفاعی جدید میان عربستان، ترکیه و پاکستان در مکه",
-        "title_en": "From the Baghdad Pact to Mecca: Why the New Defense Axis Is More Than a “Sunni NATO”",
-        "summary": [
-            "سه کشور سنی‑اکثریت با امضای توافق‌نامه دفاعی مشترک، تعهد به دفاع متقابل در برابر هر حمله‌ای را اعلام کردند.",
-            "این پیمان، اولین ائتلاف نظامی سنی‑محور با قابلیت جمع‌آوری توان هسته‌ای، انرژی و نیروی نظامی است.",
-            "ایجاد چنین محوری می‌تواند تعادل قدرت در خاورمیانه را به نفع ایران و اسرائیل به‌سختی تغییر دهد."
-        ],
-        "impact": "تقویت توان نظامی سنی‌ها و فشار بر ایران و اسرائیل، احتمال افزایش حضور نظامی در منطقه.",
-        "tag": "دفاع",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Washington Report on Middle East Affairs",
-        "url": "https://www.wrmea.org/other/from-the-baghdad-pact-to-mecca-why-the-new-defense-axis-is-more-than-a-sunni-nato.html",
-        "clean_url": "https://www.wrmea.org/other/from-the-baghdad-pact-to-mecca-why-the-new-defense-axis-is-more-than-a-sunni-nato.html",
-        "image": "https://www.wrmea.org/images/2026/08/30/views01x730.jpg",
-        "timestamp": 1788693107.5651724
     }
 ]
