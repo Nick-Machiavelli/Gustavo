@@ -824,6 +824,26 @@
         "timestamp": 1788849991.4456072
     },
     {
+        "id": "1efe842a94",
+        "title_fa": "حمله حوثی‌ها به عربستان؛ ده‌ها زخمی",
+        "title_en": "Houthis attack Saudi Arabia and wound dozens as conflict widens: Live",
+        "summary": [
+            "حوثی‌ها به‌سرعت یک حمله هوایی به پایگاه‌های نظامی عربستان انجام دادند و چندین هواپیمای شناسایی را هدف گرفتند",
+            "آمار اولیه نشان می‌دهد ده‌ها نفر، عمدتاً نظامیان، زخمی شده‌اند؛ تلفات غیرنظامی هنوز مشخص نیست",
+            "این گسترش جنگ به خلیج فارس خطر تشدید تحریم‌های بین‌المللی علیه ایران را افزایش می‌دهد",
+            "عربستان احتمال پاسخ نظامی مستقیم را اعلام کرد؛ ریسک برخورد مستقیم آمریکا‑سعودی بالا رفت"
+        ],
+        "impact": "تشدید تنش‌های نظامی خلیج؛ احتمال واکنش نظامی عربستان و حضور بیشتر نیروهای آمریکایی",
+        "tag": "حمله",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/money/general/houthis-attack-saudi-arabia-and-wound-dozens-as-conflict-widens-live/ar-AA2bMGVT",
+        "clean_url": "https://www.msn.com/en-us/money/general/houthis-attack-saudi-arabia-and-wound-dozens-as-conflict-widens-live/ar-AA2bMGVT",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bHG0a.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1788849175.0
+    },
+    {
         "id": "f48eb9cbc6",
         "title_fa": "ایران تهدید به جنگ اقتصادی پس از حملات حوثی",
         "title_en": "Iran Threatens Economic Warfare as Houthi Attacks Raise Regional Tensions",
@@ -2329,6 +2349,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0xvN2xocmd5Z1NfSmpyTVV4Qm1WWnRQN0pzM3pnbGhPNjZLd1FCYV9zVUQ1eThYRGpSSEhyYzd3TkowdXcwV3ZHWDBuM2tZLWxBVExFdEpMOS1yQkE3WXhXNXBXQ3dPWnBQTERYazVrX0pGM2NzWVc5SDBGQjk5RTZld3M5dkh5ZlRQamxyU09zZ0E2S3NSQS1rSFlRYmUzOGdyQ1dVUXhoM0ZSbEFRelJJMnEyclhQNkE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788793287.0
+    },
+    {
+        "id": "82e3ca7348",
+        "title_fa": "حملات هوایی اسرائیل در لبنان؛ ۱۲ کشته",
+        "title_en": "Israeli airstrikes on Lebanese village kill 12, plus other key Mideast developments",
+        "summary": [
+            "اسرائیل صبح دوشنبه به روستای کفر رمان در جنوب لبنان حمله هوایی کرد و دست‌کم ۱۲ کشته، از جمله دو کودک، ثبت شد",
+            "وزارت بهداشت لبنان اعلام کرد که کشته‌ها شامل یک امدادگر، چهار زن و دو کودک هستند",
+            "اسرائیل ادعا کرد هدفش افراد مسلح حزب‌الله بود؛ اما تلفات غیرنظامی به‌وضوح دیده می‌شود",
+            "در همین حین حوثی‌ها ادعا کردند یک هواپیمای شناسایی عربستان را سرنگون کرده‌اند؛ تنش‌های منطقه‌ای چندجانبه تشدید شد"
+        ],
+        "impact": "افزایش فشار بین‌المللی بر اسرائیل؛ تداوم ناآرامی در جنوب لبنان و خطر گسترش درگیری",
+        "tag": "حمله",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Newsday",
+        "url": "https://www.newsday.com/news/nation/mideast-iran-us-hormuz-lebanon-israel-d12007",
+        "clean_url": "https://www.newsday.com/news/nation/mideast-iran-us-hormuz-lebanon-israel-d12007",
+        "image": "https://cdn.newsday.com/ace/c:ZjA4YmJmODgtYmE2Zi00:OGY4YzMzY2UtZDA3YS00/landscape/1280",
+        "timestamp": 1788792300.0
     },
     {
         "id": "d57b06d6d9",
@@ -5417,41 +5457,5 @@
         "clean_url": "https://www.cbsnews.com/news/jared-kushner-gaza-peace-deal-israel-elections",
         "image": "https://www.bing.com/th?id=ONUT.FHaZytLMEmnmxEkCiX8xGQ",
         "timestamp": 1788721352.0
-    },
-    {
-        "id": "cde8c895d9",
-        "title_fa": "ترامپ می‌گوید بمباردیر کانادا نمی‌تواند در آمریکا بفروشد مگر اینکه در آنجا بسازد",
-        "title_en": "Trump says Canada's Bombardier cannot sell in US unless it builds there",
-        "summary": [
-            "President Donald Trump said on Monday that Canada-based airplane maker Bombardier would no longer be allowed to sell in the United States unless it started manufacturing in the country."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/aerospace-defense/trump-says-canadas-bombardier-cannot-sell-us-unless-it-builds-there-2026-09-07/",
-        "clean_url": "https://www.reuters.com/business/aerospace-defense/trump-says-canadas-bombardier-cannot-sell-us-unless-it-builds-there-2026-09-07",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788720712.0
-    },
-    {
-        "id": "911ee23728",
-        "title_fa": "مکلمور خواستار آزادی فلسطین در کنسرت اد شیرن",
-        "title_en": "Macklemore Calls for 'Free Palestine' Onstage During Ed Sheeran Tour",
-        "summary": [
-            "مکلمور در استیج اد شیرن پیام سیاسی به مخاطبان آمریکایی داد",
-            "تاکید بر این‌که مردم غزه و کرانه اشغالی فراموش نشده‌اند",
-            "این ابراز نظر می‌تواند فشار عمومی برای بررسی وضعیت فلسطین در ایالات متحده را تقویت کند"
-        ],
-        "impact": "آگاهی عمومی در آمریکا از بحران فلسطین افزایش می‌یابد و ممکن است فشار بر تصمیم‌گیری‌های سیاسی ایجاد شود",
-        "tag": "فلسطین",
-        "urgency": 3,
-        "sentiment": 0.6,
-        "source": "Variety",
-        "url": "https://www.msn.com/en-us/news/other/macklemore-calls-for-free-palestine-onstage-during-ed-sheeran-tour/ar-AA2bGiDe",
-        "clean_url": "https://www.msn.com/en-us/news/other/macklemore-calls-for-free-palestine-onstage-during-ed-sheeran-tour/ar-AA2bGiDe",
-        "image": "https://s.yimg.com/lo/mysterio/api/e06699684043c8957091ee0fb5bdeb95cd178ff5d09390c775906abfb753b575/lightyear_networkapi/resizefill_w976;quality_80;format_webp/https://media.zenfs.com/en/variety.com/151cbff1c3ef4e3f92ba6cf698e66d42.jpg",
-        "timestamp": 1788720557.0
     }
 ]
