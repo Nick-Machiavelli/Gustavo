@@ -1,5 +1,23 @@
 [
     {
+        "id": "c100353d9b",
+        "title_fa": "راست‌گرایان اروپا به جنگ آمریکا‑اسرائیل پیوستند",
+        "title_en": "Europe’s far right kisses the ring",
+        "summary": [
+            "احزاب راست‌گرای اروپا به‌جای حفظ منافع ملی، از موضع حمایت از عملیات نظامی آمریکا‑اسرائیل پیروی می‌کنند",
+            "این رفتار نشان‌دهنده ریسک سیاسی و تضعیف استقلال تصمیم‌گیری در اروپا است"
+        ],
+        "impact": "تقویت روایت‌های جنگی و تضعیف موضع ضدجنگ در اروپا",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Jacobin on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/europe-s-far-right-kisses-the-ring/ar-AA2bTPgJ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/europe-s-far-right-kisses-the-ring/ar-AA2bTPgJ",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788974594.8635643
+    },
+    {
         "id": "2af5e2acac",
         "title_fa": "خبر بین‌المللی — Neue Achsen und Allianzen",
         "title_en": "Neue Achsen und Allianzen",
@@ -315,6 +333,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0tGcHN6eVRuV0EzMllYUTYzOHd1ZDhFeWpJczVqMjB1a3JWWWpnRjh1RmV3Mm1Ya1ViQWxRRjhLRjRfWXlhVHVhM1ZOWlZyZkE4LXRTVDdQZ3RxQ3l2eEM5b1VkLVBySjVITFJMc1NjenAwakdZeEp1ZFBWV0UwcHBoQVdhTHhMRVl4bHdOVWh2X0IyNE5CMGVqYkxqbGtUd0xhY0d5UVNWVVhmTG9IUkROSnNlNDR1ckhkdEZ6dw",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788967980.0
+    },
+    {
+        "id": "86d096317c",
+        "title_fa": "تحریم‌های تجاری آمریکا و ایران بر کشتی‌رانی",
+        "title_en": "US, Iran Trade Strikes On Shipping As Oil Prices Surge Above $100 A Barrel",
+        "summary": [
+            "ایالات متحده و ایران به‌صورت متقابل کشتی‌های تجاری یکدیگر را هدف گرفتند",
+            "قیمت نفت به بالای ۱۰۰ دلار رسید و فشار بر بازار جهانی افزایش یافت"
+        ],
+        "impact": "کاهش ترافیک نفتی و افزایش هزینه‌های حمل‌ونقل",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Radio Free Europe/Radio Liberty",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkZms2SW5ZUm9kOC1UQ01pYTd4UmRMNWxKRjVHZmNZSDhKaHo3OWRjZzFxdzNMaEdWVkY2V0p5NGZHTFZXQ0hYOVl2eXd0WUZyLS01OFc5VFZkRGxqVDVkZ1VXLUFIUlhkSVYxWWV1SmZDcVVlSlHSAXZBVV95cUxQZGZrNkluWVJvZDgtVENNaWE3eFJkTDVsSkY1R2ZjWUg4Smh6NzlkY2cxcXczTGhHVlZGNldKeTRmR0xWV0NIWDlZdnl3dFlGci0tNThXOVRWZERsalQ1ZGdVVy1BSFJYZElWMVlldUpmQ3FVZUpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkZms2SW5ZUm9kOC1UQ01pYTd4UmRMNWxKRjVHZmNZSDhKaHo3OWRjZzFxdzNMaEdWVkY2V0p5NGZHTFZXQ0hYOVl2eXd0WUZyLS01OFc5VFZkRGxqVDVkZ1VXLUFIUlhkSVYxWWV1SmZDcVVlSlHSAXZBVV95cUxQZGZrNkluWVJvZDgtVENNaWE3eFJkTDVsSkY1R2ZjWUg4Smh6NzlkY2cxcXczTGhHVlZGNldKeTRmR0xWV0NIWDlZdnl3dFlGci0tNThXOVRWZERsalQ1ZGdVVy1BSFJYZElWMVlldUpmQ3FVZUpR",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788967760.0
     },
     {
         "id": "c52b9d7662",
@@ -5385,39 +5421,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYmZwWGJRSXp5S1NGd2M4WkxreFplck9KODdSZU5oelJNMVZaYklERnFISHNhMG4xQ2haWk1ZaFdsQV9kamFlaUY4NDljRGF6RldZMzFuaHR2NXVWV0NSMk5zbFhnWnktSVdXa2NzNFI0RGFNNkV0SWJMSWdENk9JME9rV1ZOek9rZTBfdHBFbDY4QXM",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788840000.0
-    },
-    {
-        "id": "fec8cee68e",
-        "title_fa": "دونالد ترامپ",
-        "title_en": "Donald Trump",
-        "summary": [
-            "President Trump is basking in the momentum of the various projects he has spurred around downtown Washington. By Luke Broadwater and Maggie Haberman Doug Burgum, the interior secretary, announced..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "nytimes.com",
-        "url": "https://www.nytimes.com/spotlight/donald-trump",
-        "clean_url": "https://www.nytimes.com/spotlight/donald-trump",
-        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-        "timestamp": 1788838140.0
-    },
-    {
-        "id": "57e41a7e75",
-        "title_fa": "آلمان: مقابله با نقش امارات در سودان، سرکوب در داخل",
-        "title_en": "Germany: Confront UAE Role in Sudan, Repression at Home",
-        "summary": [
-            "German Chancellor Friedrich Merz, President Frank-Walter Steinmeier, and other senior officials should publicly call out the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Human Rights Watch",
-        "url": "https://www.hrw.org/news/2026/09/07/germany-confront-uae-role-in-sudan-repression-at-home",
-        "clean_url": "https://www.hrw.org/news/2026/09/07/germany-confront-uae-role-in-sudan-repression-at-home",
-        "image": "https://www.bing.com/th?id=ONUT.9XH0qaK6fjRC_qzWWzbGCw",
-        "timestamp": 1788837204.4637263
     }
 ]
