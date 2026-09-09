@@ -468,6 +468,25 @@
         "timestamp": 1788978428.0818982
     },
     {
+        "id": "5987d8b9cd",
+        "title_fa": "آی‌اِی‌ای‌ای ایران را ملل ارجاع داد؛ ترامپ جنگ پس‌انتخابات",
+        "title_en": "War, latest news. IAEA refers Iran to the UN. Gas prices at their highest since 2022",
+        "summary": [
+            "کمیته نظارت هسته‌ای سازمان ملل ایران را برای بررسی نقض‌های هسته‌ای ارجاع داد",
+            "ترامپ گفت پایان جنگ پس از انتخابات آمریکا خواهد بود",
+            "قیمت گاز طبیعی در اروپا به بالاترین سطح از ۲۰۲۲ رسید"
+        ],
+        "impact": "تحریم‌های جدید و فشار دیپلماتیک بر ایران؛ انتظارات بازار انرژی بالا می‌رود",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "en.ilsole24ore",
+        "url": "https://en.ilsole24ore.com/art/war-latest-news-fire-jordan-cluster-bombs-tehran-oil-tankers-hit-strait-of-hormuz-AJuORe7",
+        "clean_url": "https://en.ilsole24ore.com/art/war-latest-news-fire-jordan-cluster-bombs-tehran-oil-tankers-hit-strait-of-hormuz-AJuORe7",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/10/Immagini/Ritagli/LP_24735437-U18807370218qzH-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+        "timestamp": 1788977760.0
+    },
+    {
         "id": "5402ac94c5",
         "title_fa": "ادعای دست‌کاری ساعت مسابقه توسط بیگ‌تن رد شد",
         "title_en": "Did Big Ten rig the clock for Michigan? No, but it botched it",
@@ -735,6 +754,25 @@
         "timestamp": 1788971640.0
     },
     {
+        "id": "30cd29bfc6",
+        "title_fa": "ایران-آمریکا تنش بر تانکرهای هرمز؛ نفت ۱۰۰ دلار",
+        "title_en": "Iran and US lash out on tankers in Hormuz, driving oil prices past $100",
+        "summary": [
+            "ناوهای ایرانی و آمریکایی در تنگه هرمز به‌صورت تبادل تهدیدهای شلیک اقدام کردند",
+            "این برخورد باعث عبور قیمت نفت بر ۱۰۰ دلار در بازارهای جهانی شد",
+            "خطر بسته شدن مسیرهای نفتی به‌سرعت افزایش می‌یابد"
+        ],
+        "impact": "اختلال در حمل‌ونقل نفتی، فشار شدید بر اقتصادهای وابسته به نفت",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/iran-and-us-lash-out-tankers-oil-prices-passes-100",
+        "clean_url": "https://www.newarab.com/news/iran-and-us-lash-out-tankers-oil-prices-passes-100",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2293711757.jpeg?itok=ZJXdNy-B",
+        "timestamp": 1788971460.0
+    },
+    {
         "id": "c60ead380d",
         "title_fa": "ترامپ در مراسم ۹/۱۱ خودنمایی کرد",
         "title_en": "S.E. Cupp: For Trump, even 9/11 is an opportunity",
@@ -891,6 +929,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/this-new-year-let-s-start-to-restore-the-israel-that-is-a-light-unto-the-nations/ar-AA2bTfGo",
         "image": "https://www.bing.com/th?id=ONUT.7_D7LoPew7Jwns7Hjg38IQ",
         "timestamp": 1788968328.3422627
+    },
+    {
+        "id": "658da4f173",
+        "title_fa": "تشدید درگیری هرمز و سرخ بین آمریکا و ایران",
+        "title_en": "Dual strait conflicts escalate as US., allies clash with Iran-backed forces",
+        "summary": [
+            "ناوهای آمریکایی و نیروهای موضع‌دار ایران در هرمز به‌هم‌پیوستند",
+            "عربستان با حوثی‌های حامی ایران در سرخ به‌جنگ‌اند",
+            "هر دو صحنه خطر قطع مسیرهای نفتی را افزایش می‌دهند"
+        ],
+        "impact": "ریسک بزرگ برای تداوم حمل و نقل نفت جهانی و افزایش قیمت‌ها",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Chosun Ilbo on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/dual-strait-conflicts-escalate-as-us-allies-clash-with-iran-backed-forces/ar-AA2bTnqJ",
+        "clean_url": "https://www.msn.com/en-xl/news/other/dual-strait-conflicts-escalate-as-us-allies-clash-with-iran-backed-forces/ar-AA2bTnqJ",
+        "image": "http://www.bing.com/th?id=ONUT.eD-nt5BzkQKTqdlw2FaK_w&pid=News",
+        "timestamp": 1788968188.0
     },
     {
         "id": "3760e76b49",
@@ -1354,6 +1411,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/the-mullahs-stole-iran-s-water-revolution-is-the-only-solution/ar-AA2bSaHl",
         "image": "https://www.bing.com/th?id=ONUT._9EafR80KJUSyNDXO301YA",
         "timestamp": 1788959057.2945457
+    },
+    {
+        "id": "8305e2cafd",
+        "title_fa": "کودک ۱۰ ساله در غزه توسط ارتش اسرائیل کشته شد",
+        "title_en": "Report: 10-year-old boy died from IDF gunfire in Gaza yesterday",
+        "summary": [
+            "مرگ کودک نشان‌دهنده شدت درگیری‌های زمینی در غزه است",
+            "استفاده از سلاح‌های دقیق ارتش اسرائیل واکنش‌های بین‌المللی را برانگیخته می‌کند"
+        ],
+        "impact": "تحریک انتقادات جهانی و فشار بیشتر بر اسرائیل در مذاکرات صلح",
+        "tag": "جنگ",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/report-10-year-old-boy-died-from-idf-gunfire-in-gaza-yesterday/ar-AA2bSAC4",
+        "clean_url": "https://www.msn.com/en-us/news/other/report-10-year-old-boy-died-from-idf-gunfire-in-gaza-yesterday/ar-AA2bSAC4",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788958860.0
     },
     {
         "id": "f2d1730761",
@@ -5352,77 +5427,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHhqMGdpaWtLcy1Pb3ExcFhZSmd4MUtieGtkb0tiLUtpeWhGZVNwRVJOR2FSTnBCLWFVSDdRSUpaS083WHNWZUk2ZDQ4SU1sSG9UNDFIYW9wSk5RUW1PRlhud3plZFdUdjBPeVRPRDVGWm5RYzh1d05lRnltVmNneXBNbkpUaFZwRzJaX0dvYWxSY1V1bkFibzcyRFkzWDBPV1U1ZDZ2blB1NkZObUZJ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788864377.0
-    },
-    {
-        "id": "8f52873b35",
-        "title_fa": "قیمت دلار در بازار آزاد ایران از ۲۳۲ هزار تومان عبور کرد",
-        "title_en": "قیمت دلار در بازار آزاد ایران از ۲۳۲ هزار تومان عبور کرد",
-        "summary": [
-            "همزمان با بالا گرفتن تنشها در منطقه و تشدید درگیری میان ایالات متحده و جمهوری اسلامی، نرخ ارز در بازار آزاد ایران به..."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609099218",
-        "clean_url": "https://www.iranintl.com/202609099218",
-        "image": "https://www.bing.com/th?id=ONUT.VkwxYQgiJC2YqGl76w2xdA",
-        "timestamp": 1788864163.0
-    },
-    {
-        "id": "72af93d642",
-        "title_fa": "قطر: آرامش موقت آمریکا‑ایران می‌تواند ماه‌ها بعد جنگ شود",
-        "title_en": "Iran War Live Updates: Qatar Says Temporary US-Iran Lull Could Lead To War Again Months Later",
-        "summary": [
-            "قطر هشدار داد که کاهش تنش فعلی موقت است و خطر جنگ در ماه‌های آینده باقیست.",
-            "مقام امنیتی ایران قصد دارد «منطقه ممنوعه» جدیدی در مجاورت تنگه هرمز ایجاد کند.",
-            "افزایش ناگهانی قیمت بنزین داخلی نشان از فشار اقتصادی داخلی دارد.",
-            "تصمیم‌گیری‌های سازمان ملل درباره تحریم‌های اسرائیل به تنش‌های منطقه‌ای می‌افزاید."
-        ],
-        "impact": "احتمال قطع مسیر هرمز و افزایش قیمت انرژی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-war-live-updates-donald-trump-watches-as-tehran-unveils-new-strait-of-hormuz-shipping-route-raising-global-oil-supply-concerns-liveblog-156101164",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-war-live-updates-donald-trump-watches-as-tehran-unveils-new-strait-of-hormuz-shipping-route-raising-global-oil-supply-concerns-liveblog-156101164",
-        "image": "http://www.bing.com/th?id=ONUT.oFeV48hvHUMawGJny2fIyw&pid=News",
-        "timestamp": 1788864060.0
-    },
-    {
-        "id": "06899fa73f",
-        "title_fa": "موسکوویتز پیروزی خود را در فلوریدا اعلام کرد",
-        "title_en": "Is This Really the Left’s Big Moment? We’ll Know in Two Months.",
-        "summary": [
-            "موسکوویتز با پیروزی در انتخابات اولیه، جناح میانه دموکرات را در مقابل سوسیالیست‌ها تقویت کرد.",
-            "او با اشاره به مرگ پدرش حس همدردی نشان داد و همزمان از سبک تند و آنلاین برای جذب رای‌دهندگان استفاده کرد."
-        ],
-        "impact": "تقویت جناح میانه دموکرات در فلوریدا، فشار بر دموکرات‌های سوسیالیست",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": 0.3,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/really-left-big-moment-ll-100000172.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/really-left-big-moment-ll-100000172.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/97f620abebcc879fd357964d4f3c15693f38414064b67b6f914716363d4bd05e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_new_republic_521%2F9a19c3480e5f56cb0d796214d38f521d.jpg",
-        "timestamp": 1788863845.4914658
-    },
-    {
-        "id": "700d8d61c3",
-        "title_fa": "آخرین اخبار خاورمیانه: قیمت نفت پس از حملات حوثی‌ها به شهرهای عربستان سعودی افزایش یافت",
-        "title_en": "Middle East latest: Oil prices spike after attacks on Saudi Arabian cities by Houthis",
-        "summary": [
-            "The Houthis have launched attacks on Saudi cities near the Saudi Arabia-Yemen border - which has caused oil prices to spike. The Saudis have vowed a firm response to the strikes by the Iranian proxy..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Sky",
-        "url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
-        "clean_url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788863843.0
     }
 ]
