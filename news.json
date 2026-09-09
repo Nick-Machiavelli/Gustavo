@@ -1,5 +1,41 @@
 [
     {
+        "id": "c60ead380d",
+        "title_fa": "ترامپ در مراسم ۹/۱۱ خودنمایی کرد",
+        "title_en": "S.E. Cupp: For Trump, even 9/11 is an opportunity",
+        "summary": [
+            "ترامپ سخنرانی‌اش را به خود متمرکز کرد و درخواست برگزارکنندگان را نادیده گرفت.",
+            "رفتار او نشان می‌دهد که حتی در حوادث ملی از فرصت‌های سیاسی استفاده می‌کند."
+        ],
+        "impact": "سخنرانی می‌تواند حمایت عمومی را تضعیف کند و فشار داخلی بر دولت را افزایش دهد.",
+        "tag": "سیاست داخلی",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "New York Daily News",
+        "url": "https://www.nydailynews.com/2026/09/09/s-e-cupp-for-trump-even-9-11-is-an-opportunity/",
+        "clean_url": "https://www.nydailynews.com/2026/09/09/s-e-cupp-for-trump-even-9-11-is-an-opportunity",
+        "image": "https://www.nydailynews.com/wp-content/uploads/2026/09/GettyImages-2294157344.jpg?w=7884&h=5258",
+        "timestamp": 1788970458.7382083
+    },
+    {
+        "id": "34e32e20ab",
+        "title_fa": "ترامپ مسیر جدیدی برای ایران می‌کشد",
+        "title_en": "Trump Is Charting a New Course on Iran",
+        "summary": [
+            "ترامپ قصد دارد سیاست‌های قبلی را بازنگری کند؛ احتمال بازگشت به فشارهای نظامی یا تحریم‌های سخت.",
+            "تغییر مسیر می‌تواند تنش‌های خاورمیانه را تشدید کند و مذاکرات هسته‌ای را به تعویق بیندازد."
+        ],
+        "impact": "اگر سیاست سخت‌گیرانه اجرا شود، اقتصاد ایران تحت فشار شدید تحریم‌ها قرار می‌گیرد.",
+        "tag": "ایران",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Free Press",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRU5CdVNmcnZKT216MENDeDJ6cm1zdW1TS0pnVUYyX05vb3BIYV8tSHktR1BLOFU0REVaY1lUb2pRZDVxdlM5X1o4bmRTTnc1NU43RlNJTkFHekt0V0ZaM2pqREszZExtcVByalBsWUV2SlZ5Yy1UZnVreUx5MXlOdlpleldlbTBuZlNfUEZoalI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRU5CdVNmcnZKT216MENDeDJ6cm1zdW1TS0pnVUYyX05vb3BIYV8tSHktR1BLOFU0REVaY1lUb2pRZDVxdlM5X1o4bmRTTnc1NU43RlNJTkFHekt0V0ZaM2pqREszZExtcVByalBsWUV2SlZ5Yy1UZnVreUx5MXlOdlpleldlbTBuZlNfUEZoalI",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788970022.0
+    },
+    {
         "id": "2471ef0842",
         "title_fa": "حمله سپاه به پایگاه آمریکا؛ ترامپ دستور تخریب ایران",
         "title_en": "IRGC attacked US base, Trump ordered military to cripple Iran",
@@ -5393,41 +5429,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWU9TdjZUU2ozWGhJMGRpaHNzWnZNUjYyTW1BSHVNQ0ZEWmx1QlBkaDVLUHR5RzltNG01UEgyX1BUTW9JaVVMSFFIdGxPcEgzNTY5OGhtSDlHeG1FTXZubnVkSUZQay1HLWE1SzRzRzBBMm1yY0hmZEpVNHprTm1Jc0tKUy1ENUY1dzVlU0FTQXpEV0dW0gGaAUFVX3lxTE1HS3J6TzlEWlhBQzVGSHQ0VFh6OEkxc2lYVGhOYUZ4dTA2VGd3aVQydmdLSnhKYV8xVFB2SjB4azY1bTV3U0doQjl5b292emJ0UG84cDN4cFZpWmt6bk0yR05TbkRqRWlabldQcl9uV0xkd3J1VVJHS19EdlZVZ25pR1hHYjd6eUlsTmFhU3oyVTlBSDVzQnZndlE",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788832200.0
-    },
-    {
-        "id": "3869521ee3",
-        "title_fa": "خبر بین‌المللی — ایران threatens US with new 'economic warfare' و missiles as",
-        "title_en": "Iran threatens US with new 'economic warfare' and missiles as Houthis attack Saudi Arabia",
-        "summary": [
-            "Iran threatens US with new 'economic warfare' and missiles as Houthis attack Saudi Arabia Reuters"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788832140.0
-    },
-    {
-        "id": "91c872522d",
-        "title_fa": "استراتژی جنگی جدید ایران، تحریم‌ها را به‌جنگ اقتصادی تبدیل می‌کند",
-        "title_en": "Iran’s new war strategy seeks to turn blockade into broader economic confrontation",
-        "summary": [
-            "ایران برنامه جدیدی تدوین کرده تا تحریم‌های دریایی را به فشار اقتصادی گسترده‌تری تبدیل کند",
-            "هدف جلب حمایت کشورهای مخالف آمریکا و استفاده از بازارهای جایگزین برای صادرات است",
-            "این استراتژی می‌تواند تنش‌های منطقه‌ای را تشدید کند و واکنش‌های تدارکاتی آمریکا را برانگیزد"
-        ],
-        "impact": "اقتصاد نفت و گاز ایران با فشارهای جدید مواجه می‌شود، ریسک تحریم‌های گسترده افزایش می‌یابد",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wY2pHdXhPZHI0dF9Bd0FLTVFmQ2RyUzlobE9hbkRfaHJmZHIyYTc1bnpuN2dvQjU1Mm90VEhBU0tSR2MtU0ZSekdWdTFwaWs1Nnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wY2pHdXhPZHI0dF9Bd0FLTVFmQ2RyUzlobE9hbkRfaHJmZHIyYTc1bnpuN2dvQjU1Mm90VEhBU0tSR2MtU0ZSekdWdTFwaWs1Nnc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788831841.0
     }
 ]
