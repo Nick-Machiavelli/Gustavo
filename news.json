@@ -2069,6 +2069,25 @@
         "timestamp": 1788874680.0
     },
     {
+        "id": "52bfc5c0d7",
+        "title_fa": "نفت ۹۹ دلاری پس از حملهٔ دوم ایران به ناوها",
+        "title_en": "Oil rises to $99 on report Iran launched second undisclosed attack on U.S. Navy ships",
+        "summary": [
+            "حملهٔ دوم ایران نشانگر تشدید تبادل ضربه‌های نظامی با آمریکا است",
+            "قیمت برنت ۲٪ و ویست‌تی ۲٫۸٪ بالا رفت؛ بازار به ریسک ژئوپلیتیک واکنش نشان داد",
+            "پنطگون حمله را تأیید نکرده اما رسانه‌های ایرانی ادعای هدف‌گیری ناوهای آمریکایی را منتشر کردند"
+        ],
+        "impact": "قیمت نفت خام به‌سرعت بالا می‌رود و هزینه‌های انرژی جهانی را فشار می‌دهد",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+        "clean_url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
+        "timestamp": 1788874080.0
+    },
+    {
         "id": "9ebc612af3",
         "title_fa": "کارلسن علیه ترامپ؛ هانسون هشدار بزرگ‌ترین اشتباه",
         "title_en": "Tucker Carlson turned against Trump, Victor Davis Hanson says he's about to make the worst mistake of his career",
@@ -5398,23 +5417,6 @@
         "url": "https://punchbowl.news/article/finance/economy/treasury-sanctions-whats-left-of-irans-aviation-industry/",
         "clean_url": "https://punchbowl.news/article/finance/economy/treasury-sanctions-whats-left-of-irans-aviation-industry",
         "image": "https://www.bing.com/th?id=ONUT.0bnOxSTBUGta6QcJnBFIGQ",
-        "timestamp": 1788808915.0
-    },
-    {
-        "id": "32730a15e5",
-        "title_fa": "سخنرانی کامل: اد میلیبند \"رویکرد جدید\" بریتانیا را برای حمایت از راه حل دو دولتی ارائه می‌کند",
-        "title_en": "Full speech: Ed Miliband lays out UK’s ‘new approach’ to support two-state solution",
-        "summary": [
-            "British foreign secretary stresses Jewish heritage as he declares West Bank status quo 'unlawful,' worsened by 'settler..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/full-speech-ed-miliband-lays-out-uks-new-approach-to-support-two-state-solution/",
-        "clean_url": "https://www.timesofisrael.com/full-speech-ed-miliband-lays-out-uks-new-approach-to-support-two-state-solution",
-        "image": "https://www.bing.com/th?id=ONUT.aPgo-2n0sMobWNxDgjpOLQ",
         "timestamp": 1788808915.0
     }
 ]
