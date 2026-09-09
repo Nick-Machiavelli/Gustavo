@@ -1,5 +1,25 @@
 [
     {
+        "id": "70f14e001e",
+        "title_fa": "انتقاد اسرائیل از تحریم‌های بریتانیا؛ ضعف داخلی",
+        "title_en": "‘Israel’s Shrill Attack on Ed Miliband Exposes Its Weakness’",
+        "summary": [
+            "مقامات اسرائیلی ادعا کردند بریتانیا به دلیل فشار داخلی بر شهرک‌های غیرقانونی تحریم می‌کند",
+            "این اتهام به عنوان «نمایش نیک‌خواهی» برای جذب رأی‌های چپ‌گرا مطرح شد",
+            "بریتانیا با ۱۱ کشور دیگر اقدام مشترک داشته است",
+            "اختلافات سیاسی غربی بر روابط خاورمیانه تأثیر می‌گذارد"
+        ],
+        "impact": "تشدید تنش‌های دیپلماتیک بین اسرائیل، بریتانیا و ایران؛ کاهش همکاری‌های تجاری",
+        "tag": "سیاست خارجی",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "Byline Times",
+        "url": "https://bylinetimes.com/2026/09/09/israels-shrill-attack-on-ed-miliband-exposes-its-weakness/",
+        "clean_url": "https://bylinetimes.com/2026/09/09/israels-shrill-attack-on-ed-miliband-exposes-its-weakness",
+        "image": "https://www.bing.com/th?id=ONUT.Pg9CoYyMhMejd_QGnOAbqw",
+        "timestamp": 1788961112.0958655
+    },
+    {
         "id": "6f6954b68e",
         "title_fa": "رشد کاپ‌گیراردو و ترافیک: نظرات خوانندگان",
         "title_en": "Speak Out: Grow up",
@@ -567,6 +587,26 @@
         "timestamp": 1788936948.0
     },
     {
+        "id": "c5aa579d13",
+        "title_fa": "حملات موشکی ایران به اردن؛ جبههٔ جدید",
+        "title_en": "Iran's attacks on Jordan show how the kingdom has become frontline state",
+        "summary": [
+            "ایران تعداد زیادی موشک به پایگاه‌های آمریکایی در اردن شلیک کرد",
+            "اردن به خط مقدم مقابله با تهدیدات ایرانی تبدیل شده",
+            "واکنش‌های بین‌المللی به افزایش تنش در خاورمیانه",
+            "احتمال پاسخ نظامی آمریکا یا متحدان نزدیک"
+        ],
+        "impact": "تشدید ریسک جنگ‌محور در مرزهای اردن، ناآرامی‌های منطقه‌ای",
+        "tag": "حملات موشکی",
+        "urgency": 7,
+        "sentiment": -0.75,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-attacks-on-jordan-show-how-the-kingdom-has-become-frontline-state/ar-AA2bShuY",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-attacks-on-jordan-show-how-the-kingdom-has-become-frontline-state/ar-AA2bShuY",
+        "image": "http://www.bing.com/th?id=ONUT.u2SCfgLBeDXX83x3LbKxHA&pid=News",
+        "timestamp": 1788935696.0
+    },
+    {
         "id": "a54d99c20e",
         "title_fa": "ایران ۸ تانکر نفتی و کشتی‌های آمریکایی را هدف گرفت",
         "title_en": "Iran says it targeted US vessels, 8 oil tankers in Persian Gulf in ‘response to aggression’",
@@ -620,6 +660,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldfZlUwY0FCWmkxTF9kZmlRak9fai1nQlpjUC01bmxabUZzaGV3N2NNN1J1aVZIa0Ftc0l3RS1mc2pkeTJxSVNiLU5EaGNBTkN6NG9ZRWJmTWFOY1JhS3A5elZTbjA2dzRlRE9VUTktdjk0MWZMVTFNWUp5NmhVYXpqeWZCQ0l3a3Y5T2x4aDNud2ZuWmdwdDRZeUEyWGtTRGtzRXFWRW83NWRQR3Jncw",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788933180.0
+    },
+    {
+        "id": "e02331ee86",
+        "title_fa": "حملهٔ بزرگ ایران و آمریکا به کشتی‌ها در هرمز",
+        "title_en": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
+        "summary": [
+            "ایران ۱۰ کشتی را در نزدیکی تنگه هرمز هدف قرار داد",
+            "آمریکا پنج کشتی ایرانی را غرق کرد",
+            "این بزرگ‌ترین موج حملات به ناوگان تجاری از آغاز جنگ است",
+            "خطر بستن مسیرهای تجاری و افزایش هزینه‌های نفت"
+        ],
+        "impact": "اختلال شدید در عبور نفت و گاز، فشار بر قیمت‌های جهانی",
+        "tag": "دریایی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/ar-AA2bSazq",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/ar-AA2bSazq",
+        "image": "http://www.bing.com/th?id=ONUT.KVLKCdZpYaAMua4-bfPM6w&pid=News",
+        "timestamp": 1788929311.0
     },
     {
         "id": "28c575e5c8",
@@ -5378,59 +5438,5 @@
         "clean_url": "https://www.msn.com/en-ca/politics/government/what-trump-s-small-potatoes-remark-about-18-deaths-reveals/vi-AA2bL5AK",
         "image": "https://www.bing.com/th?id=ONUT.8o_2wWXO9GBwrWkN1wsH7A",
         "timestamp": 1788823997.082664
-    },
-    {
-        "id": "b95fdfc978",
-        "title_fa": "قیمت‌نفت ایران بالا رفت، ترافیک هرمز کاهش یافت",
-        "title_en": "Iran hikes gasoline prices as Hormuz traffic continues to fall: Live",
-        "summary": [
-            "افزایش قیمت بنزین فشار مالی بر مردم را تقویت می‌کند و احتمال تظاهرات را بالا می‌برد",
-            "کاهش عبور کشتی‌ها از هرمز نشان‌دهنده فشار بین‌المللی و ریسک‌های حمل‌ونقل نفتی است",
-            "تحریم‌های آمریکا به اقتصاد نفت‌کشیده ایران ضربه می‌زند؛ دولت برای جبران سعی در افزایش مالیات دارد"
-        ],
-        "impact": "هزینه زندگی مردم بالا می‌رود و درآمد نفتی کشور کاهش می‌یابد",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-hikes-gasoline-prices-as-hormuz-traffic-continues-to-fall-live/ar-AA2bMGVT",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-hikes-gasoline-prices-as-hormuz-traffic-continues-to-fall-live/ar-AA2bMGVT",
-        "image": "http://www.bing.com/th?id=ONUT.BKtLNsWsciuUcQnQObSi_g&pid=News",
-        "timestamp": 1788823975.0
-    },
-    {
-        "id": "9f6158d488",
-        "title_fa": "خبر بین‌المللی — ترامپ's 'help me' met with Lee Jae Myung's 'no thank you'",
-        "title_en": "Trump's 'help me' met with Lee Jae Myung's 'no thank you'",
-        "summary": [
-            "U.S. President Donald Trump revealed that when he asked South Korea to assist in the stalled Iran war on August 19, President Lee Jae Myung said, “‘No thank you.’” The president should not have..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Chosun Ilbo on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/trumps-help-me-met-with-lee-jae-myungs-no-thank-you/ar-AA2bKobn?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/trumps-help-me-met-with-lee-jae-myungs-no-thank-you/ar-AA2bKobn",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788823309.22638
-    },
-    {
-        "id": "c8cccf7df7",
-        "title_fa": "ترامپ خود را بهترین رئیس‌جمهور می‌نامد",
-        "title_en": "Trump brags he's the greatest president ever as he shares bizarre 'ranking' in odd rant",
-        "summary": [
-            "ترامپ در روز تعطیل فدرال با پست‌های عجیب در شبکهٔ توییت‌سوشیال ادعا کرد که بزرگ‌ترین رئیس‌جمهور تاریخ است",
-            "این رفتار باعث نگرانی درباره سلامت روانی او و کاهش اعتبار بین‌المللی آمریکا شد"
-        ],
-        "impact": "تصویر آمریکا در سطح جهانی تحت فشار می‌ماند و رقبای داخلی می‌توانند از این استفاده کنند",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "Daily Star",
-        "url": "https://www.dailystar.co.uk/news/latest-news/trump-brags-hes-greatest-president-37637363",
-        "clean_url": "https://www.dailystar.co.uk/news/latest-news/trump-brags-hes-greatest-president-37637363",
-        "image": "https://www.bing.com/th?id=ONUT.gZi2HEBhfkBKSVun_aY4tQ",
-        "timestamp": 1788822768.6370943
     }
 ]
