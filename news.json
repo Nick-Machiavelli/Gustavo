@@ -585,6 +585,24 @@
         "timestamp": 1788902460.0
     },
     {
+        "id": "d024cb10b1",
+        "title_fa": "ایران حملات جدید به اهداف آمریکایی در خلیج",
+        "title_en": "Iran, US trade blows as Hormuz impasse deepens",
+        "summary": [
+            "ایران پس از حملات آمریکا به تانکرهای نفتی، به هدف‌های نظامی آمریکایی در خاورمیانه ضربه زد",
+            "واکنش جدید می‌تواند به تشدید جنگ منجر شود و خطوط هوایی و دریایی را تحت فشار قرار دهد"
+        ],
+        "impact": "افزایش تنش نظامی بین ایران و آمریکا، خطر گسترش جنگ",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Agence France-Presse on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-us-trade-blows-as-hormuz-impasse-deepens/ar-AA2bQvSg",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-trade-blows-as-hormuz-impasse-deepens/ar-AA2bQvSg",
+        "image": "http://www.bing.com/th?id=ONUT.dJHHp0Pku9VTkEmJLSQZcQ&pid=News",
+        "timestamp": 1788901954.0
+    },
+    {
         "id": "d9e093f492",
         "title_fa": "هانسون: چه زمانی مردم ایران رژیم را سرنگون می‌کنند؟",
         "title_en": "Victor Davis Hanson: When Will the Iranian People Overthrow the Regime?",
@@ -620,6 +638,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-living-in-fear-as-historian-points-to-bunker-and-inner-sanctum-around-president/ar-AA2bPAVE",
         "image": "https://www.bing.com/th?id=ONUT.J1iCJm0E7kexth0vMTwTeQ",
         "timestamp": 1788900601.2393634
+    },
+    {
+        "id": "4a0ff5332a",
+        "title_fa": "انفجارهای گزارش‌شده در جزیره خرم، مرکز صادرات نفت",
+        "title_en": "Oil prices rise amid reported explosions near Iran's Kharg Island",
+        "summary": [
+            "خبرگزاری مهر اعلام کرد انفجارهایی در حوالی جزیره خرم شنیده شد",
+            "این حادثه می‌تواند صادرات نفتی ایران را مختل کند و قیمت نفت را بالا ببرد"
+        ],
+        "impact": "اختلال در صادرات نفت ایران، فشار بر قیمت جهانی",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4640923-oil-prices-rise-amid-reported-explosions-near-irans-kharg-island",
+        "clean_url": "https://seekingalpha.com/news/4640923-oil-prices-rise-amid-reported-explosions-near-irans-kharg-island",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2270984371/image_2270984371.jpg?io=getty-c-w1536",
+        "timestamp": 1788900360.0
     },
     {
         "id": "0b8da5085f",
@@ -5372,42 +5408,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzBObHh2Z18wYkFCdldzRnJ1RzBJWHpRVmg4eUQyR25LckFMWjRjdE1RYUU0akdWemVnR1JjUE1ESC1VYmo0QUhFTmhvYTJPbVlieFMxSUowUzN6QVYtYXFET3NMNzRNa3h2NmRvMl9Ed0libEJJdlNWTVI0d3ZvQjdORnUtTFRwYUJFX0VnMEV4MjBzdlRqWlR6d1VLUQ",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788796433.0
-    },
-    {
-        "id": "0507ad328f",
-        "title_fa": "ترامپ: توقف جنگ ایران روی «حمایت حیات»",
-        "title_en": "Trump Says Iran Ceasefire on ‘Life Support’ After Rejecting Tehran’s Response",
-        "summary": [
-            "ترامپ گفت توافق آتش‌بس ایران در وضعیت بحرانی است و به «حمایت حیات» تشبیه شد",
-            "او رد پاسخ تهران را به عنوان عدم تعهد به صلح نشان داد",
-            "این سخنرانی می‌تواند فشار آمریکا برای اعمال تحریم‌های سخت‌تر را تقویت کند"
-        ],
-        "impact": "ایالات متحده ممکن است تحریم‌های جدیدی علیه ایران اعمال کند",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjdlMU9VcTJGZDJWeWgzMVROMm1remJEaU9CX2t0RVlObUVyVWlvV2pDSVZoODMyc1hQOUJBZUxBbUVZWUczZGp3c2lXNE5PU1BWUURuaVdYLXQyUG1aZWFpYkpGRnRqbEJEWGZmVVE5ZjJxQVpDV0QxellLRC1uVlpPaFNGczVhdnVUQXl4SGJVbkFQbktpeTZJMzNKWExwc2FadGJmdHE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjdlMU9VcTJGZDJWeWgzMVROMm1remJEaU9CX2t0RVlObUVyVWlvV2pDSVZoODMyc1hQOUJBZUxBbUVZWUczZGp3c2lXNE5PU1BWUURuaVdYLXQyUG1aZWFpYkpGRnRqbEJEWGZmVVE5ZjJxQVpDV0QxellLRC1uVlpPaFNGczVhdnVUQXl4SGJVbkFQbktpeTZJMzNKWExwc2FadGJmdHE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788796433.0
-    },
-    {
-        "id": "f21707c6da",
-        "title_fa": "تحریم ۲۷ شرکت هواپیمایی ایرانی توسط آمریکا",
-        "title_en": "US sanctions 27 Iranian airlines, escalating pressure on Tehran’s aviation sector",
-        "summary": [
-            "ایالات متحده ۲۷ شرکت هواپیمایی و ۳۵ نهاد مرتبط را هدف گرفت تا توان لجستیکی ایران در حوزه هسته‌ای، موشکی و نظامی را محدود کند",
-            "این فشار اقتصادی می‌تواند منجر به بسته شدن کامل فضای هوایی ایران تا پایان سال شود"
-        ],
-        "impact": "کاهش توان حمل‌ونقل هوایی و فشار شدید بر اقتصاد هوانوردی ایران",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-sanctions-27-iranian-airlines-escalating-pressure-on-tehrans-aviation-sector/",
-        "clean_url": "https://cryptobriefing.com/us-sanctions-27-iranian-airlines-escalating-pressure-on-tehrans-aviation-sector",
-        "image": "https://www.bing.com/th?id=ONUT.CZWLNv8ob80ifOaLou8Pcg",
-        "timestamp": 1788796384.0
     }
 ]
