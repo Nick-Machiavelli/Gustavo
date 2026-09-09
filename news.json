@@ -1,5 +1,43 @@
 [
     {
+        "id": "9dd2b5eb3d",
+        "title_fa": "آیا استراتژی ضدتروریسم آمریکا به سمت شیعه تغییر کرده؟",
+        "title_en": "Has the US’ post-9/11 counter-terror strategy shifted from Sunni to Shia?",
+        "summary": [
+            "پس از 9/11، آمریکا سیاست‌های ضدتروریسم خود را به سمت مقابله با گروه‌های شیعه متمایل کرده",
+            "این تغییر نگرانی کشورهای خاورمیانه را برانگیخته",
+            "تحلیلگر می‌گوید این رویکرد ممکن است به افزایش تنش‌های منطقه‌ای منجر شود"
+        ],
+        "impact": "سیاست‌های منطقه‌ای ممکن است به سمت مقابله مستقیم با نیروهای شیعه سوق پیدا کند",
+        "tag": "آمریکا",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The National Interest on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/has-the-us-post-9-11-counter-terror-strategy-shifted-from-sunni-to-shia/ar-AA2bTDHp?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/has-the-us-post-9-11-counter-terror-strategy-shifted-from-sunni-to-shia/ar-AA2bTDHp",
+        "image": "https://www.bing.com/th?id=ONUT.Oemod4bOz9HHL885pB_x9w",
+        "timestamp": 1788979892.6098754
+    },
+    {
+        "id": "5d066096b6",
+        "title_fa": "گالانت ادعا کرد هشدار اماراتی به نتانیاهو مخفی شد",
+        "title_en": "Ex-defense minister Gallant says he didn’t know of alleged MBZ-Netanyahu warning, says PM could’ve hidden it",
+        "summary": [
+            "گالانت می‌گوید از هشدار احتمالی امارات به نتانیاهو بی‌اطلاع بوده",
+            "او insinuate کرد نخست‌وزیر ممکن است اطلاعات را پنهان کرده باشد",
+            "این ادعا می‌تواند تنش‌های داخلی اسرائیل را تشدید کند"
+        ],
+        "impact": "اعتماد عمومی به دولت اسرائیل کاهش می‌یابد؛ مذاکرات داخلی پیچیده‌تر می‌شود",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "The Times of Israel on MSN",
+        "url": "https://www.msn.com/en-us/news/other/ex-defense-minister-gallant-says-he-didn-t-know-of-alleged-mbz-netanyahu-warning-says-pm-could-ve-hidden-it/ar-AA2bTjIm?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/ex-defense-minister-gallant-says-he-didn-t-know-of-alleged-mbz-netanyahu-warning-says-pm-could-ve-hidden-it/ar-AA2bTjIm",
+        "image": "https://www.bing.com/th?id=ONUT.OnfKPE9ACJemSzTEKifHog",
+        "timestamp": 1788979892.60958
+    },
+    {
         "id": "155f95a76a",
         "title_fa": "چرا کمک های آمریکا به نیروهای مسلح لبنان باید با شرایطی همراه باشد",
         "title_en": "Why US aid to the Lebanese Armed Forces should come with conditions",
@@ -2153,6 +2191,25 @@
         "clean_url": "https://johnmenadue.com/post/2026/09/netanyahus-political-future-is-now-tied-to-the-genocide-in-gaza",
         "image": "https://www.bing.com/th?id=ONUT.Kcl8lRTeIFObB4dFYc6m7Q",
         "timestamp": 1788913303.470817
+    },
+    {
+        "id": "fc5d8bce63",
+        "title_fa": "سپاه موشک به اردن شلیک کرد؛ واکنش منطقه",
+        "title_en": "UK says Israel's post-election policy may affect scope of settlement sanctions, rejects 'damaging' countersteps",
+        "summary": [
+            "ایران با شلیک موشک به اردن توان نظامی‌اش را به نمایش گذاشت",
+            "عدم تلفات نشان می‌دهد هدف شاید نشان قدرت باشد نه تخریب",
+            "این اقدام می‌تواند فشار بر اسرائیل را که شلیک را می‌بیند، افزایش دهد"
+        ],
+        "impact": "تنش نظامی در خاورمیانه بالا می‌رود؛ احتمال پاسخ نظامی یا تحریم‌های جدید",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog-september-09-2026/",
+        "clean_url": "https://www.timesofisrael.com/liveblog-september-09-2026",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788912540.0
     },
     {
         "id": "1133329abb",
@@ -5365,56 +5422,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/ambassador-huckabee-uk-settlement-trade-ban-likely-to-provoke-us-reaction-harm-british-businesses",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26113797234480.jpg",
         "timestamp": 1788850920.0
-    },
-    {
-        "id": "fd633da26b",
-        "title_fa": "خبر بین‌المللی — Opinion: رژیم change is only real solution به ایران proble",
-        "title_en": "Opinion: Regime change is the only real solution to the Iran problem",
-        "summary": [
-            "In recent weeks, numerous reports have blamed U.S. involvement in the Ukraine and Iran wars for depleting U.S. weapons supplies. Most importantly, critics allege, America’s own self-defense capacity..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Hill on MSN",
-        "url": "https://www.msn.com/en-us/news/other/opinion-regime-change-is-the-only-real-solution-to-the-iran-problem/ar-AA2bOeme",
-        "clean_url": "https://www.msn.com/en-us/news/other/opinion-regime-change-is-the-only-real-solution-to-the-iran-problem/ar-AA2bOeme",
-        "image": "http://www.bing.com/th?id=ONUT.1FeWxXOn9dZEL0x_e5zUCw&pid=News",
-        "timestamp": 1788850800.0
-    },
-    {
-        "id": "beb0478b8d",
-        "title_fa": "خبر بین‌المللی — Saudi Arabia condemns حوثی attacks در its territory",
-        "title_en": "Saudi Arabia condemns Houthi attacks on its territory",
-        "summary": [
-            "Saudi Arabia condemns Houthi attacks on its territory that wounded 73 people, saying it will \"take all necessary measures to defend its sovereignty.\""
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-condemns-houthi-attacks-on-its-territory/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-condemns-houthi-attacks-on-its-territory",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788850560.0
-    },
-    {
-        "id": "cf26807813",
-        "title_fa": "اهرم هرمز ایران با شروع تحریم‌های آمریکا زیر سوال رفته است",
-        "title_en": "Iran's Hormuz leverage in question as US sanctions begin to bite",
-        "summary": [
-            "Iran's Hormuz leverage in question as US sanctions begin to bite Daily Sabah"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Daily Sabah",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHBmYzdQM0diZVpnUkxnU0RpaDFsdnZDdXk0QWJnZHhfbW5WSmdQNTZxUmVyRUVUY19oVnpIbWRLNUEwWjQtV0p4aXFhdXlaZ3MzUi1zWHZEbUgweGdkMEZRb0tZUXp4ZzlkYXdYMzdWRFZHUngzVWY0Y29jdEhkRUFUbF9DQUZMcWREWGRXWTJoMDctRXRvT1M2R25YT3c3TUJYYjFKUmVHSUI4Z1l0Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHBmYzdQM0diZVpnUkxnU0RpaDFsdnZDdXk0QWJnZHhfbW5WSmdQNTZxUmVyRUVUY19oVnpIbWRLNUEwWjQtV0p4aXFhdXlaZ3MzUi1zWHZEbUgweGdkMEZRb0tZUXp4ZzlkYXdYMzdWRFZHUngzVWY0Y29jdEhkRUFUbF9DQUZMcWREWGRXWTJoMDctRXRvT1M2R25YT3c3TUJYYjFKUmVHSUI4Z1l0Xw",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788850496.0
     }
 ]
