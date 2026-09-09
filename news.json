@@ -1,5 +1,25 @@
 [
     {
+        "id": "2471ef0842",
+        "title_fa": "حمله سپاه به پایگاه آمریکا؛ ترامپ دستور تخریب ایران",
+        "title_en": "IRGC attacked US base, Trump ordered military to cripple Iran",
+        "summary": [
+            "سپاه پاسداران به یک پایگاه آمریکایی در خاورمیانه حمله کرد و خسارات محدود اما نمادین ایجاد کرد.",
+            "ترامپ به‌سرعت دستور داد نیروهای نظامی برای «تضعیف» توانمندی‌های هسته‌ای و نظامی ایران اقدام کنند.",
+            "تحلیل‌گران می‌گویند این واکنش می‌تواند به گسترش عملیات نیابتی و افزایش تنش‌های منطقه‌ای منجر شود.",
+            "ایالات متحده هنوز برنامه‌ریزی دقیق برای حمله گسترده ندارد؛ اما فشار دیپلماتیک و اقتصادی در پیش است."
+        ],
+        "impact": "تشدید خطر جنگ‌سازانه و افزایش هزینه‌های نظامی برای هر دو طرف.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Stephen Gardner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/irgc-attacked-us-base-trump-ordered-military-to-cripple-iran/vi-AA2bSLK4?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/irgc-attacked-us-base-trump-ordered-military-to-cripple-iran/vi-AA2bSLK4",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788969819.889406
+    },
+    {
         "id": "a506de586f",
         "title_fa": "از ساکنان خواسته شد تا خسارات ناشی از رعد و برق را در شهرستان کامبریا گزارش کنند",
         "title_en": "Residents urged to report thunderstorm damage in Cambria County",
@@ -5409,24 +5429,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wY2pHdXhPZHI0dF9Bd0FLTVFmQ2RyUzlobE9hbkRfaHJmZHIyYTc1bnpuN2dvQjU1Mm90VEhBU0tSR2MtU0ZSekdWdTFwaWs1Nnc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788831841.0
-    },
-    {
-        "id": "4f445c8b20",
-        "title_fa": "تحریم‌های آمریکا، آینده تحصیل دانشجویان ایرانی را تهدید می‌کند",
-        "title_en": "US sanctions threaten to crush Iranian students' dreams",
-        "summary": [
-            "تحریم‌های جدید آمریکا دسترسی دانشجویان ایرانی به بورس‌ها و ویزاهای تحصیلی را محدود می‌کند",
-            "بسیاری از دانشگاه‌های غربی پذیرش دانشجویان ایرانی را به‌دلیل ریسک مالی متوقف کرده‌اند",
-            "این محدودیت می‌تواند باعث فرار مغزها و کاهش توان علمی کشور شود"
-        ],
-        "impact": "کاهش تعداد دانشجویان ایرانی در خارج، فشار بر نیروی کار متخصص داخلی",
-        "tag": "تحصیل",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTmpkNE5lUWw4MVRiYklqNk5pcy1NU1NaWXNUNGZsVEItb21oTkljOEJUYTB5N0l0cnNELXhYTWtnWXpXa0NuQ1FGNzhTTVp2MmlkUFQxaGc3cnNRaVFFeTBlZXRLQmxOZTZ0U1BBTlF2MGlCSUVQNEpUNWVSTXFhZFctcHg3WnlHakl2Szl4dVVjSkZFWHNwa1UzbjZkd2tLLUVR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTmpkNE5lUWw4MVRiYklqNk5pcy1NU1NaWXNUNGZsVEItb21oTkljOEJUYTB5N0l0cnNELXhYTWtnWXpXa0NuQ1FGNzhTTVp2MmlkUFQxaGc3cnNRaVFFeTBlZXRLQmxOZTZ0U1BBTlF2MGlCSUVQNEpUNWVSTXFhZFctcHg3WnlHakl2Szl4dVVjSkZFWHNwa1UzbjZkd2tLLUVR",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788831679.0
     }
 ]
