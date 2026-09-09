@@ -1,5 +1,22 @@
 [
     {
+        "id": "a779ae9e21",
+        "title_fa": "پرتابه‌ها به چندین منطقه در جنوب سیریک ایران اصابت کرد",
+        "title_en": "Projectiles hit several areas in southern Iran's Sirik",
+        "summary": [
+            "Further details regarding the strikes, including the extent of the damage or potential casualties, were not immediately available."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/projectiles-hit-several-areas-in-southern-iran-s-sirik/ar-AA2bUbfM?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/projectiles-hit-several-areas-in-southern-iran-s-sirik/ar-AA2bUbfM",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788996098.3167708
+    },
+    {
         "id": "810676a124",
         "title_fa": "سکوت ترامپ درباره فلسطین، نگرانی نتانیاهو",
         "title_en": "Opinión: El silencio de Trump sobre Cisjordania preocupa a Netanyahu",
@@ -1373,6 +1390,23 @@
         "clean_url": "https://www.msn.com/en-us/news/other/jaspreet-singh-issues-a-warning-for-anyone-holding-us-dollars/ar-AA23TC7q",
         "image": "https://www.bing.com/th?id=ONUT.l2sRBOLxlOq61BAKTEtPyQ",
         "timestamp": 1788958031.3919013
+    },
+    {
+        "id": "f8f6b96e5d",
+        "title_fa": "مقامات آمریکایی می‌گویند که حمله ایران به پایگاه در اردن خسارت محدودی به بار آورده است.",
+        "title_en": "Iran’s Strikes on Base in Jordan Caused Limited Damage, U.S. Officials Say",
+        "summary": [
+            "The latest round of fighting may result in reports of traumatic brain injuries among American service members, officials warned."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
+        "clean_url": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
+        "image": "http://www.bing.com/th?id=ONUT.zbFiwO2z8x5Ju5a9lhJfGQ&pid=News",
+        "timestamp": 1788957240.0
     },
     {
         "id": "5d5750c699",
@@ -5390,40 +5424,5 @@
         "clean_url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788863843.0
-    },
-    {
-        "id": "cf724a65bc",
-        "title_fa": "از درماندگی تا قدرت: فانتزی و سیاست جمعی در ایران معاصر",
-        "title_en": "From Helplessness to Power: Collective Phantasy and Politics in Contemporary Iran",
-        "summary": [
-            "The cultural psyche evokes historical figures as phantasies to transform helplessness into a desire for revenge and..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Mad in America",
-        "url": "https://www.madinamerica.com/2026/09/from-helplessness-to-power-collective-phantasy-and-politics-in-contemporary-iran/",
-        "clean_url": "https://www.madinamerica.com/2026/09/from-helplessness-to-power-collective-phantasy-and-politics-in-contemporary-iran",
-        "image": "https://www.bing.com/th?id=ONUT.SJPaRPNrdUwmCjoa-qbQkA",
-        "timestamp": 1788863112.3397884
-    },
-    {
-        "id": "c1b57cf130",
-        "title_fa": "مقاله نظری NDTV درباره اقتصاد جدید عدم قطعیت",
-        "title_en": "Opinion | India And The New Economics of Uncertainty",
-        "summary": [
-            "متن مقاله در دسترس نیست؛ فقط لینک شکسته‌ای ارائه شده",
-            "به دلیل عدم وجود محتوا نمی‌توان نکات تحلیلی یا پیامدهای اقتصادی را استخراج کرد"
-        ],
-        "impact": "اطلاعات کافی برای ارزیابی اثر اقتصادی موجود نیست",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/opinion/india-and-the-new-economics-of-uncertainty-12017497",
-        "clean_url": "https://www.ndtv.com/opinion/india-and-the-new-economics-of-uncertainty-12017497",
-        "image": "https://www.bing.com/th?id=ONUT.0nW7DvxzPYNOtwE0M_UOcw",
-        "timestamp": 1788862466.1165297
     }
 ]
