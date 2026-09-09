@@ -2859,6 +2859,25 @@
         "timestamp": 1788908061.0
     },
     {
+        "id": "49c66b3199",
+        "title_fa": "قیمت نفت به بالای ۱۰۰ دلار رسید؛ جنگ آمریکا‑ایران",
+        "title_en": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
+        "summary": [
+            "حمله‌های جدید به تأسیسات نفتی خاورمیانه عرضه را فشار داد و قیمت برنت را به ۱۰۱٫۲۱ دلار رساند.",
+            "قیمت بنزین و دیزل در سراسر جهان به‌سرعت بالا می‌رود؛ هزینه‌های حمل‌ونقل برای شرکت‌ها و خانوارها می‌چرخد.",
+            "بازار نفت به‌دلیل نوسان شدید بین صلح و تجدید جنگ، نوسان‌پذیری بیشتری پیدا کرده."
+        ],
+        "impact": "هزینه‌های سوخت و حمل‌ونقل برای مصرف‌کنندگان و صنایع جهانی به‌طور قابل‌توجهی افزایش می‌یابد.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "WCCB Charlotte",
+        "url": "https://www.wccbcharlotte.com/2026/09/09/oil-surges-above-100-a-barrel-as-us-and-iran-launch-new-attacks-while-gasoline-prices-also-jump/",
+        "clean_url": "https://www.wccbcharlotte.com/2026/09/09/oil-surges-above-100-a-barrel-as-us-and-iran-launch-new-attacks-while-gasoline-prices-also-jump",
+        "image": "https://www.bing.com/th?id=ONUT.KxlVHepogcfuRY54wWqKlA",
+        "timestamp": 1788907686.0
+    },
+    {
         "id": "abd789db2e",
         "title_fa": "نه نفت و نه گاز: چین روی باتری، انرژی هسته‌ای و مواد معدنی شرط می‌بندد تا از خود در برابر بحران جدید محافظت کند.",
         "title_en": "Ni petróleo ni gas: China apuesta por baterías, energía nuclear y minerales para blindarse ante una nueva crisis",
@@ -5403,25 +5422,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeHBsY3Zuc19xSDZ3dHMyVHk4M2VER1k2OXhhVXE3Y0ttQVotQndHNXQ3SHViRHNtak81cXp3UE1XUU50ZTBTUWU5MTdmUUoyQlVnYXh6N3h0ejFMR0FodVRmVWwtMDVCM29aYjJxeVlLc2prSThEUzVESXRYcjNZTWNBNF8wUmxmUVNhWnplUnZZVUFwZW5oZzBkWdIBoAFBVV95cUxPSGdjSkh2ZG1QWklWS013QTQwSXlQWHR0OEZRS1BGdlFzaGVPWTNadW0wSTFZWVpGQ1Z3MWxqMUdFUXF4ZkJJTWYzay1zQWNvbWxyWl8xUVhVVk40U2loNl9yM1gzbXpBOTFwbEhQal9uNjByeUsxNTk0N3Z5Wjk5WUZBb3NVSU50VHRRUGxOSUlWT0gxdjNWS0RmUDRRTndt",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788861725.0
-    },
-    {
-        "id": "9d2d8d0de8",
-        "title_fa": "وضعیت سلاح هسته‌ای ایران در سپتامبر 2026",
-        "title_en": "Does Iran Have Nuclear Weapons? The 2026 Threshold Reality Explained",
-        "summary": [
-            "هیچ مدرک عمومی برای وجود سلاح هسته‌ای مونتاژشده در ایران تا سپتامبر 2026 منتشر نشده؛ اما دسترسی بازرسین بین‌المللی به سایت‌ها بسیار محدود است.",
-            "ایران پیش از حملات ژوئن 2025، حدود 440 کیلوگرم اورانیوم 60٪ داشت؛ این مقدار برای ساخت چند سلاح کافی است اگر به‌صورت کامل غنی‌سازی شود.",
-            "حملات 2025‑2026 به زیرساخت‌های هسته‌ای مانع از ارزیابی دقیق موجودی مواد شد و شفافیت را به‌طور جدی کاهش داد.",
-            "عدم توانایی IAEA برای پیگیری پس از حملات، خطر پنهان‌کاری و افزایش تنش‌های منطقه‌ای را تقویت می‌کند."
-        ],
-        "impact": "عدم اطمینان درباره موجودی سلاح هسته‌ای ایران، فشار بر مذاکرات هسته‌ای و احتمال تشدید تحریم‌ها را افزایش می‌دهد.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "thedefensewatch",
-        "url": "https://thedefensewatch.com/policy-strategy/does-iran-have-nuclear-weapons-status/",
-        "clean_url": "https://thedefensewatch.com/policy-strategy/does-iran-have-nuclear-weapons-status",
-        "image": "https://thedefensewatch.com/wp-content/uploads/2026/09/does-iran-have-nuclear-weapons.webp",
-        "timestamp": 1788861660.0
     }
 ]
