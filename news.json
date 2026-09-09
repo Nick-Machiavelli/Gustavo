@@ -1,5 +1,24 @@
 [
     {
+        "id": "10b8a41c5e",
+        "title_fa": "۲۵ سال پس از ۱۱ سپتامبر، یادآوری درد",
+        "title_en": "Column: 25 Years Later, 9/11 still fresh in most minds",
+        "summary": [
+            "مرور حوادث ۱۱ سپتامبر و تلفات گسترده",
+            "اشاره به سوءتفاهم‌های سیاسی پس از حمله",
+            "یادآوری ضرورت حفظ امنیت هوایی"
+        ],
+        "impact": "تقویت آگاهی عمومی، اما اثر فوری محدود",
+        "tag": "تاریخ",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The News-Herald",
+        "url": "https://www.thenewsherald.com/2026/09/09/column-25-years-later-9-11-still-fresh-in-most-minds/",
+        "clean_url": "https://www.thenewsherald.com/2026/09/09/column-25-years-later-9-11-still-fresh-in-most-minds",
+        "image": "https://www.bing.com/th?id=ONUT.gVkNO2fTbpxITmXbbmxdmA",
+        "timestamp": 1788951061.5684538
+    },
+    {
         "id": "6195abcc64",
         "title_fa": "پیتر دیاماندیس می‌گوید نادیده گرفتن شواهد UAP سخت تر می‌شود",
         "title_en": "UAP evidence is getting harder to ignore, says Peter Diamandis",
@@ -529,6 +548,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3JVbm9KUzVYQVFfZmZOdEZPWExFaE00NXhFbEJnXzQ5T19uTWpYUjZ4bUpRT3dLeE5sNzlDYVJNV0ZaeDctbkJSR2hhQ3NMcU1KS2hmTU16enZJVjVvVG1Zd21ScEZreE1SQU1Ta2VJTmw4UndwanNRT1NPRC1lTWd2TlkxQnRlVnlXVGRtbGJ2X1hXMC0yLUlvSGx1TGpERXc",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788924988.0
+    },
+    {
+        "id": "425759af7d",
+        "title_fa": "حمله موشکی ایران به اردن بی‌نتیجه ماند",
+        "title_en": "Iran live updates: US official says Iran missile attack on Jordan 'ineffective'",
+        "summary": [
+            "سپاه ادعا کرد موشکی به اردن پرتاب کرد اما آمریکا آن را ناکارآمد اعلام کرد",
+            "این رخداد نشان می‌دهد توان عملیاتی موشک‌های ایران محدود است",
+            "احتمال تشدید تنش‌های منطقه‌ای در آینده نزدیک وجود دارد"
+        ],
+        "impact": "افزایش فشار بین‌المللی بر ایران، ریسک تحریم‌های جدید",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-official-says-iran-missile-attack-on-jordan-ineffective/ar-AA2bItw1",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-official-says-iran-missile-attack-on-jordan-ineffective/ar-AA2bItw1",
+        "image": "http://www.bing.com/th?id=ONUT.HwQb0Vgo4og7ApTCU8r0pg&pid=News",
+        "timestamp": 1788924607.0
     },
     {
         "id": "acc31c396b",
@@ -2740,6 +2778,82 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/trump-doesnt-see-hes-played-100257663.html",
         "image": "https://s.yimg.com/lo/mysterio/api/022af4a27553d85b8f12c5871e2f9d8b8ae06597f48ee0c6b1b9c6dbfcc22377/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2F50ef73a0-220b-11f0-bcef-942d9ccea532",
         "timestamp": 1788864679.0681481
+    },
+    {
+        "id": "b2c04965d7",
+        "title_fa": "غلام‌اف: ضبط پهپاد زیرآبی آمریکا ضربه کلان",
+        "title_en": "Ghalibaf hails IRGC capture of US underwater drone as ‘knockout’ blow",
+        "summary": [
+            "سپاه پاسداران یک پهپاد بی‌سرنشین آمریکایی را در خلیج فارس به‌دست آورد",
+            "غلام‌اف این دستاورد را «ضربه‌ای کلان» علیه ایالات متحده توصیف کرد",
+            "این واقعه می‌تواند فشار دیپلماتیک و تحریم‌های جدید علیه آمریکا را تقویت کند"
+        ],
+        "impact": "تقویت موضع ایران در مذاکرات بحرانی، تضعیف توان عملیات زیرآبی آمریکا",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "en.isna",
+        "url": "https://en.isna.ir/news/1405061812174/Ghalibaf-hails-IRGC-capture-of-US-underwater-drone-as-knockout",
+        "clean_url": "https://en.isna.ir/news/1405061812174/Ghalibaf-hails-IRGC-capture-of-US-underwater-drone-as-knockout",
+        "image": "https://www.bing.com/th?id=ONUT.kC6K7PPGxCfADQMiu6kKUA",
+        "timestamp": 1788864652.0
+    },
+    {
+        "id": "f3abcb3591",
+        "title_fa": "مگین کلی: ترامپ فقط وضعیت را بدتر کرد",
+        "title_en": "Megyn Kelly Delivers Brutal Reality Check on Trump: ‘He’s Done Nothing But Make Things Worse’",
+        "summary": [
+            "مگین کلی، که پیشتر حامی ترامپ بود، امروز به شکست‌های اقتصادی و جنگ با ایران اشاره کرد",
+            "نظرسنجی‌ها نشان می‌دهد رأی‌دهندگان رپبلیکن‌ها به دموکرات‌ها گرایش پیدا کرده‌اند",
+            "این تغییر می‌تواند فشار بر حزب جمهوری‌خواه در انتخابات بعدی ایجاد کند"
+        ],
+        "impact": "کاهش حمایت رپبلیکن‌ها از ترامپ، احتمال تقویت دموکرات‌ها در انتخابات",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Morning Honey",
+        "url": "https://www.morninghoney.com/p/megyn-kelly-delivers-brutal-reality-check-on-trump-hes-done-nothing-but-make-things-worse",
+        "clean_url": "https://www.morninghoney.com/p/megyn-kelly-delivers-brutal-reality-check-on-trump-hes-done-nothing-but-make-things-worse",
+        "image": "https://www.bing.com/th?id=ONUT.0RDJ7NsfUh8zaD6KhMrdAQ",
+        "timestamp": 1788864651.0
+    },
+    {
+        "id": "001d725a05",
+        "title_fa": "قیمت نفت بالا، سقوط حسنس و نیفتی",
+        "title_en": "Why did stock market fall today? Oil spike, IT rout among 6 key factors behind 800-point Sensex slump; Nifty below 23,450",
+        "summary": [
+            "نفت گران شد و حسنس 800 نقطه افت کرد",
+            "فشار بر سبد سرمایه‌گذاران و شرکت‌های فناوری ایجاد شد",
+            "این سقوط ممکن است به کاهش سرمایه‌گذاری خارجی منجر شود"
+        ],
+        "impact": "سرمایه‌گذاران به فروش دارایی‌ها روی می‌آورند، نوسان بازارهای آسیایی افزایش می‌یابد",
+        "tag": "بازار",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Economic Times on MSN",
+        "url": "https://www.msn.com/en-in/money/top-stocks/why-stock-market-is-down-today-oil-spike-it-rout-among-6-key-factors-behind-700-point-sensex-slump-nifty-below-23-500/ar-AA2bQQYY?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/money/top-stocks/why-stock-market-is-down-today-oil-spike-it-rout-among-6-key-factors-behind-700-point-sensex-slump-nifty-below-23-500/ar-AA2bQQYY",
+        "image": "https://www.bing.com/th?id=ONUT.pnDSf0480iGRh0LGwcirRg",
+        "timestamp": 1788864651.0
+    },
+    {
+        "id": "cd8b1ea154",
+        "title_fa": "بخش‌های پشتونی بلوچستان تحت حملات شدید",
+        "title_en": "Pakistan faces new frontier against attacks: Balochistan’s Pashtun areas",
+        "summary": [
+            "حملات مسلحانه در نواحی پشتونی بلوچستان به‌سرعت افزایش یافت",
+            "این تحولات خطر گسترش شورش را به‌خصوص در مرزهای افغانستان نشان می‌دهد",
+            "دولت پاکستان ممکن است نیروهای بیشتری به منطقه بفرستد"
+        ],
+        "impact": "ناآرامی‌های داخلی پاکستان، تهدید بر مسیرهای تجاری منطقه",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Al Jazeera on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/pakistan-faces-new-frontier-against-attacks-balochistan-s-pashtun-areas/ar-AA2bRdQ5?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/pakistan-faces-new-frontier-against-attacks-balochistan-s-pashtun-areas/ar-AA2bRdQ5",
+        "image": "https://www.bing.com/th?id=ONUT.drjv4ycglOf3f89sk7ugLw",
+        "timestamp": 1788864651.0
     },
     {
         "id": "a1a98fdcaa",
@@ -5306,117 +5420,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-has-no-means-to-respond-to-us-threats-ret-marine-colonel/vi-AA2bL07O",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788817272.3809087
-    },
-    {
-        "id": "5d5af2a430",
-        "title_fa": "حمله حوثی‌ها به عربستان؛ صدمات و نوسان نفت",
-        "title_en": "Scores wounded as Iran-backed Houthis attack Saudi Arabia in major regional escalation",
-        "summary": [
-            "حوثی‌های یمن حمله موشکی گسترده‌ای به زیرساخت‌های نفتی عربستان انجام داد",
-            "صدها نفر زخمی شدند و آتش‌سوزی در چندین پالایشگاه رخ داد",
-            "قیمت نفت جهانی بالای 1٪ افزایش یافت؛ نگرانی از قطع مسیرهای صادراتی از طریق دریای سرخ",
-            "عربستان واکنش نظامی قاطع اعلام کرد و مسیرهای صادراتی را به بندر یانبو تغییر داد"
-        ],
-        "impact": "افزایش قیمت نفت و خطر گسترش درگیری‌های نیابتی در خلیج",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/09/08/middleeast/houthis-attack-saudi-arabia-yemen-intl-hnk",
-        "clean_url": "https://www.cnn.com/2026/09/08/middleeast/houthis-attack-saudi-arabia-yemen-intl-hnk",
-        "image": "http://www.bing.com/th?id=ONUT.QcdnW2JB67usjUMg6ih8Tg&pid=News",
-        "timestamp": 1788816180.0
-    },
-    {
-        "id": "14dcec62e0",
-        "title_fa": "قیمت نفت به‌دلیل تشدید درگیری‌ها در تنگه هرمز جهش کرد",
-        "title_en": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-        "summary": [
-            "حملات متقابل آمریکا و ایران در هرمز باعث نگرانی بازار نفت شد",
-            "قیمت نفت برنت به بالای ۸۰ دلار رسید",
-            "ادامه درگیری می‌تواند فشار بر اقتصاد جهانی را افزایش دهد"
-        ],
-        "impact": "قیمت نفت بالا می‌رود و هزینه‌های انرژی جهانی را ارتقا می‌دهد",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788815843.0
-    },
-    {
-        "id": "6a574e84b9",
-        "title_fa": "سنت‌کام رد می‌کند ادعای زیرسطح پیشرفته ایران",
-        "title_en": "CENTCOM punctures Iran’s latest Strait of Hormuz victory lap over ‘defective’ US submersible",
-        "summary": [
-            "ایران زیرسطح را «پیشرفته» نامید؛ سنت‌کام گفت مدل قدیمی است",
-            "این تصریح نشان می‌دهد ادعای برتری فنی ایران در خلیج حریف نیست",
-            "اگرچه زیرسطح به‌دست ایران شد، خطر عملیاتی مستقیم برای نیروهای آمریکا کم است"
-        ],
-        "impact": "کاهش اعتبار ادعای توان فنی ایران در منطقه",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "MEAWW News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/centcom-punctures-iran-s-latest-strait-of-hormuz-victory-lap-over-defective-us-submersible/ar-AA2bPAWM?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/centcom-punctures-iran-s-latest-strait-of-hormuz-victory-lap-over-defective-us-submersible/ar-AA2bPAWM",
-        "image": "https://www.bing.com/th?id=ONUT.MQgovBIaXIDmyU3eZux7IQ",
-        "timestamp": 1788815501.0
-    },
-    {
-        "id": "ef21b86a5d",
-        "title_fa": "آیا نشست ترامپ‑نتانیاهو به تحقیر می‌انجامد؟",
-        "title_en": "Will the Trump-Netanyahu meeting end in humiliation?",
-        "summary": [
-            "ترامپ و نتانیاهو قصد تقویت فشار بر ایران را در این دیدار دارند",
-            "شکست در مذاکرات می‌تواند نشان‌دهنده ضعف دیپلماتیک آمریکا باشد",
-            "انتقادات داخلی اسرائیل به نتانیاهو برای تکیه بیش از حد به آمریکا می‌آید",
-            "احتمال استفاده از نشست برای اعلام تحریم‌های جدید علیه ایران وجود دارد"
-        ],
-        "impact": "شکست نشست، فشار دیپلماتیک بر ایران را تضعیف و موقعیت استراتژیک آمریکا‑اسرائیل را خدشه‌دار می‌کند",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0F2SjZRdjNPdFlNLTI5RkxuSmNFZ0pzU3ZIRlRzQnl6Y3dQazN6OFhZT1lnbW9xSHVYemFXQ3hxeGpIVDg5cXJpNFdCZVJfMElmSDlnNmJXa2xRZU9qYTZEcWdxRUFHeVJVMGZENTZYa2NtcVAzSFhOcW9Bd2JxM1l1VlVyeVkwT0hndW1nU2h1ZjJaYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0F2SjZRdjNPdFlNLTI5RkxuSmNFZ0pzU3ZIRlRzQnl6Y3dQazN6OFhZT1lnbW9xSHVYemFXQ3hxeGpIVDg5cXJpNFdCZVJfMElmSDlnNmJXa2xRZU9qYTZEcWdxRUFHeVJVMGZENTZYa2NtcVAzSFhOcW9Bd2JxM1l1VlVyeVkwT0hndW1nU2h1ZjJaYlE",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788815098.0
-    },
-    {
-        "id": "743f84111e",
-        "title_fa": "«در آن باش»: پاسخ کانادا به ترامپ اصلاً آن چیزی نیست که او انتظار داشت",
-        "title_en": "'Have at it': Canada's response to Trump is not at all what he expected",
-        "summary": [
-            "President Donald Trump and his top officials keep insulting Canada as they wage their unprovoked trade war against the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/have-at-it-canada-s-response-to-trump-is-not-at-all-what-he-expected/ar-AA2bLcO3?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/have-at-it-canada-s-response-to-trump-is-not-at-all-what-he-expected/ar-AA2bLcO3",
-        "image": "https://www.bing.com/th?id=ONUT.NOlB1RyxcBnZtpwpx86xjg",
-        "timestamp": 1788814148.605389
-    },
-    {
-        "id": "742b8c39ee",
-        "title_fa": "اخبار جنگ ایران زنده: تهران قیمت بنزین را برای برخی از سنگین ترین مصرف کنندگان خود افزایش می‌دهد زیرا اقتصاد با مشکل مواجه است",
-        "title_en": "Iran war news LIVE: Tehran increases gas prices for some of its heaviest consumers as economy struggles",
-        "summary": [
-            "Oil prices extended gains on Monday (local time) as traders closely monitored details of an Iranian deal with Oman to manage shipping through the Strait of Hormuz, which could tighten Tehran's control..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-abbas-araghchi-oil-crude-prices-iran-oman-deal-strait-of-hormuz-11788828272076.html",
-        "clean_url": "https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-abbas-araghchi-oil-crude-prices-iran-oman-deal-strait-of-hormuz-11788828272076.html",
-        "image": "http://www.bing.com/th?id=ONUT.16k4x2f1p1qXD_DxbfS1Ig&pid=News",
-        "timestamp": 1788814080.0
     }
 ]
