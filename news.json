@@ -145,6 +145,25 @@
         "timestamp": 1788938400.0
     },
     {
+        "id": "25f6ca8530",
+        "title_fa": "امداد مالی آمریکا: تحریم کل بخش رمزارزهای ایران",
+        "title_en": "US Treasury Targets Iran's $7.8B Sanctions Evasion Crypto Sector",
+        "summary": [
+            "OFAC تمام اکوسیستم رمزارز ایران را تحت تحریم قرار داد؛ هدف‌گیری دیگر به‌صورت کیف‌پول یا صرافی جداگانه نیست",
+            "چینالیسس ارزش رمزارزهای ایران را در 2025 حدود ۷٫۸ میلیارد دلار برآورد می‌کند؛ بیش از نیمی از تراکنش‌ها توسط کیف‌پول‌های وابسته به سپاه انجام می‌شود",
+            "بانک مرکزی ایران بیش از ۵۰۷ میلیون دلار USDT خریداری کرده بود؛ این ذخیره‌سازی خارج از دلار هم‌اکنون تحت فشار است"
+        ],
+        "impact": "تأمین مالی سپاه با رمزارزها به‌سرعت محدود می‌شود",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Cryptonomist",
+        "url": "https://en.cryptonomist.ch/2026/09/09/us-treasury-iran-sanctions-crypto/",
+        "clean_url": "https://en.cryptonomist.ch/2026/09/09/us-treasury-iran-sanctions-crypto",
+        "image": "https://cryptonomist.ch/wp-content/uploads/2026/09/us-treasury-iran-sanctions.jpeg",
+        "timestamp": 1788937680.0
+    },
+    {
         "id": "5004ed08b8",
         "title_fa": "ایران حلقه‌ای جدید از نیابتی‌ها در خلیج می‌سازد",
         "title_en": "Iran is forging a new ring of proxies to threaten US allies in the Gulf, officials say - ABC News",
@@ -5401,22 +5420,5 @@
         "clean_url": "https://www.ynetnews.com/article/s1nmnnt00zx",
         "image": "https://www.bing.com/th?id=ONUT.V1k4sCBInGurrYmZjEOj5g",
         "timestamp": 1788808916.0
-    },
-    {
-        "id": "28b209736b",
-        "title_fa": "بریتانیا با محکوم کردن «پاکسازی قومی» در کرانه باختری، ممنوعیت تجارت با شهرک‌ها را اعلام کرد",
-        "title_en": "Denouncing ‘ethnic cleansing’ in West Bank, UK announces trade ban with settlements",
-        "summary": [
-            "Sa'ar, responding to 'outrageous' move echoed by 11 countries, says Israel won't bow to 'jihadists, Islamists, antisemites,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel on MSN",
-        "url": "https://www.msn.com/en-us/news/other/denouncing-ethnic-cleansing-in-west-bank-uk-announces-trade-ban-with-settlements/ar-AA2bOMCy?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/denouncing-ethnic-cleansing-in-west-bank-uk-announces-trade-ban-with-settlements/ar-AA2bOMCy",
-        "image": "https://www.bing.com/th?id=ONUT.buCvt4GDUXsIei8kLq_x4Q",
-        "timestamp": 1788808915.0
     }
 ]
