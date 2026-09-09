@@ -1,5 +1,25 @@
 [
     {
+        "id": "055bd27661",
+        "title_fa": "حمله ایران به پایگاه آمریکا در اردن و ناوگان خلیج",
+        "title_en": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk",
+        "summary": [
+            "ایران توان عملیاتی خود را با هدف‌گیری مستقیم پایگاه آمریکایی در اردن نشان داد",
+            "حمله به کشتی‌ها در نزدیکی هورموز مسیر شحنه‌گیری نفت را به خطر انداخته و نوسان قیمت‌ها را تشدید می‌کند",
+            "واکنش آمریکا احتمالاً شامل افزایش حضور نظامی و تحریم‌های سخت‌گیرانه خواهد شد",
+            "تنش‌های ژئوپلیتیک خاورمیانه به نقطه انفجار نزدیک می‌شود"
+        ],
+        "impact": "خطر مستقیم برای نیروهای آمریکا و اختلال در عبور نفت از هورموز",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788926820.0
+    },
+    {
         "id": "a08f7494b3",
         "title_fa": "جنگنده های تحت حمایت ایران در یمن و عراق در حال پیوستن به نیروهای خود برای تهدید خلیج فارس هستند.",
         "title_en": "Iran-backed fighters in Yemen and Iraq are joining forces to threaten the Gulf,...",
@@ -5385,25 +5405,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/trump-just-pulled-off-a-strategic-master-stroke-in-the-strait-of-hormuz-and-the-world-s-most-important-oil-route-may-never-be-the-same/ar-AA2bOeBB",
         "image": "https://www.bing.com/th?id=ONUT.52pY550hVr2L5soh6jEfOA",
         "timestamp": 1788795834.0
-    },
-    {
-        "id": "6cb8de6323",
-        "title_fa": "آی.ا.ا. می‌گوید ایران بازرسان هسته‌ای را مسدود کرد",
-        "title_en": "IAEA says Iran blocking nuclear inspectors as Hormuz threats mount",
-        "summary": [
-            "ایران اطلاعاتی درباره مواد هسته‌ای اعلام نکرده و بازرسان دسترسی ندارند",
-            "مسدودسازی بازرسان باعث تشدید تنش با ایالات متحده و خطر حمله به دارایی‌های انرژی می‌شود",
-            "سخنران مجلس تهدید به ضربه‌پذیری به دارایی‌های انرژی آمریکا کرد؛ سپاه کشتی‌ها را در هرمز تهدید کرد",
-            "احتمال اعمال تحریم‌های جدید یا اقدام‌ها نظامی در خلیج فارس افزایش یافت"
-        ],
-        "impact": "تحریم‌های سخت‌تر و احتمال عملیات نظامی علیه زیرساخت‌های هسته‌ای یا ناوگان در خلیج فارس",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Euronews",
-        "url": "https://www.msn.com/en-xl/news/other/iaea-says-iran-blocking-nuclear-inspectors-as-hormuz-threats-mount/ar-AA2bL18G",
-        "clean_url": "https://www.msn.com/en-xl/news/other/iaea-says-iran-blocking-nuclear-inspectors-as-hormuz-threats-mount/ar-AA2bL18G",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bLdYX.img?w=800&h=450&m=4&q=75",
-        "timestamp": 1788795718.0
     }
 ]
