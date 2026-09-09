@@ -1,5 +1,23 @@
 [
     {
+        "id": "77219a81e2",
+        "title_fa": "حرف‌های رِی هانانیا: ترامپ خیانت‌کار",
+        "title_en": "Ray Hanania: Trump betrays America and Republican Party",
+        "summary": [
+            "مقاله می‌گوید ترامپ پس از انتخابات منافع شخصی را پیش‌دستی کرد",
+            "وعده‌های کاهش مالیات و انرژی به‌صورت کامل محقق نشدند"
+        ],
+        "impact": "اعتماد عمومی به حزب جمهوری‌خواه در آمریکا تضعیف می‌شود",
+        "tag": "ترامپ",
+        "urgency": 2,
+        "sentiment": -0.8,
+        "source": "Southwest Regional Publishing",
+        "url": "https://southwestregionalpublishing.com/2026/09/09/ray-hanania-trump-betrays-america-and-republican-party/",
+        "clean_url": "https://southwestregionalpublishing.com/2026/09/09/ray-hanania-trump-betrays-america-and-republican-party",
+        "image": "https://www.bing.com/th?id=ONUT.fvA8HD9yakjtNVCVcdYEiQ",
+        "timestamp": 1788991940.2371302
+    },
+    {
         "id": "5795c6a913",
         "title_fa": "ایران در خلیج هرمز تنش‌ها را شعله‌ور کرد",
         "title_en": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
@@ -2877,6 +2895,42 @@
         "timestamp": 1788905615.6803489
     },
     {
+        "id": "1eadcc902c",
+        "title_fa": "قیمت نفت به بالای ۱۰۰ دلار می‌رسد؛ جنگ آمریکا‑ایران",
+        "title_en": "Oil surges above $100 a barrel as US and Iran launch new attacks; gasoline prices also jump",
+        "summary": [
+            "حملات جدید آمریکا و ایران اضطراب شدید بازار نفت ایجاد کرد",
+            "پیش‌بینی افزایش فوری هزینه بنزین در کشورهای مصرف‌کننده"
+        ],
+        "impact": "قیمت بنزین در ایالات متحده و اروپا به‌سرعت بالا می‌رود",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.1,
+        "source": "WGN-TV",
+        "url": "https://wgntv.com/news/israel-iran-conflict/oil-surges-above-100-a-barrel-as-us-and-iran-launch-new-attacks-gasoline-prices-also-jump/",
+        "clean_url": "https://wgntv.com/news/israel-iran-conflict/oil-surges-above-100-a-barrel-as-us-and-iran-launch-new-attacks-gasoline-prices-also-jump",
+        "image": "https://www.bing.com/th?id=ONUT.BDXkkguLbSU8dJ2Imw1e7g",
+        "timestamp": 1788905535.0
+    },
+    {
+        "id": "bcd4639adf",
+        "title_fa": "ترامپ می‌گوید جنگ با ایران پس انتخابات تمام می‌شود",
+        "title_en": "Trump claims Tehran trying to influence midterms, says war will end after election",
+        "summary": [
+            "ترامپ ادعا کرد ایران در انتخابات آمریکا دخالت می‌کند",
+            "او پیش‌بینی کرد جنگ بلافاصله پس از رای‌گیری پایان می‌یابد"
+        ],
+        "impact": "افزایش تنش سیاسی بین دو کشور و فشار بر دیپلمات‌های آمریکا",
+        "tag": "ترامپ",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/trump-claims-tehran-trying-to-influence-midterms-says-war-will-end-after-election/ar-AA2bUknj?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/trump-claims-tehran-trying-to-influence-midterms-says-war-will-end-after-election/ar-AA2bUknj",
+        "image": "https://www.bing.com/th?id=ONUT.WwHbNdlkpzzbNbIv2MQbiQ",
+        "timestamp": 1788905535.0
+    },
+    {
         "id": "f5867c9690",
         "title_fa": "خبر بین‌المللی — Markets live: ASX به recover from six-week low, Middle East",
         "title_en": "Markets live: ASX to recover from six-week low, Middle East flare-up drives oil price towards $US100",
@@ -5372,57 +5426,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWYkVTZVZLT09MdzNLeE5FRmJOLXF3RjJFblMtcmJFWXZVYU9MUzlScUJRRGM4QUpqWE9Xb3YyRXZrdXBlTkg0cjhBZmZJTmpUU1lrcHkwcTE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788860916.0
-    },
-    {
-        "id": "28b5952cec",
-        "title_fa": "هرتزوگ: ممنوعیت تجارت شهرک‌سازی در بریتانیا «مداخله فاحش» در انتخابات اسرائیل است و به فلسطینی‌ها آسیب می‌زند",
-        "title_en": "Herzog: UK settlement trade ban would be 'gross interference' in Israel's election, harm Palestinians",
-        "summary": [
-            "The post Herzog: UK settlement trade ban would be 'gross interference' in Israel's election, harm Palestinians appeared first on The Times of Israel."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/news/other/herzog-uk-settlement-trade-ban-would-be-gross-interference-in-israels-election-harm-palestinians/ar-AA2bMGJ7",
-        "clean_url": "https://www.msn.com/en-us/news/other/herzog-uk-settlement-trade-ban-would-be-gross-interference-in-israels-election-harm-palestinians/ar-AA2bMGJ7",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/F260816OBH511.jpg",
-        "timestamp": 1788860865.0
-    },
-    {
-        "id": "b786b0ad2a",
-        "title_fa": "جنگ محتمل لبنان‑اسرائیل‑ایران",
-        "title_en": "Lebanon Israel Iran War",
-        "summary": [
-            "تنش‌های مرزی لبنان و اسرائیل با حمایت ایران به اوج رسیده و خطر درگیری مسلحانه را افزایش داده است.",
-            "در صورت تبدیل به جنگ، احتمال گسترش به کل خاورمیانه و تضعیف ثبات منطقه‌ای بالا می‌رود."
-        ],
-        "impact": "افزایش خطر درگیری نظامی و اختلال در مسیرهای تجاری خلیج",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "daytondailynews.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFxQy1EWjRkb1hkdXhSOHpLYm5tRzdQM2M4VGM0SGxDMk9uWGRzc0J3Z2FSeUtVeUdtakE0bThsRGs2WWRWQVNvOW9ITG8wQkpjcVlUZEV0ZU5xcEdobVdKZm5qRW1RQWV3bU9YMVFzalpKSWgyWDBIOXIwUUNwWng5XzdSejB2Q1BMQTR3NWFJdGl2Z0pHMFJiZnBIVWxaN1ZaanIwUjVIbVRDeFdVamtOcV9wd0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFxQy1EWjRkb1hkdXhSOHpLYm5tRzdQM2M4VGM0SGxDMk9uWGRzc0J3Z2FSeUtVeUdtakE0bThsRGs2WWRWQVNvOW9ITG8wQkpjcVlUZEV0ZU5xcEdobVdKZm5qRW1RQWV3bU9YMVFzalpKSWgyWDBIOXIwUUNwWng5XzdSejB2Q1BMQTR3NWFJdGl2Z0pHMFJiZnBIVWxaN1ZaanIwUjVIbVRDeFdVamtOcV9wd0E",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788860593.0
-    },
-    {
-        "id": "0df8965406",
-        "title_fa": "کانادا تعرفه های تلافی جویانه ایالات متحده را آغاز می‌کند، حوثی های مورد حمایت ایران به عربستان سعودی حمله می‌کنند: به روز رسانی زنده",
-        "title_en": "Canada Launches Retaliatory U.S. Tariffs, Iran-Backed Houthis Attack Saudi Arabia: Live Updates",
-        "summary": [
-            "A wave of Houthi attacks on Saudi Arabia Tuesday wounded more than 70 people and ignited fires at several oil facilities and..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/live-updates_n_6a9fcd46e4b03901c959287d",
-        "clean_url": "https://www.huffpost.com/entry/live-updates_n_6a9fcd46e4b03901c959287d",
-        "image": "https://www.bing.com/th?id=ONUT.KshexNyA_qARf87N9ULq_g",
-        "timestamp": 1788860255.7729323
     }
 ]
