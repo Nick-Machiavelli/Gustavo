@@ -390,6 +390,44 @@
         "timestamp": 1788912295.8010952
     },
     {
+        "id": "b97d9d8a75",
+        "title_fa": "ایران به کسب‌وکارها اجازه استفاده از بیت‌کوین و USDT",
+        "title_en": "Iran Allows Businesses to Use Bitcoin and USDT for Cross-Border Payments as US Sanctions Tighten",
+        "summary": [
+            "بانک مرکزی ایران کسب‌وکارها را به پرداخت‌های فرامرزی با بیت‌کوین و USDT تشویق کرد",
+            "این اقدام در واکنش به تحریم‌های سخت‌گیرانه آمریکا و مسدود شدن دارایی‌های رمزی ایرانی است",
+            "استفاده از رمزارز می‌تواند فشار ارزی را کمی کاهش دهد اما ریسک‌های قانونی و نظارتی بالایی دارد"
+        ],
+        "impact": "دور زدن تحریم‌ها و کاهش وابستگی به دلار، اما افزایش ریسک مالی و نظارتی",
+        "tag": "رمزارز",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "CoinCentral",
+        "url": "https://coincentral.com/iran-allows-businesses-to-use-bitcoin-and-usdt-for-cross-border-payments-as-us-sanctions-tighten/",
+        "clean_url": "https://coincentral.com/iran-allows-businesses-to-use-bitcoin-and-usdt-for-cross-border-payments-as-us-sanctions-tighten",
+        "image": "https://coincentral.com/wp-content/uploads/2026/07/US-Iran1-1.jpg?wsr",
+        "timestamp": 1788912060.0
+    },
+    {
+        "id": "ce9bb48328",
+        "title_fa": "روان‌پول هند تحت فشار حملات آمریکا‑ایران",
+        "title_en": "Indian Rupee falls further as US-Iran tit-for-tat strikes boost oil prices",
+        "summary": [
+            "روپیه هند پس از افزایش قیمت نفت به دلیل حملات متقابل آمریکا و ایران به سطح 95 دلار نزدیک شد",
+            "حمله موشکی سپاه به پایگاه هوایی در اردن، واکنش به بمباران تانکرهای ایرانی، نگرانی از قطع‌وتوصیع انرژی را تقویت کرد",
+            "فشار بر ارزهای وابسته به نفت می‌تواند تورم و تراز تجاری هند را تضعیف کند"
+        ],
+        "impact": "کاهش ارزش روپیه و فشار بر تراز تجاری، احتمال افزایش هزینه‌های واردات انرژی",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536",
+        "clean_url": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536",
+        "image": "https://editorial.fxsstatic.com/images/i/Discover-f-23_Medium.jpg",
+        "timestamp": 1788912060.0
+    },
+    {
         "id": "aaf453ec15",
         "title_fa": "کره شمالی تسهیل‌گاه غنی‌سازی اورانیوم یونگبیون را گسترش داد",
         "title_en": "North Korea Builds New Yongbyon Uranium Enrichment Facility, IAEA Says",
@@ -5379,39 +5417,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzJtX25kdzBPS0R1V3pfS1VaVzZaWXBIaUZITFZaQXBHMVEtTlRPM3Fpc1lpNFhGRkJFc1ZlMmFDS3NqYmVEOXM4dV9aeHkzcEFlR2tIejAtWWZSWmpxSjBPU2o3WnZycFUwb08xTzF6QlU4Wk8zZHZ4U3ZoZ0dUa1ZKYzIzVkwtUTh0aEJjSTJmbWV0MWFUSA",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788799507.0
-    },
-    {
-        "id": "53a9397f04",
-        "title_fa": "دونالد ترامپ به طرز ماهرانه ای روایت پیروزی خود را به هم می‌ریزد",
-        "title_en": "Donald Trump subtly collapses his own victory narrative",
-        "summary": [
-            "Donald Trump has publicly acknowledged that the military campaign against Iran remains ongoing. The admission came in a Truth..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Dagens.com on MSN",
-        "url": "https://www.msn.com/en-ca/politics/government/donald-trump-subtly-collapses-his-own-victory-narrative/ar-AA2bOQeN?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/politics/government/donald-trump-subtly-collapses-his-own-victory-narrative/ar-AA2bOQeN",
-        "image": "https://www.bing.com/th?id=ONUT.fQvCQzssj_kBEh9T_YC9eA",
-        "timestamp": 1788799387.0
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "آخرین اخبار آمریکا",
-        "title_en": "US latest news",
-        "summary": [
-            "Corie Walsh charged with murder after two-year-old Barrett found dead in basement of Illinois family home last week Sign up for This Week in Trumpland A deep dive..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1788799260.0
     }
 ]
