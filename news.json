@@ -237,6 +237,24 @@
         "timestamp": 1788936948.0
     },
     {
+        "id": "a54d99c20e",
+        "title_fa": "ایران ۸ تانکر نفتی و کشتی‌های آمریکایی را هدف گرفت",
+        "title_en": "Iran says it targeted US vessels, 8 oil tankers in Persian Gulf in ‘response to aggression’",
+        "summary": [
+            "ایران اعلام کرد ۸ تانکر نفتی و ناوهای آمریکایی در خلیج فارس را به‌عنوان پاسخ به تجاوز هدف قرار داد",
+            "این اقدام می‌تواند مسیر حمل‌ونقل نفت را مختل کند و فشار اقتصادی بر کشورهای مصرف‌کننده نفت را افزایش دهد"
+        ],
+        "impact": "اختلال در حمل‌ونقل نفت خلیج فارس و تشدید تحریم‌های اقتصادی",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUG9LOU5feGd6WUdLZmlsdTYwd201eWZyT3VZVTlTeU95S1MySEJ1WmdtOFZvMy01V0RBd01ScXIzOVhGN3hjcVFtMS1wenpKQlY3N2lRdVQxMkxJWUdpTWpEcVBJMGdOOTVpdkNQNGdnallGNTlFZVczZU93cWNjSkQwMzdqM2xEMU5MZHkzM2hLd0tMS19nRUItTkhma1JiTFY2NFI3elg3bjZIeDd6YjVVa3czVGdNeHRsT1pPRkpVSUltMVlBNjRXc01iVjJjRlpKNFBKX0I?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUG9LOU5feGd6WUdLZmlsdTYwd201eWZyT3VZVTlTeU95S1MySEJ1WmdtOFZvMy01V0RBd01ScXIzOVhGN3hjcVFtMS1wenpKQlY3N2lRdVQxMkxJWUdpTWpEcVBJMGdOOTVpdkNQNGdnallGNTlFZVczZU93cWNjSkQwMzdqM2xEMU5MZHkzM2hLd0tMS19nRUItTkhma1JiTFY2NFI3elg3bjZIeDd6YjVVa3czVGdNeHRsT1pPRkpVSUltMVlBNjRXc01iVjJjRlpKNFBKX0I",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788934712.0
+    },
+    {
         "id": "92c71cda7b",
         "title_fa": "امارات مالی آمریکا بخش رمزارز ایران را هدف گرفت",
         "title_en": "US Treasury's Office Targeting Iran's Sanctions Evasion Through Bitcoin and USDT",
@@ -2738,6 +2756,24 @@
         "clean_url": "https://www.hindustantimes.com/world-news/what-trump-could-learn-from-bush-101788860868766.html",
         "image": "https://www.bing.com/th?id=ONUT.FKWGP9Tc6KID1XhyMVEUsQ",
         "timestamp": 1788861795.6762924
+    },
+    {
+        "id": "c11879ef82",
+        "title_fa": "ایران به پایگاه‌های آمریکایی در اردن موشک‌بار کرد",
+        "title_en": "Middle East alert: Iran claims missile strikes on US bases in Jordan, warships targeted",
+        "summary": [
+            "ایران ادعا کرد موشک‌های بالستیک به پایگاه‌های ای‌ام‌سی در اردن شلیک کرد؛ این اولین حمله مستقیم به خاک همسایه آمریکا است",
+            "هدف‌گیری ناوهای جنگی آمریکا نشاندهنده ارتقای توان‌پوششی و پیام‌رسانی تهدیدی به حضور نظامی آمریکا در خاورمیانه است"
+        ],
+        "impact": "تحریک واکنش نظامی آمریکا و احتمال گسترش درگیری در منطقه",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "ABP News on MSN",
+        "url": "https://www.msn.com/en-in/news/other/middle-east-alert-iran-claims-missile-strikes-on-us-bases-in-jordan-warships-targeted/vi-AA2bQWaw?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/middle-east-alert-iran-claims-missile-strikes-on-us-bases-in-jordan-warships-targeted/vi-AA2bQWaw",
+        "image": "https://www.bing.com/th?id=ONUT.7cyfJosZ8ZXRnQacs7RXYA",
+        "timestamp": 1788861782.0
     },
     {
         "id": "84b0677264",
@@ -5388,41 +5424,5 @@
         "clean_url": "https://www.newcastleherald.com.au/story/9345065/crispin-hull-trumps-ratings-expose-worst-leadership",
         "image": "https://www.bing.com/th?id=ONUT.3Da96gKZp_SUugKW4_9d4g",
         "timestamp": 1788811408.5650406
-    },
-    {
-        "id": "e804cebebe",
-        "title_fa": "قیمت نفت پس از حملات حوثی‌ها به شهرهای سعودی",
-        "title_en": "Middle East latest: Oil prices spike after attacks on Saudi Arabian cities by Houthis",
-        "summary": [
-            "حمله حوثی‌ها به شهرهای سعودی نگرانی بازارهای انرژی را برانگیخت",
-            "افزایش قیمت نفت می‌تواند فشار بر اقتصادهای مصرف‌کننده و تحریم‌ها را تشدید کند"
-        ],
-        "impact": "افزایش قیمت نفت به‌سرعت هزینه‌های واردات انرژی را برای کشورهای خریدار بالا می‌برد",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Sky News",
-        "url": "https://news.sky.com/story/middle-east-iran-war-latest-saudi-arabia-houthis-yemen-strait-of-hormuz-trump-strikes-attack-13509565",
-        "clean_url": "https://news.sky.com/story/middle-east-iran-war-latest-saudi-arabia-houthis-yemen-strait-of-hormuz-trump-strikes-attack-13509565",
-        "image": "https://e3.365dm.com/26/09/1600x900/skynews-saudi-arabia-houthis_7344719.jpg?20260908063526",
-        "timestamp": 1788811260.0
-    },
-    {
-        "id": "491239965b",
-        "title_fa": "پایان جشنواره مینه‌سوتا و داستان تولدهای دوقلو",
-        "title_en": "KARE 11 News Now Plus | Sept. 9",
-        "summary": [
-            "جشنواره مینیسوتا به اتمام رسید؛ نمایش هنرهای کشاورزی در موزه مِیِی به چشم می‌خورد.",
-            "دو پسر که از دو برادر دوقلو متولد شدند، داستانی شگفت‌انگیز برای مخاطبان به ارمغان آورد."
-        ],
-        "impact": "تقویت حس جامعه‌محوری و جذب گردشگر به منطقه در فصل پاییز.",
-        "tag": "فرهنگ",
-        "urgency": 1,
-        "sentiment": 0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/videos/kare-11-news-now-plus-184616095.html",
-        "clean_url": "https://www.yahoo.com/news/videos/kare-11-news-now-plus-184616095.html",
-        "image": "https://www.bing.com/th?id=ONUT.13_Nd0Phk72Jw1TeS_go6Q",
-        "timestamp": 1788810500.0
     }
 ]
