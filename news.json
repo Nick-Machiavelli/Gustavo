@@ -1,5 +1,24 @@
 [
     {
+        "id": "5e0c044ce4",
+        "title_fa": "جراح نجات 9/11 رهبری برنامه آموزش تروما در نیوجرسی",
+        "title_en": "9/11 rescue surgeon leads military trauma training program at Cooper University Hospital in Camden, New Jersey",
+        "summary": [
+            "تجربه نجات افسر NYPD در سال 2001 اعتبار ویژه‌ای به دکتر جان می‌دهد.",
+            "برنامه آموزشی تروما به نیروهای نظامی مهارت‌های پیشرفته می‌آموزد.",
+            "همکاری با بیمارستان محلی دانش پزشکی نظامی را به جامعه پزشکی گسترش می‌دهد."
+        ],
+        "impact": "آمادگی پزشکی نظامی ارتقا می‌یابد و احتمال نجات در میدانی افزایش می‌یابد",
+        "tag": "پزشکی",
+        "urgency": 2,
+        "sentiment": 0.9,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/9-11-rescue-surgeon-leads-military-trauma-training-program-at-cooper-university-hospital-in-camden-new-jersey/ar-AA2bUpXA?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/9-11-rescue-surgeon-leads-military-trauma-training-program-at-cooper-university-hospital-in-camden-new-jersey/ar-AA2bUpXA",
+        "image": "https://www.bing.com/th?id=ONUT.ppBs7B9YmkKl2SkiVHkM-w",
+        "timestamp": 1788986179.175123
+    },
+    {
         "id": "4cdc277963",
         "title_fa": "ترامپ می‌گوید قیمت‌های نفت که به دلیل جنگ ایران افزایش یافته است، احتمالاً تا بعد از میان‌دوره‌ای کاهش نخواهد یافت",
         "title_en": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
@@ -5397,22 +5416,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/idf-says-troops-killed-wanted-palestinian-who-attacked-them-during-attempt-to-question-him/ar-AA2bMDBI",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260908__C7LY3XN__v3__HighRes__TopshotPalestinianIsraelConflictWestBank.jpg",
         "timestamp": 1788856498.0
-    },
-    {
-        "id": "b0b4426404",
-        "title_fa": "آمریکا ۲۷ ایرلاین ایرانی را تحریم کرد، چگونگی رسیدن سه هواپیمای بوئینگ ۷۷۷ به ماهان ایر را فاش کرد",
-        "title_en": "US sanctions 27 Iranian airlines, reveals how three Boeing 777s reached Mahan Air",
-        "summary": [
-            "US Treasury sanctioned 27 Iranian airlines and detailed how at least three Boeing 777s were routed through the UAE, Oman and..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "AeroTime",
-        "url": "https://www.aerotime.aero/articles/us-sanctions-27-iranian-airlines-boeing-777s-mahan-air",
-        "clean_url": "https://www.aerotime.aero/articles/us-sanctions-27-iranian-airlines-boeing-777s-mahan-air",
-        "image": "https://www.bing.com/th?id=ONUT.zzVtq5V13mk4JCSWx8ZESA",
-        "timestamp": 1788855917.0
     }
 ]
