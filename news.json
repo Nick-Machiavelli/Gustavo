@@ -463,6 +463,26 @@
         "timestamp": 1788973382.1854012
     },
     {
+        "id": "e00246d55b",
+        "title_fa": "ایران با رمزارزها تحریم‌ها را دور می‌زند",
+        "title_en": "Iran Is Settling Trade in Bitcoin and Tether to Dodge US Sanctions",
+        "summary": [
+            "بانک مرکزی ایران به‌صورت پنهانی به صادرکنندگان اجازه داد تا تراکنش‌های خارجی را با بیت‌کوین و تتر انجام دهند.",
+            "واشنگتن حدود یک میلیارد دلار دارایی‌های مرتبط با این کار را مسدود کرده است.",
+            "حجم تراکنش‌های رمزارزی مرتبط با ایران در 2025 حدود 9.9 میلیارد دلار تخمین زده می‌شود.",
+            "این روش باعث دور زدن سامانهٔ سوییفت و کاهش اثر تحریم‌های مالی می‌شود."
+        ],
+        "impact": "کاهش اثر تحریم‌های مالی آمریکا و حفظ توان تجاری غیررسمی ایران.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Startup Fortune",
+        "url": "https://startupfortune.com/iran-is-settling-trade-in-bitcoin-and-tether-to-dodge-us-sanctions/",
+        "clean_url": "https://startupfortune.com/iran-is-settling-trade-in-bitcoin-and-tether-to-dodge-us-sanctions",
+        "image": "https://startupfortune.com/wp-content/uploads/2026/07/sf-17380-1785387653781.jpg",
+        "timestamp": 1788973260.0
+    },
+    {
         "id": "c898310791",
         "title_fa": "هند رد ارز مشترک برکس",
         "title_en": "India’s difficult balancing act",
@@ -2982,6 +3002,45 @@
         "timestamp": 1788900601.2393634
     },
     {
+        "id": "948213ce48",
+        "title_fa": "پارلمان‌دار: جهان در آستانه جنگ‌سوم",
+        "title_en": "'On brink of World War Three': Iranian MP links US-Iran escalation to Ukraine and Taiwan crises",
+        "summary": [
+            "یک نماینده مجلس ایران اعلام کرد جهان به‌طور عملی در آستانه جنگ‌سوم است.",
+            "او تنش‌های آمریکا‑ایران را به بحران‌های اوکراین و تایوان ربط داد.",
+            "این اظهارات می‌تواند فشار دیپلماتیک بر واشنگتن را افزاش دهد."
+        ],
+        "impact": "افزایش تنش‌های بین‌المللی و دشوارتر شدن مسیر دیپلماسی برای حل بحران‌ها.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "International Business Times UK on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/on-brink-of-world-war-three-iranian-mp-links-us-iran-escalation-to-ukraine-and-taiwan-crises/ar-AA2bU8bO?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/on-brink-of-world-war-three-iranian-mp-links-us-iran-escalation-to-ukraine-and-taiwan-crises/ar-AA2bU8bO",
+        "image": "https://www.bing.com/th?id=ONUT.uGkCioDksVmp_PvZ3wJ2sQ",
+        "timestamp": 1788900553.0
+    },
+    {
+        "id": "b78e5d0a0a",
+        "title_fa": "پاکستان به ایران هشدار می‌دهد: هوثی‌ها را مهار کنید",
+        "title_en": "Pakistan warns Iran to rein in Houthis as Riyadh strikes back",
+        "summary": [
+            "پاکستان پیام هشدار سعودی را به ایران منتقل کرد تا هوثی‌ها را کنترل کند.",
+            "هوثی‌ها پایگاه هوایی خمیس مشیت و زیرساخت‌های نفتی سعودی را هدف گرفتند.",
+            "سعودی‌ها با 54 حمله هوایی به مناطق مختلف یمن پاسخ دادند.",
+            "این درگیری در کنار جنگ‌های اعلامی ایران‑آمریکا خطر گسترش به انرژی جهانی را افزایش می‌دهد."
+        ],
+        "impact": "فشار دیپلماتیک بر ایران برای مهار هوثی‌ها و خطر گسترش درگیری‌های منطقه‌ای.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.75,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/pakistan-warns-iran-to-rein-in-houthis-as-riyadh-strikes-back-article-14026546.html",
+        "clean_url": "https://www.moneycontrol.com/world/pakistan-warns-iran-to-rein-in-houthis-as-riyadh-strikes-back-article-14026546.html",
+        "image": "https://www.bing.com/th?id=ONUT.XS_q5_FXRyzc4PqDa6UM8g",
+        "timestamp": 1788900553.0
+    },
+    {
         "id": "4a0ff5332a",
         "title_fa": "انفجارهای گزارش‌شده در جزیره خرم، مرکز صادرات نفت",
         "title_en": "Oil prices rise amid reported explosions near Iran's Kharg Island",
@@ -5363,56 +5422,5 @@
         "clean_url": "https://www.arkansasonline.com/news/2026/sep/08/iran-vows-to-retaliate-if-us-attacks-its-assets",
         "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
         "timestamp": 1788858000.0
-    },
-    {
-        "id": "a7ec3c9ecf",
-        "title_fa": "استراتژی نیابتی ایران هرگز باز نمی‌گردد",
-        "title_en": "Iran’s Proxy Strategy Is Never Coming Back",
-        "summary": [
-            "Iran’s Proxy Strategy Is Never Coming Back Foreign Policy"
-        ],
-        "impact": "...",
-        "tag": "نیابتی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Foreign Policy",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1QN192Qnp1Z1FOcThRdFQ2NlVIYkRLbkhobXVOc0ZuWklGLU1JZG1PdlE1dUpUUFdGSk1VR0twZUN2M0ZlZ1ZaV2hoNlAxdDBIUmtqOVFhT085U2xUQXJGRXBuVjdSeHY2Qms0ZFBiUUJhb3h6WC1hZFNXdndNaGJkXzJ2b0Nj?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbi1QN192Qnp1Z1FOcThRdFQ2NlVIYkRLbkhobXVOc0ZuWklGLU1JZG1PdlE1dUpUUFdGSk1VR0twZUN2M0ZlZ1ZaV2hoNlAxdDBIUmtqOVFhT085U2xUQXJGRXBuVjdSeHY2Qms0ZFBiUUJhb3h6WC1hZFNXdndNaGJkXzJ2b0Nj",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788857790.0
-    },
-    {
-        "id": "9433b9fccf",
-        "title_fa": "قرارداد یونان، اسرائیل را در دفاع از مدیترانه شرقی لنگر انداخت",
-        "title_en": "Greece deal anchors Israel in Eastern Mediterranean defense",
-        "summary": [
-            "Turkey is the deal's unstated strategic backdrop as Athens buys a multilayered shield against drones and missiles, deepening Jerusalem's regional role."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Jewish News Syndicate",
-        "url": "https://www.jns.org/analysis/greece-deal-anchors-israel-in-eastern-mediterranean-defense",
-        "clean_url": "https://www.jns.org/analysis/greece-deal-anchors-israel-in-eastern-mediterranean-defense",
-        "image": "https://static.jns.org/dims4/default/248ca5d/2147483647/strip/true/crop/1600x900+0+11/resize/1440x810!/format/webp/quality/90/?url=https://k2-prod-jns-prod.s3.us-east-1.amazonaws.com/brightspot/29/c0/c62db6744aaea7d7d0745e5b68df/p1.jpg",
-        "timestamp": 1788857640.0
-    },
-    {
-        "id": "53381e16cd",
-        "title_fa": "دونالد ترامپ در نقش فانوس سبز؟ چرا دولت ترامپ باید استفاده از ارجاعات فرهنگ پاپ (سوء) را متوقف کند؟",
-        "title_en": "Donald Trump as Green Lantern? Why the Trump administration needs to stop (mis)using pop culture references",
-        "summary": [
-            "If you reference a pop culture touchstone in an AI-generated clip, it's probably best you understand even the most basic tenet of the source material.View on euronews..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/donald-trump-green-lantern-why-080013873.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/donald-trump-green-lantern-why-080013873.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/5d64d85f71061b57efda2f60cab61a01176c833e3efce7e1e47ea957dff3b88f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fba72602e078bfc975f95d613e15433fb.jpg",
-        "timestamp": 1788857544.2508392
     }
 ]
