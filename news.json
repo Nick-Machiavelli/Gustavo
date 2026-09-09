@@ -1,5 +1,41 @@
 [
     {
+        "id": "fefeffd354",
+        "title_fa": "چپ‌زدگی آلمان به راست اف‌دی",
+        "title_en": "Germany’s Right Turn",
+        "summary": [
+            "اف‌دی با گسترش حمایت‌ها به‌دست آوردن نفوذ در مذاکرات ائتلافی را تقویت کرد",
+            "این تغییر می‌تواند سیاست‌های مهاجرتی و اقتصادی اتحادیه اروپا را به سمت سخت‌گیری سوق دهد"
+        ],
+        "impact": "افزایش فشار بر سیاست‌های مهاجرتی اتحادیه اروپا",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/09/briefing/germanys-right-turn.html",
+        "clean_url": "https://www.nytimes.com/2026/09/09/briefing/germanys-right-turn.html",
+        "image": "https://www.bing.com/th?id=ONUT.OF4Vne7HWV82D-N8q-4oQg",
+        "timestamp": 1788953045.9915884
+    },
+    {
+        "id": "a335e0befd",
+        "title_fa": "آمریکا پنج تانکر نفت ایران را نابود کرد",
+        "title_en": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+        "summary": [
+            "عملیات نظامی آمریکا درآمد نفتی ایران را در کوتاه‌مدت به‌طور قابل‌توجهی کاهش داد",
+            "این اقدام تنش‌های نظامی بین دو کشور را به‌سطح خطرناک‌تری ارتقا داد"
+        ],
+        "impact": "کاهش شدید درآمد نفتی ایران در روزهای آینده",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkdzU25KaU9KVVNJekVQajNZdFZxRUhtYkVpQWpRY2NBaTIzbXpfbTg5R2hjWUNDbllNenEySEkwUUstS2VHZXlkN2tsb19sR1JRMkNlcWxkdEVXWmljYkltYUU2RFhmOTRZbzBOcjRZS0NnZXQ2dEJDbkhJYUpUMlhWYW9tRndoTTRnMVluN1dCMm5zN0c4bmhOd213bzhXVHZ0Z2VBc29uR19yRXItMWd3Zjgtdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkdzU25KaU9KVVNJekVQajNZdFZxRUhtYkVpQWpRY2NBaTIzbXpfbTg5R2hjWUNDbllNenEySEkwUUstS2VHZXlkN2tsb19sR1JRMkNlcWxkdEVXWmljYkltYUU2RFhmOTRZbzBOcjRZS0NnZXQ2dEJDbkhJYUpUMlhWYW9tRndoTTRnMVluN1dCMm5zN0c4bmhOd213bzhXVHZ0Z2VBc29uR19yRXItMWd3Zjgtdw",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788952347.0
+    },
+    {
         "id": "10b8a41c5e",
         "title_fa": "۲۵ سال پس از ۱۱ سپتامبر، یادآوری درد",
         "title_en": "Column: 25 Years Later, 9/11 still fresh in most minds",
@@ -5384,41 +5420,5 @@
         "clean_url": "https://www.msn.com/en-gb/news/news/iran-warns-people-to-evacuate-in-middle-east-as-huge-strikes-coming/ar-AA2bPw2E",
         "image": "https://www.bing.com/th?id=ONUT.7JSwhTOu8frr6V5tueblVg",
         "timestamp": 1788817708.0
-    },
-    {
-        "id": "1c4fd5f41f",
-        "title_fa": "خبر بین‌المللی — ایرانی school struck در جنگ's earliest attacks is now a me",
-        "title_en": "The Iranian school struck in the war's earliest attacks is now a memorial for children",
-        "summary": [
-            "The Iranian school struck in the war's earliest attacks is now a memorial for children PBS"
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWhrcnJ3N3hUNWNwY0dsa015QkRUcjFqLUpPNEF6SlltVGhla1RUSWNWUVpqUGdHbVp2REVEN09iRmlZRGVpbVY4TVFWRGNfdmZ4UVc3TlV0bGV3c1hvalhHeFhKM09MZ3pLY2R0eTV0ZXRxeE5EaThIdXRjeXBnREpja1BlVm90RmtVSjVtYnl0TDFjQ2NBTTB0NGN6TFZiQ3ZoNmx4Y1c4RDduMzRMMDlsYzdEQnRzeTEwMtIBwgFBVV95cUxORHFGajNYUmlvbTc2ejNuNnBpaS0wTjB0dnJZMmg0eVZZSVh1aDQzS3k5eUlHaXZWSFpkZzJmeGE5UW1LTk1NekdoUTdDSnI1R0JOWXB6WnQ2RHo1Z0s2ZlFkd3pSa3ZmZEpVOFhyYkhZOXU3QnhMUHJDQjZjRktmaTNpaW5fUzkyZmJXQjJOS3o2QjVqcUVfS1p6QTFwZnhIUDBqcTJGNGdWVmdrS1ZMWWt4aWRmRkJyOFZoeHd5VHFIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWhrcnJ3N3hUNWNwY0dsa015QkRUcjFqLUpPNEF6SlltVGhla1RUSWNWUVpqUGdHbVp2REVEN09iRmlZRGVpbVY4TVFWRGNfdmZ4UVc3TlV0bGV3c1hvalhHeFhKM09MZ3pLY2R0eTV0ZXRxeE5EaThIdXRjeXBnREpja1BlVm90RmtVSjVtYnl0TDFjQ2NBTTB0NGN6TFZiQ3ZoNmx4Y1c4RDduMzRMMDlsYzdEQnRzeTEwMtIBwgFBVV95cUxORHFGajNYUmlvbTc2ejNuNnBpaS0wTjB0dnJZMmg0eVZZSVh1aDQzS3k5eUlHaXZWSFpkZzJmeGE5UW1LTk1NekdoUTdDSnI1R0JOWXB6WnQ2RHo1Z0s2ZlFkd3pSa3ZmZEpVOFhyYkhZOXU3QnhMUHJDQjZjRktmaTNpaW5fUzkyZmJXQjJOS3o2QjVqcUVfS1p6QTFwZnhIUDBqcTJGNGdWVmdrS1ZMWWt4aWRmRkJyOFZoeHd5VHFIdw",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788817487.0
-    },
-    {
-        "id": "0a9dd0ab08",
-        "title_fa": "ایران توان نظامی برای پاسخ به تهدید آمریکا ندارد",
-        "title_en": "Iran has ‘no means’ to respond to US threats: RET Marine colonel",
-        "summary": [
-            "بازنشسته‌کالونل مارین می‌گوید ایران تجهیزات کافی برای حمله نظامی ندارد",
-            "این حرف پس از حملات هوایی آمریکا به تانکرهای ایرانی منتشر شد",
-            "تحلیل نشان می‌دهد تهدیدهای مستقیم آمریکا ممکن است به فشار اقتصادی محدود شود"
-        ],
-        "impact": "امکان پاسخ نظامی ایران به تهدیدهای آمریکا به‌طور عملی محدود می‌شود",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "FOX News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-has-no-means-to-respond-to-us-threats-ret-marine-colonel/vi-AA2bL07O?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-has-no-means-to-respond-to-us-threats-ret-marine-colonel/vi-AA2bL07O",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788817272.3809087
     }
 ]
