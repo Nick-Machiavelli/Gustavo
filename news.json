@@ -1,5 +1,41 @@
 [
     {
+        "id": "1410f7d875",
+        "title_fa": "نتانیاهو انتقاد از تحریم‌های بریتانیا علیه اسرائیل",
+        "title_en": "Failing to act in the West Bank or in the West, Israel brought UK’s flawed sanctions upon itself",
+        "summary": [
+            "نتانیاهو می‌گوید دولت بریتانیا با تحریم‌های ناقص خود به خود آسیب رسانده و واکنش‌های غرب را به خطر انداخته.",
+            "او هشدار می‌دهد این تحریم‌ها می‌توانند فشار بر فلسطین و روابط بین‌المللی را تشدید کنند."
+        ],
+        "impact": "تحریم‌های بریتانیا ممکن است روابط اسرائیل‑انگلستان را تضعیف کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Times of Israel on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/failing-to-act-in-the-west-bank-or-in-the-west-israel-brought-uk-s-flawed-sanctions-upon-itself/ar-AA2bSISQ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/failing-to-act-in-the-west-bank-or-in-the-west-israel-brought-uk-s-flawed-sanctions-upon-itself/ar-AA2bSISQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788966187.943126
+    },
+    {
+        "id": "dcbd5078d2",
+        "title_fa": "آب و هوای شدید، مدارس هندی ممکن است تعطیل شوند",
+        "title_en": "School Holiday Thursday, Sep 10: Will schools be closed tomorrow due to heavy rains ? Check state-wise update",
+        "summary": [
+            "اداره هواشناسی هند پیش‌بینی بارش سنگین در چند استان کرده؛ خطر سیل و آب‌گرفتگی وجود دارد.",
+            "دولت ملی تعطیلات سراسری اعلام نکرده؛ تصمیم به‌صورت محلی و بسته به وضعیت جاده‌هاست."
+        ],
+        "impact": "والدین باید وضعیت محلی را بررسی کنند؛ اختلال کوتاه‌مدت در آموزش.",
+        "tag": "آب‌وهوایی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "News24",
+        "url": "https://news24online.com/india/school-holiday-thursday-sep-10-will-schools-be-closed-tomorrow-due-to-heavy-rains-check-state-wise-update/920630/",
+        "clean_url": "https://news24online.com/india/school-holiday-thursday-sep-10-will-schools-be-closed-tomorrow-due-to-heavy-rains-check-state-wise-update/920630",
+        "image": "https://news24online.com/wp-content/uploads/2026/09/School-holiday.jpg.jpeg",
+        "timestamp": 1788966187.9428444
+    },
+    {
         "id": "aa10a09e67",
         "title_fa": "بدهی مانع بودجه دفاعی، جنگ ایران حواس را پرت می‌کند",
         "title_en": "Tough Choices Ahead On US Defense Spending—Prepare Now",
@@ -123,6 +159,24 @@
         "timestamp": 1788963219.0786214
     },
     {
+        "id": "b916d9e670",
+        "title_fa": "پیشنهاد گزارش ایران به شورای امنیت سازمان ملل",
+        "title_en": "What is the nuclear Non-Proliferation Treaty?",
+        "summary": [
+            "35 کشور عضو هیئت‌مدیره آژانس بین‌المللی انرژی اتمی تصمیم به ارجاع ایران به شورای امنیت را بررسی می‌کنند.",
+            "این اولین بار در 20 سال است که ایران به‌دلیل نقض پیمان عدم گسترش سلاح هسته‌ای مورد پیگیری قرار می‌گیرد."
+        ],
+        "impact": "ممکن است تحریم‌های بین‌المللی جدید علیه ایران را به‌هم بزند.",
+        "tag": "غیرپراکنده",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/europe/what-is-nuclear-non-proliferation-treaty-2026-09-09/",
+        "clean_url": "https://www.reuters.com/world/europe/what-is-nuclear-non-proliferation-treaty-2026-09-09",
+        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788962280.0
+    },
+    {
         "id": "fcf0eb5a91",
         "title_fa": "بازرس سابق آژانس: گزارش آژانس در ماه می‌2025 بهانه ای برای حملات آمریکا و اسرائیل علیه ایران شد",
         "title_en": "IAEA report in May 2025 became pretext for US-Israeli attacks against Iran: Ex-IAEA inspector",
@@ -155,6 +209,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-missiles-were-intercepted-over-jordan-then-trump-sent-a-chilling-ai-generated-message-about-kharg-island-my-take/vi-AA2bSAn0",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788961911.1134717
+    },
+    {
+        "id": "713d748d92",
+        "title_fa": "سایت مشکوک هسته‌ای ایران با ساخت‌وساز شتاب‌دار",
+        "title_en": "Iran's suspected nuclear site sees 'clear surge' in construction as Pentagon sharpens underground strike plans: report",
+        "summary": [
+            "تحلیل‌گران گزارش می‌دهند که فعالیت ساخت‌وساز در «پیک‌اکس ماونتن» نزدیک نطنز به‌طور چشمگیری افزایش یافته.",
+            "پنتاگون برنامه‌های هدف‌گیری زیرزمینی را تقویت می‌کند؛ احتمال حمله هوایی آینده بالا است."
+        ],
+        "impact": "افزایش فشار نظامی آمریکا بر ایران و احتمال عملیات هوایی.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Benzinga",
+        "url": "https://www.msn.com/en-us/politics/government/iran-s-suspected-nuclear-site-sees-clear-surge-in-construction-as-pentagon-sharpens-underground-strike-plans-report/ar-AA2bTrZZ",
+        "clean_url": "https://www.msn.com/en-us/politics/government/iran-s-suspected-nuclear-site-sees-clear-surge-in-construction-as-pentagon-sharpens-underground-strike-plans-report/ar-AA2bTrZZ",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788961517.0
     },
     {
         "id": "70f14e001e",
@@ -5362,75 +5434,5 @@
         "clean_url": "https://www.wandtv.com/2026/09/08/us-banning-dairy-products-most-alcoholic-beverages-motorcycles-canada",
         "image": "https://www.bing.com/th?id=ONUT.8MhnDRfhO0DgsgpikUa-Mw",
         "timestamp": 1788827652.0
-    },
-    {
-        "id": "647863cbd2",
-        "title_fa": "خبر بین‌المللی — Rubio warns US خواهد keep hitting ایرانی oil tankers after م",
-        "title_en": "Rubio warns US will keep hitting Iranian oil tankers after missile attacks",
-        "summary": [
-            "US Secretary of State Marco Rubio has warned that Washington will continue targeting Iranian oil tankers if Iran attempts..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/rubio-warns-us-will-keep-hitting-iranian-oil-tankers-after-missile-attacks-article-14025630.html",
-        "clean_url": "https://www.moneycontrol.com/world/rubio-warns-us-will-keep-hitting-iranian-oil-tankers-after-missile-attacks-article-14025630.html",
-        "image": "https://www.bing.com/th?id=ONUT.iUTb8LKZo6zczlwOcBUCug",
-        "timestamp": 1788827652.0
-    },
-    {
-        "id": "b966e6d9eb",
-        "title_fa": "سپر آکیلس یونان: نماد تغییر استراتژیک",
-        "title_en": "On Greece-Israel relations: From Achilles to Ayil",
-        "summary": [
-            "پروژه دفاعی «سپر آکیلس» با اشاره به قهرمان اساطیری، پیام ضد‑ترکیه را می‌رساند.",
-            "امضای توافق با اسرائیل می‌تواند نماد این طرح را به «آیل» (قربانی) تبدیل کند و نشانگر تغییر جهت استراتژیک باشد.",
-            "همگرایی نظامی یونان‑اسرائیل می‌تواند تعادل قدرت در شرق مدیترانه را به نفع هر دو طرف تغییر دهد."
-        ],
-        "impact": "تقویت همکاری دفاعی یونان‑اسرائیل، فشار بر ترکیه و بازنگری در سیاست‌های امنیتی منطقه",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Daily Sabah",
-        "url": "https://www.dailysabah.com/opinion/op-ed/on-greece-israel-relations-from-achilles-to-ayil",
-        "clean_url": "https://www.dailysabah.com/opinion/op-ed/on-greece-israel-relations-from-achilles-to-ayil",
-        "image": "https://www.bing.com/th?id=ONUT.XvrIU8No_hY3c_Xa84cDCw",
-        "timestamp": 1788826887.0333605
-    },
-    {
-        "id": "4a4dd67b85",
-        "title_fa": "خبر بین‌المللی — ترامپ Says US Has ‘Major Points Agreement’ در Talks With ای",
-        "title_en": "Trump Says US Has ‘Major Points of Agreement’ in Talks With Iran",
-        "summary": [
-            "Trump Says US Has ‘Major Points of Agreement’ in Talks With Iran EnergyNow.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWlHRXcwQnVDYjhMd2ZMV3pZUGRMZUd3VUNsc1pWZU8wRkh4dGJLRDQ0TFEyUFlfU1NEY1l5aFZhMjhqcFJXdDVpdHpHN2MzdnhQQXEtbi1oTy1JVFZLUjdLWWpOQ3FLNDVFWUozc2ZnekNXbE5WcGRWUzhFeUFnV0ZfSXppTExMQWo1Q015RnhJbmZNdDlpSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWlHRXcwQnVDYjhMd2ZMV3pZUGRMZUd3VUNsc1pWZU8wRkh4dGJLRDQ0TFEyUFlfU1NEY1l5aFZhMjhqcFJXdDVpdHpHN2MzdnhQQXEtbi1oTy1JVFZLUjdLWWpOQ3FLNDVFWUozc2ZnekNXbE5WcGRWUzhFeUFnV0ZfSXppTExMQWo1Q015RnhJbmZNdDlpSQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788826211.0
-    },
-    {
-        "id": "029729981d",
-        "title_fa": "در حالی که تهران در مورد موضع نظامی \"تجدیدسنجی شده\" هشدار می‌دهد، ایالات متحده برای تشدید فشار بر ایران در سازمان ملل اقدام می‌کند",
-        "title_en": "US moves to ramp up pressure on Iran at UN as Tehran warns of 'recalibrated' military posture",
-        "summary": [
-            "Washington is set to increase diplomatic pressure on Tehran within days with a proposed U.N. resolution demanding that Iran \"urgently remedy its non-compliance\" and restore access for nuclear inspections, Bloomberg reported Monday."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "europesays",
-        "url": "https://www.europesays.com/3239014/",
-        "clean_url": "https://www.europesays.com/3239014",
-        "image": "https://www.europesays.com/wp-content/uploads/2026/09/3d4d7d486c11af7fcae298f7beb5b43e.jpg",
-        "timestamp": 1788826140.0
     }
 ]
