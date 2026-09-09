@@ -1,5 +1,45 @@
 [
     {
+        "id": "c898310791",
+        "title_fa": "هند رد ارز مشترک برکس",
+        "title_en": "India’s difficult balancing act",
+        "summary": [
+            "هند می‌گوید ایجاد ارز مشترک برکس نیاز به نهاد مرکزی دارد که نمی‌پذیرد",
+            "این تصمیم استقلال پولی هند را حفظ می‌کند",
+            "ممکن است تنش‌های مالی بین اعضای برکس را تشدید کند",
+            "تأثیر بر روابط تجاری هند با روسیه و چین قابل‌توجه است"
+        ],
+        "impact": "حفظ استقلال پولی هند، اما ممکن است همکاری‌های مالی برکس را محدود کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Financial Express",
+        "url": "https://www.financialexpress.com/opinion/indias-difficult-balancing-act/4335650/",
+        "clean_url": "https://www.financialexpress.com/opinion/indias-difficult-balancing-act/4335650",
+        "image": "https://www.bing.com/th?id=ONUT.xFLEW3HySgeC22jsb8mTuw",
+        "timestamp": 1788972687.8495321
+    },
+    {
+        "id": "c2ad09f73c",
+        "title_fa": "هیأت نظارت هسته‌ای ایران را به شورای امنیت ارجاع داد",
+        "title_en": "UN nuclear watchdog board reports Iran to the UN Security Council for the first time in 20 years",
+        "summary": [
+            "هیأت نظارت آژانس بین‌المللی انرژی اتمی برای اولین بار در دو دهه ایران را به شورای امنیت ارجاع داد",
+            "این ارجاع می‌تواند منجر به اعمال تحریم‌های جدید شود",
+            "ایران پیش از این با نقض تعهدات هسته‌ای مواجه بوده",
+            "واکنش‌های منطقه‌ای و جهانی به این تصمیم حساس خواهد بود"
+        ],
+        "impact": "احتمال اعمال تحریم‌های سخت‌گیرانه بین‌المللی علیه ایران",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zc2RWazBWTXFfN3JWVTRocGpod2FsVWxxRW5pNUY0eXE0NFJncVdCU1FKS0w2akZ0eVlwNmZCeWdOVGxJMVBUWDRRSHI4c2FuSHpOc3p0U0pBd1RNV1ZSRk9LUzlaX2dHaEhFejM2NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zc2RWazBWTXFfN3JWVTRocGpod2FsVWxxRW5pNUY0eXE0NFJncVdCU1FKS0w2akZ0eVlwNmZCeWdOVGxJMVBUWDRRSHI4c2FuSHpOc3p0U0pBd1RNV1ZSRk9LUzlaX2dHaEhFejM2NA",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788971772.0
+    },
+    {
         "id": "d8d2720f2d",
         "title_fa": "خبر بین‌المللی — IAEA reports ایران به UN Security Council برای هسته‌ای breac",
         "title_en": "IAEA reports Iran to UN Security Council for nuclear breaches in first referral in two decades",
@@ -3004,6 +3044,26 @@
         "timestamp": 1788886860.0
     },
     {
+        "id": "0f40aa9897",
+        "title_fa": "اسرائیل سفارت در اسلوونی افتتاح می‌کند",
+        "title_en": "Israel to open first embassy in Slovenia as ties warm under new Jansa govt",
+        "summary": [
+            "دولت جدید یانسا روابط اسرائیل‑اسلوونی را گرم کرده",
+            "افتتاح سفارت اولین گام رسمی دیپلماتیک است",
+            "این حرکت می‌تواند همکاری‌های تجاری و امنیتی را تقویت کند",
+            "واکنش‌های داخلی اسلوونی ممکن است متفاوت باشد"
+        ],
+        "impact": "تقویت حضور دیپلماتیک اسرائیل در اروپای مرکزی",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/israel-to-open-first-embassy-in-slovenia-as-ties-warm-under-new-jansa-govt-14044472.html",
+        "clean_url": "https://www.firstpost.com/world/israel-to-open-first-embassy-in-slovenia-as-ties-warm-under-new-jansa-govt-14044472.html",
+        "image": "https://www.bing.com/th?id=ONUT.Ja6rDsOERJU7jOBzuCj9oA",
+        "timestamp": 1788886283.0
+    },
+    {
         "id": "e79e208c74",
         "title_fa": "نکات کلیدی از یادداشت تفاهم 14 ماده ای آمریکا و ایران - ای بی سی نیوز",
         "title_en": "Key takeaways from the 14-point memorandum of understanding between US, Iran - ABC News",
@@ -5367,59 +5427,5 @@
         "clean_url": "https://www.firstpost.com/world/globe-at-a-glance-from-us-tightening-noose-on-iran-aviation-to-uks-air-traffic-chaos-14044236.html",
         "image": "https://www.bing.com/th?id=ONUT.ShNJO__OVpzVOqH1barMKw",
         "timestamp": 1788835813.0
-    },
-    {
-        "id": "607c0b017e",
-        "title_fa": "ایران پایگاه آمریکایی در اردن را مورد حمله قرار داد و پس از حملات نفتکش‌ها، تهدید به تلافی بیشتر کرد",
-        "title_en": "Iran strikes US base in Jordan, threatens more retaliation after tanker attacks",
-        "summary": [
-            "Iran's Revolutionary Guards struck a US military base in Jordan with missiles. This action followed US forces destroying five..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Economic Times on MSN",
-        "url": "https://www.msn.com/en-in/politics/international-relations/iran-strikes-us-base-in-jordan-threatens-more-retaliation-after-tanker-attacks/ar-AA2bQ9Fl?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/politics/international-relations/iran-strikes-us-base-in-jordan-threatens-more-retaliation-after-tanker-attacks/ar-AA2bQ9Fl",
-        "image": "https://www.bing.com/th?id=ONUT.BZHZYxvpCnt6_8H7IsDWSg",
-        "timestamp": 1788835813.0
-    },
-    {
-        "id": "c09b5d17d5",
-        "title_fa": "کره‌جنوبی ۲۲ میلیارد دلاری پروژه برق در تگزاس",
-        "title_en": "South Korea picks $22-billion Texas power project for first US trade-deal investment: Reports",
-        "summary": [
-            "کره‌جنوبی ۲۲ میلیارد دلار برای ساخت نیروگاه گازسوز ۶.۳ گیگاواتی در تگزاس اختصاص داد",
-            "پروژه با ۱.۴ گیگاوات توربین گاز و ۴.۹ گیگاوات ترکیبی‑چرخه آغاز می‌شود تا تقاضای مراکز داده هوش مصنوعی را پوشش دهد",
-            "این سرمایه‌گذاری اولین گام عملی تحت توافق تجاری سال گذشته است و روابط دو کشور را آرام می‌کند"
-        ],
-        "impact": "سرمایه‌گذاری بزرگ کره‌جنوبی به اقتصاد انرژی آمریکا رونق می‌دهد",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/south-korea-picks-22-billion-texas-power-project-for-first-us-trade-deal-investment-reports-article-14025663.html",
-        "clean_url": "https://www.moneycontrol.com/world/south-korea-picks-22-billion-texas-power-project-for-first-us-trade-deal-investment-reports-article-14025663.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260909014221_466869117.jpg",
-        "timestamp": 1788835346.0
-    },
-    {
-        "id": "d49c8d0b04",
-        "title_fa": "قیمت نفت به $100 نزدیک؛ ایران تهدید به منطقه‌گیری دریایی",
-        "title_en": "Price of crude oil nears $100 a barrel as U.S.-Iran stalemate continues",
-        "summary": [
-            "قیمت نفت برنت به 99 دلار رسید؛ افزایش ناشی از تنش‌های ایالات متحده‑ایران است",
-            "نهاد امنیت ملی ایران اعلام کرد منطقه‌گیری دریایی در تنگه هرمز ایجاد می‌کند و موشک‌های جدید می‌تواند ناوهای آمریکایی را هدف بگیرد"
-        ],
-        "impact": "افزایش قیمت نفت و تهدیدات نظامی می‌تواند نوسانات شدید در بازارهای جهانی و فشار اقتصادی بر آمریکا ایجاد کند",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-seeks-more-control-strait-080632293.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-seeks-more-control-strait-080632293.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/fb41a0e3e836824ef731be729e4f4b0c1bd47ac4db834750e145bf5284107785/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F44dc6e73ee02f2a1cd02040a868b66b8.jpg",
-        "timestamp": 1788834180.0
     }
 ]
