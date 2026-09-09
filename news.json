@@ -74,6 +74,23 @@
         "timestamp": 1788948072.0
     },
     {
+        "id": "9b5a7dde60",
+        "title_fa": "آمریکا در واکنش به حمله به کشتی جنگی چندین نفتکش ایران را هدف قرار داد",
+        "title_en": "US Hits Several Iran Oil Tankers in Response to Warship Attack",
+        "summary": [
+            "The US attacked more Iranian oil tankers overnight, with the worsening tensions over control of the..."
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Bloomberg · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/us-hits-several-iran-oil-091803758.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/us-hits-several-iran-oil-091803758.html",
+        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/6c975458210725f979018c8699b7d4ef.jpg",
+        "timestamp": 1788946962.0
+    },
+    {
         "id": "58edbbc1eb",
         "title_fa": "امواج موشکی ایران به پایگاه آمریکایی اردن",
         "title_en": "Iran sends wave of missiles toward U.S. base in Jordan after vowing escalation",
@@ -2742,6 +2759,23 @@
         "timestamp": 1788864377.0
     },
     {
+        "id": "8f52873b35",
+        "title_fa": "قیمت دلار در بازار آزاد ایران از ۲۳۲ هزار تومان عبور کرد",
+        "title_en": "قیمت دلار در بازار آزاد ایران از ۲۳۲ هزار تومان عبور کرد",
+        "summary": [
+            "همزمان با بالا گرفتن تنشها در منطقه و تشدید درگیری میان ایالات متحده و جمهوری اسلامی، نرخ ارز در بازار آزاد ایران به..."
+        ],
+        "impact": "...",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609099218",
+        "clean_url": "https://www.iranintl.com/202609099218",
+        "image": "https://www.bing.com/th?id=ONUT.VkwxYQgiJC2YqGl76w2xdA",
+        "timestamp": 1788864163.0
+    },
+    {
         "id": "72af93d642",
         "title_fa": "قطر: آرامش موقت آمریکا‑ایران می‌تواند ماه‌ها بعد جنگ شود",
         "title_en": "Iran War Live Updates: Qatar Says Temporary US-Iran Lull Could Lead To War Again Months Later",
@@ -5384,41 +5418,5 @@
         "clean_url": "https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-abbas-araghchi-oil-crude-prices-iran-oman-deal-strait-of-hormuz-11788828272076.html",
         "image": "http://www.bing.com/th?id=ONUT.16k4x2f1p1qXD_DxbfS1Ig&pid=News",
         "timestamp": 1788814080.0
-    },
-    {
-        "id": "fc7e319f4c",
-        "title_fa": "زیا یوسف و تبعیض علیه مهاجران",
-        "title_en": "Reform UK's Zia Yusuf pulls up the ladder on Britain's immigrants",
-        "summary": [
-            "اظهارات یوسف نشان می‌دهد رادیکال‌سازی افکار در Reform UK در حال تشدید است",
-            "بیان او درباره نامزد سوسیالیست، به‌عنوان حمله‌ای به مهاجران شناخته می‌شود",
-            "این حرف‌ها می‌تواند باعث واکنش منفی عمومی و فشار رسانه‌ای بر حزب شود"
-        ],
-        "impact": "احتمال افزایش فشار عمومی بر Reform UK و کاهش حمایت‌های انتخاباتی",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/opinion/reform-uks-zia-yusuf-pulls-ladder-britains-immigrants",
-        "clean_url": "https://www.middleeasteye.net/opinion/reform-uks-zia-yusuf-pulls-ladder-britains-immigrants",
-        "image": "https://www.bing.com/th?id=ONUT.eWrqLzn2V1d_V0ihjde4VA",
-        "timestamp": 1788813679.833964
-    },
-    {
-        "id": "d41edfe831",
-        "title_fa": "در حالی که تهران مدعی پیشرفت در مسیر امن ترانزیتی هرمز است، ایالات متحده به دنبال ارجاع ایران به شورای امنیت سازمان ملل است",
-        "title_en": "US seeks UN Security Council referral for Iran as Tehran claims progress on Hormuz safe transit route",
-        "summary": [
-            "The United States plans to propose referring Iran to the UN Security Council over its obstruction of nuclear inspectors, as Tehran announced on Monday that negotiations for a temporary safe transit route in the Strait of Hormuz have reached their final stages while warning against foreign military deployments."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily News Egypt",
-        "url": "https://www.dailynewsegypt.com/2026/09/07/us-seeks-un-security-council-referral-for-iran-as-tehran-claims-progress-on-hormuz-safe-transit-route/",
-        "clean_url": "https://www.dailynewsegypt.com/2026/09/07/us-seeks-un-security-council-referral-for-iran-as-tehran-claims-progress-on-hormuz-safe-transit-route",
-        "image": "https://images.dailynewsegypt.com/2026/09/922026115114-0h830n4ayt-7669.jpg",
-        "timestamp": 1788812820.0
     }
 ]
