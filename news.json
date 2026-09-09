@@ -53,6 +53,26 @@
         "timestamp": 1788986179.175123
     },
     {
+        "id": "5ac0636d04",
+        "title_fa": "ارجاع ایران به شورای امنیت: تهدید تحریم جدید",
+        "title_en": "Iran referred to UN Security Council for nuclear non-compliance",
+        "summary": [
+            "شورای امنیت به دلیل عدم تبعیت هسته‌ای ایران، او را به‌عنوان غیرقابل‌اطمینان معرفی کرد.",
+            "تهدیدهای نظامی آمریکا و اسرائیل به تأسیسات هسته‌ای، به گفته تهران، بازرسی‌های آی‌اِی‌اِی را مختل کرده‌اند.",
+            "پیشنهاد اعمال تحریم‌های سخت‌تر می‌تواند فشار اقتصادی بر ایران را افزایش دهد.",
+            "تحولات جاری خطر تعویق یا سقوط مذاکرات برجام و تشدید تنش‌های منطقه‌ای را دارد."
+        ],
+        "impact": "تحریم‌های جدید می‌توانند فشار مالی بر ایران را شدت ببخشند و مسیر مذاکرات هسته‌ای را به‌سختی پیش ببرند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/other/iran-referred-to-un-security-council-for-nuclear-non-compliance/ar-AA2bTLOy",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-referred-to-un-security-council-for-nuclear-non-compliance/ar-AA2bTLOy",
+        "image": "https://s.yimg.com/lo/mysterio/api/6df7845287c58fc6ed92fc6519e7540a6a90535d011ffc46a21f22b65429466b/lightyear_networkapi/resizefill_w1024_h671;quality_80;format_jpg/https://media.zenfs.com/en/bbc_us_articles_995/b3054f06a526e475899372a00def4129.jpg",
+        "timestamp": 1788985740.0
+    },
+    {
         "id": "4cdc277963",
         "title_fa": "ترامپ می‌گوید قیمت‌های نفت که به دلیل جنگ ایران افزایش یافته است، احتمالاً تا بعد از میان‌دوره‌ای کاهش نخواهد یافت",
         "title_en": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
@@ -5402,23 +5422,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ybUNjR1hUVTdkWVJUVzViZkVjSEg0MWZSMUVZZ0tpSjczQ2FKdERoNGpoLVVBc1NnVEhFU1o2WnRtVU5YR3ZFdndpVC1aV251N19wVlFGRTMzN3FVOFp0V1Itc19DcnR0bU1IV1Q5OUdTbWhNeXVfZHJn0gF_QVVfeXFMUHVGbm5HOGFOYzRUMTI0OXRWbTZkTVg1VVRnWG44TEJxWVlsVXJrcXNtYnNkcWJ4OThBQTdEZHFkcHprUnRZU0IzdmVGSlVZRHpocFB6NWFjZzJSYXdXeUxrdzM5NkE2LVlnZ1EzTkpWT3RoV3NHUVZxNXhJWVlHZw",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788859459.0
-    },
-    {
-        "id": "fd23d46602",
-        "title_fa": "ترامپ به فدرال رزرو دستور کاهش نرخ بهره داد",
-        "title_en": "Readers sound off on interest rates, fall activities and Stacy Keach",
-        "summary": [
-            "تهدید ترامپ به کاهش نرخ بهره نشان‌دهنده فشار سیاسی بر استقلال بانک مرکزی است",
-            "پاسخ فدرال رزرو به این فشار می‌تواند تورم و ارزش دلار را تحت فشار شدید قرار دهد"
-        ],
-        "impact": "کاهش نرخ بهره می‌تواند تورم را تشدید و ارزش دلار را تضعیف کند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "New York Daily News",
-        "url": "https://www.nydailynews.com/2026/09/08/readers-sound-off-on-interest-rates-fall-activities-and-stacy-keach/",
-        "clean_url": "https://www.nydailynews.com/2026/09/08/readers-sound-off-on-interest-rates-fall-activities-and-stacy-keach",
-        "image": "https://www.bing.com/th?id=ONUT.2AQrftpk8y-QoMsHQaqZbw",
-        "timestamp": 1788858851.84575
     }
 ]
