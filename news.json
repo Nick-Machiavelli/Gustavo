@@ -1,5 +1,23 @@
 [
     {
+        "id": "2ae9b24590",
+        "title_fa": "ترامپ وعده پایان فوری جنگ ایران پس‌انتخابات",
+        "title_en": "Trump promises politically convenient end-date for Iran war",
+        "summary": [
+            "ادعای ترامپ فقط یک وعده سیاسی است و برنامه عملی برای پایان جنگ ارائه نکرده.",
+            "اگر این وعده جدی گرفته شود، می‌تواند فشارهای دیپلماتیک را تضعیف و ریسک تنش‌های منطقه‌ای را افزایش دهد."
+        ],
+        "impact": "بی‌ثباتی دیپلماتیک تشدید می‌شود؛ فشار بر مذاکرات هسته‌ای تضعیف می‌گردد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/trump-promises-politically-convenient-end-date-for-iran-war/ar-AA2bTVBB?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/trump-promises-politically-convenient-end-date-for-iran-war/ar-AA2bTVBB",
+        "image": "https://www.bing.com/th?id=ONUT.WBxbtfRwdeAbBMvIJLn2jg",
+        "timestamp": 1788982433.8831668
+    },
+    {
         "id": "ed07a6ed59",
         "title_fa": "ترامپ می‌گوید جنگ با ایران بلافاصله پس از انتخابات میان دوره ای آمریکا پایان خواهد یافت",
         "title_en": "Trump says war with Iran 'will end immediately' after US midterm elections",
@@ -15,6 +33,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZTBxc0JxNExfWXpJSjQ2R1ZKLTFCaGVDeHB4TF9RdGpRQ201d0hFSlZyMlp6QlBneUUyZXI5dExBVDRmakROeE03dGI4bVl4anVkOXBQSnhpdWRsUGY3VVFhLWNYdVBvQlVreEthZHpZakZDSk9rVmhXSTNKc2V3UmwtWXhVWUo5UnpsRS05NnpsMENOMlBaX1ZBbUZHX1lIVmtQRUx3bGZMMnVaMjE5LWdERzBRenNtd1puVXpFV0pGQQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788981345.0
+    },
+    {
+        "id": "0a55cb7400",
+        "title_fa": "قیمت نفت به بالای ۱۰۱ دلار رسید",
+        "title_en": "Oil surges past $101 to highest closing level since May as Middle East conflict intensifies",
+        "summary": [
+            "نفت برای اولین بار از مه 2024 به بالای ۱۰۱ دلار بسته شد؛ نشانگر تشدید تنش‌های خاورمیانه است.",
+            "بازارهای جهانی به سرعت واکنش نشان دادند؛ هزینه‌های واردات انرژی برای کشورهای وابسته به نفت بالا می‌رود."
+        ],
+        "impact": "تورم انرژی در اقتصادهای واردکننده نفت افزایش می‌یابد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWsxSkpzekw3Y1IybTg0dk1CWkplQlBhTGpyTXRjX0tRZ1Baa0NQaDF0Znk3bkl4V19FTVpzcW5Vb3FXbmNWSmNoTEs2NW15cnJnYnExVDBlQkN4WExhSFctT092cloyMlU1cU8wbzk5Y09lTnFQUkRZZGFQZVUxSE1kSEdWYkI3WmJQbTdyWEFTSDBEaWpOcUZub0dNT3A5dkQ1eERNRV9IbmlvSUZKUTBNR3dMX21tUk9aemVkc0ZoVzlPNFA0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWsxSkpzekw3Y1IybTg0dk1CWkplQlBhTGpyTXRjX0tRZ1Baa0NQaDF0Znk3bkl4V19FTVpzcW5Vb3FXbmNWSmNoTEs2NW15cnJnYnExVDBlQkN4WExhSFctT092cloyMlU1cU8wbzk5Y09lTnFQUkRZZGFQZVUxSE1kSEdWYkI3WmJQbTdyWEFTSDBEaWpOcUZub0dNT3A5dkQ1eERNRV9IbmlvSUZKUTBNR3dMX21tUk9aemVkc0ZoVzlPNFA0",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788981124.0
     },
     {
         "id": "e23c5b8939",
@@ -52,6 +88,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUJMQTJKbE9VVEszTHZ1UHhZMUFzMnRKQ2J5Q2ZqZncyYUxWYnh6SGFBRnU2M1pWdDd3SXJsVk1ZaXI3RDRUOEpKZ2dZWEYzOUNvMDBDd1RTak5meVp4alY2WUtaM0NGUEc3Z3JCRzJKN3djWFJNOUE1b0pTeEQ4U2JOUGcwUWc",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788980100.0
+    },
+    {
+        "id": "15b7d9ace0",
+        "title_fa": "گام میان دوره ای ترامپ به دلیل جنگ ایران و تعرفه های کانادا تیره شده است",
+        "title_en": "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs",
+        "summary": [
+            "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs The New York Times"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW5SZG5jQ3Z2STdOUDVUMXh1Vm9pWTNtM0gzTmE5eUNjMkxESklVUlpsejZ1WEtSTTBzcWE4YkZuck84RlBIelVWSnlQMHJQNHoxaTB6cS1YRkdvM1dOTmFMamkzME45UUdpQUk4MTUyTmFqWG1uZFF1eTc2WUdXbEtVSGp2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW5SZG5jQ3Z2STdOUDVUMXh1Vm9pWTNtM0gzTmE5eUNjMkxESklVUlpsejZ1WEtSTTBzcWE4YkZuck84RlBIelVWSnlQMHJQNHoxaTB6cS1YRkdvM1dOTmFMamkzME45UUdpQUk4MTUyTmFqWG1uZFF1eTc2WUdXbEtVSGp2Zw",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788979985.0
     },
     {
         "id": "9dd2b5eb3d",
@@ -5369,56 +5422,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/such-attacks-undermine-regional-security-india-condemns-houthi-strikes-in-saudi-arabia-that-injured-73/ar-AA2bQIk6",
         "image": "https://www.bing.com/th?id=ONUT.bZgMOjfxLD2f8GdyJi9Wzg",
         "timestamp": 1788853855.0
-    },
-    {
-        "id": "59011c90f0",
-        "title_fa": "ایران می‌گوید به کشتی های آمریکایی و دیگر کشتی‌ها در تنگه هرمز حمله کرده است",
-        "title_en": "Iran says it attacked US vessels and other ships in Strait of Hormuz",
-        "summary": [
-            "Iran's Islamic Revolutionary Guard Corps (IRGC) said on Wednesday it had attacked several more vessels in the Strait of..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "DPA International on MSN",
-        "url": "https://www.msn.com/en-gb/war-and-conflicts/military-organizations/iran-says-it-attacked-us-vessels-and-other-ships-in-strait-of-hormuz/ar-AA2bQN3J?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/war-and-conflicts/military-organizations/iran-says-it-attacked-us-vessels-and-other-ships-in-strait-of-hormuz/ar-AA2bQN3J",
-        "image": "https://www.bing.com/th?id=ONUT.WQw_qfitEeO6RfX-bRN55Q",
-        "timestamp": 1788853362.0
-    },
-    {
-        "id": "d343d4de4e",
-        "title_fa": "آخرین خبر: حمله موشکی ایران به پایگاه هوایی آمریکا در اردن. پناهگاه های F-35 اصابت کرد، پاتریوت فرو ریخت",
-        "title_en": "Breaking: Iran missiles storm US airbase in Jordan; F-35 shelters hit, Patriot crumbles",
-        "summary": [
-            "Iran’s IRGC claims it launched a massive ballistic missile barrage on the US Al-Azraq Airbase in Jordan after alleged American strikes on Iranian oil tankers. Tehran says F-35, F-16 and F-15 shelters,..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/news/other/breaking-iran-missiles-storm-us-airbase-in-jordan-f-35-shelters-hit-patriot-crumbles/vi-AA2bQ4A5?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/breaking-iran-missiles-storm-us-airbase-in-jordan-f-35-shelters-hit-patriot-crumbles/vi-AA2bQ4A5",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788853362.0
-    },
-    {
-        "id": "5d04d162e8",
-        "title_fa": "نیروهای آمریکایی پنج نفتکش ایرانی را پس از هدف قرار دادن کشتی جنگی منهدم کردند",
-        "title_en": "US forces destroy five Iranian oil tankers after warship targeted",
-        "summary": [
-            "CENTCOM confirmed that no American personnel were injured when Tehran launched ballistic missiles at a naval craft in regional waters this week."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Cleveland Jewish News",
-        "url": "https://www.clevelandjewishnews.com/jns/us-forces-destroy-five-iranian-oil-tankers-after-warship-targeted/article_c4624c65-621e-58e6-a9b2-89212a35cfc2.html",
-        "clean_url": "https://www.clevelandjewishnews.com/jns/us-forces-destroy-five-iranian-oil-tankers-after-warship-targeted/article_c4624c65-621e-58e6-a9b2-89212a35cfc2.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg?resize=600%2C315",
-        "timestamp": 1788853362.0
     }
 ]
