@@ -1,5 +1,44 @@
 [
     {
+        "id": "211c4bf1bb",
+        "title_fa": "ترامپ در سخنرانی ۹/۱۱ خودمحور شد",
+        "title_en": "Trump turns 9/11 into himself",
+        "summary": [
+            "در مراسم یادبود ۹/۱۱، ترامپ بارها به دستاوردهای شخصی‌اش اشاره کرد",
+            "این رفتار باعث انتقادات شدید رسانه‌ای شد",
+            "تمرکز او بر تصویر شخصی حتی در حوادث حساس، نشانگر استراتژی سیاسی‌اش است"
+        ],
+        "impact": "کاهش اعتبار ترامپ در میان رای‌دهندگان محافظه‌کار",
+        "tag": "سخنرانی",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Amazon S3 on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-turns-9-11-into-himself/vi-AA2bPuBz?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-turns-9-11-into-himself/vi-AA2bPuBz",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788913303.4711206
+    },
+    {
+        "id": "a444d4a464",
+        "title_fa": "آینده نتانیاهو به جنگ غزه بست",
+        "title_en": "Netanyahu’s political future is now tied to the genocide in Gaza",
+        "summary": [
+            "نتانیاهو با ادامه عملیات نظامی در غزه، ریسک از دست دادن حمایت داخلی را می‌پذیرد",
+            "رای‌دهندگان اسرائیلی بین ادامه جنگ و راه‌حل دیپلماتیک تقسیم شده‌اند",
+            "جبهه‌های متعدد (لبنان، ایران، یمن) فشار اقتصادی و نظامی را افزون کرده‌اند",
+            "نتایج انتخابات ۲۷ اکتبر می‌تواند مسیر سیاست خاورمیانه را تغییر دهد"
+        ],
+        "impact": "اگر نتانیاهو بازنده شود، سیاست‌های نظامی اسرائیل تغییر می‌کند و تنش‌های منطقه‌ای کاهش می‌یابد",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Pearls and Irritations",
+        "url": "https://johnmenadue.com/post/2026/09/netanyahus-political-future-is-now-tied-to-the-genocide-in-gaza/",
+        "clean_url": "https://johnmenadue.com/post/2026/09/netanyahus-political-future-is-now-tied-to-the-genocide-in-gaza",
+        "image": "https://www.bing.com/th?id=ONUT.Kcl8lRTeIFObB4dFYc6m7Q",
+        "timestamp": 1788913303.470817
+    },
+    {
         "id": "1133329abb",
         "title_fa": "نتانیاهو هشدار امارات درباره حمله ۷ اکتبر را نادیده گرفت",
         "title_en": "New evidence Netanyahu was warned about October 7",
@@ -17,6 +56,25 @@
         "clean_url": "https://thejewishindependent.com.au/generals-revolt-election-campaign",
         "image": "https://www.bing.com/th?id=ONUT._b_CYDNIseNLvkrQELeN3g",
         "timestamp": 1788912295.8010952
+    },
+    {
+        "id": "fbb207302a",
+        "title_fa": "تحریم‌های آمریکا بر بخش هوانوردی ایران",
+        "title_en": "US increases pressure on Iran with sanctions targeting aviation sector",
+        "summary": [
+            "ایالات متحده تحریم‌های جدیدی علیه شرکت‌های هواپیمایی و قطعات ایرانی اعمال کرد",
+            "هدف کاهش توانایی ایران در توسعه حمل و نقل هوایی و تقویت فشار اقتصادی است",
+            "ایران ممکن است برای تامین قطعات به چین یا روسیه روی آورد"
+        ],
+        "impact": "کاهش توانایی ایران برای پروازهای تجاری و نظامی، فشار بر اقتصاد هواپیمایی",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdl9VWjlIRndSLUZheEI5V2dxTmw1YVFNcWtQWkVQaDRoZGNGb0pPbm80dFdlQWVsQmlOZi0zZ29VU1dpYXEzQldsNW9Kclh2bFF1QmduQXZWMHJ3Q2lUQlMxckpOdTlEQ0x0WWJjdlJLelhJUnNFLUVaMTk1UkR3THNTazJPNnNZQ3F2STBSVzQyQkxCdW5zbzFNcEVuSkFhclBvTGlxYlBmTTFtcVBZ0gG0AUFVX3lxTE1RZjFwVXNIUFdXRTFKbGgtQUN0Q1ppTTd1eHpmeFB3N25XaEhwSU9TbFp5MWYtNm9FZWQzUVBaYV9vRU5wdWFwZkxPV194M1pfelRDc21ldWhJTVB1cDhzT3U4TjRMZzgwem9iaURYUjlYSjlfWlpfSjdNSmh0RjQwZG9mT2RkLWkyczJoei1FN1Zld0I1MGl6OHNyWVdVemFPaERyWTcxM1RfSGRMU0FtazFHTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdl9VWjlIRndSLUZheEI5V2dxTmw1YVFNcWtQWkVQaDRoZGNGb0pPbm80dFdlQWVsQmlOZi0zZ29VU1dpYXEzQldsNW9Kclh2bFF1QmduQXZWMHJ3Q2lUQlMxckpOdTlEQ0x0WWJjdlJLelhJUnNFLUVaMTk1UkR3THNTazJPNnNZQ3F2STBSVzQyQkxCdW5zbzFNcEVuSkFhclBvTGlxYlBmTTFtcVBZ0gG0AUFVX3lxTE1RZjFwVXNIUFdXRTFKbGgtQUN0Q1ppTTd1eHpmeFB3N25XaEhwSU9TbFp5MWYtNm9FZWQzUVBaYV9vRU5wdWFwZkxPV194M1pfelRDc21ldWhJTVB1cDhzT3U4TjRMZzgwem9iaURYUjlYSjlfWlpfSjdNSmh0RjQwZG9mT2RkLWkyczJoei1FN1Zld0I1MGl6OHNyWVdVemFPaERyWTcxM1RfSGRMU0FtazFHTg",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788911784.0
     },
     {
         "id": "79df16c458",
@@ -2612,6 +2670,25 @@
         "clean_url": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back",
         "image": "http://www.bing.com/th?id=ONUT.9xGSq4ZZ8A0JIyuQd6i2rg&pid=News",
         "timestamp": 1788830100.0
+    },
+    {
+        "id": "7ca2b2bb05",
+        "title_fa": "قضایای جدی علیه جان ایستمن",
+        "title_en": "Larry Elder",
+        "summary": [
+            "ایستمن به‌خاطر تئوری انتخاباتی‌اش در انتخابات ۲۰۲۰ محکوم شد",
+            "کالیفرنیا او را به‌دلیل ارائه ادعاهای نادرست به‌عنوان تخلف حرفه‌ای متهم کرد",
+            "دادگاه‌ها ادعاهای او را رد کردند بدون بررسی جزئیات"
+        ],
+        "impact": "احتمال حذف ایستمن از وکالت و تضعیف استراتژی‌های قانونی مشابه",
+        "tag": "قانون",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "Crescent-News",
+        "url": "https://www.crescent-news.com/opinion/opinion_columnists/larry-elder---john-eastman-was-disbarred-larry-krasner-got-a-laugh/article_946557e8-3e2b-4069-9940-554536572ada.html",
+        "clean_url": "https://www.crescent-news.com/opinion/opinion_columnists/larry-elder---john-eastman-was-disbarred-larry-krasner-got-a-laugh/article_946557e8-3e2b-4069-9940-554536572ada.html",
+        "image": "https://bloximages.newyork1.vip.townnews.com/crescent-news.com/content/tncms/assets/v3/editorial/b/ab/babf1996-3921-11ed-9a87-dbb3771b4700/632a20d2695aa.image.jpg",
+        "timestamp": 1788829200.0
     },
     {
         "id": "aeaa9e6b60",
@@ -5329,74 +5406,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/iran-warns-us-energy-assets-in-gulf-are-vulnerable-after-latest-clashes/ar-AA2bKuIG",
         "image": "http://www.bing.com/th?id=ONUT.TI4aVj3loeW7VA-tsgTn2w&pid=News",
         "timestamp": 1788781686.0
-    },
-    {
-        "id": "4305b5397d",
-        "title_fa": "پیشنهاد صبحگاهی: ین در محل کار",
-        "title_en": "Morning Bid: Yen at work",
-        "summary": [
-            "By Mike Dolan Sept 8 (Reuters) - As U.S. markets return from the Labor Day holiday, calm in global markets was broken on..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/morning-bid-yen-103625000.html",
-        "clean_url": "https://www.aol.com/articles/morning-bid-yen-103625000.html",
-        "image": "https://www.bing.com/th?id=ONUT.DVPUj2Mh-FxQjknlUAiFUQ",
-        "timestamp": 1788781305.0
-    },
-    {
-        "id": "4925d2afb5",
-        "title_fa": "حسن پیکر: تشکیلات دموکرات نمی‌خواهند من وجود داشته باشم",
-        "title_en": "Hasan Piker says Democrat establishment doesn't 'want me to exist'",
-        "summary": [
-            "Left-wing streamer Hasan Piker claims Democratic establishment leaders are distancing themselves from progressive voices at the Chicago Socialism Conference."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/video/6404753699112",
-        "clean_url": "https://www.foxnews.com/video/6404753699112",
-        "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50ebe471-ea98-49f0-b407-637371e8f10b/99ec26bb-c2f2-4ca5-b216-a771e914a2f8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-        "timestamp": 1788781305.0
-    },
-    {
-        "id": "20d05ec6cd",
-        "title_fa": "اسرائیل \"اشتباه محاسباتی\" انگلیس در مورد تحریم‌های کرانه باختری را محکوم می‌کند",
-        "title_en": "Israel condemns Britain’s ‘miscalculation’ over West Bank sanctions",
-        "summary": [
-            "UK politics live: Israel condemns Britain’s ‘grave miscalculation’ over West Bank sanctions - The US are also said to be..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/us-hits-out-at-irrational-uk-over-israeli-west-bank-sanctions-live/ar-AA2bINGF?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/us-hits-out-at-irrational-uk-over-israeli-west-bank-sanctions-live/ar-AA2bINGF",
-        "image": "https://www.bing.com/th?id=ONUT.doe6ZvJPRaz6nHCsbiMa7g",
-        "timestamp": 1788781304.0
-    },
-    {
-        "id": "f69ac5f90b",
-        "title_fa": "ایران: مسئولیت تنش در تنگه هورموز بر عهده آمریکا",
-        "title_en": "Iran says ‘ball has long been in US court’ over Strait of Hormuz",
-        "summary": [
-            "بیانیه ایرانی می‌گوید فشارهای آمریکا در هورموز به‌مدت طولانی ادامه داشته و مسئولیت اصلی بر عهده واشنگتن است.",
-            "این ادعا می‌تواند به‌عنوان پیام هشدار به نیروهای نیابتی آمریکا و کشورهای منطقه برای کاهش حضور نظامی در آب‌های استراتژیک باشد."
-        ],
-        "impact": "افزایش تنش‌های دریایی و احتمال کاهش سرعت حمل‌ونقل نفت در هورموز",
-        "tag": "هورموز",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHNGZmJFNFJHb3N4WEdRclNwRFdJc01iU0MzNFBsSVJDMDZ4MWJuanNFVFZJTnktZ0xkVDhYOFJ6eGROTUpKTjcxM0hHOWJ1QzkteVRMV1VGbVNDeElEN3NwSzdvMUd4dGRZbWVHdlV3Z2l0bmJjQWtTbG15Yy1nQXVYY191d2ZPYkFqU2xxSGJIRFB5SE5PREZqTWd4ZnBPZzlYVk1vZFVEak0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHNGZmJFNFJHb3N4WEdRclNwRFdJc01iU0MzNFBsSVJDMDZ4MWJuanNFVFZJTnktZ0xkVDhYOFJ6eGROTUpKTjcxM0hHOWJ1QzkteVRMV1VGbVNDeElEN3NwSzdvMUd4dGRZbWVHdlV3Z2l0bmJjQWtTbG15Yy1nQXVYY191d2ZPYkFqU2xxSGJIRFB5SE5PREZqTWd4ZnBPZzlYVk1vZFVEak0",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788781248.0
     }
 ]
