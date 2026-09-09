@@ -915,6 +915,25 @@
         "timestamp": 1788926820.0
     },
     {
+        "id": "2d7348de5a",
+        "title_fa": "دستگاه زیرآبی آمریکایی در هرمز به دست سپاه اسیر شد",
+        "title_en": "Did Iran capture a US submarine? What we know about the underwater drone",
+        "summary": [
+            "سپاه پاسداران ادعا کرد یک وسیلهٔ خودران آمریکایی مدل Dive‑LD را در تنگهٔ هرمز به‌دست آورد؛ این دستگاه می‌تواند تا ۱۰ روز زیر آب بماند و تا شش کیلومتر عمق برسد.",
+            "واکنش آمریکا کم‌اهمیت جلوه داد و گفت ربات زیرآبی به‌دلیل نقص فنی غرق شده؛ این بیانیه سعی در کاهش اثر روانی دستگیری دارد.",
+            "دستگیری این وسیله، توان نظارتی و مین‌کشفی نیروی دریایی آمریکا را در مسیر استراتژیک هرمز مختل می‌کند و فشار دیپلماتیک دو‑طرفه را تشدید می‌کند."
+        ],
+        "impact": "کاهش توان عملیاتی آمریکا در تنگهٔ هرمز و تقویت موضع تهدیدی ایران در منطقه",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know",
+        "image": "http://www.bing.com/th?id=ONUT.unD0KJTDn4dQp7HR02t0LA&pid=News",
+        "timestamp": 1788926760.0
+    },
+    {
         "id": "d3c1f61503",
         "title_fa": "ایران برای دور زدن تحریم‌ها به رمزارز روی می‌آورد",
         "title_en": "Iran turns to crypto to get around sanctions",
@@ -1410,6 +1429,23 @@
         "clean_url": "https://english.aawsat.com/world/5316278-north-korea-builds-new-yongbyon-uranium-enrichment-facility-iaea-says",
         "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1764785.jpeg.webp?VersionId=669aPyP9dxIzyMbvzkbgwz_lSkn25Lri",
         "timestamp": 1788912060.0
+    },
+    {
+        "id": "f68ec848f2",
+        "title_fa": "زیردریایی Dive-LD چیست؟ صنایع دستی آمریکا ادعا می‌کند که ایران را تصرف کرده است",
+        "title_en": "What Is a Dive-LD Submarine? The US Craft Iran Claims To Have Captured",
+        "summary": [
+            "U.S. Navy Capt. Tim Hawkins downplayed the capture, saying it was an older model Anduril Dive-LD which used commercially available technology, with no classified sonar or radar equipment. \"There is no..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/dive-ld-submarine-iran-capture-12419188",
+        "clean_url": "https://www.newsweek.com/dive-ld-submarine-iran-capture-12419188",
+        "image": "http://www.bing.com/th?id=ONUT.HJu-zmvv06eLF03EsfMqMw&pid=News",
+        "timestamp": 1788911940.0
     },
     {
         "id": "fbb207302a",
@@ -5395,41 +5431,6 @@
         "url": "https://www.counterpunch.org/2026/09/08/iran-reverses-the-asymmetry/",
         "clean_url": "https://www.counterpunch.org/2026/09/08/iran-reverses-the-asymmetry",
         "image": "https://www.counterpunch.org/wp-content/uploads/2026/09/Kuhestak_wedding_attack.jpg",
-        "timestamp": 1788825600.0
-    },
-    {
-        "id": "72f07d92a0",
-        "title_fa": "گرسّی هشدار جدی به برنامه هسته‌ای ایران",
-        "title_en": "Grossi Sounds Alarm on Iran's Nuclear Program",
-        "summary": [
-            "آی‌اِی‌اِی‌ا اعلام کرد که ایران اطلاعاتی درباره وضعیت تأسیسات هسته‌ای خود ارائه نکرده و دسترسی به آن‌ها مسدود است",
-            "عدم همکاری ایران ریسک گسترش فناوری هسته‌ای را بالا می‌برد و می‌تواند منجر به تحریم‌های سخت‌تر بین‌المللی شود"
-        ],
-        "impact": "فقدان شفافیت ایران فشار دیپلماتیک و اقتصادی را بر علیه جمهوری اسلامی تشدید می‌کند",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/world/5315862-grossi-sounds-alarm-irans-nuclear-program",
-        "clean_url": "https://english.aawsat.com/world/5315862-grossi-sounds-alarm-irans-nuclear-program",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1762476_0.jpeg.webp?VersionId=yDCJrR8AmTF7oU_OBRRQUx_8uUhVoloy",
-        "timestamp": 1788825600.0
-    },
-    {
-        "id": "ef5707d22a",
-        "title_fa": "ایران می‌خواهد مکانیزم اجرایی را به پایانه های بارگیری نفت خود گسترش دهد، زیرا هزینه های جنگ به خانه می‌رسد",
-        "title_en": "Iran Wants To Extend Enforcement Mechanism To Its Oil-Loading Terminals As The Costs Of War Hit Home",
-        "summary": [
-            "There had been no reports of a new American strike inside Iran or another Iranian barrage. This time, the main development came in the form of a policy"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/08092026-iran-wants-to-extend-enforcement-mechanism-to-its-oil-loading-terminals-as-the-costs-of-war-hit-home-analysis/",
-        "clean_url": "https://www.eurasiareview.com/08092026-iran-wants-to-extend-enforcement-mechanism-to-its-oil-loading-terminals-as-the-costs-of-war-hit-home-analysis",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2018/11/c-10-e1705354516489.jpg",
         "timestamp": 1788825600.0
     }
 ]
