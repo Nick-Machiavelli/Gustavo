@@ -90,6 +90,24 @@
         "timestamp": 1788914854.6824617
     },
     {
+        "id": "374131f861",
+        "title_fa": "نیروهای آمریکا پنج تانکر ایرانی را هدف گرفت",
+        "title_en": "US forces hit five Iranian tankers as Tehran targets American base in Jordan",
+        "summary": [
+            "آمریکا پنج تانکر تحت پرچم ایرانی را در خلیج فارس نابود کرد",
+            "این اقدام در واکنش به تهدیدهای ایران به پایگاه آمریکایی اردن انجام شد"
+        ],
+        "impact": "حذف پنج تانکر، فشار بر صادرات نفت ایران و تشدید تنش‌های نظامی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWJtUDJmUXdQb2JLMUZpVFNTU3llRTdfSHkzQWVPMjdfb3lJM0RhaTJBWk51RDY4QWlQS3IzemgyeU1EcXBVMkRlVXlySHZzQWFRcFZ0eVFXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWJtUDJmUXdQb2JLMUZpVFNTU3llRTdfSHkzQWVPMjdfb3lJM0RhaTJBWk51RDY4QWlQS3IzemgyeU1EcXBVMkRlVXlySHZzQWFRcFZ0eVFXdw",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788914513.0
+    },
+    {
         "id": "211c4bf1bb",
         "title_fa": "ترامپ در سخنرانی ۹/۱۱ خودمحور شد",
         "title_en": "Trump turns 9/11 into himself",
@@ -1098,6 +1116,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFFUT0h0Q1dWZEN1M2RzaDdZbGNLS2dqSmdtRl90dUVCOHB1RExfOWlJcF9IQTV0WENXa3lISEFYYV9sdjMtWDZPOFB6NHZYMUVzNi1BRDV2LWQxMHZfeUp6UlhxSnJ1VGJyZk5fYzFoZG9nZlc3MHZRNWJvbU1yTWZDTG1ZSDhJVnMybVdyR2steGgxaHJDd0VoWXR5Y0nSAaQBQVVfeXFMTUw3Z0kyWEZaeVdkdXFqT0RhbFp3V0E2SFplOUdoM09oYTBOZmRVdlpnXzFoc1pJR3RNWU02WDh5Y0YwLVpiRUJHd3BmYjdqM3ZiVmdoRElrVThiZFA5Z1duNk1aSnRIRUNyMmlvWGJLSWZBSVF1bDFaQ1lRaDBoSFBTVEdDTDNfTnBrbkU4b1ZKOTNTa29NbUpaa2prSEpyVzZQMUE",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788881754.0
+    },
+    {
+        "id": "81a581d64c",
+        "title_fa": "سپاه ایران حمله به پایگاه آمریکایی اردن را تأیید کرد",
+        "title_en": "IRGC confirms Iran attacked Jordanian US military base following Kharg Island strikes",
+        "summary": [
+            "سپاه پس از انفجارهای جزیره خرگ، حمله به پایگاه آمریکایی در اردن را اجرا کرد",
+            "این حمله نشان‌دهنده گسترش جنگ سایبری و استفاده از سلاح‌های دقیق توسط ایران است"
+        ],
+        "impact": "پایگاه آمریکایی در اردن تحت فشار، احتمال پاسخ نظامی آمریکا و تشدید تحریم‌ها",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/us-targets-iranian-oil-tankers-official-tells-post-as-iran-reports-explosions-near-kharg-island/ar-AA2bPFIw",
+        "clean_url": "https://www.msn.com/en-us/politics/government/us-targets-iranian-oil-tankers-official-tells-post-as-iran-reports-explosions-near-kharg-island/ar-AA2bPFIw",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788881552.0
     },
     {
         "id": "c627de2eb8",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.siasat.com/iran-warns-south-korea-against-involvement-in-strait-of-hormuz-3538054",
         "image": "https://cdn.siasat.com/wp-content/uploads/2026/09/strait-of-hormuz-bandar-abbas-iran.webp",
         "timestamp": 1788787680.0
-    },
-    {
-        "id": "030a9aec8d",
-        "title_fa": "ایران بازرسی های هسته‌ای آژانس بین المللی انرژی اتمی را در حالی که بن بست از یک سال فراتر رفته است، متوقف می‌کند",
-        "title_en": "Iran halts IAEA nuclear inspections as standoff surpasses one year",
-        "summary": [
-            "Iran has blocked IAEA nuclear inspections since mid-2025, leaving 440kg of 60%-enriched uranium unverified as the standoff enters its second"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-halts-iaea-nuclear-inspections-standoff/",
-        "clean_url": "https://cryptobriefing.com/iran-halts-iaea-nuclear-inspections-standoff",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07092748/library-iran-halts-iaea-nuclear-inspections-as-standoff-surpasse-800x450.png",
-        "timestamp": 1788787620.0
-    },
-    {
-        "id": "b7bc9060cc",
-        "title_fa": "شکست آتش‌بس یمن؛ حمله هوایی هوثی‌ها به عربستان",
-        "title_en": "Yemen truce unravels as Houthis attack Saudi Arabia and ground fighting intensifies",
-        "summary": [
-            "پس از چهار سال آتش‌بس، جنگ در یمن دوباره شعله‌ور شد و درگیری‌های زمینی گسترش یافت.",
-            "هوثی‌ها موشک و پهپاد به تأسیسات نفتی جنوب عربستان پرتاب کردند؛ ۷۳ نفر مجروح و چند مرکز انرژی بسته شد.",
-            "عربستان در عرض ساعت با حملات هوایی در ماریب، تایز و الوظیعه واکنش نشان داد و تنش‌ها تشدید شد."
-        ],
-        "impact": "توقف تولید نفت در عربستان و تشدید تنش‌های امنیتی خاورمیانه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "ynetnews",
-        "url": "https://www.ynetnews.com/article/hjehddaogg",
-        "clean_url": "https://www.ynetnews.com/article/hjehddaogg",
-        "image": "https://www.bing.com/th?id=ONUT.2Y581Asvjfx5QCZYDt0AqQ",
-        "timestamp": 1788787570.0
     }
 ]
