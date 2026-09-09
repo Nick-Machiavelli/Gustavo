@@ -147,6 +147,25 @@
         "timestamp": 1788957001.3286808
     },
     {
+        "id": "9d8f971ed1",
+        "title_fa": "ایران آماده تشدید جنگ با آمریکا",
+        "title_en": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+        "summary": [
+            "تحریم‌های شدید اقتصادی، فشار داخلی را به سمت گزینه نظامی می‌کشاند.",
+            "سخنان مقامات نظامی ایران نشان از برنامه‌ریزی برای گسترش عملیات در خلیج فارس دارد.",
+            "آمریکا با افزایش حضور ناوگان و تهدیدات هوایی به واکنش سریع آماده است."
+        ],
+        "impact": "افزایش تنش‌های نظامی می‌تواند قیمت نفت را به‌سرعت بالا برده و ناوبری در خلیج فارس را مختل کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdW1lN2hjSFlvN24zcWNhcTlQNGUyb3pkQ3JwZTdIeGU3eTB1bGJaSncyM293ZWRGM0F4QlFoN01FeHFOUjZ6d1k1cHJ6ZGVPdlB5WDY5YTBPV1hYUWRMRVNXNi1aNjlaaG9EVG5NbTlEMS0wbER6X3ZaSWlUNGFtYTd5NWhZR2VwNjZBUTloOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdW1lN2hjSFlvN24zcWNhcTlQNGUyb3pkQ3JwZTdIeGU3eTB1bGJaSncyM293ZWRGM0F4QlFoN01FeHFOUjZ6d1k1cHJ6ZGVPdlB5WDY5YTBPV1hYUWRMRVNXNi1aNjlaaG9EVG5NbTlEMS0wbER6X3ZaSWlUNGFtYTd5NWhZR2VwNjZBUTloOA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788955486.0
+    },
+    {
         "id": "d9d8b19b72",
         "title_fa": "رسانه‌ها به شکست ذهنی ترامپ چشم‌پوشی می‌کنند",
         "title_en": "Reporters 'know Trump's brain is broken' — and do nothing: Insider | Opinion",
@@ -5418,23 +5437,5 @@
         "clean_url": "https://www.timesofisrael.com/houthis-say-7-killed-in-saudi-strike-on-yemen-prison-as-bab-al-mandab-battle-intensifies",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260906__C7GR9ZT__v4__HighRes__YemenConflictIdp.jpg",
         "timestamp": 1788824700.0
-    },
-    {
-        "id": "afcbc5a545",
-        "title_fa": "هاکابی: ترامپ ایران را بمباران و ورشکست می‌کند",
-        "title_en": "Mike Huckabee says Trump bombing, bankrupting Iran to protect US",
-        "summary": [
-            "هاکابی می‌گوید ترامپ حملات هوایی به ایران انجام داده و اقتصادش را به‌تدریج تخریب می‌کند.",
-            "او تأکید می‌کند تهدید اصلی ایران علیه آمریکا است و مردم باید از خستگی سیاسی بیدار شوند."
-        ],
-        "impact": "افزایش فشار نظامی و اقتصادی بر ایران، احتمال تشدید تحریم‌ها و تنش‌های منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.3,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/08/world-news/mike-huckabee-says-trump-bombing-bankrupting-iran-to-protect-us/",
-        "clean_url": "https://nypost.com/2026/09/08/world-news/mike-huckabee-says-trump-bombing-bankrupting-iran-to-protect-us",
-        "image": "https://www.bing.com/th?id=ONUT.tKUfUvmC-Vezr1oZ6kGqUg",
-        "timestamp": 1788824369.0
     }
 ]
