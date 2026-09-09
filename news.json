@@ -1,5 +1,25 @@
 [
     {
+        "id": "92c71cda7b",
+        "title_fa": "امارات مالی آمریکا بخش رمزارز ایران را هدف گرفت",
+        "title_en": "US Treasury's Office Targeting Iran's Sanctions Evasion Through Bitcoin and USDT",
+        "summary": [
+            "OFAC رسماً بخش رمزارزهای ایران را تحت تحریم قرار داد و تمام فعالیت‌های مرتبط را قابل توقیف اعلام کرد",
+            "تحلیل‌گران زنجیره‌بلوک می‌گویند بازار رمزارز ایران سال گذشته حدود ۷٫۸ میلیارد دلار بوده و کیف‌پول‌های سپاه بیش از نیمی از تراکنش‌های سه‌ماهه آخر را تشکیل می‌دادند",
+            "بانک مرکزی ایران حداقل ۵۰۷ میلیون دلار USDT خریداری کرد؛ این خرید از صرافی بزرگ داخلی نوبیتکس عبور کرد و پس از هک میانی سال ۲۰۲۵ به پل‌عبورهای چندزنجیره‌ای منتقل شد",
+            "این ساختار به‌عنوان ذخیره‌گاه مقاوم به تحریم‌ها در خارج از سامانهٔ دلاری طراحی شده و فشار بر ریال را کاهش می‌دهد"
+        ],
+        "impact": "ایران با رمزارزها به دور تحریم‌های مالی می‌چرخد؛ آمریکا با اعمال تحریم‌های جدید سعی در قطع این مسیر دارد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "BeInCrypto · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/us-treasurys-office-targeting-irans-060445743.html",
+        "clean_url": "https://finance.yahoo.com/markets/crypto/articles/us-treasurys-office-targeting-irans-060445743.html",
+        "image": "https://media.zenfs.com/en/beincrypto_us_662/a2284625ca65963467775718fd425a25.jpg",
+        "timestamp": 1788933912.0
+    },
+    {
         "id": "f0159cffc6",
         "title_fa": "لبنان؛ میدانی برای رقابت ایران و اسرائیل",
         "title_en": "Contested Lebanon: Israel, Iran, and US Strategy in a Fractured State",
@@ -5393,22 +5413,5 @@
         "clean_url": "https://en.royanews.tv/news/73466/IRGC-says-it-captured-unmanned-US-submarine-in-Hormuz",
         "image": "https://www.bing.com/th?id=ONUT.BwR_D3taFMOqPIEIR4pX3w",
         "timestamp": 1788798418.0
-    },
-    {
-        "id": "a287acab0b",
-        "title_fa": "جارد کوشنر در حالی که مذاکرات صلح اوکراین بدون موفقیت به پایان رسید، از چالش NBC عقب نشینی کرد",
-        "title_en": "Jared Kushner pushes back at NBC challenge as Ukraine peace talks end without breakthrough",
-        "summary": [
-            "NBC’s Richard Engel pressed Jared Kushner on why previous diplomatic efforts should inspire confidence in a renewed Ukraine..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Arkansas Public Advocate on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/jared-kushner-pushes-back-at-nbc-challenge-as-ukraine-peace-talks-end-without-breakthrough/ar-AA2bOPUK?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/jared-kushner-pushes-back-at-nbc-challenge-as-ukraine-peace-talks-end-without-breakthrough/ar-AA2bOPUK",
-        "image": "https://www.bing.com/th?id=ONUT.1k6w_ZyrhqdWjUp7sB_Rkg",
-        "timestamp": 1788797029.0
     }
 ]
