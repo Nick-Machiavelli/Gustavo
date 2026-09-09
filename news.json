@@ -390,6 +390,24 @@
         "timestamp": 1788912295.8010952
     },
     {
+        "id": "aaf453ec15",
+        "title_fa": "کره شمالی تسهیل‌گاه غنی‌سازی اورانیوم یونگبیون را گسترش داد",
+        "title_en": "North Korea Builds New Yongbyon Uranium Enrichment Facility, IAEA Says",
+        "summary": [
+            "آی‌اِی‌اِی با استفاده از تصاویر ماهواره‌ای تأیید کرد که کره شمالی یک تسهیل‌گاه غنی‌سازی جدید با ظرفیت ۲۸ زنجیره گازسنتریفیوژ ساخته است",
+            "این گسترش نشان می‌دهد برنامه هسته‌ای پکن‌دوست ادامه دارد و تحت فشار تحریم‌ها متوقف نشده"
+        ],
+        "impact": "افزایش ریسک تهدید هسته‌ای برای منطقه و فشار بر مذاکرات غیرمسلح‌سازی",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/world/5316278-north-korea-builds-new-yongbyon-uranium-enrichment-facility-iaea-says",
+        "clean_url": "https://english.aawsat.com/world/5316278-north-korea-builds-new-yongbyon-uranium-enrichment-facility-iaea-says",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1764785.jpeg.webp?VersionId=669aPyP9dxIzyMbvzkbgwz_lSkn25Lri",
+        "timestamp": 1788912060.0
+    },
+    {
         "id": "fbb207302a",
         "title_fa": "تحریم‌های آمریکا بر بخش هوانوردی ایران",
         "title_en": "US increases pressure on Iran with sanctions targeting aviation sector",
@@ -424,6 +442,24 @@
         "clean_url": "https://www.msn.com/en-us/money/general/editorial-roundup-united-states/ar-AA2bPOyC",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788911246.1929133
+    },
+    {
+        "id": "3b3e634fee",
+        "title_fa": "ایران به آمریکا فشار اقتصادی را متوقف کند",
+        "title_en": "Iran warns the U.S. to stop economic pressure",
+        "summary": [
+            "تهدید جدید ایران مبنی بر توقف فشارهای اقتصادی آمریکا، به‌ویژه در تنگه هرمز، نشان از عدم تمایل به عقب‌نشینی دارد",
+            "اگر تنش‌ها ادامه یابد، خطر بروز برخوردهای نظامی در مسیر‌های تجاری بحرانی افزایش می‌یابد"
+        ],
+        "impact": "تشدید تنش در تنگه هرمز و خطر گسترش تحریم‌ها بر تجارت بین‌المللی",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/videos/iran-warns-u-stop-economic-223731312.html",
+        "clean_url": "https://www.yahoo.com/news/videos/iran-warns-u-stop-economic-223731312.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/20ea3299bd4c7fdef9899e1ec8b230bd66a7322ccce5950cb9a6d0e01a348998/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fktbc_fox_local_videos_395%2F57d562f833d7f4af29e7a671f65a2df0.jpg",
+        "timestamp": 1788907080.0
     },
     {
         "id": "a30799ee25",
@@ -5377,41 +5413,5 @@
         "clean_url": "https://www.theguardian.com/us-news",
         "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
         "timestamp": 1788799260.0
-    },
-    {
-        "id": "87dac432cc",
-        "title_fa": "خبر بین‌المللی — ایران Guards claim capture ‘one smartest’ US submarines در",
-        "title_en": "Iran Guards claim capture of ‘one of smartest’ US submarines in Strait of Hormuz",
-        "summary": [
-            "Iran on Tuesday captured an unmanned US submarine in the strategic Strait of Hormuz, which Tehran has blockaded during the..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/iran-guards-claim-capture-of-one-of-smartest-us-submarines-in-strait-of-hormuz-101788879994387.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/iran-guards-claim-capture-of-one-of-smartest-us-submarines-in-strait-of-hormuz-101788879994387.html",
-        "image": "https://www.bing.com/th?id=ONUT.31fGvDzjRcXhUowpzMpeUw",
-        "timestamp": 1788799198.0
-    },
-    {
-        "id": "ac8bd86c31",
-        "title_fa": "سپاه پاسداران زیرساخت زیرآبی آمریکا را در هرمز گرفت",
-        "title_en": "IRGC says it captured unmanned US submarine in Hormuz",
-        "summary": [
-            "ادعای ضبط یک زیرکشتی بدون سرنشین آمریکایی، نشانگر افزایش ادبیات جنگ روانی است",
-            "امکان فنی چنین عملیات در آب‌های شلوغ هرمز کم است؛ احتمال انتشار خبر برای تقویت تصویر قدرت است",
-            "اگر واقعاً موفق شوند، توانمندی‌های زیرسطحی ایران در مقابله با ناوشکن‌های غربی را نشان می‌دهد"
-        ],
-        "impact": "تحریک تنش‌های دریایی و احتمال افزایش تحریم‌های هدفمند علیه ناوگان ایرانی",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Roya News English",
-        "url": "https://en.royanews.tv/news/73466/IRGC-says-it-captured-unmanned-US-submarine-in-Hormuz",
-        "clean_url": "https://en.royanews.tv/news/73466/IRGC-says-it-captured-unmanned-US-submarine-in-Hormuz",
-        "image": "https://www.bing.com/th?id=ONUT.BwR_D3taFMOqPIEIR4pX3w",
-        "timestamp": 1788798418.0
     }
 ]
