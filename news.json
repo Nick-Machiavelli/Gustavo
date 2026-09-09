@@ -1,5 +1,23 @@
 [
     {
+        "id": "320a904f5e",
+        "title_fa": "جیمی کیمل به تابستان «بی‌نتیجه» ترامپ اشاره کرد",
+        "title_en": "Jimmy Kimmel Compares His Summer Break to Trump’s: ‘We Both Accomplished Nothing’",
+        "summary": [
+            "کیمل در برنامهٔ خود گفت تابستان او و ترامپ «هیچ‌چیز به‌دست نیاورد»",
+            "او به بحران‌های اقتصادی و جنگ با ایران اشاره کرد و نشان داد رسانه‌ها به‌سختی می‌توانند جدیت این مسائل را منتقل کنند"
+        ],
+        "impact": "توجه عمومی به مسائل ژئوپلیتیک کاهش می‌یابد و تمرکز بر شوخی‌های تلویزیونی افزایش می‌یابد",
+        "tag": "فرهنگ",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/jimmy-kimmel-compares-summer-break-071931590.html",
+        "clean_url": "https://www.yahoo.com/entertainment/tv/articles/jimmy-kimmel-compares-summer-break-071931590.html",
+        "image": "https://www.bing.com/th?id=ONUT.o2OL3U6HBu6qvYPv8u8ROw",
+        "timestamp": 1788940261.2197094
+    },
+    {
         "id": "267617ebde",
         "title_fa": "ایران به «قهرمان اقتصادی» خود برای خروج از بحران روی می‌آورد",
         "title_en": "Islamic Republic turns to its economic ‘Superman’ as crisis deepens",
@@ -1199,6 +1217,25 @@
         "clean_url": "https://www.economist.com/international/2026/09/08/world-leaders-are-losing-their-terror-of-nuclear-war",
         "image": "https://www.bing.com/th?id=ONUT.Nve689Sv7hVftsw_QYqldA",
         "timestamp": 1788890643.037314
+    },
+    {
+        "id": "d2cf55a2ef",
+        "title_fa": "تهدید ایران به هدف قرار دادن دارایی‌های انرژی آمریکا در خلیج",
+        "title_en": "Iran Threatens to Target U.S. Energy Assets in Gulf If U.S. Strikes Again",
+        "summary": [
+            "گالِباف هشدار داد هر حملهٔ جدید آمریکا به زیرساخت‌های ایرانی، منجر به هدف‌گیری تانکرهای نفتی آمریکایی می‌شود",
+            "رییس شورای امنیت ملی مهدی رضایی اعلام کرد در صورت ادامهٔ جنگ، خلیج فارس تحت «منطقه انحصاری» نظامی خواهد شد",
+            "این تهدید در زمان فشارهای اقتصادی واشنگتن و عدم پیشرفت مذاکرات صلحی مطرح شد"
+        ],
+        "impact": "ممکن است واشنگتن برای جلوگیری از گسترش درگیری، حضور نظامی خود در خلیج فارس را محدود کند",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/09/08/iran-us-war-strait-of-hormuz-gulf-targets/",
+        "clean_url": "https://time.com/article/2026/09/08/iran-us-war-strait-of-hormuz-gulf-targets",
+        "image": "http://www.bing.com/th?id=ONUT.V1al3UmPbEKQjD8sF5xXJg&pid=News",
+        "timestamp": 1788890400.0
     },
     {
         "id": "378b2576dd",
@@ -2805,6 +2842,25 @@
         "clean_url": "https://www.reuters.com/business/aerospace-defense/us-issues-fresh-iran-related-sanctions-treasury-website-shows-2026-09-08",
         "image": "http://www.bing.com/th?id=ONUT.mndlU7c4sECYCaxFSA90JA&pid=News",
         "timestamp": 1788853920.0
+    },
+    {
+        "id": "fcff6b1873",
+        "title_fa": "هوتی‌ها حمله به مراکز نفتی سعودی؛ هند محکوم می‌کند",
+        "title_en": "'Such attacks undermine regional security': India condemns Houthi strikes in Saudi Arabia that injured 73",
+        "summary": [
+            "هند پس از حملات هوتی‌ها به پالایشگاه‌ها و خطوط لولهٔ سعودی، این اقدام‌ها را تخریب امنیت منطقه‌ای نامید",
+            "هوتی‌ها به حمایت ایران متهم شدند اما تهران این اتهام را رد کرد",
+            "حادثه می‌تواند تنش‌های خلیج فارس را افزایشی کند"
+        ],
+        "impact": "تشدید تنش‌های خلیج فارس و خطر اختلال در جریان تجارت نفتی",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Times of India on MSN",
+        "url": "https://www.msn.com/en-in/news/other/such-attacks-undermine-regional-security-india-condemns-houthi-strikes-in-saudi-arabia-that-injured-73/ar-AA2bQIk6?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/such-attacks-undermine-regional-security-india-condemns-houthi-strikes-in-saudi-arabia-that-injured-73/ar-AA2bQIk6",
+        "image": "https://www.bing.com/th?id=ONUT.bZgMOjfxLD2f8GdyJi9Wzg",
+        "timestamp": 1788853855.0
     },
     {
         "id": "59011c90f0",
@@ -5356,61 +5412,5 @@
         "clean_url": "https://www.newarab.com/opinion/palestinian-women-gloria-steinems-feminism-anything",
         "image": "https://www.bing.com/th?id=ONUT.WufXIKlh-FD8TebkPZuNJg",
         "timestamp": 1788806394.6339457
-    },
-    {
-        "id": "efe275959c",
-        "title_fa": "امنیت انرژی پاکستان و آسیا: درس هایی از درگیری آمریکا و ایران",
-        "title_en": "Pakistan and Asia’s energy security: lessons from US-Iran conflict",
-        "summary": [
-            "A prolonged disruption can raise energy and transport costs, increase pressure on the import bill and make it harder for..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Business Recorder",
-        "url": "https://www.brecorder.com/news/40438335/pakistan-and-asias-energy-security-lessons-from-us-iran-conflict",
-        "clean_url": "https://www.brecorder.com/news/40438335/pakistan-and-asias-energy-security-lessons-from-us-iran-conflict",
-        "image": "https://www.bing.com/th?id=ONUT.3Lyeks6EvBBs1EeF9_q-9Q",
-        "timestamp": 1788806394.6328669
-    },
-    {
-        "id": "52bfc5c0d7",
-        "title_fa": "نفت ۹۹ دلاری پس از حملهٔ ایران به ناوهای آمریکا",
-        "title_en": "Oil rises to $99 on report Iran launched second undisclosed attack on U.S. Navy ships",
-        "summary": [
-            "ایران دو موج حملهٔ موشکی به ناوهای ایالات متحده را اعلام کرد؛ هیچ کشتی آمریکایی صدمه‌ای ندید.",
-            "قیمت برنت ۲٪ و ویست‌تکساس ۲٫۸٪ افزایش یافت و به بالای ۹۹ دلار رسید.",
-            "حمله‌های متقابل ایران و آمریکا در سپتامبر باعث رشد ۸٪ قیمت نفت در ماه شد."
-        ],
-        "impact": "قیمت نفت به سرعت بالا می‌رود و فشار اقتصادی بر کشورهای وابسته به انرژی را تشدید می‌کند.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
-        "clean_url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108347816-17864517852026-08-10t180930z_271137445_rc2uvmacsean_rtrmadp_0_global-markets.jpeg?v=1786451816&w=1920&h=1080",
-        "timestamp": 1788805920.0
-    },
-    {
-        "id": "15d48198d0",
-        "title_fa": "حمله موشکی ایران به ناو آمریکایی و واکنش آمریکا",
-        "title_en": "A New Tanker War",
-        "summary": [
-            "ایران موشک‌های ضد ناو به یک ناو هواپیمابر ایالات متحده شلیک کرد.",
-            "واکنش آمریکا تخریب یک تانکر ایرانی در خلیج فارس بود.",
-            "سخنگوی مجلس، محمدباقر قلی‌اف، وعده پاسخ سریع‌تر، سنگین‌تر و دردناک‌تر داد.",
-            "ایران منطقه محدود شده‌ای اطراف هرمز اعلام کرد و تحریم‌ها آزمون‌های زبان انگلیسی دانشجویان را تحت فشار قرار داد."
-        ],
-        "impact": "افزایش خطر تصادم نظامی در هرمز و فشار بر ناوهای آمریکایی در خلیج فارس",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Alhurra",
-        "url": "https://alhurra.com/en/38095",
-        "clean_url": "https://alhurra.com/en/38095",
-        "image": "https://i0.wp.com/alhurra.com/wp-content/uploads/2026/09/image-2026-09-07T142008.633.jpg?fit=1200%2C675&ssl=1",
-        "timestamp": 1788805860.0
     }
 ]
