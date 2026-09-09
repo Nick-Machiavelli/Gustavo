@@ -1,5 +1,24 @@
 [
     {
+        "id": "82a8d19bb4",
+        "title_fa": "بررسی دسترسی اطلاعات بریتانیا در اورشلیم",
+        "title_en": "Playing politics with security: Jerusalem must review British intel privileges amidst sanctions",
+        "summary": [
+            "تحریم‌های جدید فشار بر اشتراک اطلاعات بین بریتانیا و اسرائیل را افزایش می‌دهد",
+            "دولت اسرائیل خواستار بازنگری در مجوزهای اطلاعاتی بریتانیایی شد",
+            "کاهش همکاری‌های مخابراتی می‌تواند توان عملیاتی نیروهای امنیتی را تضعیف کند"
+        ],
+        "impact": "کاهش دسترسی به اطلاعات حساس می‌تواند عملیات‌های مشترک را با تاخیر مواجه سازد",
+        "tag": "اطلاعات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-gb/politics/government/playing-politics-with-security-jerusalem-must-review-british-intel-privileges-amidst-sanctions/ar-AA2bQIS6?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/politics/government/playing-politics-with-security-jerusalem-must-review-british-intel-privileges-amidst-sanctions/ar-AA2bQIS6",
+        "image": "https://www.bing.com/th?id=ONUT.Fefit91_TbB_OipimiJ5sA",
+        "timestamp": 1788924263.2101827
+    },
+    {
         "id": "ca13af2450",
         "title_fa": "ایران و اوکراین آخرین درگیری‌های جنگ سرد هستند و پایان آنها می‌تواند آینده‌ای باز را برای جهان رقم بزند",
         "title_en": "Iran and Ukraine are the last conflicts of the Cold War — and their end could spur an open future for the world",
@@ -2274,6 +2293,25 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/donald-trump-green-lantern-why-080013873.html",
         "image": "https://s.yimg.com/lo/mysterio/api/5d64d85f71061b57efda2f60cab61a01176c833e3efce7e1e47ea957dff3b88f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fba72602e078bfc975f95d613e15433fb.jpg",
         "timestamp": 1788857544.2508392
+    },
+    {
+        "id": "0bb2e4e027",
+        "title_fa": "نظامی‌ها فلسطینی مطلوب را کشته‌اند",
+        "title_en": "IDF says troops killed wanted Palestinian who attacked them during attempt to question him",
+        "summary": [
+            "یک فلسطینی مطلوب در مواجهه با نیروهای زمینی کشته شد",
+            "حمله او به نیروها پیش از بازجویی رخ داد",
+            "حادثه می‌تواند تنش‌های امنیتی در نوار را تشدید کند"
+        ],
+        "impact": "افزایش هشدارهای امنیتی در مناطق مرزی و احتمال عملیات‌های بازدارنده",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/idf-says-troops-killed-wanted-palestinian-who-attacked-them-during-attempt-to-question-him/ar-AA2bMDBI",
+        "clean_url": "https://www.msn.com/en-us/news/other/idf-says-troops-killed-wanted-palestinian-who-attacked-them-during-attempt-to-question-him/ar-AA2bMDBI",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260908__C7LY3XN__v3__HighRes__TopshotPalestinianIsraelConflictWestBank.jpg",
+        "timestamp": 1788856498.0
     },
     {
         "id": "d8bd239054",
@@ -5366,44 +5404,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0xvN2xocmd5Z1NfSmpyTVV4Qm1WWnRQN0pzM3pnbGhPNjZLd1FCYV9zVUQ1eThYRGpSSEhyYzd3TkowdXcwV3ZHWDBuM2tZLWxBVExFdEpMOS1yQkE3WXhXNXBXQ3dPWnBQTERYazVrX0pGM2NzWVc5SDBGQjk5RTZld3M5dkh5ZlRQamxyU09zZ0E2S3NSQS1rSFlRYmUzOGdyQ1dVUXhoM0ZSbEFRelJJMnEyclhQNkE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788793287.0
-    },
-    {
-        "id": "82e3ca7348",
-        "title_fa": "حملات هوایی اسرائیل در لبنان؛ ۱۲ کشته",
-        "title_en": "Israeli airstrikes on Lebanese village kill 12, plus other key Mideast developments",
-        "summary": [
-            "اسرائیل صبح دوشنبه به روستای کفر رمان در جنوب لبنان حمله هوایی کرد و دست‌کم ۱۲ کشته، از جمله دو کودک، ثبت شد",
-            "وزارت بهداشت لبنان اعلام کرد که کشته‌ها شامل یک امدادگر، چهار زن و دو کودک هستند",
-            "اسرائیل ادعا کرد هدفش افراد مسلح حزب‌الله بود؛ اما تلفات غیرنظامی به‌وضوح دیده می‌شود",
-            "در همین حین حوثی‌ها ادعا کردند یک هواپیمای شناسایی عربستان را سرنگون کرده‌اند؛ تنش‌های منطقه‌ای چندجانبه تشدید شد"
-        ],
-        "impact": "افزایش فشار بین‌المللی بر اسرائیل؛ تداوم ناآرامی در جنوب لبنان و خطر گسترش درگیری",
-        "tag": "حمله",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Newsday",
-        "url": "https://www.newsday.com/news/nation/mideast-iran-us-hormuz-lebanon-israel-d12007",
-        "clean_url": "https://www.newsday.com/news/nation/mideast-iran-us-hormuz-lebanon-israel-d12007",
-        "image": "https://cdn.newsday.com/ace/c:ZjA4YmJmODgtYmE2Zi00:OGY4YzMzY2UtZDA3YS00/landscape/1280",
-        "timestamp": 1788792300.0
-    },
-    {
-        "id": "d5ec9cc9b5",
-        "title_fa": "کمانده بسج در راسک کشته شد",
-        "title_en": "IRGC-affiliated Basij commander killed in attack in Iran",
-        "summary": [
-            "یک فرماندهٔ بسیج در راسک، استان سیستان و بلوچستان، توسط افراد مسلح کشته شد.",
-            "هویت قاتلان هنوز مشخص نیست؛ نیروهای امنیتی در پی شناسایی آن‌ها هستند.",
-            "منطقه مرزی با گروه‌های مسلحی چون جیش‌العدل همواره تحت فشار است."
-        ],
-        "impact": "تشدید عملیات امنیتی در مرزهای شرقی و احتمال تلفات بیشتر",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "Roya News English",
-        "url": "https://en.royanews.tv/news/73461/IRGC-affiliated-Basij-commander-killed-in-attack-in-Iran",
-        "clean_url": "https://en.royanews.tv/news/73461/IRGC-affiliated-Basij-commander-killed-in-attack-in-Iran",
-        "image": "https://www.bing.com/th?id=ONUT.sErjD10I29rvtYdij4TF6A",
-        "timestamp": 1788792243.0
     }
 ]
