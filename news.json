@@ -1,5 +1,24 @@
 [
     {
+        "id": "420e805b4d",
+        "title_fa": "آموزش توپخانه M119 توسط نیروهای هوایی آمریکا در غرب آسیا",
+        "title_en": "Technology versus troops",
+        "summary": [
+            "پاراتروپ‌های ارتش آمریکا در تمرین زنده‌سوزی، M119 howitzer را در منطقه غرب آسیا مستقر کردند.",
+            "تمرین نشان‌دهنده تقویت توان نظامی ترکیبی فناوری و نیروهای زمینی در مقابل تهدیدات منطقه‌ای است.",
+            "حضور این سلاح‌های سبک می‌تواند به سرعت به نقاط بحرانی مانند خلیج فارس منتقل شود."
+        ],
+        "impact": "تقویت قابلیت‌های شلیک سریع آمریکا در خاورمیانه، فشار بر نیروهای مخالف.",
+        "tag": "نظامی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/blueprint-defence-magazine/insights/technology-versus-troops-126090700921_1.html",
+        "clean_url": "https://www.business-standard.com/blueprint-defence-magazine/insights/technology-versus-troops-126090700921_1.html",
+        "image": "https://www.bing.com/th?id=ONUT.XJsEPxPgNjcjtyO3Q5oGwQ",
+        "timestamp": 1789004111.479971
+    },
+    {
         "id": "31a918e9b2",
         "title_fa": "ترامپ: دیپلماسی در خطر",
         "title_en": "The shrinking space for diplomacy",
@@ -380,6 +399,26 @@
         "timestamp": 1788983225.4962585
     },
     {
+        "id": "ea8a453124",
+        "title_fa": "قیمت نفت به‌خاطر تشدید درگیری آمریکا‑ایران به اوج رسید",
+        "title_en": "Crude Oil Prices Surge as No End in Sight to US-Iran Conflict",
+        "summary": [
+            "پس از نابودی پنج تانکر نفتی ایرانی توسط نیروی دریایی آمریکا، ایران به‌صورت متقابل ۱۰ کشتی در مجاورت هرمز را هدف قرار داد.",
+            "حملات موشکی بالستیک ایران به ناوهای آمریکایی نیز گزارش شد، نشانگر گسترش جنگ به حوزه دریایی.",
+            "نگرانی‌های بازار از قطع‌وتصمیم مسیرهای نفتی منجر به افزایش ۳٫۲۵٪ قیمت نفت خام شد.",
+            "این فشار قیمت‌ها می‌تواند تورم جهانی را تشدید کند."
+        ],
+        "impact": "افزایش قیمت نفت به‌سرعت، فشار بر هزینه‌های انرژی و تورم جهانی.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Barchart · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-surge-no-191904947.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-surge-no-191904947.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef.jpg",
+        "timestamp": 1788982497.0
+    },
+    {
         "id": "2ae9b24590",
         "title_fa": "ترامپ وعده پایان فوری جنگ ایران پس‌انتخابات",
         "title_en": "Trump promises politically convenient end-date for Iran war",
@@ -576,6 +615,23 @@
         "clean_url": "https://www.wsws.org/en/articles/2026/09/09/vrqa-s09.html",
         "image": "https://www.bing.com/th?id=ONUT.W4OkI-DQaV1RU8MEp-5QRw",
         "timestamp": 1788978428.0818982
+    },
+    {
+        "id": "01fc2909e0",
+        "title_fa": "ایران و آمریکا در بزرگترین موج حملات به کشتیرانی از زمان آغاز جنگ به نفتکش‌ها ضربه زدند تاریخ انتشار: 10 سپتامبر 2026 ساعت 5: 00 ق.ظ.",
+        "title_en": "Iran, US hit tankers in biggest wave of attacks on shipping since war beganPublished on: September 10, 2026 5:00 AM",
+        "summary": [
+            "Pakistan, Sept. 10 -- Iran said on Wednesday it had attacked 10 ships near the Strait of Hormuz after the US sank five Iranian oil tankers, in the biggest declared wave of tit-for-tat attacks on..."
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Daily Times on MSN",
+        "url": "https://www.msn.com/en-xl/asia/pakistan/iran-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-beganpublished-on-september-10-2026-500-am/ar-AA2bUrDC",
+        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/iran-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-beganpublished-on-september-10-2026-500-am/ar-AA2bUrDC",
+        "image": "http://www.bing.com/th?id=ONUT.2bK3uFw69iDSOwK9GEDVsQ&pid=News",
+        "timestamp": 1788978360.0
     },
     {
         "id": "5987d8b9cd",
@@ -1164,6 +1220,26 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/south-korea-us-nuclear-cooperation-stalls-needs-joint-push/ar-AA2bSQfl",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788966793.7570643
+    },
+    {
+        "id": "2eee1bbf91",
+        "title_fa": "ایران با تکیه بر حوثی‌ها و میلیشیاهای عراقی شبکه نیابتی را تقویت می‌کند",
+        "title_en": "From Iraq to Yemen: How Iran is rebuilding its proxy network",
+        "summary": [
+            "پس از تلفات شدید در حماس و حزب‌الله، ایران به حوثی‌های یمن و میلیشیاهای عراقی برای جبران قدرت می‌پردازد.",
+            "حوثی‌ها در هماهنگی با میلیشیاهای عراقی به حملات دو روزه به تأسیسات نفتی عربستان پرداخته‌اند.",
+            "این همکاری نشان‌دهنده یک مرکز عملیات مشترک است که توان حملات هوایی و موشکی را در خلیج فارس گسترش می‌دهد.",
+            "افزایش هماهنگی نیابتی می‌تواند فشار بر اقتصاد نفتی عربستان و ایالات متحده را بالا ببرد."
+        ],
+        "impact": "اختلال در تأمین نفت عربستان، نوسان شدید قیمت جهانی نفت.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Gulf News",
+        "url": "https://gulfnews.com/world/gulf/yemen/from-iraq-to-yemen-how-iran-is-rebuilding-its-proxy-network-1.500668872",
+        "clean_url": "https://gulfnews.com/world/gulf/yemen/from-iraq-to-yemen-how-iran-is-rebuilding-its-proxy-network-1.500668872",
+        "image": "https://media.assettype.com/gulfnews/2026-01-22/lcc042ao/newsml_afp_com_20260122T183438Z_doc_93pl6d4.jpeg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "timestamp": 1788966660.0
     },
     {
         "id": "cc419b28d4",
@@ -2727,6 +2803,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUgxSWZaOWhTSTVEbEFLYURrY3Rac2FMMll6dk1rTDZFbThMc24yY3FNWHlLcks1dXV6cl9mWEIxdUxGUmx6NlUyek1lWFFISXFpSUxEY2Ixbzg5b3J2ZVZtemN0eTd5bHgxRzNzOG5MMUltajZvSmU3UlNSb3VwMFR2TTlnTFhlNGplRzVld2hBODMyb2p1eFl3TTZ0ZWZOUTNHV0k3UzZVSTBmVWNwNzgtcDdraWc",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788918180.0
+    },
+    {
+        "id": "eb25da37ee",
+        "title_fa": "هشدار مشاوران ترامپ: جنگ با ایران تا 2029 ادامه می‌یابد",
+        "title_en": "Trump advisers warn Iran conflict could last through end of his term: Report",
+        "summary": [
+            "مشاوران کلیدی ترامپ (وایدن، روبیوی) به‌صورت خصوصی اعلام کردند که مقاومت ایران ممکن است جنگ را تا پایان دوره ریاست‌جمهوری (ژانویه 2029) طولانی کند.",
+            "این پیش‌بینی با ادعای عمومی ترامپ مبنی بر پایان سریع پس از میانه‌دوره انتخابات در تضاد است.",
+            "ادامه جنگ می‌تواند فشار اقتصادی و نظامی آمریکا را در خاورمیانه به‌طور مداوم افزایش دهد."
+        ],
+        "impact": "تمدید جنگ باعث خستگی مالی و نظامی آمریکا و افزایش تنش‌های خاورمیانه می‌شود.",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/trump-aides-warn-iran-war-could-stretch-through-end-of-his-term-report-2991259-2026-09-10",
+        "clean_url": "https://www.indiatoday.in/world/story/trump-aides-warn-iran-war-could-stretch-through-end-of-his-term-report-2991259-2026-09-10",
+        "image": "https://www.bing.com/th?id=ONUT.7pnk6449v5CTtMMSC3v6CA",
+        "timestamp": 1788917696.0
     },
     {
         "id": "25ae7248e2",
@@ -5330,95 +5425,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/trump-made-a-historic-oil-deal-with-venezuela-then-the-cost-of-living-equation-started-to-change-my-take/vi-AA2bNwot",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788872665.6782396
-    },
-    {
-        "id": "67319cff97",
-        "title_fa": "حملهٔ دوم ایران به ناوهای آمریکایی",
-        "title_en": "Iran launched undisclosed second wave of attacks on US Navy ships",
-        "summary": [
-            "ایران در عرض سه روز دو حمله موشکی به ناوهای ای‌ام‌سی انجام داد",
-            "هدف‌ها به‌دقت نشدند اما نشان‌دهنده پیشرفت سامانه‌های بالستیک تهران است",
-            "نیروی دریایی آمریکا هشدار داد که این تهدیدات می‌تواند عملیات بحرانی را به خطر بیندازد"
-        ],
-        "impact": "افزایش تنش‌های نظامی خلیج فارس و احتمال بروز برخورد مستقیم",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-launched-undisclosed-second-wave-of-attacks-on-us-navy-ships/ar-AA2bPypd",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-launched-undisclosed-second-wave-of-attacks-on-us-navy-ships/ar-AA2bPypd",
-        "image": "http://www.bing.com/th?id=ONUT.vdkkN3zUqTJlB5eQ-lmiDA&pid=News",
-        "timestamp": 1788871800.0
-    },
-    {
-        "id": "20e153d380",
-        "title_fa": "پیمان دفاعی مکه؛ هند باید هوشیار باشد",
-        "title_en": "India and the strange new geometry of power in West Asia",
-        "summary": [
-            "پیمان دفاعی میان عربستان، پاکستان و ترکیه به‌صورت دائمی در ریاض شکل گرفت",
-            "هدف اتحاد تقویت بازدارندگی جمعی و همکاری صنعتی نظامی است",
-            "این ساختار می‌تواند تعادل قدرت در غرب آسیا را برای هند تغییر دهد",
-            "نامزد پاکستانی به‌عنوان دبیرکل نشان‌دهنده نقش کلیدی پاکستان در رهبری است"
-        ],
-        "impact": "هند ممکن است استراتژی‌های نظامی‑اقتصادی خود را در غرب آسیا بازنگری کند",
-        "tag": "دفاع",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/india-and-the-strange-new-geometry-of-power-in-west-asia-14044154.html",
-        "clean_url": "https://www.firstpost.com/opinion/india-and-the-strange-new-geometry-of-power-in-west-asia-14044154.html",
-        "image": "https://www.bing.com/th?id=ONUT.qBsMkUA43MqEN0WbGXyF6g",
-        "timestamp": 1788871649.6550155
-    },
-    {
-        "id": "702ec888da",
-        "title_fa": "خروج از اوپک به ونزوئلا نفت خود را پس نمی‌دهد",
-        "title_en": "Leaving OPEC won’t give Venezuela its oil back",
-        "summary": [
-            "Venezuela is not just another member of OPEC. It is one of the group's five founders, present when the organization was conceived in Baghdad in 1960 as a counterweight to the \"Seven Sisters,\" the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/leaving-opec-won-t-venezuela-113049144.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/leaving-opec-won-t-venezuela-113049144.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/93242f6946c62122e52f8a97a09e93095756c1a32854feb445b3194c9d8fc8da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Ff80a40ed0672cdd7be8566ab633b3dfd.jpg",
-        "timestamp": 1788870619.912474
-    },
-    {
-        "id": "aaee59bdca",
-        "title_fa": "نظر | هند با چالش بریکس مواجه است. آیا می‌تواند راهی پیدا کند؟",
-        "title_en": "Opinion | India faces a BRICS challenge. Can it find a way through?",
-        "summary": [
-            "The Delhi Summit is being held at a particularly challenging time. Such circumstances have not been encountered since the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NDTV on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/opinion-india-faces-a-brics-challenge-can-it-find-a-way-through/ar-AA2bNQaH?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/opinion-india-faces-a-brics-challenge-can-it-find-a-way-through/ar-AA2bNQaH",
-        "image": "https://www.bing.com/th?id=ONUT.BYhXaK1dPM27SP4XgRqDqw",
-        "timestamp": 1788870619.9122033
-    },
-    {
-        "id": "6cb6fc7efd",
-        "title_fa": "تیک تاک بمب ساعتی: دلیل واقعی اینکه همه چیز در شرف هزینه بیشتر است",
-        "title_en": "Ticking time bomb: The real reason everything is about to cost more",
-        "summary": [
-            "We speak to Richard Wolff, a prominent Marxist economist, about the economic fallout from the war on Iran, which recently..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/ticking-time-bomb-the-real-reason-everything-is-about-to-cost-more/ar-AA2bNIEd?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/ticking-time-bomb-the-real-reason-everything-is-about-to-cost-more/ar-AA2bNIEd",
-        "image": "https://www.bing.com/th?id=ONUT.lGxZqUMpMFSch0WEUSyDQQ",
-        "timestamp": 1788870619.9106631
     }
 ]
