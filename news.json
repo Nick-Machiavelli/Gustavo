@@ -1,5 +1,24 @@
 [
     {
+        "id": "4fc4f55292",
+        "title_fa": "دروپ مانع عملیات آتش‌نشانی در بیگ‌سور",
+        "title_en": "Heat advisory and drone disrupt firefighting efforts near Big Sur",
+        "summary": [
+            "استفاده غیرمجاز از دروپ باعث قطع پشتیبانی هوایی آتش‌سوزی شد",
+            "آتش‌نشانان هشدار دادند دروپ‌کاران باید از منطقه دور بمانند تا خطر گسترش حریق افزایش نیابد",
+            "این حادثه نشان می‌دهد نیاز به قوانین سخت‌گیرانه‌تر برای پرواز در مناطق اضطراری است"
+        ],
+        "impact": "اختلال در عملیات خاموش‌سازی زمان کنترل حریق را طولانی می‌کند و خسارت را افزایش می‌دهد",
+        "tag": "دروپ",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "KSBW Channel 8 on MSN",
+        "url": "https://www.msn.com/en-us/public-safety-and-emergencies/fire-and-rescue/heat-advisory-and-drone-disrupt-firefighting-efforts-near-big-sur/ar-AA2bXPRZ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/public-safety-and-emergencies/fire-and-rescue/heat-advisory-and-drone-disrupt-firefighting-efforts-near-big-sur/ar-AA2bXPRZ",
+        "image": "https://www.bing.com/th?id=ONUT.eiM2LhEzxzb9aVgZhM95Dw",
+        "timestamp": 1789061691.6688051
+    },
+    {
         "id": "2d47b679ce",
         "title_fa": "مهم ترین انتخابات تاریخ اسرائیل؟ فقط پرسیدن",
         "title_en": "'The most crucial election in Israel's history'? Just asking",
@@ -5371,23 +5390,5 @@
         "clean_url": "https://www.thestreet.com/crypto/politics/iran-makes-a-major-crypto-move-as-u-s-pressure-hits-its-economy",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788941640.0
-    },
-    {
-        "id": "320a904f5e",
-        "title_fa": "جیمی کیمل به تابستان «بی‌نتیجه» ترامپ اشاره کرد",
-        "title_en": "Jimmy Kimmel Compares His Summer Break to Trump’s: ‘We Both Accomplished Nothing’",
-        "summary": [
-            "کیمل در برنامهٔ خود گفت تابستان او و ترامپ «هیچ‌چیز به‌دست نیاورد»",
-            "او به بحران‌های اقتصادی و جنگ با ایران اشاره کرد و نشان داد رسانه‌ها به‌سختی می‌توانند جدیت این مسائل را منتقل کنند"
-        ],
-        "impact": "توجه عمومی به مسائل ژئوپلیتیک کاهش می‌یابد و تمرکز بر شوخی‌های تلویزیونی افزایش می‌یابد",
-        "tag": "فرهنگ",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/jimmy-kimmel-compares-summer-break-071931590.html",
-        "clean_url": "https://www.yahoo.com/entertainment/tv/articles/jimmy-kimmel-compares-summer-break-071931590.html",
-        "image": "https://www.bing.com/th?id=ONUT.o2OL3U6HBu6qvYPv8u8ROw",
-        "timestamp": 1788940261.2197094
     }
 ]
