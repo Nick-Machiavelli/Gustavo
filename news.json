@@ -1,5 +1,41 @@
 [
     {
+        "id": "f76683fdb6",
+        "title_fa": "انفجار بارج در استیتن آیلند جان یک نفر را گرفت",
+        "title_en": "1 dead when barge explodes on Staten Island",
+        "summary": [
+            "انفجار ناگهانی در بارجی در استیتن آیلند منجر به کشته شدن یک نفر شد؛ مقامات هنوز علت دقیق را اعلام نکرده‌اند",
+            "پاسخ اضطراری نیروی پلیس نیویورک به سرعت انجام شد و مسیرهای حمل‌ونقل محلی موقتاً بسته شد"
+        ],
+        "impact": "ایجاد اضطراب عمومی و بررسی مجدد ایمنی وسایل حمل‌ونقل دریایی شهری",
+        "tag": "حوادث",
+        "urgency": 3,
+        "sentiment": -0.8,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/news/1-dead-when-barge-explodes-on-staten-island/ar-AA2bZ6Yz?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/news/1-dead-when-barge-explodes-on-staten-island/ar-AA2bZ6Yz",
+        "image": "https://www.bing.com/th?id=ONUT.6bacavno3-SqZQI3xG_K2Q",
+        "timestamp": 1789075242.787753
+    },
+    {
+        "id": "8fc1a55da8",
+        "title_fa": "ترامپ هزینه‌های بالا را توهم دموکرات‌ها می‌داند",
+        "title_en": "The one problem Trump can’t afford",
+        "summary": [
+            "ترامپ با نادیده گرفتن نگرانی‌های اقتصادی رأی‌دهندگان، هزینه‌های زندگی را به‌عنوان یک عملیات روانی دموکرات‌ها می‌نامد",
+            "این بی‌توجهی می‌تواند حمایت‌قابل‌اعتماد اقتصادی را از دست بدهد و فشار بر سیاست‌های مالی حزب را افزایش دهد"
+        ],
+        "impact": "تقویت تقسیم‌پذیری اقتصادی و کاهش اعتبار رهبری در میان طبقه متوسط",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Vox on MSN",
+        "url": "https://www.msn.com/en-us/money/general/the-one-problem-trump-can-t-afford/ar-AA2bZ1Nq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/the-one-problem-trump-can-t-afford/ar-AA2bZ1Nq",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789075242.7874258
+    },
+    {
         "id": "4425ac6944",
         "title_fa": "ترامپ دیگر صدای جهان را نمی‌شنود: تحلیل نیکولز",
         "title_en": "Why Tom Nichols says the world is no longer listening to Trump",
@@ -51,6 +87,24 @@
         "clean_url": "https://slate.com/news-and-politics/2026/09/trump-iran-war-nuclear-weapons-republican-convention.html",
         "image": "https://www.bing.com/th?id=ONUT.ZMKzpe4mCRMD_czse_DvSQ",
         "timestamp": 1789073338.8606942
+    },
+    {
+        "id": "7d92b4abfe",
+        "title_fa": "وینس به دنبال اطلاعات مستقیم از ژنرال‌های آمریکا درباره جنگ ایران",
+        "title_en": "Skeptical Vance said to have sought direct intel from US generals on state of Iran war",
+        "summary": [
+            "وینس برای دریافت گزارش مستقیم از ژنرال‌های آمریکایی درباره وضعیت جنگی ایران اقدام کرد؛ این نشانگر نگرانی واشنگتن از پیشرفت‌های نظامی تهران است",
+            "دست‌یابی به چنین اطلاعاتی می‌تواند فشارهای دیپلماتیک یا تحریم‌های جدید را پیش‌زمینه‌سازی کند"
+        ],
+        "impact": "احتمال افزایش تنش‌های نظامی-دیپلماتیک و تجدید نظر در سیاست‌های تحریمی",
+        "tag": "اطلاعات",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEM1WHNsSkNBNjF4Z3hmVjZvR1d4OWEyN3VYVGl5SnludnBYWV9DM09rMm8yWTNoS3NicHRIMEdkQjZLSGpncjl2d19yQmV1dlBzYmF3TjdTcDM3ZG5vNzhNdGZEVFVIa1RhclhPdEw4T1VreVRrM1NtZkNxWlczclpESWhXZEFTS0M3VURHN2l3RFdWeHVMNmZEZDJtckxqenRZdUJZLV9EbDVRQzFuZmZVdmRzN1otOWU0MHEwVndLckpvVUpRV1BDSHY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEM1WHNsSkNBNjF4Z3hmVjZvR1d4OWEyN3VYVGl5SnludnBYWV9DM09rMm8yWTNoS3NicHRIMEdkQjZLSGpncjl2d19yQmV1dlBzYmF3TjdTcDM3ZG5vNzhNdGZEVFVIa1RhclhPdEw4T1VreVRrM1NtZkNxWlczclpESWhXZEFTS0M3VURHN2l3RFdWeHVMNmZEZDJtckxqenRZdUJZLV9EbDVRQzFuZmZVdmRzN1otOWU0MHEwVndLckpvVUpRV1BDSHY",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789072021.0
     },
     {
         "id": "ebc2a352c7",
@@ -5345,58 +5399,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/report-10-year-old-boy-died-from-idf-gunfire-in-gaza-yesterday/ar-AA2bSAC4",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788958860.0
-    },
-    {
-        "id": "f2d1730761",
-        "title_fa": "ترامپ: جنگ با جمهوری اسلامی بلافاصله پس از انتخابات میان‌دوره‌ای پایان می‌یابد",
-        "title_en": "ترامپ: جنگ با جمهوری اسلامی بلافاصله پس از انتخابات میان‌دوره‌ای پایان می‌یابد",
-        "summary": [
-            "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت پیش‌بینی می‌کند جنگ با جمهوری اسلامی «بلافاصله» پس از انتخابات میان‌دوره‌ای آمریکا در آبان‌ماه پایان یابد، زیرا تهران دیگر توان ادامه وضعیت کنونی را ندارد. او هم‌..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609094510",
-        "clean_url": "https://www.iranintl.com/202609094510",
-        "image": "http://www.bing.com/th?id=ONUT.pzRWDNfDi7mXoGMZSZdKRw&pid=News",
-        "timestamp": 1788958440.0
-    },
-    {
-        "id": "54906784a5",
-        "title_fa": "جاسپریت سینگ هشدار به تضعیف دلار از طریق بحران‌های نفتی",
-        "title_en": "Jaspreet Singh issues a warning for anyone holding US dollars",
-        "summary": [
-            "سینگ بیان کرد که درگیری‌های اخیر می‌تواند تقاضای دلار را در بازارهای بین‌المللی کاهش دهد.",
-            "ضعف پتردلار اثر مستقیم بر ارزش دلار آمریکا و نرخ ارزهای نوظهور خواهد داشت.",
-            "سرمایه‌گذاران باید به ریسک‌های ناشی از نوسان ارزهای پایه توجه کنند."
-        ],
-        "impact": "کاهش تقاضای دلار ممکن است نرخ ارزهای نوظهور را بالا ببرد.",
-        "tag": "ارز",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "MoneyLion on MSN",
-        "url": "https://www.msn.com/en-us/news/other/jaspreet-singh-issues-a-warning-for-anyone-holding-us-dollars/ar-AA23TC7q?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/jaspreet-singh-issues-a-warning-for-anyone-holding-us-dollars/ar-AA23TC7q",
-        "image": "https://www.bing.com/th?id=ONUT.l2sRBOLxlOq61BAKTEtPyQ",
-        "timestamp": 1788958031.3919013
-    },
-    {
-        "id": "f8f6b96e5d",
-        "title_fa": "مقامات آمریکایی می‌گویند که حمله ایران به پایگاه در اردن خسارت محدودی به بار آورده است.",
-        "title_en": "Iran’s Strikes on Base in Jordan Caused Limited Damage, U.S. Officials Say",
-        "summary": [
-            "The latest round of fighting may result in reports of traumatic brain injuries among American service members, officials warned."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
-        "clean_url": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
-        "image": "http://www.bing.com/th?id=ONUT.zbFiwO2z8x5Ju5a9lhJfGQ&pid=News",
-        "timestamp": 1788957240.0
     }
 ]
