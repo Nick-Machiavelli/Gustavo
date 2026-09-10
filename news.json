@@ -1,5 +1,43 @@
 [
     {
+        "id": "8050a4e404",
+        "title_fa": "فنلاند خوشحال از پیروزی اف‌دی در آلمان",
+        "title_en": "Moscow 'happy' with AfD victory in German regional elections, says Finnish foreign minister",
+        "summary": [
+            "روسیه از پیروزی اف‌دی در انتخابات منطقه‌ای خوشنود است",
+            "وزیر خارجه فنلاند می‌گوید این نتایج صرفاً به «اطلاعات نادرست» نیست",
+            "نارضایتی عمومی در جامعه آلمان تقویت شده و به رشد اف‌دی کمک کرده"
+        ],
+        "impact": "تقویت نفوذ اف‌دی در سیاست آلمان و فشار بر اتحادیه اروپا",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/moscow-happy-with-afd-victory-in-german-regional-elections-says-finnish-foreign-minister/ar-AA2bVYQe?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/moscow-happy-with-afd-victory-in-german-regional-elections-says-finnish-foreign-minister/ar-AA2bVYQe",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789029562.9394355
+    },
+    {
+        "id": "ba21042568",
+        "title_fa": "پیشنهاد عدم سفر به کائوای پس از طوفان",
+        "title_en": "Visitors asked to stay away from Kauai during Hurricane Lowell recovery",
+        "summary": [
+            "مقامات هوایی هاوایی از گردشگران خواستند تا از کائوای دور بمانند",
+            "طوفان لوید هنوز اثرات خود را بر زیرساخت‌ها و مسیرهای توریستی گذاشته است",
+            "بازگشت به حالت عادی ممکن است چند هفته طول بکشد"
+        ],
+        "impact": "کاهش گردشگری محلی و خسارت مالی برای کسب‌وکارهای ساحلی",
+        "tag": "آب و هوا",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Hawaii News Now on MSN",
+        "url": "https://www.msn.com/en-us/weather/general/visitors-asked-to-stay-away-from-kauai-during-hurricane-lowell-recovery/ar-AA2bVEKt?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/weather/general/visitors-asked-to-stay-away-from-kauai-during-hurricane-lowell-recovery/ar-AA2bVEKt",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789029562.9391425
+    },
+    {
         "id": "d714a3e63a",
         "title_fa": "جمهوری‌خواهان به ترامپ برای رهبری می‌نگرند",
         "title_en": "Republicans don't need a pep rally. They need Trump to deliver. | Opinion",
@@ -5407,41 +5445,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/pod-save-america-host-drops-dark-joke-about-who-or-what-can-stop-trump/ar-AA2bOMUq",
         "image": "https://www.bing.com/th?id=ONUT.sqMB3FPx-58l6A-oi3MOMg",
         "timestamp": 1788896117.9719112
-    },
-    {
-        "id": "b2a3e3382f",
-        "title_fa": "قیمت نفت به دلیل تنش‌های خاورمیانه بالا رفت",
-        "title_en": "Crude Oil Prices Rise as Global Supplies Tighten",
-        "summary": [
-            "قیمت نفت خام WTI در روز سه‌شنبه ۱٫۶۹٪ افزایش یافت و به بالاترین سطح سه ماهه رسید.",
-            "افزایش ناشی از حملات متقابل آمریکا و ایران در تنگه هرمز و کاهش شاخص دلار بود.",
-            "بازارهای انرژی جهانی به‌سرعت واکنش نشان دادند؛ سرمایه‌گذاران به نفت به‌عنوان دارایی امن روی آوردند."
-        ],
-        "impact": "سهم‌بازار انرژی جهانی ارتقا می‌یابد و فشار بر هزینه‌های تولید در اقتصادهای مصرف‌کننده می‌افزاید.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "Barchart · via Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-rise-global-191316492.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-rise-global-191316492.html",
-        "image": "https://media.zenfs.com/en/barchart_com_477/09451fa03336c1633f2a4f36d6866025.jpg",
-        "timestamp": 1788895390.0
-    },
-    {
-        "id": "0c683d1b09",
-        "title_fa": "آمریکا توقیف یک زیردریایی بدون سرنشین توسط ایران در تنگه هرمز را کم اهمیت جلوه می‌دهد",
-        "title_en": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
-        "summary": [
-            "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait CNBC"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uY0c0aHNlR2NIZ1hQWHRnUHVqUngzS0g0VHRmZWt0WWRJd0pvcjQyX25YMlBfd1JudzVyUEdTNHA3ZzFXMmNlMHBQd1FqRTdwSHg3VkVLdGNYNUJseFdWclJGUF9tQmgtVUR2azVrVdIBdEFVX3lxTFBjY0E0dzVIRXhqSlp4LTlJMXVKcDhPQ1Y3YlJ3VjhKWm1fLWdQMXZFM1NWYkhVd3hPMUZZQVRXeldQQ1VlcDBqUnEzeTJDY0hjRTZYUzdibmVpY3dJYVFlSVBRVGg2RENYWXpuNFRTU2VXNDdG?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uY0c0aHNlR2NIZ1hQWHRnUHVqUngzS0g0VHRmZWt0WWRJd0pvcjQyX25YMlBfd1JudzVyUEdTNHA3ZzFXMmNlMHBQd1FqRTdwSHg3VkVLdGNYNUJseFdWclJGUF9tQmgtVUR2azVrVdIBdEFVX3lxTFBjY0E0dzVIRXhqSlp4LTlJMXVKcDhPQ1Y3YlJ3VjhKWm1fLWdQMXZFM1NWYkhVd3hPMUZZQVRXeldQQ1VlcDBqUnEzeTJDY0hjRTZYUzdibmVpY3dJYVFlSVBRVGg2RENYWXpuNFRTU2VXNDdG",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788894885.0
     }
 ]
