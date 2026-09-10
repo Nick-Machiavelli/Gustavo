@@ -1,5 +1,43 @@
 [
     {
+        "id": "ebc2a352c7",
+        "title_fa": "مالیات راهی یکنواخت برای خودروهای الکتریکی عادلانه نیست",
+        "title_en": "A 'uniform' EV road tax actually punishes the wrong drivers",
+        "summary": [
+            "انتشار نظر درباره این که مالیات یکسان برای تمام وسایل نقلیه الکتریکی عادلانه نیست",
+            "پیشنهاد مالیات بر اساس وزن وسیله می‌تواند بار مالی را منصفانه توزیع کند",
+            "مالیات ناعادلانه ممکن است سرعت پذیرش خودروهای الکتریکی را در استرالیا کند کند"
+        ],
+        "impact": "ممکن است پذیرش خودروهای الکتریکی در استرالیا کند شود",
+        "tag": "مالیات",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "The Canberra Times",
+        "url": "https://www.canberratimes.com.au/story/9347953/electric-vehicle-association-road-charge-flaws-risk-future/",
+        "clean_url": "https://www.canberratimes.com.au/story/9347953/electric-vehicle-association-road-charge-flaws-risk-future",
+        "image": "https://www.bing.com/th?id=ONUT.nt5kGq0aXTe42PKDtYpJnQ",
+        "timestamp": 1789071734.4984636
+    },
+    {
+        "id": "74d53c0ddd",
+        "title_fa": "انفجارهای متعدد در استیتن جزیره آتش‌سوزی کانتینرها",
+        "title_en": "Multiple explosions cause shipping container fire on Staten Island: FDNY",
+        "summary": [
+            "چندین انفجار در بندر مارینرز هاربور باعث شعله‌ور شدن یک کانتینر شد",
+            "آتش‌سوزی به سرعت گسترش یافت و نیروی آتش‌نشانی نیویورک به محل اعزام شد",
+            "ترافیک کشتی‌ها موقتاً متوقف شد و خطر انتشار مواد خطرناک مطرح شد"
+        ],
+        "impact": "توقف موقت حمل و نقل در بندر و خطر انتشار مواد سمی",
+        "tag": "آتش‌سوزی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "PIX11 on MSN",
+        "url": "https://www.msn.com/en-us/news/news/multiple-explosions-cause-shipping-container-fire-on-staten-island-fdny/ar-AA2bYt5J?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/news/multiple-explosions-cause-shipping-container-fire-on-staten-island-fdny/ar-AA2bYt5J",
+        "image": "https://www.bing.com/th?id=ONUT.MC5tlLJykio0OQrFK51oYg",
+        "timestamp": 1789071734.4980562
+    },
+    {
         "id": "9182fc063f",
         "title_fa": "خبر بین‌المللی — Panic as cargo ship explodes در New York's Staten Island as",
         "title_en": "Panic as cargo ship explodes on New York's Staten Island as roads closed off",
@@ -3044,6 +3082,44 @@
         "timestamp": 1788985740.0
     },
     {
+        "id": "319f580579",
+        "title_fa": "گفتگوهای جدید اسرائیل-لبنان در رم برگزار می‌شود",
+        "title_en": "Next round of Israel-Lebanon talks to be held in Rome next week",
+        "summary": [
+            "مذاکرات بعدی بین اسرائیل و لبنان برای هفته آینده در رم برنامه‌ریزی شد",
+            "ایتالیا به عنوان میزبانی‌کننده سعی دارد تنش‌های مرزی را کاهش دهد",
+            "نتیجه‌گیری نهایی هنوز نامشخص است اما امید به پیشرفت وجود دارد"
+        ],
+        "impact": "پیشرفت مذاکرات می‌تواند به کاهش درگیری‌های مرزی منجر شود",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Times of Israel on MSN",
+        "url": "https://www.msn.com/en-us/news/other/next-round-of-israel-lebanon-talks-to-be-held-in-rome-next-week/ar-AA2bYvc5?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/next-round-of-israel-lebanon-talks-to-be-held-in-rome-next-week/ar-AA2bYvc5",
+        "image": "https://www.bing.com/th?id=ONUT.8KOPWKb2quf4tw_lnqoSdQ",
+        "timestamp": 1788985329.0
+    },
+    {
+        "id": "057676f196",
+        "title_fa": "واترلو ۳ میلیون دلار برای کشته شدن توسط پلیس",
+        "title_en": "Waterloo pays $3 million to settle fatal police shooting case",
+        "summary": [
+            "شهر واترلو پس از پنج سال دعوا، ۳ میلیون دلار به خانواده قربانی کشته شدن توسط پلیس پرداخت کرد",
+            "این توافق نشانگر پذیرش مسئولیت شهر در مورد استفاده نادرست از نیروی پلیس است",
+            "قسط مالی شهر تحت فشار قرار می‌گیرد و فشار بر اصلاحات پلیس افزایش می‌یابد"
+        ],
+        "impact": "قسط مالی شهر را تحت فشار قرار می‌دهد و فشار بر اصلاحات پلیس را افزایش می‌دهد",
+        "tag": "قضایی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "The Quad-City Times",
+        "url": "https://qctimes.com/news/state-regional/article_7d450131-8a2e-5f94-a82c-d701eb934e64.html",
+        "clean_url": "https://qctimes.com/news/state-regional/article_7d450131-8a2e-5f94-a82c-d701eb934e64.html",
+        "image": "https://www.bing.com/th?id=ONUT.Yc0ujtlbFVCpItEf1WgM8w",
+        "timestamp": 1788985329.0
+    },
+    {
         "id": "4cdc277963",
         "title_fa": "ترامپ می‌گوید قیمت‌های نفت که به دلیل جنگ ایران افزایش یافته است، احتمالاً تا بعد از میان‌دوره‌ای کاهش نخواهد یافت",
         "title_en": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
@@ -5325,79 +5401,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSzRMSkhJeDE2cHhYOEUyanVuU2w1cHFLU3B1b2lMZjFtc3J4ZElqVzJfMnlQYTJYRzJHU19oMXBSejM4XzljemR2SVJXd29BR2diZnB5cEtIelJzTEtwNkYxQ0Rqb3ZXWVBTMmtKeXE1TnZLeENoZzZ3Uk50OTNhQ1VxUW9mRk0",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788955612.0
-    },
-    {
-        "id": "9d8f971ed1",
-        "title_fa": "ایران آماده تشدید جنگ با آمریکا",
-        "title_en": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
-        "summary": [
-            "تحریم‌های شدید اقتصادی، فشار داخلی را به سمت گزینه نظامی می‌کشاند.",
-            "سخنان مقامات نظامی ایران نشان از برنامه‌ریزی برای گسترش عملیات در خلیج فارس دارد.",
-            "آمریکا با افزایش حضور ناوگان و تهدیدات هوایی به واکنش سریع آماده است."
-        ],
-        "impact": "افزایش تنش‌های نظامی می‌تواند قیمت نفت را به‌سرعت بالا برده و ناوبری در خلیج فارس را مختل کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdW1lN2hjSFlvN24zcWNhcTlQNGUyb3pkQ3JwZTdIeGU3eTB1bGJaSncyM293ZWRGM0F4QlFoN01FeHFOUjZ6d1k1cHJ6ZGVPdlB5WDY5YTBPV1hYUWRMRVNXNi1aNjlaaG9EVG5NbTlEMS0wbER6X3ZaSWlUNGFtYTd5NWhZR2VwNjZBUTloOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdW1lN2hjSFlvN24zcWNhcTlQNGUyb3pkQ3JwZTdIeGU3eTB1bGJaSncyM293ZWRGM0F4QlFoN01FeHFOUjZ6d1k1cHJ6ZGVPdlB5WDY5YTBPV1hYUWRMRVNXNi1aNjlaaG9EVG5NbTlEMS0wbER6X3ZaSWlUNGFtYTd5NWhZR2VwNjZBUTloOA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788955486.0
-    },
-    {
-        "id": "f4e30bb875",
-        "title_fa": "انتظار افزایش نرخ بهره ECB در پی جنگ ایران",
-        "title_en": "European Central Bank expected to raise rates",
-        "summary": [
-            "ECB احتمالاً نرخ بهره را بالا می‌برد؛ تورم یورو ۳.۳٪ و تورم انرژی ۱۴.۳٪ است.",
-            "جنگ خاورمیانه باعث فشار بر قیمت نفت و گسترش سیاست‌های سخت‌گیرانه پولی در سرتاسر جهان شده است."
-        ],
-        "impact": "افزایش هزینه‌های استقراض در اروپا و فشار بر بازارهای نوظهور",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/economy/policy/articles/european-central-bank-expected-raise-110455612.html",
-        "clean_url": "https://finance.yahoo.com/economy/policy/articles/european-central-bank-expected-raise-110455612.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/cf0f2b9b541fa562d4a8bb93873f56a0fa235470f1a9cc1ca023cdf7f01a0081/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F87556a2af06f89f04d0be497ffde6ca4.jpg",
-        "timestamp": 1788955442.0
-    },
-    {
-        "id": "d9d8b19b72",
-        "title_fa": "رسانه‌ها به شکست ذهنی ترامپ چشم‌پوشی می‌کنند",
-        "title_en": "Reporters 'know Trump's brain is broken' — and do nothing: Insider | Opinion",
-        "summary": [
-            "نویسندگان می‌پذیرند ذهن ترامپ دچار اختلال است اما به‌جای گزارش، سکوت می‌گیرند",
-            "این بی‌توجهی به خطرات سیاسی باعث کاهش اعتماد عمومی به رسانه‌ها می‌شود"
-        ],
-        "impact": "اعتماد مردم به خبرگزاری‌ها کاهش می‌یابد و فضای اطلاعاتی دچار ابهام می‌شود",
-        "tag": "رسانه",
-        "urgency": 2,
-        "sentiment": -0.7,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/reporters-know-trumps-brain-is-broken-and-do-nothing-insider-opinion/ar-AA2bSavX?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/reporters-know-trumps-brain-is-broken-and-do-nothing-insider-opinion/ar-AA2bSavX",
-        "image": "https://www.bing.com/th?id=ONUT.MQQObV2cknXlJAFQv3Dy3w",
-        "timestamp": 1788955431.1567197
-    },
-    {
-        "id": "dfb7e9f448",
-        "title_fa": "فشار ترامپ به کره‌جنوبی؛ خطر تسلیحات هسته‌ای",
-        "title_en": "Trump’s pressure on South Korea could produce the exact outcome Washington feared for decades - another nuclear power in Asia",
-        "summary": [
-            "ترامپ هزینه‌پذیری سپر هسته‌ای آمریکا را به کره‌جنوبی می‌کشد؛ ساکنان ساکن‌ساز به خودکفایی هسته‌ای فکر می‌کنند",
-            "اعتماد واشنگتن به تعهد نظامی در شبه‌جزیره زیر سؤال می‌رود و نیروی هسته‌ای ساکن‌ساز می‌تواند به‌سرعت شکل بگیرد",
-            "رقابت تسلیحاتی در آسیا تشدید می‌شود؛ چین و ژاپن واکنش‌های نظامی خود را تنظیم می‌کنند"
-        ],
-        "impact": "ممکن است کره‌جنوبی به توسعه سلاح هسته‌ای روی آورد و تعادل امنیتی منطقه به‌هم بخورد",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Warfronts on MSN",
-        "url": "https://www.msn.com/en-au/news/other/trump-s-pressure-on-south-korea-could-produce-the-exact-outcome-washington-feared-for-decades-another-nuclear-power-in-asia-my-take/vi-AA2bRXN3?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/other/trump-s-pressure-on-south-korea-could-produce-the-exact-outcome-washington-feared-for-decades-another-nuclear-power-in-asia-my-take/vi-AA2bRXN3",
-        "image": "https://www.bing.com/th?id=ONUT.G3G2Y1NbQUFIXXUXdoMfCg",
-        "timestamp": 1788955431.156393
     }
 ]
