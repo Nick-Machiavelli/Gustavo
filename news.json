@@ -4938,6 +4938,25 @@
         "timestamp": 1788972128.0
     },
     {
+        "id": "bb299969ff",
+        "title_fa": "مشاوران ترامپ هشدار: جنگ با ایران تا پایان دوره",
+        "title_en": "Trump Advisers Warn Iran Conflict May Last Through End of His Term, WSJ Reports",
+        "summary": [
+            "مشاوران کلیدی سفید‌خانه به ترامپ گفتند که درگیری ممکن است تا پایان دوره‌اش ادامه یابد",
+            "این هشدار نشان می‌دهد تنش‌ها به‌سرعت فروکش نمی‌کند و فشارهای اقتصادی یا نظامی بیشتری پیش‌بینی می‌شود",
+            "عدم یافتن راه‌حل می‌تواند منجر به تحریم‌های سخت‌تر و هزینه‌های نظامی بالاتر برای آمریکا شود"
+        ],
+        "impact": "تشدید تحریم‌ها و افزایش هزینه‌های نظامی آمریکا در قبال ایران",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "U.S. News & World Report",
+        "url": "https://www.usnews.com/news/politics/articles/2026-09-09/trump-advisers-warn-iran-conflict-may-last-through-end-of-his-term-wsj-reports",
+        "clean_url": "https://www.usnews.com/news/politics/articles/2026-09-09/trump-advisers-warn-iran-conflict-may-last-through-end-of-his-term-wsj-reports",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788972000.0
+    },
+    {
         "id": "c2ad09f73c",
         "title_fa": "هیأت نظارت هسته‌ای ایران را به شورای امنیت ارجاع داد",
         "title_en": "UN nuclear watchdog board reports Iran to the UN Security Council for the first time in 20 years",
@@ -5384,22 +5403,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/south-korea-us-nuclear-cooperation-stalls-needs-joint-push/ar-AA2bSQfl",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788966793.7570643
-    },
-    {
-        "id": "2497dc9221",
-        "title_fa": "مشاوران ترامپ به طور مخفیانه هشدارهای شدیدی درباره جنگ ایران صادر می‌کنند",
-        "title_en": "Trump Advisers Secretly Issue Dire Warning About Iran War",
-        "summary": [
-            "White House officials have privately told Donald Trump that the war could last through the end of his term—a stark about-face from the president's repetitive public messaging on the matter, which has..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-advisers-secretly-issue-dire-141332046.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-advisers-secretly-issue-dire-141332046.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/46770fcff89c58ba4383b866087a43d38633a309e54cf0cc0103d0766220db9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_new_republic_521%2F7ed49cf2e4205209906877e6b62459a4.jpg",
-        "timestamp": 1788966790.0
     }
 ]
