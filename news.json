@@ -1,5 +1,22 @@
 [
     {
+        "id": "6b527c2e8a",
+        "title_fa": "این سخنرانی ترامپ پیامی خطرناک برای ایران و بقیه جهان ارسال کرد",
+        "title_en": "This Trump Speech Sent a Dangerous Message to Iran—and the Rest of the World",
+        "summary": [
+            "Trump is telling the world’s leaders that he might bomb the crap out of them at any moment, or treat them like crap as a whim..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Slate",
+        "url": "https://slate.com/news-and-politics/2026/09/trump-iran-war-nuclear-weapons-republican-convention.html",
+        "clean_url": "https://slate.com/news-and-politics/2026/09/trump-iran-war-nuclear-weapons-republican-convention.html",
+        "image": "https://www.bing.com/th?id=ONUT.ZMKzpe4mCRMD_czse_DvSQ",
+        "timestamp": 1789073338.8606942
+    },
+    {
         "id": "ebc2a352c7",
         "title_fa": "مالیات راهی یکنواخت برای خودروهای الکتریکی عادلانه نیست",
         "title_en": "A 'uniform' EV road tax actually punishes the wrong drivers",
@@ -232,6 +249,23 @@
         "clean_url": "https://www.ntd.com/iran-is-referred-to-un-security-council-over-nuclear-breaches_1171935.html",
         "image": "https://i.ntd.com/assets/uploads/2026/09/id1171936-Iran-Nuclear-Sites-AP25165551799994-vs.jpg-900x506.webp",
         "timestamp": 1789067040.0
+    },
+    {
+        "id": "069f343296",
+        "title_fa": "اختصاصی: ایالات متحده اطلاعات را گسترش می‌دهد و حمایت از کمپین سعودی علیه متحد ایران را هدف قرار می‌دهد",
+        "title_en": "EXCLUSIVE: US expands intel, targeting support for Saudi campaign against Iranian ally",
+        "summary": [
+            "EXCLUSIVE: US expands intel, targeting support for Saudi campaign against Iranian ally CNN"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDJyVVhLSUZweG9aLVBYejFueDZ3Qkk0OTA1c3J3RjhVNGhhTWtJRGxqbUdrZ2RaSktQY25FMVphTTlCS0pmUlBINlZQaXVMT0p3ZlgySzFCdUZ4a3l1ZTJZTm81NldOLUswZHE5YU83VFA2elEwUjAwUW1DWXp5QWNlSl9WdEhWUzNMMmRxQmlPUWJ0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDJyVVhLSUZweG9aLVBYejFueDZ3Qkk0OTA1c3J3RjhVNGhhTWtJRGxqbUdrZ2RaSktQY25FMVphTTlCS0pmUlBINlZQaXVMT0p3ZlgySzFCdUZ4a3l1ZTJZTm81NldOLUswZHE5YU83VFA2elEwUjAwUW1DWXp5QWNlSl9WdEhWUzNMMmRxQmlPUWJ0",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789066854.0
     },
     {
         "id": "16a267e426",
@@ -1029,6 +1063,23 @@
         "clean_url": "https://www.iranintl.com/202609107219",
         "image": "https://www.bing.com/th?id=ONUT.4ZO9VP3QqNhMBvgfy1L3Cg",
         "timestamp": 1789044391.778608
+    },
+    {
+        "id": "b9e184e26d",
+        "title_fa": "چرا ما در مورد سوال اشتباه درباره ایران بحث می‌کنیم؟",
+        "title_en": "Why We're Debating the Wrong Question About Iran",
+        "summary": [
+            "The debate over the war with Iran has become increasingly intense. This is understandable. Critics ask how much Iran's military and nuclear capabilities have actually been weakened. They ask what the..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/why-were-debating-wrong-iran-194341655.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/why-were-debating-wrong-iran-194341655.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/3fd75e727db1ac1398c9491c0bb9cfbc77367f89894fb41e2398e1053265938f/lightyear_networkapi/resizefill_w600_h500%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F172dfd50e6efebd05dee149eea803aaa.jpg",
+        "timestamp": 1789044180.0
     },
     {
         "id": "c4ff905f4a",
@@ -5347,62 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/missiles-don-t-measure-strength-mass-arrests-shatter-tehran-s-illusion-of-control/ar-AA2bSwM0",
         "image": "https://www.bing.com/th?id=ONUT.FKHJFjHaBeawCseGHfahZA",
         "timestamp": 1788957001.3289826
-    },
-    {
-        "id": "ce3df193d7",
-        "title_fa": "ایران جایزه‌ای برای نیروهای آمریکایی گذاشت",
-        "title_en": "Tehran put a bounty on US troops. Why is Trump still playing defense?",
-        "summary": [
-            "ایران به‌صورت علنی پاداشی برای کشته یا اسیر کردن سربازان آمریکا اعلام کرد",
-            "این حرکت خطر تشدید مستقیم درگیری نظامی را افزایش می‌دهد",
-            "ترامپ با تهدیدهای جدید آمریکا واکنش دفاعی نشان داد"
-        ],
-        "impact": "تهدید جایزه‌ای می‌تواند عملیات نظامی آمریکا در خاورمیانه را پیچیده کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/tehran-put-a-bounty-on-us-troops-why-is-trump-still-playing-defense/ar-AA2bRL3S?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/tehran-put-a-bounty-on-us-troops-why-is-trump-still-playing-defense/ar-AA2bRL3S",
-        "image": "https://www.bing.com/th?id=ONUT.em-avG4BAoGUDRM9QbzSzg",
-        "timestamp": 1788957001.3286808
-    },
-    {
-        "id": "dd8b32f5e4",
-        "title_fa": "اسرائیل پس از 2006 به مقابله با حزب‌الله پیروز شد",
-        "title_en": "How Israel Used Its Failures in the 2006 War to Effectively Fight Hezbollah After Oct. 7",
-        "summary": [
-            "اسرائیل با تجزیه‌وتحلیل شکست 2006، استراتژی جدیدی علیه حزب‌الله اتخاذ کرد",
-            "عملیات‌های 2024 و 2025 موشک‌ها و توان هسته‌ای حزب‌الله و ایران را به‌طور قابل‌توجهی نابود کرد",
-            "این پیشرفت‌ها تنش‌های منطقه‌ای را تشدید و خطر حمله مستقیم به ایران را افزایش داد"
-        ],
-        "impact": "کاهش توان نظامی حزب‌الله و ایران، فشار برای گسترش عملیات نظامی اسرائیل",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Algemeiner",
-        "url": "https://www.algemeiner.com/2026/09/09/how-israel-used-its-failures-2006-war-effectively-fight-hezbollah-oct-7/",
-        "clean_url": "https://www.algemeiner.com/2026/09/09/how-israel-used-its-failures-2006-war-effectively-fight-hezbollah-oct-7",
-        "image": "https://www.algemeiner.com/wp-content/uploads/2026/05/2023-05-21T000000Z_1099761387_MT1NURPHO000H6ZOMO_RTRMADP_3_LEBANON-HEZBOLLAH-ISRAEL-CONFLICT-1.jpg",
-        "timestamp": 1788956520.0
-    },
-    {
-        "id": "dd989c841e",
-        "title_fa": "حوثی‌ها مسیر دریایی را مسدود؛ یمن به جنگ داخلی",
-        "title_en": "Yemen risks a return to civil war as Iran-backed rebels target a crucial shipping route",
-        "summary": [
-            "حوثی‌های وابسته به ایران راه‌پیمایی Red Sea را مسدود کردند تا سعودی‌ها از مسیر جایگزین استفاده نکنند.",
-            "این اقدام می‌تواند فشار اقتصادی و انسانی در یمن را به اوج برساند و خطر بازگشت به جنگ داخلی را افزایش دهد.",
-            "مسدود شدن مسیر، حمل و نقل نفت خلیج فارس را تحت فشار قرار می‌دهد و تنش‌های منطقه‌ای را تشدید می‌کند."
-        ],
-        "impact": "مسدود شدن Red Sea صادرات نفت سعودی را مختل می‌کند و بحران انسانی در یمن را تشدید می‌نماید.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "The Philadelphia Inquirer",
-        "url": "https://www.inquirer.com/news/nation-world/yemen-civil-war-houthis-iran-20260910.html",
-        "clean_url": "https://www.inquirer.com/news/nation-world/yemen-civil-war-houthis-iran-20260910.html",
-        "image": "https://www.bing.com/th?id=ONUT._p4th27wIKddawWBUM1mYQ",
-        "timestamp": 1788956238.0
     }
 ]
