@@ -1,5 +1,23 @@
 [
     {
+        "id": "425a8435eb",
+        "title_fa": "نتانیاهو تحت فشار جدی برای نسل‌کشی در غزه",
+        "title_en": "Benjamin Netanyahu has overseen a genocide: In his telling, he’s a victim",
+        "summary": [
+            "نتانیاهو با ادعای قربانی بودن به انتقادات درباره نسل‌کشی در غزه می‌پردازد.",
+            "استفاده از استراتژی‌های انحراف و توجیه برای حفظ موقعیت سیاسی‌اش ادامه دارد."
+        ],
+        "impact": "تقویت فشار بین‌المللی بر دولت اسرائیل و احتمال اعمال تحریم‌های جدید.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/10/benjamin-netanyahu-has-overseen-a-genocide-in-his-telling-hes-a-victim",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/10/benjamin-netanyahu-has-overseen-a-genocide-in-his-telling-hes-a-victim",
+        "image": "https://www.bing.com/th?id=ONUT.uSvdFSQQPh1zH3uwdSFGDw",
+        "timestamp": 1789034592.5785782
+    },
+    {
         "id": "50d0504622",
         "title_fa": "کیوان وارش باید نرخ بهره را بالا ببرد",
         "title_en": "Kevin Warsh should raise interest rates",
@@ -2957,6 +2975,44 @@
         "timestamp": 1788948832.9890807
     },
     {
+        "id": "9b6f646bbf",
+        "title_fa": "روسیه و چین مانع اقدام آمریکا علیه برنامه هسته‌ای ایران",
+        "title_en": "Rasha da China Sun Hana Amurka Daukar Mataki kan Nukiliyar Iran",
+        "summary": [
+            "آژانس بین‌المللی انرژی اتمی برای اولین بار در دو دهه پرونده ایران را به کمیته امنیتی سازمان ملل ارجاع داد.",
+            "روسیه و چین با بلاک کردن اقدام‌ها آمریکا سعی در جلوگیری از تحریم‌های جدید دارند.",
+            "ایران این تصمیم را گامی سیاسی بی‌فایده می‌داند."
+        ],
+        "impact": "تأخیر در اعمال تحریم‌های جدید و ادامه برنامه هسته‌ای ایران.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Legit Hausa",
+        "url": "https://hausa.legit.ng/duniya/1729988-china-da-rasha-sun-hana-amurka-da-faransa-samun-dama-kan-iran-a-un/",
+        "clean_url": "https://hausa.legit.ng/duniya/1729988-china-da-rasha-sun-hana-amurka-da-faransa-samun-dama-kan-iran-a-un",
+        "image": "https://www.bing.com/th?id=ONUT.6kvIYptBCeKm1xhqynyjeA",
+        "timestamp": 1788948187.0
+    },
+    {
+        "id": "e3e06b7740",
+        "title_fa": "جنگ آمریکا-ایران تشدید شد؛ انفجارها و تهدیدهای موشکی",
+        "title_en": "US-Iran War LIVE Updates: Explosions Heard Across Iran's Coastal Regions And Near Saudi Military Base",
+        "summary": [
+            "انفجارهای گزارش‌شده در سواحل ایران و نزدیک پایگاه نظامی سعودی نشان از گسترش درگیری دارد.",
+            "ایران برای اولین بار موشک‌های الکترواپتیکال ضد ناوشکن به کشتی‌های آمریکایی شلیک کرد.",
+            "ترامپ پیش‌بینی کرد جنگ تا پس از انتخابات میانی نوامبر ادامه خواهد یافت."
+        ],
+        "impact": "افزایش خطر مستقیم بین‌المللی و احتمال گسترش درگیری به خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-trump-warns-tehran-as-fresh-attacks-rock-strait-of-hormuz-oil-prices-surge-after-american-strikes-middle-east-conflict-news-liveblog-156131247",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-trump-warns-tehran-as-fresh-attacks-rock-strait-of-hormuz-oil-prices-surge-after-american-strikes-middle-east-conflict-news-liveblog-156131247",
+        "image": "https://images.timesnownews.com/thumb/msid-156131247,thumbsize-472264,width-1280,height-720,resizemode-75/156131247.jpg",
+        "timestamp": 1788948187.0
+    },
+    {
         "id": "587dafcf47",
         "title_fa": "ایران به حملات پیشگیرانه می‌روید؛ امید به جنگ خستگی‌ناپذیر",
         "title_en": "As Tehran Turns to Preemptive Attacks, Iran Believes It Can Win a War of Attrition",
@@ -5398,56 +5454,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2U5czFNOVJmRm52ek1qdDlZQVVJeEF4TnNqR3Vabi1iMzFKQmVlNVptdWFuc3NLTnpZYmM0Ukc3ODBrMXVnSllzUFkzcHpEMVZnOGx6ZTBEMk5JWFBMTmNLQl9OX3czUDBaMTlSbC1uTHZYeUE0WDJKQW9VSWFlN3FjR0NZcWFVT1dub0I3STNSUXU1MGE1WG5qbDhyY1J0aHFNTWIzTzBVOFZnOTJpOWdnNA",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788899299.0
-    },
-    {
-        "id": "d8fcc97bad",
-        "title_fa": "ترامپ ایران را به مداخله در مذاکرات میان دوره ای متهم کرد زیرا موج موشکی پایگاه آمریکا در اردن را هدف قرار داد.",
-        "title_en": "Trump accuses Iran of meddling in midterms as wave of missiles targets US base in Jordan",
-        "summary": [
-            "Under economic pressure from the U.S., Iranian leaders have signaled they will not capitulate amid stunted diplomatic efforts..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/news/trump-accuses-iran-of-meddling-in-midterms-as-wave-of-missiles-targets-us-base-in-jordan/ar-AA2bQiH8?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/news/trump-accuses-iran-of-meddling-in-midterms-as-wave-of-missiles-targets-us-base-in-jordan/ar-AA2bQiH8",
-        "image": "https://www.bing.com/th?id=ONUT.UskYixOH_Ob4Xm0qkf4XRw",
-        "timestamp": 1788899030.0
-    },
-    {
-        "id": "fba9f7bcd2",
-        "title_fa": "حالا از ما می‌خواهند خودکشی کنیم",
-        "title_en": "Now they want us to commit suicide",
-        "summary": [
-            "Advocates are less careful, compared to their antecedents, about distinguishing between Jews and Israelis, and utterly..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Cleveland Jewish News",
-        "url": "https://www.clevelandjewishnews.com/columnists/ben_cohen/now-they-want-us-to-commit-suicide/article_83dc6e58-0606-4cf5-95a9-9b1b19a084e8.html",
-        "clean_url": "https://www.clevelandjewishnews.com/columnists/ben_cohen/now-they-want-us-to-commit-suicide/article_83dc6e58-0606-4cf5-95a9-9b1b19a084e8.html",
-        "image": "https://www.bing.com/th?id=ONUT.nw5V54ugh30zPfgG5WfG_g",
-        "timestamp": 1788899013.5398262
-    },
-    {
-        "id": "23edf6a1b1",
-        "title_fa": "نظر | صاحب روایت کیست؟: جنگ علیه ایران و اقتصاد توجه در عصر میلیاردرها",
-        "title_en": "Opinion | Who Owns the Narrative?: The War on Iran and the Attention Economy in the Age of Billionaires",
-        "summary": [
-            "In a brief post on Bluesky, American economist and writer Robert Reich drew attention to a phenomenon that is increasingly..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Daily News Egypt",
-        "url": "https://www.dailynewsegypt.com/2026/09/08/opinion-who-owns-the-narrative-the-war-on-iran-and-the-attention-economy-in-the-age-of-billionaires/",
-        "clean_url": "https://www.dailynewsegypt.com/2026/09/08/opinion-who-owns-the-narrative-the-war-on-iran-and-the-attention-economy-in-the-age-of-billionaires",
-        "image": "https://www.bing.com/th?id=ONUT.eAujWLSQus1EXwh8I2feYA",
-        "timestamp": 1788899013.5387495
     }
 ]
