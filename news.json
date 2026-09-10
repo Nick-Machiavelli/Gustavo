@@ -2940,6 +2940,25 @@
         "timestamp": 1788940261.2197094
     },
     {
+        "id": "15c43d1a81",
+        "title_fa": "نتانیاهو هآرتس را متهم کرد؛ حملات به پترویلرها",
+        "title_en": "Netanyahu denuncia Haaretz per diffamazione. Iran e USA attaccano le petroliere",
+        "summary": [
+            "نتانیاهو هآرتس را به‌دلیل انتشار اطلاعات نادرست درباره ایران متهم کرد",
+            "ایران ادعا می‌کند هشت هواپیمای آمریکایی در اردن توسط موشک‌های خودی آسیب دیده‌اند",
+            "ایران و آمریکا به‌طور همزمان به کشتی‌های نفتی در خلیج فارس حمله کردند"
+        ],
+        "impact": "احتمال بسته شدن مسیرهای نفتی و افزایش قیمت انرژی در منطقه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Rai News on MSN",
+        "url": "https://www.msn.com/it-it/notizie/other/netanyahu-denuncia-haaretz-per-diffamazione-iran-e-usa-attaccano-le-petroliere/ar-AA2bUBAD?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/it-it/notizie/other/netanyahu-denuncia-haaretz-per-diffamazione-iran-e-usa-attaccano-le-petroliere/ar-AA2bUBAD",
+        "image": "https://www.bing.com/th?id=ONUT.bqHF_DavqTfJCjdzg_Zx3g",
+        "timestamp": 1788940249.0
+    },
+    {
         "id": "267617ebde",
         "title_fa": "ایران به «قهرمان اقتصادی» خود برای خروج از بحران روی می‌آورد",
         "title_en": "Islamic Republic turns to its economic ‘Superman’ as crisis deepens",
@@ -5421,24 +5440,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnRIWmQtZm5Yb2NyNzJ5Y2pYa1FycUVYWlI2ZFJ4emQ4R3RIYTVCRVNXc0FPMVk1M0VsRVFoNG5Wa1h3bDZ0UHB2ckpiUzdwQlNGa0hSR2FPc211VmN2a2I0WnhubFRzTnZOc3hxMTZveklOSXBYVlNqbW9WS0tQbmRLU2tIVm1icXRUdWZKMTBNOC1GYmcxQVlKQ0VkaGczTzZfWnJkaTlydFl0cGJ1eXZBcWNKUkJiaEk1ZA",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788891632.0
-    },
-    {
-        "id": "5fcf5156ff",
-        "title_fa": "ایران به پایگاه آمریکایی در اردن حمله کرد",
-        "title_en": "US-Iran war LIVE Updates: Iran says it struck US base in Jordan, multiple missiles launched towards hostile US targets",
-        "summary": [
-            "سپاه پاسداران ادعا کرد هنگام‌های نگهداری هواپیماهای F‑35، F‑16 و F‑15 و پناهگاه‌های جنگنده را هدف قرار داد.",
-            "ایالات متحده پنج تانکر نفتی مرتبط با سپاه را نابود کرد؛ این واکنش نشان از تشدید جنگ سایبری و موشکی دارد.",
-            "هدف‌گیری ناوشکن‌های DDG‑119 و DDG‑53 نشان از قصد تضعیف نیروی دریایی آمریکا دارد."
-        ],
-        "impact": "خطر بروز جنگ مستقیم بین آمریکا و ایران به شدت افزایش می‌یابد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/us-news/usiran-war-live-updates-us-base-jordan-iranian-tankers-multiple-missiles-launched-strait-of-hormuz-trump-rubio-houthis-11788916382737.html",
-        "clean_url": "https://www.livemint.com/news/us-news/usiran-war-live-updates-us-base-jordan-iranian-tankers-multiple-missiles-launched-strait-of-hormuz-trump-rubio-houthis-11788916382737.html",
-        "image": "http://www.bing.com/th?id=ONUT.rooQ0n886wNRl6deKR6hiw&pid=News",
-        "timestamp": 1788891420.0
     }
 ]
