@@ -1,5 +1,24 @@
 [
     {
+        "id": "50d0504622",
+        "title_fa": "کیوان وارش باید نرخ بهره را بالا ببرد",
+        "title_en": "Kevin Warsh should raise interest rates",
+        "summary": [
+            "اقتصاد آمریکا رشد می‌کند اما تورم هنوز بالا است؛ فدرال رزرو باید سیاست سختگیرانه ادامه دهد",
+            "افزایش نرخ بهره اعتبار فدرال رزرو را تقویت می‌کند و از فشارهای بازار جلوگیری می‌نماید",
+            "هزینه وام‌ها برای شرکت‌ها و مصرف‌کنندگان در داخل و خارج از آمریکا افزایش می‌یابد"
+        ],
+        "impact": "نرخ بهره بالاتر هزینه وام‌ها را در آمریکا و بازارهای جهانی گران‌تر می‌کند",
+        "tag": "نرخ_بهره",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "The Economist",
+        "url": "https://www.economist.com/leaders/2026/09/10/kevin-warsh-should-raise-interest-rates",
+        "clean_url": "https://www.economist.com/leaders/2026/09/10/kevin-warsh-should-raise-interest-rates",
+        "image": "https://www.bing.com/th?id=ONUT.Qvz7q0IukwpNQBs6vII3FQ",
+        "timestamp": 1789033871.424685
+    },
+    {
         "id": "21a9e86cbc",
         "title_fa": "Moneycontrol Pro Panorama | یک شیب لغزنده دوباره ظاهر می‌شود",
         "title_en": "Moneycontrol Pro Panorama | A slippery slope reappears",
@@ -5430,24 +5449,5 @@
         "clean_url": "https://www.dailynewsegypt.com/2026/09/08/opinion-who-owns-the-narrative-the-war-on-iran-and-the-attention-economy-in-the-age-of-billionaires",
         "image": "https://www.bing.com/th?id=ONUT.eAujWLSQus1EXwh8I2feYA",
         "timestamp": 1788899013.5387495
-    },
-    {
-        "id": "c7ad680a8a",
-        "title_fa": "درآمد هورموز برای ارتقای رفاه و دفاع ایران اختصاص می‌یابد",
-        "title_en": "Iran to use proceeds from Hormuz Strait to improve living standards — lawmaker",
-        "summary": [
-            "قانونگذاران تصمیم گرفتند عوارض عبور کشتی‌ها از تنگه هورموز به‌صورت کارت‌های غذا، تقویت دفاع و زیرساخت‌ها تخصیص یابد.",
-            "اولویت این منابع به استان‌های آسیب‌دیده از عملیات نظامی، جزایر و زیرساخت‌های دریایی داده می‌شود.",
-            "استفاده از این درآمد می‌تواند بخشی از فشارهای تحریمی را کاهش دهد."
-        ],
-        "impact": "منابع جدید می‌تواند فشار تحریم‌ها را کمی کاهش دهد.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2184491",
-        "clean_url": "https://tass.com/world/2184491",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1788898680.0
     }
 ]
