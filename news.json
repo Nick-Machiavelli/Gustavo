@@ -2929,6 +2929,25 @@
         "timestamp": 1788937680.0
     },
     {
+        "id": "ea4b595195",
+        "title_fa": "قیمت نفت زیر فشار تنش‌های خاورمیانه",
+        "title_en": "Oil reverses course to slip, but Brent stays above $100 a barrel on Mideast worries",
+        "summary": [
+            "قیمت نفت کمی کاهش یافت اما برنت هنوز بالای صد دلار باقی مانده است",
+            "نگرانی از تشدید تنش‌های خاورمیانه مانع سقوط شدید قیمت‌ها شد",
+            "بازار با احتیاط به اخبار منطقه واکنش نشان می‌دهد و ریسک عرضه را در نظر می‌گیرد"
+        ],
+        "impact": "قیمت‌های انرژی در بازارهای جهانی تثبیت می‌شود و هزینه‌های وارداتی را برای کشورهای مصرف‌کننده افزایش می‌دهد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "CNBC on MSN",
+        "url": "https://www.msn.com/en-us/money/general/oil-reverses-course-to-slip-but-brent-stays-above-100-a-barrel-on-mideast-worries/ar-AA2bUmap?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/oil-reverses-course-to-slip-but-brent-stays-above-100-a-barrel-on-mideast-worries/ar-AA2bUmap",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1788937048.0
+    },
+    {
         "id": "5004ed08b8",
         "title_fa": "ایران حلقه‌ای جدید از نیابتی‌ها در خلیج می‌سازد",
         "title_en": "Iran is forging a new ring of proxies to threaten US allies in the Gulf, officials say - ABC News",
@@ -5428,24 +5447,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWZkSkotV3MxeDhaX09pYmljUTEzeVBXVmRTVnZGdnlyc25XbEplR2V4SGlRUFprV0NyVC1NZ0x6NEFfX0F5Zm9scFdHcktRU2VseW9ZcGVQRTlTX05Zb1ZpTWk3bHNKbjZkMTlnMjBCV04yeGtkVXNTbGNNSnBOZ2haRDU0UG5UYXfSAY8BQVVfeXFMTktMZ2ZjT0J3T1NwUmgxNjUxbzRZRThxcEgtcDQ2a1ZPWUtweEtpLW5lZTQybTl1aGpsVUNnQWE1ZzdudDdiSEVkVnFORDUzTk03cGNYeFg5N1lvcjUwTTA2bENWRWVDUjdjZ192d192TXdMcE9oWkxMcnF6c2tkRjZsd08yWk1YSm9XUTlTTDg",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788889800.0
-    },
-    {
-        "id": "7a4877829c",
-        "title_fa": "ترامپ ادعای جنگ با ایران را به‌نقطه‌نقطه می‌سوزاند",
-        "title_en": "Trump Accidentally Blows Up His Biggest Claim About Iran",
-        "summary": [
-            "ادعای مکرر ترامپ مبنی بر «پیروزی» در جنگ با ایران بی‌پایه و نادرست است.",
-            "وعدهٔ کاهش قیمت بنزین زیر دو دلار به‌صورت عملی غیرممکن و صرف ابزار سیاسی است.",
-            "سخن‌پذیری او نشان می‌دهد که دولت‌ سفید‌خانه پس از انتخابات میان‌دوره‌ای قصد تشدید عملیات نظامی دارد."
-        ],
-        "impact": "افزایش تنش‌های نظامی و نوسان شدید قیمت نفت",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/215168/donald-trump-biggest-claim-iran-gas-prices",
-        "clean_url": "https://newrepublic.com/post/215168/donald-trump-biggest-claim-iran-gas-prices",
-        "image": "https://www.bing.com/th?id=ONUT.TGcTZoXFVtnpIPFSFwJifg",
-        "timestamp": 1788889688.4322135
     }
 ]
