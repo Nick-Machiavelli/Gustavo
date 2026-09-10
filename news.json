@@ -1260,6 +1260,23 @@
         "timestamp": 1789016597.4018865
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "آخرین اخبار آمریکا",
+        "title_en": "US latest news",
+        "summary": [
+            "Daniel Owen Conahan Jr’s sentence will make him the state’s 15th person executed this year Sign up for This Week in Trumpland A deep dive into the policies..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1789016400.0
+    },
+    {
         "id": "396484beba",
         "title_fa": "آیا آمریکا باید با طالبان گفتگو کند؟",
         "title_en": "Rep. Aisha Wahab is right: America must talk to the Taliban",
@@ -3242,6 +3259,23 @@
         "clean_url": "https://news24online.com/india/school-holiday-thursday-sep-10-will-schools-be-closed-tomorrow-due-to-heavy-rains-check-state-wise-update/920630",
         "image": "https://news24online.com/wp-content/uploads/2026/09/School-holiday.jpg.jpeg",
         "timestamp": 1788966187.9428444
+    },
+    {
+        "id": "68713c5684",
+        "title_fa": "اخبار ملی و بین المللی در کانون توجه: 10 سپتامبر",
+        "title_en": "National and International News in Focus: Sept. 10",
+        "summary": [
+            "Sept. 11 ranks among the most historic events in many Americans’ lifetimes, polling shows WASHINGTON (AP) — A new poll finds..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "WKTV NewsChannel 2",
+        "url": "https://www.wktv.com/news/local/national-and-international-news-in-focus-sept-10/article_88ae292d-979d-5a92-9726-c2cf11cdf7fa.html",
+        "clean_url": "https://www.wktv.com/news/local/national-and-international-news-in-focus-sept-10/article_88ae292d-979d-5a92-9726-c2cf11cdf7fa.html",
+        "image": "https://www.bing.com/th?id=ONUT.hhM9qeU7imqXJw8Tihd1HQ",
+        "timestamp": 1788965499.0
     },
     {
         "id": "deadd8e423",
@@ -5384,42 +5418,5 @@
         "clean_url": "https://www.iranintl.com/202609099218",
         "image": "http://www.bing.com/th?id=ONUT.VkwxYQgiJC2YqGl76w2xdA&pid=News",
         "timestamp": 1788921600.0
-    },
-    {
-        "id": "ca13af2450",
-        "title_fa": "ایران و اوکراین آخرین درگیری‌های جنگ سرد هستند و پایان آنها می‌تواند آینده‌ای باز را برای جهان رقم بزند",
-        "title_en": "Iran and Ukraine are the last conflicts of the Cold War — and their end could spur an open future for the world",
-        "summary": [
-            "Ukrainian President Volodymyr Zelensky, in his previous life a TV comic, turned out to be a courageous and charismatic wartime leader. The blue-and-yellow Ukrainian flag suddenly sprouted in windows..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/08/opinion/iran-and-ukraine-are-the-last-conflicts-of-the-cold-war-and-their-end-could-spur-an-open-future-for-the-world/",
-        "clean_url": "https://nypost.com/2026/09/08/opinion/iran-and-ukraine-are-the-last-conflicts-of-the-cold-war-and-their-end-could-spur-an-open-future-for-the-world",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-mkxx8zw52-1788910538639.jpg?quality=75&strip=all&1788896480&w=1200",
-        "timestamp": 1788921410.0878751
-    },
-    {
-        "id": "768d33f688",
-        "title_fa": "تهدید موشکی بالستیک جدید ایران به ناوهای آمریکایی",
-        "title_en": "Iran signaling it has incentive to escalate the war",
-        "summary": [
-            "ایران با موشک جدید «قاسم بصیر» توانست تهدید پیش‌دستی علیه ناوهای آمریکایی را اعلام کند",
-            "واشنگتن حمله به ناو حامل هسته‌ای جورج واشنگتن و ناوشکن را تأیید کرد ولی استفاده از موشک جدید نامشخص است",
-            "این ریتوریک نشان می‌دهد تهران قصد دارد از واکنش تلافی‌جویانه به پیش‌دستی تبدیل شود",
-            "احتمال افزایش خطر در تنگه هرمز و گسترش درگیری‌های منطقه‌ای"
-        ],
-        "impact": "احتمال برخورد مستقیم با ناوهای آمریکایی و تشدید تنش در تنگه هرمز",
-        "tag": "موشکی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Asia Times",
-        "url": "https://asiatimes.com/2026/09/iran-signaling-it-has-incentive-to-escalate-the-war/",
-        "clean_url": "https://asiatimes.com/2026/09/iran-signaling-it-has-incentive-to-escalate-the-war",
-        "image": "http://www.bing.com/th?id=ONUT.cM83INo7JzzBgueY65wbBA&pid=News",
-        "timestamp": 1788920400.0
     }
 ]
