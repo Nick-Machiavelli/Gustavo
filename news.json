@@ -125,6 +125,26 @@
         "timestamp": 1789068003.4760227
     },
     {
+        "id": "afd3589f43",
+        "title_fa": "ارجاع ایران به شورای امنیت به‌دلیل نقض‌های هسته‌ای",
+        "title_en": "Iran Is Referred to UN Security Council Over Nuclear Breaches",
+        "summary": [
+            "IAEA اعلام کرد که نمی‌تواند موجودی اورانیوم غنی‌شده ایران را تأیید کند",
+            "این ارجاع اولین بار در ۲۰ سال است که ایران به‌سازمان ملل ارجاع می‌شود",
+            "روسیه و چین می‌توانند با حق وتو مانع تحریم‌های جدید شوند",
+            "تهران این اقدام را فشار سیاسی ناعادلانه می‌داند"
+        ],
+        "impact": "فشار بین‌المللی و احتمال تحریم‌های جدید بر اقتصاد ایران افزایش می‌یابد",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "NTD News",
+        "url": "https://www.ntd.com/iran-is-referred-to-un-security-council-over-nuclear-breaches_1171935.html",
+        "clean_url": "https://www.ntd.com/iran-is-referred-to-un-security-council-over-nuclear-breaches_1171935.html",
+        "image": "https://i.ntd.com/assets/uploads/2026/09/id1171936-Iran-Nuclear-Sites-AP25165551799994-vs.jpg-900x506.webp",
+        "timestamp": 1789067040.0
+    },
+    {
         "id": "16a267e426",
         "title_fa": "تحریم‌های ایالات متحده علیه هوانوردی ایران باید با انزوای عملیاتی دنبال شود",
         "title_en": "U.S. Sanctions on Iranian Aviation Should Be Followed by Operational Isolation",
@@ -5381,25 +5401,5 @@
         "clean_url": "https://tass.com/world/2185069",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1788954540.0
-    },
-    {
-        "id": "d60dd7e6ff",
-        "title_fa": "اُدونل به پست‌های دیوانه‌وار ترامپ واکنش داد",
-        "title_en": "'Evidence Of Insanity': Lawrence O'Donnell Exposes Disturbing Trend In Trump's Posts",
-        "summary": [
-            "اُدونل ادعا کرد پست‌های هوش مصنوعی ترامپ نشانهٔ ضعف ذهنی اوست",
-            "او به تغییر نام نیومکزیکو به «آمریکای نو» و رقص «Y.M.C.A.» اشاره کرد",
-            "این ادعاها در چارچوب یک برنامهٔ رسانه‌ای برای نقد رفتار ترامپ مطرح شد",
-            "هیچ قدرت قانونی برای تغییر نام ایالت توسط رئیس‌جمهور وجود ندارد"
-        ],
-        "impact": "افزایش فشار داخلی و بین‌المللی بر تصویر ذهنی ترامپ، اما اثر عملی محدود",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/evidence-insanity-lawrence-odonnell-exposes-105637620.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/evidence-insanity-lawrence-odonnell-exposes-105637620.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/a5d27d535f7f98eca1171d553321470026e45ef3c48172e44136b5afdd527193/lightyear_networkapi/resizefill_w1199_h600%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F8a77011d3535655c392284d1d1357e07.png",
-        "timestamp": 1788954133.1652536
     }
 ]
