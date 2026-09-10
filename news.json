@@ -20,6 +20,24 @@
         "timestamp": 1789015353.6624777
     },
     {
+        "id": "7ed0d254a8",
+        "title_fa": "قیمت نفت به صد دلار رسید؛ تنش خاورمیانه تشدید شد",
+        "title_en": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
+        "summary": [
+            "صعود ناگهانی نفت به ۱۰۰ دلار نشانگر نگرانی بازار از ادامه درگیری‌ها در خاورمیانه است.",
+            "این افزایش هزینه‌های انرژی را برای کشورهای واردکننده بالا می‌برد و فشار تورمی و تراز تجاری را تشدید می‌کند."
+        ],
+        "impact": "هزینه‌های انرژی جهانی افزایش می‌یابد؛ فشار بر تورم و سیاست‌های پولی کشورهای مصرف‌کننده",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHNCdG5udTk5WkFZT1g1Ml9kXy1zc1Myc0N0aVAtUHQwTlU3ZEVwZVE3X3oxb2YyWnZoaWhqZUN0T0JDbTVLaFlwRzc0a2ttYmJud3dSblgxN280UU9fNS1JaGlnb1VOT2EzblI1SmRGdk9OeFBBX3huYWZlSHlFV1ExdHo?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHNCdG5udTk5WkFZT1g1Ml9kXy1zc1Myc0N0aVAtUHQwTlU3ZEVwZVE3X3oxb2YyWnZoaWhqZUN0T0JDbTVLaFlwRzc0a2ttYmJud3dSblgxN280UU9fNS1JaGlnb1VOT2EzblI1SmRGdk9OeFBBX3huYWZlSHlFV1ExdHo",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789014480.0
+    },
+    {
         "id": "010404a56b",
         "title_fa": "طوفان لوید خسارت ۸۰ هزار دلاری به باشگاه کایولا",
         "title_en": "Hurricane Lowell leaves Kauai canoe club with $80K in damage",
@@ -2676,6 +2694,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldfZlUwY0FCWmkxTF9kZmlRak9fai1nQlpjUC01bmxabUZzaGV3N2NNN1J1aVZIa0Ftc0l3RS1mc2pkeTJxSVNiLU5EaGNBTkN6NG9ZRWJmTWFOY1JhS3A5elZTbjA2dzRlRE9VUTktdjk0MWZMVTFNWUp5NmhVYXpqeWZCQ0l3a3Y5T2x4aDNud2ZuWmdwdDRZeUEyWGtTRGtzRXFWRW83NWRQR3Jncw",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788933180.0
+    },
+    {
+        "id": "fe61e024d4",
+        "title_fa": "هشدار مقامات ترامپ: جنگ ایران تا پایان دوره‌اش ادامه دارد",
+        "title_en": "'Everyone pays': Trump aides privately brace for a fight lasting his whole term",
+        "summary": [
+            "مشاوران سفید‌خانه به ترامپ گفتند فشار علیه ایران می‌تواند تا سال 2029 ادامه یابد، خلاف وعدهٔ پایان سریع جنگ.",
+            "استراتژی بلاکاد و تحریم‌ها به‌جای جنگ مستقیم ادامه دارد؛ ریسک طولانی‌مدت فشار بر اقتصاد ایران و روابط بین‌المللی.",
+            "جنگ طولانی‌مدت می‌تواند هزینه انسانی و سیاسی بالاتر بگذارد و فشار بر کنگره و انتخابات آمریکا را افزاش دهد."
+        ],
+        "impact": "پایان‌ناپذیر شدن جنگ، فشار اقتصادی طولانی‌مدت بر ایران و تشدید تنش‌های داخلی آمریکا",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/trump-iran-war-2677840169/",
+        "clean_url": "https://www.rawstory.com/trump-iran-war-2677840169",
+        "image": "https://www.bing.com/th?id=ONUT.I6CiU72QW4Hg8lj4PZ05Fw",
+        "timestamp": 1788929465.0
     },
     {
         "id": "e02331ee86",
@@ -5405,42 +5442,5 @@
         "clean_url": "https://www.newsweek.com/falklands-argentina-milei-israel-trump-uk-12415675",
         "image": "https://www.bing.com/th?id=ONUT.k5dbusw5bNoHFed6faiwXg",
         "timestamp": 1788881998.2223892
-    },
-    {
-        "id": "04df84366f",
-        "title_fa": "تحریم آمریکا بر بخش‌های هوانوردی ایران",
-        "title_en": "US hits remaining parts of Iran's aviation sector with sanctions in latest move to isolate Tehran",
-        "summary": [
-            "آمریکا تمام نهادهای هواپیمایی باقی‌مانده را هدف گرفت تا فشار اقتصادی بر تهران را افزون کند",
-            "تحریم‌ها مانع خرید قطعات مهم و دسترسی به خدمات بین‌المللی می‌شود و توان پروازی ایران را به‌طور چشمگیری کاهش می‌دهد",
-            "این گام، پیام واضحی به ایران درباره ادامه مذاکرات هسته‌ای و رفتارهای منطقه‌ای می‌فرستد"
-        ],
-        "impact": "کاهش شدید توان پروازی و فشار بر اقتصاد هوایی ایران",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "abcnews.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFFUT0h0Q1dWZEN1M2RzaDdZbGNLS2dqSmdtRl90dUVCOHB1RExfOWlJcF9IQTV0WENXa3lISEFYYV9sdjMtWDZPOFB6NHZYMUVzNi1BRDV2LWQxMHZfeUp6UlhxSnJ1VGJyZk5fYzFoZG9nZlc3MHZRNWJvbU1yTWZDTG1ZSDhJVnMybVdyR2steGgxaHJDd0VoWXR5Y0nSAaQBQVVfeXFMTUw3Z0kyWEZaeVdkdXFqT0RhbFp3V0E2SFplOUdoM09oYTBOZmRVdlpnXzFoc1pJR3RNWU02WDh5Y0YwLVpiRUJHd3BmYjdqM3ZiVmdoRElrVThiZFA5Z1duNk1aSnRIRUNyMmlvWGJLSWZBSVF1bDFaQ1lRaDBoSFBTVEdDTDNfTnBrbkU4b1ZKOTNTa29NbUpaa2prSEpyVzZQMUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFFUT0h0Q1dWZEN1M2RzaDdZbGNLS2dqSmdtRl90dUVCOHB1RExfOWlJcF9IQTV0WENXa3lISEFYYV9sdjMtWDZPOFB6NHZYMUVzNi1BRDV2LWQxMHZfeUp6UlhxSnJ1VGJyZk5fYzFoZG9nZlc3MHZRNWJvbU1yTWZDTG1ZSDhJVnMybVdyR2steGgxaHJDd0VoWXR5Y0nSAaQBQVVfeXFMTUw3Z0kyWEZaeVdkdXFqT0RhbFp3V0E2SFplOUdoM09oYTBOZmRVdlpnXzFoc1pJR3RNWU02WDh5Y0YwLVpiRUJHd3BmYjdqM3ZiVmdoRElrVThiZFA5Z1duNk1aSnRIRUNyMmlvWGJLSWZBSVF1bDFaQ1lRaDBoSFBTVEdDTDNfTnBrbkU4b1ZKOTNTa29NbUpaa2prSEpyVzZQMUE",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788881754.0
-    },
-    {
-        "id": "81a581d64c",
-        "title_fa": "سپاه ایران حمله به پایگاه آمریکایی اردن را تأیید کرد",
-        "title_en": "IRGC confirms Iran attacked Jordanian US military base following Kharg Island strikes",
-        "summary": [
-            "سپاه پس از انفجارهای جزیره خرگ، حمله به پایگاه آمریکایی در اردن را اجرا کرد",
-            "این حمله نشان‌دهنده گسترش جنگ سایبری و استفاده از سلاح‌های دقیق توسط ایران است"
-        ],
-        "impact": "پایگاه آمریکایی در اردن تحت فشار، احتمال پاسخ نظامی آمریکا و تشدید تحریم‌ها",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/us-targets-iranian-oil-tankers-official-tells-post-as-iran-reports-explosions-near-kharg-island/ar-AA2bPFIw",
-        "clean_url": "https://www.msn.com/en-us/politics/government/us-targets-iranian-oil-tankers-official-tells-post-as-iran-reports-explosions-near-kharg-island/ar-AA2bPFIw",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788881552.0
     }
 ]
