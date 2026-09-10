@@ -1,5 +1,25 @@
 [
     {
+        "id": "1ba558c0ce",
+        "title_fa": "راپائِل گلوکسمن: پرنده‌ای تند در لباس پیشرو",
+        "title_en": "Raphäel Glucksmann, a hawk in progressive clothing",
+        "summary": [
+            "گلوکسمن، نامزد مرکز‑چپ فرانسه، دیدگاه‌های نظامی تند دارد",
+            "او را به سنت فلسفه نوین با گرایش جنگ‌طلبی مقایسه می‌کند",
+            "مقاله نقد می‌کند که او از شکست‌های نظامی اخیر درس نگرفته",
+            "این رویکرد می‌تواند در سیاست‌های اروپایی خطرآفرین باشد"
+        ],
+        "impact": "احتمال ترویج سیاست‌های سخت‌گیرانه نظامی در انتخابات فرانسه",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Jacobin on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/raphäel-glucksmann-a-hawk-in-progressive-clothing/ar-AA2bWLc2?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/raphäel-glucksmann-a-hawk-in-progressive-clothing/ar-AA2bWLc2",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789047381.190932
+    },
+    {
         "id": "13a669e382",
         "title_fa": "نقشه جهان ما اشتباه است.",
         "title_en": "Our world map is wrong. MAGA likes it that way",
@@ -69,6 +89,26 @@
         "clean_url": "https://www.iranintl.com/202609107219",
         "image": "https://www.bing.com/th?id=ONUT.4ZO9VP3QqNhMBvgfy1L3Cg",
         "timestamp": 1789044391.778608
+    },
+    {
+        "id": "c4ff905f4a",
+        "title_fa": "پرونده هسته‌ای ایران به شورای امنیت بازگشت",
+        "title_en": "Iran's nuclear file is back at the UN Security Council. What will happen next?",
+        "summary": [
+            "هیئت حاکمان آژانس بین‌المللی انرژی اتمی ایران را به شورای امنیت ارجاع داد",
+            "این اولین ارجاع در ۲۰ سال است",
+            "تصمیم توسط آمریکا، بریتانیا، فرانسه و آلمان با ۲۳ رأی تصویب شد",
+            "روسیه، چین و نیجر مخالفند؛ نتیجه به‌دلیل حق وتو نامشخص است"
+        ],
+        "impact": "احتمال اعمال تحریم‌های جدید یا فشار دیپلماتیک شدید بر برنامه هسته‌ای ایران",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/analysis/iran-nuclear-file-back-un-security-council-what-now",
+        "clean_url": "https://www.newarab.com/analysis/iran-nuclear-file-back-un-security-council-what-now",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2219212237.jpeg?itok=NWY0Bppr",
+        "timestamp": 1789044060.0
     },
     {
         "id": "85b2971998",
@@ -3329,6 +3369,26 @@
         "timestamp": 1788961112.0958655
     },
     {
+        "id": "4f020841b5",
+        "title_fa": "موشک‌های ایرانی هواپیماهای آمریکایی در اردن را صدمه زدند",
+        "title_en": "Trump gives timeline for when Iran war will end and prices fall",
+        "summary": [
+            "موشک‌های بالستیک ایران به پایگاه مووافق سلتی در اردن شلیک شد",
+            "یک A-10 و حدود هشت F-15 به‌صورت جزئی آسیب دیدند",
+            "دفاع هوایی اردن ۱۸ تا ۲۰ موشک را رهگیری کرد",
+            "هیچ تلفات انسانی گزارش نشد؛ نیروهای آمریکایی کاملاً تحت کنترل هستند"
+        ],
+        "impact": "آسیب جزئی به تجهیزات هوایی آمریکا در خاورمیانه، فشار دیپلماتیک بر ایران افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-strikes-strait-of-hormuz-09-10-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strikes-strait-of-hormuz-09-10-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/a1efd1f84c08a3e254198ac5de601765.jpg",
+        "timestamp": 1788960976.0
+    },
+    {
         "id": "6f6954b68e",
         "title_fa": "رشد کاپ‌گیراردو و ترافیک: نظرات خوانندگان",
         "title_en": "Speak Out: Grow up",
@@ -5367,60 +5427,5 @@
         "clean_url": "https://johnmenadue.com/post/2026/09/uk-bans-goods-from-illegal-israeli-settlements-in-major-policy-shift",
         "image": "https://www.bing.com/th?id=ONUT.i-uxroLaQkkWx3OBh4HiRA",
         "timestamp": 1788915247.8722153
-    },
-    {
-        "id": "4f6ad83ce7",
-        "title_fa": "خبر بین‌المللی — U.S. Hits 5 ایرانی Oil Tankers, Citing Attempted Strikes در",
-        "title_en": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
-        "summary": [
-            "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship The New York Times"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNkpTRGVrTlFEREt5SXZ5XzYtaUhFa1kyYnFqTmg1N0xaOU5DbWlORWRTS3BRWEwyQlhFaXIyZEp6ZmQ4N3dUQnhiMDV3bnZJa1ZmWmU2STlTZl9UTERDNW40SE85SlAyQlJuajBsenpXY0x0MGszV055RF8xNTNSZ1lPYVIzTnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNkpTRGVrTlFEREt5SXZ5XzYtaUhFa1kyYnFqTmg1N0xaOU5DbWlORWRTS3BRWEwyQlhFaXIyZEp6ZmQ4N3dUQnhiMDV3bnZJa1ZmWmU2STlTZl9UTERDNW40SE85SlAyQlJuajBsenpXY0x0MGszV055RF8xNTNSZ1lPYVIzTnc",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788915019.0
-    },
-    {
-        "id": "0a07ca2d43",
-        "title_fa": "روز D اقتصادی ترامپ علیه ایران",
-        "title_en": "Trump’s ‘Economic D-Day’ About More Than Sanctions – OpEd",
-        "summary": [
-            "ترامپ تحریم‌ها را به‌عنوان «روز D اقتصادی» معرفی کرد تا پیام قوی به رقبای داخلی و خارجی بفرستد",
-            "این استراتژی بیشتر برای نشان دادن اقدام به داخل آمریکا است تا واقعی‌اً تضعیف رژیم",
-            "تحریم‌ها به‌سختی بر ساختارهای حکومتی اثر می‌گذارد؛ اما فشار شدید بر زندگی روزمره مردم ایجاد می‌کند",
-            "امکان گسترش محدودیت‌ها به حوزه‌های دیگر مانند انرژی و مالی وجود دارد"
-        ],
-        "impact": "تحریم‌های جدید فشار اقتصادی بر مردم ایران را تشدید می‌کند",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/09092026-trumps-economic-d-day-about-more-than-sanctions-oped/",
-        "clean_url": "https://www.eurasiareview.com/09092026-trumps-economic-d-day-about-more-than-sanctions-oped",
-        "image": "https://www.bing.com/th?id=ONUT.JtfTR29YVaCbg09oX1quBg",
-        "timestamp": 1788914854.6824617
-    },
-    {
-        "id": "374131f861",
-        "title_fa": "نیروهای آمریکا پنج تانکر ایرانی را هدف گرفت",
-        "title_en": "US forces hit five Iranian tankers as Tehran targets American base in Jordan",
-        "summary": [
-            "آمریکا پنج تانکر تحت پرچم ایرانی را در خلیج فارس نابود کرد",
-            "این اقدام در واکنش به تهدیدهای ایران به پایگاه آمریکایی اردن انجام شد"
-        ],
-        "impact": "حذف پنج تانکر، فشار بر صادرات نفت ایران و تشدید تنش‌های نظامی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWJtUDJmUXdQb2JLMUZpVFNTU3llRTdfSHkzQWVPMjdfb3lJM0RhaTJBWk51RDY4QWlQS3IzemgyeU1EcXBVMkRlVXlySHZzQWFRcFZ0eVFXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWJtUDJmUXdQb2JLMUZpVFNTU3llRTdfSHkzQWVPMjdfb3lJM0RhaTJBWk51RDY4QWlQS3IzemgyeU1EcXBVMkRlVXlySHZzQWFRcFZ0eVFXdw",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788914513.0
     }
 ]
