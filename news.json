@@ -1,5 +1,23 @@
 [
     {
+        "id": "0f73072c9d",
+        "title_fa": "دفاع خودکفا هند، نیاز به واقع‌گرایی و پهپادهای بیشتر",
+        "title_en": "India’s defence Atmanirbharta needs a dose of realism—and a lot more drones",
+        "summary": [
+            "بودجه محدود دولت مانع از تامین تجهیزات پیشرفته نظامی شده و برنامه خودکفایی را به‌چالش می‌کشد.",
+            "پهپادها به‌عنوان راه‌حل کم‌هزینه مطرح‌اند، اما مقیاس تولید و بکارگیری فعلی ناکافی است."
+        ],
+        "impact": "عدم تقویت پهپادها می‌تواند توان نظامی هند را نسبت به همسایگان محدود کند.",
+        "tag": "دفاع",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "The Print on MSN",
+        "url": "https://www.msn.com/en-in/news/opinion/india-s-defence-atmanirbharta-needs-a-dose-of-realism-and-a-lot-more-drones/ar-AA2bVGka?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/opinion/india-s-defence-atmanirbharta-needs-a-dose-of-realism-and-a-lot-more-drones/ar-AA2bVGka",
+        "image": "https://www.bing.com/th?id=ONUT.vCFseAHCBT1ocSaAym6DyQ",
+        "timestamp": 1789022691.8663929
+    },
+    {
         "id": "f5e18b0d4d",
         "title_fa": "ترامپ جنگ ایران را پیش‌نهاد کرد، وعده ۵۰۰۰ دلار",
         "title_en": "Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms",
@@ -474,6 +492,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/opinion-this-is-the-sinister-warning-about-what-comes-after-trump/ar-AA2bU6WB",
         "image": "https://www.bing.com/th?id=ONUT.E4Ofu_aP53-5PGLDLz3kSg",
         "timestamp": 1788998687.768332
+    },
+    {
+        "id": "e5e3f0ab09",
+        "title_fa": "بحران غذایی جهان، چین کمتر تحت تأثیر",
+        "title_en": "War and conflict",
+        "summary": [
+            "قیمت‌های محصولات کشاورزی به دلیل ال‌نینو و اختلال در صادرات غلات اوکراین به‌طور جهانی بالا رفت.",
+            "ذخایر قوی چین مانع از انتقال شدید این فشار به بازار داخلی شد."
+        ],
+        "impact": "قیمت خوراکی‌ها در سطح جهان افزایش می‌یابد، اما چین از کمبود جلوگیری می‌کند.",
+        "tag": "غذایی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/topics/war-and-conflict",
+        "clean_url": "https://www.scmp.com/topics/war-and-conflict",
+        "image": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
+        "timestamp": 1788996840.0
     },
     {
         "id": "a779ae9e21",
@@ -5413,39 +5449,5 @@
         "clean_url": "https://www.commondreams.org/newswire/allies-concrete-action-on-settlements-welcome-and-necessary",
         "image": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82NjgzNzk4My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5MDkzNTA1OH0.c_5GNAUmQqriWpRaCpyvQkVPiRge-RwkqLmh1xNhQ-o/image.png?width=210",
         "timestamp": 1788888900.0
-    },
-    {
-        "id": "4bbaa948fa",
-        "title_fa": "ترامپ به تازگی مراسم بزرگداشت 11 سپتامبر خود را به ناراحت کننده ترین شکل آغاز کرد",
-        "title_en": "Trump just kicked off his 9/11 commemorations in the most unsettling way",
-        "summary": [
-            "ANALYSIS: The president showed a stunning lack of empathy during a speech in front of first responders and families who lost..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/trump-just-kicked-off-9-164038000.html",
-        "clean_url": "https://www.aol.com/articles/trump-just-kicked-off-9-164038000.html",
-        "image": "https://www.bing.com/th?id=ONUT.m1nSFnxJoSR1QNJXCWMH3w",
-        "timestamp": 1788888241.18885
-    },
-    {
-        "id": "cfe57b5725",
-        "title_fa": "ترامپ پس از کناره گیری از مراسم ملی، مراسم ادای احترام عجیبی را در مورد 11 سپتامبر برگزار کرد",
-        "title_en": "Trump hosts weird 9/11 tribute after backing out of national ceremony",
-        "summary": [
-            "President Donald Trump hosted his own early-bird 9/11 tribute after deciding to skip the official ceremony in New York City..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New Republic on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-hosts-weird-9-11-tribute-after-backing-out-of-national-ceremony/ar-AA2bOO6R?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-hosts-weird-9-11-tribute-after-backing-out-of-national-ceremony/ar-AA2bOO6R",
-        "image": "https://www.bing.com/th?id=ONUT.LRiDyh5KGLi8Bgk8Fgu_8w",
-        "timestamp": 1788887606.515406
     }
 ]
