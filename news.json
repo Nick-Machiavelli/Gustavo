@@ -1,5 +1,24 @@
 [
     {
+        "id": "7ddfd0aac5",
+        "title_fa": "ترامپ هر کشتی در مسیرهای بحرانی را هدف گرفت",
+        "title_en": "Iran’s war spilled into the world’s most important shipping routes... Trump threatened to hit back – for every ship",
+        "summary": [
+            "تشدید تنش‌های خلیج فارس پس از گسترش جنگ ایران به مسیرهای کشتیرانی",
+            "ترامپ اعلام کرد برای هر کشتی که توسط ایران تهدید شود، پاسخ نظامی می‌دهد",
+            "این اظهارات می‌تواند هزینه حمل و نقل را بالا برده و بازار نفت را ناآرام کند"
+        ],
+        "impact": "احتمال بروز برخوردهای نیابتی در اقیانوس‌ها و افزایش هزینه‌های حمل‌ونقل",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "America Uncovered on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-war-spilled-into-the-world-s-most-important-shipping-routes-trump-threatened-to-hit-back-for-every-ship-my-take/vi-AA2bWn69?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-war-spilled-into-the-world-s-most-important-shipping-routes-trump-threatened-to-hit-back-for-every-ship-my-take/vi-AA2bWn69",
+        "image": "https://www.bing.com/th?id=ONUT.AJRfMm2bmu2a_3LcFkKDFA",
+        "timestamp": 1789038783.9368784
+    },
+    {
         "id": "dd90c4e548",
         "title_fa": "اقتصاد ایران در آستانه فروپاشی؛ فشار آمریکا ادامه دارد",
         "title_en": "'Keep the pressure up': Iranian regime crumbling under US economic squeeze",
@@ -36,6 +55,25 @@
         "clean_url": "https://www.msn.com/en-in/news/other/opinion-us-can-threaten-not-dictate-what-india-s-iran-message-really-means/ar-AA2bWJFq",
         "image": "https://www.bing.com/th?id=ONUT.SznPsODmFTM3MkpYVj7gTQ",
         "timestamp": 1789038186.8298488
+    },
+    {
+        "id": "728d852ce3",
+        "title_fa": "آژانس بین‌المللی انرژی هسته‌ای ایران را غیررعایت‌گر می‌داند",
+        "title_en": "IAEA accuses Iran of 'non-compliance': Why, and what now?",
+        "summary": [
+            "آی‌اِی‌اِی بیش از یک سال بدون بازدید از سایت‌های کلیدی مانده است",
+            "تهدید دسترسی به دلیل حملات آمریکا، ایران را از همکاری باز می‌دارد",
+            "عدم بازرسی می‌تواند تحریم‌های جدید و فشار بین‌المللی را تشدید کند"
+        ],
+        "impact": "ممکن است تحریم‌های سخت‌تری بر صنایع هسته‌ای ایران اعمال شود",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/politics/international-relations/iaea-accuses-iran-of-non-compliance-why-and-what-now/ar-AA2bX8IV",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iaea-accuses-iran-of-non-compliance-why-and-what-now/ar-AA2bX8IV",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bWsxX.img?w=4206&h=2804&m=4&q=80",
+        "timestamp": 1789037979.0
     },
     {
         "id": "b1366eede4",
@@ -209,6 +247,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2VKMkx6TnduQ2hwb3oyZTZrd3Q3WWl3ZjVYRlEta1lXWU0xSjJKUGx3OVFwYko2czR3REhZakY0OFVuVWd2ampfeF9jUy0ydXcyMWdwUEc3TmhKYXVMbXlXNFNCeU5FNTJMZEtTMzZWMUk1QU5SVGt5XzZFT0c2N1plV0Z5ZWU0YTZJSmVoRzg2TW9valg1MkpPcUE1OHk2alAzUWVEMEVVak50ZGZ5SEhlMFlON0hNb3c",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789034520.0
+    },
+    {
+        "id": "5c4741584b",
+        "title_fa": "خط هوایی دولتی ایران با دور زدن تحریم‌ها گسترش می‌یابد",
+        "title_en": "Iranian Airline Favored by the Regime Is Defying Sanctions and Expanding",
+        "summary": [
+            "شرکت هواپیمایی تحت حمایت رژیم، پروازهای بین‌المللی بیشتری راه‌اندازی کرده",
+            "این گسترش نشان می‌دهد توانایی دور زدن تحریم‌های مالی و هوایی وجود دارد"
+        ],
+        "impact": "رقابت برای خطوط هوایی منطقه‌ای تشدید می‌شود و فشار بر شرکت‌های غربی افزایش می‌یابد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0VwMHlSM09wa1JuanFzVmUyOHF4eEgwQ21tS1JvVDlLSktISTFxM1E5ZHlwVHFMZ2dnbThBeHVWR3czUkZiaWVBcEo1S2xsWVZYRXNfeXhWbGJzLWFaZmRFblNzOW1GZnlaMTNpS0VQQ2NwWVFrOUNMaF9EeWNBN2s3VVFFcXBTeDk4UVE2MUtyVE9xTW9OSzhSYjFuUzdZMFFxRGZfYTV5eVZNaFhST1NvakVjZFlSOWpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0VwMHlSM09wa1JuanFzVmUyOHF4eEgwQ21tS1JvVDlLSktISTFxM1E5ZHlwVHFMZ2dnbThBeHVWR3czUkZiaWVBcEo1S2xsWVZYRXNfeXhWbGJzLWFaZmRFblNzOW1GZnlaMTNpS0VQQ2NwWVFrOUNMaF9EeWNBN2s3VVFFcXBTeDk4UVE2MUtyVE9xTW9OSzhSYjFuUzdZMFFxRGZfYTV5eVZNaFhST1NvakVjZFlSOWpB",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789034427.0
     },
     {
         "id": "50d0504622",
@@ -5393,60 +5449,5 @@
         "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-tankers-attacks-strikes-strait-of-hormuz-oil-price",
         "image": "https://www.bing.com/th?id=ONUT.lTBFroRTJl-SV12EJJun4A",
         "timestamp": 1788903656.0
-    },
-    {
-        "id": "d41b4d549a",
-        "title_fa": "خبر بین‌المللی — Oil tops $100 per barrel as U.S. و ایران launch new attacks",
-        "title_en": "Oil tops $100 per barrel as U.S. and Iran launch new attacks",
-        "summary": [
-            "The price of crude oil hit a 15-week high after the U.S. said it blew up five more Iranian oil tankers, triggering..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/u-forces-destroy-5-iranian-070147726.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/u-forces-destroy-5-iranian-070147726.html",
-        "image": "https://www.bing.com/th?id=ONUT.MuG8JLdxZ_dx1_pxA2KDBA",
-        "timestamp": 1788903656.0
-    },
-    {
-        "id": "83668fe9e3",
-        "title_fa": "تحریم آمریکا به‌سختی بر گردشگری کوبا می‌زند",
-        "title_en": "The US Embargo: The Economic and Human Consequences of Flight Cancellations for Cuba",
-        "summary": [
-            "ممنوعیت‌های جدید هواپیمایی منجر به کمبود سوخت و توقف پروازهای تجاری شد",
-            "شرکت‌های هواپیمایی کانادا خدمات به کوبا را متوقف کردند؛ درآمد ارزی کوبا به‌طور جدی کاهش یافت",
-            "فشار اقتصادی بر مردم عادی کوبا افزایش یافت؛ دسترسی به دارو و غذا سخت‌تر شد"
-        ],
-        "impact": "کاهش شدید ارز ورودی کوبا و تشدید بحران انسانی",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Mises Institute",
-        "url": "https://mises.org/mises-wire/us-embargo-economic-and-human-consequences-flight-cancellations-cuba",
-        "clean_url": "https://mises.org/mises-wire/us-embargo-economic-and-human-consequences-flight-cancellations-cuba",
-        "image": "https://www.bing.com/th?id=ONUT.E1FW_LkP3tmCWd9vKqA_XQ",
-        "timestamp": 1788903236.486611
-    },
-    {
-        "id": "dd3f458225",
-        "title_fa": "تحریم‌های اسرائیل بریتانیا زیر هدف ترامپ",
-        "title_en": "Miliband's Israel sanctions risk putting UK in Trump's crosshairs: Alex Brummer",
-        "summary": [
-            "ترامپ به‌سرعت از تحریم‌ها به‌عنوان ابزار فشار جغرافیایی استفاده می‌کند",
-            "اگر بریتانیا به اسرائیل فشار آورد، ممکن است آمریکا روابط تجاری با لندن را محدود کند",
-            "این ریسک باعث نگرانی در بازارهای مالی و زنجیره تأمین می‌شود"
-        ],
-        "impact": "روابط تجاری بریتانیا‑آمریکا تحت فشار قرار می‌گیرد و ممکن است تحریم‌های جدیدی اعمال شود",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "This is Money on MSN",
-        "url": "https://www.msn.com/en-za/money/general/miliband-s-israel-sanctions-risk-putting-uk-in-trump-s-crosshairs-alex-brummer/ar-AA2bPhM3?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-za/money/general/miliband-s-israel-sanctions-risk-putting-uk-in-trump-s-crosshairs-alex-brummer/ar-AA2bPhM3",
-        "image": "https://www.bing.com/th?id=ONUT.U9KySHLNcoYWLwuQLECg5w",
-        "timestamp": 1788903236.4863079
     }
 ]
