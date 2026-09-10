@@ -1,5 +1,24 @@
 [
     {
+        "id": "518e456de7",
+        "title_fa": "سیاست‌های ترامپ و تضاد با وعده‌هایش",
+        "title_en": "Trump’s Policy Choices Hurt The Economy And Contradict His Promises",
+        "summary": [
+            "تحلیل‌گران می‌گویند سیاست‌های اقتصادی ترامپ باعث تورم و نرخ بهره بالا شده است",
+            "حملات به سوسیالیسم و محدود کردن تجارت، وعده‌های شغلی او را زیر سؤال می‌برد",
+            "این اختلاف بین شعار و عمل، اعتماد سرمایه‌گذاران را کاهش می‌دهد"
+        ],
+        "impact": "کاهش رشد اقتصادی و افزایش نارضایتی عمومی در ایالات متحده",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/howardgleckman/2026/09/10/trumps-policy-choices-hurt-the-economy-and-contradict-his-promises/",
+        "clean_url": "https://www.forbes.com/sites/howardgleckman/2026/09/10/trumps-policy-choices-hurt-the-economy-and-contradict-his-promises",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789065512.1150596
+    },
+    {
         "id": "9accafa892",
         "title_fa": "ایران بین مقاومت و دیپلماسی",
         "title_en": "Iran between Resistance and Diplomacy",
@@ -241,6 +260,25 @@
         "clean_url": "https://www.readtangle.com/john-fetterman-democrats",
         "image": "https://storage.ghost.io/c/4a/93/4a939b47-6a19-4b38-a13c-89d5a0f0d6dd/content/images/size/w1200/2026/09/Fetterman.png",
         "timestamp": 1789057404.7185621
+    },
+    {
+        "id": "860c7952a8",
+        "title_fa": "پیشرفت مذاکرات پایان جنگ ایران‑آمریکا",
+        "title_en": "How Far Have the U.S. and Iran Got Towards Ending the Iran War?",
+        "summary": [
+            "مذاکرات سرکوب‌پذیر بین واشنگتن و تهران با حضور چین و روسیه ادامه دارد",
+            "هر دو طرف گام‌های محدود برای کاهش تصادفات هوایی و تبادل زندانیان برداشته‌اند",
+            "هنوز توافق نهایی برای خروج کامل نیروها یا پایان تحریم‌ها حاصل نشده است"
+        ],
+        "impact": "امکان کاهش تنش‌های نظامی و بازگشت سرمایه‌گذاری‌های منطقه‌ای",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3ZFUk1PaVIxUXpiWVR4dnFzdm5JaDNlZmVkSFQxUlVYck4tOUNnQnJadzVyMFoteE1rOEJOdkRUWVpLRlgwci10MmVUZDg1UUdpcGVkNDhZVTBaMzJGX056UVFsYjdDdGo4ZFdkNTVDQnhEd1JXNnl3ajQtT0swM3owdHpVOUxKb2E0d3M2Mmg1WC15LV80?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3ZFUk1PaVIxUXpiWVR4dnFzdm5JaDNlZmVkSFQxUlVYck4tOUNnQnJadzVyMFoteE1rOEJOdkRUWVpLRlgwci10MmVUZDg1UUdpcGVkNDhZVTBaMzJGX056UVFsYjdDdGo4ZFdkNTVDQnhEd1JXNnl3ajQtT0swM3owdHpVOUxKb2E0d3M2Mmg1WC15LV80",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789057340.0
     },
     {
         "id": "7006aa4711",
@@ -2979,6 +3017,25 @@
         "timestamp": 1788979260.670176
     },
     {
+        "id": "7cafee7e17",
+        "title_fa": "ساخت‌وساز جدید در سایت مشکوک هسته‌ای ایران",
+        "title_en": "UN nuclear watchdog spots construction activity at Iran’s suspected nuclear site: ‘There are some indications that…’",
+        "summary": [
+            "آژانس بین‌المللی انرژی هسته‌ای از تصاویر ماهواره‌ای ساخت‌وساز جدید در کوه پیک‌اکس خبر داد",
+            "این مکان نزدیک به کارخانه غنی‌سازی اورانیوم تهران است و هنوز بازدید میدانی انجام نشده",
+            "شواهدی مبنی بر فعالیت‌های هسته‌ای قطعی نیستند اما نگرانی بین‌المللی را تشدید می‌کند"
+        ],
+        "impact": "افزایش فشار دیپلماتیک و احتمال تحریم‌های جدید علیه ایران",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/iaea-un-nuclear-watchdog-construction-activity-at-iran-s-suspected-nuclear-site-there-are-some-indications-that-101789052312499.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/iaea-un-nuclear-watchdog-construction-activity-at-iran-s-suspected-nuclear-site-there-are-some-indications-that-101789052312499.html",
+        "image": "https://www.bing.com/th?id=ONUT.bi44mcCz9niQePy8vORnJw",
+        "timestamp": 1788979103.0
+    },
+    {
         "id": "47590fcee4",
         "title_fa": "ایالات متحده سوریه را از فهرست تروریست‌ها حذف کرد",
         "title_en": "US removes Syria from its “state sponsors of terrorism” list",
@@ -5353,59 +5410,5 @@
         "clean_url": "https://tass.com/politics/2185027",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1788947760.0
-    },
-    {
-        "id": "9b5a7dde60",
-        "title_fa": "آمریکا در واکنش به حمله به کشتی جنگی چندین نفتکش ایران را هدف قرار داد",
-        "title_en": "US Hits Several Iran Oil Tankers in Response to Warship Attack",
-        "summary": [
-            "The US attacked more Iranian oil tankers overnight, with the worsening tensions over control of the..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Bloomberg · via Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/us-hits-several-iran-oil-091803758.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/us-hits-several-iran-oil-091803758.html",
-        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/6c975458210725f979018c8699b7d4ef.jpg",
-        "timestamp": 1788946962.0
-    },
-    {
-        "id": "2aa78ad867",
-        "title_fa": "هیچ کس آن را ندید: در سال 1982 آنها خرها را دوباره به صحرا معرفی کردند و 40 سال بعد آنها توانستند اکوسیستم را به طور طبیعی جنگل کاری کنند.",
-        "title_en": "Nadie lo vio venir: en 1982 reintrodujeron asnos en el desierto, y 40 años después han conseguido reforestar el ecosistema de forma natural",
-        "summary": [
-            "Los asnos salvajes poblaban el desierto del Néguev, en Israel, hasta que la caza intensiva de principios del siglo XX los..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Okdiario on MSN",
-        "url": "https://www.msn.com/es-es/dinero/general/nadie-lo-vio-venir-en-1982-reintrodujeron-asnos-en-el-desierto-y-40-años-después-han-conseguido-reforestar-el-ecosistema-de-forma-natural/ar-AA2bWojo?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/es-es/dinero/general/nadie-lo-vio-venir-en-1982-reintrodujeron-asnos-en-el-desierto-y-40-años-después-han-conseguido-reforestar-el-ecosistema-de-forma-natural/ar-AA2bWojo",
-        "image": "https://www.bing.com/th?id=ONUT.ylGHN1lI1Ox93rgM1ZsmeA",
-        "timestamp": 1788946650.0
-    },
-    {
-        "id": "58edbbc1eb",
-        "title_fa": "امواج موشکی ایران به پایگاه آمریکایی اردن",
-        "title_en": "Iran sends wave of missiles toward U.S. base in Jordan after vowing escalation",
-        "summary": [
-            "ایران پس از وعده تشدید تنش، امواج موشکی به پایگاه آمریکایی در اردن پرتاب کرد",
-            "این پرتاب نشانگر گسترش جبهه‌ جنگ به خارج از خلیج است",
-            "نیروی هوایی آمریکا موفق به دفع اکثر موشک‌ها شد ولی خطر تصادفی افزایش یافت",
-            "پیام ایران: هر تهدیدی را می‌تواند به‌سرعت پاسخ دهد"
-        ],
-        "impact": "افزایش خطر برای نیروهای آمریکایی در اردن و گسترش جبهه نظامی",
-        "tag": "موشکی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXl5NEhWdWhSUHJZanQ3LU5Jd0dyWHhUN1RYVVROUHFWcnV2WjEwNzl3VWtjX0cxanNGanNUV1NEZGZTeXYwNDh6T0tIT0hQYkVsTzZGNzA0SWlONVZWOEZwRmY1OWdGUmZLMmkyNWt2Uk5fQnFNWVF2ZlBXcmdfdmowSG9fUWJBWFE1MHU1bXdwYUpsb0EwSEVkSjEtYWFvRWpwd2lvdUpZZWdXOWNlRm5wRVV5N1plM1RUMGpXc1BwWTEwcWYyaDZ6emk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXl5NEhWdWhSUHJZanQ3LU5Jd0dyWHhUN1RYVVROUHFWcnV2WjEwNzl3VWtjX0cxanNGanNUV1NEZGZTeXYwNDh6T0tIT0hQYkVsTzZGNzA0SWlONVZWOEZwRmY1OWdGUmZLMmkyNWt2Uk5fQnFNWVF2ZlBXcmdfdmowSG9fUWJBWFE1MHU1bXdwYUpsb0EwSEVkSjEtYWFvRWpwd2lvdUpZZWdXOWNlRm5wRVV5N1plM1RUMGpXc1BwWTEwcWYyaDZ6emk",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788946574.0
     }
 ]
