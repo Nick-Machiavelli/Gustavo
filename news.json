@@ -1,5 +1,25 @@
 [
     {
+        "id": "012ed20493",
+        "title_fa": "ترامپ عزم تکمیل عملیات ایران را دارد",
+        "title_en": "Chris Roemer: Democrats aim to keep Trump from finishing the job in Iran | COMMENTARY",
+        "summary": [
+            "ترامپ پس از اولین حملات، مصمم است عملیات نظامی علیه ایران را ادامه دهد.",
+            "این تصمیم با هزینه سیاسی سنگین برای او مواجه است؛ دموکرات‌ها به عزل یا شکست او در انتخابات می‌اندیشند.",
+            "فشار داخلی می‌تواند برنامه‌های نظامی او را تحت تأثیر قرار دهد.",
+            "تشدید تنش‌ها احتمالاً منجر به تحریم‌های جدید و گسترش درگیری می‌شود."
+        ],
+        "impact": "ادامه عملیات می‌تواند درگیری نظامی را گسترش داده و هزینه‌های انسانی و اقتصادی را بالا ببرد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/09/10/chris-roemer-trump-iran-democrats/",
+        "clean_url": "https://www.baltimoresun.com/2026/09/10/chris-roemer-trump-iran-democrats",
+        "image": "https://www.bing.com/th?id=ONUT.rKojn8gfcgjCT_YmFYCPpg",
+        "timestamp": 1789068003.4760227
+    },
+    {
         "id": "3094f61dc6",
         "title_fa": "جنگ جهانی علیه تروریسم، ایران قدرتمند",
         "title_en": "The global war on terror, an empowered Iran",
@@ -5386,22 +5406,5 @@
         "clean_url": "https://www.israeltoday.co.il/read/greece-deal-anchors-israel-in-eastern-mediterranean-defense",
         "image": "https://ogcdn.net/aff5a4ed-9017-42b1-9af9-ee50d42795b2/v5/Greece%20deal%20anchors%20Israel%20in%20Eastern%20Mediterranean%20defense/https%3A%2F%2Fwww.israeltoday.co.il%2Fwp-content%2Fuploads%2F2026%2F09%2Fgreece-deal.webp/og.png",
         "timestamp": 1788950231.0
-    },
-    {
-        "id": "9e8c0e8e7e",
-        "title_fa": "خبر بین‌المللی — Pakistan says no نظامی response discussed under Mecca pact o",
-        "title_en": "Pakistan says no military response discussed under Mecca pact over Houthi attacks on Saudi Arabia",
-        "summary": [
-            "Pakistan said on Thursday that there were no discussions about a military reaction from Islamabad under the Mecca agreement..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/pakistan-says-no-military-response-091121000.html",
-        "clean_url": "https://www.aol.com/articles/pakistan-says-no-military-response-091121000.html",
-        "image": "https://www.bing.com/th?id=ONUT.7YwEnoIOE6-6uv2Owx2W1w",
-        "timestamp": 1788948840.0
     }
 ]
