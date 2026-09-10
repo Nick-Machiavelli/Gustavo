@@ -68,6 +68,25 @@
         "timestamp": 1789068769.3297749
     },
     {
+        "id": "82d41b6d85",
+        "title_fa": "تحریم جدید آمریکا بر شبکه‌های حامی ایران",
+        "title_en": "US slaps new sanctions on networks aiding Iran's proxies in Middle East",
+        "summary": [
+            "آمریکا به‌سرعت تحریم‌های مالی علیه شبکه‌های پشتیبان گروه‌های نیابتی ایران در خاورمیانه اعمال کرد",
+            "شرکت‌ها و افراد مرتبط با این شبکه‌ها از دسترسی به سیستم‌های بانکی بین‌المللی محروم می‌شوند",
+            "تحریم‌ها می‌تواند توان عملیاتی گروه‌های شبه‌نظامی را در منطقه به‌طور قابل‌توجهی تضعیف کند"
+        ],
+        "impact": "فشار مالی بر نیابتی‌های ایران افزایش می‌یابد و توان عملیات منطقه‌ای آن‌ها محدود می‌شود",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2p0aERlM3VXMFFWMkg4ZUtIejRIWDdUNUtlbnkwLWlyTWFBNGMyUzBUVnczaGdsNGIxcjJNT3BIekZrQXhOVEdwY0ZaQ0RZVmE2SW5RWTdLN1F6M01vbXZyMXF1OE9XbHphN1dnRWxwWmNyV2V2WDg3dGVOTDR3TXd5dDFwcEl6X2pxd05LRmc4d2NkUzFMS3piTFg1eWppdW8xNWNHd0VYZ3EwOFM4a19SMmNkeE9TZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2p0aERlM3VXMFFWMkg4ZUtIejRIWDdUNUtlbnkwLWlyTWFBNGMyUzBUVnczaGdsNGIxcjJNT3BIekZrQXhOVEdwY0ZaQ0RZVmE2SW5RWTdLN1F6M01vbXZyMXF1OE9XbHphN1dnRWxwWmNyV2V2WDg3dGVOTDR3TXd5dDFwcEl6X2pxd05LRmc4d2NkUzFMS3piTFg1eWppdW8xNWNHd0VYZ3EwOFM4a19SMmNkeE9TZlE",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789068616.0
+    },
+    {
         "id": "012ed20493",
         "title_fa": "ترامپ عزم تکمیل عملیات ایران را دارد",
         "title_en": "Chris Roemer: Democrats aim to keep Trump from finishing the job in Iran | COMMENTARY",
@@ -5382,23 +5401,5 @@
         "clean_url": "https://thedispatch.com/newsletter/morning/the-battle-over-the-ballroom",
         "image": "https://thedispatch.com/wp-content/uploads/2026/09/GettyImages-2294213246.jpg?w=1024",
         "timestamp": 1788954121.0
-    },
-    {
-        "id": "fefeffd354",
-        "title_fa": "چپ‌زدگی آلمان به راست اف‌دی",
-        "title_en": "Germany’s Right Turn",
-        "summary": [
-            "اف‌دی با گسترش حمایت‌ها به‌دست آوردن نفوذ در مذاکرات ائتلافی را تقویت کرد",
-            "این تغییر می‌تواند سیاست‌های مهاجرتی و اقتصادی اتحادیه اروپا را به سمت سخت‌گیری سوق دهد"
-        ],
-        "impact": "افزایش فشار بر سیاست‌های مهاجرتی اتحادیه اروپا",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/09/briefing/germanys-right-turn.html",
-        "clean_url": "https://www.nytimes.com/2026/09/09/briefing/germanys-right-turn.html",
-        "image": "https://www.bing.com/th?id=ONUT.OF4Vne7HWV82D-N8q-4oQg",
-        "timestamp": 1788953045.9915884
     }
 ]
