@@ -4846,6 +4846,25 @@
         "timestamp": 1788886979.4937212
     },
     {
+        "id": "2b626d837a",
+        "title_fa": "ترامپ: مذاکرات ایران ممکن، جنگ پس از انتخابات پایان",
+        "title_en": "Iran war updates: Trump says Iran talks possible, war to end after election",
+        "summary": [
+            "اظهار نظر ترامپ نشان می‌دهد واشنگتن ممکن است برای جذب رأی‌های داخلی، مذاکرات را پس از انتخابات به تعویق بیندازد.",
+            "سخن IRGC مبنی بر هدف قرار دادن تانکرها در خلیج فارس، خطر حملات نیابتی به مسیرهای نفتی را افزایش می‌دهد.",
+            "ترکیب پیام‌های سیاسی و تهدیدات نظامی، فضای خطرناکی برای ناوگان تجاری و بازارهای انرژی جهانی ایجاد می‌کند."
+        ],
+        "impact": "هزینه حمل و نقل نفت خلیج فارس بالا می‌رود و نوسان شدید در قیمت‌های جهانی انرژی ایجاد می‌شود.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-09T184557Z_1150868070_RC2UFNAJ1JKU_RTRMADP_3_USA-TRUMP-1788979972.jpg?resize=1920%2C1440",
+        "timestamp": 1788886860.0
+    },
+    {
         "id": "2da3d908d6",
         "title_fa": "آمریکا پنج تانکر نفت ایرانی را نابود کرد",
         "title_en": "Donald Trump",
@@ -5401,25 +5420,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fbFRpRW1PVl9fN2NFaHhxdnAzZGtEekFkNDFSQWF2ZmQycDBOdnZ4ZVV0WE1DR1A2cFp6Uk5WNjdndUpDb1hRcGtvU2k",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788877229.0
-    },
-    {
-        "id": "ab4dfa5f7b",
-        "title_fa": "قمة SCO در بیشکک: تقویت جهان چندقطبی",
-        "title_en": "Bishkek SCO summit: multipolar Eurasia takes shape",
-        "summary": [
-            "۲۶مین اجلاس SCO به مناسبت ۲۵ سالگی سازمان برگزار شد و به تقویت نظام چندقطبی جهانی پرداخته شد.",
-            "رهبری چین، روسیه، هند، پاکستان، ایران و دیگر کشورهای عضو بر امنیت منطقه‌ای و یکپارچگی اقتصادی تأکید کردند.",
-            "انتقال ریاست دوره‌ای به پاکستان برای سال ۲۰۲۷ نقش جنوب آسیا را در جغرافیای اوراسیا تقویت می‌کند.",
-            "رقابت‌های داخلی بین اعضا همچنان چالش‌ساز است اما چارچوب کلی همکاری حفظ شده است."
-        ],
-        "impact": "تقویت هم‌پوشانی استراتژیک شرق‑غرب و کاهش فشار غرب بر کشورهای آسیای میانه.",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Business Recorder",
-        "url": "https://www.brecorder.com/news/40438484/bishkek-sco-summit-multipolar-eurasia-takes-shape",
-        "clean_url": "https://www.brecorder.com/news/40438484/bishkek-sco-summit-multipolar-eurasia-takes-shape",
-        "image": "https://www.bing.com/th?id=ONUT.DzceMSE60seVluqx_wcw2Q",
-        "timestamp": 1788876953.1639788
     }
 ]
