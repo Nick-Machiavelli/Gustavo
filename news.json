@@ -1,5 +1,24 @@
 [
     {
+        "id": "fd8e1da898",
+        "title_fa": "اقتصاددان از انتقاد درباره تعرفه‌های ترامپ توسط IMF اخراج شد",
+        "title_en": "Portuguese economist Ricardo Reis dropped by IMF after criticising Trump tariffs",
+        "summary": [
+            "حذف اقتصاددان توسط IMF نشان می‌دهد که فشار سیاسی آمریکا بر نهادهای بین‌المللی در حال افزایش است",
+            "این اقدام اعتبار فنی IMF را زیر سؤال می‌برد و ممکن است همکاری‌های مالی آینده را تحت تأثیر قرار دهد",
+            "تعرفه‌های ترامپ می‌توانند واکنش‌های بین‌المللی بیشتری را به خود جلب کنند و تنش‌های تجاری را تشدید کنند"
+        ],
+        "impact": "اعتماد به IMF کاهش می‌یابد و فشار بر سیاست‌های تجاری آمریکا شدت می‌گیرد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/portuguese-economist-ricardo-reis-dropped-by-imf-after-criticising-trump-tariffs/ar-AA2bVPTJ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/portuguese-economist-ricardo-reis-dropped-by-imf-after-criticising-trump-tariffs/ar-AA2bVPTJ",
+        "image": "https://www.bing.com/th?id=ONUT.TYr_5rP_gk0do4_M8zxSjg",
+        "timestamp": 1789032283.465481
+    },
+    {
         "id": "ef711410cb",
         "title_fa": "حملهٔ آمریکا به پنج تانکر ایرانی در خلیج",
         "title_en": "Lawless seas: Eye for an eye, tanker for a tanker",
@@ -5430,22 +5449,5 @@
         "clean_url": "https://newrepublic.com/post/215174/national-guard-arrested-gun-fellow-soldier-argument-hair",
         "image": "https://www.bing.com/th?id=ONUT.LqMspTIwnyiQXoHxhN1zhA",
         "timestamp": 1788897823.8345551
-    },
-    {
-        "id": "f42eb68273",
-        "title_fa": "آمریکا به نفتکش های ایرانی در تلافی حمله به کشتی جنگی حمله می‌کند",
-        "title_en": "US strikes Iranian tankers in retaliation for attempted attack on warship: Official",
-        "summary": [
-            "US strikes Iranian tankers in retaliation for attempted attack on warship: Official NewsNation"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "NewsNation",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0eWlERVFDTjI3d3kxYVA0bVFrNVdoNk12d2RQSHN4OUMwaHppSUpBb2l4Mk1EQm1WcFlMZS1mMmlnY1JNRHdEa2tqRkhIVlVrSTYyVkQ4UmdBTVJXNHZHVXZxMGlOcEtsbnhGYmE2VEpfNUFNVkc5NHRFQVlWd9IBgwFBVV95cUxPcUZXVGpySWFhMU94RVhHNEhwejZkUmlUZWNNYnF5emdwUUstRl9HX0pZbUpmU1V1VGYzeGxVSGR1OTF1NWFSazJVVndRbGhVS2gxN0UtWmVLZjZKTVpmNWl1azJZRmRVb0l0eC14WWlPUEpZLUI3VWhpWlhOTVdqa0JLRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0eWlERVFDTjI3d3kxYVA0bVFrNVdoNk12d2RQSHN4OUMwaHppSUpBb2l4Mk1EQm1WcFlMZS1mMmlnY1JNRHdEa2tqRkhIVlVrSTYyVkQ4UmdBTVJXNHZHVXZxMGlOcEtsbnhGYmE2VEpfNUFNVkc5NHRFQVlWd9IBgwFBVV95cUxPcUZXVGpySWFhMU94RVhHNEhwejZkUmlUZWNNYnF5emdwUUstRl9HX0pZbUpmU1V1VGYzeGxVSGR1OTF1NWFSazJVVndRbGhVS2gxN0UtWmVLZjZKTVpmNWl1azJZRmRVb0l0eC14WWlPUEpZLUI3VWhpWlhOTVdqa0JLRQ",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788897152.0
     }
 ]
