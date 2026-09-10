@@ -3190,6 +3190,26 @@
         "timestamp": 1788968635.6329794
     },
     {
+        "id": "baaf06d1af",
+        "title_fa": "تهدید ترامپ و گزارش جدید از کلنگ‌گزلا",
+        "title_en": "همزمان با ادامه تهدیدهای ترامپ، گروسی هم فعالیتهای جدید در کوه کلنگ گزلا را تایید کرد",
+        "summary": [
+            "گروسی به بلومبرگ گفت تصاویر ریموت نشانگر تحرکات جدید در کلنگ‌گزلا است اما جزئیات روشن نیست",
+            "IAEA هنوز به داخل مجموعه دسترسی نداشته و عدم بازرسی باعث ابهام در ارزیابی فعالیت‌های هسته‌ای می‌شود",
+            "ترامپ در دو بیانیه اخیر به احتمال حمله قریب‌الوقوع به این سایت اشاره کرد و فشار دیپلماتیک آمریکا را افزون می‌کند",
+            "تحلیل مرکز مطالعات راهبردی نشان می‌دهد فعالیت عمرانی در شش سال گذشته به اوج رسیده و احتمال گسترش برنامه غنی‌سازی را نشان می‌دهد"
+        ],
+        "impact": "افزایش تنش‌های هسته‌ای منطقه‌ای و احتمال اعمال تحریم‌های جدید علیه ایران",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609107145",
+        "clean_url": "https://www.iranintl.com/202609107145",
+        "image": "https://www.bing.com/th?id=ONUT.2pKnxnzfN26b3RKvm8Scrg",
+        "timestamp": 1788968568.0
+    },
+    {
         "id": "96d2704593",
         "title_fa": "جان استوارت درباره تابستان پر هیجان دونالد ترامپ: «انکار بی امان واقعیت»",
         "title_en": "Jon Stewart on Donald Trump’s hectic summer: ‘Relentless denial of reality’",
@@ -5392,24 +5412,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know",
         "image": "http://www.bing.com/th?id=ONUT.unD0KJTDn4dQp7HR02t0LA&pid=News",
         "timestamp": 1788926760.0
-    },
-    {
-        "id": "320b2bb2f8",
-        "title_fa": "حوثی‌ها به شهرهای سعودی موشک شلیک کردند",
-        "title_en": "Who are the Houthis, Iran’s allies in Yemen?",
-        "summary": [
-            "حوثی‌ها از نوامبر ۲۰۲۳ موشک و پهپاد به شهرهای سعودی شلیک کردند",
-            "این حملات خطر تشدید جنگ در یمن و تهدید مسیرهای نفتی خلیج را افزایش می‌دهد",
-            "آمریکا در واکنش به این حملات، عملیات نظامی خود را در منطقه تقویت کرده است"
-        ],
-        "impact": "افزایش خطر حملات به زیرساخت‌های انرژی خلیج و تنگنا در حمل و نقل نفتی",
-        "tag": "حوثی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Reuters · via Yahoo News",
-        "url": "https://www.yahoo.com/news/articles/explainer-why-haven-t-houthis-110637400.html",
-        "clean_url": "https://www.yahoo.com/news/articles/explainer-why-haven-t-houthis-110637400.html",
-        "image": "https://media.zenfs.com/en/reuters.com/4750c0c4636fac815e479a25628131fe.jpg",
-        "timestamp": 1788926674.0
     }
 ]
