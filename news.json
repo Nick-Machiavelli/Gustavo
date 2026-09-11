@@ -1,5 +1,24 @@
 [
     {
+        "id": "4e533f2fc4",
+        "title_fa": "درس‌های جنگ نامتقارن از اوکراین و ایران",
+        "title_en": "Lessons of Asymmetry from Ukraine and Iran in Conflict",
+        "summary": [
+            "اوکراین با استفاده از پهپادهای کم‌هزینه و جنگ سایبری توانست نیروی نظامی بزرگ روسیه را خنثی کند؛ این الگو برای نیروهای نامتقارن ایران قابل اقتباس است.",
+            "ایران با بهره‌گیری از شبکه‌های نیابتی و حملات ناگهانی در خاورمیانه، نشان داد که می‌تواند فشارهای بزرگ را با هزینه کم تحمل کند.",
+            "ترکیب فناوری‌های نوین و تاکتیک‌های زیرزمینی، مسیر جدیدی برای مقابله با ارتش‌های پیشرفته فراهم می‌کند."
+        ],
+        "impact": "دولت‌ها و گروه‌های مسلح به‌سرعت به‌دنبال ادغام فناوری‌های کم‌هزینه و تاکتیک‌های زیرزمینی برای مقابله با قدرت‌های سنتی می‌روند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Small Wars Journal",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pdzdWeFFVUm5PMWVNMloxZ3FESGhnZ3I3VUY4Yk9rYkdyZjdyNUxfVkxtWEhPQW1PcHRTaXJtQjBmaDRmVEE1ZFJ2WnNPZXFiZ0dyNWxQejFTNFN5VEF6RFN1YThCNFVnUlA2b05zWlQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pdzdWeFFVUm5PMWVNMloxZ3FESGhnZ3I3VUY4Yk9rYkdyZjdyNUxfVkxtWEhPQW1PcHRTaXJtQjBmaDRmVEE1ZFJ2WnNPZXFiZ0dyNWxQejFTNFN5VEF6RFN1YThCNFVnUlA2b05zWlQ",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789106851.0
+    },
+    {
         "id": "27efa5e43d",
         "title_fa": "نگاه سرد به رهبری در روش هشان",
         "title_en": "Editor’s notes: The Rosh Hashanah accounting of leadership",
@@ -5411,25 +5430,5 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/iran-war-live-tehran-mocks-trump-over-capture-of-us-submarine-drone/ar-AA2bVO50",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788976096.0
-    },
-    {
-        "id": "b9fb719329",
-        "title_fa": "ترامپ می‌گوید جنگ با ایران پس از انتخابات می‌پایید",
-        "title_en": "Trump’s Iran war now has a midterm election problem",
-        "summary": [
-            "ترامپ جنگ هفت ماهه را ابزار تهدید برای تأثیرگذاری بر رأی‌گیری می‌داند",
-            "ادعای پایان فوری پس از انتخابات نشان‌دهنده استفاده سیاسی از فشار نظامی است",
-            "ایران تا کنون با حملات هوایی و محاصره بندری آمریکا مقاومت کرده است",
-            "اگر این حرف واقعی شود، فشار اقتصادی و نظامی آمریکا پس از نوامبر کاهش می‌یابد"
-        ],
-        "impact": "کاهش فشار نظامی و تحریمی آمریکا پس از نوامبر می‌تواند به ایران فرصت بازسازی توان نظامی بدهد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem",
-        "clean_url": "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem",
-        "image": "http://www.bing.com/th?id=ONUT.hcyq1f6Id7QhDhcyuqiQoQ&pid=News",
-        "timestamp": 1788976020.0
     }
 ]
