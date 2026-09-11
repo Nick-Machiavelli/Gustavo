@@ -3699,6 +3699,23 @@
         "timestamp": 1789009311.0
     },
     {
+        "id": "2b8b1f217c",
+        "title_fa": "ترامپ وعده پایان جنگ ایران پس از میان دوره ای را داد",
+        "title_en": "Trump Promises End to Iran War After Midterms",
+        "summary": [
+            "The President suggested that Iran’s government is holding out in hopes of hurting Republican political prospects."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/09/10/iran-us-war-attacks-shipping-midterm-elections-strait-hormuz/",
+        "clean_url": "https://time.com/article/2026/09/10/iran-us-war-attacks-shipping-midterm-elections-strait-hormuz",
+        "image": "http://www.bing.com/th?id=ONUT.FXnZqGR8uO6XuspniY8T8A&pid=News",
+        "timestamp": 1789009200.0
+    },
+    {
         "id": "6a0ca17df3",
         "title_fa": "طبق گزارش‌ها، مشاوران ترامپ به او هشدار داده بودند که درگیری با ایران ممکن است فراتر از دوره ریاست‌جمهوری او ادامه یابد",
         "title_en": "Trump reportedly warned by advisers Iran conflict could last beyond his presidency",
@@ -5410,22 +5427,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aOFpsaTVMQzk4cFNNTDRtV0JGSXVEZVJCYWtVNWdFdFcwUjFaMUplc2twQjF1ZENPN2lvRy1BUXNleWNnekdfNlRlNWk0dUZ5Unc",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788975304.0
-    },
-    {
-        "id": "0fb0268c6c",
-        "title_fa": "نکات مهم دهلی به روز رسانی های خبری: MCD 34 سازه را تخریب کرد، 17 ساختمان را مهر و موم کرد. بیش از 1200 ساختمان PG بررسی شده است",
-        "title_en": "Delhi Highlights News Updates: MCD demolished 34 structures, sealed 17; over 1,200 PG buildings surveyed",
-        "summary": [
-            "A fire broke out at Surat's Shyam Sangini Textile Market, engulfing multiple shops. Firefighters have been deployed to the market to contain the blaze."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/news/newsblogs/surat-shyam-sangini-textile-market-fire-multiple-shops-engulfed-narendra-modi-satya-niketan-building-collapse-narendra-modi-amit-shah-delhi-ncr-weather-live-updates/liveblog/133948690.cms",
-        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/surat-shyam-sangini-textile-market-fire-multiple-shops-engulfed-narendra-modi-satya-niketan-building-collapse-narendra-modi-amit-shah-delhi-ncr-weather-live-updates/liveblog/133948690.cms",
-        "image": "https://economictimes.indiatimes.com/thumb/msid-133948690,width-1200,height-900,resizemode-4,imglength-141084/news/newsblogs/surat-shyam-sangini-textile-market-fire-multiple-shops-engulfed-narendra-modi-satya-niketan-building-collapse-narendra-modi-amit-shah-delhi-ncr-weather-live-updates.jpg",
-        "timestamp": 1788975120.0
     }
 ]
