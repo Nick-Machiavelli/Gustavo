@@ -3017,6 +3017,63 @@
         "timestamp": 1789057340.0
     },
     {
+        "id": "4161eb4e06",
+        "title_fa": "جزیره پرم؛ نقطه حساس در گسترش جنگ ایران‑یمن",
+        "title_en": "Why Perim Island Matters As Houthis Push To Capture Yemen's Mocha Port",
+        "summary": [
+            "حمله حوثی‌ها به بندر موچا، جزیره پرم را به خط مقدم تبدیل کرده؛ این جزیره در تنگ‌ترین نقطه باب‌ال‌مندب قرار دارد.",
+            "تسلط حوثی‌ها بر پرم می‌تواند مسیر کشتی‌های حامل نفت سعودی را در تنگه مسدود کند و فشار بر بازارهای انرژی جهانی را افزایشت دهد.",
+            "سخنرانی‌های نظامی آمریکا و اسرائیل درباره خطرات احتمالی در باب‌ال‌مندب، نشان از آماده‌سازی برای مقابله نظامی دارد."
+        ],
+        "impact": "اختلال در عبور نفت‌کش‌های سعودی؛ نوسان شدید قیمت نفت جهانی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "Outlook India",
+        "url": "https://www.outlookindia.com/international/why-perim-island-matters-as-houthis-push-to-capture-yemens-mocha-port",
+        "clean_url": "https://www.outlookindia.com/international/why-perim-island-matters-as-houthis-push-to-capture-yemens-mocha-port",
+        "image": "https://cf-images.assettype.com/outlookindia/2024-12-25/1u4celm5/Yemen-War?w=1200&amp;ar=40:21&amp;auto=format,compress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "timestamp": 1789056900.0
+    },
+    {
+        "id": "c36a07ffbe",
+        "title_fa": "قیمت بنزین دوباره صعود کرد؛ تورم ۳٫۴٪",
+        "title_en": "Gasoline prices jump again as inflation rises 3.4% in August",
+        "summary": [
+            "قیمت بنزین در ماه اوت دوباره افزایش یافت؛ این رشد پس از کاهش کوتاه‌مدت در ژوئیه رخ داد.",
+            "گزارش تورم نشان داد که نرخ کلی قیمت‌ها به ۳٫۴٪ رسیده، که فشار خرید مردم را بیشتر می‌کند.",
+            "افزایش هزینه سوخت می‌تواند هزینه حمل‌ونقل عمومی و کالاها را بالا برده و دستمزد واقعی را کاهش دهد."
+        ],
+        "impact": "بار مالی بر خانوارها؛ احتمال تشدید ناآرامی‌های اقتصادی",
+        "tag": "قیمت‌بنزین",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "WISN 12 News on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/gasoline-prices-jump-again-as-inflation-rises-3-4-in-august/ar-AA2c1Ucm?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/gasoline-prices-jump-again-as-inflation-rises-3-4-in-august/ar-AA2c1Ucm",
+        "image": "https://www.bing.com/th?id=ONUT.ndBL5dVVMCGyDvKxVhyteg",
+        "timestamp": 1789056835.0
+    },
+    {
+        "id": "727f199a13",
+        "title_fa": "ترامپ در مراسم ۹/۱۱ جنگ ایران را توجیه کرد",
+        "title_en": "Trump, Hegseth use 9/11 memorial speeches to defend Iran war",
+        "summary": [
+            "در مراسم یادبود ۲۵ سالگی حملات ۱۱ سپتامبر، ترامپ بار دیگر اعلام کرد که ایالات متحده در جنگ با ایران پیروز است.",
+            "وزیر دفاع هگست، با تاکید بر تهدید هسته‌ای ایران، حمایت خود را از ادامه عملیات نظامی اعلام کرد.",
+            "این سخنرانی‌ها سعی دارند مشروعیت داخلی و بین‌المللی جنگ را تقویت کنند، در حالی که منتقدان آن را توجیه نادرست می‌دانند."
+        ],
+        "impact": "تقویت روایت جنگی در داخل آمریکا؛ تشدید تنش‌های دیپلماتیک با ایران",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "ms",
+        "url": "https://www.ms.now/news/trump-hegseth-9-11-pentagon-speech-iran-war",
+        "clean_url": "https://www.ms.now/news/trump-hegseth-9-11-pentagon-speech-iran-war",
+        "image": "https://www.bing.com/th?id=ONUT.8VcWeUSU-AgLbes-2Ya8Sw",
+        "timestamp": 1789056835.0
+    },
+    {
         "id": "7006aa4711",
         "title_fa": "دیده بان هسته‌ای سازمان ملل برای اولین بار در 20 سال گذشته ایران را به شورای امنیت سازمان ملل متحد ارجاع داد",
         "title_en": "UN Nuclear Watchdog Refers Iran To UN Security Council For First Time In 20 Years",
@@ -5380,62 +5437,5 @@
         "clean_url": "https://www.greaterkashmir.com/world/trump-rejects-saudi-request-to-strike-houthis-as-group-advances-towards-red-sea-chokepoint-12518311",
         "image": "https://www.bing.com/th?id=ONUT.B3pd9utCaRSM1nniV-QK9A",
         "timestamp": 1789023346.0
-    },
-    {
-        "id": "0f73072c9d",
-        "title_fa": "دفاع خودکفا هند، نیاز به واقع‌گرایی و پهپادهای بیشتر",
-        "title_en": "India’s defence Atmanirbharta needs a dose of realism—and a lot more drones",
-        "summary": [
-            "بودجه محدود دولت مانع از تامین تجهیزات پیشرفته نظامی شده و برنامه خودکفایی را به‌چالش می‌کشد.",
-            "پهپادها به‌عنوان راه‌حل کم‌هزینه مطرح‌اند، اما مقیاس تولید و بکارگیری فعلی ناکافی است."
-        ],
-        "impact": "عدم تقویت پهپادها می‌تواند توان نظامی هند را نسبت به همسایگان محدود کند.",
-        "tag": "دفاع",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "The Print on MSN",
-        "url": "https://www.msn.com/en-in/news/opinion/india-s-defence-atmanirbharta-needs-a-dose-of-realism-and-a-lot-more-drones/ar-AA2bVGka?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/opinion/india-s-defence-atmanirbharta-needs-a-dose-of-realism-and-a-lot-more-drones/ar-AA2bVGka",
-        "image": "https://www.bing.com/th?id=ONUT.vCFseAHCBT1ocSaAym6DyQ",
-        "timestamp": 1789022691.8663929
-    },
-    {
-        "id": "f5e18b0d4d",
-        "title_fa": "ترامپ جنگ ایران را پیش‌نهاد کرد، وعده ۵۰۰۰ دلار",
-        "title_en": "Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms",
-        "summary": [
-            "ترامپ در سخنرانی خود جنگ با ایران را به عنوان گزینه‌ای برای حفظ امنیت آمریکا مطرح کرد",
-            "او وعده پرداخت ۵۰۰۰ دلار به حامیان GOP در صورت پیروزی در میانه‌دوره‌ها داد، که نشان از استفاده از مسأله ایران برای جلب رأی است",
-            "این موضع می‌تواند فشار دیپلماتیک بر تهران را به سطح خطرناک برساند",
-            "احتمال واکنش نظامی یا تحریم‌های سنگین افزایش می‌یابد"
-        ],
-        "impact": "تشویق به جنگ یا تحریم‌های سنگین، ریسک جدی برای امنیت خاورمیانه",
-        "tag": "جنگ",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRybzlicFo4YXVQU0M0YjRKc1ZIRGF0VXdTNW1tSlA1Sk42WkRYcnZsN3VOMHdUeWx1YzJrZmM1YkZ1MDBiQlFUdjVsdFpveHhhMDVfZnI0UmFGVzJuV0dzQnk1dDN4NlhMcVI3RFZjeTE3aEY3UkpkMlJWdGV3Z0otdXM1bjRMejExVXZySDcyYjNia2JCZTR1OHhZdkt1QTRESy1rTVpDSVBpTFNreDl4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRybzlicFo4YXVQU0M0YjRKc1ZIRGF0VXdTNW1tSlA1Sk42WkRYcnZsN3VOMHdUeWx1YzJrZmM1YkZ1MDBiQlFUdjVsdFpveHhhMDVfZnI0UmFGVzJuV0dzQnk1dDN4NlhMcVI3RFZjeTE3aEY3UkpkMlJWdGV3Z0otdXM1bjRMejExVXZySDcyYjNia2JCZTR1OHhZdkt1QTRESy1rTVpDSVBpTFNreDl4dw",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789021242.0
-    },
-    {
-        "id": "dc1a81f48e",
-        "title_fa": "چین کالاهای تحریمی را به ایران می‌فرستد",
-        "title_en": "EXCLUSIVE: How a billion-dollar sanctions dodge kept Chinese goods flowing to Iran",
-        "summary": [
-            "چین با روش‌های دور زدن تحریم، کالاهای ارزش‌مند به ایران می‌فرستد",
-            "این جریان حدود یک میلیارد دلار ارزش دارد و فشار اقتصادی آمریکا را کم می‌کند",
-            "شرکت‌های چینی در معرض ریسک تحریم‌های دوم‌سطح قرار می‌گیرند"
-        ],
-        "impact": "جریان کالاهای تحریمی به ایران فشار اقتصادی آمریکا را کاهش می‌دهد",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXdBWlltZS1pUU8wZnFqc21wUDExNGZub0prbEtxYTNwS2J3UU91eTQ4aXZTUGNwWjdGZGxVZUNiY2dHbXVNbl9tNE4zSlVqVDJaZFlmMkZ6Slo3RndJczlqMTlsYlVGOEEteGNreDFjR0JabWhJaTNCTHNtUUozWDFVSm56QldwaXFjbnBQZWlxdGtsVFdmcDFDTHNjMzBaN2NkNlNzUGV0MXhZR3hBdmFUMV9LLU9ZYWxBTW5n?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXdBWlltZS1pUU8wZnFqc21wUDExNGZub0prbEtxYTNwS2J3UU91eTQ4aXZTUGNwWjdGZGxVZUNiY2dHbXVNbl9tNE4zSlVqVDJaZFlmMkZ6Slo3RndJczlqMTlsYlVGOEEteGNreDFjR0JabWhJaTNCTHNtUUozWDFVSm56QldwaXFjbnBQZWlxdGtsVFdmcDFDTHNjMzBaN2NkNlNzUGV0MXhZR3hBdmFUMV9LLU9ZYWxBTW5n",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789020300.0
     }
 ]
