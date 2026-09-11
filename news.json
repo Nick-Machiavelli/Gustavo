@@ -1,5 +1,25 @@
 [
     {
+        "id": "7b1b5232b0",
+        "title_fa": "رویدادهای 9/11 و 7 اکتبر؛ نقطه عطف جهان",
+        "title_en": "My word: From 9/11 to October 7, the dates that changed the world",
+        "summary": [
+            "9/11 حمله‌ای بود که ساختار امنیتی و روابط خاورمیانه را به‌صورت اساسی تغییر داد.",
+            "حمله 7 اکتبر 2023 به اسرائیل، دوباره تمرکز بین‌المللی را به مناقشه فلسطین معطوف کرد.",
+            "۲۵ سال پس از کنفرانس دوربان، موج جدیدی از حملات ضد‌یهودیانه در جهان دیده می‌شود.",
+            "این دو تاریخ، به‌هم‌پیوستگی سیاسی، نظامی و ایدئولوژیک، زمینه‌ساز تحولات ژئوپلیتیک امروز هستند."
+        ],
+        "impact": "افزایش تنش‌های خاورمیانه و تقویت سیاست‌های امنیتی و تحریمی در سطح جهانی",
+        "tag": "رویدادهای تاریخی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-za/news/other/my-word-from-9-11-to-october-7-the-dates-that-changed-the-world/ar-AA2c0QuK?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-za/news/other/my-word-from-9-11-to-october-7-the-dates-that-changed-the-world/ar-AA2c0QuK",
+        "image": "https://www.bing.com/th?id=ONUT.GnOF9kVJtxf9e__OKZmhIA",
+        "timestamp": 1789131821.7096136
+    },
+    {
         "id": "d16fe208b0",
         "title_fa": "خبر بین‌المللی — نظامی power alone cannot keep Strait هرمز open",
         "title_en": "Military power alone cannot keep the Strait of Hormuz open",
@@ -5434,22 +5454,5 @@
         "clean_url": "https://tass.com/world/2185163",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1788999000.0
-    },
-    {
-        "id": "da2a280735",
-        "title_fa": "خبر بین‌المللی — IAEA board refers ایران به UN Security Council برای هسته‌ای",
-        "title_en": "IAEA board refers Iran to UN Security Council for nuclear 'non-compliance,' a first in 2 decades",
-        "summary": [
-            "Resolution backed by Western nations calls on Tehran to assure UN watchdog about 'the non-diversion of nuclear material,' though its allies China and Russia are expected to veto measure The post IAEA board refers Iran to UN Security Council for nuclear 'non-compliance,"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/news/other/iaea-board-refers-iran-to-un-security-council-for-nuclear-non-compliance-a-first-in-2-decades/ar-AA2bUu03",
-        "clean_url": "https://www.msn.com/en-us/news/other/iaea-board-refers-iran-to-un-security-council-for-nuclear-non-compliance-a-first-in-2-decades/ar-AA2bUu03",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2025/09/AP25246459852560-e1756949406836.jpg",
-        "timestamp": 1788998807.0
     }
 ]
