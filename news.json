@@ -3196,6 +3196,26 @@
         "timestamp": 1789004111.479971
     },
     {
+        "id": "c28654e995",
+        "title_fa": "بیان xQc درباره حذف استریمرهای GTA RP",
+        "title_en": "xQc breaks silence on why major GTA RP streamers were left out of NoPixel 5.0",
+        "summary": [
+            "xQc گفت برخی استریمرها به دلیل انتخاب‌های شخصی و تعارضات قبلی از لیست NoPixel 5.0 حذف شدند",
+            "نام‌های شناخته‌شده‌ای مثل LordKebun، PENTA، Silent و Summit1G در whitelist نبودند",
+            "حذف این افراد باعث بحث گسترده در جامعه GTA RP شد",
+            "سرور هنوز معیارهای پذیرش واضحی برای استریمرها ارائه نکرده"
+        ],
+        "impact": "تاثیر محدود بر جذب مخاطب؛ برخی طرفداران ممکن است سرور را ترک یا به سرورهای رقیب روی آورند",
+        "tag": "بازی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us-streamers/xqc-breaks-silence-on-why-major-gta-rp-streamers-were-left-out-of-nopixel-5-0/articleshow/134035265.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/us-streamers/xqc-breaks-silence-on-why-major-gta-rp-streamers-were-left-out-of-nopixel-5-0/articleshow/134035265.cms",
+        "image": "https://www.bing.com/th?id=ONUT.rD6oTEzeZakw6f571Op5Dg",
+        "timestamp": 1789003336.0
+    },
+    {
         "id": "c71bb29e51",
         "title_fa": "ایران با نزدیک شدن به ناوهای آمریکا، تمایل به تشدید تنش",
         "title_en": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation",
@@ -5389,22 +5409,5 @@
         "clean_url": "https://5pillarsuk.com/2026/09/09/why-do-so-many-muslims-believe-israel-did-9-11",
         "image": "https://5pillarsuk.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-9-2026-04_14_34-PM.jpg",
         "timestamp": 1788968635.634016
-    },
-    {
-        "id": "99967e28da",
-        "title_fa": "دلم برای احمق های مفید LIV Golf می‌سوزد",
-        "title_en": "My heart bleeds for LIV Golf’s useful idiots",
-        "summary": [
-            "There is no spinning bankruptcy. The entrails of a failed vanity project lay scattered about the floor of a New Jersey court. What was LIV Golf met a fitting end, its critics would argue, a bloody..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "inews.co.uk",
-        "url": "https://inews.co.uk/sport/golf/saudi-arabia-liv-golf-heart-bleeds-4758074",
-        "clean_url": "https://inews.co.uk/sport/golf/saudi-arabia-liv-golf-heart-bleeds-4758074",
-        "image": "https://inews.co.uk/wp-content/uploads/2026/09/SEI_311501102.jpg?crop=221px,0px,1699px,961px&resize=1200,675",
-        "timestamp": 1788968635.6329794
     }
 ]
