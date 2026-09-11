@@ -1,5 +1,23 @@
 [
     {
+        "id": "9896b1ed75",
+        "title_fa": "هند باید نشست بریکس را نجات دهد",
+        "title_en": "India must find a way to save the Brics Summit from itself, a task only New Delhi is capable of",
+        "summary": [
+            "هند به عنوان میزبان، باید اختلافات اعضای بریکس را میان‌دوره‌ای حل کند",
+            "اگر نشست به‌هم بپیچد، اعتبار هند در صحنه بین‌المللی و فرصت‌های اقتصادی کاهش می‌یابد"
+        ],
+        "impact": "نقض موفقیت بریکس، فرصت‌های تجاری هند را به خطر می‌اندازد",
+        "tag": "برکس",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/opinion/india-must-find-a-way-to-save-the-brics-summit-from-itself-a-task-only-new-delhi-is-capable-of-14045124.html",
+        "clean_url": "https://www.firstpost.com/opinion/india-must-find-a-way-to-save-the-brics-summit-from-itself-a-task-only-new-delhi-is-capable-of-14045124.html",
+        "image": "https://www.bing.com/th?id=ONUT.hD0ri1SqyUM9sEW3ACkMxw",
+        "timestamp": 1789151931.1033478
+    },
+    {
         "id": "1e0934053a",
         "title_fa": "گزارشگر اتحادیه اروپا: مجاهدین خلق مقاومت خود را در انتخاب دبیرکل جدید نشان می‌دهد",
         "title_en": "EU Reporter: PMOI Asserts Its Resilience in Election of New Secretary-General",
@@ -1719,6 +1737,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeG1Dcko1RF90YnZna3hULWVJRWFZU2txVlZxR19QWF9ESzE4RktSSXplMmdaUHI1QThXd3FlYXVrODlyWFRJUHpsMEVWcmR1bUl5MDF3T01Gd2tMZnVLQzVid1NIMzBZNkNZOWU0bTF2aldGaDEtSGdrTm1yY3BiYzNjNVJ5d0ctUEZoNzd2VUdzMnJjWGhzOTU4SDZCTTR6WDdTXw",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789097157.0
+    },
+    {
+        "id": "469bcfbb2a",
+        "title_fa": "حوثی‌ها کنترل کلیدی خلیج باب‌ال‌مندب را به دست گرفتند",
+        "title_en": "Iran-backed Houthis take effective control of key Red Sea chokepoint",
+        "summary": [
+            "حوثی‌ها جزیره و شهر ساحلی را در باب‌ال‌مندب تصرف کردند",
+            "این مسیر دومین راه عبور کشتی‌ها از خلیج فارس است و کنترل آن می‌تواند ترافیک تجاری را مختل کند",
+            "شرکت‌های حمل‌ونقل ممکن است هزینه بیمه و زمان حمل را بالا ببرند",
+            "نیروی دریایی آمریکا و عربستان احتمالاً عملیات ردگیری را برنامه‌ریزی می‌کنند"
+        ],
+        "impact": "اختلال در عبور کشتی‌ها هزینه‌های حمل‌ونقل جهانی را افزایش می‌کند",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-backed-houthis-take-effective-control-of-key-red-sea-chokepoint/ar-AA2c1sNi",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-backed-houthis-take-effective-control-of-key-red-sea-chokepoint/ar-AA2c1sNi",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789097100.0
     },
     {
         "id": "5d087d9b49",
@@ -5293,6 +5331,24 @@
         "timestamp": 1789032283.465481
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "اخبار اخیر آمریکا: ترکیبی از ورزش و خبرنامه",
+        "title_en": "US latest news",
+        "summary": [
+            "زوِرِف مقابل خچانوف در نیمه‌نهایی اوپن 2026 مسابقات تنیس مردان برگزار شد",
+            "این خبرنامه ترکیبی از نتایج ورزشی و مطالب تبلیغاتی است و هدف جذب مشترکین دارد"
+        ],
+        "impact": "اخبار ورزشی جدید، تأثیر اقتصادی یا سیاسی کمی دارد",
+        "tag": "ورزش",
+        "urgency": 1,
+        "sentiment": 0.1,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1789032120.0
+    },
+    {
         "id": "546b198534",
         "title_fa": "شورای امنیت با وجود مخالفت روسیه و چین، به اجرای تحریم‌ها علیه جمهوری اسلامی رای داد",
         "title_en": "شورای امنیت با وجود مخالفت روسیه و چین، به اجرای تحریم‌ها علیه جمهوری اسلامی رای داد",
@@ -5364,61 +5420,5 @@
         "clean_url": "https://www.msn.com/en-au/politics/government/52-of-the-most-stupid-things-donald-trump-has-ever-said/ar-AA2bVMEu",
         "image": "https://www.bing.com/th?id=ONUT.qDIT6slVF8dyF8KsX6aTYA",
         "timestamp": 1789030984.5356941
-    },
-    {
-        "id": "2f2b06e74c",
-        "title_fa": "تهدید پاکستان به حمله هوایی به حوثی‌ها؛ بازیِ فشار بر ایران",
-        "title_en": "Is Pakistan's bomb-Houthis plan a bluff against Iran?",
-        "summary": [
-            "پاکستان قول داد در چارچوب پیمان مکه به عربستان هوای خود را علیه حوثی‌ها بفرستد؛ اما هدف اصلی شاید هشدار به ایران باشد.",
-            "اگر این تهدید واقعی شود، می‌تواند به گسترش جبههٔ نظامی در خلیج فارس منجر شود."
-        ],
-        "impact": "ایران ممکن است برای حمایت از حوثی‌ها واکنش نظامی نشان دهد و تنش‌های منطقه‌ای بالا برود",
-        "tag": "منطقه‌ای",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/world/story/houthis-attack-saudi-arabia-pakistan-mecca-joint-defence-agreement-yemen-war-iran-proxy-groups-2991387-2026-09-10",
-        "clean_url": "https://www.indiatoday.in/world/story/houthis-attack-saudi-arabia-pakistan-mecca-joint-defence-agreement-yemen-war-iran-proxy-groups-2991387-2026-09-10",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/houthi-supporters-attend-a-rally-against-the-saudi-led-coalition-yemen-images-ap-104602321-16x9_0.jpg?VersionId=uDDxjfkP6s382nByuWsAf.WEGk0QyrBP",
-        "timestamp": 1789030984.5353653
-    },
-    {
-        "id": "e153a40e6c",
-        "title_fa": "حمله ایرانی به هواپیماهای آمریکا در یمن",
-        "title_en": "World News",
-        "summary": [
-            "حوثی‌های حامی ایران در سواحل یمن پیشروی می‌کنند",
-            "موشک‌های ایرانی به چند هواپیمای نظامی آمریکا آسیب رساند",
-            "واکنش احتمالی واشنگتن می‌تواند به گسترش جنگ دو جبهه‌ای منجر شود"
-        ],
-        "impact": "تشدید تنش‌های خلیج فارس و خطر تصعید نظامی در منطقه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Australian Broadcasting Corporation",
-        "url": "https://www.abc.net.au/news/world",
-        "clean_url": "https://www.abc.net.au/news/world",
-        "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "timestamp": 1789030982.0
-    },
-    {
-        "id": "3db6a8cde9",
-        "title_fa": "ایران در محاصره: معضل استراتژیک در جنگ طولانی",
-        "title_en": "Under siege: Iran faces strategic dilemma as war of attrition drags on",
-        "summary": [
-            "ایالات متحده و ایران به مرحله‌ای محدود اما خطرناک از درگیری رسیده‌اند؛ آمریکا به ضربه به نیروهای سپاه در جنوب ایران پرداخته و ایران به حمله به پایگاه‌های آمریکایی در خاورمیانه پاسخ داده است",
-            "تحریم‌های دریایی آمریکا باعث فشار شدید بر اقتصاد ایران شده؛ ریال به حدود ۲٫۲ میلیون تومان در برابر دلار سقوط کرده",
-            "تهدید ایران برای پرتاب موشک‌های مین‌دار در تنگه هرمز، خطر گسترش جنگ را به یک مسیر بحرانی می‌برد"
-        ],
-        "impact": "افزایش فشار نظامی و سقوط ارزش ریال، خطر گسترش درگیری در خاورمیانه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/news/under-siege-iran-strategy-crossroads-war-attrition",
-        "clean_url": "https://www.middleeasteye.net/news/under-siege-iran-strategy-crossroads-war-attrition",
-        "image": "http://www.bing.com/th?id=ONUT.7JQZRWD49EOaBeoRBCZrBQ&pid=News",
-        "timestamp": 1789030980.0
     }
 ]
