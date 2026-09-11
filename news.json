@@ -1451,6 +1451,26 @@
         "timestamp": 1789059883.0
     },
     {
+        "id": "c7a3a22623",
+        "title_fa": "ترامپ درخواست بن سلمان برای حمله به حوثی‌ها رد کرد",
+        "title_en": "اکسیوس: ترامپ درخواست بن سلمان را برای حمله آمریکا به حوثی‌ها رد کرد",
+        "summary": [
+            "واشینگتن تمایلی به گسترش جنگ در یمن نشان نداده و درخواست سعودی را رد کرده است",
+            "این تصمیم نشان می‌دهد آمریکا هنوز نمی‌خواهد جبهه جدیدی در خاورمیانه باز کند",
+            "سعودی‌ها با فشار دیپلماتیک سعی در جلب حمایت نظامی آمریکا دارند اما با رد درخواست مواجه شدند",
+            "رد درخواست می‌تواند تنش‌های منطقه‌ای را محدود کند ولی نارضایتی عربستان را افزایش دهد"
+        ],
+        "impact": "امکان گسترش جنگ در یمن کاهش می‌یابد و فشار سیاسی بر عربستان افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/2026091154880",
+        "clean_url": "https://www.iranintl.com/2026091154880",
+        "image": "http://www.bing.com/th?id=ONUT.2a8cmjEYpP1hctl-kpJeIw&pid=News",
+        "timestamp": 1789059600.0
+    },
+    {
         "id": "53e032d295",
         "title_fa": "تهدیدهای تکراری ترامپ به نابودی ایران",
         "title_en": "Trump’s repeated threats to ‘wipe out’ Iran are normalizing mass violence | Mohamad Bazzi",
@@ -5417,25 +5437,5 @@
         "clean_url": "https://roanoke.com/sports/article_695ed4b3-36a6-5196-a16e-ba5c5189dbca.html",
         "image": "https://www.bing.com/th?id=ONUT.YqE7xMd-m-17VPYHkPjUbA",
         "timestamp": 1788977064.5113227
-    },
-    {
-        "id": "33bf01d22e",
-        "title_fa": "قیمت نفت به‌دلیل حملات تانکرهای آمریکا‑ایران ۶٪ جهش یافت",
-        "title_en": "Oil surges another 6% as US-Iran tanker attacks rattle markets",
-        "summary": [
-            "حملات به تانکرهای تجاری بین‌المللی باعث نگرانی از قطع مسیرهای نفتی شد",
-            "بازارهای برنت و WTI حدود ۶٪ بالا رفتند، ذخایر جهانی در حال کاهش است",
-            "تحلیل‌گران پیش‌بینی می‌کنند نوسان قیمت تا هفته آینده ادامه یابد",
-            "فشار بر اقتصادهای وابسته به نفت، به‌ویژه کشورهای خاورمیانه، افزایش می‌یابد"
-        ],
-        "impact": "افزایش هزینه‌های حمل و نقل و فشار بر تورم جهانی",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Upstream Online",
-        "url": "https://www.upstreamonline.com/energy-security/oil-surges-another-6-as-us-iran-tanker-attacks-rattle-markets/2-1-2042050",
-        "clean_url": "https://www.upstreamonline.com/energy-security/oil-surges-another-6-as-us-iran-tanker-attacks-rattle-markets/2-1-2042050",
-        "image": "https://www.bing.com/th?id=ONUT.UdBFsN-qcd6uy8QYwRWwgQ",
-        "timestamp": 1788977028.0
     }
 ]
