@@ -1,5 +1,24 @@
 [
     {
+        "id": "8c1a5a2ba7",
+        "title_fa": "ترامپ در روز ۲۵ سالگی ۱۱ سپتامبر سکوت کرد",
+        "title_en": "Narcissist-in-Chief: Trump Goes on Truth Social Posting Spree — Zero Mentions of 9/11",
+        "summary": [
+            "ترامپ در توییت‌ خود به‌هیچ‌وجه به حمله ۱۱ سپتامبر اشاره نکرد",
+            "بی‌توجهی او نشان می‌دهد که رویدادهای ملی را برای خودسازی به کار می‌برد",
+            "منتقدان این رفتار را نشانه‌ای از خودمحوری و نادیده‌گیری رنج‌های عمومی می‌دانند"
+        ],
+        "impact": "بی‌احترامی به روز یادبود می‌تواند خشم عمومی در ایالات متحده را تشدید کند",
+        "tag": "ترامپ",
+        "urgency": 2,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/narcissist-chief-trump-goes-truth-224003618.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/narcissist-chief-trump-goes-truth-224003618.html",
+        "image": "https://www.bing.com/th?id=ONUT.VnJ6s0-HkWp-CmHCA_7LjQ",
+        "timestamp": 1789168295.0811644
+    },
+    {
         "id": "3c1a9ea1f7",
         "title_fa": "هگست 9/۱۱ را برای توجیه جنگ ایران به کار برد",
         "title_en": "Pete Hegseth invokes 9/11 to defend Iran war but the historical record is more complicated",
@@ -5408,26 +5427,6 @@
         "url": "https://www.yahoo.com/news/politics/articles/iran-producing-ballistic-missiles-again-194240487.html",
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-producing-ballistic-missiles-again-194240487.html",
         "image": "http://www.bing.com/th?id=ONUT.xbirkWRgM1-fKm71WuOWFA&pid=News",
-        "timestamp": 1789044060.0
-    },
-    {
-        "id": "c4ff905f4a",
-        "title_fa": "پرونده هسته‌ای ایران به شورای امنیت بازگشت",
-        "title_en": "Iran's nuclear file is back at the UN Security Council. What will happen next?",
-        "summary": [
-            "هیئت حاکمان آژانس بین‌المللی انرژی اتمی ایران را به شورای امنیت ارجاع داد",
-            "این اولین ارجاع در ۲۰ سال است",
-            "تصمیم توسط آمریکا، بریتانیا، فرانسه و آلمان با ۲۳ رأی تصویب شد",
-            "روسیه، چین و نیجر مخالفند؛ نتیجه به‌دلیل حق وتو نامشخص است"
-        ],
-        "impact": "احتمال اعمال تحریم‌های جدید یا فشار دیپلماتیک شدید بر برنامه هسته‌ای ایران",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/analysis/iran-nuclear-file-back-un-security-council-what-now",
-        "clean_url": "https://www.newarab.com/analysis/iran-nuclear-file-back-un-security-council-what-now",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2219212237.jpeg?itok=NWY0Bppr",
         "timestamp": 1789044060.0
     }
 ]
