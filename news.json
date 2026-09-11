@@ -1,5 +1,45 @@
 [
     {
+        "id": "7131568c3e",
+        "title_fa": "تحلیل ۲۵ سال پس از حملات ۱۱ سپتامبر",
+        "title_en": "How 9/11 reshaped America and the world",
+        "summary": [
+            "۲۵ سال پس از ۱۱ سپتامبر، ایستگاه‌های امنیتی آمریکا هنوز تحت فشار هستند",
+            "مارک اسپیر معتقد است جنگ با ایران تاکتیکال موفق بوده اما استراتژیک ضعیف",
+            "او هشدار می‌دهد که عدم پایان واضح جنگ می‌تواند خطرات جدیدی ایجاد کند",
+            "تحلیل‌گران می‌گویند آمریکا باید درس‌های گذشته را جدی بگیرد"
+        ],
+        "impact": "نگرش‌های جدید آمریکا نسبت به خاورمیانه پس از ۱۱ سپتامبر می‌تواند سیاست‌های منطقه‌ای را بازنگری کند",
+        "tag": "امنیت",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/9-11-reshaped-america-world-114945268.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/9-11-reshaped-america-world-114945268.html",
+        "image": "https://www.bing.com/th?id=ONUT.lXNTygze6tqgvm18uK3C7w",
+        "timestamp": 1789130662.5502868
+    },
+    {
+        "id": "fe4548bfb1",
+        "title_fa": "گادی ایزنکوت به عنوان شخصیت سال شناخته شد",
+        "title_en": "Middle Israel: Gadi Eisenkot is person of the year",
+        "summary": [
+            "گادی ایزنکوت به عنوان وزیر دفاع اسرائیل در سال پرتنش شناخته شد",
+            "او نقش کلیدی در عملیات‌های نظامی و تصمیم‌گیری‌های استراتژیک ایفا کرد",
+            "حمایت‌های دو حزبی او نشان‌دهنده توافق ملی بر سر امنیت است",
+            "انتخاب او به عنوان «شخصیت سال» نماد قدرت نظامی اسرائیل است"
+        ],
+        "impact": "انتخاب ایزنکوت به‌عنوان شخصیت سال نشان‌دهنده قدرت نظامی اسرائیل در منطقه است",
+        "tag": "دفاع",
+        "urgency": 2,
+        "sentiment": 0.3,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-za/news/other/middle-israel-gadi-eisenkot-is-person-of-the-year-this-is-why/ar-AA2c0uuC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-za/news/other/middle-israel-gadi-eisenkot-is-person-of-the-year-this-is-why/ar-AA2c0uuC",
+        "image": "https://www.bing.com/th?id=ONUT.xMJWbw1ZIk0ENskB_4URiA",
+        "timestamp": 1789130662.5500815
+    },
+    {
         "id": "1a249a9a8e",
         "title_fa": "هوش‌مصنوعی، چالش جدید کاخ سفید",
         "title_en": "The White House has an AI problem — and it may worry Wall Street even more than Iran",
@@ -816,6 +856,26 @@
         "timestamp": 1789100482.0
     },
     {
+        "id": "3e3b3062f6",
+        "title_fa": "حوثی‌ها جزیره کلیدی در آب‌های بحرین را تصرف کردند",
+        "title_en": "Iran-backed Houthis capture key island in vital waterway",
+        "summary": [
+            "حوثی‌ها جزیره‌ای استراتژیک در مسیر کشتی‌های تجاری خلیج فارس را به‌دست گرفتند",
+            "این اقدام دسترسی ایران به مسیرهای نفتی را تقویت می‌کند",
+            "نیروی دریایی آمریکا و عربستان نگرانی‌های امنیتی جدی ابراز کردند",
+            "احتمال بروز تصادم‌های نیابتی در آب‌های خلیج افزایش یافت"
+        ],
+        "impact": "کنترل جزیره توسط حوثی‌ها خطر بستن مسیرهای نفتی خلیج را افزایش می‌دهد",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-backed-houthis-capture-key-island-in-bab-al-mandeb-strait/ar-AA2bY9SU",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-backed-houthis-capture-key-island-in-bab-al-mandeb-strait/ar-AA2bY9SU",
+        "image": "http://www.bing.com/th?id=ONUT.4K3x5CJZtwGJ6Q5XcXReQg&pid=News",
+        "timestamp": 1789099621.0
+    },
+    {
         "id": "54d9f0321d",
         "title_fa": "به‌روزترین اخبار اسرائیل، ایران و خاورمیانه",
         "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
@@ -868,6 +928,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeG1Dcko1RF90YnZna3hULWVJRWFZU2txVlZxR19QWF9ESzE4RktSSXplMmdaUHI1QThXd3FlYXVrODlyWFRJUHpsMEVWcmR1bUl5MDF3T01Gd2tMZnVLQzVid1NIMzBZNkNZOWU0bTF2aldGaDEtSGdrTm1yY3BiYzNjNVJ5d0ctUEZoNzd2VUdzMnJjWGhzOTU4SDZCTTR6WDdTXw",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789097157.0
+    },
+    {
+        "id": "5d087d9b49",
+        "title_fa": "ایران ربات زیرآبی آمریکایی را به دست آورد",
+        "title_en": "Iran Seizes US Underwater Drone, Raising Reverse Engineering Risk",
+        "summary": [
+            "ایران ربات خودران زیرآبی آمریکایی را در مجاورت تنگه هرمز یافت",
+            "ارتش ایران ادعا کرد این وسیله پیشرفته‌ترین وسایل بدون سرنشین آمریکا است",
+            "ایالات متحده می‌گوید ربات خراب بوده و اطلاعات حساسی نداشته",
+            "دسترسی به پلتفرم آمریکایی می‌تواند به توسعه فناوری‌های زیرآبی ایران کمک کند"
+        ],
+        "impact": "دست‌یابی ایران به ربات زیرآبی آمریکا می‌تواند توان زیرآبی نظامی آن را ارتقا دهد",
+        "tag": "فناوری",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Military.com",
+        "url": "https://www.military.com/iran-seizes-us-underwater-drone-raising-reverse-engineering-risk",
+        "clean_url": "https://www.military.com/iran-seizes-us-underwater-drone-raising-reverse-engineering-risk",
+        "image": "http://www.bing.com/th?id=ONUT.T127VwSa2Wnl9NRgtE5cEA&pid=News",
+        "timestamp": 1789092000.0
     },
     {
         "id": "6d915a4ba5",
@@ -2159,6 +2239,26 @@
         "timestamp": 1789059980.0
     },
     {
+        "id": "3b47c194d5",
+        "title_fa": "سعودی‌ها و حوثی‌ها به آستانه جنگ نزدیک می‌شوند",
+        "title_en": "Why Saudi Arabia and the Houthis in Yemen are heading toward war",
+        "summary": [
+            "حوثی‌ها حمله زمینی به سواحل دریای سرخ و موشک به پالایشگاه‌های سعودی را آغاز کردند",
+            "ریاض با حملات هوایی پاسخ داد و تنش‌های نظامی منطقه را تشدید کرد",
+            "پاکستان ممکن است به‌عنوان متحد سعودی وارد جنگ شود",
+            "تحلیل‌گران پیش‌بینی می‌کنند درگیری می‌تواند به جنگ تمام‌عیار تبدیل شود"
+        ],
+        "impact": "تشدید جنگ در خلیج فارس می‌تواند تجارت نفت را به‌طور جدی مختل کند",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Christian Science Monitor",
+        "url": "https://www.csmonitor.com/World/Middle-East/2026/0910/yemen-houthis-saudi-iran-shipping-red-sea",
+        "clean_url": "https://www.csmonitor.com/World/Middle-East/2026/0910/yemen-houthis-saudi-iran-shipping-red-sea",
+        "image": "https://images.csmonitor.com/csm/2026/09/0910_OKSAYEMEN_lede.jpg?alias=standard_900x600",
+        "timestamp": 1789059900.0
+    },
+    {
         "id": "785f6d88f0",
         "title_fa": "حملات ایران به پایگاه جردن، هواپیماهای آمریکایی آسیب دید",
         "title_en": "US warplanes damaged in Iran strikes on Jordan base",
@@ -2915,6 +3015,26 @@
         "clean_url": "https://www.iranintl.com/202609107219",
         "image": "https://www.bing.com/th?id=ONUT.4ZO9VP3QqNhMBvgfy1L3Cg",
         "timestamp": 1789044391.778608
+    },
+    {
+        "id": "9526b01170",
+        "title_fa": "اسرائیل در سازمان ملن اعتبار خود را باز می‌یابد",
+        "title_en": "Inside the lion’s den: Israel is quietly regaining respect at the UN, Danny Danon tells 'Post'",
+        "summary": [
+            "دنی دنون در مصاحبه‌ای بهبود موقعیت اسرائیل در سازمان ملن را تشریح کرد",
+            "اسرائیل پس از سال‌های تنش، حمایت‌های دیپلماتیک بیشتری کسب کرده",
+            "تغییر ائتلاف‌ها و پذیرش برخی کشورهای عربی نقش مهمی داشته",
+            "این بازگشت اعتبار می‌تواند فشارهای بین‌المللی بر ایران را تقویت کند"
+        ],
+        "impact": "بهبود جایگاه اسرائیل در ملن فشار دیپلماتیک بر ایران را تقویت می‌کند",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-ca/politics/government/inside-the-lion-s-den-israel-is-quietly-regaining-respect-at-the-un-danny-danon-tells-post/ar-AA2c0LDh?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/politics/government/inside-the-lion-s-den-israel-is-quietly-regaining-respect-at-the-un-danny-danon-tells-post/ar-AA2c0LDh",
+        "image": "https://www.bing.com/th?id=ONUT.WARgnkpd3HN3a7QcriXf_Q",
+        "timestamp": 1789044253.0
     },
     {
         "id": "b9e184e26d",
@@ -5333,112 +5453,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/trump-has-shackled-himself-to-a-monster-he-must-keep-feeding-insider/ar-AA2bUFW7",
         "image": "https://www.bing.com/th?id=ONUT.EuTQ2TbAfMzHkwQ24rwVQw",
         "timestamp": 1788998687.768626
-    },
-    {
-        "id": "fc16b1e588",
-        "title_fa": "تحذیر مخفیانه ترامپ پس از انتخابات",
-        "title_en": "Opinion: This is the sinister warning about what comes after Trump",
-        "summary": [
-            "مقاله ادعا می‌کند ترامپ پس از انتخابات هشدارهای مخفیانه درباره عواقب سیاسی خود منتشر کرده",
-            "این هشدارها شامل تهدید به تلفات نظامی یا تحریم‌های شدید علیه ایران می‌شود، هرچند به‌صورت غیرمستقیم بیان شده‌اند",
-            "تحلیلگر می‌گوید این ریسک‌ها بیشتر برای رقیبان داخلی آمریکا است تا برای ایران"
-        ],
-        "impact": "احتمال تشدید تنش‌های دیپلماتیک بین آمریکا و ایران در دوره پس‌انتخاباتی",
-        "tag": "ترامپ-هشدار",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "The Daily Beast on MSN",
-        "url": "https://www.msn.com/en-us/news/other/opinion-this-is-the-sinister-warning-about-what-comes-after-trump/ar-AA2bU6WB?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/opinion-this-is-the-sinister-warning-about-what-comes-after-trump/ar-AA2bU6WB",
-        "image": "https://www.bing.com/th?id=ONUT.E4Ofu_aP53-5PGLDLz3kSg",
-        "timestamp": 1788998687.768332
-    },
-    {
-        "id": "b6f303e7a6",
-        "title_fa": "دیپلمات روسی تهدیدهای زلنسکی برای هوانوردی روسیه را تروریسم آشکار خواند",
-        "title_en": "Russian diplomat slams Zelensky's threats to Russia aviation as blatant terrorism",
-        "summary": [
-            "VLADIVOSTOK, September 10. /TASS/. Vladimir Zelensky's threats to Russian aviation are nothing but undisguised terrorism, Russian Foreign Ministry Spokeswoman Maria Zakharova said."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2185161",
-        "clean_url": "https://tass.com/politics/2185161",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1788998520.0
-    },
-    {
-        "id": "90b205eb1b",
-        "title_fa": "جنگ ایران زنده: جنگنده های A-10 و F-15 در حملات ایران آسیب دیدند",
-        "title_en": "Iran war live: A-10 and F-15 fighter jets 'damaged in Iranian strikes'",
-        "summary": [
-            "Iran-US war latest: A-10 Thunderbolt and F-15 fighter jets ‘damaged in Iranian strikes on US bases’ - Trump says US could strike Pickaxe Mountain after construction activity seen at deeply buried comp..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-live-a-10-and-f-15-fighter-jets-damaged-in-iranian-strikes/ar-AA2bVgX4",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-a-10-and-f-15-fighter-jets-damaged-in-iranian-strikes/ar-AA2bVgX4",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788998518.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "عربستان سعودی، \"حمله حوثی‌ها با موشک و پهپاد به 3 شهر\"",
-        "title_en": "Saudi Arabia, 'Houthi attacks with missiles and drones against 3 cities'",
-        "summary": [
-            "Yemen's Houthis have launched ballistic missile and drone attacks against the Saudi cities of Khamis Mushait, Abha, and Jazan. This was announced by the spokesman for the Saudi-led coalition, Turki al-Maliki,"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260910KRONOS-202609121313526365_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1788998400.0
-    },
-    {
-        "id": "bb4df5f1f1",
-        "title_fa": "عملیات اقتصادی آمریکا هدف‌گیری مالی سپاه پاسداران",
-        "title_en": "Will - and can",
-        "summary": [
-            "گزارش هرش نشان می‌دهد ایالات متحده قصد دارد با فشارهای مالی سپاه را از منابع نفت و گاز جدا کند.",
-            "هدف نهایی، تضعیف روحیه نیروها و ایجاد انقلاب مردمی بدون خونریزی است.",
-            "هرش می‌گوید سپاه به‌تازگی دچار کمبود نقدینگی شده است."
-        ],
-        "impact": "کاهش توان مالی سپاه می‌تواند توان مقابله نظامی ایران را تضعیف کند.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Asia Times",
-        "url": "https://asiatimes.com/2026/09/will-and-can-the-iranian-people-revolt-over-the-costs-of-war/",
-        "clean_url": "https://asiatimes.com/2026/09/will-and-can-the-iranian-people-revolt-over-the-costs-of-war",
-        "image": "https://asiatimes.com/wp-content/uploads/2026/09/file-20260908-70-xwyb3x-copy-e1788993876455.jpg",
-        "timestamp": 1788998400.0
-    },
-    {
-        "id": "e5e3f0ab09",
-        "title_fa": "بحران غذایی جهان، چین کمتر تحت تأثیر",
-        "title_en": "War and conflict",
-        "summary": [
-            "قیمت‌های محصولات کشاورزی به دلیل ال‌نینو و اختلال در صادرات غلات اوکراین به‌طور جهانی بالا رفت.",
-            "ذخایر قوی چین مانع از انتقال شدید این فشار به بازار داخلی شد."
-        ],
-        "impact": "قیمت خوراکی‌ها در سطح جهان افزایش می‌یابد، اما چین از کمبود جلوگیری می‌کند.",
-        "tag": "غذایی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/topics/war-and-conflict",
-        "clean_url": "https://www.scmp.com/topics/war-and-conflict",
-        "image": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
-        "timestamp": 1788996840.0
     }
 ]
