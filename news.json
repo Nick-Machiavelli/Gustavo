@@ -1,5 +1,43 @@
 [
     {
+        "id": "4d845a9b09",
+        "title_fa": "وینس مقابل ترامپ: پیام متفاوت میانی‌دوره‌ای",
+        "title_en": "Vance’s midterm pitch is strikingly different from Trump’s",
+        "summary": [
+            "وینس سعی کرد با پذیرش نقدهای رای‌دونده‌ها، حمایت از جمهوری‌خواهان را حفظ کند",
+            "او به‌جای شعار طلایی‌عصر ترامپ، به واقعیت‌های اقتصادی و فرهنگی اشاره کرد",
+            "این اختلاف می‌تواند باعث تفرقه در پایه‌نقشه‌کشی حزب شود"
+        ],
+        "impact": "ممکن است جدایی‌گرایی داخلی GOP را تشدید کند و نتایج میانی‌دوره را تحت فشار قرار دهد",
+        "tag": "انتخابات",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/11/politics/jd-vance-trump-midterms",
+        "clean_url": "https://www.cnn.com/2026/09/11/politics/jd-vance-trump-midterms",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-11t022348z-924996141-rc2qgnadr4gp-rtrmadp-3-usa-election-republicans.JPG?c=16x9&q=w_800,c_fill",
+        "timestamp": 1789147345.7729778
+    },
+    {
+        "id": "3e78cf39ff",
+        "title_fa": "افاک تحریم‌های ایران را گسترش داد",
+        "title_en": "OFAC Increases the Scope of Sanctions on Iran",
+        "summary": [
+            "افاک محدودیت‌های مالی و تجاری بر شرکت‌های پتروشیمی و حمل‌ونقل ایران را افزود",
+            "هدف این گسترش، فشار بر توان مالی دولت برای برنامه هسته‌ای است",
+            "شرکت‌های خارجی که با ایران معامله می‌کنند، مجبور به قطع روابط خواهند شد"
+        ],
+        "impact": "تحریم‌های جدید می‌تواند ورودی‌های ارزی ایران را به‌طور قابل‌توجهی کاهش دهد",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "thompsonhinesmartrade.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0tEb2c2UjlkU3pEdG43NUlDMmxyTklZcndaZHE1TE9ocXhrX2tsYjc4Um5xN2NxVWJiTXo5Vm14ZUYyMVc5LS1rTkZ3NVlxcWwtbWNfdXk2dV9RYmJ3VFlGT3FvcUM2cjQ1OW53M3BraFI1ak44NjVGS0VyaGJKS2dCVThEM1B3SjJ0NGltMC1hZGpPV3dN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0tEb2c2UjlkU3pEdG43NUlDMmxyTklZcndaZHE1TE9ocXhrX2tsYjc4Um5xN2NxVWJiTXo5Vm14ZUYyMVc5LS1rTkZ3NVlxcWwtbWNfdXk2dV9RYmJ3VFlGT3FvcUM2cjQ1OW53M3BraFI1ak44NjVGS0VyaGJKS2dCVThEM1B3SjJ0NGltMC1hZGpPV3dN",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789147283.0
+    },
+    {
         "id": "29b8dd77fb",
         "title_fa": "خبر بین‌المللی — El 11 de septiembre y el retorno de Dios",
         "title_en": "El 11 de septiembre y el retorno de Dios",
@@ -5394,44 +5432,5 @@
         "clean_url": "https://www.moneycontrol.com/world/saudi-crown-prince-asked-trump-twice-to-strike-houthis-but-us-president-refused-amid-iran-war-report-article-14027749.html",
         "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260911063746_Trump-MBS.jpg",
         "timestamp": 1789026135.0
-    },
-    {
-        "id": "baaf06d1af",
-        "title_fa": "تحرکات جدید در سایت کلنگ‌گزلا و تهدید ترامپ",
-        "title_en": "هم‌زمان با ادامه تهدیدهای ترامپ، گروسی هم فعالیت‌های جدید در کوه کلنگ گزلا را تایید کرد",
-        "summary": [
-            "تصاویر ماهواره‌ای ساخت‌وساز زیرزمینی در کلنگ‌گزلا را به اوج نشان می‌دهد",
-            "ترامپ دو بار به احتمال حمله نظامی به این سایت اشاره کرد",
-            "IAEA هنوز این مجموعه را بازرسی نکرده و شفافیت هسته‌ای ایران کم است",
-            "حمله آمریکا می‌تواند تنش‌های خاورمیانه را به‌سرعت تشدید کند"
-        ],
-        "impact": "احتمال حمله نظامی آمریکا به کلنگ‌گزلا می‌تواند تنش‌های منطقه‌ای را به‌سرعت تشدید کند",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609107145",
-        "clean_url": "https://www.iranintl.com/202609107145",
-        "image": "http://www.bing.com/th?id=ONUT.2pKnxnzfN26b3RKvm8Scrg&pid=News",
-        "timestamp": 1789025760.0
-    },
-    {
-        "id": "19da3460da",
-        "title_fa": "ترامپ هشدار به تهران؛ تبادل حملات در هرمز",
-        "title_en": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
-        "summary": [
-            "ترامپ اعلام کرد آمریکا در صورت ادامه فعالیت‌های ساخت‌وساز «Pickaxe Mountain» در خلیج فارس، به اقدام‌ها نظامی می‌پردازد.",
-            "در همان روز، دو کشتی تجاری در نزدیکی هرمز مورد حمله‌های نیابتی آمریکا و ایران قرار گرفتند.",
-            "این تبادل نشان‌دهنده نزدیک شدن به درگیری مستقیم در استراتژیک‌ترین مسیر نفتی جهان است."
-        ],
-        "impact": "تشدید تنش در هرمز می‌تواند مسیر حمل و نقل نفت را مختل کرده و بازارهای جهانی را ناآرام کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxSkd5WVlxY0lnWUhpUk4xUVg2Zlc3MmZCR2thM3NBY2FDejdDNXY5SkFNc1Y4UU1kWF9XOVlBZTFCSXRQdE5SSktKMTZaRzlocy1oWFpzREphMV9YQm5kdVVVSVJsVGpyM3VGQTdmZzFsd3c1bzAwS2h5MDbSAYIBQVVfeXFMT0IxQnpEZm94MjZzZWlobXJWWHkwMXJvVFE2bTRXOE9kRGZKSDFiMHVzTloxdFZSUUJwall3SkI2ZVZkU0FpbzRZX2VmMnVYdV9MRE1QY3QwVU5lY2QzV01YN21Jc3JSdEkzcllyS3dFTHBzLXF6R25ZTWdCLW5mN3o0Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxSkd5WVlxY0lnWUhpUk4xUVg2Zlc3MmZCR2thM3NBY2FDejdDNXY5SkFNc1Y4UU1kWF9XOVlBZTFCSXRQdE5SSktKMTZaRzlocy1oWFpzREphMV9YQm5kdVVVSVJsVGpyM3VGQTdmZzFsd3c1bzAwS2h5MDbSAYIBQVVfeXFMT0IxQnpEZm94MjZzZWlobXJWWHkwMXJvVFE2bTRXOE9kRGZKSDFiMHVzTloxdFZSUUJwall3SkI2ZVZkU0FpbzRZX2VmMnVYdV9MRE1QY3QwVU5lY2QzV01YN21Jc3JSdEkzcllyS3dFTHBzLXF6R25ZTWdCLW5mN3o0Zw",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789025528.0
     }
 ]
