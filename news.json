@@ -17,6 +17,24 @@
         "timestamp": 1789100692.6416266
     },
     {
+        "id": "54d9f0321d",
+        "title_fa": "به‌روزترین اخبار اسرائیل، ایران و خاورمیانه",
+        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "summary": [
+            "پوشش زندهٔ تحولات جاری در منطقه بدون ارائه جزئیات جدید",
+            "قابل‌توجه است که هیچ رخداد بحرانی جدیدی گزارش نشده"
+        ],
+        "impact": "اطلاع‌رسانی عمومی؛ تأثیر عملی محدود",
+        "tag": "خبر",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tNGxGMjZZUlRmcGdDNzVZRk9sTkRfZE5Tdm0tY2ZCUHFpV2FDX05JZ2daVkVtaExSXzhiZlFhMFExRnBHZUEwRDhheFMzbi1tNlBBbkhrd1k2MDgyYkFwVmlfb2dQMWY3UkZyeVUwYUd6cGZNZFNsNGtiX3ZmRjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tNGxGMjZZUlRmcGdDNzVZRk9sTkRfZE5Tdm0tY2ZCUHFpV2FDX05JZ2daVkVtaExSXzhiZlFhMFExRnBHZUEwRDhheFMzbi1tNlBBbkhrd1k2MDgyYkFwVmlfb2dQMWY3UkZyeVUwYUd6cGZNZFNsNGtiX3ZmRjQ",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789099205.0
+    },
+    {
         "id": "e3e06b7740",
         "title_fa": "به روز رسانی زنده جنگ ایران آمریکا: دو کشتی با پرتابه های ناشناس در نزدیکی خصب عمان مورد اصابت قرار گرفت، آتش سوزی گزارش شد",
         "title_en": "Iran US War LIVE Updates: Two Vessels Hit By Unknown Projectiles Near Oman's Khasab, Fire Reported",
@@ -1864,6 +1882,26 @@
         "clean_url": "https://www.yahoo.com/news/videos/google-ai-centers-move-nuclear-130038092.html",
         "image": "https://s.yimg.com/lo/mysterio/api/4e50aa2aa754b162dbd6df91e7069fb83900b2894ee37263460f97d6e633271c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclimate_crisis_247_604%2F9fdb167c38d3bcd3e1f3e19dd6927100.jpg",
         "timestamp": 1789045200.0
+    },
+    {
+        "id": "768ecb53b5",
+        "title_fa": "انفجارهای بزرگ اسرائیل در علی‌طاهر",
+        "title_en": "Massive Israeli explosions on Ali Taher cause shockwave measuring 4.1 on Richter scale; Israeli media says over 1,100 tonnes of explosives used | LIVE",
+        "summary": [
+            "اسرائیل با بیش از ۱٬۱۰۰ تن مواد منفجره به تپه علی‌طاهر حمله کرد و لرزش ۴٫۱ ریشتر ثبت شد",
+            "هدف حمله ادعای زیرساخت‌های تونل حزب‌الله بود؛ اسرائیل از واکنش ایرانی می‌ترسد",
+            "ایران پیش از یک هفته هشدار داد که در صورت حمله به علی‌طاهر به‌سرعت واکنش نظامی می‌دهد",
+            "افزایش سطح هشدار در اسرائیل می‌تواند به تشدید درگیری‌های مرزی منجر شود"
+        ],
+        "impact": "تشدید تنش‌های مرزی و احتمال حملات نیابتی در هفته‌های آینده",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "L'Orient Today",
+        "url": "https://today.lorientlejour.com/article/1547093/cbs-us-military-planes-damaged-in-overnight-jordan-strikes-2-blasts-in-beni-hayan-live.html",
+        "clean_url": "https://today.lorientlejour.com/article/1547093/cbs-us-military-planes-damaged-in-overnight-jordan-strikes-2-blasts-in-beni-hayan-live.html",
+        "image": "https://s.lorientlejour.com/storage/attachments/1548/WhatsAppImage2026-09-10at212830_275448.jpeg/r/800/WhatsAppImage2026-09-10at212830_275448.jpeg",
+        "timestamp": 1789044480.0
     },
     {
         "id": "a31369b5f8",
@@ -5384,44 +5422,6 @@
         "url": "https://www.cnn.com/2026/09/10/politics/iran-nuclear-program-inspections-iaea",
         "clean_url": "https://www.cnn.com/2026/09/10/politics/iran-nuclear-program-inspections-iaea",
         "image": "http://www.bing.com/th?id=ONUT.31rYwiitXMBPvDWF4KjUmw&pid=News",
-        "timestamp": 1788973200.0
-    },
-    {
-        "id": "61ddb64d7c",
-        "title_fa": "ترامپ تهدید به هدف‌گیری «کوه کلنگ» و نام‌گذاری تنگه",
-        "title_en": "ترامپ به جمهوری اسلامی درباره فعالیت در «کوه کلنگ گزلا» هشدار داد",
-        "summary": [
-            "ترامپ در جمع جمهوریخواهان گفت آمریکا می‌تواند «کوه کلنگ» زیرزمینی ایران را هدف بگیرد",
-            "او پیشنهاد کرد تنگه هرمز را «تنگه ترامپ» بنامند و این را شوخی سیاسی کرد",
-            "این ریتوریک نشان می‌دهد فشار سیاسی بر ایران پیش از انتخابات شدت می‌گیرد"
-        ],
-        "impact": "تهدید مستقیم به زیرساخت‌های زیرزمینی ایران می‌تواند تنش‌های دیپلماتیک را پیش از انتخابات تشدید کند",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609108670",
-        "clean_url": "https://www.iranintl.com/202609108670",
-        "image": "http://www.bing.com/th?id=ONUT.H9mCWVx-UFTtKZEncs05GQ&pid=News",
-        "timestamp": 1788973200.0
-    },
-    {
-        "id": "6cd1c468ae",
-        "title_fa": "مشاوران ترامپ جنگ ایران را تا ۲۰۲۹ پیش‌بینی کردند",
-        "title_en": "مشاوران ترامپ احتمال ادامه جنگ ایران تا سال ۲۰۲۹ را بررسی کرده‌اند",
-        "summary": [
-            "مشاوران ارشد ترامپ در جلسات خصوصی احتمال ادامه جنگ تا پایان دوره ۲۰۲۹ را بررسی کردند",
-            "این ارزیابی با وعده‌های عمومی ترامپ برای پایان سریع جنگ در تضاد است",
-            "نشان می‌دهد برنامه‌ریزی طولانی‌مدت برای فشار نظامی بر ایران وجود دارد"
-        ],
-        "impact": "برنامه‌ریزی برای جنگ طولانی‌مدت احتمال ادامه تحریم‌ها و حضور نظامی آمریکا در خلیج را افزایش می‌دهد",
-        "tag": "جنگ",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609100543",
-        "clean_url": "https://www.iranintl.com/202609100543",
-        "image": "http://www.bing.com/th?id=ONUT.MfbHfpCOkI0WOFtuLMjEjw&pid=News",
         "timestamp": 1788973200.0
     }
 ]
