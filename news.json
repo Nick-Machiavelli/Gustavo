@@ -3220,6 +3220,26 @@
         "timestamp": 1789009193.0
     },
     {
+        "id": "0c6d177444",
+        "title_fa": "قیمت بنزین و دیزل ۱۱ سپتامبر در شهرهای بزرگ",
+        "title_en": "Petrol and diesel prices today – 11 Sep: Fuel rates in Delhi, Mumbai, Bengaluru as crude oil extends rally",
+        "summary": [
+            "قیمت بنزین در دلهی، بمبئی و بنگلور به‌طور قابل‌توجهی بالا رفت",
+            "افزایش همزمان با رشد قیمت نفت خام جهانی است",
+            "هزینه حمل‌ونقل برای خانوارها و کسب‌وکارها سنگین‌تر می‌شود",
+            "فشار بر تورم مصرفی و تصمیم‌گیری‌های اقتصادی دولت افزایش می‌یابد"
+        ],
+        "impact": "هزینه حمل‌ونقل عمومی و باربری بالا می‌رود، فشار بر سبد خانوار و تورم افزوده می‌شود",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Mint on MSN",
+        "url": "https://www.msn.com/en-in/money/general/petrol-and-diesel-prices-today-11-sep-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-oil-extends-rally/ar-AA2bZA0Y?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/money/general/petrol-and-diesel-prices-today-11-sep-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-oil-extends-rally/ar-AA2bZA0Y",
+        "image": "https://www.bing.com/th?id=ONUT.3WLH0tWk_EBT_x1lHyz_Xg",
+        "timestamp": 1789008599.0
+    },
+    {
         "id": "e3afaf1232",
         "title_fa": "خبر بین‌المللی — نتانیاهو says اسرائیل destroyed Ali Taher tunnel, largest ای",
         "title_en": "Netanyahu says Israel destroyed Ali Taher tunnel, largest Iranian outpost",
@@ -5396,22 +5416,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iaea-board-refers-iran-to-un-security-council/ar-AA2bTqui",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bTxQQ.img?w=768&h=512&m=4&q=94",
         "timestamp": 1788971647.0
-    },
-    {
-        "id": "d8d2720f2d",
-        "title_fa": "خبر بین‌المللی — IAEA reports ایران به UN Security Council برای هسته‌ای breac",
-        "title_en": "IAEA reports Iran to UN Security Council for nuclear breaches in first referral in two decades",
-        "summary": [
-            "The IAEA Board of Governors voted to report Iran to the UN Security Council for nuclear non-proliferation breaches, the first such referral in"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iaea-reports-iran-un-security-council-nuclear-breaches/",
-        "clean_url": "https://cryptobriefing.com/iaea-reports-iran-un-security-council-nuclear-breaches",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/09123441/commons-picker-govcommons6344cb09f4d6ba04-800x450.jpg",
-        "timestamp": 1788971640.0
     }
 ]
