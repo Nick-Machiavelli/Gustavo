@@ -1,5 +1,23 @@
 [
     {
+        "id": "a55ca1d868",
+        "title_fa": "بزرگ‌ترین بازی‌های هفته دوم با اثر بر پلی‌آف",
+        "title_en": "Five Week 2 games with biggest College Football Playoff impact",
+        "summary": [
+            "دو بازی مهم هفته دوم مسابقات کالج فوتبال می‌توانند رتبه تیم‌ها را برای پلی‌آف تغییر دهند",
+            "تحلیلگران پیش‌بینی می‌کنند تیم‌های برتر شانس بالایی دارند اما نتایج نهایی هنوز نامشخص است"
+        ],
+        "impact": "نتیجه این مسابقات مسیر پلی‌آف را بازنویسی می‌کند و رتبه‌بندی تیم‌ها را تحت‌تأثیر قرار می‌دهد",
+        "tag": "ورزش",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Roanoke Times",
+        "url": "https://roanoke.com/sports/article_9bedf7aa-12c2-5eab-a37f-93827de2cef2.html",
+        "clean_url": "https://roanoke.com/sports/article_9bedf7aa-12c2-5eab-a37f-93827de2cef2.html",
+        "image": "https://www.bing.com/th?id=ONUT.sddHnQ_Okit_ChBfuoKRZA",
+        "timestamp": 1789161125.1880157
+    },
+    {
         "id": "9db3b97332",
         "title_fa": "تغییر: 25 سال پس از 11 سپتامبر، کشور ما همچنان تحت سلطه \"جنگ علیه تروریسم\" است.",
         "title_en": "The Shift: 25 years after 9/11, our country is still dominated by the “War on Terror”",
@@ -5409,24 +5427,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-war-spilled-into-the-world-s-most-important-shipping-routes-trump-threatened-to-hit-back-for-every-ship-my-take/vi-AA2bWn69",
         "image": "https://www.bing.com/th?id=ONUT.AJRfMm2bmu2a_3LcFkKDFA",
         "timestamp": 1789038783.9368784
-    },
-    {
-        "id": "60486bb673",
-        "title_fa": "ایران و آمریکا به جنگ طولانی‌مدت می‌رسند؛ هیچ‌کدام عقب‌نشینی نمی‌کنند",
-        "title_en": "Iran and US Set for Extended War With Neither Side Ceding Ground",
-        "summary": [
-            "ایران و ایالات متحده پس از سال‌ها تنش، به نقطه‌ای رسیده‌اند که هیچ‌یک مایل به کاهش فشار نیست.",
-            "جبهه‌های نظامی در خاورمیانه و خلیج فارس ممکن است به‌طور مستقیم درگیر شوند و خطر گسترش درگیری افزایش یابد.",
-            "تحریم‌های جدید و هزینه‌های انرژی برای بازارهای جهانی فشار می‌آورد و نوسان قیمت‌ها را تشدید می‌کند."
-        ],
-        "impact": "ادامه درگیری باعث تشدید تحریم‌ها، افزایش هزینه‌های انرژی و خطر گسترش درگیری به خاورمیانه می‌شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOW1wa3pxSGg3RzBxekJYVWJicm9nTHFOTlJFdDNJbFpVY0xIQ2UyVU5CVVZKYWJtTGVFY0U2ZEZZR3I3RnJCa2NOZ3VHRUlxN2tEaWdmMTJsQVNVblBpMUFtRGVVd0M1b0tIX3RGeS1Ub2Nia0RUQUVmZW5oT2VUODNhSHA1MTY2bml2dUNJLWFkQS11eW9vOUtGbzNmeUVQd3U4TXllcktBNlJQZ0hTRy1IeE4yZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOW1wa3pxSGg3RzBxekJYVWJicm9nTHFOTlJFdDNJbFpVY0xIQ2UyVU5CVVZKYWJtTGVFY0U2ZEZZR3I3RnJCa2NOZ3VHRUlxN2tEaWdmMTJsQVNVblBpMUFtRGVVd0M1b0tIX3RGeS1Ub2Nia0RUQUVmZW5oT2VUODNhSHA1MTY2bml2dUNJLWFkQS11eW9vOUtGbzNmeUVQd3U4TXllcktBNlJQZ0hTRy1IeE4yZw",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789038762.0
     }
 ]
