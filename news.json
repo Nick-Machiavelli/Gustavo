@@ -1,5 +1,41 @@
 [
     {
+        "id": "42cf905a0c",
+        "title_fa": "باربادوس به کمک کاریکام به کوبا می‌پیوندد",
+        "title_en": "Barbados joins CARICOM-Mexico aid shipment to Cuba",
+        "summary": [
+            "باربادوس خوراکی‌های اساسی شامل شیر خشک را به کشتی کاریکام‑مکزیک اضافه کرد",
+            "کمبود شدید مواد غذایی در کوبا به‌دلیل تحریم‌های آمریکا تشدید شده است"
+        ],
+        "impact": "تامین مواد غذایی فشار تحریم‌ها را کمی کم می‌کند",
+        "tag": "انسانی",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "Barbados Today",
+        "url": "https://barbadostoday.bb/2026/09/11/barbados-joins-caricom-mexico-aid-shipment-to-cuba/",
+        "clean_url": "https://barbadostoday.bb/2026/09/11/barbados-joins-caricom-mexico-aid-shipment-to-cuba",
+        "image": "https://barbadostoday.bb/wp-content/uploads/2025/02/AmbassadorDavid-Commissiong.jpg",
+        "timestamp": 1789169940.7502756
+    },
+    {
+        "id": "e2815e9683",
+        "title_fa": "تورم آمریکا و انتخابات میانی",
+        "title_en": "Inflation and the midterm elections",
+        "summary": [
+            "آمار تورم اوت 2023 توسط وزارت تجارت منتشر شد",
+            "رشد قیمت‌ها می‌تواند تصمیم‌گیری رای‌دهندگان در انتخابات میانی را تحت تأثیر قرار دهد"
+        ],
+        "impact": "تورم بالا فشار بر رأی‌گیری میانی ایجاد می‌کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/inflation-and-the-midterm-elections/ar-AA2c3GBC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/inflation-and-the-midterm-elections/ar-AA2c3GBC",
+        "image": "https://www.bing.com/th?id=ONUT._HMY6vlONIUxlIqgozHvwA",
+        "timestamp": 1789169940.7500303
+    },
+    {
         "id": "8c1a5a2ba7",
         "title_fa": "ترامپ در روز ۲۵ سالگی ۱۱ سپتامبر سکوت کرد",
         "title_en": "Narcissist-in-Chief: Trump Goes on Truth Social Posting Spree — Zero Mentions of 9/11",
@@ -5389,42 +5425,5 @@
         "clean_url": "https://www.iranintl.com/202609107219",
         "image": "https://www.bing.com/th?id=ONUT.4ZO9VP3QqNhMBvgfy1L3Cg",
         "timestamp": 1789044391.778608
-    },
-    {
-        "id": "9526b01170",
-        "title_fa": "اسرائیل در سازمان ملن اعتبار خود را باز می‌یابد",
-        "title_en": "Inside the lion’s den: Israel is quietly regaining respect at the UN, Danny Danon tells 'Post'",
-        "summary": [
-            "دنی دنون در مصاحبه‌ای بهبود موقعیت اسرائیل در سازمان ملن را تشریح کرد",
-            "اسرائیل پس از سال‌های تنش، حمایت‌های دیپلماتیک بیشتری کسب کرده",
-            "تغییر ائتلاف‌ها و پذیرش برخی کشورهای عربی نقش مهمی داشته",
-            "این بازگشت اعتبار می‌تواند فشارهای بین‌المللی بر ایران را تقویت کند"
-        ],
-        "impact": "بهبود جایگاه اسرائیل در ملن فشار دیپلماتیک بر ایران را تقویت می‌کند",
-        "tag": "دیپلماتیک",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-ca/politics/government/inside-the-lion-s-den-israel-is-quietly-regaining-respect-at-the-un-danny-danon-tells-post/ar-AA2c0LDh?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/politics/government/inside-the-lion-s-den-israel-is-quietly-regaining-respect-at-the-un-danny-danon-tells-post/ar-AA2c0LDh",
-        "image": "https://www.bing.com/th?id=ONUT.WARgnkpd3HN3a7QcriXf_Q",
-        "timestamp": 1789044253.0
-    },
-    {
-        "id": "b9e184e26d",
-        "title_fa": "چرا ما در مورد سوال اشتباه درباره ایران بحث می‌کنیم؟",
-        "title_en": "Why We're Debating the Wrong Question About Iran",
-        "summary": [
-            "The debate over the war with Iran has become increasingly intense. This is understandable. Critics ask how much Iran's military and nuclear capabilities have actually been weakened. They ask what the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/why-were-debating-wrong-iran-194341655.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/why-were-debating-wrong-iran-194341655.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/3fd75e727db1ac1398c9491c0bb9cfbc77367f89894fb41e2398e1053265938f/lightyear_networkapi/resizefill_w600_h500%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F172dfd50e6efebd05dee149eea803aaa.jpg",
-        "timestamp": 1789044180.0
     }
 ]
