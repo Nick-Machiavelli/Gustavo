@@ -1,5 +1,45 @@
 [
     {
+        "id": "b67add9630",
+        "title_fa": "واگذاری تدریجی دیپلماسی عربی به عهده واشنگتن",
+        "title_en": "Why the US should encourage incremental Arab diplomacy",
+        "summary": [
+            "واشنگتن باید از مداخلات مستقیم در خاورمیانه عقب‌نشینی کند",
+            "تقویت نهادهای عربی می‌تواند ثبات سیاسی منطقه را تقویت کند",
+            "این رویکرد هزینه‌های نظامی آمریکا را کاهش می‌دهد",
+            "اما ریسک تضعیف نفوذ استراتژیک ایالات متحده در برابر رقبای منطقه‌ای وجود دارد"
+        ],
+        "impact": "سیاست خارجی آمریکا به سمت حمایت از بازیگران عربی می‌چرخد و حضور نظامی در خاورمیانه کاهش می‌یابد",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The National Interest on MSN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/why-the-us-should-encourage-incremental-arab-diplomacy/ar-AA2c2sJL?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/why-the-us-should-encourage-incremental-arab-diplomacy/ar-AA2c2sJL",
+        "image": "https://www.bing.com/th?id=ONUT.LREhANjKykcLBsx5FKdeJg",
+        "timestamp": 1789155563.2355363
+    },
+    {
+        "id": "4fc09ac6c2",
+        "title_fa": "حمله‌های مستمر یهودی‌ستاکان در کرانه‌سوی غرب",
+        "title_en": "Condemn violence by Israeli settlers in West Bank | Editorial",
+        "summary": [
+            "یهودی‌ستاکان به‌صورت روزانه به عرب‌های فلسطینی حمله می‌کنند؛ کشته و زخمی می‌شوند",
+            "موسه یاعلون، وزیر دفاع پیشین، این رفتار را «برتری‌جسوسی» نامید و به‌صراحت انتقاد کرد",
+            "انتقادات داخلی اسرائیل می‌تواند فشار بین‌المللی و آمریکایی را بر سیاست‌های تل‌اوِی افزایش دهد",
+            "اگر آمریکا به این اظهارات واکنش جدی ندهد، خطر تشدید درگیری‌های مرزی بالا می‌رود"
+        ],
+        "impact": "تنش‌های امنیتی در کرانه‌سوی غرب تشدید می‌شود و فشار بر روابط آمریکا‑اسرائیل افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/09/11/condemn-violence-by-israeli-settlers-in-west-bank-editorial/",
+        "clean_url": "https://www.sun-sentinel.com/2026/09/11/condemn-violence-by-israeli-settlers-in-west-bank-editorial",
+        "image": "https://www.bing.com/th?id=ONUT.PvAYuQ0bmUx09JyQJW9izw",
+        "timestamp": 1789155563.2350702
+    },
+    {
         "id": "9896b1ed75",
         "title_fa": "هند باید نشست بریکس را نجات دهد",
         "title_en": "India must find a way to save the Brics Summit from itself, a task only New Delhi is capable of",
@@ -5383,42 +5423,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0VwMHlSM09wa1JuanFzVmUyOHF4eEgwQ21tS1JvVDlLSktISTFxM1E5ZHlwVHFMZ2dnbThBeHVWR3czUkZiaWVBcEo1S2xsWVZYRXNfeXhWbGJzLWFaZmRFblNzOW1GZnlaMTNpS0VQQ2NwWVFrOUNMaF9EeWNBN2s3VVFFcXBTeDk4UVE2MUtyVE9xTW9OSzhSYjFuUzdZMFFxRGZfYTV5eVZNaFhST1NvakVjZFlSOWpB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789034427.0
-    },
-    {
-        "id": "50d0504622",
-        "title_fa": "کیوان وارش باید نرخ بهره را بالا ببرد",
-        "title_en": "Kevin Warsh should raise interest rates",
-        "summary": [
-            "اقتصاد آمریکا رشد می‌کند اما تورم هنوز بالا است؛ فدرال رزرو باید سیاست سختگیرانه ادامه دهد",
-            "افزایش نرخ بهره اعتبار فدرال رزرو را تقویت می‌کند و از فشارهای بازار جلوگیری می‌نماید",
-            "هزینه وام‌ها برای شرکت‌ها و مصرف‌کنندگان در داخل و خارج از آمریکا افزایش می‌یابد"
-        ],
-        "impact": "نرخ بهره بالاتر هزینه وام‌ها را در آمریکا و بازارهای جهانی گران‌تر می‌کند",
-        "tag": "نرخ_بهره",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "The Economist",
-        "url": "https://www.economist.com/leaders/2026/09/10/kevin-warsh-should-raise-interest-rates",
-        "clean_url": "https://www.economist.com/leaders/2026/09/10/kevin-warsh-should-raise-interest-rates",
-        "image": "https://www.bing.com/th?id=ONUT.Qvz7q0IukwpNQBs6vII3FQ",
-        "timestamp": 1789033871.424685
-    },
-    {
-        "id": "402676b85e",
-        "title_fa": "سهم‌دار ترامپ ۵۰۰۰ دلاری برای هر بزرگسال",
-        "title_en": "Trump's $5,000 cheques are tied to one crucial election result",
-        "summary": [
-            "ترامپ وعده پرداخت ۵۰۰۰ دلار به هر شهروند بزرگسال آمریکا را در صورت پیروزی جمهوری‌خواهان در مجلس و سنا داد؛ هزینه تخمینی بیش از یک تریلیون دلار است.",
-            "منبع مالی این «سهم‌دار» مشخص نشد و می‌تواند فشار مالی بر بودجه فدرال و تورم را تشدید کند."
-        ],
-        "impact": "هزینه عظیم می‌تواند تعادل مالی فدرال را به خطر اندازد و رقابت انتخاباتی را تشدید کند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/trump-s-5-000-cheques-are-tied-to-one-crucial-election-result-article-14027879.html",
-        "clean_url": "https://www.moneycontrol.com/world/trump-s-5-000-cheques-are-tied-to-one-crucial-election-result-article-14027879.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260911084431_DTcheque.jpg",
-        "timestamp": 1789033843.0
     }
 ]
