@@ -2037,6 +2037,25 @@
         "timestamp": 1789090402.0
     },
     {
+        "id": "298614c9ec",
+        "title_fa": "بمباران «کِل‌باکس» موچا؛ هوتی‌ها ساحل سرخ را در اختیار دارند",
+        "title_en": "Iran war live: Yemen gov't says bombing 'kill box' near Houthi-seized Mocha",
+        "summary": [
+            "ارتش دولت یمن «کِل‌باکس» را در نزدیکی موچا هدف قرار داد تا جلوی گسترش هوتی‌ها را بگیرد",
+            "هوتی‌ها تمام سواحل سرخ را به‌دست آورده‌اند؛ کنترل باب‌ال‌مندب به خطر می‌افتد",
+            "تشدید در این منطقه می‌تواند ترافیک کشتی‌های تجاری و قیمت نفت را تحت فشار قرار دهد"
+        ],
+        "impact": "کشتی‌های تجاری خلیج فارس با خطر حمله مواجه می‌شوند؛ هزینه حمل و نقل افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T084749Z_2026613709_RC2ZFNAZ7IKI_RTRMADP_3_IRAN-CRISIS-PAKISTAN-HOUTHIS-1789150790.jpg?resize=1920%2C1440",
+        "timestamp": 1789088280.0
+    },
+    {
         "id": "b258393d99",
         "title_fa": "حوثی‌ها شهر کلیدی دریای سرخ را تصرف کردند",
         "title_en": "Houthi rebels take key Red Sea city in Yemen, as Iran’s wartime leverage grows",
@@ -2188,6 +2207,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjg5NHl4dWUyQ0JyWnVDQ2dkbHFxaGgycjRNcy1OYktOQXlaLUxqWk1aT2ZEdlVoWm9TakEwSXA3aTAwTmFjdXZOZEhHdzE2WVZOMzBXaHZvMU9FYzBqZ25Fb1hXbHBEdVcxWTZ6OG5xcmIzUEhhdkp3VEUxai11c09GZDctSVVaQUhsblhYUThGYWRwem91bE4yWU96QWJlcC1OMtIBqgFBVV95cUxQeDZUX3JYWnNEUjl0OXJpMmhodjg4TVFmbkg5UmxOMjdMRTFsOXVGUUFfbExtUWx6T1JOLTBBTDhwaTNMRzZ5REtCWHcyXzNjMlAyUU5yWlJpTkZwZnBJWXl1OXpBUGhMb1ZZd3dVNnhpbWQtVjc0U096VlVpM0d0dldmckpZVTZGVXd2VW02VnM1VWNyX3RwZGhpWU1jZ3hZWUxncGI1RW8xZw",
         "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789084815.0
+    },
+    {
+        "id": "5a2624b5a6",
+        "title_fa": "پزشکان ایتالیایی خواستار قانون جدید عمل پزشکی",
+        "title_en": "AI, Quici (Cimo): \"Hospital doctors are asking for a law on the medical act\"",
+        "summary": [
+            "پزشکان بیمارستانی ایتالیا می‌گویند عدم وجود قانون واضح، مسئولیت‌پذیری و صلاحیت را مبهم می‌کند",
+            "سازمان CIMO خواستار تصویب «قانون عمل پزشکی» برای تنظیم وظایف و حقوق پزشکان است"
+        ],
+        "impact": "قانون جدید می‌تواند چارچوب قانونی شفاف‌تری برای مراقبت‌های بهداشتی در ایتالیا فراهم کند",
+        "tag": "بهداشت",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260911KRONOS-202609121322466361_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1789084800.0
     },
     {
         "id": "05927f96a8",
@@ -5392,39 +5429,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWpISDRRZXNaUDk2ZFhBTGJPR19ES2FheWRYUENYQzBKY3ZicTdMTjlIRTRoUmVCVjdodmstQkNTU0JJeXJ0c2dBTE1vN0ZENHRKMENtT2hNaW9uZFh1czBlbXJfTTZJdk5wZGFzZ2o0UVFDS3hCQi1TaHBVVzEya1hYaTkwcUtNT2VwbVJn0gGQAUFVX3lxTE9hbUQ5b2Fyb0ZhQWdlX1hnNFR6LW13dW4tQlZ3d014aTlKTE5FQWhWMzB4OUJLRjhaRk5zV2F6LUN5NUZZeHBDQk5hbTF0R3ZqSHZZcFdQV2pIdVljME9mNGpfV0x2ZUlxSFdfa0RNQkpkWG5rWk5PRFRLMDNVc1FtckFfS0VWQXRMV0Z0NTQ5WA",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789036256.0
-    },
-    {
-        "id": "09fca86955",
-        "title_fa": "Post-ترامپ Republican به Watch (و Watch شود برای)",
-        "title_en": "The Post-Trump Republican to Watch (and Watch Out For)",
-        "summary": [
-            "Missouri Sen. Josh Hawley suggests a future lane for the GOP that is drastically different from other Republican presidential contenders."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The American Prospect",
-        "url": "https://prospect.org/2026/09/10/trump-republican-to-watch-josh-hawley/",
-        "clean_url": "https://prospect.org/2026/09/10/trump-republican-to-watch-josh-hawley",
-        "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/09/Kuttner-Josh-Hawley-091026.jpg?fit=2000%2C1333&ssl=1",
-        "timestamp": 1789035255.130917
-    },
-    {
-        "id": "aa0b9b3910",
-        "title_fa": "کانادا و ایران پاشنه آشیل ترامپ را پیدا کرده اند",
-        "title_en": "Canada and Iran have found Trump’s Achilles’ heel",
-        "summary": [
-            "Canadian officials aren’t being coy about it: The retaliatory tariffs imposed Tuesday against the United States were..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New Republic on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/canada-and-iran-have-found-trump-s-achilles-heel/ar-AA2bW52E?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/canada-and-iran-have-found-trump-s-achilles-heel/ar-AA2bW52E",
-        "image": "https://www.bing.com/th?id=ONUT.Nr-W4w7W1M6tNRciDPRSAg",
-        "timestamp": 1789035251.224181
     }
 ]
