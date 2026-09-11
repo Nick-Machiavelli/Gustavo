@@ -3041,6 +3041,25 @@
         "timestamp": 1789024128.2670374
     },
     {
+        "id": "66168f33ba",
+        "title_fa": "سازمان نظارت هسته‌ای ایران را به حسابرسی طلب کرد",
+        "title_en": "Cameras disabled, inspectors blocked: Nuclear watchdog asks for help with Iran",
+        "summary": [
+            "آژانس نظارت هسته‌ای (IAEA) خواست سازمان ملل ایران را به دلیل نقض تعهدات نظارتی به حساب آورد",
+            "ایران هنوز به تمام الزامات حفاظتی برای جلوگیری از توسعه سلاح هسته‌ای پایبند نیست",
+            "این درخواست می‌تواند به اعمال تحریم‌های جدید یا بازرسی‌های سخت‌تر منجر شود"
+        ],
+        "impact": "ممکن است فشار دیپلماتیک و اقتصادی بر برنامه هسته‌ای ایران افزایش یابد",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "CNN",
+        "url": "https://www.msn.com/en-us/news/other/cameras-disabled-inspectors-blocked-nuclear-watchdog-asks-for-help-with-iran/ar-AA2bVvO2",
+        "clean_url": "https://www.msn.com/en-us/news/other/cameras-disabled-inspectors-blocked-nuclear-watchdog-asks-for-help-with-iran/ar-AA2bVvO2",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2231892170.jpg?c=original&q=w_860,c_fill",
+        "timestamp": 1789023660.0
+    },
+    {
         "id": "0f73072c9d",
         "title_fa": "دفاع خودکفا هند، نیاز به واقع‌گرایی و پهپادهای بیشتر",
         "title_en": "India’s defence Atmanirbharta needs a dose of realism—and a lot more drones",
@@ -3166,6 +3185,46 @@
         "clean_url": "https://www.yahoo.com/news/us/articles/u-forces-destroy-5-iranian-070147726.html",
         "image": "http://www.bing.com/th?id=ONUT.Xycwq33M4l5JVqO2_SWUiw&pid=News",
         "timestamp": 1789017720.0
+    },
+    {
+        "id": "9296da4a42",
+        "title_fa": "حمله اسرائیل به تونل حزب‌الله در جنوب لبنان",
+        "title_en": "इजराइली सेना ने दक्षिणी लेबनान में हिजबुल्लाह की टनल को विस्फोट ...",
+        "summary": [
+            "اسرائیل تونل ۲ کیلومتری حزب‌الله را منفجر کرد؛ لرزش ۴.۱ ریشتی ثبت شد",
+            "نتانیاهو اعلام کرد «ماموریت کامل شد» و سال نو را تبریک گفت",
+            "اسرائیل ادعا کرد سلاح‌های ایرانی از جمله موشک، پهپاد و مواد منفجره در تونل یافت شد",
+            "این حمله نشانگر تشدید جنگ نظامی‑سایبری بین اسرائیل و شبه‌نظامی‌های لبنان است"
+        ],
+        "impact": "حمله به زیرساخت‌های نظامی حزب‌الله توانست توان حمله‌های آینده را محدود کند",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "दैनिक भास्कर",
+        "url": "https://www.bhaskar.com/international/news/israel-lebanon-hezbollah-tunnel-blast-netanyahu-statement-138996474.html",
+        "clean_url": "https://www.bhaskar.com/international/news/israel-lebanon-hezbollah-tunnel-blast-netanyahu-statement-138996474.html",
+        "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/11/dbgifmagic__80_1789101333941.gif",
+        "timestamp": 1789017149.0
+    },
+    {
+        "id": "2ab8148e35",
+        "title_fa": "رهبران برکس در دهلی نوین به چالش‌های جهانی می‌پردازند",
+        "title_en": "BRICS leaders gather in New Delhi as wars and rivalries strain the expanded bloc",
+        "summary": [
+            "رهبران برکس در دهلی نوین دورهمی کردند؛ جنگ‌های اوکراین و خاورمیانه و تنش‌های آمریکا‑چین بر همبستگی گروه فشار می‌آورد",
+            "هند سعی دارد تعادل بین چین‑روسیه و روابط رو به رشد با آمریکا را حفظ کند",
+            "حضور مسعود پژشکیان نشان‌دهنده تمایل ایران به حضور فعال در بلوک است",
+            "اختلافات داخلی ممکن است کارایی تصمیم‌گیری برکس را کاهش دهد"
+        ],
+        "impact": "تقسیم‌کردن موضع برکس می‌تواند فرصت‌های اقتصادی برای ایران و سایر اعضا را محدود کند",
+        "tag": "برکس",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "LA NACION",
+        "url": "https://www.lanacion.com.ar/usa/brics-leaders-gather-in-new-delhi-as-wars-and-rivalries-strain-the-expanded-bloc-nid11092026/",
+        "clean_url": "https://www.lanacion.com.ar/usa/brics-leaders-gather-in-new-delhi-as-wars-and-rivalries-strain-the-expanded-bloc-nid11092026",
+        "image": "https://www.bing.com/th?id=ONUT.m328xJVXAM_jcVHYV-etHQ",
+        "timestamp": 1789017149.0
     },
     {
         "id": "cd031cefa5",
@@ -5366,62 +5425,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/saudi-arabia-turkey-and-pakistan-now-have-their-own-nato/ar-AA2bTtb7",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1788973382.1856363
-    },
-    {
-        "id": "84c48c415c",
-        "title_fa": "ترامپ پالوزا از امشب آغاز می‌شود",
-        "title_en": "Trump-a-palooza starts tonight",
-        "summary": [
-            "Political conventions have become a pillar of modern American democracy. They can reignite parties and help presidents regain..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Dagens.com on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/trump-a-palooza-starts-tonight-over-40-candidates-refuse-to-show-up/ar-AA2bSWrD?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/trump-a-palooza-starts-tonight-over-40-candidates-refuse-to-show-up/ar-AA2bSWrD",
-        "image": "https://www.bing.com/th?id=ONUT.5eLNitEd1v3q7eqBXSGpFg",
-        "timestamp": 1788973382.1854012
-    },
-    {
-        "id": "e00246d55b",
-        "title_fa": "ایران با رمزارزها تحریم‌ها را دور می‌زند",
-        "title_en": "Iran Is Settling Trade in Bitcoin and Tether to Dodge US Sanctions",
-        "summary": [
-            "بانک مرکزی ایران به‌صورت پنهانی به صادرکنندگان اجازه داد تا تراکنش‌های خارجی را با بیت‌کوین و تتر انجام دهند.",
-            "واشنگتن حدود یک میلیارد دلار دارایی‌های مرتبط با این کار را مسدود کرده است.",
-            "حجم تراکنش‌های رمزارزی مرتبط با ایران در 2025 حدود 9.9 میلیارد دلار تخمین زده می‌شود.",
-            "این روش باعث دور زدن سامانهٔ سوییفت و کاهش اثر تحریم‌های مالی می‌شود."
-        ],
-        "impact": "کاهش اثر تحریم‌های مالی آمریکا و حفظ توان تجاری غیررسمی ایران.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Startup Fortune",
-        "url": "https://startupfortune.com/iran-is-settling-trade-in-bitcoin-and-tether-to-dodge-us-sanctions/",
-        "clean_url": "https://startupfortune.com/iran-is-settling-trade-in-bitcoin-and-tether-to-dodge-us-sanctions",
-        "image": "https://startupfortune.com/wp-content/uploads/2026/07/sf-17380-1785387653781.jpg",
-        "timestamp": 1788973260.0
-    },
-    {
-        "id": "7a1d2b6dbe",
-        "title_fa": "استفاده احتمالی موشک الکترواپتیکی علیه ناوهای آمریکا",
-        "title_en": "تلگراف: جمهوری اسلامی در حمله به ناوهای آمریکایی احتمالا موشک الکترواپتیکی را آزمایش کرد",
-        "summary": [
-            "ایران برای اولین بار موشکی با جستجوگر الکترواپتیکی به ناوهای آمریکایی شلیک کرد",
-            "آمریکا حمله را ناکام اعلام کرد اما ردیابی موشک‌ها را تأیید کرد",
-            "استفاده از چنین سلاحی نشان‌دهنده پیشرفت فناوری نظامی سپاه است",
-            "احتمال پاسخ نظامی آمریکا در هفته‌های آینده افزایش یافت"
-        ],
-        "impact": "تشدید تنش در تنگه هرمز، خطر برخورد مستقیم بین نیروی‌دریایی آمریکا و ایران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609106537",
-        "clean_url": "https://www.iranintl.com/202609106537",
-        "image": "http://www.bing.com/th?id=ONUT.wGLevJkqTQjZ3WOA0CP3Ng&pid=News",
-        "timestamp": 1788973200.0
     }
 ]
