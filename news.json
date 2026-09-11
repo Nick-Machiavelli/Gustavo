@@ -1,5 +1,24 @@
 [
     {
+        "id": "1b533deb3c",
+        "title_fa": "ترامپاپالووزا: نمایش تظاهر جمهوری‌خواهان",
+        "title_en": "The GOP's 'Trumpapalooza' is just pure Republican pretend | Opinion",
+        "summary": [
+            "رویداد «ترامپاپالووزا» صرف تقویت تصویر ترامپ است نه جذب کمک‌هزینه.",
+            "وعدهٔ ۵۰۰۰ دلاری به هر شهروند، ابزار جذب رای‌گیری است نه برنامهٔ واقعی.",
+            "این مراسم نشان می‌دهد حزب جمهوری‌خواه دیگر توان رهبری واقعی ندارد."
+        ],
+        "impact": "تقویت تصویر ترامپ می‌تواند فشار بر رقبای دموکراتیک را افزایش دهد.",
+        "tag": "انتخابات",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/opinion/columnist/2026/09/11/republican-midterm-convention-trumpapalooza-lies/91692723007/",
+        "clean_url": "https://www.usatoday.com/story/opinion/columnist/2026/09/11/republican-midterm-convention-trumpapalooza-lies/91692723007",
+        "image": "https://www.bing.com/th?id=ONUT.pSttExRCUmDorEI1eqQZkg",
+        "timestamp": 1789115129.032375
+    },
+    {
         "id": "32ae3274b9",
         "title_fa": "آیا بن لادن پس از ۲۵ سال پیروزی کرد؟",
         "title_en": "25 years after 9/11: Did Osama bin Laden really win?",
@@ -382,6 +401,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUYwT2ZBY29SQkhnbTRHTnIxTXVTWndGampQSVo0VlpHUkdDb0lGTkZOMXB0TFVxcEFFcVpWcUZ5RHNEd3NuZTk0ZnZBaFBWU1ZrN3hGNEdHVGtjWkJ5WF9xMU5tUnJlQWl1U1RGWVZuMkhFbjdvRHEtTmw1a2FmRVJ2d2phMTM3V0hLY3poSF9tME54RkZnand2VUV4TW50YnhueDlnc2p6UUp0VEE",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789088112.0
+    },
+    {
+        "id": "5a7e92f84e",
+        "title_fa": "معافیت فدراسیون کشتی برای اکتشاف معدن: رانت دولتی",
+        "title_en": "معافیت فدراسیون کشتی برای اکتشاف معدنی؛ رانت ویژه جمهوری اسلامی به علیرضا دبیر",
+        "summary": [
+            "شورای عالی معادن معافیتی فنی‌مالی به فدراسیون کشتی داد، در حالی که این نهاد صنعتی نیست.",
+            "این رانت دسترسی آسان به مزایده‌های معدنی برای افراد خاص را فراهم می‌کند.",
+            "قانون معادن می‌گوید فقط افراد متخصص می‌توانند پروانه بگیرند؛ این تصمیم خلاف قانون است.",
+            "اقدام نشان‌دهنده فساد در تخصیص منابع طبیعی به نهادهای ورزشی است."
+        ],
+        "impact": "تخصیص ناعادلانه منابع معدنی می‌تواند خسارات مالی به خزانهٔ ملی وارد کند.",
+        "tag": "فساد",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/202609106356",
+        "clean_url": "https://www.iranintl.com/202609106356",
+        "image": "http://www.bing.com/th?id=ONUT.nn_5ikvhvFXEpYJ2p1HxnA&pid=News",
+        "timestamp": 1789088100.0
     },
     {
         "id": "866528250d",
@@ -5407,39 +5446,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/ex-defense-minister-gallant-says-he-didn-t-know-of-alleged-mbz-netanyahu-warning-says-pm-could-ve-hidden-it/ar-AA2bTjIm",
         "image": "https://www.bing.com/th?id=ONUT.OnfKPE9ACJemSzTEKifHog",
         "timestamp": 1788979892.60958
-    },
-    {
-        "id": "155f95a76a",
-        "title_fa": "چرا کمک های آمریکا به نیروهای مسلح لبنان باید با شرایطی همراه باشد",
-        "title_en": "Why US aid to the Lebanese Armed Forces should come with conditions",
-        "summary": [
-            "The only way to dismantle Hezbollah is to create the right incentives for the Lebanese government."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The National Interest on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/why-us-aid-to-the-lebanese-armed-forces-should-come-with-conditions/ar-AA2bU0er?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/why-us-aid-to-the-lebanese-armed-forces-should-come-with-conditions/ar-AA2bU0er",
-        "image": "https://www.bing.com/th?id=ONUT.o8jACXAr7Zs1uV5b7L1nhw",
-        "timestamp": 1788979260.671493
-    },
-    {
-        "id": "0fdd8805d9",
-        "title_fa": "زلنسکی اوکراین در هنگام برخاستن از فرودگاه نروژ تقریباً مورد اصابت پهپاد قرار گرفت",
-        "title_en": "Ukraine's Zelensky almost hit by drone during takeoff from Norway airport",
-        "summary": [
-            "The Ukrainian leader was heading to a second meeting with the Prime Minister Jonas Gahr Støre..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Daily Express US on MSN",
-        "url": "https://www.msn.com/en-us/news/other/ukraine-s-zelensky-almost-hit-by-drone-during-takeoff-from-norway-airport/ar-AA2bTVem?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/ukraine-s-zelensky-almost-hit-by-drone-during-takeoff-from-norway-airport/ar-AA2bTVem",
-        "image": "https://www.bing.com/th?id=ONUT.e8UyMtOuHQN-gy5igpMszA",
-        "timestamp": 1788979260.670176
     }
 ]
