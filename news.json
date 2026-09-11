@@ -1,5 +1,25 @@
 [
     {
+        "id": "1a249a9a8e",
+        "title_fa": "هوش‌مصنوعی، چالش جدید کاخ سفید",
+        "title_en": "The White House has an AI problem — and it may worry Wall Street even more than Iran",
+        "summary": [
+            "ترامپ سعی دارد هوش‌مصنوعی را به عنوان موتور رشد اقتصادی دو سال اخیر معرفی کند",
+            "وال‌استریت نگران پیام‌گذاری نامنظم و عدم شفافیت کاخ سفید در زمینه AI است",
+            "عدم وضوح می‌تواند در انتخابات میانه‌سال‌ها به نفع دموکرات‌ها عمل کند",
+            "تمرکز بر جنگ ایران باعث انحراف توجه از فرصت‌های واقعی AI می‌شود"
+        ],
+        "impact": "پیام‌گذاری نادرست درباره AI می‌تواند سرمایه‌گذاری‌های فناوری را به تعویق بیندازد",
+        "tag": "AI",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/11/business/the-white-house-has-an-ai-problem-and-it-may-worry-wall-street-even-more-than-iran/",
+        "clean_url": "https://nypost.com/2026/09/11/business/the-white-house-has-an-ai-problem-and-it-may-worry-wall-street-even-more-than-iran",
+        "image": "https://www.bing.com/th?id=ONUT.xss61W3_tPG0rPgot76Hdw",
+        "timestamp": 1789129739.3229883
+    },
+    {
         "id": "f5aae73c09",
         "title_fa": "خبر بین‌المللی — Britain's settlement trade ban is cosmetic. برای it به work,",
         "title_en": "Britain's settlement trade ban is cosmetic. For it to work, it must sanction Israel",
@@ -5420,22 +5440,5 @@
         "clean_url": "https://www.scmp.com/topics/war-and-conflict",
         "image": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
         "timestamp": 1788996840.0
-    },
-    {
-        "id": "a779ae9e21",
-        "title_fa": "پرتابه‌ها به چندین منطقه در جنوب سیریک ایران اصابت کرد",
-        "title_en": "Projectiles hit several areas in southern Iran's Sirik",
-        "summary": [
-            "Further details regarding the strikes, including the extent of the damage or potential casualties, were not immediately available."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/projectiles-hit-several-areas-in-southern-iran-s-sirik/ar-AA2bUbfM?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/projectiles-hit-several-areas-in-southern-iran-s-sirik/ar-AA2bUbfM",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788996098.3167708
     }
 ]
