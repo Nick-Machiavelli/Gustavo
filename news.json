@@ -1,5 +1,42 @@
 [
     {
+        "id": "2b9cc5eaa8",
+        "title_fa": "تحریم‌های غیرمنتظره و صعود قیمت نفت",
+        "title_en": "The sanctions no one expected",
+        "summary": [
+            "بریتانیا و متحدانش برای شهرک‌های اسرائیلی تحریم‌های جدیدی تصویب کردند",
+            "تنش‌های بین آمریکا و ایران باعث شد قیمت نفت به بالای ۱۰۰ دلار برسد",
+            "قیمت‌های بالا فشار شدیدی بر اقتصاد عربستان سعودی وارد کرده"
+        ],
+        "impact": "افزایش هزینه‌های انرژی جهانی و فشار بر بودجهٔ سعودی",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "IOL on MSN",
+        "url": "https://www.msn.com/en-za/politics/government/the-sanctions-no-one-expected/ar-AA2c06Xs?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-za/politics/government/the-sanctions-no-one-expected/ar-AA2c06Xs",
+        "image": "https://www.bing.com/th?id=ONUT.lUAJ_jh5UVEUKAo5NAOWiw",
+        "timestamp": 1789117388.0473788
+    },
+    {
+        "id": "1800bc225d",
+        "title_fa": "نقش ۹/۱۱ در تبلیغ جنگ اسرائیل",
+        "title_en": "How 9/11 helped Israel sell its war on Palestinians to America",
+        "summary": [
+            "متن ادعا می‌کند که حملات ۱۱ سپتامبر به‌عنوان پیش‌زمینه‌ای برای فروش جنگ فلسطین به آمریکا به کار رفته",
+            "این روایت می‌تواند حس‌پذیری عمومی در آمریکا و اروپا را نسبت به مناقشات خاورمیانه تقویت کند"
+        ],
+        "impact": "تقویت روایت‌سازی سیاسی علیه فلسطینیان و افزایش فشار بین‌المللی بر ایران",
+        "tag": "روایت",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to",
+        "clean_url": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to",
+        "image": "https://www.bing.com/th?id=ONUT.zaVwPJLL9pb_s4zqtH5Mcw",
+        "timestamp": 1789117388.0471992
+    },
+    {
         "id": "1b533deb3c",
         "title_fa": "ترامپاپالووزا: نمایش تظاهر جمهوری‌خواهان",
         "title_en": "The GOP's 'Trumpapalooza' is just pure Republican pretend | Opinion",
@@ -93,6 +130,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NLTByZWdrUW9sX0RSajduc2NGYkVaWENCVDBqb1c3ZklnZWVmMVZCeXIycS1RaXBkRUVOOThCcURWVWZKdDB3b204ejM4TWtVNjVaT2ZiX2Y",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789113150.0
+    },
+    {
+        "id": "7da69f651e",
+        "title_fa": "خطای دسترسی به خبر بلومبرگ",
+        "title_en": "Iran's Total Blackout",
+        "summary": [
+            "صفحهٔ نمایش فقط درخواست ربات‌کشی دارد و محتوای خبری ارائه نمی‌شود",
+            "عدم دسترسی به متن باعث عدم امکان ارزیابی وضعیت ایران می‌شود"
+        ],
+        "impact": "هیچ تأثیر عملی یا اقتصادی قابل‌توجهی ندارد",
+        "tag": "فنی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/features/2026-iran-internet/",
+        "clean_url": "https://www.bloomberg.com/features/2026-iran-internet",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFbzvf8SOIp4/v0/-1x-1.webp",
+        "timestamp": 1789110000.0
     },
     {
         "id": "4e533f2fc4",
@@ -3073,6 +3128,25 @@
         "timestamp": 1789030984.5353653
     },
     {
+        "id": "e153a40e6c",
+        "title_fa": "حمله ایرانی به هواپیماهای آمریکا در یمن",
+        "title_en": "World News",
+        "summary": [
+            "حوثی‌های حامی ایران در سواحل یمن پیشروی می‌کنند",
+            "موشک‌های ایرانی به چند هواپیمای نظامی آمریکا آسیب رساند",
+            "واکنش احتمالی واشنگتن می‌تواند به گسترش جنگ دو جبهه‌ای منجر شود"
+        ],
+        "impact": "تشدید تنش‌های خلیج فارس و خطر تصعید نظامی در منطقه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Australian Broadcasting Corporation",
+        "url": "https://www.abc.net.au/news/world",
+        "clean_url": "https://www.abc.net.au/news/world",
+        "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
+        "timestamp": 1789030982.0
+    },
+    {
         "id": "3db6a8cde9",
         "title_fa": "ایران در محاصره: معضل استراتژیک در جنگ طولانی",
         "title_en": "Under siege: Iran faces strategic dilemma as war of attrition drags on",
@@ -5374,76 +5448,5 @@
         "clean_url": "https://americanbazaaronline.com/2026/09/10/us-iran-war-intensifies-as-houthis-seize-yemen-port-city-487875",
         "image": "https://www.bing.com/th?id=ONUT.g130FQ39wzgFRoPBBd_ewg",
         "timestamp": 1788981065.0
-    },
-    {
-        "id": "e23c5b8939",
-        "title_fa": "مجموعه کارگاه های سرپرستی جنگل برای تقویت سلامت جنگل، تاب آوری در برابر آتش",
-        "title_en": "Forest stewardship workshop series to boost forest health, fire resilience",
-        "summary": [
-            "Forest landowners in Shasta and surrounding counties can sign up for a workshop series focused on improving forest health and..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "KRCR News Channel 7 on MSN",
-        "url": "https://www.msn.com/en-us/news/other/forest-stewardship-workshop-series-to-boost-forest-health-fire-resilience/ar-AA2bTVkj?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/forest-stewardship-workshop-series-to-boost-forest-health-fire-resilience/ar-AA2bTVkj",
-        "image": "https://www.bing.com/th?id=ONUT.dHw-R9WuRd7dmYWJaBA4Mg",
-        "timestamp": 1788980591.079984
-    },
-    {
-        "id": "dc173346f7",
-        "title_fa": "ترامپ جنگ با ایران را 'سیب‌زمینی کوچک' نامید",
-        "title_en": "Trump calls Iran war 'small potatoes'",
-        "summary": [
-            "ترامپ در مصاحبه‌ای گفت جنگ با ایران برای او «سیب‌زمینی کوچک» است",
-            "این بیانیه نشان می‌دهد او تمایلی به ارتقای تنش‌های نظامی ندارد",
-            "واکنش‌های داخلی و بین‌المللی به این سخن ممکن است حمایت یا انتقاد را به دنبال داشته باشد",
-            "اگرچه گفتار او کم‌اهمیت به نظر می‌رسد، اما می‌تواند سیاست‌های آینده را تحت‌تأثیر بگذارد"
-        ],
-        "impact": "بیان کم‌اهمیت جنگ، ممکن است فشار داخلی بر دولت ایران را کاهش دهد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "mysuncoast.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUJMQTJKbE9VVEszTHZ1UHhZMUFzMnRKQ2J5Q2ZqZncyYUxWYnh6SGFBRnU2M1pWdDd3SXJsVk1ZaXI3RDRUOEpKZ2dZWEYzOUNvMDBDd1RTak5meVp4alY2WUtaM0NGUEc3Z3JCRzJKN3djWFJNOUE1b0pTeEQ4U2JOUGcwUWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUJMQTJKbE9VVEszTHZ1UHhZMUFzMnRKQ2J5Q2ZqZncyYUxWYnh6SGFBRnU2M1pWdDd3SXJsVk1ZaXI3RDRUOEpKZ2dZWEYzOUNvMDBDd1RTak5meVp4alY2WUtaM0NGUEc3Z3JCRzJKN3djWFJNOUE1b0pTeEQ4U2JOUGcwUWc",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788980100.0
-    },
-    {
-        "id": "15b7d9ace0",
-        "title_fa": "گام میان دوره ای ترامپ به دلیل جنگ ایران و تعرفه های کانادا تیره شده است",
-        "title_en": "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs",
-        "summary": [
-            "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs The New York Times"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW5SZG5jQ3Z2STdOUDVUMXh1Vm9pWTNtM0gzTmE5eUNjMkxESklVUlpsejZ1WEtSTTBzcWE4YkZuck84RlBIelVWSnlQMHJQNHoxaTB6cS1YRkdvM1dOTmFMamkzME45UUdpQUk4MTUyTmFqWG1uZFF1eTc2WUdXbEtVSGp2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW5SZG5jQ3Z2STdOUDVUMXh1Vm9pWTNtM0gzTmE5eUNjMkxESklVUlpsejZ1WEtSTTBzcWE4YkZuck84RlBIelVWSnlQMHJQNHoxaTB6cS1YRkdvM1dOTmFMamkzME45UUdpQUk4MTUyTmFqWG1uZFF1eTc2WUdXbEtVSGp2Zw",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788979985.0
-    },
-    {
-        "id": "8647343d69",
-        "title_fa": "وزیر دفاع اسرائیل تهدید به حمله به تاسیسات انرژی ایران را تکرار کرد",
-        "title_en": "Israeli defense minister renews threat to strike Iran’s energy facilities",
-        "summary": [
-            "Israeli Defense Minister Israel Katz renewed his threat Thursday to strike Iranian energy facilities if Tehran launches an attack against Israel, Anadolu reports. “Given the possibility that Iran..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Middle East Monitor",
-        "url": "https://www.middleeastmonitor.com/20260910-israeli-defense-minister-renews-threat-to-strike-irans-energy-facilities/",
-        "clean_url": "https://www.middleeastmonitor.com/20260910-israeli-defense-minister-renews-threat-to-strike-irans-energy-facilities",
-        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/09/AA-20260423-41193894-41193893-KATZ_MEETS_ISRAELI_MILITARY_CHIEFS_FOR_SECURITY_ASSESSMENT-Mehedi-Islam-1-1-1.jpg?fit=920%2C613&ssl=1",
-        "timestamp": 1788979926.0
     }
 ]
