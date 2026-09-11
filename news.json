@@ -1,5 +1,42 @@
 [
     {
+        "id": "142af3c5fd",
+        "title_fa": "تحلیل بازی فوتبال ویسکانسین",
+        "title_en": "Polzin: Why dominating weaker foes would be a step in the right direction for Wisconsin football",
+        "summary": [
+            "هواداران ویسکانسین پس از شکست در برابر نوتردام نگرانی دارند",
+            "مربی تیم به تصمیمات تاکتیکی ناسازگار انتقاد کرده"
+        ],
+        "impact": "احتمالاً فشار بر مدیریت تیم برای تغییر استراتژی در مسابقات آینده افزایش می‌یابد",
+        "tag": "ورزشی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "La Crosse Tribune",
+        "url": "https://lacrossetribune.com/sports/columnists/jim_polzin/article_ea99ae43-b56d-5da5-9ec7-2b4ed7198787.html",
+        "clean_url": "https://lacrossetribune.com/sports/columnists/jim_polzin/article_ea99ae43-b56d-5da5-9ec7-2b4ed7198787.html",
+        "image": "https://www.bing.com/th?id=ONUT.nCdW3aqmCLhlkqFy0ign3A",
+        "timestamp": 1789121630.8056471
+    },
+    {
+        "id": "ec2e2624a2",
+        "title_fa": "ترامپ وعده ۵۰۰۰ دلاری به رای‌دهندگان",
+        "title_en": "Trump’s Disastrous Reign Will Cost You More Than $5,000",
+        "summary": [
+            "ترامپ قول پرداخت ۵۰۰۰ دلار به هر شهروند در صورت پیروزی جمهوری‌خواهان را داد",
+            "این وعده واضحاً نقض قانون انتخاباتی است و احتمالاً هرگز اجرا نشود",
+            "اعلام چنین وعده‌ای می‌تواند اعتماد عمومی را تحت فشار قرار دهد"
+        ],
+        "impact": "ممکن است حمایت انتخاباتی جمهوری‌خواهان را تقویت کند ولی خطر پیگرد قانونی را به‌همراه داشته باشد",
+        "tag": "انتخاباتی",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "The American Prospect",
+        "url": "https://prospect.org/2026/09/11/trump-disastrous-reign-will-cost-you-more-than-5000-iran-war/",
+        "clean_url": "https://prospect.org/2026/09/11/trump-disastrous-reign-will-cost-you-more-than-5000-iran-war",
+        "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/09/Cooper-Trump-costs-091126.jpg?fit=2000%2C1333&ssl=1",
+        "timestamp": 1789121630.8048687
+    },
+    {
         "id": "aaa39bc7d5",
         "title_fa": "خبر بین‌المللی — Inside Roman Gofman’s plan به reshape Mossad strategy, with",
         "title_en": "Inside Roman Gofman’s plan to reshape Mossad strategy, with Iran at the center",
@@ -32,6 +69,25 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iranian-president-pezeshkian-arrives-in-delhi-to-attend-18th-brics-summit/ar-AA2c15jZ",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789119710.8280818
+    },
+    {
+        "id": "0708ffff4d",
+        "title_fa": "پاکستان میان‌دست تنش عربستان‑حوثی",
+        "title_en": "As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces pressure to choose a side",
+        "summary": [
+            "تنش عربستان با حوثی‌های وابسته به ایران در حال تشدید است",
+            "پاکستان به‌عنوان میان‌دست فشار می‌شود تا موضع بگیرد",
+            "اگر پاکستان جانب‌دار شود، روابط با عربستان یا ایران به خطر می‌افتد"
+        ],
+        "impact": "ممکن است بحران خلیج فارس را تشدید کند و تجارت نفت را تحت فشار قرار دهد",
+        "tag": "منطقه‌ای",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeEtIRmd6Qm1XMzBxWWhjWXkwU3NPaFY0Nk1HTWdNQzhlSEg2ZlJMQ1BCcS02UTRVcFpBRXZtb3laVXI4Q0VOdVd4RXBNdFhNSU1taGRya3NoVlItcVdmMXBlaTVFcjdMNE9UMGU5T0JidVVjbV9Sc3ZjMzMyeXZLaGV2MHRlUktWTklJN25ubkdjVE56UjJiSDFQYU5sUDQ3eUVuV0JXS1dXcnM4WWJ6dTdZY2EwWnR6MlBlTEdKOFZTTFZOYXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeEtIRmd6Qm1XMzBxWWhjWXkwU3NPaFY0Nk1HTWdNQzhlSEg2ZlJMQ1BCcS02UTRVcFpBRXZtb3laVXI4Q0VOdVd4RXBNdFhNSU1taGRya3NoVlItcVdmMXBlaTVFcjdMNE9UMGU5T0JidVVjbV9Sc3ZjMzMyeXZLaGV2MHRlUktWTklJN25ubkdjVE56UjJiSDFQYU5sUDQ3eUVuV0JXS1dXcnM4WWJ6dTdZY2EwWnR6MlBlTEdKOFZTTFZOYXc",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789119518.0
     },
     {
         "id": "0691deb036",
@@ -210,6 +266,25 @@
         "clean_url": "https://www.newarab.com/opinion/25-years-after-911-did-osama-bin-laden-really-win",
         "image": "https://www.bing.com/th?id=ONUT.KnNzb2PciK3dPKSE2zjnSQ",
         "timestamp": 1789114493.3362792
+    },
+    {
+        "id": "c3a1113b89",
+        "title_fa": "ترامپ ادعای پیروزی نظامی در ایران",
+        "title_en": "Trump claims military victory in Iran. But is the mission accomplished? ANALYSIS - ABC News",
+        "summary": [
+            "ترامپ ادعای موفقیت نظامی در ایران را مطرح کرد",
+            "هیچ مدرکی از عملیات واقعی منتشر نشده",
+            "این ادعا می‌تواند تنش‌های نظامی را در خاورمیانه تشدید کند"
+        ],
+        "impact": "اگر ادعا جدی گرفته شود، احتمال مواجهه نظامی بین آمریکا و ایران بالا می‌رود",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnZ4cllvVUNVMWJidExDVmVfQjI5V3k1WF9xakpiNlBDWnIwbThWREVBRTd5R2RRaS1QRXMwYnJWSGI4OURfX2N1MDlUOVJ2VDlCSnJvaDBmVkNobDZvb2FvdXZ5cDNXb3ZYOGpMdTVBa3luSGx5WmJVa3RYaGl3cVlYS2VIempuOXBLbll1anB3UlZtd1pqbWVVSHo2ejVVVG4weGZlcWtCUGlmR05YN0xB0gG3AUFVX3lxTFB5WDBGakw1MEdlVzRUN3pTMWIyLXBCek1RbTNRLWRidUt3aXFtbTA0TXJyTTJrOVJTQ2t5X3hMaFVESVh6NTlZYk1XNWJQVFRnV3NlM0tlRHhzRVotRTc1NFRrY2hGX3RrOEdQZVVIYzZ4aXNTaWViWFV1UFFSRzN0R19PWXdwZjVndEEzdXJrbHZiNS1mbXRiWkdYRmpYVDJfeGdqQXhzdTZ6SEw5ZWhxOVd6YzhiRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnZ4cllvVUNVMWJidExDVmVfQjI5V3k1WF9xakpiNlBDWnIwbThWREVBRTd5R2RRaS1QRXMwYnJWSGI4OURfX2N1MDlUOVJ2VDlCSnJvaDBmVkNobDZvb2FvdXZ5cDNXb3ZYOGpMdTVBa3luSGx5WmJVa3RYaGl3cVlYS2VIempuOXBLbll1anB3UlZtd1pqbWVVSHo2ejVVVG4weGZlcWtCUGlmR05YN0xB0gG3AUFVX3lxTFB5WDBGakw1MEdlVzRUN3pTMWIyLXBCek1RbTNRLWRidUt3aXFtbTA0TXJyTTJrOVJTQ2t5X3hMaFVESVh6NTlZYk1XNWJQVFRnV3NlM0tlRHhzRVotRTc1NFRrY2hGX3RrOEdQZVVIYzZ4aXNTaWViWFV1UFFSRzN0R19PWXdwZjVndEEzdXJrbHZiNS1mbXRiWkdYRmpYVDJfeGdqQXhzdTZ6SEw5ZWhxOVd6YzhiRQ",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789114047.0
     },
     {
         "id": "c7647be2bb",
@@ -5360,78 +5435,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-war-will-end-gas-prices-to-fall-after-the-midterms/ar-AA2bItw1",
         "image": "http://www.bing.com/th?id=ONUT.AfReDCz8P21Z1DvsvLXMjQ&pid=News",
         "timestamp": 1788988078.0
-    },
-    {
-        "id": "e804cebebe",
-        "title_fa": "افزایش فعالیت در پای‌کِس‌ماونت ایران",
-        "title_en": "Middle East latest: 'Clear surge in activity' at Iran's 'Pickaxe Mountain'",
-        "summary": [
-            "منطقه‌ای در نزدیکی سایت هسته‌ای «پیککس ماونت» گزارش‌های واضحی از فعالیت‌های ساخت‌وساز داد",
-            "این افزایش می‌تواند نشانگر پیشرفت برنامه هسته‌ای باشد",
-            "کشورهای همسایه نگرانی خود را درباره خطر گسترش تسلیحات هسته‌ای ابراز کردند"
-        ],
-        "impact": "پیشرفت احتمالی برنامه هسته‌ای ایران می‌تواند تنش‌های نظامی منطقه را تشدید کند",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Sky News",
-        "url": "https://news.sky.com/story/middle-east-iran-war-latest-saudi-arabia-houthis-yemen-strait-of-hormuz-trump-strikes-attack-13509565",
-        "clean_url": "https://news.sky.com/story/middle-east-iran-war-latest-saudi-arabia-houthis-yemen-strait-of-hormuz-trump-strikes-attack-13509565",
-        "image": "https://e3.365dm.com/26/09/1600x900/skynews-saudi-arabia-houthis_7344719.jpg?20260908063526",
-        "timestamp": 1788987960.0
-    },
-    {
-        "id": "120f01b332",
-        "title_fa": "ترامپ در حالی که اعلام می‌کند جنگ ایران پایانی در پیش ندارد، روی نفت پول می‌زند",
-        "title_en": "Trump Makes Bank on Oil as He Declares Iran War Has No End in Sight",
-        "summary": [
-            "Meanwhile, Trump on Wednesday declared that the Iran war won't end until after the midterm elections, adding that he is no longer pursuing negotiations with the country."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-makes-bank-oil-declares-202049646.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-makes-bank-oil-declares-202049646.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/bc3aa29f6760fab3bd73f2d8d7f2f5506c617e2d78e9637bd1647bd9ff462dea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_new_republic_521%2F7b7288a470835b8d02d7178a94562556.jpg",
-        "timestamp": 1788987774.7562191
-    },
-    {
-        "id": "ec0a43be7b",
-        "title_fa": "آیا سهام در آستانه کاهش است؟ این چیزی است که شما باید بدانید",
-        "title_en": "Are Stocks Poised To Decline? Here’s What You Need To Know",
-        "summary": [
-            "Stocks have had good returns since 2023. But is the rally about to end? How will the Iran war, inflation, tariffs affect..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/mikepatton/2026/09/09/are-stocks-poised-to-decline-heres-what-you-need-to-know/",
-        "clean_url": "https://www.forbes.com/sites/mikepatton/2026/09/09/are-stocks-poised-to-decline-heres-what-you-need-to-know",
-        "image": "https://www.bing.com/th?id=ONUT.RWhbSzvYJPgeGPeqq5L0dg",
-        "timestamp": 1788987774.7553313
-    },
-    {
-        "id": "18b56acecc",
-        "title_fa": "نتانیاهو: ایران پس از حمله توان هسته‌ای‌اش را باز می‌سازد",
-        "title_en": "Netanyahu: Iran tries to rebuild nuclear capability",
-        "summary": [
-            "نتانیاهو اعلام کرد عملیات «شیرین‌قهرمان» و «شیرین‌قهرمان ۲» توان تولید سلاح هسته‌ای ایران را نابود کرده‌اند.",
-            "هیئت‌مدیره آژانس بین‌المللی انرژی اتمی برای اولین بار در ۲۰ سال ایران را به شورای امنیت سازمان ملل ارجاع داد.",
-            "کاظم غریب‌آبادی، معاون وزیر امور خارجه ایران، تصمیم را به‌عنوان تضعیف نظام عدم گسترش سلاح‌های هسته‌ای توصیف کرد.",
-            "اظهارات نتانیاهو می‌تواند فشار دیپلماتیک بر ایران را افزایش داده و خطر تشدید تنش‌های نظامی در منطقه را بالا ببرد."
-        ],
-        "impact": "افزایش تنش‌های منطقه‌ای و احتمال اعمال تحریم‌های جدید علیه ایران",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Shafaq News",
-        "url": "https://shafaq.com/en/Middle-East/Netanyahu-Iran-tries-to-rebuild-nuclear-capability",
-        "clean_url": "https://shafaq.com/en/Middle-East/Netanyahu-Iran-tries-to-rebuild-nuclear-capability",
-        "image": "https://www.bing.com/th?id=ONUT.luvbprdtWBkTMmlBbyHAAg",
-        "timestamp": 1788986488.0
     }
 ]
