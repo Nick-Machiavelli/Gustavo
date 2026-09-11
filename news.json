@@ -1,5 +1,23 @@
 [
     {
+        "id": "a7cdc519b8",
+        "title_fa": "ویانس: دموکرات‌ها حزب نفرت هستند",
+        "title_en": "Vance: Democrats are the party of hatred",
+        "summary": [
+            "جِی‌دی ویانس، معاون رئیس‌جمهور ایالات متحده، دموکرات‌ها را «حزب نفرت» توصیف کرد.",
+            "این اظهارات در میانه رقابت‌های پیش‌انتخابات ریاست‌جمهوری به‌کار رفته و به تشدید تقسیم‌پذیری سیاسی می‌انجامد."
+        ],
+        "impact": "اظهارات می‌تواند تنش‌های حزبی را در فضای سیاسی آمریکا تشدید کند.",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/video/6404928013112",
+        "clean_url": "https://www.foxnews.com/video/6404928013112",
+        "image": "https://www.bing.com/th?id=ONUT.cFIndGN17KCZMvd1XPOG3g",
+        "timestamp": 1789133794.3014643
+    },
+    {
         "id": "7b1b5232b0",
         "title_fa": "رویدادهای 9/11 و 7 اکتبر؛ نقطه عطف جهان",
         "title_en": "My word: From 9/11 to October 7, the dates that changed the world",
@@ -2036,6 +2054,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDJyVVhLSUZweG9aLVBYejFueDZ3Qkk0OTA1c3J3RjhVNGhhTWtJRGxqbUdrZ2RaSktQY25FMVphTTlCS0pmUlBINlZQaXVMT0p3ZlgySzFCdUZ4a3l1ZTJZTm81NldOLUswZHE5YU83VFA2elEwUjAwUW1DWXp5QWNlSl9WdEhWUzNMMmRxQmlPUWJ0",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789066854.0
+    },
+    {
+        "id": "e57dcfcd46",
+        "title_fa": "روسیه و چین جلوی احیای کمیته تحریم‌های ایران را می‌گیرند",
+        "title_en": "Russia and China oppose push to reactivate UN Iran sanctions committee",
+        "summary": [
+            "روسیه و چین به‌صورت رسمی مخالفت خود را با طرح احیای کمیته تحریم‌های سازمان ملل علیه ایران اعلام کردند.",
+            "این مخالفت در پی ارجاع ایران به شورای امنیت توسط هیئت‌مدیره آژانس بین‌المللی انرژی اتمی برای عدم تبعیت هسته‌ای است.",
+            "احیای کمیته می‌تواند فشار اقتصادی جدیدی بر تهران وارد کند و روابط روسیه‑چین‑ایران را تقویت نماید."
+        ],
+        "impact": "احیای کمیته می‌تواند تحریم‌های جدیدی بر اقتصاد ایران اعمال کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The National",
+        "url": "https://www.msn.com/en-ae/news/world/russia-and-china-oppose-push-to-reactivate-un-iran-sanctions-committee/ar-AA2bYsGi",
+        "clean_url": "https://www.msn.com/en-ae/news/world/russia-and-china-oppose-push-to-reactivate-un-iran-sanctions-committee/ar-AA2bYsGi",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bYxcz.img?w=4206&h=2804&m=4&q=76",
+        "timestamp": 1789066593.0
     },
     {
         "id": "16a267e426",
@@ -5417,41 +5454,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/us-streamers/xqc-breaks-silence-on-why-major-gta-rp-streamers-were-left-out-of-nopixel-5-0/articleshow/134035265.cms",
         "image": "https://www.bing.com/th?id=ONUT.rD6oTEzeZakw6f571Op5Dg",
         "timestamp": 1789003336.0
-    },
-    {
-        "id": "c71bb29e51",
-        "title_fa": "ایران با نزدیک شدن به ناوهای آمریکا، تمایل به تشدید تنش",
-        "title_en": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation",
-        "summary": [
-            "ناوهای آمریکایی در خلیج فارس با کشتی‌های سریع‌السیر ایرانی مواجه شدند",
-            "این برخوردها نشان از تغییر استراتژی ایران برای فشار بیشتر بر ایالات متحده دارد",
-            "احتمال افزایش عملیات نیابتی و خطر تصادم واقعی در آینده نزدیک بالا است"
-        ],
-        "impact": "افزایش خطر تصادم نظامی در خلیج فارس، ممکن است منجر به تحریم‌های جدید و حضور نظامی بیشتر آمریکا شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "wsj.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE45TS1sS3dPVjlLNzNEdVBVSE4wUzI2OXZGb2NPbnNhX3dDZmxxeHJlQVZHRTdTaXpyMGhsWW52Qkl6OC0tQ1lUN1J6RTNuRkNjblFKVTlwcmpWSXkyYzk1V2FyeWRCcHZfb3l4dlZKT2NKVHloOTR3bmYxcGVxQ2FfcVR2X19oeV9sb0llNElNQ2VSQlNnTXRrdmdibjZ3eTJhaGdFd3hlV2hhbTJ2NllIbkQybjZTa0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE45TS1sS3dPVjlLNzNEdVBVSE4wUzI2OXZGb2NPbnNhX3dDZmxxeHJlQVZHRTdTaXpyMGhsWW52Qkl6OC0tQ1lUN1J6RTNuRkNjblFKVTlwcmpWSXkyYzk1V2FyeWRCcHZfb3l4dlZKT2NKVHloOTR3bmYxcGVxQ2FfcVR2X19oeV9sb0llNElNQ2VSQlNnTXRrdmdibjZ3eTJhaGdFd3hlV2hhbTJ2NllIbkQybjZTa0E",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789002000.0
-    },
-    {
-        "id": "7ca9c12fe5",
-        "title_fa": "مشاوران ترامپ هشدار می‌دهند که جنگ ایران ممکن است سال‌ها طول بکشد: گزارش",
-        "title_en": "Trump advisers warn Iran war could last years: Report",
-        "summary": [
-            "Trump advisers warn Iran war could last years: Report Anadolu Ajansı"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTW93WXdEWlVSYkNjMkVldVhMRUVBY1Fza3VuOFRCRmdFZWZkYV9mRHZkNUY4N28yeE9RcXMyM1dNUE95VnNlZXprRXVBNl9YQU5JMVhuOHQxNXVyMy1HMUVXMlc5T2VUMlo1Q01aclgtenh4bGRtQWE5bS0ySTY1dndzWWRjSHpzd0NmRVhmQWhyUUdHS1JCTXp3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTW93WXdEWlVSYkNjMkVldVhMRUVBY1Fza3VuOFRCRmdFZWZkYV9mRHZkNUY4N28yeE9RcXMyM1dNUE95VnNlZXprRXVBNl9YQU5JMVhuOHQxNXVyMy1HMUVXMlc5T2VUMlo1Q01aclgtenh4bGRtQWE5bS0ySTY1dndzWWRjSHpzd0NmRVhmQWhyUUdHS1JCTXp3",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789001601.0
     }
 ]
