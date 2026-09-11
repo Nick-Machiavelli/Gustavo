@@ -1,5 +1,24 @@
 [
     {
+        "id": "866528250d",
+        "title_fa": "تهدیدهای ترامپ به تجارت با ایران",
+        "title_en": "Trump is hastening the decline of American power",
+        "summary": [
+            "تهدیدهای مالی جدید آمریکا به کشورهایی که با ایران معامله می‌کنند نشان می‌دهد قدرت اقتصادی واشنگتن در حال کاهش است",
+            "هم‌پیمانان به‌دلیل هزینه‌های احتمالی و عدم مشورت، از پیوستن به فشارها امتناع می‌کنند",
+            "این جدال باعث سرعت یافتن جابه‌جایی قدرت به سمت نظام‌های غیرآمریکایی می‌شود"
+        ],
+        "impact": "تحریم‌های جدید می‌تواند تجارت ایران را محدود کند و فشار اقتصادی بر خاورمیانه را افزایش دهد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Pearls and Irritations",
+        "url": "https://johnmenadue.com/post/2026/09/trump-is-hastening-the-decline-of-american-power/",
+        "clean_url": "https://johnmenadue.com/post/2026/09/trump-is-hastening-the-decline-of-american-power",
+        "image": "https://www.bing.com/th?id=ONUT.5S7YdYW93hKGZS8LWsfpNQ",
+        "timestamp": 1789087469.753071
+    },
+    {
         "id": "00b1b967a4",
         "title_fa": "ترامپ پیش‌بینی پایان جنگ ایران پس از انتخابات",
         "title_en": "Baldy Trump Has New Prediction For End To Iran War He Said He Already Won",
@@ -1267,6 +1286,24 @@
         "clean_url": "https://blockweeks.com/news/314772",
         "image": "https://blockweeks.com/wp-content/uploads/2026/09/library-international-atomic-energy-agency-confirms-new-construc-800x450-1.jpg",
         "timestamp": 1789052580.0
+    },
+    {
+        "id": "4844703889",
+        "title_fa": "متن نامفهوم بلاک‌برگ",
+        "title_en": "Oil Climbs as Markets See a Long Iran War",
+        "summary": [
+            "متن ارائه‌شده فقط شامل پیام‌های فنی درباره ربات‌کپچا است و خبری واقعی ارائه نمی‌دهد",
+            "عدم وجود اطلاعات قابل‌استفاده باعث می‌شود این آیتم ارزش تحلیلی نداشته باشد"
+        ],
+        "impact": "عدم وجود محتوا هیچ‌گونه تأثیر عملی یا اقتصادی ندارد",
+        "tag": "فنی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-climbs-as-markets-see-a-long-war-evening-briefing-americas",
+        "clean_url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-climbs-as-markets-see-a-long-war-evening-briefing-americas",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789050960.0
     },
     {
         "id": "5403dbeb35",
@@ -5369,41 +5406,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/this-new-year-let-s-start-to-restore-the-israel-that-is-a-light-unto-the-nations/ar-AA2bTfGo",
         "image": "https://www.bing.com/th?id=ONUT.7_D7LoPew7Jwns7Hjg38IQ",
         "timestamp": 1788968328.3422627
-    },
-    {
-        "id": "658da4f173",
-        "title_fa": "تشدید درگیری هرمز و سرخ بین آمریکا و ایران",
-        "title_en": "Dual strait conflicts escalate as US., allies clash with Iran-backed forces",
-        "summary": [
-            "ناوهای آمریکایی و نیروهای موضع‌دار ایران در هرمز به‌هم‌پیوستند",
-            "عربستان با حوثی‌های حامی ایران در سرخ به‌جنگ‌اند",
-            "هر دو صحنه خطر قطع مسیرهای نفتی را افزایش می‌دهند"
-        ],
-        "impact": "ریسک بزرگ برای تداوم حمل و نقل نفت جهانی و افزایش قیمت‌ها",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Chosun Ilbo on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/dual-strait-conflicts-escalate-as-us-allies-clash-with-iran-backed-forces/ar-AA2bTnqJ",
-        "clean_url": "https://www.msn.com/en-xl/news/other/dual-strait-conflicts-escalate-as-us-allies-clash-with-iran-backed-forces/ar-AA2bTnqJ",
-        "image": "http://www.bing.com/th?id=ONUT.eD-nt5BzkQKTqdlw2FaK_w&pid=News",
-        "timestamp": 1788968188.0
-    },
-    {
-        "id": "3760e76b49",
-        "title_fa": "ایران مدعی است که پس از حملات آمریکا به 10 کشتی در نزدیکی تنگه هرمز حمله کرده است",
-        "title_en": "Iran claims to have attacked 10 ships near strait of Hormuz after US strikes",
-        "summary": [
-            "Iran claims to have attacked 10 ships near strait of Hormuz after US strikes The Guardian"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0tGcHN6eVRuV0EzMllYUTYzOHd1ZDhFeWpJczVqMjB1a3JWWWpnRjh1RmV3Mm1Ya1ViQWxRRjhLRjRfWXlhVHVhM1ZOWlZyZkE4LXRTVDdQZ3RxQ3l2eEM5b1VkLVBySjVITFJMc1NjenAwakdZeEp1ZFBWV0UwcHBoQVdhTHhMRVl4bHdOVWh2X0IyNE5CMGVqYkxqbGtUd0xhY0d5UVNWVVhmTG9IUkROSnNlNDR1ckhkdEZ6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0tGcHN6eVRuV0EzMllYUTYzOHd1ZDhFeWpJczVqMjB1a3JWWWpnRjh1RmV3Mm1Ya1ViQWxRRjhLRjRfWXlhVHVhM1ZOWlZyZkE4LXRTVDdQZ3RxQ3l2eEM5b1VkLVBySjVITFJMc1NjenAwakdZeEp1ZFBWV0UwcHBoQVdhTHhMRVl4bHdOVWh2X0IyNE5CMGVqYkxqbGtUd0xhY0d5UVNWVVhmTG9IUkROSnNlNDR1ckhkdEZ6dw",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788967980.0
     }
 ]
