@@ -1,5 +1,24 @@
 [
     {
+        "id": "3c1a9ea1f7",
+        "title_fa": "هگست 9/۱۱ را برای توجیه جنگ ایران به کار برد",
+        "title_en": "Pete Hegseth invokes 9/11 to defend Iran war but the historical record is more complicated",
+        "summary": [
+            "پیتر هگست در مراسم ۲۵ سالگی 9/۱۱، جنگ جاری آمریکا با ایران را به حملات تروریستی 2001 ربط داد.",
+            "تاریخچه واقعی روابط آمریکا‑ایران پیچیده‌تر است و این استدلال برای توجیه تداوم جنگ استفاده می‌شود.",
+            "بیان چنین ادعایی می‌تواند افکار عمومی را به پذیرش مداوم درگیری سوق دهد."
+        ],
+        "impact": "تقویت روایت جنگ‌محور می‌تواند حمایت عمومی برای اقدام‌ها نظامی علیه ایران را افزایش دهد.",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Arkansas Public Advocate on MSN",
+        "url": "https://www.msn.com/en-us/news/other/pete-hegseth-invokes-911-to-defend-iran-war-but-the-historical-record-is-more-complicated/ar-AA2c3mKS?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/pete-hegseth-invokes-911-to-defend-iran-war-but-the-historical-record-is-more-complicated/ar-AA2c3mKS",
+        "image": "https://www.bing.com/th?id=ONUT.f8cEcMfDZWH5cQfqvlXvUA",
+        "timestamp": 1789166063.6689522
+    },
+    {
         "id": "47b1941fc6",
         "title_fa": "پیمان مکه: یک سازمان معاهده جدید، درست مانند پیمان قدیمی",
         "title_en": "The Mecca Pact: A New Treaty Organization, Just Like the Old One",
@@ -593,6 +612,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmN1dzNIT1pkejVsVTdUbWhuamI4U1hEbHF1eGNuS2R1dVRoNHBlSDBlSm1DMnNUTV9TMHltVWFtM0JvS2p6TGlCbWhQZjZpamE0Zm5RaERGREh5ajhVekdSenhxWDI0LWN0VklUUktLTlBCalg0bjBac05haXdPNkgzSzJYNFRnVzlUZHF2SmtkcjVkLS1zV1BUMA",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789140900.0
+    },
+    {
+        "id": "8cb2cf13ff",
+        "title_fa": "قیمت نفت پس از پیش‌بینی سقوط تقاضا توسط IEA",
+        "title_en": "Crude Prices Fall Back After IEA Forecasts Sharp Drop in Oil Demand",
+        "summary": [
+            "IEA پیش‌بینی کرد تقاضای جهانی نفت این سال بیشترین کاهش را از زمان کووید داشته باشد.",
+            "به‌دلیل این پیش‌بینی، قیمت WTI حدود ۳٪ پس از صعود قبلی سقوط کرد.",
+            "کسری نفت جهانی به ۱٫۷ میلیون بشار روزانه ارتقا یافت و مازاد تا ۲۰۲۷ به تعویق می‌افتد."
+        ],
+        "impact": "کاهش قیمت نفت درآمدهای کشورهای نفت‌خیز را فشار می‌آورد و سیاست‌های مالی آن‌ها را دچار تنگنا می‌کند.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Barchart · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/crude-prices-fall-back-iea-153817018.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-fall-back-iea-153817018.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/fb98d3938acb46ff615ab4c01f60127c.jpg",
+        "timestamp": 1789140859.0
     },
     {
         "id": "614e409c05",
@@ -5390,42 +5428,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/a-new-report-shows-a-flurry-of-activity-at-a-suspected-iranian-nuclear-site-trump-issued-a-stark-warning/ar-AA2bWNap",
         "image": "https://www.bing.com/th?id=ONUT.S_N936G0lO143kI9X_60-g",
         "timestamp": 1789043429.2169151
-    },
-    {
-        "id": "a701e30e82",
-        "title_fa": "آخرین خبر خاورمیانه: ترامپ ادعا می‌کند که جنگ ایران پس از میان دوره ای پایان می‌یابد",
-        "title_en": "Middle East latest: Iran war will end after midterms, Trump claims",
-        "summary": [
-            "The US says reports that two of its destroyers have been struck by IRGC forces are \"completely false\" - and has claimed it has destroyed part of Iran's \"shadow fleet\". Follow the latest - and tune in to Michael Clarke's live war Q&A at 1pm."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Sky News",
-        "url": "https://news.sky.com/story/middle-east-latest-us-claims-it-has-destroyed-iranian-ships-part-of-multibillion-dollar-shadow-network-13509565",
-        "clean_url": "https://news.sky.com/story/middle-east-latest-us-claims-it-has-destroyed-iranian-ships-part-of-multibillion-dollar-shadow-network-13509565",
-        "image": "https://e3.365dm.com/26/09/1600x900/skynews-iran-ship_7345987.jpg?20260909120507",
-        "timestamp": 1789042980.0
-    },
-    {
-        "id": "1b8f64843f",
-        "title_fa": "ترامپ آماده جنگ طولانی علیه ایران است",
-        "title_en": "Trump Is Preparing for a Long War",
-        "summary": [
-            "ترامپ به‌صراحت اعلام کرد آمادگی برای درگیری طولانی‌مدت با ایران دارد",
-            "این اظهارات می‌تواند فشار دیپلماتیک و تحریم‌های جدید را به‌سختی افزایش دهد",
-            "احتمال استفاده از نیروی نظامی یا حمایت از گروه‌های نیابتی در منطقه بالا رفته است",
-            "بازارهای انرژی و سهام دفاعی ممکن است در کوتاه‌مدت نوسان کنند"
-        ],
-        "impact": "افزایش تنش‌های نظامی می‌تواند به تحریم‌های گسترده و نوسان شدید قیمت نفت منجر شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "The Atlantic",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXdmUkhMVXdoRmwyb05Db3hxLUpjTGw4Z3B2U1c0VXJmV1RXNWp1akZGQ3hRWU9iR2U2RjVxbzdCaTN3UVhhN3VUSDJiWndLWHpzTW9TOXRnVWtUeHlQMHd6amprZ1ZtNnRpM0Q1VEpIYXVTX2JiOS1RTWFEM3ZKRzkzUWw3cUNC?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXdmUkhMVXdoRmwyb05Db3hxLUpjTGw4Z3B2U1c0VXJmV1RXNWp1akZGQ3hRWU9iR2U2RjVxbzdCaTN3UVhhN3VUSDJiWndLWHpzTW9TOXRnVWtUeHlQMHd6amprZ1ZtNnRpM0Q1VEpIYXVTX2JiOS1RTWFEM3ZKRzkzUWw3cUNC",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789042322.0
     }
 ]
