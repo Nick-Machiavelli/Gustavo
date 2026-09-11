@@ -1,5 +1,39 @@
 [
     {
+        "id": "aa4d0c6896",
+        "title_fa": "طرح چک های 5000 دلاری ترامپ توهین به آمریکایی‌ها است",
+        "title_en": "Trump’s $5,000 checks scheme is an insult to Americans",
+        "summary": [
+            "The president’s promise to deliver hefty checks to all Americans if he wins is as a preposterously shallow gimmick."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "ms",
+        "url": "https://www.ms.now/opinion/trump-free-checks-5000-health-care-rebate-midterm-elections",
+        "clean_url": "https://www.ms.now/opinion/trump-free-checks-5000-health-care-rebate-midterm-elections",
+        "image": "https://www.bing.com/th?id=ONUT.g6UNc33b3BtcF2oWdTNPNw",
+        "timestamp": 1789122272.7533312
+    },
+    {
+        "id": "ae335f8220",
+        "title_fa": "ترامپ مدام به رای دهندگان می‌گوید که به مقرون به صرفه بودن اهمیتی نمی‌دهد",
+        "title_en": "Trump keeps telling voters he doesn’t care much about affordability",
+        "summary": [
+            "The president is engineering a pre-midterms price spike."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Vox on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-keeps-telling-voters-he-doesn-t-care-much-about-affordability/ar-AA2c0VFs?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-keeps-telling-voters-he-doesn-t-care-much-about-affordability/ar-AA2c0VFs",
+        "image": "https://www.bing.com/th?id=ONUT.P4XAWRW-VrZqKssKzf4GTQ",
+        "timestamp": 1789122272.7520206
+    },
+    {
         "id": "142af3c5fd",
         "title_fa": "تحلیل بازی فوتبال ویسکانسین",
         "title_en": "Polzin: Why dominating weaker foes would be a step in the right direction for Wisconsin football",
@@ -5398,42 +5432,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-stocks-fall-as-oil-tops-100-yields-hit-multiyear-highs/ar-AA2bYHKs",
         "image": "https://www.bing.com/th?id=ONUT.5Z-BcacnEPp8kyCRRjByRg",
         "timestamp": 1788989629.0
-    },
-    {
-        "id": "5795c6a913",
-        "title_fa": "ایران در خلیج هرمز تنش‌ها را شعله‌ور کرد",
-        "title_en": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
-        "summary": [
-            "تهدید جدید ایران به کشتی‌های آمریکایی در تنگه هرمز نشان‌دهنده عزم تند کردن فشار نظامی است",
-            "واکنش آمریکا با تشدید تحریم‌ها و حضور نیروی دریایی می‌تواند مسیر حمل‌ونقل نفت را مختل کند"
-        ],
-        "impact": "کاهش عبور نفت و افزایش هزینه‌های حمل‌ونقل در بازار جهانی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUE14akdrTEpBanVGcVNTc3dqMTNTaURxNUY2aUtfUi14QUdXcy16cTVRYUw5WXZyRHE3Qnd4bjR4anI1aU1mX1VrRWxQM0RFd21aU01HTGI0aVd2SzRKc0hTT1RBQVR3bEsyeFphWUlVU3B6RlZnV0tfNjJuZmh1dmdCNGFSeUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUE14akdrTEpBanVGcVNTc3dqMTNTaURxNUY2aUtfUi14QUdXcy16cTVRYUw5WXZyRHE3Qnd4bjR4anI1aU1mX1VrRWxQM0RFd21aU01HTGI0aVd2SzRKc0hTT1RBQVR3bEsyeFphWUlVU3B6RlZnV0tfNjJuZmh1dmdCNGFSeUk",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1788989100.0
-    },
-    {
-        "id": "74b4358f48",
-        "title_fa": "ترامپ: پایان جنگ و سقوط قیمت گاز پس انتخابات",
-        "title_en": "Iran live updates: Trump says war will end, gas prices to fall after the midterms",
-        "summary": [
-            "ترامپ ادعا کرد جنگ ایران‑امریکا بلافاصله پس از میانه‌دوره پایان می‌یابد",
-            "او پیش‌بینی کرد قیمت گاز جهانی به‌سرعت کاهش می‌یابد",
-            "این حرف‌ها ریتوریک انتخاباتی است و برنامه نظامی واضحی پشت آن نیست"
-        ],
-        "impact": "بیانیه‌اش ممکن است فشار دیپلماتیک بر ایران را کم کند اما انتظار تغییر واقعی نیست",
-        "tag": "سیاست-ایران",
-        "urgency": 3,
-        "sentiment": 0.5,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-war-will-end-gas-prices-to-fall-after-the-midterms/ar-AA2bItw1",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-war-will-end-gas-prices-to-fall-after-the-midterms/ar-AA2bItw1",
-        "image": "http://www.bing.com/th?id=ONUT.AfReDCz8P21Z1DvsvLXMjQ&pid=News",
-        "timestamp": 1788988078.0
     }
 ]
