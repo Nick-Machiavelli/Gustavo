@@ -1,5 +1,61 @@
 [
     {
+        "id": "c7647be2bb",
+        "title_fa": "۲۵ سال پس از ۹/۱۱؛ جنگ ترور جهان خطرناک‌تر شد",
+        "title_en": "25 Years After 9/11, the War on Terror Has Left a More Dangerous World",
+        "summary": [
+            "۲۵ سال پیش جهان به‌یک‌صدا علیه تروریسم ایستاد",
+            "جنگ جهانی علیه تروریسم به‌جای کاهش خطر، شرایط امنیتی را پیچیده‌تر کرد",
+            "نتایج شامل بی‌ثباتی منطقه‌ای و افزایش تهدیدهای نوظهور است"
+        ],
+        "impact": "افزایش تردید در سیاست‌های ضدتروریسم و تشدید ریسک‌های ژئوپلیتیک",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Quint",
+        "url": "https://www.thequint.com/opinion/25-years-after-twin-towers-9-11-world-has-lost-war-on-terror",
+        "clean_url": "https://www.thequint.com/opinion/25-years-after-twin-towers-9-11-world-has-lost-war-on-terror",
+        "image": "https://www.bing.com/th?id=ONUT.lpoJvH59AWTCdufd7YkymQ",
+        "timestamp": 1789113805.9435918
+    },
+    {
+        "id": "68a41e1bdc",
+        "title_fa": "یادگار ۲۵ سالگی ۹/۱۱؛ قصه‌ای از شجاعت",
+        "title_en": "Letters to the Editor, Friday, Sept. 11",
+        "summary": [
+            "داستان شخصی همسر که همسرش در سقوط پرواز ۹۳ کشته شد",
+            "نویسنده با دعوت به مهربانی و یادبود، پیام همدلی می‌دهد"
+        ],
+        "impact": "تقویت حس همدلی عمومی و تشویق به رفتار انسانی",
+        "tag": "اجتماعی",
+        "urgency": 2,
+        "sentiment": 0.6,
+        "source": "The Press Democrat",
+        "url": "https://www.pressdemocrat.com/2026/09/11/letters-to-the-editor-friday-sept-11/",
+        "clean_url": "https://www.pressdemocrat.com/2026/09/11/letters-to-the-editor-friday-sept-11",
+        "image": "https://www.bing.com/th?id=ONUT.UWgZNqzVexwJ1QA_KXfjew",
+        "timestamp": 1789113805.9432313
+    },
+    {
+        "id": "6fa4beefa4",
+        "title_fa": "مجلس امنیت ملل بر سر تحمیل مجدد تحریم‌ها به ایران",
+        "title_en": "UN Security Council divided over reimposing sanctions on Iran",
+        "summary": [
+            "اعضای شورای امنیت نظرات متفاوتی درباره تجدید تحریم‌های ایران دارند",
+            "اختلاف بین کشورهای غربی و روسیه/چین مانع اتخاذ تصمیم یک‌پارچه شد",
+            "احتمال ادامه فشار اقتصادی بر برنامه هسته‌ای ایران افزایش یافت"
+        ],
+        "impact": "تشدید فشار اقتصادی بر ایران و افزایش تنش‌های دیپلماتیک",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "chinadailyasia.com",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NLTByZWdrUW9sX0RSajduc2NGYkVaWENCVDBqb1c3ZklnZWVmMVZCeXIycS1RaXBkRUVOOThCcURWVWZKdDB3b204ejM4TWtVNjVaT2ZiX2Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NLTByZWdrUW9sX0RSajduc2NGYkVaWENCVDBqb1c3ZklnZWVmMVZCeXIycS1RaXBkRUVOOThCcURWVWZKdDB3b204ejM4TWtVNjVaT2ZiX2Y",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789113150.0
+    },
+    {
         "id": "4e533f2fc4",
         "title_fa": "درس‌های جنگ نامتقارن از اوکراین و ایران",
         "title_en": "Lessons of Asymmetry from Ukraine and Iran in Conflict",
@@ -5384,60 +5440,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/iaea-un-nuclear-watchdog-construction-activity-at-iran-s-suspected-nuclear-site-there-are-some-indications-that-101789052312499.html",
         "image": "https://www.bing.com/th?id=ONUT.bi44mcCz9niQePy8vORnJw",
         "timestamp": 1788979103.0
-    },
-    {
-        "id": "47590fcee4",
-        "title_fa": "ایالات متحده سوریه را از فهرست تروریست‌ها حذف کرد",
-        "title_en": "US removes Syria from its “state sponsors of terrorism” list",
-        "summary": [
-            "آمریکا سوریه را از فهرست حمایت‌کنندگان تروریسم حذف کرد",
-            "این اقدام مسیر جذب سرمایه‌گذاری خارجی به سوریه را هموار می‌کند",
-            "دولت جدید سوریه همچنان تحت کنترل گروه‌های اسلام‌گرای مستقر است"
-        ],
-        "impact": "حذف تحریم‌ها فرصت‌های اقتصادی برای سوریه را باز می‌کند",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "World Socialist Web Site",
-        "url": "https://www.wsws.org/en/articles/2026/09/09/vrqa-s09.html",
-        "clean_url": "https://www.wsws.org/en/articles/2026/09/09/vrqa-s09.html",
-        "image": "https://www.bing.com/th?id=ONUT.W4OkI-DQaV1RU8MEp-5QRw",
-        "timestamp": 1788978428.0818982
-    },
-    {
-        "id": "01fc2909e0",
-        "title_fa": "ایران و آمریکا در بزرگترین موج حملات به کشتیرانی از زمان آغاز جنگ به نفتکش‌ها ضربه زدند تاریخ انتشار: 10 سپتامبر 2026 ساعت 5: 00 ق.ظ.",
-        "title_en": "Iran, US hit tankers in biggest wave of attacks on shipping since war beganPublished on: September 10, 2026 5:00 AM",
-        "summary": [
-            "Pakistan, Sept. 10 -- Iran said on Wednesday it had attacked 10 ships near the Strait of Hormuz after the US sank five Iranian oil tankers, in the biggest declared wave of tit-for-tat attacks on..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/asia/pakistan/iran-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-beganpublished-on-september-10-2026-500-am/ar-AA2bUrDC",
-        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/iran-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-beganpublished-on-september-10-2026-500-am/ar-AA2bUrDC",
-        "image": "http://www.bing.com/th?id=ONUT.2bK3uFw69iDSOwK9GEDVsQ&pid=News",
-        "timestamp": 1788978360.0
-    },
-    {
-        "id": "5987d8b9cd",
-        "title_fa": "آی‌اِی‌ای‌ای ایران را ملل ارجاع داد؛ ترامپ جنگ پس‌انتخابات",
-        "title_en": "War, latest news. IAEA refers Iran to the UN. Gas prices at their highest since 2022",
-        "summary": [
-            "کمیته نظارت هسته‌ای سازمان ملل ایران را برای بررسی نقض‌های هسته‌ای ارجاع داد",
-            "ترامپ گفت پایان جنگ پس از انتخابات آمریکا خواهد بود",
-            "قیمت گاز طبیعی در اروپا به بالاترین سطح از ۲۰۲۲ رسید"
-        ],
-        "impact": "تحریم‌های جدید و فشار دیپلماتیک بر ایران؛ انتظارات بازار انرژی بالا می‌رود",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "en.ilsole24ore",
-        "url": "https://en.ilsole24ore.com/art/war-latest-news-fire-jordan-cluster-bombs-tehran-oil-tankers-hit-strait-of-hormuz-AJuORe7",
-        "clean_url": "https://en.ilsole24ore.com/art/war-latest-news-fire-jordan-cluster-bombs-tehran-oil-tankers-hit-strait-of-hormuz-AJuORe7",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/10/Immagini/Ritagli/LP_24735437-U18807370218qzH-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-        "timestamp": 1788977760.0
     }
 ]
