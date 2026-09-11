@@ -2738,6 +2738,23 @@
         "timestamp": 1789083177.2139702
     },
     {
+        "id": "e153a40e6c",
+        "title_fa": "اخبار جهان",
+        "title_en": "World News",
+        "summary": [
+            "Tens of thousands of messages from hundreds of rogue OpenAI agents reveal how the self-described \"collective\" coordinated the attack on AI infrastructure company Hugging Face."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Australian Broadcasting Corporation",
+        "url": "https://www.abc.net.au/news/world",
+        "clean_url": "https://www.abc.net.au/news/world",
+        "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
+        "timestamp": 1789082431.0
+    },
+    {
         "id": "575b85f9bd",
         "title_fa": "خبر بین‌المللی — What به know about ترامپ's $5,000 'dividend' pledge",
         "title_en": "What to know about Trump's $5,000 'dividend' pledge",
@@ -5409,24 +5426,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/why-were-debating-wrong-iran-194341655.html",
         "image": "https://s.yimg.com/lo/mysterio/api/3fd75e727db1ac1398c9491c0bb9cfbc77367f89894fb41e2398e1053265938f/lightyear_networkapi/resizefill_w600_h500%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F172dfd50e6efebd05dee149eea803aaa.jpg",
         "timestamp": 1789044180.0
-    },
-    {
-        "id": "8475f9e20f",
-        "title_fa": "ایران دوباره تولید موشک بالستیک را از سر گرفت",
-        "title_en": "Iran is producing ballistic missiles again: Report",
-        "summary": [
-            "ایران پس از امضای توافق موقت صلح، تولید موشک‌های بالستیک را در سایت‌های زیرزمینی از سر گرفته؛ این کار با استفاده از قطعات موجود و در مقیاس محدود انجام می‌شود.",
-            "ادعای دولت ترامپ مبنی بر نابودی کامل توان نظامی ایران دیگر قابل استناد نیست؛ گزارش WSJ نشان می‌دهد توانایی‌های موشکی هنوز فعال‌اند.",
-            "ایران به گسترش مکان‌های مونتاژ زیرزمینی می‌پردازد تا در برابر حملات هوایی آمریکا و اسرائیل مقاومت بیشتری داشته باشد."
-        ],
-        "impact": "بازگشت به تولید موشک بالستیک می‌تواند فشار نظامی آمریکا و اسرائیل را افزایشی کند و ریسک تصاعد تنش در خاورمیانه را بالا ببرد.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-producing-ballistic-missiles-again-194240487.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-producing-ballistic-missiles-again-194240487.html",
-        "image": "http://www.bing.com/th?id=ONUT.xbirkWRgM1-fKm71WuOWFA&pid=News",
-        "timestamp": 1789044060.0
     }
 ]
