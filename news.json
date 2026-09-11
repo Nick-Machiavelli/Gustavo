@@ -1,5 +1,25 @@
 [
     {
+        "id": "32ae3274b9",
+        "title_fa": "آیا بن لادن پس از ۲۵ سال پیروزی کرد؟",
+        "title_en": "25 years after 9/11: Did Osama bin Laden really win?",
+        "summary": [
+            "بن لادن کشته شد و ساختار اصلی القاعده سال‌ها پیش به حاشیه رانده شد.",
+            "واکنش عمومی آمریکا نشان داد که تحمل تلفات برای مردم آمریکایی محدود است.",
+            "خروج نیروهای آمریکایی از کابل نشان‌دهنده تغییر استراتژیک در خاورمیانه است.",
+            "مردم منطقه هنوز به دنبال رفاه و دموکراسی هستند، نه جنگ‌های ایدئولوژیک."
+        ],
+        "impact": "تهدید مستقیم القاعده کاهش یافت؛ اما خلأ امنیتی می‌تواند زمینه‌ساز ظهور گروه‌های جدید شود.",
+        "tag": "تروریسم",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/opinion/25-years-after-911-did-osama-bin-laden-really-win",
+        "clean_url": "https://www.newarab.com/opinion/25-years-after-911-did-osama-bin-laden-really-win",
+        "image": "https://www.bing.com/th?id=ONUT.KnNzb2PciK3dPKSE2zjnSQ",
+        "timestamp": 1789114493.3362792
+    },
+    {
         "id": "c7647be2bb",
         "title_fa": "۲۵ سال پس از ۹/۱۱؛ جنگ ترور جهان خطرناک‌تر شد",
         "title_en": "25 Years After 9/11, the War on Terror Has Left a More Dangerous World",
@@ -5421,24 +5441,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/ukraine-s-zelensky-almost-hit-by-drone-during-takeoff-from-norway-airport/ar-AA2bTVem",
         "image": "https://www.bing.com/th?id=ONUT.e8UyMtOuHQN-gy5igpMszA",
         "timestamp": 1788979260.670176
-    },
-    {
-        "id": "7cafee7e17",
-        "title_fa": "ساخت‌وساز جدید در سایت مشکوک هسته‌ای ایران",
-        "title_en": "UN nuclear watchdog spots construction activity at Iran’s suspected nuclear site: ‘There are some indications that…’",
-        "summary": [
-            "آژانس بین‌المللی انرژی هسته‌ای از تصاویر ماهواره‌ای ساخت‌وساز جدید در کوه پیک‌اکس خبر داد",
-            "این مکان نزدیک به کارخانه غنی‌سازی اورانیوم تهران است و هنوز بازدید میدانی انجام نشده",
-            "شواهدی مبنی بر فعالیت‌های هسته‌ای قطعی نیستند اما نگرانی بین‌المللی را تشدید می‌کند"
-        ],
-        "impact": "افزایش فشار دیپلماتیک و احتمال تحریم‌های جدید علیه ایران",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/iaea-un-nuclear-watchdog-construction-activity-at-iran-s-suspected-nuclear-site-there-are-some-indications-that-101789052312499.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/iaea-un-nuclear-watchdog-construction-activity-at-iran-s-suspected-nuclear-site-there-are-some-indications-that-101789052312499.html",
-        "image": "https://www.bing.com/th?id=ONUT.bi44mcCz9niQePy8vORnJw",
-        "timestamp": 1788979103.0
     }
 ]
