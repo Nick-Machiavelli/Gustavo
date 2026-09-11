@@ -3168,6 +3168,44 @@
         "timestamp": 1789012259.7859979
     },
     {
+        "id": "e1694be97f",
+        "title_fa": "اسرائیل و آمریکا زیرزمینی‌های حزب‌الله را نابود کردند",
+        "title_en": "War returns to Iran with Israel, US strikes",
+        "summary": [
+            "اسرائیل تونل‌های کلیدی حزب‌الله زیر راس‌تَهر در لبنان را منفجر کرد؛ آمریکا هم‌پیمان شد",
+            "اسرائیل ادعا کرد این زیرساخت‌ها با سرمایه‌گذاری و برنامه‌ریزی ایرانی ساخته شده‌اند",
+            "لرزش ۴.۱ ریشتی ثبت شد؛ عملیات نشان‌دهنده کنترل کامل بر راس‌تَهر است"
+        ],
+        "impact": "حذف زیرساخت‌های تروریستی می‌تواند فشار نظامی بر ایران را افزایش دهد و ریسک تشدید درگیری‌های مرزی را بالا ببرد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Dawn",
+        "url": "https://www.dawn.com/live/iran-israel-war",
+        "clean_url": "https://www.dawn.com/live/iran-israel-war",
+        "image": "https://i.dawn.com/large/2026/09/0711210158b43fd.webp",
+        "timestamp": 1789011416.0
+    },
+    {
+        "id": "f3f0954e56",
+        "title_fa": "ایران حمله به پایگاه آمریکایی در اردن را ادعا کرد",
+        "title_en": "Guerre en Iran",
+        "summary": [
+            "ایران پس از نابودی پنج نفتکش ایرانی توسط ایالات متحده، ادعای حمله به پایگاه نظامی آمریکایی در اردن را کرد",
+            "این ادعا نشان‌دهنده واکنش تند تهران به فشارهای اقتصادی و نظامی است",
+            "هنوز هیچ مدرکی برای تأیید حمله ارائه نشده و احتمال استفاده از این روایت برای توجیه اقدام‌ها بعدی وجود دارد"
+        ],
+        "impact": "ادعای حمله می‌تواند توجیهی برای گسترش عملیات نظامی ایران یا حمایت از گروه‌های شبه‌نظامی در منطقه باشد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Ouest-France",
+        "url": "https://www.ouest-france.fr/monde/iran/",
+        "clean_url": "https://www.ouest-france.fr/monde/iran",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789011416.0
+    },
+    {
         "id": "9491352bc8",
         "title_fa": "بحث سرسختانه درباره ایران، اسرائیل و تعرفه‌ها در مناظره",
         "title_en": "Baumgartner and Conroy face off on Iran, Israel and tariffs at Spokesman debate",
@@ -5385,40 +5423,6 @@
         "url": "https://www.thedailybeast.com/trump-rages-at-reporter-who-asked-about-kushners-failures/",
         "clean_url": "https://www.thedailybeast.com/trump-rages-at-reporter-who-asked-about-kushners-failures",
         "image": "https://www.bing.com/th?id=ONUT.2DpQgbamEQgAjXszCDSPYA",
-        "timestamp": 1788972128.0
-    },
-    {
-        "id": "687b7ca119",
-        "title_fa": "انشعاب حزب سبز بر سر ایران در حالی که اعضا برای مخالفت با تحریم و ممنوعیت سپاه پاسداران تلاش می‌کنند - Byline Times",
-        "title_en": "Green Party Split Over Iran as Members Push to Oppose IRGC Ban and Sanctions – Byline Times",
-        "summary": [
-            "A conference motion with significant backing urges an end to sanctions on Iran and opposes banning the IRGC - putting party..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Byline Times",
-        "url": "https://bylinetimes.com/2026/09/10/green-party-split-over-iran-as-members-push-to-oppose-irgc-ban-and-sanctions/",
-        "clean_url": "https://bylinetimes.com/2026/09/10/green-party-split-over-iran-as-members-push-to-oppose-irgc-ban-and-sanctions",
-        "image": "https://www.bing.com/th?id=ONUT.oiJ-LTXKENsKUAM2Ut6miw",
-        "timestamp": 1788972128.0
-    },
-    {
-        "id": "c5ed6310b3",
-        "title_fa": "\"اتحاد دفاعی\": چرخش سریع پاکستان به پیمان مکه پس از حملات حوثی‌ها به عربستان سعودی",
-        "title_en": "'A defensive alliance': Pakistan's swift U-turn on Mecca pact after Houthi attacks on Saudi Arabia",
-        "summary": [
-            "Pakistan has made U-turn and ruled out the possibility of attacking the Houthis in Yemen in response to their attacks on..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "India TV News",
-        "url": "https://www.indiatvnews.com/news/world/a-defensive-alliance-pakistan-s-swift-u-turn-on-mecca-pact-after-houthi-attacks-on-saudi-arabia-2026-09-10-1053905",
-        "clean_url": "https://www.indiatvnews.com/news/world/a-defensive-alliance-pakistan-s-swift-u-turn-on-mecca-pact-after-houthi-attacks-on-saudi-arabia-2026-09-10-1053905",
-        "image": "https://www.bing.com/th?id=ONUT.1KsaMRkJgM1EQEmkXpY5xA",
         "timestamp": 1788972128.0
     }
 ]
