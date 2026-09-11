@@ -1,5 +1,25 @@
 [
     {
+        "id": "d36b826496",
+        "title_fa": "کمبود موشک‌های آمریکا خطر جنگ را افزایش می‌دهد",
+        "title_en": "We’re running out of missiles. Trump’s tariffs won’t save us without AI factories",
+        "summary": [
+            "نیروی هوایی آمریکا پس از ماه‌ها جنگ با ایران، موجودی موشک‌های دقیق را به‌حدی کم کرده که توان مقابله را تهدید می‌کند",
+            "تولید کندی و عدم سرمایه‌گذاری در خطوط تولید، باعث تنگنا شده است",
+            "مقامات نظامی هشدار می‌دهند بدون کارخانه‌های هوش مصنوعی برای بهینه‌سازی تولید، تحریم‌ها اثر کم‌تری خواهند داشت",
+            "این کمبود می‌تواند تصمیم‌گیری‌های استراتژیک را تحت فشار قرار دهد و ریسک ارتش را بالا ببرد"
+        ],
+        "impact": "قابلیت پاسخ نظامی آمریکا در جبهه خاورمیانه به‌طور قابل‌توجهی تضعیف می‌شود",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/we-re-running-out-of-missiles-trump-s-tariffs-won-t-save-us-without-ai-factories/ar-AA2c1pkC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/we-re-running-out-of-missiles-trump-s-tariffs-won-t-save-us-without-ai-factories/ar-AA2c1pkC",
+        "image": "https://www.bing.com/th?id=ONUT.29AW3s_fxtuazdu9zyI3Lw",
+        "timestamp": 1789135392.075045
+    },
+    {
         "id": "75d39e21b5",
         "title_fa": "11 سپتامبر نظم جهانی را تغییر داد.",
         "title_en": "Sept. 11 Changed the World Order. But Not for the Reason We May Think.",
@@ -2691,6 +2711,26 @@
         "timestamp": 1789056015.0
     },
     {
+        "id": "18114eac21",
+        "title_fa": "تحریم‌های هوایی آمریکا فشار بر اقتصاد ایران",
+        "title_en": "How the U.S. Treasury's New Aviation Sanctions on Iran Extend Beyond Tehran",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا ۲۷ شرکت هوایی ایرانی را فهرست کرد و پروازهای بین‌المللی را قطع کرد",
+            "این گام بخشی از «عملیات خروج اقتصادی» دولت ترامپ است که هدفش فشار برای پایان جنگ است",
+            "مهن ایر هدف اصلی است و مسیرهای انتقال پول را مسدود می‌کند",
+            "اگر ایران راه‌حل مالی نیابد، صنایع مرتبط و گردشگری هوایی به‌سرعت فرو می‌ریزند"
+        ],
+        "impact": "اقتصاد هوایی ایران به‌طور جدی تضعیف می‌شود، درآمدهای ارزی کاهش می‌یابد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy/",
+        "clean_url": "https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy",
+        "image": "http://www.bing.com/th?id=ONUT.wYfpE_fhEyKTsgywQrGWKg&pid=News",
+        "timestamp": 1789055580.0
+    },
+    {
         "id": "fd2f8e6678",
         "title_fa": "ترامپ می‌گوید در حمله ایران به هواپیماهای جنگی آمریکا آسیبی وارد نشده است",
         "title_en": "Trump says ‘no damage’ to US war planes from Iran attack",
@@ -2971,6 +3011,26 @@
         "clean_url": "https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war",
         "image": "https://i.guim.co.uk/img/media/d8b80ac5ba4ace60fed21b42439dfe5e648cb9e7/418_0_2082_1666/master/2082.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b9064e9123472a2912a3bb77684c6254",
         "timestamp": 1789049460.0
+    },
+    {
+        "id": "fcd6adec15",
+        "title_fa": "برکس می‌خواهد تجارت با ارز ملی گسترش یابد",
+        "title_en": "BRICS Must Expand National Currency Use and Build Resilient Trade Ties",
+        "summary": [
+            "وزیر تجارت هند در نشست تجاری برکس، استفاده از ارزهای ملی را برای تقویت زنجیره‌های تأمین پیشنهاد کرد",
+            "حجم صادرات کالاهای برکس از ۹۰۰ میلیارد دلار در ۲۰۰۳ به نزدیک شش تریلیون دلار در ۲۰۲۴ دو برابر شد",
+            "تمرکز بر حذف موانع غیرتعرفه‌ای، کشاورزی، خدمات و اقتصاد دیجیتال است",
+            "حضور رئیس‌جمهور ایران نشان می‌دهد تهران به‌دنبال تقویت روابط تجاری با بلوک جدید است"
+        ],
+        "impact": "تقویت تجارت بین‌المللی برکس می‌تواند فشارهای تحریمی را بر کشورهای هدف کاهش دهد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/video/brics-must-expand-national-currency-use-and-build-resilient-trade-ties-ytvd-2992613-2026-09-11",
+        "clean_url": "https://www.indiatoday.in/world/video/brics-must-expand-national-currency-use-and-build-resilient-trade-ties-ytvd-2992613-2026-09-11",
+        "image": "https://www.bing.com/th?id=ONUT.eWiDaLaqlkYA5FUJ8UocZQ",
+        "timestamp": 1789048985.0
     },
     {
         "id": "745991e83d",
@@ -5393,58 +5453,5 @@
         "clean_url": "https://www.npr.org/2026/09/10/g-s1-142714/iran-united-nations-nuclear-watchdog-iaea",
         "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
         "timestamp": 1789006440.0
-    },
-    {
-        "id": "721bd08a28",
-        "title_fa": "ترامپ: ایران نمی‌تواند جنگ را ادامه دهد",
-        "title_en": "US-Israel-Iran war latest live news: Trump says Iran cannot sustain war, claims Tehran is 'desperate to affect election'",
-        "summary": [
-            "ترامپ ادعا کرد ایران برای تأثیرگذاری بر انتخابات آمریکا ناامید شده و به دنبال راه‌های اضطراری است.",
-            "او پیش‌بینی کرد که جنگ پس از انتخابات میانی نوامبر به‌سرعت پایان می‌یابد، یعنی ایالات متحده قصد ادامه درگیری را ندارد.",
-            "این اظهارات می‌تواند فشار دیپلماتیک بر تهران را افزایش دهد و ریسک تشدید تحریم‌ها را بالا ببرد."
-        ],
-        "impact": "بیان ترامپ ممکن است تصمیم‌گیری‌های نظامی و دیپلماتیک آمریکا را در قبال ایران تغییر دهد و فشار اقتصادی را تقویت کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-trump-says-iran-cannot-sustain-war-claims-tehran-is-desperate-to-affect-election/ar-AA2bUZ73",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-trump-says-iran-cannot-sustain-war-claims-tehran-is-desperate-to-affect-election/ar-AA2bUZ73",
-        "image": "http://www.bing.com/th?id=ONUT.L2lzptqzPojRdKFBGzLS2Q&pid=News",
-        "timestamp": 1789005900.0
-    },
-    {
-        "id": "8e88c46c4a",
-        "title_fa": "خبر بین‌المللی — Steal a brainrot IRL",
-        "title_en": "Steal a brainrot IRL",
-        "summary": [
-            "Lady Mary (Michelle Dockery) and Lord Grantham (Hugh Bonneville) welcome the King and Queen with flawless poise as Downton..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "YouTube on MSN",
-        "url": "https://www.msn.com/en-gb/technology/artificial-intelligence/steal-a-brainrot-irl/vi-AA2bVazI?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/technology/artificial-intelligence/steal-a-brainrot-irl/vi-AA2bVazI",
-        "image": "https://www.bing.com/th?id=ONUT.wnunvUA5-EuPE8DVgOl1qA",
-        "timestamp": 1789005798.5668879
-    },
-    {
-        "id": "b99ab9348a",
-        "title_fa": "حمله گسترده ایران به کشتیرانی جهانی",
-        "title_en": "Iran Launches Massive Attack on Global Shipping",
-        "summary": [
-            "Iran Launches Massive Attack on Global Shipping Foreign Policy"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Foreign Policy",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzZhTndacEt2akVXYmk1S2pOYW1xMDVZQTRhc0JaYllQT3gyUXR5OTlXVUtJQjJoU1RibGlSZ3RZSE02d2JSVDQ5Q3dMcE1TM1pqQ3RlU1RsbVpPQzBMa1FtR093bGRTTzJzSDRBX3o4RVRZNndKWDIzeTdHbm5nSFBhUUp4MGhscVk1S3drYjFGcURfQXpNTDJR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzZhTndacEt2akVXYmk1S2pOYW1xMDVZQTRhc0JaYllQT3gyUXR5OTlXVUtJQjJoU1RibGlSZ3RZSE02d2JSVDQ5Q3dMcE1TM1pqQ3RlU1RsbVpPQzBMa1FtR093bGRTTzJzSDRBX3o4RVRZNndKWDIzeTdHbm5nSFBhUUp4MGhscVk1S3drYjFGcURfQXpNTDJR",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789005688.0
     }
 ]
