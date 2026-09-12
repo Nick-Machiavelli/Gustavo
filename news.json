@@ -1926,6 +1926,24 @@
         "timestamp": 1789171260.0
     },
     {
+        "id": "5a2624b5a6",
+        "title_fa": "رادیو ۱: ۲٫۰۵۶ میلیون بیننده در ساعت اوج",
+        "title_en": "TV ratings September 11, Antonella Clerici queen of Friday evening on Rai 1. Gerry Scotti beats De Martino again",
+        "summary": [
+            "«Jukebox – La Notte delle Hit» با ۲٫۰۵۶ میلیون بیننده ردهٔ اول پرایم‌تایم را برای رادیو ۱ به دست آورد",
+            "کانال ۵ با ۱٫۵۷۵ میلیون بیننده در رتبهٔ دوم باقی ماند؛ اختلاف سهم بازار حدود ۴ درصد است"
+        ],
+        "impact": "رقابت شدید بین رادیو ۱ و کانال ۵ تبلیغاتی را به سمت برنامه‌های پربیننده می‌کشاند",
+        "tag": "رسانه",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260912KRONOS-202609121330428928_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1789171140.0
+    },
+    {
         "id": "96104d308e",
         "title_fa": "کلینک: ۲۵ سال پس از ۹/۱۱، درس‌های سیاسی نادیده‌مانده",
         "title_en": "Political aftershock of Sept 11 attacks still felt: Clark",
@@ -5486,23 +5504,6 @@
         "url": "https://www.twz.com/news-features/the-outlook-is-getting-grimmer-by-the-day-for-oil-exports-from-the-red-sea",
         "clean_url": "https://www.twz.com/news-features/the-outlook-is-getting-grimmer-by-the-day-for-oil-exports-from-the-red-sea",
         "image": "https://www.bing.com/th?id=ONUT.J72saxeDpwGp0i9GuB0MXw",
-        "timestamp": 1789090807.0
-    },
-    {
-        "id": "0024828236",
-        "title_fa": "خبر بین‌المللی — West Asia crisis puts key oil route در crosshairs as Saudi s",
-        "title_en": "West Asia crisis puts key oil route in crosshairs as Saudi shuts pipeline after Houthis seize Red Sea island",
-        "summary": [
-            "Saudi Arabia halted a major oil pipeline after a drone attack as Houthi rebels seized Mayun island near the Bab el-Mandeb..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/west-asia-crisis-puts-key-oil-route-in-crosshairs-as-saudi-shuts-pipeline-after-houthis-seize-red-sea-island-14045139.html",
-        "clean_url": "https://www.firstpost.com/world/west-asia-crisis-puts-key-oil-route-in-crosshairs-as-saudi-shuts-pipeline-after-houthis-seize-red-sea-island-14045139.html",
-        "image": "https://www.bing.com/th?id=ONUT.Gy-lQYyJJe94fb4Itq_GiA",
         "timestamp": 1789090807.0
     }
 ]
