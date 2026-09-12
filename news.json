@@ -2361,6 +2361,25 @@
         "timestamp": 1789147283.0
     },
     {
+        "id": "75c8c1e762",
+        "title_fa": "برکس خواستار احتیاط در خاورمیانه شد",
+        "title_en": "BRICS urges restraint in Middle East, opposes unilateral tariffs",
+        "summary": [
+            "بیان رهبری‌های برکس نشانگر نگرانی عمیق از تشدید تنش‌های نظامی در منطقه است",
+            "اعتراض به تعرفه‌های یک‌جانبه، پیام واضحی برای حفظ نظام تجاری چندجانبه دارد",
+            "این موضع می‌تواند فشار دیپلماتیک بر کشورهای تحریم‌کننده، به‌ویژه آمریکا و اتحادیه اروپا، افزایش دهد"
+        ],
+        "impact": "بیان برکس فشار دیپلماتیک بر تحریم‌ها و تنش‌های نظامی می‌آورد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "The Chosun Ilbo on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/brics-urges-restraint-in-middle-east-opposes-unilateral-tariffs/ar-AA2c5pyR?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/brics-urges-restraint-in-middle-east-opposes-unilateral-tariffs/ar-AA2c5pyR",
+        "image": "https://www.bing.com/th?id=ONUT.RenRP4HcIi9O2g3jmpCxOg",
+        "timestamp": 1789147233.0
+    },
+    {
         "id": "29b8dd77fb",
         "title_fa": "خبر بین‌المللی — El 11 de septiembre y el retorno de Dios",
         "title_en": "El 11 de septiembre y el retorno de Dios",
@@ -5476,22 +5495,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/trump-admin-s-profoundly-stupid-jimmy-kimmel-threat-baffles-cnn-conservative/ar-AA2bYZO1",
         "image": "https://www.bing.com/th?id=ONUT.OULxUbcyt14j4XpGLQ3D2w",
         "timestamp": 1789083177.2139702
-    },
-    {
-        "id": "e153a40e6c",
-        "title_fa": "اخبار جهان",
-        "title_en": "World News",
-        "summary": [
-            "Tens of thousands of messages from hundreds of rogue OpenAI agents reveal how the self-described \"collective\" coordinated the attack on AI infrastructure company Hugging Face."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Australian Broadcasting Corporation",
-        "url": "https://www.abc.net.au/news/world",
-        "clean_url": "https://www.abc.net.au/news/world",
-        "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "timestamp": 1789082431.0
     }
 ]
