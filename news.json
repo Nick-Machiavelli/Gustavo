@@ -19,6 +19,25 @@
         "timestamp": 1789189920.018937
     },
     {
+        "id": "f0159cffc6",
+        "title_fa": "لبنان در تقابل اسرائیل، ایران و آمریکا",
+        "title_en": "Contested Lebanon: Israel, Iran, and US Strategy in a Fractured State",
+        "summary": [
+            "لبنان به‌عنوان میدانی برای رقابت‌های ژئوپلیتیک بین تهران و تل‌آویو تبدیل شده؛ هر دو طرف از حشد‌الشعبی برای گسترش نفوذ استفاده می‌کنند.",
+            "سیاست آمریکا در لبنان بین حمایت از دولت مرکزی و فشار بر گروه‌های مسلح متزلزل است؛ این دوگانگی مانع اتخاذ تصمیمات قاطع می‌شود.",
+            "نقطه‌ضعف داخلی لبنان—اقتصاد در حال فروپاشی و فساد گسترده—فضایی برای بازی‌های قدرت خارجی فراهم می‌کند."
+        ],
+        "impact": "رقابت‌های ژئوپلیتیک می‌تواند به تشدید درگیری‌های مرزی و تضعیف ثبات اقتصادی لبنان منجر شود.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Hudson Institute",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUNCYndFaF81WDF6NnIxSmlhSm1FNTJKaVpvQm9OTmJ5OHAzZlFpVnpId1diVHY4Ukx2Wkx2V3NUUFVKcFJNemFNRXNYcG9KbTFaV0ozcU1DczZSTVhaeDJEUzVvdmc1RGdiY291Zjc1Q0sxVlA2cjFEcGIwSzRHaVpTMm1vSmxHQ0FuV3laT1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUNCYndFaF81WDF6NnIxSmlhSm1FNTJKaVpvQm9OTmJ5OHAzZlFpVnpId1diVHY4Ukx2Wkx2V3NUUFVKcFJNemFNRXNYcG9KbTFaV0ozcU1DczZSTVhaeDJEUzVvdmc1RGdiY291Zjc1Q0sxVlA2cjFEcGIwSzRHaVpTMm1vSmxHQ0FuV3laT1U",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789187752.0
+    },
+    {
         "id": "1ebed59a22",
         "title_fa": "ترامپ می‌گوید تاریخ او را به‌عنوان نجات‌دهندهٔ آمریکا می‌بیند",
         "title_en": "‘I saved this country’: Trump predicts history will remember him for ‘saving’ America",
@@ -5437,24 +5456,5 @@
         "clean_url": "https://www.msn.com/en-in/video/watch/with-5000-dollar-bribe-for-each-american-and-big-iran-war-promise-trump-tries-to-win-us-midterm-election/vi-AA2bW4WU",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789053874.5686007
-    },
-    {
-        "id": "f073ab7728",
-        "title_fa": "ترامپ با ۵۰۰۰ دلار، میانه‌سال‌ها را به خود می‌چسباند",
-        "title_en": "How Trump created a bizarre and risky midterm scenario for the GOP",
-        "summary": [
-            "ترامپ برای جلب رای‌داران، ۵۰۰۰ دلار به هر بزرگسال وعده داد؛ این پول‌پذیرانه‌گری ریسک سیاسی بالایی دارد.",
-            "استراتژی او نشان می‌دهد می‌خواهد انتخابات میانی را به شخصیت خود متمرکز کند، در حالی که نظرسنجی‌ها فاصله بین وعده‌ها و عملکرد او را نشان می‌دهند.",
-            "عدم توانایی در اجرای این وعده می‌تواند اعتماد عمومی را به‌سرعت از دست بدهد."
-        ],
-        "impact": "اگر وعده ۵۰۰۰ دلاری عملی نشود، حمایت رای‌داران جمهوری‌خواه به‌سرعت کاهش می‌یابد.",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/09/10/politics/trump-midterm-strategy",
-        "clean_url": "https://www.cnn.com/2026/09/10/politics/trump-midterm-strategy",
-        "image": "https://www.bing.com/th?id=ONUT.FNBT3ru0qHlS2ombLidyjQ",
-        "timestamp": 1789053874.568043
     }
 ]
