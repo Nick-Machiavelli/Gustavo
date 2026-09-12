@@ -489,6 +489,23 @@
         "timestamp": 1789155563.2350702
     },
     {
+        "id": "c0cb440138",
+        "title_fa": "ایران و حوثی‌ها 2 مسیر اصلی کشتیرانی جهانی را مسدود می‌کنند و اقتصاد جهانی را تحت فشار قرار می‌دهند",
+        "title_en": "Iran, Houthis block 2 key global shipping routes, straining the global economy",
+        "summary": [
+            "Iran and Houthi rebels have effectively closed two key maritime chokepoints, threatening global oil prices and trade routes. Here's what it means."
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/iran-houthis-block-2-key-global-shipping-routes-straining-the-global-economy/ar-AA2c3l6V",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/iran-houthis-block-2-key-global-shipping-routes-straining-the-global-economy/ar-AA2c3l6V",
+        "image": "http://www.bing.com/th?id=ONUT.pGHJAYaR3VhIFfn1wdgJXA&pid=News",
+        "timestamp": 1789152713.0
+    },
+    {
         "id": "9896b1ed75",
         "title_fa": "هند باید نشست بریکس را نجات دهد",
         "title_en": "India must find a way to save the Brics Summit from itself, a task only New Delhi is capable of",
@@ -1507,6 +1524,25 @@
         "timestamp": 1789126577.0
     },
     {
+        "id": "3d567caff1",
+        "title_fa": "ایران با کشورهای خلیج برای هورموز جلسه می‌گیرد",
+        "title_en": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+        "summary": [
+            "نشست در عمان سعی دارد تنش هورموز را با گفت‌وگو کاهش دهد",
+            "حضور عراق و دیگر کشورهای خلیج نشان‌دهنده تمایل منطقه به حفظ امنیت ناوبری است",
+            "اگرچه ایالات متحده حضور نظامی دارد، اما این دیپلماسی می‌تواند فشار تحریم‌ها را کم کند"
+        ],
+        "impact": "تقویت دیپلماسی منطقه‌ای می‌تواند خطر برخورد نظامی را کاهش دهد",
+        "tag": "دبلوماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday",
+        "image": "http://www.bing.com/th?id=ONUT.sqb_rq8QJfc5T368ldO04w&pid=News",
+        "timestamp": 1789126380.0
+    },
+    {
         "id": "d3d53a7c55",
         "title_fa": "چگونه جنگ علیه ترور 11 سپتامبر را به زخمی برای همیشه باز تبدیل کرد",
         "title_en": "How the War on Terror Turned 9/11 Into a Permanently Open Wound",
@@ -2517,6 +2553,62 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-backed-houthis-take-effective-control-of-key-red-sea-chokepoint/ar-AA2c1sNi",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789097100.0
+    },
+    {
+        "id": "e936225aad",
+        "title_fa": "ناو حامل هواپیماهای جنگی آمریکا در خلیج هورموز نقش کلیدی",
+        "title_en": "An exclusive look aboard the USS George Washington in its crucial role in the Iran war",
+        "summary": [
+            "ناو USS George Washington با ۵۰۰۰ نیروی انسانی و موشک‌های پیشرفته، بلوک‌دار کردن هورموز را تقویت می‌کند",
+            "پروازهای شبانه برای حمایت از کشتی‌های تجاری نشان از ارتقای عملیات نیابتی آمریکا دارد",
+            "هزینه انسانی و مالی این حضور فشار بر روابط منطقه‌ای را افزایش می‌دهد"
+        ],
+        "impact": "حضور ناو آمریکایی به تقویت محاصره هورموز و تشدید تنش‌های نظامی منجر می‌شود",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.4,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/uss-george-washington-exclusive-look-iran-war/",
+        "clean_url": "https://www.cbsnews.com/news/uss-george-washington-exclusive-look-iran-war",
+        "image": "https://www.bing.com/th?id=ONUT.g8krnTnEmqVsyucufz_rQA",
+        "timestamp": 1789093385.0
+    },
+    {
+        "id": "f3f2cf10e4",
+        "title_fa": "حوثی‌ها جزیره پرم تصرف و خط لوله قطع کردند",
+        "title_en": "Gulf oil threatened anew as Houthis reach key island and pipeline is shut down",
+        "summary": [
+            "حوثی‌ها با تصرف جزیره پرم کنترل استراتژیک باب‌ال‌مندب را نزدیک می‌کنند",
+            "حمله پهپادی از عراق خط لوله شرق‑غرب سعودی را برای ساعت‌ها قطع کرد و صادرات نفت را تحت فشار قرار داد",
+            "این دو اقدام همزمان مسیرهای اصلی نفتی را تهدید کرده و قیمت جهانی را بالا می‌برد",
+            "ایران می‌تواند از این بحران برای تقویت استراتژی فشار اقتصادی بر آمریکا بهره بگیرد"
+        ],
+        "impact": "اختلال در دو مسیر شحن نفت، فشار بر قیمت جهانی و کاهش درآمد خلیج‌ها",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ET EnergyWorld",
+        "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/gulf-oil-threatened-anew-as-houthis-reach-key-island-and-pipeline-is-shut-down/134100964",
+        "clean_url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/gulf-oil-threatened-anew-as-houthis-reach-key-island-and-pipeline-is-shut-down/134100964",
+        "image": "https://www.bing.com/th?id=ONUT.lymfJ45DZNgSk5HYV8sT-A",
+        "timestamp": 1789093385.0
+    },
+    {
+        "id": "6eb0f92695",
+        "title_fa": "عربستان سعودی با تصرف یک جزیره توسط حوثی‌ها خط لوله را تعطیل کرد و جبهه جدیدی در جنگ ایران باز کرد",
+        "title_en": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war",
+        "summary": [
+            "CAIRO — Saudi Arabia said Friday (Sept 11) it shut down a major pipeline a day after it was attacked by drones, and Yemen's..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "AsiaOne",
+        "url": "https://www.asiaone.com/asia/saudi-arabia-shuts-down-pipeline-houthis-seize-island-opening-new-front-iran-war",
+        "clean_url": "https://www.asiaone.com/asia/saudi-arabia-shuts-down-pipeline-houthis-seize-island-opening-new-front-iran-war",
+        "image": "https://www.bing.com/th?id=ONUT.sjfEnsBTFrp9M4raOezDTg",
+        "timestamp": 1789093385.0
     },
     {
         "id": "3efcb779cd",
@@ -5342,93 +5434,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWU1kVVczamVIZUtMeU9hbFRvS2tPUjhIbzh0aFBWQl9Ca0lyVUxZVjc0aTFtMG03aFFmN0tmc1hDZWFfM3VoNHhZYTBudEt0WFdHVHFhbkFxWFo5NGhEbDBYamVsOG9qOVBUdEpFYkRhNmpBUTdZZU9kTXY1em5ZM083RzlXU21CNUc4MWxTUTY",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789050460.0
-    },
-    {
-        "id": "72b29201fa",
-        "title_fa": "آیا بریکس برای توافق خیلی بزرگ است؟",
-        "title_en": "Is BRICS Too Big to Agree?",
-        "summary": [
-            "BRICS walks into New Delhi this September carrying more weight than it ever has — and more strain., Opinion, Times Now..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/opinion/is-brics-too-big-to-agree-article-156134501",
-        "clean_url": "https://www.timesnownews.com/opinion/is-brics-too-big-to-agree-article-156134501",
-        "image": "https://www.bing.com/th?id=ONUT._Mj5jNSaiLHNLxn7SI2iKw",
-        "timestamp": 1789050257.7852788
-    },
-    {
-        "id": "c4d8bf912e",
-        "title_fa": "وقتی قدرت های بزرگ خارج از سازمان ملل متحد عمل می‌کنند",
-        "title_en": "When Great Powers Act Outside The United Nations",
-        "summary": [
-            "It is too easy to call this a UN failure. The problem is not that the United Nations has no authority. It is that its..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Friday Times",
-        "url": "https://thefridaytimes.com/10-Sep-2026/great-powers-act-outside-united-nations",
-        "clean_url": "https://thefridaytimes.com/10-Sep-2026/great-powers-act-outside-united-nations",
-        "image": "https://www.bing.com/th?id=ONUT.oEvV22ztWYoLw8PPDCK2OA",
-        "timestamp": 1789050257.7850275
-    },
-    {
-        "id": "72b3035f2b",
-        "title_fa": "امپراتوری در لبه",
-        "title_en": "An empire on the edge",
-        "summary": [
-            "Economist Mona Ali on how the United States wields the world’s most powerful currency to shore up empire and its own ruling class — and how Trump’s careless moves might blow it all up."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Jacobin on MSN",
-        "url": "https://www.msn.com/en-us/money/general/an-empire-on-the-edge/ar-AA2bWQbh?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/general/an-empire-on-the-edge/ar-AA2bWQbh",
-        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789050257.783665
-    },
-    {
-        "id": "73116f59ff",
-        "title_fa": "خبر بین‌المللی — Violence erupts در Yemen again: why it matters globally و چگ",
-        "title_en": "Violence erupts in Yemen again: why it matters globally and how it is linked to the US-Iran war",
-        "summary": [
-            "Houthis try to take control of more of Yemen's Red Sea coast from Saudi-backed government, giving Iran and its allies control over a key shipping lane"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war?source=newscura",
-        "clean_url": "https://www.theguardian.com/world/2026/sep/10/violence-erupts-in-yemen-again-why-it-matters-globally-and-how-it-is-linked-to-the-us-iran-war",
-        "image": "https://i.guim.co.uk/img/media/d8b80ac5ba4ace60fed21b42439dfe5e648cb9e7/418_0_2082_1666/master/2082.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b9064e9123472a2912a3bb77684c6254",
-        "timestamp": 1789049460.0
-    },
-    {
-        "id": "fcd6adec15",
-        "title_fa": "برکس می‌خواهد تجارت با ارز ملی گسترش یابد",
-        "title_en": "BRICS Must Expand National Currency Use and Build Resilient Trade Ties",
-        "summary": [
-            "وزیر تجارت هند در نشست تجاری برکس، استفاده از ارزهای ملی را برای تقویت زنجیره‌های تأمین پیشنهاد کرد",
-            "حجم صادرات کالاهای برکس از ۹۰۰ میلیارد دلار در ۲۰۰۳ به نزدیک شش تریلیون دلار در ۲۰۲۴ دو برابر شد",
-            "تمرکز بر حذف موانع غیرتعرفه‌ای، کشاورزی، خدمات و اقتصاد دیجیتال است",
-            "حضور رئیس‌جمهور ایران نشان می‌دهد تهران به‌دنبال تقویت روابط تجاری با بلوک جدید است"
-        ],
-        "impact": "تقویت تجارت بین‌المللی برکس می‌تواند فشارهای تحریمی را بر کشورهای هدف کاهش دهد",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/world/video/brics-must-expand-national-currency-use-and-build-resilient-trade-ties-ytvd-2992613-2026-09-11",
-        "clean_url": "https://www.indiatoday.in/world/video/brics-must-expand-national-currency-use-and-build-resilient-trade-ties-ytvd-2992613-2026-09-11",
-        "image": "https://www.bing.com/th?id=ONUT.eWiDaLaqlkYA5FUJ8UocZQ",
-        "timestamp": 1789048985.0
     }
 ]
