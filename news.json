@@ -1082,6 +1082,25 @@
         "timestamp": 1789137300.0
     },
     {
+        "id": "882915801a",
+        "title_fa": "قله‌ملاقات ایران و کشورهای خلیج برای امنیت هورموز",
+        "title_en": "Iran, Gulf States to Hold Key Summit on Hormuz Maritime Transit",
+        "summary": [
+            "ایران و شش عضو شورای همکاری خلیج در سالاری عمان برای تعیین مسیرهای ناوبری امن در هورموز هم‌نشین می‌شوند.",
+            "تهدید ایران مبنی بر عدم تضمین امنیت در صورت ادامه تحریم‌های اقتصادی و مسدودیت‌های دریایی آمریکا، محور مذاکرات است.",
+            "نتیجه‌گیری‌های این نشست می‌تواند مسیرهای تجاری را باز کند و فشار اقتصادی بر خاورمیانه را کاهش دهد."
+        ],
+        "impact": "ایجاد چارچوب‌های جدید ناوبری می‌تواند ریسک‌های حمل‌ونقل نفت را کم کند.",
+        "tag": "دپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "teleSUR English",
+        "url": "https://www.telesurenglish.net/iran-gulf-states-summit-hormuz-transit/",
+        "clean_url": "https://www.telesurenglish.net/iran-gulf-states-summit-hormuz-transit",
+        "image": "http://www.bing.com/th?id=ONUT.Z10oQFooVAE1RXfsUm4KTw&pid=News",
+        "timestamp": 1789136880.0
+    },
+    {
         "id": "4fe45a6e93",
         "title_fa": "پرزیدنت ترامپ در مراسم 11 سپتامبر پنتاگون اعلام کرد: جمهوری اسلامی ایران هرگز به سلاح هسته‌ای نخواهد رسید.",
         "title_en": "‘The Islamic Republic of Iran will never ever have a nuclear weapon,’ President Trump declares at Pentagon 9/11 ceremony",
@@ -2516,6 +2535,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDdpRzBrT19IbmVjTHhNTlVZTGl6TjdqWFF3a1o2MnBrMmJSUHdEaWRVUnpJVjNyNGdra0thd2RuQnJOWWl1czBKTXlPNDR3TVJXbHR2OWpvNU9wbmxFZEpOQnVpejJaQnhseS1rSmVfMWRIOFp0WTJKczNVUml3SnFKcjdnZUF20gGOAUFVX3lxTE92bWZWZzlSTGIwYnBDM3lTSHctMFNNdFhsTm5GUXNNcGpwYi0zQ3E3YXF5bllSdGRvUDlkMnlnODBXcGRTS3FMWmtldFlJeUF1XzZBcGc1a01aM2s3OFlXSHMteWpGQTcyd2RlckducjNOU1NOc2s5aWFKakF3b0xINFJhTW9Gd1o4Uk5wY2c",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789090980.0
+    },
+    {
+        "id": "694357ef75",
+        "title_fa": "آسیب‌پذیری خط لوله شرق‑غرب سعودی پس از حمله پهپادی",
+        "title_en": "The Outlook Is Getting Grimmer By The Day For Oil Exports From The Red Sea",
+        "summary": [
+            "حملات پهپادی حامی ایران در عراق خط لوله کلیدی شرق‑غرب را به‌صورت موقت متوقف کرد.",
+            "بسته شدن لوله، میلیون‌ها بشکه نفت روزانه را از مسیر یانبو به‌سوی بازار جهانی حذف می‌کند.",
+            "همزمان، حوثی‌ها کنترل خلیج باب‌ال‌مندب را گسترش دادند؛ ترکیبی که فشار بر مسیرهای نفتی را دوچندان می‌کند."
+        ],
+        "impact": "کاهش روزانه صادرات نفت سعودی و تشدید نوسان قیمت‌های جهانی.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The War Zone",
+        "url": "https://www.twz.com/news-features/the-outlook-is-getting-grimmer-by-the-day-for-oil-exports-from-the-red-sea",
+        "clean_url": "https://www.twz.com/news-features/the-outlook-is-getting-grimmer-by-the-day-for-oil-exports-from-the-red-sea",
+        "image": "https://www.bing.com/th?id=ONUT.J72saxeDpwGp0i9GuB0MXw",
+        "timestamp": 1789090807.0
+    },
+    {
+        "id": "0024828236",
+        "title_fa": "خبر بین‌المللی — West Asia crisis puts key oil route در crosshairs as Saudi s",
+        "title_en": "West Asia crisis puts key oil route in crosshairs as Saudi shuts pipeline after Houthis seize Red Sea island",
+        "summary": [
+            "Saudi Arabia halted a major oil pipeline after a drone attack as Houthi rebels seized Mayun island near the Bab el-Mandeb..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/west-asia-crisis-puts-key-oil-route-in-crosshairs-as-saudi-shuts-pipeline-after-houthis-seize-red-sea-island-14045139.html",
+        "clean_url": "https://www.firstpost.com/world/west-asia-crisis-puts-key-oil-route-in-crosshairs-as-saudi-shuts-pipeline-after-houthis-seize-red-sea-island-14045139.html",
+        "image": "https://www.bing.com/th?id=ONUT.Gy-lQYyJJe94fb4Itq_GiA",
+        "timestamp": 1789090807.0
     },
     {
         "id": "4fdd102ecf",
@@ -5376,59 +5431,5 @@
         "clean_url": "https://www.thehour.com/connecticut/article/quinnipiac-poll-trump-lake-ontario-ballroom-issues-22426951.php",
         "image": "https://www.bing.com/th?id=ONUT.1kQV43ejSFvosBfQvHVb5w",
         "timestamp": 1789048231.0
-    },
-    {
-        "id": "985632f76a",
-        "title_fa": "تا زمانی که می‌توانند: ایران متهم به طولانی کردن مذاکرات صلح برای زنده ماندن از جنگ است",
-        "title_en": "As long as they can: Iran accused of dragging out peace talks to survive the war",
-        "summary": [
-            "News24 host Caleb Bond rejects claims Iran is simply waiting until the US midterm elections to pursue a peace deal, arguing the regime will hold out for as long as possible."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "News24 on MSN",
-        "url": "https://www.msn.com/en-au/politics/government/as-long-as-they-can-iran-accused-of-dragging-out-peace-talks-to-survive-the-war/ar-AA2bXwGC?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/politics/government/as-long-as-they-can-iran-accused-of-dragging-out-peace-talks-to-survive-the-war/ar-AA2bXwGC",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789048229.5594444
-    },
-    {
-        "id": "168ad41f8a",
-        "title_fa": "به‌روزرسانی‌های زنده: دیزل به رکورد ۶ دلار در هر گالن رسید زیرا طبق گزارش‌ها، حوثی‌ها قلمروی کلیدی در امتداد دریای سرخ را تصرف کردند.",
-        "title_en": "Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea",
-        "summary": [
-            "Diesel prices in the U.S. have hit a painful new milestone, $6 a gallon as, reports said, Houthi rebels in Yemen took the key..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea",
-        "image": "https://www.bing.com/th?id=ONUT.WyMo0aQmolQHejxQCdugwQ",
-        "timestamp": 1789047742.0
-    },
-    {
-        "id": "1ba558c0ce",
-        "title_fa": "راپائِل گلوکسمن: پرنده‌ای تند در لباس پیشرو",
-        "title_en": "Raphäel Glucksmann, a hawk in progressive clothing",
-        "summary": [
-            "گلوکسمن، نامزد مرکز‑چپ فرانسه، دیدگاه‌های نظامی تند دارد",
-            "او را به سنت فلسفه نوین با گرایش جنگ‌طلبی مقایسه می‌کند",
-            "مقاله نقد می‌کند که او از شکست‌های نظامی اخیر درس نگرفته",
-            "این رویکرد می‌تواند در سیاست‌های اروپایی خطرآفرین باشد"
-        ],
-        "impact": "احتمال ترویج سیاست‌های سخت‌گیرانه نظامی در انتخابات فرانسه",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "Jacobin on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/raphäel-glucksmann-a-hawk-in-progressive-clothing/ar-AA2bWLc2?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/raphäel-glucksmann-a-hawk-in-progressive-clothing/ar-AA2bWLc2",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789047381.190932
     }
 ]
