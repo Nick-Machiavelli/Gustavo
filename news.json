@@ -2092,6 +2092,26 @@
         "timestamp": 1789165340.976773
     },
     {
+        "id": "e2ced676d4",
+        "title_fa": "پنتاگون خشمگین: فشار هگست بر هوابردها فاش شد",
+        "title_en": "Pentagon rages as Pete Hegseth's pressure campaign on rescued airmen exposed: report",
+        "summary": [
+            "هگست با فشار بر خلبانان برای مصاحبهٔ 60 Minutes، خطر نشت اطلاعات طبقه‌بندی‌شده را نادیده گرفت",
+            "پنتاگون واکنش شدید نشان داد و ضعف نظارت داخلی را آشکار کرد",
+            "رسانه‌ها و کمیته‌های نظارتی ممکن است درخواست بررسی مستقل کنند",
+            "اعتماد به نیروی هوایی و رهبری دفاعی تحت فشار قرار می‌گیرد"
+        ],
+        "impact": "اعتماد داخلی به نیروی هوایی و رهبری دفاعی تضعیف می‌شود؛ احتمال بررسی قانونی و محدودیت‌های رسانه‌ای افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Raw Story on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/pentagon-rages-as-pete-hegseth-s-pressure-campaign-on-rescued-airmen-exposed-report/ar-AA2c6d40?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/news/other/pentagon-rages-as-pete-hegseth-s-pressure-campaign-on-rescued-airmen-exposed-report/ar-AA2c6d40",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789162437.0
+    },
+    {
         "id": "49232092cc",
         "title_fa": "خبر بین‌المللی — Tucker Carlson agrees that آمریکا 'scarred millions people",
         "title_en": "Tucker Carlson agrees that America 'scarred millions of people after 9/11'",
@@ -5486,24 +5506,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDdpRzBrT19IbmVjTHhNTlVZTGl6TjdqWFF3a1o2MnBrMmJSUHdEaWRVUnpJVjNyNGdra0thd2RuQnJOWWl1czBKTXlPNDR3TVJXbHR2OWpvNU9wbmxFZEpOQnVpejJaQnhseS1rSmVfMWRIOFp0WTJKczNVUml3SnFKcjdnZUF20gGOAUFVX3lxTE92bWZWZzlSTGIwYnBDM3lTSHctMFNNdFhsTm5GUXNNcGpwYi0zQ3E3YXF5bllSdGRvUDlkMnlnODBXcGRTS3FMWmtldFlJeUF1XzZBcGc1a01aM2s3OFlXSHMteWpGQTcyd2RlckducjNOU1NOc2s5aWFKakF3b0xINFJhTW9Gd1o4Uk5wY2c",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789090980.0
-    },
-    {
-        "id": "694357ef75",
-        "title_fa": "آسیب‌پذیری خط لوله شرق‑غرب سعودی پس از حمله پهپادی",
-        "title_en": "The Outlook Is Getting Grimmer By The Day For Oil Exports From The Red Sea",
-        "summary": [
-            "حملات پهپادی حامی ایران در عراق خط لوله کلیدی شرق‑غرب را به‌صورت موقت متوقف کرد.",
-            "بسته شدن لوله، میلیون‌ها بشکه نفت روزانه را از مسیر یانبو به‌سوی بازار جهانی حذف می‌کند.",
-            "همزمان، حوثی‌ها کنترل خلیج باب‌ال‌مندب را گسترش دادند؛ ترکیبی که فشار بر مسیرهای نفتی را دوچندان می‌کند."
-        ],
-        "impact": "کاهش روزانه صادرات نفت سعودی و تشدید نوسان قیمت‌های جهانی.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "The War Zone",
-        "url": "https://www.twz.com/news-features/the-outlook-is-getting-grimmer-by-the-day-for-oil-exports-from-the-red-sea",
-        "clean_url": "https://www.twz.com/news-features/the-outlook-is-getting-grimmer-by-the-day-for-oil-exports-from-the-red-sea",
-        "image": "https://www.bing.com/th?id=ONUT.J72saxeDpwGp0i9GuB0MXw",
-        "timestamp": 1789090807.0
     }
 ]
