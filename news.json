@@ -1,5 +1,42 @@
 [
     {
+        "id": "28bc181344",
+        "title_fa": "آمریکا تاریخ پادشاهی ایران را نادیده می‌گیرد",
+        "title_en": "How America misunderstood Iran’s monarchy",
+        "summary": [
+            "روایت غربی پادشاهی را صرفاً به سلطه‌گری می‌نگرد؛ در ایران نقش وحدت ملی دارد",
+            "این سوگیری باعث درک نادرست سیاست‌های تهران در برابر تحولات منطقه‌ای می‌شود"
+        ],
+        "impact": "درک نادرست غرب از تاریخ پادشاهی ایران، ممکن است سیاست‌های دیپلماتیک اشتباه تقویت شود",
+        "tag": "پادشاهی",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-nz/news/other/how-america-misunderstood-iran-s-monarchy-and-the-pahlavi-legacy/ar-AA2c5tcJ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-nz/news/other/how-america-misunderstood-iran-s-monarchy-and-the-pahlavi-legacy/ar-AA2c5tcJ",
+        "image": "https://www.bing.com/th?id=ONUT.bJsJOhKRmHz5ugnJr7eRKg",
+        "timestamp": 1789239759.2857897
+    },
+    {
+        "id": "f59686122a",
+        "title_fa": "حمله حوثی‌ها به باب‌ال‌مندب؛ پیمان مکه زیر فشار",
+        "title_en": "Saudi-Houthi war: Mecca Pact under scanner as Houthis rout Saudi-backed forces, capture Bab-al-Mandeb; what will Crown Prince Salman do?",
+        "summary": [
+            "حوثی‌ها باب‌ال‌مندب را تصرف کردند؛ مسیر اصلی صادرات نفت سعودی مسدود شد",
+            "پیمان مکه تعهد دفاع جمعی دارد اما ترکیه و پاکستان تاکنون پاسخی ندادند",
+            "ریاض باید استراتژی خود را بازنگری کند؛ خطر کاهش صادرات و فشار اقتصادی بر اقتصاد سعودی"
+        ],
+        "impact": "مسدود شدن مسیر نفت سعودی، فشار شدید بر اقتصاد ریال و تضعیف موقعیت ژئوپلیتیک عربستان",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "News24",
+        "url": "https://news24online.com/world/saudi-houthi-war-mecca-pact-under-scanner-as-houthis-rout-saudi-backed-forces-capture-bab-al-mandeb-what-will-crown-prince-salman-do/924124/",
+        "clean_url": "https://news24online.com/world/saudi-houthi-war-mecca-pact-under-scanner-as-houthis-rout-saudi-backed-forces-capture-bab-al-mandeb-what-will-crown-prince-salman-do/924124",
+        "image": "https://www.bing.com/th?id=ONUT.vxNWMGe458E1-ssqZbg8xQ",
+        "timestamp": 1789239759.2854176
+    },
+    {
         "id": "6344caabd9",
         "title_fa": "حضور جان فترمن در حزب جمهوری خواه فراتر از تئاتر سیاسی بود | نظر کارکنان",
         "title_en": "John Fetterman’s GOP appearance was more than political theater | STAFF COMMENTARY",
@@ -2150,6 +2187,25 @@
         "clean_url": "https://www.sun-sentinel.com/2026/09/11/condemn-violence-by-israeli-settlers-in-west-bank-editorial",
         "image": "https://www.bing.com/th?id=ONUT.PvAYuQ0bmUx09JyQJW9izw",
         "timestamp": 1789155563.2350702
+    },
+    {
+        "id": "88f4b465a2",
+        "title_fa": "امکان عزل هگست‌ه در اثر جنگ ایران",
+        "title_en": "Pete Hegseth could be IMPEACHED over scandals and Iran war as Washington whispers about the embattled Pentagon boss's future",
+        "summary": [
+            "نمایندگان دمکراتیک قصد دارند هگست‌ه را به دلیل جنگ ایران و رسوایی سیگنال‌گیت تعقیب کنند",
+            "اگر مجلس جدید به دست دمکرات‌ها برسد، امکان استیضاح و بازجویی‌های گسترده می‌شود",
+            "این بحران می‌تواند تمرکز نیروی دفاعی آمریکا را از خاورمیانه به داخل کشور منحرف کند"
+        ],
+        "impact": "عزل هگست‌ه می‌تواند رهبری وزارت دفاع آمریکا را دگرگون کرده و تصمیم‌گیری‌های نظامی در خاورمیانه را به تعویق بیندازد",
+        "tag": "امپیشمنت",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Daily Mail",
+        "url": "https://www.dailymail.com/news/article-16121541/pete-hegseth-impeached-washington-whispers-midterms.html",
+        "clean_url": "https://www.dailymail.com/news/article-16121541/pete-hegseth-impeached-washington-whispers-midterms.html",
+        "image": "https://www.bing.com/th?id=ONUT.PcutDkh7n4NLQietFWaFUQ",
+        "timestamp": 1789153353.0
     },
     {
         "id": "c0cb440138",
@@ -5449,57 +5505,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjg5NHl4dWUyQ0JyWnVDQ2dkbHFxaGgycjRNcy1OYktOQXlaLUxqWk1aT2ZEdlVoWm9TakEwSXA3aTAwTmFjdXZOZEhHdzE2WVZOMzBXaHZvMU9FYzBqZ25Fb1hXbHBEdVcxWTZ6OG5xcmIzUEhhdkp3VEUxai11c09GZDctSVVaQUhsblhYUThGYWRwem91bE4yWU96QWJlcC1OMtIBqgFBVV95cUxQeDZUX3JYWnNEUjl0OXJpMmhodjg4TVFmbkg5UmxOMjdMRTFsOXVGUUFfbExtUWx6T1JOLTBBTDhwaTNMRzZ5REtCWHcyXzNjMlAyUU5yWlJpTkZwZnBJWXl1OXpBUGhMb1ZZd3dVNnhpbWQtVjc0U096VlVpM0d0dldmckpZVTZGVXd2VW02VnM1VWNyX3RwZGhpWU1jZ3hZWUxncGI1RW8xZw",
         "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789084815.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "پزشکان ایتالیایی خواستار قانون جدید عمل پزشکی",
-        "title_en": "AI, Quici (Cimo): \"Hospital doctors are asking for a law on the medical act\"",
-        "summary": [
-            "پزشکان بیمارستانی ایتالیا می‌گویند عدم وجود قانون واضح، مسئولیت‌پذیری و صلاحیت را مبهم می‌کند",
-            "سازمان CIMO خواستار تصویب «قانون عمل پزشکی» برای تنظیم وظایف و حقوق پزشکان است"
-        ],
-        "impact": "قانون جدید می‌تواند چارچوب قانونی شفاف‌تری برای مراقبت‌های بهداشتی در ایتالیا فراهم کند",
-        "tag": "بهداشت",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260911KRONOS-202609121322466361_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1789084800.0
-    },
-    {
-        "id": "05927f96a8",
-        "title_fa": "اخبار خاورمیانه",
-        "title_en": "middle east News",
-        "summary": [
-            "In a strategic move, Houthi forces have seized the port city of Mocha and are pushing further south towards the crucial Bab el-Mandeb Strait. This escalation shifts their tactics toward controlling Yemen's Red Sea coast, a vital route for global maritime..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Indiatimes",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east",
-        "image": "https://static.toiimg.com/photo/47529300.cms",
-        "timestamp": 1789084800.0
-    },
-    {
-        "id": "dbc7b7de60",
-        "title_fa": "حوثی های تحت حمایت ایران جزیره دریای سرخ را به عنوان تهدیدی جدید برای مسیرهای عرضه جهانی پس از «رد ترامپ درخواست عربستان برای حمله» به شورشیان تصرف کردند.",
-        "title_en": "Iran-backed Houthis seize Red Sea island in new threat to global supply routes after Trump 'rejected Saudi request for strikes' on rebels",
-        "summary": [
-            "Oil prices surged as Iran-backed Houthis seized control of Yemen's port city of Mokha on Thursday - an area vital to controlling shipping through the Red Sea."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Daily Mail",
-        "url": "https://www.dailymail.com/news/article-16122827/Oil-prices-surge-Houthis-seize-Red-Sea-port.html",
-        "clean_url": "https://www.dailymail.com/news/article-16122827/Oil-prices-surge-Houthis-seize-Red-Sea-port.html",
-        "image": "http://www.bing.com/th?id=ONUT.i0SuNdKY5xS1lsuhHHf96Q&pid=News",
-        "timestamp": 1789084500.0
     }
 ]
