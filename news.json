@@ -1,5 +1,25 @@
 [
     {
+        "id": "6eb78b7cfd",
+        "title_fa": "جنگ ایران‑آمریکا ادامه دارد؛ ساختار نیروها عوض شد",
+        "title_en": "Iran’s war didn’t end. It changed units.",
+        "summary": [
+            "تحلیلگران می‌گویند جنگ سرد بین آمریکا و ایران به شکل جنگ‌نامی ادامه دارد",
+            "نیروهای ویژه و پهپادهای کم‌ارتفاع به‌جای ناوهای بزرگ به کار گرفته می‌شوند",
+            "این تغییر به‌منظور دور زدن تحریم‌های مالی و فنی است",
+            "هر گونه تصعید در این «واحدهای» جدید می‌تواند به برخورد مستقیم منجر شود"
+        ],
+        "impact": "تغییر ترکیب نیروها نشان‌دهنده آماده‌سازی برای عملیات محدود ولی پرخطر علیه اهداف ایرانی است",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Hill",
+        "url": "https://thehill.com/opinion/international/6085199-us-iran-escalation-rhetoric-threshold/",
+        "clean_url": "https://thehill.com/opinion/international/6085199-us-iran-escalation-rhetoric-threshold",
+        "image": "https://www.bing.com/th?id=ONUT.Dk0czR_Haky0HwMerf5ymw",
+        "timestamp": 1789243387.5620453
+    },
+    {
         "id": "d21ea2a790",
         "title_fa": "آمیتاب کانت: برکس ۲۰۲۶، آمریکا رابطه هند‑چین را می‌سازد",
         "title_en": "Rajdeep Sardesai Debate: How Will America View The India-China Relationship Reset At BRICS 2026?",
@@ -516,6 +536,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdzZINkRnNl9KS016TGlIZm1GbWpkSlZOclVaVGdiMXFrdlRXVGZuVFVwek9UU3VFTWh1WkQyYmZmNFhSTjYtZENCLUxMVUtRSTIwU1dpT1FtUzBCa1gyUEs5UkIzQVVydTd2NlMtbXc5ckh3WGxXRENhSTJNVWF3SUxMem5TUl94cDREUlpaZ1hPdjlBVGRsSk12MG54YWtUV2syTw",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789218788.0
+    },
+    {
+        "id": "f392e46dd8",
+        "title_fa": "ترامپ: حوثی‌ها از مداخله آمریکا در یمن می‌خواهند",
+        "title_en": "Iran live: Trump claims Houthis asked US not to intervene in Yemen",
+        "summary": [
+            "ترامپ ادعا کرد حوثی‌ها از ایالات متحده درخواست نکرده‌اند که در یمن مداخله کند",
+            "در همین زمان حوثی‌ها به مسجد سعودی حمله کردند و جزیره‌ای استراتژیک در باب‌ال‌مندب را تصرف کردند",
+            "اگر حرف ترامپ درست باشد فشار دیپلماتیک بر واشنگتن برای عدم مداخله افزایش می‌یابد",
+            "حقیقت نشان می‌دهد حوثی‌ها هنوز از حمایت‌های غیرمستقیم ایران بهره می‌برند؛ ریسک تشدید درگیری‌های منطقه‌ای بالا است"
+        ],
+        "impact": "بیانیه ترامپ می‌تواند سیاست آمریکا در یمن را به تعویق بیندازد و خطر گسترش درگیری را بالا ببرد",
+        "tag": "نیابتی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-trump-claims-houthis-asked-us-not-to-intervene-in-yemen/ar-AA2bZyWG",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-trump-claims-houthis-asked-us-not-to-intervene-in-yemen/ar-AA2bZyWG",
+        "image": "http://www.bing.com/th?id=ONUT.eeMd6-BXPk2PHtiJgCK0GQ&pid=News",
+        "timestamp": 1789217808.0
     },
     {
         "id": "8038ea558b",
@@ -5465,44 +5505,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRU5CdVNmcnZKT216MENDeDJ6cm1zdW1TS0pnVUYyX05vb3BIYV8tSHktR1BLOFU0REVaY1lUb2pRZDVxdlM5X1o4bmRTTnc1NU43RlNJTkFHekt0V0ZaM2pqREszZExtcVByalBsWUV2SlZ5Yy1UZnVreUx5MXlOdlpleldlbTBuZlNfUEZoalI",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789090402.0
-    },
-    {
-        "id": "3cf6512eaf",
-        "title_fa": "ترامپ: ایستادگی در حملات هوثی، ادامه کمک اطلاعاتی به عربستان",
-        "title_en": "US Draws The Line On Yemen: Trump Offers Saudi Intelligence Help, No Houthi Strikes For Now",
-        "summary": [
-            "آمریکا از حملات هوایی مستقیم علیه هوثی‌ها خودداری کرد اما اطلاعات هدف‌گیری مهمی به عربستان می‌دهد.",
-            "این تصمیم نشان می‌دهد واشنگتن می‌خواهد فشار بر ایران را حفظ کند در حالی که از درگیری مستقیم دور می‌ماند.",
-            "اگر تهدید به کشتی‌های عبوری در دریای سرخ بالا برود، امکان تغییر موضع نظامی آمریکا وجود دارد.",
-            "سخن‌گفت‌وگوهای ترامپ با محمد بن سلمان نشان از تمایل عربستان به مداخله مستقیم دارد."
-        ],
-        "impact": "عربستان بدون نیروی هوایی مستقیم آمریکا، به توان هدف‌گیری محدود می‌شود؛ اما توانایی واکنش سریع به تهدیدات دریایی حفظ می‌شود.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/us/us-news/us-draws-the-line-on-yemen-trump-offers-saudi-intelligence-help-no-houthi-strikes-for-now-article-156142855",
-        "clean_url": "https://www.timesnownews.com/world/us/us-news/us-draws-the-line-on-yemen-trump-offers-saudi-intelligence-help-no-houthi-strikes-for-now-article-156142855",
-        "image": "https://www.bing.com/th?id=ONUT.jpUHpjk-cXH5KJ0xECAMUA",
-        "timestamp": 1789089062.0
-    },
-    {
-        "id": "298614c9ec",
-        "title_fa": "بمباران «کِل‌باکس» موچا؛ هوتی‌ها ساحل سرخ را در اختیار دارند",
-        "title_en": "Iran war live: Yemen gov't says bombing 'kill box' near Houthi-seized Mocha",
-        "summary": [
-            "ارتش دولت یمن «کِل‌باکس» را در نزدیکی موچا هدف قرار داد تا جلوی گسترش هوتی‌ها را بگیرد",
-            "هوتی‌ها تمام سواحل سرخ را به‌دست آورده‌اند؛ کنترل باب‌ال‌مندب به خطر می‌افتد",
-            "تشدید در این منطقه می‌تواند ترافیک کشتی‌های تجاری و قیمت نفت را تحت فشار قرار دهد"
-        ],
-        "impact": "کشتی‌های تجاری خلیج فارس با خطر حمله مواجه می‌شوند؛ هزینه حمل و نقل افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T084749Z_2026613709_RC2ZFNAZ7IKI_RTRMADP_3_IRAN-CRISIS-PAKISTAN-HOUTHIS-1789150790.jpg?resize=1920%2C1440",
-        "timestamp": 1789088280.0
     }
 ]
