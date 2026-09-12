@@ -77,6 +77,24 @@
         "timestamp": 1789199243.524398
     },
     {
+        "id": "3fc7c3c469",
+        "title_fa": "تشدید تنش‌های آمریکا و ایران",
+        "title_en": "Tensions between US and Iran escalated again",
+        "summary": [
+            "روابط دو کشور پس از اظهارات اخیر به نقطه بحرانی رسیده",
+            "احتمال اعمال تحریم‌های جدید یا حضور نظامی منطقه‌ای در پیش است"
+        ],
+        "impact": "تحریم‌های جدید می‌توانند فشار اقتصادی بر ایران را تشدید کنند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "News On AIR",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4VjdFYlJuN01SNXRQUDJtdG9scVJmLXZEM2lxeTVucEVjQ2tyUWgzYkxCb2RmLXJMVVZfV2RmblhUb3lUUGRYaGNNLU5mUW5PY3BTLUFOQXdsbUlOaFdXeUM0R3VOb1BqWHNhZnFEX1R5SDVMcXgtdDFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4VjdFYlJuN01SNXRQUDJtdG9scVJmLXZEM2lxeTVucEVjQ2tyUWgzYkxCb2RmLXJMVVZfV2RmblhUb3lUUGRYaGNNLU5mUW5PY3BTLUFOQXdsbUlOaFdXeUM0R3VOb1BqWHNhZnFEX1R5SDVMcXgtdDFB",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789199188.0
+    },
+    {
         "id": "2955084a84",
         "title_fa": "پلیس آمریکا به‌خاطر شکار حیوانات به‌پیشینه‌اش محکوم شد",
         "title_en": "Readers sound off on officers shooting animals, airborne toxins and systemic racism",
@@ -5461,22 +5479,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/trump-plays-americans-fools-trying-153556773.html",
         "image": "https://www.bing.com/th?id=ONUT.cEK1imR_BIrnvFnNjZlPPw",
         "timestamp": 1789058157.5873997
-    },
-    {
-        "id": "98488608d5",
-        "title_fa": "بیست و پنج سال پس از 11 سپتامبر، ما تهدید را از دست می‌دهیم",
-        "title_en": "Twenty-five years after Sept. 11, we’re losing sight of the threat",
-        "summary": [
-            "The US is safer from catastrophic terrorism. But emerging technologies, expanding terrorist networks, and weakened..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Boston Globe",
-        "url": "https://www.bostonglobe.com/2026/09/11/opinion/911-terrorism-threats/",
-        "clean_url": "https://www.bostonglobe.com/2026/09/11/opinion/911-terrorism-threats",
-        "image": "https://www.bing.com/th?id=ONUT.lPSVKS4on7xUhMj7P8w-Iw",
-        "timestamp": 1789058157.5871785
     }
 ]
