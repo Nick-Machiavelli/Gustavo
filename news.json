@@ -1,5 +1,25 @@
 [
     {
+        "id": "2403c45888",
+        "title_fa": "بازارها اشتباه AI و تورم را می‌سازند",
+        "title_en": "Markets may be making a horrible miscalculation on AI and inflation",
+        "summary": [
+            "تحلیل‌گران می‌گویند بازارها هوش مصنوعی را بیش از حد ارزیابی کرده‌اند",
+            "کروگر پیش‌بینی فروش سالانه را کاهش داد و فشار هزینه‌ها را برجسته کرد",
+            "قیمت‌های بالای سوخت تقاضای مصرف‌کننده را به خریدهای ضروری محدود می‌کند",
+            "این ترکیب می‌تواند رشد سودآوری خرده‌فروشی را تحت فشار بگذارد"
+        ],
+        "impact": "کاهش ارزش سهام خرده‌فروشان و بازنگری سرمایه‌گذاران در استراتژی AI",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Australian Financial Review",
+        "url": "https://www.afr.com/chanticleer/markets-may-be-making-a-horrible-miscalculation-on-ai-and-inflation-20260912-p60wqy",
+        "clean_url": "https://www.afr.com/chanticleer/markets-may-be-making-a-horrible-miscalculation-on-ai-and-inflation-20260912-p60wqy",
+        "image": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/d7334828430bc7e2af7566803f9226d472cb6748",
+        "timestamp": 1789172269.975775
+    },
+    {
         "id": "96104d308e",
         "title_fa": "کلینک: ۲۵ سال پس از ۹/۱۱، درس‌های سیاسی نادیده‌مانده",
         "title_en": "Political aftershock of Sept 11 attacks still felt: Clark",
@@ -2597,6 +2617,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGZkZy1wV2dyc0dOZm5mTS1vMGEwRFhDWl8wRmpTRnRmMVEwWlhldjAzdFJCU3JkWUp4RG92TVplNkJvYmE2LVFGbkFxTjVjdHQ2ejRHSlZqQkJGS291clFHZTQ1MkhFOHpSbks2R3k1MWlpSDkyZTJmYV9USlRER09Qemxldjh3cDBkYldRY2VoT2lCQ2U0SjFtcFA5UdIBngFBVV95cUxNUGZkZy1wV2dyc0dOZm5mTS1vMGEwRFhDWl8wRmpTRnRmMVEwWlhldjAzdFJCU3JkWUp4RG92TVplNkJvYmE2LVFGbkFxTjVjdHQ2ejRHSlZqQkJGS291clFHZTQ1MkhFOHpSbks2R3k1MWlpSDkyZTJmYV9USlRER09Qemxldjh3cDBkYldRY2VoT2lCQ2U0SjFtcFA5UQ",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789086453.0
+    },
+    {
+        "id": "611a256a53",
+        "title_fa": "جمهوری‌خواهان هدف‌گیری ال‌ساید در میشیگان",
+        "title_en": "Republicans made El-Sayed a top midterm target. The Democrat wants to talk about Michigan voters",
+        "summary": [
+            "جمهوری‌خواهان با حملات به مذهب و ایدئولوژی او سعی در تضعیف حمایت‌های میانی‌سوی دارند",
+            "ترامپ ال‌ساید را «افراطی» خوانده و به خانواده‌اش حمله کرده است",
+            "ادعای مالی‌گیری از گروه‌های تروریستی بدون مدرک، به‌عنوان ابزار تبلیغاتی استفاده شده",
+            "این فشار می‌تواند شانس ال‌ساید در انتخابات سنا را به‌طور قابل‌توجهی کاهش دهد"
+        ],
+        "impact": "احتمال کاهش رأی ال‌ساید و تشدید تنش‌های دینی‑سیاستی در میشیگان",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Orange County Register",
+        "url": "https://www.ocregister.com/2026/09/11/us-election-2026-michigan-senate/",
+        "clean_url": "https://www.ocregister.com/2026/09/11/us-election-2026-michigan-senate",
+        "image": "https://www.bing.com/th?id=ONUT.MQ3E8mkXZ6acohAewc1iiw",
+        "timestamp": 1789085865.0
     },
     {
         "id": "c53067b207",
@@ -5389,44 +5429,5 @@
         "clean_url": "https://theconversation.com/how-donald-trumps-war-in-iran-is-failing-the-legitimacy-test-in-the-eyes-of-us-voters-291686",
         "image": "https://www.bing.com/th?id=ONUT.6CTTh8z1lt1o79bgyEKLbg",
         "timestamp": 1789045394.740255
-    },
-    {
-        "id": "cbbeee4f30",
-        "title_fa": "گوگل مراکز هوش مصنوعی را به انرژی هسته‌ای می‌برد",
-        "title_en": "Google AI Centers Move To Nuclear Power",
-        "summary": [
-            "گوگل دیتاسنترهای هوش مصنوعی را با نیروگاه‌های هسته‌ای تغذیه می‌کند",
-            "مصرف برق شبکه کاهش می‌یابد و ردپای کربنی کم می‌شود",
-            "شرکت‌های فناوری دیگر ممکن است به این مدل روی‌آورد کنند"
-        ],
-        "impact": "کاهش مصرف انرژی شبکه و پیشبرد پذیرش انرژی هسته‌ای در دیتاسنترها",
-        "tag": "انرژی",
-        "urgency": 3,
-        "sentiment": 0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/videos/google-ai-centers-move-nuclear-130038092.html",
-        "clean_url": "https://www.yahoo.com/news/videos/google-ai-centers-move-nuclear-130038092.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/4e50aa2aa754b162dbd6df91e7069fb83900b2894ee37263460f97d6e633271c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclimate_crisis_247_604%2F9fdb167c38d3bcd3e1f3e19dd6927100.jpg",
-        "timestamp": 1789045200.0
-    },
-    {
-        "id": "768ecb53b5",
-        "title_fa": "انفجارهای بزرگ اسرائیل در علی‌طاهر",
-        "title_en": "Massive Israeli explosions on Ali Taher cause shockwave measuring 4.1 on Richter scale; Israeli media says over 1,100 tonnes of explosives used | LIVE",
-        "summary": [
-            "اسرائیل با بیش از ۱٬۱۰۰ تن مواد منفجره به تپه علی‌طاهر حمله کرد و لرزش ۴٫۱ ریشتر ثبت شد",
-            "هدف حمله ادعای زیرساخت‌های تونل حزب‌الله بود؛ اسرائیل از واکنش ایرانی می‌ترسد",
-            "ایران پیش از یک هفته هشدار داد که در صورت حمله به علی‌طاهر به‌سرعت واکنش نظامی می‌دهد",
-            "افزایش سطح هشدار در اسرائیل می‌تواند به تشدید درگیری‌های مرزی منجر شود"
-        ],
-        "impact": "تشدید تنش‌های مرزی و احتمال حملات نیابتی در هفته‌های آینده",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "L'Orient Today",
-        "url": "https://today.lorientlejour.com/article/1547093/cbs-us-military-planes-damaged-in-overnight-jordan-strikes-2-blasts-in-beni-hayan-live.html",
-        "clean_url": "https://today.lorientlejour.com/article/1547093/cbs-us-military-planes-damaged-in-overnight-jordan-strikes-2-blasts-in-beni-hayan-live.html",
-        "image": "https://s.lorientlejour.com/storage/attachments/1548/WhatsAppImage2026-09-10at212830_275448.jpeg/r/800/WhatsAppImage2026-09-10at212830_275448.jpeg",
-        "timestamp": 1789044480.0
     }
 ]
