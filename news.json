@@ -1,5 +1,24 @@
 [
     {
+        "id": "10b88e6784",
+        "title_fa": "تحریم جدید خزانه بر خطوط هوایی ایران",
+        "title_en": "Treasury Grounds Iranian Airlines with Sanctions",
+        "summary": [
+            "وزارت خزانه ایالات متحده خطوط هوایی ایران را به فهرست تحریم‌ها افزود",
+            "شرکت‌های هواپیمایی بین‌المللی مجبور به قطع خدمات می‌شوند",
+            "درآمدهای هوایی ایران به‌سرعت کاهش می‌یابد"
+        ],
+        "impact": "پروازهای بین‌المللی ایران به‌طور جدی مختل می‌شود",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Presidential Prayer Team",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2JjOHZUdGJVTFZubERLYXl3WER5U0l2NW4teDhFdWk4WUpCWTBjVHdveTU2QmtSM1dpT1owdlpfd2g3dXl6Ym16cV9TWFJIaWJGVFBMNzNjX2JLNTVLeW0xT2VwbUlyMHlsWUdHUE03NFlvQUVEWV9jLVRmQWxrT1lyb3NNWmtDOGJlMUtiWkRqTWRjR3k2MXBpQ2Noc2I2?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2JjOHZUdGJVTFZubERLYXl3WER5U0l2NW4teDhFdWk4WUpCWTBjVHdveTU2QmtSM1dpT1owdlpfd2g3dXl6Ym16cV9TWFJIaWJGVFBMNzNjX2JLNTVLeW0xT2VwbUlyMHlsWUdHUE03NFlvQUVEWV9jLVRmQWxrT1lyb3NNWmtDOGJlMUtiWkRqTWRjR3k2MXBpQ2Noc2I2",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789203600.0
+    },
+    {
         "id": "d8dfb89a93",
         "title_fa": "پزشکیان: ایران به آمریکا تسلیم نمی‌شود؛ مودی خواستار گفت‌وگو",
         "title_en": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
@@ -479,6 +498,25 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T095921Z_322715747_RC2XGNA2B7KZ_RTRMADP_3_IRAN-CRISIS-SAUDI-PIPELINE-SATELLITE-1789164941.jpg?resize=1920%2C1440",
         "timestamp": 1789179060.0
+    },
+    {
+        "id": "0edbeba3d5",
+        "title_fa": "جنگ آمریکا‑ایران، فشار سیاسی بر ترامپ و پهشکش",
+        "title_en": "Deepening US-Iran War Spells Political Trouble for Trump and Pezeshkian",
+        "summary": [
+            "ترامپ با صدای بلند مخالفان جنگ داخل جناح مگا مواجه شد و میانه‌دوره انتخابات فشار می‌شود",
+            "پهشکش با دفاع از دیپلماسی سعی دارد بین دولت سخت‌گیر و مردم خسته تعادل برقرار کند",
+            "سخت‌گیران هر دو کشور برای سرنگونی رئیسان فشار می‌آورند"
+        ],
+        "impact": "نتیجه‌گیری انتخابات میانی می‌تواند مسیر جنگ و تحریم‌ها را عوض کند",
+        "tag": "سیاست",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/deepening-us-iran-war-spells-political-trouble-for-trump-and-pezeshkian-12415932",
+        "clean_url": "https://www.newsweek.com/deepening-us-iran-war-spells-political-trouble-for-trump-and-pezeshkian-12415932",
+        "image": "http://www.bing.com/th?id=ONUT.CEMBkbHUpAKpJF2gKHcKog&pid=News",
+        "timestamp": 1789178400.0
     },
     {
         "id": "9491352bc8",
@@ -5440,43 +5478,5 @@
         "clean_url": "https://www.iranintl.com/2026091154880",
         "image": "http://www.bing.com/th?id=ONUT.2a8cmjEYpP1hctl-kpJeIw&pid=News",
         "timestamp": 1789059600.0
-    },
-    {
-        "id": "53e032d295",
-        "title_fa": "تهدیدهای تکراری ترامپ به نابودی ایران",
-        "title_en": "Trump’s repeated threats to ‘wipe out’ Iran are normalizing mass violence | Mohamad Bazzi",
-        "summary": [
-            "ترامپ بارها گفت می‌خواهد ایران را «پاک‌سازی» کند؛ این حرف‌ها در رسانه‌های غربی به عادت بدل شده.",
-            "بیان چنین تهدیدها فضای خشونت‌پذیری را تقویت می‌کند و می‌تواند به اقدام‌ها نیابتی منجر شود."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک و احتمال واکنش نظامی منطقه‌ای.",
-        "tag": "تهدید",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "theguardian.com",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zVVRpVlZNdEtUOENUTENwZHktbDA0RzhwaGZmTzRyOXRpZ1l6S1puZnRUbFd1SmdpV3VaSy04bGcxVGtpRGJsb001SkpQVUlZRHVuV19nYlppdjZYVXVmWTd1bjRoel9tYUE0UWEwT0xIM3ZuOVowUWdPLWpTUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zVVRpVlZNdEtUOENUTENwZHktbDA0RzhwaGZmTzRyOXRpZ1l6S1puZnRUbFd1SmdpV3VaSy04bGcxVGtpRGJsb001SkpQVUlZRHVuV19nYlppdjZYVXVmWTd1bjRoel9tYUE0UWEwT0xIM3ZuOVowUWdPLWpTUQ",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789059060.0
-    },
-    {
-        "id": "bbea018240",
-        "title_fa": "تورم و قیمت بنزین در اثر جنگ ایران بالا می‌رود",
-        "title_en": "Inflation and gas prices on the rise amid Iran conflict",
-        "summary": [
-            "تحریم‌های ناشی از درگیری، واردات سوخت را محدود کرده و قیمت بنزین را به‌سختی می‌کشد",
-            "هزینه‌های انرژی بالاتر، فشار مستقیم بر سبد خانوارها ایجاد می‌کند",
-            "افزایش عمومی قیمت‌ها باعث تشدید تورم می‌شود و قدرت خرید را کاهش می‌دهد",
-            "ناآرامی‌های اقتصادی می‌تواند موج جدیدی از اعتراضات را برانگیزد"
-        ],
-        "impact": "قیمت‌های بالاتر انرژی فشار بر کیف پول مردم می‌افزاید و احتمال بروز ناآرامی‌های اجتماعی را بالا می‌برد",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "wral.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT2N3N3JNcG1oNDVrTXlmOXVYNm4zQUxlVGtWdWZIUE5OYzlmYXJTdmpNNkhmTEphNnNZY2VTTFFDbzI3cDdDLURwbk9obG9GM0NoWG91S0x5UzVwdmh5dGp3ZHJBR0d0MXRUcDNpVExiWkdoeXZaeHRVMXRwd1dNQVFqYUdBV0FubXlwSkZoQUZGYmFRQkhjWXU3cWo?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT2N3N3JNcG1oNDVrTXlmOXVYNm4zQUxlVGtWdWZIUE5OYzlmYXJTdmpNNkhmTEphNnNZY2VTTFFDbzI3cDdDLURwbk9obG9GM0NoWG91S0x5UzVwdmh5dGp3ZHJBR0d0MXRUcDNpVExiWkdoeXZaeHRVMXRwd1dNQVFqYUdBV0FubXlwSkZoQUZGYmFRQkhjWXU3cWo",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789058951.0
     }
 ]
