@@ -1021,6 +1021,26 @@
         "timestamp": 1789161715.073156
     },
     {
+        "id": "5c21335ae0",
+        "title_fa": "ترامپ: هیچ پشیمانی از آغاز جنگ ندارم",
+        "title_en": "Iran live: Trump says he has no regrets about starting war",
+        "summary": [
+            "اظهار نظر ترامپ تنش‌های آمریکا‑ایران را به اوج می‌برد",
+            "بی‌پشیمانی او می‌تواند فشار تحریمی یا عملیات نظامی را تقویت کند",
+            "این ریتوریک ممکن است واکنش‌های داخلی ایران را به اعتراض یا تقویت حوثی‌ها تحریک کند",
+            "بدون پشتوانه نظامی، احتمال وقوع جنگ واقعی همچنان محدود است"
+        ],
+        "impact": "احتمال اعمال تحریم‌های سنگین‌تر و افزایش فشار دیپلماتیک بر ایران",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-trump-says-he-has-no-regrets-about-starting-war/ar-AA2bZyWG",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-trump-says-he-has-no-regrets-about-starting-war/ar-AA2bZyWG",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789161600.0
+    },
+    {
         "id": "a55ca1d868",
         "title_fa": "بزرگ‌ترین بازی‌های هفته دوم با اثر بر پلی‌آف",
         "title_en": "Five Week 2 games with biggest College Football Playoff impact",
@@ -5445,24 +5465,5 @@
         "clean_url": "https://www.msn.com/en-au/news/other/no-1-jared-kushner-and-ivanka-trump-remembering-who-brought-the-hostages-home/ar-AA2bYfKi",
         "image": "https://www.bing.com/th?id=ONUT.z1Csrsg39IoXioqPrc5o0Q",
         "timestamp": 1789065835.5051694
-    },
-    {
-        "id": "518e456de7",
-        "title_fa": "سیاست‌های ترامپ و تضاد با وعده‌هایش",
-        "title_en": "Trump’s Policy Choices Hurt The Economy And Contradict His Promises",
-        "summary": [
-            "تحلیل‌گران می‌گویند سیاست‌های اقتصادی ترامپ باعث تورم و نرخ بهره بالا شده است",
-            "حملات به سوسیالیسم و محدود کردن تجارت، وعده‌های شغلی او را زیر سؤال می‌برد",
-            "این اختلاف بین شعار و عمل، اعتماد سرمایه‌گذاران را کاهش می‌دهد"
-        ],
-        "impact": "کاهش رشد اقتصادی و افزایش نارضایتی عمومی در ایالات متحده",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/howardgleckman/2026/09/10/trumps-policy-choices-hurt-the-economy-and-contradict-his-promises/",
-        "clean_url": "https://www.forbes.com/sites/howardgleckman/2026/09/10/trumps-policy-choices-hurt-the-economy-and-contradict-his-promises",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789065512.1150596
     }
 ]
