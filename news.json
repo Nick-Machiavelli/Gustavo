@@ -2182,6 +2182,25 @@
         "timestamp": 1789160694.0
     },
     {
+        "id": "e1080d1192",
+        "title_fa": "ترامپ ناتو را عدم مشارکت در جنگ ایران نکوهش کرد",
+        "title_en": "Trump Trashes NATO Over Refusal To Join Iran War: 'Why The Hell Are We Helping Them?'",
+        "summary": [
+            "ترامپ در سخنرانی خود ناتو را به عدم کمک به ایالات متحده در کنترل هرمز سرزنش کرد و به‌وضوح نارضایتی‌اش را نسبت به سیاست‌های اروپایی ابراز نمود.",
+            "این اظهارات می‌تواند فشار داخلی بر دولت آمریکا برای اتخاذ رویکرد تک‌جانبه در قبال ایران را افزایش دهد و همبستگی ناتو را تحت فشار قرار دهد.",
+            "اگرچه به‌نظر می‌رسد سخنرانی بیشتر رنج‌تجربی باشد، اما پیام‌اش می‌تواند به ایران اطمینان بدهد که فشارهای نظامی غربی ممکن است کمتر شود."
+        ],
+        "impact": "کاهش احتمال هماهنگی نظامی ناتو با آمریکا در خلیج هرمز و افزایش تنش‌های دیپلماتیک منطقه‌ای",
+        "tag": "ناتو",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-trashes-nato-over-refusal-194310391.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-trashes-nato-over-refusal-194310391.html",
+        "image": "https://www.bing.com/th?id=ONUT.beXE0xJ6z1E8Ky53iyyvLg",
+        "timestamp": 1789159812.0
+    },
+    {
         "id": "c5548309e0",
         "title_fa": "خبر بین‌المللی — ایران live: Saudi oil pipeline 'در fire' as attacks ramp up",
         "title_en": "Iran live: Saudi oil pipeline 'on fire' as attacks ramp up in region",
@@ -5485,24 +5504,5 @@
         "clean_url": "https://www.firstpost.com/world/west-asia-crisis-puts-key-oil-route-in-crosshairs-as-saudi-shuts-pipeline-after-houthis-seize-red-sea-island-14045139.html",
         "image": "https://www.bing.com/th?id=ONUT.Gy-lQYyJJe94fb4Itq_GiA",
         "timestamp": 1789090807.0
-    },
-    {
-        "id": "4fdd102ecf",
-        "title_fa": "عربستان پس از تصرف جزیره حوثی‌ها خط لوله نفتی می‌بند",
-        "title_en": "Saudi Arabia shuts major oil pipeline as Houthis seize island in key strait",
-        "summary": [
-            "حمله حوثی‌ها به جزیره باب‌ال‌مندب باعث بسته شدن خط لوله کلیدی صادرات نفتی عربستان شد.",
-            "این اقدام عرضه نفت سعودی را کاهش داده و می‌تواند قیمت جهانی را بالا ببرد.",
-            "استراتژی ایران برای افزایش قیمت نفت از طریق حمایت از حوثی‌ها تقویت می‌شود."
-        ],
-        "impact": "کاهش صادرات نفتی عربستان، فشار بر قیمت جهانی و تقویت استراتژی ایران برای بالا بردن قیمت‌ها",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "1News",
-        "url": "https://www.1news.co.nz/2026/09/12/iran-backed-houthis-seize-island-in-key-strait-opening-new-front-in-war/",
-        "clean_url": "https://www.1news.co.nz/2026/09/12/iran-backed-houthis-seize-island-in-key-strait-opening-new-front-in-war",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/yemens-houthi-rebels-march-during-a-mobilization-campaign-in-AQNQ3A53IBEKVE4S4JP6FM6VZA.jpg?auth=b666a18e220df29d531fe17a589ad51b730c7ed1427b5ec8c89fd3eb9b50b144&quality=70&width=600&height=315&focal=1578,1052",
-        "timestamp": 1789090440.0
     }
 ]
