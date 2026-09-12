@@ -1,5 +1,24 @@
 [
     {
+        "id": "f63341535a",
+        "title_fa": "هند در برکس: انتقاد از حملات آمریکا/اسرائیل به ایران",
+        "title_en": "Will Delhi Dare Call Out America On Iran At Brics?",
+        "summary": [
+            "هند در اجلاس برکس به‌صراحت حملات هوایی آمریکا و اسرائیل به ایران را محکوم کرد",
+            "این موضع، هم‌راستا با بیانیهٔ مشترک SCO دربارهٔ تعهد به صلح در خاورمیانه است",
+            "هند سعی دارد بین ایالات متحده و چین تعادل حفظ کند و در عین حال نقش فعال در گروه‌های چندجانبه داشته باشد"
+        ],
+        "impact": "تقویت موقعیت دیپلماتیک هند در برکس و SCO، فشار بیشتر بر سیاست‌های آمریکا در خاورمیانه",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Deccan Chronicle",
+        "url": "https://www.deccanchronicle.com/opinion/columnists/will-delhi-dare-call-out-america-on-iran-at-brics-1986879",
+        "clean_url": "https://www.deccanchronicle.com/opinion/columnists/will-delhi-dare-call-out-america-on-iran-at-brics-1986879",
+        "image": "https://www.bing.com/th?id=ONUT.9GdZ57u0ZaiPuMazZGjJVw",
+        "timestamp": 1789179194.8103065
+    },
+    {
         "id": "85ec3f3184",
         "title_fa": "خبر بین‌المللی — ELAM: Rates و crude در rise",
         "title_en": "ELAM: Rates and crude on the rise",
@@ -2498,6 +2517,42 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-backed-houthis-take-effective-control-of-key-red-sea-chokepoint/ar-AA2c1sNi",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789097100.0
+    },
+    {
+        "id": "3efcb779cd",
+        "title_fa": "سعودی‌ها خط لوله نفتی را بسته‌اند",
+        "title_en": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+        "summary": [
+            "حمله حوثی‌ها به کشتی‌های دریایی در دریای سرخ باعث بسته شدن خط لوله شرقی سعودی شد",
+            "بسته شدن خط لوله ۱٫۲ میلیون بشکه در روز، عرضه نفت خاورمیانه را به‌صورت ناگهانی کاهش می‌دهد",
+            "حملات حوثی به مسیرهای حمل‌ونقل انرژی، فشار بر قیمت جهانی نفت را بالا می‌برد"
+        ],
+        "impact": "کاهش فوری عرضه نفت و افزایش هزینه حمل‌ونقل، نوسان قیمت‌های انرژی در بازارهای بین‌المللی",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/general/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping/ar-AA2c3iwx?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping/ar-AA2c3iwx",
+        "image": "https://www.bing.com/th?id=ONUT.ZF7pgOjxdjjNKeTQW7gs6A",
+        "timestamp": 1789092787.0
+    },
+    {
+        "id": "fbed62160d",
+        "title_fa": "خبر بین‌المللی — Oil routes در peril as attacks shut Saudi pipeline و حوثی‌ها",
+        "title_en": "Oil routes in peril as attacks shut Saudi pipeline and Houthis threaten key waterway",
+        "summary": [
+            "\"This is the first day that Iran really started winning the war,\" a Yemeni official said of Houthi territorial gains that give Tehran leverage over a second major waterway."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/oil-routes-in-peril-as-attacks-shut-saudi-pipeline-and-houthis-threaten-key-waterway/ar-AA2c1cYk?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/oil-routes-in-peril-as-attacks-shut-saudi-pipeline-and-houthis-threaten-key-waterway/ar-AA2c1cYk",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789092787.0
     },
     {
         "id": "5d087d9b49",
@@ -5375,61 +5430,5 @@
         "clean_url": "https://www.indiatoday.in/world/video/brics-must-expand-national-currency-use-and-build-resilient-trade-ties-ytvd-2992613-2026-09-11",
         "image": "https://www.bing.com/th?id=ONUT.eWiDaLaqlkYA5FUJ8UocZQ",
         "timestamp": 1789048985.0
-    },
-    {
-        "id": "745991e83d",
-        "title_fa": "ترامپ جنگ نیم‌کره‌ای را به جرم خیابانی می‌داند",
-        "title_en": "Trump is treating a hemispheric war like street crime — Israel knows better",
-        "summary": [
-            "ترامپ بحران‌های منطقه‌ای را به‌عنوان جرایم خیابانی توصیف می‌کند، در حالی که ریسک واقعی نظامی بالاست",
-            "این بیانیه نشان می‌دهد که دولت آمریکا هنوز به‌درستی تهدیدات استراتژیک را ارزیابی نمی‌کند",
-            "احتمال تضعیف روابط با کشورهای آمریکای لاتین و تقویت رقیبان منطقه‌ای"
-        ],
-        "impact": "بیان ترامپ می‌تواند سیاست‌های منطقه‌ای آمریکا را بی‌ثبات کند و روابط با لاتین‌امریکا را تضعیف کند",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/trump-is-treating-a-hemispheric-war-like-street-crime-israel-knows-better/ar-AA2bX7wj?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/trump-is-treating-a-hemispheric-war-like-street-crime-israel-knows-better/ar-AA2bX7wj",
-        "image": "https://www.bing.com/th?id=ONUT.7VxnBoCY5udwNHx42tdBMA",
-        "timestamp": 1789048983.477665
-    },
-    {
-        "id": "71449a437b",
-        "title_fa": "حوثی‌ها به‌سرعت کنترل استراتژیک باب‌ال‌مندب را به‌دست می‌گیرند",
-        "title_en": "Iran-backed Houthis sweep toward sudden control over key strait, imperiling global trade",
-        "summary": [
-            "حرکت حوثی‌ها به‌سرعت به‌دست گرفتن استراتژیک است و خطر بسته شدن مسیر مهم تجاری را ایجاد می‌کند",
-            "این اقدام فشار بین‌المللی بر ایران را افزاش می‌دهد و احتمال تحریم‌های جدید را به‌همراه دارد",
-            "ناوگان نفتی و تجاری ممکن است مسیرهای طولانی‌تری بپیمایند؛ هزینه حمل‌ونقل به‌طور چشمگیری بالا می‌رود",
-            "نیروی دریایی آمریکا و متحدان احتمالاً حضور نظامی خود را در باب‌ال‌مندب تشدید می‌کنند"
-        ],
-        "impact": "ترافیک کشتی‌های نفتی و تجاری کاهش می‌یابد و هزینه حمل‌ونقل به‌طور قابل‌توجهی افزایش می‌یابد",
-        "tag": "دریایی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaG50aHhISFBBM3ZtcUJ1UHllRy12QVZFQ1VCMVRHYUxiYl9iSUlKd0kzNk1MUlNJazh5NUZYTm13V3RySE1jMjlHNFh6SGQ1SllMV3d3ZlR2NVJaMmh1MGdLOTlxSnZUdlZOUXFDVGRJWjc1UEwwUm9wOW93dEx4NFRqNk4zRUZzeUJMWGhPUHNlY3JlR190a3Myakg5cWdJRWdTdTdLMzdmRTNkQkdyQmZGb3dJT01DWkxVUTNMVFo?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaG50aHhISFBBM3ZtcUJ1UHllRy12QVZFQ1VCMVRHYUxiYl9iSUlKd0kzNk1MUlNJazh5NUZYTm13V3RySE1jMjlHNFh6SGQ1SllMV3d3ZlR2NVJaMmh1MGdLOTlxSnZUdlZOUXFDVGRJWjc1UEwwUm9wOW93dEx4NFRqNk4zRUZzeUJMWGhPUHNlY3JlR190a3Myakg5cWdJRWdTdTdLMzdmRTNkQkdyQmZGb3dJT01DWkxVUTNMVFo",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789048552.0
-    },
-    {
-        "id": "905d6c7291",
-        "title_fa": "نظرسنجی کوئینیپیاک نشان می‌دهد که رای دهندگان با تغییر نام دریاچه انتاریو ترامپ، طرح سالن رقص و موارد دیگر مخالف هستند.",
-        "title_en": "Quinnipiac poll finds voters oppose Trump’s Lake Ontario rename, ballroom plan and more",
-        "summary": [
-            "The national Quinnipiac University poll found voters favor Democrats for House control by 11 percentage points."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TheHour",
-        "url": "https://www.thehour.com/connecticut/article/quinnipiac-poll-trump-lake-ontario-ballroom-issues-22426951.php",
-        "clean_url": "https://www.thehour.com/connecticut/article/quinnipiac-poll-trump-lake-ontario-ballroom-issues-22426951.php",
-        "image": "https://www.bing.com/th?id=ONUT.1kQV43ejSFvosBfQvHVb5w",
-        "timestamp": 1789048231.0
     }
 ]
