@@ -406,6 +406,23 @@
         "timestamp": 1789160694.0
     },
     {
+        "id": "c5548309e0",
+        "title_fa": "خبر بین‌المللی — ایران live: Saudi oil pipeline 'در fire' as attacks ramp up",
+        "title_en": "Iran live: Saudi oil pipeline 'on fire' as attacks ramp up in region",
+        "summary": [
+            "Iran-US war latest: Crucial Saudi oil pipeline ‘on fire’ as Houthis capture island near key shipping route - The Houthis captured a strategic island in the Bab el-Mandeb strait, threatening to bring f..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-saudi-oil-pipeline-on-fire-as-attacks-ramp-up-in-region/ar-AA2bZyWG",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-saudi-oil-pipeline-on-fire-as-attacks-ramp-up-in-region/ar-AA2bZyWG",
+        "image": "http://www.bing.com/th?id=ONUT.eeMd6-BXPk2PHtiJgCK0GQ&pid=News",
+        "timestamp": 1789159264.0
+    },
+    {
         "id": "9db3b97332",
         "title_fa": "تغییر: 25 سال پس از 11 سپتامبر، کشور ما همچنان تحت سلطه \"جنگ علیه تروریسم\" است.",
         "title_en": "The Shift: 25 years after 9/11, our country is still dominated by the “War on Terror”",
@@ -2526,6 +2543,25 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/i-saw-the-us-change-from-the-white-house-911-left-us-in-permanent-emergency/ar-AA2bZp1g",
         "image": "https://www.bing.com/th?id=ONUT.xh6vh4658klLgXk7UrRAvw",
         "timestamp": 1789104163.5666702
+    },
+    {
+        "id": "a1f651c4e9",
+        "title_fa": "آبراه شرق‑غرب سعودی پس از حمله هوایی حوثی‌ها بسته شد",
+        "title_en": "Saudi shuts East-West pipeline as Houthis tighten grip near Bab el-Mandeb",
+        "summary": [
+            "بسته شدن خط لوله صادرات نفت سعودی را کاهش داده و فشار بر قیمت جهانی نفت ایجاد می‌کند",
+            "حوثی‌ها جزایر مایون و موخا را در باب‌ال‌مندب به‌دست آوردند و مسیر بحرین‑مردم را تهدید می‌کنند",
+            "تحریک ایران‑حمایت‌گر حوثی‌ها خطر تشدید تحریم‌ها و واکنش نظامی بین‌المللی را بالا می‌برد"
+        ],
+        "impact": "کاهش صادرات نفت سعودی، نوسان شدید قیمت نفت و تهدید مسیرهای حمل‌ونقل انرژی",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/saudi-east-west-pipeline-shutdown-drone-attack-houthis-seize-mayun-mokha-ptag-2992881-2026-09-12",
+        "clean_url": "https://www.indiatoday.in/world/story/saudi-east-west-pipeline-shutdown-drone-attack-houthis-seize-mayun-mokha-ptag-2992881-2026-09-12",
+        "image": "https://www.bing.com/th?id=ONUT.hNt-oQvT_ddAJBLq7gJB6g",
+        "timestamp": 1789101644.0
     },
     {
         "id": "6a6f99f9df",
@@ -5412,40 +5448,6 @@
         "url": "https://www.msn.com/en-ca/money/economy/us-10-year-borrowing-costs-eye-5-testing-bessent-s-resolve/ar-AA2c2j2Q?ocid=BingNewsVerp",
         "clean_url": "https://www.msn.com/en-ca/money/economy/us-10-year-borrowing-costs-eye-5-testing-bessent-s-resolve/ar-AA2c2j2Q",
         "image": "https://www.bing.com/th?id=ONUT.coS0D63Wp5bENLlAfATBvQ",
-        "timestamp": 1789051848.0
-    },
-    {
-        "id": "62beb3b97c",
-        "title_fa": "معاملات آتی نفت پس از یک رشد بزرگ عقب نشینی کرد",
-        "title_en": "Oil futures pull back after big rally",
-        "summary": [
-            "Oil futures were lower in early U.S. trading, pulling back from nearly four-month highs reached on escalation of the Middle..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/oil-futures-pull-back-after-big-rally/ar-AA2bYLKo?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/oil-futures-pull-back-after-big-rally/ar-AA2bYLKo",
-        "image": "https://www.bing.com/th?id=ONUT.juW35IzFM-OxKMocfq57EA",
-        "timestamp": 1789051848.0
-    },
-    {
-        "id": "1dd3bb2e0f",
-        "title_fa": "با افزایش قیمت گاز به دلیل درگیری در خاورمیانه، تورم ایالات متحده افزایش یافت",
-        "title_en": "US inflation picked up as gas prices marched higher due to conflict in the Middle East",
-        "summary": [
-            "The consumer price index rose 3.4% last month compared with a year ago, the Labor Department said Friday, the same as in July..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Shaw Local",
-        "url": "https://www.shawlocal.com/news/2026/09/11/us-inflation-picked-up-as-gas-prices-marched-higher-due-to-conflict-in-the-middle-east/",
-        "clean_url": "https://www.shawlocal.com/news/2026/09/11/us-inflation-picked-up-as-gas-prices-marched-higher-due-to-conflict-in-the-middle-east",
-        "image": "https://www.bing.com/th?id=ONUT.HLx08o6_RZfNjs6PzwZsag",
         "timestamp": 1789051848.0
     }
 ]
