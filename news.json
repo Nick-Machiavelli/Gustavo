@@ -1,5 +1,25 @@
 [
     {
+        "id": "a5b3b358f5",
+        "title_fa": "ترامپ 9/11 را به جنگ ایران ربط داد",
+        "title_en": "Kaitlan Collins calls out Trump for using 9/11 ceremony to defend Iran war",
+        "summary": [
+            "در مراسم یادبود 9/11، ترامپ جنگ جاری با ایران را توجیه کرد",
+            "بیانیه او می‌تواند فشار دیپلماتیک و تحریم‌های جدید را تشدید کند",
+            "رسانه‌ها و مخالفان به خطر تشدید تنش‌های نظامی هشدار دادند",
+            "اگر این rhetoric به سیاست تبدیل شود، احتمال عملیات نظامی افزایش می‌یابد"
+        ],
+        "impact": "بیانیه می‌تواند مسیر تحریم‌های سخت و احتمال عملیات نظامی علیه ایران را هموار کند",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Mirror US on MSN",
+        "url": "https://www.msn.com/en-us/news/news/kaitlan-collins-calls-out-trump-for-using-9-11-ceremony-to-defend-iran-war/ar-AA2c3t15?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/news/kaitlan-collins-calls-out-trump-for-using-9-11-ceremony-to-defend-iran-war/ar-AA2c3t15",
+        "image": "https://www.bing.com/th?id=ONUT.FYL3GHpLV3L8nQF_Si6fgw",
+        "timestamp": 1789184477.8025172
+    },
+    {
         "id": "10c13857cb",
         "title_fa": "گاوثورپ: ایران به‌دولت هسته‌ای نخواهد شد",
         "title_en": "Gawthorp: Iran would not become just another nuclear state",
@@ -5416,23 +5436,5 @@
         "clean_url": "https://www.iranintl.com/202609119467",
         "image": "https://www.bing.com/th?id=ONUT.WerXiikY6l2wd6z5jOad3g",
         "timestamp": 1789051026.0
-    },
-    {
-        "id": "4844703889",
-        "title_fa": "متن نامفهوم بلاک‌برگ",
-        "title_en": "Oil Climbs as Markets See a Long Iran War",
-        "summary": [
-            "متن ارائه‌شده فقط شامل پیام‌های فنی درباره ربات‌کپچا است و خبری واقعی ارائه نمی‌دهد",
-            "عدم وجود اطلاعات قابل‌استفاده باعث می‌شود این آیتم ارزش تحلیلی نداشته باشد"
-        ],
-        "impact": "عدم وجود محتوا هیچ‌گونه تأثیر عملی یا اقتصادی ندارد",
-        "tag": "فنی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-climbs-as-markets-see-a-long-war-evening-briefing-americas",
-        "clean_url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-climbs-as-markets-see-a-long-war-evening-briefing-americas",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789050960.0
     }
 ]
