@@ -1,5 +1,24 @@
 [
     {
+        "id": "384b2eb2f4",
+        "title_fa": "ترامپ: جنگ ایران «سیب‌زمینی کوچک»",
+        "title_en": "Letter: 18 dead no ‘small potatoes’",
+        "summary": [
+            "ترامپ ادعا می‌کند هزینه ۲ میلیارد دلار روزانه و ۱۸ کشته «سیب‌زمینی کوچک» است",
+            "بی‌توجهی به تلفات نظامی واکنش‌های انتقادی داخلی و بین‌المللی را برانگیخته",
+            "مقایسه با بنغازی نشان‌دهنده نادیده گرفتن ریسک‌های استراتژیک است"
+        ],
+        "impact": "بی‌احترامی به تلفات نظامی می‌تواند فشار داخلی بر دولت آمریکا را افزایش دهد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Times-Tribune",
+        "url": "https://www.thetimes-tribune.com/2026/09/12/letter-18-dead-no-small-potatoes/",
+        "clean_url": "https://www.thetimes-tribune.com/2026/09/12/letter-18-dead-no-small-potatoes",
+        "image": "https://www.thetimes-tribune.com/wp-content/uploads/2024/10/Times-Tribune2.jpg",
+        "timestamp": 1789215986.6519876
+    },
+    {
         "id": "f0bb75274b",
         "title_fa": "خبر بین‌المللی — BRICS Summit 2026: India faces $226 billion deficit problem",
         "title_en": "BRICS Summit 2026: India faces $226 billion deficit problem",
@@ -1361,6 +1380,26 @@
         "timestamp": 1789157028.0
     },
     {
+        "id": "a61a3f978c",
+        "title_fa": "واشننگتن تحریم‌های جدید علیه شبکه‌های حامی ایران",
+        "title_en": "US slaps new sanctions on networks aiding Iran's proxies in Middle East",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا ۱۰ سپتامبر تحریم‌های جدید علیه شرکت‌ها و افراد در عراق، لبنان و ترکیه اعمال کرد",
+            "هدف قطع منابع مالی حماس، حزب‌الله و دیگر نیابتی‌های ایران است",
+            "این تحریم‌ها بخشی از «عملیات خروج اقتصادی» برای مهار برنامه هسته‌ای و موشکی تهران است",
+            "یک شهروند آمریکایی با پرداخت ۱.۴۳ میلیون دلار تسویه‌حساب کرد"
+        ],
+        "impact": "محدود شدن دسترسی مالی به گروه‌های نیابتی ایران می‌تواند توان عملیات نظامی و سایبری آن‌ها را تضعیف کند",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/middle-east/us-slaps-new-sanctions-on-networks-aiding-irans-proxies-in-middle-east",
+        "clean_url": "https://www.straitstimes.com/world/middle-east/us-slaps-new-sanctions-on-networks-aiding-irans-proxies-in-middle-east",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/23c26541c0f537dc2b401aa1d57ca6dd39b8bd5067f2a4bed0a44e34eac9fb0d",
+        "timestamp": 1789156080.0
+    },
+    {
         "id": "54044c30cc",
         "title_fa": "برگزاری دومین اجلاس برکس در دهلی، چالش‌های هم‌نظر",
         "title_en": "More heft: on India and the 18th BRICS Summit",
@@ -2404,6 +2443,26 @@
         "timestamp": 1789129739.3229883
     },
     {
+        "id": "b6d0a8280f",
+        "title_fa": "کاهش کمک‌های نظامی آمریکا به اسرائیل، خطر بر سر اردن و مصر",
+        "title_en": "If the US cuts funding to Israel, could Jordan and Egypt be next?",
+        "summary": [
+            "کنگره آمریکا در حال بررسی کاهش یا قطع کمک‌های نظامی به اسرائیل است",
+            "تحلیل‌گران هشدار می‌دهند این تصمیم می‌تواند فشار مالی بر کشورهای همسایهٔ عربی مانند اردن و مصر را افزایش دهد",
+            "این تغییر ممکن است تعادل قدرت در خاورمیانه را دگرگون کند",
+            "هنوز تصمیم نهایی تصویب نشده و وابسته به مذاکرات داخلی است"
+        ],
+        "impact": "کاهش کمک‌های نظامی آمریکا به اسرائیل می‌تواند ثبات امنیتی در شرق میانه را به‌خطر بیندازد",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/if-the-us-cuts-funding-to-israel-could-jordan-and-egypt-be-next/ar-AA2c4Dj4?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/if-the-us-cuts-funding-to-israel-could-jordan-and-egypt-be-next/ar-AA2c4Dj4",
+        "image": "https://www.bing.com/th?id=ONUT.EDCwpL8P47XIK1CAWG8fQA",
+        "timestamp": 1789129580.0
+    },
+    {
         "id": "ca62b63890",
         "title_fa": "آمریکا و ایران بر سر تمدید دو هفته آتش بس خود می‌اندیشند",
         "title_en": "US and Iran Weigh Extending Their Ceasefire by Two Weeks",
@@ -2743,6 +2802,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEIwVE8tUnoyMWlXY0wzSElpTEFLVms2RGQ0Uk5GWTVQLWdfeGJTWENMMDJZb0pUdW4zNjVBdThoal9CMjk5b3E5VHA5V2ZPdS1rVnhOR1NjaDBrOEJuZW5ybllQS0wtWWVsS2Y1THdOaHcwdkZiQ0QxdVZ2eE1ZNWRiLUw0eExYeXJsT2ItMUxfbnJSNUZXNXFFX1lNZGg1Smp5OE9WYmx3aFF20gGyAUFVX3lxTE12V0VzS015YzVxeExJa1AxbGVCVEdGVkhOM1UxUU5Mb19VVjdURlppTW9QVVlITHNwOVVGU3J1blM1ZUYtc0FJTXkzUjFzc3VPWmw1RVFQYW5vRVMtV3hkQmhPRlZKcGxoRnphRUFMeGxRRk5adnhxM1dVYlJtQXZjN2x5OXQ3TDJ3bVlxZC1qSk5hOGVzYmF0UDFmaDJaTE1WSVBUeVhIUmRIdzBTWUxNc2c",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789123558.0
+    },
+    {
+        "id": "d6fd4603c4",
+        "title_fa": "حوثی‌ها جزیره‌ای در دریای سرخ به‌دست آوردند",
+        "title_en": "Iran war news Highlights: Yemen's Houthis seize Red Sea island in new threat to global shipping",
+        "summary": [
+            "حوثی‌ها به‌سرعت به جزیره موخا نزدیک باب‌ال‌مندب پیشروی کردند",
+            "قیمت نفت برنت به ۱۰۸ دلار رسید، بزرگ‌ترین افزایش هفتگی از ژوئیه",
+            "ترامپ اعلام کرد از جنگ ایران «پشیمان نیست»",
+            "این تحولات خطر اختلال شدید در مسیرهای حمل‌ونقل نفت را افزایش می‌دهد"
+        ],
+        "impact": "اختلال در عبور نفت از دریای سرخ می‌تواند هزینه‌های انرژی جهانی را چند برابر کند",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": 0.0,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/us-news/iran-war-news-latest-live-updates-donald-trump-us-midterm-elections-strait-of-hormuz-abbas-araghchi-tehran-oman-11789087614651.html",
+        "clean_url": "https://www.livemint.com/news/us-news/iran-war-news-latest-live-updates-donald-trump-us-midterm-elections-strait-of-hormuz-abbas-araghchi-tehran-oman-11789087614651.html",
+        "image": "http://www.bing.com/th?id=ONUT.Apipx6xPA13iTFugLrnPEA&pid=News",
+        "timestamp": 1789123500.0
     },
     {
         "id": "d41b4d549a",
@@ -5396,75 +5475,5 @@
         "clean_url": "https://www.nzherald.co.nz/world/trumps-us5000-election-payout-is-it-illegal-reckless-or-both/CHDFVMUW7JD6ZECHCE7MS77GHE",
         "image": "https://www.bing.com/th?id=ONUT.3vQEeK_EsdiIYFOQNnrj6w",
         "timestamp": 1789069624.9211178
-    },
-    {
-        "id": "f33a5c06af",
-        "title_fa": "ترامپ در مراسم ۲۵ سالگی ۱۱ سپتامبر غیبت کرد",
-        "title_en": "America marks the 25th anniversary of the September 11 attacks",
-        "summary": [
-            "ترامپ به جای حضور در نیویورک، در پنتاگون تشییع جنازه کرد؛ این حرکت نشانگر جدایی سیاسی از قربانیان است.",
-            "غیبت او در مراسم ملی، واکنش‌های انتقادی خانواده‌های قربانیان و رسانه‌ها را برانگیخت."
-        ],
-        "impact": "حضور ترامپ در پنتاگون پیام‌دار عدم همدلی با قربانیان و تقویت روایت‌سازهای مخالف است",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "NZ Herald",
-        "url": "https://www.nzherald.co.nz/world/america-marks-the-25th-anniversary-of-the-september-11-attacks/2GUO2H6535D4JBNRXHNOB77KOQ/",
-        "clean_url": "https://www.nzherald.co.nz/world/america-marks-the-25th-anniversary-of-the-september-11-attacks/2GUO2H6535D4JBNRXHNOB77KOQ",
-        "image": "https://www.nzherald.co.nz/resizer/v2/GVSCLX3RUJFIVDJECW6JFNUOTM.jpg?auth=ccb3f2871c6c1d27bfc56a742c8412a3e48f038769d8eb65477e3c1762a73243&width=1200&height=675&quality=70&focal=2499%2C1968&smart=false",
-        "timestamp": 1789069614.0
-    },
-    {
-        "id": "dbcc377a78",
-        "title_fa": "تورم آگوست با سقوط قیمت بنزین ثابت می‌ماند",
-        "title_en": "August inflation likely held at three per cent as oil prices fell: economists",
-        "summary": [
-            "اقتصاددانان پیش‌بینی می‌کنند تورم در آگوست حدود ۳٪ باقی بماند؛ کاهش قیمت گازوئیل نقش کلیدی دارد.",
-            "ثبات تورم فشار بر بانک مرکزی برای ادامه سیاست‌های سختگیرانه را حفظ می‌کند."
-        ],
-        "impact": "ثبات تورم باعث می‌شود سیاست‌گذاران پولی با کمترین فشار تصمیم‌گیری کنند",
-        "tag": "ارز",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The Canadian Press on MSN",
-        "url": "https://www.msn.com/en-ca/money/economy/august-inflation-likely-held-at-three-per-cent-as-oil-prices-fell-economists/ar-AA2c2OI9?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/money/economy/august-inflation-likely-held-at-three-per-cent-as-oil-prices-fell-economists/ar-AA2c2OI9",
-        "image": "https://www.bing.com/th?id=ONUT.EadLNX1ZqDVBUHmksObEgw",
-        "timestamp": 1789069614.0
-    },
-    {
-        "id": "6c8215e19a",
-        "title_fa": "خبر بین‌المللی — Crude Prices Sharply Higher در Global Supply Worries",
-        "title_en": "Crude Prices Sharply Higher on Global Supply Worries",
-        "summary": [
-            "October WTI crude oil (CLV26 ) closed up +6.43 (+6.69%) on Thursday, and October RBOB gasoline (RBV26 ) closed up +0.1826 (+5.69%). Crude oil and..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Barchart · via Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/crude-prices-sharply-higher-global-191543945.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-sharply-higher-global-191543945.html",
-        "image": "https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0.jpg",
-        "timestamp": 1789069297.0
-    },
-    {
-        "id": "42c5c74a17",
-        "title_fa": "خبر بین‌المللی — حوثی‌ها advance along Yemeni coast, threaten Saudi oil expor",
-        "title_en": "Houthis advance along Yemeni coast, threaten Saudi oil exports in the Red Sea",
-        "summary": [
-            "Saudi Arabia, the world's largest oil exporter, has relied on the Red Sea route since the Iran conflict effectively closed Hormuz, through which a fifth of global oil used to flow. CAIRO/WASHINGTON/DUBAI: Iran-aligned Houthis seized control of Yemen's port city of Mocha on Thursday and advanced down the Red Sea coast to strategic islands,"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "asiainsurancepost",
-        "url": "https://asiainsurancepost.com/archives/83734",
-        "clean_url": "https://asiainsurancepost.com/archives/83734",
-        "image": "https://asiainsurancepost.com/wp-content/uploads/2024/04/Houthi-Red-sea-scaled.jpg",
-        "timestamp": 1789068900.0
     }
 ]
