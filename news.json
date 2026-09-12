@@ -719,6 +719,25 @@
         "timestamp": 1789172269.975775
     },
     {
+        "id": "18c91d8418",
+        "title_fa": "ایران به‌دلیل ردگیری اورانیوم به شورای امنیت ارجاع شد",
+        "title_en": "Iran faces new nuclear pressure from IAEA",
+        "summary": [
+            "آی‌اِی‌ئی‌ای برای اولین بار در ۲۰ سال ایران را به شورای امنیت ارجاع داد و عدم همکاری تهران را محکوم کرد",
+            "کشورهای غربی ردگیری اورانیوم را نشانه‌ای از برنامه سلاح هسته‌ای مخفی تا ۲۰۰۳ می‌دانند؛ ایران این ادعا را رد می‌کند",
+            "تحریم‌های جدید محتمل است اما روسیه و چین به‌عنوان اعضای دائم می‌توانند ویتو کنند"
+        ],
+        "impact": "فشار دیپلماتیک بر ایران بالا می‌رود و ریسک تحریم‌های جدید به‌خصوص مالی افزایش می‌یابد",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Malaysia Sun",
+        "url": "https://www.malaysiasun.com/news/279299211/iran-faces-new-nuclear-pressure-from-iaea",
+        "clean_url": "https://www.malaysiasun.com/news/279299211/iran-faces-new-nuclear-pressure-from-iaea",
+        "image": "https://image.chitra.live/api/v1/wps/399e513/adf22119-ec2f-4766-ab71-62e19e4438b7/1/6-Iran-nuclear-600x315.jpg",
+        "timestamp": 1789171260.0
+    },
+    {
         "id": "96104d308e",
         "title_fa": "کلینک: ۲۵ سال پس از ۹/۱۱، درس‌های سیاسی نادیده‌مانده",
         "title_en": "Political aftershock of Sept 11 attacks still felt: Clark",
@@ -5446,23 +5465,6 @@
         "url": "https://legis1.com/news/iran-escalation-threat-senate-intelligence",
         "clean_url": "https://legis1.com/news/iran-escalation-threat-senate-intelligence",
         "image": "https://www.bing.com/th?id=ONUT.yiaikO3vdiRmXnhrZyEToQ",
-        "timestamp": 1789062018.0
-    },
-    {
-        "id": "c6de553bb0",
-        "title_fa": "پزو در پایین ترین رکورد جدید؛ سهام سقوط می‌کند",
-        "title_en": "Peso at new record low; stocks fall",
-        "summary": [
-            "THE Philippine peso closed at a fresh record low of P62.68 against the US dollar on Friday, while Philippine shares fell as..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Manila Times on MSN",
-        "url": "https://www.msn.com/en-ph/money/economy/peso-at-new-record-low-stocks-fall/ar-AA2c2fnt?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ph/money/economy/peso-at-new-record-low-stocks-fall/ar-AA2c2fnt",
-        "image": "https://www.bing.com/th?id=ONUT.ICcU5PPg6swsBBySWq1gLg",
         "timestamp": 1789062018.0
     }
 ]
