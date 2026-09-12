@@ -1,5 +1,24 @@
 [
     {
+        "id": "c943f7cef6",
+        "title_fa": "حمله آمریکا به لامرد: جرم جنگی شناخته شد",
+        "title_en": "US attacks on Lamerd a clear case of war crime: Iran",
+        "summary": [
+            "آمریکا در ۲۸ فوریه چهار موشک را در ۳۵ ثانیه به شهر ۳۰٬۰۰۰ نفری لامرد فرستاد؛ هدف‌گیری ورزشگاه، مدرسه و محله‌های مسکونی.",
+            "سخنگوی وزارت خارجه ایران اعلام کرد سلاح‌های ممنوع و موشک خوشه‌ای به‌کار رفته و این کار را جرم جنگی می‌داند.",
+            "۲۱ کشته و نزدیک به ۱۸۰ مصدوم؛ ایران انتظار دارد جامعه بین‌المللی به این حمله واکنش نشان دهد."
+        ],
+        "impact": "ادعای جرم جنگی می‌تواند فشار دیپلماتیک و تحریم‌های جدید علیه آمریکا را تقویت کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "presstv",
+        "url": "https://www.presstv.co.uk/Detail/2026/09/12/776164/Iran-Baghaei-Lamerd-attacks-US-war-crime",
+        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/12/776164/Iran-Baghaei-Lamerd-attacks-US-war-crime",
+        "image": "https://www.bing.com/th?id=ONUT.bjANMAVadGDaTCKEStJJ4A",
+        "timestamp": 1789226479.0128481
+    },
+    {
         "id": "c5fb413617",
         "title_fa": "خبر بین‌المللی — Andy Burnham و Ed Miliband don't know who's side they're در",
         "title_en": "Andy Burnham and Ed Miliband don't know who's side they're on",
@@ -106,6 +125,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObzZodThaODU2ZGlvWktpeXVlR2tUd1psMS1pN2FkUk05QXpHdFh5cXRidzhZR0xHZ2lqZU4zVHFQVm96MGFsSnJRN1dkaEpDWG82c016X1JOOWtob09QTEs2UG0wU2o5eW9peG90aVNVOFlNV3Z5UU9JWTA1UXA2Z1RrMG5VWkE3cUQ3SEl6YURmWGVEendKdFk1VVdzQ1gxV3o1eWt3Q3RFa2FDX01yUzRJSmNrTjVTeUg4YUs4VHVMTVI3UjIxTGJHRUw3OG8",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789219200.0
+    },
+    {
+        "id": "088212473d",
+        "title_fa": "بحرین از حضور در نشست هرمز با ایران خودداری می‌کند",
+        "title_en": "Bahrain says it won’t attend any Hormuz meeting with Iran",
+        "summary": [
+            "بحرین اعلام کرد در هیچ نشست دیپلماتیک هرمز با حضور ایران شرکت نخواهد کرد.",
+            "این تصمیم پس از فشارهای منطقه‌ای و نگرانی از گسترش تنش‌های هسته‌ای اتخاذ شده است.",
+            "عدم حضور بحرین مانع دیالوگ منطقه‌ای می‌شود و احتمال تشدید تنش‌های خلیج فارس را افزایش می‌دهد."
+        ],
+        "impact": "عدم حضور بحرین در نشست هرمز مانع دیالوگ منطقه‌ای می‌شود و تنش خلیج فارس را تشدید می‌کند.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdzZINkRnNl9KS016TGlIZm1GbWpkSlZOclVaVGdiMXFrdlRXVGZuVFVwek9UU3VFTWh1WkQyYmZmNFhSTjYtZENCLUxMVUtRSTIwU1dpT1FtUzBCa1gyUEs5UkIzQVVydTd2NlMtbXc5ckh3WGxXRENhSTJNVWF3SUxMem5TUl94cDREUlpaZ1hPdjlBVGRsSk12MG54YWtUV2syTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdzZINkRnNl9KS016TGlIZm1GbWpkSlZOclVaVGdiMXFrdlRXVGZuVFVwek9UU3VFTWh1WkQyYmZmNFhSTjYtZENCLUxMVUtRSTIwU1dpT1FtUzBCa1gyUEs5UkIzQVVydTd2NlMtbXc5ckh3WGxXRENhSTJNVWF3SUxMem5TUl94cDREUlpaZ1hPdjlBVGRsSk12MG54YWtUV2syTw",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789218788.0
     },
     {
         "id": "8038ea558b",
@@ -5443,41 +5481,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/yemens-iranian-backed-houthis-seize-an-island-in-a-key-strait-opening-a-new-front-in-the-iran-war/ar-AA2c0gyU",
         "image": "https://www.bing.com/th?id=ONUT.Xn0wMg_e5v3BDdfNHLQCUw",
         "timestamp": 1789078367.0
-    },
-    {
-        "id": "701476e85e",
-        "title_fa": "ترامپ: جنگ ایران پس از انتخابات می‌پایید",
-        "title_en": "The Trump show: A $5,000 promise, a war without an end and a trillion-dollar question | The verdict",
-        "summary": [
-            "ترامپ وعده داد جنگ با ایران بلافاصله پس از میانه‌دوره نوامبر تمام می‌شود؛ این ادعا بدون هیچ برنامه عملی است.",
-            "او برای جذب رأی‌داران، وعدهٔ ۵٬۰۰۰ دلاری به آمریکایی‌ها می‌دهد و به‌نظر می‌رسد سیاست خارجی را به ابزار انتخاباتی تبدیل کرده."
-        ],
-        "impact": "بی‌پایه بودن این وعده می‌تواند فشار دیپلماتیک بر مذاکرات هسته‌ای را افزایش دهد و انتظارات نادرست در میان مردم ایجاد کند.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "WION on MSN",
-        "url": "https://www.msn.com/en-in/news/other/the-trump-show-a-5000-promise-a-war-without-an-end-and-a-trillion-dollar-question-the-verdict/ar-AA2bYmAv?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/the-trump-show-a-5000-promise-a-war-without-an-end-and-a-trillion-dollar-question-the-verdict/ar-AA2bYmAv",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789078336.896203
-    },
-    {
-        "id": "a4a7abc7bc",
-        "title_fa": "وایت‌هاوس ویدیوهای ترکیبی جنگ ایران را منتشر کرد",
-        "title_en": "White House posts so-called 'hype' videos combining real Iran war footage alongside movie, video game clips - ABC News",
-        "summary": [
-            "وایت‌هاوس با ترکیب صحنه‌های واقعی جنگ ایران و کلیپ‌های فیلم و بازی، سعی در ایجاد هیجان‌زدگی در مخاطبان دارد.",
-            "استفاده از این روش می‌تواند باور عمومی را نسبت به درگیری‌های خاورمیانه مخدوش کند."
-        ],
-        "impact": "افزایش تنش‌های اطلاعاتی بین آمریکا و ایران، کاهش اعتماد به گزارش‌های رسمی",
-        "tag": "اطلاع‌رسانی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAyY0FXd2RlMlRnQWFp0gGmAUFVX3lxTFBiOXlWck42MkJWNjhKWDVDQWZXVGdLNm94cEU4b2ZJdlkxWFVyVWJpQkppenhGeW1JWGpESDh4UDFTS2s3WS1qa0c2cXJXLTlWa0pnd2pjZ19WcVZFaFhxRDZqNkI4QURjSGpDd0JUQ1lXSGY0Y3hGRVJrNUQyLUlzeEpTNmVwZmhobmZDeHlsWVk2NktDNEdwWXA2Uld5Z0JBUkhWVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAyY0FXd2RlMlRnQWFp0gGmAUFVX3lxTFBiOXlWck42MkJWNjhKWDVDQWZXVGdLNm94cEU4b2ZJdlkxWFVyVWJpQkppenhGeW1JWGpESDh4UDFTS2s3WS1qa0c2cXJXLTlWa0pnd2pjZ19WcVZFaFhxRDZqNkI4QURjSGpDd0JUQ1lXSGY0Y3hGRVJrNUQyLUlzeEpTNmVwZmhobmZDeHlsWVk2NktDNEdwWXA2Uld5Z0JBUkhWVGc",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789078174.0
     }
 ]
