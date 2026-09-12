@@ -2422,6 +2422,25 @@
         "timestamp": 1789123558.0
     },
     {
+        "id": "d41b4d549a",
+        "title_fa": "ایران جت‌های آمریکا را در اردن هدف گرفت",
+        "title_en": "Iran strikes U.S. jets after Trump promises war to end after midterms",
+        "summary": [
+            "ایران جت‌های آمریکایی مستقر در پایگاه اردن را هدف گرفت؛ این حمله در واکنش به حملات آمریکا به تانکرهای نفتی ایران انجام شد",
+            "ترامپ ادعا کرد جنگ پس از انتخابات می‌پایید؛ این حرف نشان‌دهنده فشار داخلی او برای نشان دادن قدرت است",
+            "حمله می‌تواند حضور هوایی آمریکا در خاورمیانه را محدود کند و خطر تشدید درگیری‌های نظامی را بالا ببرد"
+        ],
+        "impact": "محدود شدن عملیات هوایی آمریکا در منطقه و تشدید تنش‌های نظامی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/u-forces-destroy-5-iranian-070147726.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/u-forces-destroy-5-iranian-070147726.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/6d53b3bd950760821ab31accb2c2a998d2f17a57e73eba4be0eab5e2fbdc0d4d/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/f5bf196aa710a83c442b72928ed2e4c5.jpg",
+        "timestamp": 1789123440.0
+    },
+    {
         "id": "541a709d5b",
         "title_fa": "ترامپ می‌گوید جنگ پس از انتخابات پایان می‌یابد",
         "title_en": "Trump says war to end \"immediately\" after midterms as Iran damages U.S. jets in strikes",
@@ -5445,24 +5464,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0xNU0YydXBHWnlMRnlPUG1jSERGbGQtLTcwU1k2M0lKWmdUa3A3SlhMSkxhTWg1b08xZjRDZUluU3BvTkF2eGNvU2U1MGxDS2hoeTdaRG9Wd1lTV3JKSS1mZUc4U2hDV2pSZkRlV0lxdE9haVdJNG1tTUVNU2dmZVEtNWRzejZTSnk4ajlBNFp5VW50anRmeEV1LXFQZ3poUm1UVlJDczRLd9IBwwFBVV95cUxPZGR2WXNlR1hWcGFHZkNRc3dQOXdEMmdBMEhTR21HVy1EdHByZHotWjl5amN4Q1ZoZWNQR2NOUkVTNnE1OWgxWUlCVjZXeGx4ZkhOMVBBeGYwY2twMmROVS1hNVFYYWdrdDVKZ2J5c3FselcwcU5tLXJLTkhZNzBNUEloa2VDSS0zUl93dXplb25vbXhoU005cWlWdmR1ZW9kOWg4NXoyb1BURW9rODhlOERxYUdRZjd3RlU0VnBreXZ2czA",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789065199.0
-    },
-    {
-        "id": "c296feb3a5",
-        "title_fa": "هشدار ایران از فعالیت جدید هسته‌ای زیرزمینی",
-        "title_en": "Iran warned against new activity at underground nuclear site",
-        "summary": [
-            "ایران اعلام کرد فعالیت جدید در سایت هسته‌ای زیرزمینی را متوقف کند",
-            "آژانس‌های اطلاعاتی تجهیزات پیشرفته را شناسایی کرده‌اند",
-            "احتمال اعمال تحریم‌های جدید آمریکا و اتحادیه اروپا وجود دارد"
-        ],
-        "impact": "احتمال تشدید تحریم‌ها و افزایش تنش‌های هسته‌ای منطقه‌ای",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/videos/iran-warned-against-activity-underground-182418763.html",
-        "clean_url": "https://www.yahoo.com/news/videos/iran-warned-against-activity-underground-182418763.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/b6437bcdcecd6f50a6e871ae47909b1e7640d76a1c90f8c0097b3c49dbbea84a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.fbc.news.com%2F93d12249772102c2cd7e6bbc66b8d612.jpg",
-        "timestamp": 1789064700.0
     }
 ]
