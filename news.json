@@ -1,5 +1,25 @@
 [
     {
+        "id": "2955084a84",
+        "title_fa": "پلیس آمریکا به‌خاطر شکار حیوانات به‌پیشینه‌اش محکوم شد",
+        "title_en": "Readers sound off on officers shooting animals, airborne toxins and systemic racism",
+        "summary": [
+            "جیمسون و هیه‌هَو نمونه‌های تازه‌ای از کشته شدن حیوانات توسط پلیس در ایالات متحده‌اند",
+            "شهرهای لس‌آنجلس، استورگان و لاولند هزینه‌های صدها هزار دلاری برای جبران خسارت پرداخت کردند",
+            "نویسنده خواستار تغییر قانون برای اعتبار دادن به حیوانات به‌عنوان اعضای خانواده است",
+            "پیشنهاد مجازات شدید برای افسرانی که به‌بهانهٔ ترس از جان خود شلیک می‌کنند"
+        ],
+        "impact": "هزینه‌های سنگین شهرها و کاهش اعتماد عمومی به پلیس",
+        "tag": "پلیس",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "New York Daily News",
+        "url": "https://www.nydailynews.com/2026/09/12/readers-sound-off-on-officers-shooting-animals-airborne-toxins-and-systemic-racism/",
+        "clean_url": "https://www.nydailynews.com/2026/09/12/readers-sound-off-on-officers-shooting-animals-airborne-toxins-and-systemic-racism",
+        "image": "https://www.nydailynews.com/wp-content/uploads/2026/09/shutterstock_2754820921.jpg?w=5872&h=3916",
+        "timestamp": 1789197660.3611307
+    },
+    {
         "id": "514b59461e",
         "title_fa": "مجبور شدن بریتانیا به انتقاد از اسرائیل",
         "title_en": "Britain is growing stronger as America slides into the abyss",
@@ -37,6 +57,26 @@
         "clean_url": "https://www.firstpost.com/opinion/trump-is-disrupting-the-old-world-order-brics-must-build-the-new-14045188.html",
         "image": "https://www.bing.com/th?id=ONUT.Ey8ZQL41-TplXawUJS_YFw",
         "timestamp": 1789195444.7311273
+    },
+    {
+        "id": "b5f9a91dd5",
+        "title_fa": "وینس می‌گوید درگیری ایران جنگ نیست، زمان پایان نامشخص",
+        "title_en": "Vance says Iran conflict is not a war, declines to offer timeline for end",
+        "summary": [
+            "جفری وینس تأکید کرد درگیری با ایران جنگ رسمی نیست",
+            "او از ارائهٔ زمان‌بندی پایان خودداری کرد تا فشار بین‌المللی را کاهش دهد",
+            "بیانیه سعی دارد تصویر جنگی را از ذهن عمومی حذف کند",
+            "رقبا ممکن است این بیانیه را نشانهٔ کم‌اهمیت بودن بحران ببینند"
+        ],
+        "impact": "بیانیه وینس فشار دیپلماتیک را کم می‌کند اما عدم تعیین زمان پایان باعث عدم قطعیت می‌شود",
+        "tag": "جنگ",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRi1fbExWUXBleVp4TUdrN1RTU0FKX3NWcHU2eEdxUUVoVWMzVEw5RTlER0hCaVN6MFRFUWFuTWM5TXJkQzNOSTViQnZzUkdjN2dicUZEbkVPcVV6NDhtbTg4b1lkTlBZQjB1RXhBb19pdmlIUnA4Ui1uZENVdV9zR1FhdHlpNFRWdFB1X0JmaEpwRjRhN3U1TXl1OF93b0XSAaQBQVVfeXFMTWJsSUlhN2NCQnRTNi0xYk12YWVBLWtnVTlTUndEb2Z2SDd5ZXZySFlFQm5hcDlIMnJFcFdCS3NCQWtzM3oweVVGelRTVkV6a3hyVU1JaVZ5VWNjQzhKUXo2bWRqZGU5ZkN4aFFuYzduZjk2RFhGTUFSQklkNTYxaVp0aGJGbzVyNUItWnU2Yl91OWtvV0RpaGgwaEJPeVZmMVNMRXg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRi1fbExWUXBleVp4TUdrN1RTU0FKX3NWcHU2eEdxUUVoVWMzVEw5RTlER0hCaVN6MFRFUWFuTWM5TXJkQzNOSTViQnZzUkdjN2dicUZEbkVPcVV6NDhtbTg4b1lkTlBZQjB1RXhBb19pdmlIUnA4Ui1uZENVdV9zR1FhdHlpNFRWdFB1X0JmaEpwRjRhN3U1TXl1OF93b0XSAaQBQVVfeXFMTWJsSUlhN2NCQnRTNi0xYk12YWVBLWtnVTlTUndEb2Z2SDd5ZXZySFlFQm5hcDlIMnJFcFdCS3NCQWtzM3oweVVGelRTVkV6a3hyVU1JaVZ5VWNjQzhKUXo2bWRqZGU5ZkN4aFFuYzduZjk2RFhGTUFSQklkNTYxaVp0aGJGbzVyNUItWnU2Yl91OWtvV0RpaGgwaEJPeVZmMVNMRXg",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789194623.0
     },
     {
         "id": "07da641a40",
@@ -132,6 +172,26 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/voices-trump-s-wild-stories-about-9-11-show-a-man-untethered-from-reality/ar-AA2c3RVA",
         "image": "https://www.bing.com/th?id=ONUT.5Uy4k3RbBoTfOz_2NDdyTg",
         "timestamp": 1789189920.018937
+    },
+    {
+        "id": "27ed89fdd3",
+        "title_fa": "ایران بازگشایی هورد را شرط پایان محاصره می‌داند",
+        "title_en": "Live - Iran ties Hormuz reopening to end of blockade as Washington vows to fight on",
+        "summary": [
+            "تهدید واشنگتن به ادامهٔ تحریم‌ها در برابر بازگشایی تنگه هورد اعلام شد",
+            "ایران اعلام کرد بازگشایی هورد شرط رفع تحریم‌های اقتصادی است",
+            "این موضع تنش‌های خلیج فارس را تشدید می‌کند و خطر برخورد نظامی را بالا می‌برد",
+            "پیشنهادات دیپلماتیک برای حل‌وفصل بحران هنوز به توافق نرسیده‌اند"
+        ],
+        "impact": "بازگشایی هورد می‌تواند فشار اقتصادی بر ایران را کم کند اما تنش‌های نظامی را تشدید کند",
+        "tag": "هورد",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789188182.0
     },
     {
         "id": "f0159cffc6",
@@ -5411,60 +5471,5 @@
         "clean_url": "https://www.msn.com/en-us/public-safety-and-emergencies/fire-and-rescue/irish-american-firefighter-died-in-9-11-and-inspired-location-of-ireland-s-twin-towers-memorial/ar-AA2bXKfT",
         "image": "https://www.bing.com/th?id=ONUT.0JYOOoucjp4zIQF6Saj-_g",
         "timestamp": 1789056204.8467178
-    },
-    {
-        "id": "c1f9e90828",
-        "title_fa": "نتانیاهو پیش از ۷ اکتبر به‌خواب‌زدگی ادامه داد",
-        "title_en": "The UAE called. Egypt warned. His generals screamed. Netanyahu kept sleeping — then came Oct. 7",
-        "summary": [
-            "نتانیاهو سال‌ها به‌ساده‌ترین دفاع برای حفظ اعتبار خود تکیه کرد",
-            "پس از فاجعه ۷ اکتبر، ادعای بی‌توجهی او به هشدارهای نظامی واضح شد"
-        ],
-        "impact": "بی‌توجهی به خطرات می‌تواند تصمیم‌گیری‌های نظامی نادرست و تشدید تنش‌ها را به‌بار آورد",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/general/general/the-uae-called-egypt-warned-his-generals-screamed-netanyahu-kept-sleeping-then-came-oct-7/ar-AA2bXHy5?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/general/general/the-uae-called-egypt-warned-his-generals-screamed-netanyahu-kept-sleeping-then-came-oct-7/ar-AA2bXHy5",
-        "image": "https://www.bing.com/th?id=ONUT.CXYVZSFEfFMlXPGaKwC4Lg",
-        "timestamp": 1789056204.8465145
-    },
-    {
-        "id": "67a2e3849f",
-        "title_fa": "آخرین جنگ ایران و آمریکا: شورشیان تحت حمایت تهران بندر کلیدی دریای سرخ را تصرف کردند",
-        "title_en": "Iran-US war latest: Tehran-backed rebels capture key Red Sea port",
-        "summary": [
-            "Iran-US war latest: Tehran mocks Trump over capture of US submarine drone 'picked up like a plastic bottle' - Trump says US could strike Pickaxe Mountain after construction activity seen at deeply bur"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-gb/news/other/iran-war-live-a-10-and-f-15-fighter-jets-damaged-in-iranian-strikes/ar-AA2bVO50",
-        "clean_url": "https://www.msn.com/en-gb/news/other/iran-war-live-a-10-and-f-15-fighter-jets-damaged-in-iranian-strikes/ar-AA2bVO50",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789056015.0
-    },
-    {
-        "id": "18114eac21",
-        "title_fa": "تحریم‌های هوایی آمریکا فشار بر اقتصاد ایران",
-        "title_en": "How the U.S. Treasury's New Aviation Sanctions on Iran Extend Beyond Tehran",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا ۲۷ شرکت هوایی ایرانی را فهرست کرد و پروازهای بین‌المللی را قطع کرد",
-            "این گام بخشی از «عملیات خروج اقتصادی» دولت ترامپ است که هدفش فشار برای پایان جنگ است",
-            "مهن ایر هدف اصلی است و مسیرهای انتقال پول را مسدود می‌کند",
-            "اگر ایران راه‌حل مالی نیابد، صنایع مرتبط و گردشگری هوایی به‌سرعت فرو می‌ریزند"
-        ],
-        "impact": "اقتصاد هوایی ایران به‌طور جدی تضعیف می‌شود، درآمدهای ارزی کاهش می‌یابد",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy/",
-        "clean_url": "https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy",
-        "image": "http://www.bing.com/th?id=ONUT.wYfpE_fhEyKTsgywQrGWKg&pid=News",
-        "timestamp": 1789055580.0
     }
 ]
