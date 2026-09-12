@@ -1,5 +1,44 @@
 [
     {
+        "id": "8e56f27058",
+        "title_fa": "حمله پهپادی به خط لوله شرق‑غرب سعودی؛ بحران نفت خلیج",
+        "title_en": "The Iran War Is Pushing the World Off Oil, and That Should Scare the Gulf",
+        "summary": [
+            "پهپادهای عراقی خط لوله 5 میلیون باری را هدف گرفت و تدارکات نفت خلیج را به خطر انداخت",
+            "عراق فرمانده نظامی را عزل کرد و مرز با ایران را بسته؛ نشان از جدیت بغداد دارد",
+            "حوثی‌ها جزیره مایون را در باب‌ال‌مندب تصرف کردند و مسیر دوم صادرات نفت را مسدود کردند",
+            "دو حمله همزمان فشار شدید بر بازار نفت ایجاد کرده و احتمال افزایش قیمت‌های جهانی را بالا می‌برد"
+        ],
+        "impact": "اختلال در تدارکات نفت خلیج، افزایش قیمت جهانی و فشار بر اقتصادهای مصرف‌کننده",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Startup Fortune",
+        "url": "https://startupfortune.com/the-iran-war-is-pushing-the-world-off-oil-and-that-should-scare-the-gulf/",
+        "clean_url": "https://startupfortune.com/the-iran-war-is-pushing-the-world-off-oil-and-that-should-scare-the-gulf",
+        "image": "https://www.bing.com/th?id=ONUT.haBS8gKUE8r1ZrtuTVeCnw",
+        "timestamp": 1789205668.6903138
+    },
+    {
+        "id": "75d851c285",
+        "title_fa": "بازنگری خطرناک از بازدید شی جین‌پینگ؛ ریسک بزرگ",
+        "title_en": "Don’t buy the optics: To view Xi’s visit as a ‘reset’ would be a dangerous miscalculation",
+        "summary": [
+            "نگاه ساده به بازدید شی به‌عنوان «ریست» می‌تواند خطاهای استراتژیک بسازد",
+            "چین در برابر فشارهای آمریکا ایستادگی می‌کند؛ بازدید فقط دیپلماسی تاکتیکی است",
+            "رقابت ژئوپلیتیک در آسیا‑پاسیفیک تشدید می‌شود و خطر تصاعد تنش‌ها بالا می‌رود"
+        ],
+        "impact": "ادامه تنش‌های چین‑آمریکا و احتمال ادامه فشارهای اقتصادی بر ایران",
+        "tag": "چین",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/opinion/dont-buy-the-optics-to-view-xis-visit-as-a-reset-would-be-a-dangerous-miscalculation-14045247.html",
+        "clean_url": "https://www.firstpost.com/opinion/dont-buy-the-optics-to-view-xis-visit-as-a-reset-would-be-a-dangerous-miscalculation-14045247.html",
+        "image": "https://www.bing.com/th?id=ONUT.LedlbbFO2atNPuuz3AUVPA",
+        "timestamp": 1789205668.6899693
+    },
+    {
         "id": "10b88e6784",
         "title_fa": "تحریم جدید خزانه بر خطوط هوایی ایران",
         "title_en": "Treasury Grounds Iranian Airlines with Sanctions",
@@ -5434,45 +5473,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUUzZxQUNJV284dXdqX3A0WndHX3F0Rmw0ODBUaE82MzNvbEtaR1VPR2NjSmNOeEJwM2pqbVNuU1pPUjhQb2N6YlVEdEx6MjJITExFbF9GdzkyT1VweXJjX0hpTC1ZMUhBN2JHOEhpOEdFTXZJM19v",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789059980.0
-    },
-    {
-        "id": "3b47c194d5",
-        "title_fa": "سعودی‌ها و حوثی‌ها به آستانه جنگ نزدیک می‌شوند",
-        "title_en": "Why Saudi Arabia and the Houthis in Yemen are heading toward war",
-        "summary": [
-            "حوثی‌ها حمله زمینی به سواحل دریای سرخ و موشک به پالایشگاه‌های سعودی را آغاز کردند",
-            "ریاض با حملات هوایی پاسخ داد و تنش‌های نظامی منطقه را تشدید کرد",
-            "پاکستان ممکن است به‌عنوان متحد سعودی وارد جنگ شود",
-            "تحلیل‌گران پیش‌بینی می‌کنند درگیری می‌تواند به جنگ تمام‌عیار تبدیل شود"
-        ],
-        "impact": "تشدید جنگ در خلیج فارس می‌تواند تجارت نفت را به‌طور جدی مختل کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Christian Science Monitor",
-        "url": "https://www.csmonitor.com/World/Middle-East/2026/0910/yemen-houthis-saudi-iran-shipping-red-sea",
-        "clean_url": "https://www.csmonitor.com/World/Middle-East/2026/0910/yemen-houthis-saudi-iran-shipping-red-sea",
-        "image": "https://images.csmonitor.com/csm/2026/09/0910_OKSAYEMEN_lede.jpg?alias=standard_900x600",
-        "timestamp": 1789059900.0
-    },
-    {
-        "id": "785f6d88f0",
-        "title_fa": "حملات ایران به پایگاه جردن، هواپیماهای آمریکایی آسیب دید",
-        "title_en": "US warplanes damaged in Iran strikes on Jordan base",
-        "summary": [
-            "ایران به پایگاه هوایی در اردن حمله کرد و چند هواپیمای جنگی آمریکا را تخریب کرد",
-            "این اقدام پس از افزایش تنش‌های منطقه‌ای و حضور نظامی غرب در خاورمیانه صورت گرفت",
-            "نیروی هوایی آمریکا اعلام کرد که خسارت‌ها محدود است اما واکنش نظامی محتمل است",
-            "احتمال تشدید درگیری‌های هوایی بین ایران و ایالات متحده بالا است"
-        ],
-        "impact": "خسارت به هواپیماهای آمریکایی می‌تواند منجر به پاسخ نظامی گسترده و تشدید بحران خاورمیانه شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lV28zdGpteWJTc3ZrNzdfb0hWdG5UTnZraEdWR2xIZU9ZQlNOSTZKSHlvR0dJVnlVMm42TFZ0amZSMG9qR1ZxZG9LSlJabG9mSWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lV28zdGpteWJTc3ZrNzdfb0hWdG5UTnZraEdWR2xIZU9ZQlNOSTZKSHlvR0dJVnlVMm42TFZ0amZSMG9qR1ZxZG9LSlJabG9mSWc",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789059883.0
     }
 ]
