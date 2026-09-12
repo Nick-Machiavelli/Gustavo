@@ -1,5 +1,25 @@
 [
     {
+        "id": "be1752066b",
+        "title_fa": "آتش‌بس آمریکا‑ایران شکسته؛ صلح واقعی دور",
+        "title_en": "How will the US-Iran war end?",
+        "summary": [
+            "توافق آتش‌بس ژوئن موقتاً برخوردهای هوایی را منع کرد",
+            "عدم اجرای مفاد موافقت‌نامه باعث ادامه برخوردهای نیابتی شد",
+            "هر دو طرف از عدم پیشرفت صلحی انتقاد کردند",
+            "این وضعیت بازار نفت را تحت فشار قرار می‌دهد"
+        ],
+        "impact": "نوسان قیمت نفت و تضعیف اعتماد سرمایه‌گذاران در منطقه",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Free Malaysia Today on MSN",
+        "url": "https://www.msn.com/en-my/money/general/how-will-the-us-iran-war-end/ar-AA2c6xDC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-my/money/general/how-will-the-us-iran-war-end/ar-AA2c6xDC",
+        "image": "https://www.bing.com/th?id=ONUT.FeMvi5EagGLdxTFUsMt7LA",
+        "timestamp": 1789255289.4747057
+    },
+    {
         "id": "dc4ae9298d",
         "title_fa": "اقتصاد جنوب آفریقا به رکود می‌رسد",
         "title_en": "EDITORIAL | Ramping up investment is the only sure route to rescue SA from the doldrums",
@@ -72,6 +92,26 @@
         "clean_url": "https://www.afr.com/world/north-america/after-two-days-in-dallas-with-trump-these-are-my-five-takeaways-20260912-p60wqb",
         "image": "https://www.bing.com/th?id=ONUT.vZXc_DgFzqtyizMw3teE8g",
         "timestamp": 1789252892.4841359
+    },
+    {
+        "id": "bd6c6574e2",
+        "title_fa": "وزیر دفاع آمریکا فشار بر خلبانان سقوط‌خورده در ایران",
+        "title_en": "Hegseth and associates reportedly pressured two F-15 airmen downed over Iran to appear on '60 Minutes'",
+        "summary": [
+            "گزارش‌ها می‌گویند وزیر دفاع هگست و مقامات دیگر خلبانان سقوط‌خورده را برای حضور در برنامه تلویزیونی فشار دادند",
+            "این اقدام نشانگر تمایل واشنگتن به استفاده از داستان‌های جنگ برای تأثیر عمومی است",
+            "خلبانان هنوز در بازداشت ایران هستند و مذاکرات برای آزادی‌شان ادامه دارد",
+            "فشار داخلی می‌تواند مذاکرات آزادسازی را پیچیده‌تر کند"
+        ],
+        "impact": "تأخیر در مذاکرات آزادسازی خلبانان و افزایش تنش رسانه‌ای بین دو کشور",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/hegseth-and-associates-reportedly-pressured-two-f-15-airmen-to-appear-on-60-minutes/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/hegseth-and-associates-reportedly-pressured-two-f-15-airmen-to-appear-on-60-minutes",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/DUAL-2.jpeg",
+        "timestamp": 1789252680.0
     },
     {
         "id": "a02a8e9eee",
@@ -665,6 +705,26 @@
         "clean_url": "https://www.msn.com/en-in/news/other/opinion-deepen-preserve-stabilise-indias-balancing-multi-alignment-brics-act/ar-AA2c50sK",
         "image": "https://www.bing.com/th?id=ONUT.GTTHIU_h4IQZ73TDKL1Ftw",
         "timestamp": 1789221773.2008266
+    },
+    {
+        "id": "ba0ec316a1",
+        "title_fa": "ایران به ترامپ اتهام: توقف تهدیدها تا پذیرش خواسته‌ها",
+        "title_en": "Iran issues firm ultimatum to Trump, says no talks until US gives in to demands",
+        "summary": [
+            "ایران به‌صورت رسمی اعلام کرد مذاکرات تا توقف تهدیدهای آمریکا ادامه نخواهد یافت",
+            "مقام ارشد امنیتی ایران به توهین به مقدسات ملی اشاره کرد و خواست توقف همه ادعاهای توهین‌آمیز",
+            "این اظهارات نشانگر افزایش فشار روانی بر واشنگتن است",
+            "احتمال بازگشت به تنش‌های نظامی در صورت عدم پاسخگویی آمریکا بالا است"
+        ],
+        "impact": "تشدید ریسک تحریم‌های جدید و احتمال برخورد نظامی در خاورمیانه",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "MEAWW News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-issues-firm-ultimatum-to-trump-says-no-talks-until-us-gives-in-to-demands/ar-AA2c5SNz",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-issues-firm-ultimatum-to-trump-says-no-talks-until-us-gives-in-to-demands/ar-AA2c5SNz",
+        "image": "http://www.bing.com/th?id=ONUT.G3vC8p5Vw9cx8YV6w9SpaA&pid=News",
+        "timestamp": 1789219571.0
     },
     {
         "id": "584b15a6aa",
@@ -3907,6 +3967,26 @@
         "timestamp": 1789130360.0
     },
     {
+        "id": "93961668a2",
+        "title_fa": "ترامپ پس از ۹/۱۱ جنگ با ایران را توجیه می‌کند",
+        "title_en": "Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran",
+        "summary": [
+            "ترامپ در مراسم یادبود ۹/۱۱، پیام «هیچ‌خطری تحمل نمی‌شود» را تکرار کرد",
+            "بیانیه شباهت به استدلال‌های پیشین برای ادامه جنگ‌های نامحدود دارد",
+            "ریسک افزایش تنش با ایران و احتمال گسترش تحریم‌ها را نشان می‌دهد",
+            "رسانه‌ها هشدار دادند این ریتوریک می‌تواند به اقدام‌ها نظامی منجر شود"
+        ],
+        "impact": "افزایش فشار دیپلماتیک و احتمال اعمال تحریم‌های جدید علیه ایران",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html",
+        "clean_url": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html",
+        "image": "http://www.bing.com/th?id=ONUT.jpGkxGfaF3d0HeBc2lgfKg&pid=News",
+        "timestamp": 1789130220.0
+    },
+    {
         "id": "1a249a9a8e",
         "title_fa": "هوش‌مصنوعی، چالش جدید کاخ سفید",
         "title_en": "The White House has an AI problem — and it may worry Wall Street even more than Iran",
@@ -5428,79 +5508,5 @@
         "clean_url": "https://www.firstpost.com/opinion/india-china-relations-xi-jinping-brics-summit-2026-14044863.html",
         "image": "https://www.bing.com/th?id=ONUT.IR7khOxc55VYFtQMnYtDOg",
         "timestamp": 1789100692.6416266
-    },
-    {
-        "id": "df20c0ad77",
-        "title_fa": "حوثی‌ها بندر استراتژیک دریای سرخ در یمن و سایر تحولات خاورمیانه را تصرف کردند",
-        "title_en": "Houthis seize strategic Red Sea port in Yemen, and other Mideast developments",
-        "summary": [
-            "Houthis seize strategic Red Sea port in Yemen, and other Mideast developments AP News"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMi1lNm91a2VNZ2pET3pySXpRdExjT01OZ2dTbmxRblk4ME5ZZko0aElVbFdrV1gyY2VWcmJPUkREbWZBdGNJYmZyQmIwOVVJWmdyT3J1cHhhTzNCTFlTZzN5UEk1bE5DVVl5bDhaVkh6Q0xDcEtkVWM5SEtGb05XcUc3dGh6dUZEOWQ3czNqWndFelg3ZEJtSXZlcXNPalFCSF9LbWtR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMi1lNm91a2VNZ2pET3pySXpRdExjT01OZ2dTbmxRblk4ME5ZZko0aElVbFdrV1gyY2VWcmJPUkREbWZBdGNJYmZyQmIwOVVJWmdyT3J1cHhhTzNCTFlTZzN5UEk1bE5DVVl5bDhaVkh6Q0xDcEtkVWM5SEtGb05XcUc3dGh6dUZEOWQ3czNqWndFelg3ZEJtSXZlcXNPalFCSF9LbWtR",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789100520.0
-    },
-    {
-        "id": "fcf738ad09",
-        "title_fa": "آمریکا کنترل ایران بر هرمز را کم کرد",
-        "title_en": "The US has loosened Iran’s grip on the Strait of Hormuz, but the costly war is far from over",
-        "summary": [
-            "نیروی دریایی آمریکا با عملیات ناوبری آزاد، نفوذ ایران در تنگه هرمز را محدود کرد",
-            "ایران با کشتی‌گیری و تهدیدات، جنگ پرهزینه‌ای را ادامه می‌دهد",
-            "کاهش کنترل موقت است و ریسک تشدید تنش‌های نظامی همچنان بالاست"
-        ],
-        "impact": "کاهش موقت نفوذ ایران در هرمز، اما هزینه‌های جنگ برای هر دو طرف ادامه دارد",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "WTOP News",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGt0Q25weUxqWVA4YmlQemxLenFpUmplQzFhZ0d5U051WWd4aTMxYzhoOFpGRzNWaU0yek5qQmVxdFg0bVZkeW5FM3Q1ekxsMFZnSUFPbVNyaUN1c256ZkZqWS1ibUdWNUxyM0FvcmtvMWRUc1UybFB3SXhHVnV1My1YWkpHa1NKN2p4YjlWMjRrMzZtYmZrdlAtaHNtV1J1eWRtZl9lbjZQU2R6d2tQLTFiTkRjYy1CSzBBZDBzX1NKanM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGt0Q25weUxqWVA4YmlQemxLenFpUmplQzFhZ0d5U051WWd4aTMxYzhoOFpGRzNWaU0yek5qQmVxdFg0bVZkeW5FM3Q1ekxsMFZnSUFPbVNyaUN1c256ZkZqWS1ibUdWNUxyM0FvcmtvMWRUc1UybFB3SXhHVnV1My1YWkpHa1NKN2p4YjlWMjRrMzZtYmZrdlAtaHNtV1J1eWRtZl9lbjZQU2R6d2tQLTFiTkRjYy1CSzBBZDBzX1NKanM",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789100482.0
-    },
-    {
-        "id": "3e3b3062f6",
-        "title_fa": "حوثی‌ها جزیره کلیدی در آب‌های بحرین را تصرف کردند",
-        "title_en": "Iran-backed Houthis capture key island in vital waterway",
-        "summary": [
-            "حوثی‌ها جزیره‌ای استراتژیک در مسیر کشتی‌های تجاری خلیج فارس را به‌دست گرفتند",
-            "این اقدام دسترسی ایران به مسیرهای نفتی را تقویت می‌کند",
-            "نیروی دریایی آمریکا و عربستان نگرانی‌های امنیتی جدی ابراز کردند",
-            "احتمال بروز تصادم‌های نیابتی در آب‌های خلیج افزایش یافت"
-        ],
-        "impact": "کنترل جزیره توسط حوثی‌ها خطر بستن مسیرهای نفتی خلیج را افزایش می‌دهد",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-backed-houthis-capture-key-island-in-bab-al-mandeb-strait/ar-AA2bY9SU",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-backed-houthis-capture-key-island-in-bab-al-mandeb-strait/ar-AA2bY9SU",
-        "image": "http://www.bing.com/th?id=ONUT.4K3x5CJZtwGJ6Q5XcXReQg&pid=News",
-        "timestamp": 1789099621.0
-    },
-    {
-        "id": "54d9f0321d",
-        "title_fa": "به‌روزترین اخبار اسرائیل، ایران و خاورمیانه",
-        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
-        "summary": [
-            "پوشش زندهٔ تحولات جاری در منطقه بدون ارائه جزئیات جدید",
-            "قابل‌توجه است که هیچ رخداد بحرانی جدیدی گزارش نشده"
-        ],
-        "impact": "اطلاع‌رسانی عمومی؛ تأثیر عملی محدود",
-        "tag": "خبر",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tNGxGMjZZUlRmcGdDNzVZRk9sTkRfZE5Tdm0tY2ZCUHFpV2FDX05JZ2daVkVtaExSXzhiZlFhMFExRnBHZUEwRDhheFMzbi1tNlBBbkhrd1k2MDgyYkFwVmlfb2dQMWY3UkZyeVUwYUd6cGZNZFNsNGtiX3ZmRjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tNGxGMjZZUlRmcGdDNzVZRk9sTkRfZE5Tdm0tY2ZCUHFpV2FDX05JZ2daVkVtaExSXzhiZlFhMFExRnBHZUEwRDhheFMzbi1tNlBBbkhrd1k2MDgyYkFwVmlfb2dQMWY3UkZyeVUwYUd6cGZNZFNsNGtiX3ZmRjQ",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789099205.0
     }
 ]
