@@ -2249,6 +2249,26 @@
         "timestamp": 1789149813.6401095
     },
     {
+        "id": "84fc179eb0",
+        "title_fa": "ترامپ: جنگ ایران پس از میاندوره‌ها پایان می‌یابد",
+        "title_en": "‘Fine And Dandy’: Trump Claims Iran War Will End ‘Right After The Midterms’",
+        "summary": [
+            "بیانیه ترامپ صرفاً یک وعده انتخاباتی است؛ هیچ برنامه عملی برای خاتمه جنگ ارائه نمی‌دهد.",
+            "تکرار ادعای «هسته‌ای شدن ایران در هفته‌ها یا ماه‌ها» بدون شواهد، به‌جای کاهش تنش، به‌احتمال افزایش اضطراب بین‌المللی می‌انجامد.",
+            "اشاره به میاندوره‌ها نشان می‌دهد هدف اصلی، تأثیر بر رأی‌دهندگان آمریکایی است نه حل واقعی بحران.",
+            "اگر این ادعاها به‌عنوان سیاست رسمی پذیرفته شوند، فشار بر نیروی نظامی آمریکا برای ادامه عملیات افزایش می‌یابد."
+        ],
+        "impact": "بیانیه می‌تواند حمایت داخلی از جنگ را تقویت کند و هزینه‌های نظامی‑اقتصادی آمریکا را در کوتاه‌مدت بالا ببرد.",
+        "tag": "جنگ",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/fine-dandy-trump-claims-iran-164049679.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/fine-dandy-trump-claims-iran-164049679.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/ee479ae4e2086565a89e34a456f1c555d9b6cb44e63a55f7fa72d58d91fb4994/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F77b112bef9847694c7191a775ec82d95.jpg",
+        "timestamp": 1789148818.0
+    },
+    {
         "id": "17b9467763",
         "title_fa": "چرا هوش مصنوعی باید بیشتر از هسته‌ای ما را نگران کند؟",
         "title_en": "Why AI should worry us more than nukes",
@@ -5478,22 +5498,5 @@
         "clean_url": "https://www.msn.com/en-nz/news/other/political-aftershock-of-9-11-still-being-felt-25-years-later-helen-clark/ar-AA2bYNtp",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789083178.7043161
-    },
-    {
-        "id": "ae120ceb14",
-        "title_fa": "خبر بین‌المللی — ترامپ admin's 'profoundly stupid' Jimmy Kimmel threat baffle",
-        "title_en": "Trump admin's 'profoundly stupid' Jimmy Kimmel threat baffles CNN conservative",
-        "summary": [
-            "CNN pundit Jonah Goldberg struggled to make sense of the Trump administration's threat against late-night host Jimmy Kimmel."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Raw Story on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/trump-admin-s-profoundly-stupid-jimmy-kimmel-threat-baffles-cnn-conservative/ar-AA2bYZO1?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/trump-admin-s-profoundly-stupid-jimmy-kimmel-threat-baffles-cnn-conservative/ar-AA2bYZO1",
-        "image": "https://www.bing.com/th?id=ONUT.OULxUbcyt14j4XpGLQ3D2w",
-        "timestamp": 1789083177.2139702
     }
 ]
