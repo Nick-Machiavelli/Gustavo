@@ -37,6 +37,23 @@
         "timestamp": 1789212049.67607
     },
     {
+        "id": "88b8e2d2d1",
+        "title_fa": "خبر بین‌المللی — OPINION | حوثی factor و Makkah Pact's first litmus test: ای",
+        "title_en": "OPINION | The Houthi factor and Makkah Pact's first litmus test: Iran's asymmetric war reaches Saudi Arabia",
+        "summary": [
+            "The Houthi movement has escalated its regional impact by attacking Red Sea shipping. This attack serves as the first major test for the new Makkah Joint Defence Agreement between Saudi Arabia, Pakistan,"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Week",
+        "url": "https://www.theweek.in/news/defence/2026/09/12/opinion-the-houthi-factor-and-makkah-pacts-first-litmus-test-irans-asymmetric-war-reaches-saudi-arabia.html",
+        "clean_url": "https://www.theweek.in/news/defence/2026/09/12/opinion-the-houthi-factor-and-makkah-pacts-first-litmus-test-irans-asymmetric-war-reaches-saudi-arabia.html",
+        "image": "https://img.theweek.in/content/dam/week/en/archive/news/defence/images/2026/8/8/mecca-pact-pic.jpg",
+        "timestamp": 1789209420.0
+    },
+    {
         "id": "e7959c97d1",
         "title_fa": "خبر بین‌المللی — Letters به Editor: Deer delusion",
         "title_en": "Letters to the Editor: Deer delusion",
@@ -2383,6 +2400,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789126980.0
+    },
+    {
+        "id": "9d190b2eaa",
+        "title_fa": "خبر بین‌المللی — Saudi Arabia’s shutdown key pipeline limits oil flow as Yem",
+        "title_en": "Saudi Arabia’s shutdown of key pipeline limits oil flow as Yemen hits back against Houthis",
+        "summary": [
+            "An Iraqi military commander was dismissed after investigations confirmed drone attacks targeting Saudi Arabia originated from..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/middle-east/saudi-arabia-shutdown-key-pipeline-limits-oil-flow-yemen-houthis-rcna597362",
+        "clean_url": "https://www.nbcnews.com/world/middle-east/saudi-arabia-shutdown-key-pipeline-limits-oil-flow-yemen-houthis-rcna597362",
+        "image": "https://www.bing.com/th?id=ONUT.Cmf35Kz6VS97fKfFh373XA",
+        "timestamp": 1789126738.0
     },
     {
         "id": "ce692bb5d2",
@@ -5433,45 +5467,5 @@
         "clean_url": "https://www.baltimoresun.com/2026/09/10/chris-roemer-trump-iran-democrats",
         "image": "https://www.bing.com/th?id=ONUT.rKojn8gfcgjCT_YmFYCPpg",
         "timestamp": 1789068003.4760227
-    },
-    {
-        "id": "afd3589f43",
-        "title_fa": "ارجاع ایران به شورای امنیت به‌دلیل نقض‌های هسته‌ای",
-        "title_en": "Iran Is Referred to UN Security Council Over Nuclear Breaches",
-        "summary": [
-            "IAEA اعلام کرد که نمی‌تواند موجودی اورانیوم غنی‌شده ایران را تأیید کند",
-            "این ارجاع اولین بار در ۲۰ سال است که ایران به‌سازمان ملل ارجاع می‌شود",
-            "روسیه و چین می‌توانند با حق وتو مانع تحریم‌های جدید شوند",
-            "تهران این اقدام را فشار سیاسی ناعادلانه می‌داند"
-        ],
-        "impact": "فشار بین‌المللی و احتمال تحریم‌های جدید بر اقتصاد ایران افزایش می‌یابد",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "NTD News",
-        "url": "https://www.ntd.com/iran-is-referred-to-un-security-council-over-nuclear-breaches_1171935.html",
-        "clean_url": "https://www.ntd.com/iran-is-referred-to-un-security-council-over-nuclear-breaches_1171935.html",
-        "image": "https://i.ntd.com/assets/uploads/2026/09/id1171936-Iran-Nuclear-Sites-AP25165551799994-vs.jpg-900x506.webp",
-        "timestamp": 1789067040.0
-    },
-    {
-        "id": "be24aedaab",
-        "title_fa": "جایپال: جنگ ایران‑ترامپ اعتبار آمریکا را می‌خورد",
-        "title_en": "Jayapal Warns Trump’s Iran War Is Eroding US Credibility Abroad",
-        "summary": [
-            "جایپال می‌گوید سیاست‌های ترامپ در ایران باعث بی‌اعتمادی کشورهای همسایه به تعهدات آمریکا شده",
-            "او هشدار می‌دهد این بی‌اعتمادی می‌تواند کشورها را به تقویت روابط با چین و روسیه سوق دهد",
-            "انتقاد او به جنگ ایران‑ترامپ نشان می‌دهد فشار نظامی در داخل سیاست خارجی آمریکا به نقطه‌سخت رسیده",
-            "این نگرانی می‌تواند فشار داخلی بر دولت ترامپ را افزایش دهد"
-        ],
-        "impact": "کاهش اعتبار آمریکا در دیپلماسی و تمایل به تعهدات چندجانبه",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "IndiaWest",
-        "url": "https://indiawest.com/jayapal-warns-trumps-iran-war-is-eroding-us-credibility-abroad/",
-        "clean_url": "https://indiawest.com/jayapal-warns-trumps-iran-war-is-eroding-us-credibility-abroad",
-        "image": "https://indiawest.com/wp-content/uploads/2026/09/Jayapal.jpg",
-        "timestamp": 1789066963.0
     }
 ]
