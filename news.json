@@ -77,6 +77,25 @@
         "timestamp": 1789194405.6300545
     },
     {
+        "id": "af1bd648de",
+        "title_fa": "چین به ایران کمک هدف‌گیری نیروهای آمریکا",
+        "title_en": "Shafaq News..China ‘helps’ Iran target US troops",
+        "summary": [
+            "شفق نیوز ادعا می‌کند چین فناوری یا اطلاعاتی به ایران داد تا بتواند نیروهای آمریکایی را هدف بگیرد.",
+            "هیچ مدرک مستقلی برای این ادعا ارائه نشده؛ روایت می‌تواند برای تشدید تنش‌های منطقه‌ای به کار رود.",
+            "در صورت صحت، خطر عملیات سایبری یا اطلاعاتی علیه پایگاه‌های آمریکایی در خاورمیانه افزایش می‌یابد."
+        ],
+        "impact": "افزایش خطر برخورد نظامی یا سایبری بین آمریکا و ایران و فشار بر روابط چین‑آمریکا.",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "شفق نيوز",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3WmIwckh6VDhQczQ4aGkyRFhrcExPNW5mX3lGNGFLdW5VRkFPTDR3TmFWb1BaaWlVRklMRkRSeGVUNzNycUh5aVk3eVVCbDhRV3FRU29aRGRYdE9QS0N3M0ZOZlFhTnk2Mk5pV2hERzdWS1VQTExMQTdjcTRMUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3WmIwckh6VDhQczQ4aGkyRFhrcExPNW5mX3lGNGFLdW5VRkFPTDR3TmFWb1BaaWlVRklMRkRSeGVUNzNycUh5aVk3eVVCbDhRV3FRU29aRGRYdE9QS0N3M0ZOZlFhTnk2Mk5pV2hERzdWS1VQTExMQTdjcTRMUQ",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789192420.0
+    },
+    {
         "id": "fc5bf47b16",
         "title_fa": "رؤسای بریکس در هند، جنگ ایران محور",
         "title_en": "BRICS leaders meet in India as Iran war reshapes global agenda",
@@ -2434,6 +2453,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NLTByZWdrUW9sX0RSajduc2NGYkVaWENCVDBqb1c3ZklnZWVmMVZCeXIycS1RaXBkRUVOOThCcURWVWZKdDB3b204ejM4TWtVNjVaT2ZiX2Y",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789113150.0
+    },
+    {
+        "id": "6a666fd773",
+        "title_fa": "بودیان AI: مدل‌های زبان هندی برای آموزش",
+        "title_en": "IIT Madras launches Bodhan AI suite with NVIDIA to boost Indic language AI in education",
+        "summary": [
+            "IIT مدراس با NVIDIA و AI4Bharat یک مجموعه مدل‌های پایه‌ای زبان‌های هندی برای گفتار، ترجمه، OCR و تبدیل متن به گفتار عرضه کرد.",
+            "مدل‌ها به‌صورت متن باز منتشر می‌شوند و می‌توانند هزینه‌های توسعه ابزارهای آموزشی را کاهش داده و سرعت نوآوری را بالا ببرند."
+        ],
+        "impact": "دسترسی رایگان به مدل‌های زبانی هندی، تقویت ابزارهای آموزشی و کاهش وابستگی به سرویس‌های تجاری.",
+        "tag": "فناوری",
+        "urgency": 3,
+        "sentiment": 0.6,
+        "source": "Times Now on MSN",
+        "url": "https://www.msn.com/en-in/technology/artificial-intelligence/iit-madras-launches-bodhan-ai-suite-with-nvidia-to-boost-indic-language-ai-in-education/ar-AA2c3Sl2?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/technology/artificial-intelligence/iit-madras-launches-bodhan-ai-suite-with-nvidia-to-boost-indic-language-ai-in-education/ar-AA2c3Sl2",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789110711.0
     },
     {
         "id": "7da69f651e",
@@ -5429,41 +5466,5 @@
         "clean_url": "https://time.com/article/2026/09/09/us-treasury-iran-sanctions-aviation-global-impact-economy",
         "image": "http://www.bing.com/th?id=ONUT.wYfpE_fhEyKTsgywQrGWKg&pid=News",
         "timestamp": 1789055580.0
-    },
-    {
-        "id": "fd2f8e6678",
-        "title_fa": "ترامپ می‌گوید در حمله ایران به هواپیماهای جنگی آمریکا آسیبی وارد نشده است",
-        "title_en": "Trump says ‘no damage’ to US war planes from Iran attack",
-        "summary": [
-            "Trump says ‘no damage’ to US war planes from Iran attack The Hill"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVlHMTBTa2VXcHFxcURGZWxMemhIYTVITGltVS1DNExlVlE4YzF5Vm9BaktHc080MkRDeUZPcEUwTEk4dUE4aWhldTVqdm9ENGhXMzNQODlEOGhOMXFuVUpnWW42d2syczNLRGF0VmtfYzZjZlZJeXVKOXhRSTltZElDUnRwRXVoU25FQl8wODFabjDSAZgBQVVfeXFMT0paQmhPSllwOFdJOVpuNTIyOUZONldPUXl2bGtQMzBlV1JTNmc2b3JzOFBMY0ZGQXF2NGdQUHVyUkI5M2NaVTU4NTNMTkZzdGlZZk9yV0EwcEktZ0ZSMVowVWh1LUdKUkRyeXlWdUEzRENfbk1VUk5lTFBEQ2NheTJwNjU0dkRwdzZWRzF5cXByNjZtam1UR00?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVlHMTBTa2VXcHFxcURGZWxMemhIYTVITGltVS1DNExlVlE4YzF5Vm9BaktHc080MkRDeUZPcEUwTEk4dUE4aWhldTVqdm9ENGhXMzNQODlEOGhOMXFuVUpnWW42d2syczNLRGF0VmtfYzZjZlZJeXVKOXhRSTltZElDUnRwRXVoU25FQl8wODFabjDSAZgBQVVfeXFMT0paQmhPSllwOFdJOVpuNTIyOUZONldPUXl2bGtQMzBlV1JTNmc2b3JzOFBMY0ZGQXF2NGdQUHVyUkI5M2NaVTU4NTNMTkZzdGlZZk9yV0EwcEktZ0ZSMVowVWh1LUdKUkRyeXlWdUEzRENfbk1VUk5lTFBEQ2NheTJwNjU0dkRwdzZWRzF5cXByNjZtam1UR00",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789055400.0
-    },
-    {
-        "id": "d7d55355c7",
-        "title_fa": "ترامپ باید پیام جنگ ایران را ادامه دهد",
-        "title_en": "Republicans, Trump shouldn’t hide from Iran war messaging, Florida legislators say",
-        "summary": [
-            "سناتور ریک اسکات و نماینده رندی فاین می‌گویند حزب باید به دستاوردهای ترامپ در فشار بر ایران اشاره کند.",
-            "اگر ترامپ این پیام را تقویت کند، می‌تواند حمایت پایه محافظه‌کاران را در انتخابات حفظ کند.",
-            "تاکید بر مقابله با ایران می‌تواند تنش‌های منطقه‌ای را تشدید کند و رقیبان داخلی را به چالش بکشد."
-        ],
-        "impact": "تقویت رخطای ضد‑ایران در کمپین جمهوری‌خواه، احتمال افزایش فشار دیپلماتیک و نظامی علیه تهران.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Jewish News Syndicate",
-        "url": "https://www.jns.org/news/u-s-news/republicans-trump-shouldnt-hide-from-iran-war-messaging-florida-legislators-say",
-        "clean_url": "https://www.jns.org/news/u-s-news/republicans-trump-shouldnt-hide-from-iran-war-messaging-florida-legislators-say",
-        "image": "https://www.bing.com/th?id=ONUT.LEHQ0YQsB1S2pZqAZTHcrg",
-        "timestamp": 1789055396.0
     }
 ]
