@@ -1,5 +1,25 @@
 [
     {
+        "id": "ab29e226b8",
+        "title_fa": "بازارها از بحران ایران خسته شده‌اند",
+        "title_en": "Market Complacency On Iran Crisis Wearing Off, Just As I Predicted In July",
+        "summary": [
+            "تحلیل‌گر پیش‌بینی می‌کند خستگی سرمایه‌گذاران از بحران ایران به‌سرعت در حال پایان است",
+            "کاهش آرامش بازار باعث افزایش نوسان قیمت نفت و سهام مرتبط می‌شود",
+            "افشاهای اخیر درباره تحریم‌های جدید می‌تواند فشار خرید را تقویت کند",
+            "سرمایه‌گذاران باید به ریسک‌های سیاسی‑اقتصادی در خاورمیانه توجه کنند"
+        ],
+        "impact": "بازارهای مالی ممکن است به‌سرعت واکنش منفی نشان دهند و نوسان‌های شدید در سهام انرژی ایجاد شود",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4945794-market-complacency-on-iran-crisis-wearing-off-just-as-i-predicted-in-july",
+        "clean_url": "https://seekingalpha.com/article/4945794-market-complacency-on-iran-crisis-wearing-off-just-as-i-predicted-in-july",
+        "image": "https://www.bing.com/th?id=ONUT.wbrWzeQGqk6paeH7F5rlXw",
+        "timestamp": 1789232605.034168
+    },
+    {
         "id": "f77f77b3e8",
         "title_fa": "بحران ایران دیپلماسی جدید را از برجام به عمان سوق داد",
         "title_en": "Iran crisis drives new diplomacy from BRICS to Oman",
@@ -721,6 +741,26 @@
         "clean_url": "https://www.msn.com/en-au/news/other/52-of-the-most-stupid-things-donald-trump-has-ever-said/ar-AA2c4CEo",
         "image": "https://www.bing.com/th?id=ONUT.qDIT6slVF8dyF8KsX6aTYA",
         "timestamp": 1789206027.4226592
+    },
+    {
+        "id": "770a2a195c",
+        "title_fa": "بازگشت هورموز به شرط توافق آمریکا با ایران",
+        "title_en": "US Iran War Live Updates: Reopening Hormuz depends on US meeting Tehran’s conditions, says Iran",
+        "summary": [
+            "ایران می‌گوید بازگشت هورموز به شرط پذیرش تقاضای خود توسط آمریکا است",
+            "این موضع نشان می‌دهد تهران هنوز کارت‌های اهرمی برای فشار بر نیروی دریایی آمریکا دارد",
+            "مذاکرات در عمان ممکن است به توافق نرسد؛ اما پیام‌آوری برای کشورهای منطقه مهم است",
+            "اگر شرایط ایران برآورده نشود، احتمال بسته شدن موقت هورموز و نوسان قیمت نفت بالا می‌رود"
+        ],
+        "impact": "عدم توافق می‌تواند ترافیک نفتی در هورموز را مختل کند و قیمت جهانی نفت را ارتقا دهد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-houthis-seize-red-sea-islands-irgc-attacks-us-oil-prices-hike-middle-east-latest-news/liveblog/134091078.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-houthis-seize-red-sea-islands-irgc-attacks-us-oil-prices-hike-middle-east-latest-news/liveblog/134091078.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134091078,width-1280,height-720,imgsize-475536,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1789205940.0
     },
     {
         "id": "8e56f27058",
@@ -1623,6 +1663,26 @@
         "clean_url": "https://www.odt.co.nz/news/national/political-aftershock-of-sept-11-attacks-still-felt-clark-d13h83dn",
         "image": "https://www.bing.com/th?id=ONUT.T9btpXb-JUQA6ArM4aggJw",
         "timestamp": 1789170432.2554128
+    },
+    {
+        "id": "1c507e78dd",
+        "title_fa": "عراق مرز الطیّب را پس از کشف پایگاه پهپاد می‌بندد",
+        "title_en": "US-Israel-Iran war latest live news: Iraq shuts Al-Tayyib border area with Iran after drone launch sites found; PM approves joint investigation",
+        "summary": [
+            "کشف مکان‌های پرتاب پهپاد در مرز عراق‑ایران نشان‌دهنده گسترش عملیات نیابتی است",
+            "بسته شدن مرز الطیّب می‌تواند مسیرهای قاچاق و حملات هوایی را محدود کند",
+            "این اقدام احتمال تشدید تنش‌های نظامی بین دو کشور را بالا می‌برد",
+            "واکنش بین‌المللی هنوز نامشخص است؛ اما فشار دیپلماتیک بر عراق محتمل است"
+        ],
+        "impact": "مسیرهای حملهٔ ناخواسته از طریق مرز محدود می‌شود؛ اما خطر تشدید درگیری‌های مرزی افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-iraq-shuts-al-tayyib-border-area-with-iran-after-drone-launch-sites-found-pm-approves-joint-investigation/ar-AA2c5Pmt",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-iraq-shuts-al-tayyib-border-area-with-iran-after-drone-launch-sites-found-pm-approves-joint-investigation/ar-AA2c5Pmt",
+        "image": "http://www.bing.com/th?id=ONUT.7DaHrQputD2PlF9ERfLv1g&pid=News",
+        "timestamp": 1789170360.0
     },
     {
         "id": "42cf905a0c",
@@ -5433,59 +5493,5 @@
         "clean_url": "https://www.abc.net.au/news/world",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
         "timestamp": 1789082431.0
-    },
-    {
-        "id": "575b85f9bd",
-        "title_fa": "خبر بین‌المللی — What به know about ترامپ's $5,000 'dividend' pledge",
-        "title_en": "What to know about Trump's $5,000 'dividend' pledge",
-        "summary": [
-            "President Donald Trump has promised $5,000 to every American adult if Republicans retain control of the House of..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Agence France-Presse on MSN",
-        "url": "https://www.msn.com/en-us/news/other/what-to-know-about-trump-s-5-000-dividend-pledge/ar-AA2bYX1E?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/what-to-know-about-trump-s-5-000-dividend-pledge/ar-AA2bYX1E",
-        "image": "https://www.bing.com/th?id=ONUT.6UguR9_TxwsH3LBlr59ERQ",
-        "timestamp": 1789081875.2732677
-    },
-    {
-        "id": "bcbc10213e",
-        "title_fa": "هزینه جنگ آمریکا با ایران چقدر است؟",
-        "title_en": "How much is the war with Iran costing the US? - ABC News",
-        "summary": [
-            "هزینه مستقیم عملیات نظامی و پشتیبانی هوایی در خاورمیانه سالانه چند میلیارد دلار است",
-            "این هزینه فشار بر بودجه دفاعی و بدهی عمومی آمریکا را افزایش می‌دهد",
-            "هزینه‌های پنهان شامل خسارات زیرساختی، جریمه‌های اقتصادی و هزینه‌های انسانی نیز بالا است",
-            "بار مالی ممکن است سیاست‌گذاران را به تجدید نظر در استراتژی ایران سوق دهد"
-        ],
-        "impact": "بار مالی جنگ با ایران می‌تواند برنامه‌های داخلی آمریکا را تحت فشار قرار دهد",
-        "tag": "هزینه",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdKck1JLTg0V0F1TzFEc1g2UzBHUXdUdUd0MkdOSzg0MlNhVXVZakVUTDdBWmI2QnRKVWQ3SG95djhkbUo2S0NmbEZ3bENMamdiVF92XzBzdlcyUDVSTEpWcWVUeEIyb0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdKck1JLTg0V0F1TzFEc1g2UzBHUXdUdUd0MkdOSzg0MlNhVXVZakVUTDdBWmI2QnRKVWQ3SG95djhkbUo2S0NmbEZ3bENMamdiVF92XzBzdlcyUDVSTEpWcWVUeEIyb0U",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789081703.0
-    },
-    {
-        "id": "c7a3a22623",
-        "title_fa": "اکسیوس: ترامپ درخواست بن سلمان را برای حمله آمریکا به حوثی‌ها رد کرد",
-        "title_en": "اکسیوس: ترامپ درخواست بن سلمان را برای حمله آمریکا به حوثی‌ها رد کرد",
-        "summary": [
-            "اکسیوس گزارش داد محمد بن سلمان در دو تماس تلفنی از دونالد ترامپ خواست آمریکا حوثی‌های یمن را هدف قرار دهد، اما رییس‌جمهوری ایالات متحده این درخواست را رد کرد."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/2026091154880",
-        "clean_url": "https://www.iranintl.com/2026091154880",
-        "image": "http://www.bing.com/th?id=ONUT.2a8cmjEYpP1hctl-kpJeIw&pid=News",
-        "timestamp": 1789081560.0
     }
 ]
