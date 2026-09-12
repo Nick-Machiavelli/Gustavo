@@ -19,6 +19,25 @@
         "timestamp": 1789219200.0
     },
     {
+        "id": "8038ea558b",
+        "title_fa": "بحران هسته‌ای ایران به مرحله جدیدی رسیده",
+        "title_en": "Iran's Nuclear Crisis Enters a New Phase",
+        "summary": [
+            "تحولات جدید نشان‌دهنده پیشرفت برنامه هسته‌ای یا واکنش بین‌المللی است",
+            "احتمال افزایش تحریم‌ها یا اقدام‌ها نظامی می‌افزاید",
+            "منطقه با ریسک بالاتر امنیتی مواجه می‌شود"
+        ],
+        "impact": "افزایش تنش می‌تواند بازار انرژی و امنیت منطقه را تحت فشار قرار دهد",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "RealClearWorld",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUs3d0NJbS1TNW1wc3B4YUxydFVlR0YxS2V4OGVrRDgyQi14UzRyRnNleDVqOTh2cW5sb2lUQXRIOVBFb3E5WGtSMGZSTERhNERZU09weUZhaVdtcjFaejk2YkVRVUdvTS1aMkxtOHFhRmxLMTdqNlJXWW1kaXRhVjAwUUh5RHdBbXlYZU8teEstYjVoekZvQVhUeXpzdjBuMG1wd3BB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUs3d0NJbS1TNW1wc3B4YUxydFVlR0YxS2V4OGVrRDgyQi14UzRyRnNleDVqOTh2cW5sb2lUQXRIOVBFb3E5WGtSMGZSTERhNERZU09weUZhaVdtcjFaejk2YkVRVUdvTS1aMkxtOHFhRmxLMTdqNlJXWW1kaXRhVjAwUUh5RHdBbXlYZU8teEstYjVoekZvQVhUeXpzdjBuMG1wd3BB",
+        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789217050.0
+    },
+    {
         "id": "3413cacba8",
         "title_fa": "این چگونه دروغ رشوه خواری ترامپ است",
         "title_en": "This Is How To Frame Trump's Bribe Lie",
@@ -2379,6 +2398,44 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/we-re-running-out-of-missiles-trump-s-tariffs-won-t-save-us-without-ai-factories/ar-AA2c1pkC",
         "image": "https://www.bing.com/th?id=ONUT.29AW3s_fxtuazdu9zyI3Lw",
         "timestamp": 1789135392.075045
+    },
+    {
+        "id": "b0f9c0a4d1",
+        "title_fa": "ترامپ: کانادا مشتاق معامله تجاری با آمریکا است",
+        "title_en": "Trump says Canada keen for US trade deal, agreement could come 'fairly soon'",
+        "summary": [
+            "ترامپ اعلام کرد کانادا تمایل شدیدی به توافق تجاری دارد",
+            "او دوباره از تعرفه‌های کانادا بر کشاورزان آمریکایی انتقاد کرد",
+            "گفت احتمالاً به زودی به توافق می‌رسیم"
+        ],
+        "impact": "تسریع مذاکرات تجاری می‌تواند فشار اقتصادی بر کشاورزان کانادایی را افزایش دهد",
+        "tag": "تجارت",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/trump-says-canada-keen-for-us-trade-deal-agreement-fairly-soon-2993208-2026-09-12",
+        "clean_url": "https://www.indiatoday.in/world/story/trump-says-canada-keen-for-us-trade-deal-agreement-fairly-soon-2993208-2026-09-12",
+        "image": "https://www.bing.com/th?id=ONUT.c5kvgPcFpHUqy060zF30zg",
+        "timestamp": 1789134435.0
+    },
+    {
+        "id": "51355e46fd",
+        "title_fa": "قطر حملات حوثی و ایران را محکوم کرد",
+        "title_en": "Qatar Condemns Houthi And Iranian Attacks On Arab Countries",
+        "summary": [
+            "قطر حملات حوثی به عربستان و حملات ایران به چند کشور عربی را سرسری محکوم کرد",
+            "این اظهارات در جلسه هیئت حاکمان آیوآی‌ای منتشر شد",
+            "قطر حمایت کامل از حاکمیت عربستان و کشورهای هدف را اعلام کرد"
+        ],
+        "impact": "تشدید فشار دیپلماتیک بر حوثی و ایران، احتمالاً منجر به اقدام‌ها مشترک منطقه‌ای می‌شود",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Qatar Living",
+        "url": "https://www.qatarliving.com/en/article/qatar-condemns-houthi-and-iranian-attacks-on-arab-countries",
+        "clean_url": "https://www.qatarliving.com/en/article/qatar-condemns-houthi-and-iranian-attacks-on-arab-countries",
+        "image": "https://www.bing.com/th?id=ONUT._kIs7lzoUHOlIOC8BLR_SQ",
+        "timestamp": 1789134435.0
     },
     {
         "id": "75d39e21b5",
@@ -5420,59 +5477,5 @@
         "clean_url": "https://www.msn.com/en-ca/money/economy/cost-of-maga-merch-skyrockets-thanks-to-trump/ar-AA2bYHXF",
         "image": "https://www.bing.com/th?id=ONUT.jFA9pJjc8SteBZik-DyyHw",
         "timestamp": 1789074706.47757
-    },
-    {
-        "id": "82d56cc93b",
-        "title_fa": "ارجاع ایران به شورای امنیت توسط ناظر هسته‌ای",
-        "title_en": "UN sanctions committee paralyzed as nuclear watchdog refers Iran to Security Council for first time in 20 years",
-        "summary": [
-            "اولین بار در دو دهه است که ناظر هسته‌ای ایران را به شورای امنیت ارجاع کرد؛ نگرانی بین‌المللی به اوج رسید",
-            "کمیته تحریم‌های سازمان ملل به دلیل اختلافات داخلی نتوانست واکنش سریع بدهد؛ فرآیندهای سیاسی مانع اقدام مؤثر شد",
-            "این ارجاع می‌تواند منجر به تصویب تحریم‌های جدید یا بررسی مجدد برنامه هسته‌ای شود؛ فشار بر تهران افزایشی خواهد یافت"
-        ],
-        "impact": "احتمال تصویب تحریم‌های سخت‌گیرانه و محدودیت‌های مالی برای ایران افزایش می‌یابد",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Arab News",
-        "url": "https://www.arabnews.com/middle-east/un-sanctions-committee-paralyzed-as-nuclear-watchdog-refers-iran-to-security-council-for-first-time-in-20-years-3001278",
-        "clean_url": "https://www.arabnews.com/middle-east/un-sanctions-committee-paralyzed-as-nuclear-watchdog-refers-iran-to-security-council-for-first-time-in-20-years-3001278",
-        "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789063407679-87fdef80b195d2d3.jpg",
-        "timestamp": 1789074240.0
-    },
-    {
-        "id": "6b527c2e8a",
-        "title_fa": "این سخنرانی ترامپ پیامی خطرناک برای ایران و بقیه جهان ارسال کرد",
-        "title_en": "This Trump Speech Sent a Dangerous Message to Iran—and the Rest of the World",
-        "summary": [
-            "Trump is telling the world’s leaders that he might bomb the crap out of them at any moment, or treat them like crap as a whim..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Slate",
-        "url": "https://slate.com/news-and-politics/2026/09/trump-iran-war-nuclear-weapons-republican-convention.html",
-        "clean_url": "https://slate.com/news-and-politics/2026/09/trump-iran-war-nuclear-weapons-republican-convention.html",
-        "image": "https://www.bing.com/th?id=ONUT.ZMKzpe4mCRMD_czse_DvSQ",
-        "timestamp": 1789073338.8606942
-    },
-    {
-        "id": "dbcce5c7e6",
-        "title_fa": "گروه وابسته به ایران به بندر کلیدی نزدیک می‌شود",
-        "title_en": "Middle East latest: Iran-backed group closing in on key port",
-        "summary": [
-            "یک گروه شبه‌نظامی تحت حمایت ایران در حال نزدیک شدن به بندری استراتژیک در خلیج است که می‌تواند مسیر حمل‌ونقل نفت را تهدید کند",
-            "اگر این گروه موفق شود، فشار بر ناوبری بین‌المللی افزایش می‌یابد و ممکن است واکنش نظامی یا تحریمی از سوی کشورهای غربی به دنبال داشته باشد"
-        ],
-        "impact": "تهدید عبور کشتی‌ها در خلیج، فشار بر امنیت دریایی منطقه",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Sky News",
-        "url": "https://news.sky.com/story/middle-east-latest-iran-war-will-end-after-midterms-claims-trump-but-report-suggests-it-will-last-much-longer-13509565",
-        "clean_url": "https://news.sky.com/story/middle-east-latest-iran-war-will-end-after-midterms-claims-trump-but-report-suggests-it-will-last-much-longer-13509565",
-        "image": "https://e3.365dm.com/26/09/1600x900/skynews-iran-missiles-us-tankers_7345995.jpg?20260909121158",
-        "timestamp": 1789073100.0
     }
 ]
