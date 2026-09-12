@@ -201,6 +201,24 @@
         "timestamp": 1789200797.2059927
     },
     {
+        "id": "746c5ac0fa",
+        "title_fa": "جنگ شدید در جنوب‌شرقی ایران و تلفات نیروهای امنیتی",
+        "title_en": "Heavy fighting spreads in southeastern Iran, with security force casualties reported",
+        "summary": [
+            "درگیری‌های مسلحانه در استان‌های خوزستان و بوشهر به‌سرعت گسترش یافت و نیروهای امنیتی چند نفر را از دست دادند.",
+            "گزارش‌ها حاکی از حضور گروه‌های شبه‌نظامی محلی و احتمال تشدید درگیری‌های مرزی است."
+        ],
+        "impact": "ناآرامی‌های امنیتی در جنوب‌شرقی، تهدید به گسترش درگیری‌های داخلی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "iranintl.com",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaXM5SUFsWndkZVdxaVNtVURYTHpuVnFkZlhzdXlJTDZxaHNzSVNobzduMjJCOWlhdHo4TkNIN3VzZmpYUGE5NlFXWTNGLUphMkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaXM5SUFsWndkZVdxaVNtVURYTHpuVnFkZlhzdXlJTDZxaHNzSVNobzduMjJCOWlhdHo4TkNIN3VzZmpYUGE5NlFXWTNGLUphMkE",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789200285.0
+    },
+    {
         "id": "1da04b1873",
         "title_fa": "ترامپ تهدید ۱۰٪ تعرفه به کشورهای برکس",
         "title_en": "Trump may be BRICS’s best recruitment agent",
@@ -2460,6 +2478,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-keeps-telling-voters-he-doesn-t-care-much-about-affordability/ar-AA2c0VFs",
         "image": "https://www.bing.com/th?id=ONUT.P4XAWRW-VrZqKssKzf4GTQ",
         "timestamp": 1789122272.7520206
+    },
+    {
+        "id": "29d7e1f604",
+        "title_fa": "آمریکا پوشش دفاع هوایی تانکرها در هرمز را محدود می‌کند",
+        "title_en": "Middle East latest: US 'limits' air defence protection for tankers in Strait of Hormuz",
+        "summary": [
+            "واحدهای دفاع هوایی نیروی هوایی آمریکا در تنگه هرمز فقط به برخی کشتی‌های تجاری اختصاص یافتند.",
+            "کاهش پوشش می‌تواند خطر حملات نیابتی را برای ناوگان نفتی افزایش دهد و هزینه‌های بیمه را بالا ببرد."
+        ],
+        "impact": "کاهش حفاظت هوایی، ریسک حملات به تانکرها و فشار بر بازار نفت خاورمیانه",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Sky",
+        "url": "https://news.sky.com/story/iran-war-latest-trump-blockade-strait-of-hormuz-lebanon-13509565",
+        "clean_url": "https://news.sky.com/story/iran-war-latest-trump-blockade-strait-of-hormuz-lebanon-13509565",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789122102.0
     },
     {
         "id": "142af3c5fd",
@@ -5431,40 +5467,5 @@
         "clean_url": "https://www.pakistantoday.com.pk/2026/09/10/iran-between-resistance-and-diplomacy",
         "image": "https://www.bing.com/th?id=ONUT.uhTvofM59CKd9erMU4rscA",
         "timestamp": 1789064114.092014
-    },
-    {
-        "id": "6f65cbf656",
-        "title_fa": "ویدیوهای مخرب چارلی کرک در فضای مجازی",
-        "title_en": "Charlie Kirk lives a second life as the star of sick brain rot videos",
-        "summary": [
-            "روایت خیالی که شخصیت‌های سیاسی آمریکایی را در صحنه‌ای توهین‌آمیز به تصویر می‌کشد، هدف اصلی شوخی و تحقیر است",
-            "چنین محتوای نادرست می‌تواند به گسترش شایعات ضدحزب‌گرایانه در فضای داخلی ایران منجر شود"
-        ],
-        "impact": "افزایش تنش‌های داخلی و سوءاستفاده از اطلاعات نادرست در رسانه‌های آنلاین",
-        "tag": "اطلاعات‌نادرست",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "Phoenix New Times",
-        "url": "https://www.phoenixnewtimes.com/news/charlie-kirk-stars-in-sick-brain-rot-videos-40696641/",
-        "clean_url": "https://www.phoenixnewtimes.com/news/charlie-kirk-stars-in-sick-brain-rot-videos-40696641",
-        "image": "https://www.bing.com/th?id=ONUT.AnxRkUb82jhGoiNnlboBFQ",
-        "timestamp": 1789064114.091282
-    },
-    {
-        "id": "0e55c0a7d2",
-        "title_fa": "ژاپن نباید به روسیه بگوید کدام بناهای تاریخی را بنا کند - دستیار کرملین",
-        "title_en": "Japan should not tell Russia which monuments to erect — Kremlin aide",
-        "summary": [
-            "Japan should not tell Russia, one of the victors in World War II, which monuments to erect or what to depict on them, Russian Presidential Aide Vladimir Medinsky said. \"Japan should not tell the victors in World War II which monuments to erect on their own territory or what to depict on them,"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2185737",
-        "clean_url": "https://tass.com/politics/2185737",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260910/1486371.jpg",
-        "timestamp": 1789063560.0
     }
 ]
