@@ -538,6 +538,23 @@
         "timestamp": 1789177080.0
     },
     {
+        "id": "cdb6efe9b0",
+        "title_fa": "درگیری مسلحانه در سراوان؛ هویت افراد مسلح و آمار تلفات نامشخص است",
+        "title_en": "درگیری مسلحانه در سراوان؛ هویت افراد مسلح و آمار تلفات نامشخص است",
+        "summary": [
+            "گزارش‌ها از درگیری چند‌ساعته نیروهای امنیتی جمهوری اسلامی با افراد مسلح در منطقه بخشان سراوان حکایت دارند. یک مقام استانی انجام عملیات را تایید کرده، اما هویت افراد مسلح، شمار تلفات و وضعیت ساکنان محل..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609128852",
+        "clean_url": "https://www.iranintl.com/202609128852",
+        "image": "http://www.bing.com/th?id=ONUT.MJ86CMCDb_GkTT2wthFB_A&pid=News",
+        "timestamp": 1789175400.0
+    },
+    {
         "id": "85ec3f3184",
         "title_fa": "خبر بین‌المللی — ELAM: Rates و crude در rise",
         "title_en": "ELAM: Rates and crude on the rise",
@@ -2479,6 +2496,23 @@
         "clean_url": "https://www.ms.now/news/sept-11-lessons-unlearned",
         "image": "https://www.ms.now/wp-content/uploads/2026/09/260908-september-11th-sept-11-911-terrorism-terrorist-world-trade-center-new-york-city-nyc-2001-ground-zero-25-anniversary-es.webp?crop=0px,119px,1600px,840px&w=1200&h=630",
         "timestamp": 1789118661.2983325
+    },
+    {
+        "id": "50b3409c6d",
+        "title_fa": "اعتراضات بزرگ سفر ترامپ به ایرلند را تحت الشعاع قرار داد: \"ما او را نمی‌خواهیم\"",
+        "title_en": "Huge protests overshadow Trump’s Ireland trip: ‘We don’t want him’",
+        "summary": [
+            "Huge protests set to overshadow Trump’s golfing trip to Ireland: ‘We don’t want him here’ - The US president’s short visit to..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/huge-protests-overshadow-trump-s-ireland-trip-we-don-t-want-him/ar-AA2c4iiM?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/huge-protests-overshadow-trump-s-ireland-trip-we-don-t-want-him/ar-AA2c4iiM",
+        "image": "https://www.bing.com/th?id=ONUT.ZKNoTtNe9zNq3jiuHNJCEA",
+        "timestamp": 1789118517.0
     },
     {
         "id": "2ad77417ea",
@@ -5440,43 +5474,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lV28zdGpteWJTc3ZrNzdfb0hWdG5UTnZraEdWR2xIZU9ZQlNOSTZKSHlvR0dJVnlVMm42TFZ0amZSMG9qR1ZxZG9LSlJabG9mSWc",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789059883.0
-    },
-    {
-        "id": "b50f771cc9",
-        "title_fa": "تحلیل: پایان جنگ آمریکا‑ایران وابسته به چین",
-        "title_en": "¿Cómo terminará la guerra entre Estados Unidos e Irán?",
-        "summary": [
-            "تحلیلگر ای‌ال پائس می‌گوید فشارهای اقتصادی آمریکا بدون همکاری چین نمی‌تواند به‌سرانجام برسد.",
-            "بدون راضی‌سازی چین، مسیر صلح‌پذیری برای هر دو طرف به‌دور از دسترس می‌ماند."
-        ],
-        "impact": "ادامه تحریم‌ها و عدم همکاری چین می‌تواند جنگ را به‌صورت طولانی‌مدت ادامه دهد.",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "EL PAÍS",
-        "url": "https://elpais.com/ideas/2026-09-11/como-terminara-la-guerra-entre-estados-unidos-e-iran.html",
-        "clean_url": "https://elpais.com/ideas/2026-09-11/como-terminara-la-guerra-entre-estados-unidos-e-iran.html",
-        "image": "http://www.bing.com/th?id=ONUT.iavbjEGcY64rn73lHq_prg&pid=News",
-        "timestamp": 1789059600.0
-    },
-    {
-        "id": "c7a3a22623",
-        "title_fa": "ترامپ درخواست بن سلمان برای حمله به حوثی‌ها رد کرد",
-        "title_en": "اکسیوس: ترامپ درخواست بن سلمان را برای حمله آمریکا به حوثی‌ها رد کرد",
-        "summary": [
-            "واشینگتن تمایلی به گسترش جنگ در یمن نشان نداده و درخواست سعودی را رد کرده است",
-            "این تصمیم نشان می‌دهد آمریکا هنوز نمی‌خواهد جبهه جدیدی در خاورمیانه باز کند",
-            "سعودی‌ها با فشار دیپلماتیک سعی در جلب حمایت نظامی آمریکا دارند اما با رد درخواست مواجه شدند",
-            "رد درخواست می‌تواند تنش‌های منطقه‌ای را محدود کند ولی نارضایتی عربستان را افزایش دهد"
-        ],
-        "impact": "امکان گسترش جنگ در یمن کاهش می‌یابد و فشار سیاسی بر عربستان افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/2026091154880",
-        "clean_url": "https://www.iranintl.com/2026091154880",
-        "image": "http://www.bing.com/th?id=ONUT.2a8cmjEYpP1hctl-kpJeIw&pid=News",
-        "timestamp": 1789059600.0
     }
 ]
