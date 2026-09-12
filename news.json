@@ -1,5 +1,25 @@
 [
     {
+        "id": "a6e5744a03",
+        "title_fa": "پیشنهاد ۵۰۰۰ دلاری ترامپ برای رای‌گیری",
+        "title_en": "ANDREW NEIL: When even Fox News can see Trump is verging on doolally, a fantasy $5,000 bribe won't save his skin in the mid-terms",
+        "summary": [
+            "ترامپ برای حفظ اکثریت جمهوری‌خواهان در انتخابات میانه‌دوره ۵۰۰۰ دلار به هر شهروند پیشنهاد داد",
+            "این اقدام به‌عنوان پرداخت انتخاباتی در برابر رای شناخته شد و نشان‌دهنده اضطراب شدید حزب است",
+            "تحلیل‌گران می‌گویند این طرح می‌تواند واکنش‌های قانونی و اعتراض عمومی را به‌هم بزند",
+            "اگر اجرا شود، اعتماد عمومی به فرآیند انتخاباتی به‌طور چشمگیری کاهش می‌یابد"
+        ],
+        "impact": "اعتماد به انتخابات و تصویر بین‌المللی آمریکا تحت فشار شدید قرار می‌گیرد",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Daily Mail",
+        "url": "https://www.dailymail.com/debate/article-16124363/ANDREW-NEIL-Trump-doolally-bribe-mid-terms.html",
+        "clean_url": "https://www.dailymail.com/debate/article-16124363/ANDREW-NEIL-Trump-doolally-bribe-mid-terms.html",
+        "image": "https://www.bing.com/th?id=ONUT.6iifYsUmon6QDo3QV35P_A",
+        "timestamp": 1789172953.3654413
+    },
+    {
         "id": "2403c45888",
         "title_fa": "بازارها اشتباه AI و تورم را می‌سازند",
         "title_en": "Markets may be making a horrible miscalculation on AI and inflation",
@@ -5409,25 +5429,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Oal9mZ1AzMi1jUE1EUUxJWk51dHQ2ZUJ5b3p1Uy1yUllROXgzekFnOEVkUUZvT3FDd2xibGJTTGJJRmZfZHRZMm1Mckh2bmlFVzdWa055eERZcmdBRUdXcXktLTNFWUJ3blVsd2ZB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789045461.0
-    },
-    {
-        "id": "e3df8d377a",
-        "title_fa": "ترامپ و جنگ ایران؛ شکست مشروعیت‌پذیری",
-        "title_en": "How Donald Trump’s war in Iran is failing the legitimacy test in the eyes of US voters",
-        "summary": [
-            "ترامپ زمان‌بندی جدیدی برای پایان جنگ اعلام کرد اما بدون هدف واضحی که رأی‌دهندگان بتوانند آن را بپذیرند",
-            "جنگ طولانی‌مدت در تنگه هرمز، بدون پیشرفت واضح، اعتبار داخلی او را در خطر می‌اندازد",
-            "عدم تعریف واضح برای پیروزی، باعث تکرار حملات رد‑در‑پاس می‌شود که هیچ تغییری در وضعیت استراتژیک ایجاد نمی‌کند",
-            "این بی‌هدفی، ریسک تشدید تنش‌های منطقه‌ای و فشارهای اقتصادی بر آمریکا را بالا می‌برد"
-        ],
-        "impact": "کاهش حمایت داخلی آمریکا برای مداومت در جنگ و افزایش فشارهای بین‌المللی برای دیپلماسی سریع",
-        "tag": "سیاست",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Conversation",
-        "url": "https://theconversation.com/how-donald-trumps-war-in-iran-is-failing-the-legitimacy-test-in-the-eyes-of-us-voters-291686",
-        "clean_url": "https://theconversation.com/how-donald-trumps-war-in-iran-is-failing-the-legitimacy-test-in-the-eyes-of-us-voters-291686",
-        "image": "https://www.bing.com/th?id=ONUT.6CTTh8z1lt1o79bgyEKLbg",
-        "timestamp": 1789045394.740255
     }
 ]
