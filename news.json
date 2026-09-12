@@ -2537,6 +2537,24 @@
         "timestamp": 1789090440.0
     },
     {
+        "id": "f8f7f5ed8d",
+        "title_fa": "پیش‌بینی طوفان و گرما در کارولینای جنوبی",
+        "title_en": "Saturday storms and heat index forecast",
+        "summary": [
+            "متخصص هواشناسی ویکتوریا کوکینوس پیش‌بینی بارش‌های پراکنده و دمای احساسی بالا برای شنبه اعلام کرد",
+            "دماهای نزدیک ۳۵ °C با رطوبت زیاد می‌تواند خطر گرمازدگی و ترافیک سنگین ایجاد کند"
+        ],
+        "impact": "بارش ناگهانی و گرمای شدید می‌تواند رانندگی، فعالیت‌های بیرونی و مصرف برق را تحت فشار قرار دهد",
+        "tag": "آب‌وهوای",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "YouTube on MSN",
+        "url": "https://www.msn.com/en-us/weather/meteorology/saturday-storms-and-heat-index-forecast/vi-AA2c3LNL?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/weather/meteorology/saturday-storms-and-heat-index-forecast/vi-AA2c3LNL",
+        "image": "https://www.bing.com/th?id=ONUT.zQyMuHatLXhwOqPJ79hEdg",
+        "timestamp": 1789090419.0
+    },
+    {
         "id": "371eb9cfdd",
         "title_fa": "پادزهر نفت آمریکا‌ها پس از بحران ایران",
         "title_en": "The Americas’ Oil Bonanza Will Outlast the Iran Conflict: Bousso",
@@ -5412,25 +5430,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/raphäel-glucksmann-a-hawk-in-progressive-clothing/ar-AA2bWLc2",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789047381.190932
-    },
-    {
-        "id": "fb3e18cdde",
-        "title_fa": "حمله هوایی آمریکا-اسرائیل به تهران: ۴۱ کشته غیرنظامی",
-        "title_en": "US-Israeli Strikes in Iran May Constitute War Crimes: Amnesty",
-        "summary": [
-            "آمینستی اعلام کرد سلاح‌های انفجاری گسترده به محله‌های مسکونی هدف‌گیری کرده و ممکن است جرم جنگی باشد",
-            "مسئولیت رسمی توسط آمریکا یا اسرائیل تأیید نشده اما شواهد نشان می‌دهد هدف‌های امنیتی در میان خانه‌ها قرار داشته‌اند",
-            "حداقل ۴۱ غیرنظامی، از جمله ۱۳ نفر یک خانواده، کشته شدند و واکنش داخلی و بین‌المللی را تشدید می‌کند",
-            "این حادثه می‌تواند فشار برای بررسی قوانین جنگی و اعمال تحریم‌های جدید علیه مقامات نظامی را افزایش دهد"
-        ],
-        "impact": "کشتار غیرنظامیان و اتهام جرم جنگی ممکن است منجر به تحریم‌های جدید و تشدید تنش‌های منطقه‌ای شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "The Defense Post",
-        "url": "https://thedefensepost.com/2026/09/11/us-israeli-iran-war-crimes/",
-        "clean_url": "https://thedefensepost.com/2026/09/11/us-israeli-iran-war-crimes",
-        "image": "https://www.bing.com/th?id=ONUT.SofV52E_8v3gxRLWMN00nw",
-        "timestamp": 1789046649.0
     }
 ]
