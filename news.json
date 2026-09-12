@@ -1,5 +1,25 @@
 [
     {
+        "id": "50015a5337",
+        "title_fa": "داستان سگ هریشی و واکنش به رسانه‌ها",
+        "title_en": "You Said It: Sept. 12, 2026",
+        "summary": [
+            "نویسنده به رفتار مثبت سگ هریشی که زباله‌ها را جمع می‌کند، تحسین می‌کند",
+            "او انتقاد می‌کند از پوشش خبری رسانه‌ای که به جای مسائل مهم، به دوربین‌های Flock می‌پردازد",
+            "این متن نشان می‌دهد که حتی در اخبار محلی، تضاد بین ارزش‌های شهروندی و sensationalism وجود دارد",
+            "درخواست نام‌گذاری مسیر پارک به‌نام هریشی، نمادی از تشویق رفتارهای مسئولانه است"
+        ],
+        "impact": "تشویق به رفتارهای محیط‌زیستی می‌تواند آگاهی عمومی را افزایش دهد؛ اما انتقاد از رسانه‌ها تأثیر کمی بر سیاست دارد",
+        "tag": "اجتماعی",
+        "urgency": 2,
+        "sentiment": 0.3,
+        "source": "The Grand Junction Daily Sentinel",
+        "url": "https://www.gjsentinel.com/opinion/you_said_it/you-said-it-sept-12-2026/article_2c256807-db00-4811-bdcf-7585779e74b1.html",
+        "clean_url": "https://www.gjsentinel.com/opinion/you_said_it/you-said-it-sept-12-2026/article_2c256807-db00-4811-bdcf-7585779e74b1.html",
+        "image": "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/custom/image/b32d0574-1b24-11ec-a31e-77e4d5ecaec6.jpg?resize=600%2C315",
+        "timestamp": 1789200797.2059927
+    },
+    {
         "id": "1da04b1873",
         "title_fa": "ترامپ تهدید ۱۰٪ تعرفه به کشورهای برکس",
         "title_en": "Trump may be BRICS’s best recruitment agent",
@@ -2495,6 +2515,43 @@
         "clean_url": "https://www.newarab.com/opinion/25-years-after-911-did-osama-bin-laden-really-win",
         "image": "https://www.bing.com/th?id=ONUT.KnNzb2PciK3dPKSE2zjnSQ",
         "timestamp": 1789114493.3362792
+    },
+    {
+        "id": "70bafd35d5",
+        "title_fa": "خبر بین‌المللی — چینی entities reportedly supplied ایران with satellite image",
+        "title_en": "Chinese entities reportedly supplied Iran with satellite imagery linked to deadly attack on US base",
+        "summary": [
+            "Chinese entities provided Iran with high-quality satellite imagery of a US Air Force base in Jordan before and after the Islamic Republic carried out a deadly attack there on July 17, the Wall Street..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/chinese-entities-reportedly-supplied-iran-with-satellite-imagery-linked-to-deadly-attack-on-us-base/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/chinese-entities-reportedly-supplied-iran-with-satellite-imagery-linked-to-deadly-attack-on-us-base",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789114389.0
+    },
+    {
+        "id": "629b14ffd6",
+        "title_fa": "چین تصاویر ماهواره‌ای به ایران داد؛ حمله به پایگاه آمریکایی",
+        "title_en": "Did China Help Iran? Chinese Entities Shared US Base Images Before Deadly Strike: Report",
+        "summary": [
+            "شرکت‌های چینی تصاویر با وضوح بالا از پایگاه هوایی مووافق سلتی در اردن به ایران منتقل کردند",
+            "این تصاویر قبل و بعد از حمله موشکی ۱۷ ژوئیه که سه نیروی آمریکایی کشته شد، به‌کار رفته‌اند",
+            "ارتباط مستقیم بین اطلاعات چینی و برنامه‌ریزی حمله نشان‌دهنده گسترش همکاری نظامی‑اطلاعاتی ایران‑چین است",
+            "آمریکا ممکن است واکنش نظامی یا تحریم‌های جدید علیه چین اعمال کند"
+        ],
+        "impact": "اطلاعات دقیق چینی به ایران امکان هدف‌گیری دقیق را داد؛ احتمال تشدید تنش‌های آمریکا‑چین بالا رفت",
+        "tag": "اطلاعات",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/us/us-news/did-china-help-iran-chinese-entities-shared-us-base-images-before-deadly-strike-report-article-156144294",
+        "clean_url": "https://www.timesnownews.com/world/us/us-news/did-china-help-iran-chinese-entities-shared-us-base-images-before-deadly-strike-report-article-156144294",
+        "image": "https://www.bing.com/th?id=ONUT.IDju8MjP4DjdR2ODYOH4pg",
+        "timestamp": 1789114389.0
     },
     {
         "id": "c3a1113b89",
@@ -5421,61 +5478,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1UxOEFocWZUYXJVTUdzcW10bmc3SGRzLWdXOFBUMjUxbVAyOUFrZTJQMXJpeFI3U1BheDVPYzdzOG5yOG04TjU0VWpCS2hBdDlmd3VVcV9VYzZXVjN6dHlSeklJR2ZkdWRlaGcyN2dFMjlHbFpHbjVybUJySmZTSGowSFNRYUhBQm9IajBENWFQeG5KOF9zNTk0NFhUYzFEOXczbHFpb2tPaW1ZSDlmUXgyZFRVNUZrNG1SSnFWZUw3LUh2LTdRNE9n",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789057856.0
-    },
-    {
-        "id": "38150fc488",
-        "title_fa": "حضور عجیب جان فترمن در RNC",
-        "title_en": "The latest on John Fetterman.",
-        "summary": [
-            "فترمن در کنفرانس ملی جمهوری‌خواه ظاهر شد و واکنش‌های متفاوتی به دست آورد",
-            "در همان روز خزانه‌داری اعلام خرید مجدد بدهی کرد و تحریم نفت روسیه مطرح شد"
-        ],
-        "impact": "تأثیر محدود بر سیاست داخلی آمریکا، بدون اثر مستقیم بر ایران",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "readtangle",
-        "url": "https://www.readtangle.com/john-fetterman-democrats/",
-        "clean_url": "https://www.readtangle.com/john-fetterman-democrats",
-        "image": "https://storage.ghost.io/c/4a/93/4a939b47-6a19-4b38-a13c-89d5a0f0d6dd/content/images/size/w1200/2026/09/Fetterman.png",
-        "timestamp": 1789057404.7185621
-    },
-    {
-        "id": "860c7952a8",
-        "title_fa": "پیشرفت مذاکرات پایان جنگ ایران‑آمریکا",
-        "title_en": "How Far Have the U.S. and Iran Got Towards Ending the Iran War?",
-        "summary": [
-            "مذاکرات سرکوب‌پذیر بین واشنگتن و تهران با حضور چین و روسیه ادامه دارد",
-            "هر دو طرف گام‌های محدود برای کاهش تصادفات هوایی و تبادل زندانیان برداشته‌اند",
-            "هنوز توافق نهایی برای خروج کامل نیروها یا پایان تحریم‌ها حاصل نشده است"
-        ],
-        "impact": "امکان کاهش تنش‌های نظامی و بازگشت سرمایه‌گذاری‌های منطقه‌ای",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3ZFUk1PaVIxUXpiWVR4dnFzdm5JaDNlZmVkSFQxUlVYck4tOUNnQnJadzVyMFoteE1rOEJOdkRUWVpLRlgwci10MmVUZDg1UUdpcGVkNDhZVTBaMzJGX056UVFsYjdDdGo4ZFdkNTVDQnhEd1JXNnl3ajQtT0swM3owdHpVOUxKb2E0d3M2Mmg1WC15LV80?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3ZFUk1PaVIxUXpiWVR4dnFzdm5JaDNlZmVkSFQxUlVYck4tOUNnQnJadzVyMFoteE1rOEJOdkRUWVpLRlgwci10MmVUZDg1UUdpcGVkNDhZVTBaMzJGX056UVFsYjdDdGo4ZFdkNTVDQnhEd1JXNnl3ajQtT0swM3owdHpVOUxKb2E0d3M2Mmg1WC15LV80",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789057340.0
-    },
-    {
-        "id": "4161eb4e06",
-        "title_fa": "جزیره پرم؛ نقطه حساس در گسترش جنگ ایران‑یمن",
-        "title_en": "Why Perim Island Matters As Houthis Push To Capture Yemen's Mocha Port",
-        "summary": [
-            "حمله حوثی‌ها به بندر موچا، جزیره پرم را به خط مقدم تبدیل کرده؛ این جزیره در تنگ‌ترین نقطه باب‌ال‌مندب قرار دارد.",
-            "تسلط حوثی‌ها بر پرم می‌تواند مسیر کشتی‌های حامل نفت سعودی را در تنگه مسدود کند و فشار بر بازارهای انرژی جهانی را افزایشت دهد.",
-            "سخنرانی‌های نظامی آمریکا و اسرائیل درباره خطرات احتمالی در باب‌ال‌مندب، نشان از آماده‌سازی برای مقابله نظامی دارد."
-        ],
-        "impact": "اختلال در عبور نفت‌کش‌های سعودی؛ نوسان شدید قیمت نفت جهانی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Outlook India",
-        "url": "https://www.outlookindia.com/international/why-perim-island-matters-as-houthis-push-to-capture-yemens-mocha-port",
-        "clean_url": "https://www.outlookindia.com/international/why-perim-island-matters-as-houthis-push-to-capture-yemens-mocha-port",
-        "image": "https://cf-images.assettype.com/outlookindia/2024-12-25/1u4celm5/Yemen-War?w=1200&amp;ar=40:21&amp;auto=format,compress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
-        "timestamp": 1789056900.0
     }
 ]
