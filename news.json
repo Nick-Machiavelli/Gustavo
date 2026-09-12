@@ -4476,6 +4476,23 @@
         "timestamp": 1789063094.0
     },
     {
+        "id": "2da3d908d6",
+        "title_fa": "Donald ترامپ",
+        "title_en": "Donald Trump",
+        "summary": [
+            "Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz. Observers on both sides of the political divide express concern about Trump’s..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/tag/donald-trump/",
+        "clean_url": "https://www.aljazeera.com/tag/donald-trump",
+        "image": "https://www.aljazeera.com/images/logo_aje_social.png",
+        "timestamp": 1789063080.0
+    },
+    {
         "id": "f14d8be447",
         "title_fa": "آمریکا در بازگشایی تنگه هرمز پیشرفت هایی داشت، اما ایران به پایان نرسید",
         "title_en": "The US made progress in reopening the Strait of Hormuz, but Iran war is not over",
@@ -5417,22 +5434,5 @@
         "clean_url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-climbs-as-markets-see-a-long-war-evening-briefing-americas",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789050960.0
-    },
-    {
-        "id": "e63635a9c1",
-        "title_fa": "در ادامه عملیات طرد اقتصادی؛ آمریکا تعدادی از شبکه‌های مرتبط با جمهوری اسلامی را تحریم کرد",
-        "title_en": "در ادامه عملیات طرد اقتصادی؛ آمریکا تعدادی از شبکه‌های مرتبط با جمهوری اسلامی را تحریم کرد",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا ۱۴ فرد و پنج شرکت در عراق، لبنان، امارات متحده عربی و ترکیه را به اتهام تامین مالی و پشتیبانی از کتائب حزب‌الله عراق، حزب‌الله لبنان و نیروی قدس سپاه پاسداران تحریم کرد."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609107825",
-        "clean_url": "https://www.iranintl.com/202609107825",
-        "image": "http://www.bing.com/th?id=ONUT.Gdc0a4_SuaO-AJ3MoWiZ4g&pid=News",
-        "timestamp": 1789050540.0
     }
 ]
