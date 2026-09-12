@@ -2344,6 +2344,25 @@
         "timestamp": 1789138990.334258
     },
     {
+        "id": "6a0364fb97",
+        "title_fa": "رؤسای برکس نگرانی از تنش خاورمیانه و تحریم‌های یک‌جانبه",
+        "title_en": "Brics leaders voice concern over Middle East and condemn unilateral sanctions",
+        "summary": [
+            "بیانیه برکس به‌صورت غیرمستقیم به حملات آمریکا/اسرائیل به تأسیسات هسته‌ای ایران انتقاد کرد",
+            "تأکید بر حذف تحریم‌های بدون مجوز شورای امنیت نشانگر همبستگی اقتصادی‑سیاسی اعضا در برابر فشار غرب است",
+            "حضور رئیس‌جمهور ایران در نیودلهی نشان از تقویت موقعیت دیپلماتیک تهران در چارچوب برکس دارد"
+        ],
+        "impact": "بیانیه می‌تواند فشار سیاسی بر آمریکا و اسرائیل را بالا برده و همبستگی اقتصادی برکس را تقویت کند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Bradford Telegraph & Argus",
+        "url": "https://www.thetelegraphandargus.co.uk/news/national/26545020.brics-leaders-voice-concern-middle-east-condemn-unilateral-sanctions/",
+        "clean_url": "https://www.thetelegraphandargus.co.uk/news/national/26545020.brics-leaders-voice-concern-middle-east-condemn-unilateral-sanctions",
+        "image": "https://www.bing.com/th?id=ONUT.9VPSS0XT3SKu-3ayrqaSjQ",
+        "timestamp": 1789138971.0
+    },
+    {
         "id": "b181d44f5e",
         "title_fa": "قیمت گازوئیل در ایالات متحده از 6 دلار در هر گالن گذشت و فشار برای حمل و نقل کالاهای روزمره تشدید شد.",
         "title_en": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
@@ -5460,22 +5479,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAyY0FXd2RlMlRnQWFp0gGmAUFVX3lxTFBiOXlWck42MkJWNjhKWDVDQWZXVGdLNm94cEU4b2ZJdlkxWFVyVWJpQkppenhGeW1JWGpESDh4UDFTS2s3WS1qa0c2cXJXLTlWa0pnd2pjZ19WcVZFaFhxRDZqNkI4QURjSGpDd0JUQ1lXSGY0Y3hGRVJrNUQyLUlzeEpTNmVwZmhobmZDeHlsWVk2NktDNEdwWXA2Uld5Z0JBUkhWVGc",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789078174.0
-    },
-    {
-        "id": "d1364b204f",
-        "title_fa": "نشست بریکس در دهلی با آزمون اختلافات ایران و امارات روبروست",
-        "title_en": "BRICS summit in Delhi faces test over Iran-UAE differences",
-        "summary": [
-            "India will host the BRICS Leaders' Summit in New Delhi on September 12 and 13, with the grouping facing a major test in finding common ground on the West Asia conflict amid differences between members Iran and the United Arab Emirates."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daijiworld",
-        "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1325346",
-        "clean_url": "https://www.daijiworld.com/news/newsDisplay",
-        "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/ASM_differences_10092026_1.jpg",
-        "timestamp": 1789077720.0
     }
 ]
