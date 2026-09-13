@@ -1,5 +1,43 @@
 [
     {
+        "id": "c0674ca512",
+        "title_fa": "جیمی کیمل درباره ترامپ شوخی کرد",
+        "title_en": "Jimmy Kimmel Recaps Nation’s Summer Struggles and Says Trump ‘Accomplished Nothing’",
+        "summary": [
+            "کیمل در برنامه ۴۰۰۰مین خود، عملکرد ترامپ را به‌صورت طنزانه نقد کرد",
+            "او ادعا کرد مشکلات اقتصادی و جنگ با ایران توسط ترامپ حل شده‌اند",
+            "واکنش تماشاگران با بوق و خنده نشان داد که شوخی‌ها به‌دست مخاطب نرسید"
+        ],
+        "impact": "تقویت تصویر منفی ترامپ در فضای عمومی آمریکا",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/jimmy-kimmel-recaps-nation-summer-095400000.html",
+        "clean_url": "https://www.aol.com/articles/jimmy-kimmel-recaps-nation-summer-095400000.html",
+        "image": "https://www.bing.com/th?id=ONUT.bMgf54SkchYysQXgUso80A",
+        "timestamp": 1789297381.7854264
+    },
+    {
+        "id": "c32ddfc194",
+        "title_fa": "انرژی هسته‌ای: خبر ترسناک اما بازار خوشحال",
+        "title_en": "Nuclear Power: The Terrifying News That’s Great For The Market",
+        "summary": [
+            "مقاله فوربس می‌گوید نگرانی‌های هسته‌ای به نفع قیمت‌های انرژی می‌چرخد",
+            "سرمایه‌گذاران به دلیل تقاضای ثابت انرژی، به بازار هسته‌ای گرایش پیدا کرده‌اند",
+            "این روند ممکن است سرمایه‌گذاری در پروژه‌های نوین را تقویت کند"
+        ],
+        "impact": "قیمت‌های انرژی در بازارهای جهانی ممکن است تثبیت یا رشد کند",
+        "tag": "هسته‌ای",
+        "urgency": 3,
+        "sentiment": 0.3,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/digital-assets/2026/09/13/nuclear-power-the-terrifying-news-thats-great-for-the-market/",
+        "clean_url": "https://www.forbes.com/sites/digital-assets/2026/09/13/nuclear-power-the-terrifying-news-thats-great-for-the-market",
+        "image": "https://www.bing.com/th?id=ONUT.6QAxt44T63U2VTal-9K8fw",
+        "timestamp": 1789297381.7846873
+    },
+    {
         "id": "7d0929b68f",
         "title_fa": "پیشنهاد جدید معامله هسته‌ای آمریکا‑ایران",
         "title_en": "From maximum pressure to maximum leverage: What a US-Iran nuclear deal should look like",
@@ -495,6 +533,25 @@
         "clean_url": "https://www.msn.com/en-au/politics/government/fear-and-delusion-in-dallas-inside-trump-s-midterm-convention-flop/ar-AA2c6FRf",
         "image": "https://www.bing.com/th?id=ONUT.N2tjmZShIVWePozRzdD6Ag",
         "timestamp": 1789272211.5542388
+    },
+    {
+        "id": "c37c2931fb",
+        "title_fa": "کشتی تجاری ایران در تنگه هرمز اصابت شد",
+        "title_en": "Iran reports commercial vessel struck in Strait of Hormuz",
+        "summary": [
+            "رسانه‌های دولتی ایران اعلام کردند کشتی تجاری در شب‌شنبه در تنگه هرمز اصابت یافت",
+            "یک نفر کشته شد و تنش‌های دریایی میان آمریکا و ایران تشدید شد",
+            "حادثه می‌تواند به اعمال تحریم‌های جدید علیه ایران منجر شود"
+        ],
+        "impact": "احتمال افزایش فشار دیپلماتیک و تجاری بر ایران",
+        "tag": "دریایی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-reports-commercial-vessel-struck-in-strait-of-hormuz/ar-AA2c74lj",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-reports-commercial-vessel-struck-in-strait-of-hormuz/ar-AA2c74lj",
+        "image": "http://www.bing.com/th?id=ONUT.Cyds1VypI65cmLCVFcNDEA&pid=News",
+        "timestamp": 1789270600.0
     },
     {
         "id": "2027386edd",
@@ -5493,56 +5550,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday",
         "image": "http://www.bing.com/th?id=ONUT.sqb_rq8QJfc5T368ldO04w&pid=News",
         "timestamp": 1789126380.0
-    },
-    {
-        "id": "d3d53a7c55",
-        "title_fa": "چگونه جنگ علیه ترور 11 سپتامبر را به زخمی برای همیشه باز تبدیل کرد",
-        "title_en": "How the War on Terror Turned 9/11 Into a Permanently Open Wound",
-        "summary": [
-            "The first murder I witnessed was at age 3, on01. Although I was too young to fully grasp what the burning towers across the Hudson River meant, I soon came to understand that many..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/war-terror-turned-9-11-110028523.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/war-terror-turned-9-11-110028523.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/37e719ff83ef8afa41874ab24b7c58b86b4f6e8d49f3cbfdafbf7969637c386c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freason_com_245%2Fbbeb95ef61cdf839c1c1244a9c17cca8.jpg",
-        "timestamp": 1789125794.1139185
-    },
-    {
-        "id": "4683b1f64a",
-        "title_fa": "11 سپتامبر، 25 سال بعد",
-        "title_en": "September 11, 25 Years Later",
-        "summary": [
-            "Plus: The Houthis seize a strategic Yemeni port city, the European Central Bank raises interest rates, and the Supreme Court..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Dispatch",
-        "url": "https://thedispatch.com/newsletter/morning/september-11-25-years-later/",
-        "clean_url": "https://thedispatch.com/newsletter/morning/september-11-25-years-later",
-        "image": "https://www.bing.com/th?id=ONUT.ElJdoWbylshBNclTseh4aA",
-        "timestamp": 1789125794.1136181
-    },
-    {
-        "id": "653c00fb7e",
-        "title_fa": "ایران از هوش مصنوعی کلود برای هدف قرار دادن کشتی های جنگی نیروی دریایی آمریکا استفاده کرد؟ در اینجا چیزی است که گزارش تهدید Anthropic می‌گوید",
-        "title_en": "Iran used Claude AI to target US Navy warships? Here’s what Anthropic’s threat report says",
-        "summary": [
-            "Anthropic's recent report exposes the misuse of its Claude AI in developing biological weapons and cyber espionage linked to..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Financial Express",
-        "url": "https://www.financialexpress.com/world-news/us-news/iran-used-claude-ai-to-target-us-navy-warships-heres-what-anthropics-threat-report-says/4337879/",
-        "clean_url": "https://www.financialexpress.com/world-news/us-news/iran-used-claude-ai-to-target-us-navy-warships-heres-what-anthropics-threat-report-says/4337879",
-        "image": "https://www.bing.com/th?id=ONUT.-ZZn0W2iH3ah1gL4b6tYRA",
-        "timestamp": 1789125645.0
     }
 ]
