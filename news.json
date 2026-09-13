@@ -34,6 +34,26 @@
         "timestamp": 1789318168.724255
     },
     {
+        "id": "8e8e1297ba",
+        "title_fa": "ترامپ: آمریکا در ایران می‌ماند و نفت را نگه می‌دارد",
+        "title_en": "Trump says US could 'decide to stay' in Iran and 'keep the oil'",
+        "summary": [
+            "بیان ترامپ نشان می‌دهد احتمال اعمال فشار نظامی یا تحریم‌های سنگین کمتر می‌شود",
+            "پیام او می‌تواند در ایران حس امید یا سردرگمی ایجاد کند",
+            "حفظ حضور آمریکا در ایران، رقبا را به دنبال نفوذ در بازار نفت منطقه می‌کشاند",
+            "سخنرانی به‌نظر می‌رسد برای جذب حمایت داخلی در دوره انتخاباتی باشد"
+        ],
+        "impact": "کاهش فشار دیپلماتیک بر ایران و نوسان در قیمت نفت منطقه",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "USA Today",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObk1OMkRCeTUtWGI5dm9aQjYwTzJHdVkzdFpxTkZZUXc3dXNxRmxfNUY0dWFKaXhKVnZPQ3VXT29UNENoOHUwXzhhdXBPal9seTJ3WmFQNjNnYjFDajZueG1UVHlOeGxmNldWLVppTWlseTg0bEd0aS1nNDNQSVF4M08tbm9HQkJOel9aNVRyWkF4a1ZXdjlaT3BqMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObk1OMkRCeTUtWGI5dm9aQjYwTzJHdVkzdFpxTkZZUXc3dXNxRmxfNUY0dWFKaXhKVnZPQ3VXT29UNENoOHUwXzhhdXBPal9seTJ3WmFQNjNnYjFDajZueG1UVHlOeGxmNldWLVppTWlseTg0bEd0aS1nNDNQSVF4M08tbm9HQkJOel9aNVRyWkF4a1ZXdjlaT3BqMA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789318080.0
+    },
+    {
         "id": "87d7f49b29",
         "title_fa": "نقش جدید نفت پس از جنگ ایران",
         "title_en": "Post Iran war, oil is the new oil",
@@ -5536,24 +5556,5 @@
         "clean_url": "https://tass.com/politics/2186367",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260911/1486493.jpg",
         "timestamp": 1789145580.0
-    },
-    {
-        "id": "cdab52c0a0",
-        "title_fa": "حوثی‌ها جزیره‌ای در دریای سرخ را تصرف کردند",
-        "title_en": "Yemen's Houthis capture a Red Sea island in a threat to shipping, and other Mideast developments",
-        "summary": [
-            "حوثی‌ها جزیره‌ای کوچک در دریای سرخ را به‌دست گرفتند و مسیرهای تجاری را تهدید کردند",
-            "این حرکت فشار بین‌المللی بر یمن و ایالات متحده را بالا می‌برد",
-            "ناوگان‌های تجاری ممکن است مسیرها را تغییر دهند یا هزینه‌های امنیتی بیشتری بپردازند"
-        ],
-        "impact": "تجارت بین‌المللی در خلیج فارس با خطر حوادث ناوبری مواجه می‌شود",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Advocate",
-        "url": "https://www.stamfordadvocate.com/news/article/houthis-capture-red-sea-island-in-threat-to-22426949.php",
-        "clean_url": "https://www.stamfordadvocate.com/news/article/houthis-capture-red-sea-island-in-threat-to-22426949.php",
-        "image": "https://s.hdnux.com/photos/01/67/24/06/31277466/3/rawImage.jpg",
-        "timestamp": 1789144020.0
     }
 ]
