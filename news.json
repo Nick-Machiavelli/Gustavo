@@ -1,5 +1,23 @@
 [
     {
+        "id": "87d7f49b29",
+        "title_fa": "نقش جدید نفت پس از جنگ ایران",
+        "title_en": "Post Iran war, oil is the new oil",
+        "summary": [
+            "مقاله به تغییرات بازار نفت پس از پایان جنگ ایران اشاره می‌کند",
+            "نویسنده بر اهمیت منابع انرژی برای کشورهای غربی تأکید دارد"
+        ],
+        "impact": "قیمت جهانی نفت ممکن است تحت تأثیر تحولات سیاسی ایران نوسان کند",
+        "tag": "نفت",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Hindustan Times on MSN",
+        "url": "https://www.msn.com/en-in/money/economy/post-iran-war-oil-is-the-new-oil/ar-AA2c8eNN?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/money/economy/post-iran-war-oil-is-the-new-oil/ar-AA2c8eNN",
+        "image": "https://www.bing.com/th?id=ONUT.lFCatufgxHO_Cu5AJOpJOA",
+        "timestamp": 1789317345.0180676
+    },
+    {
         "id": "8396db1dd8",
         "title_fa": "کارشناس مدعی است که ترامپ \"در ترس زندگی می‌کند\" و فقط خود را در محاصره افراد متعصب قرار داده است",
         "title_en": "Expert claims Trump 'lives in fear' and only surrounds himself with sycophants",
@@ -55,6 +73,23 @@
         "clean_url": "https://variety.com/2026/film/global/ali-asgari-iran-january-massacre-a-bit-of-light-venice-1236860323",
         "image": "https://www.bing.com/th?id=ONUT.EYVJSopcVbscDBch-F62pA",
         "timestamp": 1789315398.3666089
+    },
+    {
+        "id": "64eb9e1efc",
+        "title_fa": "خبر بین‌المللی — Turkish و Syrian FMs rail at اسرائیل over recent strikes در",
+        "title_en": "Turkish and Syrian FMs rail at Israel over recent strikes on airbase",
+        "summary": [
+            "Last month, Israel bombed the disused Abu Duhur airbase in Syria's northwest, claiming it wanted to avert Turkish troops deploying to the facility. Ankara denied any visit to the site."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/turkish-and-syrian-fms-rail-at-israel-over-recent-strikes-on-airbase/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/turkish-and-syrian-fms-rail-at-israel-over-recent-strikes-on-airbase",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26256507523066-e1789314846883.jpg",
+        "timestamp": 1789314960.0
     },
     {
         "id": "5042dcfe58",
@@ -485,6 +520,23 @@
         "timestamp": 1789298311.0
     },
     {
+        "id": "2db9f84833",
+        "title_fa": "خبر بین‌المللی — Numerous Announcements در Mitsotakis Weekly Briefing, Emphas",
+        "title_en": "Numerous Announcements in Mitsotakis Weekly Briefing, Emphasizes Stability Does Not Mean Concessions to Turkey",
+        "summary": [
+            "ATHENS - Prime Minister Kyriakos Mitsotakis sent a clear message on foreign policy and the strengthening of the country's deterrent capability from the far-flung Greek island of Kastellorizo in his customary Sunday social media post,"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The National Herald",
+        "url": "https://www.thenationalherald.com/numerous-announcements-in-mitsotakis-weekly-briefing-emphasizes-stability-does-not-mean-concessions-to-turkey/",
+        "clean_url": "https://www.thenationalherald.com/numerous-announcements-in-mitsotakis-weekly-briefing-emphasizes-stability-does-not-mean-concessions-to-turkey",
+        "image": "https://www.thenationalherald.com/wp-content/uploads/2026/08/mhtsotakis.jpg",
+        "timestamp": 1789297680.0
+    },
+    {
         "id": "c0674ca512",
         "title_fa": "جیمی کیمل درباره ترامپ شوخی کرد",
         "title_en": "Jimmy Kimmel Recaps Nation’s Summer Struggles and Says Trump ‘Accomplished Nothing’",
@@ -836,6 +888,44 @@
         "timestamp": 1789287204.8165796
     },
     {
+        "id": "5ad3afe902",
+        "title_fa": "سوریه به حل دیپلماتیک منازعه با اسرائیل تمایل دارد",
+        "title_en": "Syria prefers to settle conflict with Israel diplomatically — top diplomat",
+        "summary": [
+            "وزیر خارجه سوریه اسعد الشیبانی تأکید کرد که سوریه به اجرای توافق ۱۹۷۴ برای جدایی نیروها در گولان پایبند است",
+            "او گفت سوریه ترجیح می‌دهد منازعه با اسرائیل از طریق دیپلماسی حل شود و از هزینه‌های جنگ دوری کند",
+            "این موضع پس از مذاکرات با مقامات ترکیه بیان شد"
+        ],
+        "impact": "تمایل سوریه به دیپلماسی می‌تواند مسیر مذاکرات منطقه‌ای را باز کند",
+        "tag": "سیاست خارجی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2187037",
+        "clean_url": "https://tass.com/world/2187037",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1789284840.0
+    },
+    {
+        "id": "182ef61ccc",
+        "title_fa": "عراق ۹۳ پهپاد و موشک در آنبار رباط گرفت",
+        "title_en": "Iraq Seizes Drones, Projectiles in Western Desert",
+        "summary": [
+            "نیروهای داخلی عراق ۴۷ پهپاد و ۴۶ موشک در استان آنبار توقیف کردند",
+            "این تجهیزات به یک گروه مسلح با حضور نظامی قوی نسبت داده شد",
+            "دستگیری چنین سلاح‌ها می‌تواند توان حملات به عربستان را محدود کند"
+        ],
+        "impact": "کاهش توان گروه‌های مسلح در حملات مرزی به عربستان",
+        "tag": "دروپ",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/arab-world/5317677-iraq-seizes-drones-projectiles-western-desert",
+        "clean_url": "https://english.aawsat.com/arab-world/5317677-iraq-seizes-drones-projectiles-western-desert",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1772247_0.jpeg.webp?VersionId=227JHqD8eGGGaXiF0ETb_NMpZg7gV67S",
+        "timestamp": 1789284120.0
+    },
+    {
         "id": "3e57b7c256",
         "title_fa": "پزشکیان: ایران هرگز متجاوز نبوده و به دنبال سلاح هسته‌ای نبوده است",
         "title_en": "Pezeshkian: Iran Has Never Been an Aggressor, Not Seeking Nuclear Weapons",
@@ -851,6 +941,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdFNiSlROcWtHdXBoV2ZBUFR1dUd1M3A0SHZyY0hMTWYyN213dktQdGd2V2kwbzRXc1ZkaEpSSjN1cktPelpOX1JCOTlSZHdUSXNob3JubE56eGhDcVhWNUlheE1SM2tCTmVnZzFDeXZGY1gwWkdUeHRRd01LUlFHelk4NldhTHhsdjNPOXA2YjJ2S1N0Wnc",
         "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789283259.0
+    },
+    {
+        "id": "95fc15ce6f",
+        "title_fa": "ترکیه اسرائیل را موانع مبارزه با تروریسم می‌داند",
+        "title_en": "Israel's strikes on Syria hamper anti-terrorist fight — top Turkish diplomat",
+        "summary": [
+            "وزیر خارجه ترکیه حاکان فیدان اسرائیل را متهم کرد که با حملات به پایگاه ابو الدهور گروه‌های تروریستی را تقویت می‌کند",
+            "او تأکید کرد این اقدام‌ها مانع پیشرفت مبارزه ضدتروریسم در سوریه می‌شود",
+            "ترکیه و سوریه خواستار خروج نیروهای اسرائیلی از ناحیه غیرنظامی در گولان هستند"
+        ],
+        "impact": "تحریک ترکیه برای فشار دیپلماتیک بر اسرائیل می‌تواند تنش‌های منطقه‌ای را تشدید کند",
+        "tag": "سیاست خارجی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2187033",
+        "clean_url": "https://tass.com/world/2187033",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1789282920.0
     },
     {
         "id": "0adbd0a4af",
@@ -924,6 +1033,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZk42RW1RRUlQLVMwSFFNSHJLSUw1UnJzZ2RaSnJTR19ULU1Ob0lrek1BejFyRlFsZmtST25QYS02OUswUV9nTlFjUks3NUZhcEFUU21jS3BDRVRnYVNISkEzSzRTelZuZE1PdzlsVWlqaVVfempTNzczUnEwZDlRSGN0NGloajdBX3RYa3RKTWVKYVdhZVpyemRyQ0ZvdUlvV1p0VF9aNkxVaG9meGd0TUZua2ZUaF9ySHQw",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789281060.0
+    },
+    {
+        "id": "ea8e0f7bc6",
+        "title_fa": "۲۵ اتحاد کلیدی آمریکا فراتر از ناتو",
+        "title_en": "25 critical alliances beyond nato: bolstering u.s. security",
+        "summary": [
+            "مقاله به بررسی ۲۵ شراکت استراتژیک آمریکا می‌پردازد که نقش مهمی در امنیت جهانی دارند",
+            "این ائتلاف‌ها توان نظامی ایالات متحده را در مناطق مختلف تقویت می‌کنند"
+        ],
+        "impact": "شناخت این ائتلاف‌ها به تحلیل‌گران کمک می‌کند تا قدرت نفوذ آمریکا را بهتر ارزیابی کنند",
+        "tag": "امنیت",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "list25",
+        "url": "https://www.msn.com/en-us/politics/international-relations/25-critical-alliances-beyond-nato-bolstering-u-s-security/ar-AA2c6Cvf",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/25-critical-alliances-beyond-nato-bolstering-u-s-security/ar-AA2c6Cvf",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c7iTX.img?w=1408&h=768&m=4&q=99",
+        "timestamp": 1789280255.0
+    },
+    {
+        "id": "e830d8bc4c",
+        "title_fa": "۲۵ ستون سیاست دفاعی ایالات متحده",
+        "title_en": "25 pillars of u.s. defense policy: global impact since cold",
+        "summary": [
+            "مقاله به سیر تحول استراتژی نظامی آمریکا از دوران جنگ سرد می‌پردازد",
+            "نشان می‌دهد چگونه ترکیب توانمندی‌های سنتی و ائتلاف‌های جدید امنیت جهانی را شکل می‌دهد"
+        ],
+        "impact": "درک این ستون‌ها می‌تواند تحلیل‌گران را در پیش‌بینی جهت‌گیری‌های نظامی آمریکا یاری دهد",
+        "tag": "دفاع",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "list25",
+        "url": "https://www.msn.com/en-us/politics/government/25-pillars-of-u-s-defense-policy-global-impact-since-cold/ar-AA2c7dLD",
+        "clean_url": "https://www.msn.com/en-us/politics/government/25-pillars-of-u-s-defense-policy-global-impact-since-cold/ar-AA2c7dLD",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c6OEC.img?w=1376&h=768&m=4&q=99",
+        "timestamp": 1789279837.0
     },
     {
         "id": "4a5c788d5d",
@@ -1813,6 +1958,25 @@
         "clean_url": "https://www.yahoo.com/news/us/articles/diesel-hits-record-6-gallon-095655953.html",
         "image": "http://www.bing.com/th?id=ONUT.Tp0RHWzxsVYsEx8LUxkwfQ&pid=News",
         "timestamp": 1789232400.0
+    },
+    {
+        "id": "cb7ea67200",
+        "title_fa": "قضایای اعدام برای معترضان در مشهد",
+        "title_en": "Iran sentences protester to death for January 2026 unrest: HRANA",
+        "summary": [
+            "اعدام حسین رسولی‌نسب به اتهام محاربه نشان‌دهنده تشدید سرکوب اعتراضات است",
+            "این تصمیم احتمال تغییر رژیم پیش از 2027 را کاهش می‌دهد",
+            "جامعه بین‌المللی ممکن است فشار حقوقی بیشتری بر ایران اعمال کند"
+        ],
+        "impact": "سرکوب شدید معترضان می‌تواند ناآرامی‌های داخلی را تشدید کند",
+        "tag": "سرکوب",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-sentences-protester-to-death-for-january-2026-unrest-hrana/",
+        "clean_url": "https://cryptobriefing.com/iran-sentences-protester-to-death-for-january-2026-unrest-hrana",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/13113459/commons-picker-govcommonsf58ff029526e08fd-3-800x450.jpg",
+        "timestamp": 1789230925.0
     },
     {
         "id": "f77f77b3e8",
@@ -5396,163 +5560,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/unionists-hit-back-as-trump-says-he-would-love-to-see-united-ireland/ar-AA2c4fTQ",
         "image": "https://www.bing.com/th?id=ONUT.K-gGsw5T9LmvGfG0RG2wiQ",
         "timestamp": 1789143178.0
-    },
-    {
-        "id": "9c5261e2f4",
-        "title_fa": "خبر بین‌المللی — Iraq confirms attacks در Saudi pipeline originated from Iraq",
-        "title_en": "Iraq confirms attacks on Saudi pipeline originated from Iraqi territory",
-        "summary": [
-            "The country is under mounting pressure to prevent militias from aiding other Iran proxy groups across the region."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Irish News on MSN",
-        "url": "https://www.msn.com/en-ie/news/other/iraq-confirms-attacks-on-saudi-pipeline-originated-from-iraqi-territory/ar-AA2c4Fe7?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ie/news/other/iraq-confirms-attacks-on-saudi-pipeline-originated-from-iraqi-territory/ar-AA2c4Fe7",
-        "image": "https://www.bing.com/th?id=ONUT.7DdrhgsWPqLDN26nCk8xIA",
-        "timestamp": 1789143178.0
-    },
-    {
-        "id": "49c73d0314",
-        "title_fa": "جفری ساکس، اقتصاددان درباره چگونگی پایان دادن به جنگ ایران، ترامپ باید «فقط به خانه برود».",
-        "title_en": "Trump should 'just go home': Economist Jeffrey Sachs on how to end Iran war",
-        "summary": [
-            "As the war between Iran and the United States continues to rage on, American economist and Columbia University Professor..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/trump-should-just-go-home-economist-jeffrey-sachs-on-how-to-end-iran-war-14045042.html",
-        "clean_url": "https://www.firstpost.com/world/trump-should-just-go-home-economist-jeffrey-sachs-on-how-to-end-iran-war-14045042.html",
-        "image": "https://www.bing.com/th?id=ONUT.8esCVPPGMrxQVGMOTzX5lA",
-        "timestamp": 1789142626.3805542
-    },
-    {
-        "id": "1fbdefc8ce",
-        "title_fa": "ادعای پزیشکیان: آمریکا نتوانست ایران را سرنگون کند",
-        "title_en": "US thought it could pull a Venezuela in Iran, but failed: Masoud Pezeshkian to India Today",
-        "summary": [
-            "پزیشکیان می‌گوید واشنگتن برنامه‌ای برای سرنگونی سریع ایران داشت، مشابه ونزوئلا.",
-            "او ادعا می‌کند این طرح به دلیل همبستگی مردم و مقاومت داخلی شکست خورد.",
-            "این حرف‌ها به منظور تقویت روایت مقاومت داخلی و فشار بر تحریم‌ها استفاده می‌شود.",
-            "اگرچه شواهدی از عملیات مخفی وجود دارد، اما هیچ تغییر اساسی در ساختار قدرت ایران رخ نداده."
-        ],
-        "impact": "تقویت روایت مقاومت داخلی، فشار بیشتر بر تحریم‌های آمریکا.",
-        "tag": "سیاست خارجی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/world/story/masoud-pezeshkian-us-plan-topple-iran-puppet-government-failed-2993296-2026-09-12",
-        "clean_url": "https://www.indiatoday.in/world/story/masoud-pezeshkian-us-plan-topple-iran-puppet-government-failed-2993296-2026-09-12",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/pezeshkian-said-iran-was-prepared-to-negotiate-on-the-nuclear-issue-within-the-framework-of-the-nucl-124056946-original-sixteen-to-nine.png?VersionId=conF6yiGx13HzdCEoQEIiVghcsGMhCLP",
-        "timestamp": 1789141630.0
-    },
-    {
-        "id": "68a150fe2b",
-        "title_fa": "سرپرست وزارت نیروی دریایی می‌گوید ایران پایگاه آمریکایی بحرین را «جهنم» کرد",
-        "title_en": "Acting Navy secretary says Iran 'blew the hell out of' US Bahrain base",
-        "summary": [
-            "Acting Navy secretary says Iran 'blew the hell out of' US Bahrain base USA Today"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "USA Today",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmN1dzNIT1pkejVsVTdUbWhuamI4U1hEbHF1eGNuS2R1dVRoNHBlSDBlSm1DMnNUTV9TMHltVWFtM0JvS2p6TGlCbWhQZjZpamE0Zm5RaERGREh5ajhVekdSenhxWDI0LWN0VklUUktLTlBCalg0bjBac05haXdPNkgzSzJYNFRnVzlUZHF2SmtkcjVkLS1zV1BUMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmN1dzNIT1pkejVsVTdUbWhuamI4U1hEbHF1eGNuS2R1dVRoNHBlSDBlSm1DMnNUTV9TMHltVWFtM0JvS2p6TGlCbWhQZjZpamE0Zm5RaERGREh5ajhVekdSenhxWDI0LWN0VklUUktLTlBCalg0bjBac05haXdPNkgzSzJYNFRnVzlUZHF2SmtkcjVkLS1zV1BUMA",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789140900.0
-    },
-    {
-        "id": "8cb2cf13ff",
-        "title_fa": "قیمت نفت پس از پیش‌بینی سقوط تقاضا توسط IEA",
-        "title_en": "Crude Prices Fall Back After IEA Forecasts Sharp Drop in Oil Demand",
-        "summary": [
-            "IEA پیش‌بینی کرد تقاضای جهانی نفت این سال بیشترین کاهش را از زمان کووید داشته باشد.",
-            "به‌دلیل این پیش‌بینی، قیمت WTI حدود ۳٪ پس از صعود قبلی سقوط کرد.",
-            "کسری نفت جهانی به ۱٫۷ میلیون بشار روزانه ارتقا یافت و مازاد تا ۲۰۲۷ به تعویق می‌افتد."
-        ],
-        "impact": "کاهش قیمت نفت درآمدهای کشورهای نفت‌خیز را فشار می‌آورد و سیاست‌های مالی آن‌ها را دچار تنگنا می‌کند.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Barchart · via Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/crude-prices-fall-back-iea-153817018.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-fall-back-iea-153817018.html",
-        "image": "https://media.zenfs.com/en/barchart_com_477/fb98d3938acb46ff615ab4c01f60127c.jpg",
-        "timestamp": 1789140859.0
-    },
-    {
-        "id": "614e409c05",
-        "title_fa": "ترامپ سخنرانی خود در مراسم بزرگداشت 11 سپتامبر پنتاگون را به پیامی طرفدار جنگ درباره درگیری کنونی ایران تبدیل کرد",
-        "title_en": "Trump turns his 9/11 Pentagon commemoration speech into pro-war message about current Iran conflict",
-        "summary": [
-            "'The Islamic Republic of Iran will never, ever have a nuclear weapon.'..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Metro on MSN",
-        "url": "https://www.msn.com/en-au/news/other/trump-turns-his-9-11-pentagon-commemoration-speech-into-pro-war-message-about-current-iran-conflict/vi-AA2c1FAm?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/other/trump-turns-his-9-11-pentagon-commemoration-speech-into-pro-war-message-about-current-iran-conflict/vi-AA2c1FAm",
-        "image": "https://www.bing.com/th?id=ONUT.j0iLculRx7lL9tdXN65wDQ",
-        "timestamp": 1789140213.7923164
-    },
-    {
-        "id": "3d593e08d5",
-        "title_fa": "تیم ترامپ به RFK جونیور اجازه می‌دهد وجوه مالیات دهندگان را در پروازهای نظامی غیرضروری بسوزاند",
-        "title_en": "Trump team lets RFK Jr. burn taxpayer funds on unnecessary military flights",
-        "summary": [
-            "When election season kicks into high gear, politicians spend most of their time bouncing between campaign stops. Travel..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Dagens.com on MSN",
-        "url": "https://www.msn.com/en-ie/news/other/trump-team-lets-rfk-jr-burn-taxpayer-funds-on-unnecessary-military-flights/ar-AA2c1Fnq?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ie/news/other/trump-team-lets-rfk-jr-burn-taxpayer-funds-on-unnecessary-military-flights/ar-AA2c1Fnq",
-        "image": "https://www.bing.com/th?id=ONUT.o1xqb1r2Z8Osd3Y5wdh4qA",
-        "timestamp": 1789140213.7906466
-    },
-    {
-        "id": "e02a56c212",
-        "title_fa": "اسرائیل دژ حزب الله را در بالای تپه، منطقه حائل در جنوب لبنان را با خاک یکسان کرد",
-        "title_en": "Israel Razes Hilltop Hezbollah Stronghold, Securing Buffer Zone in South Lebanon",
-        "summary": [
-            "Israel Razes Hilltop Hezbollah Stronghold, Securing Buffer Zone in South Lebanon Foundation for Defense of Democracies"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Foundation for Defense of Democracies",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWtpX0ZhUXZyZHZmMWFHX2VtcnB1WjI2blExdkZZNjkzd0tzS0V3QUFseUMzY2w1WXY2bmt1N2FqZTJxbkpINWVZNlFHbS0zbUZ4ci1lWmVSYWZnZTJrSHB6MXBnbGlfUlloNEhKbmN1M0VsNWZGNXV2UHpSQ0h5bVJLZmpibzJ1VkppMGRxSG5WMGk2WFNQNGVhSGY2TDNZT3AtVFI0NFFtZXpwdVpvSDVDVUtFU3FRaDlOTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWtpX0ZhUXZyZHZmMWFHX2VtcnB1WjI2blExdkZZNjkzd0tzS0V3QUFseUMzY2w1WXY2bmt1N2FqZTJxbkpINWVZNlFHbS0zbUZ4ci1lWmVSYWZnZTJrSHB6MXBnbGlfUlloNEhKbmN1M0VsNWZGNXV2UHpSQ0h5bVJLZmpibzJ1VkppMGRxSG5WMGk2WFNQNGVhSGY2TDNZT3AtVFI0NFFtZXpwdVpvSDVDVUtFU3FRaDlOTA",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789139858.0
-    },
-    {
-        "id": "fa8928a870",
-        "title_fa": "خبر بین‌المللی — 'Sick' ترامپ uses his 9/11 memorial speech at Pentagon به j",
-        "title_en": "'Sick' Trump uses his 9/11 memorial speech at the Pentagon to justify his war in Iran",
-        "summary": [
-            "Many took issue with President Trump's comments, noting that a 9/11 memorial was no place to promote the current war in the..."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Mirror US on MSN",
-        "url": "https://www.msn.com/en-us/news/other/sick-trump-uses-his-9-11-memorial-speech-at-the-pentagon-to-justify-his-war-in-iran/ar-AA2c1K5a?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/sick-trump-uses-his-9-11-memorial-speech-at-the-pentagon-to-justify-his-war-in-iran/ar-AA2c1K5a",
-        "image": "https://www.bing.com/th?id=ONUT.az9F-ExtRCm2A9nHkyAL3g",
-        "timestamp": 1789139587.511268
     }
 ]
