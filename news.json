@@ -1,5 +1,43 @@
 [
     {
+        "id": "ebe6310343",
+        "title_fa": "سعودی‌ها در برابر تهدیدهای ایران در نقطهٔ حساس",
+        "title_en": "AP Top Stories September 13",
+        "summary": [
+            "خبرگزاری یاهو، ترکیبی از عناوین روز را منتشر کرد؛ مهم‌ترین نکته، محدودیت گزینه‌های عربستان در مواجهه با فشارهای نظامی و اقتصادی ایران است.",
+            "در عین حال، حضور ترامپ در ایرلند و نشست برکس‌ در هند نشان می‌دهد که تمرکز جهانی بر روی خاورمیانه در حال تغییر است.",
+            "این ترکیب اخبار، نشان می‌دهد که ریسک‌های ژئوپلیتیک منطقه‌ای برای اقتصادهای نفتی در حال تشدید است."
+        ],
+        "impact": "افزایش فشار بر اقتصاد نفتی عربستان، احتمال تجدید نظر در سیاست‌های انرژی منطقه",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Yahoo News Canada",
+        "url": "https://ca.news.yahoo.com/ap-top-stories-september-13-124103960.html",
+        "clean_url": "https://ca.news.yahoo.com/ap-top-stories-september-13-124103960.html",
+        "image": "https://www.bing.com/th?id=ONUT.N4IlgcOFPwVQESuvPr7KJg",
+        "timestamp": 1789305701.30288
+    },
+    {
+        "id": "5203438270",
+        "title_fa": "برکس‌ نمی‌تواند در بحران ایران هم‌صدا شود",
+        "title_en": "The Iran war reveals the limits of BRICS",
+        "summary": [
+            "در اجلاس نیودلهی، بیانیه برکس‌ از جنگ آمریکا‑اسرائیل‑ایران عبور کرد و هیچ‌کس را سرزنش نکرد؛ این نشان می‌دهد که همبستگی سیاسی اعضا محدود است.",
+            "ایران خواست بلوک آمریکا را محکوم کند، اما اختلافات داخلی باعث شد سند نهایی فقط به «تفاوت‌ها» اشاره کند.",
+            "عدم اتخاذ موضع مشترک، توان برکس‌ برای فشار جبهه‌ای بر غرب را به شدت کاهش می‌دهد."
+        ],
+        "impact": "بی‌توجهی برکس‌ به بحران ایران، فشار دیپلماتیک بر تهران را تضعیف می‌کند",
+        "tag": "جئوپلیتیک",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of",
+        "clean_url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-13T012744Z_1095030876_RC2NHNAI3RN3_RTRMADP_3_BRICS-SUMMIT-1789264800.jpg?resize=1920%2C1440",
+        "timestamp": 1789305701.3024814
+    },
+    {
         "id": "b97389f56c",
         "title_fa": "گواه تصویری که نشان می‌دهد بلوف فک‌آمیز ترامپ به بدترین کابوس او تبدیل شده است",
         "title_en": "The graphic proof that Trump’s jaw-dropping bluff has become his worst nightmare",
@@ -5515,42 +5553,5 @@
         "clean_url": "https://www.thenewhumanitarian.org/news/2026/09/11/uk-condemns-settler-terrorists-sudan-chemical-weapons-yemen-war-cheat-sheet",
         "image": "https://assets.thenewhumanitarian.org/s3fs-public/styles/media_list_fallback_/public/2026-09/RH-podcast-SN-bl.jpg?itok=Gqoy1yGx",
         "timestamp": 1789131540.0
-    },
-    {
-        "id": "e3cfc3e548",
-        "title_fa": "تحریم‌های روسیه‑ایران به هم می‌پیوندند؛ آمریکا تانکرها را هدف گرفت",
-        "title_en": "Ukraine Sees Russian-Iranian Sanctions Networks Converging As US Targets Tankers",
-        "summary": [
-            "اوکراین شبکه‌های تحریمی روسیه و ایران را در حال همگرایی می‌بیند.",
-            "واحدهای نفت‌برداری تحت فشار آمریکا قرار گرفتند و به سرعت فهرست سیاه شدند.",
-            "این فشار باعث کاهش جریان نفت روسیه به ایران و بالعکس می‌شود.",
-            "ایران و روسیه برای جبران خسارت مالی به دنبال مسیرهای جایگزین می‌گردند."
-        ],
-        "impact": "کاهش درآمد نفتی ایران و روسیه، فشار بر توان مالی نظام‌هایشان",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdVZUMV9DX0taX2hOLWFFN0Vsa2xDYVVXTzJoNW15a1ByaE9YcnhERlpJM25oZmFNU0xxWEl5SFgwSGM3ZlA3WV9KQW5ZVW9BOUFQS0ZaUUZoQjNiZWNoUzMtVC1CV3hDZWtnTE44VkdFZXprUVBrQ2lKR19QYS1WQm5rMEJCalBfeVBrWnBlWTJsMWhxR0ZwTnBkc1d0aTFmeVJBN0s0M0RaS2ZZMHFBZGxnZUxyeFVvdWkxaNIBvAFBVV95cUxNdVZUMV9DX0taX2hOLWFFN0Vsa2xDYVVXTzJoNW15a1ByaE9YcnhERlpJM25oZmFNU0xxWEl5SFgwSGM3ZlA3WV9KQW5ZVW9BOUFQS0ZaUUZoQjNiZWNoUzMtVC1CV3hDZWtnTE44VkdFZXprUVBrQ2lKR19QYS1WQm5rMEJCalBfeVBrWnBlWTJsMWhxR0ZwTnBkc1d0aTFmeVJBN0s0M0RaS2ZZMHFBZGxnZUxyeFVvdWkxaA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdVZUMV9DX0taX2hOLWFFN0Vsa2xDYVVXTzJoNW15a1ByaE9YcnhERlpJM25oZmFNU0xxWEl5SFgwSGM3ZlA3WV9KQW5ZVW9BOUFQS0ZaUUZoQjNiZWNoUzMtVC1CV3hDZWtnTE44VkdFZXprUVBrQ2lKR19QYS1WQm5rMEJCalBfeVBrWnBlWTJsMWhxR0ZwTnBkc1d0aTFmeVJBN0s0M0RaS2ZZMHFBZGxnZUxyeFVvdWkxaNIBvAFBVV95cUxNdVZUMV9DX0taX2hOLWFFN0Vsa2xDYVVXTzJoNW15a1ByaE9YcnhERlpJM25oZmFNU0xxWEl5SFgwSGM3ZlA3WV9KQW5ZVW9BOUFQS0ZaUUZoQjNiZWNoUzMtVC1CV3hDZWtnTE44VkdFZXprUVBrQ2lKR19QYS1WQm5rMEJCalBfeVBrWnBlWTJsMWhxR0ZwTnBkc1d0aTFmeVJBN0s0M0RaS2ZZMHFBZGxnZUxyeFVvdWkxaA",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789131454.0
-    },
-    {
-        "id": "d16fe208b0",
-        "title_fa": "خبر بین‌المللی — نظامی power alone cannot keep Strait هرمز open",
-        "title_en": "Military power alone cannot keep the Strait of Hormuz open",
-        "summary": [
-            "Recently, the Strait of Hormuz has become a flashpoint in the escalating conflict between the United States and Iran, with the Trump administration alternating between military strikes and threats of..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Philadelphia Inquirer on MSN",
-        "url": "https://www.msn.com/en-us/news/other/military-power-alone-cannot-keep-the-strait-of-hormuz-open/ar-AA2c0UDi?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/military-power-alone-cannot-keep-the-strait-of-hormuz-open/ar-AA2c0UDi",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789131352.1663961
     }
 ]
