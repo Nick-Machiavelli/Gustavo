@@ -2176,6 +2176,25 @@
         "timestamp": 1789186375.4708772
     },
     {
+        "id": "950f6e3a58",
+        "title_fa": "قیمت LPG، CNG، PNG امروز (13 سپتامبر): آخرین نرخ‌ها را در دهلی، بمبئی، کلکته، و سایر شهرها بررسی کنید",
+        "title_en": "LPG, CNG, PNG prices today (September 13): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+        "summary": [
+            "قیمت‌ CNG در دهلی و شهرهای اطراف افزایش یافت؛ نگرانی‌ها درباره تأمین LPG و PNG ادامه دارد.",
+            "نوسان شدید قیمت نفت خام، به‌ویژه سقوط ۳٪ برن‌ت، به‌دلیل تشدید منازعه غرب آسیا رخ داد.",
+            "افزایش قیمت سوخت‌های گاز مایع و فشرده می‌تواند هزینه حمل‌ونقل و زندگی شهروندان هند را فشار دهد."
+        ],
+        "impact": "هزینه حمل‌ونقل و قیمت کالاهای مصرفی در شهرهای بزرگ هند به‌سرعت بالا می‌رود.",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Business Today",
+        "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-13-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-555214-2026-09-13",
+        "clean_url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-13-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-555214-2026-09-13",
+        "image": "https://www.bing.com/th?id=ONUT.V5wYL8P2ROBMyC8ZX7Regg",
+        "timestamp": 1789184490.0
+    },
+    {
         "id": "a5b3b358f5",
         "title_fa": "ترامپ 9/11 را به جنگ ایران ربط داد",
         "title_en": "Kaitlan Collins calls out Trump for using 9/11 ceremony to defend Iran war",
@@ -5513,23 +5532,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-said-to-reject-saudi-request-for-strikes-on-houthis-as-they-complete-bab-el-mandeb-takeover/ar-AA2c0YBo",
         "image": "https://www.bing.com/th?id=ONUT.A2QhZdQ5OgG4Tas41AQqoA",
         "timestamp": 1789112833.0
-    },
-    {
-        "id": "6a666fd773",
-        "title_fa": "بودیان AI: مدل‌های زبان هندی برای آموزش",
-        "title_en": "IIT Madras launches Bodhan AI suite with NVIDIA to boost Indic language AI in education",
-        "summary": [
-            "IIT مدراس با NVIDIA و AI4Bharat یک مجموعه مدل‌های پایه‌ای زبان‌های هندی برای گفتار، ترجمه، OCR و تبدیل متن به گفتار عرضه کرد.",
-            "مدل‌ها به‌صورت متن باز منتشر می‌شوند و می‌توانند هزینه‌های توسعه ابزارهای آموزشی را کاهش داده و سرعت نوآوری را بالا ببرند."
-        ],
-        "impact": "دسترسی رایگان به مدل‌های زبانی هندی، تقویت ابزارهای آموزشی و کاهش وابستگی به سرویس‌های تجاری.",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": 0.6,
-        "source": "Times Now on MSN",
-        "url": "https://www.msn.com/en-in/technology/artificial-intelligence/iit-madras-launches-bodhan-ai-suite-with-nvidia-to-boost-indic-language-ai-in-education/ar-AA2c3Sl2?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/technology/artificial-intelligence/iit-madras-launches-bodhan-ai-suite-with-nvidia-to-boost-indic-language-ai-in-education/ar-AA2c3Sl2",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789110711.0
     }
 ]
