@@ -1,5 +1,23 @@
 [
     {
+        "id": "f86522d730",
+        "title_fa": "کاهش شانس سوزان کالینز به‌دست ترامپ",
+        "title_en": "If Susan Collins loses she can thank Donald Trump: Rooks",
+        "summary": [
+            "حضور ترامپ در انتخابات میدانی می‌تواند رأی‌داران مینی را به سمت دموکرات‌ها سوق دهد",
+            "شکست کالینز، جمهوری‌خواه پنج‌دوره‌ای، ترکیب سنای آمریکا را به نفع دموکرات‌ها تغییر می‌دهد"
+        ],
+        "impact": "تغییر ترکیب سنای آمریکا، اثر مستقیم بر تصویب قوانین کلیدی",
+        "tag": "انتخابات",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Seacoastonline",
+        "url": "https://www.seacoastonline.com/story/opinion/columns/2026/09/13/if-susan-collins-loses-she-can-thank-donald-trump-rooks/91690440007/",
+        "clean_url": "https://www.seacoastonline.com/story/opinion/columns/2026/09/13/if-susan-collins-loses-she-can-thank-donald-trump-rooks/91690440007",
+        "image": "https://www.bing.com/th?id=ONUT.Aa-e8dP2lgiZPTkiaeTOZg",
+        "timestamp": 1789292269.5491638
+    },
+    {
         "id": "ed06367638",
         "title_fa": "شیرین عبادی: رژیم ضعیف، زنان همچنان می‌جنگند",
         "title_en": "Shirin Ebadi a Lugano: «Il regime è debole, le donne continuano a sfidarlo»",
@@ -336,6 +354,24 @@
         "clean_url": "https://www.moneycontrol.com/news/opinion/markets-brace-for-fed-decision-as-oil-nears-110-gold-rebounds-and-stocks-slide-14028730.html",
         "image": "https://www.bing.com/th?id=ONUT.WiUVbrYMELYEggv7KI2NNA",
         "timestamp": 1789264993.7839468
+    },
+    {
+        "id": "6b53f86e08",
+        "title_fa": "سخت‌گیران ایران صلح‌نامه را خراب کردند",
+        "title_en": "How Iran’s Hard-Liners Prevailed and Sabotaged U.S. Peace Deal",
+        "summary": [
+            "افشای برنامه مخفیانه حمله به کشتی‌ها نشان می‌دهد جناح سخت‌گیر هنوز توان عملی دارد",
+            "این عمل اعتماد آمریکا به تعهدات ایران را زیر سؤال می‌برد و احتمال تجدید تحریم‌ها را بالا می‌برد"
+        ],
+        "impact": "احتمال افزایش تنش‌های خلیج فارس و تجدید تحریم‌های آمریکا",
+        "tag": "سیاست‌خارجی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
+        "clean_url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
+        "image": "http://www.bing.com/th?id=ONUT.tjr2v0PanwYN2b4J21qvxA&pid=News",
+        "timestamp": 1789264920.0
     },
     {
         "id": "d9ea1c034b",
@@ -5511,41 +5547,5 @@
         "clean_url": "https://lacrossetribune.com/sports/columnists/jim_polzin/article_ea99ae43-b56d-5da5-9ec7-2b4ed7198787.html",
         "image": "https://www.bing.com/th?id=ONUT.nCdW3aqmCLhlkqFy0ign3A",
         "timestamp": 1789121630.8056471
-    },
-    {
-        "id": "ec2e2624a2",
-        "title_fa": "ترامپ وعده ۵۰۰۰ دلاری به رای‌دهندگان",
-        "title_en": "Trump’s Disastrous Reign Will Cost You More Than $5,000",
-        "summary": [
-            "ترامپ قول پرداخت ۵۰۰۰ دلار به هر شهروند در صورت پیروزی جمهوری‌خواهان را داد",
-            "این وعده واضحاً نقض قانون انتخاباتی است و احتمالاً هرگز اجرا نشود",
-            "اعلام چنین وعده‌ای می‌تواند اعتماد عمومی را تحت فشار قرار دهد"
-        ],
-        "impact": "ممکن است حمایت انتخاباتی جمهوری‌خواهان را تقویت کند ولی خطر پیگرد قانونی را به‌همراه داشته باشد",
-        "tag": "انتخاباتی",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "The American Prospect",
-        "url": "https://prospect.org/2026/09/11/trump-disastrous-reign-will-cost-you-more-than-5000-iran-war/",
-        "clean_url": "https://prospect.org/2026/09/11/trump-disastrous-reign-will-cost-you-more-than-5000-iran-war",
-        "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/09/Cooper-Trump-costs-091126.jpg?fit=2000%2C1333&ssl=1",
-        "timestamp": 1789121630.8048687
-    },
-    {
-        "id": "3e1f15f448",
-        "title_fa": "خبر بین‌المللی — Irán reconoce estar en una fase \"crítica y peligrosa\" por la",
-        "title_en": "Irán reconoce estar en una fase \"crítica y peligrosa\" por la presión de EEUU",
-        "summary": [
-            "El presidente iraní, Masoud Pezeshkian, llegó este viernes a Nueva Delhi con un mensaje claro: Irán necesita nuevas rutas para sobrevivir a la presión económica y bélica..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "EL MUNDO",
-        "url": "https://www.elmundo.es/internacional/2026/09/11/6aa41439e85eceaa1f8b45a2.html",
-        "clean_url": "https://www.elmundo.es/internacional/2026/09/11/6aa41439e85eceaa1f8b45a2.html",
-        "image": "http://www.bing.com/th?id=ONUT.-74K23j0tS5m8YaBFV9ECg&pid=News",
-        "timestamp": 1789121040.0
     }
 ]
