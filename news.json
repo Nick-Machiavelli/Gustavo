@@ -701,6 +701,24 @@
         "timestamp": 1789283259.0
     },
     {
+        "id": "0adbd0a4af",
+        "title_fa": "نشست ایران‑امارات: چرا بحرین حضور ندارد؟",
+        "title_en": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+        "summary": [
+            "ایران قصد دارد مذاکراتی با عراق و کشورهای خلیج در عمان برگزار کند تا امنیت منطقه‌ای را تقویت کند",
+            "عدم حضور بحرین بیانگر تنش‌های سیاسی و اختلافات اقتصادی است"
+        ],
+        "impact": "تقویت امنیت مشترک می‌تواند فشارهای نظامی را کاهش دهد اما ریسک تشدید رقابت‌های منطقه‌ای را به همراه دارد",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Al Jazeera on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-gcc-summit-what-s-behind-the-meeting-why-is-bahrain-not-attending/ar-AA2c7Hxk",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-gcc-summit-what-s-behind-the-meeting-why-is-bahrain-not-attending/ar-AA2c7Hxk",
+        "image": "http://www.bing.com/th?id=ONUT.A7Rzv2-vjc18FRtW9xBTVQ&pid=News",
+        "timestamp": 1789282767.0
+    },
+    {
         "id": "ceb033bb7b",
         "title_fa": "اهداف هند از رهبری برکس",
         "title_en": "In a World of Regime Complexity, What Does India Want From BRICS?",
@@ -902,6 +920,25 @@
         "clean_url": "https://www.msn.com/en-au/politics/government/fear-and-delusion-in-dallas-inside-trump-s-midterm-convention-flop/ar-AA2c6FRf",
         "image": "https://www.bing.com/th?id=ONUT.N2tjmZShIVWePozRzdD6Ag",
         "timestamp": 1789272211.5542388
+    },
+    {
+        "id": "326dc3fff8",
+        "title_fa": "ایران فرصتی برای حمله در حین حواس‌پرتی ترامپ می‌بیند",
+        "title_en": "Iran sees a window to strike while Trump is distracted – but it could backfire",
+        "summary": [
+            "تهران می‌خواهد با شکستن محاصره آمریکا، به ویژه با پیشرفت حوثی‌ها و حمله پهپادی به خط لوله کلیدی، فشار را افزایش دهد",
+            "این حرکت ریسک واکنش نظامی آمریکا را به‌هم می‌زند و ممکن است به تحریم‌های شدیدتر منجر شود",
+            "اگر حمله ناموفق باشد، اعتبار داخلی و روابط منطقه‌ای ایران تحت فشار خواهد رفت"
+        ],
+        "impact": "احتمال تشدید تنش‌های نظامی و اعمال تحریم‌های جدید بر اقتصاد ایران",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "inews.co.uk on MSN",
+        "url": "https://www.msn.com/en-au/news/other/iran-sees-a-window-to-strike-while-trump-is-distracted-but-it-could-backfire/ar-AA2c7kEG",
+        "clean_url": "https://www.msn.com/en-au/news/other/iran-sees-a-window-to-strike-while-trump-is-distracted-but-it-could-backfire/ar-AA2c7kEG",
+        "image": "http://www.bing.com/th?id=ONUT.DfNmxqFPxUkQ7zFHM2YWlQ&pid=News",
+        "timestamp": 1789272000.0
     },
     {
         "id": "c37c2931fb",
@@ -5509,41 +5546,5 @@
         "clean_url": "https://nypost.com/2026/09/11/opinion/the-post-9-11-global-war-on-terrorism-won-by-keeping-our-homeland-safe",
         "image": "https://www.bing.com/th?id=ONUT.lnbdhmBafk5Im2nbyMZRqg",
         "timestamp": 1789137773.4579196
-    },
-    {
-        "id": "374ada7850",
-        "title_fa": "خبر بین‌المللی — پوتین calls برای 'business diplomacy' within BRICS",
-        "title_en": "Putin calls for 'business diplomacy' within BRICS",
-        "summary": [
-            "It is necessary to strengthen mechanisms of business cooperation and \"business diplomacy\" within BRICS, Russian President Vladimir Putin said while speaking at the BRICS Business Forum. Putin called it a common task of the grouping's participants to realize BRICS' potential for the benefit of the peoples of the member countries."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2186263",
-        "clean_url": "https://tass.com/politics/2186263",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1789137300.0
-    },
-    {
-        "id": "882915801a",
-        "title_fa": "قله‌ملاقات ایران و کشورهای خلیج برای امنیت هورموز",
-        "title_en": "Iran, Gulf States to Hold Key Summit on Hormuz Maritime Transit",
-        "summary": [
-            "ایران و شش عضو شورای همکاری خلیج در سالاری عمان برای تعیین مسیرهای ناوبری امن در هورموز هم‌نشین می‌شوند.",
-            "تهدید ایران مبنی بر عدم تضمین امنیت در صورت ادامه تحریم‌های اقتصادی و مسدودیت‌های دریایی آمریکا، محور مذاکرات است.",
-            "نتیجه‌گیری‌های این نشست می‌تواند مسیرهای تجاری را باز کند و فشار اقتصادی بر خاورمیانه را کاهش دهد."
-        ],
-        "impact": "ایجاد چارچوب‌های جدید ناوبری می‌تواند ریسک‌های حمل‌ونقل نفت را کم کند.",
-        "tag": "دپلماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "teleSUR English",
-        "url": "https://www.telesurenglish.net/iran-gulf-states-summit-hormuz-transit/",
-        "clean_url": "https://www.telesurenglish.net/iran-gulf-states-summit-hormuz-transit",
-        "image": "http://www.bing.com/th?id=ONUT.Z10oQFooVAE1RXfsUm4KTw&pid=News",
-        "timestamp": 1789136880.0
     }
 ]
