@@ -18,6 +18,26 @@
         "timestamp": 1789301753.7506142
     },
     {
+        "id": "3dcc0e1a78",
+        "title_fa": "حمله به کشتی ایرانی در تنگه هرمز",
+        "title_en": "Iranian ship attacked near Strait of Hormuz: Iranian state media",
+        "summary": [
+            "حمله به کشتی ایرانی در مسیر کلیدی نفتی، نشانهٔ تشدید تنش‌های دریایی است",
+            "ایران ادعا می‌کند عامل حمله را می‌داند و ممکن است واکنش نظامی نشان دهد",
+            "ناوبری در هرمز تحت فشار می‌افتد؛ شرکت‌های حمل‌ونقل ممکن است مسیرهای دورتر انتخاب کنند",
+            "حادثه می‌تواند فشار بین‌المللی برای اعمال تحریم‌های جدید را تقویت کند"
+        ],
+        "impact": "امنیت ناوبری در هرمز مختل می‌شود و هزینه حمل‌ونقل نفت افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTRXQkJYVGtQWlNfRGFWSHNoeWdDamdLTndGRENXclhCendBeTVGYVZlWHVXbWo4YWxwSFJ6VHlQOFlIbHl4Slhha2dOdFBSeF9PQ1Vobi15Y0RQcHdIREdOT2tWTkUtSkFaeW1iejIxa0ZwSzBHREF2aUNBQXgyWm8tQ2NDdDlRTlHSAY8BQVVfeXFMTi1pZUNYX3J5bGIydm1xSFJKbXZpdF9uYTI1X20wcEswcVVYSUNaQ1JKamlMUFIwSTBSRER2QmpxcFIteXdWR3M3TE9iVjRWbFdPaG1QcU43RlVCRVpwa3ZiSmhxM18ybjNZSm9OMWhBaUtQM0dUWXI3NjEwSzlLVEg2VWRiTkVHMS1URGhWMXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTRXQkJYVGtQWlNfRGFWSHNoeWdDamdLTndGRENXclhCendBeTVGYVZlWHVXbWo4YWxwSFJ6VHlQOFlIbHl4Slhha2dOdFBSeF9PQ1Vobi15Y0RQcHdIREdOT2tWTkUtSkFaeW1iejIxa0ZwSzBHREF2aUNBQXgyWm8tQ2NDdDlRTlHSAY8BQVVfeXFMTi1pZUNYX3J5bGIydm1xSFJKbXZpdF9uYTI1X20wcEswcVVYSUNaQ1JKamlMUFIwSTBSRER2QmpxcFIteXdWR3M3TE9iVjRWbFdPaG1QcU43RlVCRVpwa3ZiSmhxM18ybjNZSm9OMWhBaUtQM0dUWXI3NjEwSzlLVEg2VWRiTkVHMS1URGhWMXM",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789301340.0
+    },
+    {
         "id": "9e8b7159e8",
         "title_fa": "تندروهای ایران گفته می‌شود که حملاتی را در سرپیچی از رهبران انجام داده اند و توافق صلح را خراب می‌کنند",
         "title_en": "Iran hardliners said to have launched attacks in defiance of leaders, sabotaging peace deal",
@@ -5533,25 +5553,5 @@
         "clean_url": "https://www.msn.com/en-sg/news/other/brics-summit-leaders-urge-maximum-restraint-in-middle-east/ar-AA2c0G3k",
         "image": "https://www.bing.com/th?id=ONUT.qVFTHJZ9QMWsHX8GXLkTeQ",
         "timestamp": 1789130360.0
-    },
-    {
-        "id": "93961668a2",
-        "title_fa": "ترامپ پس از ۹/۱۱ جنگ با ایران را توجیه می‌کند",
-        "title_en": "Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran",
-        "summary": [
-            "ترامپ در مراسم یادبود ۹/۱۱، پیام «هیچ‌خطری تحمل نمی‌شود» را تکرار کرد",
-            "بیانیه شباهت به استدلال‌های پیشین برای ادامه جنگ‌های نامحدود دارد",
-            "ریسک افزایش تنش با ایران و احتمال گسترش تحریم‌ها را نشان می‌دهد",
-            "رسانه‌ها هشدار دادند این ریتوریک می‌تواند به اقدام‌ها نظامی منجر شود"
-        ],
-        "impact": "افزایش فشار دیپلماتیک و احتمال اعمال تحریم‌های جدید علیه ایران",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html",
-        "clean_url": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html",
-        "image": "http://www.bing.com/th?id=ONUT.jpGkxGfaF3d0HeBc2lgfKg&pid=News",
-        "timestamp": 1789130220.0
     }
 ]
