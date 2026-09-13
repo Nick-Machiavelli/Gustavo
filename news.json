@@ -2139,6 +2139,25 @@
         "timestamp": 1789250850.0
     },
     {
+        "id": "ed8256aadf",
+        "title_fa": "ترامپ از زلنسکی خواست حملات به پالایشگاه‌ها متوقف شود",
+        "title_en": "Trump asks Zelenskyy to stop refinery strikes as diesel prices hit record",
+        "summary": [
+            "ترامپ با اشاره به رکورد قیمت دیزل در آمریکا، زلنسکی را به توقف حملات به پالایشگاه‌های روسیه دعوت کرد.",
+            "این درخواست نشان می‌دهد واشنگتن می‌خواهد فشار اقتصادی داخلی را با کاهش تنش‌های انرژی خنثی کند.",
+            "اگر اوکراین به حملات ادامه دهد، ممکن است حمایت مالی و نظامی آمریکا تحت فشار قرار گیرد."
+        ],
+        "impact": "قیمت دیزل آمریکا ممکن است تثبیت شود و روابط استراتژیک آمریکا‑اوکراین تحت فشار اقتصادی قرار گیرد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/trump-urges-zelenskyy-stop-russian-refinery-strikes-diesel-prices-ptag-2993971-2026-09-14",
+        "clean_url": "https://www.indiatoday.in/world/story/trump-urges-zelenskyy-stop-russian-refinery-strikes-diesel-prices-ptag-2993971-2026-09-14",
+        "image": "https://www.bing.com/th?id=ONUT.nMeXais8csxJ6Sm7emd03w",
+        "timestamp": 1789248842.0
+    },
+    {
         "id": "c1a910e0df",
         "title_fa": "بریکس تحریم‌های یک‌جانبه را محکوم کرد",
         "title_en": "BRICS condemns \"unilateral economic sanctions\" stops short of naming any actors",
@@ -5536,24 +5555,5 @@
         "clean_url": "https://www.straitstimes.com/world/middle-east/us-slaps-new-sanctions-on-networks-aiding-irans-proxies-in-middle-east",
         "image": "https://cassette.sphdigital.com.sg/image/straitstimes/23c26541c0f537dc2b401aa1d57ca6dd39b8bd5067f2a4bed0a44e34eac9fb0d",
         "timestamp": 1789156080.0
-    },
-    {
-        "id": "54044c30cc",
-        "title_fa": "برگزاری دومین اجلاس برکس در دهلی، چالش‌های هم‌نظر",
-        "title_en": "More heft: on India and the 18th BRICS Summit",
-        "summary": [
-            "هند پس از برگزاری G20، میزبانی برکس را بر عهده دارد؛ این بار با گسترش به ۱۵ عضو.",
-            "افزودن ایران، مصر، اتیوپی، عربستان و امارات به ترکیب، هم‌نظرگیری را دشوارتر می‌کند.",
-            "جنگ‌های منطقه‌ای، به‌ویژه در ایران، فشارهای ژئوپولیتیکی بر برکس افزوده است."
-        ],
-        "impact": "هویت گسترش‌یافته برکس می‌تواند تعادل قدرت جهانی را به نفع اعضای جدید تغییر دهد",
-        "tag": "ژئوپولیتیک",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/opinion/editorial/more-heft-on-india-and-the-18th-brics-summit/article71456976.ece",
-        "clean_url": "https://www.thehindu.com/opinion/editorial/more-heft-on-india-and-the-18th-brics-summit/article71456976.ece",
-        "image": "https://www.thehindu.com/theme/images/og-image.png",
-        "timestamp": 1789156022.3984914
     }
 ]
