@@ -1,5 +1,25 @@
 [
     {
+        "id": "5042dcfe58",
+        "title_fa": "بسنِت با تحریم‌های هفتگی بانک‌ها فشار می‌آورد",
+        "title_en": "Bessent is doubling down with weekly bank sanctions",
+        "summary": [
+            "بسنِت اعلام کرد هدف‌های جدید تحریم‌های بانکی را هر هفته به‌روز می‌کند",
+            "یک بانک ترکیه‌ای که به ایرانیان وام می‌دهد، به‌عنوان هدف اصلی نام برد",
+            "تحریم‌ها می‌توانند دسترسی ایران به ارزهای خارجی و سیستم مالی بین‌المللی را محدود کنند",
+            "تحلیل‌گران هشدار می‌دهند فشار مداوم ممکن است به بحران نقدینگی داخلی منجر شود"
+        ],
+        "impact": "تحریم‌های مداوم می‌تواند جریان سرمایه به ایران را قطع کرده و فشار اقتصادی را شدت بخشد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/economy/bessent-is-doubling-down-with-weekly-bank-sanctions",
+        "clean_url": "https://www.thestreet.com/economy/bessent-is-doubling-down-with-weekly-bank-sanctions",
+        "image": "https://www.bing.com/th?id=ONUT.KDmnuIBUf7ZXx1vSn77CYw",
+        "timestamp": 1789313678.4867358
+    },
+    {
         "id": "20f2743806",
         "title_fa": "ترامپ: رها کردن تایوان، چین از کوبا و ونزوئلا",
         "title_en": "Trump’s ultimate deal: Abandon Taiwan to kick China out of Cuba and Venezuela",
@@ -145,6 +165,25 @@
         "clean_url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-13T012744Z_1095030876_RC2NHNAI3RN3_RTRMADP_3_BRICS-SUMMIT-1789264800.jpg?resize=1920%2C1440",
         "timestamp": 1789305701.3024814
+    },
+    {
+        "id": "8df6991f08",
+        "title_fa": "ترامپ ادعا می‌کند ایران بازرسی هسته‌ای را پذیرفت",
+        "title_en": "Trump Insists Iran Has Agreed to Nuclear Inspections",
+        "summary": [
+            "ترامپ در بیانیه‌ای تأکید کرد که ایران موافقت‌نامه‌ای برای بازرسی‌های هسته‌ای امضا کرده است",
+            "هیچ مدرکی از سوی سازمان‌های بین‌المللی برای تأیید این ادعا منتشر نشده است",
+            "این حرف می‌تواند فشار دیپلماتیک آمریکا را برای رفع تحریم‌ها افزایش دهد"
+        ],
+        "impact": "ادعای ترامپ ممکن است مذاکرات هسته‌ای را تسریع کند یا به‌سختی‌های دیپلماتیک منجر شود",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTDY3RDlHbUZPczUtOGsxb2Y0cFdpMFJQSHVrclVpTHM5ZkNtdjl4bTR5VUFJYk1qZUJZcm8wOHlpcWI5SldxYnZrenJVTThMQk9IdDJSRWhCTTVFOFZZQ016MDRPVFMyd0hPdkhBc1RodWk5NVZTRE0wMzBiZW9oUWlSMHBRdHdacDVV?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTDY3RDlHbUZPczUtOGsxb2Y0cFdpMFJQSHVrclVpTHM5ZkNtdjl4bTR5VUFJYk1qZUJZcm8wOHlpcWI5SldxYnZrenJVTThMQk9IdDJSRWhCTTVFOFZZQ016MDRPVFMyd0hPdkhBc1RodWk5NVZTRE0wMzBiZW9oUWlSMHBRdHdacDVV",
+        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789305631.0
     },
     {
         "id": "b97389f56c",
@@ -5510,41 +5549,5 @@
         "clean_url": "https://news.ssbcrack.com/un-nuclear-watchdog-refers-iran-to-security-council-for-non-compliance",
         "image": "https://news.ssbcrack.com/wp-content/uploads/2026/09/UN-Nuclear-Watchdog-Refers-Iran-to-Security-Council-for-Non-Compliance.jpg",
         "timestamp": 1789138080.0
-    },
-    {
-        "id": "91adeae446",
-        "title_fa": "جنگ ایران در برنامه رپبلیکن‌ها نیست",
-        "title_en": "Iran War Takes Back Seat As Republicans Focus On Economy At Midterm Convention",
-        "summary": [
-            "در کنگره میدترم، رپبلیکن‌ها اقتصاد را بالاتر از تنش‌های خاورمیانه می‌گذارند",
-            "فشارهای نظامی علیه ایران به‌طور موقت کم‌رنگ شد",
-            "این تغییر اولویت می‌تواند فرصت مذاکرات صلح‌آمیز یا کاهش حمایت نظامی را بدهد"
-        ],
-        "impact": "کاهش تمرکز بر ایران ممکن است فشار دیپلماتیک و نظامی آمریکا را کاهش دهد",
-        "tag": "سیاست خارجی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXBxRGpVc3RTWTJndXlIOE1XNW5PNmtTa0Y2VXRoQVMwejJia1VISG5zMU9RZW1rSkp4MmhOZnF1bFgyNkxDMTA1eTJPV29pOWotNEZkNkNBUjhNcFlvNm41a1FWNXF4U18wYWc2X2JscnJSSzhZNFh6d2VHV2lEaVRFcGItWk12UG9ER055dUxSYzRjRTVCZG9wMjJMTGpuSF9zS3A5bXVtQWNraFpwN2R3RG5DZHg2bklrcmxpWFlXdXJyMTNhTVJROUh0d282MGFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXBxRGpVc3RTWTJndXlIOE1XNW5PNmtTa0Y2VXRoQVMwejJia1VISG5zMU9RZW1rSkp4MmhOZnF1bFgyNkxDMTA1eTJPV29pOWotNEZkNkNBUjhNcFlvNm41a1FWNXF4U18wYWc2X2JscnJSSzhZNFh6d2VHV2lEaVRFcGItWk12UG9ER055dUxSYzRjRTVCZG9wMjJMTGpuSF9zS3A5bXVtQWNraFpwN2R3RG5DZHg2bklrcmxpWFlXdXJyMTNhTVJROUh0d282MGFn",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789138000.0
-    },
-    {
-        "id": "7800929041",
-        "title_fa": "جنگ جهانی پس از 11 سپتامبر علیه تروریسم - با حفظ امنیت وطنمان - پیروز شد",
-        "title_en": "The post-9/11 Global War on Terrorism won — by keeping our homeland safe",
-        "summary": [
-            "We have remained safe here at home in the 25 years since 9/11 because we took the fight to our enemies — and we refused to..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/11/opinion/the-post-9-11-global-war-on-terrorism-won-by-keeping-our-homeland-safe/",
-        "clean_url": "https://nypost.com/2026/09/11/opinion/the-post-9-11-global-war-on-terrorism-won-by-keeping-our-homeland-safe",
-        "image": "https://www.bing.com/th?id=ONUT.lnbdhmBafk5Im2nbyMZRqg",
-        "timestamp": 1789137773.4579196
     }
 ]
