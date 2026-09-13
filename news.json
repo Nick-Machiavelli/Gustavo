@@ -35,6 +35,25 @@
         "timestamp": 1789336046.137197
     },
     {
+        "id": "b9b89bacc3",
+        "title_fa": "جلسه ایران‑خلیج به تعویق، حمله هوثی به پایگاه سعودی",
+        "title_en": "Oman's FM says Iran-Gulf meeting postponed, Yemen fighting continues",
+        "summary": [
+            "تعویق جلسه نشان می‌دهد مذاکرات منطقه‌ای در معرض تردید است و عمان سعی دارد از فشارهای داخلی جلوگیری کند",
+            "حمله هوثی به پایگاه شاروح هدف‌گیری انبارهای سلاح و تشدید جنگ نیابتی بین حوثی‌ها و نیروهای حامی سعودی است",
+            "درگیری‌های ادامه‌دار باعث خروج بیشتر غیرنظامیان از یمن و تشدید بحران انسانی می‌شود"
+        ],
+        "impact": "تشدید تنش‌های امنیتی خلیج، کاهش همکاری‌های اقتصادی و افزایش هزینه‌های نظامی",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/omans-fm-says-iran-gulf-meeting-postponed",
+        "clean_url": "https://www.newarab.com/news/omans-fm-says-iran-gulf-meeting-postponed",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2294794558.jpeg?itok=0Njy5-xz",
+        "timestamp": 1789332840.0
+    },
+    {
         "id": "14d1d0063c",
         "title_fa": "خبر بین‌المللی — Letters برای Sept. 14: Wells Theatre puts در great show desp",
         "title_en": "Letters for Sept. 14: Wells Theatre puts on great show despite flooding",
@@ -5537,22 +5556,5 @@
         "clean_url": "https://therealnews.com/25-years-after-9-11-war-on-terror",
         "image": "https://www.bing.com/th?id=ONUT.Qdtwgv7eorixuy7Acq6SrQ",
         "timestamp": 1789157615.3713698
-    },
-    {
-        "id": "9862539073",
-        "title_fa": "تحقیقات سنا در مورد OpenAI اولین قدم مهم است، اما مدیران عامل باید تحت سوگند شهادت دهند",
-        "title_en": "Senate Investigation Into OpenAI Is an Important First Step, But CEOs Must Testify Under Oath",
-        "summary": [
-            "Sen. Josh Hawley (R-Mo.), chairman of the Senate Homeland Security Subcommittee on Disaster Management, has launched an investigation into OpenAI following revelations that the company’s AI agents..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Common Dreams",
-        "url": "https://www.commondreams.org/newswire/senate-investigation-into-openai-is-an-important-first-step-but-ceos-must-testify-under-oath",
-        "clean_url": "https://www.commondreams.org/newswire/senate-investigation-into-openai-is-an-important-first-step-but-ceos-must-testify-under-oath",
-        "image": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82NjgzNzk4My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5MDkzNTA1OH0.c_5GNAUmQqriWpRaCpyvQkVPiRge-RwkqLmh1xNhQ-o/image.png?width=210",
-        "timestamp": 1789157615.3700478
     }
 ]
