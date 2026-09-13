@@ -1,5 +1,25 @@
 [
     {
+        "id": "2027386edd",
+        "title_fa": "حمله توهین‌آمیز چپ علیه ترامپ در سالگرد ۹/۱۱",
+        "title_en": "Michael Goodwin: The left puts out another smear campaign against Trump — spreading hate on 9/11 anniversary",
+        "summary": [
+            "گودوین می‌گوید چپ برای تخریب تصویر ترامپ از توهین‌های احساسی استفاده می‌کند",
+            "سالگرد ۹/۱۱ به عنوان بستر خبری انتخاب شده تا واکنش‌های عاطفی بیشتری جلب شود",
+            "این روایت می‌تواند حمایت‌های پایه ترامپ را تقویت کند",
+            "اما تأثیر واقعی بر نظرسنجی‌های عمومی محدود است"
+        ],
+        "impact": "تقویت حمایت‌های پایه ترامپ، اما تغییر چشمگیری در نظرسنجی‌های ملی ایجاد نمی‌کند",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "New York Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/michael-goodwin-the-left-puts-out-another-smear-campaign-against-trump-spreading-hate-on-9-11-anniversary/ar-AA2c6c4n?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/michael-goodwin-the-left-puts-out-another-smear-campaign-against-trump-spreading-hate-on-9-11-anniversary/ar-AA2c6c4n",
+        "image": "https://www.bing.com/th?id=ONUT.Incit65B1d-hoiyeONK4YQ",
+        "timestamp": 1789269192.239145
+    },
+    {
         "id": "21ee65b8ee",
         "title_fa": "هند و چین در مسیر تقویت برکس",
         "title_en": "Working with China on common interests",
@@ -5511,23 +5531,5 @@
         "clean_url": "https://www.msn.com/en-in/technology/artificial-intelligence/iit-madras-launches-bodhan-ai-suite-with-nvidia-to-boost-indic-language-ai-in-education/ar-AA2c3Sl2",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789110711.0
-    },
-    {
-        "id": "7da69f651e",
-        "title_fa": "خطای دسترسی به خبر بلومبرگ",
-        "title_en": "Iran's Total Blackout",
-        "summary": [
-            "صفحهٔ نمایش فقط درخواست ربات‌کشی دارد و محتوای خبری ارائه نمی‌شود",
-            "عدم دسترسی به متن باعث عدم امکان ارزیابی وضعیت ایران می‌شود"
-        ],
-        "impact": "هیچ تأثیر عملی یا اقتصادی قابل‌توجهی ندارد",
-        "tag": "فنی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/features/2026-iran-internet/",
-        "clean_url": "https://www.bloomberg.com/features/2026-iran-internet",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFbzvf8SOIp4/v0/-1x-1.webp",
-        "timestamp": 1789110000.0
     }
 ]
