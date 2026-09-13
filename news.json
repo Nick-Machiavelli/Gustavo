@@ -703,6 +703,26 @@
         "timestamp": 1789300800.0
     },
     {
+        "id": "38d6ebf89f",
+        "title_fa": "ایران توافق موقت هورموز را به‌زودی اعلام می‌کند",
+        "title_en": "Iran is set to unveil temporary Hormuz agreement to Gulf nations on Monday",
+        "summary": [
+            "توافق فقط موقت است و بازگشایی کامل تنگه را شامل نمی‌شود",
+            "ایران حق انتخاب کشتی‌های عبوری را حفظ می‌کند",
+            "این گام می‌تواند فشار تجاری بین‌المللی را کمی کم کند",
+            "احتمال واکنش‌های مخالف در کشورهای خلیج همچنان وجود دارد"
+        ],
+        "impact": "کاهش موقت فشار تجاری بر کشتی‌های خلیج، اما عدم اطمینان برای ناوگان‌های بین‌المللی",
+        "tag": "حمل‌ونقل",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "South China Morning Post on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/iran-is-set-to-unveil-temporary-hormuz-agreement-to-gulf-nations-on-monday/ar-AA2c8nky",
+        "clean_url": "https://www.msn.com/en-xl/news/other/iran-is-set-to-unveil-temporary-hormuz-agreement-to-gulf-nations-on-monday/ar-AA2c8nky",
+        "image": "http://www.bing.com/th?id=ONUT.FfJFVpvah05heG_l8xL5Dw&pid=News",
+        "timestamp": 1789300670.0
+    },
+    {
         "id": "af1a534578",
         "title_fa": "ایران با کشورهای خلیج برای نشست آماده شد",
         "title_en": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
@@ -5537,24 +5557,5 @@
         "clean_url": "https://www.wpri.com/news/us-and-world/ap-iraq-confirms-attacks-on-saudi-pipeline-originated-from-iraqi-territory-and-other-mideast-news",
         "image": "https://www.bing.com/th?id=ONUT.yfU55C9cTJmhTqmQxRoVXA",
         "timestamp": 1789153841.0
-    },
-    {
-        "id": "88f4b465a2",
-        "title_fa": "امکان عزل هگست‌ه در اثر جنگ ایران",
-        "title_en": "Pete Hegseth could be IMPEACHED over scandals and Iran war as Washington whispers about the embattled Pentagon boss's future",
-        "summary": [
-            "نمایندگان دمکراتیک قصد دارند هگست‌ه را به دلیل جنگ ایران و رسوایی سیگنال‌گیت تعقیب کنند",
-            "اگر مجلس جدید به دست دمکرات‌ها برسد، امکان استیضاح و بازجویی‌های گسترده می‌شود",
-            "این بحران می‌تواند تمرکز نیروی دفاعی آمریکا را از خاورمیانه به داخل کشور منحرف کند"
-        ],
-        "impact": "عزل هگست‌ه می‌تواند رهبری وزارت دفاع آمریکا را دگرگون کرده و تصمیم‌گیری‌های نظامی در خاورمیانه را به تعویق بیندازد",
-        "tag": "امپیشمنت",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Daily Mail",
-        "url": "https://www.dailymail.com/news/article-16121541/pete-hegseth-impeached-washington-whispers-midterms.html",
-        "clean_url": "https://www.dailymail.com/news/article-16121541/pete-hegseth-impeached-washington-whispers-midterms.html",
-        "image": "https://www.bing.com/th?id=ONUT.PcutDkh7n4NLQietFWaFUQ",
-        "timestamp": 1789153353.0
     }
 ]
