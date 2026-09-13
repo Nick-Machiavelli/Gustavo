@@ -317,6 +317,24 @@
         "timestamp": 1789324320.0
     },
     {
+        "id": "c18a257832",
+        "title_fa": "کنتکام: نگرانی از کمبود موشک‌گیر نداریم",
+        "title_en": "CENTCOM chief says 'not concerned at all' about a shortage of US missile interceptors",
+        "summary": [
+            "آدمیرال براد کوپر اعلام کرد که هیچ‌گونه نگرانی درباره کمبود موشک‌گیرهای ضد موشکی وجود ندارد و نیروی آمریکا برای هر سناریویی آماده است.",
+            "این بیانیه در زمان تشدید تنش با ایران، پیام اطمینان به متحدان و نشان‌دهنده توان نظامی آمریکاست."
+        ],
+        "impact": "اعلام آمادگی نظامی آمریکا می‌تواند فشار روانی بر ایران و حامیانش ایجاد کند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/centcom-chief-says-not-concerned-at-all-about-a-shortage-of-us-missile-interceptors/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/centcom-chief-says-not-concerned-at-all-about-a-shortage-of-us-missile-interceptors",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26139598708092-e1788697671360.jpg",
+        "timestamp": 1789323240.0
+    },
+    {
         "id": "7a93fb71b7",
         "title_fa": "روسیه‑ایران‑سودان: تحریم‌ها بی‌اثرند",
         "title_en": "Do Sanctions Still Work? Russia, Iran and Sudan Say No",
@@ -5542,25 +5560,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/georgia-s-ties-with-iran-have-a-limit/ar-AA2c3oLQ",
         "image": "https://www.bing.com/th?id=ONUT.pMocLnrXUzr1JBf4UYmqYg",
         "timestamp": 1789161715.073156
-    },
-    {
-        "id": "5c21335ae0",
-        "title_fa": "ترامپ: هیچ پشیمانی از آغاز جنگ ندارم",
-        "title_en": "Iran live: Trump says he has no regrets about starting war",
-        "summary": [
-            "اظهار نظر ترامپ تنش‌های آمریکا‑ایران را به اوج می‌برد",
-            "بی‌پشیمانی او می‌تواند فشار تحریمی یا عملیات نظامی را تقویت کند",
-            "این ریتوریک ممکن است واکنش‌های داخلی ایران را به اعتراض یا تقویت حوثی‌ها تحریک کند",
-            "بدون پشتوانه نظامی، احتمال وقوع جنگ واقعی همچنان محدود است"
-        ],
-        "impact": "احتمال اعمال تحریم‌های سنگین‌تر و افزایش فشار دیپلماتیک بر ایران",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-trump-says-he-has-no-regrets-about-starting-war/ar-AA2bZyWG",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-trump-says-he-has-no-regrets-about-starting-war/ar-AA2bZyWG",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789161600.0
     }
 ]
