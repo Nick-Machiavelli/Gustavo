@@ -1,5 +1,23 @@
 [
     {
+        "id": "cb52522ce0",
+        "title_fa": "ایران و حوثی‌ها از خط قرمز هسته‌ای عبور کردند",
+        "title_en": "Iran & the Houthis just crossed the nuclear red line",
+        "summary": [
+            "ایران و حوثی‌ها با هم‌پیمانی نظامی به مرزهای هسته‌ای نزدیک شدند.",
+            "تحریم‌های جدید آمریکا ممکن است برای خنثی‌سازی این تهدید افزوده شود."
+        ],
+        "impact": "قیمت نفت به سرعت بالا می‌رود و فشار دیپلماتیک بر خاورمیانه تشدید می‌شود",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "YouTube on MSN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/iran-the-houthis-just-crossed-the-nuclear-red-line/vi-AA2c5JNk?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-the-houthis-just-crossed-the-nuclear-red-line/vi-AA2c5JNk",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789261871.1119025
+    },
+    {
         "id": "21b9f9a5d0",
         "title_fa": "رهبران برکس نگرانی از خاورمیانه و تحریم‌های یک‌جانبه",
         "title_en": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
@@ -1585,6 +1603,24 @@
         "timestamp": 1789200219.735389
     },
     {
+        "id": "4686ab237f",
+        "title_fa": "ایران و حوثی‌ها از Claude برای موشک‌های اف‌سریع استفاده کردند",
+        "title_en": "Iran and Houthi rebels used Anthropic's Claude AI to target US warships, build hypersonic missiles",
+        "summary": [
+            "ادعای استفاده از هوش مصنوعی Claude برای هدف‌گیری ناوهای آمریکایی منتشر شد.",
+            "اگر صحت داشته باشد، خطر ارتقای توان نظامی به‌سرعت افزایش می‌یابد."
+        ],
+        "impact": "نیروهای دریایی آمریکا ممکن است برای مقابله با تهدیدات جدید مسیرهای عملیاتی خود را تغییر دهند",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Tom's Hardware on MSN",
+        "url": "https://www.msn.com/en-us/technology/artificial-intelligence/iran-and-houthi-rebels-used-anthropic-s-claude-ai-to-target-us-warships-build-hypersonic-missiles/ar-AA2c5D74",
+        "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/iran-and-houthi-rebels-used-anthropic-s-claude-ai-to-target-us-warships-build-hypersonic-missiles/ar-AA2c5D74",
+        "image": "http://www.bing.com/th?id=ONUT.b3yG0bldS9IcFJoEXyptTQ&pid=News",
+        "timestamp": 1789200190.0
+    },
+    {
         "id": "979af8c7c6",
         "title_fa": "درخواست ۱۵ میلیارد تومانی از سرمربی تیم ملی",
         "title_en": "دستمزد نجومی سرمربی تیم ملی؛ امیر قلعه‌نویی تا جام قهرمانی آسیا ۹۰ میلیارد تومان می‌خواهد",
@@ -2151,6 +2187,24 @@
         "clean_url": "https://www.newsweek.com/deepening-us-iran-war-spells-political-trouble-for-trump-and-pezeshkian-12415932",
         "image": "http://www.bing.com/th?id=ONUT.CEMBkbHUpAKpJF2gKHcKog&pid=News",
         "timestamp": 1789178400.0
+    },
+    {
+        "id": "77f8358d7b",
+        "title_fa": "رابیتا ربی‌کینا قهرمان US Open شد",
+        "title_en": "US latest news",
+        "summary": [
+            "ربکا ربی‌کینا در نهایی US Open بر آرینا سابالنکا غلبه کرد.",
+            "این پیروزی اولین عنوان گرند اسلم اوست."
+        ],
+        "impact": "تغییر رتبه‌بندی جهانی تنیس و جذب توجه رسانه‌ای به مسابقات",
+        "tag": "ورزش",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1789178280.0
     },
     {
         "id": "9491352bc8",
@@ -5462,58 +5516,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-a-10-and-f-15-fighter-jets-damaged-in-iranian-strikes/ar-AA2bVgX4",
         "image": "https://static.independent.co.uk/2026/08/15/16/22/GettyImages-2289908029.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
         "timestamp": 1789106400.0
-    },
-    {
-        "id": "d3c56f9c91",
-        "title_fa": "چت‌بات در میانه جنگ سایه‌ای اسرائیل‑ایران",
-        "title_en": "The chatbot in the middle of the Israel-Iran shadow war",
-        "summary": [
-            "چت‌بات‌های هوش مصنوعی به عنوان ابزار اطلاعاتی در جنگ سایه‌ای بین اسرائیل و ایران به کار می‌روند",
-            "هر دو طرف از ربات‌ها برای انتشار روایت‌های خود و فریب دشمن استفاده می‌کنند",
-            "خطر گمراه‌سازی عمومی و تشدید تنش‌ها به‌سرعت افزایش می‌یابد"
-        ],
-        "impact": "استفاده از چت‌بات‌ها می‌تواند گسترش شایعات را در منطقه تسریع کند",
-        "tag": "فناوری",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "calcalistech.com",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05bTdMakJkUVpGTlZ4UUFSYW16NWkyS3V4MjNteDBfUUotUDBSTHloR0RUbzVRODBPRjlfNzRNUDhWNTZvc3JEQjYwTlpCZlRUVUlCLWQ5WFhNMjY5eUFnV3g3eW90Y1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05bTdMakJkUVpGTlZ4UUFSYW16NWkyS3V4MjNteDBfUUotUDBSTHloR0RUbzVRODBPRjlfNzRNUDhWNTZvc3JEQjYwTlpCZlRUVUlCLWQ5WFhNMjY5eUFnV3g3eW90Y1E",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789106220.0
-    },
-    {
-        "id": "11a37e1961",
-        "title_fa": "Inside UK's shift در اسرائیل",
-        "title_en": "Inside the UK's shift on Israel",
-        "summary": [
-            "When Ed Miliband stood up on Tuesday Commons to sanction Israel's illegal West Bank settlements, the Foreign Secretary marked an historic shift in tone and forei"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "inews.co.uk",
-        "url": "https://inews.co.uk/news/politics/inside-uks-shift-israel-hidden-role-melania-trump-4760565",
-        "clean_url": "https://inews.co.uk/news/politics/inside-uks-shift-israel-hidden-role-melania-trump-4760565",
-        "image": "https://inews.co.uk/wp-content/uploads/2026/09/SEI_311844225.jpg?crop=9px,0px,1911px,1080px&resize=1200,675",
-        "timestamp": 1789105980.0
-    },
-    {
-        "id": "b0be141647",
-        "title_fa": "بریکس 2026: هند با یک آزمون اجماع سخت مواجه است",
-        "title_en": "Brics 2026: India faces a tough consensus test",
-        "summary": [
-            "The 18th Brics Summit, hosted by India in New Delhi on September 12-13, is taking place in exceptional circumstances. The..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/brics-2026-india-faces-a-tough-consensus-test-14044888.html",
-        "clean_url": "https://www.firstpost.com/opinion/brics-2026-india-faces-a-tough-consensus-test-14044888.html",
-        "image": "https://www.bing.com/th?id=ONUT.3-oIl7RoicaehRs9stl5XQ",
-        "timestamp": 1789105282.1023562
     }
 ]
