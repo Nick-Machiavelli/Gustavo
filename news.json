@@ -1037,6 +1037,25 @@
         "timestamp": 1789223772.0
     },
     {
+        "id": "742ef557b7",
+        "title_fa": "بی‌ریکس به آمریکا انتقاد، حمایت از ایران",
+        "title_en": "Brics slams US, backs Iran, calls out Israel. Has India shifted stance?",
+        "summary": [
+            "بیانیه اجلاس دلهی ریکس به‌صورت غیرمستقیم به تحریم‌های یک‌جانبه آمریکا انتقاد کرد.",
+            "این گروه ورود ایران به سازمان تجارت جهانی را تأیید کرد و اسرائیل را محکوم نمود.",
+            "سخنرانی نشان می‌دهد هند ممکن است موضع خود نسبت به ایران را سخت‌تر کند."
+        ],
+        "impact": "ایران می‌تواند فشارهای تجاری را با حمایت ریکس کاهش دهد.",
+        "tag": "دیپلوماسی",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "India Today",
+        "url": "https://www.msn.com/en-in/news/other/brics-slams-us-backs-iran-calls-out-israel-has-india-shifted-stance/ar-AA2c4XyE",
+        "clean_url": "https://www.msn.com/en-in/news/other/brics-slams-us-backs-iran-calls-out-israel-has-india-shifted-stance/ar-AA2c4XyE",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/brics-summit-new-delhi-declaration-us-not-named-palestine-gaza-israel-backs-iran-wto-india-condemns-120440584-16x9_0.png?VersionId=XQuRzJnwh5YIWx0QbggRJ4vAUzN_uhIk",
+        "timestamp": 1789223760.0
+    },
+    {
         "id": "c5fb413617",
         "title_fa": "خبر بین‌المللی — Andy Burnham و Ed Miliband don't know who's side they're در",
         "title_en": "Andy Burnham and Ed Miliband don't know who's side they're on",
@@ -1090,6 +1109,25 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/andy-burnham-and-ed-miliband-are-selling-out-british-allies-at-the-worst-possible-time/ar-AA2c4XGA",
         "image": "https://www.bing.com/th?id=ONUT.GztgJgGJg7212-TVPDVvmw",
         "timestamp": 1789222316.8350508
+    },
+    {
+        "id": "77336a3542",
+        "title_fa": "امارات فشار اقتصادی بر ایران را تقویت می‌کند",
+        "title_en": "Abu Dhabi turns the economic screws on Iran",
+        "summary": [
+            "امارات پس از فشارهای آمریکا، ابزارهای اقتصادی علیه تهران به کار برد.",
+            "این اقدام نشان‌دهنده همسویی امارات با سیاست‌های واشنگتن برای منزوی کردن ایران است.",
+            "اقتصاد ایران، به‌ویژه صادرات نفت، با این فشارها مواجه می‌شود."
+        ],
+        "impact": "صادرات نفت ایران به خطر می‌افتد و اقتصاد داخلی فشار می‌بیند.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Blogs | The Times of Israel",
+        "url": "https://blogs.timesofisrael.com/abu-dhabi-turns-the-economic-screws-on-iran/",
+        "clean_url": "https://blogs.timesofisrael.com/abu-dhabi-turns-the-economic-screws-on-iran",
+        "image": "https://static-cdn.toi-media.com/blogs/uploads/users/salem-alketbi1763305311-400x400.jpg",
+        "timestamp": 1789222080.0
     },
     {
         "id": "a1721ea58b",
@@ -1616,6 +1654,25 @@
         "timestamp": 1789207389.328989
     },
     {
+        "id": "55f6d454d3",
+        "title_fa": "ترامپ: آمریکا ضعیف، چین برنده",
+        "title_en": "Trump's delinquent America is a gift to China",
+        "summary": [
+            "در نشست ریکس، ترامپ گفت ضعف آمریکا فرصتی برای چین ایجاد می‌کند.",
+            "این اظهارات نشان می‌دهد ایالات متحده در حال از دست دادن نفوذ ژئوپلیتیک است.",
+            "چین می‌تواند با این فضای خالی نقش خود را در آسیا گسترش دهد."
+        ],
+        "impact": "چین می‌تواند نقش خود را در آسیا گسترش دهد.",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "inews.co.uk",
+        "url": "https://www.msn.com/en-my/news/other/trump-s-delinquent-america-is-a-gift-to-china/ar-AA2c4j3z",
+        "clean_url": "https://www.msn.com/en-my/news/other/trump-s-delinquent-america-is-a-gift-to-china/ar-AA2c4j3z",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789207200.0
+    },
+    {
         "id": "80887b681e",
         "title_fa": "خبر بین‌المللی — 52 most stupid things Donald ترامپ has ever said",
         "title_en": "52 of the most stupid things Donald Trump has ever said",
@@ -2135,6 +2192,44 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRFFaamx1NWttN0lIUkdZRGdmN2tmWmhZY2tDRDVHVVJHNEVSY29HMzVUNkRTaFBMRkJ5NEh2TW5GSHc4Wi1ESGJNZXVxcW01N1B4eGROZWNvMllXVDdmMW02ZXBJOEh0MGxDVnVOMThFa2NmUlZka2pXNW1OQmtuX2NYaXQtNk9iWHZTT2FzMXNZS3k4U2RJS0JLdTRwbGRTbFdxc1FKNVFQQVB3",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789192237.0
+    },
+    {
+        "id": "7bd20f30ce",
+        "title_fa": "حمله حوثی به پایگاه سعودی؛ تهدید مسیرهای نفتی",
+        "title_en": "Oil on the Boil: Houthis Strike Saudi Base as Two Key Middle East Sea Routes Face Threat",
+        "summary": [
+            "حوثی‌ها ادعا کردند پایگاه شارواره در عربستان را با پهپاد و موشک هدف گرفتند.",
+            "این حمله به همراه گسترش کنترل حوثی‌ها در سواحل دریای سرخ، خطر قطع مسیرهای حمل نفت را افزایش می‌دهد.",
+            "بند شدن مجدد تنگه هرمز فشار بر قیمت جهانی نفت را تشدید می‌کند."
+        ],
+        "impact": "قیمت نفت جهانی می‌تازد و ترافیک کشتی‌های حامل نفت در خلیج فارس مختل می‌شود.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/middle-east-tensions-houthis-attack-saudi-arabia-base-red-sea-strait-of-hormuz-us-iran-war-updates-article-156148120",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/middle-east-tensions-houthis-attack-saudi-arabia-base-red-sea-strait-of-hormuz-us-iran-war-updates-article-156148120",
+        "image": "https://www.bing.com/th?id=ONUT.TUSGM-c3cmWQqS56QnBVyw",
+        "timestamp": 1789191593.0
+    },
+    {
+        "id": "16cc860b20",
+        "title_fa": "اوکراین ۹۲ پهپاد جنگی از دست داد",
+        "title_en": "Ukraine loses 92 heavy combat quadcopters to Battlegroup West over past day",
+        "summary": [
+            "گروه رزمی غرب روسیه ۹۲ پهپاد سنگین و ۸۶ پهپاد ثابت‌بال پرواز را نابود کرد.",
+            "این شکست نشان‌دهنده توان دفاع هوایی روسیه در برابر تهدیدات هوایی اوکراین است.",
+            "کاهش تعداد پهپادهای اوکراین توانایی‌های نظارتی و حمله‌ای آن را محدود می‌کند."
+        ],
+        "impact": "توانایی هوایی اوکراین برای پشتیبانی از جبهه‌ها کاهش می‌یابد.",
+        "tag": "دروپ",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/defense/2186879",
+        "clean_url": "https://tass.com/defense/2186879",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1789191593.0
     },
     {
         "id": "2e311190d8",
@@ -5437,100 +5532,5 @@
         "clean_url": "https://www.dailymail.com/news/article-16125413/Saudi-Arabia-shuts-key-pipeline-oil-supply-drone-attack-Iraq.html",
         "image": "https://www.bing.com/th?id=ONUT.WQYvK_zjlIStSMOBUjvitA",
         "timestamp": 1789116546.0
-    },
-    {
-        "id": "1b533deb3c",
-        "title_fa": "ترامپاپالووزا: نمایش تظاهر جمهوری‌خواهان",
-        "title_en": "The GOP's 'Trumpapalooza' is just pure Republican pretend | Opinion",
-        "summary": [
-            "رویداد «ترامپاپالووزا» صرف تقویت تصویر ترامپ است نه جذب کمک‌هزینه.",
-            "وعدهٔ ۵۰۰۰ دلاری به هر شهروند، ابزار جذب رای‌گیری است نه برنامهٔ واقعی.",
-            "این مراسم نشان می‌دهد حزب جمهوری‌خواه دیگر توان رهبری واقعی ندارد."
-        ],
-        "impact": "تقویت تصویر ترامپ می‌تواند فشار بر رقبای دموکراتیک را افزایش دهد.",
-        "tag": "انتخابات",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/opinion/columnist/2026/09/11/republican-midterm-convention-trumpapalooza-lies/91692723007/",
-        "clean_url": "https://www.usatoday.com/story/opinion/columnist/2026/09/11/republican-midterm-convention-trumpapalooza-lies/91692723007",
-        "image": "https://www.bing.com/th?id=ONUT.pSttExRCUmDorEI1eqQZkg",
-        "timestamp": 1789115129.032375
-    },
-    {
-        "id": "32ae3274b9",
-        "title_fa": "آیا بن لادن پس از ۲۵ سال پیروزی کرد؟",
-        "title_en": "25 years after 9/11: Did Osama bin Laden really win?",
-        "summary": [
-            "بن لادن کشته شد و ساختار اصلی القاعده سال‌ها پیش به حاشیه رانده شد.",
-            "واکنش عمومی آمریکا نشان داد که تحمل تلفات برای مردم آمریکایی محدود است.",
-            "خروج نیروهای آمریکایی از کابل نشان‌دهنده تغییر استراتژیک در خاورمیانه است.",
-            "مردم منطقه هنوز به دنبال رفاه و دموکراسی هستند، نه جنگ‌های ایدئولوژیک."
-        ],
-        "impact": "تهدید مستقیم القاعده کاهش یافت؛ اما خلأ امنیتی می‌تواند زمینه‌ساز ظهور گروه‌های جدید شود.",
-        "tag": "تروریسم",
-        "urgency": 2,
-        "sentiment": -0.1,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/opinion/25-years-after-911-did-osama-bin-laden-really-win",
-        "clean_url": "https://www.newarab.com/opinion/25-years-after-911-did-osama-bin-laden-really-win",
-        "image": "https://www.bing.com/th?id=ONUT.KnNzb2PciK3dPKSE2zjnSQ",
-        "timestamp": 1789114493.3362792
-    },
-    {
-        "id": "70bafd35d5",
-        "title_fa": "خبر بین‌المللی — چینی entities reportedly supplied ایران with satellite image",
-        "title_en": "Chinese entities reportedly supplied Iran with satellite imagery linked to deadly attack on US base",
-        "summary": [
-            "Chinese entities provided Iran with high-quality satellite imagery of a US Air Force base in Jordan before and after the Islamic Republic carried out a deadly attack there on July 17, the Wall Street..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/chinese-entities-reportedly-supplied-iran-with-satellite-imagery-linked-to-deadly-attack-on-us-base/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/chinese-entities-reportedly-supplied-iran-with-satellite-imagery-linked-to-deadly-attack-on-us-base",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789114389.0
-    },
-    {
-        "id": "629b14ffd6",
-        "title_fa": "چین تصاویر ماهواره‌ای به ایران داد؛ حمله به پایگاه آمریکایی",
-        "title_en": "Did China Help Iran? Chinese Entities Shared US Base Images Before Deadly Strike: Report",
-        "summary": [
-            "شرکت‌های چینی تصاویر با وضوح بالا از پایگاه هوایی مووافق سلتی در اردن به ایران منتقل کردند",
-            "این تصاویر قبل و بعد از حمله موشکی ۱۷ ژوئیه که سه نیروی آمریکایی کشته شد، به‌کار رفته‌اند",
-            "ارتباط مستقیم بین اطلاعات چینی و برنامه‌ریزی حمله نشان‌دهنده گسترش همکاری نظامی‑اطلاعاتی ایران‑چین است",
-            "آمریکا ممکن است واکنش نظامی یا تحریم‌های جدید علیه چین اعمال کند"
-        ],
-        "impact": "اطلاعات دقیق چینی به ایران امکان هدف‌گیری دقیق را داد؛ احتمال تشدید تنش‌های آمریکا‑چین بالا رفت",
-        "tag": "اطلاعات",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/us/us-news/did-china-help-iran-chinese-entities-shared-us-base-images-before-deadly-strike-report-article-156144294",
-        "clean_url": "https://www.timesnownews.com/world/us/us-news/did-china-help-iran-chinese-entities-shared-us-base-images-before-deadly-strike-report-article-156144294",
-        "image": "https://www.bing.com/th?id=ONUT.IDju8MjP4DjdR2ODYOH4pg",
-        "timestamp": 1789114389.0
-    },
-    {
-        "id": "c3a1113b89",
-        "title_fa": "ترامپ ادعای پیروزی نظامی در ایران",
-        "title_en": "Trump claims military victory in Iran. But is the mission accomplished? ANALYSIS - ABC News",
-        "summary": [
-            "ترامپ ادعای موفقیت نظامی در ایران را مطرح کرد",
-            "هیچ مدرکی از عملیات واقعی منتشر نشده",
-            "این ادعا می‌تواند تنش‌های نظامی را در خاورمیانه تشدید کند"
-        ],
-        "impact": "اگر ادعا جدی گرفته شود، احتمال مواجهه نظامی بین آمریکا و ایران بالا می‌رود",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnZ4cllvVUNVMWJidExDVmVfQjI5V3k1WF9xakpiNlBDWnIwbThWREVBRTd5R2RRaS1QRXMwYnJWSGI4OURfX2N1MDlUOVJ2VDlCSnJvaDBmVkNobDZvb2FvdXZ5cDNXb3ZYOGpMdTVBa3luSGx5WmJVa3RYaGl3cVlYS2VIempuOXBLbll1anB3UlZtd1pqbWVVSHo2ejVVVG4weGZlcWtCUGlmR05YN0xB0gG3AUFVX3lxTFB5WDBGakw1MEdlVzRUN3pTMWIyLXBCek1RbTNRLWRidUt3aXFtbTA0TXJyTTJrOVJTQ2t5X3hMaFVESVh6NTlZYk1XNWJQVFRnV3NlM0tlRHhzRVotRTc1NFRrY2hGX3RrOEdQZVVIYzZ4aXNTaWViWFV1UFFSRzN0R19PWXdwZjVndEEzdXJrbHZiNS1mbXRiWkdYRmpYVDJfeGdqQXhzdTZ6SEw5ZWhxOVd6YzhiRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnZ4cllvVUNVMWJidExDVmVfQjI5V3k1WF9xakpiNlBDWnIwbThWREVBRTd5R2RRaS1QRXMwYnJWSGI4OURfX2N1MDlUOVJ2VDlCSnJvaDBmVkNobDZvb2FvdXZ5cDNXb3ZYOGpMdTVBa3luSGx5WmJVa3RYaGl3cVlYS2VIempuOXBLbll1anB3UlZtd1pqbWVVSHo2ejVVVG4weGZlcWtCUGlmR05YN0xB0gG3AUFVX3lxTFB5WDBGakw1MEdlVzRUN3pTMWIyLXBCek1RbTNRLWRidUt3aXFtbTA0TXJyTTJrOVJTQ2t5X3hMaFVESVh6NTlZYk1XNWJQVFRnV3NlM0tlRHhzRVotRTc1NFRrY2hGX3RrOEdQZVVIYzZ4aXNTaWViWFV1UFFSRzN0R19PWXdwZjVndEEzdXJrbHZiNS1mbXRiWkdYRmpYVDJfeGdqQXhzdTZ6SEw5ZWhxOVd6YzhiRQ",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789114047.0
     }
 ]
