@@ -1,5 +1,25 @@
 [
     {
+        "id": "471cfbf61c",
+        "title_fa": "آیا انرژی هسته‌ای، اسرائیل را به قطب AI می‌کند؟",
+        "title_en": "Could nuclear power turn Israel into a global AI hub?",
+        "summary": [
+            "سرمایه‌گذاری‌های کلان در استارتاپ‌های هوش مصنوعی اسرائیل، نیاز به برق ارزان و پایدار را تقویت می‌کند.",
+            "ساخت نیروگاه‌های هسته‌ای می‌تواند هزینه دیتاسنترها را کاهش داده و جذب شرکت‌های بین‌المللی را سرعت بخشد.",
+            "توسعه هسته‌ای ممکن است فشارهای ژئوپولیتیک و تحریم‌های جدید را به همراه داشته باشد.",
+            "پیش‌بینی ۲۰ ساله شاید خوش‌بینانه باشد؛ انرژی‌های تجدیدپذیر نیز می‌توانند مسیر مشابهی را فراهم کنند."
+        ],
+        "impact": "کاهش هزینه پردازش داده، جذب سرمایه‌گذاری AI و ارتقای موقعیت اقتصادی اسرائیل.",
+        "tag": "انرژی هسته‌ای",
+        "urgency": 3,
+        "sentiment": 0.7,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/environment/article/sykc2amfml",
+        "clean_url": "https://www.ynetnews.com/environment/article/sykc2amfml",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/13/ByIraa7tMl/ByIraa7tMl_33_0_1365_769_0_large.jpg",
+        "timestamp": 1789287204.8165796
+    },
+    {
         "id": "3e57b7c256",
         "title_fa": "پزشکیان: ایران هرگز متجاوز نبوده و به دنبال سلاح هسته‌ای نبوده است",
         "title_en": "Pezeshkian: Iran Has Never Been an Aggressor, Not Seeking Nuclear Weapons",
@@ -5527,22 +5547,5 @@
         "clean_url": "https://cryptobriefing.com/trumps-iran-campaign-risks-prolonged-conflict-echoes-post-911-forever-wars",
         "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/11125608/cb-card-geo-26-800x420.png",
         "timestamp": 1789120560.0
-    },
-    {
-        "id": "aaa39bc7d5",
-        "title_fa": "خبر بین‌المللی — Inside Roman Gofman’s plan به reshape Mossad strategy, with",
-        "title_en": "Inside Roman Gofman’s plan to reshape Mossad strategy, with Iran at the center",
-        "summary": [
-            "Inside Roman Gofman’s plan to reshape Mossad strategy, with Iran at the center The Jerusalem Post"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRGplWmZTdVYyWGZOX3JBQ2JoQVZPOVEtamVrOFduX29UaW9DNXBEdTZiYUZLb2FnY0oxeDhzLVFsemxXYTFmbWhQTzFfdUJGZ3ZmSVdHSVlwRDgwQmo0UjlSTUk3WkxoNEhYSWpR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRGplWmZTdVYyWGZOX3JBQ2JoQVZPOVEtamVrOFduX29UaW9DNXBEdTZiYUZLb2FnY0oxeDhzLVFsemxXYTFmbWhQTzFfdUJGZ3ZmSVdHSVlwRDgwQmo0UjlSTUk3WkxoNEhYSWpR",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789119808.0
     }
 ]
