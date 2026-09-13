@@ -1,5 +1,24 @@
 [
     {
+        "id": "f012179318",
+        "title_fa": "یترم؛ فلز نادیده‌ای که به نقطه‌جذب جهانی شد",
+        "title_en": "How obscure yttrium became a global flashpoint",
+        "summary": [
+            "یترم، فلز کمیاب مورد استفاده در فناوری‌های پیشرفته، به دلیل تقاضای نظامی و انرژی‌ساز، درگیری‌های تجاری بین بانک‌ها و صندوق‌های سرمایه‌گذاری را برانگیخته",
+            "ورود شرکت‌های سرمایه‌گذاری بزرگ مثل Apollo به زنجیره تأمین یترم، فشار جدیدی بر قوانین صادرات و تحریم‌ها ایجاد کرده",
+            "این تحولات می‌تواند زنجیره تأمین صنایع دفاعی و الکترونیک را تحت فشار بگذارد و ریسک‌های ژئوپولیتیکی جدیدی به‌وجود آورد"
+        ],
+        "impact": "قیمت یترم و دسترسی به آن برای صنایع حساس، تحت فشار تحولات مالی خواهد شد",
+        "tag": "فلزات",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/commentary/reuters-open-interest/how-obscure-yttrium-became-global-flashpoint-2026-09-13/",
+        "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/how-obscure-yttrium-became-global-flashpoint-2026-09-13",
+        "image": "https://www.reuters.com/resizer/v2/PJRNWBBVTJI4FJIVCXKLDEBEOY.jpg?auth=ccb26cc7b8613f8304bda94d4d9a79c5164785f0772329c02ae069ba8e728a4f&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1789342425.8344405
+    },
+    {
         "id": "ea20311d67",
         "title_fa": "پیشنهاد هورموز به تعویق رفت؛ دیپلماسی دچار لغزش",
         "title_en": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
@@ -16,6 +35,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmxSZmUzZzdYUkJrQ2l3RzRTQklHdjFOWmVYZ2NDcmZmOW9UUVBoZkk0bC0wcHhveWNHNldiU2E0WV9PYkFtWGVaUUdMVUlieFBZMVRjVHFkTTZ6YjVWXzVLUlA2QXE2LURQczRJN010RGR1Y3Jkb0JpS1lhdF9fZVdJT0hMV3A5QXNNcllfalNoem0wS3VMNUlNQUgwbG9sUU1XN2R1aUpkaXZDekZ6bnlqN2RiN0t3X3d3",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789340778.0
+    },
+    {
+        "id": "28e722fa00",
+        "title_fa": "مسئول ایرانی تحت فشار آمریکا از جلسه یو‌ان منع شد",
+        "title_en": "Iranian Official Blocked From UN Nuclear Meeting at US’s Urging",
+        "summary": [
+            "ایالات متحده با فشار دیپلماتیک، حضور نماینده ایرانی را در نشست سازمان ملل درباره برنامه هسته‌ای مسدود کرد",
+            "این اقدام نشان می‌دهد که آمریکا می‌خواهد مذاکرات هسته‌ای را تحت کنترل خود نگه دارد و ایران را از صحنه بین‌المللی حذف کند",
+            "حذف نماینده می‌تواند تنش‌های دیپلماتیک را تشدید کند و مسیر مذاکرات آینده را دشوارتر سازد"
+        ],
+        "impact": "فرآیند مذاکرات هسته‌ای ایران‑ایالات متحده با مانع جدیدی مواجه می‌شود و احتمال تعلیق پیشرفت‌ها افزایش می‌یابد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWxIcUsxSnhyYnNtUzZwUHZMV3pQY1dJbmFRdzZOMTFMd2tfUjNzMUU4Nmg1aER1V3U2d2dkVVJIaWlnTlVnNzc5RjlLWnB3RHlOMVdPbTNDVzNqa0oyRE56Y2lFYU8tMmEyYlBwaUpQQ2Rvd0ZfU1hzTGdwRUQtVm1aU2hHbzdnaXVIVE1WcEhGTHlUNFp6cU5HZkVpT0ttcE5rQU9SSE1IM0NaV0NSVlVGY3U?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWxIcUsxSnhyYnNtUzZwUHZMV3pQY1dJbmFRdzZOMTFMd2tfUjNzMUU4Nmg1aER1V3U2d2dkVVJIaWlnTlVnNzc5RjlLWnB3RHlOMVdPbTNDVzNqa0oyRE56Y2lFYU8tMmEyYlBwaUpQQ2Rvd0ZfU1hzTGdwRUQtVm1aU2hHbzdnaXVIVE1WcEhGTHlUNFp6cU5HZkVpT0ttcE5rQU9SSE1IM0NaV0NSVlVGY3U",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789337692.0
     },
     {
         "id": "ed04e8fd35",
@@ -5524,42 +5562,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-trump-says-he-has-no-regrets-about-starting-war/ar-AA2bZyWG",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789161600.0
-    },
-    {
-        "id": "a55ca1d868",
-        "title_fa": "بزرگ‌ترین بازی‌های هفته دوم با اثر بر پلی‌آف",
-        "title_en": "Five Week 2 games with biggest College Football Playoff impact",
-        "summary": [
-            "دو بازی مهم هفته دوم مسابقات کالج فوتبال می‌توانند رتبه تیم‌ها را برای پلی‌آف تغییر دهند",
-            "تحلیلگران پیش‌بینی می‌کنند تیم‌های برتر شانس بالایی دارند اما نتایج نهایی هنوز نامشخص است"
-        ],
-        "impact": "نتیجه این مسابقات مسیر پلی‌آف را بازنویسی می‌کند و رتبه‌بندی تیم‌ها را تحت‌تأثیر قرار می‌دهد",
-        "tag": "ورزش",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "The Roanoke Times",
-        "url": "https://roanoke.com/sports/article_9bedf7aa-12c2-5eab-a37f-93827de2cef2.html",
-        "clean_url": "https://roanoke.com/sports/article_9bedf7aa-12c2-5eab-a37f-93827de2cef2.html",
-        "image": "https://www.bing.com/th?id=ONUT.sddHnQ_Okit_ChBfuoKRZA",
-        "timestamp": 1789161125.1880157
-    },
-    {
-        "id": "11945a92e4",
-        "title_fa": "حوثی‌ها جبهه جدیدی در خاورمیانه باز کردند",
-        "title_en": "Iran-backed Houthi rebels open new front in Middle East conflict",
-        "summary": [
-            "گروه حوثی‌های وابسته به ایران به تازگی حملات هوایی و زمینی در مسیر جدیدی از خلیج عدن به سمت عربستان آغاز کردند",
-            "این گسترش نشان می‌دهد که تهران می‌خواهد فشار بر ائتلاف‌های خلیج را افزایش دهد",
-            "خطر گسترش درگیری به کشتی‌های تجاری و خطوط نفتی نیز بالا رفته است"
-        ],
-        "impact": "افزایش تنش‌های نیابتی می‌تواند مسیر نفت خلیج فارس را به خطر اندازد",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "WJAR",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWZtdlQwNHB5UnNyQXhIaWU3a1B0ZXNPa29ZSWd3M3BYN0tNdXFPR0thcGhVV2FJMlVFOVdTMWNkb1dRNFdXWVJUYTFicVFMbTc0d1FOak5aeWVzblVMck9MWTh1d1JaS3ZzV2dDdkNJZnJ2bTV0N1VMZmg5UGVtbWJvRVRBSlZKUWRxckN2TWVHOFRSWE1oeWpwMTNmeU9DODRKN1drYzh5REl5UFQyRm9WNGZBU04zRGJ3OE9wVXN3dGtWeVNlbm9rSTNRWkNYSm5qZ3NaNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWZtdlQwNHB5UnNyQXhIaWU3a1B0ZXNPa29ZSWd3M3BYN0tNdXFPR0thcGhVV2FJMlVFOVdTMWNkb1dRNFdXWVJUYTFicVFMbTc0d1FOak5aeWVzblVMck9MWTh1d1JaS3ZzV2dDdkNJZnJ2bTV0N1VMZmg5UGVtbWJvRVRBSlZKUWRxckN2TWVHOFRSWE1oeWpwMTNmeU9DODRKN1drYzh5REl5UFQyRm9WNGZBU04zRGJ3OE9wVXN3dGtWeVNlbm9rSTNRWkNYSm5qZ3NaNA",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789161075.0
     }
 ]
