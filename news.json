@@ -1905,6 +1905,44 @@
         "timestamp": 1789218788.0
     },
     {
+        "id": "e01e2a9a42",
+        "title_fa": "آسیب‌دیدگی خط لوله نفت سعودی پس از حمله پهپادی",
+        "title_en": "Saudi oil pipeline shut down after attack triggers fires",
+        "summary": [
+            "حملهٔ پهپادی از عراق به ایستگاه‌های پمپاژ خط لوله منجر به خاموشی اضطراری شد",
+            "این اقدام در پی پیشرفت حوثی‌ها در دریای سرخ و نزدیک شدن به تنگه باب‌ال‌مندب رخ داد",
+            "خاموشی خط لوله می‌تواند عرضهٔ نفت خاورمیانه را چند روز کاهش دهد"
+        ],
+        "impact": "کاهش کوتاه‌مدت صادرات نفت سعودی و فشار بر بازارهای جهانی",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "WSVN 7News",
+        "url": "https://wsvn.com/news/us-world/saudi-oil-pipeline-shut-down-after-attack-triggers-fires/",
+        "clean_url": "https://wsvn.com/news/us-world/saudi-oil-pipeline-shut-down-after-attack-triggers-fires",
+        "image": "https://www.bing.com/th?id=ONUT.lwVBPY3u-mYu2tNFz1pI5A",
+        "timestamp": 1789218153.0
+    },
+    {
+        "id": "0e24afcf5b",
+        "title_fa": "حمله به تنگه هرمز نگرانی‌های تازهٔ عرضه نفت",
+        "title_en": "Strait of Hormuz attack raises fresh oil supply fearsPublished on: September 13, 2026 12:31 PM",
+        "summary": [
+            "گزارش‌های حمله به کشتی‌های عبوری در تنگه هرمز باعث اضطراب بازارهای انرژی شد",
+            "تنگه هرمز، که ۲۰٪ صادرات نفت جهان از آن می‌گذرد، هدفی حساس برای نیروهای منطقه‌ای است",
+            "هر اختلال در این مسیر می‌تواند قیمت نفت را به سرعت بالا برده و نوسانات ارزی را تشدید کند"
+        ],
+        "impact": "افزایش ناگهانی قیمت نفت و فشار بر اقتصادهای وابسته به واردات انرژی",
+        "tag": "نقلیه",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Daily Times on MSN",
+        "url": "https://www.msn.com/en-xl/asia/pakistan/strait-of-hormuz-attack-raises-fresh-oil-supply-fearspublished-on-september-13-2026-1231-pm/ar-AA2c7m1Z?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/strait-of-hormuz-attack-raises-fresh-oil-supply-fearspublished-on-september-13-2026-1231-pm/ar-AA2c7m1Z",
+        "image": "https://www.bing.com/th?id=ONUT.8VJC3rgvOlo6PFPe1771Ig",
+        "timestamp": 1789218153.0
+    },
+    {
         "id": "f392e46dd8",
         "title_fa": "ترامپ: حوثی‌ها از مداخله آمریکا در یمن می‌خواهند",
         "title_en": "Iran live: Trump claims Houthis asked US not to intervene in Yemen",
@@ -5514,45 +5552,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789131171.0
-    },
-    {
-        "id": "7131568c3e",
-        "title_fa": "تحلیل ۲۵ سال پس از حملات ۱۱ سپتامبر",
-        "title_en": "How 9/11 reshaped America and the world",
-        "summary": [
-            "۲۵ سال پس از ۱۱ سپتامبر، ایستگاه‌های امنیتی آمریکا هنوز تحت فشار هستند",
-            "مارک اسپیر معتقد است جنگ با ایران تاکتیکال موفق بوده اما استراتژیک ضعیف",
-            "او هشدار می‌دهد که عدم پایان واضح جنگ می‌تواند خطرات جدیدی ایجاد کند",
-            "تحلیل‌گران می‌گویند آمریکا باید درس‌های گذشته را جدی بگیرد"
-        ],
-        "impact": "نگرش‌های جدید آمریکا نسبت به خاورمیانه پس از ۱۱ سپتامبر می‌تواند سیاست‌های منطقه‌ای را بازنگری کند",
-        "tag": "امنیت",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/9-11-reshaped-america-world-114945268.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/9-11-reshaped-america-world-114945268.html",
-        "image": "https://www.bing.com/th?id=ONUT.lXNTygze6tqgvm18uK3C7w",
-        "timestamp": 1789130662.5502868
-    },
-    {
-        "id": "fe4548bfb1",
-        "title_fa": "گادی ایزنکوت به عنوان شخصیت سال شناخته شد",
-        "title_en": "Middle Israel: Gadi Eisenkot is person of the year",
-        "summary": [
-            "گادی ایزنکوت به عنوان وزیر دفاع اسرائیل در سال پرتنش شناخته شد",
-            "او نقش کلیدی در عملیات‌های نظامی و تصمیم‌گیری‌های استراتژیک ایفا کرد",
-            "حمایت‌های دو حزبی او نشان‌دهنده توافق ملی بر سر امنیت است",
-            "انتخاب او به عنوان «شخصیت سال» نماد قدرت نظامی اسرائیل است"
-        ],
-        "impact": "انتخاب ایزنکوت به‌عنوان شخصیت سال نشان‌دهنده قدرت نظامی اسرائیل در منطقه است",
-        "tag": "دفاع",
-        "urgency": 2,
-        "sentiment": 0.3,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-za/news/other/middle-israel-gadi-eisenkot-is-person-of-the-year-this-is-why/ar-AA2c0uuC?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-za/news/other/middle-israel-gadi-eisenkot-is-person-of-the-year-this-is-why/ar-AA2c0uuC",
-        "image": "https://www.bing.com/th?id=ONUT.xMJWbw1ZIk0ENskB_4URiA",
-        "timestamp": 1789130662.5500815
     }
 ]
