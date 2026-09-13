@@ -1,5 +1,23 @@
 [
     {
+        "id": "4a5c788d5d",
+        "title_fa": "هوش مصنوعی تهدید مرگ بشر",
+        "title_en": "\"AI Could Kill All Humans\", Then Why Race To Build It Is Still Intensifying",
+        "summary": [
+            "مقاله‌ای هشدار می‌دهد هوش مصنوعی می‌تواند خطر نابودی انسان را ایجاد کند",
+            "با این حال سرمایه‌گذاری و رقابت برای توسعه AI همچنان شدت می‌گیرد"
+        ],
+        "impact": "افزایش سرمایه‌گذاری در فناوری‌های خطرناک، نیاز به چارچوب‌های نظارتی",
+        "tag": "AI",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/ai-could-kill-all-humans-then-why-race-to-build-it-is-still-intensifying-12039873",
+        "clean_url": "https://www.ndtv.com/world-news/ai-could-kill-all-humans-then-why-race-to-build-it-is-still-intensifying-12039873",
+        "image": "https://www.bing.com/th?id=ONUT.n38_Eh74wTuQ3qXFwu9GOQ",
+        "timestamp": 1789279422.2243407
+    },
+    {
         "id": "2ffa695290",
         "title_fa": "ایران می‌تواند به سادگی از پیمان عدم‌پراکنده‌سازی خارج شود",
         "title_en": "Iran can easily withdraw from NPT, revise nuclear doctrine",
@@ -2155,6 +2173,44 @@
         "clean_url": "https://www.ndtv.com/opinion/china-russia-uae-what-each-country-wants-from-brics-12036320",
         "image": "https://www.bing.com/th?id=ONUT.pqrgqiGW4G6ywY1CfaN5SA",
         "timestamp": 1789194405.6300545
+    },
+    {
+        "id": "21b2c84fb8",
+        "title_fa": "حملات پایپ‌لاین سعودی از خاک عراق",
+        "title_en": "Iraq: Saudi Pipeline Attacks Launched From Its Territory",
+        "summary": [
+            "فرمانده محلی در استان مایسان پس از بررسی، مسئول حملات شناخته شد",
+            "عربستان ادعا کرد حملات با پهپادهای عراقی انجام شده و از پاسخ نظامی خودداری کرد",
+            "این خط لوله کلیدی برای صادرات نفت سعودی است؛ هر اختلالی می‌تواند بازار نفت را تکان دهد"
+        ],
+        "impact": "اختلال در صادرات نفت سعودی، فشار بر قیمت جهانی",
+        "tag": "نقلیه",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Deccan Chronicle",
+        "url": "https://www.deccanchronicle.com/world/iraq-says-saudi-pipeline-attacks-launched-from-its-territory-1987150",
+        "clean_url": "https://www.deccanchronicle.com/world/iraq-says-saudi-pipeline-attacks-launched-from-its-territory-1987150",
+        "image": "https://www.bing.com/th?id=ONUT.cG33nd-fNSguoY-CIpReeA",
+        "timestamp": 1789193013.0
+    },
+    {
+        "id": "b0b6396f40",
+        "title_fa": "حمله به کشتی در هرمز و تصرف باب‌ال‌مندب",
+        "title_en": "Fresh strike on vessel in Hormuz, Houthi takeover of Bab el-Mandeb Strait sees West Asia simmer as BRICS calls for peace",
+        "summary": [
+            "کشتی تجاری در تنگه هرمز توسط پرتاب ناشناخته آسیب دید",
+            "حوثی‌ها بندر باب‌ال‌مندب را به‌دست گرفتند و مسیر بحرین‑آسیای غربی را تهدید کردند",
+            "برکسی‌ها خواستار صلح شدند اما اقدام‌ها نظامی کاهش نیافته"
+        ],
+        "impact": "اختلال در عبور نفت و کالا، خطر تشدید درگیری‌های دریایی",
+        "tag": "دریایی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Economic Times on MSN",
+        "url": "https://www.msn.com/en-in/news/other/fresh-strike-on-vessel-in-hormuz-houthi-takeover-of-bab-el-mandeb-strait-sees-west-asia-simmer-as-brics-calls-for-peace/ar-AA2c67lF?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/fresh-strike-on-vessel-in-hormuz-houthi-takeover-of-bab-el-mandeb-strait-sees-west-asia-simmer-as-brics-calls-for-peace/ar-AA2c67lF",
+        "image": "https://www.bing.com/th?id=ONUT.5hhsmn4lm2XPLUhRx3h07g",
+        "timestamp": 1789193013.0
     },
     {
         "id": "3333a2b4da",
@@ -5479,58 +5535,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/huge-protests-overshadow-trump-s-ireland-trip-we-don-t-want-him/ar-AA2c4iiM",
         "image": "https://www.bing.com/th?id=ONUT.ZKNoTtNe9zNq3jiuHNJCEA",
         "timestamp": 1789118517.0
-    },
-    {
-        "id": "2ad77417ea",
-        "title_fa": "بازار بورس در اثر جنگ آمریکا‑ایران ثابت می‌ماند",
-        "title_en": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat As Oil Crosses $108 Amid US-Iran War",
-        "summary": [
-            "نفت به 108 دلار رسید و فشار بر بازارهای آسیایی را افزایش داد",
-            "ساندکس و نیفتی به‌صورت افقی معامله شد؛ سرمایه‌گذاران در حالت عدم اطمینان هستند",
-            "تشدید تنش‌های نظامی آمریکا‑ایران ریسک‌پذیری بازار را کاهش می‌دهد"
-        ],
-        "impact": "نوسان شدید در بورس‌های آسیایی، سرمایه‌گذاران محتاط می‌شوند",
-        "tag": "بازار",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-11-september-us-iran-war-oil-prices-12031297",
-        "clean_url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-11-september-us-iran-war-oil-prices-12031297",
-        "image": "https://c.ndtvimg.com/2026-08/pbaqafv_stock-market_625x300_20_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-        "timestamp": 1789118340.0
-    },
-    {
-        "id": "7ae1a71a4a",
-        "title_fa": "خبر بین‌المللی — ترامپ says he has no regret over ایران جنگ despite midterm r",
-        "title_en": "Trump says he has no regret over Iran war despite midterm risks",
-        "summary": [
-            "Trump says he has no regret over Iran war despite midterm risks The Arab Weekly"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Arab Weekly",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2Z6U0hrZk9pTFM5M0JTb2JtYVNpLVNsaEhpU1g2cTE5MU1iMDhETHBrcDZzWHpKV3hSMGNEWnBXSkVwdl9CaWRzRWo4MUxpSGVNVVQ1dTVxeU1Va3E0ZlFLRWxiVTJSanRWZnVuNENPZW9VMVE3cEVXa3dqN3NONlcyVm9fRkczbmUwa1FLWlg0THM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2Z6U0hrZk9pTFM5M0JTb2JtYVNpLVNsaEhpU1g2cTE5MU1iMDhETHBrcDZzWHpKV3hSMGNEWnBXSkVwdl9CaWRzRWo4MUxpSGVNVVQ1dTVxeU1Va3E0ZlFLRWxiVTJSanRWZnVuNENPZW9VMVE3cEVXa3dqN3NONlcyVm9fRkczbmUwa1FLWlg0THM",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789118294.0
-    },
-    {
-        "id": "8bb3cf0325",
-        "title_fa": "خبر بین‌المللی — Rattled ترامپ Reveals Petty Revenge Plan اگر He Loses",
-        "title_en": "Rattled Trump Reveals Petty Revenge Plan if He Loses",
-        "summary": [
-            "President Donald Trump has revealed how he will behave if Republicans lose control of the House and the Senate after November..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/rattled-donald-trump-reveals-petty-revenge-plan-if-he-loses-in-midterms/",
-        "clean_url": "https://www.thedailybeast.com/rattled-donald-trump-reveals-petty-revenge-plan-if-he-loses-in-midterms",
-        "image": "https://www.bing.com/th?id=ONUT.foAJMT04MpSuQo9QBE908w",
-        "timestamp": 1789118002.3802223
     }
 ]
