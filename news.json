@@ -606,6 +606,25 @@
         "timestamp": 1789236227.9670534
     },
     {
+        "id": "a1c69307dc",
+        "title_fa": "ترامپ پیش‌بینی پایان جنگ ایران پس از انتخابات میانی",
+        "title_en": "US-Iran war news: Trump expects Iran war to end after US midterm elections; Iran, Oman agree on new Hormuz routes",
+        "summary": [
+            "اظهار نظر ترامپ بیشتر یک پیام سیاسی است تا تضمین واقعی پایان درگیری؛ نتایج انتخابات می‌توانند مسیر سیاست آمریکا را عوض کنند",
+            "توافق ایران و عمان برای مسیرهای جدید در تنگه هرمز خطر حمل‌ونقل نفت را کاهش می‌دهد و فشار روانی بر کشتی‌ها را کم می‌کند",
+            "کاهش قیمت نفت خام پس از خبرهای فوق نشان می‌دهد بازارها به احتمال پایان جنگ واکنش مثبت نشان دادند"
+        ],
+        "impact": "قیمت نفت ممکن است تثبیت شود و حمل‌ونقل در هرمز با مسیرهای جدید روان‌تر گردد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "ET Now on MSN",
+        "url": "https://www.msn.com/en-in/politics/international-relations/us-iran-war-news-trump-expects-iran-war-to-end-after-us-midterm-elections-iran-oman-agree-on-new-hormuz-routes-10-key-developments/ar-AA2c6B1H",
+        "clean_url": "https://www.msn.com/en-in/politics/international-relations/us-iran-war-news-trump-expects-iran-war-to-end-after-us-midterm-elections-iran-oman-agree-on-new-hormuz-routes-10-key-developments/ar-AA2c6B1H",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789233797.0
+    },
+    {
         "id": "ab29e226b8",
         "title_fa": "بازارها از بحران ایران خسته شده‌اند",
         "title_en": "Market Complacency On Iran Crisis Wearing Off, Just As I Predicted In July",
@@ -5510,22 +5529,5 @@
         "clean_url": "https://www.bloomberg.com/features/2026-iran-internet",
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFbzvf8SOIp4/v0/-1x-1.webp",
         "timestamp": 1789110000.0
-    },
-    {
-        "id": "1473922f7f",
-        "title_fa": "جبهه دوم ایران",
-        "title_en": "Iran’s Second Front",
-        "summary": [
-            "By attacking Saudi shipping and Saudi Arabia itself, they have effectively opened a second front in the Iran war, broadening that conflict and placing further pressure on global energy and financial..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Foreign Affairs",
-        "url": "https://www.foreignaffairs.com/yemen/irans-second-front",
-        "clean_url": "https://www.foreignaffairs.com/yemen/irans-second-front",
-        "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/09/10/GettyImages-2293940405.jpg?itok=7tPVeRPJ",
-        "timestamp": 1789109880.0
     }
 ]
