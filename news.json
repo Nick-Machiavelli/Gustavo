@@ -683,6 +683,26 @@
         "timestamp": 1789232605.034168
     },
     {
+        "id": "0429bb356f",
+        "title_fa": "حوثی‌ها بندر موکا و جزایر باب‌ال‌مندب را تصرف کردند",
+        "title_en": "Iran-backed Houthis tighten grip on key oil shipping lane",
+        "summary": [
+            "تصرف موکا و دو جزیره آخر در باب‌ال‌مندب کنترل کامل مسیر بحرین به خلیج فارس را به حوثی‌ها می‌دهد",
+            "این مسیر کلیدی برای صادرات نفت سعودی است؛ خطر حمله به کشتی‌های حامل نفت بالا رفته",
+            "نیروهای سعودی‑یمنی حملات هوایی علیه موکا انجام دادند و چندین حوثی کشته شد",
+            "محمد بن سلمان از ترامپ برای اقدام نظامی علیه حوثی‌ها درخواست کرده؛ تنش‌ها تشدید شده"
+        ],
+        "impact": "تهدید مستقیم بر صادرات نفت سعودی و فشار بر ایالات متحده برای مداخله نظامی",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/diesel-hits-record-6-gallon-095655953.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/diesel-hits-record-6-gallon-095655953.html",
+        "image": "http://www.bing.com/th?id=ONUT.Tp0RHWzxsVYsEx8LUxkwfQ&pid=News",
+        "timestamp": 1789232400.0
+    },
+    {
         "id": "f77f77b3e8",
         "title_fa": "بحران ایران دیپلماسی جدید را از برجام به عمان سوق داد",
         "title_en": "Iran crisis drives new diplomacy from BRICS to Oman",
@@ -5511,24 +5531,5 @@
         "clean_url": "https://www.pressdemocrat.com/2026/09/11/letters-to-the-editor-friday-sept-11",
         "image": "https://www.bing.com/th?id=ONUT.UWgZNqzVexwJ1QA_KXfjew",
         "timestamp": 1789113805.9432313
-    },
-    {
-        "id": "6fa4beefa4",
-        "title_fa": "مجلس امنیت ملل بر سر تحمیل مجدد تحریم‌ها به ایران",
-        "title_en": "UN Security Council divided over reimposing sanctions on Iran",
-        "summary": [
-            "اعضای شورای امنیت نظرات متفاوتی درباره تجدید تحریم‌های ایران دارند",
-            "اختلاف بین کشورهای غربی و روسیه/چین مانع اتخاذ تصمیم یک‌پارچه شد",
-            "احتمال ادامه فشار اقتصادی بر برنامه هسته‌ای ایران افزایش یافت"
-        ],
-        "impact": "تشدید فشار اقتصادی بر ایران و افزایش تنش‌های دیپلماتیک",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "chinadailyasia.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NLTByZWdrUW9sX0RSajduc2NGYkVaWENCVDBqb1c3ZklnZWVmMVZCeXIycS1RaXBkRUVOOThCcURWVWZKdDB3b204ejM4TWtVNjVaT2ZiX2Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NLTByZWdrUW9sX0RSajduc2NGYkVaWENCVDBqb1c3ZklnZWVmMVZCeXIycS1RaXBkRUVOOThCcURWVWZKdDB3b204ejM4TWtVNjVaT2ZiX2Y",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789113150.0
     }
 ]
