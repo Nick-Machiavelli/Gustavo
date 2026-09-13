@@ -1,5 +1,24 @@
 [
     {
+        "id": "e4748c8ffa",
+        "title_fa": "هند: از عدم‌تراز به هم‌پیوستگی کامل",
+        "title_en": "Opinion | From non-alignment to all-alignment towards India: India's rise",
+        "summary": [
+            "هند دیگر به‌جای تعادل میان بلوک‌ها، به‌سوی هم‌پیوستگی با همه قدرت‌ها می‌رود",
+            "این تغییر جذب سرمایه‌گذاری خارجی و تقویت نقش ژئوپولیتیک هند را به‌همراه دارد",
+            "چین و روسیه مجبور به بازنگری استراتژی‌های خود در برابر رشد هند می‌شوند"
+        ],
+        "impact": "تقویت موقعیت تجاری هند و فشار بر رقبا در عرصه بین‌المللی",
+        "tag": "ژئوپولیتیک",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "NDTV on MSN",
+        "url": "https://www.msn.com/en-in/news/other/opinion-from-non-alignment-to-all-alignment-towards-india-indias-rise/ar-AA2c82fu?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/opinion-from-non-alignment-to-all-alignment-towards-india-indias-rise/ar-AA2c82fu",
+        "image": "https://www.bing.com/th?id=ONUT.Ttd-KMrnGuFRxJXl00OUvQ",
+        "timestamp": 1789321637.1858985
+    },
+    {
         "id": "4706555555",
         "title_fa": "خبر بین‌المللی — More economic pain coming",
         "title_en": "More economic pain coming",
@@ -237,6 +256,25 @@
         "clean_url": "https://www.msn.com/en-us/money/general/trump-acknowledges-high-gas-prices-as-us-average-hits-4-27-following-strikes-on-iran/ar-AA2c81ru",
         "image": "https://www.bing.com/th?id=ONUT.YKCP_az4GtXn_6VW7n30fQ",
         "timestamp": 1789310404.6245127
+    },
+    {
+        "id": "fa0cebab73",
+        "title_fa": "تهران درخواست پهپادهای روسی در جنگ اسرائیل",
+        "title_en": "New Russia-developed drones requested by Tehran during war with Israel, US",
+        "summary": [
+            "ایران برای تقویت نیروی هوایی خود، پهپادهای پیشرفته روسی را درخواست کرد",
+            "این گام نشان‌دهنده وابستگی بیشتر به فناوری روسیه و تنش با ایالات متحده است",
+            "دریافت این پهپادها می‌تواند تعادل نظامی در خاورمیانه را به‌سوی ایران جابجا کند"
+        ],
+        "impact": "تقویت توان نظامی ایران و تشدید تنش‌های منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NeDRJTVBjcmNXR0pPdUluRDZfNUpjMTVSV2x6bWR6bDNjOVV6NUd1eVVSc3hnbXBsaVdtZ0JYdmpQZUVvTzgweGg4aExaZk92NmlSbWliNTRzakJsYVFWWEJILThWSVplaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NeDRJTVBjcmNXR0pPdUluRDZfNUpjMTVSV2x6bWR6bDNjOVV6NUd1eVVSc3hnbXBsaVdtZ0JYdmpQZUVvTzgweGg4aExaZk92NmlSbWliNTRzakJsYVFWWEJILThWSVplaXc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789309635.0
     },
     {
         "id": "7c242a7776",
@@ -5521,39 +5559,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/brics-urges-restraint-in-middle-east-opposes-unilateral-tariffs/ar-AA2c5pyR",
         "image": "https://www.bing.com/th?id=ONUT.RenRP4HcIi9O2g3jmpCxOg",
         "timestamp": 1789147233.0
-    },
-    {
-        "id": "29b8dd77fb",
-        "title_fa": "خبر بین‌المللی — El 11 de septiembre y el retorno de Dios",
-        "title_en": "El 11 de septiembre y el retorno de Dios",
-        "summary": [
-            "Más allá de la experiencia del horror, el 11 de septiembre tuvo un legado de largo aliento: el regreso de la religión como..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Letras Libres",
-        "url": "https://letraslibres.com/politica/el-11-de-septiembre-y-el-retorno-de-dios/11/09/2026/",
-        "clean_url": "https://letraslibres.com/politica/el-11-de-septiembre-y-el-retorno-de-dios/11/09/2026",
-        "image": "https://www.bing.com/th?id=ONUT.EIqmlxX4vq5_51wjb6DK2g",
-        "timestamp": 1789146171.5885503
-    },
-    {
-        "id": "fc928d18c0",
-        "title_fa": "ترامپ و هگزث از سخنان یادبود 11 سپتامبر در پنتاگون برای دفاع از جنگ علیه ایران استفاده می‌کنند",
-        "title_en": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-        "summary": [
-            "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran The Guardian"
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Oc3F2ekFpeDB6akMya281ZkpTTkpPVi15VEN1Y2FDMUNBQ19yWlhsZXo1T29ya0p2VEhMUTh3ZkdIVFhBZTVpNWIxSWtyQVBvZlpuWndiQ1ZvMExVd2Y0a2JVV3F0Tnk0cEZsZDd3aDdTYUJUREJyQlY1dDVKZ28?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Oc3F2ekFpeDB6akMya281ZkpTTkpPVi15VEN1Y2FDMUNBQ19yWlhsZXo1T29ya0p2VEhMUTh3ZkdIVFhBZTVpNWIxSWtyQVBvZlpuWndiQ1ZvMExVd2Y0a2JVV3F0Tnk0cEZsZDd3aDdTYUJUREJyQlY1dDVKZ28",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789146060.0
     }
 ]
