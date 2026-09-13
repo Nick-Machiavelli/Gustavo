@@ -1647,6 +1647,25 @@
         "timestamp": 1789275594.0
     },
     {
+        "id": "91bdeaacfa",
+        "title_fa": "تعطیلی نشست ایران و عرب‌ها؛ دیپلماسی خاورمیانه به بن‌بست رسید",
+        "title_en": "Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls",
+        "summary": [
+            "جلسه‌ای که می‌خواست مسیر صلح را هموار کند، به دلیل فشارهای منطقه‌ای به تعویق افتاد",
+            "پیشرفت نیروهای متحد ایران در یمن نشان می‌دهد که دیپلماسی به جای عمل نظامی، به عقب‌نشینی کشیده شده",
+            "تعلل مذاکرات می‌تواند فشارهای اقتصادی بر ایران را افزایشی کند"
+        ],
+        "impact": "تعویق مذاکرات، فرصت برای حریفان منطقه‌ای برای تقویت موضع نظامی و اقتصادی",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+        "clean_url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+        "image": "http://www.bing.com/th?id=ONUT.zWkPHJt4ZAWytgYJIpQxLw&pid=News",
+        "timestamp": 1789275120.0
+    },
+    {
         "id": "a5e6985921",
         "title_fa": "شکست میدانی ترامپ در کنوانسیون میانی",
         "title_en": "Fear and delusion in Dallas: Inside Trump’s midterm convention flop",
@@ -5537,22 +5556,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/yemen-government-forces-say-hit-houthis-in-red-sea-city/ar-AA2c5bZk",
         "image": "https://www.bing.com/th?id=ONUT.qTlCw39nTqBbNHIvB8M8pg",
         "timestamp": 1789156020.0
-    },
-    {
-        "id": "61d24d946c",
-        "title_fa": "خبر بین‌المللی — Lightning حوثی advance در Yemen may bring dangerous new dime",
-        "title_en": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-        "summary": [
-            "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war bbc.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0,
-        "source": "bbc.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vQlZpVXV2Q214SGQxUFQ0SUJyUzlob3NBOW04SkhGbnpIcVQ4QTVYWDNrcF9TWWdTRjEwR0prS1hMN2E4UjN3aDh5NE5RdUY2c2Z5N212b3BVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vQlZpVXV2Q214SGQxUFQ0SUJyUzlob3NBOW04SkhGbnpIcVQ4QTVYWDNrcF9TWWdTRjEwR0prS1hMN2E4UjN3aDh5NE5RdUY2c2Z5N212b3BVZw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789155898.0
     }
 ]
