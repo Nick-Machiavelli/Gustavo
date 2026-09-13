@@ -1,5 +1,43 @@
 [
     {
+        "id": "eb9fc7e012",
+        "title_fa": "وعده ۵۰۰۰ دلاری ترامپ برای هر بزرگسال",
+        "title_en": "Trump’s $5,000 promise to every American adult would cost over $1 trillion",
+        "summary": [
+            "ترامپ در کنفرانس میانی‌دوره‌ای ۵۰۰۰ دلار به هر بزرگسال آمریکایی وعده داد",
+            "هزینه این برنامه بیش از یک تریلیون دلار تخمین زده می‌شود",
+            "این وعده می‌تواند فشار مالی شدید بر بدهی‌های فدرال ایجاد کند"
+        ],
+        "impact": "بار مالی بیش از یک تریلیون دلار بر بودجه فدرال می‌افزاید",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/money/general/trump-s-5-000-promise-to-every-american-adult-would-cost-over-1-trillion/ar-AA2c7Vve?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/trump-s-5-000-promise-to-every-american-adult-would-cost-over-1-trillion/ar-AA2c7Vve",
+        "image": "https://www.bing.com/th?id=ONUT.bV76KfBjRh4v2GFBRcaKjA",
+        "timestamp": 1789299584.8638408
+    },
+    {
+        "id": "d830f52bcb",
+        "title_fa": "تحلیل ادعای عدم وجود جنگ ایران‑آمریکا توسط ترامپ",
+        "title_en": "President Trump’s new strategy on the Iran war: Pretending there isn’t one | Editorial",
+        "summary": [
+            "ترامپ جنگ ایران‑آمریکا را انکار می‌کند",
+            "وزیران کلیدی نیز به‌طور مشابه این جنگ را نادیده می‌گیرند",
+            "این رویکرد هزینه‌های انسانی و مالی را کم‌ارزش می‌سازد"
+        ],
+        "impact": "کاهش شفافیت سیاسی و افزایش فشار داخلی بر دولت",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "The Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/opinion/editorials/iran-war-trump-consequences-denial-cost-casualties-20260913.html",
+        "clean_url": "https://www.inquirer.com/opinion/editorials/iran-war-trump-consequences-denial-cost-casualties-20260913.html",
+        "image": "https://www.bing.com/th?id=ONUT.WOKPD3ObXutPocKTtXIO4g",
+        "timestamp": 1789299584.8635662
+    },
+    {
         "id": "be478455d4",
         "title_fa": "مجلس آی‌ای‌ای‌ای به‌سرعت ایران را به‌س‌سی‌سی ارجاع داد",
         "title_en": "New resolution and UNSC referral show IAEA continues to be weaponized by US, Europe against Iran",
@@ -17,6 +55,25 @@
         "clean_url": "https://www.presstv.co.uk/Detail/2026/09/13/776217/new-resolution-unsc-referral-show-iaea-continues-to-weaponized-us-europe-against-iran",
         "image": "https://www.bing.com/th?id=ONUT.u5Cu-Wgn_3nwJWqUpm5ZrQ",
         "timestamp": 1789299249.4683068
+    },
+    {
+        "id": "1b1052f3d2",
+        "title_fa": "حوثی‌ها ادعای حمله به پایگاه سعودی در عربستان",
+        "title_en": "Iran live: Houthis claim attack on Saudi base as advance intensifies",
+        "summary": [
+            "حوثی‌ها حمله به پایگاه نظامی سعودی را ادعا کردند",
+            "این ادعا نشان می‌دهد جنگ در یمن به سرعت گسترش می‌یابد",
+            "آمریکا هنوز پاسخی رسمی نداده"
+        ],
+        "impact": "تنش‌های نظامی خاورمیانه تشدید می‌شود و احتمال واکنش آمریکا بالا می‌رود",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-houthis-claim-attack-on-saudi-base-as-advance-intensifies/ar-AA2bZyWG",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-houthis-claim-attack-on-saudi-base-as-advance-intensifies/ar-AA2bZyWG",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c7pvD.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1789298311.0
     },
     {
         "id": "c0674ca512",
@@ -5499,58 +5556,5 @@
         "clean_url": "https://www.middleeasteye.net/opinion/milibands-settlement-trade-ban-cosmetic-work-must-sanction-israel",
         "image": "https://www.bing.com/th?id=ONUT.7y6oKGzQGRMaKsoHpO8-Vg",
         "timestamp": 1789128234.7841508
-    },
-    {
-        "id": "eef504bc60",
-        "title_fa": "تشدید درگیری سعودی‑حوثی در یمن",
-        "title_en": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
-        "summary": [
-            "سخنان جدید سعودی‌ها و حوثی‌ها باعث افزایش تیراندازی‌های مرزی شد و جبههٔ یمن را به‌طور چشمگیری تشدید کرد.",
-            "ایران به‌عنوان حامی حوثی‌ها، فشار سیاسی و نظامی بیشتری بر خود می‌بیند و ریسک گسترش درگیری به خلیج فارس افزایش می‌یابد.",
-            "کشتیرانی در دریای سرخ با خطرات بیشتری مواجه می‌شود؛ حملات به کشتی‌های تجاری می‌تواند هزینه‌های حمل‌ونقل را به‌طور قابل‌توجهی بالا ببرد."
-        ],
-        "impact": "افزایش خطر برای کشتی‌های تجاری در دریای سرخ و احتمال گسترش درگیری به خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEktSm1yT29OUHRmUXVjZzdaOFJ0dkFsYnJHaEpuZXhQaUV2WWJxREJZSjZfTWVHSEhoVTlYQ0ZiVElLcU5tMy02S040YzRyY2g0NU44ME1WQkFIcnU3cFl4TmNEZ1JtcXBJNGFKU0tCOEtCYXhHWDBNb081c0ZkQ3oxS0Z1R0Y3VEU5aHJEZ2M5T3FLX05Z0gGXAUFVX3lxTFB2V1BGaWc2MHVZTDUxMzRTRGJNcVlzcEFqR1Z5eTVnNVNuWlBLS2pIaTR1akYwQnZCZ0tJQ1F4RlVUUm80UXQtbldieENyU0pPRFl2RDFKamxzQ0RtOElBTTJTcE5rbDdLbWdxX2RnQ3hqZVJ6akJXa2VwS0taYVBSOXctRlpZZDRrNDhsSUFvMVNhUHpFbEU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEktSm1yT29OUHRmUXVjZzdaOFJ0dkFsYnJHaEpuZXhQaUV2WWJxREJZSjZfTWVHSEhoVTlYQ0ZiVElLcU5tMy02S040YzRyY2g0NU44ME1WQkFIcnU3cFl4TmNEZ1JtcXBJNGFKU0tCOEtCYXhHWDBNb081c0ZkQ3oxS0Z1R0Y3VEU5aHJEZ2M5T3FLX05Z0gGXAUFVX3lxTFB2V1BGaWc2MHVZTDUxMzRTRGJNcVlzcEFqR1Z5eTVnNVNuWlBLS2pIaTR1akYwQnZCZ0tJQ1F4RlVUUm80UXQtbldieENyU0pPRFl2RDFKamxzQ0RtOElBTTJTcE5rbDdLbWdxX2RnQ3hqZVJ6akJXa2VwS0taYVBSOXctRlpZZDRrNDhsSUFvMVNhUHpFbEU",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789128157.0
-    },
-    {
-        "id": "47ff529876",
-        "title_fa": "ترامپ می‌گوید جنگ ایران پس از انتخابات میان دوره ای پایان خواهد یافت",
-        "title_en": "Trump says Iran War will end after the midterm elections",
-        "summary": [
-            "Trump says Iran War will end after the midterm elections Scripps News"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Scripps News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFJncVpmNzd3Zkw4R0pxTjJjUGdxOVMzcjVfT2ZXS1VKTUM1T1kzaWJBSXFwWjRjb0IySl9FSFhEdmFSUFAzSDlPa2R5WFlJOUNvcXVpVHhJeFU0aUhVRHRHZTA0S0l1d0k1Y3RDYkQweWNGWkxLTjJoZ3VCTUN1MVVwajdrM3hJYmVwZ2ZSbFBtcFJlSGswa1ZNcEhCeUplVHgw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFJncVpmNzd3Zkw4R0pxTjJjUGdxOVMzcjVfT2ZXS1VKTUM1T1kzaWJBSXFwWjRjb0IySl9FSFhEdmFSUFAzSDlPa2R5WFlJOUNvcXVpVHhJeFU0aUhVRHRHZTA0S0l1d0k1Y3RDYkQweWNGWkxLTjJoZ3VCTUN1MVVwajdrM3hJYmVwZ2ZSbFBtcFJlSGswa1ZNcEhCeUplVHgw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789127275.0
-    },
-    {
-        "id": "208691d4a8",
-        "title_fa": "ردیابی قیمت گاز ایالات متحده، ایالت و شهرستان، در نقشه‌ها و نمودارها.",
-        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-        "summary": [
-            "Tracking U.S., state and county gas prices, in maps and charts. Updated daily. NBC News"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789126980.0
     }
 ]
