@@ -2225,6 +2225,44 @@
         "timestamp": 1789263187.0
     },
     {
+        "id": "13b9082896",
+        "title_fa": "کره شمالی آمادگی برای حملهٔ انتقامی سریع را افزایش می‌دهد",
+        "title_en": "North Korea stepping up readiness for swift retaliatory strike against enemy — news agency",
+        "summary": [
+            "ژنرال ریچان سون گفت واحدهای موشکی و توپخانه‌ای برای پاسخ سریع به دستورات تمرین می‌کنند.",
+            "تمرینات مشترک هدف تخریب کامل ساختارهای نظامی دشمن را دارد.",
+            "این اظهارات نشان می‌دهد کره شمالی به‌سرعت توان عملیاتی خود را برای حملهٔ پیشگیرانه تقویت می‌کند."
+        ],
+        "impact": "افزایش آمادگی موشکی می‌تواند تهدید فوری به همسایگان و ایالات متحده ایجاد کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2187113",
+        "clean_url": "https://tass.com/world/2187113",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1789262579.0
+    },
+    {
+        "id": "f20b79a388",
+        "title_fa": "بلکمن: پایان «جنگ بر رانندگان» با لغو طرح‌های سبز نیویورک",
+        "title_en": "GOP’s Bruce Blakeman promises to end Hochul’s ‘war on drivers’ by killing Dem’s NY green mandates",
+        "summary": [
+            "بلکمن قول داد عوارض جدید مثل مالیات تراکم و ممنوعیت خودروهای بنزینی را لغو کند.",
+            "او سیاست هوکول را «جنگ بر رانندگان» نامید و گفت این طرح‌ها برای طبقه متوسط غیرقابل‌قبول است.",
+            "اگر برنده شود، نیویورک ممکن است به هدف‌های زیست‌محیطی ملی کمتر متعهد شود."
+        ],
+        "impact": "لغو طرح‌های سبز هزینه‌های حمل‌ونقل را کاهش می‌دهد اما پیشرفت‌های زیست‌محیطی را به تعویق می‌اندازد.",
+        "tag": "حمل‌ونقل",
+        "urgency": 2,
+        "sentiment": 0.3,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/13/us-news/gops-bruce-blakeman-promises-to-end-hochuls-war-on-drivers-by-killing-dems-green-mandates/",
+        "clean_url": "https://nypost.com/2026/09/13/us-news/gops-bruce-blakeman-promises-to-end-hochuls-war-on-drivers-by-killing-dems-green-mandates",
+        "image": "https://www.bing.com/th?id=ONUT.2oCmlZO99ghGqKepa8CBwA",
+        "timestamp": 1789262578.0
+    },
+    {
         "id": "cb52522ce0",
         "title_fa": "ایران و حوثی‌ها از خط قرمز هسته‌ای عبور کردند",
         "title_en": "Iran & the Houthis just crossed the nuclear red line",
@@ -5527,41 +5565,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-iraq-shuts-al-tayyib-border-area-with-iran-after-drone-launch-sites-found-pm-approves-joint-investigation/ar-AA2c5Pmt",
         "image": "http://www.bing.com/th?id=ONUT.7DaHrQputD2PlF9ERfLv1g&pid=News",
         "timestamp": 1789170360.0
-    },
-    {
-        "id": "42cf905a0c",
-        "title_fa": "باربادوس به کمک کاریکام به کوبا می‌پیوندد",
-        "title_en": "Barbados joins CARICOM-Mexico aid shipment to Cuba",
-        "summary": [
-            "باربادوس خوراکی‌های اساسی شامل شیر خشک را به کشتی کاریکام‑مکزیک اضافه کرد",
-            "کمبود شدید مواد غذایی در کوبا به‌دلیل تحریم‌های آمریکا تشدید شده است"
-        ],
-        "impact": "تامین مواد غذایی فشار تحریم‌ها را کمی کم می‌کند",
-        "tag": "انسانی",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "Barbados Today",
-        "url": "https://barbadostoday.bb/2026/09/11/barbados-joins-caricom-mexico-aid-shipment-to-cuba/",
-        "clean_url": "https://barbadostoday.bb/2026/09/11/barbados-joins-caricom-mexico-aid-shipment-to-cuba",
-        "image": "https://barbadostoday.bb/wp-content/uploads/2025/02/AmbassadorDavid-Commissiong.jpg",
-        "timestamp": 1789169940.7502756
-    },
-    {
-        "id": "e2815e9683",
-        "title_fa": "تورم آمریکا و انتخابات میانی",
-        "title_en": "Inflation and the midterm elections",
-        "summary": [
-            "آمار تورم اوت 2023 توسط وزارت تجارت منتشر شد",
-            "رشد قیمت‌ها می‌تواند تصمیم‌گیری رای‌دهندگان در انتخابات میانی را تحت تأثیر قرار دهد"
-        ],
-        "impact": "تورم بالا فشار بر رأی‌گیری میانی ایجاد می‌کند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/inflation-and-the-midterm-elections/ar-AA2c3GBC?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/inflation-and-the-midterm-elections/ar-AA2c3GBC",
-        "image": "https://www.bing.com/th?id=ONUT._HMY6vlONIUxlIqgozHvwA",
-        "timestamp": 1789169940.7500303
     }
 ]
