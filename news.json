@@ -1,5 +1,24 @@
 [
     {
+        "id": "acd26b4425",
+        "title_fa": "تحریم آمریکا بر بانک روسی VTB به دلیل ایران",
+        "title_en": "US hits major Russian bank VTB with Iran-linked sanctions",
+        "summary": [
+            "ایالات متحده بانک VTB را به دلیل ارتباط با ایران تحت تحریم قرار داد",
+            "این اقدام به‌سرعت روابط مالی روسیه‑ایران را تحت فشار می‌گذارد",
+            "بانک‌های روسی دیگر ممکن است تحت نظارت مشابه قرار گیرند"
+        ],
+        "impact": "دسترسی VTB به سیستم‌های مالی بین‌المللی محدود می‌شود، تراکنش‌های روسیه‑ایران دچار اختلال می‌شود",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Al-Monitor",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTEE1eEFta2VwRzdaU1lGQ21UUk9UVWoxMl9aMjZULTV6VXEzdnpQMW5HV21VMjJtaUQtYTZPUndFZnRXTGxxSFBmWDVzSXJCQmZrakszYl9VM2VmTl9xME5Ic29kdElWTHBwNE9EUjR5ODhVLWxPRWtOcFpkM05sZFN4Si1IbEc1R2dfcjhJYnFTZXc2UEswSkI3VjlRUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTEE1eEFta2VwRzdaU1lGQ21UUk9UVWoxMl9aMjZULTV6VXEzdnpQMW5HV21VMjJtaUQtYTZPUndFZnRXTGxxSFBmWDVzSXJCQmZrakszYl9VM2VmTl9xME5Ic29kdElWTHBwNE9EUjR5ODhVLWxPRWtOcFpkM05sZFN4Si1IbEc1R2dfcjhJYnFTZXc2UEswSkI3VjlRUQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789423987.0
+    },
+    {
         "id": "bc3c2a3ef0",
         "title_fa": "ممنوعیت صادرات نفت آمریکا قیمت‌ها را پایین نمی‌آورد",
         "title_en": "US oil export ban unlikely to lower energy prices, Interior secretary says",
@@ -1159,6 +1178,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkdjZ3dlWjJDWEp6R1liWkFIZmlRRVR6RVBCTDF4TVhCZnlPbHhGM29TTzBZYmRHTEowa0F1UURoWUVqN3dRSTROT3EzWnF4bmRxOVFWYVBJY1ZweHBpNWlzdUo5cE1QVGZKajFnUzh2VzFoNTFXcVBIV1BMT2Fud2h6THp3S1huVWxCdU83b1d4YlNPQnY1aWFyYmV0LWM0SkE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789389718.0
+    },
+    {
+        "id": "49daf150b1",
+        "title_fa": "خطر جنگ بر نفت سعودی؛ پیش‌بینی $200",
+        "title_en": "Saudi Arabia Under Attack: Oil Should Be Above $200?",
+        "summary": [
+            "ریسک گسترش جنگ به عربستان مسیرهای حمل‌ونقل نفت را تهدید می‌کند",
+            "اگر این ریسک واقعی شود، قیمت نفت می‌تواند به بالای ۲۰۰ دلار برسد",
+            "سرمایه‌گذاران باید به نوسان شدید قیمت و ریسک جغرافیایی توجه کنند"
+        ],
+        "impact": "قیمت جهانی نفت می‌جهد بالا، فشار بر سبدهای انرژی و تورم",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4945955-saudi-arabia-under-attack-oil-should-be-above-200",
+        "clean_url": "https://seekingalpha.com/article/4945955-saudi-arabia-under-attack-oil-should-be-above-200",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789388820.0
     },
     {
         "id": "05e37818c6",
@@ -5420,45 +5458,5 @@
         "clean_url": "https://edition.cnn.com/2026/09/13/politics/iran-gulf-countries-strait-of-hormuz",
         "image": "http://www.bing.com/th?id=ONUT.lXAUABWOifN1tNxdp17IAg&pid=News",
         "timestamp": 1789293600.0
-    },
-    {
-        "id": "8903a57516",
-        "title_fa": "ادعای شلیک هواپیمای MQ-1 توسط سپاه در هرمز",
-        "title_en": "Fact Check: Did Iran shoot down a US MQ-1 drone over the Strait of Hormuz?",
-        "summary": [
-            "سپاه اعلام کرد هواپیمای MQ-1 آمریکا را در هرمز نابود کرده است",
-            "هیچ منبع مستقل تأیید نکرده؛ احتمال استفاده برای جنگ روانی وجود دارد",
-            "در صورت صحت، فشار نظامی آمریکا بر خلیج افزایش می‌یابد",
-            "واشنگتن ممکن است درخواست بررسی و پاسخ نظامی بدهد"
-        ],
-        "impact": "افزایش تنش‌های نظامی خلیج؛ احتمال پاسخ نظامی آمریکا",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "MEAWW News",
-        "url": "https://news.meaww.com/fact-check-did-iran-shoot-down-a-us-mq-1-drone-over-the-strait-of-hormuz",
-        "clean_url": "https://news.meaww.com/fact-check-did-iran-shoot-down-a-us-mq-1-drone-over-the-strait-of-hormuz",
-        "image": "https://dxltb3n5j8l6j.cloudfront.net/817016/uploads/397ed7b0-b012-11f1-9681-1b2ce136eaf3_1200_630.jpeg",
-        "timestamp": 1789292634.0
-    },
-    {
-        "id": "700d8d61c3",
-        "title_fa": "قیمت نفت پس از حملهٔ شورشیان به خط لوله",
-        "title_en": "Middle East latest: Oil prices rise after Iran-backed rebels strike pipeline",
-        "summary": [
-            "گروه‌های حامی ایران به خط لوله نفتی حمله کردند و خسارت جزئی وارد شد",
-            "بازار جهانی نفت به‌سرعت واکنش داد و قیمت‌ها افزایشی شد",
-            "این حادثه نشان می‌دهد زیرساخت‌های انرژی منطقه همچنان هدف حملات است",
-            "اگر حملات ادامه یابد، فشار بر کشورهای مصرف‌کننده نفت افزایش می‌یابد"
-        ],
-        "impact": "قیمت نفت جهانی بالا می‌رود؛ فشار بر اقتصادهای مصرف‌کننده",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Sky",
-        "url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
-        "clean_url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789292634.0
     }
 ]
