@@ -1,5 +1,45 @@
 [
     {
+        "id": "f9c64dd285",
+        "title_fa": "بازار نفت پس از سرعت‌گیری جنگ ایران به ماراتن می‌رسد",
+        "title_en": "Oil markets survived the Iran war sprint. Now comes the marathon",
+        "summary": [
+            "قیمت نفت پس از شوک کوتاه‌مدت ثابت شد و نوسان شدید نداشت",
+            "تقاضای پالایشگاهی اروپا همچنان قوی است و فشار عرضه را کاهش می‌دهد",
+            "ریسک‌های طولانی‌مدت ناشی از تداوم تنش‌های خاورمیانه باقیست",
+            "سرمایه‌گذاران به دنبال تعادل بین تقاضای انرژی و اهداف دکربن‌سازی هستند"
+        ],
+        "impact": "قیمت نفت در کوتاه‌مدت تثبیت می‌شود اما ریسک تأمین‌پایدار در آینده ادامه دارد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/commentary/reuters-open-interest/oil-markets-survived-iran-war-sprint-now-comes-marathon-2026-09-14/",
+        "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/oil-markets-survived-iran-war-sprint-now-comes-marathon-2026-09-14",
+        "image": "https://www.reuters.com/resizer/v2/F7X43JOWKFLV7AGP45OYOXTXOA.jpg?auth=4bdb3e456825a115d2e79bb511e657bd0e8833f357c7c51160609d51155a43d8&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1789345182.742792
+    },
+    {
+        "id": "724c438439",
+        "title_fa": "رئیس هسته‌ای ایران از اجلاس اورسا در وین غائب می‌شود",
+        "title_en": "Iran nuclear chief likely to miss IAEA Vienna meet over UN travel ban",
+        "summary": [
+            "محدودیت سفر سازمان ملل مانع حضور محمد اسلمی در نشست اورسا می‌شود",
+            "این اقدام نشانگر فشار بین‌المللی بر برنامه هسته‌ای ایران است",
+            "غیبت او مذاکرات هسته‌ای را پیچیده‌تر و زمان‌برتر می‌کند",
+            "جامعه جهانی با این پیام، جدیت خود را در کنترل فعالیت‌های هسته‌ای ایران تأکید می‌کند"
+        ],
+        "impact": "مذاکرات هسته‌ای با تاخیر و فشار بیشتر مواجه می‌شود",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-nuclear-chief-likely-to-miss-iaea-vienna-meet-over-un-travel-ban/ar-AA2c9cjO",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-nuclear-chief-likely-to-miss-iaea-vienna-meet-over-un-travel-ban/ar-AA2c9cjO",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789343880.0
+    },
+    {
         "id": "c5b907af22",
         "title_fa": "رئیس هسته‌ای ایران در کنفرانس آی‌ای‌ای‌ئی حضور نخواهد داشت",
         "title_en": "Iran's nuclear chief not expected to attend IAEA General Conference, official says",
@@ -5524,42 +5564,5 @@
         "clean_url": "https://www.pilotonline.com/2026/09/11/column-after-9-11-the-us-overlooked-festering-geostrategic-issues",
         "image": "https://www.bing.com/th?id=ONUT.tcMbgHGSto8DCjpWfyxKWg",
         "timestamp": 1789165340.976773
-    },
-    {
-        "id": "e2ced676d4",
-        "title_fa": "پنتاگون خشمگین: فشار هگست بر هوابردها فاش شد",
-        "title_en": "Pentagon rages as Pete Hegseth's pressure campaign on rescued airmen exposed: report",
-        "summary": [
-            "هگست با فشار بر خلبانان برای مصاحبهٔ 60 Minutes، خطر نشت اطلاعات طبقه‌بندی‌شده را نادیده گرفت",
-            "پنتاگون واکنش شدید نشان داد و ضعف نظارت داخلی را آشکار کرد",
-            "رسانه‌ها و کمیته‌های نظارتی ممکن است درخواست بررسی مستقل کنند",
-            "اعتماد به نیروی هوایی و رهبری دفاعی تحت فشار قرار می‌گیرد"
-        ],
-        "impact": "اعتماد داخلی به نیروی هوایی و رهبری دفاعی تضعیف می‌شود؛ احتمال بررسی قانونی و محدودیت‌های رسانه‌ای افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Raw Story on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/pentagon-rages-as-pete-hegseth-s-pressure-campaign-on-rescued-airmen-exposed-report/ar-AA2c6d40?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/pentagon-rages-as-pete-hegseth-s-pressure-campaign-on-rescued-airmen-exposed-report/ar-AA2c6d40",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789162437.0
-    },
-    {
-        "id": "49232092cc",
-        "title_fa": "خبر بین‌المللی — Tucker Carlson agrees that آمریکا 'scarred millions people",
-        "title_en": "Tucker Carlson agrees that America 'scarred millions of people after 9/11'",
-        "summary": [
-            "Carlson, 57, made the argument on Friday, on the tragedy' 25th anniversary."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Mail on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/tucker-carlson-agrees-that-america-scarred-millions-of-people-after-911/ar-AA2c2WPp?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/tucker-carlson-agrees-that-america-scarred-millions-of-people-after-911/ar-AA2c2WPp",
-        "image": "https://www.bing.com/th?id=ONUT.ACVou23qP6dVMp9leAgRCg",
-        "timestamp": 1789161716.6575012
     }
 ]
