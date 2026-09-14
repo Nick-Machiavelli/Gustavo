@@ -1,5 +1,24 @@
 [
     {
+        "id": "fe2c3b0225",
+        "title_fa": "انتقاد از نتانیاهو بی‌اساس؛ اسرائیل مسیر خود را ادامه می‌دهد",
+        "title_en": "Stop blaming Netanyahu for policies most Israelis support",
+        "summary": [
+            "آمریکایی‌ها به‌دلیل مخالفت با نتانیاهو حمایت خود را از اسرائیل قطع نمی‌کنند.",
+            "اکثریت اسرائیلیان سال‌ها از سیاست‌های دولت حمایت کرده‌اند؛ تغییر رهبری به‌سرعت رفتار کلی کشور را عوض نمی‌کند.",
+            "شکایات اصلی آمریکا درباره جنگ در غزه و سیاست‌های داخلی، به‌تنهایی نمی‌تواند تصمیم‌گیری‌های کلان را تغییر دهد."
+        ],
+        "impact": "نگرش آمریکا نسبت به اسرائیل ثابت می‌ماند و سیاست‌های کلان اسرائیل تحت تأثیر کمی قرار می‌گیرد",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/opinion/jason-shvili/stop-blaming-netanyahu-for-policies-most-israelis-support",
+        "clean_url": "https://www.jns.org/opinion/jason-shvili/stop-blaming-netanyahu-for-policies-most-israelis-support",
+        "image": "https://www.bing.com/th?id=ONUT.vE9TqkX6i9G1C0V7XTgJ-A",
+        "timestamp": 1789370746.7812316
+    },
+    {
         "id": "515a2e0ae3",
         "title_fa": "دو جنگ جهان را به بحران دیزل می‌کشاند",
         "title_en": "The world wishes it had a 'diesel printer' as two wars push fuel to the brink",
@@ -17,6 +36,25 @@
         "clean_url": "https://www.msn.com/en-in/money/economy/the-world-wishes-it-had-a-diesel-printer-as-two-wars-push-fuel-to-the-brink/ar-AA2c9XDT",
         "image": "https://www.bing.com/th?id=ONUT.rDoby1v_jFQO3EL8og3e4Q",
         "timestamp": 1789370073.7315218
+    },
+    {
+        "id": "a7f2965643",
+        "title_fa": "اقتصاد سایه ایران می‌تواند سازگار شود اما نه تا ابد",
+        "title_en": "Iran’s shadow economy can adapt. But not indefinitely",
+        "summary": [
+            "بخش غیررسمی اقتصاد ایران به‌سرعت به تحریم‌ها واکنش می‌دهد و فعالیت‌های جایگزین می‌سازد.",
+            "این سازگاری هزینه‌های بالایی دارد؛ زیرساخت‌های مالی و بانکی به‌تدریج دچار فشار می‌شوند.",
+            "کاهش منابع نفتی و فشارهای بین‌المللی باعث می‌شود ظرفیت ادامه این روند محدود شود."
+        ],
+        "impact": "قابلیت تحمل تحریم‌ها کاهش می‌یابد و دولت مجبور به اصلاح ساختارهای مالی می‌شود",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Al Majalla",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTVWLThXZnFoV1h2LWhuaGxLbTVOSF9jMUJ0SjF3a0ZNaWFGeGczWFp2aDJiUDdiQ1BXcU1oZDBEUjllVGFmRkRnQ1FWdEVKX0tqVE5DZkx3bkE2SzJuVnh5cnVWZEdBNFpGRmJ2dFppYWNyU1lIbDdrdFpkeVZYNjRCREdNZEh4Tmw4bFpDVlo1SF9DcVp2bHZpZHBhQm5fY1Rtb3RKSTEwOFF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTVWLThXZnFoV1h2LWhuaGxLbTVOSF9jMUJ0SjF3a0ZNaWFGeGczWFp2aDJiUDdiQ1BXcU1oZDBEUjllVGFmRkRnQ1FWdEVKX0tqVE5DZkx3bkE2SzJuVnh5cnVWZEdBNFpGRmJ2dFppYWNyU1lIbDdrdFpkeVZYNjRCREdNZEh4Tmw4bFpDVlo1SF9DcVp2bHZpZHBhQm5fY1Rtb3RKSTEwOFF3",
+        "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789369978.0
     },
     {
         "id": "728d24270c",
@@ -5523,44 +5561,5 @@
         "clean_url": "https://www.1news.co.nz/2026/09/12/saudi-arabia-shuts-major-oil-pipeline-as-houthis-seize-island-in-key-strait",
         "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/supporters-of-yemens-houthi-rebels-chant-and-raise-rifles-du-MVFHGSZIRFFR5CI3MH6SMHRGA4.jpg?auth=ff4d5cc0e1af23d0f0d741b048d4a93f9eb693ab2c3d8c237061acd38e1c143d&quality=70&width=600&height=315&focal=3000,2000",
         "timestamp": 1789195020.0
-    },
-    {
-        "id": "b5f9a91dd5",
-        "title_fa": "وینس می‌گوید درگیری ایران جنگ نیست، زمان پایان نامشخص",
-        "title_en": "Vance says Iran conflict is not a war, declines to offer timeline for end",
-        "summary": [
-            "جفری وینس تأکید کرد درگیری با ایران جنگ رسمی نیست",
-            "او از ارائهٔ زمان‌بندی پایان خودداری کرد تا فشار بین‌المللی را کاهش دهد",
-            "بیانیه سعی دارد تصویر جنگی را از ذهن عمومی حذف کند",
-            "رقبا ممکن است این بیانیه را نشانهٔ کم‌اهمیت بودن بحران ببینند"
-        ],
-        "impact": "بیانیه وینس فشار دیپلماتیک را کم می‌کند اما عدم تعیین زمان پایان باعث عدم قطعیت می‌شود",
-        "tag": "جنگ",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRi1fbExWUXBleVp4TUdrN1RTU0FKX3NWcHU2eEdxUUVoVWMzVEw5RTlER0hCaVN6MFRFUWFuTWM5TXJkQzNOSTViQnZzUkdjN2dicUZEbkVPcVV6NDhtbTg4b1lkTlBZQjB1RXhBb19pdmlIUnA4Ui1uZENVdV9zR1FhdHlpNFRWdFB1X0JmaEpwRjRhN3U1TXl1OF93b0XSAaQBQVVfeXFMTWJsSUlhN2NCQnRTNi0xYk12YWVBLWtnVTlTUndEb2Z2SDd5ZXZySFlFQm5hcDlIMnJFcFdCS3NCQWtzM3oweVVGelRTVkV6a3hyVU1JaVZ5VWNjQzhKUXo2bWRqZGU5ZkN4aFFuYzduZjk2RFhGTUFSQklkNTYxaVp0aGJGbzVyNUItWnU2Yl91OWtvV0RpaGgwaEJPeVZmMVNMRXg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRi1fbExWUXBleVp4TUdrN1RTU0FKX3NWcHU2eEdxUUVoVWMzVEw5RTlER0hCaVN6MFRFUWFuTWM5TXJkQzNOSTViQnZzUkdjN2dicUZEbkVPcVV6NDhtbTg4b1lkTlBZQjB1RXhBb19pdmlIUnA4Ui1uZENVdV9zR1FhdHlpNFRWdFB1X0JmaEpwRjRhN3U1TXl1OF93b0XSAaQBQVVfeXFMTWJsSUlhN2NCQnRTNi0xYk12YWVBLWtnVTlTUndEb2Z2SDd5ZXZySFlFQm5hcDlIMnJFcFdCS3NCQWtzM3oweVVGelRTVkV6a3hyVU1JaVZ5VWNjQzhKUXo2bWRqZGU5ZkN4aFFuYzduZjk2RFhGTUFSQklkNTYxaVp0aGJGbzVyNUItWnU2Yl91OWtvV0RpaGgwaEJPeVZmMVNMRXg",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789194623.0
-    },
-    {
-        "id": "07da641a40",
-        "title_fa": "سعودی با تهدیدهای ایران گزینه‌های محدود",
-        "title_en": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies - ABC News",
-        "summary": [
-            "تهدیدهای مستمر ایران فشار اقتصادی و امنیتی بر عربستان را افزون می‌کند",
-            "سعودی ممکن است به تقویت پیوندهای نظامی با ایالات متحده روی آورد",
-            "گزینه‌های دیپلماتیک محدود، احتمال بروز تنش‌های نظامی افزایش می‌یابد"
-        ],
-        "impact": "تصمیم‌گیری‌های بحرانی در سیاست خارجی و دفاعی عربستان",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkZFSGMydHlfdko5SlhiY3MtYmNodDZlSzNFaGRZSXRlRnpTYXpUNEZoeWdsT2F0dk1qMFdLd196SnV3UTlOUVhXRTZ5aVpYNUVRWUdEODQ1SEd3cTdoYUtaV1ZQV2lZQXVnaEpxdVF0aTVxamFzZzAtTXJyTEJ0VW5IU3oyeUlCeUMxZVlNZEZmOEJ2Z3J0SkY4MWVxdmk2TTFMNWQ0YkJRMU1lNGfSAbMBQVVfeXFMT3kzTXZ2U08tVElZemlyZFlNNnpDclVJWmsyYXZoVTJmOVJVWWVKVUI3ckowT2hINkZQYnk4aWhhOHJRc3lEbThKWEI1ZlJsdm9Lc3VFRFhUdkV1TEs0UVZiLWpFR3NDTkdQX2xNY0tONU9OLW5KUXNMNkg4b19tc19KUWhENDBpanJDX2NhdUQ3VHNMY29Rck9LLWd6M0lFZ2dCMWpOeUJhOTUxMlpXdGZnTXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkZFSGMydHlfdko5SlhiY3MtYmNodDZlSzNFaGRZSXRlRnpTYXpUNEZoeWdsT2F0dk1qMFdLd196SnV3UTlOUVhXRTZ5aVpYNUVRWUdEODQ1SEd3cTdoYUtaV1ZQV2lZQXVnaEpxdVF0aTVxamFzZzAtTXJyTEJ0VW5IU3oyeUlCeUMxZVlNZEZmOEJ2Z3J0SkY4MWVxdmk2TTFMNWQ0YkJRMU1lNGfSAbMBQVVfeXFMT3kzTXZ2U08tVElZemlyZFlNNnpDclVJWmsyYXZoVTJmOVJVWWVKVUI3ckowT2hINkZQYnk4aWhhOHJRc3lEbThKWEI1ZlJsdm9Lc3VFRFhUdkV1TEs0UVZiLWpFR3NDTkdQX2xNY0tONU9OLW5KUXNMNkg4b19tc19KUWhENDBpanJDX2NhdUQ3VHNMY29Rck9LLWd6M0lFZ2dCMWpOeUJhOTUxMlpXdGZnTXM",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789194419.0
     }
 ]
