@@ -125,6 +125,24 @@
         "timestamp": 1789403055.120702
     },
     {
+        "id": "0776de965f",
+        "title_fa": "به‌روزرسانی زنده: اخبار خاورمیانه",
+        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "summary": [
+            "خبرهای لحظه‌ای از اسرائیل، ایران و منطقه در حال انتشار است",
+            "بدون جزئیات خاص، فقط نشان می‌دهد تنش‌ها همچنان فعال‌اند"
+        ],
+        "impact": "اطلاع‌رسانی سریع، اما تأثیر عملیاتی محدود",
+        "tag": "اخبار",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CM3lwVkFyQkZZYzdSTFBqUUwzR20td3daRjdXdXlWSVN1SFhXeWd6MWlBZHRDU3dndTBheXUxbG5NYWY0UXV4LXlNbXpTbjVkTFp3SDNZZ3ZKNUxGTWhXdlJLb1RoejFFNVVtaHk5UnpEZEd2LVRaUlFKX2NwcVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CM3lwVkFyQkZZYzdSTFBqUUwzR20td3daRjdXdXlWSVN1SFhXeWd6MWlBZHRDU3dndTBheXUxbG5NYWY0UXV4LXlNbXpTbjVkTFp3SDNZZ3ZKNUxGTWhXdlJLb1RoejFFNVVtaHk5UnpEZEd2LVRaUlFKX2NwcVE",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789401605.0
+    },
+    {
         "id": "35ba518da7",
         "title_fa": "ترامپ می‌گوید ایران به سرعت می‌خواهد توافق آمریکا",
         "title_en": "Trump says Iran wants deal with US 'quickly and badly'",
@@ -5473,23 +5491,5 @@
         "clean_url": "https://www.moneycontrol.com/news/opinion/markets-brace-for-fed-decision-as-oil-nears-110-gold-rebounds-and-stocks-slide-14028730.html",
         "image": "https://www.bing.com/th?id=ONUT.WiUVbrYMELYEggv7KI2NNA",
         "timestamp": 1789264993.7839468
-    },
-    {
-        "id": "6b53f86e08",
-        "title_fa": "سخت‌گیران ایران صلح‌نامه را خراب کردند",
-        "title_en": "How Iran’s Hard-Liners Prevailed and Sabotaged U.S. Peace Deal",
-        "summary": [
-            "افشای برنامه مخفیانه حمله به کشتی‌ها نشان می‌دهد جناح سخت‌گیر هنوز توان عملی دارد",
-            "این عمل اعتماد آمریکا به تعهدات ایران را زیر سؤال می‌برد و احتمال تجدید تحریم‌ها را بالا می‌برد"
-        ],
-        "impact": "احتمال افزایش تنش‌های خلیج فارس و تجدید تحریم‌های آمریکا",
-        "tag": "سیاست‌خارجی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
-        "clean_url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
-        "image": "http://www.bing.com/th?id=ONUT.tjr2v0PanwYN2b4J21qvxA&pid=News",
-        "timestamp": 1789264920.0
     }
 ]
