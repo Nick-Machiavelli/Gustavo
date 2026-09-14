@@ -1,5 +1,25 @@
 [
     {
+        "id": "3882265317",
+        "title_fa": "ترامپ طرح حذف اختیار EPA برای محدودسازی کربن",
+        "title_en": "Trump Moves to Strip EPA of Authority to Limit Power Plant Carbon Pollution",
+        "summary": [
+            "دولت ترامپ پیشنهاد لغو «یافته خطر» برای نیروگاه‌ها را داد",
+            "این اقدام EPA را از ابزار اصلی کاهش گازهای گلخانه‌ای محروم می‌کند",
+            "همراه با لغو یافته خطر برای خودروها، چارچوب قانونی مبارزه با تغییرات اقلیمی در خطر است",
+            "هدف واضح حمایت از صنعت زغال‌سنگ و سودآوری آن است"
+        ],
+        "impact": "افزایش انتشار کربن و عقب‌نشینی ایالات متحده از تعهدات اقلیمی",
+        "tag": "محیط‌زیست",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Common Dreams",
+        "url": "https://www.commondreams.org/newswire/trump-moves-to-strip-epa-of-authority-to-limit-power-plant-carbon-pollution",
+        "clean_url": "https://www.commondreams.org/newswire/trump-moves-to-strip-epa-of-authority-to-limit-power-plant-carbon-pollution",
+        "image": "https://www.bing.com/th?id=ONUT.Q17Gg32cz1U0ALepfH7-OQ",
+        "timestamp": 1789403055.120702
+    },
+    {
         "id": "35ba518da7",
         "title_fa": "ترامپ می‌گوید ایران به سرعت می‌خواهد توافق آمریکا",
         "title_en": "Trump says Iran wants deal with US 'quickly and badly'",
@@ -124,6 +144,26 @@
         "clean_url": "https://www.financialexpress.com/opinion/how-to-build-consensus-with-ambiguity/4339130",
         "image": "https://www.bing.com/th?id=ONUT._cahDde_Xws06wNWimxj-g",
         "timestamp": 1789398335.6931484
+    },
+    {
+        "id": "66d39b449e",
+        "title_fa": "هشدارهای رهبری هوش مصنوعی: کاهش سرعت توسعه",
+        "title_en": "International News Briefs for Monday, September 14, 2026",
+        "summary": [
+            "داریو آمودی در مقاله ۳۸۰۰ کلمه‌ای خواستار نظارت شدید بر هوش مصنوعی شد",
+            "سام آلتمن، ایلان ماسک و دمیس هاسابیس نیز خواستار ایجاد محافظ‌های قانونی شدند",
+            "آمودی هشدار داد روبات‌های خودکار می‌توانند در ۶‑۱۲ ماه اینترنت را به بات‌نت تبدیل کنند",
+            "خسارت صدها میلیارد دلاری را به‌عنوان سناریوی محتمل پیش‌بینی کرد"
+        ],
+        "impact": "فشار بین‌المللی برای اعمال قوانین سخت‌گیرانه بر توسعه هوش مصنوعی",
+        "tag": "هوش مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/international-news-briefs-for-monday-september-14-2026/",
+        "clean_url": "https://havanatimes.org/news/international-news-briefs-for-monday-september-14-2026",
+        "image": "https://havanatimes.org/wp-content/uploads/2026/09/HL4-Gaza.jpg",
+        "timestamp": 1789397940.0
     },
     {
         "id": "3e3519d0be",
@@ -933,6 +973,25 @@
         "clean_url": "https://www.newslaundry.com/2026/09/14/in-brics-indias-quiet-triumph-in-how-it-passed-the-test-of-cohesion",
         "image": "https://www.bing.com/th?id=ONUT.0pd54BVHE8JiXR0V0jtYnw",
         "timestamp": 1789377325.2198324
+    },
+    {
+        "id": "58d97499a4",
+        "title_fa": "ترامپ ادعای جدید درباره مذاکرات صلح ایران",
+        "title_en": "Iran war live: Trump makes fresh claim on peace talks",
+        "summary": [
+            "قیمت نفت ۳٪ بالا رفت پس از حملات حوثی به عربستان",
+            "ترامپ ادعای پیشرفت مذاکرات صلح ایران‑آمریکا را مطرح کرد ولی مسئولیت تورم را رد کرد",
+            "بیانیه او باعث نگرانی بازارهای انرژی شد"
+        ],
+        "impact": "نوسان شدید قیمت نفت و فشار بر سیاست‌گذاران انرژی",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/money/general/iran-war-live-trump-makes-fresh-claim-on-peace-talks/ar-AA2ca7bZ",
+        "clean_url": "https://www.msn.com/en-us/money/general/iran-war-live-trump-makes-fresh-claim-on-peace-talks/ar-AA2ca7bZ",
+        "image": "http://www.bing.com/th?id=ONUT.4P_gmS7BJmQ0yDRmWaH_MQ&pid=News",
+        "timestamp": 1789376871.0
     },
     {
         "id": "e85c049728",
@@ -5472,61 +5531,5 @@
         "clean_url": "https://www.ndtv.com/opinion/brics-summit-2026-building-brics-in-new-delhi-12038945",
         "image": "https://www.bing.com/th?id=ONUT.i5d38N9vlUEw8HTToA6Tmg",
         "timestamp": 1789240254.0433583
-    },
-    {
-        "id": "28bc181344",
-        "title_fa": "آمریکا تاریخ پادشاهی ایران را نادیده می‌گیرد",
-        "title_en": "How America misunderstood Iran’s monarchy",
-        "summary": [
-            "روایت غربی پادشاهی را صرفاً به سلطه‌گری می‌نگرد؛ در ایران نقش وحدت ملی دارد",
-            "این سوگیری باعث درک نادرست سیاست‌های تهران در برابر تحولات منطقه‌ای می‌شود"
-        ],
-        "impact": "درک نادرست غرب از تاریخ پادشاهی ایران، ممکن است سیاست‌های دیپلماتیک اشتباه تقویت شود",
-        "tag": "پادشاهی",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-nz/news/other/how-america-misunderstood-iran-s-monarchy-and-the-pahlavi-legacy/ar-AA2c5tcJ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-nz/news/other/how-america-misunderstood-iran-s-monarchy-and-the-pahlavi-legacy/ar-AA2c5tcJ",
-        "image": "https://www.bing.com/th?id=ONUT.bJsJOhKRmHz5ugnJr7eRKg",
-        "timestamp": 1789239759.2857897
-    },
-    {
-        "id": "f59686122a",
-        "title_fa": "حمله حوثی‌ها به باب‌ال‌مندب؛ پیمان مکه زیر فشار",
-        "title_en": "Saudi-Houthi war: Mecca Pact under scanner as Houthis rout Saudi-backed forces, capture Bab-al-Mandeb; what will Crown Prince Salman do?",
-        "summary": [
-            "حوثی‌ها باب‌ال‌مندب را تصرف کردند؛ مسیر اصلی صادرات نفت سعودی مسدود شد",
-            "پیمان مکه تعهد دفاع جمعی دارد اما ترکیه و پاکستان تاکنون پاسخی ندادند",
-            "ریاض باید استراتژی خود را بازنگری کند؛ خطر کاهش صادرات و فشار اقتصادی بر اقتصاد سعودی"
-        ],
-        "impact": "مسدود شدن مسیر نفت سعودی، فشار شدید بر اقتصاد ریال و تضعیف موقعیت ژئوپلیتیک عربستان",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "News24",
-        "url": "https://news24online.com/world/saudi-houthi-war-mecca-pact-under-scanner-as-houthis-rout-saudi-backed-forces-capture-bab-al-mandeb-what-will-crown-prince-salman-do/924124/",
-        "clean_url": "https://news24online.com/world/saudi-houthi-war-mecca-pact-under-scanner-as-houthis-rout-saudi-backed-forces-capture-bab-al-mandeb-what-will-crown-prince-salman-do/924124",
-        "image": "https://www.bing.com/th?id=ONUT.vxNWMGe458E1-ssqZbg8xQ",
-        "timestamp": 1789239759.2854176
-    },
-    {
-        "id": "d364edd2af",
-        "title_fa": "تایسِچ گفت گازا را نسل‌کشی نمی‌نامد",
-        "title_en": "Taoiseach defends not referring to situation in Gaza as 'genocide' during meeting with Trump",
-        "summary": [
-            "تایسِچ در جلسه با ترامپ از واژه «نسل‌کشی» برای گازا استفاده نکرده.",
-            "او ادعا کرد زبان خود را در این موضوع تغییر نداده.",
-            "این واکنش در پی انتقادات بین‌المللی دربارهٔ رفتار اسرائیل است."
-        ],
-        "impact": "عدم استفاده از واژه نسل‌کشی می‌تواند فشار دیپلماتیک بر ایرلند را افزایش دهد.",
-        "tag": "گازا-دیپلوماسی",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "TheJournal.ie on MSN",
-        "url": "https://www.msn.com/en-ie/news/other/taoiseach-defends-not-referring-to-situation-in-gaza-as-genocide-during-meeting-with-trump/ar-AA2c856s?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ie/news/other/taoiseach-defends-not-referring-to-situation-in-gaza-as-genocide-during-meeting-with-trump/ar-AA2c856s",
-        "image": "https://www.bing.com/th?id=ONUT.saRNvQnx0KbDQzxQZChzWA",
-        "timestamp": 1789237471.0
     }
 ]
