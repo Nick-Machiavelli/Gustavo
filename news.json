@@ -1271,6 +1271,25 @@
         "timestamp": 1789364648.0
     },
     {
+        "id": "3903fe8ff7",
+        "title_fa": "نتانیاهو تهدید شدید به دشمنان می‌کند",
+        "title_en": "Live Updates: Netanyahu warns enemies: 'If you haven't learned lesson by now, you will suffer even heavier blows'",
+        "summary": [
+            "نتانیاهو در بیانیه‌اش به دشمنان هشدار داد که اگر هنوز درس نگرفته‌اند، ضربات سنگین‌تری خواهند دید",
+            "این اظهارات پس از گزارش‌های اخیر درباره برنامه هسته‌ای ایران و حضور دیپلماتیک اوست",
+            "تهدید می‌تواند فشار دیپلماتیک بر ایران و حامیانش را افزایش دهد"
+        ],
+        "impact": "تشدید تنش‌های منطقه‌ای و تقویت موضع نظامی اسرائیل",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-14/live-updates-908483",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-14/live-updates-908483",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737606",
+        "timestamp": 1789364160.0
+    },
+    {
         "id": "fa4867c8ec",
         "title_fa": "استراتژی ترامپ علیه ایران خطر جنگ را افزون می‌کند",
         "title_en": "Trump's 'little war' with Iran just got a lot bigger",
@@ -2403,6 +2422,43 @@
         "clean_url": "https://www.breitbart.com/politics/2026/09/13/whos-running-iran-report-exposes-power-struggle-top-regime",
         "image": "http://www.bing.com/th?id=ONUT.woLHXKoC2Nk9Kc8AtQBrjg&pid=News",
         "timestamp": 1789318800.0
+    },
+    {
+        "id": "4f17789145",
+        "title_fa": "اولین تصویر سونوگرافی ۴‑بعدی نوزاد",
+        "title_en": "A 4D ultrasound reveals who baby P looks like",
+        "summary": [
+            "سونوگرافی ۴‑بعدی جزئیات چهره نوزاد را نشان داد و خانواده را با تصویر واضحی از ظاهر او آشنا کرد",
+            "این فناوری هنوز در ایران رایج نیست و نشانگر پیشرفت‌های پزشکی تصویری است"
+        ],
+        "impact": "افزایش علاقه به خدمات پیشرفته سونوگرافی در میان خانواده‌ها",
+        "tag": "سلامت",
+        "urgency": 1,
+        "sentiment": 0.2,
+        "source": "The LaBrant Fam on MSN",
+        "url": "https://www.msn.com/en-us/family-and-relationships/parenting/a-4d-ultrasound-reveals-who-baby-p-looks-like/vi-AA2ccy90?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/family-and-relationships/parenting/a-4d-ultrasound-reveals-who-baby-p-looks-like/vi-AA2ccy90",
+        "image": "https://www.bing.com/th?id=ONUT.5bI5eNnu3JQfLGIDu3z4kA",
+        "timestamp": 1789318429.0
+    },
+    {
+        "id": "c59f3564b6",
+        "title_fa": "سرمایه‌گذاری روسی در عروسی دونالد ترامپ جونیور",
+        "title_en": "ProPublica: Russian oligarch bankrolled Donald Trump Jr.'s wedding",
+        "summary": [
+            "گزارش پروپابلیک می‌گوید اوگار کریملف، الیگار روسی، هزینه عروسی دونالد ترامپ جونیور را تأمین کرده است",
+            "این افشاگری می‌تواند روابط مالی بین خانواده ترامپ و افراد نزدیک به Kremlin را زیر سوال ببرد",
+            "پرونده ممکن است فشار بیشتری بر تحقیقات مالی ترامپ‌ها وارد کند"
+        ],
+        "impact": "احتمال بررسی‌های قانونی بیشتر برای ترامپ و تأثیر بر تصویر عمومی او",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "MS NOW on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/propublica-russian-oligarch-bankrolled-donald-trump-jr-s-wedding/vi-AA2ccHZo?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/propublica-russian-oligarch-bankrolled-donald-trump-jr-s-wedding/vi-AA2ccHZo",
+        "image": "https://www.bing.com/th?id=ONUT.0zAy3peCroacY5pFsHOFqg",
+        "timestamp": 1789318429.0
     },
     {
         "id": "4706555555",
@@ -5472,60 +5528,5 @@
         "clean_url": "https://www.indiatoday.in/india/video/are-india-china-ties-back-on-track-why-is-every-handshake-so-important-brahma-chellaney-zorawar-daulet-singh-ross-feingold-ytvd-2993441-2026-09-13",
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/indiamovingtonormalisetieslargelyonchinastermschellaney-s0-original-sixteen-to-nine.jpg?VersionId=4l3XkZstAIvUSHWLzw2Mng5hBRhI6FrR",
         "timestamp": 1789241570.0009198
-    },
-    {
-        "id": "d545e067b7",
-        "title_fa": "چپ‌کومونیست خمینیست به «اصلاح‌گرای» قدرت تبدیل شد",
-        "title_en": "How Iran’s Khomeinist Left reinvented itself as the ‘Reformist’ hard core of power",
-        "summary": [
-            "پس از ۱۹۷۹، چپ‌کومونیست‌های خمینیست به نیروی سرکوب‌گر تبدیل شدند و نه به دلیل ایدئولوژی جدید.",
-            "این گروه با تغییر نام به «اصلاح‌گرای» سعی دارد تصویر اصلاح‌طلبی را به‌نفع خود بگیرد.",
-            "در واقع، آن‌ها هسته عملیاتی سرکوب و حذف مخالفان را تشکیل می‌دهند."
-        ],
-        "impact": "تقویت ساختارهای سرکوب داخلی، مانع از پیشرفت واقعی اصلاحات در ایران می‌شود",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/opinion/article-908216",
-        "clean_url": "https://www.jpost.com/opinion/article-908216",
-        "image": "https://www.bing.com/th?id=ONUT.VmEK9Hd11X3sIn33qRksIg",
-        "timestamp": 1789241570.000577
-    },
-    {
-        "id": "a9b18c4259",
-        "title_fa": "ترامپ: تخلیه فوری تهران، خطر هسته‌ای",
-        "title_en": "Trump urges immediate Tehran evacuation amidst escalating Iran-Israel tensions",
-        "summary": [
-            "دونالد ترامپ از تهران خواست تا بلافاصله شهر را خالی کند، هشدار داد که خطر هسته‌ای جدی است.",
-            "او تاکید کرد ایالات متحده اجازه نمی‌دهد ایران سلاح هسته‌ای به دست آورد و اقدام‌ها نظامی ممکن است دنبال شود.",
-            "این فراخوان نشان می‌دهد تنش‌های آمریکا‑ایران به اوج رسیده و احتمال واکنش نظامی افزایش یافته."
-        ],
-        "impact": "فراخوان ترامپ می‌تواند فشار بین‌المللی برای خروج نیروهای آمریکایی از منطقه را افزایش دهد و خطر درگیری مستقیم را بالا ببرد.",
-        "tag": "سیاست",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "YouTube on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/trump-urges-immediate-tehran-evacuation-amidst-escalating-iran-israel-tensions/vi-AA2c8cXU?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/trump-urges-immediate-tehran-evacuation-amidst-escalating-iran-israel-tensions/vi-AA2c8cXU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789241557.0
-    },
-    {
-        "id": "1f116a19a3",
-        "title_fa": "خواهد حوثی advances در Yemen give ایران leverage در its جنگ with US?",
-        "title_en": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-        "summary": [
-            "Will Houthi advances in Yemen give Iran leverage in its war with the US? Al Jazeera"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjEyX2xEQm1aSDkybnFFbEtRVU04S19PNHB5bWFtV25OTzlUZDAwVkYtbTI3OW51ZmtMZWJFbktySlZSSG14TjBZaTgtU29hdS16NFpiZzY3NXVBMW9hc3JKRVE2dzY0T2swbWhEMzhRNF90bklyQkR2enZMZXdZN2dVWW16YTMyeGg4Z1BnUjZVdGdsTG9sZFhDc05YTXRHMkhGT2s0ZFp0dmZaQ1NhMGhaWmFiVGkxQVhiaWlYbXpobG5N0gHKAUFVX3lxTE9PYWFreGlRQnZfalF3eEg3SVRMa0hkM18xV3k1VWppa0tmdURNVkhUb1I5MWdhTWFVekhEbEVJUFE3RUM2MW5QeWVXc2c5UnJEVF9TcmZaSVZsZlY5X0p5anlKQ1FzNlNVQlpFZVVYU25OUFEybUhuZlRVQkhvMDJxdWxXZWRZd24yUHBJMGxrLWdkaGRNNmhnM2JsNHJ1YUdjVU0zWVhZRGloYUJsZVZNZnNwWXpTemRZb3QzZWJuWEVDN1JhZ0NVaWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjEyX2xEQm1aSDkybnFFbEtRVU04S19PNHB5bWFtV25OTzlUZDAwVkYtbTI3OW51ZmtMZWJFbktySlZSSG14TjBZaTgtU29hdS16NFpiZzY3NXVBMW9hc3JKRVE2dzY0T2swbWhEMzhRNF90bklyQkR2enZMZXdZN2dVWW16YTMyeGg4Z1BnUjZVdGdsTG9sZFhDc05YTXRHMkhGT2s0ZFp0dmZaQ1NhMGhaWmFiVGkxQVhiaWlYbXpobG5N0gHKAUFVX3lxTE9PYWFreGlRQnZfalF3eEg3SVRMa0hkM18xV3k1VWppa0tmdURNVkhUb1I5MWdhTWFVekhEbEVJUFE3RUM2MW5QeWVXc2c5UnJEVF9TcmZaSVZsZlY5X0p5anlKQ1FzNlNVQlpFZVVYU25OUFEybUhuZlRVQkhvMDJxdWxXZWRZd24yUHBJMGxrLWdkaGRNNmhnM2JsNHJ1YUdjVU0zWVhZRGloYUJsZVZNZnNwWXpTemRZb3QzZWJuWEVDN1JhZ0NVaWc",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789240667.0
     }
 ]
