@@ -89,6 +89,24 @@
         "timestamp": 1789395469.8332388
     },
     {
+        "id": "a96b8971be",
+        "title_fa": "اتمام ورود رئیس برنامه هسته‌ای ایران به وین",
+        "title_en": "Austria bars entry of Iran's nuclear chief for IAEA meeting in Vienna",
+        "summary": [
+            "اتنایستری به دلیل تحریم‌های سازمان ملل، ورود محمد اسلامی را مسدود کرد؛ این اقدام باعث بروز تنش دیپلماتیک در کنفرانس سالانه IAEA شد",
+            "آمریکا از تصمیم اتنایستری حمایت کرد و ایران با احضار دیپلمات‌های اتنایستری واکنش نشان داد؛ اعتبار وین به‌عنوان میزبان سازمان‌های بین‌المللی زیر سؤال رفت"
+        ],
+        "impact": "برگزاری کنفرانس IAEA با تضعیف دیپلماسی و فشار بین‌المللی بیشتر بر برنامه هسته‌ای ایران",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/austria-bars-entry-irans-nuclear-140415275.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/austria-bars-entry-irans-nuclear-140415275.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/011c1d364192f6982ca70d2783e391a6c313098372b32348c5d7781d3e7ed3ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0192817743dbb7a497a529c5a0a1b251.jpg",
+        "timestamp": 1789394640.0
+    },
+    {
         "id": "d3218d0470",
         "title_fa": "مارک کارنی: رهبر مورد نیاز غرب",
         "title_en": "Voices: How Trump-dumping Mark Carney became the leader the West really needs",
@@ -2404,6 +2422,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0xIQ0c5MXZVcHlkYldBdzdHV09KYWRDcXdNV2p6YVNRSS1rR1pfWmdvUklrb1ZRZEkzVE4tOGh2cWtGZGlqX2l0YXQ1YjNlLVREQzBXQU5CQXdkZ2dqTkU5anFiV05iUkV6eU4zS2lDWDlSYXRhQjZSNUVDS0lwLTJpeHVCUGtlSnVncUVHT3I4TWEwaC1BWjBOaHhKenR3azBVUThFdWdjaGNDTHppV29fUQ",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789311200.0
+    },
+    {
+        "id": "7af8b44059",
+        "title_fa": "سهم‌های هوش مصنوعی پس از هشدارهای کاهش سرعت سقوط کردند",
+        "title_en": "AI stocks drop on calls for a global slowdown as Brent oil's price hits $109",
+        "summary": [
+            "مدیران شرکت‌های هوش مصنوعی پیش‌بینی کردند تقاضا به‌سرعت کاهش یابد؛ این پیام باعث فروش گسترده سهام در بازارهای جهانی شد",
+            "سرمایه‌گذاران به‌سرعت از ریسک‌های پیش‌رو دور شدند؛ شاخص‌های فناوری در روز دوشنبه بیش از ۳ درصد افت داشت"
+        ],
+        "impact": "کاهش سرمایه‌گذاری در فناوری‌های نوین و فشار منفی بر شاخص‌های بورس فناوری",
+        "tag": "بازار",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/money/general/tech-stocks-drop-on-warnings-about-ai-as-brent-oil-s-price-hits-109/ar-AA2c9B28?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/tech-stocks-drop-on-warnings-about-ai-as-brent-oil-s-price-hits-109/ar-AA2c9B28",
+        "image": "https://www.bing.com/th?id=ONUT.TeNz-hCh5jFQSwDA1jmTVQ",
+        "timestamp": 1789310871.0
     },
     {
         "id": "20f2743806",
@@ -5498,44 +5534,5 @@
         "clean_url": "https://www.cbsnews.com/news/abdul-el-sayed-michigan-democrat-senate-face-the-nation-transcript-09-13-2026",
         "image": "https://www.bing.com/th?id=ONUT.I6m_zDiGwS54o5LpU3RsOA",
         "timestamp": 1789229590.0
-    },
-    {
-        "id": "cdfeb9e62d",
-        "title_fa": "ترامپ خواست‌ورود اوکراین به توقف حملات پالایشگاهی",
-        "title_en": "Donald Trump demands Ukraine halt refinery strikes as diesel surges",
-        "summary": [
-            "ترامپ فشار اقتصادی به اوکراین می‌آورد تا روسیه نتواند از صادرات دیزل بهره‌برداری کند",
-            "این درخواست می‌تواند تنش‌های نظامی‑اقتصادی بین اوکراین و روسیه را تشدید کند",
-            "اگر اوکراین به این خواست گوش ندهد، احتمال تحریم‌های جدید آمریکا افزایش می‌یابد"
-        ],
-        "impact": "افزایش فشار بر اقتصاد اوکراین و احتمال تشدید تنش‌های انرژی در منطقه",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/donald-trump-demands-ukraine-halt-refinery-strikes-as-diesel-surges-article-14029045.html",
-        "clean_url": "https://www.moneycontrol.com/world/donald-trump-demands-ukraine-halt-refinery-strikes-as-diesel-surges-article-14029045.html",
-        "image": "https://www.bing.com/th?id=ONUT.WPgM8kczdSkram2Bi1xEBQ",
-        "timestamp": 1789229590.0
-    },
-    {
-        "id": "8f9b394314",
-        "title_fa": "حمله حوثی‌ها به مسجد سعودی؛ تصرف جزیره بحرالمان",
-        "title_en": "Iran live: Houthis strike Saudi mosque causing injuries",
-        "summary": [
-            "حوثی‌ها پس از قطع خط لوله نفتی، به مسجدی در عربستان حمله کردند و چندین نفر را مجروح کردند.",
-            "تصرف جزیره‌ای استراتژیک در باب‌ال‌مندب، کلید عبور کشتی‌های نفتی، نشان‌دهنده گسترش توان نظامی حوثی‌هاست.",
-            "ایران به‌عنوان حامی اصلی حوثی‌ها، به‌صورت غیرمستقیم در این تنش‌ها نقش دارد و فشار بر خلیج فارس را افزایش می‌دهد.",
-            "این تحولات می‌تواند مسیرهای حمل و نقل نفت را به خطر اندازد و نوسان قیمت جهانی را تشدید کند."
-        ],
-        "impact": "اختلال در عبور نفت خلیج؛ تشدید تنش‌های امنیتی بین عربستان و حوثی‌ها.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-houthis-strike-saudi-mosque-causing-injuries/ar-AA2bZyWG",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-houthis-strike-saudi-mosque-causing-injuries/ar-AA2bZyWG",
-        "image": "http://www.bing.com/th?id=ONUT.eeMd6-BXPk2PHtiJgCK0GQ&pid=News",
-        "timestamp": 1789228814.0
     }
 ]
