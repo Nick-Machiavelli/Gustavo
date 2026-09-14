@@ -36,6 +36,24 @@
         "timestamp": 1789421789.0227017
     },
     {
+        "id": "b5b4cd61a3",
+        "title_fa": "ایالات متحده ویزای رئیس هسته‌ای ایران را مسدود کرد",
+        "title_en": "US blocks Iran nuclear chief from attending key Vienna conference",
+        "summary": [
+            "آمریکا با فشار بر اتریش، ویزای محمد اسماعیلی را برای کنفرانس ویانا لغو کرد؛ این اقدام خلاف حقوق کشورهای عضو سازمان ملل است.",
+            "ایران این تصمیم را نقض حاکمیت و مانع از حضور نماینده هسته‌ای در مذاکرات مهم بین‌المللی می‌داند."
+        ],
+        "impact": "حضور ایران در مذاکرات هسته‌ای ویانا به خطر افتاد و امکان پیشرفت توافق هسته‌ای کاهش یافت.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/other/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference/ar-AA2ccZef",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference/ar-AA2ccZef",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789420800.0
+    },
+    {
         "id": "0e9691fa4b",
         "title_fa": "خبر بین‌المللی — Pentagon watchdog says ایران جنگ has led به munitions shortf",
         "title_en": "Pentagon watchdog says Iran war has led to munitions shortfall",
@@ -5442,23 +5460,5 @@
         "clean_url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789292634.0
-    },
-    {
-        "id": "f86522d730",
-        "title_fa": "کاهش شانس سوزان کالینز به‌دست ترامپ",
-        "title_en": "If Susan Collins loses she can thank Donald Trump: Rooks",
-        "summary": [
-            "حضور ترامپ در انتخابات میدانی می‌تواند رأی‌داران مینی را به سمت دموکرات‌ها سوق دهد",
-            "شکست کالینز، جمهوری‌خواه پنج‌دوره‌ای، ترکیب سنای آمریکا را به نفع دموکرات‌ها تغییر می‌دهد"
-        ],
-        "impact": "تغییر ترکیب سنای آمریکا، اثر مستقیم بر تصویب قوانین کلیدی",
-        "tag": "انتخابات",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Seacoastonline",
-        "url": "https://www.seacoastonline.com/story/opinion/columns/2026/09/13/if-susan-collins-loses-she-can-thank-donald-trump-rooks/91690440007/",
-        "clean_url": "https://www.seacoastonline.com/story/opinion/columns/2026/09/13/if-susan-collins-loses-she-can-thank-donald-trump-rooks/91690440007",
-        "image": "https://www.bing.com/th?id=ONUT.Aa-e8dP2lgiZPTkiaeTOZg",
-        "timestamp": 1789292269.5491638
     }
 ]
