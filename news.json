@@ -2761,6 +2761,24 @@
         "timestamp": 1789332120.0
     },
     {
+        "id": "2b09d51e77",
+        "title_fa": "کانادا به سمت شراکت عمیق با اتحادیه اروپا",
+        "title_en": "Why Canada is moving closer to the European Union, and how it is doing it",
+        "summary": [
+            "نخست‌وزیر مارک کارنی مذاکراتی برای چارچوب اقتصادی جدید با اتحادیه اروپا آغاز کرده است",
+            "پیشنهاد شامل گسترش توافق استراتژیک و تجارت آزاد است؛ هدف برگزاری اجلاس ۲۹‑۳۰ اکتبر در کانادا است"
+        ],
+        "impact": "تقویت صادرات کانادا به بازار اروپا و کاهش وابستگی تجاری به آمریکا",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "BNN Bloomberg",
+        "url": "https://www.bnnbloomberg.ca/business/international/2026/09/14/why-canada-is-moving-closer-to-the-european-union-and-how-it-is-doing-it/",
+        "clean_url": "https://www.bnnbloomberg.ca/business/international/2026/09/14/why-canada-is-moving-closer-to-the-european-union-and-how-it-is-doing-it",
+        "image": "https://www.bing.com/th?id=ONUT.0cSlKVXf3dhQOrK4iS4GUQ",
+        "timestamp": 1789332110.0
+    },
+    {
         "id": "2116f41070",
         "title_fa": "اعتراضات بازنشستگان و دعواهای نفتی، بحران عمیق ایران",
         "title_en": "Pension Protests, Oil Dispute and Nuclear-Test Calls Deepen Iran’s Crisis Amid Factional Infighting - National Council of Resistance of Iran",
@@ -5453,23 +5471,5 @@
         "clean_url": "https://tass.com/world/2187033",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1789282920.0
-    },
-    {
-        "id": "0adbd0a4af",
-        "title_fa": "نشست ایران‑امارات: چرا بحرین حضور ندارد؟",
-        "title_en": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
-        "summary": [
-            "ایران قصد دارد مذاکراتی با عراق و کشورهای خلیج در عمان برگزار کند تا امنیت منطقه‌ای را تقویت کند",
-            "عدم حضور بحرین بیانگر تنش‌های سیاسی و اختلافات اقتصادی است"
-        ],
-        "impact": "تقویت امنیت مشترک می‌تواند فشارهای نظامی را کاهش دهد اما ریسک تشدید رقابت‌های منطقه‌ای را به همراه دارد",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Al Jazeera on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-gcc-summit-what-s-behind-the-meeting-why-is-bahrain-not-attending/ar-AA2c7Hxk",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-gcc-summit-what-s-behind-the-meeting-why-is-bahrain-not-attending/ar-AA2c7Hxk",
-        "image": "http://www.bing.com/th?id=ONUT.A7Rzv2-vjc18FRtW9xBTVQ&pid=News",
-        "timestamp": 1789282767.0
     }
 ]
