@@ -1,5 +1,24 @@
 [
     {
+        "id": "039d21aead",
+        "title_fa": "پیمان‌های ابراهیم به جای صلح، جنگ را تشدید کردند",
+        "title_en": "'The Abraham Accords have fueled war rather than peace in the Middle East'",
+        "summary": [
+            "پیمان‌های ابراهیم به‌جای کاهش تنش، رقابت‌های منطقه‌ای را تشدید کرد",
+            "ایران این توافق‌ها را ابزار فشار آمریکا می‌داند و واکنش نظامی می‌گیرد",
+            "جبهه‌های نیابتی در سوریه و یمن به‌سرعت گسترش یافتند"
+        ],
+        "impact": "افزایش خطر درگیری‌های نظامی و سیاسی در خاورمیانه",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Le Monde",
+        "url": "https://www.lemonde.fr/en/opinion/article/2026/09/14/the-abraham-accords-have-fueled-war-rather-than-peace-in-the-middle-east_6757492_23.html",
+        "clean_url": "https://www.lemonde.fr/en/opinion/article/2026/09/14/the-abraham-accords-have-fueled-war-rather-than-peace-in-the-middle-east_6757492_23.html",
+        "image": "https://www.bing.com/th?id=ONUT.8moEB2iqlKGEgNY3yZg-Ig",
+        "timestamp": 1789373714.4774523
+    },
+    {
         "id": "fe2c3b0225",
         "title_fa": "انتقاد از نتانیاهو بی‌اساس؛ اسرائیل مسیر خود را ادامه می‌دهد",
         "title_en": "Stop blaming Netanyahu for policies most Israelis support",
@@ -424,6 +443,25 @@
         "clean_url": "https://www.hindustantimes.com/opinion/dont-mistake-the-noise-around-brics-for-impact-summit-2026-new-delhi-xi-jinping-vladimir-putin-pm-modi-bharat-mandapam-101789318229438.html",
         "image": "https://www.bing.com/th?id=ONUT.T_kOxNhEc391N4lDfCaLSw",
         "timestamp": 1789348388.304358
+    },
+    {
+        "id": "fdd3fc91bd",
+        "title_fa": "ایران تجارت دریایی را به مسیرهای زمینی می‌سپارد",
+        "title_en": "Can Iran replace sea trade with land routes?",
+        "summary": [
+            "ایران کالاها را به بنادر شمالی و مسیرهای زمینی هدایت می‌کند",
+            "راه‌حل زمینی می‌تواند کالاهای اساسی را موقتاً حفظ کند",
+            "ظرفیت کمتر و هزینهٔ بالاتر باعث محدودیت جایگزینی کامل می‌شود"
+        ],
+        "impact": "کاهش موقت فشار تحریم‌های دریایی با هزینهٔ بالاتر برای واردات",
+        "tag": "تجارت",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "DW on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/can-iran-replace-sea-trade-with-land-routes/ar-AA2ca1hO",
+        "clean_url": "https://www.msn.com/en-xl/news/other/can-iran-replace-sea-trade-with-land-routes/ar-AA2ca1hO",
+        "image": "http://www.bing.com/th?id=ONUT.0XOvfa-uC7SVISDInHc1pg&pid=News",
+        "timestamp": 1789347000.0
     },
     {
         "id": "b1aed5547b",
@@ -2280,6 +2318,25 @@
         "clean_url": "https://www.tio.ch/ticino/focus/1949753/shirin-ebadi-a-lugano-il-regime-e-debole-le-donne-continuano-a-sfidarlo",
         "image": "https://www.bing.com/th?id=ONUT.TuWPf71zUih0bc6GiZQdpw",
         "timestamp": 1789287808.487133
+    },
+    {
+        "id": "03b797f8c2",
+        "title_fa": "هزینه بنزین فیلیپین تا 5 پِسوا در لیتر می‌رسد",
+        "title_en": "Up to P5/liter fuel price hike looms this week",
+        "summary": [
+            "قیمت بنزین ممکن است تا 5 پِسوا در هر لیتر افزایش یابد",
+            "رانندگان با هزینهٔ بالاتر روزانه مواجه می‌شوند",
+            "این افزایش فشار جدیدی بر تورم مصرف‌کنندگان می‌گذارد"
+        ],
+        "impact": "کاهش قدرت خرید رانندگان و فشار بر نرخ تورم",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Cebu Daily News on MSN",
+        "url": "https://www.msn.com/en-ph/money/economy/up-to-p5-liter-fuel-price-hike-looms-this-week/ar-AA2c8Iqa?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ph/money/economy/up-to-p5-liter-fuel-price-hike-looms-this-week/ar-AA2c8Iqa",
+        "image": "https://www.bing.com/th?id=ONUT.btxi7Ts0-26suRiYHSQ5Gg",
+        "timestamp": 1789287309.0
     },
     {
         "id": "471cfbf61c",
@@ -5506,63 +5563,5 @@
         "clean_url": "https://inews.co.uk/opinion/britain-growing-stronger-america-slides-into-the-abyss-4758053",
         "image": "https://www.bing.com/th?id=ONUT.Nh1FndbVjPrbmeMT63IAjA",
         "timestamp": 1789196567.240204
-    },
-    {
-        "id": "212deab5b6",
-        "title_fa": "ترامپ خواست ارتش‌سازی در مبارزه با کارتل‌ها",
-        "title_en": "Trump presses Latin America to militarize the fight against cartels",
-        "summary": [
-            "ترامپ به کشورهای آمریکای لاتین گفت از نیروهای نظامی برای مقابله با کارتل‌های مواد مخدر استفاده کنند.",
-            "این دعوت در حالی است که عملیات‌های تحت حمایت آمریکا در منطقه گسترش یافته و انتقادات بین‌المللی به تجاوز نظامی افزایش یافته.",
-            "احتمال تشدید تنش‌های داخلی در کشورهای هدف و فشار بر روابط تجاری منطقه‌ای پیش‌بینی می‌شود."
-        ],
-        "impact": "استفاده نظامی در مبارزه با کارتل‌ها می‌تواند به تشدید خشونت و ناپایداری امنیتی در آمریکای لاتین منجر شود.",
-        "tag": "امنیت",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Idaho Public Press on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/trump-presses-latin-america-to-militarize-the-fight-against-cartels/ar-AA2c70Dw?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/trump-presses-latin-america-to-militarize-the-fight-against-cartels/ar-AA2c70Dw",
-        "image": "https://www.bing.com/th?id=ONUT.SuWbZ5LKfm48jOa1p8t0Ag",
-        "timestamp": 1789195935.0
-    },
-    {
-        "id": "9521a94cce",
-        "title_fa": "بررسی تأثیر مناقشه ایران بر روابط هند‑چین",
-        "title_en": "Iran Conflict Impact, Modi-Xi Bilateral & India-China LAC Border Dispute",
-        "summary": [
-            "بیانیه برکس تروریسم را به‌صراحت محکوم کرد و حمله پاهلگام ۲۲ آوریل ۲۰۲۵ را نام برد.",
-            "هند خواستار تصویب کنوانسیون جامع تروریسم در سازمان ملل شد؛ چین مانع فهرست‌کردن تروریست‌های پاکستانی شد.",
-            "دیدار شی جین‌پینگ و مودی در بستر مناقشه لبه‌مرزی چین‑هند و روابط با ایران، نشان‌دهنده تعادل چین بین منافع ملی و فشارهای غرب است."
-        ],
-        "impact": "تقویت فشار دیپلماتیک بر چین و پاکستان، ممکن است مانع تحریم‌های جدید علیه ایران شود.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/india/video/iran-conflict-impact-modi-xi-bilateral-india-china-lac-border-dispute-ytvd-2993534-2026-09-13",
-        "clean_url": "https://www.indiatoday.in/india/video/iran-conflict-impact-modi-xi-bilateral-india-china-lac-border-dispute-ytvd-2993534-2026-09-13",
-        "image": "https://www.bing.com/th?id=ONUT.EaMCYfgybA3aASmm5GcW7g",
-        "timestamp": 1789195934.0
-    },
-    {
-        "id": "7fefc5cb4e",
-        "title_fa": "بیانیه نیودلهی: مقابله با تروریسم و فشارهای تجاری",
-        "title_en": "BRICS Summit Terrorism Stance, China's Stand On Pakistan & West Asia Crisis Decoded",
-        "summary": [
-            "بلوک برکس با تصویب بیانیه نیودلهی، تمام تروریست‌های تعیین‌شده توسط سازمان ملل را محکوم کرد و صفر تحمل برای تروریسم اعلام کرد",
-            "متن 140‑بندانه به اقدام‌ها یک‌جانبه تعرفه‌ای و خلاف قوانین WTO هشدار داد و خواستار تجارت عادلانه شد",
-            "بیانیه به اثرات منفی ناپایداری تحریم‌های جهانی بر برنامه‌ریزی انرژی و امنیت اقتصادی اعضا اشاره کرد",
-            "هم‌نظر شدن ایران و امارات در این بیانیه نشان داد برکس می‌تواند تعادل ژئوپلیتیک خاورمیانه را حفظ کند"
-        ],
-        "impact": "تقویت همبستگی سیاسی برکس و فشار بر نظام تحریم‌های غربی، امکان تغییر مسیر تجارت و انرژی برای اعضا",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/world/video/brics-summit-terrorism-stance-chinas-stand-on-pakistan-west-asia-crisis-decoded-ytvd-2993532-2026-09-13",
-        "clean_url": "https://www.indiatoday.in/world/video/brics-summit-terrorism-stance-chinas-stand-on-pakistan-west-asia-crisis-decoded-ytvd-2993532-2026-09-13",
-        "image": "https://www.bing.com/th?id=ONUT.jaVCp3KO_H8t9j-CpU4o2w",
-        "timestamp": 1789195531.0
     }
 ]
