@@ -1,5 +1,43 @@
 [
     {
+        "id": "cf5d665287",
+        "title_fa": "بحران بودجه‌ای ارتش اسرائیل پس از چهار سال جنگ",
+        "title_en": "For a year, IDF warned Netanyahu of a dangerous budget crisis. He only acted now",
+        "summary": [
+            "ارتش اسرائیل ۴۰ میلیارد شِکل کمبود بودجه برای عملیات جاری هشدار داده بود",
+            "نخست‌وزیر و وزیر مالی فقط اکنون با ارسال ژنرال برای متقاعد کردن مخالفان اقدام کردند",
+            "این تاخیر می‌تواند توان عملیاتی نیروها را در دوره حساس امنیتی تضعیف کند"
+        ],
+        "impact": "کاهش توان نظامی در مواجهه با تهدیدات منطقه‌ای و فشار بر تصمیم‌گیری‌های سیاسی",
+        "tag": "بودجه-نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/opinions-analysis/article/rjusxchyze",
+        "clean_url": "https://www.ynetnews.com/opinions-analysis/article/rjusxchyze",
+        "image": "https://www.bing.com/th?id=ONUT.HsHRdWtRRmIplgVIuXODbQ",
+        "timestamp": 1789400388.262962
+    },
+    {
+        "id": "9acf4cb8b1",
+        "title_fa": "نقش خبروم در افشای برنامه‌ریزی ترامپ برای جنگ ایران",
+        "title_en": "Governor Newsom presses Secretary Wright to admit the truth: Trump had no viable plan to protect Americans from his Iran war gas and diesel price spikes",
+        "summary": [
+            "خبروم می‌خواهد وزیر انرژی جزئیات هشدارهای پیش از حمله به ایران را فاش کند",
+            "عدم وجود برنامه محافظتی باعث هزینهٔ ۱۰۰ میلیارد دلاری سوخت برای خانوارها شد",
+            "این افشا فشار سیاسی بر دولت ترامپ برای پاسخگویی ایجاد می‌کند"
+        ],
+        "impact": "هزینه سوخت خانوارها به‌طور مستقیم بالا می‌رود و فشار بر سیاست‌گذاران آمریکا می‌چسبد",
+        "tag": "قیمت‌نفت",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Governor of California",
+        "url": "https://www.gov.ca.gov/2026/09/14/governor-newsom-presses-secretary-wright-to-admit-the-truth-trump-had-no-viable-plan-to-protect-americans-from-his-iran-war-gas-and-diesel-price-spikes/",
+        "clean_url": "https://www.gov.ca.gov/2026/09/14/governor-newsom-presses-secretary-wright-to-admit-the-truth-trump-had-no-viable-plan-to-protect-americans-from-his-iran-war-gas-and-diesel-price-spikes",
+        "image": "https://www.bing.com/th?id=ONUT.HHL_rRnHqrt2IWw1YvaFgA",
+        "timestamp": 1789400388.2627285
+    },
+    {
         "id": "08906d3d6c",
         "title_fa": "خبر بین‌المللی — ترامپ emerges as keen Irish nationalist during dizzying visi",
         "title_en": "Trump emerges as keen Irish nationalist during dizzying visit",
@@ -465,6 +503,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmFYd0hqU3pUXzRwRklUdC1WMkl4N2xFZHZkdnJndndRRTlITmctYlhjOWFQc013NWdoRUxuMFRzRWcwZWF2Q203aF84cE8zVF9ZZ0h6YnVNUk9wRjdnMFlFTW9YSWdVOWppMUJFOHNDTllGVTZlMHd6eFpERTlVbzB4c2t1amtmMldEYWZGZXBZWHZ5RThHS2dMWkJEUnBibm5WTFRCaGVQNGQtRUpBWDZMZ3F1dm9td25qXw",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789386547.0
+    },
+    {
+        "id": "2cefe7e278",
+        "title_fa": "تحلیل‌گران انرژی به واکنش بازار پس از حملات به ایران",
+        "title_en": "Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events",
+        "summary": [
+            "حملات اخیر آمریکا‑اسرائیل باعث نوسان شدید قیمت نفت در بازارهای جهانی شد",
+            "تحلیل‌گران پیش‌بینی می‌کنند تقاضای کوتاه‌مدت افزایش و نوسان قیمت تا چند هفته ادامه یابد",
+            "این تحولات می‌تواند فشار بر تورم انرژی در کشورهای مصرف‌کننده ایجاد کند"
+        ],
+        "impact": "قیمت نفت در کوتاه‌مدت بالا می‌رود و هزینه‌های انرژی برای مصرف‌کنندگان جهانی افزایش می‌یابد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789386455.0
     },
     {
         "id": "19969b5d47",
@@ -5480,61 +5537,5 @@
         "clean_url": "https://seekingalpha.com/article/4945794-market-complacency-on-iran-crisis-wearing-off-just-as-i-predicted-in-july",
         "image": "https://www.bing.com/th?id=ONUT.wbrWzeQGqk6paeH7F5rlXw",
         "timestamp": 1789232605.034168
-    },
-    {
-        "id": "0429bb356f",
-        "title_fa": "حوثی‌ها بندر موکا و جزایر باب‌ال‌مندب را تصرف کردند",
-        "title_en": "Iran-backed Houthis tighten grip on key oil shipping lane",
-        "summary": [
-            "تصرف موکا و دو جزیره آخر در باب‌ال‌مندب کنترل کامل مسیر بحرین به خلیج فارس را به حوثی‌ها می‌دهد",
-            "این مسیر کلیدی برای صادرات نفت سعودی است؛ خطر حمله به کشتی‌های حامل نفت بالا رفته",
-            "نیروهای سعودی‑یمنی حملات هوایی علیه موکا انجام دادند و چندین حوثی کشته شد",
-            "محمد بن سلمان از ترامپ برای اقدام نظامی علیه حوثی‌ها درخواست کرده؛ تنش‌ها تشدید شده"
-        ],
-        "impact": "تهدید مستقیم بر صادرات نفت سعودی و فشار بر ایالات متحده برای مداخله نظامی",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/diesel-hits-record-6-gallon-095655953.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/diesel-hits-record-6-gallon-095655953.html",
-        "image": "http://www.bing.com/th?id=ONUT.Tp0RHWzxsVYsEx8LUxkwfQ&pid=News",
-        "timestamp": 1789232400.0
-    },
-    {
-        "id": "cb7ea67200",
-        "title_fa": "قضایای اعدام برای معترضان در مشهد",
-        "title_en": "Iran sentences protester to death for January 2026 unrest: HRANA",
-        "summary": [
-            "اعدام حسین رسولی‌نسب به اتهام محاربه نشان‌دهنده تشدید سرکوب اعتراضات است",
-            "این تصمیم احتمال تغییر رژیم پیش از 2027 را کاهش می‌دهد",
-            "جامعه بین‌المللی ممکن است فشار حقوقی بیشتری بر ایران اعمال کند"
-        ],
-        "impact": "سرکوب شدید معترضان می‌تواند ناآرامی‌های داخلی را تشدید کند",
-        "tag": "سرکوب",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-sentences-protester-to-death-for-january-2026-unrest-hrana/",
-        "clean_url": "https://cryptobriefing.com/iran-sentences-protester-to-death-for-january-2026-unrest-hrana",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/13113459/commons-picker-govcommonsf58ff029526e08fd-3-800x450.jpg",
-        "timestamp": 1789230925.0
-    },
-    {
-        "id": "f77f77b3e8",
-        "title_fa": "بحران ایران دیپلماسی جدید را از برجام به عمان سوق داد",
-        "title_en": "Iran crisis drives new diplomacy from BRICS to Oman",
-        "summary": [
-            "Iran crisis drives new diplomacy from BRICS to Oman The Jerusalem Post"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBVG0za3doSm9WeFhnUXMwZGh5VmpVNU9nUzJPQU5FTXZKTDBzWjJoWklKdTZHSnk1Y2p6cUhHY0I1eXUwZEFvR0hacDh3MW53eWJkY3JhbjhsYUVL?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBVG0za3doSm9WeFhnUXMwZGh5VmpVNU9nUzJPQU5FTXZKTDBzWjJoWklKdTZHSnk1Y2p6cUhHY0I1eXUwZEFvR0hacDh3MW53eWJkY3JhbjhsYUVL",
-        "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789230823.0
     }
 ]
