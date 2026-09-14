@@ -2703,6 +2703,26 @@
         "timestamp": 1789334100.0
     },
     {
+        "id": "5b8aa900b9",
+        "title_fa": "ترامپ: اوکراین و روسیه به عدم هدف‌گیری انرژی توافق کردند",
+        "title_en": "Trump says Ukraine, Russia agree not to hit energy targets",
+        "summary": [
+            "ترامپ ادعا کرد هر دو طرف از هدف‌گیری تأسیسات انرژی خودداری می‌کنند، در حالی که روز پیش اوکراین را به حمل به پالایشگاه‌های روسیه سرزنش کرده بود.",
+            "هیچ منبع مستقلی این توافق را تأیید نکرده؛ احتمالاً این حرف برای تغییر روایت هزینه‌های بنزین پیش از انتخابات می‌باشد.",
+            "ترامپ قیمت دیزل را به جنگ روسیه‑اوکراین نسبت می‌دهد و ایران را از این بحث حذف می‌کند تا فشار داخلی را کاهش دهد.",
+            "بیان این ادعا می‌تواند نظرات عمومی آمریکا را درباره هزینه‌های سوخت تحت تأثیر قرار دهد، اما تأثیر عملی بر عملیات نظامی ندارد."
+        ],
+        "impact": "بیان این ادعا می‌تواند تصویر عمومی درباره هزینه سوخت را تغییر دهد و فشار سیاسی پیش از میانه‌دوره را تقویت کند.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/russia-ukraine-trump-energy-targets-oil-6384276",
+        "clean_url": "https://www.channelnewsasia.com/world/russia-ukraine-trump-energy-targets-oil-6384276",
+        "image": "https://www.bing.com/th?id=ONUT.zcVVte1QHg4U-A3MvZtAvg",
+        "timestamp": 1789333399.0
+    },
+    {
         "id": "b9b89bacc3",
         "title_fa": "جلسه ایران‑خلیج به تعویق، حمله هوثی به پایگاه سعودی",
         "title_en": "Oman's FM says Iran-Gulf meeting postponed, Yemen fighting continues",
@@ -5448,24 +5468,5 @@
         "clean_url": "https://tass.com/world/2187037",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1789284840.0
-    },
-    {
-        "id": "182ef61ccc",
-        "title_fa": "عراق ۹۳ پهپاد و موشک در آنبار رباط گرفت",
-        "title_en": "Iraq Seizes Drones, Projectiles in Western Desert",
-        "summary": [
-            "نیروهای داخلی عراق ۴۷ پهپاد و ۴۶ موشک در استان آنبار توقیف کردند",
-            "این تجهیزات به یک گروه مسلح با حضور نظامی قوی نسبت داده شد",
-            "دستگیری چنین سلاح‌ها می‌تواند توان حملات به عربستان را محدود کند"
-        ],
-        "impact": "کاهش توان گروه‌های مسلح در حملات مرزی به عربستان",
-        "tag": "دروپ",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/arab-world/5317677-iraq-seizes-drones-projectiles-western-desert",
-        "clean_url": "https://english.aawsat.com/arab-world/5317677-iraq-seizes-drones-projectiles-western-desert",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1772247_0.jpeg.webp?VersionId=227JHqD8eGGGaXiF0ETb_NMpZg7gV67S",
-        "timestamp": 1789284120.0
     }
 ]
