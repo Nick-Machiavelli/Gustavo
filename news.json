@@ -2458,6 +2458,26 @@
         "timestamp": 1789272211.5542388
     },
     {
+        "id": "77f8358d7b",
+        "title_fa": "تحلیل نظرات محافظه‌کاران آمریکا درباره تروریسم و سیاست",
+        "title_en": "US latest news",
+        "summary": [
+            "نقش جناح راست در تداوم تصویر مسلمانان به‌عنوان دشمن واضح است",
+            "ترامپ مسیرهای دوچرخه را به‌عنوان ابزار DEI به‌کار می‌برد تا جدال فرهنگی را تشدید کند",
+            "تحلیل‌گران به ارتباط مستقیم سیاست‌های ترامپ با بحران اقتصادی بریتانیا اشاره می‌کنند",
+            "جنگ ترور آزادی‌های اساسی را تضعیف کرده؛ نیاز به بازنگری جدی در قانون اساسی احساس می‌شود"
+        ],
+        "impact": "تقویت رادیکالیسم راست و کاهش اعتماد عمومی به سیاست‌های ایالات متحده",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1789272000.0
+    },
+    {
         "id": "326dc3fff8",
         "title_fa": "ایران فرصتی برای حمله در حین حواس‌پرتی ترامپ می‌بیند",
         "title_en": "Iran sees a window to strike while Trump is distracted – but it could backfire",
@@ -5532,25 +5552,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FLUZ6ZTczVVZ0X3AtbVE2aF9UVDFUWXpyWTExY2NfWE1jdEpOMXpTaHE5TlVjXzMwOC1Qa1diTUpJdw",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789188300.0
-    },
-    {
-        "id": "27ed89fdd3",
-        "title_fa": "ایران بازگشایی هورد را شرط پایان محاصره می‌داند",
-        "title_en": "Live - Iran ties Hormuz reopening to end of blockade as Washington vows to fight on",
-        "summary": [
-            "تهدید واشنگتن به ادامهٔ تحریم‌ها در برابر بازگشایی تنگه هورد اعلام شد",
-            "ایران اعلام کرد بازگشایی هورد شرط رفع تحریم‌های اقتصادی است",
-            "این موضع تنش‌های خلیج فارس را تشدید می‌کند و خطر برخورد نظامی را بالا می‌برد",
-            "پیشنهادات دیپلماتیک برای حل‌وفصل بحران هنوز به توافق نرسیده‌اند"
-        ],
-        "impact": "بازگشایی هورد می‌تواند فشار اقتصادی بر ایران را کم کند اما تنش‌های نظامی را تشدید کند",
-        "tag": "هورد",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789188182.0
     }
 ]
