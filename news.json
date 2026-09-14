@@ -817,6 +817,26 @@
         "timestamp": 1789332219.0
     },
     {
+        "id": "f33338c3c5",
+        "title_fa": "جنگ اقتصادی ترامپ علیه ایران",
+        "title_en": "Iran war: Trump’s economic war on Iran threatens to trigger a wider global confrontation",
+        "summary": [
+            "ترامپ با تحریم‌های سنگین بر نفت و شبکه‌های مالی، فشار اقتصادی شدید بر ایران اعمال می‌کند",
+            "این فشار می‌تواند تنش‌های ژئوپلیتیک گسترده‌تری را در سطح جهانی به‌وجود آورد",
+            "شرکت‌های بین‌المللی در مسیر صادرات نفت ایران دچار تردید و ریسک می‌شوند",
+            "بازارهای جهانی ممکن است واکنش‌های متقابل به تحریم‌ها نشان دهند"
+        ],
+        "impact": "تحریم‌های جدید می‌توانند صادرات نفت ایران را به‌طور چشم‌گیری کاهش دهند و اقتصاد داخلی را به‌سختی بکشند",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "ABP News on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-war-trump-s-economic-war-on-iran-threatens-to-trigger-a-wider-global-confrontation/vi-AA2carvq",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-war-trump-s-economic-war-on-iran-threatens-to-trigger-a-wider-global-confrontation/vi-AA2carvq",
+        "image": "http://www.bing.com/th?id=ONUT.fCWuKMZPutj9gPqPHhfbOA&pid=News",
+        "timestamp": 1789332120.0
+    },
+    {
         "id": "2116f41070",
         "title_fa": "اعتراضات بازنشستگان و دعواهای نفتی، بحران عمیق ایران",
         "title_en": "Pension Protests, Oil Dispute and Nuclear-Test Calls Deepen Iran’s Crisis Amid Factional Infighting - National Council of Resistance of Iran",
@@ -5544,22 +5564,5 @@
         "clean_url": "https://www.firstpost.com/opinion/trump-is-disrupting-the-old-world-order-brics-must-build-the-new-14045188.html",
         "image": "https://www.bing.com/th?id=ONUT.Ey8ZQL41-TplXawUJS_YFw",
         "timestamp": 1789195444.7311273
-    },
-    {
-        "id": "d5aad57fce",
-        "title_fa": "خبر بین‌المللی — Saudi Arabia shuts major oil pipeline as حوثی‌ها seize islan",
-        "title_en": "Saudi Arabia shuts major oil pipeline as Houthis seize island in key strait",
-        "summary": [
-            "Yemen's Iranian-backed Houthi rebels captured a strategic island at the southern entrance to the Red Sea, two officials said, opening a new front in the Iran war and further threatening oil exports from Saudi Arabia, which shut down a major pipeline after it was attacked."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "1News",
-        "url": "https://www.1news.co.nz/2026/09/12/saudi-arabia-shuts-major-oil-pipeline-as-houthis-seize-island-in-key-strait/",
-        "clean_url": "https://www.1news.co.nz/2026/09/12/saudi-arabia-shuts-major-oil-pipeline-as-houthis-seize-island-in-key-strait",
-        "image": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/supporters-of-yemens-houthi-rebels-chant-and-raise-rifles-du-MVFHGSZIRFFR5CI3MH6SMHRGA4.jpg?auth=ff4d5cc0e1af23d0f0d741b048d4a93f9eb693ab2c3d8c237061acd38e1c143d&quality=70&width=600&height=315&focal=3000,2000",
-        "timestamp": 1789195020.0
     }
 ]
