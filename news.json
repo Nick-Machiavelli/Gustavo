@@ -2364,6 +2364,25 @@
         "timestamp": 1789277189.0
     },
     {
+        "id": "f1e1a37e0a",
+        "title_fa": "حمله حوثی‌ها به عربستان و تشدید جنگ یمن",
+        "title_en": "Yemen Conflict Escalates As Houthis Attack Saudi Arabia",
+        "summary": [
+            "حوثی‌ها به زیرساخت‌های نفتی عربستان شلیک کردند و به کشتی‌های تجاری در دریای سرخ حمله کردند",
+            "دولت یمن وعدهٔ ارسال نیروهای بیشتر به سواحل دریای سرخ را داد تا شهر موخه و جزیرهٔ استراتژیک را پس بگیرد",
+            "بیش از ۸۲٬۰۰۰ نفر داخلی‌جابه‌جا شده‌اند؛ فشار بر بازار نفت جهانی به‌سرعت بالا می‌رود"
+        ],
+        "impact": "افزایش فشار بر عرضه نفت جهانی و تشدید تنش‌های منطقه‌ای",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Deccan Chronicle",
+        "url": "https://www.deccanchronicle.com/west-asia/yemen-conflict-escalates-as-houthis-attack-saudi-arabia-1987363",
+        "clean_url": "https://www.deccanchronicle.com/west-asia/yemen-conflict-escalates-as-houthis-attack-saudi-arabia-1987363",
+        "image": "https://www.deccanchronicle.com/h-upload/2026/08/09/2074209-smoke-arising-from-drone-attack-site-in-belgorod.jpg",
+        "timestamp": 1789276981.0
+    },
+    {
         "id": "7b3b44c9d1",
         "title_fa": "کشتی تجاری ایرانی در جنوب خلیج فارس تصادم کرد",
         "title_en": "1 killed as Iranian commercial vessel struck off southern Iran coast, state media says",
@@ -5533,24 +5552,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/voices-trump-s-wild-stories-about-9-11-show-a-man-untethered-from-reality/ar-AA2c3RVA",
         "image": "https://www.bing.com/th?id=ONUT.5Uy4k3RbBoTfOz_2NDdyTg",
         "timestamp": 1789189920.018937
-    },
-    {
-        "id": "99b4e3f2e6",
-        "title_fa": "جبهه‌های وابسته به ایران در واکنش به فشار واشنگتن شعله‌ور شدند",
-        "title_en": "Iran-Backed Fronts Flare as Washington Presses Tehran",
-        "summary": [
-            "فشار دیپلماتیک و اقتصادی واشنگتن بر تهران، جبهه‌های نیابتی تحت حمایت ایران را به فعالیت‌های تندتر وگسترش‌پذیر ترغیب کرده است.",
-            "این گروه‌ها در عراق، لبنان و یمن به عملیات‌های مسلحانه و تدارکات نظامی پرداخته‌اند.",
-            "ریسک بروز درگیری‌های نیابتی گسترده در خاورمیانه افزایش یافته است."
-        ],
-        "impact": "افزایش خطر درگیری‌های نیابتی و پیچیدگی‌های امنیتی منطقه",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "الحرة",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FLUZ6ZTczVVZ0X3AtbVE2aF9UVDFUWXpyWTExY2NfWE1jdEpOMXpTaHE5TlVjXzMwOC1Qa1diTUpJdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FLUZ6ZTczVVZ0X3AtbVE2aF9UVDFUWXpyWTExY2NfWE1jdEpOMXpTaHE5TlVjXzMwOC1Qa1diTUpJdw",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789188300.0
     }
 ]
