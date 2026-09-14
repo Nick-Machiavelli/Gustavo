@@ -68,6 +68,25 @@
         "timestamp": 1789345872.352094
     },
     {
+        "id": "f071517e44",
+        "title_fa": "قیمت نفت به‌دلیل تنش‌های آمریکا‑ایران و لبنان بالا رفت",
+        "title_en": "Oil Prices Rise as US, Iran Trade Strikes, Israel Moves Further Into Lebanon",
+        "summary": [
+            "تحریم‌های تجاری آمریکا علیه ایران و واکنش‌های متقابل، نگرانی بازارهای انرژی را تشدید کرد",
+            "پیشروی نظامی اسرائیل در لبنان خطر قطع مسیرهای حمل‌ونقل نفتی خاورمیانه را افزایش داد",
+            "تحلیل‌گران پیش‌بینی می‌کنند برنت در چند روز آینده ۲ تا ۳ درصد ارتقا یابد"
+        ],
+        "impact": "قیمت نفت برنت در هفته جاری حدود ۲‑۳٪ افزایش می‌یابد و هزینه‌های سوخت و حمل‌ونقل را بالا می‌برد",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenRKWEpXeWJsMU8xX01hWFBmd1p6YUpZZERjRVZCN0V1NVVGR1h6WEg5b1VsTGpndTQ1elI3ZHp5VEhsV09VMmNBUmVDeTFCcVZob1RBbTI3OEEzZ2hfcHM5U1Z5ZUJqX09DeXJWTHBITTZPT0RTMGlXUVFVTmNRU1F4WjlxTHJkaThBNUdlTllYQlJsZDh6cklJOUloRDN2SHVpdmhlVjA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenRKWEpXeWJsMU8xX01hWFBmd1p6YUpZZERjRVZCN0V1NVVGR1h6WEg5b1VsTGpndTQ1elI3ZHp5VEhsV09VMmNBUmVDeTFCcVZob1RBbTI3OEEzZ2hfcHM5U1Z5ZUJqX09DeXJWTHBITTZPT0RTMGlXUVFVTmNRU1F4WjlxTHJkaThBNUdlTllYQlJsZDh6cklJOUloRDN2SHVpdmhlVjA",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789345599.0
+    },
+    {
         "id": "2cb27170c7",
         "title_fa": "هرمز نزدیک ایست: ایران کشتی‌ها را به آب‌های خود می‌خواند",
         "title_en": "Hormuz at Near Standstill as Iran Warns Ships to Keep to its Waters",
@@ -5541,24 +5560,5 @@
         "clean_url": "https://www.afr.com/chanticleer/markets-may-be-making-a-horrible-miscalculation-on-ai-and-inflation-20260912-p60wqy",
         "image": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/d7334828430bc7e2af7566803f9226d472cb6748",
         "timestamp": 1789172269.975775
-    },
-    {
-        "id": "058eb19eac",
-        "title_fa": "ترامپ از اتحاد ایرلند حمایت کرد؛ تنش با بریتانیا",
-        "title_en": "Trump strains UK-US relations with backing for united Ireland",
-        "summary": [
-            "ترامپ گفت اتحاد ایرلند حتماً رخ خواهد داد و این را در سفر به ایرلند اعلام کرد",
-            "رهبران اتحادیه‌گرای شمالی این حرف را دخالت می‌دانند و واکنش شدید نشان دادند",
-            "بیانیه می‌تواند فشار دیپلماتیک بر بریتانیا برای مذاکره درباره مرزهای شمالی ایرلند ایجاد کند"
-        ],
-        "impact": "احتمال فشار بیشتر بر بریتانیا برای مذاکره درباره مرزهای شمالی ایرلند",
-        "tag": "سیاست خارجی",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "London Evening Standard",
-        "url": "https://www.standard.co.uk/news/politics/donald-trump-micheal-martin-northern-ireland-andy-burnham-kemi-badenoch-b1296772.html",
-        "clean_url": "https://www.standard.co.uk/news/politics/donald-trump-micheal-martin-northern-ireland-andy-burnham-kemi-badenoch-b1296772.html",
-        "image": "https://www.bing.com/th?id=ONUT.a6Cp7jtFm93T-mYypZLdgA",
-        "timestamp": 1789171449.0
     }
 ]
