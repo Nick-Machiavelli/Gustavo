@@ -2720,6 +2720,25 @@
         "timestamp": 1789340040.0
     },
     {
+        "id": "a09b6721db",
+        "title_fa": "مجلس آمریکا به تصویب تحریم‌های علیه ایران و روسیه می‌پردازد",
+        "title_en": "Increasing pressure on Iran, Russia",
+        "summary": [
+            "مجلس نمایندگان آمریکا تصمیم به اعمال فشار اقتصادی جدید بر ایران و روسیه گرفته؛ دسترسی به سیستم‌های مالی بین‌المللی محدود می‌شود.",
+            "هدف اصلی، تضعیف توان مالی روسیه در جنگ اوکراین و محدود کردن منابع مالی برنامه هسته‌ای ایران است.",
+            "ایران ممکن است با تقویت روابط چین و هم‌پیمانان منطقه‌ای واکنش نشان دهد، اما اثر کوتاه‌مدت بر اقتصاد داخلی محدود است."
+        ],
+        "impact": "تحریم‌های جدید می‌تواند سرمایه‌گذاری خارجی به ایران را کاهش داده و فشار مالی بر روسیه را افزایشت دهد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/videos/increasing-pressure-iran-russia-214020438.html",
+        "clean_url": "https://www.yahoo.com/news/videos/increasing-pressure-iran-russia-214020438.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/c34175f3c131131b5dcbe9eea2f88abad50d084c802acee5259954d0a749edf9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwiat-birmingham%2Fe2799dfb8bce95c147dc379e18513c9b.jpg",
+        "timestamp": 1789339365.0
+    },
+    {
         "id": "28e722fa00",
         "title_fa": "مسئول ایرانی تحت فشار آمریکا از جلسه یو‌ان منع شد",
         "title_en": "Iranian Official Blocked From UN Nuclear Meeting at US’s Urging",
@@ -5442,23 +5461,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQlF3SWdSa3ROZnNZTXRsTG9wSk5XVGEyeGdma3lheEljMWF5UHlCWmpqQW1KMFk1QVJBVHlTUnJ0cy1VMFN4bENYNTA2TDZWTGROUjlRMWZ1Y0MtNTlBUWp4WlpZbTQ3VW1YTE5kcUZhTTBWQ19keGxRcnNUTmcxbi04ajFJR1ctV1dDV0w0LVB5dlNWVlp6YVY3WkFMa3QxRW5heDB3dGl4a2ZrVU84UmtJSDJmN2o3N1FBTGxVRVFnRmtXMHp3ejBhVmZyLVNrUHRsemRyYldydw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789293720.0
-    },
-    {
-        "id": "3caeef7a97",
-        "title_fa": "همکاری مالی روسیه و ایران؛ فقط بخشی از بازی",
-        "title_en": "Russia and Iran Coordination Illustrates Why Financial Cooperation Is Only Half the Battle",
-        "summary": [
-            "روسیه و ایران برای دور زدن تحریم‌ها به هم پیوسته‌اند",
-            "محدودیت‌های مالی فقط یک جنبه است؛ فشارهای سیاسی و نظامی همچنان ادامه دارد"
-        ],
-        "impact": "تلاش برای دور زدن تحریم‌ها موقت است، اما فشارهای بین‌المللی پابرجاست",
-        "tag": "مالی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Middle East Forum",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmpfVUNmbVExWmE3eTZoRHRYWEpzUFpxbzRkQ3RrT25ueXo2S1k0WUc5VzMxQllTMWZjSjRhY01PYU5maXEzRnA0RVY2ZUdPVENKdzd4MG5jZWQ1NkFvNWRMWFF0ekppemlhYU5BN0trajkxTU94R2p1Y082R3BoQ2dmYU1QWFJLY0d4cFFvdWx4VUh0LUhwUEVPWU5EZU4zdXR4X0daNU5icWRBdDRTZkc1M00xdkpLQlJuRXd0X3FIek5HM2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmpfVUNmbVExWmE3eTZoRHRYWEpzUFpxbzRkQ3RrT25ueXo2S1k0WUc5VzMxQllTMWZjSjRhY01PYU5maXEzRnA0RVY2ZUdPVENKdzd4MG5jZWQ1NkFvNWRMWFF0ekppemlhYU5BN0trajkxTU94R2p1Y082R3BoQ2dmYU1QWFJLY0d4cFFvdWx4VUh0LUhwUEVPWU5EZU4zdXR4X0daNU5icWRBdDRTZkc1M00xdkpLQlJuRXd0X3FIek5HM2c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789293687.0
     }
 ]
