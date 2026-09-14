@@ -2190,6 +2190,24 @@
         "timestamp": 1789261871.1119025
     },
     {
+        "id": "66782785f8",
+        "title_fa": "ترامپ دوباره فدرال رزرو را به کاهش نرخ بهره می‌طلبد",
+        "title_en": "Trump again calls for Federal Reserve to cut interest rates",
+        "summary": [
+            "ترامپ در ایرلند خواستار پایین‌ترین نرخ بهره جهان شد؛ در حالی که داده‌های اخیر تورم فشار افزایشی بر فدرال رزرو دارد.",
+            "بازارهای مالی پیش‌بینی می‌کنند کمیته سیاست پولی ۲۵ پایه نرخ را به ۳٫۷۵٪‑۴٪ برساند؛ صدای ترامپ می‌تواند انتظارات را مختل کند."
+        ],
+        "impact": "افزایش نوسان کوتاه‌مدت در اوراق قرضه و ارز، فشار بر فدرال رزرو برای توضیح تصمیم‌گیری‌اش",
+        "tag": "نرخ بهره",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-again-calls-federal-cut-235122072.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-again-calls-federal-cut-235122072.html",
+        "image": "https://www.bing.com/th?id=ONUT.damW2WI-ThheNUCPo83F4g",
+        "timestamp": 1789260792.0
+    },
+    {
         "id": "21b9f9a5d0",
         "title_fa": "رهبران برکس نگرانی از خاورمیانه و تحریم‌های یک‌جانبه",
         "title_en": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
@@ -5545,24 +5563,5 @@
         "clean_url": "https://www.msn.com/en-xl/asia/pakistan/iranian-commander-claims-israel-depends-on-us-supportpublished-on-september-12-2026-912-pm/ar-AA2c5bAi",
         "image": "https://www.bing.com/th?id=ONUT.LjGDsElgTY48-6sXVtb3wQ",
         "timestamp": 1789166939.0
-    },
-    {
-        "id": "3c1a9ea1f7",
-        "title_fa": "هگست 9/۱۱ را برای توجیه جنگ ایران به کار برد",
-        "title_en": "Pete Hegseth invokes 9/11 to defend Iran war but the historical record is more complicated",
-        "summary": [
-            "پیتر هگست در مراسم ۲۵ سالگی 9/۱۱، جنگ جاری آمریکا با ایران را به حملات تروریستی 2001 ربط داد.",
-            "تاریخچه واقعی روابط آمریکا‑ایران پیچیده‌تر است و این استدلال برای توجیه تداوم جنگ استفاده می‌شود.",
-            "بیان چنین ادعایی می‌تواند افکار عمومی را به پذیرش مداوم درگیری سوق دهد."
-        ],
-        "impact": "تقویت روایت جنگ‌محور می‌تواند حمایت عمومی برای اقدام‌ها نظامی علیه ایران را افزایش دهد.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Arkansas Public Advocate on MSN",
-        "url": "https://www.msn.com/en-us/news/other/pete-hegseth-invokes-911-to-defend-iran-war-but-the-historical-record-is-more-complicated/ar-AA2c3mKS?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/pete-hegseth-invokes-911-to-defend-iran-war-but-the-historical-record-is-more-complicated/ar-AA2c3mKS",
-        "image": "https://www.bing.com/th?id=ONUT.f8cEcMfDZWH5cQfqvlXvUA",
-        "timestamp": 1789166063.6689522
     }
 ]
