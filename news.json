@@ -1,5 +1,24 @@
 [
     {
+        "id": "bc3c2a3ef0",
+        "title_fa": "ممنوعیت صادرات نفت آمریکا قیمت‌ها را پایین نمی‌آورد",
+        "title_en": "US oil export ban unlikely to lower energy prices, Interior secretary says",
+        "summary": [
+            "وزیر داخلی آمریکا اعلام کرد ممنوعیت صادرات نفت تأثیر کمی بر قیمت جهانی دارد؛ بازار داخلی و حجم صادرات قبلی محدود است",
+            "این تصمیم می‌تواند هزینه سوخت داخلی را بالا ببرد و فشار بر صنایع وابسته به انرژی را افزایش دهد",
+            "برای ایران نشان می‌دهد تحریم‌های نفتی آمریکا به‌سختی می‌توانند قیمت‌ها را کنترل کنند"
+        ],
+        "impact": "قیمت بنزین و گاز در آمریکا احتمالاً افزایش می‌یابد؛ فشار اقتصادی بر مصرف‌کنندگان داخلی",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/us-oil-export-ban-unlikely-to-lower-energy-prices-interior-secretary-says/ar-AA2ccPaI?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/us-oil-export-ban-unlikely-to-lower-energy-prices-interior-secretary-says/ar-AA2ccPaI",
+        "image": "https://www.bing.com/th?id=ONUT.52T02VXZUpuc_mBHqvrcow",
+        "timestamp": 1789422608.611472
+    },
+    {
         "id": "972272d1c8",
         "title_fa": "خبر بین‌المللی — Victor Davis Hanson: ترامپ’s ایران Deadline: Midterms Aren’",
         "title_en": "Victor Davis Hanson: Trump’s Iran Deadline: The Midterms Aren’t What Iran Thinks",
@@ -5441,23 +5460,5 @@
         "clean_url": "https://www.seacoastonline.com/story/opinion/columns/2026/09/13/if-susan-collins-loses-she-can-thank-donald-trump-rooks/91690440007",
         "image": "https://www.bing.com/th?id=ONUT.Aa-e8dP2lgiZPTkiaeTOZg",
         "timestamp": 1789292269.5491638
-    },
-    {
-        "id": "9160a2368f",
-        "title_fa": "مسئول ایرانی: خروج از پیمان هسته‌ای آسان",
-        "title_en": "Leaving nuclear treaty, revising doctrine ‘easily achievable’: Iran official",
-        "summary": [
-            "مقام ایرانی اعلام کرد ترک معاهده هسته‌ای و بازنگری دکترین دفاعی کار ساده‌ای است",
-            "این اظهارات نشان‌دهنده تمایل به تغییر مسیر استراتژیک و خطر تشدید تنش‌هاست"
-        ],
-        "impact": "احتمال افزایش فشار بین‌المللی و ریسک برخورد نظامی",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Türkiye Today",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmVQdkFLWmNITWNab1BGLTdVVjVybXBKYV9hd2JjbEppcTAzLVBYdTNTWG9qazNPMzVXRjNXd2Y3WTc4UWpBekluNXpCRU04dGpXcmw2STZ1MjdvaXZQelVlYkFPY3hEMGJMR291eUM3a0N3Yi0xOU91S25rd0lLWmhiZkpkdHFiTWJqdmlTVjkxcmExVC1ETGRpZmo3VXhXTHpsYVlPOVdFYWFPUVZVOENtUTN1RFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmVQdkFLWmNITWNab1BGLTdVVjVybXBKYV9hd2JjbEppcTAzLVBYdTNTWG9qazNPMzVXRjNXd2Y3WTc4UWpBekluNXpCRU04dGpXcmw2STZ1MjdvaXZQelVlYkFPY3hEMGJMR291eUM3a0N3Yi0xOU91S25rd0lLWmhiZkpkdHFiTWJqdmlTVjkxcmExVC1ETGRpZmo3VXhXTHpsYVlPOVdFYWFPUVZVOENtUTN1RFU",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789292119.0
     }
 ]
