@@ -664,6 +664,25 @@
         "timestamp": 1789400388.2627285
     },
     {
+        "id": "f6ccfc77d6",
+        "title_fa": "قیمت نفت به‌دلیل بسته شدن خط لوله شرق‑غرب سعودی می‌جهد",
+        "title_en": "Crude Prices Surge as Saudi Arabia Closes its East-West Pipeline",
+        "summary": [
+            "بسته شدن خط لوله اصلی سعودی به‌دلیل حملات حوثی، عرضه جهانی نفت را تحت فشار می‌گذارد",
+            "قیمت WTI امروز ۳٫۳٪ افزایش یافت و به بالاترین سطح ۳٫۷۵ ماهه رسید؛ بنزین نیز ۲٫۰۹٪ رشد کرد",
+            "هزینه‌های انرژی برای مصرف‌کنندگان و صنایع بالا می‌رود و می‌تواند فشار تورمی را تشدید کند"
+        ],
+        "impact": "قیمت نفت بالا می‌رود، هزینه‌های انرژی برای مصرف‌کنندگان و صنایع افزایش می‌یابد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Barchart · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-saudi-arabia-153150265.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-saudi-arabia-153150265.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/5a60c1cd3665d5734fce8e957bb258e6.jpg",
+        "timestamp": 1789400233.0
+    },
+    {
         "id": "3ce49e0199",
         "title_fa": "U.S., اسرائیل Launch Attacks در ایران – اسرائیل Shuts Down Gas Fields",
         "title_en": "U.S., Israel Launch Attacks on Iran – Israel Shuts Down Gas Fields",
@@ -5441,22 +5460,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmpfVUNmbVExWmE3eTZoRHRYWEpzUFpxbzRkQ3RrT25ueXo2S1k0WUc5VzMxQllTMWZjSjRhY01PYU5maXEzRnA0RVY2ZUdPVENKdzd4MG5jZWQ1NkFvNWRMWFF0ekppemlhYU5BN0trajkxTU94R2p1Y082R3BoQ2dmYU1QWFJLY0d4cFFvdWx4VUh0LUhwUEVPWU5EZU4zdXR4X0daNU5icWRBdDRTZkc1M00xdkpLQlJuRXd0X3FIek5HM2c",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789293687.0
-    },
-    {
-        "id": "716cdf5142",
-        "title_fa": "خبر بین‌المللی — ایران meeting with Gulf countries به discuss Strait هرمز de",
-        "title_en": "Iran meeting with Gulf countries to discuss Strait of Hormuz deal without the US",
-        "summary": [
-            "Gulf diplomats and Iranian officials will meet without US involvement to discuss an Omani plan for re-opening the Strait of Hormuz to regular tanker traffic."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/09/13/politics/iran-gulf-countries-strait-of-hormuz",
-        "clean_url": "https://edition.cnn.com/2026/09/13/politics/iran-gulf-countries-strait-of-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.lXAUABWOifN1tNxdp17IAg&pid=News",
-        "timestamp": 1789293600.0
     }
 ]
