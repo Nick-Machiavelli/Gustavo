@@ -1,5 +1,24 @@
 [
     {
+        "id": "ddf5731e02",
+        "title_fa": "ایران به منع رئیس آژانس هسته‌ای از کنفرانس واکنش شدید",
+        "title_en": "‘Serious violation’: Iran slams Austria’s barring of nuclear chief from IAEA conference under US pressure",
+        "summary": [
+            "سفیر ایران در وین گفت منع محمد اسلمی از حضور در کنفرانس عمومی آژانس بین‌المللی انرژی اتمی نقض صریح اصل برابری اعضاست",
+            "این اقدام تحت فشار ایالات متحده انجام شده و ایران آن را «نقض جدی» حقوق خود می‌داند",
+            "منع رئیس آژانس می‌تواند تنش‌های دیپلماتیک ایران‑غرب را تشدید کند و مذاکرات هسته‌ای را دشوارتر سازد"
+        ],
+        "impact": "روابط دیپلماتیک ایران با کشورهای غربی فشار می‌گیرد و احتمال تضعیف پیشرفت مذاکرات هسته‌ای را افزایش می‌دهد",
+        "tag": "سازمان",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "presstv",
+        "url": "https://www.presstv.co.uk/Detail/2026/09/14/776276/Iran-nuclear-chief-IAEA-conference",
+        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/14/776276/Iran-nuclear-chief-IAEA-conference",
+        "image": "https://www.bing.com/th?id=ONUT.3LBcgWZeAdeZx1UPfb82CQ",
+        "timestamp": 1789384431.9632514
+    },
+    {
         "id": "beb227dbd3",
         "title_fa": "بازگشت گشت ارشاد به خیابانها در آستانه سالگرد قتل حکومتی مهسا امینی",
         "title_en": "بازگشت گشت ارشاد به خیابانها در آستانه سالگرد قتل حکومتی مهسا امینی",
@@ -5533,23 +5552,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1lmaXdCVWVPUzdKOWdQcmhZZUdIckZSelRmcVk4WE1NNWd0X1JJWF9XaTFpS0JsNlMteUtJdUN3MUVSV1JLTXEzZGJsbVd1NkpYTnRwSEtPbHloREdCRTR1Rm1PcFFJdVU1NW1udzZYR3VkQ3RjR054OTNuUU9wREt0N0k4dElTZG1KU2hCR3JMU3p4cURyaXhfTzFNcm1hMlhNYjhJbUt6akVQc25lRU5jYjd1SmlSRFNGMlpnLXVfY1FwaDJFVzVwM3lSMFXSAdcBQVVfeXFMT2lVTEEweFhYM3lMaS1QUHNkYnhUTGZkLTk2cFBtbjVPV21XVFp6Zm5vcHpvTnFIVkJReW0zMktxclFtVGZyZGJRSTR5LUJ6bjN3YnJ2SXprV2JPX3hVdDREOW8xbDJFTGNoN3NKRHZBMXZGMUFaOFU3bVdwN3AxSm5Td3E5bDhPQ0hmMkhqNlRObThBbUMtWW5ycXgxZ3hYUVl2aVh2dlh5dk91dklVV1NIMkZ5c3d5dmVSNGJ2cXA2REN5N2pZUDlZV1pYYXNobWJpU21NYnc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789208486.0
-    },
-    {
-        "id": "082450ed38",
-        "title_fa": "آمریکا محافظت هوایی تانکرها در هرمز را محدود می‌کند",
-        "title_en": "Middle East latest: US 'limits' air defence protection for tankers in Strait of Hormuz",
-        "summary": [
-            "ایالات متحده پوشش دفاعی هواپیماهای تانکرها را در تنگه هرمز به‌طور جزئی کاهش داد",
-            "این تصمیم خطر حملات دشمن را برای کشتی‌های تجاری بالا می‌برد"
-        ],
-        "impact": "افزایش ریسک حوادث ناوبری و فشار بر قیمت نفت",
-        "tag": "حملات دریایی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Sky",
-        "url": "https://news.sky.com/story/iran-war-latest-trump-qatar-talks-witkoff-kushner-13509565",
-        "clean_url": "https://news.sky.com/story/iran-war-latest-trump-qatar-talks-witkoff-kushner-13509565",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789208334.0
     }
 ]
