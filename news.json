@@ -1,5 +1,41 @@
 [
     {
+        "id": "7dd74d3988",
+        "title_fa": "قضاوت خشونت مستوطنان اسرائیلی در کرانه‌غربی",
+        "title_en": "Editorial: Condemn violence by Israeli settlers in West Bank",
+        "summary": [
+            "مقاله به‌صراحت به حملات مستمر مستوطنان علیه فلسطینیان اشاره می‌کند و آن را نقض حقوق بشر می‌داند.",
+            "نقل‌قول برخی مقامات اسرائیلی نشان می‌دهد که داخل کشور نیز نسبت به این رفتار انتقادهای جدی وجود دارد."
+        ],
+        "impact": "فشار بین‌المللی بر اسرائیل برای محدود کردن خشونت در سرزمین‌های اشغالی افزایش می‌یابد.",
+        "tag": "اسرائیل‑حقوق بشر",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/editorial-condemn-violence-israeli-settlers-121300913.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/editorial-condemn-violence-israeli-settlers-121300913.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/6027fcb3abdabc0b297f88bf595d0b81ecab82c80d5b381e5fc0641e78725e5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsouth_florida_sun_sentinel_national_820%2Ffbac47c7e097905167f83fdd2cce456a.jpg",
+        "timestamp": 1789390069.6474948
+    },
+    {
+        "id": "e63a54588d",
+        "title_fa": "ترامپ قانون ۳۰۰۰ ساله را نقض کرد",
+        "title_en": "Trump broke a 3,000-year-old law — and triggered a global crisis | Opinion",
+        "summary": [
+            "مقاله ادعا می‌کند ترامپ با تصمیمات نظامی‌اش قوانین بین‌المللی را زیر پا گذاشت و به‌صورت جدی به‌نظام جهانی آسیب زد.",
+            "این تخلف می‌تواند به بحران جهانی منجر شود، هرچند اثر مستقیم بر ایران هنوز نامشخص است."
+        ],
+        "impact": "افزایش تنش‌های بین‌المللی و فشار بر روابط آمریکا‑خاورمیانه.",
+        "tag": "سیاست-آمریکا",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-in/news/other/trump-broke-a-3000-year-old-law-and-triggered-a-global-crisis-opinion/ar-AA2cb6xe?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/trump-broke-a-3000-year-old-law-and-triggered-a-global-crisis-opinion/ar-AA2cb6xe",
+        "image": "https://www.bing.com/th?id=ONUT.G999WZtj0jY--wU86kX2MA",
+        "timestamp": 1789390069.6472316
+    },
+    {
         "id": "400ec967ac",
         "title_fa": "ایران رد ویزای سرپرست آژانس هسته‌ای را نقض می‌داند",
         "title_en": "Iran calls IAEA conference visa denial a serious breach of member rights",
@@ -2311,6 +2347,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zb1kzVFpiVEdBdDJ0c1l5YlBUbnhJLUg1QlBMdkJQUXFHLTR3RjBVQlFMNzhkdldNczZsWXVXWWp4eVU5Ny1PaVQ2QVdhMXk1WEZfa3NnRFR6d3lnbWFZNVJpajlpOXBKRVlaZ1FyVzJkcmpUbXFTLUN6TjBUcUE",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789304404.0
+    },
+    {
+        "id": "b711d3db5e",
+        "title_fa": "بند شدن هرمز به‌دلیل قطع خط لوله سعودی",
+        "title_en": "Iran: Strait of Hormuz to stay closed as Saudi pipeline shutdown adds pressure",
+        "summary": [
+            "بسته شدن تنگه هرمز فشار بر صادرات نفت ایران را دوچندان می‌کند؛ کشتی‌های حامل نفت مجبور به مسیرهای طولانی‌تر می‌شوند.",
+            "سختمان‌های ذخیره‌سازی سعودی تنها برای ۵ تا ۷ روز کافی است؛ این کمبود می‌تواند قیمت جهانی نفت را به‌سختی بالا ببرد."
+        ],
+        "impact": "قیمت نفت جهانی ارتقا می‌یابد و توان صادرات ایران تحت فشار شدید قرار می‌گیرد.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/world/us-iran-war-saudi-arabia-strait-of-hormuz-oil-houthis/",
+        "clean_url": "https://www.newsnationnow.com/world/us-iran-war-saudi-arabia-strait-of-hormuz-oil-houthis",
+        "image": "https://www.bing.com/th?id=ONUT.CMhPm0ymMnTaJocw_nKX4g",
+        "timestamp": 1789303664.0
     },
     {
         "id": "349212d5a0",
@@ -5498,62 +5552,5 @@
         "clean_url": "https://wsvn.com/news/us-world/saudi-oil-pipeline-shut-down-after-attack-triggers-fires",
         "image": "https://www.bing.com/th?id=ONUT.lwVBPY3u-mYu2tNFz1pI5A",
         "timestamp": 1789218153.0
-    },
-    {
-        "id": "0e24afcf5b",
-        "title_fa": "حمله به تنگه هرمز نگرانی‌های تازهٔ عرضه نفت",
-        "title_en": "Strait of Hormuz attack raises fresh oil supply fearsPublished on: September 13, 2026 12:31 PM",
-        "summary": [
-            "گزارش‌های حمله به کشتی‌های عبوری در تنگه هرمز باعث اضطراب بازارهای انرژی شد",
-            "تنگه هرمز، که ۲۰٪ صادرات نفت جهان از آن می‌گذرد، هدفی حساس برای نیروهای منطقه‌ای است",
-            "هر اختلال در این مسیر می‌تواند قیمت نفت را به سرعت بالا برده و نوسانات ارزی را تشدید کند"
-        ],
-        "impact": "افزایش ناگهانی قیمت نفت و فشار بر اقتصادهای وابسته به واردات انرژی",
-        "tag": "نقلیه",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/asia/pakistan/strait-of-hormuz-attack-raises-fresh-oil-supply-fearspublished-on-september-13-2026-1231-pm/ar-AA2c7m1Z?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/strait-of-hormuz-attack-raises-fresh-oil-supply-fearspublished-on-september-13-2026-1231-pm/ar-AA2c7m1Z",
-        "image": "https://www.bing.com/th?id=ONUT.8VJC3rgvOlo6PFPe1771Ig",
-        "timestamp": 1789218153.0
-    },
-    {
-        "id": "f392e46dd8",
-        "title_fa": "ترامپ: حوثی‌ها از مداخله آمریکا در یمن می‌خواهند",
-        "title_en": "Iran live: Trump claims Houthis asked US not to intervene in Yemen",
-        "summary": [
-            "ترامپ ادعا کرد حوثی‌ها از ایالات متحده درخواست نکرده‌اند که در یمن مداخله کند",
-            "در همین زمان حوثی‌ها به مسجد سعودی حمله کردند و جزیره‌ای استراتژیک در باب‌ال‌مندب را تصرف کردند",
-            "اگر حرف ترامپ درست باشد فشار دیپلماتیک بر واشنگتن برای عدم مداخله افزایش می‌یابد",
-            "حقیقت نشان می‌دهد حوثی‌ها هنوز از حمایت‌های غیرمستقیم ایران بهره می‌برند؛ ریسک تشدید درگیری‌های منطقه‌ای بالا است"
-        ],
-        "impact": "بیانیه ترامپ می‌تواند سیاست آمریکا در یمن را به تعویق بیندازد و خطر گسترش درگیری را بالا ببرد",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-trump-claims-houthis-asked-us-not-to-intervene-in-yemen/ar-AA2bZyWG",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-trump-claims-houthis-asked-us-not-to-intervene-in-yemen/ar-AA2bZyWG",
-        "image": "http://www.bing.com/th?id=ONUT.eeMd6-BXPk2PHtiJgCK0GQ&pid=News",
-        "timestamp": 1789217808.0
-    },
-    {
-        "id": "8a867ca439",
-        "title_fa": "آینده‌گریزان ایرانی در سایه جنگ آمریکا",
-        "title_en": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
-        "summary": [
-            "تحریم‌ها و هزینه‌های جنگ آمریکا زندگی روزمره ایرانیان را به فقر کشانده است",
-            "عدم چشم‌انداز بهبود باعث تشدید نارضایتی عمومی و فشار بر حکومت می‌شود"
-        ],
-        "impact": "افزایش نارضایتی مردم و تضعیف ثبات داخلی",
-        "tag": "اجتماعی",
-        "urgency": 5,
-        "sentiment": -0.9,
-        "source": "Al Jazeera on MSN",
-        "url": "https://www.msn.com/en-us/news/world/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war/ar-AA2c7a7F?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/world/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war/ar-AA2c7a7F",
-        "image": "https://www.bing.com/th?id=ONUT._6fX3vDhR69uxC1yJDiQsA",
-        "timestamp": 1789217488.0
     }
 ]
