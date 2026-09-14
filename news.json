@@ -2368,6 +2368,26 @@
         "timestamp": 1789275120.0
     },
     {
+        "id": "bfc20bc562",
+        "title_fa": "ژاپن حضور خود در پروژه‌های نفت‌گاز روسیه را حفظ می‌کند",
+        "title_en": "Japan maintains its presence in oil and gas projects in Russia — diplomat",
+        "summary": [
+            "ژاپن به رغم فشارهای آمریکا، همکاری انرژی با روسیه را ادامه می‌دهد",
+            "توجیه امنیت انرژی ملی برای عبور از تحریم‌های غرب به کار رفته",
+            "روسیه این مشارکت را فرصتی برای دور زدن تحریم‌های انرژی می‌داند",
+            "واشنطن ممکن است فشارهای دیپلماتیک بیشتری به توکیو اعمال کند"
+        ],
+        "impact": "روسیه می‌تواند صادرات انرژی خود را حفظ کرده و اثر تحریم‌ها را کاهش دهد",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2187129",
+        "clean_url": "https://tass.com/politics/2187129",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260914/1486655.jpg",
+        "timestamp": 1789274618.0
+    },
+    {
         "id": "39560e5e14",
         "title_fa": "ترامپ: چین جاسوس ماست، ما هم به چین نگاه می‌کنیم",
         "title_en": "China spies on us, we spy on China too: Trump after Iran satellite images report",
@@ -5537,24 +5557,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/i-saved-this-country-trump-predicts-history-will-remember-him-for-saving-america/ar-AA2c3xXP",
         "image": "https://www.bing.com/th?id=ONUT.7sDM5TnxQmdBoyuy7Hr2Yg",
         "timestamp": 1789187717.210267
-    },
-    {
-        "id": "bc40412419",
-        "title_fa": "پایان دوره ترامپ در 861 روز؛ فشار بر لی",
-        "title_en": "Trump presses, Lee hesitates",
-        "summary": [
-            "ترامپ تا 20 ژانویه 2029 به‌عنوان رئیس‌جمهور باقی می‌ماند؛ 861 روز تا پایان دوره‌اش مانده است.",
-            "با وجود نزدیک شدن به پایان دوره، ترامپ همچنان بر لی (احتمالاً مقامی کره‌ای) فشار می‌آورد تا موضع‌گیری‌های منطقه‌ای، به‌ویژه نسبت به ایران، همسو با سیاست‌های سخت‌گیرانه‌اش شود.",
-            "این فشار می‌تواند هماهنگی بین ایالات متحده و هم‌پیمانان آسیایی را تحت تأثیر قرار دهد و مسیر تحریم‌های جدید علیه ایران را هموار کند."
-        ],
-        "impact": "تقویت فشار دیپلماتیک آمریکا بر کره جنوبی؛ احتمال افزایش تحریم‌های ضد‑ایران در سال‌های پایانی دوره ترامپ",
-        "tag": "سیاست خارجی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Chosun Ilbo on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/trump-presses-lee-hesitates/ar-AA2c29fI?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/trump-presses-lee-hesitates/ar-AA2c29fI",
-        "image": "https://www.bing.com/th?id=ONUT.gALqC-2DbqUeHZYn1WIcIw",
-        "timestamp": 1789186375.4708772
     }
 ]
