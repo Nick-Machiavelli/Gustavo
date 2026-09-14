@@ -1,5 +1,43 @@
 [
     {
+        "id": "3e3519d0be",
+        "title_fa": "استراتژی ایران: چالش هسته‌ای پس از تکذیب آمریکا",
+        "title_en": "The Iranian regime built its legitimacy around defying America then its nuclear ambitions put that strategy to the test",
+        "summary": [
+            "رژیم ایران با ادعای مقاومت در برابر آمریکا مشروعیت می‌سازد، اما برنامه هسته‌ای این ادعا را به خطر می‌اندازد",
+            "آمریکا باید تصمیم بگیرد آیا به تهدید هسته‌ای به‌صورت جدی واکنش نشان دهد یا نه",
+            "فشارهای داخلی و بین‌المللی می‌تواند به تغییر مسیر سیاسی منجر شود"
+        ],
+        "impact": "افزایش فشارهای دیپلماتیک و اقتصادی بر تهران",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Dr. Steve Turley on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/the-iranian-regime-built-its-legitimacy-around-defying-america-then-its-nuclear-ambitions-put-that-strategy-to-the-test-my-take/vi-AA2cbBSj?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/the-iranian-regime-built-its-legitimacy-around-defying-america-then-its-nuclear-ambitions-put-that-strategy-to-the-test-my-take/vi-AA2cbBSj",
+        "image": "https://www.bing.com/th?id=ONUT.6sCHRTWS9M-bUXUpt9AUgg",
+        "timestamp": 1789396835.4584975
+    },
+    {
+        "id": "f540adfe22",
+        "title_fa": "ترامپ زلنسکی را سرزنش کرد؛ خود مقصر بود",
+        "title_en": "'Shameless' moment Trump blames Ukraine's Zelensky for something he helped create",
+        "summary": [
+            "ترامپ زلنسکی را برای بحران اوکراین متهم کرد، در حالی که سیاست‌های خودش منجر به آن شد",
+            "این اتهام‌گذاری سعی دارد توجه را از دستاوردهای خود در خاورمیانه منحرف کند",
+            "واکنش بین‌المللی به این ادعاها سرد و انتقادی بود"
+        ],
+        "impact": "بی‌ثباتی بیشتر در روابط آمریکا‑اوکراین و کاهش اعتبار ترامپ",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "Indy100 on MSN",
+        "url": "https://www.msn.com/en-us/news/other/shameless-moment-trump-blames-ukraine-s-zelensky-for-something-he-helped-create/ar-AA2cc389?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/shameless-moment-trump-blames-ukraine-s-zelensky-for-something-he-helped-create/ar-AA2cc389",
+        "image": "https://www.bing.com/th?id=ONUT.WzAF8YeNS_pPmAVnchBAZA",
+        "timestamp": 1789396835.458171
+    },
+    {
         "id": "2ed92ef99d",
         "title_fa": "خبر بین‌المللی — By treating اسرائیل as a pariah, UK just handed ترامپ a rea",
         "title_en": "By treating Israel as a pariah, the UK just handed Trump a reason to abandon Britain",
@@ -2386,6 +2424,26 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-s-ultimate-deal-abandon-taiwan-to-kick-china-out-of-cuba-and-venezuela/ar-AA2c7sjJ",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789310857.9046714
+    },
+    {
+        "id": "84fdfbed05",
+        "title_fa": "ضربه هوایی به خط لوله سعودی؛ نفت جهان می‌لرزد",
+        "title_en": "Closure of Saudi pipeline sends crude oil, pump prices soaring",
+        "summary": [
+            "پهپادهای یمن خط لوله کلیدی سعودی را هدف گرفت و عملیات را متوقف کرد",
+            "بسته شدن لوله باعث کاهش عرضه نفت در خلیج فارس و جهش قیمت‌های جهانی شد",
+            "بازارها به‌سرعت واکنش نشان دادند؛ قیمت نفت برنت به بالای 80 دلار رسید",
+            "این حادثه نشان می‌دهد امنیت زیرساخت‌های انرژی در منطقه به‌خطر است"
+        ],
+        "impact": "قیمت نفت به سرعت بالا رفت، هزینه‌های حمل و نقل و تولید را افزایش داد",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": 0.0,
+        "source": "UPI on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/closure-of-saudi-pipeline-sends-crude-oil-pump-prices-soaring/ar-AA2cc7Vp?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/closure-of-saudi-pipeline-sends-crude-oil-pump-prices-soaring/ar-AA2cc7Vp",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789310429.0
     },
     {
         "id": "484eb9d45b",
@@ -5479,62 +5537,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-houthis-strike-saudi-mosque-causing-injuries/ar-AA2bZyWG",
         "image": "http://www.bing.com/th?id=ONUT.eeMd6-BXPk2PHtiJgCK0GQ&pid=News",
         "timestamp": 1789228814.0
-    },
-    {
-        "id": "e33bce3c73",
-        "title_fa": "به روز رسانی زنده ایران: ترامپ قیمت بالای گاز را به گردن اوکراین می‌اندازد و می‌گوید تهران خواهان توافق است",
-        "title_en": "Iran live updates: Trump blames high gas prices on Ukraine, says Tehran wants a deal",
-        "summary": [
-            "Trump again said Sunday the conflict will end after the midterm elections."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-blames-high-gas-prices-on-ukraine-says-tehran-wants-a-deal/ar-AA2bItw1?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-blames-high-gas-prices-on-ukraine-says-tehran-wants-a-deal/ar-AA2bItw1",
-        "image": "https://www.bing.com/th?id=ONUT.7hVk7i-X-IteZ2lPPsReiQ",
-        "timestamp": 1789228053.0
-    },
-    {
-        "id": "e86336de1f",
-        "title_fa": "امروز آمریکا دوباره اشتباه ۹/۱۱ را در ایران تکرار می‌کند",
-        "title_en": "I watched the twin towers burn. Now the US is repeating its worst mistakes in Iran",
-        "summary": [
-            "نویسنده معتقد است ایالات متحده پس از ۹/۱۱ مسیر امپریالیستی را ادامه داده و اکنون در ایران تکرار می‌کند.",
-            "او به ناکامی آمریکا در درک ریشه‌های خشم خاورمیانه و تکیه بر نظامی‌گری اشاره می‌کند.",
-            "این تحلیل هشدار می‌دهد که ادامه این مسیر می‌تواند تنش‌های نظامی را تشدید کند.",
-            "بیان می‌کند که عدم یادگیری از گذشته، خطر تصاعد درگیری را بالا می‌برد."
-        ],
-        "impact": "افزایش فشار بین‌المللی برای بازنگری استراتژی آمریکا در خاورمیانه، خطر تشدید تنش‌های نظامی.",
-        "tag": "تحلیل",
-        "urgency": 3,
-        "sentiment": -0.7,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/opinion/9-11-25-years-us-iran-war-same-mistakes",
-        "clean_url": "https://www.middleeasteye.net/opinion/9-11-25-years-us-iran-war-same-mistakes",
-        "image": "https://www.bing.com/th?id=ONUT.6Qx334UcDezEAF4pGn5azA",
-        "timestamp": 1789228038.1330843
-    },
-    {
-        "id": "b04b1fb661",
-        "title_fa": "کنوانسیون جمهوری‌خواه: جشن‌واره‌ای برای ترامپ",
-        "title_en": "The RNC Convention Was Basically a Trump Cult Meeting",
-        "summary": [
-            "مقاله می‌گوید کنوانسیون RNC به جای بحث‌های سیاسی، به پرستش ترامپ تبدیل شد.",
-            "حضور چالی کِرک و حمایت جِی دی ونس از سیاست‌های ترامپ نسبت به ایران، نشان از هم‌پوشانی ایدئولوژیک دارد.",
-            "این وضعیت می‌تواند فشار داخلی برای ادامه سیاست‌های سخت‌گیرانه علیه ایران را تقویت کند.",
-            "نشان می‌دهد حزب جمهوری‌خواه دیگر هویت مستقل سیاسی ندارد."
-        ],
-        "impact": "تقویت تصویر حزب جمهوری‌خواه به عنوان حامی یک‌نقشه‌گر، احتمال ادامه سیاست‌های سخت‌گیرانه علیه ایران.",
-        "tag": "سیاست داخلی",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "The Bulwark",
-        "url": "https://www.thebulwark.com/p/the-rnc-convention-was-basically",
-        "clean_url": "https://www.thebulwark.com/p/the-rnc-convention-was-basically",
-        "image": "https://www.bing.com/th?id=ONUT.Xh_LinWfeZxE43Jzm2B2AA",
-        "timestamp": 1789228038.1327329
     }
 ]
