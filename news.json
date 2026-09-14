@@ -686,6 +686,25 @@
         "timestamp": 1789314790.0
     },
     {
+        "id": "dde12b9124",
+        "title_fa": "سرمانده هسته‌ای ایران از کنفرانس آی‌ای‌ایه محروم شد",
+        "title_en": "Iran Nuclear Chief Barred From IAEA Meet Amid Rising Tensions",
+        "summary": [
+            "تحریم‌های سازمان ملل مانع حضور او در وین شد",
+            "عدم حضور سرمانده فرصت دفاع دیپلماتیک ایران را از دست داد و تنش‌ها را تشدید کرد",
+            "نوسان قیمت نفت ممکن است به دلیل عدم قطعیت هسته‌ای بیشتر شود"
+        ],
+        "impact": "تحریم سفر سرمانده فشار دیپلماتیک بر ایران را تقویت و نوسان نفت را تشدید می‌کند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "whalesbook",
+        "url": "https://www.whalesbook.com/news/English/world-affairs/Iran-Nuclear-Chief-Barred-From-IAEA-Meet-Amid-Rising-Tensions/6aa73bf775fe79b492e5dbb3",
+        "clean_url": "https://www.whalesbook.com/news/English/world-affairs/Iran-Nuclear-Chief-Barred-From-IAEA-Meet-Amid-Rising-Tensions/6aa73bf775fe79b492e5dbb3",
+        "image": "https://images.whalesbook.com/images/images/mu0holo4976b.jpeg",
+        "timestamp": 1789314120.0
+    },
+    {
         "id": "5042dcfe58",
         "title_fa": "بسنِت با تحریم‌های هفتگی بانک‌ها فشار می‌آورد",
         "title_en": "Bessent is doubling down with weekly bank sanctions",
@@ -5546,22 +5565,5 @@
         "clean_url": "https://www.latimes.com/world-nation/story/2026-09-12/trump-says-irelands-reunification-would-be-fantastic",
         "image": "https://www.bing.com/th?id=ONUT.UbhJ6759VGGoBrHwry9vvg",
         "timestamp": 1789166940.0
-    },
-    {
-        "id": "0463a28f14",
-        "title_fa": "فرمانده ایرانی مدعی شد اسرائیل به حمایت آمریکا وابسته است تاریخ انتشار: 21 شهریور 1395 ساعت 21: 12",
-        "title_en": "Iranian commander claims Israel depends on US supportPublished on: September 12, 2026 9:12 PM",
-        "summary": [
-            "Pakistan, Sept. 12 -- Iranian Revolutionary Guard commander Ahmad Vahidi has claimed that Israel's military would quickly..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/asia/pakistan/iranian-commander-claims-israel-depends-on-us-supportpublished-on-september-12-2026-912-pm/ar-AA2c5bAi?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/iranian-commander-claims-israel-depends-on-us-supportpublished-on-september-12-2026-912-pm/ar-AA2c5bAi",
-        "image": "https://www.bing.com/th?id=ONUT.LjGDsElgTY48-6sXVtb3wQ",
-        "timestamp": 1789166939.0
     }
 ]
