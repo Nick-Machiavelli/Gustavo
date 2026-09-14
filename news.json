@@ -1,5 +1,24 @@
 [
     {
+        "id": "c99ed2749b",
+        "title_fa": "بیانیه برکس ۱۸: توافق بر سر ابهام و هم‌نظر جهانی",
+        "title_en": "How to build consensus with ambiguity",
+        "summary": [
+            "بیانیه برکس به‌صورت کلی به تعارضات، تحریم‌ها و تروریسم پرداخته و راه‌حل‌های مشترک را مطرح کرده",
+            "تمرکز بر «هم‌نظر با ابهام» نشان می‌دهد که اعضا هنوز در جزئیات اقدام‌ها عملی اختلاف دارند",
+            "این متن می‌تواند پایه‌ای برای هماهنگی سیاسی ولی نه عملیاتی در مواجهه با بحران‌های بین‌المللی باشد"
+        ],
+        "impact": "تقویت گفت‌وگوهای چندجانبه اما بدون تعهدات ملموس، تأثیر محدود بر سیاست‌های ملی خواهد داشت",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Financial Express",
+        "url": "https://www.financialexpress.com/opinion/how-to-build-consensus-with-ambiguity/4339130/",
+        "clean_url": "https://www.financialexpress.com/opinion/how-to-build-consensus-with-ambiguity/4339130",
+        "image": "https://www.bing.com/th?id=ONUT._cahDde_Xws06wNWimxj-g",
+        "timestamp": 1789398335.6931484
+    },
+    {
         "id": "3e3519d0be",
         "title_fa": "استراتژی ایران: چالش هسته‌ای پس از تکذیب آمریکا",
         "title_en": "The Iranian regime built its legitimacy around defying America then its nuclear ambitions put that strategy to the test",
@@ -2403,6 +2422,44 @@
         "clean_url": "https://www.thestreet.com/economy/bessent-is-doubling-down-with-weekly-bank-sanctions",
         "image": "https://www.bing.com/th?id=ONUT.KDmnuIBUf7ZXx1vSn77CYw",
         "timestamp": 1789313678.4867358
+    },
+    {
+        "id": "bb81763e5a",
+        "title_fa": "ترامپ از اوکراین خواست حمل به پالایشگاه‌های روسیه متوقف شود",
+        "title_en": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
+        "summary": [
+            "ترامپ به زلنسکی گفت حمل به پالایشگاه‌های دیزل روسیه باعث کمبود سوخت جهانی می‌شود",
+            "این درخواست می‌تواند فشار دیپلماتیک بر اوکراین برای محدود کردن هدف‌های اقتصادی روسیه ایجاد کند",
+            "اگر اوکراین این دستور را بپذیرد، ممکن است استراتژی ضربه به زیرساخت‌های انرژی روسیه تغییر کند"
+        ],
+        "impact": "تغییر مسیر حملات اوکراین می‌تواند خروجی نفت روسیه را کاهش و نوسان قیمت جهانی را تشدید کند",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries",
+        "clean_url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries",
+        "image": "https://www.bing.com/th?id=ONUT.QSJVzm_osnN2saCFktjQdQ",
+        "timestamp": 1789311931.0
+    },
+    {
+        "id": "0a3072c5f9",
+        "title_fa": "لیکوید بدون افزایش مالیات می‌تواند بودجه دفاعی را تامین کند",
+        "title_en": "Pushing back against Lapid, Likud says raising IDF budget possible without tax hike",
+        "summary": [
+            "حزب لیکود ادعا می‌کند می‌تواند بودجه ارتش را بدون بار مالی بر شهروندان افزایش دهد",
+            "این ادعا پس از انتقادهای لابید از طرح مالیاتی برای تأمین هزینه‌های نظامی مطرح شد",
+            "اگر موفق شوند، فشار بر دولت نتانیاهو برای حفظ یا افزایش هزینه‌های دفاعی کاهش می‌یابد"
+        ],
+        "impact": "تغییر در سیاست مالی دفاعی می‌تواند هزینه‌های نظامی را ثابت نگه داشته و فشار مالی بر مردم را کاهش دهد",
+        "tag": "بودجه",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Times of Israel on MSN",
+        "url": "https://www.msn.com/en-us/news/other/pushing-back-against-lapid-likud-says-raising-idf-budget-possible-without-tax-hike/ar-AA2cc8hC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/pushing-back-against-lapid-likud-says-raising-idf-budget-possible-without-tax-hike/ar-AA2cc8hC",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789311931.0
     },
     {
         "id": "453f773636",
@@ -5481,58 +5538,5 @@
         "clean_url": "https://www.adn.com/opinions/2026/09/12/opinion-do-you-share-my-conservative-principles-then-not-trump-is-enough",
         "image": "https://www.bing.com/th?id=ONUT.8JRPKec1GfTdJewe2HRyqQ",
         "timestamp": 1789230162.0347311
-    },
-    {
-        "id": "46e68d83a1",
-        "title_fa": "ضد امپریالیسم و ​​چپ در 2026",
-        "title_en": "Anti-imperialism and the left in 2026",
-        "summary": [
-            "Manijeh Maradian is a founder of the Raha Iranian Feminist Collective and the author of This Flame Within: Iranian..."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ZNetwork on MSN",
-        "url": "https://www.msn.com/en-us/news/other/anti-imperialism-and-the-left-in-2026/ar-AA2c56oe?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/anti-imperialism-and-the-left-in-2026/ar-AA2c56oe",
-        "image": "https://www.bing.com/th?id=ONUT.bxXQuzmc7ycEbP2MYKZ0Fw",
-        "timestamp": 1789230161.2266555
-    },
-    {
-        "id": "01dde48c5a",
-        "title_fa": "BRICS @20: از باشگاهی از اقتصادهای نوظهور به پلتفرمی برای جهانی در حال تغییر",
-        "title_en": "BRICS @20: From a club of emerging economies to a platform for a changing world",
-        "summary": [
-            "When leaders of the BRICS countries gathered in New Delhi this week, the group was very different from the one India first..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New Indian Express on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/brics-20-from-a-club-of-emerging-economies-to-a-platform-for-a-changing-world/ar-AA2c5Hys?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/brics-20-from-a-club-of-emerging-economies-to-a-platform-for-a-changing-world/ar-AA2c5Hys",
-        "image": "https://www.bing.com/th?id=ONUT.v6ExAyUvPiXIjgjaeTlKpA",
-        "timestamp": 1789230160.7095115
-    },
-    {
-        "id": "9fc7097dba",
-        "title_fa": "عبدال السید در فیس‌د نیشن به انتقادات جمهوری‌خواه واکنش داد",
-        "title_en": "Transcript: Michigan Senate candidate Abdul El-Sayed on \"Face the Nation with Margaret Brennan,\" Sept. 13, 2026",
-        "summary": [
-            "السید به انتقادات سخره‌آمیز اسپیکر جونسون درباره دموکرات‌های سوئینگ پاسخ داد",
-            "او بر ضرورت تمرکز بر سیاست‌های اقتصادی و عدالت اجتماعی در میشیگان تأکید کرد",
-            "مصاحبه نشان می‌دهد رقابت رپبلیکن‌ها در انتخابات سنا ادامه دارد"
-        ],
-        "impact": "تقویت موقعیت سنیورال دموکرات در میشیگان و فشار بر رقیب رپبلیکن",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/abdul-el-sayed-michigan-democrat-senate-face-the-nation-transcript-09-13-2026/",
-        "clean_url": "https://www.cbsnews.com/news/abdul-el-sayed-michigan-democrat-senate-face-the-nation-transcript-09-13-2026",
-        "image": "https://www.bing.com/th?id=ONUT.I6m_zDiGwS54o5LpU3RsOA",
-        "timestamp": 1789229590.0
     }
 ]
