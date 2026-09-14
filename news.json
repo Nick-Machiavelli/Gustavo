@@ -19,6 +19,24 @@
         "timestamp": 1789377325.2198324
     },
     {
+        "id": "e85c049728",
+        "title_fa": "موشک‌ها اردوگاه‌های کُردی مخالف ایران را هدف گرفت",
+        "title_en": "Iranian Kurdish opposition camps targeted with missiles in Iraq's Kurdistan, sources say",
+        "summary": [
+            "حملات موشکی سه اردوگاه مخالف ایران را در شرق سلیمانیه هدف گرفت؛ هیچ کشته یا زخمی گزارش نشد",
+            "منابع امنیتی اشاره کردند این عملیات احتمالاً توسط نیروهای وابسته به تهران انجام شده و پیامدهای سیاسی در کردستان عراق دارد"
+        ],
+        "impact": "تشدید تنش‌های منطقه‌ای و تقویت ادعای حضور نظامی ایران در کردستان عراق",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/iranian-kurdish-opposition-camps-targeted-with-missiles-in-iraqs-kurdistan-sources-say/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/iranian-kurdish-opposition-camps-targeted-with-missiles-in-iraqs-kurdistan-sources-say",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789374360.0
+    },
+    {
         "id": "19e3850770",
         "title_fa": "ایران ادعای پیککس‌ماونتن را رد کرد",
         "title_en": "Iran dismisses Pickaxe Mountain claims, says Israel wins from Gulf tensions",
@@ -5540,25 +5558,5 @@
         "clean_url": "https://www.yahoo.com/news/us/articles/iran-houthi-rebels-used-anthropics-150310341.html",
         "image": "https://s.yimg.com/lo/mysterio/api/239f0f42c224a697d9cecce052ffaa713eaa06547ab939922abf706ad4a07273/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2F90f95816dbfbe3a16c1cfb11aa87372e.jpg",
         "timestamp": 1789200180.0
-    },
-    {
-        "id": "979af8c7c6",
-        "title_fa": "درخواست ۱۵ میلیارد تومانی از سرمربی تیم ملی",
-        "title_en": "دستمزد نجومی سرمربی تیم ملی؛ امیر قلعه‌نویی تا جام قهرمانی آسیا ۹۰ میلیارد تومان می‌خواهد",
-        "summary": [
-            "سرمربی تیم ملی درخواست حقوق ماهانه ۱۵ میلیارد تومانی برای دوره تا ۲۰۲۷ دارد.",
-            "فدراسیون پیشنهادی ۳۰ میلیارد تومانی (بدون پاداش) ارائه کرده که او آن را ناکافی می‌داند.",
-            "این موضوع باعث بحث عمومی درباره هزینه‌های فوتبال و اولویت‌های مالی می‌شود.",
-            "اگر پرداخت شود، می‌تواند الگوی هزینه‌بر برای سایر مربیان و بازیکنان ایجاد کند."
-        ],
-        "impact": "افزایش هزینه‌های فدراسیون، واکنش عمومی منفی و فشار بر بودجه ورزش ملی.",
-        "tag": "ورزش",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609128741",
-        "clean_url": "https://www.iranintl.com/202609128741",
-        "image": "http://www.bing.com/th?id=ONUT.sLUqMFSxWxRLw13coz3_7Q&pid=News",
-        "timestamp": 1789199580.0
     }
 ]
