@@ -2764,6 +2764,63 @@
         "timestamp": 1789331168.0
     },
     {
+        "id": "688eac4380",
+        "title_fa": "کشتی نفتی EL GAIA در هرمز به مین برخورد",
+        "title_en": "Iran says oil tanker EL GAIA hit mines near Strait of Hormuz",
+        "summary": [
+            "نیروی نیروی‌دریایی سپاه ادعا کرد کشتی پاناما پرچم به‌دلیل مین در جنوب هرمز منفجر شد",
+            "ایران می‌گوید مسیر غیرقانونی بوده و هرمز تحت کنترل کامل سپاه است",
+            "حادثه پیش از جلسه احتمالی عمان برای بازگشایی هرمز رخ داد و ممکن است مذاکرات را به تعویق بیندازد"
+        ],
+        "impact": "ایران کنترل هرمز را اعلام کرد؛ ریسک بستن مسیر نفتی خلیج افزایش یافت",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/article/bydxo6syfl",
+        "clean_url": "https://www.ynetnews.com/article/bydxo6syfl",
+        "image": "https://www.bing.com/th?id=ONUT.ZdGRpqNcP-Te35SK15UB2w",
+        "timestamp": 1789330997.0
+    },
+    {
+        "id": "3e99986ee9",
+        "title_fa": "قیمت نفت پس از حملات سعودی افزایش یافت",
+        "title_en": "Oil settles higher after Saudi strikes stoke supply worries",
+        "summary": [
+            "بازار نفت پس از اعلام حملات هدفمند سعودی به زیرساخت‌های نفتی خاورمیانه، حدود ۱٪ بالا رفت",
+            "نگرانی‌ها درباره تنگناهای عرضه، به‌ویژه در زمان کاهش موجودی‌های استراتژیک، قیمت را فشار داد",
+            "تحلیل‌گران پیش‌بینی می‌کنند نوسان ادامه داشته باشد تا وضعیت ژئوپلیتیک واضح شود"
+        ],
+        "impact": "قیمت نفت بالاتر، هزینه‌های انرژی را برای مصرف‌کنندگان و صنایع ارتقا داد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/oil-settles-higher-after-saudi-strikes-stoke-supply-worries/ar-AA2cd8rq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/oil-settles-higher-after-saudi-strikes-stoke-supply-worries/ar-AA2cd8rq",
+        "image": "https://www.bing.com/th?id=ONUT.0dUIPOayIp0B1vODpQS1_A",
+        "timestamp": 1789330997.0
+    },
+    {
+        "id": "9a2f556431",
+        "title_fa": "بازده اوراق ۱۰‑ساله آمریکا به ۵٪ رسید",
+        "title_en": "10-year Treasury yield hits 5 percent",
+        "summary": [
+            "بازده اوراق ۱۰‑ساله آمریکا برای اولین بار به ۵٪ رسید، نشانه‌ای از انتظارات تورمی و فشارهای پولی است",
+            "این سطح هزینه استقراض دولتی و خصوصی را بالا برده و می‌تواند رشد اقتصادی را تضعیف کند",
+            "سرمایه‌گذاران به دنبال پناهگاه‌های امن مانند طلا و ارزهای دیجیتال می‌روند"
+        ],
+        "impact": "هزینه استقراض برای دولت و شرکت‌ها بالا رفت؛ فشار بر رشد اقتصادی",
+        "tag": "بازارمالی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "The Hill on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/10-year-treasury-yield-hits-5-percent/ar-AA2cd8CZ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/10-year-treasury-yield-hits-5-percent/ar-AA2cd8CZ",
+        "image": "https://www.bing.com/th?id=ONUT.2Xr7OLx1Mp9dQVMtbanNaQ",
+        "timestamp": 1789330997.0
+    },
+    {
         "id": "96419f43d7",
         "title_fa": "بتیگیگ به ترامپ در مسابقه نیومکزیکو حمله کرد",
         "title_en": "“What A Mess”: Buttigieg GRILLS Trump Over Embattled New Mexico GOP Candidate",
@@ -5415,61 +5472,5 @@
         "clean_url": "https://www.thequint.com/opinion/in-a-world-of-regime-complexity-what-does-india-want-from-brics",
         "image": "https://www.bing.com/th?id=ONUT.uqcRGnT12kH5pceL-1tpUA",
         "timestamp": 1789281090.926786
-    },
-    {
-        "id": "f9332b22a7",
-        "title_fa": "مقامات ایرانی می‌گویند در پی اصابت کشتی در تنگه هرمز یک نفر کشته شد",
-        "title_en": "One person killed after ship struck in the Strait of Hormuz, Iranian authorities say",
-        "summary": [
-            "Qeshm city governor Amir Teymouri said, according to state TV, \"A merchant vessel was struck around 5: 00 am (0130 GMT) this..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Euronews on MSN",
-        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/one-person-killed-after-ship-struck-in-the-strait-of-hormuz-iranian-authorities-say/ar-AA2c6Y9H?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/one-person-killed-after-ship-struck-in-the-strait-of-hormuz-iranian-authorities-say/ar-AA2c6Y9H",
-        "image": "https://www.bing.com/th?id=ONUT.YWQpx7GenMoiemMH_llT4A",
-        "timestamp": 1789281090.9262643
-    },
-    {
-        "id": "6e04b3af4a",
-        "title_fa": "تأخیر جلسه خلیج در عمان: درخواست کشورهای منطقه",
-        "title_en": "Iran war latest: Tehran says Gulf meeting in Oman postponed at request of regional countries",
-        "summary": [
-            "تهران اعلام کرد جلسهٔ سران خلیج در عمان به‌دلیل درخواست کشورهای همسایه به تعویق افتاد",
-            "این تصمیم همزمان با حملات به خطوط لوله سعودی و کاهش ترافیک کشتی‌ها در تنگه هرمز رخ داد",
-            "قیمت نفت نزدیک ۱۰۸ دلار شد و بازارها به‌دنبال کاهش عرضه اضطراب‌زده‌اند",
-            "دستگاه‌های نظامی ایالات متحده هشدار دادند تا قبل از انتخابات میانه‌سال، راه‌حل دیپلماتیک سخت‌تر می‌شود"
-        ],
-        "impact": "تأخیر مذاکرات منطقه‌ای، فشار بر بازار نفت و افزایش تنش‌های نظامی",
-        "tag": "جنگ",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "thenationalnews",
-        "url": "https://www.thenationalnews.com/news/mena/2026/08/31/live-larak-island-us-strikes-iran/",
-        "clean_url": "https://www.thenationalnews.com/news/mena/2026/08/31/live-larak-island-us-strikes-iran",
-        "image": "https://www.thenationalnews.com/resizer/v2/XYZ3DRX2JK62T7YH7LZCQ3AL6E.jpg?auth=b0a529062d1bf8ccf20f2941423228f8854834c75aca729d11bc3104b67611ee&smart=true&width=1200&height=630",
-        "timestamp": 1789281060.0
-    },
-    {
-        "id": "0641b2bc0d",
-        "title_fa": "مودی ۱۵ جلسه دوجانبه در برکس: تمرکز بر ایران",
-        "title_en": "BRICS: From China to Russia to Iran, what PM Modi’s 15 bilateral meetings focused on, explained",
-        "summary": [
-            "مودی با روسیه، چین و ایران در برکس دیدار کرد؛ هر کدام به‌صورت مستقیم به تجارت و امنیت اشاره داشت",
-            "بحث‌های انرژی و امنیت دریایی نشان دادند هند می‌خواهد نقش میان‌شرق را تقویت کند",
-            "این جلسات می‌توانند به‌صورت غیرمستقیم فشار بر تحریم‌های غرب علیه ایران ایجاد کنند"
-        ],
-        "impact": "تقویت روابط تجاری و نظامی هند با روسیه، چین و ایران",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "ET Now",
-        "url": "https://www.etnownews.com/news/brics-from-china-to-russia-to-iran-what-pm-modis-15-bilateral-meetings-focused-on-explained-article-156154132",
-        "clean_url": "https://www.etnownews.com/news/brics-from-china-to-russia-to-iran-what-pm-modis-15-bilateral-meetings-focused-on-explained-article-156154132",
-        "image": "https://www.bing.com/th?id=ONUT.Qm-_CPza5lMWzlNnswoO4Q",
-        "timestamp": 1789281060.0
     }
 ]
