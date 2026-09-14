@@ -1,5 +1,24 @@
 [
     {
+        "id": "40d1c12d6a",
+        "title_fa": "حضور رئیس هسته‌ای ایران در آی‌ای‌ایه زیر سؤال",
+        "title_en": "Iran nuclear chief's IAEA appearance hangs in balance over travel ban",
+        "summary": [
+            "ممنوعیت سفر رئیس سازمان انرژی اتمی ایران، نشانه‌ای از فشار دیپلماتیک بین‌المللی است",
+            "آستریا نتوانست معافیتی برای حضور او بگیرد؛ این شکست حضور ایران در کنفرانس مهم هسته‌ای را به تعویق می‌اندازد",
+            "عدم حضور ایران در آی‌ای‌ایه، امکان کاهش شفافیت و تضعیف مذاکرات هسته‌ای را به همراه دارد"
+        ],
+        "impact": "مذاکرات هسته‌ای با غرب به تعویق می‌افتد و فشار دیپلماتیک بر ایران شدت می‌گیرد",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Economic Times",
+        "url": "https://www.msn.com/en-in/news/other/iran-nuclear-chief-s-iaea-appearance-hangs-in-balance-over-travel-ban/ar-AA2c9avQ",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-nuclear-chief-s-iaea-appearance-hangs-in-balance-over-travel-ban/ar-AA2c9avQ",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c92Xn.img?w=1200&h=900&m=4&q=65",
+        "timestamp": 1789351393.0
+    },
+    {
         "id": "3b041a5bb1",
         "title_fa": "خبر بین‌المللی — ایران says 1 killed در commercial ship در Strait هرمز; حوثی",
         "title_en": "Iran says 1 killed on commercial ship in Strait of Hormuz; Houthis target Saudi Arabia",
@@ -5540,25 +5559,5 @@
         "clean_url": "https://www.dailymail.com/debate/article-16124363/ANDREW-NEIL-Trump-doolally-bribe-mid-terms.html",
         "image": "https://www.bing.com/th?id=ONUT.6iifYsUmon6QDo3QV35P_A",
         "timestamp": 1789172953.3654413
-    },
-    {
-        "id": "2403c45888",
-        "title_fa": "بازارها اشتباه AI و تورم را می‌سازند",
-        "title_en": "Markets may be making a horrible miscalculation on AI and inflation",
-        "summary": [
-            "تحلیل‌گران می‌گویند بازارها هوش مصنوعی را بیش از حد ارزیابی کرده‌اند",
-            "کروگر پیش‌بینی فروش سالانه را کاهش داد و فشار هزینه‌ها را برجسته کرد",
-            "قیمت‌های بالای سوخت تقاضای مصرف‌کننده را به خریدهای ضروری محدود می‌کند",
-            "این ترکیب می‌تواند رشد سودآوری خرده‌فروشی را تحت فشار بگذارد"
-        ],
-        "impact": "کاهش ارزش سهام خرده‌فروشان و بازنگری سرمایه‌گذاران در استراتژی AI",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Australian Financial Review",
-        "url": "https://www.afr.com/chanticleer/markets-may-be-making-a-horrible-miscalculation-on-ai-and-inflation-20260912-p60wqy",
-        "clean_url": "https://www.afr.com/chanticleer/markets-may-be-making-a-horrible-miscalculation-on-ai-and-inflation-20260912-p60wqy",
-        "image": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/d7334828430bc7e2af7566803f9226d472cb6748",
-        "timestamp": 1789172269.975775
     }
 ]
