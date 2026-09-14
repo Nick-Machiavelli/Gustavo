@@ -1,5 +1,23 @@
 [
     {
+        "id": "c5b907af22",
+        "title_fa": "رئیس هسته‌ای ایران در کنفرانس آی‌ای‌ای‌ئی حضور نخواهد داشت",
+        "title_en": "Iran's nuclear chief not expected to attend IAEA General Conference, official says",
+        "summary": [
+            "عدم حضور رئیس هسته‌ای نشانه تشدید تنش‌های دیپلماتیک با جامعه بین‌المللی است",
+            "غیبت او فرصت مخالفان را برای فشار بیشتر بر برنامه هسته‌ای ایران فراهم می‌کند"
+        ],
+        "impact": "کاهش توان ایران برای دفاع از برنامه هسته‌ای در سطح بین‌المللی",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Times Union",
+        "url": "https://www.timesunion.com/news/world/article/iran-s-nuclear-chief-not-expected-to-attend-iaea-22430288.php",
+        "clean_url": "https://www.timesunion.com/news/world/article/iran-s-nuclear-chief-not-expected-to-attend-iaea-22430288.php",
+        "image": "https://s.hdnux.com/photos/01/67/25/47/31283671/3/rawImage.jpg",
+        "timestamp": 1789343040.0
+    },
+    {
         "id": "f012179318",
         "title_fa": "یترم؛ فلز نادیده‌ای که به نقطه‌جذب جهانی شد",
         "title_en": "How obscure yttrium became a global flashpoint",
@@ -5543,22 +5561,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/tucker-carlson-agrees-that-america-scarred-millions-of-people-after-911/ar-AA2c2WPp",
         "image": "https://www.bing.com/th?id=ONUT.ACVou23qP6dVMp9leAgRCg",
         "timestamp": 1789161716.6575012
-    },
-    {
-        "id": "95edf7b422",
-        "title_fa": "خبر بین‌المللی — Georgia’s ties with ایران have a limit",
-        "title_en": "Georgia’s ties with Iran have a limit",
-        "summary": [
-            "Tbilisi’s relationship with Tehran is not maintained at the expense of its ties to Washington."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The National Interest on MSN",
-        "url": "https://www.msn.com/en-us/news/other/georgia-s-ties-with-iran-have-a-limit/ar-AA2c3oLQ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/georgia-s-ties-with-iran-have-a-limit/ar-AA2c3oLQ",
-        "image": "https://www.bing.com/th?id=ONUT.pMocLnrXUzr1JBf4UYmqYg",
-        "timestamp": 1789161715.073156
     }
 ]
