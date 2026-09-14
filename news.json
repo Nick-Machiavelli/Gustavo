@@ -1,5 +1,39 @@
 [
     {
+        "id": "3b041a5bb1",
+        "title_fa": "خبر بین‌المللی — ایران says 1 killed در commercial ship در Strait هرمز; حوثی",
+        "title_en": "Iran says 1 killed on commercial ship in Strait of Hormuz; Houthis target Saudi Arabia",
+        "summary": [
+            "Iran claims one person was killed in an attack on one of its trade vessels in the Strait of Hormuz on Sunday as conflict escalates in Yemen."
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-updates-trump-hormuz-september-13",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-updates-trump-hormuz-september-13",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/494aa35b739e3458e217571acf17b1ac.jpg",
+        "timestamp": 1789349940.0
+    },
+    {
+        "id": "5c96322cf4",
+        "title_fa": "خبر بین‌المللی — اسرائیل sees deepening fractures در ایران as injured Khamene",
+        "title_en": "Israel sees deepening fractures in Iran as injured Khamenei leans on hard-line commanders",
+        "summary": [
+            "Israel sees deepening fractures in Iran as injured Khamenei leans on hard-line commanders Ynetnews"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSmQyOXp0dDFDcmJGUXlmWEZ4Y1UzZkx6cDZvMmpQYXViYnBybTBPbG8tU0JCS0JxSVdQTUZrcHc3d0ZPNVptN0x2NDBueDlwNHZXai13?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSmQyOXp0dDFDcmJGUXlmWEZ4Y1UzZkx6cDZvMmpQYXViYnBybTBPbG8tU0JCS0JxSVdQTUZrcHc3d0ZPNVptN0x2NDBueDlwNHZXai13",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789349761.0
+    },
+    {
         "id": "d99ad74c11",
         "title_fa": "خبر بین‌المللی — Don’t mistake noise around BRICS برای impact",
         "title_en": "Don’t mistake the noise around BRICS for impact",
@@ -5526,42 +5560,5 @@
         "clean_url": "https://www.standard.co.uk/news/politics/donald-trump-micheal-martin-northern-ireland-andy-burnham-kemi-badenoch-b1296772.html",
         "image": "https://www.bing.com/th?id=ONUT.a6Cp7jtFm93T-mYypZLdgA",
         "timestamp": 1789171449.0
-    },
-    {
-        "id": "18c91d8418",
-        "title_fa": "ایران به‌دلیل ردگیری اورانیوم به شورای امنیت ارجاع شد",
-        "title_en": "Iran faces new nuclear pressure from IAEA",
-        "summary": [
-            "آی‌اِی‌ئی‌ای برای اولین بار در ۲۰ سال ایران را به شورای امنیت ارجاع داد و عدم همکاری تهران را محکوم کرد",
-            "کشورهای غربی ردگیری اورانیوم را نشانه‌ای از برنامه سلاح هسته‌ای مخفی تا ۲۰۰۳ می‌دانند؛ ایران این ادعا را رد می‌کند",
-            "تحریم‌های جدید محتمل است اما روسیه و چین به‌عنوان اعضای دائم می‌توانند ویتو کنند"
-        ],
-        "impact": "فشار دیپلماتیک بر ایران بالا می‌رود و ریسک تحریم‌های جدید به‌خصوص مالی افزایش می‌یابد",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Malaysia Sun",
-        "url": "https://www.malaysiasun.com/news/279299211/iran-faces-new-nuclear-pressure-from-iaea",
-        "clean_url": "https://www.malaysiasun.com/news/279299211/iran-faces-new-nuclear-pressure-from-iaea",
-        "image": "https://image.chitra.live/api/v1/wps/399e513/adf22119-ec2f-4766-ab71-62e19e4438b7/1/6-Iran-nuclear-600x315.jpg",
-        "timestamp": 1789171260.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "رادیو ۱: ۲٫۰۵۶ میلیون بیننده در ساعت اوج",
-        "title_en": "TV ratings September 11, Antonella Clerici queen of Friday evening on Rai 1. Gerry Scotti beats De Martino again",
-        "summary": [
-            "«Jukebox – La Notte delle Hit» با ۲٫۰۵۶ میلیون بیننده ردهٔ اول پرایم‌تایم را برای رادیو ۱ به دست آورد",
-            "کانال ۵ با ۱٫۵۷۵ میلیون بیننده در رتبهٔ دوم باقی ماند؛ اختلاف سهم بازار حدود ۴ درصد است"
-        ],
-        "impact": "رقابت شدید بین رادیو ۱ و کانال ۵ تبلیغاتی را به سمت برنامه‌های پربیننده می‌کشاند",
-        "tag": "رسانه",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260912KRONOS-202609121330428928_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1789171140.0
     }
 ]
