@@ -1,5 +1,23 @@
 [
     {
+        "id": "14ae873312",
+        "title_fa": "جنگ ایران خلیج را به بازنگری امنیتی وادار کرد",
+        "title_en": "How the Iran War Forced the Gulf to Rethink Its Security",
+        "summary": [
+            "مرگ خامنئی و حضور یا عدم حضور کشورهای خلیج نشانگر تغییر تعادل منطقه‌ای است",
+            "هزینه‌های بیمه‌ جنگ بالا رفت و زیرساخت‌های انرژی هدف حملات شد"
+        ],
+        "impact": "امنیت انرژی خلیج و هزینه‌های بیمه‌ را تحت فشار شدید قرار می‌دهد",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Time · via Yahoo News",
+        "url": "https://www.yahoo.com/news/world/articles/iran-war-forced-gulf-rethink-100000205.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-war-forced-gulf-rethink-100000205.html",
+        "image": "https://media.zenfs.com/en/time_72/e90c893fb9e1aa2910872690640ce802.jpg",
+        "timestamp": 1789380022.0
+    },
+    {
         "id": "c69edd7fe2",
         "title_fa": "هند در برکس: پیروزی آرام در حفظ انسجام",
         "title_en": "In BRICS, India’s quiet triumph in how it passed the test of cohesion",
@@ -519,6 +537,24 @@
         "clean_url": "https://www.msn.com/en-us/money/general/iran-war-live-another-blow-to-peace-as-crucial-oman-talks-postponed/ar-AA2ca7bZ",
         "image": "http://www.bing.com/th?id=ONUT.4P_gmS7BJmQ0yDRmWaH_MQ&pid=News",
         "timestamp": 1789348329.0
+    },
+    {
+        "id": "2ee3a3ec54",
+        "title_fa": "هجوم سایبری ۹/۱۱ جدید به حساب‌های بانکی",
+        "title_en": "Jiang Xueqin: The Next 9/11 Will Target Your Bank Account, Not a Skyscraper",
+        "summary": [
+            "تحلیل‌گر می‌گوید کاهش پتردلار و شبکه‌های پروکسی ایران خطر حملات مالی سایبری را بالا می‌برد",
+            "این تهدید می‌تواند به سرقت اطلاعات مالی و نوسان بازارهای جهانی منجر شود"
+        ],
+        "impact": "بانک‌ها و کاربران ممکن است با سرقت داده‌های مالی و نوسان شدید بازار مواجه شوند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "finance.biggo",
+        "url": "https://finance.biggo.com/news/ed78d98c29106120",
+        "clean_url": "https://finance.biggo.com/news/ed78d98c29106120",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789348140.0
     },
     {
         "id": "fdd3fc91bd",
@@ -2272,6 +2308,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/the-uk-s-disastrous-decision-to-boycott-israel/ar-AA2c7qSU",
         "image": "https://www.bing.com/th?id=ONUT.4KprhK2XPlTPEgsmq8Tsvw",
         "timestamp": 1789293996.3394125
+    },
+    {
+        "id": "a13badd234",
+        "title_fa": "کاخ سفید به ترامپ آب و هوا را مدیون می‌داند",
+        "title_en": "The White House has found something new to credit Trump for: The weather",
+        "summary": [
+            "خبر بی‌اساس؛ وضعیت جوی به تصمیمات سیاسی ربطی ندارد",
+            "بیانیه سعی در جلب توجه به ترامپ دارد، نه ارائه واقعیت"
+        ],
+        "impact": "تأثیر عملی یا اقتصادی کم، فقط فضای رسانه‌ای را پر می‌کند",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Dagens.com on MSN",
+        "url": "https://www.msn.com/en-gb/politics/government/the-white-house-has-found-something-new-to-credit-trump-for-the-weather/ar-AA2car3z?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/politics/government/the-white-house-has-found-something-new-to-credit-trump-for-the-weather/ar-AA2car3z",
+        "image": "https://www.bing.com/th?id=ONUT.5i7j9Nn4A4jLOJ1ubMmX5w",
+        "timestamp": 1789293802.0
     },
     {
         "id": "a0c8dc4f48",
@@ -5507,60 +5561,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/opinion-can-india-mediate-a-truce-between-iran-and-uae-during-brics-summit/ar-AA2c4aG9",
         "image": "https://www.bing.com/th?id=ONUT.51ykh-9xul1-HK-URrg7zg",
         "timestamp": 1789202124.795985
-    },
-    {
-        "id": "3dd0b86a8d",
-        "title_fa": "ایران تشدید تنش را راهی ثمربخش برای اهرم فشار در جنگ با آمریکا می‌داند.",
-        "title_en": "Iran Finds Escalation Is a Fruitful Path to Leverage in War With U.S.",
-        "summary": [
-            "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-        "clean_url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-        "image": "http://www.bing.com/th?id=ONUT.8FIicr_9vmMB0WzROZqeRw&pid=News",
-        "timestamp": 1789201380.0
-    },
-    {
-        "id": "50015a5337",
-        "title_fa": "داستان سگ هریشی و واکنش به رسانه‌ها",
-        "title_en": "You Said It: Sept. 12, 2026",
-        "summary": [
-            "نویسنده به رفتار مثبت سگ هریشی که زباله‌ها را جمع می‌کند، تحسین می‌کند",
-            "او انتقاد می‌کند از پوشش خبری رسانه‌ای که به جای مسائل مهم، به دوربین‌های Flock می‌پردازد",
-            "این متن نشان می‌دهد که حتی در اخبار محلی، تضاد بین ارزش‌های شهروندی و sensationalism وجود دارد",
-            "درخواست نام‌گذاری مسیر پارک به‌نام هریشی، نمادی از تشویق رفتارهای مسئولانه است"
-        ],
-        "impact": "تشویق به رفتارهای محیط‌زیستی می‌تواند آگاهی عمومی را افزایش دهد؛ اما انتقاد از رسانه‌ها تأثیر کمی بر سیاست دارد",
-        "tag": "اجتماعی",
-        "urgency": 2,
-        "sentiment": 0.3,
-        "source": "The Grand Junction Daily Sentinel",
-        "url": "https://www.gjsentinel.com/opinion/you_said_it/you-said-it-sept-12-2026/article_2c256807-db00-4811-bdcf-7585779e74b1.html",
-        "clean_url": "https://www.gjsentinel.com/opinion/you_said_it/you-said-it-sept-12-2026/article_2c256807-db00-4811-bdcf-7585779e74b1.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/custom/image/b32d0574-1b24-11ec-a31e-77e4d5ecaec6.jpg?resize=600%2C315",
-        "timestamp": 1789200797.2059927
-    },
-    {
-        "id": "746c5ac0fa",
-        "title_fa": "جنگ شدید در جنوب‌شرقی ایران و تلفات نیروهای امنیتی",
-        "title_en": "Heavy fighting spreads in southeastern Iran, with security force casualties reported",
-        "summary": [
-            "درگیری‌های مسلحانه در استان‌های خوزستان و بوشهر به‌سرعت گسترش یافت و نیروهای امنیتی چند نفر را از دست دادند.",
-            "گزارش‌ها حاکی از حضور گروه‌های شبه‌نظامی محلی و احتمال تشدید درگیری‌های مرزی است."
-        ],
-        "impact": "ناآرامی‌های امنیتی در جنوب‌شرقی، تهدید به گسترش درگیری‌های داخلی",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "iranintl.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaXM5SUFsWndkZVdxaVNtVURYTHpuVnFkZlhzdXlJTDZxaHNzSVNobzduMjJCOWlhdHo4TkNIN3VzZmpYUGE5NlFXWTNGLUphMkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaXM5SUFsWndkZVdxaVNtVURYTHpuVnFkZlhzdXlJTDZxaHNzSVNobzduMjJCOWlhdHo4TkNIN3VzZmpYUGE5NlFXWTNGLUphMkE",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789200285.0
     }
 ]
