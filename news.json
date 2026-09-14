@@ -1,5 +1,25 @@
 [
     {
+        "id": "400ec967ac",
+        "title_fa": "ایران رد ویزای سرپرست آژانس هسته‌ای را نقض می‌داند",
+        "title_en": "Iran calls IAEA conference visa denial a serious breach of member rights",
+        "summary": [
+            "ایران به رد ویزای رئیس سازمان انرژی اتمی در کنفرانس IAEA اعتراض کرد",
+            "این اقدام را نقض جدی حقوق عضو می‌داند",
+            "تنش‌های دیپلماتیک با اتریش و ایالات متحده تشدید می‌شود",
+            "احتمال واکنش تندتر در مذاکرات هسته‌ای آینده وجود دارد"
+        ],
+        "impact": "تشدید تنش‌های هسته‌ای می‌تواند مذاکرات برجام را تحت فشار قرار دهد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "MSN",
+        "url": "https://www.msn.com/en-us/politics/government/iran-calls-iaea-conference-visa-denial-a-serious-breach-of-member-rights/ar-AA2cbbTx",
+        "clean_url": "https://www.msn.com/en-us/politics/government/iran-calls-iaea-conference-visa-denial-a-serious-breach-of-member-rights/ar-AA2cbbTx",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cb6u8.img?w=1200&h=675&m=4&q=91",
+        "timestamp": 1789388040.0
+    },
+    {
         "id": "70ce6108bd",
         "title_fa": "جبهه هشتم نتانیاهو: جنگ میلیاردی بر علیه حقیقت",
         "title_en": "Netanyahu's 'eighth front': Israel's billion-dollar war on the truth is failing",
@@ -2291,6 +2311,66 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zb1kzVFpiVEdBdDJ0c1l5YlBUbnhJLUg1QlBMdkJQUXFHLTR3RjBVQlFMNzhkdldNczZsWXVXWWp4eVU5Ny1PaVQ2QVdhMXk1WEZfa3NnRFR6d3lnbWFZNVJpajlpOXBKRVlaZ1FyVzJkcmpUbXFTLUN6TjBUcUE",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789304404.0
+    },
+    {
+        "id": "349212d5a0",
+        "title_fa": "تاخیر در صدور مجوز امنیتی شهردار نیویورک",
+        "title_en": "Mayor Mamdani still waiting on federal security clearance 8 months into office",
+        "summary": [
+            "شهردار ممدانی پس از ۸ ماه هنوز بدون دسترسی به اطلاعات طبقه‌بندی‌شده است",
+            "این تاخیر توان او برای واکنش به تهدیدات تروریستی را محدود می‌کند",
+            "بیل دِ بلازیو تأکید کرد هر شهردار باید اطلاعات کامل داشته باشد",
+            "رد درخواست می‌تواند به‌عنوان تضعیف اراده دموکراتیک شهروندان تلقی شود"
+        ],
+        "impact": "عدم دسترسی به اطلاعات طبقه‌بندی‌شده واکنش شهردار به بحران‌های امنیتی را کند می‌کند",
+        "tag": "امنیت",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "Gothamist",
+        "url": "https://gothamist.com/news/mayor-mamdani-still-waiting-on-federal-security-clearance-8-months-into-office",
+        "clean_url": "https://gothamist.com/news/mayor-mamdani-still-waiting-on-federal-security-clearance-8-months-into-office",
+        "image": "https://api-prod.gothamist.com/images/359137/fill-1200x650|format-webp|webpquality-85/",
+        "timestamp": 1789302642.0
+    },
+    {
+        "id": "86b30060cd",
+        "title_fa": "حوثی‌ها جزیره‌های استراتژیک دریای سرخ را تصرف کردند",
+        "title_en": "Houthis seize 2 strategic Red Sea islands, other Mideast developments",
+        "summary": [
+            "حوثی‌ها جزیره‌های بزرگ و کوچک حنیش را در دریای سرخ به‌دست آوردند",
+            "این گام توان کنترل مسیرهای تجاری مهم را به ایران نزدیک می‌کند",
+            "ایالات متحده و عربستان نگرانی‌های امنیتی خود را ابراز کردند",
+            "احتمال تشدید عملیات نظامی یا فشارهای دیپلماتیک در منطقه وجود دارد"
+        ],
+        "impact": "تصرف جزیره‌ها خطر بروز درگیری‌های دریایی و اختلال در تجارت بین‌المللی را افزایش می‌دهد",
+        "tag": "دریایی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "News18 on MSN",
+        "url": "https://www.msn.com/en-in/news/other/houthis-seize-2-strategic-red-sea-islands-other-mideast-developments/ar-AA2cbHS1?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/houthis-seize-2-strategic-red-sea-islands-other-mideast-developments/ar-AA2cbHS1",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789302642.0
+    },
+    {
+        "id": "db90c46b86",
+        "title_fa": "ترامپ درخواست کاهش سرعت هوش مصنوعی را رد کرد",
+        "title_en": "Trump brushes off calls for AI slowdown from tech CEOs",
+        "summary": [
+            "ترامپ نسبت به درخواست رهبران فناوری برای محدود کردن هوش مصنوعی بی‌توجهی کرد",
+            "او ادعا کرد نیروهای منفی بر صنعت فشار می‌آورند",
+            "این بیانیه می‌تواند نظارت قانونی را به تعویق بیندازد",
+            "جامعه فناوری نگران خطرات سوءاستفاده است"
+        ],
+        "impact": "رد درخواست کاهش سرعت هوش مصنوعی ممکن است نظارت قانونی را به تعویق بیندازد و خطر سوءاستفاده را بالا ببرد",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Richmond Times-Dispatch",
+        "url": "https://richmond.com/news/nation-world/government-politics/article_00cefa71-13f9-5aef-bc1c-98f40ec877bc.html",
+        "clean_url": "https://richmond.com/news/nation-world/government-politics/article_00cefa71-13f9-5aef-bc1c-98f40ec877bc.html",
+        "image": "https://www.bing.com/th?id=ONUT.dTyyBEetbHWu4XlhP0Em7g",
+        "timestamp": 1789302642.0
     },
     {
         "id": "4f1385472a",
@@ -5475,79 +5555,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war/ar-AA2c7a7F",
         "image": "https://www.bing.com/th?id=ONUT._6fX3vDhR69uxC1yJDiQsA",
         "timestamp": 1789217488.0
-    },
-    {
-        "id": "8038ea558b",
-        "title_fa": "بحران هسته‌ای ایران به مرحله جدیدی رسیده",
-        "title_en": "Iran's Nuclear Crisis Enters a New Phase",
-        "summary": [
-            "تحولات جدید نشان‌دهنده پیشرفت برنامه هسته‌ای یا واکنش بین‌المللی است",
-            "احتمال افزایش تحریم‌ها یا اقدام‌ها نظامی می‌افزاید",
-            "منطقه با ریسک بالاتر امنیتی مواجه می‌شود"
-        ],
-        "impact": "افزایش تنش می‌تواند بازار انرژی و امنیت منطقه را تحت فشار قرار دهد",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "RealClearWorld",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUs3d0NJbS1TNW1wc3B4YUxydFVlR0YxS2V4OGVrRDgyQi14UzRyRnNleDVqOTh2cW5sb2lUQXRIOVBFb3E5WGtSMGZSTERhNERZU09weUZhaVdtcjFaejk2YkVRVUdvTS1aMkxtOHFhRmxLMTdqNlJXWW1kaXRhVjAwUUh5RHdBbXlYZU8teEstYjVoekZvQVhUeXpzdjBuMG1wd3BB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUs3d0NJbS1TNW1wc3B4YUxydFVlR0YxS2V4OGVrRDgyQi14UzRyRnNleDVqOTh2cW5sb2lUQXRIOVBFb3E5WGtSMGZSTERhNERZU09weUZhaVdtcjFaejk2YkVRVUdvTS1aMkxtOHFhRmxLMTdqNlJXWW1kaXRhVjAwUUh5RHdBbXlYZU8teEstYjVoekZvQVhUeXpzdjBuMG1wd3BB",
-        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789217050.0
-    },
-    {
-        "id": "3413cacba8",
-        "title_fa": "این چگونه دروغ رشوه خواری ترامپ است",
-        "title_en": "This Is How To Frame Trump's Bribe Lie",
-        "summary": [
-            "Political writer Mona Burns called Trump’s promise an outright “bribe,” noting that violation of 18 U.S. Code § 597 is “punishable by fine or imprisonment of not more than one year,” and political..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Crooks and Liars",
-        "url": "https://crooksandliars.com/2026/09/how-frame-trumps-bribe-lie",
-        "clean_url": "https://crooksandliars.com/2026/09/how-frame-trumps-bribe-lie",
-        "image": "https://crooksandliars.com/files/primary_image/26/09/engin-akyurt-wfvvqj48kea-unsplash.jpg",
-        "timestamp": 1789216766.2862642
-    },
-    {
-        "id": "5ca81529ca",
-        "title_fa": "برکس و عمان: دول خلیج برای فاز جدید ایران آماده‌اند",
-        "title_en": "BRICS, Oman talks reveal how Gulf states are preparing for Iran’s next phase",
-        "summary": [
-            "برکس در هند برگزار شد و کشورهای عضو به بررسی راهکارهای اقتصادی برای خلیج پرداختند",
-            "عمان مذاکراتی با ایران برای تنظیم مسیرهای جدید کشتی‌ها در خلیج برگزار کرد",
-            "تحلیل‌گران می‌گویند این گام‌ها نشان از آمادگی دول خلیج برای مقابله با فشارهای ایالات متحده و ایران دارد"
-        ],
-        "impact": "همکاری برکس و عمان می‌تواند راه‌حل‌های اقتصادی جایگزین برای خلیج فراهم کند و نقش ایران را در منطقه محدود کند",
-        "tag": "برکس",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/brics-oman-talks-reveal-how-gulf-states-are-preparing-for-iran-s-next-phase/ar-AA2c5vNs",
-        "clean_url": "https://www.msn.com/en-us/news/other/brics-oman-talks-reveal-how-gulf-states-are-preparing-for-iran-s-next-phase/ar-AA2c5vNs",
-        "image": "http://www.bing.com/th?id=ONUT.9k3w5cpnsROIlRgu5boCHQ&pid=News",
-        "timestamp": 1789216423.0
-    },
-    {
-        "id": "384b2eb2f4",
-        "title_fa": "ترامپ: جنگ ایران «سیب‌زمینی کوچک»",
-        "title_en": "Letter: 18 dead no ‘small potatoes’",
-        "summary": [
-            "ترامپ ادعا می‌کند هزینه ۲ میلیارد دلار روزانه و ۱۸ کشته «سیب‌زمینی کوچک» است",
-            "بی‌توجهی به تلفات نظامی واکنش‌های انتقادی داخلی و بین‌المللی را برانگیخته",
-            "مقایسه با بنغازی نشان‌دهنده نادیده گرفتن ریسک‌های استراتژیک است"
-        ],
-        "impact": "بی‌احترامی به تلفات نظامی می‌تواند فشار داخلی بر دولت آمریکا را افزایش دهد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Times-Tribune",
-        "url": "https://www.thetimes-tribune.com/2026/09/12/letter-18-dead-no-small-potatoes/",
-        "clean_url": "https://www.thetimes-tribune.com/2026/09/12/letter-18-dead-no-small-potatoes",
-        "image": "https://www.thetimes-tribune.com/wp-content/uploads/2024/10/Times-Tribune2.jpg",
-        "timestamp": 1789215986.6519876
     }
 ]
