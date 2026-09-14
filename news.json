@@ -501,6 +501,26 @@
         "timestamp": 1789348388.304358
     },
     {
+        "id": "089d622f52",
+        "title_fa": "مذاکرات عمان به تعویق، ادعای ترامپ؛ نفت به ۱۰۷ دلار",
+        "title_en": "Iran war live: Another blow to peace as crucial Oman talks postponed",
+        "summary": [
+            "مذاکرات بحرانی میان عمان و ایران به دلیل ادعای ترامپ دربارهٔ نفت هرمز به تعویق افتاد",
+            "هوتی‌ها حملات جدیدی به عربستان انجام دادند؛ قیمت نفت به بالای ۱۰۷ دلار رسید",
+            "تعلیق مذاکرات نشان‌دهندهٔ تنش‌های دیپلماتیک در مسیر حل‌وفصل بحران است",
+            "عقب‌نشینی دیپلماتیک می‌تواند بازار انرژی را ناآرام‌تر کند"
+        ],
+        "impact": "تعطیلی مذاکرات صلح؛ نوسان شدید قیمت نفت و ریسک گسترش درگیری",
+        "tag": "دیپلوماسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/money/general/iran-war-live-another-blow-to-peace-as-crucial-oman-talks-postponed/ar-AA2ca7bZ",
+        "clean_url": "https://www.msn.com/en-us/money/general/iran-war-live-another-blow-to-peace-as-crucial-oman-talks-postponed/ar-AA2ca7bZ",
+        "image": "http://www.bing.com/th?id=ONUT.4P_gmS7BJmQ0yDRmWaH_MQ&pid=News",
+        "timestamp": 1789348329.0
+    },
+    {
         "id": "fdd3fc91bd",
         "title_fa": "ایران تجارت دریایی را به مسیرهای زمینی می‌سپارد",
         "title_en": "Can Iran replace sea trade with land routes?",
@@ -2305,6 +2325,46 @@
         "clean_url": "https://edition.cnn.com/2026/09/13/politics/iran-gulf-countries-strait-of-hormuz",
         "image": "http://www.bing.com/th?id=ONUT.lXAUABWOifN1tNxdp17IAg&pid=News",
         "timestamp": 1789293600.0
+    },
+    {
+        "id": "8903a57516",
+        "title_fa": "ادعای شلیک هواپیمای MQ-1 توسط سپاه در هرمز",
+        "title_en": "Fact Check: Did Iran shoot down a US MQ-1 drone over the Strait of Hormuz?",
+        "summary": [
+            "سپاه اعلام کرد هواپیمای MQ-1 آمریکا را در هرمز نابود کرده است",
+            "هیچ منبع مستقل تأیید نکرده؛ احتمال استفاده برای جنگ روانی وجود دارد",
+            "در صورت صحت، فشار نظامی آمریکا بر خلیج افزایش می‌یابد",
+            "واشنگتن ممکن است درخواست بررسی و پاسخ نظامی بدهد"
+        ],
+        "impact": "افزایش تنش‌های نظامی خلیج؛ احتمال پاسخ نظامی آمریکا",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "MEAWW News",
+        "url": "https://news.meaww.com/fact-check-did-iran-shoot-down-a-us-mq-1-drone-over-the-strait-of-hormuz",
+        "clean_url": "https://news.meaww.com/fact-check-did-iran-shoot-down-a-us-mq-1-drone-over-the-strait-of-hormuz",
+        "image": "https://dxltb3n5j8l6j.cloudfront.net/817016/uploads/397ed7b0-b012-11f1-9681-1b2ce136eaf3_1200_630.jpeg",
+        "timestamp": 1789292634.0
+    },
+    {
+        "id": "700d8d61c3",
+        "title_fa": "قیمت نفت پس از حملهٔ شورشیان به خط لوله",
+        "title_en": "Middle East latest: Oil prices rise after Iran-backed rebels strike pipeline",
+        "summary": [
+            "گروه‌های حامی ایران به خط لوله نفتی حمله کردند و خسارت جزئی وارد شد",
+            "بازار جهانی نفت به‌سرعت واکنش داد و قیمت‌ها افزایشی شد",
+            "این حادثه نشان می‌دهد زیرساخت‌های انرژی منطقه همچنان هدف حملات است",
+            "اگر حملات ادامه یابد، فشار بر کشورهای مصرف‌کننده نفت افزایش می‌یابد"
+        ],
+        "impact": "قیمت نفت جهانی بالا می‌رود؛ فشار بر اقتصادهای مصرف‌کننده",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Sky",
+        "url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
+        "clean_url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789292634.0
     },
     {
         "id": "f86522d730",
@@ -5502,61 +5562,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPaXM5SUFsWndkZVdxaVNtVURYTHpuVnFkZlhzdXlJTDZxaHNzSVNobzduMjJCOWlhdHo4TkNIN3VzZmpYUGE5NlFXWTNGLUphMkE",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789200285.0
-    },
-    {
-        "id": "1da04b1873",
-        "title_fa": "ترامپ تهدید ۱۰٪ تعرفه به کشورهای برکس",
-        "title_en": "Trump may be BRICS’s best recruitment agent",
-        "summary": [
-            "ترامپ با تهدید تعرفه ۱۰٪، فشار اقتصادی مستقیم بر اعضای برکس اعمال می‌کند.",
-            "این فشار ممکن است کشورهای برکس را به دور شدن از بازارها و نظام مالی آمریکا سوق دهد."
-        ],
-        "impact": "افزایش هزینه‌های صادراتی برکس و تشدید تنش‌های تجاری بین‌المللی",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent",
-        "clean_url": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent",
-        "image": "https://www.bing.com/th?id=ONUT.1mebSoMA3OHedZ11AqARig",
-        "timestamp": 1789200219.735389
-    },
-    {
-        "id": "4686ab237f",
-        "title_fa": "ایران و حوثی‌ها از Claude برای موشک‌های اف‌سریع استفاده کردند",
-        "title_en": "Iran and Houthi rebels used Anthropic's Claude AI to target US warships, build hypersonic missiles",
-        "summary": [
-            "ادعای استفاده از هوش مصنوعی Claude برای هدف‌گیری ناوهای آمریکایی منتشر شد.",
-            "اگر صحت داشته باشد، خطر ارتقای توان نظامی به‌سرعت افزایش می‌یابد."
-        ],
-        "impact": "نیروهای دریایی آمریکا ممکن است برای مقابله با تهدیدات جدید مسیرهای عملیاتی خود را تغییر دهند",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Tom's Hardware on MSN",
-        "url": "https://www.msn.com/en-us/technology/artificial-intelligence/iran-and-houthi-rebels-used-anthropic-s-claude-ai-to-target-us-warships-build-hypersonic-missiles/ar-AA2c5D74",
-        "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/iran-and-houthi-rebels-used-anthropic-s-claude-ai-to-target-us-warships-build-hypersonic-missiles/ar-AA2c5D74",
-        "image": "http://www.bing.com/th?id=ONUT.b3yG0bldS9IcFJoEXyptTQ&pid=News",
-        "timestamp": 1789200190.0
-    },
-    {
-        "id": "9996327ef5",
-        "title_fa": "ایران و حوثی‌ها از Claude برای هدف‌گیری ناوهای آمریکایی استفاده کردند",
-        "title_en": "Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles — Houthi rebels also used the bot to code ballistic missile guidance systems",
-        "summary": [
-            "گروه‌های مرتبط با ایران مدل هوش مصنوعی آمریکایی را برای تحلیل داده‌های نظامی به کار بردند",
-            "ترکیب شناسه‌های ترانسپوندر و تصاویر ماهواره‌ای برای ردیابی ناوهای آمریکا انجام شد",
-            "هوش مصنوعی برای کدگذاری راهنمای موشک‌های بالستیک استفاده شد",
-            "خطر ارتقای توان نظامی غیرقابل پیش‌بینی افزایش یافت"
-        ],
-        "impact": "تهدید مستقیم به ناوهای آمریکایی در خلیج فارس بالا می‌رود",
-        "tag": "فناوری",
-        "urgency": 7,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/iran-houthi-rebels-used-anthropics-150310341.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/iran-houthi-rebels-used-anthropics-150310341.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/239f0f42c224a697d9cecce052ffaa713eaa06547ab939922abf706ad4a07273/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2F90f95816dbfbe3a16c1cfb11aa87372e.jpg",
-        "timestamp": 1789200180.0
     }
 ]
