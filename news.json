@@ -2804,6 +2804,25 @@
         "timestamp": 1789343880.0
     },
     {
+        "id": "f757f858e6",
+        "title_fa": "تحریم بانک روسی VTB برای فشار بر ایران",
+        "title_en": "US slaps sanctions on key Russian bank to put pressure on Iran",
+        "summary": [
+            "ایالات متحده بانک VTB را به دلیل کمک به دور زدن تحریم‌ها و تأمین مالی تروریسم هدف گرفت",
+            "این اقدام باعث مسدود شدن تمام دارایی‌های VTB در آمریکا و قطع تراکنش‌های مرتبط شد",
+            "تحریم جدید نشان می‌دهد فشار اقتصادی آمریکا بر ایران از طریق هم‌پیمانان روسیه تقویت می‌شود"
+        ],
+        "impact": "سرمایه‌گذاری‌های آمریکایی در VTB مسدود شد؛ فشار مالی بر ایران شدیدتر شد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/us-slaps-sanctions-key-russian-224830789.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/us-slaps-sanctions-key-russian-224830789.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/4913dce8f2b2732e61ca28e022e033a34d20c45625b660832455ab3faa94df38/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F82f0bd19d87f896010cf6b887218eb07.jpg",
+        "timestamp": 1789343296.0
+    },
+    {
         "id": "c5b907af22",
         "title_fa": "رئیس هسته‌ای ایران در کنفرانس آی‌ای‌ای‌ئی حضور نخواهد داشت",
         "title_en": "Iran's nuclear chief not expected to attend IAEA General Conference, official says",
@@ -5430,24 +5449,5 @@
         "clean_url": "https://www.aol.com/articles/jimmy-kimmel-recaps-nation-summer-095400000.html",
         "image": "https://www.bing.com/th?id=ONUT.bMgf54SkchYysQXgUso80A",
         "timestamp": 1789297381.7854264
-    },
-    {
-        "id": "c32ddfc194",
-        "title_fa": "انرژی هسته‌ای: خبر ترسناک اما بازار خوشحال",
-        "title_en": "Nuclear Power: The Terrifying News That’s Great For The Market",
-        "summary": [
-            "مقاله فوربس می‌گوید نگرانی‌های هسته‌ای به نفع قیمت‌های انرژی می‌چرخد",
-            "سرمایه‌گذاران به دلیل تقاضای ثابت انرژی، به بازار هسته‌ای گرایش پیدا کرده‌اند",
-            "این روند ممکن است سرمایه‌گذاری در پروژه‌های نوین را تقویت کند"
-        ],
-        "impact": "قیمت‌های انرژی در بازارهای جهانی ممکن است تثبیت یا رشد کند",
-        "tag": "هسته‌ای",
-        "urgency": 3,
-        "sentiment": 0.3,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/digital-assets/2026/09/13/nuclear-power-the-terrifying-news-thats-great-for-the-market/",
-        "clean_url": "https://www.forbes.com/sites/digital-assets/2026/09/13/nuclear-power-the-terrifying-news-thats-great-for-the-market",
-        "image": "https://www.bing.com/th?id=ONUT.6QAxt44T63U2VTal-9K8fw",
-        "timestamp": 1789297381.7846873
     }
 ]
