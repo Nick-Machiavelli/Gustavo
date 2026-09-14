@@ -1,5 +1,23 @@
 [
     {
+        "id": "f7d9b88339",
+        "title_fa": "متن مبهم چک دربارهٔ حملهٔ ۲۰۲۶",
+        "title_en": "Osmdesát let bomb, ropy a CIA: Byl útok na WTC a válka Epic Fury 2026 odvetou?",
+        "summary": [
+            "متن ارائه‌شده حاوی اطلاعات نامفهوم و بی‌ربط به حوادث واقعی است؛ به‌نظر می‌رسد یک مقالهٔ تبلیغاتی یا اشتباه چاپی باشد.",
+            "به دلیل عدم وجود منبع معتبر، نمی‌توان به‌عنوان خبر قابل استناد در نظر گرفت."
+        ],
+        "impact": "هیچ تأثیر عملی یا اقتصادی ملموسی ندارد.",
+        "tag": "غیرقابل‌اعتماد",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "ParlamentníListy.cz",
+        "url": "https://www.parlamentnilisty.cz/profily/clanek.aspx?id=147156",
+        "clean_url": "https://www.parlamentnilisty.cz/profily/clanek.aspx",
+        "image": "https://www.bing.com/th?id=ONUT.28NCmVSo3K3lifZR8iQArw",
+        "timestamp": 1789428097.558503
+    },
+    {
         "id": "fd0eb2c9c2",
         "title_fa": "BRICS خواستار اصلاح نظام مالی جهانی",
         "title_en": "BRICS leaders urge global financial system reform, but does it avoid the Thucydides trap?",
@@ -642,6 +660,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CM3lwVkFyQkZZYzdSTFBqUUwzR20td3daRjdXdXlWSVN1SFhXeWd6MWlBZHRDU3dndTBheXUxbG5NYWY0UXV4LXlNbXpTbjVkTFp3SDNZZ3ZKNUxGTWhXdlJLb1RoejFFNVVtaHk5UnpEZEd2LVRaUlFKX2NwcVE",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789401605.0
+    },
+    {
+        "id": "39b3d94a85",
+        "title_fa": "سنتکام ادعای مین‌زدگی سپاه را رد کرد",
+        "title_en": "سنتکام ادعای سپاه درباره برخورد یک نفتکش با مین در تنگه هرمز را تکذیب کرد: حمله پهپادی بود",
+        "summary": [
+            "سنتکام اعلام کرد که نفتکش مورد ادعای سپاه پاسداران در تنگه هرمز به‌دلیل حملهٔ پهپادی آسیب دیده، نه به‌دلیل مین.",
+            "این رد ادعا نشان می‌دهد که اطلاعات نظامی سپاه در زمان بحران‌های منطقه‌ای ممکن است دستکاری شود."
+        ],
+        "impact": "تنش‌های نظامی در تنگه هرمز کاهش می‌یابد اما اعتماد به بیانیه‌های سپاه تحت سؤال است.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609144622",
+        "clean_url": "https://www.iranintl.com/202609144622",
+        "image": "http://www.bing.com/th?id=ONUT.9K8kXDLEreSGWDObvmTj7g&pid=News",
+        "timestamp": 1789401480.0
     },
     {
         "id": "35ba518da7",
@@ -2769,6 +2805,42 @@
         "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/how-obscure-yttrium-became-global-flashpoint-2026-09-13",
         "image": "https://www.reuters.com/resizer/v2/PJRNWBBVTJI4FJIVCXKLDEBEOY.jpg?auth=ccb26cc7b8613f8304bda94d4d9a79c5164785f0772329c02ae069ba8e728a4f&height=1005&width=1920&quality=80&smart=true",
         "timestamp": 1789342425.8344405
+    },
+    {
+        "id": "5e140ee073",
+        "title_fa": "نرخ بازده ۱۰ سالهٔ خزانه‌داری به ۵٪ رسید",
+        "title_en": "10-year Treasury yield hits 5%, critical threshold for US economy and markets",
+        "summary": [
+            "بازده ۱۰ سالهٔ اوراق دولتی آمریکا برای اولین بار به ۵٪ رسید؛ سطحی که پیش از آن بازارها نگران رشد تورم بودند.",
+            "این سطح می‌تواند هزینه استقراض دولت و شرکت‌ها را بالا ببرد و فشار بر بازارهای سهام و مسکن را تشدید کند."
+        ],
+        "impact": "قیمت وام‌های مسکن و هزینه‌های دولتی در کوتاه‌مدت افزایش می‌یابد.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/10-year-treasury-yield-hits-5-critical-threshold-for-us-economy-and-markets/ar-AA2cbwVm?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/10-year-treasury-yield-hits-5-critical-threshold-for-us-economy-and-markets/ar-AA2cbwVm",
+        "image": "https://www.bing.com/th?id=ONUT.sIRR08xWFDwJzDQXXOSmsg",
+        "timestamp": 1789341690.0
+    },
+    {
+        "id": "499fee7171",
+        "title_fa": "ترامپ نامزد سفیر باربادوس را معرفی کرد",
+        "title_en": "Trump nominates wife of ‘God Bless the USA’ singer Lee Greenwood to serve as US ambassador",
+        "summary": [
+            "ترامپ همسر خوانندهٔ «God Bless the USA»، کیمبرلی گرین‌وود را برای سفارت باربادوس و کارائیب شرقی نامزد کرد.",
+            "این انتصاب نشان از ادامهٔ استفادهٔ ترامپ از شخصیت‌های حامی‌اش برای تقویت روابط دیپلماتیک می‌دهد."
+        ],
+        "impact": "تقویت روابط تجاری و فرهنگی ایالات متحده با کشورهای کارائیب در پیش است.",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Cañon City Daily Record",
+        "url": "https://www.canoncitydailyrecord.com/2026/09/14/trump-greenwood-nominations/",
+        "clean_url": "https://www.canoncitydailyrecord.com/2026/09/14/trump-greenwood-nominations",
+        "image": "https://www.bing.com/th?id=ONUT.8zQlDBN1XQ_he3P3NSfW0Q",
+        "timestamp": 1789341690.0
     },
     {
         "id": "ea20311d67",
@@ -5383,79 +5455,5 @@
         "clean_url": "https://www.msn.com/en-gb/money/economy/doncaster-petrol-prices-on-the-rise-again-due-to-middle-east-crisis/ar-AA2cbff9",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789295790.0
-    },
-    {
-        "id": "50c7a10f5b",
-        "title_fa": "بحران اخلاقی صهیونیسم: سرنوشت گروگان‌ها",
-        "title_en": "Is Zionism’s Moral Crisis About Roads Not Taken—or Original Sin?",
-        "summary": [
-            "آمریکایی‌های یهودی به دو دسته تقسیم شده‌اند: برخی برای آزادی تمام گروگان‌ها جنگ را ادامه می‌دهند، دیگران به هزینهٔ فلسطینیان اهمیت می‌دهند.",
-            "در داخل اسرائیل، اکثر مردم می‌پذیرند نتانیجه برای حفظ ائتلاف راست‑گرای خود جنگ را طولانی می‌کند و آتش‌بس بهترین راه برای رهایی گروگان‌هاست."
-        ],
-        "impact": "فشار داخلی بر نتانیجه برای اعلام آتش‌بس افزایش می‌یابد و ممکن است موضع سیاسی او را تغییر دهد",
-        "tag": "غزه",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "The New Yorker",
-        "url": "https://www.newyorker.com/magazine/2026/09/21/anti-zionism-benjamin-moser-book-review",
-        "clean_url": "https://www.newyorker.com/magazine/2026/09/21/anti-zionism-benjamin-moser-book-review",
-        "image": "https://www.bing.com/th?id=ONUT.AIEv0s6veSYdMa-zI6LtHQ",
-        "timestamp": 1789295192.7598805
-    },
-    {
-        "id": "2a6a1da84b",
-        "title_fa": "سپاه پاسداران ادعای ترامپ درباره کنترل هرمز را رد کرد",
-        "title_en": "Iran’s Revolutionary Guards reject Trump’s claim of US control over Strait of Hormuz",
-        "summary": [
-            "ترامپ ادعا کرد ایالات متحده کنترل استراتژیک خلیج‌فارس را دارد؛ سپاه پاسداران این حرف را نادرست خواند.",
-            "این رد ادعا نشان می‌دهد تنش‌های گفتاری بین آمریکا و ایران همچنان بالا است و هر دو طرف سعی در حفظ تصویر قدرت دارند."
-        ],
-        "impact": "احتمال افزایش تنش‌های دریایی و واکنش‌های دیپلماتیک منطقه‌ای در مسیر حمل و نقل نفت",
-        "tag": "استراتژیک",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbzZRNXl1azQzSUtlelhjclBWQkNBUUJhcnFtTUlTbU9GYm1kSy03RHdwZWYzbUl3eVBhWDkycFZvTEhNTHoxeWpqc1UyeXY3QWxYYVBDRHo1MzdWVmtMblZBbWFLSVc3SndhXzlDS3lHMGFkZ0U3NXNJQzBzV2JaS3pSOVhPNGw3YkU5WG53bHNHSm9FRzA0SlNBdlFEa1Q0eVJtYjN0MjQ2cjRMRDFBZUZYcmcyVnJUVDMtNFFhTm1jZEhzNEdOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbzZRNXl1azQzSUtlelhjclBWQkNBUUJhcnFtTUlTbU9GYm1kSy03RHdwZWYzbUl3eVBhWDkycFZvTEhNTHoxeWpqc1UyeXY3QWxYYVBDRHo1MzdWVmtMblZBbWFLSVc3SndhXzlDS3lHMGFkZ0U3NXNJQzBzV2JaS3pSOVhPNGw3YkU5WG53bHNHSm9FRzA0SlNBdlFEa1Q0eVJtYjN0MjQ2cjRMRDFBZUZYcmcyVnJUVDMtNFFhTm1jZEhzNEdOZw",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789295104.0
-    },
-    {
-        "id": "657f8e3575",
-        "title_fa": "ستون‌نویس Fortune جنگ 1812 را به تنش آمریکا‑ایران مقایسه کرد",
-        "title_en": "Fortune columnist compares the War of 1812 to the US-Iran conflict",
-        "summary": [
-            "مقایسه تاریخی سعی دارد الگوهای تکراری فشارهای آمریکا بر ایران را نشان دهد",
-            "اشاره به خطر تشدید تحریم‌ها و احتمال درگیری نظامی در صورت ادامه تنش",
-            "تحلیل می‌کند که آمریکا ممکن است ابزارهای اقتصادی و نظامی را ترکیب کند",
-            "با این حال تفاوت‌های ساختاری ایران مانع تکرار دقیق جنگ 1812 می‌شود"
-        ],
-        "impact": "افزایش نگرانی عمومی و فشار دیپلماتیک بر دولت‌ها برای جلوگیری از تشدید تنش",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "ua.news",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOVA3X0s0RW5ldGpBUHBZWkxJNmJEdURCN2gtcUgzZlRiSWVGV3doUnlXLWFYRHV3QzZSOXpYdnM0TVpKc2ZaVl9Ndy0tWDhfZndDSnpNaTUtUlFHM1p3VUxsdmwwMUp0aktvYVJpX3ZtZHBLR2hzckpqd2RlaHAxU2FXQ0N2U0oyWDVtOHg0TlFIOGpwc05WcEcxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOVA3X0s0RW5ldGpBUHBZWkxJNmJEdURCN2gtcUgzZlRiSWVGV3doUnlXLWFYRHV3QzZSOXpYdnM0TVpKc2ZaVl9Ndy0tWDhfZndDSnpNaTUtUlFHM1p3VUxsdmwwMUp0aktvYVJpX3ZtZHBLR2hzckpqd2RlaHAxU2FXQ0N2U0oyWDVtOHg0TlFIOGpwc05WcEcxWQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789295027.0
-    },
-    {
-        "id": "8397ec1980",
-        "title_fa": "وینس فقط نگهبان کالت ترامپ",
-        "title_en": "JD Vance will only ever be a caretaker to the cult of Trump",
-        "summary": [
-            "مقاله می‌گوید کالت مگا‑گا به‌سختی می‌تواند بدون ترامپ ادامه یابد",
-            "وینس به‌عنوان جانشین بی‌جاذبه توصیف می‌شود؛ ریسک تضعیف پایه حزبی"
-        ],
-        "impact": "احتمال تداوم تقسیم داخلی جمهوری‌خواهان و کاهش توان رقابتی در انتخابات آینده",
-        "tag": "سیاست داخلی",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "ms",
-        "url": "https://www.ms.now/opinion/jd-vance-trumpapalooza-gop-convention-speech",
-        "clean_url": "https://www.ms.now/opinion/jd-vance-trumpapalooza-gop-convention-speech",
-        "image": "https://www.ms.now/wp-content/uploads/2026/09/260910-rnc-republican-national-convention-midterm-election-gop-dallas-texas-tx-gov-vice-president-vp-jd-vance-speech-es.webp?crop=0px,54px,1600px,840px&w=1200&h=630",
-        "timestamp": 1789294739.6514056
     }
 ]
