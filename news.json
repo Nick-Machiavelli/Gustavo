@@ -1,5 +1,24 @@
 [
     {
+        "id": "fd0eb2c9c2",
+        "title_fa": "BRICS خواستار اصلاح نظام مالی جهانی",
+        "title_en": "BRICS leaders urge global financial system reform, but does it avoid the Thucydides trap?",
+        "summary": [
+            "چین و هم‌پیمانان BRICS به سرعت به سمت حذف دلار پیش می‌روند تا استقلال مالی‌ خود را تقویت کنند",
+            "این حرکت می‌تواند رقابت ژئوپولیتیک با آمریکا را تشدید کند و خطر «تله ثوسییدیس» را بالا ببرد",
+            "عدم هماهنگی داخلی و فشار تحریم‌های غربی مانع تحقق سریع این طرح می‌شود"
+        ],
+        "impact": "کاهش نفوذ دلار و تقویت توان مالی چین، فشار بر سیاست‌های اقتصادی ایالات متحده",
+        "tag": "مالی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Daily Maverick on MSN",
+        "url": "https://www.msn.com/en-za/money/economy/brics-leaders-urge-global-financial-system-reform-but-does-it-avoid-the-thucydides-trap/ar-AA2cdguG?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-za/money/economy/brics-leaders-urge-global-financial-system-reform-but-does-it-avoid-the-thucydides-trap/ar-AA2cdguG",
+        "image": "https://www.bing.com/th?id=ONUT.rIgiRoAyncdSPqvgBi1CQw",
+        "timestamp": 1789427530.2740512
+    },
+    {
         "id": "acd26b4425",
         "title_fa": "تحریم آمریکا بر بانک روسی VTB به دلیل ایران",
         "title_en": "US hits major Russian bank VTB with Iran-linked sanctions",
@@ -5438,23 +5457,5 @@
         "clean_url": "https://www.ms.now/opinion/jd-vance-trumpapalooza-gop-convention-speech",
         "image": "https://www.ms.now/wp-content/uploads/2026/09/260910-rnc-republican-national-convention-midterm-election-gop-dallas-texas-tx-gov-vice-president-vp-jd-vance-speech-es.webp?crop=0px,54px,1600px,840px&w=1200&h=630",
         "timestamp": 1789294739.6514056
-    },
-    {
-        "id": "c75707d53e",
-        "title_fa": "سخنرانی ترامپ درباره نشست چین‑آمریکا",
-        "title_en": "Lyle Goldstein: How President Donald Trump’s summit with China’s Xi Jinping can yield dividends",
-        "summary": [
-            "ترامپ با ضعف ناشی از جنگ ایران وارد مذاکرات می‌شود",
-            "سعی دارد چارچوب «ثبات سازنده» را تقویت کند تا فشار بر چین کاهش یابد"
-        ],
-        "impact": "احتمال کاهش تنش‌های تجاری و حفظ مسیر دیپلماتیک در آسیا",
-        "tag": "جیوپلیتیک",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/2026/09/13/opinion-us-china-summit-donald-trump-xi-jinping/",
-        "clean_url": "https://www.chicagotribune.com/2026/09/13/opinion-us-china-summit-donald-trump-xi-jinping",
-        "image": "https://www.bing.com/th?id=ONUT.zSJR_S3eU4y3RRAPejRXpg",
-        "timestamp": 1789294739.6509676
     }
 ]
