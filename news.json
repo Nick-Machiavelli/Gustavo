@@ -3070,6 +3070,25 @@
         "timestamp": 1789430280.0
     },
     {
+        "id": "ed533d5521",
+        "title_fa": "پنتاگون بدون تصویب کنگره هزینه جنگ ایران را می‌پردازد",
+        "title_en": "Congress never funded the Iran war. The Pentagon is paying anyway",
+        "summary": [
+            "گزارش IG می‌گوید عملیات Epic Fury تا 30 ژوئن 33.4 میلیارد دلار هزینه داشته بدون بودجه اختصاصی کنگره",
+            "CBO تخمین می‌کند تا 1 اوت هزینه 38.1 میلیارد دلار است و ماهانه 2‑3 میلیارد دلار می‌گیرد، در حالی که درخواست سفیدخانه 67.1 میلیارد دلار بود",
+            "دفاع آمریکا هزینه را از حساب‌های پایه و بودجه آموزش می‌گیرد، یعنی بدون شفافیت مالی و با فشار بر بودجه‌های دیگر"
+        ],
+        "impact": "هزینه‌های میلیاردی بدون تصویب کنگره فشار مالی بر بودجه دفاعی آمریکا را افزایش می‌دهد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Center Square",
+        "url": "https://www.thecentersquare.com/national/article_cb52cdeb-0339-4a4f-8b53-396538115d7e.html",
+        "clean_url": "https://www.thecentersquare.com/national/article_cb52cdeb-0339-4a4f-8b53-396538115d7e.html",
+        "image": "https://www.bing.com/th?id=ONUT._iIYmaN_oHBXaIzWho-8RA",
+        "timestamp": 1789429626.0
+    },
+    {
         "id": "5922c0d054",
         "title_fa": "ایران مذاکرات را تا رفع خواسته‌ها به تعویق می‌اندازد",
         "title_en": "US Air Force colonel shot down over Iran recounts 'modern-day miracle'",
@@ -5385,24 +5404,5 @@
         "clean_url": "https://www.nytimes.com/es/2026/09/14/espanol/mundo/ataques-iran-arabia-saudita-trump.html",
         "image": "http://www.bing.com/th?id=ONUT.YtZKBA7Ma36qZfOJvSezBA&pid=News",
         "timestamp": 1789392480.0
-    },
-    {
-        "id": "aaedfcd6e6",
-        "title_fa": "بحران انرژی خودساخته ترامپ در سال دوم ریاست‌جمهوری",
-        "title_en": "Trump is trapped in his self-inflicted energy crisis",
-        "summary": [
-            "ترامپ با اعلام اضطراری انرژی، به سرعت به استخراج نفت داخلی تکیه کرد؛ اما این سیاست باعث کاهش سرمایه‌گذاری و افزایش قیمت‌ها شد",
-            "تحریم‌های تجاری و جنگ انتخابی با ایران، به همراه تصاحب میادین نفتی ونزوئلا، بازار انرژی را تحت فشار شدید قرار داد",
-            "وعده‌های نامشخص و برنامه‌های زمان‌بندی‌ناپذیر، مانع خروج از بحران می‌شود و اقتصاد داخلی را تضعیف می‌کند"
-        ],
-        "impact": "قیمت بنزین داخلی به‌سرعت بالا می‌رود و فشار بر تورم افزایش می‌یابد",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-trapped-self-inflicted-energy-130055285.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-trapped-self-inflicted-energy-130055285.html",
-        "image": "https://www.bing.com/th?id=ONUT.DbAmKr4Yf-47BILh_eR7dw",
-        "timestamp": 1789392428.8203402
     }
 ]
