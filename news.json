@@ -1,5 +1,24 @@
 [
     {
+        "id": "6b4dd522d0",
+        "title_fa": "کاهش نفت جهانی نوسان بازارهای انرژی را تشدید می‌کند",
+        "title_en": "Energy shortages trigger new round of global market volatility",
+        "summary": [
+            "کمبود نفت خام باعث افزایش قیمت‌های انرژی در سرتاسر جهان شد",
+            "بازارهای سهام و اوراق به‌سرعت واکنش نشان دادند",
+            "تحلیل‌گران خطر رکود کوتاه‌مدت را هشدار دادند"
+        ],
+        "impact": "قیمت‌های مصرف‌کننده و هزینه‌های تولید در کوتاه‌مدت بالا می‌رود",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Seeking Alpha on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/energy-shortages-trigger-new-round-of-global-market-volatility-nomura/ar-AA2cgIWV?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/energy-shortages-trigger-new-round-of-global-market-volatility-nomura/ar-AA2cgIWV",
+        "image": "https://www.bing.com/th?id=ONUT.2xWD7z9vL94z9-p3xJD9jQ",
+        "timestamp": 1789488834.1123958
+    },
+    {
         "id": "640d4784ff",
         "title_fa": "خبر بین‌المللی — EEUU: El gobierno elimina los límites de emisiones contamina",
         "title_en": "EEUU: El gobierno elimina los límites de emisiones contaminantes impuestos a las centrales eléctricas",
@@ -1411,6 +1430,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORlVZcXlnbjN1UlkwT1MzQktselBoWlZCdzhGNl9UUTZ3bmY2LXBwbkFMQTI2TUJZSlRWUENpZ2RJTzEyWG9pOGxvejlWaThZZDBtQml4bXktT0F2Nl93eFp4aWR5bXZUZ3ZjdUVzT3NSaWM4WFRDUkE3dFdNZUFLTkV6WnlPMjdpTUJNZHlKcXIxN2Y1SldRanNHVlppd1o2RGJrTlp2V2prX2RjVUdBVFV5Ul9qanFvTjVELUNQWUc3Q0Jt0gHEAUFVX3lxTE8zV3hScno5ZWh0aGVydzhiaGw1QWtubHFTVlJsaW5wYzRLa0NnRXRMVW55TkYteFVnRDk4MER5WjlKVVVmRlJpd2d2bml6Q2FxTHlsTGNNbVFhdXlMemxKLUtvaVlvdloxWGtOdU9oREdJeGlsQ3BMMF94U3pFQ1JYbkdnRURGUzZKZEdVMjJDS085ZHl0WmhFS21ha05DajY4LVhjS05GUmxpWXNCY1JrTWVlcVY2NW5HWFJFa0hZbGl1ZU8",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789453245.0
+    },
+    {
+        "id": "bfeb22c343",
+        "title_fa": "ایالات متحده حضور رئیس هسته‌ای ایران را مسدود کرد",
+        "title_en": "US blocks Iran nuclear chief from IAEA meeting in Vienna",
+        "summary": [
+            "آمریکا با فشار بر اتریش ویزای اسلامی را لغو کرد",
+            "ایران این اقدام را سیاسی و هدفمند برای خنثی‌سازی سازمان اتمی دانست",
+            "روسیه هم این را بخشی از تلاش برای محدود کردن سفرهای ایرانیان می‌داند"
+        ],
+        "impact": "حضور ایران در کنفرانس بین‌المللی انرژی را از بین برده و فشار دیپلماتیک بر برنامه هسته‌ای افزاش می‌دهد",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Israel National News",
+        "url": "https://www.israelnationalnews.com/news/433171",
+        "clean_url": "https://www.israelnationalnews.com/news/433171",
+        "image": "https://2.a7.org/files/pictures/000/1060635.jpg",
+        "timestamp": 1789452900.0
     },
     {
         "id": "4a1db15946",
@@ -3212,6 +3250,44 @@
         "clean_url": "https://www.msn.com/es-mx/noticias/other/organismo-de-control-detalla-afectaciones-por-guerra-contra-ir%C3%A1n-en-ej%C3%A9rcito-de-eeuu/ar-AA2cdLkR",
         "image": "http://www.bing.com/th?id=ONUT.ON6DsMIha1DB3ADyMzznJA&pid=News",
         "timestamp": 1789402532.0
+    },
+    {
+        "id": "a6060334ef",
+        "title_fa": "ترامپ وعده ۵۰۰۰ دلار به هر بزرگسال آمریکا",
+        "title_en": "Trump promises $5,000 for every American adult: How will it affect US economy?",
+        "summary": [
+            "ترامپ شرط می‌کند که جمهوری‌دموکرات‌ها را در کنگره شکست دهد",
+            "پرداخت مستقیم می‌تواند تورم و بدهی فدرال را تشدید کند",
+            "انتقادهای اقتصادی داخلی و واکنش بازارها به این طرح افزایشی است"
+        ],
+        "impact": "طرح می‌تواند فشار بر بودجه فدرال را بالا برده و نرخ تورم را تحریک کند",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Times of India on MSN",
+        "url": "https://www.msn.com/en-in/money/economy/trump-promises-5-000-for-every-american-adult-how-will-it-affect-us-economy/ar-AA2ch51C?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/money/economy/trump-promises-5-000-for-every-american-adult-how-will-it-affect-us-economy/ar-AA2ch51C",
+        "image": "https://www.bing.com/th?id=ONUT.zZFR2pjXfCZB9946rfEUBQ",
+        "timestamp": 1789402427.0
+    },
+    {
+        "id": "b19dadad6e",
+        "title_fa": "انتظار افزایش تورم بریتانیا در سپتامبر",
+        "title_en": "Live: Inflation expected to rise",
+        "summary": [
+            "آمار CPI تا جولای ۲٫۹٪ رشد نشان می‌دهد فشار قیمتی ادامه دارد",
+            "بانک انگلستان احتمالاً نرخ بهره را بالا می‌برد",
+            "این وضعیت می‌تواند رشد اقتصادی را تضعیف کند"
+        ],
+        "impact": "سیاست‌گذاران ممکن است نرخ بهره را افزایش کنند و هزینه وام‌ها را گران‌تر سازند",
+        "tag": "تورم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "MoneyWeek",
+        "url": "https://moneyweek.com/economy/news/live/inflation-cpi-august-2026-report",
+        "clean_url": "https://moneyweek.com/economy/news/live/inflation-cpi-august-2026-report",
+        "image": "https://www.bing.com/th?id=ONUT.TyuhMbj7rVRG_KWNecxc-A",
+        "timestamp": 1789402427.0
     },
     {
         "id": "2d3be76263",
@@ -5321,78 +5397,5 @@
         "clean_url": "https://www.newarab.com/news/pentagon-admits-iran-war-caused-us-ammunition-shortages",
         "image": "https://www.bing.com/th?id=ONUT.jYo806Ou3ZZUQd06rAVWNQ",
         "timestamp": 1789374437.0
-    },
-    {
-        "id": "e85c049728",
-        "title_fa": "موشک‌ها اردوگاه‌های کُردی مخالف ایران را هدف گرفت",
-        "title_en": "Iranian Kurdish opposition camps targeted with missiles in Iraq's Kurdistan, sources say",
-        "summary": [
-            "حملات موشکی سه اردوگاه مخالف ایران را در شرق سلیمانیه هدف گرفت؛ هیچ کشته یا زخمی گزارش نشد",
-            "منابع امنیتی اشاره کردند این عملیات احتمالاً توسط نیروهای وابسته به تهران انجام شده و پیامدهای سیاسی در کردستان عراق دارد"
-        ],
-        "impact": "تشدید تنش‌های منطقه‌ای و تقویت ادعای حضور نظامی ایران در کردستان عراق",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/iranian-kurdish-opposition-camps-targeted-with-missiles-in-iraqs-kurdistan-sources-say/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/iranian-kurdish-opposition-camps-targeted-with-missiles-in-iraqs-kurdistan-sources-say",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789374360.0
-    },
-    {
-        "id": "19e3850770",
-        "title_fa": "ایران ادعای پیککس‌ماونتن را رد کرد",
-        "title_en": "Iran dismisses Pickaxe Mountain claims, says Israel wins from Gulf tensions",
-        "summary": [
-            "تهران به‌صورت قطعی گفت ادعای اسرائیل درباره عملیات پیککس‌ماونتن بی‌اساس است",
-            "ایران معتقد است اسرائیل از تنش‌های خلیج برای کسب سود سیاسی استفاده می‌کند",
-            "این اظهارات نشان‌دهنده جنگ اطلاعاتی بین دو کشور است بدون اقدام نظامی مستقیم"
-        ],
-        "impact": "تنش دیپلماتیک خاورمیانه تشدید می‌شود؛ واکنش نظامی محدود می‌ماند",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02OFpTb2pzRWR2T2lsNENDZERjUERTQjJRQ3E3M0E3Um5xU0RsY05TZnpzQTYwYVpRZ0RuVjVlYlU3clktT295dWJIaHd4aFctWXFFTzRxQi05SElpYkRFdWJOQnRDQnVnWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02OFpTb2pzRWR2T2lsNENDZERjUERTQjJRQ3E3M0E3Um5xU0RsY05TZnpzQTYwYVpRZ0RuVjVlYlU3clktT295dWJIaHd4aFctWXFFTzRxQi05SElpYkRFdWJOQnRDQnVnWUE",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789373837.0
-    },
-    {
-        "id": "039d21aead",
-        "title_fa": "پیمان‌های ابراهیم به جای صلح، جنگ را تشدید کردند",
-        "title_en": "'The Abraham Accords have fueled war rather than peace in the Middle East'",
-        "summary": [
-            "پیمان‌های ابراهیم به‌جای کاهش تنش، رقابت‌های منطقه‌ای را تشدید کرد",
-            "ایران این توافق‌ها را ابزار فشار آمریکا می‌داند و واکنش نظامی می‌گیرد",
-            "جبهه‌های نیابتی در سوریه و یمن به‌سرعت گسترش یافتند"
-        ],
-        "impact": "افزایش خطر درگیری‌های نظامی و سیاسی در خاورمیانه",
-        "tag": "سیاست",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Le Monde",
-        "url": "https://www.lemonde.fr/en/opinion/article/2026/09/14/the-abraham-accords-have-fueled-war-rather-than-peace-in-the-middle-east_6757492_23.html",
-        "clean_url": "https://www.lemonde.fr/en/opinion/article/2026/09/14/the-abraham-accords-have-fueled-war-rather-than-peace-in-the-middle-east_6757492_23.html",
-        "image": "https://www.bing.com/th?id=ONUT.8moEB2iqlKGEgNY3yZg-Ig",
-        "timestamp": 1789373714.4774523
-    },
-    {
-        "id": "d0334d4a57",
-        "title_fa": "خبر بین‌المللی — ایران's proxies using Yemen به compound جنگ's impact در oil",
-        "title_en": "Iran's proxies using Yemen to compound war's impact on oil prices",
-        "summary": [
-            "An attack on a Saudi Arabian pipeline and a simmering war between the Saudis and Iran's Houthi allies in Yemen are pushing oil prices up."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/irans-proxies-using-yemen-compound-151213225.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/irans-proxies-using-yemen-compound-151213225.html",
-        "image": "http://www.bing.com/th?id=ONUT.ISPzK1vruBZOMCACZitkwg&pid=News",
-        "timestamp": 1789373520.0
     }
 ]
