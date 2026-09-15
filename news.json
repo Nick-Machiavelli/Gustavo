@@ -229,6 +229,25 @@
         "timestamp": 1789488774.0
     },
     {
+        "id": "794f64ba5d",
+        "title_fa": "هزینه جنگ ایران بیش از ۳۳٫۴ میلیارد دلار",
+        "title_en": "Iran war has cost well over $33.4 billion, Pentagon report says",
+        "summary": [
+            "گزارش بازرس کل ارتش آمریکا هزینه جنگ را تا میانه ژوئن ۳۳٫۴ میلیارد دلار اعلام کرد؛ بیشتر این مبلغ صرف مهمات شد.",
+            "ترامپ پس از یک ماه سکوت، برای اولین بار تمایل به مذاکرات مستقیم با ایران را ابراز کرد، اما شرط‌های ایران را پیش‌نیاز دانست.",
+            "مسئول ارشد ایرانی رد سیگنال‌های «مختلط» ترامپ را اعلام کرد و گفت تا برآورده شدن شرایط خود، گفت‌وگو نخواهد شد."
+        ],
+        "impact": "بار مالی سنگین جنگ، فشار بر بودجه دفاعی آمریکا و تقویت موضع مذاکرات آینده را تقویت می‌کند.",
+        "tag": "هزینه",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/oil-prices-near-4-month-080708071.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/oil-prices-near-4-month-080708071.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/d98fb43cbf7ec3d54ca9b4ea5fb791ff74afea9f8eb5381aee3aee6515dd1324/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/e51262746212019d60f908dcb6535417.jpg",
+        "timestamp": 1789487940.0
+    },
+    {
         "id": "640d4784ff",
         "title_fa": "خبر بین‌المللی — EEUU: El gobierno elimina los límites de emisiones contamina",
         "title_en": "EEUU: El gobierno elimina los límites de emisiones contaminantes impuestos a las centrales eléctricas",
@@ -5362,22 +5381,5 @@
         "clean_url": "https://today.lorientlejour.com/article/1547447/meeting-scheduled-in-oman-on-strait-of-hormuz-postponed-houthis-report-around-fifty-saudi-airstrikes-live.html",
         "image": "https://s.lorientlejour.com/storage/attachments/1548/WhatsAppImage2026-09-14at93938AM_635545.jpeg/r/800/WhatsAppImage2026-09-14at93938AM_635545.jpeg",
         "timestamp": 1789382220.0
-    },
-    {
-        "id": "336ababb31",
-        "title_fa": "خبر بین‌المللی — ایران’s missiles hit US jets as ترامپ insists تهران wants a",
-        "title_en": "Iran’s missiles hit US jets as Trump insists Tehran wants a deal",
-        "summary": [
-            "Trump says Tehran wants a deal even as Iranian missiles hit U.S. jets, oil nears $100 a barrel, and three American troops are dead. Where the war stands."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Idaho Learning News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-missiles-hit-us-jets-as-trump-insists-tehran-wants-a-deal/ar-AA2cfOQ1?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-missiles-hit-us-jets-as-trump-insists-tehran-wants-a-deal/ar-AA2cfOQ1",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789382181.0
     }
 ]
