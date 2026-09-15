@@ -1,5 +1,23 @@
 [
     {
+        "id": "d3b088c49a",
+        "title_fa": "افتتاح یادبود مادر ایمانوئل در نوامبر",
+        "title_en": "Mother Emanuel Memorial honoring church shooting victims to open in November",
+        "summary": [
+            "یادبود به‌مناسبت ۱۱ سالگی تیراندازی کلیسای مادر ایمانوئل در ۲۰۱۵، در نوامبر باز می‌شود.",
+            "این مراسم می‌تواند توجه عمومی را به مسأله امنیت مکان‌های مذهبی و خشونت مسلحانه در کلیساها دوباره زنده کند."
+        ],
+        "impact": "تقویت گفت‌وگوی ملی درباره امنیت اماکن مذهبی",
+        "tag": "یادبود",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "Live 5 News on MSN",
+        "url": "https://www.msn.com/en-us/news/news/mother-emanuel-memorial-honoring-church-shooting-victims-to-open-in-november/ar-AA2cglag?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/news/mother-emanuel-memorial-honoring-church-shooting-victims-to-open-in-november/ar-AA2cglag",
+        "image": "https://www.bing.com/th?id=ONUT.j78gQIxdF_0-fUkLZepvyA",
+        "timestamp": 1789480312.306471
+    },
+    {
         "id": "a415023763",
         "title_fa": "خبر بین‌المللی — Opinion | India, و A New BRICS Era Cooperation و Reform",
         "title_en": "Opinion | India, And A New BRICS Era of Cooperation And Reform",
@@ -541,6 +559,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmRud3hkbnlJMThSUThmcVFlY3RIdlQ5cHo1VHBySFNVVHU4VVFRUTc4NFhLclZ0ZUY2QUFCUlpuNmlFaXJrQ0I2MTVhS3RiYzMxVmM5ZzgtcjR1OEFtYVRvSVBBcF9lZlhZZGgyeENjcTBEdDBIR0VCX2lTNzcyMnNUUGhpelotVVdUR0N0SWpoazlpdE9yM0I1Y0NlXzhHZnF2dkRZbEJBdXExRjV3cC1lREZTeDlWbFhwMDNGYzNnZ0VlNk9Cc25BYXRZNWZoSTNGUW5OdDF5RGhNWk5YbE9MWQ",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789467083.0
+    },
+    {
+        "id": "d080f0a87a",
+        "title_fa": "جنگ ایران، ایالات متحده را به لبه فروپاشی می‌برد",
+        "title_en": "Iran War Has the U.S. Military on the Brink of a “Breakdown”",
+        "summary": [
+            "مقاله می‌گوید حضور نظامی آمریکا در خاورمیانه، به‌ویژه در قبال ایران، به نقطه بحرانی رسیده و خطر از دست دادن کنترل را دارد.",
+            "تحریم‌های سنگین، فشارهای اقتصادی و ریسک هسته‌ای ترکیب شده و توان عملیاتی نیروها را تحت فشار می‌گذارند.",
+            "در صورت تبدیل تنش‌ها به جنگ تمام‌عیار، هزینه انسانی و مالی برای آمریکا به‌صورت چشمگیری افزایش می‌یابد."
+        ],
+        "impact": "افزایش فشار بر تصمیم‌گیرندگان نظامی آمریکا برای بازنگری استراتژی خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Intercept",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hZGJxbzVFcFQ3NDlneWhNY3MtbE4yMmh3N3oxRGhCS3BvelNOcmRsV1RZRHFQQ3FPQ0hYZTZYTTFsZzdpbFdFZHhOa3NIVEVPZnJCNmc0LVhpaHp4NFhieGlpZTJQWkJkaGVjZWdFTm0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hZGJxbzVFcFQ3NDlneWhNY3MtbE4yMmh3N3oxRGhCS3BvelNOcmRsV1RZRHFQQ3FPQ0hYZTZYTTFsZzdpbFdFZHhOa3NIVEVPZnJCNmc0LVhpaHp4NFhieGlpZTJQWkJkaGVjZWdFTm0",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789466400.0
     },
     {
         "id": "ff25527043",
@@ -5371,42 +5408,5 @@
         "clean_url": "https://www.2gb.com/no-free-lunch-the-economy-is-at-a-cross-roads",
         "image": "https://www.bing.com/th?id=ONUT.bYOk1grxOA1n2aW1nykVUQ",
         "timestamp": 1789361509.7254379
-    },
-    {
-        "id": "77fe2a0fcc",
-        "title_fa": "فروپاشی اجلاس عرب-ایران و به تعویق افتادن راه‌حل هرمز",
-        "title_en": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
-        "summary": [
-            "عربستان خواست نشست را به تعویق بیندازد؛ تهران مصمم به ادامه طرح منطقه‌ای است",
-            "عدم برگزاری اجلاس، فضای دیپلماتیک خلیج را تیره می‌کند"
-        ],
-        "impact": "عدم برگزاری اجلاس، فشار دیپلماتیک بر خلیج و ریسک تشدید تنش",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Al Jazeera on MSN",
-        "url": "https://www.msn.com/en-us/news/world/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through/ar-AA2cbbF5",
-        "clean_url": "https://www.msn.com/en-us/news/world/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through/ar-AA2cbbF5",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789361444.0
-    },
-    {
-        "id": "6fe2ce8a21",
-        "title_fa": "برکس بدون چین: رشد کمرنگ اقتصادهای دیگر",
-        "title_en": "BRICS' rise masks a China story, says economist Surjit Bhalla",
-        "summary": [
-            "اقتصاددان بوله‌بالا می‌گوید سهم برکس از درآمد جهانی بدون چین تقریباً ثابت مانده",
-            "رشد واقعی اعضای دیگر برکس در تجارت و درآمد جهانی کم‌رنگ است؛ چین ۷۰٪ سهم را تشکیل می‌دهد",
-            "او پیشنهاد می‌کند هند به نتایج ملموس نگاه کند، نه به شعارهای کلوب"
-        ],
-        "impact": "ممکن است سیاست‌گذاران سرمایه‌گذاری‌های برکس را بازنگری کنند و تمرکز را به اصلاحات داخلی معطوف سازند",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/business/story/brics-economy-growth-trade-more-china-story-export-income-surjit-bhalla-india-2994017-2026-09-14",
-        "clean_url": "https://www.indiatoday.in/business/story/brics-economy-growth-trade-more-china-story-export-income-surjit-bhalla-india-2994017-2026-09-14",
-        "image": "https://www.bing.com/th?id=ONUT.yi-RD-hKO9AwQFrpN4Babw",
-        "timestamp": 1789360708.0455515
     }
 ]
