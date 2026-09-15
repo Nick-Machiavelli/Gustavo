@@ -1,5 +1,24 @@
 [
     {
+        "id": "f5bea5f834",
+        "title_fa": "کایتی بریت: ابزارهای مقابله با پوتین برای ترامپ",
+        "title_en": "Sen. Katie Britt to Newsmax: Hold Putin Accountable",
+        "summary": [
+            "کایتی بریت از کنگره خواست ابزارهای قانونی برای مقابله با پوتین فراهم شود.",
+            "درخواست نشان می‌دهد رقیبان جمهوری‌خواه سعی در فشار بر روسیه دارند.",
+            "اشاره به ترامپ به‌عنوان کلید اجرای این ابزارها در برنامه‌های GOP است."
+        ],
+        "impact": "اگر تصویب شود، فشار دیپلماتیک آمریکا بر روسیه تقویت می‌شود.",
+        "tag": "سیاست-آمریکا",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Newsmax",
+        "url": "https://www.newsmax.com/newsmax-tv/katie-britt-russia-sanctions/2026/09/15/id/1269469/",
+        "clean_url": "https://www.newsmax.com/newsmax-tv/katie-britt-russia-sanctions/2026/09/15/id/1269469",
+        "image": "https://www.bing.com/th?id=ONUT.4KTd_Eadk0JuIDsQnFwg3Q",
+        "timestamp": 1789481003.3160286
+    },
+    {
         "id": "d3b088c49a",
         "title_fa": "افتتاح یادبود مادر ایمانوئل در نوامبر",
         "title_en": "Mother Emanuel Memorial honoring church shooting victims to open in November",
@@ -121,6 +140,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/netanyahu-lets-journalists-blame-him-for-oct-7-iran-kills-citizens-for-honking-horns-guess-who-progressives-back/ar-AA2cgcKa",
         "image": "https://www.bing.com/th?id=ONUT.LpPRxtz7LSCPRk8tNAMcoQ",
         "timestamp": 1789477587.1820877
+    },
+    {
+        "id": "b75ee830d6",
+        "title_fa": "کاهش ترافیک هرمز پیش از مذاکرات چین‑ایران",
+        "title_en": "Hormuz traffic plunges as Iran prepares China talks",
+        "summary": [
+            "ترافیک کشتی‌ها در تنگه هرمز به‌طور چشمگیری افت کرد.",
+            "کاهش ناشی از آماده‌سازی مذاکرات ایران با چین برای رفع تحریم‌هاست.",
+            "شرکت‌های حمل‌ونقل نگران کاهش صادرات نفت و فشار بر قیمت‌ها هستند."
+        ],
+        "impact": "صادرات نفت ایران به‌صورت لحظه‌ای کاهش می‌یابد و قیمت نفت منطقه‌ای بالا می‌رود.",
+        "tag": "نقلیه",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "iranintl.com",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZZkdzb3RPQ2FtanhOUEZ1eTBzbUNrai1weFNVVzFtU0dGY0Rtb2ZFN01feW9LZV9VbUlGbjVkT2I4VGprRGpibTZjYThWamRNN3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZZkdzb3RPQ2FtanhOUEZ1eTBzbUNrai1weFNVVzFtU0dGY0Rtb2ZFN01feW9LZV9VbUlGbjVkT2I4VGprRGpibTZjYThWamRNN3c",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789476871.0
     },
     {
         "id": "7789418ef8",
@@ -5374,39 +5412,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/trump-s-iran-deal-claim-leaves-key-terms-unanswered/ar-AA2cewqs",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789362808.0
-    },
-    {
-        "id": "570528b8e1",
-        "title_fa": "خبر بین‌المللی — Sozialethiker Nass kritisiert Vorschlag zur KI-Verlangsamung",
-        "title_en": "Sozialethiker Nass kritisiert Vorschlag zur KI-Verlangsamung",
-        "summary": [
-            "Bundesverkehrsminister Steffen Bilger (CDU) kritisiert die Haltung der AfD in Sachsen-Anhalt zum milliardenschweren Infrastrukturprogramm des Bundes scharf. Es wäre für die Bürger des Landes [... ]..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "MMNews",
-        "url": "https://www.mmnews.de/index.php?c=utils&editname=simg&formname=form2&start=3252",
-        "clean_url": "https://www.mmnews.de/index.php",
-        "image": "https://mmnews.e-fluence.de/matomo.php?idsite=2&rec=1",
-        "timestamp": 1789361512.4588528
-    },
-    {
-        "id": "5a4931bb96",
-        "title_fa": "خبر بین‌المللی — ‘No free lunch’ – اقتصاد is at a cross-roads",
-        "title_en": "‘No free lunch’ – The economy is at a cross-roads",
-        "summary": [
-            "New polling has revealed that the Australian public is losing confidence in Anthony Albanese to manage the economy. Michael..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "2GB",
-        "url": "https://www.2gb.com/no-free-lunch-the-economy-is-at-a-cross-roads/",
-        "clean_url": "https://www.2gb.com/no-free-lunch-the-economy-is-at-a-cross-roads",
-        "image": "https://www.bing.com/th?id=ONUT.bYOk1grxOA1n2aW1nykVUQ",
-        "timestamp": 1789361509.7254379
     }
 ]
