@@ -17,6 +17,24 @@
         "timestamp": 1789436320.866099
     },
     {
+        "id": "55b7bf153e",
+        "title_fa": "وی‌تی‌بی روسیه به‌دلیل کمک به ایران تحت تحریم",
+        "title_en": "US sanctions Russia's VTB Bank for allegedly helping Iran evade sanctions",
+        "summary": [
+            "ایالات متحده بانک VTB روسیه را به‌دلیل کمک به ایران در دور زدن تحریم‌ها هدف قرار داد.",
+            "این تحریم دسترسی بانک به سیستم مالی بین‌المللی را محدود می‌کند و فشار بر اقتصاد ایران را افزاش می‌دهد."
+        ],
+        "impact": "ایران با محدود شدن مسیرهای مالی برای تجارت نفتی مواجه می‌شود.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzE5b3NMaV9LbmtFbzNsOURFdE5IU2ptTEJ5OWd2LUZZdTJkLWhWeTZuZDdLekhNVWRtbGdWS1JOR1J3b1Zvb2R6a3h5d05WTE1Wd21fSVM1YnA4aW9acHlTeGEyY04wNTBqdk53NXZkdFl3ZW9Ja2t0NUNsRW5XT05nZWVSa0hpbG9tSGhMWlVpUWU1VmJEUlAxQmpUNW9uWTFwNlNzVVlRNmM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzE5b3NMaV9LbmtFbzNsOURFdE5IU2ptTEJ5OWd2LUZZdTJkLWhWeTZuZDdLekhNVWRtbGdWS1JOR1J3b1Zvb2R6a3h5d05WTE1Wd21fSVM1YnA4aW9acHlTeGEyY04wNTBqdk53NXZkdFl3ZW9Ja2t0NUNsRW5XT05nZWVSa0hpbG9tSGhMWlVpUWU1VmJEUlAxQmpUNW9uWTFwNlNzVVlRNmM",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789435547.0
+    },
+    {
         "id": "1780a1d041",
         "title_fa": "تشخیص خرابی شدید موتور BMW کلاسیک",
         "title_en": "Diagnosing severe mechanical failure on a classic BMW project",
@@ -2691,6 +2709,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LRUQ2UjBFc0d3X2EyZkxKRkFXM3hqY0s1RzF5eEFSbV9EM2hfOUFqSDZFV0RlNEZWaV9tZ1RiY1djMEVndXRsb001ZFRUc3NjSnp0OU5oblNPWGpNUGxMYjdpZWpJN2FoYkE",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789353032.0
+    },
+    {
+        "id": "2302314e24",
+        "title_fa": "تصویب لایحه آمریکا: ۱۰۰٪ مالیات بر نفت روسیه برای هند",
+        "title_en": "US House amendments name India in Russia sanctions tariff push",
+        "summary": [
+            "لایحه مجلس آمریکا امکان اعمال عوارض ۱۰۰٪ بر صادرات نفت روسیه به هند را می‌گذارد.",
+            "این فشار اقتصادی به نفع اوکراین است اما روابط تجاری هند‑روسیه را تحت فشار می‌برد."
+        ],
+        "impact": "هند با خطر از دست دادن بازار نفت روسیه و افزایش هزینه‌های انرژی مواجه می‌شود.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/russia-sanctions-bill-us-amendment-names-india-for-possible-100-percent-duties-ptag-2994721-2026-09-15",
+        "clean_url": "https://www.indiatoday.in/world/story/russia-sanctions-bill-us-amendment-names-india-for-possible-100-percent-duties-ptag-2994721-2026-09-15",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/pti-international-2-original_176-sixteen_nine.png?VersionId=RNLUTxeICRy60IlR.dOKCIEo.QlFXXb0",
+        "timestamp": 1789351507.0
+    },
+    {
+        "id": "524927540e",
+        "title_fa": "اوباما بر ایمنی هوش مصنوعی تأکید کرد",
+        "title_en": "SCOTUS Blocks Trump's Mail-In Voting Rules, Mitch McConnell Finally Returns To Congress: Live Updates",
+        "summary": [
+            "اوباما خواستار رهبری آمریکا در تدوین مقررات جهانی هوش مصنوعی شد.",
+            "او خطرات اقتصادی و اجتماعی فناوری را به‌عنوان تهدیدی جدی مطرح کرد."
+        ],
+        "impact": "اگر آمریکا پیش‌قدم شود، می‌تواند استانداردهای جهانی را شکل دهد و رقبا را محدود کند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/live-updates_n_6aa7b695e4b054da7a2323f5",
+        "clean_url": "https://www.huffpost.com/entry/live-updates_n_6aa7b695e4b054da7a2323f5",
+        "image": "https://www.bing.com/th?id=ONUT.y7ZTi1slfzLKfB7fFMWMgA",
+        "timestamp": 1789351507.0
     },
     {
         "id": "40d1c12d6a",
@@ -5405,63 +5459,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zb1kzVFpiVEdBdDJ0c1l5YlBUbnhJLUg1QlBMdkJQUXFHLTR3RjBVQlFMNzhkdldNczZsWXVXWWp4eVU5Ny1PaVQ2QVdhMXk1WEZfa3NnRFR6d3lnbWFZNVJpajlpOXBKRVlaZ1FyVzJkcmpUbXFTLUN6TjBUcUE",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789304404.0
-    },
-    {
-        "id": "b711d3db5e",
-        "title_fa": "بند شدن هرمز به‌دلیل قطع خط لوله سعودی",
-        "title_en": "Iran: Strait of Hormuz to stay closed as Saudi pipeline shutdown adds pressure",
-        "summary": [
-            "بسته شدن تنگه هرمز فشار بر صادرات نفت ایران را دوچندان می‌کند؛ کشتی‌های حامل نفت مجبور به مسیرهای طولانی‌تر می‌شوند.",
-            "سختمان‌های ذخیره‌سازی سعودی تنها برای ۵ تا ۷ روز کافی است؛ این کمبود می‌تواند قیمت جهانی نفت را به‌سختی بالا ببرد."
-        ],
-        "impact": "قیمت نفت جهانی ارتقا می‌یابد و توان صادرات ایران تحت فشار شدید قرار می‌گیرد.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "NewsNation",
-        "url": "https://www.newsnationnow.com/world/us-iran-war-saudi-arabia-strait-of-hormuz-oil-houthis/",
-        "clean_url": "https://www.newsnationnow.com/world/us-iran-war-saudi-arabia-strait-of-hormuz-oil-houthis",
-        "image": "https://www.bing.com/th?id=ONUT.CMhPm0ymMnTaJocw_nKX4g",
-        "timestamp": 1789303664.0
-    },
-    {
-        "id": "349212d5a0",
-        "title_fa": "تاخیر در صدور مجوز امنیتی شهردار نیویورک",
-        "title_en": "Mayor Mamdani still waiting on federal security clearance 8 months into office",
-        "summary": [
-            "شهردار ممدانی پس از ۸ ماه هنوز بدون دسترسی به اطلاعات طبقه‌بندی‌شده است",
-            "این تاخیر توان او برای واکنش به تهدیدات تروریستی را محدود می‌کند",
-            "بیل دِ بلازیو تأکید کرد هر شهردار باید اطلاعات کامل داشته باشد",
-            "رد درخواست می‌تواند به‌عنوان تضعیف اراده دموکراتیک شهروندان تلقی شود"
-        ],
-        "impact": "عدم دسترسی به اطلاعات طبقه‌بندی‌شده واکنش شهردار به بحران‌های امنیتی را کند می‌کند",
-        "tag": "امنیت",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "Gothamist",
-        "url": "https://gothamist.com/news/mayor-mamdani-still-waiting-on-federal-security-clearance-8-months-into-office",
-        "clean_url": "https://gothamist.com/news/mayor-mamdani-still-waiting-on-federal-security-clearance-8-months-into-office",
-        "image": "https://api-prod.gothamist.com/images/359137/fill-1200x650|format-webp|webpquality-85/",
-        "timestamp": 1789302642.0
-    },
-    {
-        "id": "86b30060cd",
-        "title_fa": "حوثی‌ها جزیره‌های استراتژیک دریای سرخ را تصرف کردند",
-        "title_en": "Houthis seize 2 strategic Red Sea islands, other Mideast developments",
-        "summary": [
-            "حوثی‌ها جزیره‌های بزرگ و کوچک حنیش را در دریای سرخ به‌دست آوردند",
-            "این گام توان کنترل مسیرهای تجاری مهم را به ایران نزدیک می‌کند",
-            "ایالات متحده و عربستان نگرانی‌های امنیتی خود را ابراز کردند",
-            "احتمال تشدید عملیات نظامی یا فشارهای دیپلماتیک در منطقه وجود دارد"
-        ],
-        "impact": "تصرف جزیره‌ها خطر بروز درگیری‌های دریایی و اختلال در تجارت بین‌المللی را افزایش می‌دهد",
-        "tag": "دریایی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "News18 on MSN",
-        "url": "https://www.msn.com/en-in/news/other/houthis-seize-2-strategic-red-sea-islands-other-mideast-developments/ar-AA2cbHS1?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/houthis-seize-2-strategic-red-sea-islands-other-mideast-developments/ar-AA2cbHS1",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789302642.0
     }
 ]
