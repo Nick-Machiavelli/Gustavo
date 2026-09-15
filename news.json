@@ -2084,6 +2084,26 @@
         "timestamp": 1789452286.0590413
     },
     {
+        "id": "48e5ef7764",
+        "title_fa": "جنگ کوچک ترامپ با ایران بزرگ شد",
+        "title_en": "Commentary: Trump's 'little war' with Iran just got a lot bigger",
+        "summary": [
+            "تحریم‌های ترمب فشار اقتصادی شدیدی بر ایران وارد می‌کند.",
+            "رهبری ایران برای مقابله با این فشار، ریسک‌های نظامی بیشتری می‌پذیرد.",
+            "ترامپ پیش‌بینی می‌کند پس از انتخابات میانه‌سال‌ها، ایران آماده معامله خواهد شد.",
+            "این پیش‌بینی خوش‌بینانه است و می‌تواند تنش‌ها را تشدید کند."
+        ],
+        "impact": "تحریم‌های سخت‌گیرانه می‌تواند اقتصاد ایران را به‌طور جدی تضعیف کند و خطر تصاعد نظامی را بالا ببرد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/commentary/trump-iran-war-strike-houthis-nuclear-6383176",
+        "clean_url": "https://www.channelnewsasia.com/commentary/trump-iran-war-strike-houthis-nuclear-6383176",
+        "image": "https://dam.mediacorp.sg/image/upload/s--y7bNWexD--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-10T062404Z_1_LYNXMPEM890G8_RTROPTP_3_USA-SEPT11-FOREIGN-POLICY.JPG?itok=vQTxdHUb",
+        "timestamp": 1789451880.0
+    },
+    {
         "id": "e4f97a9f9c",
         "title_fa": "نگرانی غرب از BRICS+ نشانگر سقوطش",
         "title_en": "West’s BRICS+ worries underline its own decline",
@@ -5359,23 +5379,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOE9fYWx1SFFkNTJHaDAyUUJwbk4xcXE5TkFJMWxqWDAyV1pTaDlCb3U1aFFiR0VxQXAwZlFlUEgyYmFPcjVmaFprc0FvZy14VnJJVE9GR2ZIZEJqSFB5T29nYUNOcnd6U3MtcWtXdW5wV1hIWU5QaXFjZVQxaTNIbUZKWHI5QnlVVTJZN3N1MG9wYlhmdTNpOXQ4c3NfbEJTaWZILVhR",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789390376.0
-    },
-    {
-        "id": "7dd74d3988",
-        "title_fa": "قضاوت خشونت مستوطنان اسرائیلی در کرانه‌غربی",
-        "title_en": "Editorial: Condemn violence by Israeli settlers in West Bank",
-        "summary": [
-            "مقاله به‌صراحت به حملات مستمر مستوطنان علیه فلسطینیان اشاره می‌کند و آن را نقض حقوق بشر می‌داند.",
-            "نقل‌قول برخی مقامات اسرائیلی نشان می‌دهد که داخل کشور نیز نسبت به این رفتار انتقادهای جدی وجود دارد."
-        ],
-        "impact": "فشار بین‌المللی بر اسرائیل برای محدود کردن خشونت در سرزمین‌های اشغالی افزایش می‌یابد.",
-        "tag": "اسرائیل‑حقوق بشر",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/editorial-condemn-violence-israeli-settlers-121300913.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/editorial-condemn-violence-israeli-settlers-121300913.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/6027fcb3abdabc0b297f88bf595d0b81ecab82c80d5b381e5fc0641e78725e5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsouth_florida_sun_sentinel_national_820%2Ffbac47c7e097905167f83fdd2cce456a.jpg",
-        "timestamp": 1789390069.6474948
     }
 ]
