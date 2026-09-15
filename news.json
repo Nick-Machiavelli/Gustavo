@@ -1,5 +1,23 @@
 [
     {
+        "id": "719575de12",
+        "title_fa": "اسرائیل پس از تحریم‌ها به بریتانیا چالش می‌کشد",
+        "title_en": "After settlements sanctions, Israel is planning a war on Britain on the world stage",
+        "summary": [
+            "وزارت خارجه بریتانیا ممنوعیت فروش محصولات تولید شده در شهرک‌های اشغالی اسرائیل را اعلام کرد",
+            "این تصمیم با حمایت فرانسه و کانادا اتخاذ شد و فشار بین‌المللی بر اسرائیل را افزایش می‌دهد"
+        ],
+        "impact": "تحریم‌ها می‌تواند روابط تجاری اسرائیل‑بریتانیا را به‌سختی تحت فشار قرار دهد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/opinion/after-settlements-sanctions-israel-planning-war-britain",
+        "clean_url": "https://www.newarab.com/opinion/after-settlements-sanctions-israel-planning-war-britain",
+        "image": "https://www.bing.com/th?id=ONUT.cIVCx8Sf4hjBdm_Iflkj7Q",
+        "timestamp": 1789501759.7886693
+    },
+    {
         "id": "1d853a70c8",
         "title_fa": "خبر بین‌المللی — I’ll get death threats برای saying it – but this prince is n",
         "title_en": "I’ll get death threats for saying it – but this prince is no messiah",
@@ -981,6 +999,24 @@
         "clean_url": "https://www.articolo21.org/2026/09/greta-privitera-voglio-credere-che-la-liberta-in-iran-possa-diventare-realta",
         "image": "https://www.articolo21.org/wp-content/uploads/2026/09/1000608556-scaled.jpg",
         "timestamp": 1789476244.5287209
+    },
+    {
+        "id": "62d66ff2fa",
+        "title_fa": "هزینه ماهانه جنگ ایران ۲ میلیارد دلار",
+        "title_en": "Iran war could cost $2 billion per month, Congressional Budget Office estimates",
+        "summary": [
+            "دفتر بودجه کنگره اعلام کرد هزینه مستقیم جنگ بین ۲۸ فوریه تا ۱ اوت حدود ۳۸ میلیارد دلار است",
+            "به‌صورت متوسط هزینه ماهانه حدود ۲ میلیارد دلار می‌شود و فشار مالی سنگینی بر بودجه آمریکا ایجاد می‌کند"
+        ],
+        "impact": "هزینه‌های سنگین می‌تواند فشار برای کاهش حمایت نظامی آمریکا ایجاد کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-war-could-cost-2-billion-per-month-congressional-budget-office-estimates/ar-AA2chI7t",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-could-cost-2-billion-per-month-congressional-budget-office-estimates/ar-AA2chI7t",
+        "image": "http://www.bing.com/th?id=ONUT.rienERuXX4piRKrVLnTO6w&pid=News",
+        "timestamp": 1789476240.0
     },
     {
         "id": "b79840557a",
@@ -3121,6 +3157,24 @@
         "clean_url": "https://mises.org/mises-wire/beyond-diaspora-politics",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789415368.8125381
+    },
+    {
+        "id": "85f5c1262a",
+        "title_fa": "هوتی‌ها به دارایی‌های سعودی و باب‌ال‌مندب حمله",
+        "title_en": "India condemns Houthi attacks on Saudi assets, warns of threat to Bab-el-Mandeb navigation",
+        "summary": [
+            "هند نگرانی جدی خود را نسبت به حملات هوتی‌ها به زیرساخت‌های غیرنظامی سعودی ابراز کرد",
+            "این حملات مسیر بحرین‑یمن (باب‌ال‌مندب) را تهدید می‌کند و خطر اختلال در تجارت جهانی را بالا می‌برد"
+        ],
+        "impact": "اختلال در مسیر باب‌ال‌مندب می‌تواند زنجیره تأمین نفت را مختل کند",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The New Indian Express on MSN",
+        "url": "https://www.msn.com/en-in/news/other/india-condemns-houthi-attacks-on-saudi-assets-warns-of-threat-to-bab-el-mandeb-navigation/ar-AA2chDua?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/india-condemns-houthi-attacks-on-saudi-assets-warns-of-threat-to-bab-el-mandeb-navigation/ar-AA2chDua",
+        "image": "https://www.bing.com/th?id=ONUT.kS7__C54kRaEh08N-JOn9g",
+        "timestamp": 1789415353.0
     },
     {
         "id": "c1a2ef8e2c",
@@ -5333,59 +5387,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmFYd0hqU3pUXzRwRklUdC1WMkl4N2xFZHZkdnJndndRRTlITmctYlhjOWFQc013NWdoRUxuMFRzRWcwZWF2Q203aF84cE8zVF9ZZ0h6YnVNUk9wRjdnMFlFTW9YSWdVOWppMUJFOHNDTllGVTZlMHd6eFpERTlVbzB4c2t1amtmMldEYWZGZXBZWHZ5RThHS2dMWkJEUnBibm5WTFRCaGVQNGQtRUpBWDZMZ3F1dm9td25qXw",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789386547.0
-    },
-    {
-        "id": "2cefe7e278",
-        "title_fa": "تحلیل‌گران انرژی به واکنش بازار پس از حملات به ایران",
-        "title_en": "Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events",
-        "summary": [
-            "حملات اخیر آمریکا‑اسرائیل باعث نوسان شدید قیمت نفت در بازارهای جهانی شد",
-            "تحلیل‌گران پیش‌بینی می‌کنند تقاضای کوتاه‌مدت افزایش و نوسان قیمت تا چند هفته ادامه یابد",
-            "این تحولات می‌تواند فشار بر تورم انرژی در کشورهای مصرف‌کننده ایجاد کند"
-        ],
-        "impact": "قیمت نفت در کوتاه‌مدت بالا می‌رود و هزینه‌های انرژی برای مصرف‌کنندگان جهانی افزایش می‌یابد",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789386455.0
-    },
-    {
-        "id": "19969b5d47",
-        "title_fa": "آمریکا پس از تضعیف ایران به استراتژی جدید نیاز دارد",
-        "title_en": "America Is Winning Against Iran. Now It Needs a Strategy for What Comes Next.",
-        "summary": [
-            "تحلیلگران آمریکایی ادعا می‌کنند توانسته‌اند ایران را از نظر نظامی و اقتصادی تضعیف کنند",
-            "اما بدون طرح واضح برای مرحله بعد، خطر بازگشت تنش‌های جدید در خاورمیانه باقی است"
-        ],
-        "impact": "عدم وجود برنامه‌ریزی واضح می‌تواند به بی‌ثباتی منطقه‌ای منجر شود",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "RealClearDefense",
-        "url": "https://www.realcleardefense.com/articles/2026/09/14/america_is_winning_against_iran_now_it_needs_a_strategy_for_what_comes_next_1205879.html",
-        "clean_url": "https://www.realcleardefense.com/articles/2026/09/14/america_is_winning_against_iran_now_it_needs_a_strategy_for_what_comes_next_1205879.html",
-        "image": "https://www.bing.com/th?id=ONUT.8_X4ziXPdKfcxz_9nmYE2Q",
-        "timestamp": 1789385901.8771603
-    },
-    {
-        "id": "f87c308d1c",
-        "title_fa": "خبر بین‌المللی — ایران denounces Austria برای blocking its هسته‌ای chief from",
-        "title_en": "Iran denounces Austria for blocking its nuclear chief from a meeting in Vienna",
-        "summary": [
-            "Iran denounces Austria for blocking its nuclear chief from a meeting in Vienna Newsday"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Newsday",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFBjTEJaUXB4X0ZSSHcydmZabTJKSDdCVm5KV0t6Tmw2d0lWczh2TE5STElFaFUxS05ZUWVpU2o5WUl0RjhxYkZxZ3RRRkl5YmtDNmdIb1ltY3NScG4tLUtJVXl3ci1lN2dGYlI0M1pHS21Ma01Qb296SURUTVZ0elkwSWNUTDFia09ENHVjZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFBjTEJaUXB4X0ZSSHcydmZabTJKSDdCVm5KV0t6Tmw2d0lWczh2TE5STElFaFUxS05ZUWVpU2o5WUl0RjhxYkZxZ3RRRkl5YmtDNmdIb1ltY3NScG4tLUtJVXl3ci1lN2dGYlI0M1pHS21Ma01Qb296SURUTVZ0elkwSWNUTDFia09ENHVjZw",
-        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789385517.0
     }
 ]
