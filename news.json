@@ -1935,6 +1935,26 @@
         "timestamp": 1789377325.2198324
     },
     {
+        "id": "28be2c73f5",
+        "title_fa": "جنگ ایران، تغییر قدرت در خلیج فارس",
+        "title_en": "How will the Iran war reshape the Persian Gulf?",
+        "summary": [
+            "پایان درگیری می‌تواند نفوذ نظامی آمریکا را در خلیج به‌تدریج کاهش دهد",
+            "ایران با بازگشت قدرت، عرب‌ها را مجبور به بازنگری استراتژی‌های امنیتی می‌کند",
+            "چین فرصت می‌بیند تا نقش اقتصادی‑سیاسی خود را در منطقه گسترش دهد",
+            "تعادل نظامی‑اقتصادی خلیج ممکن است به‌صورت اساسی دگرگون شود"
+        ],
+        "impact": "کاهش حضور نظامی آمریکا و گسترش نفوذ چین در خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Chatham House",
+        "url": "https://www.chathamhouse.org/publications/the-world-today/2026-09/how-will-iran-war-reshape-persian-gulf",
+        "clean_url": "https://www.chathamhouse.org/publications/the-world-today/2026-09/how-will-iran-war-reshape-persian-gulf",
+        "image": "https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2024-10/2024-10-03-past-events-bronwen-blinken.jpg?h=199d8c1f&itok=DroxWQ1H",
+        "timestamp": 1789377240.0
+    },
+    {
         "id": "58d97499a4",
         "title_fa": "ترامپ ادعای جدید درباره مذاکرات صلح ایران",
         "title_en": "Iran war live: Trump makes fresh claim on peace talks",
@@ -5430,24 +5450,5 @@
         "clean_url": "https://www.thenationalherald.com/numerous-announcements-in-mitsotakis-weekly-briefing-emphasizes-stability-does-not-mean-concessions-to-turkey",
         "image": "https://www.thenationalherald.com/wp-content/uploads/2026/08/mhtsotakis.jpg",
         "timestamp": 1789297680.0
-    },
-    {
-        "id": "c0674ca512",
-        "title_fa": "جیمی کیمل درباره ترامپ شوخی کرد",
-        "title_en": "Jimmy Kimmel Recaps Nation’s Summer Struggles and Says Trump ‘Accomplished Nothing’",
-        "summary": [
-            "کیمل در برنامه ۴۰۰۰مین خود، عملکرد ترامپ را به‌صورت طنزانه نقد کرد",
-            "او ادعا کرد مشکلات اقتصادی و جنگ با ایران توسط ترامپ حل شده‌اند",
-            "واکنش تماشاگران با بوق و خنده نشان داد که شوخی‌ها به‌دست مخاطب نرسید"
-        ],
-        "impact": "تقویت تصویر منفی ترامپ در فضای عمومی آمریکا",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/jimmy-kimmel-recaps-nation-summer-095400000.html",
-        "clean_url": "https://www.aol.com/articles/jimmy-kimmel-recaps-nation-summer-095400000.html",
-        "image": "https://www.bing.com/th?id=ONUT.bMgf54SkchYysQXgUso80A",
-        "timestamp": 1789297381.7854264
     }
 ]
