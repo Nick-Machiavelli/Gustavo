@@ -1,5 +1,41 @@
 [
     {
+        "id": "9c6b7aeca8",
+        "title_fa": "آمریکا باید از خفت خاورمیانه رهایی یابد",
+        "title_en": "America must escape its Middle East humiliation",
+        "summary": [
+            "تحلیل‌گرها می‌گویند حضور نظامی طولانی‌مدت آمریکا در خاورمیانه باعث خستگی عمومی و هزینه‌های سنگین شده است.",
+            "قیمت نفت بالا و عدم دسترسی به منابع انرژی، فشار اقتصادی جدیدی بر ایالات متحده ایجاد می‌کند."
+        ],
+        "impact": "کاهش حضور نظامی آمریکا در خاورمیانه می‌تواند بازنگری در سیاست انرژی و روابط ژئوپولیتیک منطقه‌ای را به دنبال داشته باشد",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/america-must-escape-its-middle-east-humiliation/ar-AA2chMVZ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/news/other/america-must-escape-its-middle-east-humiliation/ar-AA2chMVZ",
+        "image": "https://www.bing.com/th?id=ONUT.jZJDfLGB7jpmS-OUmxFX0A",
+        "timestamp": 1789496053.7299867
+    },
+    {
+        "id": "c056949c9e",
+        "title_fa": "جنگ اوکراین برای ترامپ مشکل‌ساز شد",
+        "title_en": "The war in Ukraine is becoming very inconvenient for Trump",
+        "summary": [
+            "ترامپ با ادامه جنگ اوکراین در معرض فشار داخلی برای تغییر موضع آمریکا قرار می‌گیرد.",
+            "تحریم‌های سخت علیه روسیه باعث کاهش حمایت‌های مالی و نظامی می‌شود و ریسک سیاسی برای ترامپ بالا می‌رود."
+        ],
+        "impact": "تغییر موضع ترامپ می‌تواند سیاست‌های نظامی و اقتصادی آمریکا نسبت به اوکراین را دگرگون کند",
+        "tag": "سیاست خارجی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Los Angeles Times",
+        "url": "https://www.latimes.com/opinion/story/2026-09-15/war-in-ukraine-trump",
+        "clean_url": "https://www.latimes.com/opinion/story/2026-09-15/war-in-ukraine-trump",
+        "image": "https://www.bing.com/th?id=ONUT.5QblosCo0fT3hTAtwuCDLw",
+        "timestamp": 1789496053.7295954
+    },
+    {
         "id": "540e2925ed",
         "title_fa": "خبر بین‌المللی — Why ترامپ’s diesel woes are playing right into Moscow’s hand",
         "title_en": "Why Trump’s diesel woes are playing right into Moscow’s hands",
@@ -5347,39 +5383,5 @@
         "clean_url": "https://www.sajr.co.za/israeli-consul-general-ofir-akuniss-rosh-hashanah-message-wake-up",
         "image": "https://www.sajr.co.za/wp-content/uploads/2026/09/Consul-General-of-Israel-in-New-York-Ofir-Akunis-speaks-In-Bryant-Park-on-May-5-2026-in-New-York-City.-Roy-Rochlinx3aGetty-Images-for-Ari-Ackerman.jpg",
         "timestamp": 1789383035.0
-    },
-    {
-        "id": "9b734409fe",
-        "title_fa": "خبر بین‌المللی — ایران survived wars و تحریم‌ها but a water crisis could dest",
-        "title_en": "Iran survived wars and sanctions but a water crisis could destroy it",
-        "summary": [
-            "Iran is running out of water, and the video argues that drought alone cannot explain why. Rivers such as the Zayandeh Rud..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "CaspianReport on MSN",
-        "url": "https://www.msn.com/en-us/money/general/iran-survived-wars-and-sanctions-but-a-water-crisis-could-destroy-it-nature-cannot-be-cheated/vi-AA2aXc6T?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/general/iran-survived-wars-and-sanctions-but-a-water-crisis-could-destroy-it-nature-cannot-be-cheated/vi-AA2aXc6T",
-        "image": "https://www.bing.com/th?id=ONUT.3fTb1UhURCehh8MEO81sRA",
-        "timestamp": 1789382578.8136036
-    },
-    {
-        "id": "9154e2aabb",
-        "title_fa": "خبر بین‌المللی — Teacher succumbs به injuries following اسرائیلی fire در Braa",
-        "title_en": "Teacher succumbs to injuries following Israeli fire on Braasheet; Netanyahu threatens 'even harsher blows' if 'its enemies attack again' | LIVE",
-        "summary": [
-            "Beirut Time Iran seizes property of nearly 250 'traitors' Iranian authorities have seized properties from 240 people accused of affiliations with Israel and other"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "L'Orient Today",
-        "url": "https://today.lorientlejour.com/article/1547447/meeting-scheduled-in-oman-on-strait-of-hormuz-postponed-houthis-report-around-fifty-saudi-airstrikes-live.html",
-        "clean_url": "https://today.lorientlejour.com/article/1547447/meeting-scheduled-in-oman-on-strait-of-hormuz-postponed-houthis-report-around-fifty-saudi-airstrikes-live.html",
-        "image": "https://s.lorientlejour.com/storage/attachments/1548/WhatsAppImage2026-09-14at93938AM_635545.jpeg/r/800/WhatsAppImage2026-09-14at93938AM_635545.jpeg",
-        "timestamp": 1789382220.0
     }
 ]
