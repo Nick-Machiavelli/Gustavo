@@ -255,6 +255,25 @@
         "timestamp": 1789460842.5278172
     },
     {
+        "id": "6da432d95e",
+        "title_fa": "تروپ هزینه جنگ ۳۳ میلیارد دلاری و کمبود سلاح",
+        "title_en": "Iran war live: US facing weapons shortages as cost of war hits $33bn",
+        "summary": [
+            "ترامپ اعلام کرد آماده مذاکرات برای پایان جنگ است اما همزمان نیروی هوایی آمریکا با از دست دادن ده‌ها هواپیما به کمبود سلاح مواجه شده",
+            "هزینه جنگ به ۳۳ میلیارد دلار رسیده و فشار مالی شدیدی بر بودجه دفاعی آمریکا وارد کرده",
+            "این وضعیت نشان می‌دهد توان عملیاتی آمریکا در خاورمیانه در حال فرسایش است"
+        ],
+        "impact": "کاهش توان نظامی آمریکا در خاورمیانه و فشار بر تصمیمات استراتژیک واشنگتن",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/other/iran-war-live-us-forces-reject-claim-that-mines-blew-up-tanker/ar-AA2ceLKA",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-us-forces-reject-claim-that-mines-blew-up-tanker/ar-AA2ceLKA",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789458646.0
+    },
+    {
         "id": "b11b2ef152",
         "title_fa": "شهر ماهیگیری یمن، جبهه دوم جنگ آمریکا‑ایران",
         "title_en": "How a Yemeni fishing city has become a second front in the US-Iran conflict - analysis",
@@ -869,6 +888,23 @@
         "timestamp": 1789436320.866099
     },
     {
+        "id": "2cbca61e53",
+        "title_fa": "خبر بین‌المللی — ایران rejects any talks with US after ترامپ’s remarks",
+        "title_en": "Iran rejects any talks with US after Trump’s remarks",
+        "summary": [
+            "US president Donald Trump said he was open to resuming discussions on the Middle East war."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Free Malaysia Today on MSN",
+        "url": "https://www.msn.com/en-my/news/other/iran-rejects-any-talks-with-us-after-trump-s-remarks/ar-AA2cfJsv",
+        "clean_url": "https://www.msn.com/en-my/news/other/iran-rejects-any-talks-with-us-after-trump-s-remarks/ar-AA2cfJsv",
+        "image": "http://www.bing.com/th?id=ONUT.NkIWi2fmpYvXPtBZv99bxA&pid=News",
+        "timestamp": 1789435860.0
+    },
+    {
         "id": "55b7bf153e",
         "title_fa": "وی‌تی‌بی روسیه به‌دلیل کمک به ایران تحت تحریم",
         "title_en": "US sanctions Russia's VTB Bank for allegedly helping Iran evade sanctions",
@@ -957,6 +993,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYa0FkUVZmYVNsMHYzSzdIVlFRNEp1aEFtQmZURU1TNjFidWRkZmVhdG5NLUdWZFYzb0lRb3EyU29WNUgzVUdiN1daLWtSNWhqRnJ3ZWdBQ3pKOVhodnh4Y0l5VzJMWExRdHc",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789431750.0
+    },
+    {
+        "id": "8de68b7e19",
+        "title_fa": "سقوط نظامی آمریکا در جنگ ایران",
+        "title_en": "\"How we lost the war with Iran\": Shock findings on US military collapse",
+        "summary": [
+            "گزارش پنتاگون نشان می‌دهد پایگاه‌های آمریکایی به‌طور گسترده‌ای تخریب شده و هزاران پهپاد و هواپیما از دست رفته‌اند",
+            "هزینه میلیاردها دلاری بدون دستاورد استراتژیک، اعتماد هم‌پیمانان در خطر است",
+            "پیشرفت حوثی‌ها در باب‌ال‌مندب نشان‌دهنده موفقیت پروکسی‌های ایران و تضعیف حضور آمریکا است",
+            "این بحران ممکن است باعث تجدید نظر در سیاست‌های نظامی واشنگتن شود"
+        ],
+        "impact": "تضعیف حضور نظامی آمریکا در خاورمیانه و احتمال تغییر استراتژی‌های دفاعی",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "bankingnews.gr",
+        "url": "https://www.bankingnews.gr/diethni/articles/899398/how-we-lost-the-war-with-iran-shock-findings-on-us-military-collapse-houthis-close-tehran-s-trap+title=",
+        "clean_url": "https://www.bankingnews.gr/diethni/articles/899398/how-we-lost-the-war-with-iran-shock-findings-on-us-military-collapse-houthis-close-tehran-s-trap+title=",
+        "image": "https://www.bankingnews.gr/image/12_309.jpg",
+        "timestamp": 1789430340.0
     },
     {
         "id": "31a45e0206",
@@ -5397,56 +5453,5 @@
         "clean_url": "https://cryptobriefing.com/iran-irgc-tanker-mine-claim-centcom",
         "image": "https://www.bing.com/th?id=ONUT.yM9BLV9-7XeLoqEQTXN8aQ",
         "timestamp": 1789333963.0
-    },
-    {
-        "id": "a6e195c930",
-        "title_fa": "خبر بین‌المللی — Wild hamster defends itself with quick jumps در روسیه",
-        "title_en": "Wild hamster defends itself with quick jumps in Russia",
-        "summary": [
-            "A wild hamster in Russia was caught on camera digging when it suddenly jumped into a defensive stance and made several quick..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Amazon S3 on MSN",
-        "url": "https://www.msn.com/en-us/news/other/wild-hamster-defends-itself-with-quick-jumps-in-russia/vi-AA2ccHqJ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/wild-hamster-defends-itself-with-quick-jumps-in-russia/vi-AA2ccHqJ",
-        "image": "https://www.bing.com/th?id=ONUT.9pxxaXX2Mo_b2Y_XTgVCog",
-        "timestamp": 1789333963.0
-    },
-    {
-        "id": "377a281646",
-        "title_fa": "خبر بین‌المللی — Italy’s deputy PM believes that weak politicians need Ukrain",
-        "title_en": "Italy’s deputy PM believes that weak politicians need Ukrainian conflict",
-        "summary": [
-            "Italian Deputy Prime Minister Matteo Salvini said that it is weak politicians who are interested in the continuation of the Ukrainian conflict. \"We should not obey the logic of the conflict, drones. I..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2187553",
-        "clean_url": "https://tass.com/world/2187553",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1789333963.0
-    },
-    {
-        "id": "8faf1cb50e",
-        "title_fa": "خبر بین‌المللی — German liberal foundation awards its Freedom Prize به people",
-        "title_en": "German liberal foundation awards its Freedom Prize to people of Iran",
-        "summary": [
-            "The Friedrich Naumann Foundation for Freedom is awarding its 2026 Freedom Prize to the Iranian people, the German liberal..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "DPA International on MSN",
-        "url": "https://www.msn.com/en-gb/politics/government/german-liberal-foundation-awards-its-freedom-prize-to-people-of-iran/ar-AA2ccWec?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/politics/government/german-liberal-foundation-awards-its-freedom-prize-to-people-of-iran/ar-AA2ccWec",
-        "image": "https://www.bing.com/th?id=ONUT.NOgKMi3dYeUdyhf0fPwudw",
-        "timestamp": 1789333962.0
     }
 ]
