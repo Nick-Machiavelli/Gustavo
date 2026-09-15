@@ -1,5 +1,77 @@
 [
     {
+        "id": "21f10ed8db",
+        "title_fa": "امپریالیسم سقوط‌پذیر ترامپ تهدید جهانی",
+        "title_en": "Donald Trump’s imperialism of decline is a global menace",
+        "summary": [
+            "تحلیلگر می‌گوید ترامپ با حذف پوشش‌های ایدئولوژیک به‌صورت واضح به منافع خود می‌پردازد",
+            "ضعف آمریکا در صحنه بین‌المللی خطرات جدیدی برای رقبا ایجاد می‌کند"
+        ],
+        "impact": "تشدید نگرانی‌های بین‌المللی نسبت به سیاست‌های بی‌ثبات آمریکا",
+        "tag": "امپریالیسم",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Jacobin on MSN",
+        "url": "https://www.msn.com/en-us/news/other/donald-trump-s-imperialism-of-decline-is-a-global-menace/ar-AA2cgyVQ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-s-imperialism-of-decline-is-a-global-menace/ar-AA2cgyVQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789486584.7880805
+    },
+    {
+        "id": "728e28bc32",
+        "title_fa": "خبرنگاری نباید ذهن خوانی باشد",
+        "title_en": "When journalism crosses the line from reporting to mind reading",
+        "summary": [
+            "رسانه‌ها باید به گفته‌های عمومی رهبران بسنده کنند",
+            "حدس‌زدن به نیت‌های شخصی باعث تحریف واقعیت می‌شود"
+        ],
+        "impact": "هشدار به خبرنگاران برای حفظ بی‌طرفی و دقت در گزارش",
+        "tag": "رسانه",
+        "urgency": 1,
+        "sentiment": 0.2,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-my/news/news/when-journalism-crosses-the-line-from-reporting-to-mind-reading/ar-AA2cgRmb?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-my/news/news/when-journalism-crosses-the-line-from-reporting-to-mind-reading/ar-AA2cgRmb",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789486584.7873309
+    },
+    {
+        "id": "ab82e793f8",
+        "title_fa": "ترامپ از دیوان عالی خشمگین شد",
+        "title_en": "Donald Trump Is the President of Buyer’s Remorse",
+        "summary": [
+            "ترامپ می‌گوید دیوان عالی به دلیل ترس از چپ‌گرایان تصمیم‌گیری کرده",
+            "او ادعا می‌کند این تصمیمات هزینه تریلیون دلاری برای آمریکا دارد"
+        ],
+        "impact": "کاهش اعتبار ترامپ در میان حامیانش و تشدید تنش سیاسی داخلی",
+        "tag": "عدالت",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/donald-trump-maga-buyers-remorse-scotus-mail-ballots-12444526",
+        "clean_url": "https://www.newsweek.com/donald-trump-maga-buyers-remorse-scotus-mail-ballots-12444526",
+        "image": "https://www.bing.com/th?id=ONUT.6ShYIh13pmrqNO9FYnZOWw",
+        "timestamp": 1789486584.7869775
+    },
+    {
+        "id": "3b86790dad",
+        "title_fa": "سوزان کالینز رای ضد سقط را داد",
+        "title_en": "Susan Collins Quietly Casts Anti-Abortion Vote Ahead of Election",
+        "summary": [
+            "کالینز به‌عنوان رای‌گیرنده تساوی در سنا، قاضی مخالف سقط را تصویب کرد",
+            "این تصمیم پیش از انتخابات و با حمایت ترامپ انجام شد"
+        ],
+        "impact": "تقویت نیروی قضایی محافظه‌کار و افزایش تنش سنا‑دموکرات",
+        "tag": "قضایی",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/215422/susan-collins-anti-abortion-judicial-nominee-ahead-election",
+        "clean_url": "https://newrepublic.com/post/215422/susan-collins-anti-abortion-judicial-nominee-ahead-election",
+        "image": "https://www.bing.com/th?id=ONUT._sC-t28bIa8DYqllI7-oSg",
+        "timestamp": 1789486584.786613
+    },
+    {
         "id": "6e6d9400d4",
         "title_fa": "نشانه‌های سقوط بازار آمریکا نزدیک است",
         "title_en": "'Extraordinarily dire' signs spark fears of imminent US crash: 'This could be it'",
@@ -2749,6 +2821,24 @@
         "timestamp": 1789410416.1066818
     },
     {
+        "id": "503aae6f6a",
+        "title_fa": "آمریکا آماده‌ست سوخت هسته‌ای به ایران بدهد",
+        "title_en": "US Ready to Supply Iran with Nuclear Fuel",
+        "summary": [
+            "وزیر انرژی آمریکا گفت می‌تواند سوخت هسته‌ای را از خارج تأمین کند",
+            "این پیشنهاد مشروط به حل مناقشه برنامه هسته‌ای ایران است"
+        ],
+        "impact": "امکان کاهش تنش هسته‌ای و فشار دیپلماتیک بر ایران",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Sada Elbalad English",
+        "url": "https://see.news/us-ready-to-supply-iran-with-nuclear-fuel",
+        "clean_url": "https://see.news/us-ready-to-supply-iran-with-nuclear-fuel",
+        "image": "https://i2.wp.com/see.news/images/2026/09/-1789399096-0.jpg?resize=920%2C550&ssl=1",
+        "timestamp": 1789409940.0
+    },
+    {
         "id": "a846d91a58",
         "title_fa": "پیش‌بینی ترامپ: سقوط قیمت نفت پس از جنگ ایران",
         "title_en": "Oil prices will 'drop like a rock' after Iran conflict, Trump predicts",
@@ -5310,98 +5400,5 @@
         "clean_url": "https://www.jns.org/opinion/jason-shvili/stop-blaming-netanyahu-for-policies-most-israelis-support",
         "image": "https://www.bing.com/th?id=ONUT.vE9TqkX6i9G1C0V7XTgJ-A",
         "timestamp": 1789370746.7812316
-    },
-    {
-        "id": "515a2e0ae3",
-        "title_fa": "دو جنگ جهان را به بحران دیزل می‌کشاند",
-        "title_en": "The world wishes it had a 'diesel printer' as two wars push fuel to the brink",
-        "summary": [
-            "جنگ‌های جاری عرضه نفت را محدود می‌کند و ذخایر را تحت فشار می‌گذارند",
-            "قیمت دیزل به‌سرعت به سطوح رکوردی نزدیک می‌شود",
-            "بانک‌های مرکزی سعی در مهار تورم دارند اما کمبود سوخت مانع تثبیت قیمت‌ها می‌شود"
-        ],
-        "impact": "هزینه حمل و نقل و کالاها بالا می‌رود، فشار بر اقتصادهای در حال توسعه",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Economic Times on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/the-world-wishes-it-had-a-diesel-printer-as-two-wars-push-fuel-to-the-brink/ar-AA2c9XDT?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/the-world-wishes-it-had-a-diesel-printer-as-two-wars-push-fuel-to-the-brink/ar-AA2c9XDT",
-        "image": "https://www.bing.com/th?id=ONUT.rDoby1v_jFQO3EL8og3e4Q",
-        "timestamp": 1789370073.7315218
-    },
-    {
-        "id": "a7f2965643",
-        "title_fa": "اقتصاد سایه ایران می‌تواند سازگار شود اما نه تا ابد",
-        "title_en": "Iran’s shadow economy can adapt. But not indefinitely",
-        "summary": [
-            "بخش غیررسمی اقتصاد ایران به‌سرعت به تحریم‌ها واکنش می‌دهد و فعالیت‌های جایگزین می‌سازد.",
-            "این سازگاری هزینه‌های بالایی دارد؛ زیرساخت‌های مالی و بانکی به‌تدریج دچار فشار می‌شوند.",
-            "کاهش منابع نفتی و فشارهای بین‌المللی باعث می‌شود ظرفیت ادامه این روند محدود شود."
-        ],
-        "impact": "قابلیت تحمل تحریم‌ها کاهش می‌یابد و دولت مجبور به اصلاح ساختارهای مالی می‌شود",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Al Majalla",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTVWLThXZnFoV1h2LWhuaGxLbTVOSF9jMUJ0SjF3a0ZNaWFGeGczWFp2aDJiUDdiQ1BXcU1oZDBEUjllVGFmRkRnQ1FWdEVKX0tqVE5DZkx3bkE2SzJuVnh5cnVWZEdBNFpGRmJ2dFppYWNyU1lIbDdrdFpkeVZYNjRCREdNZEh4Tmw4bFpDVlo1SF9DcVp2bHZpZHBhQm5fY1Rtb3RKSTEwOFF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTVWLThXZnFoV1h2LWhuaGxLbTVOSF9jMUJ0SjF3a0ZNaWFGeGczWFp2aDJiUDdiQ1BXcU1oZDBEUjllVGFmRkRnQ1FWdEVKX0tqVE5DZkx3bkE2SzJuVnh5cnVWZEdBNFpGRmJ2dFppYWNyU1lIbDdrdFpkeVZYNjRCREdNZEh4Tmw4bFpDVlo1SF9DcVp2bHZpZHBhQm5fY1Rtb3RKSTEwOFF3",
-        "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789369978.0
-    },
-    {
-        "id": "168499dc16",
-        "title_fa": "خانواده پس از بازداشت ICE به دنبال پاسخ",
-        "title_en": "'This is wrong': Family seeks answers after Seaside man 'bombarded in parking lot' during ICE detainment",
-        "summary": [
-            "یک مرد در اورگن تحت بازداشت ICE در پارکینگ مورد شلیک قرار گرفت",
-            "خانواده او هنوز پاسخی از مقامات دریافت نکرده و این رفتار را غیرقانونی می‌داند",
-            "حادثه فشار بین‌المللی بر سیاست‌های مهاجرتی آمریکا را افزایش می‌دهد"
-        ],
-        "impact": "ممکن است فشار عمومی برای بازنگری روش‌های بازداشت ICE و نظارت بیشتر بر استفاده از سلاح‌های غیرکوتاه ایجاد شود",
-        "tag": "حقوق بشر",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "KOIN Portland on MSN",
-        "url": "https://www.msn.com/en-us/news/other/this-is-wrong-family-seeks-answers-after-seaside-man-bombarded-in-parking-lot-during-ice-detainment/vi-AA2ceYBb?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/this-is-wrong-family-seeks-answers-after-seaside-man-bombarded-in-parking-lot-during-ice-detainment/vi-AA2ceYBb",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789369553.0
-    },
-    {
-        "id": "0d1f0676e0",
-        "title_fa": "خبر بین‌المللی — US Lawmaker Submits Amendment Naming India در روسیه تحریم‌ها",
-        "title_en": "US Lawmaker Submits Amendment Naming India in Russia Sanctions Act",
-        "summary": [
-            "The Lindsey O Graham Sanctioning Russia and Iran Act seeks to impose sanctions not only on Russia's leadership and energy sector, but also on the \"shadow fleet\" of vessels that enable Moscow to..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Deccan Chronicle",
-        "url": "https://www.deccanchronicle.com/world/americas/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act-1987522",
-        "clean_url": "https://www.deccanchronicle.com/world/americas/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act-1987522",
-        "image": "https://www.deccanchronicle.com/h-upload/2025/12/05/1986372-putin.jpg",
-        "timestamp": 1789368855.0
-    },
-    {
-        "id": "6e04b3af4a",
-        "title_fa": "ایران: اعتراضات، سقوط MQ‑1 و فشار آمریکا",
-        "title_en": "Iran war latest: Iran protests as US prevents its nuclear chief attending IAEA meeting",
-        "summary": [
-            "ایران گفت تا رفع شرایط خود، گفت‌وگو با آمریکا را رد می‌کند.",
-            "سپاه دومین پهپاد MQ‑1 را در هرمز سرنگون کرد؛ نشانگر ارتقای توان دفاعی است.",
-            "ترامپ خواست دیگر کشورها هزینه جنگ ایران را به ایالات متحده جبران کنند."
-        ],
-        "impact": "تحریم‌های جدید و تنش‌های نظامی خلیج فارس خطر تشدید درگیری را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "thenationalnews",
-        "url": "https://www.thenationalnews.com/news/mena/2026/08/31/live-larak-island-us-strikes-iran/",
-        "clean_url": "https://www.thenationalnews.com/news/mena/2026/08/31/live-larak-island-us-strikes-iran",
-        "image": "https://www.thenationalnews.com/resizer/v2/S3OFA72LVS7OXZH4LAYBMH5HH4.jpg?auth=7d28b853e04bd6754bdd7af3c9a715ccfddd2d7074dbc2fda4a35738b8d0b817&smart=true&width=1200&height=630",
-        "timestamp": 1789368437.0
     }
 ]
