@@ -53,6 +53,25 @@
         "timestamp": 1789433641.8626683
     },
     {
+        "id": "7af4208aa8",
+        "title_fa": "نظارت‌گر آمریکا خسارات جنگ ایران به تجهیزات نظامی را شمارد",
+        "title_en": "US watchdog tallies Iran war’s hit to weapons stockpiles, military bases and more",
+        "summary": [
+            "نهاد نظارتی آمریکا تخمین زده است که جنگ ایران‑عراق باعث از دست رفتن یا آسیب‌دیدگی هزاران دستگاه نظامی شد",
+            "خسارات شامل پایگاه‌های هوایی، تانک‌ها و سلاح‌های سنگین می‌شود",
+            "آمار جدید می‌تواند تصمیم‌گیری‌های پشتیبانی نظامی آمریکا را تحت فشار قرار دهد"
+        ],
+        "impact": "تشدید درخواست تقویت حضور نظامی آمریکا در خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYa0FkUVZmYVNsMHYzSzdIVlFRNEp1aEFtQmZURU1TNjFidWRkZmVhdG5NLUdWZFYzb0lRb3EyU29WNUgzVUdiN1daLWtSNWhqRnJ3ZWdBQ3pKOVhodnh4Y0l5VzJMWExRdHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYa0FkUVZmYVNsMHYzSzdIVlFRNEp1aEFtQmZURU1TNjFidWRkZmVhdG5NLUdWZFYzb0lRb3EyU29WNUgzVUdiN1daLWtSNWhqRnJ3ZWdBQ3pKOVhodnh4Y0l5VzJMWExRdHc",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789431750.0
+    },
+    {
         "id": "5922c0d054",
         "title_fa": "ایران مذاکرات را تا رفع خواسته‌ها به تعویق می‌اندازد",
         "title_en": "US Air Force colonel shot down over Iran recounts 'modern-day miracle'",
@@ -2691,6 +2710,25 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iran-nuclear-chief-s-iaea-appearance-hangs-in-balance-over-travel-ban/ar-AA2c9avQ",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c92Xn.img?w=1200&h=900&m=4&q=65",
         "timestamp": 1789351393.0
+    },
+    {
+        "id": "9b2326c943",
+        "title_fa": "ترامپ خواست جبران هزینه‌ حفاظت از تنگه هرمز",
+        "title_en": "Trump Seeks Reimbursement From Countries For Securing Strait of Hormuz",
+        "summary": [
+            "ترامپ از کشورهای خلیج می‌خواهد هزینه حضور نیروی آمریکایی در تنگه هرمز را بپردازند",
+            "درخواست در قالب فشار اقتصادی و سیاسی علیه ایران مطرح شد",
+            "اگر پذیرفته شود، هزینه‌های امنیتی منطقه به‌صورت مستقیم به کشورهای همسایه منتقل می‌شود"
+        ],
+        "impact": "افزایش فشار مالی بر کشورهای خلیج و تقویت ردیف تحریم‌ها علیه ایران",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/iran-war-donald-trump-seeks-reimbursement-from-countries-for-securing-strait-of-hormuz-12047081",
+        "clean_url": "https://www.ndtv.com/world-news/iran-war-donald-trump-seeks-reimbursement-from-countries-for-securing-strait-of-hormuz-12047081",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789350716.0
     },
     {
         "id": "5e4a51ccae",
@@ -5425,42 +5463,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/houthis-seize-2-strategic-red-sea-islands-other-mideast-developments/ar-AA2cbHS1",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789302642.0
-    },
-    {
-        "id": "db90c46b86",
-        "title_fa": "ترامپ درخواست کاهش سرعت هوش مصنوعی را رد کرد",
-        "title_en": "Trump brushes off calls for AI slowdown from tech CEOs",
-        "summary": [
-            "ترامپ نسبت به درخواست رهبران فناوری برای محدود کردن هوش مصنوعی بی‌توجهی کرد",
-            "او ادعا کرد نیروهای منفی بر صنعت فشار می‌آورند",
-            "این بیانیه می‌تواند نظارت قانونی را به تعویق بیندازد",
-            "جامعه فناوری نگران خطرات سوءاستفاده است"
-        ],
-        "impact": "رد درخواست کاهش سرعت هوش مصنوعی ممکن است نظارت قانونی را به تعویق بیندازد و خطر سوءاستفاده را بالا ببرد",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "Richmond Times-Dispatch",
-        "url": "https://richmond.com/news/nation-world/government-politics/article_00cefa71-13f9-5aef-bc1c-98f40ec877bc.html",
-        "clean_url": "https://richmond.com/news/nation-world/government-politics/article_00cefa71-13f9-5aef-bc1c-98f40ec877bc.html",
-        "image": "https://www.bing.com/th?id=ONUT.dTyyBEetbHWu4XlhP0Em7g",
-        "timestamp": 1789302642.0
-    },
-    {
-        "id": "4f1385472a",
-        "title_fa": "خبر بین‌المللی — ترامپ’s foes find common ground at Modi’s New Delhi summit",
-        "title_en": "Trump’s foes find common ground at Modi’s New Delhi summit",
-        "summary": [
-            "Leaders of emerging powers including Russia and Iran projected a united front at a weekend summit in New Delhi, with a joint statement that targeted a US-launched war in the Middle East, Washington’s..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "BusinessMirror",
-        "url": "https://businessmirror.com.ph/2026/09/14/trumps-foes-find-common-ground-at-modis-new-delhi-summit/",
-        "clean_url": "https://businessmirror.com.ph/2026/09/14/trumps-foes-find-common-ground-at-modis-new-delhi-summit",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789301894.0
     }
 ]
