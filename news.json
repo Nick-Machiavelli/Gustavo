@@ -1,5 +1,25 @@
 [
     {
+        "id": "1eb2001e20",
+        "title_fa": "کمبود سلاح‌ها به‌دلیل جنگ ایران",
+        "title_en": "Pentagon inspector general says Iran war has caused weapons shortages",
+        "summary": [
+            "بازرس کل پنتاگون اعلام کرد که جنگ با ایران زنجیره تأمین سلاح‌های نظامی را مختل کرده.",
+            "قطعات کلیدی مانند موتورهای جت و سیستم‌های هدایت با کمبود مواجه‌اند.",
+            "این کمبود می‌تواند زمان آماده‌سازی و تعمیر تجهیزات را به‌طور قابل‌توجهی افزایش دهد.",
+            "وزارت دفاع مجبور به جستجوی منابع جایگزین و تسریع برنامه‌های تعمیر است."
+        ],
+        "impact": "قابلیت پاسخ سریع نیروی نظامی آمریکا در خاورمیانه کاهش می‌یابد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNkMxYURTcUFqTURFSG9VdlU1MWZCOHNaRHBwRUY2cGhZbW1LeWJzb2tRakp0S2ZlUFliMmc5WlJ1RFZqWVhsVk9yTXZQc0lvZjNnTkZkLVNzM3N5eHl3OFJmVlFqazFNVlE4SXR0ZGdLX000Y0ZOVUY2UDRfbkd1OGotaU1jZ0tFczhmM3Z6d09ETms?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNkMxYURTcUFqTURFSG9VdlU1MWZCOHNaRHBwRUY2cGhZbW1LeWJzb2tRakp0S2ZlUFliMmc5WlJ1RFZqWVhsVk9yTXZQc0lvZjNnTkZkLVNzM3N5eHl3OFJmVlFqazFNVlE4SXR0ZGdLX000Y0ZOVUY2UDRfbkd1OGotaU1jZ0tFczhmM3Z6d09ETms",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789456808.0
+    },
+    {
         "id": "9f733d3be6",
         "title_fa": "دیزل به ۶ دلار رسید؛ ترامپ اوکراین را مقصر می‌داند",
         "title_en": "US diesel tops $6 as Trump points to Ukraine",
@@ -3020,6 +3040,26 @@
         "timestamp": 1789373160.0
     },
     {
+        "id": "c42959da5f",
+        "title_fa": "بازده ۱۰‑ساله آمریکا به بالاترین سطح از ۲۰۰۷",
+        "title_en": "Bonds slump as US 10-year Treasury yields hit highest since 2007",
+        "summary": [
+            "بازده اوراق ۱۰‑ساله آمریکا به بیش از ۴٪ رسید؛ بالاترین سطح از سال ۲۰۰۷.",
+            "قیمت اوراق دولتی سقوط کرد و سرمایه‌گذاران به دنبال پناهگاه‌های امن رفتند.",
+            "افزایش بازده باعث تقویت دلار و فشار بر بازارهای نوظهور شد.",
+            "بازار انتظار دارد فدرال رزرو نرخ بهره را بالا نگه دارد."
+        ],
+        "impact": "هزینه استقراض دولتی و خصوصی بالا می‌رود و رشد اقتصادی تحت فشار قرار می‌گیرد.",
+        "tag": "اوراق",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/bonds-slump-as-us-10-year-treasury-yields-hit-highest-since-2007/ar-AA2ceRpH?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/bonds-slump-as-us-10-year-treasury-yields-hit-highest-since-2007/ar-AA2ceRpH",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789372386.0
+    },
+    {
         "id": "dce859dd97",
         "title_fa": "خبر بین‌المللی — ترامپ says Ukraine و روسیه agreed به stop targeting energy s",
         "title_en": "Trump says Ukraine and Russia agreed to stop targeting energy sites, but Kyiv calls it a 'proposal for a mutual halt'",
@@ -5419,41 +5459,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/air-force-colonel-recounts-how-he-survived-after-f-15e-jet-was-shot-down-over-iran/ar-AA2c8T1l",
         "image": "http://www.bing.com/th?id=ONUT.uJTUXB78wNYikfZThrLUUg&pid=News",
         "timestamp": 1789325028.0
-    },
-    {
-        "id": "864ba864c1",
-        "title_fa": "خبر بین‌المللی — ایران’s Ali al-Taher Dilemma",
-        "title_en": "Iran’s Ali al-Taher Dilemma",
-        "summary": [
-            "Iran’s Ali al-Taher Dilemma The Times of Israel"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WU2pKWlZLVklGZ2pDU0thckhsME9vR3Z0U2k5TGk5V1BhaWRBNjNQOTVXZTB1bDhoc2tESEl4YUlNeGRpM2M2REdHQ0lLU010bDRVaWZSaDd0c0p6WElmWHJ2SkRzdDhLRTFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WU2pKWlZLVklGZ2pDU0thckhsME9vR3Z0U2k5TGk5V1BhaWRBNjNQOTVXZTB1bDhoc2tESEl4YUlNeGRpM2M2REdHQ0lLU010bDRVaWZSaDd0c0p6WElmWHJ2SkRzdDhLRTFn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789324320.0
-    },
-    {
-        "id": "c93b03cc2c",
-        "title_fa": "ترامپ: ایران می‌خواهد توافق؛ نفت به صد دلار",
-        "title_en": "Trump says Iran wants a deal as fighting drives oil toward $100",
-        "summary": [
-            "ترامپ گفت رهبری ایران مایل به توافق است اما هزینه‌های جنگ بر بازارها فشار می‌آورد",
-            "او افزود جنگ باعث صعود قیمت نفت به نزدیک صد دلار در هر بشکه شده",
-            "این اظهارات می‌تواند فشار بر مذاکرات هسته‌ای را تقویت کند"
-        ],
-        "impact": "قیمت نفت بالا، هزینه‌های اقتصادی برای آمریکا و جهان افزایش می‌یابد",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Idaho Public Press on MSN",
-        "url": "https://www.msn.com/en-us/money/general/trump-says-iran-wants-a-deal-as-fighting-drives-oil-toward-100/ar-AA2c9fp0",
-        "clean_url": "https://www.msn.com/en-us/money/general/trump-says-iran-wants-a-deal-as-fighting-drives-oil-toward-100/ar-AA2c9fp0",
-        "image": "http://www.bing.com/th?id=ONUT.HoaSsn27JQuaMJZynkLyDQ&pid=News",
-        "timestamp": 1789323418.0
     }
 ]
