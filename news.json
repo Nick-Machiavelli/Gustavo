@@ -1,5 +1,24 @@
 [
     {
+        "id": "d311b77130",
+        "title_fa": "دلار نزدیک اوج دو هفته‌ای؛ نفت بالا رفت",
+        "title_en": "Dollar near two-week high as oil surge lifts yields, Fed hike bets",
+        "summary": [
+            "قیمت نفت بالاتر از 80 دلار در بشکه، فشار بر دلار را تقویت کرد",
+            "سبد اوراق خزانه‌داری آمریکا به‌سرعت بالا رفت، انتظارات افزایش نرخ فدرال را تقویت کرد",
+            "دلار قوی، هزینه واردات ایران را بالا می‌برد و فشار بر ارز داخلی را تشدید می‌کند"
+        ],
+        "impact": "قیمت دلار بالا، فشار بر ارز ملی و تورم وارداتی را تشدید می‌کند",
+        "tag": "دلار",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/dollar-near-two-week-high-as-oil-surge-lifts-yields-fed-hike-bets/ar-AA2cedGq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/dollar-near-two-week-high-as-oil-surge-lifts-yields-fed-hike-bets/ar-AA2cedGq",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789440241.4592254
+    },
+    {
         "id": "5b83f3bf45",
         "title_fa": "رقابت امارات‑عربستان، بحران امنیتی سعودی در یمن",
         "title_en": "How Saudi crown prince MBS's rivalry with UAE is bleeding Riyadh in Yemen",
@@ -34,6 +53,25 @@
         "clean_url": "https://www.msn.com/en-in/news/other/is-the-2020s-chinas-decade/ar-AA2cdxxr",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789438499.9126766
+    },
+    {
+        "id": "48fdc7a570",
+        "title_fa": "مذاکرات ایران‑خلیج به تعویق افتاد",
+        "title_en": "Talks between Iran and Gulf states put off",
+        "summary": [
+            "ایران و کشورهای خلیج به دلایل اختلافات منطقه‌ای مذاکرات را به تعویق انداختند",
+            "عدم پیشرفت دیپلماتیک، احتمال تشدید تنش‌های امنیتی در خلیج را افزایش می‌دهد",
+            "فرصت حل اختلافات هسته‌ای و اقتصادی به‌سختی پیش می‌رود"
+        ],
+        "impact": "تعویق مذاکرات، ریسک افزایش تنش‌های نظامی‑اقتصادی در خلیج را بالا می‌برد",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "China Daily",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZNGJqRE9XV05wdVpNVWpjT2Y4eDNUUzhrNGtpUFpMendkcDladFhYLTZWMk9HeTkyWFZaanFOblNkMEo1VU1kS1VKcmRVbzhLZGE0ZHlIdF8yT2M0QUdKR0FNeWlZNTlJSks0ckJ1RFFwOUR0d2dOblBrMWZydw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZNGJqRE9XV05wdVpNVWpjT2Y4eDNUUzhrNGtpUFpMendkcDladFhYLTZWMk9HeTkyWFZaanFOblNkMEo1VU1kS1VKcmRVbzhLZGE0ZHlIdF8yT2M0QUdKR0FNeWlZNTlJSks0ckJ1RFFwOUR0d2dOblBrMWZydw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789436379.0
     },
     {
         "id": "09af62c6d0",
@@ -5418,43 +5456,5 @@
         "clean_url": "https://news.sky.com/story/iran-war-latest-us-and-iran-getting-a-lot-closer-to-finalising-agreement-to-end-war-says-donald-trump-13509565",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789306023.0
-    },
-    {
-        "id": "ebe6310343",
-        "title_fa": "سعودی‌ها در برابر تهدیدهای ایران در نقطهٔ حساس",
-        "title_en": "AP Top Stories September 13",
-        "summary": [
-            "خبرگزاری یاهو، ترکیبی از عناوین روز را منتشر کرد؛ مهم‌ترین نکته، محدودیت گزینه‌های عربستان در مواجهه با فشارهای نظامی و اقتصادی ایران است.",
-            "در عین حال، حضور ترامپ در ایرلند و نشست برکس‌ در هند نشان می‌دهد که تمرکز جهانی بر روی خاورمیانه در حال تغییر است.",
-            "این ترکیب اخبار، نشان می‌دهد که ریسک‌های ژئوپلیتیک منطقه‌ای برای اقتصادهای نفتی در حال تشدید است."
-        ],
-        "impact": "افزایش فشار بر اقتصاد نفتی عربستان، احتمال تجدید نظر در سیاست‌های انرژی منطقه",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Yahoo News Canada",
-        "url": "https://ca.news.yahoo.com/ap-top-stories-september-13-124103960.html",
-        "clean_url": "https://ca.news.yahoo.com/ap-top-stories-september-13-124103960.html",
-        "image": "https://www.bing.com/th?id=ONUT.N4IlgcOFPwVQESuvPr7KJg",
-        "timestamp": 1789305701.30288
-    },
-    {
-        "id": "5203438270",
-        "title_fa": "برکس‌ نمی‌تواند در بحران ایران هم‌صدا شود",
-        "title_en": "The Iran war reveals the limits of BRICS",
-        "summary": [
-            "در اجلاس نیودلهی، بیانیه برکس‌ از جنگ آمریکا‑اسرائیل‑ایران عبور کرد و هیچ‌کس را سرزنش نکرد؛ این نشان می‌دهد که همبستگی سیاسی اعضا محدود است.",
-            "ایران خواست بلوک آمریکا را محکوم کند، اما اختلافات داخلی باعث شد سند نهایی فقط به «تفاوت‌ها» اشاره کند.",
-            "عدم اتخاذ موضع مشترک، توان برکس‌ برای فشار جبهه‌ای بر غرب را به شدت کاهش می‌دهد."
-        ],
-        "impact": "بی‌توجهی برکس‌ به بحران ایران، فشار دیپلماتیک بر تهران را تضعیف می‌کند",
-        "tag": "جئوپلیتیک",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of",
-        "clean_url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-13T012744Z_1095030876_RC2NHNAI3RN3_RTRMADP_3_BRICS-SUMMIT-1789264800.jpg?resize=1920%2C1440",
-        "timestamp": 1789305701.3024814
     }
 ]
