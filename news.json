@@ -866,6 +866,24 @@
         "timestamp": 1789447085.018019
     },
     {
+        "id": "8bceab904c",
+        "title_fa": "رئیس امنیت ملی ایران مذاکرات ترامپ را رد کرد",
+        "title_en": "After Trump floats talks, Iran security chief rejects negotiations until ‘conditions’ met",
+        "summary": [
+            "ترامپ گفت می‌خواهد مذاکراتی برای رفع تحریم‌ها آغاز شود؛ محسن رضایی اعلام کرد تا زمانی که شرایط نفت و تنگه‌ها برآورده نشود، هیچ گفت‌و‌گویی صورت نمی‌گیرد",
+            "این موضع نشان می‌دهد ایران به‌عنوان کارت فشار در برابر آمریکا از مسأله استراتژیک نفت استفاده می‌کند و احتمال ادامه تحریم‌های سنگین را افزایش می‌دهد"
+        ],
+        "impact": "تحریم‌های آمریکا بدون توافق جدید ادامه می‌یابد و درآمد نفتی ایران تحت فشار شدید باقی می‌ماند",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/after-trump-floats-talks-iran-security-chief-rejects-negotiations-until-conditions-met/",
+        "clean_url": "https://www.timesofisrael.com/after-trump-floats-talks-iran-security-chief-rejects-negotiations-until-conditions-met",
+        "image": "http://www.bing.com/th?id=ONUT.lQ0Z2gTE11r4nbQaen8-tA&pid=News",
+        "timestamp": 1789446060.0
+    },
+    {
         "id": "689414526b",
         "title_fa": "خبر بین‌المللی — AFA NEWS: Air Force Learning Stand-Off Munitions Lessons fro",
         "title_en": "AFA NEWS: Air Force Learning Stand-Off Munitions Lessons from 'Modern Conflicts'",
@@ -5405,24 +5423,5 @@
         "clean_url": "https://www.usnews.com/news/world/articles/2026-09-14/houthis-strike-saudi-targets-anew-as-talks-over-strait-of-hormuz-stall",
         "image": "https://www.bing.com/th?id=ONUT.egLZD3MN40eGi9VEwdihdg",
         "timestamp": 1789347836.0
-    },
-    {
-        "id": "fdd3fc91bd",
-        "title_fa": "ایران تجارت دریایی را به مسیرهای زمینی می‌سپارد",
-        "title_en": "Can Iran replace sea trade with land routes?",
-        "summary": [
-            "ایران کالاها را به بنادر شمالی و مسیرهای زمینی هدایت می‌کند",
-            "راه‌حل زمینی می‌تواند کالاهای اساسی را موقتاً حفظ کند",
-            "ظرفیت کمتر و هزینهٔ بالاتر باعث محدودیت جایگزینی کامل می‌شود"
-        ],
-        "impact": "کاهش موقت فشار تحریم‌های دریایی با هزینهٔ بالاتر برای واردات",
-        "tag": "تجارت",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "DW on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/can-iran-replace-sea-trade-with-land-routes/ar-AA2ca1hO",
-        "clean_url": "https://www.msn.com/en-xl/news/other/can-iran-replace-sea-trade-with-land-routes/ar-AA2ca1hO",
-        "image": "http://www.bing.com/th?id=ONUT.0XOvfa-uC7SVISDInHc1pg&pid=News",
-        "timestamp": 1789347000.0
     }
 ]
