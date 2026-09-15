@@ -1,5 +1,45 @@
 [
     {
+        "id": "34d043fabf",
+        "title_fa": "قضیه رای‌گیری پستال ترامپ توسط دیوان عالی مسدود شد",
+        "title_en": "'Desperate' Trump loses Supreme Court mail voting ruling which may 'embolden' him, Judge Luttig says",
+        "summary": [
+            "دیوان عالی آمریکا تصمیم گرفت قوانین پستال ترامپ برای انتخابات میانی مسدود شود",
+            "این تصمیم می‌تواند دسترسی برخی رأی‌دهندگان به رای‌گیری پستی را محدود کند",
+            "ترامپ ممکن است این مسدودسازی را به عنوان انگیزه برای تشدید اعتراضات استفاده کند",
+            "نتایج انتخابات میانی می‌تواند مسیر سیاسی او را به‌طور قابل‌توجهی تغییر دهد"
+        ],
+        "impact": "مسدود شدن قوانین پستال، ممکن است نتایج انتخابات میانی را تحت‌تأثیر قرار دهد",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "MS NOW on MSN",
+        "url": "https://www.msn.com/en-us/news/other/desperate-trump-loses-supreme-court-mail-voting-ruling-which-may-embolden-him-judge-luttig-says/vi-AA2ce9uy?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/desperate-trump-loses-supreme-court-mail-voting-ruling-which-may-embolden-him-judge-luttig-says/vi-AA2ce9uy",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789445682.8422616
+    },
+    {
+        "id": "0f53acea75",
+        "title_fa": "کاهش مهاجرت، کلید بهره‌وری اقتصادی",
+        "title_en": "‘Slashing population is one thing’ – but improving productivity is the key",
+        "summary": [
+            "کاهش مهاجرت به تنهایی نمی‌تواند رشد اقتصادی را تضمین کند",
+            "افزایش بهره‌وری نیاز به سرمایه‌گذاری در آموزش و فناوری دارد",
+            "مثال کانادا نشان داد که محدودیت مهاجرت بدون اصلاحات ساختاری، رکود می‌آورد",
+            "حزب‌دارانی که ترکیب این دو را ارائه دهند، احتمال حمایت رای‌دهندگان را دارند"
+        ],
+        "impact": "بدون ترکیب مهاجرت و بهره‌وری، سیاست‌های اقتصادی ممکن است نتایج مورد انتظار را ندهند",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "2GB",
+        "url": "https://www.2gb.com/slashing-population-is-one-thing-but-improving-productivity-is-the-key/",
+        "clean_url": "https://www.2gb.com/slashing-population-is-one-thing-but-improving-productivity-is-the-key",
+        "image": "https://www.2gb.com/wp-content/uploads/sites/2/2026/09/GettyImages-2294250195-scaled.jpg",
+        "timestamp": 1789445682.8416083
+    },
+    {
         "id": "db57c53f3c",
         "title_fa": "ترامپ در برابر خطر هوش مصنوعی بی‌تفاوت",
         "title_en": "Lawrence: Trump worst person to be in White House when AI could do what nuclear weapons haven’t",
@@ -36,6 +76,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjZmxBVS1sTnhuUjgzWGI4QTdaNEtYa3Bqd3F0c3lsYmRuQWpIZlJKT0hwU04taTFudlIyUl93bk5xV1lZRkZ4RVdEVzFzVjVPVExMU21vSU0",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789444083.0
+    },
+    {
+        "id": "3f17492991",
+        "title_fa": "هزینه‌های جنگ ایران به ۳۳٫۴ میلیارد دلار رسید",
+        "title_en": "Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war",
+        "summary": [
+            "دولت آمریکا اعلام کرد هزینه کل جنگ ایران ۳۳٫۴ میلیارد دلار است",
+            "کمبود سلاح‌های پیشرفته باعث خسارت به صدها ساختمان و هواپیما شد",
+            "این رقم نشان‌دهنده فشار مالی سنگین بر بودجه دفاعی است",
+            "هزینه‌های افزایشی می‌تواند مانع ادامه عملیات گسترده شود"
+        ],
+        "impact": "هزینه ۳۳٫۴ میلیارد دلاری فشار مالی جدی بر بودجه دفاعی آمریکا ایجاد می‌کند",
+        "tag": "هزینه",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU2g2cmRJTDd4WUJrcVIwTVhrbGZZZm5iZi1MWEpoTWdUdGY3dmI2ZUFQaVc3WE45eHNac2c3eHFzVy10dGI2Qm5PbFRlM3pvSmw5bGhLMVVmZU9aRDVRM05Ya2xJYlc1WkhyVGhtM0tqeTdDTFRTeDZvSHllend3Ui16ejNoSzZpLWdsN2ItMDF2LWNj0gGaAUFVX3lxTE16bzhDWEpYVUNNRkVRbTVGZmFYZEFVaW1zZV90M3dGNVlmTFNuTnVEdW92cmhqSEt3VE9leVN3a2F5ZjN0X0lrM09jdnZuS1NYZHdtejlYWEZ6NVVZMFhLSWtzcG5QUmd6dWRkdzFiUFoxNE9DcjZyc1NiWWFybkE5Tzl5LXgyOThaS1NPZWxEZE9hSEhBeER2NGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU2g2cmRJTDd4WUJrcVIwTVhrbGZZZm5iZi1MWEpoTWdUdGY3dmI2ZUFQaVc3WE45eHNac2c3eHFzVy10dGI2Qm5PbFRlM3pvSmw5bGhLMVVmZU9aRDVRM05Ya2xJYlc1WkhyVGhtM0tqeTdDTFRTeDZvSHllend3Ui16ejNoSzZpLWdsN2ItMDF2LWNj0gGaAUFVX3lxTE16bzhDWEpYVUNNRkVRbTVGZmFYZEFVaW1zZV90M3dGNVlmTFNuTnVEdW92cmhqSEt3VE9leVN3a2F5ZjN0X0lrM09jdnZuS1NYZHdtejlYWEZ6NVVZMFhLSWtzcG5QUmd6dWRkdzFiUFoxNE9DcjZyc1NiWWFybkE5Tzl5LXgyOThaS1NPZWxEZE9hSEhBeER2NGc",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789443900.0
     },
     {
         "id": "322002260d",
@@ -143,6 +203,26 @@
         "clean_url": "https://www.indiatoday.in/world/story/houthis-attack-saudi-arabian-crown-prince-mohammed-bin-salman-red-sea-bab-el-mandeb-uae-ansar-allah-yemen-2994216-2026-09-15",
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/how-a-saudi-prince-with-axe-to-grind-lost-yemen-140238258-16x9_0.png?VersionId=3zqZCBewuADgSIPnLL_qj3bj.fqzYaia",
         "timestamp": 1789439163.575469
+    },
+    {
+        "id": "742cb410a5",
+        "title_fa": "قیمت نفت با تشدید ریسک هرمز بالا می‌رود",
+        "title_en": "Oil Seen Elevated as Hormuz Risks Intensify Amid Iran Conflict, Analysts Say",
+        "summary": [
+            "تحلیل‌گران هشدار می‌دهند ریسک عبور کشتی‌ها از تنگه هرمز به دلیل جنگ، قیمت نفت را بالا می‌برد",
+            "هرچه تنش‌های نظامی در خلیج فارس ادامه یابد، نوسان قیمت‌ها شدیدتر می‌شود",
+            "بازارهای جهانی به سرعت واکنش نشان می‌دهند و ذخایر استراتژیک را می‌خرند",
+            "این وضعیت فشار بر اقتصادهای وابسته به واردات نفت را تشدید می‌کند"
+        ],
+        "impact": "رشد قیمت نفت به‌سرعت تورم جهانی را تشدید می‌کند",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkloTklwTUZjYW5MYU1kUkUwcEl6WmlsckdJWnYzRjlDcnd1c3BPeThibFo5RTBINFpQeXFRZ2VNLWFacUMwMFBSOXVtRVViTFo1bEJZYXRudmNkRTRBamEyYTkwN1pJeU5oeVhZNjdsemJ1VHg5RFRkSHBLeWNwTU1iVzZrR3BWR09wclN3ajhYdWZHcjJ4MW1PNHRZdHQxcWJIRmgtRHFpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkloTklwTUZjYW5MYU1kUkUwcEl6WmlsckdJWnYzRjlDcnd1c3BPeThibFo5RTBINFpQeXFRZ2VNLWFacUMwMFBSOXVtRVViTFo1bEJZYXRudmNkRTRBamEyYTkwN1pJeU5oeVhZNjdsemJ1VHg5RFRkSHBLeWNwTU1iVzZrR3BWR09wclN3ajhYdWZHcjJ4MW1PNHRZdHQxcWJIRmgtRHFpUQ",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789438732.0
     },
     {
         "id": "a7baf60854",
@@ -1034,6 +1114,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnVHVFdaVlczaVBoVkY0b3NHTU1lV1hteDlBeU1wc1RlMjRqdGY1NWNRUHp6b3FiUElQVnZGOVJYY3psUEZqTXhXUjZPNnpfNDkzcmpvMDgyNUQzQzZkTkNQNU9LNnA3WHVjX2xKNmRHSTRGeDIwSlJ6MXVBUHoyVDJGdEZocGZPTWFMeUtKdzc3NVpTWXEwWXZjQTNsdGNkRGtiZU14eGVUcEdMczYyWlBEMkFwNkVQM2c",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789405331.0
+    },
+    {
+        "id": "4b71e42ab9",
+        "title_fa": "ترامپ جنگ ایران را «سیب زمینی کوچک» نامید",
+        "title_en": "Trump has no path to victory against Iran",
+        "summary": [
+            "ترامپ جنگ را کم‌اهمیت جلوه می‌دهد تا فشار داخلی را کاهش دهد",
+            "هزینه‌ها بالا رفته و موجودی مهمات آمریکا کم شده است",
+            "ایران با تلفات، توان ادامه مقاومت و گسترش عملیات را دارد",
+            "پیروزی واقعی وابسته به فشار سیاسی، نه فقط تخریب زیرساخت‌ها"
+        ],
+        "impact": "بی‌توجهی به هزینه‌های واقعی، توانایی فشار نظامی آمریکا را زیر سؤال می‌برد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Asia Times",
+        "url": "https://asiatimes.com/2026/09/trump-has-no-path-to-victory-against-iran/",
+        "clean_url": "https://asiatimes.com/2026/09/trump-has-no-path-to-victory-against-iran",
+        "image": "http://www.bing.com/th?id=ONUT.LUx3VQ8dDC14aZY_3wVJfw&pid=News",
+        "timestamp": 1789405140.0
     },
     {
         "id": "8363d45d18",
@@ -5351,97 +5451,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/state-of-the-union-did-von-der-leyen-make-good-on-last-year-s-promises/ar-AA2cbRdw",
         "image": "https://www.bing.com/th?id=ONUT.IeQUWjQdgMv7Ji1DuREgsw",
         "timestamp": 1789314763.0
-    },
-    {
-        "id": "965d24dd15",
-        "title_fa": "خبر بین‌المللی — ایرانی People Receive 2026 Freedom Prize",
-        "title_en": "The Iranian People Receive the 2026 Freedom Prize",
-        "summary": [
-            "The Naumann Foundation for Freedom awards its Freedom Prize 2026 to the courageous people of Iran who are fighting for..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Daily Reflector",
-        "url": "https://www.reflector.com/news/national/the-iranian-people-receive-the-2026-freedom-prize/article_fcaa48d4-673f-5fb0-a32c-e6481bb55d35.html",
-        "clean_url": "https://www.reflector.com/news/national/the-iranian-people-receive-the-2026-freedom-prize/article_fcaa48d4-673f-5fb0-a32c-e6481bb55d35.html",
-        "image": "https://www.bing.com/th?id=ONUT.Ckgi34awoiNqpkGT-uxIUw",
-        "timestamp": 1789314763.0
-    },
-    {
-        "id": "dde12b9124",
-        "title_fa": "سرمانده هسته‌ای ایران از کنفرانس آی‌ای‌ایه محروم شد",
-        "title_en": "Iran Nuclear Chief Barred From IAEA Meet Amid Rising Tensions",
-        "summary": [
-            "تحریم‌های سازمان ملل مانع حضور او در وین شد",
-            "عدم حضور سرمانده فرصت دفاع دیپلماتیک ایران را از دست داد و تنش‌ها را تشدید کرد",
-            "نوسان قیمت نفت ممکن است به دلیل عدم قطعیت هسته‌ای بیشتر شود"
-        ],
-        "impact": "تحریم سفر سرمانده فشار دیپلماتیک بر ایران را تقویت و نوسان نفت را تشدید می‌کند",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "whalesbook",
-        "url": "https://www.whalesbook.com/news/English/world-affairs/Iran-Nuclear-Chief-Barred-From-IAEA-Meet-Amid-Rising-Tensions/6aa73bf775fe79b492e5dbb3",
-        "clean_url": "https://www.whalesbook.com/news/English/world-affairs/Iran-Nuclear-Chief-Barred-From-IAEA-Meet-Amid-Rising-Tensions/6aa73bf775fe79b492e5dbb3",
-        "image": "https://images.whalesbook.com/images/images/mu0holo4976b.jpeg",
-        "timestamp": 1789314120.0
-    },
-    {
-        "id": "5042dcfe58",
-        "title_fa": "بسنِت با تحریم‌های هفتگی بانک‌ها فشار می‌آورد",
-        "title_en": "Bessent is doubling down with weekly bank sanctions",
-        "summary": [
-            "بسنِت اعلام کرد هدف‌های جدید تحریم‌های بانکی را هر هفته به‌روز می‌کند",
-            "یک بانک ترکیه‌ای که به ایرانیان وام می‌دهد، به‌عنوان هدف اصلی نام برد",
-            "تحریم‌ها می‌توانند دسترسی ایران به ارزهای خارجی و سیستم مالی بین‌المللی را محدود کنند",
-            "تحلیل‌گران هشدار می‌دهند فشار مداوم ممکن است به بحران نقدینگی داخلی منجر شود"
-        ],
-        "impact": "تحریم‌های مداوم می‌تواند جریان سرمایه به ایران را قطع کرده و فشار اقتصادی را شدت بخشد",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/economy/bessent-is-doubling-down-with-weekly-bank-sanctions",
-        "clean_url": "https://www.thestreet.com/economy/bessent-is-doubling-down-with-weekly-bank-sanctions",
-        "image": "https://www.bing.com/th?id=ONUT.KDmnuIBUf7ZXx1vSn77CYw",
-        "timestamp": 1789313678.4867358
-    },
-    {
-        "id": "d37540baa1",
-        "title_fa": "رئیس‌جمهور ایرلند به ترامپ درباره عادی‌سازی جنگ چالش کرد",
-        "title_en": "Irish president challenges Trump over 'normalisation' of war and genocide during Dublin meeting",
-        "summary": [
-            "ترامپ در برابر فشارهای بین‌المللی برای تغییر سیاست‌های ایران سرسخت باقی می‌ماند",
-            "انتقاد سرسختی از سوی ایرلند نشان می‌دهد تنش‌های حقوق بشری میان غرب و واشنگتن تشدید شده",
-            "این مواجهه می‌تواند فشار دیپلماتیک بر ایالات متحده برای بازنگری در تحریم‌ها را تقویت کند"
-        ],
-        "impact": "افزایش فشار سیاسی بر واشنگتن برای تجدید نظر در سیاست‌های تحریمی علیه ایران",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "International Business Times UK on MSN",
-        "url": "https://www.msn.com/en-gb/politics/international-relations/irish-president-challenges-trump-over-normalisation-of-war-and-genocide-during-dublin-meeting/ar-AA2cc8BT?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/politics/international-relations/irish-president-challenges-trump-over-normalisation-of-war-and-genocide-during-dublin-meeting/ar-AA2cc8BT",
-        "image": "https://www.bing.com/th?id=ONUT.Vkt4mRW0pwq1UmczPnyR4g",
-        "timestamp": 1789313234.0
-    },
-    {
-        "id": "30f846ddfd",
-        "title_fa": "خبر بین‌المللی — Cambodia, ایران Weigh Joint Business Commission Amid تحریم‌ه",
-        "title_en": "Cambodia, Iran Weigh Joint Business Commission Amid Sanctions Constraints",
-        "summary": [
-            "Cambodia has thrown its support behind an Iranian proposal to create a joint business commission, as the two countries seek..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "cambodianess",
-        "url": "https://cambodianess.com/article/cambodia-iran-weigh-joint-business-commission-amid-sanctions-constraints",
-        "clean_url": "https://cambodianess.com/article/cambodia-iran-weigh-joint-business-commission-amid-sanctions-constraints",
-        "image": "https://www.bing.com/th?id=ONUT.KLOhrcgyXHqBovYHC-hLGQ",
-        "timestamp": 1789312515.0
     }
 ]
