@@ -1,5 +1,41 @@
 [
     {
+        "id": "1780a1d041",
+        "title_fa": "تشخیص خرابی شدید موتور BMW کلاسیک",
+        "title_en": "Diagnosing severe mechanical failure on a classic BMW project",
+        "summary": [
+            "ویدیو به بررسی دقیق صدای ضربه‌ای موتور می‌پردازد",
+            "نشان می‌دهد کدام قطعات ممکن است خراب شوند و چطور تعمیر شوند"
+        ],
+        "impact": "به علاقه‌مندان تعمیر خودرو کمک می‌کند تا هزینه تعمیر را کاهش دهند",
+        "tag": "خودرو",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "YouTube on MSN",
+        "url": "https://www.msn.com/en-my/cars/performance-cars/diagnosing-severe-mechanical-failure-on-a-classic-bmw-project/vi-AA2cdwOJ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-my/cars/performance-cars/diagnosing-severe-mechanical-failure-on-a-classic-bmw-project/vi-AA2cdwOJ",
+        "image": "https://www.bing.com/th?id=ONUT.YcirJzjvuuaaaLjlrho1cQ",
+        "timestamp": 1789433641.8631792
+    },
+    {
+        "id": "50e01cbfdc",
+        "title_fa": "ترامپ با هوش مصنوعی تماس گرفت",
+        "title_en": "Trump’s worst market nightmare suddenly seems possible",
+        "summary": [
+            "ترامپ برای رد ترس عمومی از هوش مصنوعی با جنسن هوانگ تماس گرفت",
+            "این اقدام سعی دارد تصویر او را به عنوان حامی فناوری نشان دهد"
+        ],
+        "impact": "نگرانی‌های عمومی درباره هوش مصنوعی ممکن است کمی کاهش یابد",
+        "tag": "AI",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Australian Financial Review",
+        "url": "https://www.afr.com/chanticleer/trump-s-worst-market-nightmare-suddenly-seems-possible-20260915-p60xdz",
+        "clean_url": "https://www.afr.com/chanticleer/trump-s-worst-market-nightmare-suddenly-seems-possible-20260915-p60xdz",
+        "image": "https://www.bing.com/th?id=ONUT.T0s2dYnspJrAln8mxIAqkg",
+        "timestamp": 1789433641.8626683
+    },
+    {
         "id": "5b1db80c55",
         "title_fa": "خبر بین‌المللی — Why ترامپ rushes به announce Ukraine-روسیه ceasefire و what",
         "title_en": "Why Trump rushes to announce Ukraine-Russia ceasefire and what diesel has to do with it",
@@ -1087,6 +1123,25 @@
         "clean_url": "https://www.thejc.com/opinion/analysis/israels-deepening-partnership-with-greece-and-cyprus-is-reshaping-the-eastern-mediterranean-pvk57vbo",
         "image": "https://api.thejc.atexcloud.io/image-service/view/acePublic/alias/contentid/1tscfu7pvc2aobwwkua/0/ashley-jpg.webp?w=1200&q=0.6",
         "timestamp": 1789395469.8332388
+    },
+    {
+        "id": "2bf4feaebd",
+        "title_fa": "قیمت نفت بالای ۱۰۰ دلار پس از تعویق مذاکرات",
+        "title_en": "Oil stays above $100 as Hormuz talks with Iran are postponed",
+        "summary": [
+            "مذاکرات هورموز با ایران به تعویق افتاد",
+            "عدم پیشرفت مذاکرات فشار بر عرضه را افزایش داد و قیمت‌ها را بالای ۱۰۰ دلار نگه داشت",
+            "بازارهای جهانی نگران ادامه تحریم‌ها و نوسان قیمت‌ها هستند"
+        ],
+        "impact": "قیمت سوخت برای مصرف‌کنندگان و صنایع بالا می‌ماند",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Newsmax on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/oil-stays-above-100-as-hormuz-talks-with-iran-are-postponed/ar-AA2ccWJT",
+        "clean_url": "https://www.msn.com/en-us/money/economy/oil-stays-above-100-as-hormuz-talks-with-iran-are-postponed/ar-AA2ccWJT",
+        "image": "http://www.bing.com/th?id=ONUT.p6ht4H2XejJoMBP-HvlHow&pid=News",
+        "timestamp": 1789394919.0
     },
     {
         "id": "a96b8971be",
@@ -5399,60 +5454,5 @@
         "clean_url": "https://www.presstv.co.uk/Detail/2026/09/13/776217/new-resolution-unsc-referral-show-iaea-continues-to-weaponized-us-europe-against-iran",
         "image": "https://www.bing.com/th?id=ONUT.u5Cu-Wgn_3nwJWqUpm5ZrQ",
         "timestamp": 1789299249.4683068
-    },
-    {
-        "id": "03bcb0bf02",
-        "title_fa": "خبر بین‌المللی — Pakistan's damage control with Saudi after backtracking در ح",
-        "title_en": "Pakistan's damage control with Saudi after backtracking on Houthi fight",
-        "summary": [
-            "Pakistani officials worry the Houthi threat is more likely to draw Islamabad into a war than Iranian missile strikes on Saudi..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NDTV on MSN",
-        "url": "https://www.msn.com/en-in/news/other/pakistans-damage-control-with-saudi-after-backtracking-on-houthi-fight/ar-AA2cbmGy?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/pakistans-damage-control-with-saudi-after-backtracking-on-houthi-fight/ar-AA2cbmGy",
-        "image": "https://www.bing.com/th?id=ONUT.hSdDape0QaEKU2rbuS6Nyg",
-        "timestamp": 1789298663.0
-    },
-    {
-        "id": "e03363c9c9",
-        "title_fa": "سخنرانی برکس ۲۰۲۶: جنگ ایران روابط را تغییر داد",
-        "title_en": "Brics summit 2026 Delhi: Iran war reshapes ties but exposes divides",
-        "summary": [
-            "جنگ ایران باعث شد برخی اعضای برکس (چین، روسیه) به حمایت مالی و نظامی از تهران بشتابند، در حالی که هند و آفریقای جنوبی موضع محتاط‌تری اتخاذ کردند.",
-            "تفاوت‌های دیدگاهی درباره تحریم‌های غربی و نقش ایران در منطقه، شکاف‌های عمیق‌تری در چارچوب برکس نشان داد.",
-            "برنامه‌های تجاری و مالی جدید برکس برای دور زدن دلار، به‌سرعت تحت فشار جنگ ایران قرار گرفت و برخی پروژه‌ها به تعویق افتادند."
-        ],
-        "impact": "تقویت یا تضعیف همکاری‌های تجاری برکس بسته به جهت‌گیری‌های ملی، می‌تواند جریان سرمایه‌گذاری‌های منطقه‌ای را به‌طور چشمگیری تغییر دهد.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91b1g5Z3VhS21qLVlBbER6dGVudjhrdUpiNlBkcHVCQTVxQ1FOdnpPWlpkc1VWSEhZTXpXMERDRWQ2X0FpdnFwWEN0N0lrdy1YamZBeW1LOHVmUQ",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789298622.0
-    },
-    {
-        "id": "1b1052f3d2",
-        "title_fa": "حوثی‌ها ادعای حمله به پایگاه سعودی در عربستان",
-        "title_en": "Iran live: Houthis claim attack on Saudi base as advance intensifies",
-        "summary": [
-            "حوثی‌ها حمله به پایگاه نظامی سعودی را ادعا کردند",
-            "این ادعا نشان می‌دهد جنگ در یمن به سرعت گسترش می‌یابد",
-            "آمریکا هنوز پاسخی رسمی نداده"
-        ],
-        "impact": "تنش‌های نظامی خاورمیانه تشدید می‌شود و احتمال واکنش آمریکا بالا می‌رود",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-houthis-claim-attack-on-saudi-base-as-advance-intensifies/ar-AA2bZyWG",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-houthis-claim-attack-on-saudi-base-as-advance-intensifies/ar-AA2bZyWG",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c7pvD.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1789298311.0
     }
 ]
