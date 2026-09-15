@@ -1148,6 +1148,24 @@
         "timestamp": 1789435547.0
     },
     {
+        "id": "906da1436b",
+        "title_fa": "ترامپ حمایت مالی از صنعت فیلم آمریکا",
+        "title_en": "Arthur Cyr",
+        "summary": [
+            "ترامپ در توییت‌سوشال مالیات 10‑20٪ برای تولید فیلم داخلی پیشنهاد کرد",
+            "این طرح پس از فشار لابیست‌های هالیوود برای جلوگیری از مهاجرت تولیدات به خارج است"
+        ],
+        "impact": "سینمای داخلی می‌تواند هزینه‌های تولید را کاهش دهد، رقابت با استودیوهای خارجی تقویت می‌شود",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "Crescent-News",
+        "url": "https://www.crescent-news.com/opinion/opinion_columnists/arthur-cyr---hollywood-does-not-need-tax-subsidies/article_585e6c18-c897-45a6-a367-25ad64a2854c.html",
+        "clean_url": "https://www.crescent-news.com/opinion/opinion_columnists/arthur-cyr---hollywood-does-not-need-tax-subsidies/article_585e6c18-c897-45a6-a367-25ad64a2854c.html",
+        "image": "https://bloximages.newyork1.vip.townnews.com/crescent-news.com/content/tncms/assets/v3/editorial/5/dd/5ddf823a-65e7-5188-907e-5a8955e46353/5a7a085327e11.image.jpg?crop=200,200,0,75",
+        "timestamp": 1789434060.0
+    },
+    {
         "id": "1780a1d041",
         "title_fa": "تشخیص خرابی شدید موتور BMW کلاسیک",
         "title_en": "Diagnosing severe mechanical failure on a classic BMW project",
@@ -1218,6 +1236,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYa0FkUVZmYVNsMHYzSzdIVlFRNEp1aEFtQmZURU1TNjFidWRkZmVhdG5NLUdWZFYzb0lRb3EyU29WNUgzVUdiN1daLWtSNWhqRnJ3ZWdBQ3pKOVhodnh4Y0l5VzJMWExRdHc",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789431750.0
+    },
+    {
+        "id": "5a2624b5a6",
+        "title_fa": "سانتورو رانوچی را به عدم قطع ارتباط با لاوی‌تولا سرزنش کرد",
+        "title_en": "Santoro against Ranucci: \"Unforgivable that he did not distance himself from Lavitola, who confessed to the attack\"",
+        "summary": [
+            "سانتورو گفت عدم قطع رانوچی از لاوی‌تولا پس از اعتراف او «قابل بخشودن نیست»",
+            "او تمایز بین دوستی قبلی و حمایت پس از جرم را تأکید کرد"
+        ],
+        "impact": "اعتماد عمومی به رسانه‌های ایتالیایی تحت فشار می‌گیرد",
+        "tag": "رسانه",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260915KRONOS-202609121348160543_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1789430340.0
     },
     {
         "id": "8de68b7e19",
@@ -1524,6 +1560,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDJMMGxRblFITlJtQllWa2Njd1NvWnZXejVlVmRXQjd1bmstSWU4Ykd5cjl6RzRvaEUyYTZUdXF5VWMxN09GaHdWSmw1OVgxZ3JEdlJHWU5WeTF0eXVHbkNQQTVGTVNId1BtY0pJcFlJY0JjNU1MRFhfQ25SMkZqVWVHTHVTNmVzdEdkR1YxNkp6SldBUXA3NnNqdWZRMGJWaHE0eE55TGxFcll1R0dGVllGR09xZURn",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789417686.0
+    },
+    {
+        "id": "09b9669987",
+        "title_fa": "هوتی‌ها فشار بر آمریکا: دو گزینه ناخوشایند",
+        "title_en": "No good US options as Houthis go for the jugular",
+        "summary": [
+            "پیرو پیروزی‌های میدانی هوتی‌ها، واشنگتن باید یا درگیر جنگ جدید شود یا قیمت گاز بالا برود",
+            "گزینه‌های دیپلماتیک محدود و هزینه‌های اقتصادی سنگین می‌شوند"
+        ],
+        "impact": "قیمت انرژی جهانی می‌چرخد، فشار بر مصرف‌کنندگان آمریکا افزایش می‌یابد",
+        "tag": "هوتی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Politico",
+        "url": "https://www.politico.com/newsletters/national-security-daily/2026/09/14/no-good-us-options-as-houthis-go-for-the-jugular-01074993",
+        "clean_url": "https://www.politico.com/newsletters/national-security-daily/2026/09/14/no-good-us-options-as-houthis-go-for-the-jugular-01074993",
+        "image": "https://www.politico.com/dims4/default/1e78c7f/2147483647/legacy_thumbnail/266x150^/quality/90/?url=https://static.politico.com/4d/c4/c67ff19f496bb84b14de280d20da/u-s-congress-69225.jpg",
+        "timestamp": 1789417200.0
     },
     {
         "id": "cd48aecf3f",
@@ -2111,6 +2165,25 @@
         "clean_url": "https://www.upi.com/Voices/2026/09/14/perspective-xi-trump-summit/1081789396604",
         "image": "https://www.bing.com/th?id=ONUT.PNCqONn9rI1EyWoAtpQEHA",
         "timestamp": 1789403862.2538617
+    },
+    {
+        "id": "3c3f8cc3cc",
+        "title_fa": "تنش‌های اسرائیل‑ایران و مناقشه آتش‌بس غزه",
+        "title_en": "Israel-Iran tensions, Gaza ceasefire dispute, and Hormuz standoff",
+        "summary": [
+            "اسرائیل حملات هوایی به لبنان را تشدید کرد؛ حداقل 16 کشته شد",
+            "مذاکرات آتش‌بس غزه به بن‌بست رسیده و هر دو طرف اتهام‌پذیری می‌کنند",
+            "در هرمز ایران فهرست عدم تبعیت کشتی‌ها گسترش یافت"
+        ],
+        "impact": "منطقه خاورمیانه با چند جبهه همزمان در معرض بی‌ثباتی می‌ماند",
+        "tag": "منطقه‌ای",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "ijr",
+        "url": "https://ijr.com/discover/storyline/israel-iran-tensions-gaza-ceasefire-dispute-and-hormuz-standoff-0563789b",
+        "clean_url": "https://ijr.com/discover/storyline/israel-iran-tensions-gaza-ceasefire-dispute-and-hormuz-standoff-0563789b",
+        "image": "https://6pwlv5vzvfnbrzqk.public.blob.vercel-storage.com/ijrcom/story-images/7ac120c50e9fece14ed9.webp",
+        "timestamp": 1789403400.0
     },
     {
         "id": "3882265317",
@@ -3196,6 +3269,62 @@
         "clean_url": "https://www.chicagotribune.com/2026/09/14/farm-bill-china-farmers-illinois-soybeans",
         "image": "https://www.chicagotribune.com/wp-content/uploads/2026/09/ctc-l-farm.jpg?w=4000&h=2801",
         "timestamp": 1789383108.4913118
+    },
+    {
+        "id": "710c14125c",
+        "title_fa": "77 کشتی در فهرست عدم تبعیت هرمز قرار گرفت",
+        "title_en": "Hormuz tensions deepen as Iran puts 77 vessels on non-compliance list",
+        "summary": [
+            "ایران 77 کشتی را به فهرست جدید اضافه کرد و عبورشان را تهدید به جریمه یا توقیف کرد",
+            "شرکت‌های بیمه و کلاپ‌های P&I از ارائه خدمات به این کشتی‌ها منع شدند",
+            "مالکان بار باید فهرست را پیش از چارتر بررسی کنند"
+        ],
+        "impact": "ترافیک تجاری در هرمز مختل می‌شود، هزینه‌های حمل‌ونقل افزایش می‌یابد",
+        "tag": "هرمز",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "SAFETY4SEA",
+        "url": "https://safety4sea.com/hormuz-tensions-deepen-as-iran-puts-77-vessels-on-non-compliance-list/",
+        "clean_url": "https://safety4sea.com/hormuz-tensions-deepen-as-iran-puts-77-vessels-on-non-compliance-list",
+        "image": "https://www.bing.com/th?id=ONUT.C52Wu5nbgSJIgTRMu8YYuA",
+        "timestamp": 1789383035.0
+    },
+    {
+        "id": "14ac0b0fbd",
+        "title_fa": "بازی به هویت تبدیل می‌شود",
+        "title_en": "When a game becomes an identity",
+        "summary": [
+            "ترور نوح در مقاله‌ای به بررسی تأثیر بازی‌های ویدئویی بر شکل‌گیری هویت می‌پردازد",
+            "او نشان می‌دهد چگونه تعامل‌های دیجیتال می‌تواند باورهای شخصی را تقویت یا تغییر دهد"
+        ],
+        "impact": "آگاهی عمومی نسبت به اثرات روانی بازی‌ها افزایش می‌یابد",
+        "tag": "فرهنگ",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Trevor Noah on MSN",
+        "url": "https://www.msn.com/en-us/gaming/gaming-platforms/when-a-game-becomes-an-identity-trevor-explores-the-true-impact-of-football/vi-AA2cf3ck?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/gaming/gaming-platforms/when-a-game-becomes-an-identity-trevor-explores-the-true-impact-of-football/vi-AA2cf3ck",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789383035.0
+    },
+    {
+        "id": "f3d5abbebb",
+        "title_fa": "اقدام دیپلماتیک اسرائیل در نیویورک: اتهام نازی‌گری",
+        "title_en": "Israeli consul general Ofir Akunis’s Rosh Hashanah message: ‘Wake up’",
+        "summary": [
+            "افسر کنسولگری اسرائیل اوفیر آکونیس رهبری نیویورک را «نازی» خواند",
+            "این اتهام پس از لغو ممنوعیت تحریم اسرائیل توسط شهردار شهر است",
+            "واکنش‌های محلی نشان داد انتقادات اسرائیل به سیاست‌های شهری در حال تشدید است"
+        ],
+        "impact": "روابط اسرائیل‑نیویورک تحت فشار می‌گیرد، احتمال اعتراضات عمومی",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "SA Jewish Report",
+        "url": "https://www.sajr.co.za/israeli-consul-general-ofir-akuniss-rosh-hashanah-message-wake-up/",
+        "clean_url": "https://www.sajr.co.za/israeli-consul-general-ofir-akuniss-rosh-hashanah-message-wake-up",
+        "image": "https://www.sajr.co.za/wp-content/uploads/2026/09/Consul-General-of-Israel-in-New-York-Ofir-Akunis-speaks-In-Bryant-Park-on-May-5-2026-in-New-York-City.-Roy-Rochlinx3aGetty-Images-for-Ari-Ackerman.jpg",
+        "timestamp": 1789383035.0
     },
     {
         "id": "9b734409fe",
@@ -5313,130 +5442,5 @@
         "clean_url": "https://english.aaj.tv/news/330472244/un-travel-ban-keeps-iran-nuclear-chief-from-iaea-conference",
         "image": "https://i.aaj.tv/large/2026/09/141019041e9bbce.webp",
         "timestamp": 1789344000.0
-    },
-    {
-        "id": "fbb181fb02",
-        "title_fa": "خبر بین‌المللی — Eyal Zamir leads IDF gains abroad while fighting political p",
-        "title_en": "Eyal Zamir leads IDF gains abroad while fighting political pressure at home",
-        "summary": [
-            "Analysis: After 18 months as IDF chief, Zamir has overseen major gains against Iran, Hamas and Hezbollah while pushing a forward-defense doctrine and confronting manpower shortages, budget fights and"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ynetnews",
-        "url": "https://www.ynetnews.com/opinions-analysis/article/b1bpzcnfgg",
-        "clean_url": "https://www.ynetnews.com/opinions-analysis/article/b1bpzcnfgg",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/yk14895343/yk14895343_0_81_919_518_0_large.jpg",
-        "timestamp": 1789344000.0
-    },
-    {
-        "id": "724c438439",
-        "title_fa": "رئیس هسته‌ای ایران از اجلاس اورسا در وین غائب می‌شود",
-        "title_en": "Iran nuclear chief likely to miss IAEA Vienna meet over UN travel ban",
-        "summary": [
-            "محدودیت سفر سازمان ملل مانع حضور محمد اسلمی در نشست اورسا می‌شود",
-            "این اقدام نشانگر فشار بین‌المللی بر برنامه هسته‌ای ایران است",
-            "غیبت او مذاکرات هسته‌ای را پیچیده‌تر و زمان‌برتر می‌کند",
-            "جامعه جهانی با این پیام، جدیت خود را در کنترل فعالیت‌های هسته‌ای ایران تأکید می‌کند"
-        ],
-        "impact": "مذاکرات هسته‌ای با تاخیر و فشار بیشتر مواجه می‌شود",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "MSN",
-        "url": "https://www.msn.com/en-in/news/other/iran-nuclear-chief-likely-to-miss-iaea-vienna-meet-over-un-travel-ban/ar-AA2c9cjO",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-nuclear-chief-likely-to-miss-iaea-vienna-meet-over-un-travel-ban/ar-AA2c9cjO",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789343880.0
-    },
-    {
-        "id": "f757f858e6",
-        "title_fa": "تحریم بانک روسی VTB برای فشار بر ایران",
-        "title_en": "US slaps sanctions on key Russian bank to put pressure on Iran",
-        "summary": [
-            "ایالات متحده بانک VTB را به دلیل کمک به دور زدن تحریم‌ها و تأمین مالی تروریسم هدف گرفت",
-            "این اقدام باعث مسدود شدن تمام دارایی‌های VTB در آمریکا و قطع تراکنش‌های مرتبط شد",
-            "تحریم جدید نشان می‌دهد فشار اقتصادی آمریکا بر ایران از طریق هم‌پیمانان روسیه تقویت می‌شود"
-        ],
-        "impact": "سرمایه‌گذاری‌های آمریکایی در VTB مسدود شد؛ فشار مالی بر ایران شدیدتر شد",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/us-slaps-sanctions-key-russian-224830789.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/us-slaps-sanctions-key-russian-224830789.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/4913dce8f2b2732e61ca28e022e033a34d20c45625b660832455ab3faa94df38/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F82f0bd19d87f896010cf6b887218eb07.jpg",
-        "timestamp": 1789343296.0
-    },
-    {
-        "id": "c5b907af22",
-        "title_fa": "رئیس هسته‌ای ایران در کنفرانس آی‌ای‌ای‌ئی حضور نخواهد داشت",
-        "title_en": "Iran's nuclear chief not expected to attend IAEA General Conference, official says",
-        "summary": [
-            "عدم حضور رئیس هسته‌ای نشانه تشدید تنش‌های دیپلماتیک با جامعه بین‌المللی است",
-            "غیبت او فرصت مخالفان را برای فشار بیشتر بر برنامه هسته‌ای ایران فراهم می‌کند"
-        ],
-        "impact": "کاهش توان ایران برای دفاع از برنامه هسته‌ای در سطح بین‌المللی",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Times Union",
-        "url": "https://www.timesunion.com/news/world/article/iran-s-nuclear-chief-not-expected-to-attend-iaea-22430288.php",
-        "clean_url": "https://www.timesunion.com/news/world/article/iran-s-nuclear-chief-not-expected-to-attend-iaea-22430288.php",
-        "image": "https://s.hdnux.com/photos/01/67/25/47/31283671/3/rawImage.jpg",
-        "timestamp": 1789343040.0
-    },
-    {
-        "id": "e8b058cd43",
-        "title_fa": "خبر بین‌المللی — هرمز diplomacy stalls as attacks deepen pressure در Persian",
-        "title_en": "Hormuz diplomacy stalls as attacks deepen pressure on Persian Gulf oil routes",
-        "summary": [
-            "Hormuz diplomacy stalls as attacks deepen pressure on Persian Gulf oil routes Iran International"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90aFJvNVBnTVdqVVdSU0M4WHk1NTJVbS1CTVhBRk5QUHRxOTViVm5JMGl2R0hmTkNZQlRQZDVsT2hUQjRBX2IwWXpPVTlWRUEzRnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90aFJvNVBnTVdqVVdSU0M4WHk1NTJVbS1CTVhBRk5QUHRxOTViVm5JMGl2R0hmTkNZQlRQZDVsT2hUQjRBX2IwWXpPVTlWRUEzRnc",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789342858.0
-    },
-    {
-        "id": "a032b3b454",
-        "title_fa": "خبر بین‌المللی — Morning wrap: ASX 200 به fall, S&P 500 slips در AI slowdown",
-        "title_en": "Morning wrap: ASX 200 to fall, S&P 500 slips on AI slowdown calls, US 10-year yield touches 5%",
-        "summary": [
-            "ASX 200 futures are down 14 pts (-0.15%) as the key US 10-year yield tops 10% and Brent continues its march towards US$110."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Market Index on MSN",
-        "url": "https://www.msn.com/en-au/news/other/morning-wrap-asx-200-to-fall-s-p-500-slips-on-ai-slowdown-calls-us-10-year-yield-touches-5/ar-AA2cdNuf?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/other/morning-wrap-asx-200-to-fall-s-p-500-slips-on-ai-slowdown-calls-us-10-year-yield-touches-5/ar-AA2cdNuf",
-        "image": "https://www.bing.com/th?id=ONUT.9j-o7a6v4XL5k9R_b1XweA",
-        "timestamp": 1789342757.0
-    },
-    {
-        "id": "a348db9877",
-        "title_fa": "خبر بین‌المللی — Portland Thorns draw 1-1 with last-place Chicago Stars",
-        "title_en": "Portland Thorns draw 1-1 with last-place Chicago Stars",
-        "summary": [
-            "After taking their first home loss of the season last weekend, the Portland Thorns hoped to get back on a winning track with..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "tdn.com",
-        "url": "https://tdn.com/sports/professional/article_f869726d-99e6-4baa-8ab3-92159d4140c1.html",
-        "clean_url": "https://tdn.com/sports/professional/article_f869726d-99e6-4baa-8ab3-92159d4140c1.html",
-        "image": "https://www.bing.com/th?id=ONUT.B3lS176VPX8sa4m1D5EdDQ",
-        "timestamp": 1789342757.0
     }
 ]
