@@ -1,5 +1,24 @@
 [
     {
+        "id": "53553613af",
+        "title_fa": "کیوساکی: سقوط بزرگ بازار آغاز شد",
+        "title_en": "Rich Dad Poor Dad author warns biggest crash in history has started",
+        "summary": [
+            "کیوساکی، نویسنده مشهور مالی، اعلام کرد بزرگ‌ترین سقوط اقتصادی تاریخ در حال شروع است",
+            "او سرمایه‌گذاری در طلا، بیت‌کوین و دارایی‌های ملموس را به‌عنوان پناهگاه توصیه کرد",
+            "هشدار او می‌تواند تقاضا برای دارایی‌های امن را به‌سرعت افزایش دهد"
+        ],
+        "impact": "سرمایه‌گذاران به سمت طلا و بیت‌کوین هجوم می‌آورند، فشار بر ارزهای سنتی بالا می‌رود",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-warns-biggest-crash-in-history-has-started",
+        "clean_url": "https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-warns-biggest-crash-in-history-has-started",
+        "image": "https://www.bing.com/th?id=ONUT.lRJO1TQNr2nfXfJwqLbJkA",
+        "timestamp": 1789483346.6305323
+    },
+    {
         "id": "4f7ba4253a",
         "title_fa": "خبر بین‌المللی — MAGA Senator Secretly Begged ترامپ برای a Break From Signatu",
         "title_en": "MAGA Senator Secretly Begged Trump for a Break From Signature Policy",
@@ -229,6 +248,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/netanyahu-lets-journalists-blame-him-for-oct-7-iran-kills-citizens-for-honking-horns-guess-who-progressives-back/ar-AA2cgcKa",
         "image": "https://www.bing.com/th?id=ONUT.LpPRxtz7LSCPRk8tNAMcoQ",
         "timestamp": 1789477587.1820877
+    },
+    {
+        "id": "a43f959ec9",
+        "title_fa": "آمریکا کشتی‌های ایرانی را برای درگیری با پهپاد هدف گرفت",
+        "title_en": "Scoop: U.S. attacked Iranian boats trying to seize Navy drone",
+        "summary": [
+            "نیروی دریایی آمریکا کشتی‌های ایرانی را که سعی در تصرف پهپاد نظامی داشتند، مورد حمله قرار داد",
+            "این اقدام خطر تشدید مستقیم درگیری‌های دریایی خلیج فارس را بالا برد",
+            "ایران ممکن است پاسخی نظامی یا نیابتی به این حمله بدهد"
+        ],
+        "impact": "تنش‌های نظامی منطقه تشدید می‌شود؛ احتمال واکنش تدارکاتی یا نیابتی از سوی ایران بالا است",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLVZubFlnN2hCMlQ0WkFLWHVCTXlwbVpIUjRNNEt3blp2WGFDT1d5THl1QU1yc1diS1RwT29WeEJjMlFlalBpZlRhQmw2VUJhYmhjREVkT0JNTmVmWk91U2FpQUVHSlJrb25fbllGWEdBSFVvVmhERkZjOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLVZubFlnN2hCMlQ0WkFLWHVCTXlwbVpIUjRNNEt3blp2WGFDT1d5THl1QU1yc1diS1RwT29WeEJjMlFlalBpZlRhQmw2VUJhYmhjREVkT0JNTmVmWk91U2FpQUVHSlJrb25fbllGWEdBSFVvVmhERkZjOA",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789477196.0
     },
     {
         "id": "b75ee830d6",
@@ -5373,43 +5411,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/us-fighter-jet-shot-down-in-iran-wounded-officer-rescued-after-50-hour-operation/ar-AA2caXKq",
         "image": "https://www.bing.com/th?id=ONUT.foATetuUUyF2ozSiBPN6RA",
         "timestamp": 1789364582.0
-    },
-    {
-        "id": "a9d334b3d2",
-        "title_fa": "کشورهای خلیج جلسه با ایران را لغو، حوثی‌ها حمله جدید به عربستان",
-        "title_en": "Gulf states call off meeting with Iran, Houthis launch new attack",
-        "summary": [
-            "دولت‌های خلیج‌فارس به دلیل تنش‌های اخیر جلسهٔ برنامه‌ریزی‌شده با ایران را کنسل کردند",
-            "حوثی‌ها موشک و پهپادهای خود را به پایگاه هوایی سعودی در خمیس موشیت شلیک کردند و ادعای انتقام‌جویی از حملات هوایی سعودی داشتند",
-            "حمله خطر اختلال در مسیرهای نفتی را افزایش می‌دهد و نشانگر نفوذ ایران از طریق نیابتی است"
-        ],
-        "impact": "تشدید تنش‌های خلیج و خطر بزرگ‌تری برای تأمین نفت جهانی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Detroit News",
-        "url": "https://www.detroitnews.com/story/news/world/2026/09/14/gulf-states-call-off-meeting-iran-houthis-launch-new-attack-saudi-arabia/91755822007/",
-        "clean_url": "https://www.detroitnews.com/story/news/world/2026/09/14/gulf-states-call-off-meeting-iran-houthis-launch-new-attack-saudi-arabia/91755822007",
-        "image": "http://www.bing.com/th?id=ONUT.C3tUqO7IjRmAY_aZdtafig&pid=News",
-        "timestamp": 1789364220.0
-    },
-    {
-        "id": "3903fe8ff7",
-        "title_fa": "نتانیاهو تهدید شدید به دشمنان می‌کند",
-        "title_en": "Live Updates: Netanyahu warns enemies: 'If you haven't learned lesson by now, you will suffer even heavier blows'",
-        "summary": [
-            "نتانیاهو در بیانیه‌اش به دشمنان هشدار داد که اگر هنوز درس نگرفته‌اند، ضربات سنگین‌تری خواهند دید",
-            "این اظهارات پس از گزارش‌های اخیر درباره برنامه هسته‌ای ایران و حضور دیپلماتیک اوست",
-            "تهدید می‌تواند فشار دیپلماتیک بر ایران و حامیانش را افزایش دهد"
-        ],
-        "impact": "تشدید تنش‌های منطقه‌ای و تقویت موضع نظامی اسرائیل",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-14/live-updates-908483",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-14/live-updates-908483",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737606",
-        "timestamp": 1789364160.0
     }
 ]
