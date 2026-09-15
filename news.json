@@ -3039,6 +3039,25 @@
         "timestamp": 1789369978.0
     },
     {
+        "id": "6e04b3af4a",
+        "title_fa": "ایران: اعتراضات، سقوط MQ‑1 و فشار آمریکا",
+        "title_en": "Iran war latest: Iran protests as US prevents its nuclear chief attending IAEA meeting",
+        "summary": [
+            "ایران گفت تا رفع شرایط خود، گفت‌وگو با آمریکا را رد می‌کند.",
+            "سپاه دومین پهپاد MQ‑1 را در هرمز سرنگون کرد؛ نشانگر ارتقای توان دفاعی است.",
+            "ترامپ خواست دیگر کشورها هزینه جنگ ایران را به ایالات متحده جبران کنند."
+        ],
+        "impact": "تحریم‌های جدید و تنش‌های نظامی خلیج فارس خطر تشدید درگیری را افزایش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "thenationalnews",
+        "url": "https://www.thenationalnews.com/news/mena/2026/08/31/live-larak-island-us-strikes-iran/",
+        "clean_url": "https://www.thenationalnews.com/news/mena/2026/08/31/live-larak-island-us-strikes-iran",
+        "image": "https://www.thenationalnews.com/resizer/v2/S3OFA72LVS7OXZH4LAYBMH5HH4.jpg?auth=7d28b853e04bd6754bdd7af3c9a715ccfddd2d7074dbc2fda4a35738b8d0b817&smart=true&width=1200&height=630",
+        "timestamp": 1789368437.0
+    },
+    {
         "id": "728d24270c",
         "title_fa": "ترور نوح: آمریکا به مشکلات نادرست چسبیده",
         "title_en": "Trevor Noah thinks America is obsessed with the wrong problems",
@@ -5432,23 +5451,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/how-a-wounded-air-force-officer-stayed-safe-in-iran-after-plane-was-shot-down/ar-AA2c8SjG",
         "image": "http://www.bing.com/th?id=ONUT.j_Ep0regPn9UpM6obl8t8w&pid=News",
         "timestamp": 1789321567.0
-    },
-    {
-        "id": "832692cd74",
-        "title_fa": "قانون جدید مسدودسازی گرین‌کارت‌ها توسط ترامپ",
-        "title_en": "Mamdani, Letitia James lead lawsuits against Trump admin's plan to deny green cards over public benefits",
-        "summary": [
-            "قانون «public charge» فهرست مزایای عمومی را گسترش می‌دهد و هزاران درخواست گرین‌کارت را در خطر می‌گذارد",
-            "شهردار نیویورک و دادستان ایالتی نیویورک دعواهای قضایی برای لغو این قانون راه‌اندازی کردند"
-        ],
-        "impact": "افزایش رد درخواست‌های مهاجرتی و فشار بر جوامع مهاجر",
-        "tag": "مهاجرت",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "FOX News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/mamdani-letitia-james-lead-lawsuits-against-trump-admin-s-plan-to-deny-green-cards-over-public-benefits/vi-AA2cceyS?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/mamdani-letitia-james-lead-lawsuits-against-trump-admin-s-plan-to-deny-green-cards-over-public-benefits/vi-AA2cceyS",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789320146.0
     }
 ]
