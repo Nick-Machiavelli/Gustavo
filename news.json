@@ -3146,6 +3146,26 @@
         "timestamp": 1789420020.0
     },
     {
+        "id": "ba42898cb9",
+        "title_fa": "نقض هدف: فرمانده رافاه حماس توسط نیروی اسرائیل",
+        "title_en": "Netanyahu, Katz confirm that IDF strike targeted commander of Hamas’s Rafah Brigade",
+        "summary": [
+            "حمله هدفمند به فرمانده رافاه، فشار مستقیم اسرائیل بر رده‌های رهبری حماس را نشان می‌دهد",
+            "این اقدام می‌تواند واکنش نظامی حماس را تشدید کرده و عملیات هوایی بیشتری را توجیه کند",
+            "بیانیه نتانیاهو پیام قاطعیت اسرائیل در مقابله با تهدیدات حماس را به مخاطبان داخلی و بین‌المللی می‌رساند",
+            "کاهش موقت توان رهبری حماس، اما احتمال افزایش خشونت در نوار غزه را به همراه دارد"
+        ],
+        "impact": "حمله هدفمند رهبری حماس را تضعیف می‌کند اما خطر تشدید درگیری‌های زمینی و هوایی در غزه را بالا می‌برد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-katz-confirm-that-idf-strike-targeted-commander-of-hamass-rafah-brigade/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-katz-confirm-that-idf-strike-targeted-commander-of-hamass-rafah-brigade",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789418981.0
+    },
+    {
         "id": "1b96f4a557",
         "title_fa": "خبر بین‌المللی — Critical oil pipeline خواهد be offline برای weeks after حمله",
         "title_en": "Critical oil pipeline will be offline for weeks after attack by Iran-backed Houthi rebels",
@@ -5361,25 +5381,6 @@
         "url": "https://www.msn.com/en-us/video/other/i-was-having-fun-with-my-dad-until-i-suddenly-saw-a-bird/vi-AA23ahzD?ocid=BingNewsVerp",
         "clean_url": "https://www.msn.com/en-us/video/other/i-was-having-fun-with-my-dad-until-i-suddenly-saw-a-bird/vi-AA23ahzD",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789389832.0
-    },
-    {
-        "id": "9c3377cca9",
-        "title_fa": "تحریم جدید آمریکا بر بانک VTB به‌دلیل ارتباط با ایران",
-        "title_en": "US sanctions VTB Bank over alleged Iranian banking ties",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا VTB را به‌دلیل کمک به ایران در دور زدن تحریم‌ها فهرست کرد",
-            "این اقدام در چارچوب عملیات «Economic Outcast» است و فشار مالی بر موسسات خارجی را افزایش می‌دهد",
-            "بانک‌های خارجی که هنوز با VTB کار می‌کنند، خطر مسدود شدن دارایی‌ها را دارند"
-        ],
-        "impact": "موسسات مالی بین‌المللی مجبور به قطع روابط با VTB می‌شوند و فشار اقتصادی بر ایران شدت می‌گیرد",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/economy/policy/articles/us-sanctions-vtb-bank-over-113728423.html",
-        "clean_url": "https://finance.yahoo.com/economy/policy/articles/us-sanctions-vtb-bank-over-113728423.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/0e4688b261eea2bb68ba33bf84c36eb62581944d8405fda83cb1299cb84d2855/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fretail_banker_international_407%2F1b0c7794a60faad0f9373b49d3134a47.jpg",
         "timestamp": 1789389832.0
     }
 ]
