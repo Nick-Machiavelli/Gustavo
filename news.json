@@ -76,6 +76,26 @@
         "timestamp": 1789445682.8416083
     },
     {
+        "id": "513dc7d226",
+        "title_fa": "بندر باب‌الماندهب؛ کارت وحشی ایران در مسیرهای تجاری",
+        "title_en": "Yemen’s Gate of Tears: How another critical waterway became Iran’s wild card",
+        "summary": [
+            "آبراه باب‌الماندهب حدود ۳۰٪ ترافیک کانتینری جهان را هدایت می‌کند؛ بسته شدنش تجارت آسیا‑اروپا را به‌هم می‌ریزد.",
+            "هر روز افزایش هزینه‌های حمل‌ونقل و زمان‌بری مسیرهای جایگزین، قیمت کالاها را بالا می‌برد.",
+            "ایران می‌تواند با تهدیدهای نظامی یا ناوبری، این مسیر را به ابزار فشار سیاسی تبدیل کند.",
+            "کشورهای تجاری در حال ارزیابی مسیرهای جایگزین مثل عبور دور آفریقا هستند."
+        ],
+        "impact": "اختلال در باب‌الماندهب هزینه‌های بین‌المللی را به‌طور چشمگیری افزایش می‌دهد",
+        "tag": "حمل‌ونقل",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "CNN · via Yahoo News",
+        "url": "https://www.yahoo.com/news/world/articles/yemen-gate-tears-another-critical-040129943.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/yemen-gate-tears-another-critical-040129943.html",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/a35799dacc75546a1007423bc5503ea9.jpg",
+        "timestamp": 1789444907.0
+    },
+    {
         "id": "db57c53f3c",
         "title_fa": "ترامپ در برابر خطر هوش مصنوعی بی‌تفاوت",
         "title_en": "Lawrence: Trump worst person to be in White House when AI could do what nuclear weapons haven’t",
@@ -5431,25 +5451,5 @@
         "clean_url": "https://www.msn.com/en-in/general/general/did-brics-summit-2026-prove-that-an-11-member-bloc-with-india-and-china-in-it-can-still-agree-on-key-issues/ar-AA2c7u3H",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789315398.3669922
-    },
-    {
-        "id": "f4df5ee35d",
-        "title_fa": "آلی اصگری: آینده‌ تاریک، نوری کم",
-        "title_en": "Ali Asgari Doesn’t Believe in a Bright Future After Iran’s January Massacre – Just ‘A Bit of Light’",
-        "summary": [
-            "اصگری می‌گوید امیدهای بزرگ برای ایران از بین رفته‌اند",
-            "فقط «نقطه‌های نور» کوچک را می‌بیند و می‌خواهد به آن‌ها تکیه کند",
-            "فیلم جدیدش «یک ذره نور» سعی دارد زندگی ساده را جشن بگیرد",
-            "هشدار می‌دهد که مردم روزانه در معرض فاجعه‌اند"
-        ],
-        "impact": "روحیه عمومی را بیشتر به سرکوب و بی‌اطمینان می‌کشاند",
-        "tag": "فرهنگ",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "Variety",
-        "url": "https://variety.com/2026/film/global/ali-asgari-iran-january-massacre-a-bit-of-light-venice-1236860323/",
-        "clean_url": "https://variety.com/2026/film/global/ali-asgari-iran-january-massacre-a-bit-of-light-venice-1236860323",
-        "image": "https://www.bing.com/th?id=ONUT.EYVJSopcVbscDBch-F62pA",
-        "timestamp": 1789315398.3666089
     }
 ]
