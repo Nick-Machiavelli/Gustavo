@@ -1,5 +1,43 @@
 [
     {
+        "id": "db57c53f3c",
+        "title_fa": "ترامپ در برابر خطر هوش مصنوعی بی‌تفاوت",
+        "title_en": "Lawrence: Trump worst person to be in White House when AI could do what nuclear weapons haven’t",
+        "summary": [
+            "لورنس اودونل هشدار می‌دهد هوش مصنوعی می‌تواند تهدیدی وجودی ایجاد کند، در حالی که ترامپ این خطرها را کم‌اهمیت می‌داند",
+            "بی‌توجهی ترامپ به نظرات متخصصان، خطر تسلیحات خودکار و تصمیم‌گیری‌های نادرست را افزایش می‌دهد",
+            "این بی‌توجهی می‌تواند آمریکا را در رقابت فناوری جهانی عقب بگذارد"
+        ],
+        "impact": "تضعیف سیاست‌های ایمنی AI در ایالات متحده؛ امکان پیشرفت سلاح‌های خودکار بدون نظارت",
+        "tag": "فناوری",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "MS NOW on MSN",
+        "url": "https://www.msn.com/en-us/news/other/lawrence-trump-worst-person-to-be-in-white-house-when-ai-could-do-what-nuclear-weapons-haven-t/vi-AA2celMu?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/lawrence-trump-worst-person-to-be-in-white-house-when-ai-could-do-what-nuclear-weapons-haven-t/vi-AA2celMu",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789444368.6749952
+    },
+    {
+        "id": "471b5ecfd2",
+        "title_fa": "کمبود مهمات استراتژیک به‌دلیل جنگ ایران",
+        "title_en": "Pentagon watchdog reveals Iran war causes 'strategic' ammunition shortfalls",
+        "summary": [
+            "ناظرین پنتاگون اعلام کردند جنگ ایران‑عراق‑یمن باعث کمبود مهمات کلیدی در ذخایر نظامی آمریکا شده است",
+            "کمبود این مهمات می‌تواند توان عملیاتی واحدهای زمینی و هوایی را در مناطق بحرانی محدود کند",
+            "وزارت دفاع در حال بررسی راهکارهای جایگزین برای تأمین سریع این اقلام است"
+        ],
+        "impact": "کاهش توان جنگی نیروهای آمریکایی در خاورمیانه؛ ریسک تضعیف حضور نظامی",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "TRT World",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjZmxBVS1sTnhuUjgzWGI4QTdaNEtYa3Bqd3F0c3lsYmRuQWpIZlJKT0hwU04taTFudlIyUl93bk5xV1lZRkZ4RVdEVzFzVjVPVExMU21vSU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjZmxBVS1sTnhuUjgzWGI4QTdaNEtYa3Bqd3F0c3lsYmRuQWpIZlJKT0hwU04taTFudlIyUl93bk5xV1lZRkZ4RVdEVzFzVjVPVExMU21vSU0",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789444083.0
+    },
+    {
         "id": "322002260d",
         "title_fa": "پهلوی: برنامه‌ ای برای ایران آزاد",
         "title_en": "Inside my meeting with Reza Pahlavi: His plan for a free Iran",
@@ -16,6 +54,23 @@
         "clean_url": "https://www.christianpost.com/voices/inside-my-meeting-with-reza-pahlavi-his-plan-for-a-free-iran.html",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789442089.702274
+    },
+    {
+        "id": "e5ca3a7099",
+        "title_fa": "خبر بین‌المللی — Oil Rises در Supply Concerns as ایران Conflict Widens",
+        "title_en": "Oil Rises on Supply Concerns as Iran Conflict Widens",
+        "summary": [
+            "Oil Rises on Supply Concerns as Iran Conflict Widens EnergyNow.com"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYk9vblpwM3o3cXFZUjZNNVFRV0ZDbzFyX29LREg0Z3ZSUi1jR25VcWozOWhKamxYSF9vbU9LZmotSXdRZFhkNDYxbTNxS2NkMWFSWkFlLWJnT1M1X1RvQlFreXU2SG1DVnp1cThJc0NLSDhlQXB4dG83aVItSTVHZFFZaGlOY0NKN2ZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYk9vblpwM3o3cXFZUjZNNVFRV0ZDbzFyX29LREg0Z3ZSUi1jR25VcWozOWhKamxYSF9vbU9LZmotSXdRZFhkNDYxbTNxS2NkMWFSWkFlLWJnT1M1X1RvQlFreXU2SG1DVnp1cThJc0NLSDhlQXB4dG83aVItSTVHZFFZaGlOY0NKN2ZR",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789441962.0
     },
     {
         "id": "d311b77130",
@@ -2817,6 +2872,25 @@
         "timestamp": 1789358215.0
     },
     {
+        "id": "df6a639ef3",
+        "title_fa": "حمله حوثی‌ها به پایگاه هوایی سعودی؛ فشار بر نفت",
+        "title_en": "Houthis Strike Saudi Arabia Targets Anew as Talks over Hormuz Stall",
+        "summary": [
+            "حوثی‌ها موشک و پهپادهای متعدد به پایگاه خمیس مشیت شلیک کردند؛ هدف آستران، رادار و مسیرهای پروازی بود",
+            "این حمله در واکنش به حملات هوایی سعودی در یمن انجام شد و ۱۳ غیرنظامی را مجروح کرد",
+            "فشار بر خطوط نفتی سعودی افزایش یافت؛ حمله به خط لوله شرق‑غرب باعث نگرانی‌های جدی دربارهٔ تأمین جهانی نفت شد"
+        ],
+        "impact": "نقض امنیت نفتی خلیج؛ احتمال کاهش صادرات سعودی و نوسان شدید قیمت نفت",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Deccan Chronicle",
+        "url": "https://www.deccanchronicle.com/west-asia/houthis-strike-saudi-arabia-targets-anew-as-talks-over-hormuz-stall-1987493",
+        "clean_url": "https://www.deccanchronicle.com/west-asia/houthis-strike-saudi-arabia-targets-anew-as-talks-over-hormuz-stall-1987493",
+        "image": "https://www.deccanchronicle.com/h-upload/2026/09/15/2089023-l27ob8tchouthis625x30007august26.jpg",
+        "timestamp": 1789357959.0
+    },
+    {
         "id": "fec8cee68e",
         "title_fa": "Donald ترامپ",
         "title_en": "Donald Trump",
@@ -5375,80 +5449,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0xIQ0c5MXZVcHlkYldBdzdHV09KYWRDcXdNV2p6YVNRSS1rR1pfWmdvUklrb1ZRZEkzVE4tOGh2cWtGZGlqX2l0YXQ1YjNlLVREQzBXQU5CQXdkZ2dqTkU5anFiV05iUkV6eU4zS2lDWDlSYXRhQjZSNUVDS0lwLTJpeHVCUGtlSnVncUVHT3I4TWEwaC1BWjBOaHhKenR3azBVUThFdWdjaGNDTHppV29fUQ",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789311200.0
-    },
-    {
-        "id": "7af8b44059",
-        "title_fa": "سهم‌های هوش مصنوعی پس از هشدارهای کاهش سرعت سقوط کردند",
-        "title_en": "AI stocks drop on calls for a global slowdown as Brent oil's price hits $109",
-        "summary": [
-            "مدیران شرکت‌های هوش مصنوعی پیش‌بینی کردند تقاضا به‌سرعت کاهش یابد؛ این پیام باعث فروش گسترده سهام در بازارهای جهانی شد",
-            "سرمایه‌گذاران به‌سرعت از ریسک‌های پیش‌رو دور شدند؛ شاخص‌های فناوری در روز دوشنبه بیش از ۳ درصد افت داشت"
-        ],
-        "impact": "کاهش سرمایه‌گذاری در فناوری‌های نوین و فشار منفی بر شاخص‌های بورس فناوری",
-        "tag": "بازار",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/money/general/tech-stocks-drop-on-warnings-about-ai-as-brent-oil-s-price-hits-109/ar-AA2c9B28?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/general/tech-stocks-drop-on-warnings-about-ai-as-brent-oil-s-price-hits-109/ar-AA2c9B28",
-        "image": "https://www.bing.com/th?id=ONUT.TeNz-hCh5jFQSwDA1jmTVQ",
-        "timestamp": 1789310871.0
-    },
-    {
-        "id": "20f2743806",
-        "title_fa": "ترامپ: رها کردن تایوان، چین از کوبا و ونزوئلا",
-        "title_en": "Trump’s ultimate deal: Abandon Taiwan to kick China out of Cuba and Venezuela",
-        "summary": [
-            "پیشنهاد ترامپ نشان می‌دهد ایالات متحده حاضر است تایوان را به نفع نفوذ در آمریکای لاتین فدا کند.",
-            "اگر اجرا شود، چین می‌تواند در اقیانوس آرام قدرت بیشتری کسب کند و تعادل منطقه‌ای را بر هم زند.",
-            "این تصمیم به‌نظر می‌رسد نادیده گرفتن ارزش دموکراتیک تایوان و می‌تواند واکنش داخلی شدید در آمریکا برانگیزد.",
-            "تقویت روابط با کوبا و ونزوئلا در برابر تحریم‌ها، اما با مقاومت شدید کنگره مواجه خواهد شد."
-        ],
-        "impact": "تغییر اساسی در تعادل ژئوپلیتیک آسیا‑لاتین، خطر گسترش نفوذ چین در تایوان و تقویت موقعیت آمریکا در منطقه.",
-        "tag": "چین",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-ultimate-deal-abandon-taiwan-to-kick-china-out-of-cuba-and-venezuela/ar-AA2c7sjJ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-ultimate-deal-abandon-taiwan-to-kick-china-out-of-cuba-and-venezuela/ar-AA2c7sjJ",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789310857.9046714
-    },
-    {
-        "id": "84fdfbed05",
-        "title_fa": "ضربه هوایی به خط لوله سعودی؛ نفت جهان می‌لرزد",
-        "title_en": "Closure of Saudi pipeline sends crude oil, pump prices soaring",
-        "summary": [
-            "پهپادهای یمن خط لوله کلیدی سعودی را هدف گرفت و عملیات را متوقف کرد",
-            "بسته شدن لوله باعث کاهش عرضه نفت در خلیج فارس و جهش قیمت‌های جهانی شد",
-            "بازارها به‌سرعت واکنش نشان دادند؛ قیمت نفت برنت به بالای 80 دلار رسید",
-            "این حادثه نشان می‌دهد امنیت زیرساخت‌های انرژی در منطقه به‌خطر است"
-        ],
-        "impact": "قیمت نفت به سرعت بالا رفت، هزینه‌های حمل و نقل و تولید را افزایش داد",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": 0.0,
-        "source": "UPI on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/closure-of-saudi-pipeline-sends-crude-oil-pump-prices-soaring/ar-AA2cc7Vp?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/closure-of-saudi-pipeline-sends-crude-oil-pump-prices-soaring/ar-AA2cc7Vp",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789310429.0
-    },
-    {
-        "id": "484eb9d45b",
-        "title_fa": "خبر بین‌المللی — ترامپ acknowledges high gas prices as US average hits $4.27",
-        "title_en": "Trump acknowledges high gas prices as US average hits $4.27 following strikes on Iran",
-        "summary": [
-            "The president also said any drop in prices may take a while."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Cool Down on MSN",
-        "url": "https://www.msn.com/en-us/money/general/trump-acknowledges-high-gas-prices-as-us-average-hits-4-27-following-strikes-on-iran/ar-AA2c81ru?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/general/trump-acknowledges-high-gas-prices-as-us-average-hits-4-27-following-strikes-on-iran/ar-AA2c81ru",
-        "image": "https://www.bing.com/th?id=ONUT.YKCP_az4GtXn_6VW7n30fQ",
-        "timestamp": 1789310404.6245127
     }
 ]
