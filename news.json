@@ -1,5 +1,25 @@
 [
     {
+        "id": "1deaca7756",
+        "title_fa": "آیا جنگ تجاری کانادا می‌تواند ترامپ را نابود کند؟",
+        "title_en": "Can Carney’s Trade War Stop Trump For Good?",
+        "summary": [
+            "تعرفه‌های انتقامی کانادا فشار اقتصادی بر ترامپ را افزاش می‌دهد.",
+            "این فشار می‌تواند نتایج انتخابات میانی آمریکا را تغییر دهد.",
+            "عدم واکنش مؤثر ترامپ باعث تضعیف اعتبار سیاسی‌اش می‌شود.",
+            "رابطه تجاری شمال‑آمریکا و زنجیره‌های تأمین جهانی در خطر است."
+        ],
+        "impact": "کاهش حمایت حزبی ترامپ و تغییر جهت‌گیری رای‌گیری میانی",
+        "tag": "تجاری",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Maclean's",
+        "url": "https://macleans.ca/politics/can-carneys-trade-war-stop-trump-for-good/",
+        "clean_url": "https://macleans.ca/politics/can-carneys-trade-war-stop-trump-for-good",
+        "image": "https://www.bing.com/th?id=ONUT.qtM8Cux8hEyqzxePqC6gOw",
+        "timestamp": 1789492895.6894152
+    },
+    {
         "id": "d9eb5b7f5c",
         "title_fa": "خبر بین‌المللی — Secret Pentagon plan خواهد give ترامپ more ways به start a ه",
         "title_en": "Secret Pentagon plan will give Trump more ways to start a nuclear war",
@@ -5362,22 +5382,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWE5xNHV4WXdiNzVteU1NMW1KSV8tVWppQmFZWnByUHVpZUxBSTNRLUVIMFhRRzdQaUV1VXVLSUdPNWNPd1ZSSHRUVTVCOVZCOUIyU0M5VWNHVno2UzhRZ0lGV0pmeklOYzJ6U2V4R0wwUC0yWC1lSS02Z1d5OVIzbkFsYS0yZk9JdXV1Y2tKZ0V0a24yOUNsekZDRkxRdGVVRDJjUk8ydWd1ZHRNM3pPb0JwWlQxRjFRMThrZTVEQjZDeWJTajIxMkdEZ9IB0AFBVV95cUxQUlh0bVREQXRJQ3phczRnQTlGZVdyWWQ3QW0wdXBFTHIxTVQwWFRHOXJhQnRnNVFmcm91LVoxTmtGc2hRY2IyUm9RRXVPTk51MVJIVTNNeEVmNlJRMWc0ZTRNX21LUy0wVml3R0EtZ1ViNUJmUDNIcl81d3BTRjlPZWw5YnVES2NiQ09DT3k0UjJSRU9KNFBYOV9NSmg3Qlh2ZU5NbFdrNXRLWHBVVERaNjhPb3pKT0EwZFF3azNnaHBYR1VvTUROSWR0MTdLSTdl",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789379760.0
-    },
-    {
-        "id": "60825e5319",
-        "title_fa": "خبر بین‌المللی — ایران هسته‌ای chief blocked from Vienna IAEA meet, تهران bla",
-        "title_en": "Iran nuclear chief blocked from Vienna IAEA meet, Tehran blames US pressure",
-        "summary": [
-            "Iran's nuclear chief Mohammad Eslami missed the IAEA's annual conference in Vienna after Austria failed to secure a UN waiver allowing him to enter the country. Iran blamed the United States for the move,"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/iran-nuclear-chief-blocked-from-vienna-iaea-meet-tehran-blames-us-pressure-article-14029439.html",
-        "clean_url": "https://www.moneycontrol.com/world/iran-nuclear-chief-blocked-from-vienna-iaea-meet-tehran-blames-us-pressure-article-14029439.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260914094519_Iran-nuclear-chief.jpg",
-        "timestamp": 1789379220.0
     }
 ]
