@@ -2729,6 +2729,46 @@
         "timestamp": 1789345182.742792
     },
     {
+        "id": "c37c2931fb",
+        "title_fa": "کشتی تجاری ایران در هرمز اصابت شد",
+        "title_en": "Iran reports commercial vessel struck in Strait of Hormuz",
+        "summary": [
+            "رسانه‌های دولتی ایران اعلام کردند کشتی تجاری در تنگه هرمز اصابت شد و یک نفر کشته شد",
+            "حادثه می‌تواند فشار دیپلماتیک و نظامی بر ایران و ایالات متحده را افزایش دهد",
+            "هویت عامل اصابت هنوز نامشخص؛ احتمال حمله یا تصادف مورد بررسی است",
+            "اگر تکرار شود، خطر بسته شدن مسیر هرمز برای تجارت جهانی بالا می‌رود"
+        ],
+        "impact": "یک کشتی از دست رفته و کشته شدن یک نفر، خطر بسته شدن مسیر هرمز و تشدید تنش‌های نظامی",
+        "tag": "حوادث",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-reports-commercial-vessel-struck-in-strait-of-hormuz/ar-AA2c74lj?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-reports-commercial-vessel-struck-in-strait-of-hormuz/ar-AA2c74lj",
+        "image": "https://www.bing.com/th?id=ONUT.Cyds1VypI65cmLCVFcNDEA",
+        "timestamp": 1789345171.0
+    },
+    {
+        "id": "360f05b71c",
+        "title_fa": "خط لوله نفت سعودی به‌دلیل پهپادهای هوثی خاموش شد",
+        "title_en": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow",
+        "summary": [
+            "گروه هوثی یمن، با حمایت ایران، خط لوله نفتی سعودی را هدف گرفت",
+            "آسیب‌پذیری این خط لوله باعث قطع چند هفته‌ای عرضه نفت سعودی می‌شود",
+            "کاهش عرضه می‌تواند قیمت نفت جهانی را بالا برده و فشار اقتصادی بر مصرف‌کنندگان را افزاش دهد",
+            "حمله نشان‌دهنده گسترش جنگ نیابتی در خلیج فارس است"
+        ],
+        "impact": "کاهش چند هفته‌ای صادرات نفت سعودی، فشار بر بازارهای جهانی و تشدید تنش‌های منطقه‌ای",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Politico on MSN",
+        "url": "https://www.msn.com/en-us/news/other/saudi-pipeline-hit-by-drones-will-be-out-of-service-for-weeks-further-restricting-oil-flow/ar-AA2cd7fK?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/saudi-pipeline-hit-by-drones-will-be-out-of-service-for-weeks-further-restricting-oil-flow/ar-AA2cd7fK",
+        "image": "https://www.bing.com/th?id=ONUT.ncy3BLckbUbpkB9xdQo5fg",
+        "timestamp": 1789345171.0
+    },
+    {
         "id": "b79840557a",
         "title_fa": "قیمت نفت به‌دلیل خطر جنگ آمریکا‑ایران بالا رفت",
         "title_en": "Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict",
@@ -5414,41 +5454,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-houthis-claim-attack-on-saudi-base-as-advance-intensifies/ar-AA2bZyWG",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c7pvD.img?w=1200&h=800&m=4&q=81",
         "timestamp": 1789298311.0
-    },
-    {
-        "id": "549f99a1ec",
-        "title_fa": "ترامپ: احتمال حضور آمریکا در ایران و کنترل نفت",
-        "title_en": "پس از اصابت یک پرتابه به شناور ایرانی، ترامپ احتمال ماندن در ایران و کنترل نفت را مطرح کرد",
-        "summary": [
-            "حمله به کشتی تجاری ایرانی منجر به کشته و چهار مجروح شد",
-            "ترامپ به احتمال ماندن نیروهای آمریکا و «نگه داشتن نفت» اشاره کرد",
-            "این اظهارات می‌تواند فشار دیپلماتیک و نظامی بر ایران را افزایش دهد"
-        ],
-        "impact": "احتمال تشدید تنش‌های نظامی و محدودیت‌های نفتی برای ایران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609134776",
-        "clean_url": "https://www.iranintl.com/202609134776",
-        "image": "http://www.bing.com/th?id=ONUT.bCkhdKQpc2YgkYqy147Z9w&pid=News",
-        "timestamp": 1789297740.0
-    },
-    {
-        "id": "2db9f84833",
-        "title_fa": "خبر بین‌المللی — Numerous Announcements در Mitsotakis Weekly Briefing, Emphas",
-        "title_en": "Numerous Announcements in Mitsotakis Weekly Briefing, Emphasizes Stability Does Not Mean Concessions to Turkey",
-        "summary": [
-            "ATHENS - Prime Minister Kyriakos Mitsotakis sent a clear message on foreign policy and the strengthening of the country's deterrent capability from the far-flung Greek island of Kastellorizo in his customary Sunday social media post,"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The National Herald",
-        "url": "https://www.thenationalherald.com/numerous-announcements-in-mitsotakis-weekly-briefing-emphasizes-stability-does-not-mean-concessions-to-turkey/",
-        "clean_url": "https://www.thenationalherald.com/numerous-announcements-in-mitsotakis-weekly-briefing-emphasizes-stability-does-not-mean-concessions-to-turkey",
-        "image": "https://www.thenationalherald.com/wp-content/uploads/2026/08/mhtsotakis.jpg",
-        "timestamp": 1789297680.0
     }
 ]
