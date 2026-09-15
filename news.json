@@ -968,6 +968,26 @@
         "timestamp": 1789403055.120702
     },
     {
+        "id": "2d3be76263",
+        "title_fa": "ترامپ هوش مصنوعی را توطئه می‌نامد",
+        "title_en": "ترامپ درخواست‌ها برای ایجاد محدودیت در حوزه هوش مصنوعی را «توطئه خبیثانه» خواند",
+        "summary": [
+            "ترامپ مخالف هر گونه چارچوب نظارتی بر هوش مصنوعی است و آن را توطئه می‌داند",
+            "او می‌گوید ایالات متحده به تنهایی می‌تواند فناوری را ایمن نگه دارد",
+            "بیانیه‌اش در برابر درخواست‌های صنعت برای کاهش سرعت پیشرفت AI قرار دارد",
+            "احتمالاً فشار سیاسی برای سست‌کردن مقررات AI در کنگره ایجاد می‌کند"
+        ],
+        "impact": "ممکن است مانع تصویب قوانین محدودکننده هوش مصنوعی در آمریکا شود",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609157139",
+        "clean_url": "https://www.iranintl.com/202609157139",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/9eec3b7e23a272fb3f0b92da405812c66d32b35f-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789402140.0
+    },
+    {
         "id": "0776de965f",
         "title_fa": "به‌روزرسانی زنده: اخبار خاورمیانه",
         "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
@@ -5437,24 +5457,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789306776.0
-    },
-    {
-        "id": "57480c55dd",
-        "title_fa": "تشدید درگیری یمن؛ حمله به کشتی ایرانی در هرمز",
-        "title_en": "Middle East latest: Yemen fighting escalates; Iranian ship 'attacked' near Strait of Hormuz",
-        "summary": [
-            "درگیری‌های داخلی یمن به سطح جدیدی رسید؛ گروه‌های محلی به حمایت ایران و عربستان دست یافتند",
-            "کشتی تجاری ایرانی در مجاورت تنگه هرمز مورد حمله قرار گرفت؛ این اتفاق خطر بستن مسیر نفتی خلیج فارس را افزایش می‌دهد",
-            "نیروی دریایی آمریکا و ارتش ایران هر دو اعلام کردند که حادثه را بررسی می‌کنند؛ اما احتمال تشدید تنش‌های نظامی منطقه‌ای بالا است"
-        ],
-        "impact": "اختلال در عبور کشتی‌های نفتی می‌تواند عرضه جهانی نفت را کاهش دهد",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Sky",
-        "url": "https://news.sky.com/story/iran-war-latest-us-and-iran-getting-a-lot-closer-to-finalising-agreement-to-end-war-says-donald-trump-13509565",
-        "clean_url": "https://news.sky.com/story/iran-war-latest-us-and-iran-getting-a-lot-closer-to-finalising-agreement-to-end-war-says-donald-trump-13509565",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789306023.0
     }
 ]
