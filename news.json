@@ -1209,6 +1209,25 @@
         "timestamp": 1789475364.0
     },
     {
+        "id": "dcdcf313d5",
+        "title_fa": "امکان‌پذیری فشار اقتصادی آمریکا بر ایران",
+        "title_en": "Iran: The Limits Of American Power – OpEd",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا اعلام کرد که حمله اقتصادی گسترده‌ای علیه ایران در حال اجراست.",
+            "اگرچه ایالات متحده می‌تواند دسترسی ایران به مالیات و درآمد نفتی را محدود کند، اما ایران همچنان قدرت منطقه‌ای محسوب می‌شود.",
+            "تحریم‌های طولانی‌مدت نتوانسته‌اند رفتار سیاسی ایران را به‌طور کامل تغییر دهند."
+        ],
+        "impact": "تحریم‌های جدید می‌توانند اقتصاد ایران را تنگ کنند اما تغییر اساسی در سیاست‌های تهران تضمین نیست.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Eurasia Review",
+        "url": "https://www.eurasiareview.com/15092026-iran-the-limits-of-american-power-oped/",
+        "clean_url": "https://www.eurasiareview.com/15092026-iran-the-limits-of-american-power-oped",
+        "image": "https://www.eurasiareview.com/wp-content/uploads/2020/08/c-142.jpg",
+        "timestamp": 1789475160.0
+    },
+    {
         "id": "c26b1936a2",
         "title_fa": "ترامپ می‌خواهد ایران سقوط کند، چین مانع می‌شود",
         "title_en": "Trump wants Iran to fold — Xi Jinping won’t allow it. Here’s his missing move",
@@ -3086,6 +3105,25 @@
         "clean_url": "https://www.tehrantimes.com/news/530020/Grossi-s-toxic-legacy-Greenlighting-aggression-smearing-Iran",
         "image": "https://media.mehrnews.com/d/2026/09/14/4/6173685.jpg?ts=1789416582812",
         "timestamp": 1789429080.0
+    },
+    {
+        "id": "9e1f463ed6",
+        "title_fa": "کارلسن: ۴۰٬۰۰۰ تن بمب به اسرائیل",
+        "title_en": "Tucker Carlson issues warning on report of Israel bomb sale—\"No precedent\"",
+        "summary": [
+            "کارلسن ادعا می‌کند واشنگتن قصد ارسال ۴۰٬۰۰۰ تن بمب به اسرائیل را دارد.",
+            "این ادعا نشان‌دهنده تغییر موضع دولت ترامپ نسبت به حمایت نظامی از اسرائیل است.",
+            "واکنش عمومی آمریکا در حال تضعیف است و این موضوع می‌تواند به تفرقه در ائتلاف ترامپ منجر شود."
+        ],
+        "impact": "احتمال تشدید تنش خاورمیانه و فشار بین‌المللی بر ایالات متحده افزایش می‌یابد.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/tucker-carlson-issues-warning-report-223529708.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/tucker-carlson-issues-warning-report-223529708.html",
+        "image": "https://www.bing.com/th?id=ONUT.4JqJyt7M2IXRuxBjTq9HZQ",
+        "timestamp": 1789428843.0
     },
     {
         "id": "5b1db80c55",
@@ -5366,42 +5404,5 @@
         "clean_url": "https://news.sky.com/story/iran-war-latest-us-and-iran-getting-a-lot-closer-to-finalising-agreement-to-end-war-says-donald-trump-13509565",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789391684.0
-    },
-    {
-        "id": "700d8d61c3",
-        "title_fa": "ایران: مذاکرات با آمریکا تا برآورده شدن شرایط متوقف",
-        "title_en": "Middle East latest: No more US talks until our conditions are met, says Iran",
-        "summary": [
-            "ایران به وضوح اعلام کرد مذاکرات هسته‌ای فقط با رفع تحریم‌ها و تضمین امنیت پیش می‌رود",
-            "این موضع می‌تواند فشار دیپلماتیک آمریکا را افزایش دهد و ریسک تنش‌های منطقه‌ای را بالا ببرد"
-        ],
-        "impact": "مذاکرات دوباره راه‌اندازی می‌شود اما تا رفع پیش‌شرط‌ها به تعویق می‌افتد",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Sky",
-        "url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
-        "clean_url": "https://news.sky.com/story/iran-war-latest-trump-strikes-strait-hormuz-israel-hezbollah-live-13509565",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789391178.0
-    },
-    {
-        "id": "2ef909c3ca",
-        "title_fa": "حوثی‌ها تهدید به نابودی خط لوله و پالایشگاه بزرگ عربستان",
-        "title_en": "Iran is now threatening world’s largest oil facility and vast pipeline after Houthi attacks escalate",
-        "summary": [
-            "حوثی‌ها کنترل استراتژیک باب‌ال‌مندب را به دست گرفتند و می‌توانند خط لوله ۱۲۰۰ مایلی و پالایشگاه آبقایق را تهدید کنند",
-            "هر حمله به این زیرساخت‌ها می‌تواند عرضه نفت جهانی را به‌طور چشمگیری مختل کند",
-            "ایالات متحده و عربستان احتمالاً واکنش نظامی یا هوایی قوی نشان خواهند داد"
-        ],
-        "impact": "اختلال در تأمین نفت جهان و افزایش قیمت‌ها",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/15/world-news/how-the-houthis-attacks-on-saudi-arabia-dramatically-increase-oil-supply-risk/",
-        "clean_url": "https://nypost.com/2026/09/15/world-news/how-the-houthis-attacks-on-saudi-arabia-dramatically-increase-oil-supply-risk",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141081792.jpg?quality=75&strip=all&w=1200",
-        "timestamp": 1789391178.0
     }
 ]
