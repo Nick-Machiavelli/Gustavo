@@ -1,5 +1,39 @@
 [
     {
+        "id": "ed92a26d34",
+        "title_fa": "خبر بین‌المللی — Opinion: summit خواهد only embolden tyrants like پوتین",
+        "title_en": "Opinion: The summit will only embolden tyrants like Putin",
+        "summary": [
+            "It was billed as a pivotal moment in UK politics but the reality is the grandstanding separatist summit in Cardiff was a..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Daily Mail on MSN",
+        "url": "https://www.msn.com/en-ph/news/other/opinion-the-summit-will-only-embolden-tyrants-like-putin/ar-AA2cgpSu?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ph/news/other/opinion-the-summit-will-only-embolden-tyrants-like-putin/ar-AA2cgpSu",
+        "image": "https://www.bing.com/th?id=ONUT.eNLQZMLfGGSR7-nkUZhFBg",
+        "timestamp": 1789478101.4357443
+    },
+    {
+        "id": "b5a31ad44b",
+        "title_fa": "خبر بین‌المللی — Fed rate hike only half story as Warsh faces dot-plot test",
+        "title_en": "Fed rate hike only half the story as Warsh faces dot-plot test",
+        "summary": [
+            "Investors are looking past the Fed’s expected rate hike to the dot plot for clues on inflation and future hikes."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/fed/fed-rate-hike-warsh-dot-plot-inflation",
+        "clean_url": "https://www.thestreet.com/fed/fed-rate-hike-warsh-dot-plot-inflation",
+        "image": "https://www.bing.com/th?id=ONUT.6Ly48HbtELFYlPSJyuYzvA",
+        "timestamp": 1789478098.8282433
+    },
+    {
         "id": "9f15f9779a",
         "title_fa": "رسانه‌های غربی برگزاری اجلاس برکس ۲۰۲۶ را کم‌اهمیت جلوه دادند",
         "title_en": "BRICS Summit 2026 was played down, dismissed or nearly blacked out by Western media. That didn't work",
@@ -180,6 +214,23 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/trump-loses-it-over-republican-fox-news-contributor-allegedly-backing-democrat/ar-AA2cg9ym",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789471409.5911303
+    },
+    {
+        "id": "8311f95c7d",
+        "title_fa": "خبر بین‌المللی — Live Updates: جنگ returns به ایران with اسرائیل, US strikes",
+        "title_en": "Live Updates: War returns to Iran with Israel, US strikes",
+        "summary": [
+            "Live Updates: War returns to Iran with Israel, US strikes Dawn"
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789470982.0
     },
     {
         "id": "3677df5ac0",
@@ -3102,6 +3153,23 @@
         "timestamp": 1789392428.8203402
     },
     {
+        "id": "57480c55dd",
+        "title_fa": "خبر بین‌المللی — Middle East latest: ترامپ makes new ایران deal claim",
+        "title_en": "Middle East latest: Trump makes new Iran deal claim",
+        "summary": [
+            "Donald Trump has again insisted Iran \"badly\" wants a deal. His latest claim comes as concerns over energy supply grow after attacks around oil routes in the Middle East, with the Iran-backed Houthis..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Sky",
+        "url": "https://news.sky.com/story/iran-war-latest-us-and-iran-getting-a-lot-closer-to-finalising-agreement-to-end-war-says-donald-trump-13509565",
+        "clean_url": "https://news.sky.com/story/iran-war-latest-us-and-iran-getting-a-lot-closer-to-finalising-agreement-to-end-war-says-donald-trump-13509565",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789391684.0
+    },
+    {
         "id": "700d8d61c3",
         "title_fa": "ایران: مذاکرات با آمریکا تا برآورده شدن شرایط متوقف",
         "title_en": "Middle East latest: No more US talks until our conditions are met, says Iran",
@@ -5346,78 +5414,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPd2xBUlN0NlktU2ZZcXg2WEphanBKVGlKZWxHdjlJMnpRQUVBWlk5NXBNaXFXdWdjOWt5d08zRXJkZEJwZFBDN0xTTHBlUjFkX1VzTDhUUjhMbENLcklMU3Bad2JySEd1dFcxVVRkNW52TlVkMkdqWF9BbFhCOEZ1Q2RwR3RUQUJqWlBhVjNSVTJ4RWZHdTNUeHZqbzQ0ZWtJLUhvNWZ0bmUzOXFYb0FLZ0JQaU0yU0M3SUFxaVlvSFhiVnhWWnctOUVTdmphQ2NIRndZdmhZZ2NFWDRnQkxObXZKb1NkRE1FcE5fVVplb05NVnA2QkRCeFpvRnFlc3Q5SEFtWVh4WkxWWnJGWUozVXc4bw",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789356240.0
-    },
-    {
-        "id": "88a84da2ab",
-        "title_fa": "هشت‌یارهای حوثی ۴ شهر سعودی را تحت هشدار قرار دادند",
-        "title_en": "Breaking News Live Updates: Saudi Arabia issues emergency alerts for four cities after Houthi attacks injure 13",
-        "summary": [
-            "حوثی‌ها به‌سرعت به شهرهای العلا، ابها، جازان و جده حمله کردند و ۱۳ نفر غیرنظامی را مجروح کردند",
-            "این حملات خطر تأمین نفت خلیج فارس را افزایش داد"
-        ],
-        "impact": "حملات حوثی می‌تواند مسیرهای حمل و نقل نفت را مختل کرده و نوسان قیمت جهانی را تشدید کند",
-        "tag": "حمله",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/news/newsblogs/houthi-attacks-saudi-iran-us-war-west-asia-strait-of-hormuz-pm-modi-trump-india-sanctions-russia-bill-100-tariffs-trump/liveblog/134250158.cms",
-        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/houthi-attacks-saudi-iran-us-war-west-asia-strait-of-hormuz-pm-modi-trump-india-sanctions-russia-bill-100-tariffs-trump/liveblog/134250158.cms",
-        "image": "https://economictimes.indiatimes.com/thumb/msid-134250158,width-1200,height-900,resizemode-4,imglength-46302/news/newsblogs/houthi-attacks-saudi-iran-us-war-west-asia-strait-of-hormuz-pm-modi-trump-india-sanctions-russia-bill-100-tariffs-trump.jpg",
-        "timestamp": 1789355676.0
-    },
-    {
-        "id": "4efa7a3438",
-        "title_fa": "جلسه هورموز بین ایران و خلیج به تعویق افتاد",
-        "title_en": "Diplomacy stumbles as meeting on Hormuz between Iran and Gulf states is postponed",
-        "summary": [
-            "جلسه هورموز که می‌خواست راه‌حل‌های امنیتی را بررسی کند، به دلایل سیاسی به تعویق افتاد",
-            "تعویق جلسه نشان‌دهنده کاهش اعتماد متقابل بین ایران و کشورهای خلیج است",
-            "این وقفه می‌تواند خطر حوادث ناخواسته در تنگه هورموز را افزایش دهد"
-        ],
-        "impact": "عدم پیشرفت دیپلماتیک می‌تواند فشار بر کشتی‌رانی و هزینه‌های حمل‌ونقل دریایی را بالا ببرد",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFpDcUszS05RQ2ZNUlJvamQwWnlud0s4RmZwbUxZTkRXME5BV2dKd1BaanpXYm1sNE5zSDR6M3lTQUdyMHIwVUJUMGlCM2FmUS1jQ1JuakNHZUVFXy0ta2JpRmxNZWl6ZmtPaGhVYm52TUFJekZLaVJtQmhvT0cwRUlURkFhVGVVbjZjTTBDX1BURG9URThqYlFtQ1dESHR2VHNwOGZyUEVLLVd1Q0tQNHVB0gG3AUFVX3lxTE9tN1A1RENDaG5OWl9jdDdRY2FVNm1Cb21WYXYtSTlSdGctZmFZV0luV1A5QlUyNkN1MU1BQi13YzJFRmdrbGJmc2pad0ZlbnRDT3FNWnFnTFBwSGt5U3Jaa0lpTVZVNEE3ckgydG04MUNsc3IyckREdXdzV2h2d1RQaVR3UjdWbHFyMF9DY1lic0NBWkc1TmhadGc3N1pMaE1yNmQ1NUx4YzljZ3pKbXM4VG95Z09Odw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFpDcUszS05RQ2ZNUlJvamQwWnlud0s4RmZwbUxZTkRXME5BV2dKd1BaanpXYm1sNE5zSDR6M3lTQUdyMHIwVUJUMGlCM2FmUS1jQ1JuakNHZUVFXy0ta2JpRmxNZWl6ZmtPaGhVYm52TUFJekZLaVJtQmhvT0cwRUlURkFhVGVVbjZjTTBDX1BURG9URThqYlFtQ1dESHR2VHNwOGZyUEVLLVd1Q0tQNHVB0gG3AUFVX3lxTE9tN1A1RENDaG5OWl9jdDdRY2FVNm1Cb21WYXYtSTlSdGctZmFZV0luV1A5QlUyNkN1MU1BQi13YzJFRmdrbGJmc2pad0ZlbnRDT3FNWnFnTFBwSGt5U3Jaa0lpTVZVNEE3ckgydG04MUNsc3IyckREdXdzV2h2d1RQaVR3UjdWbHFyMF9DY1lic0NBWkc1TmhadGc3N1pMaE1yNmQ1NUx4YzljZ3pKbXM4VG95Z09Odw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789355170.0
-    },
-    {
-        "id": "423444eb08",
-        "title_fa": "خبر بین‌المللی — Oil prices rise as Saudi pipeline outage, fresh attacks rais",
-        "title_en": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns",
-        "summary": [
-            "Oil prices increased as attacks on Saudi energy infrastructure persisted. The kingdom's East-West pipeline remains offline, impacting global oil supply. Houthi forces launched fresh attacks, fueling..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Economic Times on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/oil-prices-rise-as-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns/ar-AA2cdTSK?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/oil-prices-rise-as-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns/ar-AA2cdTSK",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789355027.0
-    },
-    {
-        "id": "f9be66f9d3",
-        "title_fa": "ترامپ: ایالات متحده ممکن است نفت ایران را نگه دارد",
-        "title_en": "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall",
-        "summary": [
-            "ترامپ اعلام کرد ایالات متحده می‌تواند نفت ایران را همانند ونزوئلا مسدود کند",
-            "این اظهارات در زمان که مذاکرات هرمز به بن‌بست رسیده، فشار اقتصادی را برای ایران دوچندان می‌کند",
-            "سیاست‌مداران آمریکا قصد دارند با این کار ایران را به پذیرش شرایط سخت‌تر وادار کنند"
-        ],
-        "impact": "تحریم شدید بر صادرات نفت ایران، فشار بر اقتصاد ملی",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFU1OERQaW5PLWR6STV5TEE2NjZqaXhsZmItQy1yUXlFNnBtam9sM09EbTFzUmYwVEpqLXhYNHZyWThheWNUb1ZJbFB3Z1JhY3ppNElYNFRtbnVxcVJWRFIyb1RwMUVhTDRZdlRLRmw3UHNORHRjVHJndE4tN3E2VndXbE5CZ9IBiwFBVV95cUxNQUxLdTB2b0RST1RCQUx6Zk84Q3psbDctNV9tT2x2SEMxZ3lVVUo5QWpneEhUaXU5UWNoNHVlOUlLampoOWwxN3lvVXlwbVY5b2hEdC1HalF5SlRNWi1ZVVRXQ1pGWkhGaXMwWFVnLTdXbUtVdFFtLXdxdjVUVGdqYTlqUWw4TFpFVzZF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFU1OERQaW5PLWR6STV5TEE2NjZqaXhsZmItQy1yUXlFNnBtam9sM09EbTFzUmYwVEpqLXhYNHZyWThheWNUb1ZJbFB3Z1JhY3ppNElYNFRtbnVxcVJWRFIyb1RwMUVhTDRZdlRLRmw3UHNORHRjVHJndE4tN3E2VndXbE5CZ9IBiwFBVV95cUxNQUxLdTB2b0RST1RCQUx6Zk84Q3psbDctNV9tT2x2SEMxZ3lVVUo5QWpneEhUaXU5UWNoNHVlOUlLampoOWwxN3lvVXlwbVY5b2hEdC1HalF5SlRNWi1ZVVRXQ1pGWkhGaXMwWFVnLTdXbUtVdFFtLXdxdjVUVGdqYTlqUWw4TFpFVzZF",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789354860.0
     }
 ]
