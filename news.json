@@ -1,5 +1,45 @@
 [
     {
+        "id": "199dfc58f5",
+        "title_fa": "ترامپ و معضل تبدیل برتری نظامی به پیروزی سیاسی",
+        "title_en": "In the Iran war, a tale of old American dilemmas",
+        "summary": [
+            "مقاله تصمیمات هری ترومن در ۱۹۴۵ را با چالش‌های امروز ترامپ مقایسه می‌کند",
+            "حملات نظامی به ایران نتوانستند فشار سیاسی لازم برای تغییر رفتار تهران را ایجاد کنند",
+            "اختلاف بین توان نظامی و دستاوردهای دیپلماتیک، چالش جدیدی برای استراتژی آمریکا به وجود آورده",
+            "بدون راه‌حل سیاسی، ادامه تنش هزینه‌های مالی و انسانی بیشتری به بار می‌آورد"
+        ],
+        "impact": "عدم توانایی تبدیل برتری نظامی به نتایج سیاسی می‌تواند فشار اقتصادی و نظامی آمریکا را افزایش دهد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/opinion/in-the-iran-war-a-tale-of-old-american-dilemmas-101789404189329.html",
+        "clean_url": "https://www.hindustantimes.com/opinion/in-the-iran-war-a-tale-of-old-american-dilemmas-101789404189329.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/14/1600x900/logo/IMG_1088_1789404323020_Dhid_1789404326835_Ilmo_fb341ec4-dd01-4ec5-8a69-95d31c23f782_BA0h.jpg",
+        "timestamp": 1789452286.0593019
+    },
+    {
+        "id": "9c24213919",
+        "title_fa": "ترامپ فشار بر فدرال رزرو برای کاهش نرخ بهره",
+        "title_en": "Trump’s choice of money man is about to come back to haunt him",
+        "summary": [
+            "ترامپ برای تقویت اقتصاد پیش از انتخابات می‌خواهد فدرال رزرو نرخ بهره را پایین بیاورد",
+            "کیوان وارش بین فشار وال‌استریت و درخواست رئیس‌جمهور گیر کرده است",
+            "اگر فدرال رزرو نرخ را بالا نبرد، بازارهای اوراق قرضه هزینه استقراض بلندمدت را افزایش می‌دهند",
+            "این کشمکش می‌تواند تورم را تشدید کند و سیاست پولی را بی‌ثبات سازد"
+        ],
+        "impact": "تصمیم فدرال رزرو مسیر رشد اقتصادی و تورم پیش از انتخابات را عوض می‌کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "inews.co.uk",
+        "url": "https://inews.co.uk/opinion/kevin-warsh-federal-reserve-inflation-rates-4749705",
+        "clean_url": "https://inews.co.uk/opinion/kevin-warsh-federal-reserve-inflation-rates-4749705",
+        "image": "https://inews.co.uk/wp-content/uploads/2026/09/SEI_312434826.jpg?crop=0px,0px,1911px,1080px&resize=1200,675",
+        "timestamp": 1789452286.0590413
+    },
+    {
         "id": "e4f97a9f9c",
         "title_fa": "نگرانی غرب از BRICS+ نشانگر سقوطش",
         "title_en": "West’s BRICS+ worries underline its own decline",
@@ -5406,42 +5446,5 @@
         "clean_url": "https://www.msn.com/en-us/money/investment/costco-raises-price-for-kirkland-motor-oil-sets-purchase-limit/ar-AA2ccw0O",
         "image": "https://www.bing.com/th?id=ONUT.l-R7EYvjDJX6ofWW5iaFLw",
         "timestamp": 1789320146.0
-    },
-    {
-        "id": "56649f2799",
-        "title_fa": "اسرائیل از توقف دو هفته‌ای ترامپ حمایت کرد",
-        "title_en": "Israel backs Trump’s two-week pause on Iran strikes, says Lebanon excluded",
-        "summary": [
-            "اسرائیل اعلام کرد که به تعلیق دو هفته‌ای حملات به ایران که توسط ترامپ پیشنهاد شد، موافقت دارد",
-            "این تعلیق شامل لبنان نمی‌شود؛ ریسک تدارکات نظامی در آنجا ادامه دارد",
-            "حمایت اسرائیل می‌تواند فشار بین‌المللی برای کاهش تنش‌های خاورمیانه را تقویت کند",
-            "اگر تعلیق عملی شود، عملیات هوایی آمریکا در منطقه محدود می‌شود"
-        ],
-        "impact": "آمریکا ممکن است برنامه حملات هوایی به ایران را به تعویق بیندازد",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "アラブニュース",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3FhUWVXUGpNNTZxRVZNU21QV1JuV25PdnZhRnhFUzdyTTl5SmxPQ0pCTXh5WTN2N3l6MHViSXBZRnBTZHZUUWVXUDJWWUhseU1YR2NUYnFlbXNtc0I5OEh0OGJ0RHo1NHNwNjRaRWZvTkEzQkFhRFNCQWN3TWxKbDMwRlJlR1BHbTRaTTBTNmJ1X0VkQzhFY0UzT2o2MTM5NTRRRmxnRlAzMEdhLThzN2FzOXJvOEM3emc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3FhUWVXUGpNNTZxRVZNU21QV1JuV25PdnZhRnhFUzdyTTl5SmxPQ0pCTXh5WTN2N3l6MHViSXBZRnBTZHZUUWVXUDJWWUhseU1YR2NUYnFlbXNtc0I5OEh0OGJ0RHo1NHNwNjRaRWZvTkEzQkFhRFNCQWN3TWxKbDMwRlJlR1BHbTRaTTBTNmJ1X0VkQzhFY0UzT2o2MTM5NTRRRmxnRlAzMEdhLThzN2FzOXJvOEM3emc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789319860.0
-    },
-    {
-        "id": "c7eebf8604",
-        "title_fa": "خبر بین‌المللی — \"They basically do what we do\": ترامپ responds به question a",
-        "title_en": "\"They basically do what we do\": Trump responds to question about Chinese entities allegedly providing satellite imagery to Iran",
-        "summary": [
-            "President Trump seemingly downplayed the reports about Chinese entities supplying intel to Iran amid the ongoing military..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "PRIMETIMER",
-        "url": "https://www.primetimer.com/news/they-basically-do-what-we-do-trump-responds-to-question-about-chinese-entities-allegedly-providing-satellite-imagery-to-iran",
-        "clean_url": "https://www.primetimer.com/news/they-basically-do-what-we-do-trump-responds-to-question-about-chinese-entities-allegedly-providing-satellite-imagery-to-iran",
-        "image": "https://www.bing.com/th?id=ONUT._unhVtswzDK-ZnNLmEHZRg",
-        "timestamp": 1789319518.0
     }
 ]
