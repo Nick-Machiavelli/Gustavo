@@ -1,5 +1,23 @@
 [
     {
+        "id": "322002260d",
+        "title_fa": "پهلوی: برنامه‌ ای برای ایران آزاد",
+        "title_en": "Inside my meeting with Reza Pahlavi: His plan for a free Iran",
+        "summary": [
+            "رضا پهلوی در جلسه با عیسی‌داران، طرح سیاسی‌اش برای انتقال از جمهوری به نظام دموکراتیک را شرح داد",
+            "او تأکید کرد حمایت بین‌المللی و داخلی برای تغییر ضروری است"
+        ],
+        "impact": "اگر طرح او به‌دست‌آید، می‌تواند فشار داخلی بر رژیم را افزایش دهد",
+        "tag": "اپوزیسیون",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "The Christian Post",
+        "url": "https://www.christianpost.com/voices/inside-my-meeting-with-reza-pahlavi-his-plan-for-a-free-iran.html",
+        "clean_url": "https://www.christianpost.com/voices/inside-my-meeting-with-reza-pahlavi-his-plan-for-a-free-iran.html",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789442089.702274
+    },
+    {
         "id": "d311b77130",
         "title_fa": "دلار نزدیک اوج دو هفته‌ای؛ نفت بالا رفت",
         "title_en": "Dollar near two-week high as oil surge lifts yields, Fed hike bets",
@@ -985,6 +1003,24 @@
         "timestamp": 1789403055.120702
     },
     {
+        "id": "6d0268c109",
+        "title_fa": "آسیب‌های جنگ علیه ایران بر نیروی‌ نظامی آمریکا",
+        "title_en": "Organismo de control detalla afectaciones por guerra contra Irán en ejército de EEUU",
+        "summary": [
+            "سازمان نظارتی گزارش داد که جنگ علیه ایران هزینه‌های مالی و انسانی قابل‌توجهی برای ارتش آمریکا داشته است",
+            "این خسارت‌ها می‌تواند برنامه‌های دیگر نظامی را تحت فشار قرار دهد"
+        ],
+        "impact": "هزینه‌های افزایشی ممکن است بودجه دفاعی ایالات متحده را تحت فشار مالی جدی قرار دهد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Independent en Español on MSN",
+        "url": "https://www.msn.com/es-mx/noticias/other/organismo-de-control-detalla-afectaciones-por-guerra-contra-ir%C3%A1n-en-ej%C3%A9rcito-de-eeuu/ar-AA2cdLkR",
+        "clean_url": "https://www.msn.com/es-mx/noticias/other/organismo-de-control-detalla-afectaciones-por-guerra-contra-ir%C3%A1n-en-ej%C3%A9rcito-de-eeuu/ar-AA2cdLkR",
+        "image": "http://www.bing.com/th?id=ONUT.ON6DsMIha1DB3ADyMzznJA&pid=News",
+        "timestamp": 1789402532.0
+    },
+    {
         "id": "2d3be76263",
         "title_fa": "ترامپ هوش مصنوعی را توطئه می‌نامد",
         "title_en": "ترامپ درخواست‌ها برای ایجاد محدودیت در حوزه هوش مصنوعی را «توطئه خبیثانه» خواند",
@@ -1488,6 +1524,24 @@
         "clean_url": "https://www.csis.org/analysis/iran-and-emerging-security-order-middle-east",
         "image": "http://www.bing.com/th?id=ONUT.fBRsMBB8lxPCUA5H-ZGA_g&pid=News",
         "timestamp": 1789393140.0
+    },
+    {
+        "id": "b6136d8ec4",
+        "title_fa": "سعودی پس از حمله ایران و رد ترامپ در تنگنا",
+        "title_en": "Arabia Saudita pierde opciones entre el desaire de Trump y los ataques de Irán",
+        "summary": [
+            "ایران به عربستان حمله کرد و واکنش نظامی شدیدی نشان داد",
+            "ترامپ حمایت نظامی آمریکا را رد کرد؛ عربستان بدون پشتوانه‌سخت مواجه است"
+        ],
+        "impact": "عدم دریافت کمک آمریکا می‌تواند توان دفاعی سعودی را به‌طور چشم‌گیری کاهش دهد",
+        "tag": "سیاست",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/es/2026/09/14/espanol/mundo/ataques-iran-arabia-saudita-trump.html",
+        "clean_url": "https://www.nytimes.com/es/2026/09/14/espanol/mundo/ataques-iran-arabia-saudita-trump.html",
+        "image": "http://www.bing.com/th?id=ONUT.YtZKBA7Ma36qZfOJvSezBA&pid=News",
+        "timestamp": 1789392480.0
     },
     {
         "id": "aaedfcd6e6",
@@ -2468,6 +2522,24 @@
         "timestamp": 1789367466.0406036
     },
     {
+        "id": "3108d6b8ba",
+        "title_fa": "ایران ممنوعیت حضور در نشست آیووا را محکوم کرد",
+        "title_en": "Irán denuncia veto de reunión del OIEA en Viena por presión de EE. UU.",
+        "summary": [
+            "ایران پس از رد حضور رئیس بخش هسته‌ای در جلسه آیووا، سفیر اتریش را مورد انتقاد قرار داد",
+            "تهران ادعا می‌کند این تصمیم تحت فشار آمریکا بوده"
+        ],
+        "impact": "عدم حضور در جلسه می‌تواند شفافیت برنامه هسته‌ای ایران را محدود کند",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "DW on MSN",
+        "url": "https://www.msn.com/es-us/noticias/other/ir%C3%A1n-denuncia-veto-de-reuni%C3%B3n-del-oiea-en-viena-por-presi%C3%B3n-de-ee-uu/ar-AA2ccpF6",
+        "clean_url": "https://www.msn.com/es-us/noticias/other/ir%C3%A1n-denuncia-veto-de-reuni%C3%B3n-del-oiea-en-viena-por-presi%C3%B3n-de-ee-uu/ar-AA2ccpF6",
+        "image": "http://www.bing.com/th?id=ONUT.q4RSbka17G1CZnICkcrWwg&pid=News",
+        "timestamp": 1789367400.0
+    },
+    {
         "id": "cbfefe76f7",
         "title_fa": "تخریب پهپاد MQ-1 توسط سپاه در تنگه هرمز",
         "title_en": "Iran’s IRGC says advanced MQ-1 drone ‘destroyed’ over Strait of Hormuz",
@@ -2799,6 +2871,24 @@
         "timestamp": 1789356240.0
     },
     {
+        "id": "88a84da2ab",
+        "title_fa": "هشت‌یارهای حوثی ۴ شهر سعودی را تحت هشدار قرار دادند",
+        "title_en": "Breaking News Live Updates: Saudi Arabia issues emergency alerts for four cities after Houthi attacks injure 13",
+        "summary": [
+            "حوثی‌ها به‌سرعت به شهرهای العلا، ابها، جازان و جده حمله کردند و ۱۳ نفر غیرنظامی را مجروح کردند",
+            "این حملات خطر تأمین نفت خلیج فارس را افزایش داد"
+        ],
+        "impact": "حملات حوثی می‌تواند مسیرهای حمل و نقل نفت را مختل کرده و نوسان قیمت جهانی را تشدید کند",
+        "tag": "حمله",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/newsblogs/houthi-attacks-saudi-iran-us-war-west-asia-strait-of-hormuz-pm-modi-trump-india-sanctions-russia-bill-100-tariffs-trump/liveblog/134250158.cms",
+        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/houthi-attacks-saudi-iran-us-war-west-asia-strait-of-hormuz-pm-modi-trump-india-sanctions-russia-bill-100-tariffs-trump/liveblog/134250158.cms",
+        "image": "https://economictimes.indiatimes.com/thumb/msid-134250158,width-1200,height-900,resizemode-4,imglength-46302/news/newsblogs/houthi-attacks-saudi-iran-us-war-west-asia-strait-of-hormuz-pm-modi-trump-india-sanctions-russia-bill-100-tariffs-trump.jpg",
+        "timestamp": 1789355676.0
+    },
+    {
         "id": "4efa7a3438",
         "title_fa": "جلسه هورموز بین ایران و خلیج به تعویق افتاد",
         "title_en": "Diplomacy stumbles as meeting on Hormuz between Iran and Gulf states is postponed",
@@ -2996,6 +3086,24 @@
         "clean_url": "https://www.foxnews.com/live-news/iran-war-news-updates-trump-hormuz-september-13",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/494aa35b739e3458e217571acf17b1ac.jpg",
         "timestamp": 1789349940.0
+    },
+    {
+        "id": "3ff1e1cfd1",
+        "title_fa": "سخت‌گیران ایرانی توافق ترامپ را خراب کردند",
+        "title_en": "Cómo los partidarios de línea dura en Irán sabotearon el acuerdo con Trump",
+        "summary": [
+            "تحقیقات داخلی نشان داد تصمیم حمله به سه کشتی تجاری به دست یک رئیس اطلاعاتی مخالف توافق بوده",
+            "این اقدام باعث تشدید تنش‌های هسته‌ای و تجاری شد"
+        ],
+        "impact": "حمله به کشتی‌ها روابط تجاری ایران را به‌خطر انداخت و فشار بین‌المللی را افزاش داد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/es/2026/09/14/espanol/mundo/iran-sabotaje-acuerdo-paz.html",
+        "clean_url": "https://www.nytimes.com/es/2026/09/14/espanol/mundo/iran-sabotaje-acuerdo-paz.html",
+        "image": "http://www.bing.com/th?id=ONUT.9aGXuC8G2tKocMrCxNKufQ&pid=News",
+        "timestamp": 1789349880.0
     },
     {
         "id": "5c96322cf4",
@@ -5344,114 +5452,5 @@
         "clean_url": "https://www.msn.com/en-in/war-and-conflicts/war-events/us-israel-iran-war-latest-news-could-iranian-cargo-ship-strike-affect-tehran-s-talks-with-neighbours-which-were-put-on-hold/ar-AA2caNWI",
         "image": "https://www.bing.com/th?id=ONUT.U3uGdy8aC0kg5B-EsB5zMg",
         "timestamp": 1789309636.0
-    },
-    {
-        "id": "74a0f18079",
-        "title_fa": "خبر بین‌المللی — جمهوری‌خواهان, fearing voter anger about costs, clash over e",
-        "title_en": "Republicans, fearing voter anger about costs, clash over economic strategy",
-        "summary": [
-            "Republicans are clashing over how to improve their weak polling numbers on the economy less than two months before Election..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/republicans-fearing-voter-anger-costs-100000000.html",
-        "clean_url": "https://www.aol.com/articles/republicans-fearing-voter-anger-costs-100000000.html",
-        "image": "https://www.bing.com/th?id=ONUT.iEXQlcaMcL33ZefBVSsv7w",
-        "timestamp": 1789309636.0
-    },
-    {
-        "id": "fa0cebab73",
-        "title_fa": "تهران درخواست پهپادهای روسی در جنگ اسرائیل",
-        "title_en": "New Russia-developed drones requested by Tehran during war with Israel, US",
-        "summary": [
-            "ایران برای تقویت نیروی هوایی خود، پهپادهای پیشرفته روسی را درخواست کرد",
-            "این گام نشان‌دهنده وابستگی بیشتر به فناوری روسیه و تنش با ایالات متحده است",
-            "دریافت این پهپادها می‌تواند تعادل نظامی در خاورمیانه را به‌سوی ایران جابجا کند"
-        ],
-        "impact": "تقویت توان نظامی ایران و تشدید تنش‌های منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NeDRJTVBjcmNXR0pPdUluRDZfNUpjMTVSV2x6bWR6bDNjOVV6NUd1eVVSc3hnbXBsaVdtZ0JYdmpQZUVvTzgweGg4aExaZk92NmlSbWliNTRzakJsYVFWWEJILThWSVplaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NeDRJTVBjcmNXR0pPdUluRDZfNUpjMTVSV2x6bWR6bDNjOVV6NUd1eVVSc3hnbXBsaVdtZ0JYdmpQZUVvTzgweGg4aExaZk92NmlSbWliNTRzakJsYVFWWEJILThWSVplaXc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789309635.0
-    },
-    {
-        "id": "7c242a7776",
-        "title_fa": "دروغ‌های تندتر ترامپ افشا شد",
-        "title_en": "Donald Trump’s lies are just getting more blatant. Here are the worst",
-        "summary": [
-            "ترامپ به‌طور مداوم ادعاهای نادرست می‌سازد و حتی در مواجهه با انتقادات جدی همچنان ادامه می‌دهد",
-            "این رفتار باعث تضعیف اعتماد عمومی به شخصیت او و کاهش تأثیر سیاسی‌اش می‌شود"
-        ],
-        "impact": "اعتماد عمومی به ترامپ کاهش می‌یابد و فضای سیاسی داخلی دچار تنش می‌شود",
-        "tag": "ترامپ",
-        "urgency": 2,
-        "sentiment": -0.8,
-        "source": "LGBTQ Nation on MSN",
-        "url": "https://www.msn.com/en-us/news/other/donald-trump-s-lies-are-just-getting-more-blatant-here-are-the-worst/ar-AA2c81vk?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-s-lies-are-just-getting-more-blatant-here-are-the-worst/ar-AA2c81vk",
-        "image": "https://www.bing.com/th?id=ONUT.jOfjloGUeH_C-O4CZNPXfw",
-        "timestamp": 1789309322.4507372
-    },
-    {
-        "id": "e44b95520b",
-        "title_fa": "استراتژی طولانی‌مدت ترامپ برای سرنگونی ایران",
-        "title_en": "Opinion: Containment that causes Iran to capitulate or crumble",
-        "summary": [
-            "پس از سال‌ها تنش، ترامپ به ترکیب فشار اقتصادی و نظامی برای ایران روی آورده",
-            "هدف ایجاد فشار کافی برای تسلیم یا فروپاشی ساختارهای حاکمیتی است"
-        ],
-        "impact": "فشارهای اقتصادی می‌تواند به کاهش توان مالی ایران منجر شود",
-        "tag": "اقتصاد-سیاست",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "RealClearPolitics on MSN",
-        "url": "https://www.msn.com/en-us/general/general/opinion-containment-that-causes-iran-to-capitulate-or-crumble/ar-AA2c7EKw?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/general/general/opinion-containment-that-causes-iran-to-capitulate-or-crumble/ar-AA2c7EKw",
-        "image": "https://www.bing.com/th?id=ONUT.XYQBN1AeaQKSk8JC_f4kRA",
-        "timestamp": 1789308187.5925467
-    },
-    {
-        "id": "035544d3ab",
-        "title_fa": "لوتیگ پیش‌بینی رد نمایندگان دموکرات در ۲۰۲۷",
-        "title_en": "Luttig predicts Republicans could refuse to seat a Democratic House in 2027",
-        "summary": [
-            "لوتیگ می‌گوید جمهوری‌خواهان ممکن است پس از انتخابات مجلس ساعاتی برای پذیرش نمایندگان دموکرات نگذارند",
-            "این سناریو می‌تواند بحران قانونی جدی در کنگره آمریکا ایجاد کند"
-        ],
-        "impact": "احتمال بروز تنگناهای قانون اساسی و تضعیف اعتماد عمومی به مجلس",
-        "tag": "آمریکا-سیاسی",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "Idaho Public Press on MSN",
-        "url": "https://www.msn.com/en-us/news/other/luttig-predicts-republicans-could-refuse-to-seat-a-democratic-house-in-2027/ar-AA2c7RlP?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/luttig-predicts-republicans-could-refuse-to-seat-a-democratic-house-in-2027/ar-AA2c7RlP",
-        "image": "https://www.bing.com/th?id=ONUT.77w4Qy5xNveCWZJlksS0vQ",
-        "timestamp": 1789308187.5921872
-    },
-    {
-        "id": "5dbe9332e8",
-        "title_fa": "حمله حوثی‌ها به پایگاه سعودی؛ مذاکرات هرمز به تعویق",
-        "title_en": "Brent at $108: Gulf States Halt Hormuz Talks as Houthis Strike Saudi Airbase",
-        "summary": [
-            "حملهٔ موشکی و پهپادی حوثی‌ها به پایگاه خلید، واکنشی به بیش از ۳۰۰ حمله هوایی سعودی در پنج روز است.",
-            "آسیب به خط لولهٔ ۷ میلیون بشکه در روز، امکان قطع ۴٪ عرضهٔ جهانی نفت را ایجاد می‌کند.",
-            "لغو مذاکرات هرمز توسط کشورهای خلیج، فشار دیپلماتیک بر ایران را افزایش می‌دهد."
-        ],
-        "impact": "کاهش ۴٪ عرضهٔ جهانی نفت و افزایش قیمت‌های نفت خام.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-at-108-Gulf-States-Halt-Hormuz-Talks-as-Houthis-Strike-Saudi-Airbase.html",
-        "clean_url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-at-108-Gulf-States-Halt-Hormuz-Talks-as-Houthis-Strike-Saudi-Airbase.html",
-        "image": "https://www.bing.com/th?id=ONUT.5d01mbq_1dHhCKNjCobjVQ",
-        "timestamp": 1789307037.0
     }
 ]
