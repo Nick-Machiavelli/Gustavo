@@ -3156,6 +3156,25 @@
         "timestamp": 1789425263.0
     },
     {
+        "id": "bb2559fbba",
+        "title_fa": "هزینه جنگ ایران ۳۸ میلیارد دلار، ماهانه ۳ میلیارد افزایشی",
+        "title_en": "Iran war cost hits US$38bil, forecast to rise US$3 billion a month",
+        "summary": [
+            "هزینه جنگ ایران به ۳۸ میلیارد دلار رسیده و هر ماه ۳ میلیارد دلار اضافه می‌شود",
+            "این هزینه می‌تواند تورم را ۰٫۵٪ در سه ماه اول ۲۰۲۷ افزایش دهد",
+            "افزایش هزینه فشار بر ذخایر مالی و موجودی مهمات ایالات متحده می‌گذارد"
+        ],
+        "impact": "بار مالی آمریکا برای تأمین مهمات و مقابله با تورم شدید می‌شود",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Free Malaysia Today on MSN",
+        "url": "https://www.msn.com/en-my/money/economy/iran-war-cost-hits-us-38bil-forecast-to-rise-us-3-billion-a-month/ar-AA2chziM?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-my/money/economy/iran-war-cost-hits-us-38bil-forecast-to-rise-us-3-billion-a-month/ar-AA2chziM",
+        "image": "https://www.bing.com/th?id=ONUT.i_Io5OSeymfTTLnjRWNSKw",
+        "timestamp": 1789424574.0
+    },
+    {
         "id": "acd26b4425",
         "title_fa": "تحریم آمریکا بر بانک روسی VTB به دلیل ایران",
         "title_en": "US hits major Russian bank VTB with Iran-linked sanctions",
@@ -5377,22 +5396,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/how-much-more-embarrassment-can-the-republican-party-take-opinion/ar-AA2c7DgX",
         "image": "https://www.bing.com/th?id=ONUT.yZdQBP27uaIjpkzNEtjFYw",
         "timestamp": 1789391159.055677
-    },
-    {
-        "id": "ca8ba62dfc",
-        "title_fa": "خبر بین‌المللی — روسی stock market closes sharply higher در surging energy pr",
-        "title_en": "Russian stock market closes sharply higher on surging energy prices",
-        "summary": [
-            "\"Shares of Eurotrans (+23.5%) emerged as the top gainers on the Russian stock market today, possibly driven by the stock being undervalued,\" said Natalia Milchakova, lead analyst at Freedom Global."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2187509",
-        "clean_url": "https://tass.com/economy/2187509",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1789390620.0
     }
 ]
