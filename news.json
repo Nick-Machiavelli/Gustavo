@@ -339,6 +339,24 @@
         "timestamp": 1789414590.8182323
     },
     {
+        "id": "4fd8d8cc25",
+        "title_fa": "قیمت نفت بالا رفت؛ بسته شدن خط لوله شرق‑غرب سعودی",
+        "title_en": "Middle East Supply Constraints Lift Crude Oil Prices",
+        "summary": [
+            "قیمت نفت برنت پس از بسته شدن خط لوله کلیدی شرق‑غرب سعودی به بالاترین سطح ۳ ماهه رسید",
+            "نگرانی از تنگ‌شدن عرضه جهانی، فشار بر تورم و هزینه‌های انرژی را افزایش داد"
+        ],
+        "impact": "قیمت نفت خرده‌فروشان افزایش، فشار بر تورم جهانی",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Barchart · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/middle-east-supply-constraints-lift-191350297.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/middle-east-supply-constraints-lift-191350297.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0.jpg",
+        "timestamp": 1789413972.0
+    },
+    {
         "id": "cb0f31207f",
         "title_fa": "پنج سال AUKUS؛ استقامت استراتژیک استرالیا",
         "title_en": "Five years on, AUKUS has endured through extraordinary political change",
@@ -2673,6 +2691,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSmQyOXp0dDFDcmJGUXlmWEZ4Y1UzZkx6cDZvMmpQYXViYnBybTBPbG8tU0JCS0JxSVdQTUZrcHc3d0ZPNVptN0x2NDBueDlwNHZXai13",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789349761.0
+    },
+    {
+        "id": "ca249a8f06",
+        "title_fa": "حملات ایران به سفارت‌های آمریکا؛ خسارت ۱۸۴ میلیون دلاری",
+        "title_en": "Iran strikes on US diplomatic facilities in 4 Gulf countries cost $184M: IG report",
+        "summary": [
+            "ایران به چهار پایگاه دیپلماتیک آمریکا در خلیج حمله کرد و خسارت تخمینی ۱۸۴ میلیون دلار وارد شد",
+            "این اقدام احتمالاً منجر به اعمال تحریم‌های سخت‌تر و تشدید تنش‌های دیپلماتیک می‌شود"
+        ],
+        "impact": "تحریم‌های جدید و تشدید تنش‌های دیپلماتیک بین آمریکا و ایران",
+        "tag": "سفارت‌خانه",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Hill",
+        "url": "https://thehill.com/policy/defense/6089324-iranian-strikes-us-diplomatic-damage/",
+        "clean_url": "https://thehill.com/policy/defense/6089324-iranian-strikes-us-diplomatic-damage",
+        "image": "https://www.bing.com/th?id=ONUT.md5Z2z-QoXHABkeEQmdNJw",
+        "timestamp": 1789349172.0
+    },
+    {
+        "id": "de201fe86c",
+        "title_fa": "ترامپ از بازسازی کاخ سفید به‌عنوان «دیکتاتور» تعریف کرد",
+        "title_en": "Trump gives new White House feature dictator-coded praise",
+        "summary": [
+            "ترامپ ادعا کرد که بازسازی جدید کاخ سفید را از یک «زباله» به «قصر شخصی» تبدیل کرده",
+            "بیان این‌گونه باعث واکنش‌های انتقادی در داخل و خارج آمریکا شد"
+        ],
+        "impact": "تصویر مثبت داخلی ترامپ، اما واکنش‌های انتقادی بین‌المللی",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": 0.3,
+        "source": "The Daily Beast on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/trump-gives-new-white-house-feature-dictator-coded-praise/ar-AA2cdTcU?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/trump-gives-new-white-house-feature-dictator-coded-praise/ar-AA2cdTcU",
+        "image": "https://www.bing.com/th?id=ONUT.G-huuA26bQeDoTLhGVRerQ",
+        "timestamp": 1789349172.0
+    },
+    {
+        "id": "fa17ad080d",
+        "title_fa": "حوثی‌ها جزیره‌های هانی‌ش را تصرف کردند؛ خطر بر مسیرهای دریایی",
+        "title_en": "Houthis seize 2 strategic Red Sea islands, and other Mideast developments",
+        "summary": [
+            "حامیان ایران جزیره‌های بزرگ و کوچک هانی‌ش را در دریای سرخ به‌دست گرفتند",
+            "این تصرف امکان کنترل مسیرهای تجاری مهم را برای حوثی‌ها فراهم می‌کند"
+        ],
+        "impact": "اختلال در عبور کشتی‌های تجاری، افزایش هزینه حمل‌ونقل",
+        "tag": "دریایی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Times Leader",
+        "url": "https://www.timesleader.com/news/1755178/houthis-seize-2-strategic-red-sea-islands-and-other-mideast-developments",
+        "clean_url": "https://www.timesleader.com/news/1755178/houthis-seize-2-strategic-red-sea-islands-and-other-mideast-developments",
+        "image": "https://www.timesleader.com/wp-content/uploads/2026/09/132644866_web1_132644866-3cad4a67b42f4d7fa35f94df233e24c6.webp",
+        "timestamp": 1789349172.0
     },
     {
         "id": "36b14b790b",
@@ -5394,78 +5466,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTRXQkJYVGtQWlNfRGFWSHNoeWdDamdLTndGRENXclhCendBeTVGYVZlWHVXbWo4YWxwSFJ6VHlQOFlIbHl4Slhha2dOdFBSeF9PQ1Vobi15Y0RQcHdIREdOT2tWTkUtSkFaeW1iejIxa0ZwSzBHREF2aUNBQXgyWm8tQ2NDdDlRTlHSAY8BQVVfeXFMTi1pZUNYX3J5bGIydm1xSFJKbXZpdF9uYTI1X20wcEswcVVYSUNaQ1JKamlMUFIwSTBSRER2QmpxcFIteXdWR3M3TE9iVjRWbFdPaG1QcU43RlVCRVpwa3ZiSmhxM18ybjNZSm9OMWhBaUtQM0dUWXI3NjEwSzlLVEg2VWRiTkVHMS1URGhWMXM",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789301340.0
-    },
-    {
-        "id": "9e8b7159e8",
-        "title_fa": "تندروهای ایران گفته می‌شود که حملاتی را در سرپیچی از رهبران انجام داده اند و توافق صلح را خراب می‌کنند",
-        "title_en": "Iran hardliners said to have launched attacks in defiance of leaders, sabotaging peace deal",
-        "summary": [
-            "Iran hardliners said to have launched attacks in defiance of leaders, sabotaging peace deal The Times of Israel"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMjV5QXJsaVBJcEM2d0I3TUgtRXNZUjhpS200ZHJaREozUm43TG1xMGRLVnRqRkdsQXM4UGppTXZqcWFTay1Yb21lWWRfQUVtOC0wZ1FScWdWcnNINURMT2Q4clVSQS1lTkpEU1ROZnYxVnQ5TFN1THJmYWU2OWp2dGlDcVVSOXJiakl4bWFDVE5TTlRndGcxblFSRURBZ2Nudm4xXzFQcTJjV3J0endhNkVYTzhQbGpnUk80ZDdOUDVOajBCODlPVE9wYUZSeGs4SGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMjV5QXJsaVBJcEM2d0I3TUgtRXNZUjhpS200ZHJaREozUm43TG1xMGRLVnRqRkdsQXM4UGppTXZqcWFTay1Yb21lWWRfQUVtOC0wZ1FScWdWcnNINURMT2Q4clVSQS1lTkpEU1ROZnYxVnQ5TFN1THJmYWU2OWp2dGlDcVVSOXJiakl4bWFDVE5TTlRndGcxblFSRURBZ2Nudm4xXzFQcTJjV3J0endhNkVYTzhQbGpnUk80ZDdOUDVOajBCODlPVE9wYUZSeGs4SGc",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789300800.0
-    },
-    {
-        "id": "38d6ebf89f",
-        "title_fa": "ایران توافق موقت هورموز را به‌زودی اعلام می‌کند",
-        "title_en": "Iran is set to unveil temporary Hormuz agreement to Gulf nations on Monday",
-        "summary": [
-            "توافق فقط موقت است و بازگشایی کامل تنگه را شامل نمی‌شود",
-            "ایران حق انتخاب کشتی‌های عبوری را حفظ می‌کند",
-            "این گام می‌تواند فشار تجاری بین‌المللی را کمی کم کند",
-            "احتمال واکنش‌های مخالف در کشورهای خلیج همچنان وجود دارد"
-        ],
-        "impact": "کاهش موقت فشار تجاری بر کشتی‌های خلیج، اما عدم اطمینان برای ناوگان‌های بین‌المللی",
-        "tag": "حمل‌ونقل",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "South China Morning Post on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/iran-is-set-to-unveil-temporary-hormuz-agreement-to-gulf-nations-on-monday/ar-AA2c8nky",
-        "clean_url": "https://www.msn.com/en-xl/news/other/iran-is-set-to-unveil-temporary-hormuz-agreement-to-gulf-nations-on-monday/ar-AA2c8nky",
-        "image": "http://www.bing.com/th?id=ONUT.FfJFVpvah05heG_l8xL5Dw&pid=News",
-        "timestamp": 1789300670.0
-    },
-    {
-        "id": "af1a534578",
-        "title_fa": "ایران با کشورهای خلیج برای نشست آماده شد",
-        "title_en": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
-        "summary": [
-            "ایران در پی گسترش تنش‌های منطقه‌ای به دنبال برقراری گفت‌وگو با عرب‌های خلیج است",
-            "این حرکت می‌تواند فشار تحریمی را کمی کاهش دهد و فضای دیپلماتیک را برای تهران باز کند",
-            "عرب‌های خلیج احتمالاً از این فرصت برای تعادل میان ایالات متحده و ایران استفاده می‌کنند"
-        ],
-        "impact": "تقویت موقعیت دیپلماتیک ایران و کاهش فشارهای اقتصادی",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3M3U3hWNjVhYmNZUnZTdTJnZXNEYTNfV25MVGVKU2JxSGZaZXAxNFdFMnotX1pNVDB5OVhtT05WVngzTG1VcWtuS2dyYkg3MFJPYjcwRUM4UV9NMF96T1lFa0k0dDFXekkxNUNHd1RFLTgtUnhFeldaMEJCSUV6dk80T0RndldjSVQzVVRlZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3M3U3hWNjVhYmNZUnZTdTJnZXNEYTNfV25MVGVKU2JxSGZaZXAxNFdFMnotX1pNVDB5OVhtT05WVngzTG1VcWtuS2dyYkg3MFJPYjcwRUM4UV9NMF96T1lFa0k0dDFXekkxNUNHd1RFLTgtUnhFeldaMEJCSUV6dk80T0RndldjSVQzVVRlZw",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789300337.0
-    },
-    {
-        "id": "f7c2602faa",
-        "title_fa": "ترامپ says ایران جنگ could پایان by year-endPublished در: September 14, 2026 10: 18 AM",
-        "title_en": "Trump says Iran war could end by year-endPublished on: September 14, 2026 10:18 AM",
-        "summary": [
-            "Pakistan, Sept. 14 -- US President Donald Trump has said the war with Iran could end later this year. He also claimed that..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/trump-says-iran-war-could-end-by-year-endpublished-on-september-14-2026-10-18-am/ar-AA2ca5jA?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/trump-says-iran-war-could-end-by-year-endpublished-on-september-14-2026-10-18-am/ar-AA2ca5jA",
-        "image": "https://www.bing.com/th?id=ONUT.CKqDA_lf24GHlMuwMh7qcw",
-        "timestamp": 1789300323.0
     }
 ]
