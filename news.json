@@ -1,5 +1,23 @@
 [
     {
+        "id": "eb3b8489de",
+        "title_fa": "هوش مصنوعی و خطر جنگ هسته‌ای",
+        "title_en": "Will artificial intelligence dethrone God Almighty?",
+        "summary": [
+            "نگرانان ژئوپلیتیک هشدار می‌دهند که تنش‌های اروپا و خاورمیانه می‌تواند به جنگ هسته‌ای تبدیل شود.",
+            "همزمان، بحث‌های فراسوی‌الطبیعی درباره هوش مصنوعی ممکن است توجه عمومی را از خطرات واقعی امنیتی منحرف کند."
+        ],
+        "impact": "افزایش فشار دیپلماتیک و ریسک اشتباهات محاسبه‌ای در مواجهه با تهدیدات هسته‌ای",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "The Manila Times on MSN",
+        "url": "https://www.msn.com/en-ph/news/opinion/will-artificial-intelligence-dethrone-god-almighty/ar-AA2cmEtM?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ph/news/opinion/will-artificial-intelligence-dethrone-god-almighty/ar-AA2cmEtM",
+        "image": "https://www.bing.com/th?id=ONUT.iworOxROzj8YYvCa5zmdxg",
+        "timestamp": 1789575856.241021
+    },
+    {
         "id": "13ff7e33a3",
         "title_fa": "هوش مصنوعی کشته‌گر: دولت‌ها مقصر",
         "title_en": "AI is already killing people—and governments are to blame",
@@ -5407,22 +5425,5 @@
         "clean_url": "https://www.hindustantimes.com/opinion/wests-brics-worries-underline-its-own-decline-101789402765781.html",
         "image": "https://www.hindustantimes.com/ht-img/img/2026/09/14/1600x900/logo/IMG_1090_1789403561192_WZ6p_1789403564739_nBjA_7b66df7e-84fe-48ab-8d3b-4c34a18195fc_Xuau.jpg",
         "timestamp": 1789451526.8203702
-    },
-    {
-        "id": "6e02bdd404",
-        "title_fa": "خبر بین‌المللی — British PM به discuss Ukraine at first meeting with ترامپ در",
-        "title_en": "British PM to discuss Ukraine at first meeting with Trump in New York — newspaper",
-        "summary": [
-            "According to The Times, the talks are set to be held on the sidelines of the UN General Assembly on September 22..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2188149",
-        "clean_url": "https://tass.com/world/2188149",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1789451398.0
     }
 ]
