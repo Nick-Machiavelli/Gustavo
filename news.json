@@ -1,5 +1,24 @@
 [
     {
+        "id": "4ae98a1d8e",
+        "title_fa": "ترامپ و رئیس فدرال رزرو: سرنخی برای تورم بالا",
+        "title_en": "Who’s to Blame for Higher Prices? Trump’s Own Fed Chair Just Pointed a Subtle Finger.",
+        "summary": [
+            "فدرال رزرو پس از پنج سال تورم سرسخت، نرخ بهره را به ۳.۷۵‑۴٪ ارتقا داد",
+            "کیون وارش، رئیس منتخب توسط ترامپ، به‌صورت غیرمستقیم به سیاست‌های مالی ترامپ اشاره کرد",
+            "این اظهارات می‌تواند فشار بر دلار و بازارهای اوراق قرضه را افزایش دهد"
+        ],
+        "impact": "افزایش نرخ بهره باعث فشار بر قیمت‌های مصرفی و نوسان در بازارهای مالی می‌شود",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "Slate",
+        "url": "https://slate.com/news-and-politics/2026/09/federal-reserve-interest-rates-inflation-trump-kevin-warsh.html",
+        "clean_url": "https://slate.com/news-and-politics/2026/09/federal-reserve-interest-rates-inflation-trump-kevin-warsh.html",
+        "image": "https://www.bing.com/th?id=ONUT.veLeBq8yNyErqY9Dx0qgTQ",
+        "timestamp": 1789594578.6358745
+    },
+    {
         "id": "9aba12503d",
         "title_fa": "پیمان مکه: ریشه‌های تاریخی تنش ایران‑اسرائیل",
         "title_en": "Makkah Pact: The Geopolitics Beyond Islamic Solidarity",
@@ -111,6 +130,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/common-sense-says-iran-war-is-worth-it-but-voters-may-think-otherwise-joe-concha/ar-AA2cn9Ps",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789589658.135125
+    },
+    {
+        "id": "301fdc3122",
+        "title_fa": "هزینه جنگ ایران برای ایالات متحده بیش از ۳۸ میلیارد دلار",
+        "title_en": "Iran war has cost the U.S. more than $38 billion so far, budget office says",
+        "summary": [
+            "دفتر بودجه‌دار آمریکا اعلام کرد هزینه جنگ ایران تا کنون بیش از ۳۸ میلیارد دلار است",
+            "این رقم شامل هزینه‌های نظامی، پشتیبانی لجستیکی و هزینه‌های مخفی است",
+            "هزینه‌های سنگین می‌تواند فشار بر بدهی عمومی و برنامه‌های داخلی را تقویت کند"
+        ],
+        "impact": "بار مالی جنگ بر بودجه فدرال افزوده و ممکن است منجر به فشار بر هزینه‌های داخلی شود",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0w5T0N0a2JNYkg5aTJQd3pYUmZicGVsZ2RpZHpCX3BwQnpzWXIyZzJWb2paaC1hNVhnclZHa21McjZ4dGt3TkVDTElUbFdlTDI1WnBVS2tpNWlIckhsQXVBOFVST2xRWGIxcHBKbDFIcWNEcDR0dk5VZVVYMkptdGxKMFk5cFREOFZPbVFwbmF1MmduejVJbDVZaEE1b1dTV0JVWk1ZMkl4NFXSAbABQVVfeXFMTll0T1RfZTU1d2JmOGVXS05kakZsLWdHbUlHRmk3bGxsLWZpN3VSNnUwUENFeTRxelV0bjM3NF91OGVVNWhsLVJvTDVnSTMzTWxjV3pEYmRoajQ4Ymt6WDFrd0hyT2JSZUxJU2E3dEFWR21ZQ3N2YzluU3h4U2NaMEZMY3JwMkMzbDRORmNjM01CZHpUY3FienNpYVVuWkUxQno0WDltVTdRVTJMbTNMOWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0w5T0N0a2JNYkg5aTJQd3pYUmZicGVsZ2RpZHpCX3BwQnpzWXIyZzJWb2paaC1hNVhnclZHa21McjZ4dGt3TkVDTElUbFdlTDI1WnBVS2tpNWlIckhsQXVBOFVST2xRWGIxcHBKbDFIcWNEcDR0dk5VZVVYMkptdGxKMFk5cFREOFZPbVFwbmF1MmduejVJbDVZaEE1b1dTV0JVWk1ZMkl4NFXSAbABQVVfeXFMTll0T1RfZTU1d2JmOGVXS05kakZsLWdHbUlHRmk3bGxsLWZpN3VSNnUwUENFeTRxelV0bjM3NF91OGVVNWhsLVJvTDVnSTMzTWxjV3pEYmRoajQ4Ymt6WDFrd0hyT2JSZUxJU2E3dEFWR21ZQ3N2YzluU3h4U2NaMEZMY3JwMkMzbDRORmNjM01CZHpUY3FienNpYVVuWkUxQno0WDltVTdRVTJMbTNMOWQ",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789588581.0
     },
     {
         "id": "ee5a452cfb",
@@ -2620,6 +2658,42 @@
         "clean_url": "https://truthout.org/articles/report-trump-transferring-3b-worth-of-bombs-to-israel-funded-by-us-taxpayers",
         "image": "https://www.bing.com/th?id=ONUT.fYJjbIaw7q0qqC9q9m4wnQ",
         "timestamp": 1789509783.5348172
+    },
+    {
+        "id": "910d18adb0",
+        "title_fa": "خانواده چارلی کرک دانشگاه را به‌خاطر امنیت ناکافی متهم می‌کند",
+        "title_en": "Charlie Kirk’s family accuses university of ‘stunning’ security failures",
+        "summary": [
+            "خانواده چارلی کرک ادعا می‌کنند دانشگاه اوتاوا ولِی برنامه امنیتی کتبی نداشت",
+            "عدم کنترل دسترسی به پشت بام‌ها باعث شد تیرانداز به راحتی به هدف برسد"
+        ],
+        "impact": "قانون‌گذاران ممکن است فشار برای اصلاح پروتکل‌های امنیتی دانشگاهی را افزایش دهند",
+        "tag": "امنیت",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "The Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/news/nation-world/charlie-kirk-killing-family-legal-notice-wrongful-death-utah-valley-university-security-failure-tyler-robinson-20260916.html",
+        "clean_url": "https://www.inquirer.com/news/nation-world/charlie-kirk-killing-family-legal-notice-wrongful-death-utah-valley-university-security-failure-tyler-robinson-20260916.html",
+        "image": "https://www.bing.com/th?id=ONUT.MB2H67u7aUzXdJhe2QIYgA",
+        "timestamp": 1789508167.0
+    },
+    {
+        "id": "ea731c81c6",
+        "title_fa": "نوسازی کتابخانه سیسیل ب. مور در فیلادلفیا با ابهام مواجه شد",
+        "title_en": "A contentious Philly library renovation is starting soon, and residents are confused and frustrated",
+        "summary": [
+            "پروژه نوسازی کتابخانه با بودجه ۲ میلیون دلار آغاز می‌شود اما ۸ میلیون دلار دیگر موقتاً استفاده نمی‌شود",
+            "ساکنان محله از عدم شفافیت برنامه‌ها و نگرانی درباره دسترسی برای افراد با نیازهای خاص شکایت کردند"
+        ],
+        "impact": "تاخیر یا تغییر در برنامه می‌تواند اعتماد عمومی به مدیریت شهری را کاهش دهد",
+        "tag": "محلی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/news/philadelphia/cecil-b-moore-library-renovations-rebuild-jeffery-young-20260916.html",
+        "clean_url": "https://www.inquirer.com/news/philadelphia/cecil-b-moore-library-renovations-rebuild-jeffery-young-20260916.html",
+        "image": "https://www.bing.com/th?id=ONUT.EyfR_hqHLnM984bIWqnLpg",
+        "timestamp": 1789508167.0
     },
     {
         "id": "77f8358d7b",
@@ -5336,73 +5410,5 @@
         "clean_url": "https://whdh.com/news/warsh-likely-to-side-with-financial-markets-over-trump-as-fed-rate-hike-expected",
         "image": "https://www.bing.com/th?id=ONUT.wdge6spZHHyr3dRLe2RXZA",
         "timestamp": 1789469451.0
-    },
-    {
-        "id": "640132cec5",
-        "title_fa": "خبر بین‌المللی — Federal Reserve Must Not Hike Rates This Week",
-        "title_en": "The Federal Reserve Must Not Hike Rates This Week",
-        "summary": [
-            "The Federal Reserve's governing body meets this week, and the betting is that our central bank will hike its benchmark interest rate. This is a blunder and raises the question: When will the Fed—not..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/economy/policy/articles/federal-must-not-hike-rates-100000151.html",
-        "clean_url": "https://finance.yahoo.com/economy/policy/articles/federal-must-not-hike-rates-100000151.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/483fe689215e39ac77987af626fb258c4ab86eff7c00d29ab40aedb47524dfb0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_staff_375%2F97a4b151fe83de2a76f41017ff9ae1e4.jpg",
-        "timestamp": 1789468960.4343615
-    },
-    {
-        "id": "48656ac1d8",
-        "title_fa": "خبر بین‌المللی — Daniel DePetris: خواهد ایران become a two-front جنگ?",
-        "title_en": "Daniel DePetris: Will Iran become a two-front war?",
-        "summary": [
-            "But putting it into practice depended on Iran withholding its fire as long as the U.S. military stopped dropping bombs. That didn’t come to pass. The notion that Iran would sit back as its economy..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/2026/09/15/column-iran-problem-worse-houthis-depetris/",
-        "clean_url": "https://www.chicagotribune.com/2026/09/15/column-iran-problem-worse-houthis-depetris",
-        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/09/CTC-2293940412_266543529.jpg?w=4973&h=3316",
-        "timestamp": 1789468957.8239913
-    },
-    {
-        "id": "049b1af43c",
-        "title_fa": "خبر بین‌المللی — Condemn violence by اسرائیلی settlers در West Bank (Editoria",
-        "title_en": "Condemn violence by Israeli settlers in West Bank (Editorial)",
-        "summary": [
-            "The United States does Israel no good by continuing uncritical support with military aid, weapons sales and diplomacy — even when Israel acts in ways as shocking to American consciences as to many in..."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Longmont Times-Call",
-        "url": "https://www.timescall.com/2026/09/15/condemn-violence-israeli-settlers-palestinian-west-bank-editorial/",
-        "clean_url": "https://www.timescall.com/2026/09/15/condemn-violence-israeli-settlers-palestinian-west-bank-editorial",
-        "image": "https://www.timescall.com/wp-content/uploads/2026/09/Israel_Palestinians_77345.jpg?w=2000&h=1333",
-        "timestamp": 1789468955.431892
-    },
-    {
-        "id": "25a2edffb4",
-        "title_fa": "خبر بین‌المللی — Moment Boeing 737's cabin roof collapses در به screaming pas",
-        "title_en": "Moment Boeing 737's cabin roof collapses on to screaming passengers as tyre bursts and shuddering aircraft suffers engine damage in Iran",
-        "summary": [
-            "Passengers on board a Boeing 737 jet were left screaming in panic after the aircraft's roof collapsed onto them after takeoff."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Mail",
-        "url": "https://www.dailymail.com/news/article-16135447/Boeing-737-cabin-roof-collapses-screaming-passengers-tyre-bursts-iran.html",
-        "clean_url": "https://www.dailymail.com/news/article-16135447/Boeing-737-cabin-roof-collapses-screaming-passengers-tyre-bursts-iran.html",
-        "image": "https://i.dailymail.com/1s/2026/09/16/10/111282511-0-image-a-6_1789551645585.jpg",
-        "timestamp": 1789468926.0
     }
 ]
