@@ -1,5 +1,24 @@
 [
     {
+        "id": "f4a58732f6",
+        "title_fa": "پهلوی با کابینه سایه‌ای ائتلاف ملاقات کرد",
+        "title_en": "Why Australia should engage with Crown Prince Reza Pahlavi on Iran",
+        "summary": [
+            "نشانه تمایل ائتلاف به ارتباط مستقیم با حامی دموکراسی ایران است",
+            "رضا پهلوی از جامعه بین‌المللی حمایت مالی و سیاسی برای فشار بر رژیم می‌طلبد",
+            "این تماس می‌تواند فشار دیپلماتیک بر ایران را تقویت کند"
+        ],
+        "impact": "تقویت فشار بین‌المللی بر دولت ایران",
+        "tag": "اپوزیسیون",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "The Australian",
+        "url": "https://www.theaustralian.com.au/commentary/why-australia-should-engage-with-crown-prince-reza-pahlavi-on-iran/news-story/c8a18c11d89fadaf0b2e27e42409f9ff",
+        "clean_url": "https://www.theaustralian.com.au/commentary/why-australia-should-engage-with-crown-prince-reza-pahlavi-on-iran/news-story/c8a18c11d89fadaf0b2e27e42409f9ff",
+        "image": "https://www.bing.com/th?id=ONUT.22zdg_Qzz-gtQftAj882VQ",
+        "timestamp": 1789547931.3287635
+    },
+    {
         "id": "59754cb2ed",
         "title_fa": "نبرد بر سر \"نسل کشی\" رپر اسرائیلی نظرات تور کنسرت را تکان می‌دهد.",
         "title_en": "Battle over Rapper's Israel 'Genocide' Comments Shakes Up Concert Tour; Congress Reacts to High Cost of Iran War",
@@ -2896,6 +2915,25 @@
         "timestamp": 1789462525.0907269
     },
     {
+        "id": "7a41cf5974",
+        "title_fa": "لبنان‌نشینان جنوب اشغال‌شده از خروج نیروهای سازمان ملل می‌ترسند",
+        "title_en": "Lebanese in Israeli-occupied south fear bleak future once UN peacekeepers withdraw",
+        "summary": [
+            "خروج پی‌سی‌جی از جنوب، خلأ امنیتی برای ساکنان ایجاد می‌کند",
+            "ترس از تداوم درگیری با اسرائیل و تشدید فقر و بیکاری است",
+            "جامعه بین‌المللی هنوز برنامه جایگزین برای حفظ صلح ارائه نداده"
+        ],
+        "impact": "افزایش خطر انسانی و بی‌ثباتی در جنوب لبنان",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/lebanese-in-israeli-occupied-south-fear-bleak-future-once-un-peacekeepers-withdraw/ar-AA2cjK6D?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/lebanese-in-israeli-occupied-south-fear-bleak-future-once-un-peacekeepers-withdraw/ar-AA2cjK6D",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789461527.0
+    },
+    {
         "id": "edd0678991",
         "title_fa": "خبر بین‌المللی — US seeks $61 million در cryptocurrency tied به ایران oil sal",
         "title_en": "US seeks $61 million in cryptocurrency tied to Iran oil sales",
@@ -5374,40 +5412,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/hubris-in-action-netanyahu-and-the-warnings-of-october-7/ar-AA2ccRfu",
         "image": "https://www.bing.com/th?id=ONUT.8jNKp8rWYuKCaCdSt1X6AA",
         "timestamp": 1789415374.1058478
-    },
-    {
-        "id": "00a3050c12",
-        "title_fa": "خبر بین‌المللی — Beyond Diaspora Politics",
-        "title_en": "Beyond Diaspora Politics",
-        "summary": [
-            "There appears to be a race inside the Iranian diaspora over the fate of Iran’s government should the Islamic Republic fall. Yet few seem to ask whether it is good for America. Diaspora lobbies buy the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Mises Institute",
-        "url": "https://mises.org/mises-wire/beyond-diaspora-politics",
-        "clean_url": "https://mises.org/mises-wire/beyond-diaspora-politics",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789415368.8125381
-    },
-    {
-        "id": "85f5c1262a",
-        "title_fa": "هوتی‌ها به دارایی‌های سعودی و باب‌ال‌مندب حمله",
-        "title_en": "India condemns Houthi attacks on Saudi assets, warns of threat to Bab-el-Mandeb navigation",
-        "summary": [
-            "هند نگرانی جدی خود را نسبت به حملات هوتی‌ها به زیرساخت‌های غیرنظامی سعودی ابراز کرد",
-            "این حملات مسیر بحرین‑یمن (باب‌ال‌مندب) را تهدید می‌کند و خطر اختلال در تجارت جهانی را بالا می‌برد"
-        ],
-        "impact": "اختلال در مسیر باب‌ال‌مندب می‌تواند زنجیره تأمین نفت را مختل کند",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The New Indian Express on MSN",
-        "url": "https://www.msn.com/en-in/news/other/india-condemns-houthi-attacks-on-saudi-assets-warns-of-threat-to-bab-el-mandeb-navigation/ar-AA2chDua?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/india-condemns-houthi-attacks-on-saudi-assets-warns-of-threat-to-bab-el-mandeb-navigation/ar-AA2chDua",
-        "image": "https://www.bing.com/th?id=ONUT.kS7__C54kRaEh08N-JOn9g",
-        "timestamp": 1789415353.0
     }
 ]
