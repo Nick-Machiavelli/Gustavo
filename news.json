@@ -161,6 +161,25 @@
         "timestamp": 1789520242.0
     },
     {
+        "id": "755673610c",
+        "title_fa": "دروپ‌های حوثی به سمت مکه رهگیری شد",
+        "title_en": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
+        "summary": [
+            "حوثی‌ها درگیری هوایی با عربستان را تشدید کردند",
+            "ایران با چین برای پایان جنگ مذاکره می‌کند",
+            "تهدید به مکه می‌تواند واکنش نظامی گسترده‌ای برانگیزد"
+        ],
+        "impact": "تنش عربستان‑ایران بالا می‌رود، خطر حمله به مکان مقدس",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa9c572-1789511026.jpg?resize=1920%2C1440",
+        "timestamp": 1789520100.0
+    },
+    {
         "id": "46c78e997d",
         "title_fa": "حمله‌های حوثی نشانگر ناامیدی ایران؛ واکنش ترامپ",
         "title_en": "Houthi attacks expose Iran’s desperation — here’s how Trump must respond",
@@ -1051,6 +1070,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2Z6OGhpSnhHZE12bk1wMGEtTHdjcmpCTFlCRUNzeXRQX2VsNTMtNG9QZ21xQnpNSE9BV0Z0bnJLbmdfSzlwTWFWWHl4NVhlb0lRZlZyQi1MZlpXalN4d2xaS1VzRThSeXlIQ0Y0T2NXX21kbk9NZjZUcEc1OEo5bUhTSVlfVE1XN3RpUzYxZDF6Y2c",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789488774.0
+    },
+    {
+        "id": "6282ff0adf",
+        "title_fa": "آوارگان یمن به‌دنبال حملات حوثی فرار کردند",
+        "title_en": "Alarmed Yemenis Flee South as Houthis Keep Up Attacks",
+        "summary": [
+            "حمله حوثی‌ها همسر یک خانواده را کشته و مردم را به‌سراغ پناهگاه‌های موقت سوق داد",
+            "بیش از ۱۰۰٬۰۰۰ نفر داخلی‌جابه‌جا شده‌اند",
+            "حکمت حوثی‌ها بر باب‌المندب مسیرهای نفتی خلیج را به خطر انداخت"
+        ],
+        "impact": "بحران انسانی در یمن، اختلال در حمل‌ونقل نفتی خلیج",
+        "tag": "آوار",
+        "urgency": 6,
+        "sentiment": -0.85,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/arab-world/5318680-alarmed-yemenis-flee-south-houthis-keep-attacks",
+        "clean_url": "https://english.aawsat.com/arab-world/5318680-alarmed-yemenis-flee-south-houthis-keep-attacks",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1777312.jpeg.webp?VersionId=qRQa24OhwzwcnlTO.lIftZkKzIYo9p0J",
+        "timestamp": 1789488060.0
     },
     {
         "id": "794f64ba5d",
@@ -5361,40 +5399,5 @@
         "clean_url": "https://asiatimes.com/2026/09/trump-has-no-path-to-victory-against-iran",
         "image": "http://www.bing.com/th?id=ONUT.LUx3VQ8dDC14aZY_3wVJfw&pid=News",
         "timestamp": 1789405140.0
-    },
-    {
-        "id": "8363d45d18",
-        "title_fa": "رییس امنیت ایران به ترامپ هشدار داد",
-        "title_en": "Iran Security Chief Warns Trump: ‘The Straits Have Changed’ — ‘Damage Control Won’t Stop What’s Coming’",
-        "summary": [
-            "محمّد رضاىٔی اعلام کرد مذاکرات تا برآورده شدن شرایط ایران ادامه نخواهد یافت و تهدید به تشدید فشار بر آبراه‌های استراتژیک کرد",
-            "این اظهارات پس از ارتقای رضاىٔی به دبیر شورای امنیت ملی نشانگر سخت‌گیری بیشتر تهران در مقابل ایالات متحده است"
-        ],
-        "impact": "احتمال افزایش تنش‌های دریایی و فشار بر صادرات نفتی آمریکا",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Breitbart News Network",
-        "url": "https://www.breitbart.com/politics/2026/09/14/iran-security-chief-warns-trump-straits-changed/",
-        "clean_url": "https://www.breitbart.com/politics/2026/09/14/iran-security-chief-warns-trump-straits-changed",
-        "image": "https://media.breitbart.com/media/2026/09/Iran-Abbas-Araghchi-Mohsen-Rezaie-July2026-getty-640x335.jpg",
-        "timestamp": 1789405140.0
-    },
-    {
-        "id": "67b5b5463d",
-        "title_fa": "خبر بین‌المللی — اسرائیل said به be aiding Saudi Arabia against حوثی‌ها via C",
-        "title_en": "Israel said to be aiding Saudi Arabia against Houthis via CENTCOM",
-        "summary": [
-            "Regional diplomatic sources say Israeli intelligence is reaching Riyadh through CENTCOM, without direct Israeli combat..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ynetnews",
-        "url": "https://www.ynetnews.com/article/r1tbhcitfx",
-        "clean_url": "https://www.ynetnews.com/article/r1tbhcitfx",
-        "image": "https://www.bing.com/th?id=ONUT.F16jSRUewkzRZRPDWxy1uQ",
-        "timestamp": 1789404675.0
     }
 ]
