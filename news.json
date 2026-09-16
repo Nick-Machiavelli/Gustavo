@@ -2877,6 +2877,26 @@
         "timestamp": 1789460842.5278172
     },
     {
+        "id": "b6847c9217",
+        "title_fa": "هزینهٔ شگفت‌انگیز جنگ ایران برای مالیات‌گذاران آمریکا",
+        "title_en": "Iran war hits staggering high new price tag for US taxpayers",
+        "summary": [
+            "دفتر بودجه کنگره هزینهٔ ۶ ماه عملیات نظامی در ایران را حدود ۲۲ میلیارد دلار برآورد کرد",
+            "این رقم برای مالیات‌گذاران آمریکا معادل افزایش قابل توجهی در مالیات یا بدهی ملی است",
+            "هزینهٔ بالا فشار سیاسی داخلی آمریکا برای محدود کردن مداخله در خاورمیانه را تقویت می‌کند",
+            "اگر جنگ طولانی شود، هزینه می‌تواند دو برابر شود و اقتصاد آمریکا را تحت فشار قرار دهد"
+        ],
+        "impact": "هزینهٔ چندین میلیارد دلاری فشار مالی بر بودجه فدرال و احتمال افزایش مالیات",
+        "tag": "هزینه",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Dagens.com on MSN",
+        "url": "https://www.msn.com/en-ca/money/general/iran-war-hits-staggering-high-new-price-tag-for-us-taxpayers/ar-AA2ck4Ah?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/money/general/iran-war-hits-staggering-high-new-price-tag-for-us-taxpayers/ar-AA2ck4Ah",
+        "image": "https://www.bing.com/th?id=ONUT.ZzA3K_wUnoxUgQLym3QLtA",
+        "timestamp": 1789459399.0
+    },
+    {
         "id": "6da432d95e",
         "title_fa": "تروپ هزینه جنگ ۳۳ میلیارد دلاری و کمبود سلاح",
         "title_en": "Iran war live: US facing weapons shortages as cost of war hits $33bn",
@@ -5392,23 +5412,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/middle-east-supply-constraints-lift-191350297.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0.jpg",
         "timestamp": 1789413972.0
-    },
-    {
-        "id": "cb0f31207f",
-        "title_fa": "پنج سال AUKUS؛ استقامت استراتژیک استرالیا",
-        "title_en": "Five years on, AUKUS has endured through extraordinary political change",
-        "summary": [
-            "پنج ساله شدن AUKUS نشان می‌دهد استرالیا به نیروی‌دریایی قدرتمند پایبند است",
-            "این پیمان با تغییرات سیاسی داخلی استرالیا همچنان ادامه دارد و ثبات استراتژیک منطقه را تقویت می‌کند"
-        ],
-        "impact": "تقویت حضور نیروی‌دریایی استرالیا در اقیانوس هند",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "Australian Financial Review",
-        "url": "https://www.afr.com/policy/foreign-affairs/five-years-on-aukus-has-endured-through-extraordinary-political-change-20260911-p60wha",
-        "clean_url": "https://www.afr.com/policy/foreign-affairs/five-years-on-aukus-has-endured-through-extraordinary-political-change-20260911-p60wha",
-        "image": "https://www.bing.com/th?id=ONUT.d31vUNrJjVX71KoIcmtwGA",
-        "timestamp": 1789413845.8019898
     }
 ]
