@@ -1,5 +1,65 @@
 [
     {
+        "id": "47ce16c254",
+        "title_fa": "کانادا به‌عنوان عضو وابسته اتحادیه اروپا دعوت شد",
+        "title_en": "Canada invited to join European Union after all of Trump’s nonsense",
+        "summary": [
+            "اتحادیه اروپا پیشنهاد عضویت وابسته به کانادا را داد تا روابط تجاری را تقویت کند",
+            "این گام واکنشی به سیاست‌های تجاری ترامپ و تنش‌های آمریکا‑کانادا است",
+            "پیشنهاد نشان می‌دهد اتحادیه اروپا به دنبال گسترش جغرافیایی نفوذ خود است",
+            "عضویت وابسته می‌تواند فرصت‌های جدیدی برای صادرات و سرمایه‌گذاری فراهم کند"
+        ],
+        "impact": "تجارت کانادا‑EU رشد می‌کند و فشار بر روابط تجاری آمریکا‑کانادا افزایش می‌یابد",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "The New Republic on MSN",
+        "url": "https://www.msn.com/en-us/news/other/canada-invited-to-join-european-union-after-all-of-trump-s-nonsense/ar-AA2clS8g?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/canada-invited-to-join-european-union-after-all-of-trump-s-nonsense/ar-AA2clS8g",
+        "image": "https://www.bing.com/th?id=ONUT.4z50ohIN9i5TvSVVNZqwLw",
+        "timestamp": 1789571044.677926
+    },
+    {
+        "id": "604060f1d3",
+        "title_fa": "دوره انتخاباتی اسرائیل به‌سختی می‌سوزد",
+        "title_en": "The writing is on the wall, again",
+        "summary": [
+            "کمپین انتخاباتی به‌سرعت سمی می‌شود و فضای سیاسی را پرتنش می‌کند",
+            "نخست‌وزیر ادعا می‌کند در تشدید تنش‌ها نقشی نداشته؛ اما رقیبان او را سرزنش می‌کنند",
+            "بیان‌های تند می‌تواند به تظاهرات خیابانی و تفرقهٔ اجتماعی منجر شود",
+            "روندهای تند سیاسی خطر بی‌ثباتی امنیتی را افزایش می‌دهد"
+        ],
+        "impact": "تنش داخلی می‌تواند به بی‌ثباتی امنیتی در منطقه منجر شود",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/the-writing-is-on-the-wall-again/",
+        "clean_url": "https://www.timesofisrael.com/the-writing-is-on-the-wall-again",
+        "image": "https://www.bing.com/th?id=ONUT.g3zQeATc5WOA-KA99hXY1A",
+        "timestamp": 1789571044.6775846
+    },
+    {
+        "id": "c5065fbb5f",
+        "title_fa": "آمریکا باید راه‌حل سیاسی برای ایران داشته باشد",
+        "title_en": "The US needs a political endgame for Iran, not just more pressure",
+        "summary": [
+            "واشنگتن تمام ابزارهای قدرت را به کار برده؛ اما هدف نهایی را مشخص نکرده است",
+            "تحریم‌ها و فشارهای نظامی توانستند برخی توانمندی‌های هسته‌ای و موشکی را تضعیف کنند",
+            "ساختار سیاسی که تهدیدها را زنده می‌کند، همچنان پابرجاست",
+            "بدون برنامهٔ سیاسی واضح، فشارهای مداوم به‌سودی نخواهند داشت"
+        ],
+        "impact": "سیاست‌گذاری بی‌هدف، فشارهای اقتصادی و نظامی بی‌نتیجه می‌مانند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/opinion/article-908618",
+        "clean_url": "https://www.jpost.com/opinion/article-908618",
+        "image": "https://www.bing.com/th?id=ONUT.ckTJoyQ7hbLokRLlfDc0jA",
+        "timestamp": 1789571044.677174
+    },
+    {
         "id": "cbbaccaf64",
         "title_fa": "جنگ ایران سرعتی فراتر از توان واشنگتن",
         "title_en": "The Iran War Is Moving Too Fast for Washington to Keep Up",
@@ -5367,61 +5427,5 @@
         "clean_url": "https://www.ndtv.com/india-news/india-faces-100-tariff-risk-as-russia-sanctions-bill-advances-in-us-12052345",
         "image": "https://www.bing.com/th?id=ONUT.x_o95rXMI7gEH6sHB5OgrQ",
         "timestamp": 1789445613.0
-    },
-    {
-        "id": "6a1f633827",
-        "title_fa": "US-ایران جنگ LIVE Updates: ایران's Araghchi به Visit چین",
-        "title_en": "US-Iran War LIVE Updates: Iran's Araghchi To Visit China",
-        "summary": [
-            "Regional diplomacy over the Strait of Hormuz has hit a pause after Oman postponed a planned meeting between Iran and Gulf states in the “interests of consensus”. Tehran says the decision was taken..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-latest-updates-today-on-iran-explosions-strait-of-hormuz-crisis-saudi-arabia-and-houthi-attacks-news-liveblog-156153629",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-latest-updates-today-on-iran-explosions-strait-of-hormuz-crisis-saudi-arabia-and-houthi-attacks-news-liveblog-156153629",
-        "image": "http://www.bing.com/th?id=ONUT.EL0_jlMuxBSdHJLQhxvIGg&pid=News",
-        "timestamp": 1789445580.0
-    },
-    {
-        "id": "513dc7d226",
-        "title_fa": "بندر باب‌الماندهب؛ کارت وحشی ایران در مسیرهای تجاری",
-        "title_en": "Yemen’s Gate of Tears: How another critical waterway became Iran’s wild card",
-        "summary": [
-            "آبراه باب‌الماندهب حدود ۳۰٪ ترافیک کانتینری جهان را هدایت می‌کند؛ بسته شدنش تجارت آسیا‑اروپا را به‌هم می‌ریزد.",
-            "هر روز افزایش هزینه‌های حمل‌ونقل و زمان‌بری مسیرهای جایگزین، قیمت کالاها را بالا می‌برد.",
-            "ایران می‌تواند با تهدیدهای نظامی یا ناوبری، این مسیر را به ابزار فشار سیاسی تبدیل کند.",
-            "کشورهای تجاری در حال ارزیابی مسیرهای جایگزین مثل عبور دور آفریقا هستند."
-        ],
-        "impact": "اختلال در باب‌الماندهب هزینه‌های بین‌المللی را به‌طور چشمگیری افزایش می‌دهد",
-        "tag": "حمل‌ونقل",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "CNN · via Yahoo News",
-        "url": "https://www.yahoo.com/news/world/articles/yemen-gate-tears-another-critical-040129943.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/yemen-gate-tears-another-critical-040129943.html",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/a35799dacc75546a1007423bc5503ea9.jpg",
-        "timestamp": 1789444907.0
-    },
-    {
-        "id": "db57c53f3c",
-        "title_fa": "ترامپ در برابر خطر هوش مصنوعی بی‌تفاوت",
-        "title_en": "Lawrence: Trump worst person to be in White House when AI could do what nuclear weapons haven’t",
-        "summary": [
-            "لورنس اودونل هشدار می‌دهد هوش مصنوعی می‌تواند تهدیدی وجودی ایجاد کند، در حالی که ترامپ این خطرها را کم‌اهمیت می‌داند",
-            "بی‌توجهی ترامپ به نظرات متخصصان، خطر تسلیحات خودکار و تصمیم‌گیری‌های نادرست را افزایش می‌دهد",
-            "این بی‌توجهی می‌تواند آمریکا را در رقابت فناوری جهانی عقب بگذارد"
-        ],
-        "impact": "تضعیف سیاست‌های ایمنی AI در ایالات متحده؛ امکان پیشرفت سلاح‌های خودکار بدون نظارت",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "MS NOW on MSN",
-        "url": "https://www.msn.com/en-us/news/other/lawrence-trump-worst-person-to-be-in-white-house-when-ai-could-do-what-nuclear-weapons-haven-t/vi-AA2celMu?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/lawrence-trump-worst-person-to-be-in-white-house-when-ai-could-do-what-nuclear-weapons-haven-t/vi-AA2celMu",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789444368.6749952
     }
 ]
