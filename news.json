@@ -1,5 +1,59 @@
 [
     {
+        "id": "090b87c660",
+        "title_fa": "قرض‌گیری در آمریکا با نرخ بهره بالاتر مواجه می‌شود",
+        "title_en": "US consumers and businesses are now facing a future of more expensive borrowing",
+        "summary": [
+            "فدرال رزرو نرخ بهره پایه را به ۳٫۷۵٪ تا ۴٪ ارتقا داد؛ هزینه وام‌ها برای مصرف‌کنندگان و کسب‌وکارها افزایش یافت.",
+            "افزایش نرخ می‌تواند رشد اقتصادی را کند کرده و فشار بر بخش مسکن و خودرو را بالا ببرد."
+        ],
+        "impact": "افزایش نرخ بهره هزینه وام‌ها را بالا می‌برد و می‌تواند رشد اقتصادی را کند کند.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/articles/us-consumers-businesses-now-facing-200404308.html",
+        "clean_url": "https://finance.yahoo.com/economy/policy/articles/us-consumers-businesses-now-facing-200404308.html",
+        "image": "https://www.bing.com/th?id=ONUT.Db3ECrdbGKRcCx8jLhHBTw",
+        "timestamp": 1789590985.0486465
+    },
+    {
+        "id": "066d509cab",
+        "title_fa": "درگیری در مرکز کننیدی؛ درخواست جلسه اضطراری",
+        "title_en": "Kennedy Center Chaos Grows With Emergency Hearing Request",
+        "summary": [
+            "مدیر مالی مرکز کننیدی پس از بحران مالی، درخواست جلسه اضطراری برای بررسی وضعیت مالی کرده است.",
+            "این تحولات می‌تواند اعتبار مالی و برنامه‌های هنری مرکز را به خطر بیندازد."
+        ],
+        "impact": "اختلال مدیریتی می‌تواند اعتبار مالی و برنامه‌های هنری مرکز را به خطر بیندازد.",
+        "tag": "اقتصاد-فرهنگی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/215508/kennedy-center-emergency-hearing-request-cfo",
+        "clean_url": "https://newrepublic.com/post/215508/kennedy-center-emergency-hearing-request-cfo",
+        "image": "https://www.bing.com/th?id=ONUT.DV-NfGHepv4BF7MKUs7xww",
+        "timestamp": 1789590985.048379
+    },
+    {
+        "id": "2313ba1c8e",
+        "title_fa": "سازمان دفاعی اسرائیل رد کرد هدف‌گیری ساختمان سقوط‌کرده در غزه",
+        "title_en": "IDF says it never struck building that collapsed in Gaza City",
+        "summary": [
+            "سازمان دفاعی اسرائیل اعلام کرد که هرگز به ساختمان منجر به سقوط در غزه حمله نکرده است.",
+            "این ادعا در پی کشته شدن حداقل ۲۰ نفر در تصادف شبانه به‌وجود آمد."
+        ],
+        "impact": "رد ادعای هدف‌گیری می‌تواند واکنش‌های بین‌المللی و فشار بر اسرائیل را تشدید کند.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-never-struck-building-that-collapsed-in-gaza-city/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-never-struck-building-that-collapsed-in-gaza-city",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789590985.0481071
+    },
+    {
         "id": "286a996ee5",
         "title_fa": "هزینه جنگ ایران در ذهن رأی‌دهندگان می‌سوزد",
         "title_en": "'Common sense' says Iran war is worth it, but voters may think otherwise: Joe Concha",
@@ -2524,6 +2578,60 @@
         "clean_url": "https://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
         "image": "https://s.france24.com/media/display/daeb6ab0-1492-11ee-bbdb-005056bfb2b6/w:1280/p:16x9/550df3824b1debd7d9044d15bf8809f535de6ffa.jpg",
         "timestamp": 1789504680.0
+    },
+    {
+        "id": "a832cb70fc",
+        "title_fa": "زن‌های ایرانی بدون حجاب؛ تفرقه در رده‌های حاکم",
+        "title_en": "Iran women defy hijab as wartime fears split regime over crackdown",
+        "summary": [
+            "حجاب‌پذیری در تهران به‌سرعت کاهش یافت؛ زنان در کافه‌ها و پارک‌ها بدون روسری ظاهر می‌شوند.",
+            "سخت‌گیران خواستار سرکوب شدیدتر می‌شوند، در حالی که مقامات ارشد از بروز ناآرامی در زمان جنگ می‌ترسند."
+        ],
+        "impact": "کاهش فشار حجاب می‌تواند به تشدید اعتراضات و فشار بیشتر بر رده‌های سختگیر منجر شود.",
+        "tag": "اجتماعی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/iran-hijab-rules-tehran-women-unveiled-war-splits-regime-crackdown-ptag-2996390-2026-09-17",
+        "clean_url": "https://www.indiatoday.in/world/story/iran-hijab-rules-tehran-women-unveiled-war-splits-regime-crackdown-ptag-2996390-2026-09-17",
+        "image": "https://www.bing.com/th?id=ONUT.NhzoluqJOpvToaF1UMtTVA",
+        "timestamp": 1789504577.0
+    },
+    {
+        "id": "d21bd42a3c",
+        "title_fa": "کنگره آمریکا لایحه تحریم روسیه را تصویب می‌کند",
+        "title_en": "US House Expected to Pass Russia Sanctions Bill Backed by Late Senator Graham",
+        "summary": [
+            "مجلس نمایندگان آمریکا در حال تصویب لایحه‌ای برای تشدید تحریم‌های اقتصادی علیه روسیه است.",
+            "طرح لایحه با حمایت سناتور مرحوم گراهام پیش می‌رود و فشار بین‌المللی بر مسکو را افزایش می‌دهد."
+        ],
+        "impact": "تحریم‌های جدید می‌تواند فشار اقتصادی بر روسیه را افزاش دهد و روابط تجاری بین‌المللی را تحت تأثیر قرار دهد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "GV Wire",
+        "url": "https://gvwire.com/2026/09/16/us-house-expected-to-pass-russia-sanctions-bill-backed-by-late-senator-graham/",
+        "clean_url": "https://gvwire.com/2026/09/16/us-house-expected-to-pass-russia-sanctions-bill-backed-by-late-senator-graham",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789504577.0
+    },
+    {
+        "id": "19ffe7d873",
+        "title_fa": "دو نماینده جمهوری‌خواه آیووا از محدودیت‌های جنگ ایران حمایت می‌کنند",
+        "title_en": "2 Iowa GOP reps in tight races back Iran war limits",
+        "summary": [
+            "دو نماینده مجلس ایالتی آیووا در رقابت‌های نزدیک، موضع حمایت از محدودیت‌های نظامی علیه ایران را اعلام کردند.",
+            "این موضع می‌تواند فشار داخلی برای محدود کردن مداخله نظامی آمریکا در ایران را تقویت کند."
+        ],
+        "impact": "حمایت نمایندگان می‌تواند فشار داخلی برای محدود کردن مداخله نظامی آمریکا در ایران را افزایش دهد.",
+        "tag": "سیاست-ایران",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Newsmax on MSN",
+        "url": "https://www.msn.com/en-us/news/other/2-iowa-gop-reps-in-tight-races-back-iran-war-limits/ar-AA2cmXOU?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/2-iowa-gop-reps-in-tight-races-back-iran-war-limits/ar-AA2cmXOU",
+        "image": "https://www.bing.com/th?id=ONUT.MftKtDAsugM9fa3ANrq5wA",
+        "timestamp": 1789504577.0
     },
     {
         "id": "9928402dca",
@@ -5282,116 +5390,5 @@
         "clean_url": "https://www.ms.now/opinion/tucker-carlson-abul-el-sayed-mike-rogers-9-11",
         "image": "https://www.ms.now/wp-content/uploads/2026/09/260914-tucker-carlson-abdul-elsayed-el-sayed-al.webp?crop=0px,56px,2500px,1313px&w=1200&h=630",
         "timestamp": 1789467877.6405003
-    },
-    {
-        "id": "a388f8bade",
-        "title_fa": "نوح به‌پشت‌سرگیری منطق مهاجرت بریتانیا",
-        "title_en": "Back from who? — Trevor Noah destroys Britain’s immigration logic!",
-        "summary": [
-            "نوح با طنز، استدلال‌های ناعادلانه مهاجرت را افشا کرد",
-            "ویدیو در شبکه‌های اجتماعی به سرعت پخش شد"
-        ],
-        "impact": "افزایش فشار عمومی بر سیاست‌گذاران بریتانیا",
-        "tag": "اجتماعی",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "Trevor Noah on MSN",
-        "url": "https://www.msn.com/en-gb/video/other/back-from-who-trevor-noah-destroys-britain-s-immigration-logic/vi-AA2cfikB?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/video/other/back-from-who-trevor-noah-destroys-britain-s-immigration-logic/vi-AA2cfikB",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789467877.6401181
-    },
-    {
-        "id": "1b84ff3baf",
-        "title_fa": "کریس کونز، حامی اسرائیل، در انتخابات دلاور برنده شد",
-        "title_en": "Staunch Israel supporter Coons expected to win Delaware Democratic Senate primary handily",
-        "summary": [
-            "کریس کونز در انتخابات اولیه سنا دلاور با اکثریت قاطع پیروز شد",
-            "او به عنوان حامی سرسخت اسرائیل شناخته می‌شود",
-            "پیروزی او نشان می‌دهد حمایت دو حزبی از سیاست‌های اسرائیلی در کنگره ادامه دارد"
-        ],
-        "impact": "تقویت موضع حمایت‌گرایانهٔ کنگره نسبت به اسرائیل",
-        "tag": "انتخابات",
-        "urgency": 2,
-        "sentiment": 0,
-        "source": "The Forward on MSN",
-        "url": "https://www.msn.com/en-us/news/other/staunch-israel-supporter-coons-expected-to-win-delaware-democratic-senate-primary-handily/ar-AA2cgk5w?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/staunch-israel-supporter-coons-expected-to-win-delaware-democratic-senate-primary-handily/ar-AA2cgk5w",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789467244.0
-    },
-    {
-        "id": "1c27cc4e03",
-        "title_fa": "سقوط ساختمان در غزه؛ حداقل ۱۶ کشته",
-        "title_en": "A damaged building collapses in Gaza, killing at least 16, and other Mideast developments",
-        "summary": [
-            "ساختمان چند طبقه‌ای در غزه که خانواده‌های آواره در آن ساکن بودند، فرو ریخت",
-            "حداقل ۱۶ نفر، عمدتاً زنان و کودکان، کشته شدند",
-            "این فاجعه نشان‌دهنده وضعیت بحرانی زیرساخت‌های مسکونی در نوار است"
-        ],
-        "impact": "کاهش بیشتر جمعیت غیرنظامی و تشدید فشار بین‌المللی بر اسرائیل",
-        "tag": "غزه",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "The Canadian Press on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/a-damaged-building-collapses-in-gaza-killing-at-least-16-and-other-mideast-developments/ar-AA2ck9BP?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/a-damaged-building-collapses-in-gaza-killing-at-least-16-and-other-mideast-developments/ar-AA2ck9BP",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789467243.0
-    },
-    {
-        "id": "19ccba7b0c",
-        "title_fa": "آمنیستی ۸۷ مسئول سرکوب زنان در ایران را فهرست کرد",
-        "title_en": "Unmasking Iran's murderous enforcers: Amnesty names 87 officials who oversaw brutal campaign of killing, torture and rape in crackdown on women's rights protest",
-        "summary": [
-            "آمنیستی ۸۷ نفر از مقامات نظامی و امنیتی ایران را به جرم جنایات علیه بشریت شناسایی کرد",
-            "گزارش بر پایهٔ شهادت ۲۷۰ نفر و بیش از ۲۰۰۰ ویدیو تهیه شده است",
-            "این فهرست می‌تواند فشار بین‌المللی برای محاکمهٔ مسئولان را افزایش دهد"
-        ],
-        "impact": "احتمال اعمال تحریم‌های جدید علیه افراد فهرست‌شده",
-        "tag": "حقوق-انسانی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Daily Mail",
-        "url": "https://www.dailymail.com/news/article-16129923/Unmasking-Irans-murderous-enforcers-Amnesty-names-87-officials-oversaw-brutal-campaign-killing-torture-rape-crackdown-womens-rights-protest.html",
-        "clean_url": "https://www.dailymail.com/news/article-16129923/Unmasking-Irans-murderous-enforcers-Amnesty-names-87-officials-oversaw-brutal-campaign-killing-torture-rape-crackdown-womens-rights-protest.html",
-        "image": "https://www.bing.com/th?id=ONUT.kqGqs7aXV9g0Qy9HZe4z4A",
-        "timestamp": 1789467243.0
-    },
-    {
-        "id": "ffc36a06f6",
-        "title_fa": "خبر بین‌المللی — US DoD inspector general report says ایران جنگ resulted در m",
-        "title_en": "US DoD inspector general report says Iran war resulted in munitions shortfall & ‘bottlenecks’ | LIVE BLOG",
-        "summary": [
-            "US DoD inspector general report says Iran war resulted in munitions shortfall & ‘bottlenecks’ | LIVE BLOG i24NEWS"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmRud3hkbnlJMThSUThmcVFlY3RIdlQ5cHo1VHBySFNVVHU4VVFRUTc4NFhLclZ0ZUY2QUFCUlpuNmlFaXJrQ0I2MTVhS3RiYzMxVmM5ZzgtcjR1OEFtYVRvSVBBcF9lZlhZZGgyeENjcTBEdDBIR0VCX2lTNzcyMnNUUGhpelotVVdUR0N0SWpoazlpdE9yM0I1Y0NlXzhHZnF2dkRZbEJBdXExRjV3cC1lREZTeDlWbFhwMDNGYzNnZ0VlNk9Cc25BYXRZNWZoSTNGUW5OdDF5RGhNWk5YbE9MWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmRud3hkbnlJMThSUThmcVFlY3RIdlQ5cHo1VHBySFNVVHU4VVFRUTc4NFhLclZ0ZUY2QUFCUlpuNmlFaXJrQ0I2MTVhS3RiYzMxVmM5ZzgtcjR1OEFtYVRvSVBBcF9lZlhZZGgyeENjcTBEdDBIR0VCX2lTNzcyMnNUUGhpelotVVdUR0N0SWpoazlpdE9yM0I1Y0NlXzhHZnF2dkRZbEJBdXExRjV3cC1lREZTeDlWbFhwMDNGYzNnZ0VlNk9Cc25BYXRZNWZoSTNGUW5OdDF5RGhNWk5YbE9MWQ",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789467083.0
-    },
-    {
-        "id": "d080f0a87a",
-        "title_fa": "جنگ ایران، ایالات متحده را به لبه فروپاشی می‌برد",
-        "title_en": "Iran War Has the U.S. Military on the Brink of a “Breakdown”",
-        "summary": [
-            "مقاله می‌گوید حضور نظامی آمریکا در خاورمیانه، به‌ویژه در قبال ایران، به نقطه بحرانی رسیده و خطر از دست دادن کنترل را دارد.",
-            "تحریم‌های سنگین، فشارهای اقتصادی و ریسک هسته‌ای ترکیب شده و توان عملیاتی نیروها را تحت فشار می‌گذارند.",
-            "در صورت تبدیل تنش‌ها به جنگ تمام‌عیار، هزینه انسانی و مالی برای آمریکا به‌صورت چشمگیری افزایش می‌یابد."
-        ],
-        "impact": "افزایش فشار بر تصمیم‌گیرندگان نظامی آمریکا برای بازنگری استراتژی خاورمیانه",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Intercept",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hZGJxbzVFcFQ3NDlneWhNY3MtbE4yMmh3N3oxRGhCS3BvelNOcmRsV1RZRHFQQ3FPQ0hYZTZYTTFsZzdpbFdFZHhOa3NIVEVPZnJCNmc0LVhpaHp4NFhieGlpZTJQWkJkaGVjZWdFTm0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hZGJxbzVFcFQ3NDlneWhNY3MtbE4yMmh3N3oxRGhCS3BvelNOcmRsV1RZRHFQQ3FPQ0hYZTZYTTFsZzdpbFdFZHhOa3NIVEVPZnJCNmc0LVhpaHp4NFhieGlpZTJQWkJkaGVjZWdFTm0",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789466400.0
     }
 ]
