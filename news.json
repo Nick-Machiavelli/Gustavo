@@ -1,5 +1,62 @@
 [
     {
+        "id": "d9d4fdad5a",
+        "title_fa": "تحلیلگر بحرینی: حمله به مکه نتوانست خاورمیانه را علیه ایران متحد کند",
+        "title_en": "Even an attack on Mecca isn't enough to unite the Middle East against Iran, analyst tells 'Post'",
+        "summary": [
+            "حمله به مکه به عنوان جنگ دینی توصیف شد اما تحلیلگر می‌گوید این جنگ دینی نیست.",
+            "ایران سعی کرد این رویداد را به نفع خود به عنوان جنگ مذهبی بکار ببرد.",
+            "کشورهای خاورمیانه هنوز تمایلی به اتحاد علیه ایران ندارند."
+        ],
+        "impact": "نقش محدود ایران در شکل‌گیری ائتلاف‌های منطقه‌ای پس از حمله به مکه",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/even-an-attack-on-mecca-isn-t-enough-to-unite-the-middle-east-against-iran-analyst-tells-post/ar-AA2cmpa7?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/even-an-attack-on-mecca-isn-t-enough-to-unite-the-middle-east-against-iran-analyst-tells-post/ar-AA2cmpa7",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789581825.451086
+    },
+    {
+        "id": "f9d408c591",
+        "title_fa": "پیشنهاد شگفت‌انگیز ایمپچ همه مقامات ترامپ",
+        "title_en": "Anti-Trump conservative floats 'crazy' Cabinet attack: 'Don’t tell me what can’t be done'",
+        "summary": [
+            "ژورنالیست محافظه‌کار پیشنهاد ایمپچ تمام مقامات دولت ترامپ را داد.",
+            "ماسِی مقاله‌ای برای ایمپچ وزیر دفاع به دلیل جنگ ایران و حملات کارائیب ارائه کرد.",
+            "این ایده واکنش‌های شدید داخل ایالات متحده برانگیخت."
+        ],
+        "impact": "فشار سیاسی بر کابینت ترامپ و احتمال بررسی قانونی اقدام‌ها مقامات",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/donald-trump-cabinet-officials/",
+        "clean_url": "https://www.rawstory.com/donald-trump-cabinet-officials",
+        "image": "https://www.bing.com/th?id=ONUT.YjsYU8AD3RLrVDCo_Fzkeg",
+        "timestamp": 1789581825.45075
+    },
+    {
+        "id": "c50cd1f28c",
+        "title_fa": "گرین واکنش به طرح ارسال ۴۰٬۰۰۰ بمب به اسرائیل",
+        "title_en": "\"My God, what comes next?\": Marjorie Taylor Greene reacts after Tucker Carlson raises alarm over Trump administration’s alleged plan to send 40,000 bombs to Israel",
+        "summary": [
+            "کارلسون ادعا کرد دولت ترامپ قصد دارد ۴۰ هزار بمب به اسرائیل بفرستد.",
+            "گرین با تعجب این خبر را به خطر جدی برای خاورمیانه تشخیص داد.",
+            "اگر حقیقت داشته باشد، فشار نظامی آمریکا بر اسرائیل به شدت افزایش می‌یابد."
+        ],
+        "impact": "احتمال تشدید تنش‌های خاورمیانه و واکنش‌های بین‌المللی به ارسال سلاح‌های سنگین",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "PRIMETIMER",
+        "url": "https://www.primetimer.com/news/my-god-what-comes-next-marjorie-taylor-greene-reacts-after-tucker-carlson-raises-alarm-over-trump-administration-s-alleged-plan-to-send-40-000-bombs-to-israel",
+        "clean_url": "https://www.primetimer.com/news/my-god-what-comes-next-marjorie-taylor-greene-reacts-after-tucker-carlson-raises-alarm-over-trump-administration-s-alleged-plan-to-send-40-000-bombs-to-israel",
+        "image": "https://www.bing.com/th?id=ONUT.EjqBNWYERr5Ja69cBzPpKA",
+        "timestamp": 1789581825.4503794
+    },
+    {
         "id": "a3fa564893",
         "title_fa": "خبر بین‌المللی — US Treasury gathers global financial institutions به advance",
         "title_en": "US Treasury gathers global financial institutions to advance Iran sanctions",
@@ -5330,63 +5387,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/us-plans-send-bombs-israel-062235001.html",
         "image": "https://www.bing.com/th?id=ONUT.w16F3l8maz91T5y86xRzmQ",
         "timestamp": 1789460746.0
-    },
-    {
-        "id": "b6847c9217",
-        "title_fa": "هزینهٔ شگفت‌انگیز جنگ ایران برای مالیات‌گذاران آمریکا",
-        "title_en": "Iran war hits staggering high new price tag for US taxpayers",
-        "summary": [
-            "دفتر بودجه کنگره هزینهٔ ۶ ماه عملیات نظامی در ایران را حدود ۲۲ میلیارد دلار برآورد کرد",
-            "این رقم برای مالیات‌گذاران آمریکا معادل افزایش قابل توجهی در مالیات یا بدهی ملی است",
-            "هزینهٔ بالا فشار سیاسی داخلی آمریکا برای محدود کردن مداخله در خاورمیانه را تقویت می‌کند",
-            "اگر جنگ طولانی شود، هزینه می‌تواند دو برابر شود و اقتصاد آمریکا را تحت فشار قرار دهد"
-        ],
-        "impact": "هزینهٔ چندین میلیارد دلاری فشار مالی بر بودجه فدرال و احتمال افزایش مالیات",
-        "tag": "هزینه",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Dagens.com on MSN",
-        "url": "https://www.msn.com/en-ca/money/general/iran-war-hits-staggering-high-new-price-tag-for-us-taxpayers/ar-AA2ck4Ah?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/money/general/iran-war-hits-staggering-high-new-price-tag-for-us-taxpayers/ar-AA2ck4Ah",
-        "image": "https://www.bing.com/th?id=ONUT.ZzA3K_wUnoxUgQLym3QLtA",
-        "timestamp": 1789459399.0
-    },
-    {
-        "id": "6da432d95e",
-        "title_fa": "تروپ هزینه جنگ ۳۳ میلیارد دلاری و کمبود سلاح",
-        "title_en": "Iran war live: US facing weapons shortages as cost of war hits $33bn",
-        "summary": [
-            "ترامپ اعلام کرد آماده مذاکرات برای پایان جنگ است اما همزمان نیروی هوایی آمریکا با از دست دادن ده‌ها هواپیما به کمبود سلاح مواجه شده",
-            "هزینه جنگ به ۳۳ میلیارد دلار رسیده و فشار مالی شدیدی بر بودجه دفاعی آمریکا وارد کرده",
-            "این وضعیت نشان می‌دهد توان عملیاتی آمریکا در خاورمیانه در حال فرسایش است"
-        ],
-        "impact": "کاهش توان نظامی آمریکا در خاورمیانه و فشار بر تصمیمات استراتژیک واشنگتن",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-live-us-forces-reject-claim-that-mines-blew-up-tanker/ar-AA2ceLKA",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-us-forces-reject-claim-that-mines-blew-up-tanker/ar-AA2ceLKA",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789458646.0
-    },
-    {
-        "id": "589b42aa0e",
-        "title_fa": "سفیر ایران: اتریش شایستگی میزبانی سازمان‌ها را ندارد",
-        "title_en": "Najafi: Austria not qualified to host international organizations",
-        "summary": [
-            "سفیر به‌واسطهٔ اعتراض به رد ویزای محمد اسلامی، عملکرد اتریش را در میزبانی سازمان‌های بین‌المللی زیر سؤال برد.",
-            "نمایندهٔ آمریکا اعتراف کرد که واشنگتن مانع سفر اسلامی شد و این موضوع را به‌عنوان دلیل اصلی رد ویزا ذکر کرد.",
-            "این جدال می‌تواند روابط دیپلماتیک ایران‑اتریش را تحت فشار قرار دهد و نقش وین به‌عنوان مرکز سازمان‌های بین‌المللی را زیر سایه بگذارد."
-        ],
-        "impact": "حضور ایران در کنفرانس‌های بین‌المللی ممکن است با موانع بیشتری روبه‌رو شود و فشار بر اتریش برای اصلاح سیاست‌های میزبانی افزایش یابد.",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "parstoday",
-        "url": "https://parstoday.ir/en/news/iran-i246124-najafi_austria_not_qualified_to_host_international_organizations",
-        "clean_url": "https://parstoday.ir/en/news/iran-i246124-najafi_austria_not_qualified_to_host_international_organizations",
-        "image": "https://media.parstoday.ir/image/4cc1bc19c79ddf2qjc8_800C450.jpg",
-        "timestamp": 1789458060.0
     }
 ]
