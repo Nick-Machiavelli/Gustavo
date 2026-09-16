@@ -2492,6 +2492,42 @@
         "timestamp": 1789492895.6894152
     },
     {
+        "id": "37712a0ee8",
+        "title_fa": "پنتاگون می‌گوید دولت نباید در شرکت‌های هوش مصنوعی سهام بگیرد",
+        "title_en": "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
+        "summary": [
+            "مسئول فناوری دفاعی آمریکا اعلام کرد که دولت نباید در شرکت‌های هوش مصنوعی مالکیت جزئی داشته باشد.",
+            "این موضع در مقابل روند ملی‌سازی و سرمایه‌گذاری دولتی در بخش‌های خصوصی، به‌ویژه در فناوری‌های پیشرفته، است."
+        ],
+        "impact": "دولت از ورود به بازار هوش مصنوعی خودداری می‌کند؛ شرکت‌های خصوصی می‌توانند بدون فشار دولتی رشد کنند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html",
+        "clean_url": "https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html",
+        "image": "https://www.bing.com/th?id=ONUT.tTAsNHsjCet4CDrRIsxoZg",
+        "timestamp": 1789492317.0
+    },
+    {
+        "id": "72bd184328",
+        "title_fa": "حمله سعودی به یمن، حوثی‌ها به شهرهای سعودی شلیک می‌کنند",
+        "title_en": "Saudis pound Yemen, Houthis fire at Saudi, as Middle East war spreads",
+        "summary": [
+            "هوانوردان سعودی به مناطق یمن حمله کردند و حوثی‌ها با پهپاد و موشک به بنادر و پایگاه‌های سعودی پاسخ دادند.",
+            "گسترش جنگ به سرزمین‌های سعودی خطر امنیت مسیرهای نفتی خلیج فارس را افزایش می‌دهد."
+        ],
+        "impact": "تنش‌های نظامی در خاورمیانه تشدید می‌شود؛ امنیت انرژی و حمل‌ونقل دریایی در خطر جدی قرار می‌گیرد.",
+        "tag": "جنگ",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Baird Maritime",
+        "url": "https://www.bairdmaritime.com/security/saudis-pound-yemen-houthis-fire-at-saudi-as-middle-east-war-spreads",
+        "clean_url": "https://www.bairdmaritime.com/security/saudis-pound-yemen-houthis-fire-at-saudi-as-middle-east-war-spreads",
+        "image": "https://www.bing.com/th?id=ONUT.iMz6kT0xHDOFDoPntf-nbw",
+        "timestamp": 1789492317.0
+    },
+    {
         "id": "d9eb5b7f5c",
         "title_fa": "خبر بین‌المللی — Secret Pentagon plan خواهد give ترامپ more ways به start a ه",
         "title_en": "Secret Pentagon plan will give Trump more ways to start a nuclear war",
@@ -5371,42 +5407,5 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/rafael-lockheed-accelerate-spice-1000-integration-on-israeli-f-35s/ar-AA2cjBle",
         "image": "https://www.bing.com/th?id=ONUT.BQgpStfKny8yyj30NQTivA",
         "timestamp": 1789454753.0
-    },
-    {
-        "id": "fafd6a5400",
-        "title_fa": "خبر بین‌المللی — ایران is trying به break ترامپ’s stranglehold by hitting him",
-        "title_en": "Iran is trying to break Trump’s stranglehold by hitting him where it hurts",
-        "summary": [
-            "Iran’s leaders were never going to passively submit to slow strangulation. Facing Donald Trump’s blockade of their ports and the near-total loss of their oil exports, the regime is now striking back..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-trying-break-trump-stranglehold-133644669.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-trying-break-trump-stranglehold-133644669.html",
-        "image": "http://www.bing.com/th?id=ONUT.pxkjTAVzvmk1EwT3RdX9EQ&pid=News",
-        "timestamp": 1789454160.0
-    },
-    {
-        "id": "9f733d3be6",
-        "title_fa": "دیزل به ۶ دلار رسید؛ ترامپ اوکراین را مقصر می‌داند",
-        "title_en": "US diesel tops $6 as Trump points to Ukraine",
-        "summary": [
-            "قیمت دیزل در ایالات متحده برای اولین بار از ۶ دلار در هر گالن عبور کرد",
-            "ترامپ این افزایش را به حملات به پالایشگاه‌های اوکراین نسبت می‌دهد و به مناقشات ایران هم اشاره کرد",
-            "هزینه حمل‌ونقل برای شرکت‌ها و مصرف‌کنندگان به شدت بالا می‌رود",
-            "ادعای سیاسی ترامپ می‌تواند روابط اوکراین‑آمریکا را تحت فشار قرار دهد"
-        ],
-        "impact": "قیمت دیزل بالا هزینه حمل‌ونقل را افزایش می‌دهد و فشار تورمی را تقویت می‌کند؛ ادعای ترامپ می‌تواند روابط اوکراین‑آمریکا را تحت فشار قرار دهد",
-        "tag": "قیمت",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Idaho Public Press on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/us-diesel-tops-6-as-trump-points-to-ukraine/ar-AA2ceEnY?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/us-diesel-tops-6-as-trump-points-to-ukraine/ar-AA2ceEnY",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789453861.1404586
     }
 ]
