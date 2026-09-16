@@ -1,5 +1,25 @@
 [
     {
+        "id": "bf5fc3b33b",
+        "title_fa": "ترامپ تهدید به جنگ اقتصادی علیه ایران",
+        "title_en": "Trump Threatens Economic Warfare on Iran",
+        "summary": [
+            "ترامپ گفت آمریکا آماده است تمام ابزارهای مالی را برای فشار بر اقتصاد ایران به کار گیرد.",
+            "این اظهارات می‌تواند فشارهای تحریمی جدیدی را بر صادرات نفت و دسترسی به بازارهای مالی بین‌المللی ایجاد کند.",
+            "تهدید اقتصادی ممکن است ایران را به جستجوی شرکای جایگزین مانند چین و روسیه سوق دهد.",
+            "بازارهای جهانی نفت و ارز ممکن است در واکنش به این گفتار نوسان کنند."
+        ],
+        "impact": "افزایش فشار مالی بر ایران، کاهش توان خرید نفت و احتمال نوسان قیمت‌های جهانی.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Arms Control Association",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMnZYdnduaHNlSWxfeURRZ3AtcUJCM2Vld0h2RmNZMXJHbE5EbWVpNTlMME95VzUwLVB6cjNMYTJIVzVYOExUMmpGc2JOaVFjeS1UVFEzaHlwTDNGMkk4dzFKUE4zSlNDcUpEOHozVGpaNjgtRWVtTkdlOEVhakNRQnVKbE1rMjlZQnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMnZYdnduaHNlSWxfeURRZ3AtcUJCM2Vld0h2RmNZMXJHbE5EbWVpNTlMME95VzUwLVB6cjNMYTJIVzVYOExUMmpGc2JOaVFjeS1UVFEzaHlwTDNGMkk4dzFKUE4zSlNDcUpEOHozVGpaNjgtRWVtTkdlOEVhakNRQnVKbE1rMjlZQnc",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789523221.0
+    },
+    {
         "id": "90c1215c5f",
         "title_fa": "خبر بین‌المللی — ترامپ is blowing his one big advantage در polls: analysis",
         "title_en": "Trump is blowing his one big advantage in the polls: analysis",
@@ -5387,24 +5407,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1kyOURyaWJlM0xVaE1ES2pVelVFaU9BRWNEcDU5T19nbXhFeXJSZ2QxNzdPUldPOFBINzEtYkluRVdHMlk2RGNfZXlscWxuV0VPQU5PMjUzTmJyUno0U2RtamdlaWp4TkxZdktkQnM2TUkya0htc3l2TlQ2REVLX0JsdEhpeGtvM1ZJWG9neGxvSlQ1NHJ3WlgyWGw4TDZiZk9yNGxpSQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789401073.0
-    },
-    {
-        "id": "9f1671834f",
-        "title_fa": "ذخیره نفت آمریکا به کم‌ترین سطح ۴۴ ساله رسید",
-        "title_en": "Why is the US oil reserve at a 44-year low as crude prices surge above $100?",
-        "summary": [
-            "ذخیره استراتژیک نفت ایالات متحده به زیر ۶۰۰ میلیون بشکه افت کرده، پایین‌ترین مقدار در ۴۴ سال گذشته.",
-            "قیمت نفت خام بالای ۱۰۰ دلار فشار بر قیمت بنزین جهانی می‌آورد و همزمان تنش‌های خاورمیانه را تشدید می‌کند.",
-            "این ترکیب می‌تواند تورم انرژی را در کشورهای وابسته به واردات نفت افزایش دهد."
-        ],
-        "impact": "قیمت بنزین و دیزل در جهان بالا می‌رود، هزینه حمل‌ونقل و تورم انرژی شدت می‌گیرد",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Hindustan Times on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/why-is-the-us-oil-reserve-at-a-44-year-low-as-crude-prices-surge-above-100/ar-AA2cgrbD?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/why-is-the-us-oil-reserve-at-a-44-year-low-as-crude-prices-surge-above-100/ar-AA2cgrbD",
-        "image": "https://www.bing.com/th?id=ONUT.Y4rzopprr7jmUEk_H91lng",
-        "timestamp": 1789401068.0
     }
 ]
