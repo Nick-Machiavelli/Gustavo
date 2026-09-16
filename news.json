@@ -1483,6 +1483,25 @@
         "timestamp": 1789539449.4231727
     },
     {
+        "id": "ed7f06d8cb",
+        "title_fa": "حوثی‌ها جنگنده سعودی را سرنگون کردند",
+        "title_en": "Yemen's Houthis say they shot down a Saudi fighter jet",
+        "summary": [
+            "سقوط جنگنده نشان توان افزایشی حوثی‌ها و خطر برای پروازهای هوایی عربستان در یمن",
+            "موشک بومی حوثی‌ها نشان‌دهنده پیشرفت صنایع نظامی داخلی و احتمال تهدید به اهداف دیگر منطقه‌ای است",
+            "حادثه می‌تواند فشار بین‌المللی بر عربستان را بالا برده و مذاکرات صلح را پیچیده‌تر کند"
+        ],
+        "impact": "سخت‌گیری عملیات هوایی سعودی در یمن و تشدید تنش‌های منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-say-they-shot-down-a-saudi-fighter-jet/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-say-they-shot-down-a-saudi-fighter-jet",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789538940.0
+    },
+    {
         "id": "7677583cca",
         "title_fa": "چین حمایت از حقوق مشروع ایران را اعلام کرد",
         "title_en": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
@@ -5374,24 +5393,5 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/the-conspiracy-of-the-three-nationalisms-against-the-united-kingdom-andy-burnham-will-be-the-last-british-prime-minister/ar-AA2cfz0O",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789463150.525239
-    },
-    {
-        "id": "461abe7333",
-        "title_fa": "افزایش نرخ بهره فدرال ریسک بازار ترامپ را بالا می‌برد",
-        "title_en": "Federal Reserve Rate Hikes Would Likely Put the Trump Bull Market on Thin Ice",
-        "summary": [
-            "بازارهای سهام تحت رهبری ترامپ در دو دوره پیش ۵۷‑۱۴۲٪ رشد کردند",
-            "تورم پایدار و سیاست‌های مالی او فشار بر فدرال رزرو ایجاد کرده و احتمال افزایش نرخ در ۱۶ سپتامبر بالا است",
-            "اگر نرخ‌ها بالا بروند، شاخص‌های اصلی می‌توانند ۱۰‑۱۵٪ سقوط کنند"
-        ],
-        "impact": "سرمایه‌گذاران ممکن است به اوراق دولتی یا طلا روی‌آور شوند",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/federal-rate-hikes-likely-put-082601568.html",
-        "clean_url": "https://finance.yahoo.com/markets/stocks/articles/federal-rate-hikes-likely-put-082601568.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/249d8d1ecc4f50f5d778accc3c2eaa85e1423ec0efd5789dd732776368510203/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F8729b36b037e80c0e0a9749bef14f591.jpg",
-        "timestamp": 1789462525.0910127
     }
 ]
