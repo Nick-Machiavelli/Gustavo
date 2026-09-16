@@ -2662,6 +2662,25 @@
         "timestamp": 1789485420.0
     },
     {
+        "id": "8ead644adc",
+        "title_fa": "نمایندگان ایوا رأی به توقف جنگ ایران",
+        "title_en": "Iowa Republicans in battleground House races vote to halt the Iran war",
+        "summary": [
+            "دو نماینده جمهوری‌خواه ایوا در حوزه‌های رقابتی رأی خود را تغییر دادند تا قطع توانایی ترامپ برای ادامه عملیات نظامی بدون تصویب کنگره شود.",
+            "این تصمیم نشان می‌دهد فشار داخلی حزب در ایالت‌های کلیدی می‌تواند مانع گسترش جنگ شود.",
+            "اگر قطع‌نامه به مجلس تمام شود، حاکمیت ترامپ بر سیاست‌های نظامی ایران به شدت محدود می‌شود و فضای مذاکرات دیپلماتیک باز می‌شود."
+        ],
+        "impact": "قابلیت اقدام نظامی ترامپ علیه ایران بدون تصویب کنگره به شدت کاهش می‌یابد.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iowa-midterms-iran-war-resolution-f0a15e467570b9c627807e47236019a5",
+        "clean_url": "https://apnews.com/article/iowa-midterms-iran-war-resolution-f0a15e467570b9c627807e47236019a5",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789485239.0
+    },
+    {
         "id": "6e6d9400d4",
         "title_fa": "نشانه‌های سقوط بازار آمریکا نزدیک است",
         "title_en": "'Extraordinarily dire' signs spark fears of imminent US crash: 'This could be it'",
@@ -5409,23 +5428,5 @@
         "clean_url": "https://www.2gb.com/slashing-population-is-one-thing-but-improving-productivity-is-the-key",
         "image": "https://www.2gb.com/wp-content/uploads/sites/2/2026/09/GettyImages-2294250195-scaled.jpg",
         "timestamp": 1789445682.8416083
-    },
-    {
-        "id": "b3347b549b",
-        "title_fa": "هند با خطر ۱۰۰٪ تعرفه به‌دلیل تحریم روسیه",
-        "title_en": "India Faces 100% Tariff Risk As Russia Sanctions Bill Advances In US",
-        "summary": [
-            "پیشنهاد لایحه تحریم روسیه در ایالات متحده ممکن است برای تمام کالاهای هندی ۱۰۰٪ تعرفه اعمال کند.",
-            "اگر لایحه تصویب شود، صادرات هند به آمریکا به‌صورت جدی تحت فشار قرار می‌گیرد و زنجیره تأمین انرژی آسیایی مختل می‌شود."
-        ],
-        "impact": "هند ممکن است به‌سرعت به بازارهای دیگر روی‌آور روی آورد و روابط تجاری خود را بازنگری کند.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/india-news/india-faces-100-tariff-risk-as-russia-sanctions-bill-advances-in-us-12052345",
-        "clean_url": "https://www.ndtv.com/india-news/india-faces-100-tariff-risk-as-russia-sanctions-bill-advances-in-us-12052345",
-        "image": "https://www.bing.com/th?id=ONUT.x_o95rXMI7gEH6sHB5OgrQ",
-        "timestamp": 1789445613.0
     }
 ]
