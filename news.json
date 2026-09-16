@@ -233,6 +233,25 @@
         "timestamp": 1789514100.0
     },
     {
+        "id": "05b3183897",
+        "title_fa": "کدام شرکت‌ها پس از پایان جنگ ایران بازسازی می‌کنند",
+        "title_en": "Which Firms Will Clean Up After the Iran War is Finally Over?: Maguire",
+        "summary": [
+            "پایان جنگ فرصت بزرگ برای شرکت‌های ساختمانی و مهندسی بین‌المللی ایجاد می‌کند تا در پروژه‌های بازسازی زیرساخت‌های انرژی و حمل‌ونقل ایران شرکت کنند.",
+            "تحریم‌های آمریکا هنوز محدودیت‌های جدی برای ورود سرمایه‌گذاری‌های غربی دارد؛ شرکت‌ها باید از مسیرهای مالی غیرمستقیم یا کشورهای ثالث استفاده کنند.",
+            "بازسازی می‌تواند به‌سرعت تقاضا برای تجهیزات سنگین، مواد ساختمانی و خدمات فنی را در ایران چند برابر کند و بازار داخلی را تحریک نماید."
+        ],
+        "impact": "جذب میلیاردها دلار سرمایه خارجی و ایجاد هزاران شغل در بخش‌های ساخت‌وساز و انرژی",
+        "tag": "بازسازی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZktZaE05UVpOVGdLSlRYZDJMTkVCZDJBZ0ZuNnpHdEdEUFp6TGEwUTZpQVI4U3RvTmNuUnBZYjBNY2d1R01nbGUtMk8yS0c1YXlWZzV2YTRsQ1NiTlZlMUdCWHlibjJZNGlRRmFyU1B5bXdPei1CakhyczN6NG84SkF5S1lSOWxISzZuVVBUMmJsSUUwbFBhbmhEZC1OaGZT?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZktZaE05UVpOVGdLSlRYZDJMTkVCZDJBZ0ZuNnpHdEdEUFp6TGEwUTZpQVI4U3RvTmNuUnBZYjBNY2d1R01nbGUtMk8yS0c1YXlWZzV2YTRsQ1NiTlZlMUdCWHlibjJZNGlRRmFyU1B5bXdPei1CakhyczN6NG84SkF5S1lSOWxISzZuVVBUMmJsSUUwbFBhbmhEZC1OaGZT",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789512492.0
+    },
+    {
         "id": "860c7952a8",
         "title_fa": "پیشرفت مذاکرات پایان جنگ ایران‑آمریکا",
         "title_en": "How Far Have the U.S. and Iran Got Towards Ending the Iran War?",
@@ -5390,24 +5409,5 @@
         "clean_url": "https://www.gov.ca.gov/2026/09/14/governor-newsom-presses-secretary-wright-to-admit-the-truth-trump-had-no-viable-plan-to-protect-americans-from-his-iran-war-gas-and-diesel-price-spikes",
         "image": "https://www.bing.com/th?id=ONUT.HHL_rRnHqrt2IWw1YvaFgA",
         "timestamp": 1789400388.2627285
-    },
-    {
-        "id": "f6ccfc77d6",
-        "title_fa": "قیمت نفت به‌دلیل بسته شدن خط لوله شرق‑غرب سعودی می‌جهد",
-        "title_en": "Crude Prices Surge as Saudi Arabia Closes its East-West Pipeline",
-        "summary": [
-            "بسته شدن خط لوله اصلی سعودی به‌دلیل حملات حوثی، عرضه جهانی نفت را تحت فشار می‌گذارد",
-            "قیمت WTI امروز ۳٫۳٪ افزایش یافت و به بالاترین سطح ۳٫۷۵ ماهه رسید؛ بنزین نیز ۲٫۰۹٪ رشد کرد",
-            "هزینه‌های انرژی برای مصرف‌کنندگان و صنایع بالا می‌رود و می‌تواند فشار تورمی را تشدید کند"
-        ],
-        "impact": "قیمت نفت بالا می‌رود، هزینه‌های انرژی برای مصرف‌کنندگان و صنایع افزایش می‌یابد",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Barchart · via Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-saudi-arabia-153150265.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-saudi-arabia-153150265.html",
-        "image": "https://media.zenfs.com/en/barchart_com_477/5a60c1cd3665d5734fce8e957bb258e6.jpg",
-        "timestamp": 1789400233.0
     }
 ]
