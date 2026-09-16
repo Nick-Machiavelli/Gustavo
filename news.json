@@ -217,6 +217,24 @@
         "timestamp": 1789517032.0
     },
     {
+        "id": "5575c9786c",
+        "title_fa": "به‌روزترین تحولات اسرائیل، ایران و خاورمیانه",
+        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "summary": [
+            "این سرویس به‌صورت لحظه‌ای اخبار کلیدی منطقه را منتشر می‌کند",
+            "به‌دلیل عدم تمرکز بر رویداد خاص، اثر عملی فوری کمی دارد"
+        ],
+        "impact": "اطلاع‌رسانی سریع اما بدون تأثیر مستقیم بر تصمیم‌گیری‌ها",
+        "tag": "اطلاع‌رسانی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWem5PZUs2ZmR3UXFFQ0hfdGtCc3RBY3ZqSC1wbkxmZ3FrMG1zaHFTbjNrYWtkSEt5eGY0cWFHSDliTFRLNEdDS2hpWTZrLVFna09nY1N1T2RsSkl2dEtUMTZENWdvUzdGN2E2QlRaVjZrNXlDTFotTjhtQWZONFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWem5PZUs2ZmR3UXFFQ0hfdGtCc3RBY3ZqSC1wbkxmZ3FrMG1zaHFTbjNrYWtkSEt5eGY0cWFHSDliTFRLNEdDS2hpWTZrLVFna09nY1N1T2RsSkl2dEtUMTZENWdvUzdGN2E2QlRaVjZrNXlDTFotTjhtQWZONFE",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789516805.0
+    },
+    {
         "id": "7d8273a54b",
         "title_fa": "خبر بین‌المللی — Strait هرمز ship attacks put US.-ایران interim deal under s",
         "title_en": "Strait of Hormuz ship attacks put US.-Iran interim deal under strain",
@@ -5382,24 +5400,5 @@
         "clean_url": "https://www.msn.com/es-mx/noticias/other/organismo-de-control-detalla-afectaciones-por-guerra-contra-ir%C3%A1n-en-ej%C3%A9rcito-de-eeuu/ar-AA2cdLkR",
         "image": "http://www.bing.com/th?id=ONUT.ON6DsMIha1DB3ADyMzznJA&pid=News",
         "timestamp": 1789402532.0
-    },
-    {
-        "id": "a6060334ef",
-        "title_fa": "ترامپ وعده ۵۰۰۰ دلار به هر بزرگسال آمریکا",
-        "title_en": "Trump promises $5,000 for every American adult: How will it affect US economy?",
-        "summary": [
-            "ترامپ شرط می‌کند که جمهوری‌دموکرات‌ها را در کنگره شکست دهد",
-            "پرداخت مستقیم می‌تواند تورم و بدهی فدرال را تشدید کند",
-            "انتقادهای اقتصادی داخلی و واکنش بازارها به این طرح افزایشی است"
-        ],
-        "impact": "طرح می‌تواند فشار بر بودجه فدرال را بالا برده و نرخ تورم را تحریک کند",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/trump-promises-5-000-for-every-american-adult-how-will-it-affect-us-economy/ar-AA2ch51C?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/trump-promises-5-000-for-every-american-adult-how-will-it-affect-us-economy/ar-AA2ch51C",
-        "image": "https://www.bing.com/th?id=ONUT.zZFR2pjXfCZB9946rfEUBQ",
-        "timestamp": 1789402427.0
     }
 ]
