@@ -1,5 +1,25 @@
 [
     {
+        "id": "141e4ed97b",
+        "title_fa": "جمهوری‌خواهان ۱٫۱ میلیارد دلار صندوق میانه‌دوره‌ای",
+        "title_en": "Republicans built a $1.1 billion midterm war chest then Elon Musk added a $120 million turnout operation",
+        "summary": [
+            "جمهوری‌خواهان برای انتخابات میانه‌دوره‌ای حدود ۱٫۱ میلیارد دلار جمع‌آوری کرده‌اند؛ این مبلغ پیش از شروع رسمی کمپین است",
+            "ایلان ماسک از طریق شرکت‌های تحت مالکیت خود ۱۲۰ میلیون دلار برای عملیات تشویق به حضور رای‌دهندگان اختصاص داده است",
+            "این ترکیب مالی می‌تواند توان تبلیغاتی MAGA را در ایالات متحده تقویت کند و رقابت را برای دموکرات‌ها دشوارتر سازد",
+            "افزایش هزینه‌های انتخابات ممکن است فشار بیشتری بر قانون‌گذاری مالی انتخاباتی وارد کند"
+        ],
+        "impact": "تقویت توان تبلیغاتی MAGA و احتمال تغییر نتایج میانه‌دوره‌ای",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Dr. Steve Turley on MSN",
+        "url": "https://www.msn.com/en-us/politics/elections/republicans-built-a-1-1-billion-midterm-war-chest-then-elon-musk-added-a-120-million-turnout-operation-my-take/vi-AA2clEIz?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/elections/republicans-built-a-1-1-billion-midterm-war-chest-then-elon-musk-added-a-120-million-turnout-operation-my-take/vi-AA2clEIz",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789568063.5216298
+    },
+    {
         "id": "f2f5c7d5e0",
         "title_fa": "انگلستان به‌صورت علنی مخالف اسرائیل می‌شود",
         "title_en": "Britain’s long history of adversarial policies toward Iran and Israel",
@@ -2636,6 +2656,26 @@
         "clean_url": "https://newrepublic.com/post/215415/jared-kushner-fundraising-billions-iran-negotiations",
         "image": "https://www.bing.com/th?id=ONUT.dYqd3eK3ro_cJ72gPIcUkQ",
         "timestamp": 1789481688.340179
+    },
+    {
+        "id": "467092ff23",
+        "title_fa": "ترامپ ۴۰٬۰۰۰ بمب یک‌تنی به اسرائیل تصویب کرد",
+        "title_en": "Iran-US war BIG update: Trump approves 40000 1-tonne bombs to Israel; US and Israel preparing major attack on Iran after polls?",
+        "summary": [
+            "ادعای تصویب بسته نظامی ۲٫۸ میلیارد دلاری توسط ترامپ برای اسرائیل، شامل ۴۰٬۰۰۰ بمب یک‌تنی، توسط هیچ منبع رسمی تأیید نشده",
+            "اگر چنین بسته‌ای وجود داشته باشد، توان تخریبی بمب‌های MK‑84 و BLU‑117 می‌تواند زیرساخت‌های هسته‌ای ایران را به‌سختی تحت‌الشعاع قرار دهد",
+            "سابقه تحریم‌های سخت‌گیرانه ترامپ نشان می‌دهد که اقدام مستقیم نظامی هنوز در چارچوب سیاست‌های رسمی آمریکا نیست",
+            "انتشار خبرهای بی‌سند می‌تواند تنش‌های منطقه‌ای را تشدید و فضای اطلاعاتی را به سمت جنگ روانی سوق دهد"
+        ],
+        "impact": "احتمال تشدید تنش‌های نظامی و افزایش فشار روانی بر ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "News24",
+        "url": "https://news24online.com/world/iran-us-war-big-update-trump-approves-40000-1-tonne-bombs-to-israel-us-and-israel-preparing-major-attack-on-iran-after-polls/926234/",
+        "clean_url": "https://news24online.com/world/iran-us-war-big-update-trump-approves-40000-1-tonne-bombs-to-israel-us-and-israel-preparing-major-attack-on-iran-after-polls/926234",
+        "image": "https://www.bing.com/th?id=ONUT.JuXttx5UzX0jka_hNR4-rA",
+        "timestamp": 1789481658.0
     },
     {
         "id": "067c5b4abb",
@@ -5388,39 +5428,5 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/us-fed-to-deliver-rate-decision-with-markets-betting-on-hike/ar-AA2cjtDB",
         "image": "https://www.bing.com/th?id=ONUT.51qbhhpYl9S12JUuiMHGyA",
         "timestamp": 1789442005.0
-    },
-    {
-        "id": "e5ca3a7099",
-        "title_fa": "خبر بین‌المللی — Oil Rises در Supply Concerns as ایران Conflict Widens",
-        "title_en": "Oil Rises on Supply Concerns as Iran Conflict Widens",
-        "summary": [
-            "Oil Rises on Supply Concerns as Iran Conflict Widens EnergyNow.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYk9vblpwM3o3cXFZUjZNNVFRV0ZDbzFyX29LREg0Z3ZSUi1jR25VcWozOWhKamxYSF9vbU9LZmotSXdRZFhkNDYxbTNxS2NkMWFSWkFlLWJnT1M1X1RvQlFreXU2SG1DVnp1cThJc0NLSDhlQXB4dG83aVItSTVHZFFZaGlOY0NKN2ZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYk9vblpwM3o3cXFZUjZNNVFRV0ZDbzFyX29LREg0Z3ZSUi1jR25VcWozOWhKamxYSF9vbU9LZmotSXdRZFhkNDYxbTNxS2NkMWFSWkFlLWJnT1M1X1RvQlFreXU2SG1DVnp1cThJc0NLSDhlQXB4dG83aVItSTVHZFFZaGlOY0NKN2ZR",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789441962.0
-    },
-    {
-        "id": "9e56decac9",
-        "title_fa": "خبر بین‌المللی — US Republican lawmaker seeks Pete Hegseth's impeachment over",
-        "title_en": "US Republican lawmaker seeks Pete Hegseth's impeachment over Iran war",
-        "summary": [
-            "Thomas Massie files impeachment articles against Defense Secretary Pete Hegseth for Iran hostilities. Massie accuses Hegseth..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/world/us-republican-lawmaker-seeks-pete-hegseths-impeachment-over-iran-war-19991417.htm",
-        "clean_url": "https://www.cnbctv18.com/world/us-republican-lawmaker-seeks-pete-hegseths-impeachment-over-iran-war-19991417.htm",
-        "image": "https://www.bing.com/th?id=ONUT.nrZ4cx0WjiqZ3IAofj5umA",
-        "timestamp": 1789440611.0
     }
 ]
