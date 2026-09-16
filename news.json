@@ -872,6 +872,26 @@
         "timestamp": 1789506776.0604777
     },
     {
+        "id": "eab8a0f746",
+        "title_fa": "حوثی‌ها رد ادعای حمله پهپادی به مکه",
+        "title_en": "Middle East live: Houthi rebels deny Saudi claim of drone attack on Mecca",
+        "summary": [
+            "حوثی‌ها به‌صورت رسمی ادعای ساعی را رد کردند و گفتند این دروغ‌های تکراری دیگر کسی را فریب نمی‌دهد",
+            "عربستان تهدید به واکنش قوی کرد؛ احتمال افزایش عملیات نظامی در جنوب یمن بالا است",
+            "دیدار سسی و ولی‌سلمان در قاهره نشان می‌دهد کشورهای منطقه برای حفظ امنیت مسیرهای دریایی فشار می‌آورند",
+            "آمار وزارت دفاع آمریکا نشان می‌دهد کمبود مهمات می‌تواند توان پشتیبانی نظامی عربستان را محدود کند"
+        ],
+        "impact": "تشدید تنش‌های نظامی بین عربستان و حوثی‌ها و افزایش ناامنی در مسیرهای تجاری خلیج فارس",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
+        "clean_url": "https://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
+        "image": "https://s.france24.com/media/display/daeb6ab0-1492-11ee-bbdb-005056bfb2b6/w:1280/p:16x9/550df3824b1debd7d9044d15bf8809f535de6ffa.jpg",
+        "timestamp": 1789504680.0
+    },
+    {
         "id": "9928402dca",
         "title_fa": "ترامپ مذاکرات پایان جنگ با ایران را می‌پذیرد",
         "title_en": "Iran war live: Saudi Arabia says it shot down drone near Mecca",
@@ -5395,22 +5415,5 @@
         "clean_url": "https://www.aol.com/articles/trumps-iran-war-already-cost-184624000.html",
         "image": "https://www.bing.com/th?id=ONUT.KbRx0HoOENezm8OaQJmxzw",
         "timestamp": 1789416210.0
-    },
-    {
-        "id": "cd48aecf3f",
-        "title_fa": "خبر بین‌المللی — Fatal alliance: reality US.-اسرائیل axis",
-        "title_en": "Fatal alliance: The reality of the US.-Israel axis",
-        "summary": [
-            "To examine the unyielding multi-billionaire dollar shield that the United States provides Israel is to confront the coarse..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ZNetwork on MSN",
-        "url": "https://www.msn.com/en-us/news/other/fatal-alliance-the-reality-of-the-us-israel-axis/ar-AA2ccC4d?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/fatal-alliance-the-reality-of-the-us-israel-axis/ar-AA2ccC4d",
-        "image": "https://www.bing.com/th?id=ONUT.XwM60Fys6bxSHSSchA_lZA",
-        "timestamp": 1789415379.8004887
     }
 ]
