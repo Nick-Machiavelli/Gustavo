@@ -222,6 +222,25 @@
         "timestamp": 1789568621.0
     },
     {
+        "id": "6f294cf20c",
+        "title_fa": "اتریش ورود رئیس برنامه هسته‌ای ایران را مسدود کرد",
+        "title_en": "Austria bars entry of Iran's nuclear chief for IAEA meeting in Vienna",
+        "summary": [
+            "آستریا مانع حضور محمد اسلامی در کنفرانس سالانه آیوآ شد و دیپلماتیک ایران را تحت فشار قرار داد",
+            "این تصمیم باعث تنش در روابط ایران‑اتریش و محدود شدن دسترسی ایران به مذاکرات هسته‌ای شد",
+            "حضور مستقیم مسئول هسته‌ای در وین می‌توانست فرصتی برای شفاف‌سازی فنی باشد که اکنون از دست رفت"
+        ],
+        "impact": "ایران در مذاکرات هسته‌ای با کاهش دسترسی به دیپلمات‌های بین‌المللی مواجه می‌شود",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Ghana News Agency",
+        "url": "https://www.msn.com/en-xl/africa/ghana/austria-bars-entry-of-iran-s-nuclear-chief-for-iaea-meeting-in-vienna/ar-AA2cmpnl",
+        "clean_url": "https://www.msn.com/en-xl/africa/ghana/austria-bars-entry-of-iran-s-nuclear-chief-for-iaea-meeting-in-vienna/ar-AA2cmpnl",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789568489.0
+    },
+    {
         "id": "141e4ed97b",
         "title_fa": "جمهوری‌خواهان ۱٫۱ میلیارد دلار صندوق میانه‌دوره‌ای",
         "title_en": "Republicans built a $1.1 billion midterm war chest then Elon Musk added a $120 million turnout operation",
@@ -475,6 +494,25 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/transcript-trump-rages-openly-at-midterm-woes-as-worst-poll-yet-drops/ar-AA2cldcG",
         "image": "https://www.bing.com/th?id=ONUT.FiWoHiqxVE4bYmXFsFAYYg",
         "timestamp": 1789561050.92969
+    },
+    {
+        "id": "40fe20d46a",
+        "title_fa": "ایران تحت فشار، اما در آستانه فروپاشی نیست",
+        "title_en": "Iran Is Battered, but Not on the Brink of Collapse",
+        "summary": [
+            "تحریم‌های جدید و تورم بالا اقتصاد ایران را به شدت تحت فشار گذاشته‌اند",
+            "با این‌حال زیرساخت‌های پایه‌ای و توان تولید داخلی مانع سقوط کامل می‌شوند",
+            "نظام سیاسی توانسته با ترکیب سرکوب اعتراضات و سیاست‌های حمایتی جزئی، ثبات نسبی حفظ کند"
+        ],
+        "impact": "تحریم‌های سنگین اقتصاد ایران را خفه می‌کند اما نظام داخلی توان مقاومت دارد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Middle East Council on Global Affairs",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0ZScTZGUnJCcHNFdHdmalVBWlpvMlVFRVlhT1hOa0kzaDRRUzYycS1ncDhYVWpvd3o1V0d6VFF5ZmNpWERkWU9RcVdBelhXaElXekt5NHA2dDJ0MHZoX0k2UGlRSndfUGhVYXZyRUM4Q3NFT2N5T2ZKZ0M5eERaejJ4bzFzeU9ON2tv?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0ZScTZGUnJCcHNFdHdmalVBWlpvMlVFRVlhT1hOa0kzaDRRUzYycS1ncDhYVWpvd3o1V0d6VFF5ZmNpWERkWU9RcVdBelhXaElXekt5NHA2dDJ0MHZoX0k2UGlRSndfUGhVYXZyRUM4Q3NFT2N5T2ZKZ0M5eERaejJ4bzFzeU9ON2tv",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789560916.0
     },
     {
         "id": "b0494a4130",
@@ -5386,39 +5424,5 @@
         "clean_url": "https://tass.com/world/2188149",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1789451398.0
-    },
-    {
-        "id": "eb85268eda",
-        "title_fa": "خبر بین‌المللی — ایران denounces Austria برای blocking its هسته‌ای chief from",
-        "title_en": "Iran denounces Austria for blocking its nuclear chief from meeting in Vienna",
-        "summary": [
-            "Vienna, Sep 14 (AP) Iran on Monday condemned the exclusion of the head of its Atomic Energy Organisation from the annual gathering of the United Nations nuclear agency in Vienna saying that it constitutes \"a serious breach\" of Tehran's rights as a member nation."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "News18",
-        "url": "https://www.msn.com/en-in/news/other/iran-denounces-austria-for-blocking-its-nuclear-chief-from-meeting-in-vienna/ar-AA2cbDlQ",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-denounces-austria-for-blocking-its-nuclear-chief-from-meeting-in-vienna/ar-AA2cbDlQ",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789450920.0
-    },
-    {
-        "id": "fde3b3b625",
-        "title_fa": "خبر بین‌المللی — Live Updates: Saudi Arabia struck by حوثی‌ها, CENTCOM denies",
-        "title_en": "Live Updates: Saudi Arabia struck by Houthis, CENTCOM denies Iran report of mines in Strait of Hormuz",
-        "summary": [
-            "Trump claims Iran wants to make a deal • Netanyahu warns Hezbollah of retaliation • Iran war has led to Pentagon munitions shortfall, US Defense Department probe finds"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-15/live-updates-908607",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-15/live-updates-908607",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737803",
-        "timestamp": 1789450920.0
     }
 ]
