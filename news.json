@@ -463,6 +463,25 @@
         "timestamp": 1789525013.0
     },
     {
+        "id": "0b53698d30",
+        "title_fa": "۹/۱۱، راه‌گشای قدرت منطقه‌ای ایران",
+        "title_en": "How 9/11 Helped Create Regional Clout for Iran",
+        "summary": [
+            "حملهٔ ۹/۱۱ و حملهٔ آمریکا به عراق خلا امنیتی ایجاد کرد که ایران به سرعت پر کرد.",
+            "تحریم‌های بین‌المللی به عراق و سوریه باعث شد ایران نقش اقتصادی و سیاسی مهم‌تری پیدا کند.",
+            "ایران از بی‌ثباتی پس از سقوط صدام برای گسترش حضور نظامی و دیپلماتیک در خاورمیانه استفاده کرد."
+        ],
+        "impact": "ایران نفوذ نظامی‑سیاسی‌اش را در خاورمیانه گسترش داد و فشار بر حریفان غربی افزایش یافت.",
+        "tag": "نقش‌منطقه‌ای",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
+        "clean_url": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
+        "image": "http://www.bing.com/th?id=ONUT.wvkAKOKMvF7sBttzM7AZbw&pid=News",
+        "timestamp": 1789523940.0
+    },
+    {
         "id": "38518bec2c",
         "title_fa": "ترامپ علاقه خود را به جنگ ایران از دست داده است، اما هنوز کاملاً به او علاقه مند است",
         "title_en": "Trump Has Lost Interest in the Iran War, but It’s Still Quite Interested in Him",
@@ -5393,23 +5412,6 @@
         "url": "https://www.timesofisrael.com/us-said-planning-2-8-billion-in-munitions-sales-to-israel-including-2000-lb-bombs/",
         "clean_url": "https://www.timesofisrael.com/us-said-planning-2-8-billion-in-munitions-sales-to-israel-including-2000-lb-bombs",
         "image": "https://www.bing.com/th?id=ONUT.Y-swb-JPWD1n5c0t9Gm10g",
-        "timestamp": 1789420916.0
-    },
-    {
-        "id": "b426b7f302",
-        "title_fa": "خبر بین‌المللی — Syngenta files برای Hong Kong IPO, aiming به raise at least",
-        "title_en": "Syngenta files for Hong Kong IPO, aiming to raise at least $5 billion, sources say",
-        "summary": [
-            "Sept 15 (Reuters) - Swiss seeds and agrichemicals company Syngenta Group has confidentially filed for a Hong Kong initial..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/syngenta-files-for-hong-kong-ipo-aiming-to-raise-at-least-5-billion-sources-say/ar-AA2chwt0?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/syngenta-files-for-hong-kong-ipo-aiming-to-raise-at-least-5-billion-sources-say/ar-AA2chwt0",
-        "image": "https://www.bing.com/th?id=ONUT.Y9_fzsF0nPLHMHThgnjW-w",
         "timestamp": 1789420916.0
     }
 ]
