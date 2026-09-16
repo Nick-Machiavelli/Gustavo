@@ -359,6 +359,24 @@
         "timestamp": 1789516805.0
     },
     {
+        "id": "3bf877e2bc",
+        "title_fa": "حوثی‌ها پس از سال‌ها جنگ قوی‌تر شدند",
+        "title_en": "Why Yemen's Houthis have only grown stronger through years of war",
+        "summary": [
+            "جنگ طولانی ساختار نظامی و سیاسی حوثی‌ها را تقویت کرد",
+            "قدرت حوثی‌ها فشار بر مسیرهای تجاری خلیج و دریای سرخ را بالا برده"
+        ],
+        "impact": "افزایش تهدید به کشتی‌های تجاری و تضعیف ثبات خلیج",
+        "tag": "حوثی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Advocate",
+        "url": "https://www.stamfordadvocate.com/news/article/why-yemen-s-houthis-have-only-grown-stronger-22434129.php",
+        "clean_url": "https://www.stamfordadvocate.com/news/article/why-yemen-s-houthis-have-only-grown-stronger-22434129.php",
+        "image": "https://s.hdnux.com/photos/01/67/24/66/31280563/9/rawImage.jpg",
+        "timestamp": 1789516800.0
+    },
+    {
         "id": "7d8273a54b",
         "title_fa": "خبر بین‌المللی — Strait هرمز ship attacks put US.-ایران interim deal under s",
         "title_en": "Strait of Hormuz ship attacks put US.-Iran interim deal under strain",
@@ -1910,6 +1928,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/voices-the-houthis-are-now-a-bigger-threat-to-the-world-economy-than-iran/ar-AA2cg4K4",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789473847.523962
+    },
+    {
+        "id": "4c0489ca29",
+        "title_fa": "ایالات متحده بسته دفاعی ۳.۹ میلیارد دلاری به اسرائیل",
+        "title_en": "Washington to greenlight $3.9bn defence package for Israel; Pete Hegseth faces impeachment call",
+        "summary": [
+            "آمریکا بسته دفاعی ۳.۹ میلیارد دلاری به اسرائیل را تصویب کرد",
+            "رئیس‌جمهور ایران با لحن سرسخت گفت ایران در برابر فشارهای آمریکا و اسرائیل تسلیم نمی‌شود",
+            "تنش‌ها مسیرهای بحرین و دریای سرخ را در خطر می‌اندازند و ریسک حملات نیابتی را بالا می‌برند"
+        ],
+        "impact": "افزایش خطر برخورد نظامی و اختلال در حمل و نقل نفت",
+        "tag": "دفاع",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Courier Mail",
+        "url": "https://www.couriermail.com.au/news/world/middle-east/iranian-president-says-country-wont-surrender-as-he-accuses-us-of-targeting-civilians/news-story/753c639561fa83c06ced5e8a9809e825",
+        "clean_url": "https://www.couriermail.com.au/news/world/middle-east/iranian-president-says-country-wont-surrender-as-he-accuses-us-of-targeting-civilians/news-story/753c639561fa83c06ced5e8a9809e825",
+        "image": "https://content.api.news/v3/images/bin/adffe19e1aba22bca6b03a66229638a4",
+        "timestamp": 1789473480.0
     },
     {
         "id": "c15c7f0107",
@@ -5365,41 +5402,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-live-iran-s-meeting-with-gulf-leaders-on-strait-of-hormuz-proposal-postponed-amid-fresh-attacks/ar-AA2c9uik",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789407900.0
-    },
-    {
-        "id": "f303a8bf6a",
-        "title_fa": "خبر بین‌المللی — Are Turkey و اسرائیل heading toward confrontation?",
-        "title_en": "Are Turkey and Israel heading toward confrontation?",
-        "summary": [
-            "The Trump administration should act quickly to de-escalate tensions between its two closest partners in the Middle East."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The National Interest on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/are-turkey-and-israel-heading-toward-confrontation/ar-AA2ccIE5?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/are-turkey-and-israel-heading-toward-confrontation/ar-AA2ccIE5",
-        "image": "https://www.bing.com/th?id=ONUT.ab_D-rScUfhc4RTOwodwtQ",
-        "timestamp": 1789407382.9985096
-    },
-    {
-        "id": "40696fd0f6",
-        "title_fa": "رهبران دمکرات مجلس مخالف لایحه تحریم روسیه گراهام",
-        "title_en": "House Democratic leaders openly oppose Graham Russia sanctions bill",
-        "summary": [
-            "رهبران دمکرات مجلس نمایندگان به‌صراحت اعلام کردند که لایحه تحریم روسیه پیشنهادی گراهام را رد می‌کنند",
-            "این مخالفت نشان می‌دهد که در میان دمکرات‌ها نظرات متفاوت درباره فشار اقتصادی بر مسکو وجود دارد",
-            "برای تصویب لایحه، جمهوری‌خواهان ممکن است به حمایت دمکرات‌های میانه نیاز داشته باشند"
-        ],
-        "impact": "لایحه ممکن است به تأخیر بیفتد و فشار اقتصادی غرب بر روسیه کاهش یابد",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The New Voice of Ukraine on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/house-democratic-leaders-openly-oppose-graham-russia-sanctions-bill/ar-AA2chaXS?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/house-democratic-leaders-openly-oppose-graham-russia-sanctions-bill/ar-AA2chaXS",
-        "image": "https://www.bing.com/th?id=ONUT.nKVxy-2C0UZ5deBh9dQkFQ",
-        "timestamp": 1789407228.0
     }
 ]
