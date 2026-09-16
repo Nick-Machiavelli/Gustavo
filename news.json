@@ -1,5 +1,43 @@
 [
     {
+        "id": "95fd958a3b",
+        "title_fa": "تسامح بایدن با ایران، بحران دریای سرخ را تشدید",
+        "title_en": "Biden’s Iran appeasement blew up the Red Sea. Now, Trump must fix the Saudi-UAE divide",
+        "summary": [
+            "لغو فهرست تروریستی حوثی‌ها توسط بایدن، حامی ایران، به حماس‌گری در دریای سرخ دامن زد",
+            "مسیر بحرانی باب‌ال‌مندب که کل زنجیره انرژی جهانی را وصل می‌کند، تحت تهدید مستقیم قرار گرفت",
+            "تنش بین آمریکا و عربستان عمیق‌تر شد؛ خطر کاهش همکاری‌های نظامی و اقتصادی در منطقه"
+        ],
+        "impact": "اختلال در عبور نفت و کالا از باب‌ال‌مندب، خطر نوسان قیمت انرژی جهانی",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/op-eds/4728626/red-sea-crisis-trump-saudi-uae-divide/",
+        "clean_url": "https://www.washingtonexaminer.com/op-eds/4728626/red-sea-crisis-trump-saudi-uae-divide",
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/11/AP25318693739001-e1764523679503.jpg?resize=1200,683",
+        "timestamp": 1789558621.2970018
+    },
+    {
+        "id": "8866ee8ef0",
+        "title_fa": "ایران سامانه «Alaj» برای ردیابی مخالفان در آمریکا راه‌اندازی کرد",
+        "title_en": "Tehran is mapping targets in America — and Trump’s FBI is out of excuses",
+        "summary": [
+            "سامانه Alaj هدف شناسایی ایرانیان مخالف در خارج از کشور است؛ نشان‌دهنده گسترش عملیات اطلاعاتی فراتر از مرزهاست",
+            "این حرکت می‌تواند به تشدید نظارت آمریکا و افزایش فشار دیپلماتیک بر تهران منجر شود",
+            "وجود سلول‌های خوابیده در خاک آمریکا سؤال امنیتی جدی ایجاد می‌کند"
+        ],
+        "impact": "افزایش تنش‌های اطلاعاتی بین واشنگتن و تهران و احتمال تقویت عملیات ضد جاسوسی آمریکا",
+        "tag": "اطلاعات",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/op-eds/4727108/iran-sleeper-cells-us-soil-alaj-network/",
+        "clean_url": "https://www.washingtonexaminer.com/op-eds/4727108/iran-sleeper-cells-us-soil-alaj-network",
+        "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/Iran-Trump-1.png?resize=1200,683",
+        "timestamp": 1789558621.2965696
+    },
+    {
         "id": "f0c9c062cd",
         "title_fa": "ترامپ تضمین داد که چک های 5000 دلاری انجام خواهد شد",
         "title_en": "Trump guaranteed the $5,000 checks will happen",
@@ -2695,6 +2733,25 @@
         "timestamp": 1789472932.9225862
     },
     {
+        "id": "68134780f6",
+        "title_fa": "سقوط ساختمان خراب‌شده در غزه، حداقل ۲۰ کشته",
+        "title_en": "War-damaged Gaza building collapses, killing at least 20 people",
+        "summary": [
+            "سقوط ساختمان مسکونی در غزه، ۲۰ کشته و بیش از ۱۵ زخمی؛ بیشتر قربانیان زنان و کودکان بودند",
+            "ساختمان در اثر ضربه‌های هوایی خراب شده بود؛ عدم ایمنی ساختارهای باقی‌مانده خطرات جدیدی ایجاد می‌کند",
+            "این فاجعه نشان‌دهنده بحران انسانی مداوم در غزه و نیاز فوری به کمک‌های بین‌المللی است"
+        ],
+        "impact": "تشدید بحران انسانی در غزه و فشار بین‌المللی برای ارائه کمک‌های اضطراری",
+        "tag": "انسانی",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/war-damaged-gaza-building-collapses-101252992.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/war-damaged-gaza-building-collapses-101252992.html",
+        "image": "https://www.bing.com/th?id=ONUT.7gaYpO4zx4wpyYMH9BOB2w",
+        "timestamp": 1789472215.0
+    },
+    {
         "id": "9437b32be1",
         "title_fa": "خبر بین‌المللی — Why چین must remake its اقتصاد now or accept a long و painfu",
         "title_en": "Why China must remake its economy now or accept a long and painful decline",
@@ -5356,59 +5413,5 @@
         "clean_url": "https://www.afr.com/chanticleer/trump-s-worst-market-nightmare-suddenly-seems-possible-20260915-p60xdz",
         "image": "https://www.bing.com/th?id=ONUT.T0s2dYnspJrAln8mxIAqkg",
         "timestamp": 1789433641.8626683
-    },
-    {
-        "id": "ced35b2f73",
-        "title_fa": "نظرسنجی: دموکرات‌ها پیشتاز اقتصاد",
-        "title_en": "Trump losing support on economic issues, Democrats surge to nine-point lead on generic ballot: poll",
-        "summary": [
-            "نظرسنجی نشان می‌دهد حمایت ترامپ در مسائل اقتصادی کاهش یافته",
-            "دموکرات‌ها با اختلاف نه‌امتیازی در نظرسنجی عمومی پیشی گرفته‌اند",
-            "کاهش حمایت می‌تواند فشار داخلی بر برنامه‌های مالی ترامپ ایجاد کند",
-            "ریسک کاهش مشارکت رأی‌دهندگان حامی ترامپ افزایش می‌یابد"
-        ],
-        "impact": "کاهش حمایت اقتصادی ترامپ فشار بر سیاست‌های مالی او را تقویت می‌کند",
-        "tag": "نظرسنجی",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "International Business Times on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-losing-support-on-economic-issues-democrats-surge-to-nine-point-lead-on-generic-ballot-poll/ar-AA2ciNId?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-losing-support-on-economic-issues-democrats-surge-to-nine-point-lead-on-generic-ballot-poll/ar-AA2ciNId",
-        "image": "https://www.bing.com/th?id=ONUT.UWRTqEY1VxoXQ-dE3-y8_w",
-        "timestamp": 1789433068.0
-    },
-    {
-        "id": "57bfcc57ab",
-        "title_fa": "خبر بین‌المللی — Saudi Arabia reports wide-ranging security alerts after week",
-        "title_en": "Saudi Arabia reports wide-ranging security alerts after week of strikes",
-        "summary": [
-            "RIYADH/DUBAI - Saudi Arabia issued security alerts over a range of territory on Tuesday (Sept 15), including in the holy city..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "AsiaOne",
-        "url": "https://www.asiaone.com/world/saudi-arabia-reports-wide-ranging-security-alerts-after-week-strikes",
-        "clean_url": "https://www.asiaone.com/world/saudi-arabia-reports-wide-ranging-security-alerts-after-week-strikes",
-        "image": "https://www.bing.com/th?id=ONUT.pm8LbJbL79zeA71p4lbdSA",
-        "timestamp": 1789432168.0
-    },
-    {
-        "id": "cda83e06af",
-        "title_fa": "خبر بین‌المللی — Hegseth: Use German Industry برای NATO Defense",
-        "title_en": "Hegseth: Use German Industry for NATO Defense",
-        "summary": [
-            "U.S. Secretary of Defense Pete Hegseth praised Germany for its pioneering role in strengthening NATO in Europe. During a..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Bluewin",
-        "url": "https://www.bluewin.ch/en/news/hegseth-use-german-industry-for-nato-defense-li.3601163",
-        "clean_url": "https://www.bluewin.ch/en/news/hegseth-use-german-industry-for-nato-defense-li.3601163",
-        "image": "https://www.bing.com/th?id=ONUT.DA4-gGKXzkwmcfsSH1l1bg",
-        "timestamp": 1789432168.0
     }
 ]
