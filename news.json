@@ -422,6 +422,25 @@
         "timestamp": 1789500129.8770275
     },
     {
+        "id": "ed9bfe707a",
+        "title_fa": "قیمت نفت به‌دلیل ریسک‌های تأمین در خاورمیانه می‌جهد",
+        "title_en": "Crude Prices Surge on Global Supply Risks",
+        "summary": [
+            "قیمت نفت خام WTI در اکتبر 2026 حدود ۴٫۴ درصد افزایش یافت و به بالاترین سطح ۳٫۷۵ ماهه رسید.",
+            "شکستگی خط لوله شرق‑غرب سعودی عرضه نفت را محدود کرد و نگرانی‌های تأمین جهانی را تشدید کرد.",
+            "قیمت بنزین نیز به‌دلیل همان فشارهای عرضه، بالاترین سطح سه هفته‌ای را ثبت کرد."
+        ],
+        "impact": "افزایش قیمت نفت فشار بر اقتصادهای وابسته به واردات انرژی می‌گذارد و تورم را تشدید می‌کند.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Barchart · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-global-supply-191609324.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-global-supply-191609324.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/b22803fc9a9cbd34e513c065e24ccb29.jpg",
+        "timestamp": 1789498997.0
+    },
+    {
         "id": "2d0888eb49",
         "title_fa": "هزینه جنگ ایران ۳۸ میلیارد دلاری",
         "title_en": "Iran war costs $38 billion as CBO warns of higher inflation, depleted weapons - ABC News",
@@ -5390,23 +5409,6 @@
         "url": "https://www.msn.com/en-us/money/general/satellite-image-reveals-major-damage-that-shut-crucial-oil-pipeline/ar-AA2ch1Uc?ocid=BingNewsVerp",
         "clean_url": "https://www.msn.com/en-us/money/general/satellite-image-reveals-major-damage-that-shut-crucial-oil-pipeline/ar-AA2ch1Uc",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789399404.0
-    },
-    {
-        "id": "15d9e838ee",
-        "title_fa": "خبر بین‌المللی — Why being uncertain is a hidden strength",
-        "title_en": "Why being uncertain is a hidden strength",
-        "summary": [
-            "We’re often ashamed to say, “I don’t know” — but this professional poker player thinks it’s one of our greatest strengths."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Amazon S3 on MSN",
-        "url": "https://www.msn.com/en-us/lifestyle/other/why-being-uncertain-is-a-hidden-strength/vi-AA2cgFCF?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/lifestyle/other/why-being-uncertain-is-a-hidden-strength/vi-AA2cgFCF",
-        "image": "https://www.bing.com/th?id=ONUT.8El8kbiyNoKmt7xxzcdR6w",
         "timestamp": 1789399404.0
     }
 ]
