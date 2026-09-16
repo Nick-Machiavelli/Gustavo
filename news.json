@@ -2829,6 +2829,60 @@
         "timestamp": 1789456808.0
     },
     {
+        "id": "c6ad1b034a",
+        "title_fa": "فدرال رزرو نرخ بهره را بالا می‌برد؛ ترامپ خواست کاهش",
+        "title_en": "Fed expected to raise rates despite Trump’s calls for a cut",
+        "summary": [
+            "فدرال رزرو پس از سه سال توقف، اولین بار نرخ بهره را افزایش می‌دهد.",
+            "ترامپ در بیانیه‌ای فشار می‌آورد تا نرخ به سمت کاهش برود، اما بازار انتظار رشد دارد."
+        ],
+        "impact": "نرخ بهره بالاتر دلار را تقویت می‌کند و فشار بر بازارهای نوظهور را افزایش می‌دهد.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-ph/money/economy/fed-expected-to-raise-rates-despite-trump-s-calls-for-a-cut/ar-AA2ckiNN?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ph/money/economy/fed-expected-to-raise-rates-despite-trump-s-calls-for-a-cut/ar-AA2ckiNN",
+        "image": "https://www.bing.com/th?id=ONUT.pWHsk1xVxJ200PqgQ__yWg",
+        "timestamp": 1789454753.0
+    },
+    {
+        "id": "67d045e603",
+        "title_fa": "حزب اپوزیسیون دولت را به‌خاطر لایحه تحریم روسیه هدف می‌گیرد",
+        "title_en": "‘We are the ball’: Oppn targets govt as US advances Russia sanctions bill with 100% tariff threat",
+        "summary": [
+            "کنگره آمریکا لایحه‌ای با ۱۰۰٪ مالیات بر کالاهای روسی پیش می‌برد.",
+            "حزب اپوزیسیون هند از این لایحه برای انتقاد از دولت استفاده می‌کند."
+        ],
+        "impact": "لایحه می‌تواند روابط تجاری هند‑آمریکا را تحت فشار قرار دهد و هزینه‌های واردات را بالا ببرد.",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "News18 on MSN",
+        "url": "https://www.msn.com/en-in/money/general/we-are-the-ball-oppn-targets-govt-as-us-advances-russia-sanctions-bill-with-100-tariff-threat/ar-AA2cjOiO?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/money/general/we-are-the-ball-oppn-targets-govt-as-us-advances-russia-sanctions-bill-with-100-tariff-threat/ar-AA2cjOiO",
+        "image": "https://www.bing.com/th?id=ONUT.6_ngeREkuSOBc-uiFZTkvg",
+        "timestamp": 1789454753.0
+    },
+    {
+        "id": "4a54c0d5a6",
+        "title_fa": "قفل‌سازهای SPICE 1000 در F‑35های اسرائیل شتاب می‌گیرند",
+        "title_en": "Rafael, Lockheed accelerate SPICE 1000 integration on Israeli F-35s",
+        "summary": [
+            "شرکت‌های رافائل و لاک‌هدی ادغام سامانه SPICE 1000 را در جنگنده‌های F‑35 تسریع کردند.",
+            "این سامانه قابلیت هدف‌گیری دقیق در مأموریت‌های طولانی‌برد علیه ایران و یمن را می‌دهد."
+        ],
+        "impact": "قابلیت هدف‌گیری دقیق F‑35ها در خاورمیانه افزایش می‌یابد و بر توان نظامی اسرائیل فشار می‌آورد.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/rafael-lockheed-accelerate-spice-1000-integration-on-israeli-f-35s/ar-AA2cjBle?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/rafael-lockheed-accelerate-spice-1000-integration-on-israeli-f-35s/ar-AA2cjBle",
+        "image": "https://www.bing.com/th?id=ONUT.BQgpStfKny8yyj30NQTivA",
+        "timestamp": 1789454753.0
+    },
+    {
         "id": "fafd6a5400",
         "title_fa": "خبر بین‌المللی — ایران is trying به break ترامپ’s stranglehold by hitting him",
         "title_en": "Iran is trying to break Trump’s stranglehold by hitting him where it hurts",
@@ -5348,61 +5402,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/trump-says-ukraine-agreed-to-stop-targeting-diesel-sites-but-zelensky-says-it-s-contingent-on-russia-halting-strikes/ar-AA2c7an2",
         "image": "https://www.bing.com/th?id=ONUT.lzsZL315b2m2tzC_RAW6tw",
         "timestamp": 1789410416.1070654
-    },
-    {
-        "id": "a9dfbbc9bc",
-        "title_fa": "تحلیل شکست استراتژی ترامپ در خاورمیانه",
-        "title_en": "Is Trump's Middle Eastern Mediation Really Just An Illusion?",
-        "summary": [
-            "حوثی‌ها در ۳۶ ساعت حدود ۲٬۰۰۰ کیلومتر مربع در یمن را به‌دست آوردند و مسیر بحرین‑مردم را تهدید کردند",
-            "این پیشرفت نشان می‌دهد طرح تعادل قدرت ترامپ در خاورمیانه به‌سختی کار می‌کند",
-            "بسته شدن خط لوله شرق‑غرب سعودی توسط پهپاد، فشار اقتصادی بر عربستان را افزون می‌کند"
-        ],
-        "impact": "تحریک حوثی‌ها به خلیج باب‌ال‌مندب، مسیر نفت جهانی را در معرض خطر قرار می‌دهد",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/trumps-middle-eastern-mediation-really-174541000.html",
-        "clean_url": "https://www.aol.com/articles/trumps-middle-eastern-mediation-really-174541000.html",
-        "image": "https://www.bing.com/th?id=ONUT.EPksq9k_6xqwxgDwEMi_7Q",
-        "timestamp": 1789410416.1066818
-    },
-    {
-        "id": "503aae6f6a",
-        "title_fa": "آمریکا آماده‌ست سوخت هسته‌ای به ایران بدهد",
-        "title_en": "US Ready to Supply Iran with Nuclear Fuel",
-        "summary": [
-            "وزیر انرژی آمریکا گفت می‌تواند سوخت هسته‌ای را از خارج تأمین کند",
-            "این پیشنهاد مشروط به حل مناقشه برنامه هسته‌ای ایران است"
-        ],
-        "impact": "امکان کاهش تنش هسته‌ای و فشار دیپلماتیک بر ایران",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Sada Elbalad English",
-        "url": "https://see.news/us-ready-to-supply-iran-with-nuclear-fuel",
-        "clean_url": "https://see.news/us-ready-to-supply-iran-with-nuclear-fuel",
-        "image": "https://i2.wp.com/see.news/images/2026/09/-1789399096-0.jpg?resize=920%2C550&ssl=1",
-        "timestamp": 1789409940.0
-    },
-    {
-        "id": "a846d91a58",
-        "title_fa": "پیش‌بینی ترامپ: سقوط قیمت نفت پس از جنگ ایران",
-        "title_en": "Oil prices will 'drop like a rock' after Iran conflict, Trump predicts",
-        "summary": [
-            "ترامپ پیش‌بینی کرد پس از پایان جنگ ایران، قیمت نفت به‌سرعت سقوط خواهد کرد",
-            "این پیش‌بینی بازار را به‌سوی انتظار کاهش تقاضا سوق می‌دهد",
-            "اگر جنگ طولانی بماند، پیش‌بینی ممکن است اشتباه باشد"
-        ],
-        "impact": "پیش‌بینی سقوط قیمت نفت، بازارهای انرژی را به‌سرعت تحت تأثیر قرار می‌دهد و تصمیمات سرمایه‌گذاری را تغییر می‌دهد",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBISzdzaDZBX0w1TjkzelZxVGVuWUkzaWlhdTNUYS1USzVLcHkyM21HMmNJbldvYU15T005cFkwWU9oRnRwUnZsLWZaYzlTb3VibGRLMExKWGxxbzA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBISzdzaDZBX0w1TjkzelZxVGVuWUkzaWlhdTNUYS1USzVLcHkyM21HMmNJbldvYU15T005cFkwWU9oRnRwUnZsLWZaYzlTb3VibGRLMExKWGxxbzA",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789409339.0
     }
 ]
