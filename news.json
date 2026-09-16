@@ -1915,6 +1915,23 @@
         "timestamp": 1789529059.4713554
     },
     {
+        "id": "c2c59d970f",
+        "title_fa": "خبر بین‌المللی — ایران strikes در Amazon data centers caused permanent loss",
+        "title_en": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+        "summary": [
+            "Half a year after Iranian drone strikes knocked out multiple Amazon data centers, the US tech company has acknowledged the permanent loss of some customer data that was hosted in Bahrain and the..."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+        "clean_url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data",
+        "image": "http://www.bing.com/th?id=ONUT.iK6g2O4Vt-rAPkip29oxYg&pid=News",
+        "timestamp": 1789526400.0
+    },
+    {
         "id": "eec71587ac",
         "title_fa": "House votes برای a third time به پایان ایران جنگ as conflict drags در",
         "title_en": "House votes for a third time to end the Iran war as conflict drags on",
@@ -5372,23 +5389,5 @@
         "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/houthis-advance-on-bab-el-mandeb-as-saudi-pipeline-shutdown-raises-oil-risks/ar-AA2ckOBr",
         "image": "https://www.bing.com/th?id=ONUT.ELYJ14EbRyMxK-xBPkMk5A",
         "timestamp": 1789467894.0
-    },
-    {
-        "id": "0337ca810c",
-        "title_fa": "کارلسون از السید حمایت کرد",
-        "title_en": "Why Tucker Carlson has effectively endorsed Abdul El-Sayed for Senate",
-        "summary": [
-            "کارلسون به دلیل مخالفت با ترامپ در جنگ ایران، از السید حمایت کرد",
-            "این حمایت می‌تواند جبهه راست‑چپ را دچار تفرقه کند"
-        ],
-        "impact": "تقویت موقعیت ال‌سید در انتخابات میشیگان",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "ms",
-        "url": "https://www.ms.now/opinion/tucker-carlson-abul-el-sayed-mike-rogers-9-11",
-        "clean_url": "https://www.ms.now/opinion/tucker-carlson-abul-el-sayed-mike-rogers-9-11",
-        "image": "https://www.ms.now/wp-content/uploads/2026/09/260914-tucker-carlson-abdul-elsayed-el-sayed-al.webp?crop=0px,56px,2500px,1313px&w=1200&h=630",
-        "timestamp": 1789467877.6405003
     }
 ]
