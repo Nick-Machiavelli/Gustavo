@@ -1,5 +1,24 @@
 [
     {
+        "id": "30bf44f23c",
+        "title_fa": "حکومت ایران: بقا بدون توانمندی حکمرانی",
+        "title_en": "A country governed by a ghost",
+        "summary": [
+            "نظام جمهوری اسلامی سال‌هاست با تحریم‌ها، جنگ و ناآرامی‌ها بقا پیدا کرده اما توان ادارهٔ جامعه را نشان نداده",
+            "نهادهای اقتصادی و سیاسی خسته شده‌اند، در حالی که دستگاه امنیتی همچنان کارآمد است",
+            "این تضاد بین بقا و ضعف حکمرانی می‌تواند به تشدید اعتراضات داخلی منجر شود"
+        ],
+        "impact": "عدم توانایی حکمرانی باعث تشدید ناآرامی‌های داخلی می‌شود",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/opinion/elham-sataki/a-country-governed-by-a-ghost",
+        "clean_url": "https://www.jns.org/opinion/elham-sataki/a-country-governed-by-a-ghost",
+        "image": "https://static.jns.org/dims4/default/4d3bd4a/2147483647/strip/true/crop/1024x576+0+36/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd5%2F74%2F8737ae77454d9a77060507aaaf1e%2Fgettyimages-2287518906.jpg",
+        "timestamp": 1789565149.1571627
+    },
+    {
         "id": "6f5d85c513",
         "title_fa": "ترامپ: جنگ استراتژیک علیه ایران در حال پیروزی",
         "title_en": "Trump is fighting Iran with strategic clarity — and America is winning",
@@ -106,6 +125,24 @@
         "clean_url": "https://blogs.timesofisrael.com/three-thousand-missiles-later-why-the-abraham-accords-didnt-break",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789561783.55275
+    },
+    {
+        "id": "c0aec07c90",
+        "title_fa": "آخرین تحولات خاورمیانه",
+        "title_en": "Middle East Conflict: Latest News, Breaking Headlines and Video",
+        "summary": [
+            "خبرگزاری NBC به‌صورت خلاصه آخرین رویدادهای خاورمیانه را منتشر کرده",
+            "محتوا شامل عناوین عمومی بدون جزئیات خاص است"
+        ],
+        "impact": "اطلاع‌رسانی عمومی بدون تأثیر عملی بر تصمیم‌گیری‌ها",
+        "tag": "عمومی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BVF9TUTl0UDRHMWlNOTZXaXd3bWVPcVpGX2JKb2dTR3dyUk9LcW1yLXp2SFJPUnlzTUtQS2ZEcFZBdkpMUmU1d0NtOHFEdWNxTDgycnE1OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BVF9TUTl0UDRHMWlNOTZXaXd3bWVPcVpGX2JKb2dTR3dyUk9LcW1yLXp2SFJPUnlzTUtQS2ZEcFZBdkpMUmU1d0NtOHFEdWNxTDgycnE1OA",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789561465.0
     },
     {
         "id": "179aa1175f",
@@ -749,6 +786,25 @@
         "clean_url": "https://www.presstv.co.uk/Detail/2026/09/16/776382/200-nights-one-resilient-nation-iranian-people-epic-defense-homeland-revolution",
         "image": "https://www.bing.com/th?id=ONUT.IyH8nKLJWgRteH1f4cieDg",
         "timestamp": 1789539449.4231727
+    },
+    {
+        "id": "7677583cca",
+        "title_fa": "چین حمایت از حقوق مشروع ایران را اعلام کرد",
+        "title_en": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
+        "summary": [
+            "وزیر خارجه چین گفت چین گفتگوش را با ایران تقویت می‌کند و از حقوق مشروع آن دفاع می‌کند",
+            "این بیان در زمان آماده‌سازی سفر رئیس‌جمهور چین به آمریکا و مذاکرات با ترامپ مطرح شد",
+            "چین سعی دارد نقش میانجیگری در خلیج فارس را بگیرد، اما توان واقعی‌اش محدود است"
+        ],
+        "impact": "چین می‌تواند فشار دیپلماتیک بر آمریکا برای کاهش تحریم‌ها را تقویت کند",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaa7e7bce-1789558395.jpg?resize=1920%2C1440",
+        "timestamp": 1789538880.0
     },
     {
         "id": "1f44fb29e3",
@@ -2618,6 +2674,26 @@
         "clean_url": "https://www.msn.com/en-us/money/general/iran-live-updates-sticker-shock-woes-rise-after-saudi-refinery-stops-crude-loading/ar-AA2caaSM",
         "image": "http://www.bing.com/th?id=ONUT.gP80o-0qzBdclVF7T5_ikg&pid=News",
         "timestamp": 1789478915.0
+    },
+    {
+        "id": "340dd1fca5",
+        "title_fa": "آمریکا فروش ۳ میلیارد دلاری بمب به اسرائیل",
+        "title_en": "Trump set to send nearly $3B worth of bombs to Israel",
+        "summary": [
+            "دولت ترامپ برنامهٔ فروش ۲.۸ میلیارد دلاری بمب‌های سنگین به اسرائیل را پیش‌برده است",
+            "بمب‌های Mk‑84، BLU‑117 و «bunker busters» برای تخریب پناهگاه‌های زیرزمینی طراحی شده‌اند",
+            "این معامله با هزینهٔ مالی از طریق برنامهٔ کمک نظامی آمریکا تأمین می‌شود",
+            "انتشار این سلاح‌ها می‌تواند خطر تلفات غیرنظامی را در منطقه افزایش دهد"
+        ],
+        "impact": "تقویت توان بمباران اسرائیل می‌تواند تنش‌های منطقه‌ای را تشدید کند",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.1,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-set-send-nearly-3b-110917000.html",
+        "clean_url": "https://www.aol.com/articles/trump-set-send-nearly-3b-110917000.html",
+        "image": "https://www.bing.com/th?id=ONUT.IJynDGWGaTpGVdTa_MdkBw",
+        "timestamp": 1789478740.0
     },
     {
         "id": "bf4963a7a3",
@@ -5344,74 +5420,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/dollar-near-two-week-high-as-oil-surge-lifts-yields-fed-hike-bets/ar-AA2cedGq",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789440241.4592254
-    },
-    {
-        "id": "2ea001e9b2",
-        "title_fa": "ایران live updates: ترامپ says US 'open' به ایران deal, tanker hit در Strait هرمز",
-        "title_en": "Iran live updates: Trump says US 'open' to Iran deal, tanker hit in Strait of Hormuz",
-        "summary": [
-            "\"I will determine whether or not the U.S.A. will choose to engage,\" Trump said."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-us-open-to-iran-deal-tanker-hit-in-strait-of-hormuz/ar-AA2caaSM",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-us-open-to-iran-deal-tanker-hit-in-strait-of-hormuz/ar-AA2caaSM",
-        "image": "http://www.bing.com/th?id=ONUT.PogCPCu1pGvDiFRMPLpDvA&pid=News",
-        "timestamp": 1789440205.0
-    },
-    {
-        "id": "299a39c3ca",
-        "title_fa": "مجبور کردن رأی به عزل پیتر هگست در مجلس",
-        "title_en": "Rep. Thomas Massie forcing vote on Pete Hegseth's impeachment",
-        "summary": [
-            "رأی‌گیری هنوز نامشخص و احتمال شکست بالاست",
-            "موفقیت می‌تواند نظارت بر مقامات دفاعی را تقویت کند"
-        ],
-        "impact": "ممکن است نظارت بر مقامات نظامی آمریکا را تقویت کند",
-        "tag": "قانون",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/rep-thomas-massie-forcing-vote-on-pete-hegseth-s-impeachment/ar-AA2ciR7i?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/rep-thomas-massie-forcing-vote-on-pete-hegseth-s-impeachment/ar-AA2ciR7i",
-        "image": "https://www.bing.com/th?id=ONUT.dH44sk7l79gGe2P8QNYQZw",
-        "timestamp": 1789439783.0
-    },
-    {
-        "id": "4b28805ae4",
-        "title_fa": "خبر بین‌المللی — Tight Supply Worries Lift Oil As Middle East Conflict Heats",
-        "title_en": "Tight Supply Worries Lift Oil As Middle East Conflict Heats Up",
-        "summary": [
-            "Tight Supply Worries Lift Oil As Middle East Conflict Heats Up WSJ"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFBUTWh0bXNxSnhsbmZLVjFFUDNTYTRlT3FKcW1VSlppUnYzT2J3VklDUzhBMVZxSWlzcGkyOGkwcmpGVllpUEFaaFlnaXJFcE5iUTlWOTRTWjRrVHh0MG5ELVhBZ0N2SG1qdGhXQnh1RGRCS29rZ1ZyOThzbk5fSmxiS2g0dXZ0SXY2aFFMbEhJYm9ENXkwQ1l3NTZLQm5TV2FTRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFBUTWh0bXNxSnhsbmZLVjFFUDNTYTRlT3FKcW1VSlppUnYzT2J3VklDUzhBMVZxSWlzcGkyOGkwcmpGVllpUEFaaFlnaXJFcE5iUTlWOTRTWjRrVHh0MG5ELVhBZ0N2SG1qdGhXQnh1RGRCS29rZ1ZyOThzbk5fSmxiS2g0dXZ0SXY2aFFMbEhJYm9ENXkwQ1l3NTZLQm5TV2FTRQ",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789439777.0
-    },
-    {
-        "id": "0fab44ba89",
-        "title_fa": "خبر بین‌المللی — ایران's Saudi leverage could become its liability",
-        "title_en": "Iran's Saudi leverage could become its liability",
-        "summary": [
-            "Iran's Saudi leverage could become its liability Iran International"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrRFI4cUZCTXNpUXBhWWtNV3gzTDJjWExteTQzMzd5dXZNc19JazhnaHFCbG9TbG5hQTRONW1LVXp1em94emRvdVBybEdmZWttR0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrRFI4cUZCTXNpUXBhWWtNV3gzTDJjWExteTQzMzd5dXZNc19JazhnaHFCbG9TbG5hQTRONW1LVXp1em94emRvdVBybEdmZWttR0E",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789439298.0
     }
 ]
