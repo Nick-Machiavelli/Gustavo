@@ -55,6 +55,26 @@
         "timestamp": 1789514801.0
     },
     {
+        "id": "34e32e20ab",
+        "title_fa": "ترامپ مسیر جدیدی برای ایران می‌گیرد",
+        "title_en": "Trump Is Charting a New Course on Iran",
+        "summary": [
+            "ترامپ اعلام کرد استراتژی جدیدی نسبت به ایران دارد",
+            "احتمال بازنگری در تحریم‌های اقتصادی یا بازگشت به مذاکرات هسته‌ای وجود دارد",
+            "تغییر مسیر می‌تواند تنش‌های منطقه‌ای را کاهش دهد",
+            "رقبای داخلی آمریکا ممکن است این گام را نشانه ضعف ببینند"
+        ],
+        "impact": "تغییر سیاست آمریکا می‌تواند فشار اقتصادی بر ایران را کم کرده و مذاکرات هسته‌ای را دوباره فعال کند",
+        "tag": "ایران",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Free Press",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRU5CdVNmcnZKT216MENDeDJ6cm1zdW1TS0pnVUYyX05vb3BIYV8tSHktR1BLOFU0REVaY1lUb2pRZDVxdlM5X1o4bmRTTnc1NU43RlNJTkFHekt0V0ZaM2pqREszZExtcVByalBsWUV2SlZ5Yy1UZnVreUx5MXlOdlpleldlbTBuZlNfUEZoalI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRU5CdVNmcnZKT216MENDeDJ6cm1zdW1TS0pnVUYyX05vb3BIYV8tSHktR1BLOFU0REVaY1lUb2pRZDVxdlM5X1o4bmRTTnc1NU43RlNJTkFHekt0V0ZaM2pqREszZExtcVByalBsWUV2SlZ5Yy1UZnVreUx5MXlOdlpleldlbTBuZlNfUEZoalI",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789514497.0
+    },
+    {
         "id": "97902f330a",
         "title_fa": "حوثی‌ها کیستند و تهدیدشان برای مسیر دریایی",
         "title_en": "Who are the Houthis, the Iran-backed rebels threatening a key maritime passage?",
@@ -2982,6 +3002,26 @@
         "timestamp": 1789433641.8626683
     },
     {
+        "id": "ced35b2f73",
+        "title_fa": "نظرسنجی: دموکرات‌ها پیشتاز اقتصاد",
+        "title_en": "Trump losing support on economic issues, Democrats surge to nine-point lead on generic ballot: poll",
+        "summary": [
+            "نظرسنجی نشان می‌دهد حمایت ترامپ در مسائل اقتصادی کاهش یافته",
+            "دموکرات‌ها با اختلاف نه‌امتیازی در نظرسنجی عمومی پیشی گرفته‌اند",
+            "کاهش حمایت می‌تواند فشار داخلی بر برنامه‌های مالی ترامپ ایجاد کند",
+            "ریسک کاهش مشارکت رأی‌دهندگان حامی ترامپ افزایش می‌یابد"
+        ],
+        "impact": "کاهش حمایت اقتصادی ترامپ فشار بر سیاست‌های مالی او را تقویت می‌کند",
+        "tag": "نظرسنجی",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "International Business Times on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-losing-support-on-economic-issues-democrats-surge-to-nine-point-lead-on-generic-ballot-poll/ar-AA2ciNId?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-losing-support-on-economic-issues-democrats-surge-to-nine-point-lead-on-generic-ballot-poll/ar-AA2ciNId",
+        "image": "https://www.bing.com/th?id=ONUT.UWRTqEY1VxoXQ-dE3-y8_w",
+        "timestamp": 1789433068.0
+    },
+    {
         "id": "57bfcc57ab",
         "title_fa": "خبر بین‌المللی — Saudi Arabia reports wide-ranging security alerts after week",
         "title_en": "Saudi Arabia reports wide-ranging security alerts after week of strikes",
@@ -5368,42 +5408,5 @@
         "clean_url": "https://www.thejc.com/opinion/analysis/israels-deepening-partnership-with-greece-and-cyprus-is-reshaping-the-eastern-mediterranean-pvk57vbo",
         "image": "https://api.thejc.atexcloud.io/image-service/view/acePublic/alias/contentid/1tscfu7pvc2aobwwkua/0/ashley-jpg.webp?w=1200&q=0.6",
         "timestamp": 1789395469.8332388
-    },
-    {
-        "id": "2bf4feaebd",
-        "title_fa": "قیمت نفت بالای ۱۰۰ دلار پس از تعویق مذاکرات",
-        "title_en": "Oil stays above $100 as Hormuz talks with Iran are postponed",
-        "summary": [
-            "مذاکرات هورموز با ایران به تعویق افتاد",
-            "عدم پیشرفت مذاکرات فشار بر عرضه را افزایش داد و قیمت‌ها را بالای ۱۰۰ دلار نگه داشت",
-            "بازارهای جهانی نگران ادامه تحریم‌ها و نوسان قیمت‌ها هستند"
-        ],
-        "impact": "قیمت سوخت برای مصرف‌کنندگان و صنایع بالا می‌ماند",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Newsmax on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/oil-stays-above-100-as-hormuz-talks-with-iran-are-postponed/ar-AA2ccWJT",
-        "clean_url": "https://www.msn.com/en-us/money/economy/oil-stays-above-100-as-hormuz-talks-with-iran-are-postponed/ar-AA2ccWJT",
-        "image": "http://www.bing.com/th?id=ONUT.p6ht4H2XejJoMBP-HvlHow&pid=News",
-        "timestamp": 1789394919.0
-    },
-    {
-        "id": "a96b8971be",
-        "title_fa": "اتمام ورود رئیس برنامه هسته‌ای ایران به وین",
-        "title_en": "Austria bars entry of Iran's nuclear chief for IAEA meeting in Vienna",
-        "summary": [
-            "اتنایستری به دلیل تحریم‌های سازمان ملل، ورود محمد اسلامی را مسدود کرد؛ این اقدام باعث بروز تنش دیپلماتیک در کنفرانس سالانه IAEA شد",
-            "آمریکا از تصمیم اتنایستری حمایت کرد و ایران با احضار دیپلمات‌های اتنایستری واکنش نشان داد؛ اعتبار وین به‌عنوان میزبان سازمان‌های بین‌المللی زیر سؤال رفت"
-        ],
-        "impact": "برگزاری کنفرانس IAEA با تضعیف دیپلماسی و فشار بین‌المللی بیشتر بر برنامه هسته‌ای ایران",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/austria-bars-entry-irans-nuclear-140415275.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/austria-bars-entry-irans-nuclear-140415275.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/011c1d364192f6982ca70d2783e391a6c313098372b32348c5d7781d3e7ed3ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0192817743dbb7a497a529c5a0a1b251.jpg",
-        "timestamp": 1789394640.0
     }
 ]
