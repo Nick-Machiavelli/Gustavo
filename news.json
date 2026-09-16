@@ -1,5 +1,43 @@
 [
     {
+        "id": "b39e5e5a5d",
+        "title_fa": "چگونه درباره تنظیم هوش مصنوعی بحث کنیم",
+        "title_en": "How to argue about regulating AI",
+        "summary": [
+            "مقاله به چالش‌های قانونی و اخلاقی در تنظیم هوش مصنوعی می‌پردازد",
+            "بر ضرورت چارچوب‌های شفاف و بین‌المللی برای جلوگیری از سو استفاده تأکید می‌کند",
+            "هشدار می‌دهد که قوانین سخت‌گیرانه می‌توانند نوآوری را خفه کنند"
+        ],
+        "impact": "قانون‌گذاران ممکن است فشار برای تدوین مقررات جدید AI را تجربه کنند",
+        "tag": "فناوری",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/09/16/how-argue-about-regulating-ai/",
+        "clean_url": "https://www.washingtonpost.com/politics/2026/09/16/how-argue-about-regulating-ai",
+        "image": "https://www.bing.com/th?id=ONUT.aWZLfYihrDYm--bPwFiB2A",
+        "timestamp": 1789586074.006863
+    },
+    {
+        "id": "3f594fb7ed",
+        "title_fa": "ایالات متحده در برابر حمایت‌گرایان صهیونیستی به خطر می‌افتد",
+        "title_en": "Israel has lost the American people. The politicians are next",
+        "summary": [
+            "نویسنده می‌گوید حمایت آمریکا از اسرائیل در حال از دست رفتن است و فشار داخلی برای جدایی از سیاست صهیونیستی در حال شکل‌گیری است",
+            "ادعا می‌کند ادامه وابستگی به اسرائیل هزینه‌های اقتصادی و نظامی سنگینی برای آمریکا به‌همراه دارد، اما شواهد ملموسی ارائه نمی‌دهد",
+            "حتی اگر جنبش داخلی قوی شود، تغییر سیاست خارجی به‌سرعت امکان‌پذیر نیست"
+        ],
+        "impact": "احتمال کاهش حمایت سیاسی آمریکا از اسرائیل و فشار بر قانون‌گذاران برای بازنگری در روابط استراتژیک",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/opinion/israel-lost-american-people-politicians-next",
+        "clean_url": "https://www.middleeasteye.net/opinion/israel-lost-american-people-politicians-next",
+        "image": "https://www.bing.com/th?id=ONUT.izarbSajVu_WEEm57fIwVQ",
+        "timestamp": 1789586074.0063643
+    },
+    {
         "id": "cf8d9ed13f",
         "title_fa": "قوانین EPA ترامپ هزینه‌های تریلیونی ایجاد می‌کند",
         "title_en": "Trump’s Slashing Of EPA Pollution Rules Will Cost Trillions",
@@ -5356,42 +5394,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26126225540505-1-1778064409.jpg?resize=1200%2C675",
         "timestamp": 1789463700.0
-    },
-    {
-        "id": "c27c25d0c8",
-        "title_fa": "جنگ ایران ترامپ: ادامه‌دار و بی‌هدف",
-        "title_en": "Trump's Iran war keeps dragging on. For what? | Opinion",
-        "summary": [
-            "مقاله انتقادی به ادامه جنگ ایران تحت رهبری ترامپ می‌پردازد",
-            "عدم وضوح اهداف استراتژیک هزینه‌های انسانی و مالی را افزایش می‌دهد",
-            "تشدید تنش‌های منطقه‌ای خطر ایجاد درگیری‌های گسترده‌تر را دارد",
-            "نیاز به بازنگری فوری در سیاست‌های نظامی و دیپلماتیک احساس می‌شود"
-        ],
-        "impact": "افزایش فشار داخلی و بین‌المللی بر سیاست‌های ترامپ",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "USA Today",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkhYY0VfN1MwYXY1d0x5V0Z2cDcwRXBDUFBZeGYzNEJtUm1NM2poZDhHLTNRem1lVGlfZGs2VEhvTnlPcWR1WGhwWFpFNHJMU2w5cnh3WXlyY2h1bTJJbnRmSmFRMThNTldVVWhlbnRVRFVEaGNxS25zWF83Zlc3SE91eTREcXBzOEcwNTVGNGljNy13UVh3STlNQmFpcTNiRHZ1NWJYMmNqMXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkhYY0VfN1MwYXY1d0x5V0Z2cDcwRXBDUFBZeGYzNEJtUm1NM2poZDhHLTNRem1lVGlfZGs2VEhvTnlPcWR1WGhwWFpFNHJMU2w5cnh3WXlyY2h1bTJJbnRmSmFRMThNTldVVWhlbnRVRFVEaGNxS25zWF83Zlc3SE91eTREcXBzOEcwNTVGNGljNy13UVh3STlNQmFpcTNiRHZ1NWJYMmNqMXM",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789463280.0
-    },
-    {
-        "id": "04ec44ac36",
-        "title_fa": "خبر بین‌المللی — conspiracy three nationalisms against United Kingdom: \"A",
-        "title_en": "The conspiracy of the three nationalisms against the United Kingdom: \"Andy Burnham will be the last British prime minister\"",
-        "summary": [
-            "The First Ministers of Scotland, Wales, and Northern Ireland seal a historic agreement to challenge Westminster and move towards independence, although they do not mention the word \"referendum\". \"The..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "EL MUNDO on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/the-conspiracy-of-the-three-nationalisms-against-the-united-kingdom-andy-burnham-will-be-the-last-british-prime-minister/ar-AA2cfz0O?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/the-conspiracy-of-the-three-nationalisms-against-the-united-kingdom-andy-burnham-will-be-the-last-british-prime-minister/ar-AA2cfz0O",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789463150.525239
     }
 ]
