@@ -1,5 +1,23 @@
 [
     {
+        "id": "4f4e1d1daf",
+        "title_fa": "تهران تا آخرین قطره خون می‌جنگد",
+        "title_en": "Iran war live: Tehran vows to fight on 'until the last drop of blood'",
+        "summary": [
+            "ایران پس از تهدیدهای ترامپ، اعلام کرد تا آخرین قطره خون می‌جنگد؛ نشانگر ریسک تشدید تنش‌های نظامی است",
+            "بیانیه‌اش سعی دارد پیام مقاومت به داخل و خارج بدهد، اما می‌تواند فشار دیپلماتیک آمریکا را تقویت کند"
+        ],
+        "impact": "افزایش تنش نظامی و خطر تشدید درگیری‌های منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/other/iran-war-live-tehran-vows-to-fight-on-until-the-last-drop-of-blood/ar-AA2cjFL4",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-tehran-vows-to-fight-on-until-the-last-drop-of-blood/ar-AA2cjFL4",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cfZrP.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1789572269.0
+    },
+    {
         "id": "2b84ddf042",
         "title_fa": "خبر بین‌المللی — Joe Scarborough urges ترامپ به 'get rid' 'runaway beer truc",
         "title_en": "Joe Scarborough urges Trump to 'get rid' of 'runaway beer truck' Pete Hegseth",
@@ -5404,23 +5422,5 @@
         "clean_url": "https://theconversation.com/irans-threat-to-cut-undersea-cables-in-strait-of-hormuz-poses-a-serious-threat-to-gulf-states-291618",
         "image": "https://images.theconversation.com/files/759685/original/file-20260914-50-q5e0c4.jpg?ixlib=rb-4.1.1&rect=0%2C417%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
         "timestamp": 1789446360.0
-    },
-    {
-        "id": "8bceab904c",
-        "title_fa": "رئیس امنیت ملی ایران مذاکرات ترامپ را رد کرد",
-        "title_en": "After Trump floats talks, Iran security chief rejects negotiations until ‘conditions’ met",
-        "summary": [
-            "ترامپ گفت می‌خواهد مذاکراتی برای رفع تحریم‌ها آغاز شود؛ محسن رضایی اعلام کرد تا زمانی که شرایط نفت و تنگه‌ها برآورده نشود، هیچ گفت‌و‌گویی صورت نمی‌گیرد",
-            "این موضع نشان می‌دهد ایران به‌عنوان کارت فشار در برابر آمریکا از مسأله استراتژیک نفت استفاده می‌کند و احتمال ادامه تحریم‌های سنگین را افزایش می‌دهد"
-        ],
-        "impact": "تحریم‌های آمریکا بدون توافق جدید ادامه می‌یابد و درآمد نفتی ایران تحت فشار شدید باقی می‌ماند",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/after-trump-floats-talks-iran-security-chief-rejects-negotiations-until-conditions-met/",
-        "clean_url": "https://www.timesofisrael.com/after-trump-floats-talks-iran-security-chief-rejects-negotiations-until-conditions-met",
-        "image": "http://www.bing.com/th?id=ONUT.lQ0Z2gTE11r4nbQaen8-tA&pid=News",
-        "timestamp": 1789446060.0
     }
 ]
