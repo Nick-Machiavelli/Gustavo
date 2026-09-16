@@ -1,5 +1,25 @@
 [
     {
+        "id": "6f5d85c513",
+        "title_fa": "ترامپ: جنگ استراتژیک علیه ایران در حال پیروزی",
+        "title_en": "Trump is fighting Iran with strategic clarity — and America is winning",
+        "summary": [
+            "ترامپ ادعای «جنگ عادلانه» علیه ایران را می‌کند اما هیچ عملیات نظامی رسمی اعلام نشده",
+            "او با اشاره به شکست‌های بوش، اوباما و بایدن سعی در مشروعیت‌بخشی به سیاست خود دارد",
+            "این روایت می‌تواند فشار داخلی برای گسترش تحریم‌ها یا اقدام نظامی را تقویت کند",
+            "اگرچه می‌گوید آمریکا «برد» دارد، واقعیت نشان می‌دهد تنش‌ها و تحریم‌ها ادامه دارد"
+        ],
+        "impact": "افزایش فشار سیاسی برای گسترش تحریم‌ها یا اقدام نظامی علیه ایران",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/trump-fighting-iran-strategic-clarity-america-winning",
+        "clean_url": "https://www.foxnews.com/opinion/trump-fighting-iran-strategic-clarity-america-winning",
+        "image": "https://www.bing.com/th?id=ONUT._m2T7nWR0OvDApzEZOYDSw",
+        "timestamp": 1789564483.8307421
+    },
+    {
         "id": "76c6a1c2c3",
         "title_fa": "خبر بین‌المللی — ترامپ blocks ایران’s oil lifeline… then تهران faces gas shor",
         "title_en": "Trump blocks Iran’s oil lifeline… then Tehran faces gas shortages and surging prices",
@@ -5393,24 +5413,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrRFI4cUZCTXNpUXBhWWtNV3gzTDJjWExteTQzMzd5dXZNc19JazhnaHFCbG9TbG5hQTRONW1LVXp1em94emRvdVBybEdmZWttR0E",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789439298.0
-    },
-    {
-        "id": "5b83f3bf45",
-        "title_fa": "رقابت امارات‑عربستان، بحران امنیتی سعودی در یمن",
-        "title_en": "How Saudi crown prince MBS's rivalry with UAE is bleeding Riyadh in Yemen",
-        "summary": [
-            "امیرعامل سعودی با امارات رقابت می‌کند و تصمیم‌های اشتباهش باعث گسترش کنترل حوثی‌ها بر سواحل یمن شد",
-            "حمله حوثی‌ها به مسیرهای تجاری دریای سرخ، دسترسی سعودی به بنادر مهم را قطع کرده و هزینه‌های حمل‌ونقل را دوچندان می‌کند",
-            "رقابت داخلی باعث ضعف هماهنگی نظامی و اطلاعاتی می‌شود؛ در نتیجه حریفان منطقه‌ای می‌توانند فشار بیشتری بر عربستان اعمال کنند"
-        ],
-        "impact": "کاهش ترافیک تجاری در دریای سرخ، افزایش هزینه‌های حمل‌ونقل و فشار بر اقتصاد سعودی",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/world/story/houthis-attack-saudi-arabian-crown-prince-mohammed-bin-salman-red-sea-bab-el-mandeb-uae-ansar-allah-yemen-2994216-2026-09-15",
-        "clean_url": "https://www.indiatoday.in/world/story/houthis-attack-saudi-arabian-crown-prince-mohammed-bin-salman-red-sea-bab-el-mandeb-uae-ansar-allah-yemen-2994216-2026-09-15",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/how-a-saudi-prince-with-axe-to-grind-lost-yemen-140238258-16x9_0.png?VersionId=3zqZCBewuADgSIPnLL_qj3bj.fqzYaia",
-        "timestamp": 1789439163.575469
     }
 ]
