@@ -1,5 +1,24 @@
 [
     {
+        "id": "286a996ee5",
+        "title_fa": "هزینه جنگ ایران در ذهن رأی‌دهندگان می‌سوزد",
+        "title_en": "'Common sense' says Iran war is worth it, but voters may think otherwise: Joe Concha",
+        "summary": [
+            "جو کونچا می‌گوید هزینه‌های نظامی ایران برای آمریکا سنگین است و رای‌دهندگان ممکن است از ادامه جنگ بپرهیزند",
+            "او تأکید می‌کند حذف سلاح هسته‌ای ایران هدف اصلی است",
+            "مقایسه هزینه ۳۸ میلیارد دلاری با حمایت عمومی نشان خطر سیاسی برای دولت دارد"
+        ],
+        "impact": "افزایش فشار داخلی بر دولت آمریکا برای کاهش حضور نظامی در خاورمیانه",
+        "tag": "هزینه_جنگ",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/common-sense-says-iran-war-is-worth-it-but-voters-may-think-otherwise-joe-concha/ar-AA2cn9Ps?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/common-sense-says-iran-war-is-worth-it-but-voters-may-think-otherwise-joe-concha/ar-AA2cn9Ps",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789589658.135125
+    },
+    {
         "id": "ee5a452cfb",
         "title_fa": "کاهش قدرت ترامپ افسانه‌اش را می‌شکند",
         "title_en": "Trump’s losing streak dents his invincibility myth",
@@ -2526,6 +2545,45 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkN4azdxdExhSENGTTBVQ3VMbkkzci1kRVlOQUJ6c2l2WUpUT2NVRlVtb2phcmNZR1paMDZnVWdpU3k1MEdVUFNCYWpsZzl3dVkxcHRqVk1sNUVoYUxhb213azZCSVVjRTljRkpUc0pfdHh5RW55TjdQOXRUYWZZMw",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789503459.0
+    },
+    {
+        "id": "2daa209f8d",
+        "title_fa": "ترکیه ۹۹٫۹۸٪ سهام گلدن‌گلوبال را به دولت واگذار کرد",
+        "title_en": "Turkey takes control of shareholder rights at Golden Global amid US sanctions",
+        "summary": [
+            "بانک نظارت ترکیه پس از تحریم آمریکا تقریباً تمام حقوق سهام را به صندوق بیمه سپرده‌ها منتقل کرد",
+            "آمریکا بانک را به دلیل کمک به انتقال پول‌های نفتی ایران و شستشوی پول متهم کرد",
+            "این اولین تحریم مستقیم آمریکا علیه مؤسسه مالی ترکیه است",
+            "اقدام می‌تواند فشار مالی بر بانک‌های ترکیه و روابط اقتصادی با ایران را تشدید کند"
+        ],
+        "impact": "سرمایه‌گذاری خارجی در ترکیه کاهش می‌یابد و هزینه‌های بانکی ایران بالا می‌رود",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/turkey-golden-global-us-sanctions-iran/",
+        "clean_url": "https://cryptobriefing.com/turkey-golden-global-us-sanctions-iran",
+        "image": "https://www.bing.com/th?id=ONUT.s-k1LLWRnNsdMT3pRf-d-Q",
+        "timestamp": 1789503252.0
+    },
+    {
+        "id": "4e78669e0f",
+        "title_fa": "کویت به آرامی روابط خود را با اسرائیل گسترش می‌دهد",
+        "title_en": "Kuwait quietly moves toward Israel amid Iran threat",
+        "summary": [
+            "گزارش‌ها نشان می‌دهد کویت در پس‌زمینه تهدید ایران، مذاکرات مخفیانه با اسرائیل را پیش می‌برد",
+            "این حرکت می‌تواند تعادل قدرت در خلیج فارس را تغییر دهد",
+            "احتمال ایجاد ائتلاف‌های جدید ضد ایران در منطقه بالا می‌رود"
+        ],
+        "impact": "تقویت موقعیت استراتژیک اسرائیل در خلیج فارس و کاهش حاکمیت ایران",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Israel Hayom",
+        "url": "https://www.israelhayom.com/2026/09/16/kuwait-normalization-israel-defense-iran/",
+        "clean_url": "https://www.israelhayom.com/2026/09/16/kuwait-normalization-israel-defense-iran",
+        "image": "https://www.bing.com/th?id=ONUT.CwCfAlBwmxXNgCSFXwhbLg",
+        "timestamp": 1789503252.0
     },
     {
         "id": "4da7d84798",
@@ -5337,59 +5395,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEhraUNTWks1WE9uZVNpdzVpVHgtVjdXZVpmMVhheFFxY3hBRlNfLUZSTVYyTm03QU9DMTE4NzVOSmw1MTVYYVUzVFJaMGZFZVdySktRcHc0Rzg1UFRrVU9ETnR4U2t0M1RPNjJuV3J3TE8wWW4zSnF3MVN2VkFRWV9qcGVUMi1WOTl5N1AwYWZrR3E5R21TVQ",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789465791.0
-    },
-    {
-        "id": "b210d722bb",
-        "title_fa": "تحلیل مالی ایران اینترنشنال: تسویه ۶۵۰ میلیون پوند",
-        "title_en": "Iran International dan £650 Juta: Satu Media, Banyak Mikrofon",
-        "summary": [
-            "Volant Media با تبدیل بدهی به سهام، ۶۵۰ میلیون پوند بدهی را کاهش داد",
-            "این اقدام نشان‌دهنده فشار مالی شدید بر شبکه خبری فارسی‌زبان است"
-        ],
-        "impact": "قابلیت ادامه فعالیت خبری ایران اینترنشنال تحت فشار مالی باقی می‌ماند",
-        "tag": "رسانه",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "ahlulbaitindonesia.or",
-        "url": "https://ahlulbaitindonesia.or.id/opini/iran-international-dan-650-juta-satu-media-banyak-mikrofon/",
-        "clean_url": "https://ahlulbaitindonesia.or.id/opini/iran-international-dan-650-juta-satu-media-banyak-mikrofon",
-        "image": "https://i0.wp.com/ahlulbaitindonesia.or.id/wp-content/uploads/2026/09/Iran-internasional-1.jpg?fit=1444%2C846&ssl=1",
-        "timestamp": 1789465346.6100388
-    },
-    {
-        "id": "d040f0c573",
-        "title_fa": "هوش مصنوعی: رهبری کلامی در کنگره",
-        "title_en": "MORNING GLORY: Spare us the AI apocalypse rhetoric. Let Congress decide what comes next",
-        "summary": [
-            "رسانه‌ها به‌طور مکرر هشدارهای افراطی درباره رباتیک می‌دهند",
-            "نویسنده خواستار تصمیم‌گیری قانون‌گذاران به‌جای سر و صداهای بی‌پایه است"
-        ],
-        "impact": "ممکن است قانون‌گذاری واضح‌تری برای AI در ایالات متحده ایجاد شود",
-        "tag": "فناوری",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/morning-glory-spare-us-ai-apocalypse-rhetoric-let-congress-decide-what-comes-next",
-        "clean_url": "https://www.foxnews.com/opinion/morning-glory-spare-us-ai-apocalypse-rhetoric-let-congress-decide-what-comes-next",
-        "image": "https://www.bing.com/th?id=ONUT.4jOXWpct1Bx-J9LZ8YoTqQ",
-        "timestamp": 1789465346.6097443
-    },
-    {
-        "id": "c5061b3a69",
-        "title_fa": "ترامپ اوکراین را مقصر دیزل می‌داند",
-        "title_en": "Trump’s scapegoating of Ukraine masks tainted Russian gifts",
-        "summary": [
-            "ترامپ ادعا کرد اوکراین باعث کمبود دیزل جهانی شده است",
-            "این روایت سعی دارد فشار داخلی را از جنگ ایران منحرف کند"
-        ],
-        "impact": "تشدید بحث داخلی درباره سیاست انرژی و روابط با اوکراین",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Las Vegas Sun",
-        "url": "https://lasvegassun.com/news/2026/sep/15/trumps-scapegoating-of-ukraine-masks-tainted-russi/",
-        "clean_url": "https://lasvegassun.com/news/2026/sep/15/trumps-scapegoating-of-ukraine-masks-tainted-russi",
-        "image": "https://media.lasvegassun.com/media/img/photos/2025/03/03/AP25059608903743_t1200.jpg?a58a258a4dac404905303588401680fdf3ee23e4",
-        "timestamp": 1789465346.6094315
     }
 ]
