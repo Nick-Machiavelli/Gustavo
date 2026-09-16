@@ -531,6 +531,25 @@
         "timestamp": 1789509783.5348172
     },
     {
+        "id": "4825f7e485",
+        "title_fa": "مجلس آمریکا محدود کردن قدرت جنگی ترامپ در ایران",
+        "title_en": "Trump brutally rebuked over dragged-out Iran war as Republican defectors vote to handcuff his power",
+        "summary": [
+            "نمایندگان مجلس با رأی ۲۲۰-۲۰۴ قطع اختیار ترامپ برای ادامه عملیات نظامی در ایران را تصویب کردند",
+            "تصمیم هنوز به دست رئیس‌جمهور نرسیده؛ ترامپ احتمالاً با وتو پاسخ می‌دهد",
+            "این اقدام نشان می‌دهد فشار داخلی برای پایان جنگ در حال افزایش است"
+        ],
+        "impact": "احتمال توقف عملیات نظامی آمریکا در ایران و تغییر مسیر سیاست خارجی",
+        "tag": "سیاست",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "Daily Mail",
+        "url": "https://www.dailymail.com/news/article-16133433/Trump-brutally-rebuked-Iran-war-Republican.html",
+        "clean_url": "https://www.dailymail.com/news/article-16133433/Trump-brutally-rebuked-Iran-war-Republican.html",
+        "image": "http://www.bing.com/th?id=ONUT.Mnz5ToBZ-REhER2TK0mIYg&pid=News",
+        "timestamp": 1789507320.0
+    },
+    {
         "id": "290c8ab7b6",
         "title_fa": "Why حوثی‌ها are not an ایرانی proxy",
         "title_en": "Why the Houthis are not an Iranian proxy",
@@ -5379,25 +5398,5 @@
         "clean_url": "https://english.aawsat.com/world/5318256-netanyahu-threatens-retaliation-if-israel’s-enemies-attack",
         "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1775492.jpeg.webp?VersionId=14g6VfZUa8wk3AaJ8ZXIm2JH9OWPRoGM",
         "timestamp": 1789405320.0
-    },
-    {
-        "id": "4b71e42ab9",
-        "title_fa": "ترامپ جنگ ایران را «سیب زمینی کوچک» نامید",
-        "title_en": "Trump has no path to victory against Iran",
-        "summary": [
-            "ترامپ جنگ را کم‌اهمیت جلوه می‌دهد تا فشار داخلی را کاهش دهد",
-            "هزینه‌ها بالا رفته و موجودی مهمات آمریکا کم شده است",
-            "ایران با تلفات، توان ادامه مقاومت و گسترش عملیات را دارد",
-            "پیروزی واقعی وابسته به فشار سیاسی، نه فقط تخریب زیرساخت‌ها"
-        ],
-        "impact": "بی‌توجهی به هزینه‌های واقعی، توانایی فشار نظامی آمریکا را زیر سؤال می‌برد",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Asia Times",
-        "url": "https://asiatimes.com/2026/09/trump-has-no-path-to-victory-against-iran/",
-        "clean_url": "https://asiatimes.com/2026/09/trump-has-no-path-to-victory-against-iran",
-        "image": "http://www.bing.com/th?id=ONUT.LUx3VQ8dDC14aZY_3wVJfw&pid=News",
-        "timestamp": 1789405140.0
     }
 ]
