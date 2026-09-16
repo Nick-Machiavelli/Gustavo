@@ -1,5 +1,25 @@
 [
     {
+        "id": "b1c2af7baf",
+        "title_fa": "پاکستان و خاورمیانه: عمق استراتژیک یا معضل؟",
+        "title_en": "Pakistan and the Middle East: Strategic depth or strategic dilemma?",
+        "summary": [
+            "پاکستان به سمت تقویت روابط با کشورهای خاورمیانه حرکت می‌کند",
+            "این مسیر می‌تواند دسترسی به سرمایه‌گذاری و منابع انرژی را افزایش دهد",
+            "همزمان، هند ممکن است واکنش سخت‌گیرانه نشان دهد و تنش‌های مرزی را تشدید کند",
+            "تعادل ژئوپلیتیک پاکستان در خطر است و باید بین منافع و خطرات تعادل برقرار کند"
+        ],
+        "impact": "روابط جدید می‌تواند تجارت و امنیت پاکستان را تقویت کند، اما تنش با هند را تشدید می‌کند",
+        "tag": "ژئوپلیتیک",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The National Interest on MSN",
+        "url": "https://www.msn.com/en-us/news/other/pakistan-and-the-middle-east-strategic-depth-or-strategic-dilemma/ar-AA2cnCDn?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/pakistan-and-the-middle-east-strategic-depth-or-strategic-dilemma/ar-AA2cnCDn",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789598945.3697128
+    },
+    {
         "id": "4ae98a1d8e",
         "title_fa": "ترامپ و رئیس فدرال رزرو: سرنخی برای تورم بالا",
         "title_en": "Who’s to Blame for Higher Prices? Trump’s Own Fed Chair Just Pointed a Subtle Finger.",
@@ -5380,25 +5400,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789470982.0
-    },
-    {
-        "id": "2379506210",
-        "title_fa": "سقوط ساختمان مسکونی غزه؛ حداقل ۲۰ کشته",
-        "title_en": "War-damaged Gaza building housing displaced Palestinian families collapses, killing at least 14 people",
-        "summary": [
-            "ساختمانی که خانواده‌های فلسطینی در آن پناه گرفته بودند، در غزه سقوط کرد و حداقل بیست نفر، عمدتاً زنان و کودکان، جان باختند",
-            "ساختمان پیش از این در یک حمله اسرائیلی آسیب دیده بود و هشدارهای ایمنی دربارهٔ وضعیت آن داده شده بود",
-            "حداقل پانزده نفر دیگر زخمی شدند و تعداد کشته‌ها احتمالاً با ادامهٔ عملیات نجات افزایش می‌یابد",
-            "این فاجعه نشان می‌دهد که ساختارهای مسکونی در مناطق جنگی به‌سرعت به‌دمای خطر تبدیل می‌شوند"
-        ],
-        "impact": "تلفات غیرنظامی در غزه فشار بین‌المللی برای توقف حملات و فراهم کردن کمک‌های اضطراری را تقویت می‌کند",
-        "tag": "غزه",
-        "urgency": 6,
-        "sentiment": -0.92,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/israel-hamas-gaza-war-building-collapse-palestinian-deaths-al-sinaa/",
-        "clean_url": "https://www.cbsnews.com/news/israel-hamas-gaza-war-building-collapse-palestinian-deaths-al-sinaa",
-        "image": "https://www.bing.com/th?id=ONUT.fj6VOzf8hJtMzg6Oo7H3Uw",
-        "timestamp": 1789470846.0
     }
 ]
