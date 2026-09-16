@@ -2660,6 +2660,24 @@
         "timestamp": 1789509783.5348172
     },
     {
+        "id": "29e23b4eaf",
+        "title_fa": "کاندیدای جمهوری‌خواه ایوا برای حضور در مراسم JD Vance رد شد",
+        "title_en": "Iowa’s Republican Senate candidate not attending JD Vance event",
+        "summary": [
+            "کاندیدای سنا به دلیل برنامه‌های قبلی از حضور در رویداد JD Vance خودداری کرد",
+            "این تصمیم می‌تواند نشان‌دهنده تنش‌های داخلی در حزب جمهوری‌خواه باشد"
+        ],
+        "impact": "عدم حضور او ممکن است حمایت‌های محلی و اعتبار انتخاباتی را تحت فشار قرار دهد",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/09/16/iowas-republican-senate-candidate-not-attending-jd-vance-event/",
+        "clean_url": "https://www.washingtonpost.com/politics/2026/09/16/iowas-republican-senate-candidate-not-attending-jd-vance-event",
+        "image": "https://www.bing.com/th?id=ONUT.0mwcj8vFdnrrfvARlKxtUw",
+        "timestamp": 1789509774.0
+    },
+    {
         "id": "4f634ac008",
         "title_fa": "خبر بین‌المللی — US troops must آماده شدن به fight around moon, ترامپ’s top",
         "title_en": "US troops must prepare to fight around the moon, Trump’s top military adviser says",
@@ -5388,22 +5406,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/trump-s-iran-strategy-is-just-an-expensive-photo-op-until-he-closes-the-uae-back-door/ar-AA2cfWoo",
         "image": "https://www.bing.com/th?id=ONUT.6XKT4rTcvcfeYR4k8cC3Kg",
         "timestamp": 1789470229.9240108
-    },
-    {
-        "id": "322802872d",
-        "title_fa": "خبر بین‌المللی — نتانیاهو’s $3.5 billion answer به isolation argument",
-        "title_en": "Netanyahu’s $3.5 billion answer to the isolation argument",
-        "summary": [
-            "Then, on August 31, Greece signed a €3.035 billion (roughly $3.5 billion) agreement that will place Israeli technology at the center of its future national air-defense architecture. That does not make..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Blogs | The Times of Israel",
-        "url": "https://blogs.timesofisrael.com/netanyahus-3-5-billion-answer-to-the-isolation-argument/",
-        "clean_url": "https://blogs.timesofisrael.com/netanyahus-3-5-billion-answer-to-the-isolation-argument",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789470227.2624362
     }
 ]
