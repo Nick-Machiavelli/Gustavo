@@ -106,6 +106,25 @@
         "timestamp": 1789575856.241021
     },
     {
+        "id": "2a4fe11dba",
+        "title_fa": "محاکمه چهار نفر در طرح ترور دانشمند هسته‌ای اسرائیل",
+        "title_en": "Iranian plot to assassinate Israeli nuclear scientist results in four convictions",
+        "summary": [
+            "چهار نفر به اتهام مشارکت در طرح ترور دانشمند هسته‌ای اسرائیل محکوم شدند",
+            "پرونده نشانگر توانایی عملیات تروریستی ایران در هدف‌گیری علمی اسرائیل است",
+            "محکومیت‌ها می‌تواند فشار بین‌المللی بر برنامه هسته‌ای ایران را افزایش دهد"
+        ],
+        "impact": "تقویت واکنش اسرائیل و جامعه بین‌المللی علیه برنامه تروریستی ایران",
+        "tag": "تروریست",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tWmgwQ3dpdjNQeWVjRDdIdEcwZE84QVZVendOcWZvNlVQbzMybkNFckVSTGtrajhkNHBtYzZ3b2hQU3hWRXJoc3lEOUZhNkx1UUdEMVpmcE1odV91Tkc5VTBTYXY4MndJeEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tWmgwQ3dpdjNQeWVjRDdIdEcwZE84QVZVendOcWZvNlVQbzMybkNFckVSTGtrajhkNHBtYzZ3b2hQU3hWRXJoc3lEOUZhNkx1UUdEMVpmcE1odV91Tkc5VTBTYXY4MndJeEE",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789574951.0
+    },
+    {
         "id": "13ff7e33a3",
         "title_fa": "هوش مصنوعی کشته‌گر: دولت‌ها مقصر",
         "title_en": "AI is already killing people—and governments are to blame",
@@ -1098,6 +1117,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY0ZBaV9wMS1sSlcydkgtR2taSXhNQTZFaTk1aEFRQkhmd0QwUURNWmN6UFlXN2d1WC03czBQdDRkT1QyU3JIQVFneTJ5U2lmOS1JbWx6X0hXLTZTdWV5OHVVdHUxQ2Q3eHVkMTdsd0gtQW5VVGNZc3RPMGxwTWNweXE0aGRzbGlQUXpyWDI2bkNrWFZ2WWthMVdYVnVsMlJPa29JUE5ueWlRWi1ZWnhldV9fMmp1bWI5MmNxM2xSTWtXc1J5bU9Wc1hvWUJaV1QwSC1pc0RQaUk5YmFBQXdVcjZR0gHnAUFVX3lxTFBPaG9JVGlVYXBvWmdWV3d3ZUxWNWlhdm9RcEFWM0NEcjNkOHhmaUpJMUwxSHJ4bnVseGp2QnpLV1laV3dUTmw0aXJ6RTlKbTZYSTE3YmFucWZWWWZ1ZGdsYXRKUklLdUdVQ01qRFVSdEp3bUhhX3lnUEtfYVIyQlBJc3JOVjJLWnJ4MjEyYUVfcmNSZlFDRk56QjdKekkydHQ2UF9JZ2t5WDR2QnFZWk9IY2Zld1RxY1VxMVU5XzdyMk04ZDR6M1F2a2YxNDFlQllMeVZNU1Nac2RYTkFZb0ZLTlZ3R0ktZw",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789547760.0
+    },
+    {
+        "id": "ebe85e90a5",
+        "title_fa": "ماهواره‌های روسی بر پایگاه آمریکایی در عربستان پرواز کردند",
+        "title_en": "Russian satellites flew over US base in Saudi Arabia days before Iranian attack — CNN",
+        "summary": [
+            "چهارده ماهواره جاسوسی روسیه مسیر خود را از طریق پایگاه آمریکایی در عربستان گذراندند",
+            "این عبور تنها چند روز پیش از حمله بزرگ ایران به همان پایگاه رخ داد",
+            "نشانه‌ای از همکاری اطلاعاتی یا همدستی روسیه با عملیات ایرانی است"
+        ],
+        "impact": "افزایش تنش‌های روسیه‑ایالات متحده و ایران در خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/russian-satellites-flew-over-us-base-in-saudi-arabia-days-before-iranian-attack-cnn/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/russian-satellites-flew-over-us-base-in-saudi-arabia-days-before-iranian-attack-cnn",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260329__A64D2EF__v2__HighRes__TopshotSaudiIranUsIsraelWar-640x400.jpg",
+        "timestamp": 1789545780.0
     },
     {
         "id": "59754cb2ed",
@@ -5367,43 +5405,5 @@
         "clean_url": "https://www.bluewin.ch/en/news/u.s.-house-of-representatives-votes-again-against-war-with-iran-li.3601398",
         "image": "https://www.bing.com/th?id=ONUT.-9Z16jyKqLa8bKrIxvvozA",
         "timestamp": 1789456458.0
-    },
-    {
-        "id": "6ae68cb7f6",
-        "title_fa": "بخش مالی آمریکا کمپین انزوای اقتصادی علیه ایران",
-        "title_en": "America waging 'greatest economic isolation campaign' on Iran, Treasury chief says",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا کمپین را \"بزرگ‌ترین\" انزوای اقتصادی می‌نامد؛ نشانگر تشدید تحریم‌هاست",
-            "هدف نه تنها ایران بلکه شرکت‌ها و بانک‌های همکار آن است؛ دامنه جریمه‌ها گسترش می‌یابد",
-            "فشار بر صادرات نفت و دسترسی به بازارهای مالی بین‌المللی افزایش می‌یابد؛ احتمال سقوط بیشتر ارز پیش‌بینی می‌شود",
-            "تهدیدهای اقتصادی می‌تواند واکنش تندتر تهران و تشدید تنش‌های منطقه‌ای را به دنبال داشته باشد"
-        ],
-        "impact": "تحریم‌های جدید دسترسی ایران به سیستم‌های مالی جهانی را سخت‌تر می‌کند و فشار بر اقتصاد داخلی را افزایشی می‌کند",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Saudi Gazette on MSN",
-        "url": "https://www.msn.com/en-ae/news/featured/america-waging-greatest-economic-isolation-campaign-on-iran-treasury-chief-says/ar-AA2ckqWz?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ae/news/featured/america-waging-greatest-economic-isolation-campaign-on-iran-treasury-chief-says/ar-AA2ckqWz",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789455849.0
-    },
-    {
-        "id": "c6ad1b034a",
-        "title_fa": "فدرال رزرو نرخ بهره را بالا می‌برد؛ ترامپ خواست کاهش",
-        "title_en": "Fed expected to raise rates despite Trump’s calls for a cut",
-        "summary": [
-            "فدرال رزرو پس از سه سال توقف، اولین بار نرخ بهره را افزایش می‌دهد.",
-            "ترامپ در بیانیه‌ای فشار می‌آورد تا نرخ به سمت کاهش برود، اما بازار انتظار رشد دارد."
-        ],
-        "impact": "نرخ بهره بالاتر دلار را تقویت می‌کند و فشار بر بازارهای نوظهور را افزایش می‌دهد.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Euronews on MSN",
-        "url": "https://www.msn.com/en-ph/money/economy/fed-expected-to-raise-rates-despite-trump-s-calls-for-a-cut/ar-AA2ckiNN?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ph/money/economy/fed-expected-to-raise-rates-despite-trump-s-calls-for-a-cut/ar-AA2ckiNN",
-        "image": "https://www.bing.com/th?id=ONUT.pWHsk1xVxJ200PqgQ__yWg",
-        "timestamp": 1789454753.0
     }
 ]
