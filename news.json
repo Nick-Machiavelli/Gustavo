@@ -369,6 +369,26 @@
         "timestamp": 1789586571.5374923
     },
     {
+        "id": "71233058c1",
+        "title_fa": "قیمت نفت خام به‌سرعت کاهش یافت",
+        "title_en": "Crude Oil Prices Sharply Lower as Middle East Disruptions Ease",
+        "summary": [
+            "نفت WTI روز چهارشنبه ۳٫۲۱٪ سقوط کرد؛ کاهش به‌دلیل ورود عرضه‌های بیشتر به بازار.",
+            "موجودی‌های هفتگی نفت آمریکا کمتر از انتظار کاهش یافت، در حالی‌که بنزین و دیزل افزایشی نشان دادند.",
+            "قوی شدن شاخص دلار (DXY) به بالاترین سطح ۱٫۵ ماهه، فشار نزولی بر قیمت انرژی ایجاد کرد.",
+            "بنزین به بالاترین سطح سه هفته‌ای خود رسید؛ نشان از تقاضای متفاوت بین محصولات نفتی دارد."
+        ],
+        "impact": "کاهش قیمت نفت درآمدهای نفت‌کشورها را فشار می‌دهد و نوسان در بازارهای انرژی را تشدید می‌کند.",
+        "tag": "نفت",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "Barchart · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191614521.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191614521.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/ca88e087f12a3f8d2cc35756e5cb650e.jpg",
+        "timestamp": 1789586570.0
+    },
+    {
         "id": "96fd6d65be",
         "title_fa": "کاهش سوخت و اعتصابات کردها، بحران داخلی ایران",
         "title_en": "From Fuel Shortages to Kurdish Strikes: Iran’s Rulers Confront a Society on Edge - National Council of Resistance of Iran",
@@ -5384,23 +5404,6 @@
         "url": "https://www.msn.com/en-us/money/economy/farmers-slam-trump-over-record-diesel-prices-we-can-t-survive/ar-AA2ckY2a?ocid=BingNewsVerp",
         "clean_url": "https://www.msn.com/en-us/money/economy/farmers-slam-trump-over-record-diesel-prices-we-can-t-survive/ar-AA2ckY2a",
         "image": "https://www.bing.com/th?id=ONUT.gvJLbrRMXf4DAu-GwMZ-PQ",
-        "timestamp": 1789476339.0
-    },
-    {
-        "id": "f3affc7cd0",
-        "title_fa": "خبر بین‌المللی — India voices concern over attempted پهپاد حمله در Makkah",
-        "title_en": "India voices concern over attempted drone attack on Makkah",
-        "summary": [
-            "New Delhi, Sep 16 (PTI) India on Wednesday voiced deep concern over an attempted drone attack on the holy city of Makkah in Saudi Arabia and renewed its call for early restoration of peace in West..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "News18 on MSN",
-        "url": "https://www.msn.com/en-in/news/other/india-voices-concern-over-attempted-drone-attack-on-makkah/ar-AA2cld7i?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/india-voices-concern-over-attempted-drone-attack-on-makkah/ar-AA2cld7i",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789476339.0
     }
 ]
