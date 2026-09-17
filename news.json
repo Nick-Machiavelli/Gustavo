@@ -1,5 +1,22 @@
 [
     {
+        "id": "2f6ca66d98",
+        "title_fa": "خبر بین‌المللی — Market mood brightens after Fed hike",
+        "title_en": "Market mood brightens after Fed hike",
+        "summary": [
+            "Equally certain was that the Fed would hike yesterday. It duly delivered; the Fed raised rates for the first time since 2023..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Investors Chronicle",
+        "url": "https://www.investorschronicle.co.uk/content/5ab31b68-261a-4c43-81e8-375f0a00f686",
+        "clean_url": "https://www.investorschronicle.co.uk/content/5ab31b68-261a-4c43-81e8-375f0a00f686",
+        "image": "https://www.bing.com/th?id=ONUT.BsMa_BZQK4R-ni2iuFFM8w",
+        "timestamp": 1789644215.0753155
+    },
+    {
         "id": "b3c1e359b8",
         "title_fa": "خبر بین‌المللی — ترامپ claims جهانی respects him. New survey says no",
         "title_en": "Trump claims the world respects him. New survey says no",
@@ -2487,6 +2504,78 @@
         "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/osama-bin-laden-s-dream-come-true-us-bases-on-the-arabian-peninsula-are-gone/ar-AA2cljYF",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789557855.5541039
+    },
+    {
+        "id": "19e501d4b3",
+        "title_fa": "سرلشکر اسرائیل شرط‌گذاری برای خلع سلاح حزب‌الله",
+        "title_en": "Israeli army chief sets condition for Hezbollah disarmament",
+        "summary": [
+            "سرلشکر ایال زمیر گفت توافق با لبنان فقط در صورت خلع سلاح کامل حزب‌الله امکان‌پذیر است.",
+            "این موضع می‌تواند فشار دیپلماتیک بر لبنان را افزایش دهد و ریسک درگیری را بالا ببرد."
+        ],
+        "impact": "اگر شرط اجرا نشود، احتمال تشدید درگیری مرزی بین اسرائیل و لبنان افزایش می‌یابد.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Newspoint on MSN",
+        "url": "https://www.msn.com/en-in/politics/government/israeli-army-chief-sets-condition-for-hezbollah-disarmament/ar-AA2cqooH?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/politics/government/israeli-army-chief-sets-condition-for-hezbollah-disarmament/ar-AA2cqooH",
+        "image": "https://www.bing.com/th?id=ONUT.v37OoQ2DBxykTjo2ROLMwA",
+        "timestamp": 1789557805.0
+    },
+    {
+        "id": "429af01523",
+        "title_fa": "روسیه واکنش تند به لایحه تحریم‌های آمریکا",
+        "title_en": "'Unfriendly action': Russia blasts US sanctions bill, warns of fallout for Ukraine war",
+        "summary": [
+            "کرملین لایحه تحریم‌های گسترده آمریکا را «عملی نامطلوب» خوانده و هشدار داد که به جنگ اوکراین آسیب می‌زند.",
+            "این انتقاد نشان می‌دهد تنش‌های اقتصادی دو جانبه در حال تشدید است."
+        ],
+        "impact": "تحریم‌های جدید می‌تواند فشار مالی بر روسیه را افزایش دهد و روابط تجاری بین دو بلوک را محدود کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Times of India on MSN",
+        "url": "https://www.msn.com/en-in/politics/government/unfriendly-action-russia-blasts-us-sanctions-bill-warns-of-fallout-for-ukraine-war/ar-AA2cqlm5?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/politics/government/unfriendly-action-russia-blasts-us-sanctions-bill-warns-of-fallout-for-ukraine-war/ar-AA2cqlm5",
+        "image": "https://www.bing.com/th?id=ONUT.CEVVOMZ1b4lfA8ztvMFNeA",
+        "timestamp": 1789557805.0
+    },
+    {
+        "id": "31a5fcfbd6",
+        "title_fa": "بازار سهام پس از اولین افزایش نرخ فدرال",
+        "title_en": "North American Morning Briefing: Stock Futures Climb Following Selloff from Fed Rate Hike",
+        "summary": [
+            "فدرال رزرو پس از سه سال اولین بار نرخ بهره را بالا برد، باعث سقوط کوتاه‌مدت سهام شد.",
+            "آینده‌نگری‌ها نشان می‌دهد احتمال افزایش‌های دیگر وجود دارد؛ این موضوع نوسان بازار را تشدید می‌کند."
+        ],
+        "impact": "سرمایه‌گذاران به دنبال فرصت‌های کوتاه‌مدت در اوراق قرضه و نفت می‌گردند.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Morningstar",
+        "url": "https://www.morningstar.com/news/dow-jones/202609172185/north-american-morning-briefing-stock-futures-climb-following-selloff-from-fed-rate-hike",
+        "clean_url": "https://www.morningstar.com/news/dow-jones/202609172185/north-american-morning-briefing-stock-futures-climb-following-selloff-from-fed-rate-hike",
+        "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+        "timestamp": 1789557805.0
+    },
+    {
+        "id": "650d4a7683",
+        "title_fa": "جبهه جمهوری‌خواهان علیه جنگ ایران در کنگره",
+        "title_en": "More Republicans are turning on Iran war as midterms come into view",
+        "summary": [
+            "برخی جمهوری‌خواهان برای حفظ موقعیت انتخابی خود، به مخالفت با ادامه جنگ ایران پرداخته‌اند.",
+            "این اعتراض‌ها نماد نارضایتی داخلی است اما هنوز توان عملی برای تغییر سیاست ترامپ ندارند."
+        ],
+        "impact": "احتمال فشار بیشتر بر ترامپ برای کاهش حضور نظامی در ایران افزایش می‌یابد.",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/sep/16/republicans-iran-war-midterm-elections",
+        "clean_url": "https://www.theguardian.com/us-news/2026/sep/16/republicans-iran-war-midterm-elections",
+        "image": "https://i.guim.co.uk/img/media/9115fc44904b0e0d4405c9c88717c6dc1404ce4b/599_0_6002_4800/master/6002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b0356595e25f328f50e95b436459f5d",
+        "timestamp": 1789557660.0
     },
     {
         "id": "b6dcbac573",
@@ -5350,94 +5439,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/2-iowa-gop-reps-in-tight-races-back-iran-war-limits/ar-AA2cmXOU",
         "image": "https://www.bing.com/th?id=ONUT.MftKtDAsugM9fa3ANrq5wA",
         "timestamp": 1789504577.0
-    },
-    {
-        "id": "9928402dca",
-        "title_fa": "ترامپ مذاکرات پایان جنگ با ایران را می‌پذیرد",
-        "title_en": "Iran war live: Saudi Arabia says it shot down drone near Mecca",
-        "summary": [
-            "سعودی‌ها پهپاد نزدیک مکه را سرنگون کردند؛ نشانگر تشدید تنش‌های منطقه‌ای است",
-            "ترامپ اعلام کرد آماده مذاکرات برای پایان جنگ با ایران است، اما فشارهای داخلی را نادیده نمی‌گیرد"
-        ],
-        "impact": "افزایش فشار دیپلماتیک بر ایران و احتمال تغییر مسیر دیپلماسی منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-live-saudi-arabia-says-it-shot-down-drone-near-mecca/ar-AA2ceLKA",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-saudi-arabia-says-it-shot-down-drone-near-mecca/ar-AA2ceLKA",
-        "image": "http://www.bing.com/th?id=ONUT.Q3ivbKDoddQPptkrem0DNw&pid=News",
-        "timestamp": 1789504517.0
-    },
-    {
-        "id": "8ccd4f923f",
-        "title_fa": "خبر بین‌المللی — ‘Now It All Makes Sense’: ترامپ’s Frequent Makeovers Fuel Wi",
-        "title_en": "‘Now It All Makes Sense’: Trump’s Frequent Makeovers Fuel Wild Theories — Then One Brutal Take Hits Below the Belt",
-        "summary": [
-            "Whether building a real estate empire or serving as America’s head of state, President Donald Trump has long presented his blond combover as part of his..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Atlanta Black Star",
-        "url": "https://atlantablackstar.com/2026/09/16/trumps-frequent-makeovers-fuel-wild-theories-about-his-looks/",
-        "clean_url": "https://atlantablackstar.com/2026/09/16/trumps-frequent-makeovers-fuel-wild-theories-about-his-looks",
-        "image": "https://atlantablackstar.com/wp-content/uploads/2026/09/Photo-by-Heather-Diehl-Getty-Images-2.webp",
-        "timestamp": 1789503849.0
-    },
-    {
-        "id": "e8b44c3bf4",
-        "title_fa": "خبر بین‌المللی — ترامپ admin planning $2.8 billion munitions sale with 40K bo",
-        "title_en": "Trump admin planning $2.8 billion munitions sale with 40K bombs shipped to Israel",
-        "summary": [
-            "The Trump administration is planning a $2.8 billion munitions sale to Israel, including 20,000 MK 84 bombs and 20,000 BLU-117..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-admin-planning-28-billion-munitions-sale-with-40k-bombs-shipped-to-israel/ar-AA2cn4WO?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-admin-planning-28-billion-munitions-sale-with-40k-bombs-shipped-to-israel/ar-AA2cn4WO",
-        "image": "https://www.bing.com/th?id=ONUT.WhfNSgL5MTRpo-elA_TLhg",
-        "timestamp": 1789503849.0
-    },
-    {
-        "id": "f9bf33f3cd",
-        "title_fa": "خبر بین‌المللی — INTERVIEW: Kallas only acts as mouthpiece برای EU’s hatred t",
-        "title_en": "INTERVIEW: Kallas only acts as mouthpiece for EU’s hatred toward Russia, diplomat says",
-        "summary": [
-            "Commenting on Kallas accusing Russia of allegedly being behind the incident with a Warsaw-bound passenger train from Kiev, Russian Foreign Ministry Spokeswoman Maria Zakharova said it was no use sayin..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2188683",
-        "clean_url": "https://tass.com/politics/2188683",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1789503849.0
-    },
-    {
-        "id": "f5183bee0d",
-        "title_fa": "تهدید هسته‌ای ایران و گزینه هسته‌ای اسرائیل",
-        "title_en": "Iran’s Nuclear Threat and Israel’s Nuclear Option: Thinking the Unthinkable",
-        "summary": [
-            "پیشرفت برنامه هسته‌ای ایران خطر مستقیم برای امنیت منطقه ایجاد کرده",
-            "اسرائیل در صورت پیشرفت ایران ممکن است به گزینه هسته‌ای فکر کند",
-            "دو سناریو خطر تشدید نظامی و بی‌ثباتی خاورمیانه را بالا می‌برند",
-            "جامعه بین‌المللی باید فشار دیپلماتیک و تحریم‌های هدفمند را تقویت کند"
-        ],
-        "impact": "افزایش تنش نظامی خاورمیانه و ریسک برخورد هسته‌ای",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Manara Magazine",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkN4azdxdExhSENGTTBVQ3VMbkkzci1kRVlOQUJ6c2l2WUpUT2NVRlVtb2phcmNZR1paMDZnVWdpU3k1MEdVUFNCYWpsZzl3dVkxcHRqVk1sNUVoYUxhb213azZCSVVjRTljRkpUc0pfdHh5RW55TjdQOXRUYWZZMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkN4azdxdExhSENGTTBVQ3VMbkkzci1kRVlOQUJ6c2l2WUpUT2NVRlVtb2phcmNZR1paMDZnVWdpU3k1MEdVUFNCYWpsZzl3dVkxcHRqVk1sNUVoYUxhb213azZCSVVjRTljRkpUc0pfdHh5RW55TjdQOXRUYWZZMw",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789503459.0
     }
 ]
