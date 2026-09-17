@@ -1,5 +1,24 @@
 [
     {
+        "id": "c24c0fa6f8",
+        "title_fa": "تحریم‌های جاری بر ایران: چه وضعیتی است",
+        "title_en": "What are all the sanctions Iran is under?",
+        "summary": [
+            "ایالات متحده، اتحادیه اروپا، بریتانیا و سازمان ملل تحریم‌های همپوشانی بر صادرات نفت، بانک‌ها و برنامه هسته‌ای ایران اعمال کرده‌اند",
+            "آخرین بازنگری در سپتامبر 2025 با فعال‌سازی مکانیزم «snap‑back» تحت قطعنامه ۲۲۳۱ ام‌سی انجام شد",
+            "این تحریم‌ها دسترسی ایران به بازارهای مالی بین‌المللی را به شدت محدود می‌کند"
+        ],
+        "impact": "اقتصاد ایران تحت فشار شدید سرمایه‌گذاری و تجارت خارجی",
+        "tag": "تحریم",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabe440-1789649984.jpg?resize=770,513&quality=80",
+        "timestamp": 1789657260.0
+    },
+    {
         "id": "c085e3be83",
         "title_fa": "خبر بین‌المللی — New poll asked Americans who they trust در biggest issues..",
         "title_en": "New poll asked Americans who they trust on the biggest issues... Democrats led Republicans almost across the board",
@@ -2365,6 +2384,63 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-retreat-supply-153920479.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/9e9a4609211d2a5ea34e169b72b63b2d.jpg",
         "timestamp": 1789572141.0
+    },
+    {
+        "id": "f9bbecb4b8",
+        "title_fa": "روسیه موشک‌بار کی‌وی و شهرهای اوکراین",
+        "title_en": "Russia strikes Kyiv and other Ukrainian cities, Poland scrambles jets",
+        "summary": [
+            "روسیه شب گذشته با موشک و پهپاد به کی‌وی و شهرهای دیگر اوکراین حمله کرد",
+            "نیروی هوایی ناتو در مرز لهستان هواپیماهای جنگی فرستاد تا تهدید را مهار کند",
+            "تلفات غیرنظامی گزارش نشده اما خسارات زیرساختی قابل توجه است"
+        ],
+        "impact": "تشدید تنش‌های شرق‑اروپایی و احتمال واکنش نظامی ناتو",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-gb/politics/general/russia-strikes-kyiv-and-other-ukrainian-cities-poland-scrambles-jets/ar-AA2cqSre?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/politics/general/russia-strikes-kyiv-and-other-ukrainian-cities-poland-scrambles-jets/ar-AA2cqSre",
+        "image": "https://www.bing.com/th?id=ONUT.RSsFv04344CGAGJEXu8b9Q",
+        "timestamp": 1789571631.0
+    },
+    {
+        "id": "2ceec24e22",
+        "title_fa": "قطعه‌پرتوی پهپاد حوثی در طائف، کشته شد",
+        "title_en": "One killed and two injured by Houthi drone debris in Saudi Arabia's Taif",
+        "summary": [
+            "یک قطعه‌پرتوی پهپاد حوثی در شهر طائف سقوط کرد و یک نفر کشته شد",
+            "این حمله نشانگر گسترش درگیری‌های حامی ایران در خلیج است",
+            "مقامات سعودی اعلام کردند امنیت هوایی را تقویت می‌کنند"
+        ],
+        "impact": "افزایش خطر برای شهرهای سعودی و فشار بر روابط ایران‑سعودی",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The National on MSN",
+        "url": "https://www.msn.com/en-ae/news/world/one-killed-and-two-injured-by-houthi-drone-debris-in-saudi-arabias-taif/ar-AA2crrd7?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ae/news/world/one-killed-and-two-injured-by-houthi-drone-debris-in-saudi-arabias-taif/ar-AA2crrd7",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789571631.0
+    },
+    {
+        "id": "f41b0f2eec",
+        "title_fa": "ایران ۵۳مین پهپاد MQ‑9 آمریکا را سرنگون کرد",
+        "title_en": "Iran downs 53rd US MQ-9 drone since start of US-Israeli aggression",
+        "summary": [
+            "سپاه هوایی ایران ۵۳مین پهپاد MQ‑9 آمریکا را بر فراز جزیره قشم نابود کرد",
+            "این عملیات با سامانه دفاع هوایی پیشرفته‌ای که تازه به شبکه یکپارچه متصل شد، انجام شد",
+            "ایران ادعا می‌کند چند صد پهپاد دشمن از زمان شروع جنگ نابود شده‌اند"
+        ],
+        "impact": "تحکیم توان دفاع هوایی ایران و تشدید تنش هوایی با آمریکا",
+        "tag": "دفاع",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "presstv",
+        "url": "https://www.presstv.co.uk/Detail/2026/09/17/776472/Iran-downs-53rd-US-MQ-9-drone-since-start-US-Israeli-aggression",
+        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/17/776472/Iran-downs-53rd-US-MQ-9-drone-since-start-US-Israeli-aggression",
+        "image": "https://cdn.presstv.co.uk/Photo/2026/9/17/a0695bd9-d6b4-471b-9987-3343aea29d83.jpeg",
+        "timestamp": 1789571631.0
     },
     {
         "id": "fea75ab2cd",
@@ -5368,78 +5444,5 @@
         "clean_url": "https://www.yahoo.com/news/videos/fed-rate-hike-could-open-004206983.html",
         "image": "https://s.yimg.com/lo/mysterio/api/443f7c33b796565c79059b9ca79edd13064d15b3d19e8eac546c1a61d8c4f5e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.tribune.wgn.com%2F1737ed87fd6d88ed921df473dd4bc7ba.jpg",
         "timestamp": 1789523447.0
-    },
-    {
-        "id": "bf5fc3b33b",
-        "title_fa": "ترامپ تهدید به جنگ اقتصادی علیه ایران",
-        "title_en": "Trump Threatens Economic Warfare on Iran",
-        "summary": [
-            "ترامپ گفت آمریکا آماده است تمام ابزارهای مالی را برای فشار بر اقتصاد ایران به کار گیرد.",
-            "این اظهارات می‌تواند فشارهای تحریمی جدیدی را بر صادرات نفت و دسترسی به بازارهای مالی بین‌المللی ایجاد کند.",
-            "تهدید اقتصادی ممکن است ایران را به جستجوی شرکای جایگزین مانند چین و روسیه سوق دهد.",
-            "بازارهای جهانی نفت و ارز ممکن است در واکنش به این گفتار نوسان کنند."
-        ],
-        "impact": "افزایش فشار مالی بر ایران، کاهش توان خرید نفت و احتمال نوسان قیمت‌های جهانی.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Arms Control Association",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMnZYdnduaHNlSWxfeURRZ3AtcUJCM2Vld0h2RmNZMXJHbE5EbWVpNTlMME95VzUwLVB6cjNMYTJIVzVYOExUMmpGc2JOaVFjeS1UVFEzaHlwTDNGMkk4dzFKUE4zSlNDcUpEOHozVGpaNjgtRWVtTkdlOEVhakNRQnVKbE1rMjlZQnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMnZYdnduaHNlSWxfeURRZ3AtcUJCM2Vld0h2RmNZMXJHbE5EbWVpNTlMME95VzUwLVB6cjNMYTJIVzVYOExUMmpGc2JOaVFjeS1UVFEzaHlwTDNGMkk4dzFKUE4zSlNDcUpEOHozVGpaNjgtRWVtTkdlOEVhakNRQnVKbE1rMjlZQnc",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789523221.0
-    },
-    {
-        "id": "8427a10c6b",
-        "title_fa": "خبر بین‌المللی — Saudis pound Yemen as حوثی‌ها solidify gains در new theatre",
-        "title_en": "Saudis pound Yemen as Houthis solidify gains in new theatre of Middle East war",
-        "summary": [
-            "Saudi warplanes pounded Yemen, the Houthis said on Wednesday (Sept 16), as the Iran-backed fighters solidified their gains after a lightning advance that has extended Tehran's reach in the Middle East..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "AsiaOne",
-        "url": "https://www.asiaone.com/world/saudis-pound-yemen-houthis-solidify-gains-new-theatre-middle-east-war",
-        "clean_url": "https://www.asiaone.com/world/saudis-pound-yemen-houthis-solidify-gains-new-theatre-middle-east-war",
-        "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Sep2026/170926_houthiattacksaudi_reuters.jpg?itok=NRXk2LBX",
-        "timestamp": 1789522882.0
-    },
-    {
-        "id": "1a6e8f6c15",
-        "title_fa": "هومی به ترامپ واقعیت تلخ را گفت",
-        "title_en": "Fox News veteran delivers harsh reality check to Trump",
-        "summary": [
-            "هومی به وضوح نقاط ضعف سیاست‌های ترامپ را فاش کرد",
-            "هشدار داد ادامه رفتارهای تند می‌تواند فشارهای بین‌المللی را تشدید کند",
-            "این انتقاد ممکن است واکنش‌های شدیدی در میان حامیان ترامپ برانگیزد"
-        ],
-        "impact": "احتمال افزایش فشارهای سیاسی بر دولت ترامپ",
-        "tag": "ترامپ",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-au/news/other/fox-news-veteran-delivers-harsh-reality-check-to-trump/ar-AA2co2ic?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/other/fox-news-veteran-delivers-harsh-reality-check-to-trump/ar-AA2co2ic",
-        "image": "https://www.bing.com/th?id=ONUT.Pdr0p35hoc-51vXdr6zLHw",
-        "timestamp": 1789522530.0
-    },
-    {
-        "id": "86b17cb741",
-        "title_fa": "خبر بین‌المللی — ترامپ به Hold Talks در ایران With Gulf Leaders Next Week: Ax",
-        "title_en": "Trump to Hold Talks on Iran With Gulf Leaders Next Week: Axios",
-        "summary": [
-            "President Donald Trump is expected to meet Gulf leaders on the sidelines of the United Nations General Assembly in New..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Newsmax",
-        "url": "https://www.newsmax.com/world/globaltalk/trump-to-hold-talks-on-iran-with-gulf-leaders-next-week-axios/2026/09/16/id/1269702/",
-        "clean_url": "https://www.newsmax.com/world/globaltalk/trump-to-hold-talks-on-iran-with-gulf-leaders-next-week-axios/2026/09/16/id/1269702",
-        "image": "https://www.bing.com/th?id=ONUT.MgLrD25iMUZRVg5_fw7tOg",
-        "timestamp": 1789521190.0
     }
 ]
