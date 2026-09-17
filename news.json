@@ -2488,6 +2488,24 @@
         "timestamp": 1789523940.0
     },
     {
+        "id": "784d855d44",
+        "title_fa": "افزایش نرخ بهره فدرال، فرصت خریداران مسکن",
+        "title_en": "Fed rate hike could open window of opportunity for homebuyers, Chicago experts say",
+        "summary": [
+            "نرخ بهره بالاتر هزینه وام‌های خودرو، کارت‌اعتبار و وام مسکن را افزایش می‌دهد.",
+            "کارشناسان شیکاگو می‌گویند فشار بر بازار می‌تواند خریداران را به خرید سریع‌تر و استفاده از نرخ ثابت تشویق کند."
+        ],
+        "impact": "قیمت مسکن ممکن است ارتقا یابد، اما خریداران می‌توانند از تثبیت نرخ بهره بهره‌برداری کنند.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/videos/fed-rate-hike-could-open-004206983.html",
+        "clean_url": "https://www.yahoo.com/news/videos/fed-rate-hike-could-open-004206983.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/443f7c33b796565c79059b9ca79edd13064d15b3d19e8eac546c1a61d8c4f5e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.tribune.wgn.com%2F1737ed87fd6d88ed921df473dd4bc7ba.jpg",
+        "timestamp": 1789523447.0
+    },
+    {
         "id": "bf5fc3b33b",
         "title_fa": "ترامپ تهدید به جنگ اقتصادی علیه ایران",
         "title_en": "Trump Threatens Economic Warfare on Iran",
@@ -5388,24 +5406,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/netanyahu-lets-journalists-blame-him-for-oct-7-iran-kills-citizens-for-honking-horns-guess-who-progressives-back/ar-AA2cgcKa",
         "image": "https://www.bing.com/th?id=ONUT.LpPRxtz7LSCPRk8tNAMcoQ",
         "timestamp": 1789477587.1820877
-    },
-    {
-        "id": "a43f959ec9",
-        "title_fa": "آمریکا کشتی‌های ایرانی را برای درگیری با پهپاد هدف گرفت",
-        "title_en": "Scoop: U.S. attacked Iranian boats trying to seize Navy drone",
-        "summary": [
-            "نیروی دریایی آمریکا کشتی‌های ایرانی را که سعی در تصرف پهپاد نظامی داشتند، مورد حمله قرار داد",
-            "این اقدام خطر تشدید مستقیم درگیری‌های دریایی خلیج فارس را بالا برد",
-            "ایران ممکن است پاسخی نظامی یا نیابتی به این حمله بدهد"
-        ],
-        "impact": "تنش‌های نظامی منطقه تشدید می‌شود؛ احتمال واکنش تدارکاتی یا نیابتی از سوی ایران بالا است",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLVZubFlnN2hCMlQ0WkFLWHVCTXlwbVpIUjRNNEt3blp2WGFDT1d5THl1QU1yc1diS1RwT29WeEJjMlFlalBpZlRhQmw2VUJhYmhjREVkT0JNTmVmWk91U2FpQUVHSlJrb25fbllGWEdBSFVvVmhERkZjOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLVZubFlnN2hCMlQ0WkFLWHVCTXlwbVpIUjRNNEt3blp2WGFDT1d5THl1QU1yc1diS1RwT29WeEJjMlFlalBpZlRhQmw2VUJhYmhjREVkT0JNTmVmWk91U2FpQUVHSlJrb25fbllGWEdBSFVvVmhERkZjOA",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789477196.0
     }
 ]
