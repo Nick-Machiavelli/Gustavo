@@ -2401,6 +2401,44 @@
         "timestamp": 1789598945.3697128
     },
     {
+        "id": "f0797381f4",
+        "title_fa": "قیمت سوخت بالا، هزینه‌ای برای جنگ ایران",
+        "title_en": "Trump says higher fuel prices are a small price to pay for the war in Iran",
+        "summary": [
+            "ترامپ اعلام کرد افزایش قیمت گاز و دیزل هزینه‌ای جزئی برای جنگ با ایران است.",
+            "قیمت دیزل به نزدیک ۶٫۴۰ دلار و بنزین به بیش از ۴٫۴۰ دلار رسیده؛ رکورد تاریخی در آمریکا.",
+            "ترامپ ادعا کرد تهدید هسته‌ای ایران توجیه‌کننده این هزینه‌هاست."
+        ],
+        "impact": "افزایش هزینه‌های زندگی در آمریکا فشار داخلی می‌آورد و حمایت عمومی از جنگ را تضعیف می‌کند",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.55,
+        "source": "WTAP",
+        "url": "https://www.wtap.com/2026/09/17/trump-says-higher-fuel-prices-are-small-price-pay-war-iran/",
+        "clean_url": "https://www.wtap.com/2026/09/17/trump-says-higher-fuel-prices-are-small-price-pay-war-iran",
+        "image": "https://gray-wtap-prod.gtv-cdn.com/resizer/v2/U3XYRLLZ2JHALFUHEFMVRE23IY.jpg?auth=00897c40641119e01af00b588a414acf2354976f70d97fd3aad5d37e9147d5da&width=1200&height=600&smart=true",
+        "timestamp": 1789597968.0
+    },
+    {
+        "id": "3530f6b4c0",
+        "title_fa": "ایالات متحده حضور رئیس‌جمهور ایران در مجمع عمومی را می‌پذیرد",
+        "title_en": "US to let Iranian president attend UN General Assembly after barring PA leader",
+        "summary": [
+            "آمریکا تصمیم گرفت نماینده ایران در مجمع عمومی سازمان ملل حضور یابد، در حالی که رهبر فلسطین را مسدود کرد.",
+            "این حرکت در کنار مخالفت اسرائیل با حضور محمود عباس است؛ اما با اکثریت آرا تصویب شد.",
+            "محدودیت خرید کالاهای لوکس برای نمایندگان ایرانی همچنان پابرجاست."
+        ],
+        "impact": "حضور ایران در مجمع عمومی می‌تواند فرصتی برای بیان موضع کشور در برابر تحریم‌ها فراهم کند",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Times of Israel on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-to-let-iranian-president-attend-un-general-assembly-after-barring-pa-leader/ar-AA2csHke?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-to-let-iranian-president-attend-un-general-assembly-after-barring-pa-leader/ar-AA2csHke",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789597968.0
+    },
+    {
         "id": "e9cb0910f1",
         "title_fa": "تصویب لایحه تحریم روسیه توسط مجلس آمریکا",
         "title_en": "House passes Russia sanctions bill named for Lindsey Graham, sending it to Trump",
@@ -3933,6 +3971,25 @@
         "timestamp": 1789578158.0
     },
     {
+        "id": "332360ae42",
+        "title_fa": "ترامپ به نابودی ایران اشاره کرد",
+        "title_en": "Iran war live: Trump mulls Tehran’s ‘annihilation’ as combat roils Yemen",
+        "summary": [
+            "ترامپ در گفت‌وگوهای زنده گفت ایران باید «نابود» شود؛ پیام واضح فشار نظامی.",
+            "خبر می‌گوید ایالات متحده پشت حمله مرگبار به مدرسه میناب در فوریه بوده.",
+            "اگر این ادعاها صحت داشته باشند، خطر تشدید مستقیم جنگ در خاورمیانه بالا می‌رود."
+        ],
+        "impact": "افزایش تنش نظامی می‌تواند عملیات هوایی گسترده علیه زیرساخت‌های ایران را به دنبال داشته باشد",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2295602609-1-1789642509.jpg?resize=1200%2C630",
+        "timestamp": 1789578000.0
+    },
+    {
         "id": "eed76d7369",
         "title_fa": "ترامپ با رهبران خلیج فارس درباره جنگ ایران مذاکره می‌کند",
         "title_en": "اکسیوس: ترامپ با رهبران کشورهای خلیج فارس درباره جنگ با حکومت ایران گفت‌وگو می‌کند",
@@ -5360,58 +5417,5 @@
         "clean_url": "https://www.timesnownews.com/world/world-leaders-wish-pm-modi-on-76th-birthday-putin-hails-india-russia-ties-trump-sends-greetings-article-156175038",
         "image": "https://www.bing.com/th?id=ONUT.8aVY8vCT2bTrpLqVuLIvRg",
         "timestamp": 1789561036.0
-    },
-    {
-        "id": "90440f29cc",
-        "title_fa": "خبر بین‌المللی — UN-backed experts find US may have committed جنگ crimes در ا",
-        "title_en": "UN-backed experts find US may have committed war crimes in Iran, and other Mideast developments",
-        "summary": [
-            "United Nations-backed human rights experts said on Thursday there are “reasonable grounds” to believe the United States..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "WIVB News 4",
-        "url": "https://www.wivb.com/news/world/ap-un-backed-experts-find-us-may-have-committed-war-crimes-in-iran-and-other-mideast-developments/",
-        "clean_url": "https://www.wivb.com/news/world/ap-un-backed-experts-find-us-may-have-committed-war-crimes-in-iran-and-other-mideast-developments",
-        "image": "https://www.bing.com/th?id=ONUT.dwnAaC_hKegu8j6YL9UEDw",
-        "timestamp": 1789561036.0
-    },
-    {
-        "id": "31103f8673",
-        "title_fa": "خبر بین‌المللی — Breaking news LIVE updates: 'Nobody خواهد dictate our deals,",
-        "title_en": "Breaking news LIVE updates: 'Nobody will dictate our deals,' Canada's PM Carney pushes back on Trump",
-        "summary": [
-            "US President Donald Trump on Thursday said the war in Iran may be nearing its end, reiterating his claim that Tehran “wants..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/news/newsblogs/trump-iran-us-war-middle-east-tensions-india-tariffs-russia-oil-pm-modi-birthday-congress-bjp-pakistan-tensions-naval-ship-collide/liveblog/134299700.cms",
-        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/trump-iran-us-war-middle-east-tensions-india-tariffs-russia-oil-pm-modi-birthday-congress-bjp-pakistan-tensions-naval-ship-collide/liveblog/134299700.cms",
-        "image": "https://www.bing.com/th?id=ONUT.Qn6fLk3lFG7XR_MBr_3BEQ",
-        "timestamp": 1789561036.0
-    },
-    {
-        "id": "40fe20d46a",
-        "title_fa": "ایران تحت فشار، اما در آستانه فروپاشی نیست",
-        "title_en": "Iran Is Battered, but Not on the Brink of Collapse",
-        "summary": [
-            "تحریم‌های جدید و تورم بالا اقتصاد ایران را به شدت تحت فشار گذاشته‌اند",
-            "با این‌حال زیرساخت‌های پایه‌ای و توان تولید داخلی مانع سقوط کامل می‌شوند",
-            "نظام سیاسی توانسته با ترکیب سرکوب اعتراضات و سیاست‌های حمایتی جزئی، ثبات نسبی حفظ کند"
-        ],
-        "impact": "تحریم‌های سنگین اقتصاد ایران را خفه می‌کند اما نظام داخلی توان مقاومت دارد",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Middle East Council on Global Affairs",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0ZScTZGUnJCcHNFdHdmalVBWlpvMlVFRVlhT1hOa0kzaDRRUzYycS1ncDhYVWpvd3o1V0d6VFF5ZmNpWERkWU9RcVdBelhXaElXekt5NHA2dDJ0MHZoX0k2UGlRSndfUGhVYXZyRUM4Q3NFT2N5T2ZKZ0M5eERaejJ4bzFzeU9ON2tv?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0ZScTZGUnJCcHNFdHdmalVBWlpvMlVFRVlhT1hOa0kzaDRRUzYycS1ncDhYVWpvd3o1V0d6VFF5ZmNpWERkWU9RcVdBelhXaElXekt5NHA2dDJ0MHZoX0k2UGlRSndfUGhVYXZyRUM4Q3NFT2N5T2ZKZ0M5eERaejJ4bzFzeU9ON2tv",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789560916.0
     }
 ]
