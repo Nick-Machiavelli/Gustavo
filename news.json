@@ -1,5 +1,42 @@
 [
     {
+        "id": "51b70d380d",
+        "title_fa": "ترامپ با حوثی‌ها و خلیج برای پایان جنگ ایران",
+        "title_en": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
+        "summary": [
+            "ترامپ تصمیم گرفت بدون مداخله نظامی در یمن، مذاکرات با حوثی‌ها را آغاز کند.",
+            "این مذاکرات همزمان با برنامه‌ریزی برای ملاقات با رهبران خلیج در نیویورک، نشان از طرح «پس از جنگ» در منطقه دارد.",
+            "ادعای پایان زودهنگام جنگ توسط ترامپ شاید بیش از حد خوش‌بینانه باشد و ریسک تشدید تنش با ایران را به همراه دارد."
+        ],
+        "impact": "اگر مذاکرات پیشرفت کند، می‌تواند فشار نظامی بر ایران را کاهش دهد؛ اما عدم پیشرفت می‌تواند بحران خلیج را تشدید کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/US-and-Houthis-Open-Talks-as-Saudi-Oil-Crisis-Deepens.html",
+        "clean_url": "https://oilprice.com/Geopolitics/Middle-East/US-and-Houthis-Open-Talks-as-Saudi-Oil-Crisis-Deepens.html",
+        "image": "https://www.bing.com/th?id=ONUT._gTqAb7CK2HWttKMIp3o-w",
+        "timestamp": 1789677332.6572316
+    },
+    {
+        "id": "21698d1bd2",
+        "title_fa": "سخنرانی برکس 2026؛ آیا هند به سمت عدم‌ترازبندی می‌رود؟",
+        "title_en": "Does the BRICS summit signify a shift for Indian foreign policy?",
+        "summary": [
+            "اعلامیه نیویورک 2026 با حمایت از اصلاحات سازمان ملل، مکانیزم پرداخت برکس و مخالفت با تحریم‌های غربی، نشان‌دهنده ادامه سیاست استقلال استراتژیک هند است.",
+            "تقویت روابط هند با روسیه، چین و ایران می‌تواند تعادل منطقه‌ای را تغییر داده و فشار بر ایالات متحده را افزایش دهد."
+        ],
+        "impact": "تقویت موقعیت هند در میان قدرت‌های نوظهور، امکان ایجاد ائتلاف‌های اقتصادی جدید و چالش برای سیاست‌های غرب.",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/opinion/op-ed/does-the-brics-summit-signify-a-shift-for-indian-foreign-policy/article71477942.ece",
+        "clean_url": "https://www.thehindu.com/opinion/op-ed/does-the-brics-summit-signify-a-shift-for-indian-foreign-policy/article71477942.ece",
+        "image": "https://www.bing.com/th?id=ONUT.-aUNXRQtJpB3AooM0FfL5Q",
+        "timestamp": 1789677332.6568775
+    },
+    {
         "id": "e97dd18d2d",
         "title_fa": "خبر بین‌المللی — Killer AI Is Already Here. We’re Using It در ایران.",
         "title_en": "Killer AI Is Already Here. We’re Using It in Iran.",
@@ -35,6 +72,24 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/now-or-never-the-fragile-path-to-lebanon-normalization/ar-AA2cs1Wu",
         "image": "https://www.bing.com/th?id=ORMS.f239a2e40311576ba2fb974fc276cf33",
         "timestamp": 1789676061.8291311
+    },
+    {
+        "id": "ff035a030d",
+        "title_fa": "قانون تحریم روسیه تصویب شد؛ امید به فشار بر مسکو",
+        "title_en": "Russia sanctions cheers, Democrat tariff fears",
+        "summary": [
+            "مجلس آمریکا قانون گسترده تحریم روسیه را تصویب کرد و اوکراین و اروپا از آن استقبال کردند.",
+            "این ابزار می‌تواند فشار دیپلماتیک و اقتصادی بر مسکو را افزایش دهد، اما اثرش به تصمیم‌گیری‌های واشنگتن وابسته است."
+        ],
+        "impact": "تحریم‌های جدید می‌تواند اقتصاد روسیه را تحت فشار قرار داده و روابط تجاری غرب‑روسیه را تنگ کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Politico",
+        "url": "https://www.politico.com/newsletters/national-security-daily/2026/09/17/russia-sanctions-cheers-democrat-tariff-fears-01082853",
+        "clean_url": "https://www.politico.com/newsletters/national-security-daily/2026/09/17/russia-sanctions-cheers-democrat-tariff-fears-01082853",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789675740.0
     },
     {
         "id": "da13153aec",
@@ -5368,61 +5423,5 @@
         "clean_url": "https://www.middleeastmonitor.com/20260916-bombing-iran-can-destroy-targets-not-political-memory",
         "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/09/AA-20260915-42474558-42474555-USISRAELI_AIR_STRIKES_HIT_FISHING_PIER_AND_RESIDENTIAL_HOME_IN_IRANS_QESHM_ISLAND-1.jpg?fit=920%2C613&ssl=1",
         "timestamp": 1789554333.6314607
-    },
-    {
-        "id": "3bc4962019",
-        "title_fa": "خبر بین‌المللی — Opinion: Why hopes برای رژیم collapse در ایران are misguided",
-        "title_en": "Opinion: Why hopes for regime collapse in Iran are misguided",
-        "summary": [
-            "Governments do not collapse simply because they are unpopular. They collapse when the institutions responsible for defending them stand down, fracture or lose the ability to act. So far, the Islamic..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "National Post",
-        "url": "https://nationalpost.com/opinion/why-hopes-for-regime-collapse-in-iran-are-misguided",
-        "clean_url": "https://nationalpost.com/opinion/why-hopes-for-regime-collapse-in-iran-are-misguided",
-        "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/09/2294740824.jpg",
-        "timestamp": 1789554330.4736264
-    },
-    {
-        "id": "cc225891d2",
-        "title_fa": "برکس دیلی: هند تعادل میان آمریکا و روسیه",
-        "title_en": "OPINION | BRICS Summit in Delhi: India’s high-wire act",
-        "summary": [
-            "اجلاس ۱۸ام برکس در دهلی نشان داد هند می‌خواهد نقش میان‌غربی خود حفظ کند",
-            "گروه گسترش یافته به چالش‌های بیشتری علیه نظام‌نامهٔ آمریکا‑جهانی برخورد کرد",
-            "هند مانع تبدیل برکس به ائتلاف ضد‑آمریکایی شد"
-        ],
-        "impact": "تقویت موقعیت هند در مذاکرات اقتصادی جهانی",
-        "tag": "برکس",
-        "urgency": 2,
-        "sentiment": 0,
-        "source": "The Week",
-        "url": "https://www.theweek.in/news/defence/2026/09/16/opinion-brics-summit-in-delhi-indias-high-wire-act.html",
-        "clean_url": "https://www.theweek.in/news/defence/2026/09/16/opinion-brics-summit-in-delhi-indias-high-wire-act.html",
-        "image": "https://www.bing.com/th?id=ONUT.F-oEIcXPUdugx5N7KrF3Gw",
-        "timestamp": 1789553653.8160632
-    },
-    {
-        "id": "5aaef0df14",
-        "title_fa": "ایالات متحده 60 هزار بمب به اسرائیل می‌فرستد",
-        "title_en": "US to send Israel 60,000 huge bombs despite concerns over civilian deaths",
-        "summary": [
-            "دولت آمریکا 60 000 بمب یک‌تن‌وزن به ارزش ۲٫۸ میلیارد دلار به اسرائیل می‌فرستد",
-            "این بزرگ‌ترین فروش سلاح به اسرائیل است و توان هوایی آن را تقویت می‌کند",
-            "استفاده گسترده این بمب‌ها در غزه نگرانی‌های بین‌المللی درباره تلفات غیرنظامی را تشدید می‌کند",
-            "مخالفان در واشنگتن صدای اعتراض به این معامله را بلند کرده‌اند"
-        ],
-        "impact": "توان نظامی هوایی اسرائیل تقویت می‌شود و فشار بین‌المللی بر آمریکا برای محدود کردن فروش سلاح افزایش می‌یابد",
-        "tag": "سلاح",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/us-to-send-israel-60-000-huge-bombs-despite-concerns-over-civilian-deaths-article-14031932.html",
-        "clean_url": "https://www.moneycontrol.com/world/us-to-send-israel-60-000-huge-bombs-despite-concerns-over-civilian-deaths-article-14031932.html",
-        "image": "https://www.bing.com/th?id=ONUT.VhQC4c2akU1OtawYBo5cHA",
-        "timestamp": 1789553001.0
     }
 ]
