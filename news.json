@@ -1,5 +1,24 @@
 [
     {
+        "id": "795d17b04c",
+        "title_fa": "چریستین فلاور دربارهٔ 9/11 سخن گفت",
+        "title_en": "Christine Flowers",
+        "summary": [
+            "او تأکید کرد همهٔ افراد زنده در زمان حمله، قربانیان غیرمستقیم هستند",
+            "بیان او نشان می‌دهد خاطرهٔ 9/11 همچنان در جامعهٔ آمریکایی زنده است",
+            "دعوت کرد که همبستگی ملی را در برابر ترس تقویت کنیم"
+        ],
+        "impact": "تقویت همبستگی عمومی و یادآوری اهمیت امنیت داخلی",
+        "tag": "9/11",
+        "urgency": 1,
+        "sentiment": 0.6,
+        "source": "Crescent-News",
+        "url": "https://www.crescent-news.com/opinion/opinion_columnists/christine-flowers---how-9-11-changed-americans-alive-at-the-time/article_a4e0b4a4-f124-46ed-acbc-6b58ea3a071b.html",
+        "clean_url": "https://www.crescent-news.com/opinion/opinion_columnists/christine-flowers---how-9-11-changed-americans-alive-at-the-time/article_a4e0b4a4-f124-46ed-acbc-6b58ea3a071b.html",
+        "image": "https://www.bing.com/th?id=ONUT.mjJTdGMbFrWT6IZm4k1O6g",
+        "timestamp": 1789608940.3306253
+    },
+    {
         "id": "9dbe92b2e0",
         "title_fa": "خبر بین‌المللی — Pacific-based Marines were thrust into ایران conflict. Here",
         "title_en": "Pacific-based Marines were thrust into the Iran conflict. Here's what they learned",
@@ -2470,6 +2489,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMnZYdnduaHNlSWxfeURRZ3AtcUJCM2Vld0h2RmNZMXJHbE5EbWVpNTlMME95VzUwLVB6cjNMYTJIVzVYOExUMmpGc2JOaVFjeS1UVFEzaHlwTDNGMkk4dzFKUE4zSlNDcUpEOHozVGpaNjgtRWVtTkdlOEVhakNRQnVKbE1rMjlZQnc",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789523221.0
+    },
+    {
+        "id": "1a6e8f6c15",
+        "title_fa": "هومی به ترامپ واقعیت تلخ را گفت",
+        "title_en": "Fox News veteran delivers harsh reality check to Trump",
+        "summary": [
+            "هومی به وضوح نقاط ضعف سیاست‌های ترامپ را فاش کرد",
+            "هشدار داد ادامه رفتارهای تند می‌تواند فشارهای بین‌المللی را تشدید کند",
+            "این انتقاد ممکن است واکنش‌های شدیدی در میان حامیان ترامپ برانگیزد"
+        ],
+        "impact": "احتمال افزایش فشارهای سیاسی بر دولت ترامپ",
+        "tag": "ترامپ",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-au/news/other/fox-news-veteran-delivers-harsh-reality-check-to-trump/ar-AA2co2ic?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-au/news/other/fox-news-veteran-delivers-harsh-reality-check-to-trump/ar-AA2co2ic",
+        "image": "https://www.bing.com/th?id=ONUT.Pdr0p35hoc-51vXdr6zLHw",
+        "timestamp": 1789522530.0
     },
     {
         "id": "86b17cb741",
@@ -5371,39 +5409,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZZkdzb3RPQ2FtanhOUEZ1eTBzbUNrai1weFNVVzFtU0dGY0Rtb2ZFN01feW9LZV9VbUlGbjVkT2I4VGprRGpibTZjYThWamRNN3c",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789476871.0
-    },
-    {
-        "id": "8450003d8f",
-        "title_fa": "خبر بین‌المللی — UN peacekeepers’ future در Lebanon uncertain amid stalled اس",
-        "title_en": "UN peacekeepers’ future in Lebanon uncertain amid stalled Israel-Hezbollah plans",
-        "summary": [
-            "UN peacekeepers' future in Lebanon is uncertain as Israeli troop withdrawal plans stall. Withdrawal by December 31 at 13.5% YES."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/un-peacekeepers-future-in-lebanon-uncertain-amid-stalled-israel-hezbollah-plans/",
-        "clean_url": "https://cryptobriefing.com/un-peacekeepers-future-in-lebanon-uncertain-amid-stalled-israel-hezbollah-plans",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/16074623/cb-card-geo-92-800x420.png",
-        "timestamp": 1789476339.0
-    },
-    {
-        "id": "cc9e6a6a46",
-        "title_fa": "خبر بین‌المللی — Farmers slam ترامپ over record diesel prices: \"We can't surv",
-        "title_en": "Farmers slam Trump over record diesel prices: \"We can't survive\"",
-        "summary": [
-            "Diesel continues to rise further above $6 per gallon, leaving crop farmers struggling at the peak of harvest season."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Newsweek on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/farmers-slam-trump-over-record-diesel-prices-we-can-t-survive/ar-AA2ckY2a?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/farmers-slam-trump-over-record-diesel-prices-we-can-t-survive/ar-AA2ckY2a",
-        "image": "https://www.bing.com/th?id=ONUT.gvJLbrRMXf4DAu-GwMZ-PQ",
-        "timestamp": 1789476339.0
     }
 ]
