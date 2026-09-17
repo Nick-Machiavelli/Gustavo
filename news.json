@@ -665,6 +665,24 @@
         "timestamp": 1789578173.0
     },
     {
+        "id": "eed76d7369",
+        "title_fa": "ترامپ با رهبران خلیج فارس درباره جنگ ایران مذاکره می‌کند",
+        "title_en": "اکسیوس: ترامپ با رهبران کشورهای خلیج فارس درباره جنگ با حکومت ایران گفت‌وگو می‌کند",
+        "summary": [
+            "ترامپ قصد دارد در حاشیه مجمع عمومی ملل با کشورهای حاشیه خلیج فارس درباره گام‌های بعدی در جنگ با ایران گفتگو کند",
+            "این دیدار می‌تواند فشار نظامی و تحریمی آمریکا را علیه تهران تشدید کند و ریسک درگیری منطقه‌ای را بالا ببرد"
+        ],
+        "impact": "افزایش تنش‌های سیاسی و احتمال اعمال تحریم‌های جدید علیه ایران",
+        "tag": "سیاست خارجی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609176658",
+        "clean_url": "https://www.iranintl.com/202609176658",
+        "image": "http://www.bing.com/th?id=ONUT.9xvRDGgbaaF5rZnSg51DvA&pid=News",
+        "timestamp": 1789578000.0
+    },
+    {
         "id": "c1741134be",
         "title_fa": "جو اسکاربورو پیتر هگست را با لقب جدید خنداند",
         "title_en": "MS Now Host Humiliates Pentagon Pete With Brutal New Nickname",
@@ -2451,6 +2469,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkxVbTZwTHBPc3ZaTFhWcTduWVZ0U2hjQ3hHek8yQkVhazl5dXdCS1p6WGJnb0JnclJlU0d0MkJ4OHJIc3dOWVZIR3dTZWRma2taSGlsVDYzT0xqaElvZ29EMzlYcC15SEYwMXlFMF84TkRMVE84MW16c3JnWVM3WlpHVHZVXzJtVlVUZ1M2enpOQ0NvdXd6RHVWUzdITE1Sc2xQVlF4cWNINFZMMTNYQURnT0rSAboBQVVfeXFMUDBUU2RHREliYVljZjNCU3FVcW1md212MF9hV0xOVGdhYXU5blB3OUlJUFNKSVpQVFBTS0p4am4tUkhvamVERjctZzZfdlJzZFJ5TkZ0LW16SkFKX2NzQURfd3RpUDBEbUptbHpIYUJiNVo1MGRkX1hyTm5VRW1vOEQ3OFc1UDFmdnM3M09EYWdwWFdkWkVhSk1GX2hwMGMzc0dvM3pjd3ZJRzZSREJhZUdmeFRORTFZWXp3",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789520242.0
+    },
+    {
+        "id": "a7704a9290",
+        "title_fa": "اقتصاد نیوزیلند در سه ماهه دوم ۰٫۲٪ رشد کرد",
+        "title_en": "New Zealand economy grows by 0.2% in June quarter",
+        "summary": [
+            "نزدیک به ۰٫۲٪ رشد در ژوئن‑سپتامبر نشان می‌دهد اقتصاد نیوزیلند از اثرات جنگ خاورمیانه عبور کرده است",
+            "اگرچه رشد محدود است و ریسک‌های خارجی می‌تواند مسیر بهبود را دچار تزلزل کند"
+        ],
+        "impact": "رشد ملایم به‌دست آمده، اما نگرانی از سرکوب رشد در ماه‌های آینده",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "RNZ on MSN",
+        "url": "https://www.msn.com/en-nz/news/national/new-zealand-economy-grows-by-02-in-june-quarter/ar-AA2cnsSP?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-nz/news/national/new-zealand-economy-grows-by-02-in-june-quarter/ar-AA2cnsSP",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789520240.0
     },
     {
         "id": "755673610c",
@@ -5369,40 +5405,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-could-cost-2-billion-per-month-congressional-budget-office-estimates/ar-AA2chI7t",
         "image": "http://www.bing.com/th?id=ONUT.rienERuXX4piRKrVLnTO6w&pid=News",
         "timestamp": 1789476240.0
-    },
-    {
-        "id": "0672780814",
-        "title_fa": "تراپ برای میانه‌دوره ۱۳۸ میلیون دلار هزینه می‌کند",
-        "title_en": "Trump plans blitz of $138 million and counting to save midterm Republicans",
-        "summary": [
-            "سوپر‑PAC جدید MAGA Inc. بیش از ۹۵ میلیون دلار تبلیغ خرید کرده تا کاندیداهای کلیدی را نجات دهد",
-            "این هزینه نشان می‌دهد تراپ هنوز توان مالی برای تأثیرگذاری بر نتایج انتخابات دارد"
-        ],
-        "impact": "سرمایه‌گذاری سنگین می‌تواند تعادل کنگره را به نفع جمهوری‌خواهان تغییر دهد",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "The Philadelphia Inquirer",
-        "url": "https://www.inquirer.com/politics/nation/trump-midterm-spending-republicans-20260916.html",
-        "clean_url": "https://www.inquirer.com/politics/nation/trump-midterm-spending-republicans-20260916.html",
-        "image": "https://www.bing.com/th?id=ONUT.HcpGMXmzE-itQAhKvCNelA",
-        "timestamp": 1789475377.0
-    },
-    {
-        "id": "b79840557a",
-        "title_fa": "خبر بین‌المللی — Oil Prices Extend Gains در Concern Over Potential US-ایران C",
-        "title_en": "Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict",
-        "summary": [
-            "Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict EnergyNow.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzBObHh2Z18wYkFCdldzRnJ1RzBJWHpRVmg4eUQyR25LckFMWjRjdE1RYUU0akdWemVnR1JjUE1ESC1VYmo0QUhFTmhvYTJPbVlieFMxSUowUzN6QVYtYXFET3NMNzRNa3h2NmRvMl9Ed0libEJJdlNWTVI0d3ZvQjdORnUtTFRwYUJFX0VnMEV4MjBzdlRqWlR6d1VLUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzBObHh2Z18wYkFCdldzRnJ1RzBJWHpRVmg4eUQyR25LckFMWjRjdE1RYUU0akdWemVnR1JjUE1ESC1VYmo0QUhFTmhvYTJPbVlieFMxSUowUzN6QVYtYXFET3NMNzRNa3h2NmRvMl9Ed0libEJJdlNWTVI0d3ZvQjdORnUtTFRwYUJFX0VnMEV4MjBzdlRqWlR6d1VLUQ",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789475364.0
     }
 ]
