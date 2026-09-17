@@ -1,5 +1,24 @@
 [
     {
+        "id": "bd283729bc",
+        "title_fa": "مایک جانسون ادعای ترامپ درباره هرمز را رد کرد",
+        "title_en": "Mike Johnson accidentally wrecks Trump’s claim about Strait of Hormuz",
+        "summary": [
+            "مایک جانسون در یک تجمع سیاسی، ادعای ترامپ مبنی بر بازگشایی مجدد تنگه هرمز را رد کرد",
+            "این رد نشان می‌دهد که رهبری جمهوری‌خواه هنوز از ادعای ترامپ حمایت نمی‌کند",
+            "تنگه هرمز همچنان تحت کنترل نیروی دریایی آمریکا است و هیچ تغییر عملی در وضعیت وجود ندارد"
+        ],
+        "impact": "رد ادعای ترامپ، تصویر نادرست او درباره هرمز را در میان حامیان تضعیف می‌کند",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The New Republic on MSN",
+        "url": "https://www.msn.com/en-us/news/other/mike-johnson-accidentally-wrecks-trump-s-claim-about-strait-of-hormuz/ar-AA2crrAa?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/mike-johnson-accidentally-wrecks-trump-s-claim-about-strait-of-hormuz/ar-AA2crrAa",
+        "image": "https://www.bing.com/th?id=ONUT._eJ-MKxlBZv93qr2OLNX4Q",
+        "timestamp": 1789661024.1464033
+    },
+    {
         "id": "aff996b6e4",
         "title_fa": "اودونل: چرا ترامپ نمی‌تواند جنگ ایران را پایان دهد",
         "title_en": "Lawrence O’Donnell Says This Is Why Trump Can’t End Iran War",
@@ -2312,6 +2331,65 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tWmgwQ3dpdjNQeWVjRDdIdEcwZE84QVZVendOcWZvNlVQbzMybkNFckVSTGtrajhkNHBtYzZ3b2hQU3hWRXJoc3lEOUZhNkx1UUdEMVpmcE1odV91Tkc5VTBTYXY4MndJeEE",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789574951.0
+    },
+    {
+        "id": "fe174bad16",
+        "title_fa": "حملات حوثی، نقش نظامی پاکستان در عربستان زیر سوال",
+        "title_en": "Houthi strikes pose questions over Pakistan's military role in Saudi Arabia",
+        "summary": [
+            "حوثی‌ها در دو هفته گذشته به شهرهای جنوبی عربستان موشک و پهپاد فرستادند",
+            "پاکستان به عنوان شریک نظامی عربستان، هنوز نیروی خود را به‌صورت عملی نشان نداده",
+            "شکاف بین پیمان‌های دفاعی و واکنش واقعی، اعتبار پاکستان را در منطقه به خطر انداخته",
+            "اگر این روند ادامه یابد، عربستان ممکن است گزینه‌های دیگر برای امنیت خود جستجو کند"
+        ],
+        "impact": "عدم واکنش پاکستان، اعتماد عربستان به پیمان‌های دفاعی را کاهش می‌دهد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/houthi-attacks-saudi-arabia-oil-supply-bab-al-mandeb-defence-pacts-pakistan-2997097-2026-09-17",
+        "clean_url": "https://www.indiatoday.in/world/story/houthi-attacks-saudi-arabia-oil-supply-bab-al-mandeb-defence-pacts-pakistan-2997097-2026-09-17",
+        "image": "https://www.bing.com/th?id=ONUT.AVKTIIf4MhLqwCVbGAN93w",
+        "timestamp": 1789574618.0
+    },
+    {
+        "id": "ac34a9bb8e",
+        "title_fa": "حمله به خط لوله سعودی، تست امنیت نفت اروپا",
+        "title_en": "How a Saudi pipeline attack is putting Europe’s oil security to the test",
+        "summary": [
+            "حمله به خط لوله اصلی صادرات نفت سعودی باعث کاهش عرضه به اروپا شد",
+            "پالایشگاه‌های اروپایی مجبور به جستجوی نفت با کیفیت متفاوت شدند",
+            "این وضعیت می‌تواند قیمت بنزین را در اروپا بالا ببرد",
+            "فشار بر سیاست‌گذاران برای یافتن مسیرهای جایگزین افزایش یافت"
+        ],
+        "impact": "اختلال در صادرات سعودی، قیمت نفت اروپا را بالا می‌برد",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-us/money/general/how-a-saudi-pipeline-attack-is-putting-europe-s-oil-security-to-the-test/ar-AA2cr3gM?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/how-a-saudi-pipeline-attack-is-putting-europe-s-oil-security-to-the-test/ar-AA2cr3gM",
+        "image": "https://www.bing.com/th?id=ONUT.MAJbKrLBBvtgN9_h970eFw",
+        "timestamp": 1789574618.0
+    },
+    {
+        "id": "f01d1fc91a",
+        "title_fa": "تحریم‌های ترامپ و بحران تحصیل دانشجویان ایرانی",
+        "title_en": "Trump sanctions leave Iranian students lost in the middle",
+        "summary": [
+            "تحریم‌های جدید آمریکا حساب‌های بانکی دانشجویان ایرانی را مسدود کرد",
+            "بسیاری از امتحانات دانشگاهی لغو شد و دسترسی به منابع آموزشی قطع شد",
+            "این فشار می‌تواند موجی از مهاجرت تحصیلی به کشورهای دیگر ایجاد کند"
+        ],
+        "impact": "تحریم‌ها دسترسی تحصیلی هزاران دانشجوی ایرانی را مختل می‌کند",
+        "tag": "تحریم",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/money/general/trump-sanctions-leave-iranian-students-lost-in-the-middle/ar-AA2crphp?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/trump-sanctions-leave-iranian-students-lost-in-the-middle/ar-AA2crphp",
+        "image": "https://www.bing.com/th?id=ONUT.fwRrIKgB6i-KqsSUNOMYDw",
+        "timestamp": 1789574617.0
     },
     {
         "id": "a0c7f29f5e",
@@ -5365,80 +5443,5 @@
         "clean_url": "https://www.msn.com/en-au/news/other/answer-saudi-arabia-israel-must-take-the-opportunity-presented-by-the-houthi-attack/ar-AA2cjrlh",
         "image": "https://www.bing.com/th?id=ONUT.DLgbthtYXz7k87EMkEgScw",
         "timestamp": 1789529059.4713554
-    },
-    {
-        "id": "8923317825",
-        "title_fa": "لایحه تحریم روسیه با تعرفه ۱۰۰٪ بر هند و چین",
-        "title_en": "Russia sanctions bill threatening 100% tariffs on India, China clears US House, awaits Trump’s approval",
-        "summary": [
-            "مجلس نمایندگان آمریکا لایحه را با ۲۶۱ رأی به ۱۵۹ تصویب کرد",
-            "لایحه به‌صورت اجباری ۱۰۰٪ تعرفه بر واردات هند و چین اعمال می‌کند تا فشار بر روسیه افزایش یابد",
-            "اجرای لایحه نیاز به امضای ترامپ دارد؛ اگر تصویب شود، روابط تجاری آمریکا‑هند و آمریکا‑چین به‌خطر می‌افتد"
-        ],
-        "impact": "اجرای لایحه می‌تواند تجارت دو کشور بزرگ آسیایی را به‌صورت ناگهانی قطع کند و فشار اقتصادی بر روسیه را تضعیف کند",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Hindustan Times on MSN",
-        "url": "https://www.msn.com/en-in/news/world/russia-sanctions-bill-threatening-100-tariffs-on-india-china-clears-us-house-awaits-trump-s-approval/ar-AA2cmTQB?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/world/russia-sanctions-bill-threatening-100-tariffs-on-india-china-clears-us-house-awaits-trump-s-approval/ar-AA2cmTQB",
-        "image": "https://www.bing.com/th?id=ONUT.l5Ht6nEebd1kSkLb17GywA",
-        "timestamp": 1789529031.0
-    },
-    {
-        "id": "a8d5b49e66",
-        "title_fa": "ترامپ قیمت گاز را «ارزان» نامید",
-        "title_en": "Trump labels high gas prices 'cheap' amid midterm push",
-        "summary": [
-            "ترامپ در رالی کارائیب شمال کارولینای شمالی گفت قیمت گاز «ارزان» است",
-            "این اظهار نظر در میانه انتخابات میانی سعی دارد حمایت رأی‌دهندگان محافظه‌کار را جلب کند",
-            "انتقادهای داخلی به افزایش هزینه زندگی را نادیده می‌گیرد و ممکن است فشار بر دولت را افزایشت دهد"
-        ],
-        "impact": "بیان کم‌اهمیت قیمت گاز می‌تواند نارضایتی عمومی را تشدید کند و به نقدهای اقتصادی علیه کمپین ترامپ منجر شود",
-        "tag": "انرژی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "The Chosun Ilbo on MSN",
-        "url": "https://www.msn.com/en-xl/money/general/trump-campaigns-in-north-carolina-labels-high-gas-prices-cheap/ar-AA2covek?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/money/general/trump-campaigns-in-north-carolina-labels-high-gas-prices-cheap/ar-AA2covek",
-        "image": "https://www.bing.com/th?id=ONUT.omftZ2pvqbCCZi0BBcFb-Q",
-        "timestamp": 1789529031.0
-    },
-    {
-        "id": "f86e5ba1d3",
-        "title_fa": "هویور از تصویب لایحه تحریم روسیه و ایران تحسین کرد",
-        "title_en": "Press Release: Steny Hoyer remarks after House passage of Russia and Iran sanctions bill",
-        "summary": [
-            "استنی هویر گفت تصویب لایحه «روز خوبی» برای حمایت از اوکراین است",
-            "لایحه به‌سرعت تحریم‌های جدید علیه روسیه و ایران را اعمال می‌کند و پیام مخالفت واضحی می‌فرستد",
-            "هویر اشاره کرد ممکن است کمک‌های مالی و تسلیحات بیشتری برای اوکراین به‌سرانجام برسد"
-        ],
-        "impact": "لایحه می‌تواند فشار دیپلماتیک و اقتصادی بر روسیه و ایران را تقویت کند و مسیر کمک‌های نظامی به اوکراین را هموار سازد",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "quiverquant",
-        "url": "https://www.quiverquant.com/news/Press+Release:+Steny+Hoyer+remarks+after+House+passage+of+Russia+and+Iran+sanctions+bill",
-        "clean_url": "https://www.quiverquant.com/news/Press+Release:+Steny+Hoyer+remarks+after+House+passage+of+Russia+and+Iran+sanctions+bill",
-        "image": "https://www.quiverquant.com/images/H000874_congress.png",
-        "timestamp": 1789529031.0
-    },
-    {
-        "id": "e50b0197e2",
-        "title_fa": "ترامپ ویزای هیئت فلسطینی را دوباره رد کرد",
-        "title_en": "Trump administration again denies visas for Palestinian delegation to attend the UN General Assembly",
-        "summary": [
-            "دولت ترامپ برای دومین سال متوالی ویزای هیئت فلسطینی به دلیل عدم اجرای تعهدات صلح‌جویی رد کرد",
-            "این تصمیم فشار دیپلماتیک آمریکا بر فلسطین برای توقف اقدام‌ها قضایی علیه اسرائیل و پرداخت کمک به خانواده‌های زندانیان را نشان می‌دهد"
-        ],
-        "impact": "روابط آمریکا‑فلسطین تیره می‌شود؛ حضور فلسطینیان در مجمع عمومی سازمان ملل حذف می‌شود",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "WESH",
-        "url": "https://www.wesh.com/article/trump-administration-denies-palestinian-un-visas/73765953",
-        "clean_url": "https://www.wesh.com/article/trump-administration-denies-palestinian-un-visas/73765953",
-        "image": "https://www.bing.com/th?id=ONUT.M07n9he6jTxtS6CskTHiIg",
-        "timestamp": 1789528406.0
     }
 ]
