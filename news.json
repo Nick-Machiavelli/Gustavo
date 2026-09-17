@@ -1,5 +1,25 @@
 [
     {
+        "id": "c06064ca75",
+        "title_fa": "ترامپ می‌خواهد همه‌جا نقل شود؛ هم‌پیمانانش گوش می‌دهند",
+        "title_en": "Trump veut être cité partout pendant la campagne électorale – Son propre camp lui désobéit",
+        "summary": [
+            "در جریان کارزار میانی، ترامپ از هم‌پیمانان جمهوری‌خواه خواست که نام او را در همه سخنرانی‌ها ببرند.",
+            "تحقیقات نشان می‌دهد اعضای حزب دستور او را نادیده می‌گیرند؛ این نشانگر کاهش نفوذ داخلی اوست.",
+            "عدم همکاری جناح می‌تواند توان تبلیغاتی ترامپ را در انتخابات میانی تضعیف کند.",
+            "این شکاف داخلی می‌تواند فرصت رقبای داخلی و خارجی را برای تغییر مسیر سیاسی فراهم آورد."
+        ],
+        "impact": "نقض دستورات ترامپ توسط هم‌پیمانان، توان تبلیغاتی او را در انتخابات میانی تضعیف می‌کند.",
+        "tag": "سیاست-آمریکا",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "bluewin",
+        "url": "https://www.bluewin.ch/fr/infos/monde/trump-veut-etre-present-partout-pendant-la-campagne-electorale-beaucoup-ne-partagent-pas-cet-avis-li.3602406",
+        "clean_url": "https://www.bluewin.ch/fr/infos/monde/trump-veut-etre-present-partout-pendant-la-campagne-electorale-beaucoup-ne-partagent-pas-cet-avis-li.3602406",
+        "image": "https://www.bing.com/th?id=ONUT.Dc2WA20LbgutFhDjV1-Wag",
+        "timestamp": 1789616573.9273553
+    },
+    {
         "id": "5cae33ee9b",
         "title_fa": "ویکر از تصویب لایحه تحریم روسیه خوشحال شد",
         "title_en": "Chairman Wicker Celebrates House Passage of Russia Sanctions Bill",
@@ -2385,6 +2405,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmdsdVotcEFlTTJCQlhfOUtPeTNabDdCV2xEVjJMeUVIRmR4dUR2aEJBZW5Fa2JtZm5ad3BGTjc3NXRvemFUSW9pNXJRNXd6NjFMVEtmSmFaWlFTUnZaalJtRXB4OF9uc0xwVFpJZENickIwYUo5bG5kZ2N4eTgwaWpOa1JNTVhEME92YVUyejVTbWZkLW5DMjd3",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789530826.0
+    },
+    {
+        "id": "9df2d12630",
+        "title_fa": "قانون تحریم انرژی روسیه؛ تعرفه ۱۰۰٪ برای خریداران بزرگ",
+        "title_en": "Russia Sanctions Bill: US plans to target Moscow’s energy economy. What it means for India?",
+        "summary": [
+            "مجلس نمایندگان آمریکا لاینس او گراهام سنکشِن روسیه و ایران ۲۰۲۶ را تصویب کرد و به دونالد ترامپ اجازه داد تا تا ۱۰۰٪ تعرفه بر خریداران انرژی روسیه اعمال کند.",
+            "هند و چین به‌عنوان بزرگ‌ترین خریداران انرژی روسیه در این طرح گنجانده شده‌اند؛ این اقدام می‌تواند هزینه‌های انرژی آن‌ها را دوبرابر کند.",
+            "رأی‌گیری دوحزبی (۲۶۲-۱۵۹) نشان می‌دهد فشار اقتصادی بر مسکو با حمایت گسترده‌ای از جمهوری‌خواهان و دمکرات‌ها همراه است.",
+            "بازارهای جهانی انرژی تحت فشار می‌افتند؛ روسیه برای تأمین مالی جنگ خود گزینه‌های جدیدی می‌جوید."
+        ],
+        "impact": "هند با هزینه‌های دوبرابر انرژی روسیه مواجه می‌شود، در حالی که فشار بر اقتصاد مسکو می‌تواند به کاهش توان مالی جنگ منجر شود.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Business Today",
+        "url": "https://www.businesstoday.in/india/story/russia-sanctions-bill-us-plans-to-target-moscows-energy-economy-what-it-means-for-india-556014-2026-09-17",
+        "clean_url": "https://www.businesstoday.in/india/story/russia-sanctions-bill-us-plans-to-target-moscows-energy-economy-what-it-means-for-india-556014-2026-09-17",
+        "image": "https://www.bing.com/th?id=ONUT.WbX6c1_wSveiOGpH0PvtRQ",
+        "timestamp": 1789530166.0
     },
     {
         "id": "a2aa0c640c",
@@ -5379,43 +5419,5 @@
         "clean_url": "https://www.msn.com/en-us/money/general/iran-live-updates-sticker-shock-woes-rise-after-saudi-refinery-stops-crude-loading/ar-AA2caaSM",
         "image": "http://www.bing.com/th?id=ONUT.gP80o-0qzBdclVF7T5_ikg&pid=News",
         "timestamp": 1789478915.0
-    },
-    {
-        "id": "340dd1fca5",
-        "title_fa": "آمریکا فروش ۳ میلیارد دلاری بمب به اسرائیل",
-        "title_en": "Trump set to send nearly $3B worth of bombs to Israel",
-        "summary": [
-            "دولت ترامپ برنامهٔ فروش ۲.۸ میلیارد دلاری بمب‌های سنگین به اسرائیل را پیش‌برده است",
-            "بمب‌های Mk‑84، BLU‑117 و «bunker busters» برای تخریب پناهگاه‌های زیرزمینی طراحی شده‌اند",
-            "این معامله با هزینهٔ مالی از طریق برنامهٔ کمک نظامی آمریکا تأمین می‌شود",
-            "انتشار این سلاح‌ها می‌تواند خطر تلفات غیرنظامی را در منطقه افزایش دهد"
-        ],
-        "impact": "تقویت توان بمباران اسرائیل می‌تواند تنش‌های منطقه‌ای را تشدید کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.1,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/trump-set-send-nearly-3b-110917000.html",
-        "clean_url": "https://www.aol.com/articles/trump-set-send-nearly-3b-110917000.html",
-        "image": "https://www.bing.com/th?id=ONUT.IJynDGWGaTpGVdTa_MdkBw",
-        "timestamp": 1789478740.0
-    },
-    {
-        "id": "bf4963a7a3",
-        "title_fa": "برنامه اقتصادی جِی‌دی ونس: سوسیالیسم در پرچم ملی‌گرایی",
-        "title_en": "JD Vance’s economic agenda is just socialism wrapped in a nationalist flag",
-        "summary": [
-            "ونس اقتصاد را با شعار ملی‌گرایی می‌پوشاند، اما طرح‌های مالیاتی و هزینه‌های رفاهی‌اش شبیه سوسیالیسم است",
-            "این مسیر می‌تواند فشار مالی بر طبقه کارگر و کسب‌وکارهای کوچک را افزایش دهد"
-        ],
-        "impact": "طرح اقتصادی ونس ممکن است بدهی‌های دولتی را بالا برده و فشار بر طبقه متوسط را تشدید کند",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/jd-vance-s-economic-agenda-is-just-socialism-wrapped-in-a-nationalist-flag/ar-AA2cgkhe?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/jd-vance-s-economic-agenda-is-just-socialism-wrapped-in-a-nationalist-flag/ar-AA2cgkhe",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789478717.2320676
     }
 ]
