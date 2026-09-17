@@ -1961,6 +1961,26 @@
         "timestamp": 1789555260.0
     },
     {
+        "id": "02005251d5",
+        "title_fa": "جبهه جمهوری‌خواهان علیه اقدام نظامی ترامپ",
+        "title_en": "List of Republicans Who Flipped To Block Trump’s Military Action in Iran",
+        "summary": [
+            "۷ جمهوری‌خواه به همراه دمکرات‌ها لایحه‌ای برای محدود کردن عملیات نظامی آمریکا در ایران تصویب کردند",
+            "این رأی نمادین فشار سیاسی بر کاخ سفید و سنا برای کنترل اختیار جنگی رئیس‌جمهور ایجاد می‌کند",
+            "تقسیم‌پذیری داخل حزب جمهوری‌خواه نشان می‌دهد که هزینه‌های جنگ و ریسک‌های انتخاباتی در میانه‌دوره انتخابات ۲۰۲۴ نقش مهمی دارند",
+            "قانون‌گذاری هنوز نیروی نظامی را به‌سرعت عقب نمی‌کشد اما چارچوبی برای رد درخواست‌های جدید بدون مجوز جدید می‌گذارد"
+        ],
+        "impact": "کاهش احتمالی گسترش عملیات نظامی آمریکا در ایران و تقویت نقش کنگره در تصمیم‌گیری‌های جنگی",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/list-republicans-flipped-block-trump-military-action-iran-12448042",
+        "clean_url": "https://www.newsweek.com/list-republicans-flipped-block-trump-military-action-iran-12448042",
+        "image": "http://www.bing.com/th?id=ONUT.nZY_ZHp-TBGgcHJwdIvY7w&pid=News",
+        "timestamp": 1789554960.0
+    },
+    {
         "id": "9bb5302f74",
         "title_fa": "خبر بین‌المللی — Bombing ایران Can Destroy Targets, Not Political Memory",
         "title_en": "Bombing Iran Can Destroy Targets, Not Political Memory",
@@ -5421,22 +5441,5 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/energy-shortages-trigger-new-round-of-global-market-volatility-nomura/ar-AA2cgIWV",
         "image": "https://www.bing.com/th?id=ONUT.2xWD7z9vL94z9-p3xJD9jQ",
         "timestamp": 1789488834.1123958
-    },
-    {
-        "id": "efe44e31f8",
-        "title_fa": "خبر بین‌المللی — California’s Trade Is Stable amid Policy Shifts و جنگ در ایر",
-        "title_en": "California’s Trade Is Stable amid Policy Shifts and War in Iran",
-        "summary": [
-            "California’s Trade Is Stable amid Policy Shifts and War in Iran ppic.org"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ppic.org",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2Z6OGhpSnhHZE12bk1wMGEtTHdjcmpCTFlCRUNzeXRQX2VsNTMtNG9QZ21xQnpNSE9BV0Z0bnJLbmdfSzlwTWFWWHl4NVhlb0lRZlZyQi1MZlpXalN4d2xaS1VzRThSeXlIQ0Y0T2NXX21kbk9NZjZUcEc1OEo5bUhTSVlfVE1XN3RpUzYxZDF6Y2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2Z6OGhpSnhHZE12bk1wMGEtTHdjcmpCTFlCRUNzeXRQX2VsNTMtNG9QZ21xQnpNSE9BV0Z0bnJLbmdfSzlwTWFWWHl4NVhlb0lRZlZyQi1MZlpXalN4d2xaS1VzRThSeXlIQ0Y0T2NXX21kbk9NZjZUcEc1OEo5bUhTSVlfVE1XN3RpUzYxZDF6Y2c",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789488774.0
     }
 ]
