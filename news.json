@@ -690,6 +690,26 @@
         "timestamp": 1789635813.2616603
     },
     {
+        "id": "6ba9622050",
+        "title_fa": "حوثی‌ها از شبه‌نظامی به تهدید منطقه‌ای تبدیل شدند",
+        "title_en": "How Yemen's Houthis went from a small mountain militia to a big regional threat",
+        "summary": [
+            "حوثی‌ها کنترل استراتژیک باب‌ال‌مندب را به دست گرفتند",
+            "این مسیر کلیدی عبور نفت و کالاهای بین‌المللی است",
+            "توانمندی‌های نظامی حوثی‌ها به سرعت رشد کرده و تهدید به کشتی‌رانی ایجاد شد",
+            "حضور حوثی‌ها در آب‌های بین‌ال‌مللی فشار بین‌المللی را بالا برده"
+        ],
+        "impact": "اختلال در عبور کشتی‌های تجاری و افزایش هزینه‌های حمل‌ونقل",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/how-yemens-houthis-went-small-mountain-militia-big-regional-threat-2026-09-17/",
+        "clean_url": "https://www.reuters.com/world/middle-east/how-yemens-houthis-went-small-mountain-militia-big-regional-threat-2026-09-17",
+        "image": "https://www.reuters.com/resizer/v2/562AGJORM5MP7AJVRLW4CMTYAE.jpg?auth=06f6a300b4c7a75714cad5aae7d487580ac4d7b45f3986ec4537374e1ee80f0b&width=1080&quality=80",
+        "timestamp": 1789635720.0
+    },
+    {
         "id": "0bb57f6ba0",
         "title_fa": "ترامپ با رهبران خلیج برای فشار بر ایران ملاقات می‌کند",
         "title_en": "Trump to meet Gulf leaders as US signals diplomatic push on Iran",
@@ -794,6 +814,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJVNS1uc3FDVDUwbUJ5bjJkZzRwbTdzNFZYUW00SEloak4wZl9yeXJhWlQ2bEExbjZBSzh6T2lRVjNjQ2VvR1lNZGNBc3BwLXZ6QXJCTmZ3M3BfQVdURWZaaUVOV2k0VkNOTFMwcnhsdXR1VU5IWFRWYlVYNDgzeGNwTDB6d3FURHV4YnZZdFpibE45Qm1tTVJxMi1QZG9lbFFqVW16M1ZzQzRLQW1PVkhud2RLeWtxUVV6OFJweE0wOXZuVG5RRg",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789632659.0
+    },
+    {
+        "id": "38dfbb9e29",
+        "title_fa": "سرقت خودرو توسط فلسطینی منجر به کشته شدن دوچرخه‌سوار",
+        "title_en": "Palestinian in Israel without permit allegedly steals car and gets into crash, killing cyclist",
+        "summary": [
+            "فلسطینی بدون مجوز در مسیر تل‌آویو‑هرزلیا خودرو دزدید و تصادف کرد",
+            "تصادف منجر به مرگ دوچرخه‌سوار شد؛ نیروهای اورژانسی به صحنه رفتند",
+            "حادثه تنش‌های امنیتی داخل اسرائیل را تشدید می‌کند"
+        ],
+        "impact": "مرگ یک شهروند و افزایش تنش‌های داخلی اسرائیل",
+        "tag": "حوادث",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/palestinian-in-israel-without-permit-allegedly-steals-car-and-gets-into-crash-killing-cyclist/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/palestinian-in-israel-without-permit-allegedly-steals-car-and-gets-into-crash-killing-cyclist",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789632420.0
     },
     {
         "id": "75231e1b40",
@@ -2459,6 +2498,26 @@
         "clean_url": "https://www.msn.com/en-gb/general/general/britain-s-long-history-of-adversarial-policies-toward-iran-and-israel/ar-AA2clJLZ",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789567441.8983116
+    },
+    {
+        "id": "5bb29f2196",
+        "title_fa": "زلنسکی: چین فشار نمی‌آورد، روسیه ادامه جنگ",
+        "title_en": "'It's a pity': Zelenskyy says China can push Putin to end Ukraine war, but ‘never saw them do that’ as Beijing rejects US Russia Sanctions",
+        "summary": [
+            "زلنسکی چین را به فشار بر روسیه برای صلح دعوت کرد",
+            "پکن اعلام کرد به تحریم‌های جدید آمریکا علیه روسیه مخالف است",
+            "عدم اقدام چین بیانگر تمایل به حفظ روابط با مسکو است",
+            "این موضع چین ممکن است مذاکرات صلح را دشوارتر کند"
+        ],
+        "impact": "کاهش امید به فشار دیپلماتیک بر روسیه و ادامه جنگ",
+        "tag": "دیپلوماسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/it-s-a-pity-zelenskyy-says-china-can-push-putin-to-end-ukraine-war-but-never-saw-them-do-that-as-beijing-rejects-us-russia-sanctions-article-14032281.html",
+        "clean_url": "https://www.moneycontrol.com/world/it-s-a-pity-zelenskyy-says-china-can-push-putin-to-end-ukraine-war-but-never-saw-them-do-that-as-beijing-rejects-us-russia-sanctions-article-14032281.html",
+        "image": "https://www.bing.com/th?id=ONUT.AlwBlW2nj95phZGk5xGsqg",
+        "timestamp": 1789566643.0
     },
     {
         "id": "6cd13e548b",
@@ -5384,65 +5443,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0ktX2tFdTZkVEJWdzM5dnNyQnF1dy1oYlY2cHktV2R6ZUJCR2FKb3NyNDFPQlJfZVktbGcxRXgzcWtwMlBqdWZ4NktBcU80YnhRTGk0ZVlSUW1HSFVNbS04WlFmQkVxZ080TmFrSnprVXoweHZRRGZhZ0Nyakk0Yk1CY0swcExHNUJsZVJ3cnBHbFVWbkY4VWJHQTZDcmhWbmJLVE1Rd2gzYks2b0xOSzRHLUlxZw",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789517032.0
-    },
-    {
-        "id": "da1b04ac06",
-        "title_fa": "فدرال رزرو ۳ سال پس نرخ بهره را ارتقا کرد",
-        "title_en": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
-        "summary": [
-            "فدرال رزرو با اکثریت کامل نرخ بهره را ۰٫۲۵ درصد افزایش داد",
-            "هدف اصلی مهار تورم بالا و فشار بر مصرف‌کنندگان است",
-            "قیمت وام‌ها و هزینه‌های استقراض در آمریکا و جهان بالا می‌رود",
-            "بازارهای مالی ممکن است نوسان کوتاه‌مدت تجربه کنند"
-        ],
-        "impact": "هزینه استقراض برای شرکت‌ها و خانوارها در سطح جهانی افزایش می‌یابد",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years",
-        "clean_url": "https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years",
-        "image": "https://www.bing.com/th?id=ONUT._4FqIXZ8UJ83UIMGkSZBMw",
-        "timestamp": 1789517025.0
-    },
-    {
-        "id": "0a51ba6148",
-        "title_fa": "حوثی‌ها در اجلاس عمان از گسترش جنگ به خلیج‌احمر می‌پرهیزند",
-        "title_en": "Yemen’s Houthis promise US not to expand Iran war to Red Sea at secret Oman summit",
-        "summary": [
-            "حوثی‌های یمن در جلسه مخفی در عمان به مقامات آمریکا اطمینان دادند که هدفشان فقط حمله به کشتی‌های سعودی است",
-            "این وعده می‌تواند فشار بین‌المللی بر ایران را کاهش دهد، اما ریسک تخلف باقیست",
-            "خلیج‌احمر مسیر مهم نفت است؛ گسترش جنگ می‌توانست بازار انرژی را تکان دهد",
-            "نظارت بین‌المللی بر حوثی‌ها برای اطمینان از اجرای وعده ضروری است"
-        ],
-        "impact": "اگر حوثی‌ها به وعده عمل کنند، ریسک اختلال در حمل و نقل نفت در خلیج‌احمر کاهش می‌یابد",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/yemen-s-houthis-promise-us-not-to-expand-iran-war-to-red-sea-at-secret-oman-summit/ar-AA2cnUzC?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/yemen-s-houthis-promise-us-not-to-expand-iran-war-to-red-sea-at-secret-oman-summit/ar-AA2cnUzC",
-        "image": "https://www.bing.com/th?id=ONUT.9nbqUwS-3v-M_8qy61sjVQ",
-        "timestamp": 1789517025.0
-    },
-    {
-        "id": "94721844ad",
-        "title_fa": "دو نماینده جمهوری‌خواه آیووا برای پایان جنگ ایران رای دادند",
-        "title_en": "Two Iowa Republicans break with party on Iran war vote",
-        "summary": [
-            "نمایندگان زاک نان و ماریانیت میلر-میکس برای اولین بار با دمکرات‌ها رأی به قطع جنگ ایران دادند",
-            "این اقدام نشان می‌دهد فشار داخلی برای خروج نیروهای آمریکا از منطقه در حال افزایش است",
-            "قیمت بنزین در آیووا به دلیل بسته شدن تنگه هرمز بالا رفته؛ این رأی می‌تواند فشار اقتصادی را کم کند",
-            "قطع‌نامه ۶۰ روزه به ترامپ اجازه می‌دهد نیروها را خارج کند، اما محدودیت‌های دفاعی باقی می‌ماند"
-        ],
-        "impact": "تصمیم مجلس می‌تواند مسیر خروج نیروهای آمریکایی از ایران را تسریع کند",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "KTIV",
-        "url": "https://www.ktiv.com/2026/09/16/two-iowa-republicans-break-with-party-iran-war-vote/",
-        "clean_url": "https://www.ktiv.com/2026/09/16/two-iowa-republicans-break-with-party-iran-war-vote",
-        "image": "https://www.bing.com/th?id=ONUT.eNcgh4MaROzDthDeQqaO9A",
-        "timestamp": 1789517025.0
     }
 ]
