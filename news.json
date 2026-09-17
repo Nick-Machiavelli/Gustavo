@@ -225,6 +225,26 @@
         "timestamp": 1789646280.0
     },
     {
+        "id": "1c72374946",
+        "title_fa": "بیانیه‌های آمریکا، ایران، اسرائیل و پاکستان درباره آتش‌بس",
+        "title_en": "What the US, Iran, Israel and Pakistan Have Said About the Ceasefire",
+        "summary": [
+            "آمریکا خواستار آتش‌بس فوری و بازگشت به مذاکرات صلح است.",
+            "ایران تنها پس از توقف کامل حملات نظامی و تضمین عدم تکرار می‌پذیرد.",
+            "اسرائیل با تردید به اظهارات آمریکا واکنش نشان داد و خواستار ادامه فشار نظامی است.",
+            "پاکستان به عنوان میان‌گیر منطقه‌ای، درخواست توقف تمام عملیات نظامی و حفظ ثبات خاورمیانه را مطرح کرد."
+        ],
+        "impact": "بیانیه‌ها می‌توانند مسیر مذاکرات صلح را تغییر دهند یا به تعلیق مذاکرات منجر شوند.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWNYNjNVZ09OclZpU2NSWTVqRjU1NFo1Sk54eEFaQlpvRlFqZXlxRWxERTN6Y1BCN2xYaWY1bGxmbmp4blpRd0xicGQxeDNmeUR4OVJVaG9nYTdzeHgxN3E0SlhYQkI5V0pZRmJXVlRaUlNGcmxoRzhUNjRlNkFaTVgzZ3lGSVJ5U0dQRFhqckhMeTd0MXAwU3k2aUppdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWNYNjNVZ09OclZpU2NSWTVqRjU1NFo1Sk54eEFaQlpvRlFqZXlxRWxERTN6Y1BCN2xYaWY1bGxmbmp4blpRd0xicGQxeDNmeUR4OVJVaG9nYTdzeHgxN3E0SlhYQkI5V0pZRmJXVlRaUlNGcmxoRzhUNjRlNkFaTVgzZ3lGSVJ5U0dQRFhqckhMeTd0MXAwU3k2aUppdw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789645895.0
+    },
+    {
         "id": "25128e3c5e",
         "title_fa": "خبر بین‌المللی — I’m a Nobel Prize-winning scientist. ترامپ’s too unstable به",
         "title_en": "I’m a Nobel Prize-winning scientist. Trump’s too unstable to have nuclear codes",
@@ -2456,6 +2476,43 @@
         "clean_url": "https://www.msn.com/en-us/news/news/lara-trump-defends-president-s-war-in-iran-as-viewers-say-he-s-blowing-it/ar-AA2cmVVs",
         "image": "http://www.bing.com/th?id=ONUT.uSeb7hfbFFuREYNDZivF_g&pid=News",
         "timestamp": 1789568458.0
+    },
+    {
+        "id": "153e87643c",
+        "title_fa": "اتحادیه ملل: احتمال جنایات جنگی آمریکا در ایران",
+        "title_en": "U.N. experts say U.S. may have committed war crimes with 2 Iran strikes",
+        "summary": [
+            "پانل حقوق بشر سازمان ملل «دلایل معقول» برای ارتکاب جنایات جنگی توسط آمریکا در دو حمله به ایران ارائه داد.",
+            "حداقل ۱۷۸ غیرنظامی، از جمله زنان و کودکان، در این حملات کشته شدند.",
+            "آقای ترامپ ادعا کرد ایران مایل به توافق برای پایان جنگ است، در حالی که واشنگتن هنوز مسئولیت‌پذیری نشان نداده.",
+            "قیمت نفت پس از اعلام تعمیر خط لوله سعودی کاهش یافت، اما فشار اقتصادی بر ایران ادامه دارد."
+        ],
+        "impact": "ممکن است فشار بین‌المللی برای تحریم‌های جدید یا مذاکرات حقوقی علیه آمریکا افزایش یابد.",
+        "tag": "جنایات جنگی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/u-n-experts-u-may-113015827.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/u-n-experts-u-may-113015827.html",
+        "image": "https://www.bing.com/th?id=ONUT.Upn1P_B8bFyEZoos8BvXNQ",
+        "timestamp": 1789568074.0
+    },
+    {
+        "id": "aa48501208",
+        "title_fa": "خبر بین‌المللی — Palestinian Authority objects به US decision در visas, و oth",
+        "title_en": "Palestinian Authority objects to US decision on visas, and other Mideast developments",
+        "summary": [
+            "Israel and Morocco announced the move in a joint statement with the United States, saying that integrating Israel into the..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "East Bay Times",
+        "url": "https://www.eastbaytimes.com/2026/09/17/palestinian-authority-visas-mideast-news/",
+        "clean_url": "https://www.eastbaytimes.com/2026/09/17/palestinian-authority-visas-mideast-news",
+        "image": "https://www.bing.com/th?id=ONUT.iBrm6nsdsW8CMveen69jXw",
+        "timestamp": 1789568074.0
     },
     {
         "id": "141e4ed97b",
@@ -5385,58 +5442,5 @@
         "clean_url": "https://blogs.timesofisrael.com/especially-this-year-why-mahsa-aminis-death-still-matters",
         "image": "https://www.bing.com/th?id=ONUT.35hr-lP3qDU75_qryh2BjA",
         "timestamp": 1789518583.617476
-    },
-    {
-        "id": "526a5bb523",
-        "title_fa": "ایران در کمیته عمومی آژانس هسته‌ای نشست",
-        "title_en": "US-Israel-Iran War Latest Live News: ‘Despite US Efforts’ – Iran Wins IAEA General Committee Seat Despite US Opposition As US, Israel And 7 Arab States Hold Secret Iran ...",
-        "summary": [
-            "ایران با مخالفت آمریکا جایگاه خود را در کمیته عمومی IAEA حفظ کرد",
-            "دیدار مخفیانه آمریکا، اسرائیل و هفت کشور عربی نشان از برنامه‌ریزی نظامی علیه ایران دارد",
-            "این دستاورد دیپلماتیک به ایران امکان می‌دهد صدای خود را در مذاکرات هسته‌ای تقویت کند"
-        ],
-        "impact": "تقویت موضع هسته‌ای ایران و افزایش فشار بر سیاست‌های آمریکا",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": 0.3,
-        "source": "The Sunday Guardian Live",
-        "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-despite-us-efforts-iran-wins-iaea-general-committee-seat-despite-us-opposition-as-us-israel-and-7-arab-states-hold-secret-iran-war-talks-285838/",
-        "clean_url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-despite-us-efforts-iran-wins-iaea-general-committee-seat-despite-us-opposition-as-us-israel-and-7-arab-states-hold-secret-iran-war-talks-285838",
-        "image": "http://www.bing.com/th?id=ONUT.2ChL40ZvApBwHyHwHK7JvA&pid=News",
-        "timestamp": 1789518180.0
-    },
-    {
-        "id": "fb50a6cf40",
-        "title_fa": "خبر بین‌المللی — Fed hike deepens emerging markets' triple burden",
-        "title_en": "Fed hike deepens emerging markets' triple burden",
-        "summary": [
-            "The US Federal Reserve (Fed) has raised the benchmark interest rate for the first time in three years and two months, causing..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Chosun Ilbo on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/fed-hike-deepens-emerging-markets-triple-burden/ar-AA2cn8Z3?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/fed-hike-deepens-emerging-markets-triple-burden/ar-AA2cn8Z3",
-        "image": "https://www.bing.com/th?id=ONUT.VXwevnCoLV01VyF13da2Fw",
-        "timestamp": 1789517838.0
-    },
-    {
-        "id": "cdf7ed209b",
-        "title_fa": "خبر بین‌المللی — ترامپ vows ایران جنگ is almost finished و threatens massive",
-        "title_en": "Trump vows Iran war is almost finished and threatens massive new target for tariffs",
-        "summary": [
-            "President Donald Trump expressed his hope that the war in Iran is nearly over as he threatened implementing new tariffs..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Daily Mail on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/trump-vows-iran-war-is-almost-finished-and-threatens-massive-new-target-for-tariffs/ar-AA2cnPqF?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/trump-vows-iran-war-is-almost-finished-and-threatens-massive-new-target-for-tariffs/ar-AA2cnPqF",
-        "image": "https://www.bing.com/th?id=ONUT.wv1a693cLVwbtrDhQNm70g",
-        "timestamp": 1789517838.0
     }
 ]
