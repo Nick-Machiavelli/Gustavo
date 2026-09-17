@@ -1,5 +1,43 @@
 [
     {
+        "id": "4f0c376740",
+        "title_fa": "بی‌احترامی ترامپ به حامیان خود در ۲۰۱۶",
+        "title_en": "When did GOP become a party of Minions? Kerr",
+        "summary": [
+            "ترامپ در سال ۲۰۱۶ گفت می‌تواند کسی را در خیابان ششم شیکاگو شلیک کند و هنوز رای‌دار نخواهد از دست بدهد",
+            "این اظهار نظر نشان می‌دهد او نسبت به حامیان حزبی خود بی‌احترامی دارد",
+            "انتقادات اخیر دولت درباره افزایش قیمت‌ها به‌جای رفع مشکلات، حس نارضایتی را در میان مردم تقویت می‌کند"
+        ],
+        "impact": "اعتماد برخی از پایه‌های حزبی GOP به رهبری ترامپ کاهش می‌یابد",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/did-gop-become-party-minions-090618802.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/did-gop-become-party-minions-090618802.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/d377f0dff962ee45fa3e6d5f24a04b427c387742798665c2965357f9d853e396/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fusatoday-portsmouthseacoastonline-light_7237.png",
+        "timestamp": 1789639408.8178732
+    },
+    {
+        "id": "b8be0c0c75",
+        "title_fa": "آمریکا باید محورهای تجاوزگر را مواجه شود",
+        "title_en": "America must confront the axis of aggressors",
+        "summary": [
+            "مقاله‌ای در Washington Examiner می‌گوید ایالات متحده هنوز دشمنان اصلی خود را به‌صورت رسمی نام نمی‌برد",
+            "نویسنده بر ضرورت مقابله با «محور تجاوزگرها» تأکید می‌کند",
+            "این فراخوان بدون ارائه جزئیات عملی، فقط به‌دلیل ایجاد حس تهدید عمومی است"
+        ],
+        "impact": "فشار سیاسی داخلی برای تغییر سیاست خارجی آمریکا افزایش می‌یابد",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/america-must-confront-the-axis-of-aggressors/ar-AA2cpWgS?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/america-must-confront-the-axis-of-aggressors/ar-AA2cpWgS",
+        "image": "https://www.bing.com/th?id=ONUT.VNYTYA22xjZ6NyfLMb5eVA",
+        "timestamp": 1789639408.8175318
+    },
+    {
         "id": "c196b3d6a9",
         "title_fa": "خبر بین‌المللی — UN should stop trying به be everything به everyone",
         "title_en": "The UN should stop trying to be everything to everyone",
@@ -15,6 +53,25 @@
         "clean_url": "https://www.economist.com/by-invitation/2026/09/17/the-un-should-stop-trying-to-be-everything-to-everyone",
         "image": "https://www.bing.com/th?id=ONUT.35qTqtDv8SWT-HDy821NbA",
         "timestamp": 1789638672.9286513
+    },
+    {
+        "id": "63af2109bf",
+        "title_fa": "حوثی‌ها بابه‌الماندهب را به‌دست گرفتند",
+        "title_en": "From mountain fighters to Red Sea power: How the Houthis rose to control Bab el-Mandeb",
+        "summary": [
+            "حوثی‌ها با حمایت ایران بابه‌الماندهب، مسیر اصلی نفت و کالاهای بین‌المللی، را کنترل کردند",
+            "این تنگه کلیدی برای کشتی‌های تجاری و انرژی جهانی اهمیت است",
+            "حمله به کشتی‌ها و پایگاه‌های نفتی خطر اختلال شدید تجارت را بالا برده"
+        ],
+        "impact": "کشتی‌های تجاری و صادرات نفت ایران با خطر توقف یا تاخیر مواجه می‌شوند",
+        "tag": "دریا",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Economic Times",
+        "url": "https://www.msn.com/en-in/news/other/from-mountain-fighters-to-red-sea-power-how-the-houthis-rose-to-control-bab-el-mandeb/ar-AA2cq6Xg",
+        "clean_url": "https://www.msn.com/en-in/news/other/from-mountain-fighters-to-red-sea-power-how-the-houthis-rose-to-control-bab-el-mandeb/ar-AA2cq6Xg",
+        "image": "https://img.etimg.com/thumb/msid-134307242,width-1200,height-630,imgsize-1063336,overlay-economictimes/articleshow.jpg",
+        "timestamp": 1789637910.0
     },
     {
         "id": "a53def4b89",
@@ -2348,6 +2405,26 @@
         "clean_url": "https://www.theweek.in/news/defence/2026/09/16/opinion-brics-summit-in-delhi-indias-high-wire-act.html",
         "image": "https://www.bing.com/th?id=ONUT.F-oEIcXPUdugx5N7KrF3Gw",
         "timestamp": 1789553653.8160632
+    },
+    {
+        "id": "5aaef0df14",
+        "title_fa": "ایالات متحده 60 هزار بمب به اسرائیل می‌فرستد",
+        "title_en": "US to send Israel 60,000 huge bombs despite concerns over civilian deaths",
+        "summary": [
+            "دولت آمریکا 60 000 بمب یک‌تن‌وزن به ارزش ۲٫۸ میلیارد دلار به اسرائیل می‌فرستد",
+            "این بزرگ‌ترین فروش سلاح به اسرائیل است و توان هوایی آن را تقویت می‌کند",
+            "استفاده گسترده این بمب‌ها در غزه نگرانی‌های بین‌المللی درباره تلفات غیرنظامی را تشدید می‌کند",
+            "مخالفان در واشنگتن صدای اعتراض به این معامله را بلند کرده‌اند"
+        ],
+        "impact": "توان نظامی هوایی اسرائیل تقویت می‌شود و فشار بین‌المللی بر آمریکا برای محدود کردن فروش سلاح افزایش می‌یابد",
+        "tag": "سلاح",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/us-to-send-israel-60-000-huge-bombs-despite-concerns-over-civilian-deaths-article-14031932.html",
+        "clean_url": "https://www.moneycontrol.com/world/us-to-send-israel-60-000-huge-bombs-despite-concerns-over-civilian-deaths-article-14031932.html",
+        "image": "https://www.bing.com/th?id=ONUT.VhQC4c2akU1OtawYBo5cHA",
+        "timestamp": 1789553001.0
     },
     {
         "id": "2f024f2579",
@@ -5376,74 +5453,6 @@
         "url": "https://news24online.com/india/who-is-ips-sanjukta-parashar-assams-iron-lady-takes-charge-as-first-woman-chief-of-crpfs-elite-cobra-unit/926432/",
         "clean_url": "https://news24online.com/india/who-is-ips-sanjukta-parashar-assams-iron-lady-takes-charge-as-first-woman-chief-of-crpfs-elite-cobra-unit/926432",
         "image": "https://www.bing.com/th?id=ONUT.kVp8ek_m8LSMIJE4OH7bAA",
-        "timestamp": 1789494552.0
-    },
-    {
-        "id": "22803f0816",
-        "title_fa": "خبر بین‌المللی — دموکرات‌ها warn ترامپ’s election interference threat isn’t o",
-        "title_en": "Democrats warn Trump’s election interference threat isn’t over — and point to ‘the single greatest danger’ this November",
-        "summary": [
-            "Lawmakers used the president’s efforts to sabotage the midterms to mobilize the base while warning of further threats to come..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "HuffPost on MSN",
-        "url": "https://www.msn.com/en-us/news/other/democrats-warn-trump-s-election-interference-threat-isn-t-over-and-point-to-the-single-greatest-danger-this-november/ar-AA2cmA6F?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/democrats-warn-trump-s-election-interference-threat-isn-t-over-and-point-to-the-single-greatest-danger-this-november/ar-AA2cmA6F",
-        "image": "https://www.bing.com/th?id=ONUT.WscC2cJGSa83Q_Y8O9jmPA",
-        "timestamp": 1789494552.0
-    },
-    {
-        "id": "64fc88ecf9",
-        "title_fa": "خبر بین‌المللی — حوثی‌ها deny Yemen نظامی claim they laid mines در Bab al-Man",
-        "title_en": "Houthis deny Yemen military claim they laid mines in Bab al-Mandeb",
-        "summary": [
-            "Houthi officials reportedly met with US representatives in Oman over the weekend as the conflict with the Saudi-backed Yemeni..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/houthis-deny-report-they-planted-mines-bab-al-mandeb",
-        "clean_url": "https://www.newarab.com/news/houthis-deny-report-they-planted-mines-bab-al-mandeb",
-        "image": "https://www.bing.com/th?id=ONUT.P1Dv-oo49Iy9cbz9r3JOsQ",
-        "timestamp": 1789494552.0
-    },
-    {
-        "id": "e2f6ae34ef",
-        "title_fa": "خبر بین‌المللی — Tucker Carlson hits ترامپ over اسرائیل arms sale, says no 'j",
-        "title_en": "Tucker Carlson hits Trump over Israel arms sale, says no 'justification'",
-        "summary": [
-            "Tucker Carlson called on Americans to oppose a planned U.S. arms sale to Israel."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Newsweek on MSN",
-        "url": "https://www.msn.com/en-us/entertainment/general/tucker-carlson-hits-trump-over-israel-arms-sale-says-no-justification/ar-AA2ciKQM?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/entertainment/general/tucker-carlson-hits-trump-over-israel-arms-sale-says-no-justification/ar-AA2ciKQM",
-        "image": "https://www.bing.com/th?id=ONUT.P36XUYWG1IoLkn96FAG6_Q",
-        "timestamp": 1789494552.0
-    },
-    {
-        "id": "a2594ce390",
-        "title_fa": "خبر بین‌المللی — Gas prices debate continues در Congress. Can Washington lowe",
-        "title_en": "Gas prices debate continues in Congress. Can Washington lower costs?",
-        "summary": [
-            "Lawmakers in Washington are trading blame with officials from President Donald Trump's administration as gas prices have..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Central Oregon Daily",
-        "url": "https://www.centraloregondaily.com/news/consumer/gas-prices-debate-continues-in-congress-can-washington-lower-costs/article_7d320b95-07cf-5106-b17d-c16a1b3f45f4.html",
-        "clean_url": "https://www.centraloregondaily.com/news/consumer/gas-prices-debate-continues-in-congress-can-washington-lower-costs/article_7d320b95-07cf-5106-b17d-c16a1b3f45f4.html",
-        "image": "https://www.bing.com/th?id=ONUT.zoMSebSjsOTYSBrOVEB-kg",
         "timestamp": 1789494552.0
     }
 ]
