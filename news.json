@@ -2401,6 +2401,24 @@
         "timestamp": 1789529059.4713554
     },
     {
+        "id": "e50b0197e2",
+        "title_fa": "ترامپ ویزای هیئت فلسطینی را دوباره رد کرد",
+        "title_en": "Trump administration again denies visas for Palestinian delegation to attend the UN General Assembly",
+        "summary": [
+            "دولت ترامپ برای دومین سال متوالی ویزای هیئت فلسطینی به دلیل عدم اجرای تعهدات صلح‌جویی رد کرد",
+            "این تصمیم فشار دیپلماتیک آمریکا بر فلسطین برای توقف اقدام‌ها قضایی علیه اسرائیل و پرداخت کمک به خانواده‌های زندانیان را نشان می‌دهد"
+        ],
+        "impact": "روابط آمریکا‑فلسطین تیره می‌شود؛ حضور فلسطینیان در مجمع عمومی سازمان ملل حذف می‌شود",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "WESH",
+        "url": "https://www.wesh.com/article/trump-administration-denies-palestinian-un-visas/73765953",
+        "clean_url": "https://www.wesh.com/article/trump-administration-denies-palestinian-un-visas/73765953",
+        "image": "https://www.bing.com/th?id=ONUT.M07n9he6jTxtS6CskTHiIg",
+        "timestamp": 1789528406.0
+    },
+    {
         "id": "c2c59d970f",
         "title_fa": "خبر بین‌المللی — ایران strikes در Amazon data centers caused permanent loss",
         "title_en": "Iran strikes on Amazon data centers caused permanent loss of customer data",
@@ -5392,22 +5410,5 @@
         "clean_url": "https://www.presstv.co.uk/Detail/2026/09/15/776340/iran-nuclear-industry-will-survive-war-strikes-because-knowledge-cannot-obliterated-force",
         "image": "https://cdn.presstv.co.uk/Photo/2026/9/15/85158412-0b44-47b2-a889-ecb685c0645a.jpg",
         "timestamp": 1789478100.0
-    },
-    {
-        "id": "b5a31ad44b",
-        "title_fa": "خبر بین‌المللی — Fed rate hike only half story as Warsh faces dot-plot test",
-        "title_en": "Fed rate hike only half the story as Warsh faces dot-plot test",
-        "summary": [
-            "Investors are looking past the Fed’s expected rate hike to the dot plot for clues on inflation and future hikes."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/fed/fed-rate-hike-warsh-dot-plot-inflation",
-        "clean_url": "https://www.thestreet.com/fed/fed-rate-hike-warsh-dot-plot-inflation",
-        "image": "https://www.bing.com/th?id=ONUT.6Ly48HbtELFYlPSJyuYzvA",
-        "timestamp": 1789478098.8282433
     }
 ]
