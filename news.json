@@ -1464,6 +1464,25 @@
         "timestamp": 1789560000.0
     },
     {
+        "id": "18ab09ac61",
+        "title_fa": "ایالات متحده ۳.۹ میلیارد دلار بسته دفاعی اسرائیل را تصویب می‌کند",
+        "title_en": "Washington to greenlight $3.9bn defence package for Israel; Pete Hegseth faces impeachment call",
+        "summary": [
+            "آمریکا ۳.۹ میلیارد دلار به اسرائیل می‌سپارد تا توان دفاعی‌اش را در مقابل تهدیدات ایرانی تقویت کند",
+            "رئیس‌جمهور ایران با اعلام عدم تسلیم در برابر فشارهای آمریکا و اسرائیل، تنش‌های خلیج فارس را تشدید می‌کند",
+            "بسته دفاعی احتمال خرید سامانه‌های هوایی و موشکی پیشرفته توسط اسرائیل را افزایش می‌دهد و رقابت نظامی در مسیرهای شحن‌گیری بحرین و هرمز را بالا می‌برد"
+        ],
+        "impact": "افزایش فشار نظامی بر ایران و تقویت توان دفاعی اسرائیل؛ تنش‌های خلیج فارس تشدید می‌شود",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Daily Telegraph",
+        "url": "https://www.dailytelegraph.com.au/news/world/middle-east/iranian-president-says-country-wont-surrender-as-he-accuses-us-of-targeting-civilians/news-story/753c639561fa83c06ced5e8a9809e825",
+        "clean_url": "https://www.dailytelegraph.com.au/news/world/middle-east/iranian-president-says-country-wont-surrender-as-he-accuses-us-of-targeting-civilians/news-story/753c639561fa83c06ced5e8a9809e825",
+        "image": "https://content.api.news/v3/images/bin/adffe19e1aba22bca6b03a66229638a4",
+        "timestamp": 1789559340.0
+    },
+    {
         "id": "3535f203f0",
         "title_fa": "مکه تحت \"حمله\": پیمان مکه کجاست - و پاکستان؟",
         "title_en": "Mecca under ‘attack’: Where is the Mecca Pact — and Pakistan?",
@@ -5388,23 +5407,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/brics-summit-2026-was-played-down-dismissed-or-nearly-blacked-out-by-western-media-that-didnt-work/ar-AA2ceA37",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789477587.1827261
-    },
-    {
-        "id": "8e4e9bd413",
-        "title_fa": "نتانیاهو: خبرنگاران می‌توانند او را سرزنش کنند",
-        "title_en": "Netanyahu lets journalists blame him for Oct. 7 — Iran kills citizens for honking horns. Guess who 'progressives' back?",
-        "summary": [
-            "نتانیاهو با اشاره به انتقادات داخلی، رسانه‌ها را به سرزنش او در قبال حملات ۷ اکتبر سوق می‌دهد",
-            "این استراتژی سعی دارد توجه عمومی را از انتقادات داخلی به خشم علیه ایران منحرف کند"
-        ],
-        "impact": "تقویت روایت ضد‑ایرانی در داخل اسرائیل",
-        "tag": "سیاست داخلی",
-        "urgency": 2,
-        "sentiment": 0.1,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/netanyahu-lets-journalists-blame-him-for-oct-7-iran-kills-citizens-for-honking-horns-guess-who-progressives-back/ar-AA2cgcKa?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/netanyahu-lets-journalists-blame-him-for-oct-7-iran-kills-citizens-for-honking-horns-guess-who-progressives-back/ar-AA2cgcKa",
-        "image": "https://www.bing.com/th?id=ONUT.LpPRxtz7LSCPRk8tNAMcoQ",
-        "timestamp": 1789477587.1820877
     }
 ]
