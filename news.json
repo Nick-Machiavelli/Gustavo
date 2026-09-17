@@ -121,6 +121,25 @@
         "timestamp": 1789661024.1464033
     },
     {
+        "id": "284ddd686c",
+        "title_fa": "چین و روسیه پنل نظارت تحریم ایران را مسدود کردند",
+        "title_en": "China, Russia veto renewal of UN Iran sanctions panel",
+        "summary": [
+            "روسیه و چین با وتو، قطع تمدید مأموریت نظارت‌گرهای تحریم‌های ایران را به‌دست آوردند",
+            "پاکستان و سومالی صرفاً امتناع کردند؛ ۱۱ کشور دیگر به‌نفع تجدید رأی بودند",
+            "این تصمیم مانع ادامه نظارت بین‌المللی بر اجرای تحریم‌ها و کاهش فشار دیپلماتیک بر تهران می‌شود"
+        ],
+        "impact": "پیشنهاد تمدید نظارت بر تحریم‌های ایران متوقف شد، فشار بین‌المللی بر تهران کاهش یافت",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "bne IntelliNews",
+        "url": "https://www.msn.com/en-us/news/other/china-russia-veto-renewal-of-un-iran-sanctions-panel/ar-AA2crpHo",
+        "clean_url": "https://www.msn.com/en-us/news/other/china-russia-veto-renewal-of-un-iran-sanctions-panel/ar-AA2crpHo",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cruBo.img?w=900&h=510&m=4&q=84",
+        "timestamp": 1789660283.0
+    },
+    {
         "id": "aff996b6e4",
         "title_fa": "اودونل: چرا ترامپ نمی‌تواند جنگ ایران را پایان دهد",
         "title_en": "Lawrence O’Donnell Says This Is Why Trump Can’t End Iran War",
@@ -2341,6 +2360,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-says-americans-should-reconsider-travel-to-saudi-arabia/ar-AA2caaSM",
         "image": "http://www.bing.com/th?id=ONUT.rt-8I2-9EakYxoNmNp85gQ&pid=News",
         "timestamp": 1789578173.0
+    },
+    {
+        "id": "35b1efab7b",
+        "title_fa": "نرخ‌وام مسکن نزدیک ۷٪، خریداران خانه در خطر",
+        "title_en": "Struggling US home buyers, and market, face new hurdles as mortgage rates near 7%",
+        "summary": [
+            "نرخ وام ۳۰ ساله ثابت به ۶٫۹۵٪ رسید؛ بالاترین سطح در ۱۹ ماه گذشته",
+            "هزینه ماهانه وام برای خریداران صدها دلار افزایش می‌یابد و توان خرید را کاهش می‌دهد",
+            "روند صعودی نرخ‌ها باعث به تعویق افتادن خریدهای مسکونی می‌شود"
+        ],
+        "impact": "قیمت‌خانه‌ها فشار می‌گیرد و تقاضا برای خرید مسکن کاهش می‌یابد",
+        "tag": "املاک",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Orange County Register",
+        "url": "https://www.ocregister.com/2026/09/17/mortgage-rates-sept-17/",
+        "clean_url": "https://www.ocregister.com/2026/09/17/mortgage-rates-sept-17",
+        "image": "https://www.bing.com/th?id=ONUT.8yUpB72pMHwb85jpPs9KYA",
+        "timestamp": 1789578158.0
     },
     {
         "id": "eed76d7369",
@@ -5399,41 +5437,5 @@
         "clean_url": "https://www.msn.com/en-in/money/economy/nse-ipo-live-updates-national-stock-exchange-ipo-opens-today-check-latest-gmp-price/ar-AA2cp2Ur",
         "image": "https://www.bing.com/th?id=ONUT.Y2ZZgIUnwE6S0r1bBp__TA",
         "timestamp": 1789536953.0
-    },
-    {
-        "id": "fcb4906a14",
-        "title_fa": "US روسیه تحریم‌ها Bill: What happens next برای India",
-        "title_en": "US Russia Sanctions Bill: What happens next for India",
-        "summary": [
-            "The bill now goes to Trump for his signature. The legislation gives the President authority to impose tariffs of up to 100..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/news/india/us-russia-sanctions-bill-what-happens-next-for-india-14031727.html",
-        "clean_url": "https://www.moneycontrol.com/news/india/us-russia-sanctions-bill-what-happens-next-for-india-14031727.html",
-        "image": "https://www.bing.com/th?id=ONUT.yBdl0ryIw2Uh9fLtler4tA",
-        "timestamp": 1789535568.0
-    },
-    {
-        "id": "1f44fb29e3",
-        "title_fa": "حمله حوثی‌ها به تسهیلات نفتی عربستان",
-        "title_en": "Iran live updates: Houthis claim new attacks on Saudi oil facility, air base",
-        "summary": [
-            "حوثی‌ها به پایگاه هوایی و پالایشگاه سعودی حمله کردند",
-            "این حمله فشار بر امنیت انرژی خلیج فارس را افزایش می‌دهد",
-            "ایران می‌تواند از این تنش برای تقویت نقش منطقه‌ای خود استفاده کند"
-        ],
-        "impact": "اختلال در صادرات نفتی و افزایش نوسان قیمت جهانی",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-house-adopts-iran-war-powers-resolution-in-rebuke-of-trump/ar-AA2caaSM",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-house-adopts-iran-war-powers-resolution-in-rebuke-of-trump/ar-AA2caaSM",
-        "image": "http://www.bing.com/th?id=ONUT.JS5a1OYqsrAn4rBaIabyKQ&pid=News",
-        "timestamp": 1789535413.0
     }
 ]
