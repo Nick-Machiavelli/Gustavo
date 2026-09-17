@@ -2364,6 +2364,26 @@
         "timestamp": 1789602444.5557241
     },
     {
+        "id": "5b23c264f8",
+        "title_fa": "نیتنیاهو 51 صندلی؛ نظرسنجی توییتر",
+        "title_en": "Netanyahu’s bloc drops to 51 seats as Winter’s party falls short of Knesset in new ToI poll",
+        "summary": [
+            "نظرسنجی جدید توییتر اسرائیل نشان می‌دهد بلوک نتانیاهو به 51 صندلی کاهش یافته",
+            "اگر انتخابات 27 اکتبر به بن‌بست برسد، اکثر حامیان نتانیاهو خواستار دولت وحدت می‌شوند",
+            "مخالفان او ترجیح می‌دهند دولت اقلیت شکل بگیرد",
+            "نتایج فشار بر نتانیاهو برای یافتن شریک سیاسی جدید می‌آورد"
+        ],
+        "impact": "کاهش اطمینان به نتانیاهو، احتمال تشکیل دولت ائتلافی یا وحدت",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Times of Israel on MSN",
+        "url": "https://www.msn.com/en-us/news/other/netanyahu-s-bloc-drops-to-51-seats-as-winter-s-party-falls-short-of-knesset-in-new-toi-poll/ar-AA2csP7F?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/netanyahu-s-bloc-drops-to-51-seats-as-winter-s-party-falls-short-of-knesset-in-new-toi-poll/ar-AA2csP7F",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789600779.0
+    },
+    {
         "id": "294c2835bb",
         "title_fa": "جنگ های ترامپ، چه واقعی و چه تجاری، اکنون هزینه های استقراض آمریکایی‌ها را نیز افزایش می‌دهد.",
         "title_en": "Trump’s Wars, Both Real And Trade, Are Now Hiking Americans’ Borrowing Costs, Too",
@@ -5396,23 +5416,5 @@
         "clean_url": "https://www.inquirer.com/politics/nation/theodore-roosevelt-donald-trump-character-wealth-20260916.html",
         "image": "https://www.bing.com/th?id=ONUT.M4dAt1K2NPMnj3Kl6Qi7UA",
         "timestamp": 1789561783.5544064
-    },
-    {
-        "id": "40d3a68f10",
-        "title_fa": "تراپ ادعای توطئه دموکرات‌ها را تکرار کرد",
-        "title_en": "Trump's New Lie: Assassination Attempt Was A Democratic Plot Against Him",
-        "summary": [
-            "در توییت خود تراپ بدون مدرک ادعا کرد که یک توطئه دموکرات‌ها برای حذف او صورت گرفته",
-            "این ادعاها به تضعیف اعتبار او و تشدید قطبی‌سازی سیاسی منجر می‌شود"
-        ],
-        "impact": "افزایش شایعات می‌تواند اعتماد عمومی به نهادهای امنیتی را کاهش دهد",
-        "tag": "دروغ",
-        "urgency": 3,
-        "sentiment": -0.5,
-        "source": "Crooks and Liars",
-        "url": "https://crooksandliars.com/2026/09/trump-lie-assassination-dem-plot",
-        "clean_url": "https://crooksandliars.com/2026/09/trump-lie-assassination-dem-plot",
-        "image": "https://crooksandliars.com/files/primary_image/26/09/53786991517_21a1355038_k_4.jpg",
-        "timestamp": 1789561783.5539613
     }
 ]
