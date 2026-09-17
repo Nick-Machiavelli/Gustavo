@@ -1,5 +1,43 @@
 [
     {
+        "id": "2338376a1d",
+        "title_fa": "اتحاد محافظه‌کاران پس از خطای ترامپ درهم می‌ریزد",
+        "title_en": "'Devastating': Floored Conservative claims Trump blunder just ripped coalition to shreds",
+        "summary": [
+            "آهماری می‌گوید یک اشتباه ترامپ ائتلاف را تکه‌تکه کرده.",
+            "نظرسنجی سینیای کالج نشان می‌دهد دو‑سوم زیر ۵۰ هزار دلار به دموکرات‌ها می‌روند.",
+            "حمایت GOP از طبقه کارگر به‌سرعت در حال کاهش است.",
+            "پیش‌بینی شد مجلس نمایندگان به‌سختی توسط دموکرات‌ها به‌دست می‌آید."
+        ],
+        "impact": "کاهش پایه رأی‌گیری محافظه‌کاران می‌تواند تعادل قدرت در کنگره را به‌سوی دموکرات‌ها تغییر دهد.",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/trump-iran-2677872558/",
+        "clean_url": "https://www.rawstory.com/trump-iran-2677872558",
+        "image": "https://www.bing.com/th?id=ONUT.aPEqn5oqOZ6wjmJV-Ut03A",
+        "timestamp": 1789652183.8683267
+    },
+    {
+        "id": "b446e2a3ec",
+        "title_fa": "دلار واقعی چه قدرتی دارد؟",
+        "title_en": "COMMENTARY — ‘What is the real power of our dollars?’",
+        "summary": [
+            "دلار همچنان ابزار تسلط مالی جهانی است.",
+            "وابستگی کشورهای کوچک به دلار ریسک‌های اقتصادی‑نظامی را افزایش می‌دهد."
+        ],
+        "impact": "قیمت‌گذاری بین‌المللی و بدهی‌های خارجی تحت فشار دلار باقی می‌مانند.",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "The BVI Beacon",
+        "url": "https://www.bvibeacon.com/commentary-what-is-the-real-power-of-our-dollars/",
+        "clean_url": "https://www.bvibeacon.com/commentary-what-is-the-real-power-of-our-dollars",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789652183.867559
+    },
+    {
         "id": "b43a5f5562",
         "title_fa": "Have We Lost ایران جنگ?",
         "title_en": "Have We Lost the Iran War?",
@@ -2421,6 +2459,26 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/houthi-red-sea-offensive-elevates-134419403.html",
         "image": "https://media.zenfs.com/en/reuters.com/021d0ce5119617f1cb2a54938ffc5167.jpg",
         "timestamp": 1789566262.0
+    },
+    {
+        "id": "a7091836f4",
+        "title_fa": "پیشنهاد ترامپ به‌سوی رکود محبوبیت",
+        "title_en": "Donald Trump’s Approval Rating Hits New Low 7 Weeks Before Midterms",
+        "summary": [
+            "در نظرسنجی مارکت، حمایت ترامپ به ۳۷٪ افتاده.",
+            "اختلاف قاطع بین موافقان و مخالفان به‌وضوح دیده می‌شود.",
+            "کاهش محبوبیت می‌تواند نتایج میدترم را به نفع دموکرات‌ها بکشاند.",
+            "تورم، قیمت بنزین و جنگ ایران در صدر نگرانی‌های رای‌دهندگان قرار دارند."
+        ],
+        "impact": "دسته‌جمعی جمهوری‌خواهان در انتخابات میانی با خطر از دست دادن کنگره مواجه‌اند.",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/donald-trump-approval-rating-low-before-midterms-12453821",
+        "clean_url": "https://www.newsweek.com/donald-trump-approval-rating-low-before-midterms-12453821",
+        "image": "https://www.bing.com/th?id=ONUT.bjJ7qZMT7OEVj7QYZosZhQ",
+        "timestamp": 1789565779.0
     },
     {
         "id": "06a7dc857c",
@@ -5387,59 +5445,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWem5PZUs2ZmR3UXFFQ0hfdGtCc3RBY3ZqSC1wbkxmZ3FrMG1zaHFTbjNrYWtkSEt5eGY0cWFHSDliTFRLNEdDS2hpWTZrLVFna09nY1N1T2RsSkl2dEtUMTZENWdvUzdGN2E2QlRaVjZrNXlDTFotTjhtQWZONFE",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789516805.0
-    },
-    {
-        "id": "7267dd76b2",
-        "title_fa": "بیلبورد نتانیاهو: مامدانی برابر حزب‌الله",
-        "title_en": "Netanyahu's Campaign Billboard Likens Mamdani To Hezbollah, Iran Leaders",
-        "summary": [
-            "نتانیاهو با نصب بیلبوردی در تل‌آویو، مامدانی را در کنار رئیسان ایران، ترکیه و حزب‌الله نشان داد تا او را به عنوان عامل تفرقه‌پراکن توصیف کند.",
-            "این حرکت، بخشی از کمپین انتخاباتی نتانیاهوست که سعی دارد حمایت‌های دموکرات‌های پیشرو در نیویورک را به عنوان تهدیدی برای امنیت ملی اسرائیل به تصویر بکشد."
-        ],
-        "impact": "بیلبورد می‌تواند نظرات رأی‌دهندگان اسرائیلی را در برابر نامزدهای پیشرو تقویت کند و فشار دیپلماتیک بر نیویورک را افزایش دهد.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "India West",
-        "url": "https://indiawest.com/netanyahus-campaign-billboard-likens-mamdani-to-hezbollah-iran-leaders/",
-        "clean_url": "https://indiawest.com/netanyahus-campaign-billboard-likens-mamdani-to-hezbollah-iran-leaders",
-        "image": "https://indiawest.com/wp-content/uploads/2026/08/Netanyahus.jpg",
-        "timestamp": 1789516800.0
-    },
-    {
-        "id": "a9dfec4fef",
-        "title_fa": "اقتصاد جنگی ایران: مقاومت در برابر فشارهای آمریکا",
-        "title_en": "How Iran's Wartime Economy Works, and How Long it Can Last",
-        "summary": [
-            "ایران با استراتژی‌های طولانی‌مدت دور زدن تحریم‌ها، حتی تحت فشار شدید آمریکا، توانسته تجارت مرزی کلیدی را حفظ کند.",
-            "کاهش صادرات نفت از طریق هرمز، ضربه‌ای جزئی است؛ رژیم می‌داند می‌تواند عملیات تحریمی را طولانی‌تر از تحمل آمریکا در خاورمیانه بپذیرد."
-        ],
-        "impact": "ایران می‌تواند فشارهای اقتصادی آمریکا را تحمل کند؛ این امر مانع از استفاده فوری آمریکا از ابزار نظامی می‌شود.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "steptoe",
-        "url": "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/how-irans-wartime-economy-works-and-how-long-it-can-last.html",
-        "clean_url": "https://www.steptoe.com/en/news-publications/stepwise-risk-outlook/how-irans-wartime-economy-works-and-how-long-it-can-last.html",
-        "image": "https://www.steptoe.com/a/web/173755/3ZEKXR/steptoe_og.jpg",
-        "timestamp": 1789516800.0
-    },
-    {
-        "id": "3bf877e2bc",
-        "title_fa": "حوثی‌ها پس از سال‌ها جنگ قوی‌تر شدند",
-        "title_en": "Why Yemen's Houthis have only grown stronger through years of war",
-        "summary": [
-            "جنگ طولانی ساختار نظامی و سیاسی حوثی‌ها را تقویت کرد",
-            "قدرت حوثی‌ها فشار بر مسیرهای تجاری خلیج و دریای سرخ را بالا برده"
-        ],
-        "impact": "افزایش تهدید به کشتی‌های تجاری و تضعیف ثبات خلیج",
-        "tag": "حوثی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Advocate",
-        "url": "https://www.stamfordadvocate.com/news/article/why-yemen-s-houthis-have-only-grown-stronger-22434129.php",
-        "clean_url": "https://www.stamfordadvocate.com/news/article/why-yemen-s-houthis-have-only-grown-stronger-22434129.php",
-        "image": "https://s.hdnux.com/photos/01/67/24/66/31280563/9/rawImage.jpg",
-        "timestamp": 1789516800.0
     }
 ]
