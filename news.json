@@ -1,5 +1,25 @@
 [
     {
+        "id": "b921234b2a",
+        "title_fa": "ناوگان سپاه نفت‌کش توگوئی را در هرمز متوقف کرد",
+        "title_en": "IRGC Navy strikes Togo-flagged tanker after illegal attempt to transit Strait of Hormuz",
+        "summary": [
+            "ناوگان سپاه اعلام کرد تانکر توگوئی در عبور غیرقانونی از هرمز سوزانده و متوقف شد",
+            "فرمانده ناوگان ادعا کرد این اقدام به دست «نقش‌برداری نظامی آمریکا» بوده",
+            "سپاه هشدار داد هر عبور غیرمجاز منجر به نابودی کشتی می‌شود",
+            "حادثه می‌تواند ریسک حمل‌ونقل نفت در خلیج فارس را بالا ببرد"
+        ],
+        "impact": "ریسک‌های حمل‌ونقل نفت و فشار اقتصادی بر کشورهای مصرف‌کننده نفت افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "presstv",
+        "url": "https://www.presstv.co.uk/Detail/2026/09/17/776498/IRGC-Navy-strikes-Togo-flagged-tanker-after-illegal-attempt-to-transit-Strait-of-Hormuz",
+        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/17/776498/IRGC-Navy-strikes-Togo-flagged-tanker-after-illegal-attempt-to-transit-Strait-of-Hormuz",
+        "image": "https://cdn.presstv.co.uk/Photo/2026/9/17/414d3a5d-5428-4724-8ada-99605a071e0e.jpg",
+        "timestamp": 1789687940.3178334
+    },
+    {
         "id": "32b545e363",
         "title_fa": "ترکیه، پاکستان و قطر: برندگان آرام جنگ ایران",
         "title_en": "The three quiet victors of the Iran war",
@@ -5398,23 +5418,5 @@
         "clean_url": "https://www.rawstory.com/hegseth-beer",
         "image": "https://www.bing.com/th?id=ONUT.xZGCYCX4vZvjaa7chH3DeQ",
         "timestamp": 1789562762.0837386
-    },
-    {
-        "id": "4d8ed8a24d",
-        "title_fa": "تراپ به روزگار روزولت تشبیه می‌کند",
-        "title_en": "President Donald Trump admires Theodore Roosevelt — but he isn’t following the former president’s lead",
-        "summary": [
-            "در مراسم افتتاح موزه روزولت، تراپ خود را هم‌پیمان با ویژگی‌های بزرگ‌پیمایانه روزولت معرفی کرد",
-            "تحلیل‌گران می‌گویند این تشبیه بیشتر بازاریابی سیاسی است تا پیروی واقعی از اصول روزولت"
-        ],
-        "impact": "استفاده از نمادهای تاریخی برای جذب پایه حمایتی، اما ممکن است به بی‌ثباتی رهبری منجر شود",
-        "tag": "تاریخ",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "The Philadelphia Inquirer",
-        "url": "https://www.inquirer.com/politics/nation/theodore-roosevelt-donald-trump-character-wealth-20260916.html",
-        "clean_url": "https://www.inquirer.com/politics/nation/theodore-roosevelt-donald-trump-character-wealth-20260916.html",
-        "image": "https://www.bing.com/th?id=ONUT.M4dAt1K2NPMnj3Kl6Qi7UA",
-        "timestamp": 1789561783.5544064
     }
 ]
