@@ -1,5 +1,62 @@
 [
     {
+        "id": "ed28618032",
+        "title_fa": "مکسیکو به توافق تجاری با آمریکا نزدیک می‌شود",
+        "title_en": "Sylvain Charlebois: While Canada fights Trump, Mexico is preparing to eat our lunch",
+        "summary": [
+            "مذاکرات پیش‌سرعت قبل انتخابات میدانی برای خودرو، فولاد و آلومینیوم دارد.",
+            "اگر مکسیکو پیشی بگیرد، کانادا ممکن است بازارهای صادراتی خود را از دست بدهد.",
+            "این فشار می‌تواند به تغییر سیاست‌های تجاری کانادا منجر شود."
+        ],
+        "impact": "کاهش سهم کانادا در بازار آمریکای شمالی و تهدید به کاهش صادرات کشاورزی",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "National Post",
+        "url": "https://nationalpost.com/opinion/sylvain-charlebois-while-canada-fights-trump-mexico-is-preparing-to-eat-our-lunch",
+        "clean_url": "https://nationalpost.com/opinion/sylvain-charlebois-while-canada-fights-trump-mexico-is-preparing-to-eat-our-lunch",
+        "image": "https://www.bing.com/th?id=ONUT.a2UWXlFR994KoYtQ-HdVrw",
+        "timestamp": 1789640640.3665776
+    },
+    {
+        "id": "098f3158dd",
+        "title_fa": "ترامپ از خروج آمریکا از باب‌ال‌مندب خبر داد",
+        "title_en": "‘They called us’: Has Trump abandoned Bab al-Mandeb to the Houthis?",
+        "summary": [
+            "ترامپ گفت هوثی‌ها «ما را صدا کردند» و نیازی به مبارزه ندارند.",
+            "قابض شدن هوثی‌ها بر جزایر استراتژیک مسیر نفتی، خطر قطع مسیرهای تجاری به آسیا را افزایش می‌دهد.",
+            "بیانیه نشان‌دهنده عقب‌نشینی استراتژیک واشنگتن از تعهدات امنیتی در خلیج فارس است."
+        ],
+        "impact": "اختلال در عبور نفت و گاز، افزایش هزینه حمل‌ونقل و تقویت نفوذ هوثی در باب‌ال‌مندب",
+        "tag": "نیابتی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/9/17/they-called-us-has-trump-abandoned-bab-al-mandeb-to-the-houthis",
+        "clean_url": "https://www.aljazeera.com/opinions/2026/9/17/they-called-us-has-trump-abandoned-bab-al-mandeb-to-the-houthis",
+        "image": "https://www.bing.com/th?id=ONUT.FXZf2QgHwd4id1qz1WrHpQ",
+        "timestamp": 1789640640.3661842
+    },
+    {
+        "id": "4c431da2b8",
+        "title_fa": "ترامپ جنگ ایران را «سیب زمینی کوچک» می‌نامد",
+        "title_en": "President Trump’s new strategy on the Iran war: Pretending there isn’t one (Editorial)",
+        "summary": [
+            "وزیران ادعای عدم کشته شدن آمریکایی‌ها را برای کم‌اهمیت جلوه دادن جنگ به کار می‌برند.",
+            "جنگ ایران بیش از شش ماه بدون مجوز کنگره و حمایت عمومی ادامه دارد.",
+            "این کم‌ارزش‌سازی مشروعیت عملیات نظامی آمریکا را در خاورمیانه تضعیف می‌کند."
+        ],
+        "impact": "ادعای عدم جنگ، فشار بر هم‌پیمانان و کاهش مشروعیت نظامی آمریکا در منطقه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Longmont Times-Call",
+        "url": "https://www.timescall.com/2026/09/17/president-trumps-new-strategy-on-the-iran-war-pretending-there-isnt-one-editorial/",
+        "clean_url": "https://www.timescall.com/2026/09/17/president-trumps-new-strategy-on-the-iran-war-pretending-there-isnt-one-editorial",
+        "image": "https://www.bing.com/th?id=ONUT.vXRjd0JBGEa1rzlwJk0Scw",
+        "timestamp": 1789640640.3656204
+    },
+    {
         "id": "4f0c376740",
         "title_fa": "بی‌احترامی ترامپ به حامیان خود در ۲۰۱۶",
         "title_en": "When did GOP become a party of Minions? Kerr",
@@ -5401,58 +5458,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DZ2txYXByMUlubURKS2Y1UXA3dlp2UFFEOW5RTWFxM1BKNHo4VEhlUHdOaUlESjdwbGd4ZDFkNlRfT2lMZEhNMHNnQTVfcmVlbXVMbGN6OEJWNGF4V3d3TVhqT3Rva2NzNDFVcndfQQ",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789495920.0
-    },
-    {
-        "id": "b8789da7f8",
-        "title_fa": "هزینه جنگ ایران برای آمریکا نزدیک به ۴۰ میلیارد دلار",
-        "title_en": "Iran War Has Cost U.S. Nearly $40 Billion and Fueled Inflation, CBO Finds",
-        "summary": [
-            "دفتر تحلیل هزینه‌های مجلس (CBO) اعلام کرد هزینه مستقیم جنگ ایران برای آمریکا نزدیک به ۴۰ میلیارد دلار است",
-            "این هزینه به تورم داخلی آمریکا افزوده و فشار مالی بر بودجه فدرال را تشدید کرده",
-            "گزارش نشان می‌دهد هزینه‌های نظامی می‌توانند به‌سرعت به مشکلات اقتصادی داخلی تبدیل شوند"
-        ],
-        "impact": "بار مالی آمریکا افزایش می‌یابد؛ فشار بر سیاست‌گذاران برای کاهش هزینه‌های نظامی",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Time Magazine",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BaGNBVmgzX1NBVTBQU0JablF4M0t4VjFoYVgwa2s5WU9YUkZSeENTVG1rVEhxaHEzWkstdXRIS1hlZnpVanFyVWlpSmpTS1RtWmhLY1JHVFhZamdadG94bEN0RFo3TElCTzl1X1k2aE5tREl1SV9WNWxBNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BaGNBVmgzX1NBVTBQU0JablF4M0t4VjFoYVgwa2s5WU9YUkZSeENTVG1rVEhxaHEzWkstdXRIS1hlZnpVanFyVWlpSmpTS1RtWmhLY1JHVFhZamdadG94bEN0RFo3TElCTzl1X1k2aE5tREl1SV9WNWxBNA",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789495241.0
-    },
-    {
-        "id": "9c4e3b5617",
-        "title_fa": "خبر بین‌المللی — ایران’s پهپاد hunt escalates as تهران targets US spy tech به",
-        "title_en": "Iran’s drone hunt escalates as Tehran targets US spy tech to expose battlefield secrets",
-        "summary": [
-            "Drone experts warn Iran is launching coordinated capture missions targeting U.S. unmanned surface vessels in the Strait of Hormuz for intel."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/technology/general/iran-s-drone-hunt-escalates-as-tehran-targets-us-spy-tech-to-expose-battlefield-secrets/ar-AA2cjlzi",
-        "clean_url": "https://www.msn.com/en-us/technology/general/iran-s-drone-hunt-escalates-as-tehran-targets-us-spy-tech-to-expose-battlefield-secrets/ar-AA2cjlzi",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789494970.0
-    },
-    {
-        "id": "49b7b7a6e6",
-        "title_fa": "خبر بین‌المللی — US central bank expected به raise interest rates برای first",
-        "title_en": "US central bank expected to raise interest rates for first time since 2023",
-        "summary": [
-            "Interest rates, which influence mortgages and savings, could be increased today as the US Federal Reserve seeks to curb..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/cwvgyrmy54j3t",
-        "clean_url": "https://www.bbc.com/news/live/cwvgyrmy54j3t",
-        "image": "https://www.bing.com/th?id=ONUT.TsafqU-Jz9fOtP7TmPRbPA",
-        "timestamp": 1789494552.0
     }
 ]
