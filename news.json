@@ -1,5 +1,43 @@
 [
     {
+        "id": "f66d958842",
+        "title_fa": "هیو هشدار جدی برای ترامپ در نظرسنجی فاکس",
+        "title_en": "Brit Hume spots a major Donald Trump warning sign in new Fox News poll",
+        "summary": [
+            "هیو می‌گوید نظرسنجی فاکس حمایت از ترامپ را در حال کاهش می‌بیند",
+            "کاهش حمایت می‌تواند ریسک جدی برای جمهوری‌خواهان در انتخابات ۲۰۲۶ ایجاد کند",
+            "نظرسنجی نشانگر نارضایتی داخلی حزب است"
+        ],
+        "impact": "احتمال تضعیف موقعیت ترامپ در انتخابات آینده و نیاز به بازنگری استراتژی GOP",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "HuffPost on MSN",
+        "url": "https://www.msn.com/en-us/news/other/brit-hume-spots-a-major-donald-trump-warning-sign-in-new-fox-news-poll/ar-AA2cpObk?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/brit-hume-spots-a-major-donald-trump-warning-sign-in-new-fox-news-poll/ar-AA2cpObk",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789635813.2616603
+    },
+    {
+        "id": "0bb57f6ba0",
+        "title_fa": "ترامپ با رهبران خلیج برای فشار بر ایران ملاقات می‌کند",
+        "title_en": "Trump to meet Gulf leaders as US signals diplomatic push on Iran",
+        "summary": [
+            "ترامپ برنامه دارد با رهبران خلیج برای بحث درباره ایران ملاقات کند",
+            "ملاقات نشان از تمایل واشنگتن به فشار دیپلماتیک بر برنامه هسته‌ای ایران دارد",
+            "حضور ترامپ می‌تواند تنش‌های منطقه‌ای را تشدید یا کاهش دهد"
+        ],
+        "impact": "تقویت فشار بین‌المللی بر ایران؛ احتمال تحریم‌های جدید یا مذاکرات هسته‌ای",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "The Arab Weekly",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMV9zWE1Pa05OWTdVcFI0M3puOFJBejlKeTFkLXlWR19pOTBsRWR6d3B5YjJ4NGpVY3FBSU9WWEMyUG9BN3dtNFJMVTZXbE8xN1lVbDAzb19rOEt5RG53Ri1vLW83cHFEenZNeDZfVGprTnJuWkdZR2l3Wnl1emRIWGVhOEZTN3hz?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMV9zWE1Pa05OWTdVcFI0M3puOFJBejlKeTFkLXlWR19pOTBsRWR6d3B5YjJ4NGpVY3FBSU9WWEMyUG9BN3dtNFJMVTZXbE8xN1lVbDAzb19rOEt5RG53Ri1vLW83cHFEenZNeDZfVGprTnJuWkdZR2l3Wnl1emRIWGVhOEZTN3hz",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789634925.0
+    },
+    {
         "id": "496fb9217c",
         "title_fa": "خبر بین‌المللی — Commentary: چگونه Strait هرمز could shape a روسیه-Ukraine p",
         "title_en": "Commentary: How Strait of Hormuz could shape a Russia-Ukraine peace deal",
@@ -2226,6 +2264,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWVMUU5uemNaNzloNWhTWWJ3aHpBWFJaSzBqNlQ1QUlTZE9IRnlYUDZhY1NwRVlMUWo4cXZIYlVsZ0FTSW9YbExWQVhJV2tBTVVvbnN3ZlFIMHVGS0ZfSHozelRlVEZtTVpQaXkxdjkyVmhxTWVJR3BzVXBPOFFqaEN1WDdLM3AtdUMw",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789549950.0
+    },
+    {
+        "id": "c5c086b73d",
+        "title_fa": "بازارهای اروپا پس از افزایش نرخ بهره فدرال مثبت شدند",
+        "title_en": "European markets open higher after Fed hike as US dollar hits seven-week high",
+        "summary": [
+            "دلار آمریکا به بالاترین سطح هفت هفته‌ای رسید",
+            "سرمایه‌گذاران اروپا به رشد شاخص‌ها ادامه دادند",
+            "بازارها به سیاست پولی فدرال واکنش مثبت نشان دادند"
+        ],
+        "impact": "قیمت دلار بالا می‌رود، فشار بر ارزهای نوظهور و سودآوری بازارهای اروپایی افزایش می‌یابد",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-nz/news/other/european-markets-open-higher-after-fed-hike-as-us-dollar-hits-seven-week-high/ar-AA2cpQyA?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-nz/news/other/european-markets-open-higher-after-fed-hike-as-us-dollar-hits-seven-week-high/ar-AA2cpQyA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789549403.0
     },
     {
         "id": "c27e1c180e",
@@ -5388,57 +5445,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/no-aggressive-element-pakistan-on-defence-pact-with-saudi-arabia-amid-houthi-strikes-on-mecca/ar-AA2clITS",
         "image": "https://www.bing.com/th?id=ONUT.h7aDGfVS5hlfjxCAQ-QBoQ",
         "timestamp": 1789490525.0
-    },
-    {
-        "id": "d9bbdddb34",
-        "title_fa": "خبر بین‌المللی — Large-scale election campaign proceeds amidst special نظامی",
-        "title_en": "Large-scale election campaign proceeds amidst special military operation, Putin notes",
-        "summary": [
-            "The Russian president said that residents of Donbass and Novorossiya will participate in electing State Duma deputies for the first time since reuniting with Russia..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2188593",
-        "clean_url": "https://tass.com/politics/2188593",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1789490525.0
-    },
-    {
-        "id": "60f4496332",
-        "title_fa": "خبر بین‌المللی — پوتین calls ongoing election campaign significant",
-        "title_en": "Putin calls ongoing election campaign significant",
-        "summary": [
-            "The Russian leader emphasized that the elections will be held in strict accordance with the law and within the established timeframes..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2188605",
-        "clean_url": "https://tass.com/politics/2188605",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1789490525.0
-    },
-    {
-        "id": "53fa85fe2e",
-        "title_fa": "اندی برنهم در میانه بحران جهانی قدم می‌گذارد",
-        "title_en": "Andy Burnham is walking into a global crisis",
-        "summary": [
-            "اندی برنهم، وزیر کار بریتانیا، با بحران‌های انرژی و اقتصادی جهانی مواجه است",
-            "بیانیه او نشان می‌دهد فشارهای داخلی می‌تواند به تصمیمات ژئوپلیتیک تبدیل شود"
-        ],
-        "impact": "تصمیمات بریتانیا ممکن است بر بازارهای انرژی اروپا تأثیر بگذارد",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": 0,
-        "source": "Daily Express on MSN",
-        "url": "https://www.msn.com/en-gb/money/economy/andy-burnham-is-walking-into-a-global-crisis-it-s-about-to-get-very-ugly/ar-AA2chnhK?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/money/economy/andy-burnham-is-walking-into-a-global-crisis-it-s-about-to-get-very-ugly/ar-AA2chnhK",
-        "image": "https://www.bing.com/th?id=ONUT.fG8cFo-rLN1P1Pfx_qTmcQ",
-        "timestamp": 1789490239.5652647
     }
 ]
