@@ -1380,6 +1380,25 @@
         "timestamp": 1789568063.5216298
     },
     {
+        "id": "e4aa09b67d",
+        "title_fa": "تصاویر تخریب پایگاه‌های آمریکایی توسط ایران",
+        "title_en": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.",
+        "summary": [
+            "عکس‌های CBS نشان می‌دهد رادار، تریلر و ساختمان‌های آمریکایی در عربستان و کویت به شدت آسیب دیده‌اند",
+            "این خسارت‌ها توسط نیروی نظامی فعال تأیید شد اما هنوز به عموم آمریکا اطلاع‌رسانی نشده",
+            "سفیدخانه فقط به فرماندهی مرکزی ارجاع داد و جزئیات بیشتری منتشر نکرد"
+        ],
+        "impact": "آسیب‌های گسترده به زیرساخت‌های نظامی آمریکا در خاورمیانه، احتمال افزایش تنش‌های نظامی منطقه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://www.bbc.com/mundo/articles/cr5yevn02vv8o",
+        "clean_url": "https://www.bbc.com/mundo/articles/cr5yevn02vv8o",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
+        "timestamp": 1789567560.0
+    },
+    {
         "id": "f2f5c7d5e0",
         "title_fa": "انگلستان به‌صورت علنی مخالف اسرائیل می‌شود",
         "title_en": "Britain’s long history of adversarial policies toward Iran and Israel",
@@ -2261,6 +2280,26 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-live-trump-s-war-on-tehran-has-cost-us-38bn/ar-AA2cjFL4",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cjGMf.img?w=1200&h=800&m=4&q=81",
         "timestamp": 1789543474.0
+    },
+    {
+        "id": "d578d0c911",
+        "title_fa": "قانون تحریم آمریکا بر روسیه، بازار نفت هند را تهدید می‌کند",
+        "title_en": "How America’s sanctions bill on Russia could impact India and its oil markets",
+        "summary": [
+            "لایحه جدید ایالات متحده تحریم‌های سخت‌تری بر صادرات نفت و گاز روسیه اعمال می‌کند",
+            "کاهش عرضه روسیه به بازار جهانی می‌تواند قیمت نفت خالص هندی را بالا ببرد",
+            "شرکت‌های هندی وابسته به خرید نفت روسیه با ریسک مالی و تأمین انرژی مواجه می‌شوند",
+            "دولت هند ممکن است برای جبران به منابع دیگر یا ذخایر استراتژیک روی آورد"
+        ],
+        "impact": "قیمت بنزین و دیزل در هند افزایش می‌یابد، فشار بر تراز تجاری و تورم داخلی",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/explainers/us-sanctions-russia-bill-lindsey-graham-act-india-tariffs-oil-market-analysis-14046520.html",
+        "clean_url": "https://www.firstpost.com/explainers/us-sanctions-russia-bill-lindsey-graham-act-india-tariffs-oil-market-analysis-14046520.html",
+        "image": "https://www.bing.com/th?id=ONUT.eCx6TYK3RD_GfxXFNCox7Q",
+        "timestamp": 1789542905.0
     },
     {
         "id": "94f8838837",
@@ -5391,39 +5430,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/oil-prices-near-4-month-080708071.html",
         "image": "https://s.yimg.com/lo/mysterio/api/d98fb43cbf7ec3d54ca9b4ea5fb791ff74afea9f8eb5381aee3aee6515dd1324/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/cbs_news_897/e51262746212019d60f908dcb6535417.jpg",
         "timestamp": 1789487940.0
-    },
-    {
-        "id": "1aa26d5909",
-        "title_fa": "خبر بین‌المللی — Live Updates: IDF troops destroy حزب‌الله rocket launchers a",
-        "title_en": "Live Updates: IDF troops destroy Hezbollah rocket launchers as Saudi Arabia turns to Western allies for help",
-        "summary": [
-            "Iran claims to shoot down US MQ-1 drone over Hormuz • UN Security Council to discuss Bab al-Mandab • Iran war has led to Pentagon munitions shortfall, US DoD says"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-16/live-updates-908732",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-16/live-updates-908732",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737957",
-        "timestamp": 1789487820.0
-    },
-    {
-        "id": "640d4784ff",
-        "title_fa": "خبر بین‌المللی — EEUU: El gobierno elimina los límites de emisiones contamina",
-        "title_en": "EEUU: El gobierno elimina los límites de emisiones contaminantes impuestos a las centrales eléctricas",
-        "summary": [
-            "Presentada por Joe Biden hace dos años, la medida derogada este lunes tenía como objetivo obligar a las centrales eléctricas..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Radio France Internationale on MSN",
-        "url": "https://www.msn.com/es-es/eltiempo/general/eeuu-el-gobierno-elimina-los-límites-de-emisiones-contaminantes-impuestos-a-las-centrales-eléctricas/ar-AA2cgBtA?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/es-es/eltiempo/general/eeuu-el-gobierno-elimina-los-límites-de-emisiones-contaminantes-impuestos-a-las-centrales-eléctricas/ar-AA2cgBtA",
-        "image": "https://www.bing.com/th?id=ONUT.u6kI3Kf75OJ8G7EtNMoIIA",
-        "timestamp": 1789486985.171787
     }
 ]
