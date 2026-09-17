@@ -2401,6 +2401,63 @@
         "timestamp": 1789529059.4713554
     },
     {
+        "id": "8923317825",
+        "title_fa": "لایحه تحریم روسیه با تعرفه ۱۰۰٪ بر هند و چین",
+        "title_en": "Russia sanctions bill threatening 100% tariffs on India, China clears US House, awaits Trump’s approval",
+        "summary": [
+            "مجلس نمایندگان آمریکا لایحه را با ۲۶۱ رأی به ۱۵۹ تصویب کرد",
+            "لایحه به‌صورت اجباری ۱۰۰٪ تعرفه بر واردات هند و چین اعمال می‌کند تا فشار بر روسیه افزایش یابد",
+            "اجرای لایحه نیاز به امضای ترامپ دارد؛ اگر تصویب شود، روابط تجاری آمریکا‑هند و آمریکا‑چین به‌خطر می‌افتد"
+        ],
+        "impact": "اجرای لایحه می‌تواند تجارت دو کشور بزرگ آسیایی را به‌صورت ناگهانی قطع کند و فشار اقتصادی بر روسیه را تضعیف کند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Hindustan Times on MSN",
+        "url": "https://www.msn.com/en-in/news/world/russia-sanctions-bill-threatening-100-tariffs-on-india-china-clears-us-house-awaits-trump-s-approval/ar-AA2cmTQB?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/world/russia-sanctions-bill-threatening-100-tariffs-on-india-china-clears-us-house-awaits-trump-s-approval/ar-AA2cmTQB",
+        "image": "https://www.bing.com/th?id=ONUT.l5Ht6nEebd1kSkLb17GywA",
+        "timestamp": 1789529031.0
+    },
+    {
+        "id": "a8d5b49e66",
+        "title_fa": "ترامپ قیمت گاز را «ارزان» نامید",
+        "title_en": "Trump labels high gas prices 'cheap' amid midterm push",
+        "summary": [
+            "ترامپ در رالی کارائیب شمال کارولینای شمالی گفت قیمت گاز «ارزان» است",
+            "این اظهار نظر در میانه انتخابات میانی سعی دارد حمایت رأی‌دهندگان محافظه‌کار را جلب کند",
+            "انتقادهای داخلی به افزایش هزینه زندگی را نادیده می‌گیرد و ممکن است فشار بر دولت را افزایشت دهد"
+        ],
+        "impact": "بیان کم‌اهمیت قیمت گاز می‌تواند نارضایتی عمومی را تشدید کند و به نقدهای اقتصادی علیه کمپین ترامپ منجر شود",
+        "tag": "انرژی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "The Chosun Ilbo on MSN",
+        "url": "https://www.msn.com/en-xl/money/general/trump-campaigns-in-north-carolina-labels-high-gas-prices-cheap/ar-AA2covek?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/money/general/trump-campaigns-in-north-carolina-labels-high-gas-prices-cheap/ar-AA2covek",
+        "image": "https://www.bing.com/th?id=ONUT.omftZ2pvqbCCZi0BBcFb-Q",
+        "timestamp": 1789529031.0
+    },
+    {
+        "id": "f86e5ba1d3",
+        "title_fa": "هویور از تصویب لایحه تحریم روسیه و ایران تحسین کرد",
+        "title_en": "Press Release: Steny Hoyer remarks after House passage of Russia and Iran sanctions bill",
+        "summary": [
+            "استنی هویر گفت تصویب لایحه «روز خوبی» برای حمایت از اوکراین است",
+            "لایحه به‌سرعت تحریم‌های جدید علیه روسیه و ایران را اعمال می‌کند و پیام مخالفت واضحی می‌فرستد",
+            "هویر اشاره کرد ممکن است کمک‌های مالی و تسلیحات بیشتری برای اوکراین به‌سرانجام برسد"
+        ],
+        "impact": "لایحه می‌تواند فشار دیپلماتیک و اقتصادی بر روسیه و ایران را تقویت کند و مسیر کمک‌های نظامی به اوکراین را هموار سازد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "quiverquant",
+        "url": "https://www.quiverquant.com/news/Press+Release:+Steny+Hoyer+remarks+after+House+passage+of+Russia+and+Iran+sanctions+bill",
+        "clean_url": "https://www.quiverquant.com/news/Press+Release:+Steny+Hoyer+remarks+after+House+passage+of+Russia+and+Iran+sanctions+bill",
+        "image": "https://www.quiverquant.com/images/H000874_congress.png",
+        "timestamp": 1789529031.0
+    },
+    {
         "id": "e50b0197e2",
         "title_fa": "ترامپ ویزای هیئت فلسطینی را دوباره رد کرد",
         "title_en": "Trump administration again denies visas for Palestinian delegation to attend the UN General Assembly",
@@ -5357,58 +5414,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmNCMkFYVC11Qlo1UGFLSHVlTkhfYW9DRUo5RlQ2cHRrNFNWXzNnVE1HLVRwTzQtbW5WX3VLc1NHOWJqS0FJdm1ZcjB2WWF6eHkzSXlNWWpzN21SdG5wVi1ZVUtZdnA3RXpjdkhtZE1vWnlMX0E3dDJXS3M4RFJsOHpZcTBhREJzMW1sTA",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789478453.0
-    },
-    {
-        "id": "41a7d2bfa4",
-        "title_fa": "حملات ایرانی به پایگاه‌های آمریکا خسارت گسترده",
-        "title_en": "Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says",
-        "summary": [
-            "گزارش ناظرین نشان داد حملات موشکی ایران صدها ساختمان در پایگاه‌های آمریکایی را تخریب کرد",
-            "این حملات پس از تشدید تنش‌های خلیج فارس رخ داد",
-            "ایالات متحده احتمالاً پاسخ نظامی یا تحریم‌های جدیدی اعمال می‌کند"
-        ],
-        "impact": "تنش نظامی خلیج فارس تشدید می‌شود و خطر گسترش درگیری‌های مستقیم افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHVUdFB5Z1ZSVjdYUFp3NkJDNHdQa2M0ckdvWGNRb3E3dUVLVkp6djlUeXlvbVdGTHZZbnZVazZDOEw3dnFDTGVnQVRyV2VxZEhBWDdGS3JoTUFTMVVEcjg1dHlWQWFXbUJsOGtYQ21mZFVwLXByVWNLLXFWNWpMbm5HdElBRWZnRldTZVVlQ2lSN1dJYWxsSlE2VFRZblh2X2tjWjBqbklIQnFaSmVLZEZDZklzM0ZpYnJFYmlNRmo0Q3hlc2RrYWtHSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHVUdFB5Z1ZSVjdYUFp3NkJDNHdQa2M0ckdvWGNRb3E3dUVLVkp6djlUeXlvbVdGTHZZbnZVazZDOEw3dnFDTGVnQVRyV2VxZEhBWDdGS3JoTUFTMVVEcjg1dHlWQWFXbUJsOGtYQ21mZFVwLXByVWNLLXFWNWpMbm5HdElBRWZnRldTZVVlQ2lSN1dJYWxsSlE2VFRZblh2X2tjWjBqbklIQnFaSmVLZEZDZklzM0ZpYnJFYmlNRmo0Q3hlc2RrYWtHSQ",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789478389.0
-    },
-    {
-        "id": "ed92a26d34",
-        "title_fa": "خبر بین‌المللی — Opinion: summit خواهد only embolden tyrants like پوتین",
-        "title_en": "Opinion: The summit will only embolden tyrants like Putin",
-        "summary": [
-            "It was billed as a pivotal moment in UK politics but the reality is the grandstanding separatist summit in Cardiff was a..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Mail on MSN",
-        "url": "https://www.msn.com/en-ph/news/other/opinion-the-summit-will-only-embolden-tyrants-like-putin/ar-AA2cgpSu?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ph/news/other/opinion-the-summit-will-only-embolden-tyrants-like-putin/ar-AA2cgpSu",
-        "image": "https://www.bing.com/th?id=ONUT.eNLQZMLfGGSR7-nkUZhFBg",
-        "timestamp": 1789478101.4357443
-    },
-    {
-        "id": "074fb7cff0",
-        "title_fa": "خبر بین‌المللی — ایران's هسته‌ای industry خواهد survive جنگ و strikes because",
-        "title_en": "Iran's nuclear industry will survive war and strikes because knowledge cannot be obliterated by force",
-        "summary": [
-            "In the last two years, Iran's nuclear facilities have been repeatedly subjected to joint US-Israeli attacks with an aim to seriously damage Iran's enrichment infrastructure and complicate its ability to enrich uranium and manufacture centrifuges."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/09/15/776340/iran-nuclear-industry-will-survive-war-strikes-because-knowledge-cannot-obliterated-force",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/15/776340/iran-nuclear-industry-will-survive-war-strikes-because-knowledge-cannot-obliterated-force",
-        "image": "https://cdn.presstv.co.uk/Photo/2026/9/15/85158412-0b44-47b2-a889-ecb685c0645a.jpg",
-        "timestamp": 1789478100.0
     }
 ]
