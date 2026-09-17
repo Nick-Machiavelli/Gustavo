@@ -2247,6 +2247,24 @@
         "timestamp": 1789548960.0
     },
     {
+        "id": "c1770e5512",
+        "title_fa": "تحریم گسترده آمریکا بر روسیه با تهدید تعرفه ۱۰۰٪",
+        "title_en": "US approves sweeping Russia sanctions with 100% tariff threat for its trade partners",
+        "summary": [
+            "قانونگذاران آمریکا تحریم‌های جدیدی علیه روسیه تصویب کردند که شامل تعرفهٔ ۱۰۰٪ برای هر کشوری است که با مسکو تجارت ادامه دهد",
+            "این اقدام فشار اقتصادی را به اوج می‌رساند و کشورهای همسایه را وادار می‌کند تا روابط تجاری خود را بازنگری کنند"
+        ],
+        "impact": "افزایش هزینه‌های تجاری برای شرکای روسیه و تضعیف توان مالی پوتین",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "IOL on MSN",
+        "url": "https://www.msn.com/en-za/politics/government/us-approves-sweeping-russia-sanctions-with-100-tariff-threat-for-its-trade-partners/ar-AA2cpVzH?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-za/politics/government/us-approves-sweeping-russia-sanctions-with-100-tariff-threat-for-its-trade-partners/ar-AA2cpVzH",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789548599.0
+    },
+    {
         "id": "cc2575db4d",
         "title_fa": "واردات 40.8 میلیارد دلاری نفت خام روسیه هند را در ردیف تعرفه 100 درصدی ترامپ قرار داده است.",
         "title_en": "India's $40.8 billion Russian crude imports put it in Trump's 100% tariff line of fire",
@@ -5422,23 +5440,5 @@
         "clean_url": "https://www.msn.com/en-gb/money/economy/andy-burnham-is-walking-into-a-global-crisis-it-s-about-to-get-very-ugly/ar-AA2chnhK",
         "image": "https://www.bing.com/th?id=ONUT.fG8cFo-rLN1P1Pfx_qTmcQ",
         "timestamp": 1789490239.5652647
-    },
-    {
-        "id": "c7d3512656",
-        "title_fa": "ایران به‌دست‌گیری عضویت در کمیته عمومی آی‌اِی‌اِی پیروز شد",
-        "title_en": "Despite US mischief, IAEA votes in favor of Iran at General Committee",
-        "summary": [
-            "انتخاب ایران برای کمیته عمومی آی‌ای‌ای نشان‌دهنده حمایت گسترده بین‌المللی است",
-            "تلاش‌های آمریکا برای مسدود کردن موفق نشد و اعتبار فشارهای یک‌جانبه کاهش یافت"
-        ],
-        "impact": "ایران می‌تواند در تصمیم‌گیری‌های آی‌ای‌ای نفوذ بیشتری داشته باشد",
-        "tag": "آی‌ای‌ای",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/09/15/776355/Iran-elected-IAEA-General-Committee-despite-US-efforts-prevent-selection-vote-UN-mission-in-Vienna",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/15/776355/Iran-elected-IAEA-General-Committee-despite-US-efforts-prevent-selection-vote-UN-mission-in-Vienna",
-        "image": "https://www.bing.com/th?id=ONUT.6GEAQik4LBzzK-hi19pJ-Q",
-        "timestamp": 1789490239.564475
     }
 ]
