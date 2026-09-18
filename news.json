@@ -2042,6 +2042,26 @@
         "timestamp": 1789659344.71015
     },
     {
+        "id": "1850bd7635",
+        "title_fa": "اتهام جنگ‌جرمی آمریکا در ایران و اظهارات ترامپ",
+        "title_en": "Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal",
+        "summary": [
+            "پانل حقوق بشر سازمان ملل می‌گوید شواهد کافی برای ادعای جنگ‌جرمی آمریکا در دو حمله به ایران وجود دارد که حداقل ۱۷۸ غیرنظامی کشته شدند.",
+            "ترامپ دوباره تأکید کرد ایران مایل به توافق برای پایان جنگ است؛ این حرف می‌تواند فشار دیپلماتیک بر واشنگتن را کاهش دهد.",
+            "قیمت نفت پس از اعلام تعمیر خط لوله سعودی که توسط پهپادها آسیب دیده، کاهش یافت؛ اما کارشناسان هشدار می‌دهند هزینه‌ها در روزهای آینده بالا می‌رود.",
+            "یک تانکر در تنگه هرمز توسط پرتابه‌ای نامشخص صدمه دید؛ حادثه نشان‌دهنده خطرات ناوبری در مسیرهای استراتژیک است."
+        ],
+        "impact": "اعلام جنگ‌جرمی می‌تواند واکنش بین‌المللی شدید به آمریکا ایجاد کند و مذاکرات صلح را تحت فشار قرار دهد؛ همچنین نوسان قیمت نفت ادامه خواهد یافت.",
+        "tag": "جنگ",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal",
+        "image": "http://www.bing.com/th?id=ONUT.bGdvfTOY3UtSkcW_5-DHbA&pid=News",
+        "timestamp": 1789659300.0
+    },
+    {
         "id": "8c67afd103",
         "title_fa": "خبر بین‌المللی — Crude Prices Fall as Saudi Arabia Seeks به Restore East-West",
         "title_en": "Crude Prices Fall as Saudi Arabia Seeks to Restore East-West Pipeline",
@@ -5399,22 +5419,5 @@
         "clean_url": "https://nypost.com/2026/09/17/us-news/israels-ambassador-to-un-calls-for-mamdanis-arrest-days-before-netanyuhus-nyc-visit",
         "image": "https://www.bing.com/th?id=ONUT.unSTqIuVpKTQRI5fwEsxww",
         "timestamp": 1789596206.0
-    },
-    {
-        "id": "b27cb09168",
-        "title_fa": "خبر بین‌المللی — Piker lashes شود over fallout from saying US is 'worse' than",
-        "title_en": "Piker lashes out over fallout from saying US is 'worse' than al Qaeda",
-        "summary": [
-            "Hasan Piker on Thursday struck back at critics who condemned him for saying the United States is worse than the al Qaeda..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/piker-lashes-out-over-fallout-from-saying-us-is-worse-than-al-qaeda/ar-AA2cshRF?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/piker-lashes-out-over-fallout-from-saying-us-is-worse-than-al-qaeda/ar-AA2cshRF",
-        "image": "https://www.bing.com/th?id=ONUT.xEVNDRTNMSKSWey94_CE1Q",
-        "timestamp": 1789595228.0
     }
 ]
