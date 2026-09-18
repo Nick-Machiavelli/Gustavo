@@ -1,5 +1,44 @@
 [
     {
+        "id": "38acfdc7ab",
+        "title_fa": "پوشش مرگ سربازان آمریکایی در جنگ ایران",
+        "title_en": "Trump Admin Covering Up Number of U.S. Troops Killed in Iran War",
+        "summary": [
+            "واشنگتن پست ادعا می‌کند تعداد کشته‌های آمریکایی در جنگ ایران بیش از آمار رسمی است",
+            "حداقل ۲۲ تا ۲۳ سرباز و ۳ پیمانکار کشته شده‌اند",
+            "این ارقام نشان‌دهنده پوشش اطلاعات توسط دولت ترامپ است",
+            "اگر صحت داشته باشد، فشار داخلی و بین‌المللی برای شفافیت ارتش آمریکا افزایش می‌یابد"
+        ],
+        "impact": "اعتماد عمومی به دولت آمریکا کاهش می‌یابد و فشار برای تغییر سیاست‌های نظامی افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-admin-covering-number-u-201724107.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-admin-covering-number-u-201724107.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/f2462a61f2e1cd0babdd287daffd4bd48a83c41f22d10539f704f189efc395b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_new_republic_521%2F0841723506fe9a0d54cb47e7592f8a17.jpg",
+        "timestamp": 1789765917.1178265
+    },
+    {
+        "id": "d4534ef403",
+        "title_fa": "نامه باز به ترامپ درباره هوش مصنوعی",
+        "title_en": "Open letter to US President Donald Trump: Carpe diem",
+        "summary": [
+            "نامه‌ای باز به ترامپ درباره رقابت هوش مصنوعی منتشر شد",
+            "نویسنده می‌پرسد پیروزی آمریکا بدون هزینه جهانی امکان‌پذیر نیست",
+            "این پیام فشار بین‌المللی برای رعایت اخلاق در فناوری را تقویت می‌کند"
+        ],
+        "impact": "بحث عمومی درباره مسئولیت‌های اخلاقی هوش مصنوعی در ایالات متحده تشدید می‌شود",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 2,
+        "sentiment": 0.3,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-my/politics/international-relations/open-letter-to-us-president-donald-trump-carpe-diem/ar-AA2cwaA5?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-my/politics/international-relations/open-letter-to-us-president-donald-trump-carpe-diem/ar-AA2cwaA5",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789765917.1175885
+    },
+    {
         "id": "6194208963",
         "title_fa": "تصور اشتباه از جنگ ایران",
         "title_en": "Opinion | You Probably Have the Iran War Backward",
@@ -2514,6 +2553,26 @@
         "clean_url": "https://www.msn.com/en-ie/news/other/when-i-put-dishes-away-vs-tupperware/vi-AA2crObP",
         "image": "https://www.bing.com/th?id=ONUT.owmxHXyVPU6R4eEjc34XXQ",
         "timestamp": 1789680839.2221904
+    },
+    {
+        "id": "042ef7f3fb",
+        "title_fa": "پوتین آماده بازسازی روابط با اروپا",
+        "title_en": "Russia ready to restore relations with its European neighbors — Putin",
+        "summary": [
+            "ولادیمیر پوتین اعلام کرد روسیه آماده همکاری با همسایگان اروپایی است",
+            "این اظهارات در جلسه کمیسیون نظامی-صنعتی مطرح شد",
+            "پس‌زمینه این گفتار، تنش‌های اخیر با اتحادیه اروپا است",
+            "اگر روابط بهبود یابد، تحریم‌های اقتصادی ممکن است کاهش یابد"
+        ],
+        "impact": "مسیر مذاکرات برای کاهش تحریم‌های اقتصادی علیه روسیه باز می‌شود",
+        "tag": "دیپلماتیک",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2189953",
+        "clean_url": "https://tass.com/politics/2189953",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260918/1487221.jpg",
+        "timestamp": 1789679511.0
     },
     {
         "id": "681d4e0d9e",
@@ -5382,63 +5441,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/brit-hume-spots-a-major-donald-trump-warning-sign-in-new-fox-news-poll/ar-AA2cpObk",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789635813.2616603
-    },
-    {
-        "id": "6ba9622050",
-        "title_fa": "حوثی‌ها از شبه‌نظامی به تهدید منطقه‌ای تبدیل شدند",
-        "title_en": "How Yemen's Houthis went from a small mountain militia to a big regional threat",
-        "summary": [
-            "حوثی‌ها کنترل استراتژیک باب‌ال‌مندب را به دست گرفتند",
-            "این مسیر کلیدی عبور نفت و کالاهای بین‌المللی است",
-            "توانمندی‌های نظامی حوثی‌ها به سرعت رشد کرده و تهدید به کشتی‌رانی ایجاد شد",
-            "حضور حوثی‌ها در آب‌های بین‌ال‌مللی فشار بین‌المللی را بالا برده"
-        ],
-        "impact": "اختلال در عبور کشتی‌های تجاری و افزایش هزینه‌های حمل‌ونقل",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/how-yemens-houthis-went-small-mountain-militia-big-regional-threat-2026-09-17/",
-        "clean_url": "https://www.reuters.com/world/middle-east/how-yemens-houthis-went-small-mountain-militia-big-regional-threat-2026-09-17",
-        "image": "https://www.reuters.com/resizer/v2/562AGJORM5MP7AJVRLW4CMTYAE.jpg?auth=06f6a300b4c7a75714cad5aae7d487580ac4d7b45f3986ec4537374e1ee80f0b&width=1080&quality=80",
-        "timestamp": 1789635720.0
-    },
-    {
-        "id": "e250bb013c",
-        "title_fa": "بودجه بریتانیا: مالیات بر خانه‌های تعطیلات",
-        "title_en": "Andy Burnham considering tax hike on holiday lets ahead of Budget",
-        "summary": [
-            "دولت انگلستان قصد دارد خانه‌های تعطیلات را به‌عنوان «دومین مسکن» طبقه‌بندی کند تا مالیات بیشتری دریافت شود.",
-            "مالیات جدید می‌تواند هزینه سالانه مالکین را بین ۱٬۰۰۰ تا ۳٬۰۰۰ پوند افزایش دهد و فشار فروش را بر آن‌ها بگذارد.",
-            "این اقدام در چارچوب تلاش برای جمع‌آوری حدود ۱۰ میلیارد پوند از طریق افزایش مالیات‌ها و کاهش هزینه‌ها در اولین بودجه پس از بحران اقتصادی ناشی از جنگ ایران است."
-        ],
-        "impact": "مالیات بر خانه‌های تعطیلات هزینه مالکین را بالا می‌برد و ممکن است باعث خروج سرمایه‌گذاران از بخش گردشگری شود.",
-        "tag": "مالیات",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Yahoo News UK",
-        "url": "https://uk.news.yahoo.com/andy-burnham-considering-tax-hike-074551662.html",
-        "clean_url": "https://uk.news.yahoo.com/andy-burnham-considering-tax-hike-074551662.html",
-        "image": "https://www.bing.com/th?id=ONUT.EAmmHfPL_TuEp6deRPUWQg",
-        "timestamp": 1789635009.0
-    },
-    {
-        "id": "aa135e8e22",
-        "title_fa": "تحت تحریم: صرافی بیت‌بانک برای انتقال بیت‌کوین به سپاه",
-        "title_en": "Ships Paid Bitcoin to Pass Through Hormuz. Now the US Has Sanctioned the Exchange Behind It.",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا صرافی بیت‌بانک را به دلیل انتقال صدها میلیون دلار بیت‌کوین به سپاه پاسداران تحریم کرد.",
-            "پلتفرم Hormuz Safe برای پرداخت‌های کشتی‌های عبوری از تنگه هرمز از این صرافی استفاده می‌کرد؛ حالا دسترسی به این مسیر مالی مسدود شد.",
-            "تحریم بخشی از «عملیات Economic Outcast» است که هدفش تضعیف زیرساخت‌های رمزارزی ایران و محدود کردن منابع مالی سپاه است."
-        ],
-        "impact": "تحریم باعث قطع جریان بیت‌کوین به سپاه می‌شود و فشار مالی بر توان مالی نظامی ایران را افزاش می‌دهد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "CoinCentral",
-        "url": "https://coincentral.com/ships-paid-bitcoin-to-pass-through-hormuz-now-the-us-has-sanctioned-the-exchange-behind-it/",
-        "clean_url": "https://coincentral.com/ships-paid-bitcoin-to-pass-through-hormuz-now-the-us-has-sanctioned-the-exchange-behind-it",
-        "image": "https://www.bing.com/th?id=ONUT.cPMPkkqpktiYTra6AS8o7A",
-        "timestamp": 1789635008.0
     }
 ]
