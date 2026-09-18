@@ -2591,6 +2591,40 @@
         "timestamp": 1789678320.0
     },
     {
+        "id": "4b7619a70a",
+        "title_fa": "خبر بین‌المللی — ترامپ bans CNN, MS NOW و Politico from White House",
+        "title_en": "Trump bans CNN, MS NOW and Politico from White House",
+        "summary": [
+            "President accuses outlets of reporting ‘fiction and lies’ and warns others could follow; move comes amid continuing legal fight over White House restrictions on AP access..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/article/s1aqfgotgx",
+        "clean_url": "https://www.ynetnews.com/article/s1aqfgotgx",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/06/SyvN5Pbnbl/SyvN5Pbnbl_0_0_3000_2000_0_large.jpg",
+        "timestamp": 1789677629.0
+    },
+    {
+        "id": "4a67ff80a5",
+        "title_fa": "خبر بین‌المللی — ترامپ reveals 'big decision' coming در ایران نظامی strikes",
+        "title_en": "Trump reveals 'big decision' coming on Iran military strikes",
+        "summary": [
+            "President Trump is weighing a critical next move in the conflict with Iran, stating he has a \"big decision\" to make. He told..."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "KTVU FOX 2",
+        "url": "https://www.ktvu.com/video/fmc-h7kl0b3sbr4sqk3k",
+        "clean_url": "https://www.ktvu.com/video/fmc-h7kl0b3sbr4sqk3k",
+        "image": "https://www.bing.com/th?id=ONUT.dMsuAtqaP3yx1BpZ12nALg",
+        "timestamp": 1789677629.0
+    },
+    {
         "id": "51b70d380d",
         "title_fa": "ترامپ با حوثی‌ها و خلیج برای پایان جنگ ایران",
         "title_en": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
@@ -5406,39 +5440,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMV9zWE1Pa05OWTdVcFI0M3puOFJBejlKeTFkLXlWR19pOTBsRWR6d3B5YjJ4NGpVY3FBSU9WWEMyUG9BN3dtNFJMVTZXbE8xN1lVbDAzb19rOEt5RG53Ri1vLW83cHFEenZNeDZfVGprTnJuWkdZR2l3Wnl1emRIWGVhOEZTN3hz",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789634925.0
-    },
-    {
-        "id": "c2dba2c1bb",
-        "title_fa": "آیا ایران همچنان می‌تواند به سپاه پاسداران انقلاب اسلامی کمک مالی کند؟",
-        "title_en": "Can Iran Still Fund the IRGC With Crypto? Treasury Just Sanctioned Another Exchange",
-        "summary": [
-            "OFAC sanctions Iranian exchange BitBank after Babak Zanjani routed hundreds of millions in Bitcoin to the IRGC."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-still-fund-irgc-crypto-074111402.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-still-fund-irgc-crypto-074111402.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/fe0a558383236c431cc53df50f875d37b989e737f36c29fb28b4a7f2699b097f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fb02a5fcfb82b60f80dfdde153303b2ae.png",
-        "timestamp": 1789634529.0
-    },
-    {
-        "id": "4bed0ae220",
-        "title_fa": "جنگ ایران اختلافات تلخی را برای دیاسپورا در ایالات متحده ایجاد می‌کند",
-        "title_en": "Iran war sows bitter divisions for diaspora in US",
-        "summary": [
-            "The Iranian-American community in the US has experienced divisions since the war on Iran began, with some finding themselves ostracized based on their views. Many feel conflicted between their disdain..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Arab News",
-        "url": "https://www.arabnews.com/world/iran-war-sows-bitter-divisions-for-diaspora-in-us-3002181",
-        "clean_url": "https://www.arabnews.com/world/iran-war-sows-bitter-divisions-for-diaspora-in-us-3002181",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789634528.0
     }
 ]
