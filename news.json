@@ -1,5 +1,60 @@
 [
     {
+        "id": "ec4ee5675a",
+        "title_fa": "پایداری گروه‌های مسلح ایران در برابر سرکوب",
+        "title_en": "Why Iran’s thugs are so resilient",
+        "summary": [
+            "حکومت به سرکوب هر اعتراض جدید می‌پردازد تا از سقوط قدرت جلوگیری کند",
+            "قابلیت مقاومت این نیروها باعث می‌شود که اعتراضات به‌سرعت فروکش نکند"
+        ],
+        "impact": "سرکوب گسترده اعتراضات، تداوم ناآرامی داخلی",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/opinions/2026/09/18/how-crack-iranian-resilience-target-mercenaries/",
+        "clean_url": "https://www.washingtonpost.com/opinions/2026/09/18/how-crack-iranian-resilience-target-mercenaries",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789729517.9704645
+    },
+    {
+        "id": "3bf4fbf964",
+        "title_fa": "جلسه عمومی سازمان ملل در نیویورک",
+        "title_en": "His staff reads the threat file. Mamdani only gets the summary",
+        "summary": [
+            "رهبران جهان به نیویورک می‌آیند و فرصت دیپلماتیک جدیدی برای بحث درباره ایران فراهم می‌شود",
+            "حضور مقامات ایرانی می‌تواند فشار بین‌المللی را بر سیاست‌های هسته‌ای افزایش دهد"
+        ],
+        "impact": "فرصت دیپلماتیک برای اعمال فشار بین‌المللی",
+        "tag": "دیپلماتیک",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/his-staff-reads-the-threat-file-mamdani-only-gets-the-summary/ar-AA2cumf3?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/his-staff-reads-the-threat-file-mamdani-only-gets-the-summary/ar-AA2cumf3",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789729517.9699917
+    },
+    {
+        "id": "2b0bddb2c0",
+        "title_fa": "آمادگی برای حمله به ایران",
+        "title_en": "The next Iran strike: How legal, economic, and diplomatic pressures are priming the region for war",
+        "summary": [
+            "تحریم‌های جدید، پرونده‌های حقوقی و فشارهای اقتصادی مسیر را برای عملیات نظامی هموار می‌کند",
+            "کشورهای منطقه و ایالات متحده به‌سرعت به گزینه نظامی می‌اندیشند",
+            "هر گونه پیشرفت در این زمینه می‌تواند بازارهای انرژی را به‌طور ناگهانی نوسان دهد"
+        ],
+        "impact": "افزایش خطر نظامی، نوسان شدید قیمت نفت",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Bulletin of the Atomic Scientists",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVFBemVSQkVySzlVSzBKcHFuWWdLTDEtNHZNQmRaakNBR0FDY3FlREt3T1dmcjg1aXFhSmtWamxzQUlGTzRSeXVFSVJlLTRxMDdkN3diVzVqWVo1NWR1ZVhqNlVzdzQwSjBwMjlRaG4wM0hMSVNnNS1iN2R4VUdnTldVU3U2c0lIUEhvZExiT0NaY1RNSEU5cUJlcFdraXZfcDNGYnJVcGhNX0tETUY3X2l5QnV1SGp3UWJweGZ1Rlc4QnRTaThN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVFBemVSQkVySzlVSzBKcHFuWWdLTDEtNHZNQmRaakNBR0FDY3FlREt3T1dmcjg1aXFhSmtWamxzQUlGTzRSeXVFSVJlLTRxMDdkN3diVzVqWVo1NWR1ZVhqNlVzdzQwSjBwMjlRaG4wM0hMSVNnNS1iN2R4VUdnTldVU3U2c0lIUEhvZExiT0NaY1RNSEU5cUJlcFdraXZfcDNGYnJVcGhNX0tETUY3X2l5QnV1SGp3UWJweGZ1Rlc4QnRTaThN",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789728901.0
+    },
+    {
         "id": "86d16d70af",
         "title_fa": "پوتین سرازیر شده نمی‌تواند هدیه نفس گیر جرد کوشنر مرگ مغزی را باور کند |",
         "title_en": "Drooling Putin can't believe brain-dead Jared Kushner's breathtaking gift | Opinion",
@@ -5356,57 +5411,6 @@
         "url": "https://www.msn.com/en-us/money/economy/no-relief-in-sight-for-us-drivers-as-gas-and-diesel-prices-surge/ar-AA2cs3kz?ocid=BingNewsVerp",
         "clean_url": "https://www.msn.com/en-us/money/economy/no-relief-in-sight-for-us-drivers-as-gas-and-diesel-prices-surge/ar-AA2cs3kz",
         "image": "https://www.bing.com/th?id=ONUT.FMOu2o7DllU5ZHl2U4nUSw",
-        "timestamp": 1789594422.0
-    },
-    {
-        "id": "23749b57af",
-        "title_fa": "بازرسان سازمان ملل به «دلایل منطقی» برای این باورند که برخی حملات آمریکا در ایران جنایت جنگی بوده است",
-        "title_en": "UN investigators conclude 'reasonable grounds' to believe certain US strikes in Iran were war crimes",
-        "summary": [
-            "The U.N.’s fact-finding mission on Iran acknowledged it found “reasonable grounds” to conclude the U.S. military committed..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/un-investigators-conclude-reasonable-grounds-to-believe-certain-us-strikes-in-iran-were-war-crimes/ar-AA2cs858?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/un-investigators-conclude-reasonable-grounds-to-believe-certain-us-strikes-in-iran-were-war-crimes/ar-AA2cs858",
-        "image": "https://www.bing.com/th?id=ONUT.My3ibggTw0P5mjW9PZ--DA",
-        "timestamp": 1789594422.0
-    },
-    {
-        "id": "f4e4f0d729",
-        "title_fa": "آمریکا شبکه دارایی دیجیتال ایران را تحریم کرد",
-        "title_en": "US sanctions Iran digital asset network",
-        "summary": [
-            "WashingtonThe US Treasury Department on Thursday sanctioned Iranian digital asset exchange BitBank, its software developer,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Shafaq News",
-        "url": "https://shafaq.com/en/World/US-sanctions-Iran-digital-asset-network",
-        "clean_url": "https://shafaq.com/en/World/US-sanctions-Iran-digital-asset-network",
-        "image": "https://www.bing.com/th?id=ONUT.qYOzLiQP8vZ4LZ-QXx06TQ",
-        "timestamp": 1789594422.0
-    },
-    {
-        "id": "4bdff58bbf",
-        "title_fa": "بشیر ترامپ را به دلیل افزایش قیمت گاز مقصر می‌داند و می‌گوید که باید به جنگ با ایران پایان دهد",
-        "title_en": "Beshear blames Trump for rising gas prices, says he needs to end war with Iran",
-        "summary": [
-            "Kentucky Gov. Andy Beshear spoke on rising gas prices across the U.S., saying President Donald Trump's war with Iran is to blame."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "WLKY",
-        "url": "https://www.wlky.com/article/gas-prices-president-trump-iran-war-beshear/73779039",
-        "clean_url": "https://www.wlky.com/article/gas-prices-president-trump-iran-war-beshear/73779039",
-        "image": "https://kubrick.htvapps.com/htv-prod/images/46f729a3-a157-4f5f-a701-09ed34343f93.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
         "timestamp": 1789594422.0
     }
 ]
