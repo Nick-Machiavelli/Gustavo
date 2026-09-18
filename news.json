@@ -2075,6 +2075,26 @@
         "timestamp": 1789657260.0
     },
     {
+        "id": "d32a792b8d",
+        "title_fa": "یک‌سوم ظرفیت گاز پس از جنگ از دست رفته",
+        "title_en": "Iran faces postwar winter with a third of gas capacity lost",
+        "summary": [
+            "حملات حدود ۲۳۰ میلیون مترمکعب در روز تولید گاز را از دست دادند؛ یعنی بیش از یک‌سوم خروجی پیش‌جنگ.",
+            "تهران می‌خواهد در ماه‌های آینده حدود ۱۰۰ میلیون مترمکعب روزانه بازگرداند، اما هنوز کمتر از نصف ضرر است.",
+            "هزینه تعمیر زیرساخت‌های انرژی تا ۱۹ میلیارد دلار برآورد می‌شود؛ کمبود تجهیزات و نیروی کار بازسازی را سخت می‌کند.",
+            "زمستان اولین آزمون واقعی برای توانایی ایران در حفظ تأمین انرژی و جلوگیری از خاموشی‌های صنعتی است."
+        ],
+        "impact": "کاهش شدید تولید گاز، فشار بر تأمین انرژی داخلی و صادرات، هزینه‌های سنگین تعمیرات.",
+        "tag": "گاز",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609175281",
+        "clean_url": "https://www.iranintl.com/en/202609175281",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/745c7acd5548095c31087a31934dfc91fe3b4073-1160x773.jpg?rect=34,154,985,517&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789656540.0
+    },
+    {
         "id": "c085e3be83",
         "title_fa": "خبر بین‌المللی — New poll asked Americans who they trust در biggest issues..",
         "title_en": "New poll asked Americans who they trust on the biggest issues... Democrats led Republicans almost across the board",
@@ -5392,23 +5412,6 @@
         "url": "https://www.msn.com/en-us/news/other/dow-gains-316-nasdaq-rallies-440-s-p-500-adds-86/ar-AA2cs0WT?ocid=BingNewsVerp",
         "clean_url": "https://www.msn.com/en-us/news/other/dow-gains-316-nasdaq-rallies-440-s-p-500-adds-86/ar-AA2cs0WT",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789595227.0
-    },
-    {
-        "id": "9fe317a4dd",
-        "title_fa": "خبر بین‌المللی — ترامپ says he is weighing whether به 'annihilate' ایران",
-        "title_en": "Trump says he is weighing whether to 'annihilate' Iran",
-        "summary": [
-            "Trump says he is weighing whether to ‘annihilate’ Iran - ‘It's a big decision. Anything could happen with me,’ Trump said..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-au/news/other/trump-says-he-is-weighing-whether-to-annihilate-iran/ar-AA2cskKZ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/other/trump-says-he-is-weighing-whether-to-annihilate-iran/ar-AA2cskKZ",
-        "image": "https://www.bing.com/th?id=ONUT.ERBTeGAMajDNZYZYFDeCWQ",
         "timestamp": 1789595227.0
     }
 ]
