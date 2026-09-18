@@ -1,5 +1,22 @@
 [
     {
+        "id": "b96384da1a",
+        "title_fa": "خبر بین‌المللی — AI is arriving at most dangerous possible moment",
+        "title_en": "AI is arriving at the most dangerous possible moment",
+        "summary": [
+            "The world does not lack intelligence. It lacks time for wisdom."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The Christian Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/ai-is-arriving-at-the-most-dangerous-possible-moment/ar-AA2cto40?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/ai-is-arriving-at-the-most-dangerous-possible-moment/ar-AA2cto40",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789707794.7030458
+    },
+    {
         "id": "a0cf725107",
         "title_fa": "پاکستان از حمایت از سلطنت سعودی عقب‌نشینی کرد",
         "title_en": "Pakistan backtracks on defence of Saudi monarchy",
@@ -5294,6 +5311,23 @@
         "timestamp": 1789581825.4503794
     },
     {
+        "id": "332360ae42",
+        "title_fa": "خبر بین‌المللی — ایران جنگ updates: ترامپ mulls تهران’s ‘annihilation’ as com",
+        "title_en": "Iran war updates: Trump mulls Tehran’s ‘annihilation’ as combat roils Yemen",
+        "summary": [
+            "Israel war on Iran from Thursday, September 17, 2026."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2295602609-1-1789642509.jpg?resize=1200%2C630",
+        "timestamp": 1789581780.0
+    },
+    {
         "id": "4923428659",
         "title_fa": "خبر بین‌المللی — Rubio takes behind--scenes role در ایران جنگ, while keeping",
         "title_en": "Rubio takes behind-the-scenes role on Iran war, while keeping his options open for the future",
@@ -5377,39 +5411,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/trump-hopes-iran-war-nearing-end-houthi-saudi-fighting-escalates-2026-09-17",
         "image": "https://www.bing.com/th?id=ONUT.eaJYEQqed35Uw44kjA2INg",
         "timestamp": 1789580468.0
-    },
-    {
-        "id": "335b6b26cd",
-        "title_fa": "خبر بین‌المللی — هرمز disruption was ایران’s big weapon. جهانی is adapting",
-        "title_en": "Hormuz disruption was Iran’s big weapon. The world is adapting",
-        "summary": [
-            "Strait remains a powerful weapon, but months of disruption have pushed Gulf states and markets to find costly alternatives..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/hormuz-disruption-was-iran-s-big-weapon-the-world-is-adapting-article-14032046.html",
-        "clean_url": "https://www.moneycontrol.com/world/hormuz-disruption-was-iran-s-big-weapon-the-world-is-adapting-article-14032046.html",
-        "image": "http://www.bing.com/th?id=ONUT.d-p9x6PhMdObbjDj6NUF3w&pid=News",
-        "timestamp": 1789580100.0
-    },
-    {
-        "id": "1499ecb674",
-        "title_fa": "خبر بین‌المللی — ایران's surprise win over US at UN atomic watchdog complicat",
-        "title_en": "Iran's surprise win over US at UN atomic watchdog complicates diplomacy",
-        "summary": [
-            "Iran won a seat on the IAEA General Committee via secret ballot, undermining US efforts to isolate Tehran just days after its nuclear file was"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-wins-iaea-seat-us-diplomacy/",
-        "clean_url": "https://cryptobriefing.com/iran-wins-iaea-seat-us-diplomacy",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/16133450/library-iran-s-surprise-win-over-us-at-un-atomic-watchdog-compli-800x450.png",
-        "timestamp": 1789580100.0
     }
 ]
