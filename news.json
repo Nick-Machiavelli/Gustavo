@@ -1,5 +1,42 @@
 [
     {
+        "id": "66dac83585",
+        "title_fa": "حوثی‌ها با طرح خود، واشنگتن و ریاض را فریب دادند",
+        "title_en": "How the Houthis Outmaneuvered Washington and Riyadh",
+        "summary": [
+            "حوثی‌ها بدون فرمان مستقیم از تهران، موضع خود را در باب باب‌ال‌مندب تقویت کردند",
+            "تصاویر ماهواره‌ای نشان می‌دهد که نیروهای حوثی خطوط دفاعی خاکی گسترده‌ای ساخته‌اند",
+            "مذاکرات پنهانی در مسقط نشان می‌دهد که این گروه می‌خواهد نقش مستقل منطقه‌ای را حفظ کند"
+        ],
+        "impact": "حریفان خلیج ممکن است استراتژی‌های نظامی خود را بازنگری کنند",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Middle East Monitor",
+        "url": "https://www.middleeastmonitor.com/20260918-how-the-houthis-outmaneuvered-washington-and-riyadh/",
+        "clean_url": "https://www.middleeastmonitor.com/20260918-how-the-houthis-outmaneuvered-washington-and-riyadh",
+        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/07/AA-20260717-42002739-42002732-HOUTHIS_PROTEST_IN_SANAA_IN_SUPPORT_OF_ALHOUTHIS_STATEMENTS-1.jpg?fit=920%2C613&ssl=1",
+        "timestamp": 1789733791.1646273
+    },
+    {
+        "id": "3242c64cb1",
+        "title_fa": "آب و هوا vs اسکرول مهلک در شبکه‌های اجتماعی",
+        "title_en": "Time for a gut check: Severe weather vs. social media doomscrolling",
+        "summary": [
+            "هوای شدید می‌تواند حس ناامیدی را تقویت کند، اما الگوریتم‌های پلتفرم‌ها اضطراب را تشدید می‌کند",
+            "پیشنهاد می‌شود کاربران زمان مصرف رسانه را محدود کنند تا از اثرات روانی جلوگیری شود"
+        ],
+        "impact": "افزایش اضطراب عمومی ممکن است رفتار مصرف‌کننده را تغییر دهد",
+        "tag": "جامعه",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Amazon S3 on MSN",
+        "url": "https://www.msn.com/en-ca/public-safety-and-emergencies/natural-disasters/time-for-a-gut-check-severe-weather-vs-social-media-doomscrolling/vi-AA2cv8Z7?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/public-safety-and-emergencies/natural-disasters/time-for-a-gut-check-severe-weather-vs-social-media-doomscrolling/vi-AA2cv8Z7",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789733791.1643014
+    },
+    {
         "id": "74ef330b7e",
         "title_fa": "تحریم‌های تند ترامپ علیه امپراتوری قطبی روسیه",
         "title_en": "Trump’s sanctions hole-in-one: How to freeze Putin’s Arctic empire and end Europe’s double game",
@@ -2462,6 +2499,24 @@
         "clean_url": "https://www.msn.com/en-za/money/economy/trump-s-money-man-has-defied-him-he-won-t-forget-this/ar-AA2cqpen",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789648149.912284
+    },
+    {
+        "id": "8666af26c6",
+        "title_fa": "سنت‌ها درخواست بررسی ربات‌های «ساخت آمریکا» از والمارت و آمازون",
+        "title_en": "The morning risk report: Senators ask FTC to probe Walmart and Amazon over bots’ ‘Made in America’ data",
+        "summary": [
+            "کمیسیون تجارت ایالات متحده می‌خواهد مطمئن شود ادعای «ساخت در آمریکا» واقعی است",
+            "اگر ربات‌ها داده‌های تقلبی ارائه دهند، جریمه‌های سنگین برای دو غول خرده‌فروشی پیش می‌آید"
+        ],
+        "impact": "قوانین جدید می‌تواند زنجیره تأمین و تبلیغات آنلاین را تحت فشار قرار دهد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/money/general/the-morning-risk-report-senators-ask-ftc-to-probe-walmart-and-amazon-over-bots-made-in-america-data/ar-AA2cus8J?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/the-morning-risk-report-senators-ask-ftc-to-probe-walmart-and-amazon-over-bots-made-in-america-data/ar-AA2cus8J",
+        "image": "https://www.bing.com/th?id=ONUT.Y-b1LinURHcIQz3Tk-QLxg",
+        "timestamp": 1789647386.0
     },
     {
         "id": "a7cfcc5d03",
@@ -5367,59 +5422,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1Z3QlVPb0I2RU1YZ1VaTEw5b09Zc3YxVWxjNWZGMGQxWHR1YlhqWkQyQk04LVRmdm1neENQcGc3REUzYTFsSEQyZzFTNFNubHA5bXN4S1BtSGFyS05wemd5M3ZpYVNTeU1HZl9Qa01yME9lUTVjRkJxR0xwN2F2aUFiXzJLczR5N2xYem9Pa0ZaNnJDaWlTMnQ1Z3lkWHc1TTdFZi1YcV9YaWZZYU1EXy1YcEk2aW1UNkhVckVWdw",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789597860.0
-    },
-    {
-        "id": "d7b1efd0a6",
-        "title_fa": "ایران به ترامپ مهلت مذاکرات داد",
-        "title_en": "Middle East latest: Iran gives Trump talks ultimatum",
-        "summary": [
-            "ایران خواست مذاکرات درباره تحریم‌ها و برنامه هسته‌ای در چارچوب زمان محدود پیش برود.",
-            "این فشار می‌تواند واکنش‌های سخت‌گیرانهٔ ترامپ را در قبال ایران تشدید کند."
-        ],
-        "impact": "احتمال افزایش تنش‌های دیپلماتیک و اعمال تحریم‌های جدید علیه ایران",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Sky",
-        "url": "https://news.sky.com/story/iran-israel-latest-trump-lebanon-hezbollah-netanyahu-strike-attack-live-13509565",
-        "clean_url": "https://news.sky.com/story/iran-israel-latest-trump-lebanon-hezbollah-netanyahu-strike-attack-live-13509565",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789597305.0
-    },
-    {
-        "id": "663af509d3",
-        "title_fa": "عارجی نقش چین را برای صلح منطقه‌ای تأکید کرد",
-        "title_en": "Araghchi stresses China's role in regional peacePublished on: September 17, 2026 8:50 PM",
-        "summary": [
-            "وزیر خارجه ایران گفت تصمیمات حاصل از سفر به پکن می‌تواند تعادل استراتژیک خاورمیانه را تغییر دهد.",
-            "چین به عنوان میانجی اقتصادی و نظامی می‌تواند فشارهای نظامی را کاهش دهد.",
-            "این پیام نشان می‌دهد ایران به دنبال تنوع در هم‌پیمانی‌های منطقه‌ای است."
-        ],
-        "impact": "تقویت نقش چین در مذاکرات منطقه‌ای و کاهش احتمال برخورد نظامی",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/asia/pakistan/araghchi-stresses-chinas-role-in-regional-peacepublished-on-september-17-2026-850-pm/ar-AA2cs6Lw?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/araghchi-stresses-chinas-role-in-regional-peacepublished-on-september-17-2026-850-pm/ar-AA2cs6Lw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789597305.0
-    },
-    {
-        "id": "394ed974eb",
-        "title_fa": "خبر بین‌المللی — President Donald ترامپ threatens large-scale حمله در ایران",
-        "title_en": "President Donald Trump threatens large-scale attack on Iran",
-        "summary": [
-            "U.S. President Donald Trump stated on the 17th that the U.S. is at a “critical juncture” regarding whether to resume..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Chosun Ilbo on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/president-donald-trump-threatens-large-scale-attack-on-iran/ar-AA2crw2v?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/president-donald-trump-threatens-large-scale-attack-on-iran/ar-AA2crw2v",
-        "image": "https://www.bing.com/th?id=ONUT.6aAn2cW5pfnxmmX3UO1FUg",
-        "timestamp": 1789596757.0
     }
 ]
