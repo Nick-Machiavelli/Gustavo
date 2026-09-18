@@ -1,5 +1,25 @@
 [
     {
+        "id": "be08c4a8d4",
+        "title_fa": "افزایش نرخ بهره فدرال و بحران بازار خزانه‌داری",
+        "title_en": "Fed rate hikes, US Treasury market & crisis of empire",
+        "summary": [
+            "فدرال نرخ بهره کوتاه‌مدت را ۲۵ پایه از ۳٫۷۵٪ به ۴٫۰۰٪ ارتقا داد.",
+            "این افزایش فشار بر بازار اوراق خزانه‌داری آمریکا می‌افزاید و نوسان قیمت‌ها را تشدید می‌کند.",
+            "هزینه استقراض برای شرکت‌ها و دولت‌ها بالا می‌رود و رشد اقتصادی را تهدید می‌کند.",
+            "قیمت دلار ممکن است تحت فشار قرار گیرد؛ هزینه‌های قرض‌گیری برای کشورهای در حال توسعه، از جمله ایران، افزایش می‌یابد."
+        ],
+        "impact": "هزینه سرویس بدهی عمومی و خصوصی بالا می‌رود؛ فشار بر ارزهای نوظهور تقویت می‌شود.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "ZNetwork on MSN",
+        "url": "https://www.msn.com/en-us/news/other/fed-rate-hikes-us-treasury-market-crisis-of-empire/ar-AA2cwec5?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/fed-rate-hikes-us-treasury-market-crisis-of-empire/ar-AA2cwec5",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789748524.6773891
+    },
+    {
         "id": "5cadf753f1",
         "title_fa": "سورپرایز استراتژیک بعدی اسرائیل؛ جنگ نیست",
         "title_en": "Israel’s next strategic surprise may not be a war",
@@ -5411,23 +5431,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-trump-says-conflict-hopefully-nearing-end/ar-AA2cozdR",
         "image": "http://www.bing.com/th?id=ONUT.kK98fiyYGybMBPNbCXxukg&pid=News",
         "timestamp": 1789614696.0
-    },
-    {
-        "id": "aca09699c9",
-        "title_fa": "مجلس آمریکا لایحه تحریم جدید روسیه را تصویب کرد",
-        "title_en": "Michael Baumgartner, Russ Fulcher help House pass Russia sanctions bill named for the late Lindsey Graham",
-        "summary": [
-            "نمایندگان جمهوری‌خواه شمال‌غربی با حمایت محدود دموکرات‌ها لایحه‌ای برای تحریم‌های جدید علیه روسیه تصویب کردند.",
-            "این لایحه پس از تصویب سنا به دست ترامپ می‌رسد و می‌تواند قدرت او در اعمال تعرفه‌ها را تقویت کند."
-        ],
-        "impact": "تحریم‌ها فشار اقتصادی بر روسیه را افزون می‌کند و نقش ترامپ در سیاست تجاری را برجسته می‌سازد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/michael-baumgartner-russ-fulcher-help-020300164.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/michael-baumgartner-russ-fulcher-help-020300164.html",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789614194.0
     }
 ]
