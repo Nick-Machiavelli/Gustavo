@@ -2578,6 +2578,23 @@
         "timestamp": 1789621977.0
     },
     {
+        "id": "e6805d10ae",
+        "title_fa": "خبر بین‌المللی — Tillis supports Hegseth impeachment resolution: ‘He needs به",
+        "title_en": "Tillis supports Hegseth impeachment resolution: ‘He needs to go’",
+        "summary": [
+            "Sen. Thom Tillis (R-N.C.), who voted to confirm Defense Secretary Pete Hegseth, is renewing his call for President Trump to..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/senate/6097194-tillis-calls-for-hegseth-impeachment/",
+        "clean_url": "https://thehill.com/homenews/senate/6097194-tillis-calls-for-hegseth-impeachment",
+        "image": "https://www.bing.com/th?id=ONUT.FMiz1mVqN20qzOGYDmKl_A",
+        "timestamp": 1789620085.0
+    },
+    {
         "id": "b7d9786122",
         "title_fa": "تحریم خشن آمریکا بر خریداران نفت روسیه",
         "title_en": "Why US Is Punishing Russian Oil Buyers But Still Working With Moscow on Nuclear Fuel?",
@@ -5392,24 +5409,5 @@
         "clean_url": "https://www.ocregister.com/2026/09/17/mortgage-rates-sept-17",
         "image": "https://www.bing.com/th?id=ONUT.8yUpB72pMHwb85jpPs9KYA",
         "timestamp": 1789578158.0
-    },
-    {
-        "id": "332360ae42",
-        "title_fa": "ترامپ به نابودی ایران اشاره کرد",
-        "title_en": "Iran war live: Trump mulls Tehran’s ‘annihilation’ as combat roils Yemen",
-        "summary": [
-            "ترامپ در گفت‌وگوهای زنده گفت ایران باید «نابود» شود؛ پیام واضح فشار نظامی.",
-            "خبر می‌گوید ایالات متحده پشت حمله مرگبار به مدرسه میناب در فوریه بوده.",
-            "اگر این ادعاها صحت داشته باشند، خطر تشدید مستقیم جنگ در خاورمیانه بالا می‌رود."
-        ],
-        "impact": "افزایش تنش نظامی می‌تواند عملیات هوایی گسترده علیه زیرساخت‌های ایران را به دنبال داشته باشد",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2295602609-1-1789642509.jpg?resize=1200%2C630",
-        "timestamp": 1789578000.0
     }
 ]
