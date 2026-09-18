@@ -1,5 +1,24 @@
 [
     {
+        "id": "b5d2c59946",
+        "title_fa": "چت‌بات هوش مصنوعی آمریکا توهم سلاح هسته‌ای روی کشتی چینی",
+        "title_en": "US military nearly started World War III after AI chatbot hallucinated nuclear weapons aboard a Chinese ship",
+        "summary": [
+            "یک ربات گفتاری نظامی اطلاعات نادرستی مبنی بر حضور سلاح‌های هسته‌ای روی یک کشتی چینی منتشر کرد",
+            "پس از بررسی، این ادعا کاملاً غلط تشخیص داده شد و خطر تشدید تنش‌های بین‌المللی از بین رفت",
+            "حادثه نشان می‌دهد که خطای هوش مصنوعی می‌تواند به‌سرعت به بحران‌های ژئوپلیتیک منجر شود"
+        ],
+        "impact": "خطای هوش مصنوعی می‌تواند واکنش‌های نظامی ناخواسته و ارتقای تنش‌های جهانی را تحریک کند",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.0,
+        "source": "Futurism on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-military-nearly-started-world-war-iii-after-ai-chatbot-hallucinated-nuclear-weapons-aboard-a-chinese-ship/ar-AA2cwU1J?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-military-nearly-started-world-war-iii-after-ai-chatbot-hallucinated-nuclear-weapons-aboard-a-chinese-ship/ar-AA2cwU1J",
+        "image": "https://www.bing.com/th?id=ONUT.57PjJ_hZusfyF-uLktMXnw",
+        "timestamp": 1789768995.2482603
+    },
+    {
         "id": "dc1bf32999",
         "title_fa": "نیکول والاس در اولین بیماری ام اس از «قبض قدرت اقتدارگرایانه» ترامپ انتقاد کرد و اکنون به ممنوعیت WH اشاره کرد.",
         "title_en": "Nicolle Wallace Slams Trump’s ‘Authoritarian Power Grab’ in First MS Now Mention of WH Ban",
@@ -2533,6 +2552,81 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW0xSnVFQ1JsVExqeGFxYUpCdjc0OXg5cVFuM29YTmhrVWE4WFJYaGZ1dXBVa0gycm5NTXlOVTJ0bjBEY0Fsb2VFcFFRc2VnQzVOY0lWYl9OMk5nWEgtQjl5MktrTlVjbFBzcDA2b0JNVWVhcXVtTlFjYjJwaWtJNnY5dGJPRXNuQzh6Y195WDJyVlRzYTFfTERqN21fTEwtcF9BdGliV3cxR2RqcFUwS2tmQWtMek5KaC10dThB",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789683120.0
+    },
+    {
+        "id": "ec1a0ce630",
+        "title_fa": "تاکسی‌نقلیه توگو در هرمز هدف حمله ایران",
+        "title_en": "Togo-Flagged Tanker Near Hormuz: Iran’s Strike Claim and What Is Confirmed",
+        "summary": [
+            "ایران ادعا کرد ناوگان سپاه در ۱۸ سپتامبر کشتی توگوپرچم «Trend» را در هرمز اصابت کرد",
+            "رسانه‌های بریتانیایی حوادثی نزدیک گزارش کردند اما هیچ‌کدام ارتباط مستقیم با این کشتی را تأیید نکردند",
+            "ایران گفت پس از آتش‌سوزی کشتی متوقف شد و عبور غیرمجاز را محکوم کرد"
+        ],
+        "impact": "این ادعا می‌تواند فشار بر ترافیک نفتی هرمز را افزایشد و ریسک برخوردهای نظامی را بالا ببرد",
+        "tag": "ناحیه‌هرمز",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Rio Times",
+        "url": "https://www.riotimesonline.com/togo-flagged-tanker-strait-of-hormuz-2026/",
+        "clean_url": "https://www.riotimesonline.com/togo-flagged-tanker-strait-of-hormuz-2026",
+        "image": "https://www.riotimesonline.com/wp-content/uploads/2026/09/img-togo-flagged-tanker-strait-of-hormuz-2026.jpg",
+        "timestamp": 1789682586.0
+    },
+    {
+        "id": "ec067daf5c",
+        "title_fa": "تمرین گسترده ۳۱۳٬۰۰۰ نفره سپاه پیام به آمریکا",
+        "title_en": "IRGC's mass exercise sparks alarm, sends message to US & Israel | Watch",
+        "summary": [
+            "سپاه پاسداران یک مانور ملی با حضور ۳۱۳٬۰۰۰ نفر نظامی و غیرنظامی در سرتاسر کشور برگزار کرد",
+            "هدف نمایش توانمندی‌های جنگی و هشدار به ایالات متحده و اسرائیل بود",
+            "شهروندان به‌صورت داوطلبانه در تمرین شرکت کردند، نشان از بسیج گسترده داخلی دارد"
+        ],
+        "impact": "نمایش قدرت نظامی می‌تواند تصمیم‌گیری‌های استراتژیک آمریکا و اسرائیل را تحت فشار قرار دهد",
+        "tag": "تمرین-نظامی",
+        "urgency": 6,
+        "sentiment": -0.1,
+        "source": "The Times of India on MSN",
+        "url": "https://www.msn.com/en-in/news/other/irgc-s-mass-exercise-sparks-alarm-sends-message-to-us-israel-watch/vi-AA2cvuWm?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/irgc-s-mass-exercise-sparks-alarm-sends-message-to-us-israel-watch/vi-AA2cvuWm",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789682586.0
+    },
+    {
+        "id": "ce2e432bff",
+        "title_fa": "کنگره آمریکا لاینس گراهام: تحریم‌های سنگین بر روسیه و ایران",
+        "title_en": "Ukraine Returns To The U.S. Agenda As Congress Passes A Sweeping Sanctions Bill On Russia",
+        "summary": [
+            "مجلس نمایندگان ۲۶ سپتامبر لاینس گراهام سناتور را به تصویب قانون تحریم‌های روسیه و ایران رساند",
+            "قانون به عنوان فشار بر اقتصادهای وابسته به نفت روسیه معرفی شد",
+            "قانون به رئیس‌جمهور اجازه می‌دهد تا تا ۱۰۰٪ تعرفه بر کشورهایی که بیشترین خرید نفت روسیه را دارند اعمال کند"
+        ],
+        "impact": "تحریم‌های جدید می‌تواند دسترسی ایران به بازارهای مالی بین‌المللی را محدود کند",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/ukraine-returns-u-agenda-congress-205750308.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/ukraine-returns-u-agenda-congress-205750308.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/90c5cc84b236e0d875ec7f73a17d78f677524ff2fa9a6734ab37a6b2d62d1b6d/lightyear_networkapi/resizefill_w960_h640%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_staff_375%2F45018fbb3a26aae23c93101da4834f57.jpg",
+        "timestamp": 1789682586.0
+    },
+    {
+        "id": "8c74639698",
+        "title_fa": "زنجیره کشتار آمریکا: نابودی مدرسه ایرانی",
+        "title_en": "Inside the US ‘Kill Chain’ That Destroyed an Iranian School",
+        "summary": [
+            "مقاله بلومبرگ درباره زنجیره کشتار آمریکا که منجر به تخریب مدرسه‌ای در ایران شد، جزئیات کافی ارائه نمی‌دهد",
+            "عدم دسترسی به اطلاعات دقیق مانع ارزیابی دقیق اثرات عملیاتی می‌شود"
+        ],
+        "impact": "اگر صحت ادعاها ثابت شود، می‌تواند واکنش‌های شدید داخلی و بین‌المللی را برانگیزد",
+        "tag": "حمله",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+        "clean_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789682586.0
     },
     {
         "id": "97c72b02f7",
@@ -5346,97 +5440,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/did-gop-become-party-minions-090618802.html",
         "image": "https://s.yimg.com/lo/mysterio/api/d377f0dff962ee45fa3e6d5f24a04b427c387742798665c2965357f9d853e396/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fusatoday-portsmouthseacoastonline-light_7237.png",
         "timestamp": 1789639408.8178732
-    },
-    {
-        "id": "b8be0c0c75",
-        "title_fa": "آمریکا باید محورهای تجاوزگر را مواجه شود",
-        "title_en": "America must confront the axis of aggressors",
-        "summary": [
-            "مقاله‌ای در Washington Examiner می‌گوید ایالات متحده هنوز دشمنان اصلی خود را به‌صورت رسمی نام نمی‌برد",
-            "نویسنده بر ضرورت مقابله با «محور تجاوزگرها» تأکید می‌کند",
-            "این فراخوان بدون ارائه جزئیات عملی، فقط به‌دلیل ایجاد حس تهدید عمومی است"
-        ],
-        "impact": "فشار سیاسی داخلی برای تغییر سیاست خارجی آمریکا افزایش می‌یابد",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/america-must-confront-the-axis-of-aggressors/ar-AA2cpWgS?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/america-must-confront-the-axis-of-aggressors/ar-AA2cpWgS",
-        "image": "https://www.bing.com/th?id=ONUT.VNYTYA22xjZ6NyfLMb5eVA",
-        "timestamp": 1789639408.8175318
-    },
-    {
-        "id": "723b00fd47",
-        "title_fa": "حوثی‌ها می‌توانند جنگ ایران را به نفع تهران بچرخانند",
-        "title_en": "The Houthis could tip the Iran war in Tehran's favor",
-        "summary": [
-            "حوثی‌ها به‌سرعت در یمن پیشرفت کردند و توانستند نیروی هوایی اسرائیل را محدود کنند",
-            "این تحولات به‌نفع ایران است چون حوثی‌ها حامی تهران هستند",
-            "واشنگتن ممکن است استراتژی نظامی خود را بازنگری کند",
-            "اگر حوثی‌ها نقش مستقیم بگیرند، تعادل جنگ در خاورمیانه تغییر می‌کند"
-        ],
-        "impact": "تقویت موقعیت استراتژیک ایران در جنگ منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": 0.3,
-        "source": "Responsible Statecraft on MSN",
-        "url": "https://www.msn.com/en-us/news/other/the-houthis-could-tip-the-iran-war-in-tehran-s-favor/ar-AA2ct4iQ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/the-houthis-could-tip-the-iran-war-in-tehran-s-favor/ar-AA2ct4iQ",
-        "image": "https://www.bing.com/th?id=ONUT.NbO12zDx5vjVP19Wp5njZw",
-        "timestamp": 1789639392.0
-    },
-    {
-        "id": "8c01a0d3e7",
-        "title_fa": "ایران حضور نظامی آمریکا در خاورمیانه را به خطر می‌اندازد",
-        "title_en": "Iran war puts future US military presence in Middle East in question",
-        "summary": [
-            "ادامه جنگ ایران با اسرائیل باعث تردید در حضور مستمر نیروی آمریکایی در خاورمیانه می‌شود",
-            "تحلیل‌گران می‌گویند هزینه‌های بلندمدت نظامی آمریکا در منطقه افزایش خواهد یافت",
-            "این عدم قطعیت می‌تواند تصمیم‌گیری‌های استراتژیک واشنگتن را تحت تأثیر قرار دهد"
-        ],
-        "impact": "عدم قطعیت حضور نظامی آمریکا می‌تواند خلاء امنیتی در خاورمیانه ایجاد کند",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ObVBkdldEZnN4OHdJVGlWVjVqelBaWktNZXh0dGhHOW41aEZaYW02alhmNXdRSjVrS2RKTzk5RU9VbmE0WG5ZZTdnWEhkLXVHQ1lEZUtqWlRMVHNmM1o5azZtZ3BBclQ2ZHlxaDZ1TFlIM3VNTnhXSzloLTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ObVBkdldEZnN4OHdJVGlWVjVqelBaWktNZXh0dGhHOW41aEZaYW02alhmNXdRSjVrS2RKTzk5RU9VbmE0WG5ZZTdnWEhkLXVHQ1lEZUtqWlRMVHNmM1o5azZtZ3BBclQ2ZHlxaDZ1TFlIM3VNTnhXSzloLTg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789639200.0
-    },
-    {
-        "id": "94449b8495",
-        "title_fa": "خبر بین‌المللی — GOP lawmakers unhappy with lack progress در ایران جنگ",
-        "title_en": "GOP lawmakers unhappy with lack of progress on Iran war",
-        "summary": [
-            "GOP lawmakers unhappy with lack of progress on Iran war The Hill"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU1FMZWxiaUU0enYtMWJKZm1fS1VhdDQ3Nm1hdDd5eWlsY0d3cG9JenBmMklUSWwwYnVVODdpbkxjcmVxRzl6Yng0QXYtaU9vanRwT2VDZER4b0V3SHdMWVlobDZmbDRIem11eTZYSzNkTTBlclNwMmI2RThIa0JlZm5rNDd1V1ZvWkHSAY8BQVVfeXFMTnpuUzYzZGJHdmlYXzVSc05xcGhRem5wSmxFbTUzdjVELTBWenJjNG0yWkd6ZWl5ZnhBR1FKc0p3T0d3QmJlZzZtdG52U2t3M1dqZDdJTUNqS3ZBVUt1MGJoTWFFVGVodWI5djNwRFFjZFN4OC1OQ195ekFTWktRY2ZOemg4MlZjM29kRGdkSW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU1FMZWxiaUU0enYtMWJKZm1fS1VhdDQ3Nm1hdDd5eWlsY0d3cG9JenBmMklUSWwwYnVVODdpbkxjcmVxRzl6Yng0QXYtaU9vanRwT2VDZER4b0V3SHdMWVlobDZmbDRIem11eTZYSzNkTTBlclNwMmI2RThIa0JlZm5rNDd1V1ZvWkHSAY8BQVVfeXFMTnpuUzYzZGJHdmlYXzVSc05xcGhRem5wSmxFbTUzdjVELTBWenJjNG0yWkd6ZWl5ZnhBR1FKc0p3T0d3QmJlZzZtdG52U2t3M1dqZDdJTUNqS3ZBVUt1MGJoTWFFVGVodWI5djNwRFFjZFN4OC1OQ195ekFTWktRY2ZOemg4MlZjM29kRGdkSW8",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789639200.0
-    },
-    {
-        "id": "c196b3d6a9",
-        "title_fa": "خبر بین‌المللی — UN should stop trying به be everything به everyone",
-        "title_en": "The UN should stop trying to be everything to everyone",
-        "summary": [
-            "Its next secretary-general must cut overlap and rebuild relationships with powerful states, argues Rafael Grossi, a candidate..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Economist",
-        "url": "https://www.economist.com/by-invitation/2026/09/17/the-un-should-stop-trying-to-be-everything-to-everyone",
-        "clean_url": "https://www.economist.com/by-invitation/2026/09/17/the-un-should-stop-trying-to-be-everything-to-everyone",
-        "image": "https://www.bing.com/th?id=ONUT.35qTqtDv8SWT-HDy821NbA",
-        "timestamp": 1789638672.9286513
     }
 ]
