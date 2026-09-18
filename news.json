@@ -2545,6 +2545,44 @@
         "timestamp": 1789689600.0
     },
     {
+        "id": "5851cbbe38",
+        "title_fa": "ترامپ قانون تحریم گسترده علیه روسیه را تصویب کرد",
+        "title_en": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+        "summary": [
+            "قانون ۱۰۰٪ تعرفه بر پنج واردکننده اصلی نفت و گاز روسیه را می‌طلبد.",
+            "سایه‌بانک‌ها و ناوگان مخفی تانکرهای روسیه تحت تحریم قرار می‌گیرد.",
+            "هدف، خفه کردن منابع مالی مسکو برای ادامه جنگ اوکراین است."
+        ],
+        "impact": "سرمایه‌گذاری روسیه در جنگ اوکراین به شدت محدود می‌شود",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Fox Carolina",
+        "url": "https://www.foxcarolina.com/2026/09/18/pres-trump-signs-sweeping-russia-sanctions-bill-aiming-choke-off-funds-moscow-ukraine-war/",
+        "clean_url": "https://www.foxcarolina.com/2026/09/18/pres-trump-signs-sweeping-russia-sanctions-bill-aiming-choke-off-funds-moscow-ukraine-war",
+        "image": "https://www.bing.com/th?id=ONUT.9TpjP5ZY7fdv-36X3m27Vg",
+        "timestamp": 1789688853.0
+    },
+    {
+        "id": "c963dc9d1a",
+        "title_fa": "ترامپ توافق دائمی امنیت گرینلند با دانمارک را اعلام کرد",
+        "title_en": "Trump announces bombshell deal to take ‘permanent control’ over Greenland’s security and ban ‘all adversaries forever’",
+        "summary": [
+            "ایالات متحده حق استفاده، استقرار و پرواز بر جزیره را به‌صورت دائمی دریافت کرد.",
+            "دشمنان مانند روسیه و چین از حضور نظامی در گرینلند منع می‌شوند.",
+            "توافق هزینه‌ای برای مالیات‌گذاران آمریکا ندارد."
+        ],
+        "impact": "دسترسی نظامی آمریکا به گرینلند گسترش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "The Sun",
+        "url": "https://www.thesun.co.uk/news/40426913/trump-us-take-permanent-control-greenland/",
+        "clean_url": "https://www.thesun.co.uk/news/40426913/trump-us-take-permanent-control-greenland",
+        "image": "https://www.bing.com/th?id=ONUT.REUDAA9sdLdTmhz6IuiUYg",
+        "timestamp": 1789688853.0
+    },
+    {
         "id": "76070f0752",
         "title_fa": "دموکرات‌ها هزینه جنگ ایران را به ترامپ ربط می‌دهند",
         "title_en": "Democrats seize on Iran war costs to hit Trump ahead of midterms",
@@ -5414,39 +5452,5 @@
         "clean_url": "https://www.msn.com/en-au/news/other/trump-raves-at-dirty-dogs-in-late-night-rage-post-you-will-pay-a-big-price/ar-AA2cuVLN",
         "image": "https://www.bing.com/th?id=ONUT.ikNFXIFy_qV8cYu6HfSO1Q",
         "timestamp": 1789645224.0
-    },
-    {
-        "id": "99e8db724f",
-        "title_fa": "خبر بین‌المللی — پهپاد sirens sound در northern towns; IDF probing cause",
-        "title_en": "Drone sirens sound in northern towns; IDF probing cause",
-        "summary": [
-            "Sirens warning of a suspected drone infiltration from Lebanon sound in the northern border communities of Manara and Margaliot. An interceptor missile was launched over the area, according to eyewitness reports."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/drone-sirens-sound-in-northern-towns-idf-probing-cause/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/drone-sirens-sound-in-northern-towns-idf-probing-cause",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789645140.0
-    },
-    {
-        "id": "d9abceed0e",
-        "title_fa": "خبر بین‌المللی — Fresh activity emerges at ایران’s deeply buried هسته‌ای site",
-        "title_en": "Fresh activity emerges at Iran’s deeply buried nuclear site as Trump warns Iran not to 'get cute'",
-        "summary": [
-            "Satellite imagery reveals Iran added new defenses at Pickaxe Mountain near Natanz as Trump warns Tehran not to \"get cute\" with the nuclear site."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/fresh-activity-emerges-at-iran-s-deeply-buried-nuclear-site-as-trump-warns-iran-not-to-get-cute/ar-AA2cs2u0",
-        "clean_url": "https://www.msn.com/en-us/news/other/fresh-activity-emerges-at-iran-s-deeply-buried-nuclear-site-as-trump-warns-iran-not-to-get-cute/ar-AA2cs2u0",
-        "image": "http://www.bing.com/th?id=ONUT.GknOoW0Snut3IXrSb8oaPw&pid=News",
-        "timestamp": 1789644653.0
     }
 ]
