@@ -1,5 +1,23 @@
 [
     {
+        "id": "c619bdf216",
+        "title_fa": "نظرسنجی: آمریکایی‌ها ترامپ را «فاسد» می‌نامند",
+        "title_en": "America just handed Trump a crushing two-word verdict | Opinion",
+        "summary": [
+            "۵۳٪ رای‌دهندگان ترامپ را فاسد می‌دانند",
+            "این تصویر منفی می‌تواند مانع بازگشت او به قدرت شود"
+        ],
+        "impact": "کاهش اعتبار سیاسی ترامپ در انتخابات آینده",
+        "tag": "نظرسنجی",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-au/news/other/america-just-handed-trump-a-crushing-two-word-verdict-opinion/ar-AA2cwIWy?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-au/news/other/america-just-handed-trump-a-crushing-two-word-verdict-opinion/ar-AA2cwIWy",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789758795.041489
+    },
+    {
         "id": "9dbe92b2e0",
         "title_fa": "تفنگداران دریایی اقیانوس‌پاسی درگیر تنش با ایران",
         "title_en": "Pacific-based Marines were thrust into the Iran conflict. Here's what they learned",
@@ -740,6 +758,25 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/trump-s-sanctions-hole-in-one-how-to-freeze-putin-s-arctic-empire-and-end-europe-s-double-game/ar-AA2cuczk",
         "image": "https://www.bing.com/th?id=ONUT.0f4jJ8tmVoqdttrj0zdzMQ",
         "timestamp": 1789731299.5502303
+    },
+    {
+        "id": "ced6ba84d3",
+        "title_fa": "تلفات سربازان آمریکا در جنگ ایران مخفی مانده",
+        "title_en": "More US troops have died amid Iran war than Pentagon has disclosed publicly",
+        "summary": [
+            "گزارش‌ها می‌گویند تعداد کشته‌ها بیش از ارقام رسمی دفاعی است",
+            "عدم ثبت دقیق، شفافیت نظامی را زیر سؤال می‌برد",
+            "این موضوع می‌تواند فشار داخلی بر دولت آمریکا را افزایش دهد"
+        ],
+        "impact": "کاهش اعتماد عمومی به وزارت دفاع و احتمال درخواست حسابرسی بین‌المللی",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/ar-AA2cwmIj",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/ar-AA2cwmIj",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789730636.0
     },
     {
         "id": "dfa5b51b5a",
@@ -2587,6 +2624,43 @@
         "clean_url": "https://www.bnd.com/news/nation-world/world/article317277006.html",
         "image": "https://www.mcclatchy-wires.com/public/incoming/s75a1z/picture317276913/alternates/LANDSCAPE_1200/f32804b6-9710-4475-bfc3-8897fa29c0b0",
         "timestamp": 1789672680.0
+    },
+    {
+        "id": "ff5d14226d",
+        "title_fa": "دستگاه‌های دستی در خانه‌ای در هملوک کشف شد",
+        "title_en": "Live hand grenades found in Hemlock home",
+        "summary": [
+            "پلیس دو دستبند انفجاری احتمالی را در منزل یافت",
+            "تحقیقات نشان می‌دهد ممکن است به مواد مخدر یا گروه‌های افراطی مرتبط باشد"
+        ],
+        "impact": "احتمال تهدید امنیت محلی و نیاز به بررسی‌های بیشتر",
+        "tag": "امنیت",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "WNEM on MSN",
+        "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/live-hand-grenades-found-in-hemlock-home/ar-AA2cwwE2?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/live-hand-grenades-found-in-hemlock-home/ar-AA2cwwE2",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789672390.0
+    },
+    {
+        "id": "168f3cd81c",
+        "title_fa": "ترامپ امضای لایحه تحریم روسیه و ایران را می‌گیرد",
+        "title_en": "Trump likely to sign Russia Sanctions Bill today, says White House official",
+        "summary": [
+            "لایحه به ترامپ اختیار اعمال تعرفه تا ۱۰۰٪ روی خرید نفت روسیه می‌دهد",
+            "هدف اصلی مهار ناوگان سایه روسیه و فشار بر ایران است",
+            "تصویب مجلس و سنا نشان‌دهنده فشار دو جانبه آمریکا است"
+        ],
+        "impact": "امکان اعمال تعرفه سنگین بر واردکنندگان نفت روسیه و ایران، فشار اقتصادی شدید",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/trump-likely-to-sign-russia-sanctions-bill-today-says-white-house-official-article-14033299.html",
+        "clean_url": "https://www.moneycontrol.com/world/trump-likely-to-sign-russia-sanctions-bill-today-says-white-house-official-article-14033299.html",
+        "image": "https://www.bing.com/th?id=ONUT.jP5z0LVBpOBBvAiiCEcQew",
+        "timestamp": 1789672389.0
     },
     {
         "id": "f2d683cde2",
@@ -5372,76 +5446,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/us/us-grants-visas-to-irans-pezeshkian-araghchi-for-unga-amid-war-with-tehran/articleshow/134327064.cms",
         "image": "https://static.toiimg.com/thumb/msid-134327255,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789628043.0
-    },
-    {
-        "id": "dc801b300c",
-        "title_fa": "US-ایران جنگ latest news: 71% آمریکایی voters say ترامپ administration lacks clear plan به پایان ایران جنگ, poll finds",
-        "title_en": "US-Iran war latest news: 71% of American voters say Trump administration lacks clear plan to end Iran war, poll finds",
-        "summary": [
-            "India, Sept. 18 -- A vast majority of American voters lack confidence in the federal government's long-term strategy for the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/news/other/us-iran-war-latest-news-71-of-american-voters-say-trump-administration-lacks-clear-plan-to-end-iran-war-poll-finds/ar-AA2csKSz?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-latest-news-71-of-american-voters-say-trump-administration-lacks-clear-plan-to-end-iran-war-poll-finds/ar-AA2csKSz",
-        "image": "https://www.bing.com/th?id=ONUT._wq3QZlVUJCVBf2x7fJppA",
-        "timestamp": 1789626475.0
-    },
-    {
-        "id": "e8e2f48153",
-        "title_fa": "ایران vows به keep Strait هرمز closed until ترامپ و نتانیاهو are شود power",
-        "title_en": "Iran vows to keep Strait of Hormuz closed until Trump and Netanyahu are out of power",
-        "summary": [
-            "Iran vows to keep the Strait of Hormuz closed until Trump and Netanyahu leave power, cutting daily oil transits from 130 to single digits and..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strait-hormuz-closed-trump-netanyahu/",
-        "clean_url": "https://cryptobriefing.com/iran-strait-hormuz-closed-trump-netanyahu",
-        "image": "http://www.bing.com/th?id=ONUT.lCv7iOn_7uHRYRo29ErwDw&pid=News",
-        "timestamp": 1789625940.0
-    },
-    {
-        "id": "1e9ac51a44",
-        "title_fa": "چهار سال پس از مرگ مهسا امینی؛ اثرات ادامه‌دار",
-        "title_en": "Mahsa Amini's legacy, four years after her murder by Iran's morality police sparked protests",
-        "summary": [
-            "اعتراضات 2022 هنوز به شکل تظاهرات ملی و بین‌المللی ادامه دارد",
-            "فشار بر حکومت ایران در حوزه حقوق زنان و آزادی‌های مدنی افزایش یافته"
-        ],
-        "impact": "تقویت فشار بین‌المللی و تقویت جنبش‌های مدنی داخل ایران",
-        "tag": "حقوق‌زنان",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/mahsa-aminis-legacy-four-years-after-her-murder-by-irans-morality-police-sparked-protests/ar-AA2coXP4?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/mahsa-aminis-legacy-four-years-after-her-murder-by-irans-morality-police-sparked-protests/ar-AA2coXP4",
-        "image": "https://www.bing.com/th?id=ONUT.fLOdMgc8U7yMl6nwc7zEPw",
-        "timestamp": 1789625031.6874173
-    },
-    {
-        "id": "02abdc10ff",
-        "title_fa": "ترامپ امید به پایان جنگ ایران‑یمن را اعلام کرد",
-        "title_en": "Iran War Spreads to Yemen as Trump Signals Hope for End to Conflict",
-        "summary": [
-            "ترامپ گفت مذاکرات مستقیم می‌تواند به پایان درگیری منجر شود",
-            "ایران و حوثی‌ها در یمن به‌تازگی عملیات جدیدی آغاز کردند",
-            "این اظهارات می‌تواند فشار دیپلماتیک آمریکا را بر خاورمیانه افزایش دهد"
-        ],
-        "impact": "احتمال کاهش تنش‌های نظامی در یمن و تغییر موضع آمریکا",
-        "tag": "جنگ",
-        "urgency": 7,
-        "sentiment": 0.3,
-        "source": "Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF9jWlhqNUs1Sk5RTm1DUm5qT2Z5RkNZZHF0a01WNldXMTJTWlBaTzBBUGprVlZHbHhOeWdpTkpEcVU3dlF5WUpFQUgybnlKbWl1enBjMFpodmRqcjZlNldacjVZWDdoWjFrSGZOWEF4SHh4U000M0YtMHJlUXRlWFR5TnA2NXFRd3BuVUVVOVFEMDVVdXg3T3p1X0Q3S3F2VFBhTE9KazJOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF9jWlhqNUs1Sk5RTm1DUm5qT2Z5RkNZZHF0a01WNldXMTJTWlBaTzBBUGprVlZHbHhOeWdpTkpEcVU3dlF5WUpFQUgybnlKbWl1enBjMFpodmRqcjZlNldacjVZWDdoWjFrSGZOWEF4SHh4U000M0YtMHJlUXRlWFR5TnA2NXFRd3BuVUVVOVFEMDVVdXg3T3p1X0Q3S3F2VFBhTE9KazJOZw",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789623678.0
     }
 ]
