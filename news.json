@@ -1,5 +1,23 @@
 [
     {
+        "id": "74f1f6239c",
+        "title_fa": "باربارا استرایسند از ادعای تخریب مرکز کندی واکنش داد",
+        "title_en": "Barbra Streisand Decries Trump’s “Unchecked Ego” Amid His Assertion That The Kennedy Center May Be Torn Down",
+        "summary": [
+            "استرایسند به اظهارات ترامپ درباره تخریب یا تغییر نام مرکز کندی انتقاد شدید کرد و آن را نشانهٔ خودخواهی رئیس‌جمهور دانست.",
+            "این جدال می‌تواند حمایت هنری و مالی مراکز فرهنگی را تحت فشار قرار دهد."
+        ],
+        "impact": "تصمیم‌گیری‌های ترامپ ممکن است حمایت مالی و هنری از مراکز فرهنگی را تهدید کند.",
+        "tag": "فرهنگ",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/barbra-streisand-decries-trump-unchecked-022307147.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/barbra-streisand-decries-trump-unchecked-022307147.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/ff9f226e9c4fd97f5815661fbb5ac2ed9c2454ce11e600373f9aea17a1d67a8d/lightyear_networkapi/resizefill_w1000_h667%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F60a394cfcd26cb0695c13e40f7ab2024.jpg",
+        "timestamp": 1789700599.8919106
+    },
+    {
         "id": "49812a4917",
         "title_fa": "تهدید ترامپ به تخریب مرکز جِی‌کی",
         "title_en": "‘Pretty Twisted, Even for Trump’: Chris Hayes Aghast at President’s Potential Destruction of JFK Memorial",
@@ -35,6 +53,24 @@
         "clean_url": "https://blogs.timesofisrael.com/the-hudson-backlash-what-went-wrong-and-what-somaliland-must-learn-from-it",
         "image": "https://www.bing.com/th?id=ONUT.gvvjEDS2Bgh7igjMa-6a3Q",
         "timestamp": 1789698999.404938
+    },
+    {
+        "id": "0ac827732b",
+        "title_fa": "ترامپ درباره فاز جدید جنگ ایران چه می‌گوید",
+        "title_en": "'Do I want to annihilate them?' Trump weighs next phase of Iran war",
+        "summary": [
+            "در مصاحبه‌ای ترامپ پرسید آیا می‌خواهد ایران را نابود کند و به گام بعدی جنگ فکر می‌کند.",
+            "بیان چنین تهدیدی می‌تواند فشار دیپلماتیک آمریکا را بر تهران افزایش دهد و ریسک تصاعد نظامی را بالا ببرد."
+        ],
+        "impact": "بیان تهدید می‌تواند تنش‌های نظامی منطقه را تشدید کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRFRXTTlQeXdqU1VhOXphT2dMeXMwN2Jkcmp4YlotYTgxOS1GWlY2ajFVbEl0cWF5YkRwWTJBMHpZOERnS2Ztc0RXeVgzTUtfNUptZXpFdGxBbG52blhiMTVUZktreGQxd0dHcVJYUl80bzdhTU5Rc05CRnd4VFcwN0tZSUJTeVJyZlNXNWdiOEJIM0ozTFpTRWdlVzhoNU9PcTVvamFRVFVtX2tFejhBU3MxVXhxY0lqOXJSV3VWMTBPV0Y0V19kSk54cGNZU1Bm0gHWAUFVX3lxTE50VF9iVFBRYzZ5b29CaVRJR1hmRnpaNzlpN3pkYVF3eXp2M29ORDF0OXcxdHFOSUUtRmdBSHJlbjVYYkNvaU81cFVrQUN5WFpRekl5Y0lVZ2E3Sm81Zno0MHdvUDhabENPcUFJa0htMDJLMGp5bDVOTmVPVnd0VFZUWThvRjZmcEpuLXhiRzN5ellkakY2eXN1VlZTcmxOUlZfTHRoeUliVy1NZVVIY3gtYzl4aEo3VG1haWxYWFl1eDBRZGhQeDZ2aWFFRGNUQ2NDVnBmMmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRFRXTTlQeXdqU1VhOXphT2dMeXMwN2Jkcmp4YlotYTgxOS1GWlY2ajFVbEl0cWF5YkRwWTJBMHpZOERnS2Ztc0RXeVgzTUtfNUptZXpFdGxBbG52blhiMTVUZktreGQxd0dHcVJYUl80bzdhTU5Rc05CRnd4VFcwN0tZSUJTeVJyZlNXNWdiOEJIM0ozTFpTRWdlVzhoNU9PcTVvamFRVFVtX2tFejhBU3MxVXhxY0lqOXJSV3VWMTBPV0Y0V19kSk54cGNZU1Bm0gHWAUFVX3lxTE50VF9iVFBRYzZ5b29CaVRJR1hmRnpaNzlpN3pkYVF3eXp2M29ORDF0OXcxdHFOSUUtRmdBSHJlbjVYYkNvaU81cFVrQUN5WFpRekl5Y0lVZ2E3Sm81Zno0MHdvUDhabENPcUFJa0htMDJLMGp5bDVOTmVPVnd0VFZUWThvRjZmcEpuLXhiRzN5ellkakY2eXN1VlZTcmxOUlZfTHRoeUliVy1NZVVIY3gtYzl4aEo3VG1haWxYWFl1eDBRZGhQeDZ2aWFFRGNUQ2NDVnBmMmc",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789697400.0
     },
     {
         "id": "a591fc3d06",
@@ -2501,6 +2537,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-trump-says-conflict-hopefully-nearing-end/ar-AA2cozdR",
         "image": "http://www.bing.com/th?id=ONUT.kK98fiyYGybMBPNbCXxukg&pid=News",
         "timestamp": 1789614696.0
+    },
+    {
+        "id": "aca09699c9",
+        "title_fa": "مجلس آمریکا لایحه تحریم جدید روسیه را تصویب کرد",
+        "title_en": "Michael Baumgartner, Russ Fulcher help House pass Russia sanctions bill named for the late Lindsey Graham",
+        "summary": [
+            "نمایندگان جمهوری‌خواه شمال‌غربی با حمایت محدود دموکرات‌ها لایحه‌ای برای تحریم‌های جدید علیه روسیه تصویب کردند.",
+            "این لایحه پس از تصویب سنا به دست ترامپ می‌رسد و می‌تواند قدرت او در اعمال تعرفه‌ها را تقویت کند."
+        ],
+        "impact": "تحریم‌ها فشار اقتصادی بر روسیه را افزون می‌کند و نقش ترامپ در سیاست تجاری را برجسته می‌سازد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/michael-baumgartner-russ-fulcher-help-020300164.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/michael-baumgartner-russ-fulcher-help-020300164.html",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789614194.0
     },
     {
         "id": "b1d3bb1e51",
@@ -5354,59 +5408,5 @@
         "clean_url": "https://www.military.com/israels-need-for-8-billion-of-extra-war-funds-leads-to-election-showdown",
         "image": "https://www.bing.com/th?id=ONUT.nkCqY6N_ihAwAlf6I6uOFg",
         "timestamp": 1789575874.0
-    },
-    {
-        "id": "1148224a1f",
-        "title_fa": "ترامپ EU‑پذیرش کانادا را عمل خصمانه می‌داند",
-        "title_en": "The Latest: Trump says EU allowing Canada as associate member could be a ‘hostile act’",
-        "summary": [
-            "ترامپ نسبت به گسترش اتحادیه اروپا به کانادا هشدار داد",
-            "این اظهارنظر می‌تواند تنش‌های تجاری آمریکا‑اروپا را تشدید کند",
-            "نشان‌دهنده سیاست سخت‌گیرانه ترامپ در برابر تغییر ساختار اتحادیه است"
-        ],
-        "impact": "احتمال بروز تنش دیپلماتیک بین آمریکا و اتحادیه اروپا",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/09/17/president-donald-trump-tariffs/55593fa8-b291-11f1-92c2-5c918f4a6127_story.html",
-        "clean_url": "https://www.washingtonpost.com/politics/2026/09/17/president-donald-trump-tariffs/55593fa8-b291-11f1-92c2-5c918f4a6127_story.html",
-        "image": "https://www.bing.com/th?id=ONUT.Mk7KZJuudBRLS5Oj2PeyEw",
-        "timestamp": 1789575874.0
-    },
-    {
-        "id": "eb3b8489de",
-        "title_fa": "هوش مصنوعی و خطر جنگ هسته‌ای",
-        "title_en": "Will artificial intelligence dethrone God Almighty?",
-        "summary": [
-            "نگرانان ژئوپلیتیک هشدار می‌دهند که تنش‌های اروپا و خاورمیانه می‌تواند به جنگ هسته‌ای تبدیل شود.",
-            "همزمان، بحث‌های فراسوی‌الطبیعی درباره هوش مصنوعی ممکن است توجه عمومی را از خطرات واقعی امنیتی منحرف کند."
-        ],
-        "impact": "افزایش فشار دیپلماتیک و ریسک اشتباهات محاسبه‌ای در مواجهه با تهدیدات هسته‌ای",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "The Manila Times on MSN",
-        "url": "https://www.msn.com/en-ph/news/opinion/will-artificial-intelligence-dethrone-god-almighty/ar-AA2cmEtM?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ph/news/opinion/will-artificial-intelligence-dethrone-god-almighty/ar-AA2cmEtM",
-        "image": "https://www.bing.com/th?id=ONUT.iworOxROzj8YYvCa5zmdxg",
-        "timestamp": 1789575856.241021
-    },
-    {
-        "id": "52ef6c26b8",
-        "title_fa": "خبر بین‌المللی — Energy security India's people comes first: Kwatra در روسیه",
-        "title_en": "Energy security of India's people comes first: Kwatra on Russia sanctions bill",
-        "summary": [
-            "Washington, Sep 17 (PTI) India is guided by the principle of “people first” in matters of energy security, Indian Ambassador Vinay Mohan Kwatra said on Thursday, hours after the US Congress passed a..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "News18 on MSN",
-        "url": "https://www.msn.com/en-in/money/general/energy-security-of-india-s-people-comes-first-kwatra-on-russia-sanctions-bill/ar-AA2crrT8?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/general/energy-security-of-india-s-people-comes-first-kwatra-on-russia-sanctions-bill/ar-AA2crrT8",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789575302.0
     }
 ]
