@@ -1,5 +1,23 @@
 [
     {
+        "id": "4c20044664",
+        "title_fa": "نقشه‌کشی نشست ترامپ‑شی جین‌پینگ",
+        "title_en": "What to expect from the Trump-Xi summit",
+        "summary": [
+            "پیشرفت تدریجی در تجارت و فناوری بین آمریکا و چین ممکن است، اما هر توافق تاکتیکی می‌تواند حاکمیت سایر کشورها را محدود کند",
+            "این روند می‌تواند فشارهای اقتصادی بر ایران را کاهش دهد؛ چین ممکن است در اعمال تحریم‌های آمریکا تسهیل‌کننده شود"
+        ],
+        "impact": "احتمال نرم شدن تحریم‌های آمریکا علیه ایران و تغییر دینامیک تجاری منطقه",
+        "tag": "تجارت",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/opinion/columns/what-to-expect-from-the-trump-xi-summit-126091801470_1.html",
+        "clean_url": "https://www.business-standard.com/opinion/columns/what-to-expect-from-the-trump-xi-summit-126091801470_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/fitandfill/1200X628/1789751943-8523.jpg",
+        "timestamp": 1789753645.175086
+    },
+    {
         "id": "63b6d7b623",
         "title_fa": "خبر بین‌المللی — BRICS و ایران: Diplomatic Significance – OpEd",
         "title_en": "BRICS And Iran: Diplomatic Significance – OpEd",
@@ -5410,24 +5428,5 @@
         "clean_url": "https://www.theweek.in/news/middle-east/2026/09/18/houthis-target-marib-can-saudi-arabia-defend-itself-without-us-airpower.html",
         "image": "https://www.bing.com/th?id=ONUT.PprpFHg4Yqd_CJIRTcF3kA",
         "timestamp": 1789622493.0
-    },
-    {
-        "id": "51f7860069",
-        "title_fa": "افغان‌ها به‌دلیل بحران اقتصاد ایران به طالبان بازگشتند",
-        "title_en": "Afghans flee collapsing Iranian economy amid US conflict, returning to strict Taliban rule",
-        "summary": [
-            "سقوط اقتصادی ایران باعث خروج گسترده افغان‌های کارگر شد",
-            "مهاجرت نشانگر فشارهای داخلی ایران و وابستگی به بازار کار این کشور است",
-            "بازگشت به طالبان می‌تواند تنش‌های انسانی و امنیتی منطقه را تشدید کند"
-        ],
-        "impact": "کاهش نیروی کار ارزان‌قیمت ایران و فشار بر منابع اقتصادی طالبان",
-        "tag": "مهاجرت",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qdUM5TkVTajU1bW9Tbjh5T2FNLUNVRWNNMDcwZ0t2V2Z0NTZub0dxZzFfUkJfdUJOUDJicEo0RV9BMDNEa05lZGxTS0NuTzhQSWtnazE4Z1NPMmljU1lmX0stVHRrczYxaWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qdUM5TkVTajU1bW9Tbjh5T2FNLUNVRWNNMDcwZ0t2V2Z0NTZub0dxZzFfUkJfdUJOUDJicEo0RV9BMDNEa05lZGxTS0NuTzhQSWtnazE4Z1NPMmljU1lmX0stVHRrczYxaWc",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789621977.0
     }
 ]
