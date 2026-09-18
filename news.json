@@ -1,5 +1,43 @@
 [
     {
+        "id": "033aac67ff",
+        "title_fa": "رای‌گیری میشیگان؛ روجرز باید حضور داشته باشد",
+        "title_en": "Rogers can win Michigan Senate race, but he has to show up | Opinion",
+        "summary": [
+            "رای‌گیری خالی از حضور روجرز در مناظره، فرصت بزرگی را به حریف چپ‌گرا داد",
+            "عدم پاسخ سریع به دعوت مناظره، تصویر ناپایدار و بی‌ثباتی برای روجرز ساخت",
+            "اگر روجرز به‌سرعت استراتژی میدانی قوی‌تری ارائه ندهد، احتمال شکست در انتخابات بالا می‌رود"
+        ],
+        "impact": "تغییر ترکیب مجلس سنا؛ ممکن است تعادل حزبی در واشنگتن تحت تأثیر قرار گیرد",
+        "tag": "انتخابات",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/rogers-win-michigan-senate-race-080352661.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/rogers-win-michigan-senate-race-080352661.html",
+        "image": "https://www.bing.com/th?id=ONUT.XWMdYAqt3GaXHPlIlAHoVg",
+        "timestamp": 1789720643.4375923
+    },
+    {
+        "id": "d7477a07c8",
+        "title_fa": "کابوس یمن، سایه‌ای بر عربستان",
+        "title_en": "Opinion | Saudi Arabia's Yemen Nightmare Has Come Back To Haunt It",
+        "summary": [
+            "حضور نظامی سعودی در یمن باعث خستگی مالی و سیاسی داخلی شده است",
+            "پیشرفت نیروهای حوثی و سقوط خطوط تأمین، فشار بین‌المللی را بر عربستان افزون می‌کند",
+            "تحریم‌های احتمالی و انتقادات جهانی می‌توانند توان نظامی سعودی را محدود کنند"
+        ],
+        "impact": "ناآرامی در خاورمیانه و هزینه‌های سنگین برای عربستان؛ خطر کاهش نفوذ منطقه‌ای",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/opinion/saudi-arabias-yemen-nightmare-has-come-back-to-haunt-it-12063676",
+        "clean_url": "https://www.ndtv.com/opinion/saudi-arabias-yemen-nightmare-has-come-back-to-haunt-it-12063676",
+        "image": "https://www.bing.com/th?id=ONUT.rpxmFkzpbu-GfonLPsKRzQ",
+        "timestamp": 1789720643.437199
+    },
+    {
         "id": "9f2a72ebf1",
         "title_fa": "خبر بین‌المللی — dark geopolitics behind viral Dubai chocolate trend",
         "title_en": "The dark geopolitics behind the viral Dubai chocolate trend",
@@ -5365,45 +5403,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/common-sense-says-iran-war-is-worth-it-but-voters-may-think-otherwise-joe-concha/ar-AA2cn9Ps",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789589658.135125
-    },
-    {
-        "id": "a4861800e2",
-        "title_fa": "خبر بین‌المللی — Allspring Diversified Capital Builder Fund Q2 2026 Commentar",
-        "title_en": "Allspring Diversified Capital Builder Fund Q2 2026 Commentary",
-        "summary": [
-            "صندوق Allspring Diversified Capital Builder Fund در Q2 2026 نسبت به شاخص ترکیبی خود عملکرد برتری داشت.",
-            "بخش سهام نسبت به Russell 1000 پیشی گرفت و بخش اوراق ثابت نیز بهتر از بنچمارک بود.",
-            "این نتایج نشان‌دهنده مدیریت فعال و تنوع‌پذیری مناسب در پرتفوی است.",
-            "سرمایه‌گذاران می‌توانند به این صندوق به‌عنوان گزینه‌ای با بازدهی ثابت نگاه کنند."
-        ],
-        "impact": "جذب سرمایه‌گذار جدید و افزایش دارایی‌های تحت مدیریت.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 2,
-        "sentiment": 0.1,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4947602-allspring-diversified-capital-builder-fund-q2-2026-commentary",
-        "clean_url": "https://seekingalpha.com/article/4947602-allspring-diversified-capital-builder-fund-q2-2026-commentary",
-        "image": "https://www.bing.com/th?id=ONUT.Wk_SsbbNcC-YCPSDGWHXaA",
-        "timestamp": 1789589646.0
-    },
-    {
-        "id": "5600520a72",
-        "title_fa": "گرین: جنگ ایران مقصر قیمت دیزل",
-        "title_en": "Ex-MAGA Queen Marjorie Taylor Greene Blasts Trump for Sky-High Fuel Prices in Viral Gas Station Rant: 'This Is His Fault'",
-        "summary": [
-            "گرین در ویدئویی به‌صورت مستقیم قیمت دیزل را به جنگ ایران نسبت داد.",
-            "او قیمت $8.49 در کالیفرنیا و $6.59 در جورجیا را به‌عنوان نمونه‌های ناعادلانه نشان داد.",
-            "این اتهام‌گذاری سیاسی سعی دارد فشار عمومی بر ترامپ برای پایان جنگ ایجاد کند.",
-            "واقعیت این است که افزایش قیمت‌ها ترکیبی از عوامل جهانی است، نه تنها یک جنگ."
-        ],
-        "impact": "افزایش تنش‌های داخلی سیاسی آمریکا و فشار بر سیاست خارجی.",
-        "tag": "قیمت دیزل",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/ex-maga-queen-marjorie-taylor-190000000.html",
-        "clean_url": "https://www.aol.com/articles/ex-maga-queen-marjorie-taylor-190000000.html",
-        "image": "https://hermes.media.static.aol.com/media/2026/09/17/c059f470-5788-3bc2-b51f-827cc60e0727/f89414c0-706e-4e23-9474-4f8470977a05.jpg",
-        "timestamp": 1789589646.0
     }
 ]
