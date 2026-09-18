@@ -1,5 +1,41 @@
 [
     {
+        "id": "bb69ec4119",
+        "title_fa": "جنگ ترامپ با ایران، بحران پیش‌رو",
+        "title_en": "'Bad news' as Trump’s 'wishful thinking' threatens an even greater crisis",
+        "summary": [
+            "نظرسنجی‌ها نشان می‌دهند جنگ ایران‑آمریکا به‌عنوان ضعف بزرگ جمهوری‌خواهان در انتخابات 2026 شناخته می‌شود",
+            "افزایش قیمت سوخت فشار اقتصادی را بر مردم می‌افزاید و می‌تواند نارضایتی گسترده ایجاد کند"
+        ],
+        "impact": "افزایش فشار اقتصادی و کاهش حمایت رای‌دهندگان برای جمهوری‌خواهان",
+        "tag": "جنگ",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-us/news/other/bad-news-as-trump-s-wishful-thinking-threatens-an-even-greater-crisis/ar-AA2cuKdo?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/bad-news-as-trump-s-wishful-thinking-threatens-an-even-greater-crisis/ar-AA2cuKdo",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789737148.9970407
+    },
+    {
+        "id": "844b1a1a1d",
+        "title_fa": "ترامپ در فهرست رأی‌گیری، رقیب اصلی",
+        "title_en": "Trump is on the ballot | Steven Roberts",
+        "summary": [
+            "ترامپ خود را نامزد می‌داند و پایه MAGA همچنان وفادار است؛ این باعث می‌شود حزب جمهوری‌خواه به‌جای ایده‌ها، شخصیت او را به‌عنوان کارت اصلی بکار گیرد",
+            "دموکرات‌ها سعی می‌کنند انتخابات را به‌عنوان ارزیابی کل دوره ریاست‌جمهوری بپندارند؛ این استراتژی می‌تواند ریسک بالایی برای جمهوری‌خواهان داشته باشد"
+        ],
+        "impact": "تقویت ریسک شکست جمهوری‌خواهان در انتخابات 2024",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Santa Maria Times",
+        "url": "https://santamariatimes.com/opinion/columnists/trump-is-on-the-ballot-steven-roberts/article_9ece400e-7e14-4a73-9b80-2fb850db223c.html",
+        "clean_url": "https://santamariatimes.com/opinion/columnists/trump-is-on-the-ballot-steven-roberts/article_9ece400e-7e14-4a73-9b80-2fb850db223c.html",
+        "image": "https://www.bing.com/th?id=ONUT.2lPOnbUrCYlHdroyLBjlqg",
+        "timestamp": 1789737148.9966896
+    },
+    {
         "id": "55a3776726",
         "title_fa": "مصرف کننده برگشته است، من در Staples یک موقعیت تاکتیکی می‌گیرم",
         "title_en": "The Consumer Is Back, I'm Taking A Tactical Position In Staples",
@@ -5386,42 +5422,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/netanyahu-s-bloc-drops-to-51-seats-as-winter-s-party-falls-short-of-knesset-in-new-toi-poll/ar-AA2csP7F",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789600779.0
-    },
-    {
-        "id": "294c2835bb",
-        "title_fa": "جنگ های ترامپ، چه واقعی و چه تجاری، اکنون هزینه های استقراض آمریکایی‌ها را نیز افزایش می‌دهد.",
-        "title_en": "Trump’s Wars, Both Real And Trade, Are Now Hiking Americans’ Borrowing Costs, Too",
-        "summary": [
-            "The Federal Reserve hiked interest rates for the first time since 2023, citing “geopolitical” factors beyond its control."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/economy/policy/articles/trump-wars-both-real-trade-223009010.html",
-        "clean_url": "https://finance.yahoo.com/economy/policy/articles/trump-wars-both-real-trade-223009010.html",
-        "image": "https://www.bing.com/th?id=ONUT.3jmoem5TisuftUPd2UnBWQ",
-        "timestamp": 1789600347.403628
-    },
-    {
-        "id": "5eaf056356",
-        "title_fa": "تحریم جدید آمریکا؛ ایران در خطر جنگ دو‌جانبه",
-        "title_en": "Commentary: Will Iran become a two-front war?",
-        "summary": [
-            "بخش خزانه‌داری آمریکا با اعلام کمپین فشار اقتصادی جدید، هدفش فشار مستمر بر اقتصاد ایران بدون استفاده از نیروی نظامی است.",
-            "تحریم‌های تازه می‌تواند توان مالی ایران برای حمایت از گروه‌های شبه‌نظامی و پروژه‌های هسته‌ای را به شدت کاهش دهد.",
-            "کاهش منابع مالی، فشار داخلی را افزاش می‌دهد و احتمال بروز اعتراضات داخلی و واکنش نظامی ایران در قبال اسرائیل یا عربستان را بالا می‌برد.",
-            "اگر ایران نتواند راه‌حل‌های اقتصادی جایگزین پیدا کند، ممکن است به دو جبهه همزمان – فشار غربی و تنش‌های منطقه‌ای – دچار شود."
-        ],
-        "impact": "تشدید فشار اقتصادی آمریکا می‌تواند اقتصاد ایران را تضعیف کند و خطر بروز درگیری نظامی چندجانبه را افزایش دهد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Itemlive",
-        "url": "https://itemlive.com/2026/09/16/commentary-will-iran-become-a-two-front-war/",
-        "clean_url": "https://itemlive.com/2026/09/16/commentary-will-iran-become-a-two-front-war",
-        "image": "https://www.bing.com/th?id=ONUT.48Cq_r-zydOATtG9llaaDA",
-        "timestamp": 1789599773.7445161
     }
 ]
