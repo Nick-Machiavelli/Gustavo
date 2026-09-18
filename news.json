@@ -2565,6 +2565,24 @@
         "timestamp": 1789688340.0
     },
     {
+        "id": "1e433d7dca",
+        "title_fa": "هکرهای خارجی سامانه‌های آب کوچک کلرادو را مختصراً نفوذ کردند",
+        "title_en": "Foreign Hackers Briefly Breached Two Tiny Colorado Water Systems, State Reveals",
+        "summary": [
+            "دو واحد آب‌رسانی زیر ۲۰۰ نفر در کلرادو توسط عاملان خارجی هک شدند؛ دسترسی از راه دور و تنظیمات پمپ‌ها تغییر یافت.",
+            "فرآیند تصفیه و کیفیت آب دست نخورده ماند، اما نشان داد زیرساخت‌های کوچک به سادگی هدف حملات سایبری می‌شوند."
+        ],
+        "impact": "آسیب‌پذیری زیرساخت‌های آب‌رسانی کوچک را آشکار کرد؛ خطر قطع سرویس یا تغییر تنظیمات پمپاژ برای شهرک‌های روستایی بالا رفت.",
+        "tag": "امنیت سایبری",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Hoodline",
+        "url": "https://hoodline.com/2026/09/foreign-hackers-briefly-breached-two-tiny-colorado-water-systems-state-reveals/",
+        "clean_url": "https://hoodline.com/2026/09/foreign-hackers-briefly-breached-two-tiny-colorado-water-systems-state-reveals",
+        "image": "https://www.bing.com/th?id=ONUT.MVGL4InA0gFhkWwQSJDu8w",
+        "timestamp": 1789688331.0
+    },
+    {
         "id": "b921234b2a",
         "title_fa": "ناوگان سپاه نفت‌کش توگوئی را در هرمز متوقف کرد",
         "title_en": "IRGC Navy strikes Togo-flagged tanker after illegal attempt to transit Strait of Hormuz",
@@ -5430,22 +5448,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/fresh-activity-emerges-at-iran-s-deeply-buried-nuclear-site-as-trump-warns-iran-not-to-get-cute/ar-AA2cs2u0",
         "image": "http://www.bing.com/th?id=ONUT.GknOoW0Snut3IXrSb8oaPw&pid=News",
         "timestamp": 1789644653.0
-    },
-    {
-        "id": "2f6ca66d98",
-        "title_fa": "خبر بین‌المللی — Market mood brightens after Fed hike",
-        "title_en": "Market mood brightens after Fed hike",
-        "summary": [
-            "Equally certain was that the Fed would hike yesterday. It duly delivered; the Fed raised rates for the first time since 2023..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Investors Chronicle",
-        "url": "https://www.investorschronicle.co.uk/content/5ab31b68-261a-4c43-81e8-375f0a00f686",
-        "clean_url": "https://www.investorschronicle.co.uk/content/5ab31b68-261a-4c43-81e8-375f0a00f686",
-        "image": "https://www.bing.com/th?id=ONUT.BsMa_BZQK4R-ni2iuFFM8w",
-        "timestamp": 1789644215.0753155
     }
 ]
