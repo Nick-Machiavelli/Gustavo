@@ -2653,6 +2653,44 @@
         "timestamp": 1789657958.0
     },
     {
+        "id": "73cc29fba3",
+        "title_fa": "تحریم آمریکا به روسیه، هند در تنگنا",
+        "title_en": "New US sanctions bill on Russia puts India's Modi in a bind",
+        "summary": [
+            "قانون جدید تحریم‌های آمریکا، صادرات نفت روسیه به هند را هدف قرار می‌دهد.",
+            "هند به‌عنوان سومین واردکننده نفت جهان، مجبور به یافتن منابع جایگزین می‌شود.",
+            "پیشنهادهای دیپلماتیک واشنگتن برای فشار بیشتر بر روسیه، روابط تجاری هند‑آمریکا را تحت فشار می‌گذارد."
+        ],
+        "impact": "قیمت نفت خاورمیانه بالا می‌رود و تراز تجاری هند تحت فشار می‌شود",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/energy/new-us-sanctions-bill-russia-puts-indias-modi-bind-2026-09-18/",
+        "clean_url": "https://www.reuters.com/business/energy/new-us-sanctions-bill-russia-puts-indias-modi-bind-2026-09-18",
+        "image": "https://www.bing.com/th?id=ONUT.7eFmelaO1ivr6oqPvbHaLw",
+        "timestamp": 1789657956.0
+    },
+    {
+        "id": "9afd5fffba",
+        "title_fa": "فرانسه پس از حملات ترکیبی روسیه واکنش می‌دهد",
+        "title_en": "Ukraine war live: France vows response after Russian 'hybrid' attacks",
+        "summary": [
+            "فرانسه اعلام کرد پس از حملات سایبری و اطلاعاتی روسیه، اقدام‌ها تلافی‌جویانه‌ای اتخاذ خواهد کرد.",
+            "این هشدار، فشار دیپلماتیک بر مسکو را در چارچوب ناتو تقویت می‌کند.",
+            "اگر روسیه ادامه دهد، احتمال اعمال تحریم‌های جدید علیه نهادهای نظامی و فناوری‌اش افزایش می‌یابد."
+        ],
+        "impact": "تنش‌های اروپایی تشدید می‌شود و احتمال تحریم‌های جدید علیه روسیه بالا می‌رود",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.1,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/ukraine-war-live-poland-says-putin-is-planning-to-strike-nato-country/ar-AA2ctIll?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/ukraine-war-live-poland-says-putin-is-planning-to-strike-nato-country/ar-AA2ctIll",
+        "image": "https://www.bing.com/th?id=ONUT.jZmoR7o6YYLzzikHmtRvfw",
+        "timestamp": 1789657956.0
+    },
+    {
         "id": "5730ab4e31",
         "title_fa": "خبر بین‌المللی — UN experts say grounds به believe US committed جنگ crimes در",
         "title_en": "UN experts say grounds to believe US committed war crimes in Iran strikes",
@@ -5385,39 +5423,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/not-just-ballistic-missiles-saudis-also-have-chinese-drones-artillery-systems/ar-AA2csAC4",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789608823.0
-    },
-    {
-        "id": "872898d23c",
-        "title_fa": "خبر بین‌المللی — Scores killed as حوثی‌ها, Yemen govt, Saudi Arabia trade att",
-        "title_en": "Scores killed as Houthis, Yemen govt, Saudi Arabia trade attacks",
-        "summary": [
-            "Fresh fighting left scores of combattants dead in Yemen on Thursday, as Saudi Arabia reported its first death since..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ABS-CBN on MSN",
-        "url": "https://www.msn.com/en-ph/politics/government/scores-killed-as-houthis-yemen-govt-saudi-arabia-trade-attacks/ar-AA2csPNy?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ph/politics/government/scores-killed-as-houthis-yemen-govt-saudi-arabia-trade-attacks/ar-AA2csPNy",
-        "image": "https://www.bing.com/th?id=ONUT._K7yl85IUllz4M6vhyUhng",
-        "timestamp": 1789608823.0
-    },
-    {
-        "id": "7ac8dbab87",
-        "title_fa": "خبر بین‌المللی — ایران در, Abbas شود: ترامپ threatens new strikes as US grant",
-        "title_en": "Iran in, Abbas out: Trump threatens new strikes as US grants Tehran leaders UN visas",
-        "summary": [
-            "Pezeshkian and Araghchi are cleared for next week’s UN General Assembly despite the Iran war, while the Palestinian president is denied entry for a second year; CBS reports Tehran recently downed two..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ynetnews",
-        "url": "https://www.ynetnews.com/article/h1l5qb5ygl",
-        "clean_url": "https://www.ynetnews.com/article/h1l5qb5ygl",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/06/By0TRTuRWg/By0TRTuRWg_0_0_850_479_0_large.jpg",
-        "timestamp": 1789608822.0
     }
 ]
