@@ -2744,6 +2744,44 @@
         "timestamp": 1789635720.0
     },
     {
+        "id": "e250bb013c",
+        "title_fa": "بودجه بریتانیا: مالیات بر خانه‌های تعطیلات",
+        "title_en": "Andy Burnham considering tax hike on holiday lets ahead of Budget",
+        "summary": [
+            "دولت انگلستان قصد دارد خانه‌های تعطیلات را به‌عنوان «دومین مسکن» طبقه‌بندی کند تا مالیات بیشتری دریافت شود.",
+            "مالیات جدید می‌تواند هزینه سالانه مالکین را بین ۱٬۰۰۰ تا ۳٬۰۰۰ پوند افزایش دهد و فشار فروش را بر آن‌ها بگذارد.",
+            "این اقدام در چارچوب تلاش برای جمع‌آوری حدود ۱۰ میلیارد پوند از طریق افزایش مالیات‌ها و کاهش هزینه‌ها در اولین بودجه پس از بحران اقتصادی ناشی از جنگ ایران است."
+        ],
+        "impact": "مالیات بر خانه‌های تعطیلات هزینه مالکین را بالا می‌برد و ممکن است باعث خروج سرمایه‌گذاران از بخش گردشگری شود.",
+        "tag": "مالیات",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Yahoo News UK",
+        "url": "https://uk.news.yahoo.com/andy-burnham-considering-tax-hike-074551662.html",
+        "clean_url": "https://uk.news.yahoo.com/andy-burnham-considering-tax-hike-074551662.html",
+        "image": "https://www.bing.com/th?id=ONUT.EAmmHfPL_TuEp6deRPUWQg",
+        "timestamp": 1789635009.0
+    },
+    {
+        "id": "aa135e8e22",
+        "title_fa": "تحت تحریم: صرافی بیت‌بانک برای انتقال بیت‌کوین به سپاه",
+        "title_en": "Ships Paid Bitcoin to Pass Through Hormuz. Now the US Has Sanctioned the Exchange Behind It.",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا صرافی بیت‌بانک را به دلیل انتقال صدها میلیون دلار بیت‌کوین به سپاه پاسداران تحریم کرد.",
+            "پلتفرم Hormuz Safe برای پرداخت‌های کشتی‌های عبوری از تنگه هرمز از این صرافی استفاده می‌کرد؛ حالا دسترسی به این مسیر مالی مسدود شد.",
+            "تحریم بخشی از «عملیات Economic Outcast» است که هدفش تضعیف زیرساخت‌های رمزارزی ایران و محدود کردن منابع مالی سپاه است."
+        ],
+        "impact": "تحریم باعث قطع جریان بیت‌کوین به سپاه می‌شود و فشار مالی بر توان مالی نظامی ایران را افزاش می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "CoinCentral",
+        "url": "https://coincentral.com/ships-paid-bitcoin-to-pass-through-hormuz-now-the-us-has-sanctioned-the-exchange-behind-it/",
+        "clean_url": "https://coincentral.com/ships-paid-bitcoin-to-pass-through-hormuz-now-the-us-has-sanctioned-the-exchange-behind-it",
+        "image": "https://www.bing.com/th?id=ONUT.cPMPkkqpktiYTra6AS8o7A",
+        "timestamp": 1789635008.0
+    },
+    {
         "id": "0bb57f6ba0",
         "title_fa": "ترامپ با رهبران خلیج برای فشار بر ایران ملاقات می‌کند",
         "title_en": "Trump to meet Gulf leaders as US signals diplomatic push on Iran",
@@ -5365,41 +5403,5 @@
         "clean_url": "https://finance.yahoo.com/economy/policy/articles/us-consumers-businesses-now-facing-200404308.html",
         "image": "https://www.bing.com/th?id=ONUT.Db3ECrdbGKRcCx8jLhHBTw",
         "timestamp": 1789590985.0486465
-    },
-    {
-        "id": "066d509cab",
-        "title_fa": "درگیری در مرکز کننیدی؛ درخواست جلسه اضطراری",
-        "title_en": "Kennedy Center Chaos Grows With Emergency Hearing Request",
-        "summary": [
-            "مدیر مالی مرکز کننیدی پس از بحران مالی، درخواست جلسه اضطراری برای بررسی وضعیت مالی کرده است.",
-            "این تحولات می‌تواند اعتبار مالی و برنامه‌های هنری مرکز را به خطر بیندازد."
-        ],
-        "impact": "اختلال مدیریتی می‌تواند اعتبار مالی و برنامه‌های هنری مرکز را به خطر بیندازد.",
-        "tag": "اقتصاد-فرهنگی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/215508/kennedy-center-emergency-hearing-request-cfo",
-        "clean_url": "https://newrepublic.com/post/215508/kennedy-center-emergency-hearing-request-cfo",
-        "image": "https://www.bing.com/th?id=ONUT.DV-NfGHepv4BF7MKUs7xww",
-        "timestamp": 1789590985.048379
-    },
-    {
-        "id": "2313ba1c8e",
-        "title_fa": "سازمان دفاعی اسرائیل رد کرد هدف‌گیری ساختمان سقوط‌کرده در غزه",
-        "title_en": "IDF says it never struck building that collapsed in Gaza City",
-        "summary": [
-            "سازمان دفاعی اسرائیل اعلام کرد که هرگز به ساختمان منجر به سقوط در غزه حمله نکرده است.",
-            "این ادعا در پی کشته شدن حداقل ۲۰ نفر در تصادف شبانه به‌وجود آمد."
-        ],
-        "impact": "رد ادعای هدف‌گیری می‌تواند واکنش‌های بین‌المللی و فشار بر اسرائیل را تشدید کند.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-never-struck-building-that-collapsed-in-gaza-city/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/idf-says-it-never-struck-building-that-collapsed-in-gaza-city",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789590985.0481071
     }
 ]
