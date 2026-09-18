@@ -1,5 +1,25 @@
 [
     {
+        "id": "3ea774f3d1",
+        "title_fa": "نرخ بهره ۱۰ ساله آمریکا به ۵٪ رسید",
+        "title_en": "ELAM: Rates rise",
+        "summary": [
+            "سود ۱۰ ساله خزانه‌داری پس از ۳۹ سال صعود، به ۵٪ رسید؛ چرخهٔ صعودی دوباره آغاز شد.",
+            "فدرال رزرو با افزایش یک‌چهارک به ۳.۷۵‑۴٪، نرخ بازار را تأیید کرد.",
+            "سرمایه‌گذاران باید آمادهٔ هزینهٔ بالاتر وام‌های بین‌المللی شوند.",
+            "برای ایران، فشار بر ارز و هزینهٔ بدهی‌های خارجی بیشتر می‌شود."
+        ],
+        "impact": "قیمت‌گذاری سخت‌تر برای وام‌های خارجی ایران و فشار بر تورم داخلی.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/articles/elam-rates-rise-000200339.html",
+        "clean_url": "https://finance.yahoo.com/economy/policy/articles/elam-rates-rise-000200339.html",
+        "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+        "timestamp": 1789692204.111728
+    },
+    {
         "id": "885eadd391",
         "title_fa": "حملهٔ گستردهٔ آمریکا به پایگاه‌های نیروی قدس",
         "title_en": "US military just got massive revenge on Iran's IRGC",
@@ -2422,6 +2442,45 @@
         "clean_url": "https://www.msn.com/en-au/news/other/trump-s-going-to-hate-his-new-normal-military-veteran/ar-AA2cnZGV",
         "image": "https://www.bing.com/th?id=ONUT.coY46eICiAQGQdnkDAxwCQ",
         "timestamp": 1789605918.2768722
+    },
+    {
+        "id": "240cc8b18a",
+        "title_fa": "حسن پیکر: سلاح هسته‌ای ایران ثبات خاورمیانه",
+        "title_en": "Hasan Piker tells Axios Iran having nukes would make Middle East 'more stable'",
+        "summary": [
+            "نقش‌گذار پیشرویی گفت داشتن سلاح هسته‌ای توسط ایران می‌تواند تعادل قدرت را تثبیت کند.",
+            "این دیدگاه خطر گسترش سلاح‌های هسته‌ای در منطقه را نادیده می‌گیرد.",
+            "بیان او می‌تواند فشار بین‌المللی بر ایران را کمی کم کند، اما ریسک رقابت هسته‌ای را بالا می‌برد."
+        ],
+        "impact": "ممکن است مذاکرات هسته‌ای با ایران تحت فشار کمتر ادامه یابد، اما خطر گسترش تسلیحات هسته‌ای در خاورمیانه افزایش می‌یابد.",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "FOX News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/hasan-piker-tells-axios-iran-having-nukes-would-make-middle-east-more-stable/vi-AA2csjiO?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/hasan-piker-tells-axios-iran-having-nukes-would-make-middle-east-more-stable/vi-AA2csjiO",
+        "image": "https://www.bing.com/th?id=ONUT.2YXcAV9t_6YLSQccFI0ysg",
+        "timestamp": 1789605798.0
+    },
+    {
+        "id": "2ec30d1928",
+        "title_fa": "نیروی دریایی سپاه: ضربه به تانکر در تنگه هرمز",
+        "title_en": "Iran-US War Live: IRGC Navy Says It Struck Tanker Over ‘Illegal Passage’ Through Strait Of Hormuz",
+        "summary": [
+            "سپاه اعلام کرد تانکری که مسیر غیرقانونی داشت، توسط ناوگان خود مورد هدف قرار گرفت.",
+            "ترامپ ادعا کرد جنگ با ایران به پایان نزدیک است و مذاکراتی در دست است.",
+            "رئیس‌جمهور آمریکا گفت بمباران‌های B‑2 توان توسعه سلاح هسته‌ای ایران را متوقف کرده.",
+            "هیچ منبع مستقلی تأیید نکرده؛ این اظهارات می‌تواند تنش خلیج را به اوج برساند."
+        ],
+        "impact": "افزایش خطر برخورد مستقیم نظامی در خلیج فارس و فشار بر مسیرهای نفتی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-trump-signals-talks-as-strait-of-hormuz-crisis-iran-missiles-strikes-and-saudi-houthi-war-updates-liveblog-156173838",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-trump-signals-talks-as-strait-of-hormuz-crisis-iran-missiles-strikes-and-saudi-houthi-war-updates-liveblog-156173838",
+        "image": "https://images.timesnownews.com/thumb/msid-156173838,thumbsize-1817820,width-1280,height-720,resizemode-75/156173838.jpg",
+        "timestamp": 1789605798.0
     },
     {
         "id": "5c20104e7b",
@@ -5362,64 +5421,5 @@
         "clean_url": "https://www.eastbaytimes.com/2026/09/17/palestinian-authority-visas-mideast-news",
         "image": "https://www.bing.com/th?id=ONUT.iBrm6nsdsW8CMveen69jXw",
         "timestamp": 1789568074.0
-    },
-    {
-        "id": "141e4ed97b",
-        "title_fa": "جمهوری‌خواهان ۱٫۱ میلیارد دلار صندوق میانه‌دوره‌ای",
-        "title_en": "Republicans built a $1.1 billion midterm war chest then Elon Musk added a $120 million turnout operation",
-        "summary": [
-            "جمهوری‌خواهان برای انتخابات میانه‌دوره‌ای حدود ۱٫۱ میلیارد دلار جمع‌آوری کرده‌اند؛ این مبلغ پیش از شروع رسمی کمپین است",
-            "ایلان ماسک از طریق شرکت‌های تحت مالکیت خود ۱۲۰ میلیون دلار برای عملیات تشویق به حضور رای‌دهندگان اختصاص داده است",
-            "این ترکیب مالی می‌تواند توان تبلیغاتی MAGA را در ایالات متحده تقویت کند و رقابت را برای دموکرات‌ها دشوارتر سازد",
-            "افزایش هزینه‌های انتخابات ممکن است فشار بیشتری بر قانون‌گذاری مالی انتخاباتی وارد کند"
-        ],
-        "impact": "تقویت توان تبلیغاتی MAGA و احتمال تغییر نتایج میانه‌دوره‌ای",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Dr. Steve Turley on MSN",
-        "url": "https://www.msn.com/en-us/politics/elections/republicans-built-a-1-1-billion-midterm-war-chest-then-elon-musk-added-a-120-million-turnout-operation-my-take/vi-AA2clEIz?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/elections/republicans-built-a-1-1-billion-midterm-war-chest-then-elon-musk-added-a-120-million-turnout-operation-my-take/vi-AA2clEIz",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789568063.5216298
-    },
-    {
-        "id": "e4aa09b67d",
-        "title_fa": "تصاویر تخریب پایگاه‌های آمریکایی توسط ایران",
-        "title_en": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.",
-        "summary": [
-            "عکس‌های CBS نشان می‌دهد رادار، تریلر و ساختمان‌های آمریکایی در عربستان و کویت به شدت آسیب دیده‌اند",
-            "این خسارت‌ها توسط نیروی نظامی فعال تأیید شد اما هنوز به عموم آمریکا اطلاع‌رسانی نشده",
-            "سفیدخانه فقط به فرماندهی مرکزی ارجاع داد و جزئیات بیشتری منتشر نکرد"
-        ],
-        "impact": "آسیب‌های گسترده به زیرساخت‌های نظامی آمریکا در خاورمیانه، احتمال افزایش تنش‌های نظامی منطقه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://www.bbc.com/mundo/articles/cr5yevn02vv8o",
-        "clean_url": "https://www.bbc.com/mundo/articles/cr5yevn02vv8o",
-        "image": "https://ichef.bbci.co.uk/news/1200/branded_mundo/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
-        "timestamp": 1789567560.0
-    },
-    {
-        "id": "f2f5c7d5e0",
-        "title_fa": "انگلستان به‌صورت علنی مخالف اسرائیل می‌شود",
-        "title_en": "Britain’s long history of adversarial policies toward Iran and Israel",
-        "summary": [
-            "لندن سیاست‌های خصمانه‌اش را علیه ایران و اسرائیل تشدید کرده و دیگر پشت پرده عمل نمی‌کند",
-            "این رویکرد نشان می‌دهد که بریتانیا به‌جای پنهان‌کاری، حمایت آشکار از گروه‌های اسلام‌گرا دارد",
-            "احتمال افزایش تنش‌های خاورمیانه و فشار بر روابط دوطرفه اسرائیل و ایران بالا رفته",
-            "ایالات متحده و هم‌پیمانان ممکن است واکنش‌های دیپلماتیک یا تحریمی جدیدی اتخاذ کنند"
-        ],
-        "impact": "تقویت فشار بر اسرائیل و تشدید تنش‌های منطقه‌ای",
-        "tag": "سیاست خارجی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-gb/general/general/britain-s-long-history-of-adversarial-policies-toward-iran-and-israel/ar-AA2clJLZ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/general/general/britain-s-long-history-of-adversarial-policies-toward-iran-and-israel/ar-AA2clJLZ",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789567441.8983116
     }
 ]
