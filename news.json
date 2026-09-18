@@ -1,5 +1,23 @@
 [
     {
+        "id": "7f966a0929",
+        "title_fa": "دوبل‌استنداردهای رسانه‌ای اسرائیل در سال نو",
+        "title_en": "Dubious track records",
+        "summary": [
+            "رسانه‌های اسرائیلی در آغاز سال جدید دوبل‌استنداردهای واضحی را به نمایش می‌گذارند",
+            "این رفتار باعث تضعیف اعتبار پوشش خبری اسرائیل در منطقه می‌شود"
+        ],
+        "impact": "کاهش اعتماد مخاطبان به گزارش‌های اسرائیلی",
+        "tag": "رسانه",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "Israel Behind The News",
+        "url": "https://israelbehindthenews.com/2026/09/18/dubious-track-records/",
+        "clean_url": "https://israelbehindthenews.com/2026/09/18/dubious-track-records",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789750972.94749
+    },
+    {
         "id": "6f72d4490f",
         "title_fa": "پیروزی اف‌دی در ساکسونی‑آلتن: خطر راست‌گرا",
         "title_en": "Germany’s far-right turn: Examining the drivers and aftermath of the AfD’s victory",
@@ -5414,24 +5432,6 @@
         "url": "https://www.wionews.com/videos/south-korea-delays-us-investment-plans-final-steps-before-seoul-washington-set-terms-1789704302439",
         "clean_url": "https://www.wionews.com/videos/south-korea-delays-us-investment-plans-final-steps-before-seoul-washington-set-terms-1789704302439",
         "image": "https://www.wionews.com/videos/south-korea-delays-us-investment-plans-final-steps-before-seoul-washington-set-terms-1789704302439",
-        "timestamp": 1789619763.0
-    },
-    {
-        "id": "1ec7df43eb",
-        "title_fa": "قله ژی-ترامپ می‌تواند پیوندهای نظامی را تقویت کند",
-        "title_en": "Xi-Trump summit may boost military links",
-        "summary": [
-            "احتمال برگزاری نشست بین ژی جین‌پینگ و دونالد ترامپ می‌تواند راه‌گشای ارتباط مستقیم نظامی باشد",
-            "هدف اصلی گفتگو کاهش تنش و ایجاد کانال‌های اضطراری برای مدیریت بحران‌های امنیتی است"
-        ],
-        "impact": "ارتباط مستقیم نظامی می‌تواند خطر تصادف‌های ناخواسته را کاهش دهد",
-        "tag": "روابط_نظامی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "WION",
-        "url": "https://www.wionews.com/videos/xi-trump-summit-may-boost-military-links-1789703434125",
-        "clean_url": "https://www.wionews.com/videos/xi-trump-summit-may-boost-military-links-1789703434125",
-        "image": "https://www.wionews.com/videos/xi-trump-summit-may-boost-military-links-1789703434125",
         "timestamp": 1789619763.0
     }
 ]
