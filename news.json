@@ -60,6 +60,26 @@
         "timestamp": 1789689834.8711646
     },
     {
+        "id": "f71a6885e4",
+        "title_fa": "تحلیل: ژاپن و گزینه هسته‌ای در برابر تهدید سه‌گانه",
+        "title_en": "Nuclear Realism And Japan's Choice: Comparative Limitations Of Saudi Model And Justification For Independent Nuclear Armament Under A 'Three-Front Nuclear Threat ...",
+        "summary": [
+            "مدل «سعودی» برای محدودیت هسته‌ای در ژاپن کار نمی‌کند؛ شرایط جغرافیایی متفاوت است",
+            "ژاپن توسط چین، روسیه و شمال‌کره محاصره شده و تهدید چندجانبه دارد",
+            "هزینه‌های امنیتی بدون سلاح هسته‌ای برای توکیو بسیار بالا است؛ گزینه استقلال هسته‌ای مطرح می‌شود",
+            "اگر ژاپن به مسیر هسته‌ای برود، تعادل قدرت در آسیا‑پاسیفیک به‌طور اساسی تغییر می‌کند"
+        ],
+        "impact": "ممکن است فشار برای بازنگری استراتژی دفاعی ژاپن و واکنش‌های منطقه‌ای ایجاد شود",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Eurasia Review",
+        "url": "https://www.eurasiareview.com/18092026-nuclear-realism-and-japans-choice-comparative-limitations-of-saudi-model-and-justification-for-independent-nuclear-armament-under-a-three-front-nuclear-threat-analysis/",
+        "clean_url": "https://www.eurasiareview.com/18092026-nuclear-realism-and-japans-choice-comparative-limitations-of-saudi-model-and-justification-for-independent-nuclear-armament-under-a-three-front-nuclear-threat-analysis",
+        "image": "https://www.eurasiareview.com/wp-content/uploads/2019/10/a-95.jpg",
+        "timestamp": 1789689600.0
+    },
+    {
         "id": "feaa3f9838",
         "title_fa": "ایران ادعا کرد ۶۰ پهپاد MQ‑9 آمریکا را نابود کرد",
         "title_en": "#ISRAELIRANWAR. Iran has destroyed 60 MQ-9 Reapers since the conflict began . Yemen: Houthis advance on Taiz. Stockholm-Tehran tensions rise as diplomats are mutually expelled.",
@@ -2411,6 +2431,46 @@
         "clean_url": "https://www.fool.com/investing/2026/09/17/donald-trump-claims-fuel-prices-will-drop-quickly-when-iran-war-ends-but-completely-missing-bigger-picture",
         "image": "http://www.bing.com/th?id=ONUT.NyIcMGU2XBZA3fC6Zfxtbw&pid=News",
         "timestamp": 1789610760.0
+    },
+    {
+        "id": "dafeaad48e",
+        "title_fa": "فدرال رزرو نرخ بهره را افزایش داد",
+        "title_en": "Federal Reserve raises interest rates as inflation, energy prices remain high",
+        "summary": [
+            "فدرال رزرو نرخ بهره را یک پله بالا برد؛ هدف خنثی‌سازی تورم است",
+            "تورم و قیمت‌های انرژی همچنان بالا مانده‌اند، فشار بر مصرف‌کنندگان ادامه دارد",
+            "قیمت‌گذاری اوراق قرضه و سهام به‌سرعت واکنش نشان می‌دهد و ریسک سقوط بازارهای نوظهور افزایش می‌یابد",
+            "هزینه استقراض برای شرکت‌ها و خانوارها بالا می‌رود؛ رشد اقتصادی ممکن است کند شود"
+        ],
+        "impact": "قیمت وام‌ها بالا می‌رود، سرمایه‌گذاری و مصرف داخلی تحت فشار می‌افتد",
+        "tag": "نرخ‌بهره",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "5NEWS",
+        "url": "https://www.5newsonline.com/article/money/economy/federal-reserve-raises-interest-rates-inflation-energy-prices-high/527-2a496503-b76f-427a-b621-2a902a5ca870",
+        "clean_url": "https://www.5newsonline.com/article/money/economy/federal-reserve-raises-interest-rates-inflation-energy-prices-high/527-2a496503-b76f-427a-b621-2a902a5ca870",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789609733.0
+    },
+    {
+        "id": "0e43c1e1dd",
+        "title_fa": "اجلاس عمومی سازمان ملل: جنگ ایران و هوش مصنوعی",
+        "title_en": "Iran war to AI: What world leaders will discuss at UN General Assembly next week",
+        "summary": [
+            "رهبران جهان در نیویورک به بررسی بحران جنگ ایران می‌پردازند",
+            "همزمان، مقررات هوش مصنوعی و خطرات نظامی‌سازی آن در دستور کار قرار دارد",
+            "بحث‌های احتمالی می‌تواند فشار دیپلماتیک بر ایران را تقویت کند",
+            "تصمیمات احتمالی درباره چارچوب‌های بین‌المللی هوش مصنوعی، بازار فناوری را تحت تأثیر قرار می‌دهد"
+        ],
+        "impact": "ممکن است تحریم‌های جدید یا توافق‌های فناوری بین‌المللی شکل بگیرد",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Times Now on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-war-to-ai-what-world-leaders-will-discuss-at-un-general-assembly-next-week/ar-AA2csov4?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-war-to-ai-what-world-leaders-will-discuss-at-un-general-assembly-next-week/ar-AA2csov4",
+        "image": "https://www.bing.com/th?id=ONUT.CyDyDHygm_9cO9gNZ_3asg",
+        "timestamp": 1789609733.0
     },
     {
         "id": "795d17b04c",
@@ -5358,60 +5418,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-retreat-supply-153920479.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/9e9a4609211d2a5ea34e169b72b63b2d.jpg",
         "timestamp": 1789572141.0
-    },
-    {
-        "id": "61eb15d4ff",
-        "title_fa": "These vulnerable House جمهوری‌خواهان suddenly oppose ترامپ’s ایران جنگ",
-        "title_en": "These vulnerable House Republicans suddenly oppose Trump’s Iran war",
-        "summary": [
-            "Seven House Republicans bucked their party on Tuesday to join Democrats in voting to stop Trump from continuing the U.S. military conflict against Iran. Most GOP lawmakers have sh"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ms",
-        "url": "https://www.ms.now/news/house-republicans-iran-war-powers-election",
-        "clean_url": "https://www.ms.now/news/house-republicans-iran-war-powers-election",
-        "image": "https://www.ms.now/wp-content/uploads/2026/09/260916-republicans-opposed-iran-war-donald-trump-capitol-vote-pi.webp?w=1200&h=630&crop=1",
-        "timestamp": 1789571640.0
-    },
-    {
-        "id": "f9bbecb4b8",
-        "title_fa": "روسیه موشک‌بار کی‌وی و شهرهای اوکراین",
-        "title_en": "Russia strikes Kyiv and other Ukrainian cities, Poland scrambles jets",
-        "summary": [
-            "روسیه شب گذشته با موشک و پهپاد به کی‌وی و شهرهای دیگر اوکراین حمله کرد",
-            "نیروی هوایی ناتو در مرز لهستان هواپیماهای جنگی فرستاد تا تهدید را مهار کند",
-            "تلفات غیرنظامی گزارش نشده اما خسارات زیرساختی قابل توجه است"
-        ],
-        "impact": "تشدید تنش‌های شرق‑اروپایی و احتمال واکنش نظامی ناتو",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-gb/politics/general/russia-strikes-kyiv-and-other-ukrainian-cities-poland-scrambles-jets/ar-AA2cqSre?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/politics/general/russia-strikes-kyiv-and-other-ukrainian-cities-poland-scrambles-jets/ar-AA2cqSre",
-        "image": "https://www.bing.com/th?id=ONUT.RSsFv04344CGAGJEXu8b9Q",
-        "timestamp": 1789571631.0
-    },
-    {
-        "id": "2ceec24e22",
-        "title_fa": "قطعه‌پرتوی پهپاد حوثی در طائف، کشته شد",
-        "title_en": "One killed and two injured by Houthi drone debris in Saudi Arabia's Taif",
-        "summary": [
-            "یک قطعه‌پرتوی پهپاد حوثی در شهر طائف سقوط کرد و یک نفر کشته شد",
-            "این حمله نشانگر گسترش درگیری‌های حامی ایران در خلیج است",
-            "مقامات سعودی اعلام کردند امنیت هوایی را تقویت می‌کنند"
-        ],
-        "impact": "افزایش خطر برای شهرهای سعودی و فشار بر روابط ایران‑سعودی",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The National on MSN",
-        "url": "https://www.msn.com/en-ae/news/world/one-killed-and-two-injured-by-houthi-drone-debris-in-saudi-arabias-taif/ar-AA2crrd7?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ae/news/world/one-killed-and-two-injured-by-houthi-drone-debris-in-saudi-arabias-taif/ar-AA2crrd7",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789571631.0
     }
 ]
