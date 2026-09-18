@@ -2673,6 +2673,25 @@
         "timestamp": 1789638672.9286513
     },
     {
+        "id": "c4ffaf81e6",
+        "title_fa": "ترامپ آماده جدال با نتانیاهو",
+        "title_en": "Vance: Trump willing to ‘part ways’ with Netanyahu when necessary, and has often opposed him",
+        "summary": [
+            "جِی‌دی ونس ادعا کرد ترامپ برای منافع آمریکا حتی با نتانیاهو جدال می‌کند",
+            "این بیانیه نشان می‌دهد رهبری آمریکا می‌تواند روابط استراتژیک با اسرائیل را به‌سرعت تغییر دهد",
+            "اگر واقعاً اجرا شود، فشار بر هماهنگی‌های مشترک درباره ایران و برنامه‌های هسته‌ای افزایش می‌یابد"
+        ],
+        "impact": "احتمال تضعیف همکاری نظامی‑دیپلماتیک آمریکا‑اسرائیل و تغییر موضع در قبال برنامه هسته‌ای ایران",
+        "tag": "سیاست خارجی",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "SA Jewish Report",
+        "url": "https://www.sajr.co.za/vance-trump-willing-to-part-ways-with-netanyahu-when-necessary-and-has-often-opposed-him/",
+        "clean_url": "https://www.sajr.co.za/vance-trump-willing-to-part-ways-with-netanyahu-when-necessary-and-has-often-opposed-him",
+        "image": "https://www.bing.com/th?id=ONUT.EmUBz0tA9fPY3_C-whz0rw",
+        "timestamp": 1789638550.0
+    },
+    {
         "id": "63af2109bf",
         "title_fa": "حوثی‌ها بابه‌الماندهب را به‌دست گرفتند",
         "title_en": "From mountain fighters to Red Sea power: How the Houthis rose to control Bab el-Mandeb",
@@ -5391,24 +5410,5 @@
         "clean_url": "https://en.ilsole24ore.com/art/war-latest-news-us-house-of-representatives-passes-bill-forcing-trump-to-end-the-conflict-AJtTbcEB",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/17/Immagini/Ritagli/2026-09-16T060037Z_1789342663_RC24KNAQ2I9X_RTRMADP_5_ISRAEL-PALESTINIANS-GAZA-BUILDING-COLLAPSE-U71116673376VtF-1440x752@IlSole24Ore-Web.JPG?r=1170x507",
         "timestamp": 1789593120.0
-    },
-    {
-        "id": "7099398873",
-        "title_fa": "آمریکا حضور نمایندگان ایرانی در مجمع عمومی را می‌پذیرد",
-        "title_en": "US to allow Iranian leaders to attend UN General Assembly",
-        "summary": [
-            "دولت ترامپ ویزای نمایندگان ارشد ایران را برای حضور در مجمع عمومی نیویورک صادر کرد",
-            "این تصمیم در حالی است که جنگ بین دو کشور ادامه دارد و مذاکرات متناوبی در جریان است",
-            "حضور شامل رئیس‌جمهور مسعود پزشکیان و وزیر خارجه عباس عرقی می‌شود"
-        ],
-        "impact": "حضور ایرانیان در نیویورک فشار دیپلماتیک آمریکا را کاهش می‌دهد",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/us-to-allow-iranian-leaders-to-attend-un-general-assembly-101789675359601.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/us-news/us-to-allow-iranian-leaders-to-attend-un-general-assembly-101789675359601.html",
-        "image": "https://www.bing.com/th?id=ONUT.qAxsfPMKbWirIbTDhJQ5oA",
-        "timestamp": 1789592576.0
     }
 ]
