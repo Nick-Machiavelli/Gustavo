@@ -1,5 +1,25 @@
 [
     {
+        "id": "d41ce40a42",
+        "title_fa": "حمله هوثی‌ها به سواحل سرخ خطر نفت را بالا برد",
+        "title_en": "Houthis, Saudis, Iran",
+        "summary": [
+            "هوثی‌ها سواحل سرخ را در حمله‌ای سریع تصرف کردند و تهدید به مسدود کردن کشتی‌های سعودی کردند",
+            "قیمت نفت به بالای ۱۰۰ دلار در هر بشکه رسید",
+            "اختلال در مسیرهای حمل‌ونقل دریایی خطر تجارت جهانی را افزایش می‌دهد",
+            "احتمال گسترش درگیری به خلیج فارس و حضور نظامی بین‌المللی بیشتر می‌شود"
+        ],
+        "impact": "اختلال در مسیرهای نفتی هزینه‌های حمل‌ونقل را بالا برده و تنش‌های منطقه‌ای را تشدید می‌کند",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-saudis-iran-and-the-future-of-middle-eastern-oil/articleshow/134323726.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-saudis-iran-and-the-future-of-middle-eastern-oil/articleshow/134323726.cms",
+        "image": "https://www.bing.com/th?id=ONUT.-Mu4vkf8a32CYGS_2xCJXw",
+        "timestamp": 1789709697.4189005
+    },
+    {
         "id": "c567168be4",
         "title_fa": "هند در اجلاس برکس موفق؛ چالش‌های پس از آن",
         "title_en": "India aced the BRICS summit. The harder part begins now",
@@ -2355,6 +2375,25 @@
         "timestamp": 1789635960.0
     },
     {
+        "id": "04198ada80",
+        "title_fa": "اقتصاد جهانی فضای مانور خود را از دست می‌دهد",
+        "title_en": "Global Economy Is Running Out of Wiggle Room",
+        "summary": [
+            "جنگ ایران باعث بالا ماندن قیمت‌های انرژی شده است",
+            "کشورها اثرات شدید را مهار کردند اما تورم انرژی همچنان فشار می‌آورد",
+            "ریسک‌های جدید از نوسان قیمت‌ها و عدم ثبات مالی جهانی می‌آید"
+        ],
+        "impact": "رشد هزینه‌های انرژی فشار بر رشد اقتصادی و افزایش بدهی‌های دولتی می‌گذارد",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html",
+        "clean_url": "https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html",
+        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16biz-globalecon-energy-01-lzwc/16biz-globalecon-energy-01-lzwc-facebookJumbo.jpg",
+        "timestamp": 1789635840.0
+    },
+    {
         "id": "f66d958842",
         "title_fa": "هیو هشدار جدی برای ترامپ در نظرسنجی فاکس",
         "title_en": "Brit Hume spots a major Donald Trump warning sign in new Fox News poll",
@@ -2701,6 +2740,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF9jWlhqNUs1Sk5RTm1DUm5qT2Z5RkNZZHF0a01WNldXMTJTWlBaTzBBUGprVlZHbHhOeWdpTkpEcVU3dlF5WUpFQUgybnlKbWl1enBjMFpodmRqcjZlNldacjVZWDdoWjFrSGZOWEF4SHh4U000M0YtMHJlUXRlWFR5TnA2NXFRd3BuVUVVOVFEMDVVdXg3T3p1X0Q3S3F2VFBhTE9KazJOZw",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789623678.0
+    },
+    {
+        "id": "a0ac620619",
+        "title_fa": "گوترش: جهان تقسیم‌شده باید در هوش‌مصنوعی و اقلیم متحد شود",
+        "title_en": "Guterres warns divided world must unite on AI, climate and inequality",
+        "summary": [
+            "شورای امنیت پارالیز شده مانع حل بحران‌های جهانی می‌شود",
+            "گوترش همکاری در هوش‌مصنوعی، تغییرات اقلیمی و نابرابری را برای جلوگیری از تشدید تنش‌ها ضروری می‌داند",
+            "با نزدیک شدن به پایان دوره‌اش، امید به پیشرفت‌های مشترک را ابراز کرد"
+        ],
+        "impact": "عدم همکاری بین‌المللی فشار اقتصادی و امنیتی را افزون می‌کند",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/antonio-guterres-warns-divided-world-needs-cooperation-on-ai-climate-and-conflicts-ptag-2997380-2026-09-18",
+        "clean_url": "https://www.indiatoday.in/world/story/antonio-guterres-warns-divided-world-needs-cooperation-on-ai-climate-and-conflicts-ptag-2997380-2026-09-18",
+        "image": "https://www.bing.com/th?id=ONUT.VlmXxGg0wA_yEzHEG3ZslQ",
+        "timestamp": 1789623292.0
     },
     {
         "id": "6cf76311c7",
@@ -5345,60 +5403,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONk1BZWhVSlRGaFNuLWNYVmg4NlNxVXZIRGxCbTFibkd3X2NsNE8zN25INEVvYlFEdjNra0RYRDA5QVY4RFM2VENYZFlfQnhxR21iUGhFZGl5bzg2T3ZJZ0tkOVpyelpPRDVyRW1YejJ2b2FmR2h3bVlmaVlCNkQ2bDVLOEs2a2NaMEZQeXlQd9IBlAFBVV95cUxNZmIxaTB3akd3cUpwc01rVHhfZ0NsMGlpdWpvekZESGpaRnBabS1ZNEdHd2hBUE80TjI5OU1qeVRxV0hVdkZCZkhsSGpBVHhxZUkwMGtaZ19pelV0YjFLTnl2TGFUSjF0NkZmWW5JcmJuVzZtX0ZlcXBlN2MxUUlScDFiY3hGdkRtOWxfVHdzSndXanA3",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789584014.0
-    },
-    {
-        "id": "2da3d908d6",
-        "title_fa": "ترامپ و جنگ نامحدود علیه ایران",
-        "title_en": "Donald Trump",
-        "summary": [
-            "ترامپ همچنان فشار نظامی و اقتصادی بر ایران را ترویج می‌کند.",
-            "او تحریم‌های سنگین را ابزار اصلی برای خنثی‌سازی برنامه هسته‌ای می‌داند.",
-            "اظهارات اخیر او نشان می‌دهد احتمال اقدام‌ها نیابتی یا تهدید مستقیم افزایش می‌یابد."
-        ],
-        "impact": "تحریم‌های جدید می‌تواند فشار اقتصادی بر ایران را تشدید کند و ریسک تنش‌های نظامی را بالا ببرد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/tag/donald-trump/",
-        "clean_url": "https://www.aljazeera.com/tag/donald-trump",
-        "image": "https://www.aljazeera.com/images/logo_aje_social.png",
-        "timestamp": 1789584000.0
-    },
-    {
-        "id": "cf8d9ed13f",
-        "title_fa": "قوانین EPA ترامپ هزینه‌های تریلیونی ایجاد می‌کند",
-        "title_en": "Trump’s Slashing Of EPA Pollution Rules Will Cost Trillions",
-        "summary": [
-            "دولت ترامپ استانداردهای آلودگی را لغو کرد و اجازه داد نیروگاه‌های فسیلی بدون محدودیت انتشار گازهای گلخانه‌ای کار کنند.",
-            "محافظان محیط‌زیست تخمین می‌زنند که این کار بین ۱٫۵ تا ۴٫۲ تریلیون دلار هزینه بهداشتی و زیست‌محیطی به‌بار می‌آورد.",
-            "در کوتاه‌مدت سود سهام انرژی‌های فسیلی ممکن است بالا رود، اما هزینه‌های طولانی‌مدت برای اقتصاد و سلامت عمومی سنگین خواهد شد."
-        ],
-        "impact": "هزینه‌های بهداشتی و زیست‌محیطی به‌صورت تریلیونی دلار افزایش می‌یابد و فشار بر سیاست‌گذاران اقلیمی شدید می‌شود.",
-        "tag": "محیط‌زیست",
-        "urgency": 4,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-slashing-epa-pollution-rules-181101230.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-slashing-epa-pollution-rules-181101230.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/e8009c2edc223b46d71f74e00e5838799b0d3b4acd1406da8fa84a78ec3ef769/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclimate_crisis_247_604%2Fd702432df5fc1196c63c291cd9972df3.jpg",
-        "timestamp": 1789583994.723299
-    },
-    {
-        "id": "208691d4a8",
-        "title_fa": "خبر بین‌المللی — Tracking U.S., state و county gas prices, در maps و charts.",
-        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-        "summary": [
-            "Tracking U.S., state and county gas prices, in maps and charts. Updated daily. NBC News"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789583415.0
     }
 ]
