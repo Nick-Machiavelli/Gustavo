@@ -1,5 +1,24 @@
 [
     {
+        "id": "f1a90274d4",
+        "title_fa": "ماه جشن تولد ۷۶ سالگی مودی",
+        "title_en": "PM Modi deserves some credit for birthday restraint. At least he didn’t rename a month after himself",
+        "summary": [
+            "حکومت ب‌جِی‌پی یک ماه کارهای خدماتی با ۱۴ ماژول مختلف در سراسر کشور راه‌اندازی کرد تا تولد مودی را جشن بگیرد.",
+            "بودجه‌ای حدود ۱۳٬۸۲۰ کرور روپیه برای پروژه‌های توسعه‌ای اختصاص یافت؛ هزینه‌های سنگین در زمان بحران اقتصادی داخلی.",
+            "استفاده از نمادهای بزرگ مثل پرچم ۵٬۰۰۰ دیه‌ای در آسام و ۷۶٬۰۰۰ دیه در احمدآباد، هدف جذب حمایت مردمی و تقویت تصویر رهبری است."
+        ],
+        "impact": "تقویت اعتبار سیاسی مودی در میان رای‌دهندگان، اما فشار مالی بر بودجه عمومی در شرایط تورم.",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Newslaundry",
+        "url": "https://www.newslaundry.com/2026/09/18/pm-modi-deserves-some-credit-for-birthday-restraint-at-least-he-didnt-rename-a-month-after-himself",
+        "clean_url": "https://www.newslaundry.com/2026/09/18/pm-modi-deserves-some-credit-for-birthday-restraint-at-least-he-didnt-rename-a-month-after-himself",
+        "image": "https://www.bing.com/th?id=ONUT.igf-YlMaW2830SwsA_TbRw",
+        "timestamp": 1789724468.1128988
+    },
+    {
         "id": "82dc33a257",
         "title_fa": "ترامپ تصمیم نابودی ایران را می‌گوید",
         "title_en": "'Annihilate Iran?': Trump Cites Major Decision Upcoming Amid Evidence of Iran Nuclear Rebuild",
@@ -804,6 +823,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TUG1Kd0lQUk9OVVJ2SGdmM1lCUFJxeEJBdFhmQUl5WWt1aVBVeDdVb0F1eFVUaThWbEZqS3RVZnpOUVBydXA3b094X2Y0X0UxeFE",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789689801.0
+    },
+    {
+        "id": "e1c7fd609a",
+        "title_fa": "تحریم آمریکا بر صرافی رمزارز ایرانی بیت‌بانک",
+        "title_en": "U.S. sanctions Iranian crypto exchange BitBank",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا صرافی بیت‌بانک و شرکت نرم‌افزاری‌اش را به فهرست تحریم‌های OFAC افزود.",
+            "پلتفرم به نقل از مقامات آمریکایی، صدها میلیون دلار بیت‌کوین را به سپاه پاسداران منتقل کرده بود.",
+            "سه نفر مرتبط با بابک زنجانی که قبلاً تحت تحریم بودند، نیز به لیست اضافه شد؛ هدف قطع مسیرهای مالی رمزارزی برای ارتش ایران است."
+        ],
+        "impact": "قابلیت دسترسی سپاه به منابع مالی دیجیتال محدود می‌شود و فشار بین‌المللی بر بازار رمزارزهای ایرانی افزایش می‌یابد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "tradersunion",
+        "url": "https://tradersunion.com/news/cryptocurrency-news/show/3377782-sanctions-iranian-crypto-exchange/",
+        "clean_url": "https://tradersunion.com/news/cryptocurrency-news/show/3377782-sanctions-iranian-crypto-exchange",
+        "image": "https://tradersunion.com/uploads/images/tu-news/02026/09/3377782/sanctions-iranian-crypto-exchange.jpg",
+        "timestamp": 1789689600.0
     },
     {
         "id": "63fe1e955a",
@@ -5372,39 +5410,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/us-news/us-to-allow-iranian-leaders-to-attend-un-general-assembly-101789675359601.html",
         "image": "https://www.bing.com/th?id=ONUT.qAxsfPMKbWirIbTDhJQ5oA",
         "timestamp": 1789592576.0
-    },
-    {
-        "id": "f1c141efc5",
-        "title_fa": "خبر بین‌المللی — US Pushes Back After UN Alleges جنگ Crimes در ایران",
-        "title_en": "US Pushes Back After UN Alleges War Crimes in Iran",
-        "summary": [
-            "The White House is pushing back against a United Nations fact-finding mission's allegations that U.S. forces committed war..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Newsmax",
-        "url": "https://www.newsmax.com/us/united-states-iran-war-crimes/2026/09/17/id/1269798/",
-        "clean_url": "https://www.newsmax.com/us/united-states-iran-war-crimes/2026/09/17/id/1269798",
-        "image": "https://www.bing.com/th?id=ONUT.N9Y60aaSRk0VtEE4CPMxXQ",
-        "timestamp": 1789591653.0
-    },
-    {
-        "id": "a83430c9e8",
-        "title_fa": "خبر بین‌المللی — ایران جنگ drags در with no پایان در sight. JPMorgan is no l",
-        "title_en": "The Iran war drags on with no end in sight. JPMorgan is no longer forecasting when.",
-        "summary": [
-            "\"For the first time since the start of the Iran conflict, we don't have a baseline view,\" said the bank's head of global..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "International Business Times on MSN",
-        "url": "https://www.msn.com/en-us/news/other/the-iran-war-drags-on-with-no-end-in-sight-jpmorgan-is-no-longer-forecasting-when/ar-AA2crQ8h?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/the-iran-war-drags-on-with-no-end-in-sight-jpmorgan-is-no-longer-forecasting-when/ar-AA2crQ8h",
-        "image": "https://www.bing.com/th?id=ONUT.TQQqvmEPDEaz9fopzJJ6DQ",
-        "timestamp": 1789591653.0
     }
 ]
