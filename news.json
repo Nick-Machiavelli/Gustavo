@@ -1,5 +1,42 @@
 [
     {
+        "id": "49812a4917",
+        "title_fa": "تهدید ترامپ به تخریب مرکز جِی‌کی",
+        "title_en": "‘Pretty Twisted, Even for Trump’: Chris Hayes Aghast at President’s Potential Destruction of JFK Memorial",
+        "summary": [
+            "ترامپ خواست نام خود را دوباره بر مرکز جِی‌کی بگذارد و در صورت عدم پذیرش، تخریب آن را تهدید کرد.",
+            "قاضی فدرال نام او را از ساختمان حذف کرد؛ اما ترامپ هنوز به اجرای این حکم اعتراض دارد.",
+            "این جدال نمادین می‌تواند به تفرقه عمیق‌تر در فضای فرهنگی آمریکا منجر شود."
+        ],
+        "impact": "اگر ترامپ ادامه دهد، نماد ملی آمریکا در خطر تخریب و تضعیف اعتبار بین‌المللی خواهد بود.",
+        "tag": "سیاست داخلی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/pretty-twisted-even-trump-chris-020037883.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/pretty-twisted-even-trump-chris-020037883.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/cf81c518681381cf1f281f57088a88eb764a72d92ce0f8720a8815ce07e2a0dd/lightyear_networkapi/resizefill_w802_h455%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2F0e6135abab8ccb47a5a40ef114e987ba.jpg",
+        "timestamp": 1789698999.406191
+    },
+    {
+        "id": "8e0af9644a",
+        "title_fa": "خطاهای هادسون و درس‌های صومالی",
+        "title_en": "The Hudson Backlash: What went wrong and what Somaliland must learn from it",
+        "summary": [
+            "هودسون به‌دلیل نقص در ارتباطات داخلی پروژه‌اش را به‌خطر انداخت.",
+            "عدم هماهنگی باعث شد صومالی نتواند از فرصت‌های سرمایه‌گذاری بهره‌برداری کند."
+        ],
+        "impact": "عدم توانایی در ارتباطات باعث تضعیف اعتبار صومالی در جذب سرمایه می‌شود.",
+        "tag": "سیاست خارجی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Blogs | The Times of Israel",
+        "url": "https://blogs.timesofisrael.com/the-hudson-backlash-what-went-wrong-and-what-somaliland-must-learn-from-it/",
+        "clean_url": "https://blogs.timesofisrael.com/the-hudson-backlash-what-went-wrong-and-what-somaliland-must-learn-from-it",
+        "image": "https://www.bing.com/th?id=ONUT.gvvjEDS2Bgh7igjMa-6a3Q",
+        "timestamp": 1789698999.404938
+    },
+    {
         "id": "a591fc3d06",
         "title_fa": "ترامپ امید به پایان تنش‌های ایران",
         "title_en": "Iran conflict 'hopefully' nearing end, Trump says",
@@ -929,6 +966,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/china-russia-veto-renewal-of-un-iran-sanctions-panel/ar-AA2crpHo",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cruBo.img?w=900&h=510&m=4&q=84",
         "timestamp": 1789660283.0
+    },
+    {
+        "id": "77f8358d7b",
+        "title_fa": "نگاه گاردین به روابط ایالات‑کانادا و بحران‌های داخلی",
+        "title_en": "US latest news",
+        "summary": [
+            "تحلیل‌گران گاردین به بی‌ثباتی رئیس‌جمهور آمریکا و اثراتش بر روابط تجاری اشاره کردند.",
+            "ترامپ ادعا کرد آمریکا نیازی به کانادا ندارد، اگرچه کانادا منبع مهم مواد معدنی نظامی است."
+        ],
+        "impact": "بی‌ثباتی سیاسی آمریکا می‌تواند تصمیم‌گیری‌های تجاری بریتانیا و اتحادیه اروپا را دشوار کند.",
+        "tag": "اقتصاد‑پول",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1789660080.0
     },
     {
         "id": "aff996b6e4",
@@ -4480,6 +4535,25 @@
         "timestamp": 1789584014.0
     },
     {
+        "id": "2da3d908d6",
+        "title_fa": "ترامپ و جنگ نامحدود علیه ایران",
+        "title_en": "Donald Trump",
+        "summary": [
+            "ترامپ همچنان فشار نظامی و اقتصادی بر ایران را ترویج می‌کند.",
+            "او تحریم‌های سنگین را ابزار اصلی برای خنثی‌سازی برنامه هسته‌ای می‌داند.",
+            "اظهارات اخیر او نشان می‌دهد احتمال اقدام‌ها نیابتی یا تهدید مستقیم افزایش می‌یابد."
+        ],
+        "impact": "تحریم‌های جدید می‌تواند فشار اقتصادی بر ایران را تشدید کند و ریسک تنش‌های نظامی را بالا ببرد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/tag/donald-trump/",
+        "clean_url": "https://www.aljazeera.com/tag/donald-trump",
+        "image": "https://www.aljazeera.com/images/logo_aje_social.png",
+        "timestamp": 1789584000.0
+    },
+    {
         "id": "cf8d9ed13f",
         "title_fa": "قوانین EPA ترامپ هزینه‌های تریلیونی ایجاد می‌کند",
         "title_en": "Trump’s Slashing Of EPA Pollution Rules Will Cost Trillions",
@@ -5343,78 +5417,5 @@
         "clean_url": "https://www.financialexpress.com/policy/economy-us-tariff-threat-puts-indiasrussian-oil-lifeline-at-risk-4341586",
         "image": "https://www.bing.com/th?id=ONUT.3L4fGMOXECu6ub9b07_xlg",
         "timestamp": 1789573843.0
-    },
-    {
-        "id": "50773adacb",
-        "title_fa": "خبر بین‌المللی — ‘Happy birthday به my friend’: #Melodi trends as Giorgia Mel",
-        "title_en": "‘Happy birthday to my friend’: #Melodi trends as Giorgia Meloni extends birthday wishes to PM Modi, says ‘deep bond of friendship’ will continue to grow",
-        "summary": [
-            "Taking to X, Giorgia Meloni described PM Narendra Modi as her \"friend\", and wished him \"health, energy, and success\" on his..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "News24",
-        "url": "https://news24online.com/india/pm-modi-birthday-happy-birthday-to-my-friend-melodi-trends-as-giorgia-meloni-extends-birthday-wishes-to-pm-modi-says-deep-bond-of-friendship-will-continue-to-grow/927112/",
-        "clean_url": "https://news24online.com/india/pm-modi-birthday-happy-birthday-to-my-friend-melodi-trends-as-giorgia-meloni-extends-birthday-wishes-to-pm-modi-says-deep-bond-of-friendship-will-continue-to-grow/927112",
-        "image": "https://www.bing.com/th?id=ONUT.m0IWsEpFIODgt0JQVEGSDw",
-        "timestamp": 1789573843.0
-    },
-    {
-        "id": "13ff7e33a3",
-        "title_fa": "هوش مصنوعی کشته‌گر: دولت‌ها مقصر",
-        "title_en": "AI is already killing people—and governments are to blame",
-        "summary": [
-            "گزارش‌ها نشان می‌دهد هوش مصنوعی در حوادث مرگبار نقش داشته و شرکت‌ها ایمنی را نادیده می‌گیرند",
-            "دولت‌ها قوانین سخت‌گیرانه‌ای وضع نکرده‌اند؛ مسئولیت اصلی بر عهده آن‌هاست",
-            "عدم شفافیت الگوریتم‌ها خطر پیش‌بینی‌ناپذیری را افزون می‌کند"
-        ],
-        "impact": "عدم اقدام سریع می‌تواند تعداد کشته‌شدگان توسط سیستم‌های هوش مصنوعی را به‌سرعت افزایش دهد",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Reason on MSN",
-        "url": "https://www.msn.com/en-us/news/other/ai-is-already-killing-people-and-governments-are-to-blame/ar-AA2clSUu?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/ai-is-already-killing-people-and-governments-are-to-blame/ar-AA2clSUu",
-        "image": "https://www.bing.com/th?id=ONUT.8cGJcpp2jRbMnmUIsAfjwg",
-        "timestamp": 1789573822.301239
-    },
-    {
-        "id": "327f1be739",
-        "title_fa": "توافق آمریکا‑عربستان: گسترش صادرات هسته‌ای با ریسک‌های جدید",
-        "title_en": "The US-Saudi agreement means managing new risks to expand nuclear exports",
-        "summary": [
-            "آمریکا می‌خواهد در بازارهای نوظهور هسته‌ای پیشتاز شود تا روسیه و چین را عقب بزند",
-            "این هدف با خطر گسترش فناوری حساس و احتمال سرقت اطلاعات تداخل دارد",
-            "توافق باعث افزایش صادرات سوخت و تجهیزات هسته‌ای به خاورمیانه می‌شود"
-        ],
-        "impact": "رقابت هسته‌ای منطقه‌ای تشدید می‌شود و فشار بر نظارت‌های بین‌المللی بالا می‌رود",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The National Interest on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/the-us-saudi-agreement-means-managing-new-risks-to-expand-nuclear-exports/ar-AA2clVF3?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/the-us-saudi-agreement-means-managing-new-risks-to-expand-nuclear-exports/ar-AA2clVF3",
-        "image": "https://www.bing.com/th?id=ONUT.N35RK--gBEwKaD9cUptRDw",
-        "timestamp": 1789573822.3009996
-    },
-    {
-        "id": "4f4e1d1daf",
-        "title_fa": "تهران تا آخرین قطره خون می‌جنگد",
-        "title_en": "Iran war live: Tehran vows to fight on 'until the last drop of blood'",
-        "summary": [
-            "ایران پس از تهدیدهای ترامپ، اعلام کرد تا آخرین قطره خون می‌جنگد؛ نشانگر ریسک تشدید تنش‌های نظامی است",
-            "بیانیه‌اش سعی دارد پیام مقاومت به داخل و خارج بدهد، اما می‌تواند فشار دیپلماتیک آمریکا را تقویت کند"
-        ],
-        "impact": "افزایش تنش نظامی و خطر تشدید درگیری‌های منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-live-tehran-vows-to-fight-on-until-the-last-drop-of-blood/ar-AA2cjFL4",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-tehran-vows-to-fight-on-until-the-last-drop-of-blood/ar-AA2cjFL4",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cfZrP.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1789572269.0
     }
 ]
