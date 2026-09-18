@@ -1,5 +1,23 @@
 [
     {
+        "id": "d67c77f009",
+        "title_fa": "کارگرهای استرالیا به جای مهاجرت، به جنسیت می‌پردازند",
+        "title_en": "‘They’re embarrassed’ – Why Labor pivoted to gender and ignored immigration",
+        "summary": [
+            "حزب کارگر پس از طرح برنامه مهاجرتی، تمرکز را به مسائل جنسیتی منتقل کرد تا از انتقادات جلوگیری کند",
+            "این تغییر نشان می‌دهد که رهبری حزب از موضوعات حساس مانند مهاجرت دوری می‌کند"
+        ],
+        "impact": "توجه عمومی به سیاست مهاجرت کاهش می‌یابد و بحث جنسیتی به صدر می‌آید",
+        "tag": "سیاست_داخلی",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "2GB",
+        "url": "https://www.2gb.com/theyre-embarrassed-why-labor-pivoted-to-gender-and-ignored-immigration/",
+        "clean_url": "https://www.2gb.com/theyre-embarrassed-why-labor-pivoted-to-gender-and-ignored-immigration",
+        "image": "https://www.2gb.com/wp-content/uploads/sites/2/2026/09/GettyImages-2284273662-scaled.jpg",
+        "timestamp": 1789706169.2955942
+    },
+    {
         "id": "490e7dc875",
         "title_fa": "خبر بین‌المللی — Georgia: Critics Jailed برای Online Speech",
         "title_en": "Georgia: Critics Jailed for Online Speech",
@@ -2558,6 +2576,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qdUM5TkVTajU1bW9Tbjh5T2FNLUNVRWNNMDcwZ0t2V2Z0NTZub0dxZzFfUkJfdUJOUDJicEo0RV9BMDNEa05lZGxTS0NuTzhQSWtnazE4Z1NPMmljU1lmX0stVHRrczYxaWc",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789621977.0
+    },
+    {
+        "id": "b7d9786122",
+        "title_fa": "تحریم خشن آمریکا بر خریداران نفت روسیه",
+        "title_en": "Why US Is Punishing Russian Oil Buyers But Still Working With Moscow on Nuclear Fuel?",
+        "summary": [
+            "واشنگتن چارچوب جدیدی برای فشار اقتصادی بر کشورهایی که نفت روسیه می‌خرند پیشنهاد داد",
+            "این چارچوب به دولت اجازه می‌دهد تا محدودیت‌های تجاری و جریمه‌های سنگین‌تری اعمال کند"
+        ],
+        "impact": "خریداران روسیه با هزینه‌های بالاتر و محدودیت‌های صادراتی مواجه می‌شوند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Dynamite News",
+        "url": "https://www.dynamitenews.com/international/why-us-is-punishing-russian-oil-buyers-but-still-working-with-moscow-on-nuclear-fuel",
+        "clean_url": "https://www.dynamitenews.com/international/why-us-is-punishing-russian-oil-buyers-but-still-working-with-moscow-on-nuclear-fuel",
+        "image": "https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/2026/09/Untitled-Design-34-1.jpg",
+        "timestamp": 1789619763.0
+    },
+    {
+        "id": "9f71e56538",
+        "title_fa": "کره‌جنوبی سرمایه‌گذاری در آمریکا را به تعویق انداخت",
+        "title_en": "South Korea delays US investment plans: Final steps before Seoul & Washington set terms",
+        "summary": [
+            "سئول به دلیل عدم قطعیت اقتصادی و سیاست‌های تعرفه‌ای آمریکا پروژه‌های سرمایه‌گذاری خود را به تعویق گذاشت",
+            "این تصمیم نشان‌دهنده نگرانی شرکت‌های کره‌ای از ریسک‌های بازار و هزینه‌های بالای واردات است"
+        ],
+        "impact": "سرمایه‌گذاری‌های کره‌ای در آمریکا کاهش می‌یابد و فرصت‌های شغلی محدود می‌شود",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "WION",
+        "url": "https://www.wionews.com/videos/south-korea-delays-us-investment-plans-final-steps-before-seoul-washington-set-terms-1789704302439",
+        "clean_url": "https://www.wionews.com/videos/south-korea-delays-us-investment-plans-final-steps-before-seoul-washington-set-terms-1789704302439",
+        "image": "https://www.wionews.com/videos/south-korea-delays-us-investment-plans-final-steps-before-seoul-washington-set-terms-1789704302439",
+        "timestamp": 1789619763.0
+    },
+    {
+        "id": "1ec7df43eb",
+        "title_fa": "قله ژی-ترامپ می‌تواند پیوندهای نظامی را تقویت کند",
+        "title_en": "Xi-Trump summit may boost military links",
+        "summary": [
+            "احتمال برگزاری نشست بین ژی جین‌پینگ و دونالد ترامپ می‌تواند راه‌گشای ارتباط مستقیم نظامی باشد",
+            "هدف اصلی گفتگو کاهش تنش و ایجاد کانال‌های اضطراری برای مدیریت بحران‌های امنیتی است"
+        ],
+        "impact": "ارتباط مستقیم نظامی می‌تواند خطر تصادف‌های ناخواسته را کاهش دهد",
+        "tag": "روابط_نظامی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "WION",
+        "url": "https://www.wionews.com/videos/xi-trump-summit-may-boost-military-links-1789703434125",
+        "clean_url": "https://www.wionews.com/videos/xi-trump-summit-may-boost-military-links-1789703434125",
+        "image": "https://www.wionews.com/videos/xi-trump-summit-may-boost-military-links-1789703434125",
+        "timestamp": 1789619763.0
     },
     {
         "id": "7185432705",
@@ -5339,77 +5411,5 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2295602609-1-1789642509.jpg?resize=1200%2C630",
         "timestamp": 1789578000.0
-    },
-    {
-        "id": "eed76d7369",
-        "title_fa": "ترامپ با رهبران خلیج فارس درباره جنگ ایران مذاکره می‌کند",
-        "title_en": "اکسیوس: ترامپ با رهبران کشورهای خلیج فارس درباره جنگ با حکومت ایران گفت‌وگو می‌کند",
-        "summary": [
-            "ترامپ قصد دارد در حاشیه مجمع عمومی ملل با کشورهای حاشیه خلیج فارس درباره گام‌های بعدی در جنگ با ایران گفتگو کند",
-            "این دیدار می‌تواند فشار نظامی و تحریمی آمریکا را علیه تهران تشدید کند و ریسک درگیری منطقه‌ای را بالا ببرد"
-        ],
-        "impact": "افزایش تنش‌های سیاسی و احتمال اعمال تحریم‌های جدید علیه ایران",
-        "tag": "سیاست خارجی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609176658",
-        "clean_url": "https://www.iranintl.com/202609176658",
-        "image": "http://www.bing.com/th?id=ONUT.9xvRDGgbaaF5rZnSg51DvA&pid=News",
-        "timestamp": 1789578000.0
-    },
-    {
-        "id": "c1741134be",
-        "title_fa": "جو اسکاربورو پیتر هگست را با لقب جدید خنداند",
-        "title_en": "MS Now Host Humiliates Pentagon Pete With Brutal New Nickname",
-        "summary": [
-            "جو اسکاربورو در برنامه‌اش، وزیر دفاع پیت هگست را به لقب «کامیون‌بییر فرارکننده» تشبیه کرد",
-            "این شوخی باعث خجالت‌زدگی هگست شد و واکنش‌های انتقادی در فضای سیاسی آمریکا برانگیخت",
-            "حمله شخصی نشان می‌دهد فشار رسانه‌ای بر مقامات دفاعی در دوران بحران‌های بین‌المللی افزایش یافته",
-            "احتمالاً اعتبار هگست در مذاکرات مجلس و با متحدان تحت فشار قرار می‌گیرد"
-        ],
-        "impact": "خجالت عمومی هگست می‌تواند توان مذاکره او را در مسائل دفاعی کاهش دهد",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "The Daily Beast on MSN",
-        "url": "https://www.msn.com/en-us/news/other/ms-now-host-humiliates-pentagon-pete-with-brutal-new-nickname/ar-AA2cmEqZ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/ms-now-host-humiliates-pentagon-pete-with-brutal-new-nickname/ar-AA2cmEqZ",
-        "image": "https://www.bing.com/th?id=ONUT.hO7XnKzd98F8KvO_L2ihQw",
-        "timestamp": 1789577456.2830615
-    },
-    {
-        "id": "df644a9a84",
-        "title_fa": "خبر بین‌المللی — US ambassador discusses هرمز deployment, investments with So",
-        "title_en": "US ambassador discusses Hormuz deployment, investments with South Korea",
-        "summary": [
-            "U.S. Ambassador to South Korea Michelle Steel visited Cheong Wa Dae on September 17, a day before President Lee Jae Myung’s press conference, for a closed-door meeting with senior officials to discuss..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Chosun Ilbo on MSN",
-        "url": "https://www.msn.com/en-xl/politics/government/us-ambassador-discusses-hormuz-deployment-investments-with-south-korea/ar-AA2crJCS?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/politics/government/us-ambassador-discusses-hormuz-deployment-investments-with-south-korea/ar-AA2crJCS",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789577428.0
-    },
-    {
-        "id": "325f402de0",
-        "title_fa": "خبر بین‌المللی — Federal Reserve raises interest rates برای first time در ov",
-        "title_en": "Federal Reserve raises interest rates for the first time in over three years",
-        "summary": [
-            "The Federal Reserve raised interest rates for the first time in more than three years Wednesday, in a show of its determination to attack stubborn inflation."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "VPM",
-        "url": "https://www.vpm.org/npr-story/federal-reserve-raises-interest-rates-warsh-inflation-gas-credit-cards/",
-        "clean_url": "https://www.vpm.org/npr-story/federal-reserve-raises-interest-rates-warsh-inflation-gas-credit-cards",
-        "image": "https://www.vpm.org/wp-content/uploads/2026/09/gettyimages-2288203975-1-1620x1080.jpeg",
-        "timestamp": 1789577428.0
     }
 ]
