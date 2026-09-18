@@ -1,5 +1,25 @@
 [
     {
+        "id": "6ccb31bdd5",
+        "title_fa": "سفر نمایندگان ویژه ترامپ به کی‌یف و برنامهٔ ملاقات زلنسکی",
+        "title_en": "Oleksandr Khara, Executive Director of the Center for Defense Studies",
+        "summary": [
+            "نمایندگان ویژه ترامپ، استیون ویتکاف و جارد کوشنر، برای اولین بار به کی‌یف رفتند؛ این سفر پس از بازدیدشان از مسکو انجام شد",
+            "پس از سفر، ترامپ تماس تلفنی با ولادیمیر پوتین برقرار کرد اما تماس با زلنسکی صورت نگرفت",
+            "منابع خبری اعلام کردند توافقی برای ملاقات زلنسکی و ترامپ در نیویورک هفتهٔ آینده شکل گرفته است",
+            "این تحرکات می‌تواند نشان‌دهندهٔ تمایل ترامپ به بازنگری در روابط شرق‑اروپا باشد و شاید فشار جدیدی بر ایران ایجاد کند"
+        ],
+        "impact": "ممکن است مذاکرات جدیدی درباره تحریم‌های ایران و حمایت‌های نظامی برای اوکراین شکل بگیرد",
+        "tag": "سیاست خارجی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-polytics/4165566-oleksandr-khara-executive-director-of-the-center-for-defense-studies.html",
+        "clean_url": "https://www.ukrinform.net/rubric-polytics/4165566-oleksandr-khara-executive-director-of-the-center-for-defense-studies.html",
+        "image": "https://www.bing.com/th?id=ONUT.Iq0m4tAd_6gmCkBZtgQh1Q",
+        "timestamp": 1789759962.7692494
+    },
+    {
         "id": "7ce9392fff",
         "title_fa": "مالیات شما: BA یا فراموشی بریتانیا",
         "title_en": "Your taxes: BA, or British amnesia",
@@ -2587,6 +2607,26 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-slip-supply-fears-191408143.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/268aaebfc7374268d36f00d2946a3bb0.jpg",
         "timestamp": 1789673622.0
+    },
+    {
+        "id": "5b32554358",
+        "title_fa": "تقسیم‌نظر بین حامیان و مخالفان گزارش جنایات جنگی ایران",
+        "title_en": "Here's what doves and hawks think about the UN's Iran war crime report",
+        "summary": [
+            "سازمان ملل ادعای جنایات جنگی نیروهای آمریکا در حملات به ایران را مطرح کرد",
+            "جناح‌های سخت‌گیر این گزارش را ابزار فشار بر تهران می‌دانند؛ جناح‌های صلح‌طلب آن را خطر تشدید تنش‌ها می‌پندارند",
+            "انتقادات داخلی آمریکا می‌تواند فشار بر تصمیم‌گیری‌های نظامی را افزایش دهد",
+            "اگر مجلس آمریکا به گزارش واکنش نشان دهد، احتمال تحریم‌های جدید یا محدودیت‌های نظامی بالا می‌رود"
+        ],
+        "impact": "فشار دیپلماتیک بر ایالات متحده و تشدید تنش‌های منطقه‌ای محتمل می‌شود",
+        "tag": "حقوق بین‌الملل",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Daily Caller on MSN",
+        "url": "https://www.msn.com/en-us/news/other/heres-what-doves-and-hawks-think-about-the-uns-iran-war-crime-report/ar-AA2cwhSW?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/heres-what-doves-and-hawks-think-about-the-uns-iran-war-crime-report/ar-AA2cwhSW",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789673557.0
     },
     {
         "id": "bcd867db25",
@@ -5407,42 +5447,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0d4NWVPX2g0TkJSV0VLczdXMkhEdTRDamNHNDBqR0hzM09NeW5TbTREYzhZYmdKMHN3bGZJVGJRTWtmTmVFX01NV2JnMS1RQWdWZjV6aHBsbVlQYTJzbGMxMXBsZTZCWG94b0hYRml2UW9YNnNFYTFoYkFnaHlDekxNeVc3TVZZaGtvQnV2Z3JJTEt1UGJSUg",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789629827.0
-    },
-    {
-        "id": "df7dce4594",
-        "title_fa": "غلباف معادله ریاضی را به فشار بر آمریکا تبدیل کرد",
-        "title_en": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
-        "summary": [
-            "غلباف معادله تیلور را منتشر کرد و نرخ بهره آمریکا را به مسدود شدن هرمز ربط داد.",
-            "این پیام نشان می‌دهد ایران به‌جای فقط نظامی، به ابزارهای اقتصادی و روانی برای فشار بر واشنگتن روی می‌آورد.",
-            "پنتاگون اذعان کرد که پهپادها و موشک‌های ایرانی توانستند تجهیزات آمریکا را به‌سختی تحت فشار قرار دهند.",
-            "اگر ایران بتواند بازارهای مالی را تحت تأثیر قرار دهد، فشار تحریم‌ها برای آمریکا سخت‌تر می‌شود."
-        ],
-        "impact": "ممکن است بازارهای جهانی نفت و نرخ‌های بهره تحت فشار قرار گیرند و سیاست‌گذاران آمریکا را به بازنگری در تحریم‌ها وادار کند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/ghalibaf-maths-missile-trump-decoded-141041547.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/ghalibaf-maths-missile-trump-decoded-141041547.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/4035e8264125ad2e536a9205220ff037afcd81082acfd08cd010c7cb659b78c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F911c6e7836027aa8eaecad8df9a9b1fc.jpg",
-        "timestamp": 1789629000.0
-    },
-    {
-        "id": "35de8df332",
-        "title_fa": "خبر بین‌المللی — UN هسته‌ای watchdog board reports ایران به UN Security Coun",
-        "title_en": "UN nuclear watchdog board reports Iran to the UN Security Council for the first time in 20 years - ABC News",
-        "summary": [
-            "UN nuclear watchdog board reports Iran to the UN Security Council for the first time in 20 years ABC News - Breaking News, Latest News and Videos"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjFSOFA2cUtZX0xLSlZ2RHVheHhIejd3R3Fxd3VWUXVLd19nS0Nvb0lJUE1EeEpsNlpydm5aYkdkM0JObUZhdGZoVVFmeFRJazlUV1luUDRBMEVHMGVVNV9mOWF0VGFhWjU0MUZpZUNXeWNmTVVWTlp5U3FQaWZJY3dqSXNtN0dtX2pXd2Z0cTVjalZ6TzBqTHdRRXNNeTlPall1N0c1UTNKc0NMdlp0RdIBtgFBVV95cUxQeUpyWHY5Zjl5aElsbDBxNzZRYjUtUndQVzRpajVpZDlmZko3cEp6dkZSUllfd0FQeU1NSXEwbmJ5TVZpZ09QXzJKNlhpVHZfd3Y1cm80bVBERUNyZ1ZHNE1DVWFuX1R6R0ctckhmYzBPa1dYWUVCakFneU9EX0dFWTU2TFZnZ0hvaVptbDJQdC1ZNmI3NlBPX0tOVXhMXzNUZHRKeGRGVzZjOVRWd2EtUGgzV21UUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjFSOFA2cUtZX0xLSlZ2RHVheHhIejd3R3Fxd3VWUXVLd19nS0Nvb0lJUE1EeEpsNlpydm5aYkdkM0JObUZhdGZoVVFmeFRJazlUV1luUDRBMEVHMGVVNV9mOWF0VGFhWjU0MUZpZUNXeWNmTVVWTlp5U3FQaWZJY3dqSXNtN0dtX2pXd2Z0cTVjalZ6TzBqTHdRRXNNeTlPall1N0c1UTNKc0NMdlp0RdIBtgFBVV95cUxQeUpyWHY5Zjl5aElsbDBxNzZRYjUtUndQVzRpajVpZDlmZko3cEp6dkZSUllfd0FQeU1NSXEwbmJ5TVZpZ09QXzJKNlhpVHZfd3Y1cm80bVBERUNyZ1ZHNE1DVWFuX1R6R0ctckhmYzBPa1dYWUVCakFneU9EX0dFWTU2TFZnZ0hvaVptbDJQdC1ZNmI3NlBPX0tOVXhMXzNUZHRKeGRGVzZjOVRWd2EtUGgzV21UUQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789628945.0
     }
 ]
