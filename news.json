@@ -1,5 +1,24 @@
 [
     {
+        "id": "7d4695be5a",
+        "title_fa": "حسن پیکر: ایران باید سلاح هسته‌ای داشته باشد",
+        "title_en": "Iran should have nukes: Hasan Piker's shock admission on cam; Mideast would be more stable",
+        "summary": [
+            "پیکر در مصاحبه‌ای به‌طور واضح گفت ایران باید سلاح هسته‌ای داشته باشد",
+            "این حرف باعث واکنش تند در شبکه‌های اجتماعی و انتقادات شد",
+            "اگر چنین ایده‌ای جدی شود، فشار بین‌المللی برای تحریم‌های سخت‌تر افزایش می‌یابد"
+        ],
+        "impact": "احتمال افزایش تحریم‌های هدفمند علیه ایران",
+        "tag": "هسته‌ای",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "The Times of India on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-should-have-nukes-hasan-piker-s-shock-admission-on-cam-mideast-would-be-more-stable/vi-AA2ctqki?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-should-have-nukes-hasan-piker-s-shock-admission-on-cam-mideast-would-be-more-stable/vi-AA2ctqki",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789725798.015611
+    },
+    {
         "id": "f1a90274d4",
         "title_fa": "ماه جشن تولد ۷۶ سالگی مودی",
         "title_en": "PM Modi deserves some credit for birthday restraint. At least he didn’t rename a month after himself",
@@ -2618,6 +2637,26 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/america-must-confront-the-axis-of-aggressors/ar-AA2cpWgS",
         "image": "https://www.bing.com/th?id=ONUT.VNYTYA22xjZ6NyfLMb5eVA",
         "timestamp": 1789639408.8175318
+    },
+    {
+        "id": "723b00fd47",
+        "title_fa": "حوثی‌ها می‌توانند جنگ ایران را به نفع تهران بچرخانند",
+        "title_en": "The Houthis could tip the Iran war in Tehran's favor",
+        "summary": [
+            "حوثی‌ها به‌سرعت در یمن پیشرفت کردند و توانستند نیروی هوایی اسرائیل را محدود کنند",
+            "این تحولات به‌نفع ایران است چون حوثی‌ها حامی تهران هستند",
+            "واشنگتن ممکن است استراتژی نظامی خود را بازنگری کند",
+            "اگر حوثی‌ها نقش مستقیم بگیرند، تعادل جنگ در خاورمیانه تغییر می‌کند"
+        ],
+        "impact": "تقویت موقعیت استراتژیک ایران در جنگ منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": 0.3,
+        "source": "Responsible Statecraft on MSN",
+        "url": "https://www.msn.com/en-us/news/other/the-houthis-could-tip-the-iran-war-in-tehran-s-favor/ar-AA2ct4iQ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/the-houthis-could-tip-the-iran-war-in-tehran-s-favor/ar-AA2ct4iQ",
+        "image": "https://www.bing.com/th?id=ONUT.NbO12zDx5vjVP19Wp5njZw",
+        "timestamp": 1789639392.0
     },
     {
         "id": "8c01a0d3e7",
@@ -5373,42 +5412,5 @@
         "clean_url": "https://www.nbcwashington.com/news/national-international/trump-admin-denies-visas-palestinian-delegation-un-general-assembly/4155902",
         "image": "https://www.bing.com/th?id=ONUT.xfQ7YMtl_pOzTgkEhEC1OQ",
         "timestamp": 1789593201.0
-    },
-    {
-        "id": "c4fc726e3b",
-        "title_fa": "خبر بین‌المللی — Record diesel prices bring ایران جنگ و روسی refinery strikes",
-        "title_en": "Record diesel prices bring Iran war and Russian refinery strikes into focus",
-        "summary": [
-            "U.S. diesel passed $6 a gallon as reporting pointed to pressure from the Iran conflict, Russian refinery disruptions and..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Idaho Learning News on MSN",
-        "url": "https://www.msn.com/en-us/money/general/record-diesel-prices-bring-iran-war-and-russian-refinery-strikes-into-focus/ar-AA2crVA0?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/general/record-diesel-prices-bring-iran-war-and-russian-refinery-strikes-into-focus/ar-AA2crVA0",
-        "image": "https://www.bing.com/th?id=ONUT.Oxvg2Hh8XxXiVZXRLcJrIA",
-        "timestamp": 1789593201.0
-    },
-    {
-        "id": "94928c0af4",
-        "title_fa": "چین از حق ایران می‌دفاع؛ آمریکا بمب به اسرائیل می‌فرستد",
-        "title_en": "Latest war news. China ready to 'safeguard' Iran's rights. In Gaza, 50 children are trapped under the rubble",
-        "summary": [
-            "چین اعلام کرد از منافع ایران در برابر فشارهای غربی حمایت می‌کند؛ این موضع می‌تواند دیپلماتیک آمریکا را تحت فشار بگذارد",
-            "آمریکا برنامه‌ریزی برای ارسال بمب‌های 900 کیلوگرمی به اسرائیل دارد؛ نشان‌دهنده تشدید عملیات نظامی در غزه است",
-            "عربستان پهپاد به سمت مکه را به حوثی‌ها نسبت می‌دهد؛ خطر تشدید تنش‌های منطقه‌ای و حملات نیابتی افزایش می‌یابد",
-            "حملات در چند روستای جنوب لبنان گزارش شده؛ احتمال گسترش جنگ مرزی بین اسرائیل و نیروهای حامی ایران"
-        ],
-        "impact": "ارسال بمب‌های سنگین به اسرائیل عملیات نظامی در غزه را تشدید می‌کند؛ حمایت چین از ایران رقابت ژئوپولیتیک خاورمیانه را بالا می‌برد",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "en.ilsole24ore",
-        "url": "https://en.ilsole24ore.com/art/war-latest-news-us-house-of-representatives-passes-bill-forcing-trump-to-end-the-conflict-AJtTbcEB",
-        "clean_url": "https://en.ilsole24ore.com/art/war-latest-news-us-house-of-representatives-passes-bill-forcing-trump-to-end-the-conflict-AJtTbcEB",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/17/Immagini/Ritagli/2026-09-16T060037Z_1789342663_RC24KNAQ2I9X_RTRMADP_5_ISRAEL-PALESTINIANS-GAZA-BUILDING-COLLAPSE-U71116673376VtF-1440x752@IlSole24Ore-Web.JPG?r=1170x507",
-        "timestamp": 1789593120.0
     }
 ]
