@@ -1,5 +1,24 @@
 [
     {
+        "id": "f69f52b919",
+        "title_fa": "کیمیل به ترامپ هشدار داد: هوش مصنوعی و جنگ ایران",
+        "title_en": "Jimmy Kimmel Cuts Trump’s Biggest Backers With Damning Theory About MAGA Brains",
+        "summary": [
+            "ترامپ هوش مصنوعی را «حقیقت‌نما» می‌نامد و حتی پس از هشدارهای صنعت، به آن بی‌توجهی می‌کند.",
+            "در عین حال ادعا می‌کند ایران می‌خواهد جنگ را زودتر تمام کند و به دنبال معامله است، در حالی که هنوز در میانهٔ هفت ماه جنگ است.",
+            "بیانیه‌های ترامپ می‌تواند فشارهای اقتصادی و تحریم‌های جدید را به تعویق بیندازد و بازارهای انرژی را ناآرام کند."
+        ],
+        "impact": "بیان‌های ترامپ می‌تواند مذاکرات هسته‌ای و تحریم‌های آمریکا را به تعویق بیندازد و نوسان قیمت نفت را تشدید کند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/jimmy-kimmel-trump-maga-hats_n_6aacbab0e4b0a3bc8deac00d",
+        "clean_url": "https://www.huffpost.com/entry/jimmy-kimmel-trump-maga-hats_n_6aacbab0e4b0a3bc8deac00d",
+        "image": "https://www.bing.com/th?id=ONUT.0pHlwKhVw69cI8wBqpZLVw",
+        "timestamp": 1789714447.0660791
+    },
+    {
         "id": "3b61656968",
         "title_fa": "بازسازی پارچین با محافظت انفجاری جدید",
         "title_en": "Iran rebuilds Parchin nuclear-related site, adds new blast protection",
@@ -2831,6 +2850,25 @@
         "timestamp": 1789628945.0
     },
     {
+        "id": "892935273c",
+        "title_fa": "آمریکا ویزای نمایندگان ایرانی را برای مجمع عمومی اعطا کرد",
+        "title_en": "US grants visas to Iran's Pezeshkian, Araghchi for UNGA amid war with Tehran",
+        "summary": [
+            "وزارت امور خارجه آمریکا ویزای اعضای هیئت رهبری ایران را برای حضور در مجمع عمومی سازمان ملل صادر کرد، هرچند جنگ بین دو کشور ادامه دارد.",
+            "دستگاه‌های امنیتی محدودیت‌های حرکتی و خرید کالاهای لوکس برای این هیئت اعلام کردند؛ این محدودیت‌ها پیام فشار دیپلماتیک است.",
+            "حضور ایرانیان در نیویورک می‌تواند بحث‌های هسته‌ای و تحریم‌ها را در سطح بین‌المللی زنده نگه دارد."
+        ],
+        "impact": "حضور نمایندگان ایران در مجمع عمومی می‌تواند دیپلماسی چندجانبه را تحت فشار بگذارد و مسیر مذاکرات هسته‌ای را تحت تأثیر قرار دهد.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-grants-visas-to-irans-pezeshkian-araghchi-for-unga-amid-war-with-tehran/articleshow/134327064.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/us/us-grants-visas-to-irans-pezeshkian-araghchi-for-unga-amid-war-with-tehran/articleshow/134327064.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134327255,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1789628043.0
+    },
+    {
         "id": "dc801b300c",
         "title_fa": "US-ایران جنگ latest news: 71% آمریکایی voters say ترامپ administration lacks clear plan به پایان ایران جنگ, poll finds",
         "title_en": "US-Iran war latest news: 71% of American voters say Trump administration lacks clear plan to end Iran war, poll finds",
@@ -5365,44 +5403,5 @@
         "clean_url": "https://www.msn.com/en-in/money/economy/iran-war-cost-hits-38-billion-for-us-cbo-warns-of-further-rise/ar-AA2cr7w1",
         "image": "https://www.bing.com/th?id=ONUT.jJYa3J6rfCYTqlzpP9vGTA",
         "timestamp": 1789586500.0
-    },
-    {
-        "id": "96fd6d65be",
-        "title_fa": "کاهش سوخت و اعتصابات کردها، بحران داخلی ایران",
-        "title_en": "From Fuel Shortages to Kurdish Strikes: Iran’s Rulers Confront a Society on Edge - National Council of Resistance of Iran",
-        "summary": [
-            "کمبود سوخت به‌صورت سراسری به توقف حمل‌ونقل عمومی منجر شده",
-            "کارگران کرد در شهرهای مرزی به اعتصاب رفته‌اند و فشار بر دولت افزوده",
-            "نارضایتی عمومی به‌دست‌گیری‌های امنیتی و سرکوب اعتراضات افزوده",
-            "این ترکیب می‌تواند به تظاهرات گسترده‌تری منجر شود"
-        ],
-        "impact": "تشدید فشار اقتصادی و اجتماعی ممکن است دولت را به تغییر سیاست یا سرکوب شدیدتر وادار کند",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkE2VE5jR3FwbjdUc3JaZ29aWGlreVZaR0FldnJsR09GQnhpQTEzT0hrOE5HX0NQRWkxb2ljMm9pWjBCOTNHVExQcWtKd1E1d0hNaWQ5dVppMks2YmxmcDMtX0lXVFlpR2U5X3FQN2dBbVdEVk01U0xaTjZZWXBhSmFTNVEtRDFncGhxbmtkT2JGVWQwYm56WTNNSkNuSk9rTzRWRlFaSU1XZHNFX1d6UXRIVEhZZXFHTEdwTw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVkE2VE5jR3FwbjdUc3JaZ29aWGlreVZaR0FldnJsR09GQnhpQTEzT0hrOE5HX0NQRWkxb2ljMm9pWjBCOTNHVExQcWtKd1E1d0hNaWQ5dVppMks2YmxmcDMtX0lXVFlpR2U5X3FQN2dBbVdEVk01U0xaTjZZWXBhSmFTNVEtRDFncGhxbmtkT2JGVWQwYm56WTNNSkNuSk9rTzRWRlFaSU1XZHNFX1d6UXRIVEhZZXFHTEdwTw",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789586262.0
-    },
-    {
-        "id": "b39e5e5a5d",
-        "title_fa": "چگونه درباره تنظیم هوش مصنوعی بحث کنیم",
-        "title_en": "How to argue about regulating AI",
-        "summary": [
-            "مقاله به چالش‌های قانونی و اخلاقی در تنظیم هوش مصنوعی می‌پردازد",
-            "بر ضرورت چارچوب‌های شفاف و بین‌المللی برای جلوگیری از سو استفاده تأکید می‌کند",
-            "هشدار می‌دهد که قوانین سخت‌گیرانه می‌توانند نوآوری را خفه کنند"
-        ],
-        "impact": "قانون‌گذاران ممکن است فشار برای تدوین مقررات جدید AI را تجربه کنند",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/09/16/how-argue-about-regulating-ai/",
-        "clean_url": "https://www.washingtonpost.com/politics/2026/09/16/how-argue-about-regulating-ai",
-        "image": "https://www.bing.com/th?id=ONUT.aWZLfYihrDYm--bPwFiB2A",
-        "timestamp": 1789586074.006863
     }
 ]
