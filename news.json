@@ -1,5 +1,24 @@
 [
     {
+        "id": "df9566b534",
+        "title_fa": "ساعت رولکس سفارشی کارکنان کاخ سفید",
+        "title_en": "It’s Not Just Matching Shoes. Trump Team Has Matching Rolexes Too.",
+        "summary": [
+            "کارکنان کاخ سفید برای نشان دادن ثروت خود ساعت‌های سفارشی خریداری می‌کنند",
+            "این ساعت‌ها توسط کارگاهی در لندن تغییر شکل می‌شوند و هزینهٔ چند هزار دلاری دارند",
+            "نمایش این تجملات می‌تواند فشار سیاسی برای محدود کردن هزینه‌های دولتی را افزایش دهد"
+        ],
+        "impact": "افزایش انتقادات عمومی نسبت به هزینه‌های غیرضروری دولت",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/215612/donald-trump-team-matching-rolex-watch",
+        "clean_url": "https://newrepublic.com/post/215612/donald-trump-team-matching-rolex-watch",
+        "image": "https://images.newrepublic.com/b0c02a89efdcaa10bbb35f2ca0bc746d5df8fcf7.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+        "timestamp": 1789762939.1146119
+    },
+    {
         "id": "5ab26122c9",
         "title_fa": "خبر بین‌المللی — Pentagon Says ایران جنگ Cost $45 Billion—اگر You Don’t Count",
         "title_en": "Pentagon Says Iran War Cost $45 Billion—if You Don’t Count Everything",
@@ -2273,6 +2292,26 @@
         "timestamp": 1789689600.0
     },
     {
+        "id": "76070f0752",
+        "title_fa": "دموکرات‌ها هزینه جنگ ایران را به ترامپ ربط می‌دهند",
+        "title_en": "Democrats seize on Iran war costs to hit Trump ahead of midterms",
+        "summary": [
+            "نمایندگان دموکرات هزینه‌های بالای بنزین را به جنگ ایران نسبت می‌دهند",
+            "این استدلال سعی دارد فشار انتخاباتی بر ترامپ قبل از انتخابات میانی ایجاد کند",
+            "جنگ هفت ماهه باعث اختلال در حمل‌ونقل نفتی و افزایش قیمت انرژی شده است",
+            "انتقادهای سیاسی می‌تواند حمایت عمومی از دولت را تضعیف کند"
+        ],
+        "impact": "تقویت فشار سیاسی بر ترامپ و احتمال تغییر رفتارهای خارجی او",
+        "tag": "انتخابات",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609181464",
+        "clean_url": "https://www.iranintl.com/en/202609181464",
+        "image": "http://www.bing.com/th?id=ONUT.zWUFTMF0zishUJ8fPr_w8Q&pid=News",
+        "timestamp": 1789688340.0
+    },
+    {
         "id": "b921234b2a",
         "title_fa": "ناوگان سپاه نفت‌کش توگوئی را در هرمز متوقف کرد",
         "title_en": "IRGC Navy strikes Togo-flagged tanker after illegal attempt to transit Strait of Hormuz",
@@ -2604,6 +2643,25 @@
         "clean_url": "https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety",
         "image": "https://www.motherjones.com/wp-content/uploads/2026/09/minab-mass-grave.jpg?w=1200&h=630&crop=1",
         "timestamp": 1789676645.5270815
+    },
+    {
+        "id": "923b91162e",
+        "title_fa": "دلار پس از کاهش در برابر ین ژاپن",
+        "title_en": "Dollar rally eases as currency’s gain against yen cools",
+        "summary": [
+            "دلار پس از رشد قبلی در برابر ین کمی تضعیف شد",
+            "بازارها به تصمیمات بانک‌های مرکزی و عدم قطعیت اقتصادی واکنش نشان دادند",
+            "کاهش کوتاه‌مدت دلار می‌تواند فشار بر قیمت‌های وارداتی را کمی کم کند"
+        ],
+        "impact": "کاهش جزئی فشار بر هزینهٔ کالاهای وارداتی برای مصرف‌کنندگان",
+        "tag": "ارز",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/dollar-rally-eases-as-currency-s-gain-against-yen-cools/ar-AA2csYHu?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/dollar-rally-eases-as-currency-s-gain-against-yen-cools/ar-AA2csYHu",
+        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789676534.0
     },
     {
         "id": "1942c6ea37",
@@ -5384,57 +5442,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1Nud1VNWVRKdGdVLUJ2MDdqZVVZb01lbUI1dXFRMmJkRnJjRlZXVV85VGlEUldnODdpbU9wb2dtUnd0YkRPdW40M1h3aFJ0ZkZfUmp3akx2NkY0ZUZad2pOeVJ1eWlUTko3VjFmTXVyUWJrNHo5TWdaZU9DRWtESjN1NVU4S3IwRFJrX0tySUhjWnRka1o40gGcAUFVX3lxTE1CUHlwVHJxV3BrVmRaMVhKcVBXUGpYcmJKaFZGdS1kb1hzN25hTGhvWVdnQVljMkx6RXBWR0xQTDlSVm9Sa3NHRW1YWmphMFZHeVhwYXMyUFdZTDRtVkZCX3luRE9HMHdULUdUT3BpUnVnUzlOQWZWaGt6QUljMlFBUDNIMldqdy1pdlAtbGJHVFFNZHVxMHdpUDloVQ",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789633536.0
-    },
-    {
-        "id": "f31b403201",
-        "title_fa": "خبر بین‌المللی — Could US Strikes در ایران Amount به جنگ Crimes, UN Says?",
-        "title_en": "Could US Strikes in Iran Amount to War Crimes, UN Says?",
-        "summary": [
-            "Could US Strikes in Iran Amount to War Crimes, UN Says? Modern Diplomacy"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVFTRHpCX0ZfRkZRaEpoQWFhVEFWOUhmRDY5SnhJSWRpanFWazlxTy10Ymo5NGd4ZldkbXZWU0ktLXJFMEtHdlpkQ0hVWjB1RVIxQVZPVGZHTjBQdmJOeWtrbDd3aF9QU2xPNHhmVXRmVy0tRFk0bVo2U0k4V1h2UTR4b1BGVmVzTnZUTE5XeWxQSjdpNC1r?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVFTRHpCX0ZfRkZRaEpoQWFhVEFWOUhmRDY5SnhJSWRpanFWazlxTy10Ymo5NGd4ZldkbXZWU0ktLXJFMEtHdlpkQ0hVWjB1RVIxQVZPVGZHTjBQdmJOeWtrbDd3aF9QU2xPNHhmVXRmVy0tRFk0bVo2U0k4V1h2UTR4b1BGVmVzTnZUTE5XeWxQSjdpNC1r",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789633139.0
-    },
-    {
-        "id": "a82e39142f",
-        "title_fa": "ترامپ: هزینه بالای بنزین، هزینه‌ای برای جنگ ایران",
-        "title_en": "Donald Trump Warns Americans May Pay More at the Pump Because of Iran War",
-        "summary": [
-            "ترامپ هزینه بالای بنزین را به‌عنوان هزینه‌ای برای جنگ ایران توجیه کرد",
-            "او پیش‌بینی کرد پس از پایان جنگ قیمت‌ها به‌سرعت سقوط می‌کند"
-        ],
-        "impact": "افزایش قیمت سوخت فشار بر کیف پول آمریکایی‌ها می‌آورد و می‌تواند حمایت عمومی از مداخله نظامی را تقویت کند",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/donald-trump-warns-americans-may-071318707.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/donald-trump-warns-americans-may-071318707.html",
-        "image": "https://www.bing.com/th?id=ONUT.AiZ96LH04QXj8d8skTG6gw",
-        "timestamp": 1789632830.0
-    },
-    {
-        "id": "b1e3f35c10",
-        "title_fa": "خبر بین‌المللی — UN mission finds grounds به believe US committed جنگ crimes",
-        "title_en": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity",
-        "summary": [
-            "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity Reuters"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJVNS1uc3FDVDUwbUJ5bjJkZzRwbTdzNFZYUW00SEloak4wZl9yeXJhWlQ2bEExbjZBSzh6T2lRVjNjQ2VvR1lNZGNBc3BwLXZ6QXJCTmZ3M3BfQVdURWZaaUVOV2k0VkNOTFMwcnhsdXR1VU5IWFRWYlVYNDgzeGNwTDB6d3FURHV4YnZZdFpibE45Qm1tTVJxMi1QZG9lbFFqVW16M1ZzQzRLQW1PVkhud2RLeWtxUVV6OFJweE0wOXZuVG5RRg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJVNS1uc3FDVDUwbUJ5bjJkZzRwbTdzNFZYUW00SEloak4wZl9yeXJhWlQ2bEExbjZBSzh6T2lRVjNjQ2VvR1lNZGNBc3BwLXZ6QXJCTmZ3M3BfQVdURWZaaUVOV2k0VkNOTFMwcnhsdXR1VU5IWFRWYlVYNDgzeGNwTDB6d3FURHV4YnZZdFpibE45Qm1tTVJxMi1QZG9lbFFqVW16M1ZzQzRLQW1PVkhud2RLeWtxUVV6OFJweE0wOXZuVG5RRg",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789632659.0
     }
 ]
