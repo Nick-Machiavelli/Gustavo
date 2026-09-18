@@ -438,6 +438,26 @@
         "timestamp": 1789754250.0
     },
     {
+        "id": "9c0dacf5fa",
+        "title_fa": "فرمانده ارشد سپاه: پایگاه‌های آمریکا در منطقه نابود",
+        "title_en": "Senior IRGC commander claims all US bases in region 'inoperable'",
+        "summary": [
+            "معاون سیاسی سپاه ادعا کرد تمام پایگاه‌های آمریکایی در منطقه خراب شده‌اند",
+            "این اظهارات بدون ارائه شواهد فنی منتشر شد",
+            "هدف احتمالاً روانی‌سازی نیروهای آمریکایی و تقویت تصویر قدرت سپاه است",
+            "واکنش رسمی واشنگتن هنوز اعلام نشده"
+        ],
+        "impact": "ادعای نابودی پایگاه‌های آمریکا می‌تواند تنش نظامی منطقه را تشدید کند، هرچند هنوز شواهد ملموسی نیست",
+        "tag": "تهدید-نظامی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609189278",
+        "clean_url": "https://www.iranintl.com/en/202609189278",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1789753740.0
+    },
+    {
         "id": "4c20044664",
         "title_fa": "نقشه‌کشی نشست ترامپ‑شی جین‌پینگ",
         "title_en": "What to expect from the Trump-Xi summit",
@@ -2566,6 +2586,66 @@
         "clean_url": "https://www.msn.com/en-gb/news/world/explainer-how-yemens-houthis-went-from-a-small-mountain-militia-to-a-big-regional-threat/ar-AA2csvqe",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2crf1a.img?w=800&h=434&m=4&q=79",
         "timestamp": 1789687362.0
+    },
+    {
+        "id": "890bb2e5d5",
+        "title_fa": "ترامپ لایحه تحریم روسیه و ایران را تصویب کرد",
+        "title_en": "Donald Trump signs Russia and Iran sanctions bill into law, White House announces",
+        "summary": [
+            "لایحه به ترامپ اجازه می‌دهد تا تا ۱۰۰٪ تعرفه بر خریداران برتر نفت و گاز روسیه اعمال کند",
+            "ایران نیز در فهرست هدف‌ها قرار گرفت",
+            "این گام فشار اقتصادی جدید می‌تواند روابط تجاری آمریکا‑ایران را تشدید کند",
+            "تصویب قانون پس از ۱۸ ماه مناقشه سیاسی انجام شد"
+        ],
+        "impact": "تحریم‌های جدید می‌تواند صادرات روسیه و ایران را به شدت محدود کند و فشار اقتصادی بر دو کشور را افزایش دهد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/donald-trump-signs-russia-and-iran-sanctions-bill-into-law-white-house-announces-101789768166998.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/donald-trump-signs-russia-and-iran-sanctions-bill-into-law-white-house-announces-101789768166998.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Trump_Putin_1789768162311_BoaB_1789768162473_OgqM_b5074961-c5af-4eb2-9a38-64e99f7f5648_Fovj.JPG",
+        "timestamp": 1789686183.0
+    },
+    {
+        "id": "286f03cc40",
+        "title_fa": "قیمت گاز به ۴٫۴۴ دلار در ۱۹ ایالت رسید",
+        "title_en": "Gas tops $4.44 in 19 states, testing Trump’s price-relief pledge",
+        "summary": [
+            "میانگین ملی گاز به ۴٫۴۴ دلار رسید",
+            "۱۹ ایالت بیش از این قیمت را پرداخت می‌کنند",
+            "ترامپ ادعا می‌کند قیمت‌ها به زودی کاهش می‌یابد",
+            "این وعده در حالی است که تنش‌های ایران‑خاورمیانه عرضه نفت را مختل می‌کند"
+        ],
+        "impact": "قیمت گاز بالا هزینه زندگی ایرانیان را افزاش می‌دهد و فشار بر سیاست‌پذیران داخلی را تقویت می‌کند",
+        "tag": "قیمت‌گاز",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/gas-tops-444-in-19-states-testing-trump-s-price-relief-pledge/ar-AA2cwOUl?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/gas-tops-444-in-19-states-testing-trump-s-price-relief-pledge/ar-AA2cwOUl",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789686183.0
+    },
+    {
+        "id": "b0259c1d16",
+        "title_fa": "ایران با رالی‌های نظامی به آمریکا و اسرائیل می‌چرخد",
+        "title_en": "The mood of war-battered Iran? Defiant.",
+        "summary": [
+            "دولت ایران رالی نظامی بزرگ در تهران برگزار کرد",
+            "نمایش قدرت نظامی برای نشان دادن مقاومت در برابر تهدیدات ترامپ و اسرائیل است",
+            "این رالی بزرگ‌ترین نمایش پس از شروع جنگ در ۲۸ فوریه است",
+            "احتمال افزایش فشار بین‌المللی بر ایران در نشست مجمع عمومی سازمان ملل"
+        ],
+        "impact": "رالی نظامی داخلی نشانگر افزایش رادیکالیسم داخلی است و ممکن است واکنش‌های بین‌المللی را به سمت تحریم‌های سخت‌تر سوق دهد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/mood-war-battered-iran-defiant-rcna598601",
+        "clean_url": "https://www.nbcnews.com/world/iran/mood-war-battered-iran-defiant-rcna598601",
+        "image": "https://www.bing.com/th?id=ONUT.vYACgwQxKEzgvfXizbupJA",
+        "timestamp": 1789686183.0
     },
     {
         "id": "32b545e363",
@@ -5369,73 +5449,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/trump-claims-world-respects-him-103005874.html",
         "image": "https://s.yimg.com/lo/mysterio/api/0e2d9f83117afa4bf88765d68ecaeac99ca4fe0e460a8a2704ffb70ef2296896/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsalon_articles_879%2F66003f0f5a1fcf416ec53860d0a82d3b.jpg",
         "timestamp": 1789643611.735596
-    },
-    {
-        "id": "4f423534ba",
-        "title_fa": "خبر بین‌المللی — trillion-دلار question: Did Warsh really seek ترامپ’s bless",
-        "title_en": "The trillion-dollar question: Did Warsh really seek Trump’s blessing to hike rates?",
-        "summary": [
-            "Plus, the Fed raises interest rates for the first time in three years, and Erika Kirk takes steps toward filing a lawsuit..."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/money/general/the-trillion-dollar-question-did-warsh-really-seek-trump-s-blessing-to-hike-rates/ar-AA2cq87P?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/general/the-trillion-dollar-question-did-warsh-really-seek-trump-s-blessing-to-hike-rates/ar-AA2cq87P",
-        "image": "https://www.bing.com/th?id=ONUT.yxlqbh_MaSCwRAWUjgn1xA",
-        "timestamp": 1789643605.8963578
-    },
-    {
-        "id": "e73844792b",
-        "title_fa": "خبر بین‌المللی — Transcript: ترامپ ایران humiliation worsens as leaks take da",
-        "title_en": "Transcript: Trump Iran humiliation worsens as leaks take damning turn",
-        "summary": [
-            "The following is a lightly edited transcript of the September 17 episode of the Daily Blast podcast. Listen to it here. Greg..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New Republic on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/transcript-trump-iran-humiliation-worsens-as-leaks-take-damning-turn/ar-AA2cqaxD?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/transcript-trump-iran-humiliation-worsens-as-leaks-take-damning-turn/ar-AA2cqaxD",
-        "image": "https://www.bing.com/th?id=ONUT.me5ldk7uXL0HXawTY4h9mg",
-        "timestamp": 1789643602.4984486
-    },
-    {
-        "id": "ec40d98579",
-        "title_fa": "به‌روزرسانی‌های زنده جنگ ایران و ایالات متحده: با وجود پیشروی حوثی‌ها، ترافیک کشتیرانی دریای سرخ دوباره افزایش یافته است",
-        "title_en": "US-Iran War Live Updates: Red Sea shipping traffic rebounds despite Houthi advance",
-        "summary": [
-            "US President Donald Trump has again claimed that Iran wants to reach a deal with the United States, even as the conflict..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-red-sea-mayun-island-yemen-bab-al-mandab-strait-houthi-attacks-saudi-arabia-middle-east-latest-news/liveblog/134272650.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-red-sea-mayun-island-yemen-bab-al-mandab-strait-houthi-attacks-saudi-arabia-middle-east-latest-news/liveblog/134272650.cms",
-        "image": "https://www.bing.com/th?id=ONUT.J0AO27g8YEjDnmQ6XLcoDw",
-        "timestamp": 1789643551.0
-    },
-    {
-        "id": "dff86bb980",
-        "title_fa": "خبر بین‌المللی — Opinion | US has institutionally 'weaponised' India's روسیه",
-        "title_en": "Opinion | US has institutionally 'weaponised' India's Russia oil dependence. Can New Delhi cope?",
-        "summary": [
-            "A new legislation can connect India's Russian energy purchases to its access to the American market over a five-year period..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NDTV on MSN",
-        "url": "https://www.msn.com/en-in/money/general/opinion-us-has-institutionally-weaponised-india-s-russia-oil-dependence-can-new-delhi-cope/ar-AA2cq7CY?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/general/opinion-us-has-institutionally-weaponised-india-s-russia-oil-dependence-can-new-delhi-cope/ar-AA2cq7CY",
-        "image": "https://www.bing.com/th?id=ONUT.buaREIZ_Bke5S7HY8BIv3A",
-        "timestamp": 1789643147.0819361
     }
 ]
