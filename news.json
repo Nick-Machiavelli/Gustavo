@@ -1,5 +1,23 @@
 [
     {
+        "id": "715769bcec",
+        "title_fa": "تورم ناشی از جنگ، دستمزد واقعی کارگران را کاهش داد",
+        "title_en": "Workers Are Falling Behind Due To Trump's War-Induced Inflation",
+        "summary": [
+            "جنگ انتخابی ترامپ در ایران باعث جهش قیمت بنزین و دیزل شد و دستمزد واقعی کارگران را در آگوست ۲۰۲۴ به‌طور مداوم کاهش داد.",
+            "کاهش دستمزد واقعی، نارضایتی عمومی را تقویت می‌کند و تهدیدی برای پیروزی جمهوری‌خواهان در انتخابات میانه‌دوره محسوب می‌شود."
+        ],
+        "impact": "کاهش دستمزد واقعی می‌تواند حمایت مردمی از حزب جمهوری‌خواه را به‌سختی تضعیف کند.",
+        "tag": "تورم",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/donald-trump-has-erased-workers-wage-gains-with-inflation_n_6aad44a9e4b03a8a58d659da",
+        "clean_url": "https://www.huffpost.com/entry/donald-trump-has-erased-workers-wage-gains-with-inflation_n_6aad44a9e4b03a8a58d659da",
+        "image": "https://www.bing.com/th?id=ONUT.TLsMDbriuTn0bx40-AOuug",
+        "timestamp": 1789754617.5569453
+    },
+    {
         "id": "4c20044664",
         "title_fa": "نقشه‌کشی نشست ترامپ‑شی جین‌پینگ",
         "title_en": "What to expect from the Trump-Xi summit",
@@ -5410,23 +5428,6 @@
         "url": "https://timesofindia.indiatimes.com/science/australian-researchers-sent-edible-fungi-to-the-iss-for-nearly-a-month-after-returning-to-earth-the-mushrooms-grew-and-were-eaten-in-pasta/articleshow/134324426.cms",
         "clean_url": "https://timesofindia.indiatimes.com/science/australian-researchers-sent-edible-fungi-to-the-iss-for-nearly-a-month-after-returning-to-earth-the-mushrooms-grew-and-were-eaten-in-pasta/articleshow/134324426.cms",
         "image": "https://www.bing.com/th?id=ONUT.Gx5xi7dZiH5IwY90y4i2pw",
-        "timestamp": 1789622493.0
-    },
-    {
-        "id": "688ba14fe1",
-        "title_fa": "خبر بین‌المللی — حوثی‌ها target Marib: Can Saudi Arabia defend itself without",
-        "title_en": "Houthis target Marib: Can Saudi Arabia defend itself without US airpower?",
-        "summary": [
-            "The Houthi advance in Yemen is putting critical pressure on Saudi Arabia by threatening the last government strongholds of..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Week",
-        "url": "https://www.theweek.in/news/middle-east/2026/09/18/houthis-target-marib-can-saudi-arabia-defend-itself-without-us-airpower.html",
-        "clean_url": "https://www.theweek.in/news/middle-east/2026/09/18/houthis-target-marib-can-saudi-arabia-defend-itself-without-us-airpower.html",
-        "image": "https://www.bing.com/th?id=ONUT.PprpFHg4Yqd_CJIRTcF3kA",
         "timestamp": 1789622493.0
     }
 ]
