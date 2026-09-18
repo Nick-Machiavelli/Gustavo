@@ -1,5 +1,43 @@
 [
     {
+        "id": "6f72d4490f",
+        "title_fa": "پیروزی اف‌دی در ساکسونی‑آلتن: خطر راست‌گرا",
+        "title_en": "Germany’s far-right turn: Examining the drivers and aftermath of the AfD’s victory",
+        "summary": [
+            "اف‌دی در انتخابات ساکسونی‑آلتن برنده شد؛ اولین پیروزی بزرگ در سطح ایالتی",
+            "این موفقیت نشان می‌دهد نارضایتی اقتصادی و مهاجرت به راست‌گرایی سوئیست می‌کند",
+            "احزاب سنتی باید استراتژی جدید برای جلوگیری از گسترش اف‌دی پیدا کنند"
+        ],
+        "impact": "تقویت صدای راست‌گرا در پارلمان آلمان و فشار بر سیاست‌های مهاجرت",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "ZNetwork on MSN",
+        "url": "https://www.msn.com/en-us/news/other/germany-s-far-right-turn-examining-the-drivers-and-aftermath-of-the-afd-s-victory/ar-AA2cvRxF?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/germany-s-far-right-turn-examining-the-drivers-and-aftermath-of-the-afd-s-victory/ar-AA2cvRxF",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789749327.6305587
+    },
+    {
+        "id": "902a6e4857",
+        "title_fa": "آشکارسازی نفوذ اطلاعاتی در صنعت نفت",
+        "title_en": "Iran YouTube Stories: Journalist Exposes Intelligence Agents Running Iran’s Oil Industry",
+        "summary": [
+            "یاسر سلطانی در یوتیوب فاش می‌کند که شبکه‌های اطلاعاتی فروش نفت را کنترل می‌کنند",
+            "تحریم‌ها بهانه‌ای برای حذف شفافیت و حسابرسی در فروش دارایی‌های عمومی شده‌اند",
+            "این ساختار امنیتی باعث کاهش درآمد واقعی و افزایش فساد می‌شود"
+        ],
+        "impact": "کاهش اعتماد سرمایه‌گذاران و تشدید فشار اقتصادی بر رژیم",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.7,
+        "source": "IranWire",
+        "url": "https://iranwire.com/en/features/157775-iran-youtube-stories-journalist-exposes-intelligence-agents-running-irans-oil-industry/",
+        "clean_url": "https://iranwire.com/en/features/157775-iran-youtube-stories-journalist-exposes-intelligence-agents-running-irans-oil-industry",
+        "image": "https://static.prod.iranwire.com/_versions_jpeg/articleslide/Screenshot_2026-09-18_at_8.32.57PM_ibfo__v1024x512__box_0%2C0%2C2816%2C1481.jpeg",
+        "timestamp": 1789749327.6302562
+    },
+    {
         "id": "be08c4a8d4",
         "title_fa": "افزایش نرخ بهره فدرال و بحران بازار خزانه‌داری",
         "title_en": "Fed rate hikes, US Treasury market & crisis of empire",
@@ -53,6 +91,25 @@
         "clean_url": "https://crooksandliars.com/2026/09/trump-uncorked-deranged-midnight-explosion",
         "image": "https://crooksandliars.com/files/primary_image/26/09/trump_white_hat.jpg",
         "timestamp": 1789746587.4072418
+    },
+    {
+        "id": "4607786d88",
+        "title_fa": "تشدید حملات هوتی‌ها و تخریب خط‌لوله سعودی",
+        "title_en": "There’s only one way to defeat the Houthis",
+        "summary": [
+            "عربستان اعلام کرد خط‌لوله شرق‑غرب توسط پهپادهای عراق هدف قرار گرفت؛ خسارت و جراحات گزارش شد",
+            "حوثی‌ها شهر المکه را تصرف کردند و جزایر بحر باب‌المندب را به‌دست گرفتند",
+            "حملات همزمان نشان می‌دهد ایران سعی دارد هزینه جنگ را برای خلیج‌فارس بالا ببرد"
+        ],
+        "impact": "قیمت نفت به بالای ۱۰۰ دلار رفت و امنیت انرژی خلیج به خطر افتاد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "The Telegraph · via Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/only-one-way-defeat-houthis-150559975.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/only-one-way-defeat-houthis-150559975.html",
+        "image": "https://media.zenfs.com/en/the_telegraph_258/5b2ed89857baac0b7aff8f507c3763f9.jpg",
+        "timestamp": 1789745720.0
     },
     {
         "id": "0859bed202",
@@ -1033,6 +1090,25 @@
         "clean_url": "https://www.huffpost.com/entry/jimmy-kimmel-trump-maga-hats_n_6aacbab0e4b0a3bc8deac00d",
         "image": "https://www.bing.com/th?id=ONUT.0pHlwKhVw69cI8wBqpZLVw",
         "timestamp": 1789714447.0660791
+    },
+    {
+        "id": "925f528808",
+        "title_fa": "استراتژی منطقه‌ای ایران تحت فشار",
+        "title_en": "The cost of Iran’s regional leverage",
+        "summary": [
+            "توافق 2023 بین عربستان و ایران فضای دیپلماتیک ایجاد کرد اما رقابت را حذف نکرد",
+            "حملات مستقیم ایران به عربستان و حملات حوثی‌ها منجر به اخراج پیراهن نظامی و تعلیق مذاکرات شد",
+            "نتیجه نشان می‌دهد تهران نمی‌تواند همزمان روابط پایدار با همسایگان عربی و فشار استراتژیک را حفظ کند"
+        ],
+        "impact": "تحریم‌های دیپلماتیک و کاهش همکاری‌های اقتصادی خلیج‌فارس",
+        "tag": "سیاست‌منطقه‌ای",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage",
+        "clean_url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260916__C8H86MQ__v1__MidRes__YemenIranUsIsraelWar-1789581728.jpg?resize=1200%2C630",
+        "timestamp": 1789714320.0
     },
     {
         "id": "3b61656968",
@@ -5358,78 +5434,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ncG5uSTMyNDZKbDVMQVlvVFhLNnE0M25EX0lrWWtYOE1YNGZNYjZORnJhelQxZ2tfeVNpckRyeW9sTmhzeDZHd2ctRU9tdmxVdDF3OEVB",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789617517.0
-    },
-    {
-        "id": "324fd97c58",
-        "title_fa": "خبر بین‌المللی — ایران hesitant به enforce mandatory headscarf law as جنگ و e",
-        "title_en": "Iran hesitant to enforce mandatory headscarf law as war and economic pressures mount",
-        "summary": [
-            "Iran hesitant to enforce mandatory headscarf law as war and economic pressures mount The Times of Israel"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1pYdTduUThnQldWNExlckFQanJmTHhzLURqU04xY2VKVWlUdzNOR0IwcDRIaGF4MS1XN3VxdGNjbUxKTGJtZGZBbGttSUlSVGg2aVZPOFFCNjhTUzRDWkdJNkxmZHV3LWh1NkpUQkkxb29JNU56bTVCN0tpN2xTcnpHdEJUMFY2LWY2M3lINklhbU9SUWsxbVJqbVZBWGNVVnFjUFZBR0hBb3BtQlkzbnRwcFluQdIBuwFBVV95cUxNVTFyZGxGYjI4LXYzbGJCRUp1N0pUSnM0a3duUHJrdnhka2JKRkpyTW94b2wyNWRfekd5Vm1BTmxfZmFjcUJlc1RJYXNJSnZhcUE1ODZMampVS09fWUZ3bXRpQmFjc0pvQnFteE1tNDdDOWgyYVBZWXZ0RXBQZkl4eFktaHYxMi1QMzhyUUNuQkItcEZCRmxOOU5rQ2VZVXFXa3RBTmthem8yUl9GeU9Eby0wMGpvLWVLam93?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1pYdTduUThnQldWNExlckFQanJmTHhzLURqU04xY2VKVWlUdzNOR0IwcDRIaGF4MS1XN3VxdGNjbUxKTGJtZGZBbGttSUlSVGg2aVZPOFFCNjhTUzRDWkdJNkxmZHV3LWh1NkpUQkkxb29JNU56bTVCN0tpN2xTcnpHdEJUMFY2LWY2M3lINklhbU9SUWsxbVJqbVZBWGNVVnFjUFZBR0hBb3BtQlkzbnRwcFluQdIBuwFBVV95cUxNVTFyZGxGYjI4LXYzbGJCRUp1N0pUSnM0a3duUHJrdnhka2JKRkpyTW94b2wyNWRfekd5Vm1BTmxfZmFjcUJlc1RJYXNJSnZhcUE1ODZMampVS09fWUZ3bXRpQmFjc0pvQnFteE1tNDdDOWgyYVBZWXZ0RXBQZkl4eFktaHYxMi1QMzhyUUNuQkItcEZCRmxOOU5rQ2VZVXFXa3RBTmthem8yUl9GeU9Eby0wMGpvLWVLam93",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789616856.0
-    },
-    {
-        "id": "c06064ca75",
-        "title_fa": "ترامپ می‌خواهد همه‌جا نقل شود؛ هم‌پیمانانش گوش می‌دهند",
-        "title_en": "Trump veut être cité partout pendant la campagne électorale – Son propre camp lui désobéit",
-        "summary": [
-            "در جریان کارزار میانی، ترامپ از هم‌پیمانان جمهوری‌خواه خواست که نام او را در همه سخنرانی‌ها ببرند.",
-            "تحقیقات نشان می‌دهد اعضای حزب دستور او را نادیده می‌گیرند؛ این نشانگر کاهش نفوذ داخلی اوست.",
-            "عدم همکاری جناح می‌تواند توان تبلیغاتی ترامپ را در انتخابات میانی تضعیف کند.",
-            "این شکاف داخلی می‌تواند فرصت رقبای داخلی و خارجی را برای تغییر مسیر سیاسی فراهم آورد."
-        ],
-        "impact": "نقض دستورات ترامپ توسط هم‌پیمانان، توان تبلیغاتی او را در انتخابات میانی تضعیف می‌کند.",
-        "tag": "سیاست-آمریکا",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "bluewin",
-        "url": "https://www.bluewin.ch/fr/infos/monde/trump-veut-etre-present-partout-pendant-la-campagne-electorale-beaucoup-ne-partagent-pas-cet-avis-li.3602406",
-        "clean_url": "https://www.bluewin.ch/fr/infos/monde/trump-veut-etre-present-partout-pendant-la-campagne-electorale-beaucoup-ne-partagent-pas-cet-avis-li.3602406",
-        "image": "https://www.bing.com/th?id=ONUT.Dc2WA20LbgutFhDjV1-Wag",
-        "timestamp": 1789616573.9273553
-    },
-    {
-        "id": "91aca403f1",
-        "title_fa": "ترامپ با رهبران خلیج در ملل درباره پایان جنگ ایران",
-        "title_en": "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
-        "summary": [
-            "ترامپ قصد دارد در مجمع عمومی سازمان ملل با نمایندگان خلیج فارس درباره مسیر پایان جنگ ایران-اسرائیل گفتگو کند",
-            "این اقدام نشان می‌دهد واشنگتن به دنبال فشار دیپلماتیک برای کاهش تنش‌های نظامی است",
-            "در صورت توافق، ممکن است تحریم‌های جدید علیه ایران بازنگری یا متوقف شوند"
-        ],
-        "impact": "تسریع مذاکرات دیپلماتیک می‌تواند فشار اقتصادی و نظامی بر ایران را کاهش دهد",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aQ2E3YzFncE5mWjR1akxyYnptQi1hOHV5UlVTaGo2WkMwUWpCOVM2UmFUdms4SzVZZFFiNEVyTHlWbUgwZl93MGxkRnUxQzhtamVCemVDS2ZkR1FPT1UxTW5EaTZUS19SUV9QMzRB0gFzQVVfeXFMTmdXVlg2THpkVWxIblF6dnhDdW92UWFwak5OdUh1ajFGWjZWSzJtVm1JdHdVZF9wOVVsaXNjd0ZZeVROeVpfamlLck5VQzZYbmpidTB6alZodWxfS0h4Zl9tbEFEc1FBdFhreWZMS0F1QS0xcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aQ2E3YzFncE5mWjR1akxyYnptQi1hOHV5UlVTaGo2WkMwUWpCOVM2UmFUdms4SzVZZFFiNEVyTHlWbUgwZl93MGxkRnUxQzhtamVCemVDS2ZkR1FPT1UxTW5EaTZUS19SUV9QMzRB0gFzQVVfeXFMTmdXVlg2THpkVWxIblF6dnhDdW92UWFwak5OdUh1ajFGWjZWSzJtVm1JdHdVZF9wOVVsaXNjd0ZZeVROeVpfamlLck5VQzZYbmpidTB6alZodWxfS0h4Zl9tbEFEc1FBdFhreWZMS0F1QS0xcw",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789615260.0
-    },
-    {
-        "id": "eebc9ede4c",
-        "title_fa": "خبر بین‌المللی — UN says US may have committed جنگ crime در ایران school حمله",
-        "title_en": "UN says US may have committed war crime in Iran school attack: Live",
-        "summary": [
-            "Iran-US war latest: UN mission says Trump’s forces may have committed war crime in attack on Iranian school - UN mission also accuses Iran of crimes against humanity during its anti-government protest..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-live-trump-says-conflict-hopefully-nearing-end/ar-AA2cozdR",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-trump-says-conflict-hopefully-nearing-end/ar-AA2cozdR",
-        "image": "http://www.bing.com/th?id=ONUT.kK98fiyYGybMBPNbCXxukg&pid=News",
-        "timestamp": 1789614696.0
     }
 ]
