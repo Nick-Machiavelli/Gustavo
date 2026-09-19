@@ -1,5 +1,41 @@
 [
     {
+        "id": "8bae321ab0",
+        "title_fa": "مسائل سرزمینی فاکلند و چاغوس در ملاقات برنهام‑ترامپ",
+        "title_en": "Falklands and Chagos Islands sovereignty issues loom over Burnham-Trump meeting",
+        "summary": [
+            "اندی برنهام در دیدار با ترامپ به مسایل سرزمینی فاکلند و چاغوس می‌پردازد",
+            "ترامپ پیش از این موضع‌گیری شدیدی نسبت به سرزمین‌های خارجی بریتانیا داشته و ممکن است در مذاکرات فشار بیشتری وارد کند"
+        ],
+        "impact": "تشدید مناقشات سرزمینی می‌تواند روابط آمریکا‑بریتانیا را تحت فشار قرار دهد",
+        "tag": "سرزمین",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Daily Express",
+        "url": "https://www.express.co.uk/news/politics/2249676/falklands-chagos-islands-sovereignty-issues",
+        "clean_url": "https://www.express.co.uk/news/politics/2249676/falklands-chagos-islands-sovereignty-issues",
+        "image": "https://www.bing.com/th?id=ONUT.Q-Q0Ts9XhuXYN7ab9JCkjQ",
+        "timestamp": 1789801408.1879156
+    },
+    {
+        "id": "3e0225afa9",
+        "title_fa": "ترامپ و فریج: ریسک‌های سیاسی آمریکا",
+        "title_en": "America’s Trump nightmare has a lesson for anyone who wants to stop Farage",
+        "summary": [
+            "فریج با حمایت مالی مخفی از آمریکا سعی دارد راست‌گراهای بریتانیا را شبیه جناح آمریکایی کند",
+            "این رفتار نشان می‌دهد ترامپ به‌عنوان نماد حامیان راست‌گرا حتی در مسائل داخلی دیگر کشورها نفوذ می‌خواهد"
+        ],
+        "impact": "تقویت جریان‌های راست‌گرا در اروپا می‌تواند فشار بر سیاست‌های ضد‑ایرانی را افزایش دهد",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "inews.co.uk",
+        "url": "https://inews.co.uk/opinion/america-trump-nightmare-lesson-stop-farage-4772447",
+        "clean_url": "https://inews.co.uk/opinion/america-trump-nightmare-lesson-stop-farage-4772447",
+        "image": "https://inews.co.uk/wp-content/uploads/2026/09/SEI_312981903.jpg?crop=0px,77px,1920px,1085px&resize=1200,675",
+        "timestamp": 1789801408.1875744
+    },
+    {
         "id": "c0be797fc7",
         "title_fa": "ادعای تصادف ناوشکی جعلی پاکستان علیه هند",
         "title_en": "Did Pakistan create a false-flag naval collision to provoke India and weasel out of Mecca pact commitments?",
@@ -260,6 +296,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUdCTDFGd2ZuNDZrUmtkVXYwdlRROENIOGZWYjJSY3IyblcyMGp0UFJSTFNPN1lXakp3alVtUE1WUlI4QWYtWnJlMk9sMGhNSE9ESGN3Z1BacjJCcUh3aHE1T2JyWFFka3BiN3BxNEVmMnl0aWk1LVhnX285akZRbllaa1NQS19GNXVrQ2pYRUFLcmZkdEFxLXFQSjgxWHI2OEZZNUN0ZGRfMXpxc0JIdnRFWEN4UQ",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789777003.0
+    },
+    {
+        "id": "df9df51a8a",
+        "title_fa": "هزینه جنگ ایران برای آمریکا بیش از ۴۰ میلیارد دلار",
+        "title_en": "Iran live updates: War cost US more than $40B, officials said to lawmakers",
+        "summary": [
+            "مقامات آمریکایی به کنگره اعلام کردند هزینه جایگزینی تجهیزات نظامی خراب شده ۴٫۳ میلیارد دلار است",
+            "مجموع هزینه‌های جنگ با ایران به بیش از ۴۰ میلیارد دلار رسیده که بار مالی سنگینی بر خزانه آمریکا می‌گذارد"
+        ],
+        "impact": "بار مالی بالا می‌تواند فشار برای تجدید مذاکرات هسته‌ای ایران را تقویت کند",
+        "tag": "هزینه‑نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-war-cost-us-more-than-40b-officials-said-to-lawmakers/ar-AA2caaSM",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-war-cost-us-more-than-40b-officials-said-to-lawmakers/ar-AA2caaSM",
+        "image": "http://www.bing.com/th?id=ONUT.3RZR_dYbSwvGc23Mv-eW5w&pid=News",
+        "timestamp": 1789775303.0
     },
     {
         "id": "7c1384cc7d",
@@ -5394,66 +5448,6 @@
         "url": "https://www.msn.com/en-in/news/other/mcmaster-urges-tariff-guns-on-russia-but-empathy-for-india-report/ar-AA2cvzbN?ocid=BingNewsVerp",
         "clean_url": "https://www.msn.com/en-in/news/other/mcmaster-urges-tariff-guns-on-russia-but-empathy-for-india-report/ar-AA2cvzbN",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789659336.0
-    },
-    {
-        "id": "97c21acd0a",
-        "title_fa": "قیمت بنزین آلمان به ۱۰ دلار گالن رسید",
-        "title_en": "Gasoline Tops $10 a Gallon in Germany",
-        "summary": [
-            "قیمت بنزین سوپر E10 در آلمان به ۲٫۳۱۴ یورو در لیتر (حدود ۱۰ دلار در هر گالن) رسید",
-            "قیمت دیزل حتی بالاتر و به ۲٫۴۵۳ یورو در لیتر شد",
-            "این افزایش به دلیل بحران ایران و اختلال در تأمین نفت خاورمیانه است",
-            "هزینه‌های حمل‌ونقل برای مصرف‌کنندگان و صنایع به شدت فشار می‌آورد"
-        ],
-        "impact": "تورم مصرف‌کننده بالا و فشار بر رشد اقتصادی آلمان",
-        "tag": "قیمت‌نفت",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/gasoline-tops-10-gallon-germany-142801738.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/gasoline-tops-10-gallon-germany-142801738.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/97855bd85ffb56a4d93ca3e9ccb01a231532932455d24403004294d06c10bd40/lightyear_networkapi/resizefill_w600_h500%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F15e47738cbaa244088f0de6ef7dc0a3e.jpg",
-        "timestamp": 1789659336.0
-    },
-    {
-        "id": "a2541ad2ab",
-        "title_fa": "پیشروی حوثی‌ها، چالش جدید ترامپ در جنگ ایران",
-        "title_en": "Houthi advance deepens Trump’s Iran war dilemma as conflict enters seventh month",
-        "summary": [
-            "پیشروی حوثی‌ها در دریای سرخ فشار بر ایالات متحده را در جنگ ایران افزایش داد",
-            "ترامپ باید در مجمع عمومی سازمان ملل درباره این بحران سخن بگوید",
-            "او پیش از این ادعا کرد حملات آمریکا به تسهیلات هسته‌ای ایران «همه چیز را نابود کرد»",
-            "اما جنگ به بن‌بست تبدیل شده و هدف‌های اولیه‌اش محقق نشده‌اند"
-        ],
-        "impact": "تضعیف موقعیت دیپلماتیک آمریکا و خطر گسترش درگیری در مسیرهای حمل‌ونقل",
-        "tag": "جنگ",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Vibes",
-        "url": "https://www.thevibes.com/articles/news/127433/houthi-advance-deepens-trumps-iran-war-dilemma-as-conflict-enters-seventh-month",
-        "clean_url": "https://www.thevibes.com/articles/news/127433/houthi-advance-deepens-trumps-iran-war-dilemma-as-conflict-enters-seventh-month",
-        "image": "https://media.thevibes.com/images/uploads/covers/_large/TRUMP_UN.jpg",
-        "timestamp": 1789659336.0
-    },
-    {
-        "id": "e1a3ba3b0d",
-        "title_fa": "چین زیرساخت‌های نظامی جیبوتی را ارتقا داد",
-        "title_en": "China upgrades military operation in an African country where the US boasts its largest military base as Houthis choke vital sea routes",
-        "summary": [
-            "چین زیرساخت‌های پایگاه نظامی خود در جیبوتی را به‌طور چشمگیری ارتقا داد",
-            "این اقدام در حالی انجام می‌شود که ایالات متحده بزرگ‌ترین پایگاه نظامی خود را در همان کشور دارد",
-            "رقابت برای مسیرهای دریایی جایگزین در اثر فشارهای بین‌المللی شدت یافته است",
-            "ارتقا شامل ساختارهای دفاعی و توانمندی‌های لجستیکی است"
-        ],
-        "impact": "تقویت حضور چین در اقیانوس هند و فشار بر نفوذ آمریکا",
-        "tag": "نظامی-چین",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Business Insider Africa on MSN",
-        "url": "https://www.msn.com/en-za/news/other/china-upgrades-military-operation-in-an-african-country-where-the-us-boasts-its-largest-military-base-as-houthis-choke-vital-sea-routes/ar-AA2cvs2c?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-za/news/other/china-upgrades-military-operation-in-an-african-country-where-the-us-boasts-its-largest-military-base-as-houthis-choke-vital-sea-routes/ar-AA2cvs2c",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789659336.0
     }
 ]
