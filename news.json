@@ -1,5 +1,23 @@
 [
     {
+        "id": "618e89b21b",
+        "title_fa": "طرح جانی ونس برای کودکان، ضربه به خانواده‌های کارگر",
+        "title_en": "Vance's childcare plan could hurt working families | Opinion",
+        "summary": [
+            "طرح جدید 12 میلیارد دلاری ونس، بودجهٔ صندوق مراقبت کودک (CCDF) را می‌گیرد و به جای حمایت از خانواده‌های کم‌درآمد، به پروژه‌های دیگر اختصاص می‌دهد.",
+            "با حذف منابع، تنها 1 از 7 کودک واجد شرایط می‌تواند از خدمات مراقبت بهره‌برداری کند؛ این باعث فشار بیشتر بر مراکز پیش‌دبستانی و کارکنانشان می‌شود."
+        ],
+        "impact": "دسترسی 1.6 میلیون کودک به مراقبت‌های روزانه کاهش می‌یابد و فشار مالی بر خانواده‌های کم‌درآمد شدت می‌گیرد.",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/vances-childcare-plan-could-hurt-080209596.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/vances-childcare-plan-could-hurt-080209596.html",
+        "image": "https://www.bing.com/th?id=ONUT.HrWppFwkUCLZT4eGsMkEaA",
+        "timestamp": 1789806940.5203443
+    },
+    {
         "id": "b3f0066589",
         "title_fa": "اعدام مردی به‌اتهام افشای اطلاعات موشکی به اسرائیل",
         "title_en": "Iran Executes Man Accused Of Sharing Missile-site Intelligence With Israel",
@@ -5440,24 +5458,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/mike-johnson-accidentally-wrecks-trump-s-claim-about-strait-of-hormuz/ar-AA2crrAa",
         "image": "https://www.bing.com/th?id=ONUT._eJ-MKxlBZv93qr2OLNX4Q",
         "timestamp": 1789661024.1464033
-    },
-    {
-        "id": "284ddd686c",
-        "title_fa": "چین و روسیه پنل نظارت تحریم ایران را مسدود کردند",
-        "title_en": "China, Russia veto renewal of UN Iran sanctions panel",
-        "summary": [
-            "روسیه و چین با وتو، قطع تمدید مأموریت نظارت‌گرهای تحریم‌های ایران را به‌دست آوردند",
-            "پاکستان و سومالی صرفاً امتناع کردند؛ ۱۱ کشور دیگر به‌نفع تجدید رأی بودند",
-            "این تصمیم مانع ادامه نظارت بین‌المللی بر اجرای تحریم‌ها و کاهش فشار دیپلماتیک بر تهران می‌شود"
-        ],
-        "impact": "پیشنهاد تمدید نظارت بر تحریم‌های ایران متوقف شد، فشار بین‌المللی بر تهران کاهش یافت",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "bne IntelliNews",
-        "url": "https://www.msn.com/en-us/news/other/china-russia-veto-renewal-of-un-iran-sanctions-panel/ar-AA2crpHo",
-        "clean_url": "https://www.msn.com/en-us/news/other/china-russia-veto-renewal-of-un-iran-sanctions-panel/ar-AA2crpHo",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cruBo.img?w=900&h=510&m=4&q=84",
-        "timestamp": 1789660283.0
     }
 ]
