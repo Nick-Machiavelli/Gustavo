@@ -1290,6 +1290,25 @@
         "timestamp": 1789736601.384643
     },
     {
+        "id": "1c985bfd6d",
+        "title_fa": "سخنرانی سعیدی: تهدید به انتقام در تجمعات شبانه",
+        "title_en": "Qom cleric praises revenge calls at nightly pro-government rallies",
+        "summary": [
+            "سعیدی در خطبه‌اش به هر گونه حمله به جمهوری اسلامی «سیلی سنگین و مشت آهنین» وعده داد.",
+            "او اعلام کرد که حامیان رهبری بیش از ۲۰۰ شب در خیابان‌ها می‌مانند و تا «پیروزی نهایی» ادامه می‌دهند.",
+            "این اظهارات می‌تواند فشار روانی بر مخالفان داخلی و کشورهای مخالف ایران ایجاد کند."
+        ],
+        "impact": "تشدید تنش‌های داخلی و افزایش فشار دیپلماتیک بر ایران",
+        "tag": "تحریک",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609189917",
+        "clean_url": "https://www.iranintl.com/en/202609189917",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1789735740.0
+    },
+    {
         "id": "cde3e7f789",
         "title_fa": "ایران نفت‌کش را در تنگه هرمز هدف گرفت",
         "title_en": "Iran says it struck oil tanker in Strait of Hormuz",
@@ -5430,22 +5449,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOHd6cEZJbDNfQjl3TGpZeDY4NGJqQUNvOGRQeEJtb201aFpJem1XZ3REYkpraWh1Vm1yTGd4TkFpdGJ1djRSWTh5UTNMcmFNaGlJVC1ZSGRwWGRYNGM5b3ZzREtNVWZyenM4MjZhSFRBRkdfbm1TbzJ3U2FFUkRWSTBKV3ZRTXZuWDlmN01RanlBUVJodU8xZGM1MUNPeHFjSlBxUG5nbUNmYi1FUnRVa3FuTEhVaWdkRmZGRzI5ZVRLMkR3WHpJWEV6VEdvbmM1ZWVYTk1XYnNCZjZyS3RpYmcxbW8",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789654043.0
-    },
-    {
-        "id": "45065b857d",
-        "title_fa": "خبر بین‌المللی — Impoverished by جنگ در ایران, Afghan migrants return به Tali",
-        "title_en": "Impoverished by war in Iran, Afghan migrants return to Taliban rule",
-        "summary": [
-            "Impoverished by war in Iran, Afghan migrants return to Taliban rule Reuters"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUtnR01KbXZwRU1yS09FNXhXdnFRaXRXR1YyaWwyOWFvYWl1VC1MbVJFb1dvVWgxNGVFR0xKV3pCQkNycmVDaUJpVjFLYmt4MTVhSmR5dXRlVU54MWFRTG9LY2V4a1g3d2cyblNlVkU2MjNUTWJXaEY0MFNpNG9uZ3dWMWFEZ0ZIZ1dGMFdQby1jd1A5RzZ2TXNsQlJzdEFER2ZjRHE2SWstblhoVFRWWVhGcXFMZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUtnR01KbXZwRU1yS09FNXhXdnFRaXRXR1YyaWwyOWFvYWl1VC1MbVJFb1dvVWgxNGVFR0xKV3pCQkNycmVDaUJpVjFLYmt4MTVhSmR5dXRlVU54MWFRTG9LY2V4a1g3d2cyblNlVkU2MjNUTWJXaEY0MFNpNG9uZ3dWMWFEZ0ZIZ1dGMFdQby1jd1A5RzZ2TXNsQlJzdEFER2ZjRHE2SWstblhoVFRWWVhGcXFMZw",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789653908.0
     }
 ]
