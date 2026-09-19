@@ -1,5 +1,45 @@
 [
     {
+        "id": "aaf0bfb550",
+        "title_fa": "کانادا نباید حکومت خودکامه جدید ایران را بپذیرد",
+        "title_en": "Canada must not accept another Iranian autocracy",
+        "summary": [
+            "نویسنده می‌گوید ایران تحت حکومت رادیکال، حقوق شهروندان و همسایگان را نقض می‌کند",
+            "پیشنهاد می‌شود کانادا سیاست‌های سخت‌گیرانه‌تری علیه تهران اتخاذ کند تا پیامدهای انسانی را محدود کند",
+            "این موضع می‌تواند روابط دیپلماتیک کانادا‑ایران را تحت فشار قرار دهد",
+            "اگر کانادا به این مسیر نرود، خطر پذیرش سرمایه‌گذاری‌های مشکوک از ایران افزایش می‌یابد"
+        ],
+        "impact": "تشدید فشار سیاسی کانادا بر تهران و احتمال اعمال تحریم‌های جدید",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Winnipeg Free Press",
+        "url": "https://www.winnipegfreepress.com/opinion/analysis/2026/09/19/canada-must-not-accept-another-iranian-autocracy",
+        "clean_url": "https://www.winnipegfreepress.com/opinion/analysis/2026/09/19/canada-must-not-accept-another-iranian-autocracy",
+        "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2022/11/fb-og-image.png",
+        "timestamp": 1789803252.491386
+    },
+    {
+        "id": "1df1a2be1e",
+        "title_fa": "قانون جدید تحریم آمریکا: ممنوعیت نفت روسیه، استثنا اورانیوم",
+        "title_en": "Doublespeak in US sanctions law: No Russian oil for others, exception for its own uranium imports",
+        "summary": [
+            "قانون جدید هدفش فشار مستقیم بر درآمدهای نفتی روسیه در دوران جنگ اوکراین است",
+            "به‌جای منع کامل، آمریکا اجازه واردات اورانیوم خود را می‌دهد تا به صنایع هسته‌ای داخلی آسیب نرسد",
+            "مقابله با روسیه ممکن است بازارهای جایگزین برای نفت او را شتاب دهد",
+            "همکاری با اتحادیه اروپا در اجرای این قانون می‌تواند تنش‌های تجاری را تشدید کند"
+        ],
+        "impact": "کاهش قابل توجه درآمد نفتی مسکو و تغییر در جریان‌های تجاری انرژی جهانی",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/explained/explained-economics/us-russia-sanctions-law-russian-uranium-imports-exception-explained-10884789/",
+        "clean_url": "https://indianexpress.com/article/explained/explained-economics/us-russia-sanctions-law-russian-uranium-imports-exception-explained-10884789",
+        "image": "https://www.bing.com/th?id=ONUT.EuQwnawkh1CVfOJyssWr0A",
+        "timestamp": 1789803252.490933
+    },
+    {
         "id": "8bae321ab0",
         "title_fa": "مسائل سرزمینی فاکلند و چاغوس در ملاقات برنهام‑ترامپ",
         "title_en": "Falklands and Chagos Islands sovereignty issues loom over Burnham-Trump meeting",
@@ -5413,41 +5453,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/lawrence-o-donnell-says-why-144848329.html",
         "image": "https://www.bing.com/th?id=ONUT.Y7hPMIaEfZvXq8uFNwXf-w",
         "timestamp": 1789659696.301378
-    },
-    {
-        "id": "0d39319da5",
-        "title_fa": "خبر بین‌المللی — Macro Insights: Yield Surges Vs. Energy Shocks, و Navigating",
-        "title_en": "Macro Insights: Yield Surges Vs. Energy Shocks, And Navigating Market Chaos",
-        "summary": [
-            "Welcome to the SA’s The Macro Brief! This official SA Profile will highlight our analysts' latest economic and market..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4947402-macro-insights-yield-surges-vs-energy-shocks-and-navigating-market-chaos",
-        "clean_url": "https://seekingalpha.com/article/4947402-macro-insights-yield-surges-vs-energy-shocks-and-navigating-market-chaos",
-        "image": "https://www.bing.com/th?id=ONUT.u56fqJsFAL4n-cwv--Oo9w",
-        "timestamp": 1789659344.71015
-    },
-    {
-        "id": "eab2a3a985",
-        "title_fa": "مک‌مستر: تحریم سخت بر خریداران انرژی روسیه، همدلی با هند",
-        "title_en": "McMaster urges 'tariff guns' on Russia, but empathy for India: Report",
-        "summary": [
-            "مک‌مستر، وزیر دفاع پیشین آمریکا، خواستار تحریم‌های سنگین بر خریداران انرژی روسیه شد",
-            "او خواستار همدلی با امنیت هند و عدم فشار بیش از حد بر این کشور بود",
-            "به دوگانگی غرب در تکیه بر انرژی هسته‌ای روسیه اشاره کرد"
-        ],
-        "impact": "فشار اقتصادی بر روسیه و تغییر مسیر خرید انرژی هند",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Asianet Newsable on MSN",
-        "url": "https://www.msn.com/en-in/news/other/mcmaster-urges-tariff-guns-on-russia-but-empathy-for-india-report/ar-AA2cvzbN?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/mcmaster-urges-tariff-guns-on-russia-but-empathy-for-india-report/ar-AA2cvzbN",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789659336.0
     }
 ]
