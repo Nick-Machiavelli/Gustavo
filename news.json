@@ -848,6 +848,26 @@
         "timestamp": 1789748524.6773891
     },
     {
+        "id": "ceaed211cb",
+        "title_fa": "جبهه یمن: ۱۱۲٬۰۰۰ نفر جابه‌جا، حملات حوثی به کشتی‌ها",
+        "title_en": "Live Updates: Yemen conflict displaces 112,000 as EU raises alert over Houthi attacks on ships",
+        "summary": [
+            "112,000 نفر به دلیل جنگ یمن آواره شدند؛ فشار انسانی شدید و نیاز فوری به کمک بین‌المللی",
+            "اتحادیه اروپا هشدار داد حملات حوثی به ناوگان تجاری خلیج فارس خطر گسترش تنگناهای حمل‌ونقل را دارد",
+            "ترکیه مجوز بانک ملت ایران را لغو کرد؛ گامی جدید در زنجیره تحریم‌های مالی علیه تهران",
+            "ایران بازسازی سایت تست هسته‌ای طالقان۲ را ادامه می‌دهد؛ نشانگر پیشرفت برنامه هسته‌ای در برابر فشارهای بین‌المللی"
+        ],
+        "impact": "آوارگی گسترده و تهدید ناوبری خلیج فارس، فشار بر زنجیره تأمین انرژی و تشدید تحریم‌ها",
+        "tag": "بحری",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-19/live-updates-909093",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-19/live-updates-909093",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738446",
+        "timestamp": 1789748220.0
+    },
+    {
         "id": "5cadf753f1",
         "title_fa": "سورپرایز استراتژیک بعدی اسرائیل؛ جنگ نیست",
         "title_en": "Israel’s next strategic surprise may not be a war",
@@ -5439,22 +5459,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/new-poll-asked-americans-who-they-trust-on-the-biggest-issues-democrats-led-republicans-almost-across-the-board-my-take/vi-AA2cqAEx",
         "image": "https://www.bing.com/th?id=ONUT.8xtl4rbz9YlEp3a3KiQoOg",
         "timestamp": 1789655170.818997
-    },
-    {
-        "id": "9ddf2e1aa5",
-        "title_fa": "خبر بین‌المللی — Shroud 20,000 Palestinian children killed by اسرائیل unveil",
-        "title_en": "Shroud of 20,000 Palestinian children killed by Israel unveiled in New York: '55 years of funerals'",
-        "summary": [
-            "Gaza Children's Shroud unveiled a 328-foot memorial shroud at New York's United Nations Church Center bearing the names of 20..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Mirror US on MSN",
-        "url": "https://www.msn.com/en-us/news/other/shroud-of-20000-palestinian-children-killed-by-israel-unveiled-in-new-york-55-years-of-funerals/ar-AA2cr5a9?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/shroud-of-20000-palestinian-children-killed-by-israel-unveiled-in-new-york-55-years-of-funerals/ar-AA2cr5a9",
-        "image": "https://www.bing.com/th?id=ONUT.0QRJpZCLD0-2dHp0yBGN_Q",
-        "timestamp": 1789655166.3370109
     }
 ]
