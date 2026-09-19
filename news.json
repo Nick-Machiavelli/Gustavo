@@ -20,6 +20,24 @@
         "timestamp": 1789833782.7124503
     },
     {
+        "id": "0321118d6e",
+        "title_fa": "ایران شرایط مذاکرات صلح با آمریکا را تکرار کرد",
+        "title_en": "Iran reiterates conditions for talks with US, end of war",
+        "summary": [
+            "ایران می‌خواهد قبل از هر گفتگویی تحریم‌ها را به‌صورت کامل لغو کند",
+            "ایران خواستار توقف تمام عملیات نظامی و تضمین عدم مداخله در امور داخلی است"
+        ],
+        "impact": "ممکن است مسیر مذاکرات صلحی را باز کند",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHdGZtOGozUmJMSmVHbGY5WlppeElvOV9HanM5OXh2V1FZNUx2UGw1SG9jY0VHUU1iaFNDT0Z1LUpOT01LdmZlSWl1TFZjUlNtTnZRaWEzMW5GS2t1?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHdGZtOGozUmJMSmVHbGY5WlppeElvOV9HanM5OXh2V1FZNUx2UGw1SG9jY0VHUU1iaFNDT0Z1LUpOT01LdmZlSWl1TFZjUlNtTnZRaWEzMW5GS2t1",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789832782.0
+    },
+    {
         "id": "b45cf2b716",
         "title_fa": "یک میلیارد بشکه نفت از طریق هرمز با کمک آمریکا",
         "title_en": "CENTCOM says US military has aided transit of 1 billion barrels of oil through Hormuz over 2 months",
@@ -2048,6 +2066,43 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aadb5f662c7-1789769206.jpg?resize=1920%2C1440",
         "timestamp": 1789750800.0
+    },
+    {
+        "id": "4958bf99b3",
+        "title_fa": "انفجارها و دود سیاه نزدیک فرودگاه ریاض؛ تنش‌های حوثی",
+        "title_en": "Riyadh residents report explosions, black smoke near airport amid Houthi tensions",
+        "summary": [
+            "شهودی از انفجارهای بزرگ در حوالی فرودگاه کینگ خلد",
+            "دود سیاه نشان از سوزاندن مقادیر زیاد مواد شیمیایی دارد",
+            "حادثه در اوج تنش‌های حوثی‑سعودی رخ داد و خطر حمله نیابتی را افزایش داد"
+        ],
+        "impact": "اختلال در حمل‌ونقل هوایی سعودی و تشدید تنش‌های منطقه‌ای",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New Indian Express on MSN",
+        "url": "https://www.msn.com/en-in/news/news/riyadh-residents-report-explosions-black-smoke-near-airport-amid-houthi-tensions/ar-AA2czdjx?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/news/riyadh-residents-report-explosions-black-smoke-near-airport-amid-houthi-tensions/ar-AA2czdjx",
+        "image": "https://www.bing.com/th?id=ONUT.MMI71LQKj7adlDnl6PxAVg",
+        "timestamp": 1789750089.0
+    },
+    {
+        "id": "62068e0352",
+        "title_fa": "پروژه بازیابی CO2 ایران در رقابت جهانی انرژی",
+        "title_en": "Iranian CO2 recovery project named a finalist of 2026 WPC Energy Excellence Awards",
+        "summary": [
+            "پروژه «بازیابی و استفاده CO2» پالایشگاه تهران در فهرست نهایی جوایز WPC قرار گرفت",
+            "این دستاورد نشان می‌دهد فناوری‌های پاک ایرانی می‌توانند در بازارهای بین‌المللی رقابت کنند"
+        ],
+        "impact": "نمایش توانمندی فنی ایران در پروژه‌های کاهش کربن",
+        "tag": "انرژی",
+        "urgency": 4,
+        "sentiment": 0.7,
+        "source": "presstv",
+        "url": "https://www.presstv.co.uk/Detail/2026/09/19/776602/iranian-co2-recovery-project-named-finalist-2026-wpo-energy-excellence-awards",
+        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/19/776602/iranian-co2-recovery-project-named-finalist-2026-wpo-energy-excellence-awards",
+        "image": "https://www.bing.com/th?id=ONUT.KP-xtJMLEtBCXIch7okZPQ",
+        "timestamp": 1789750089.0
     },
     {
         "id": "ec40d98579",
@@ -5440,62 +5495,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW0xSnVFQ1JsVExqeGFxYUpCdjc0OXg5cVFuM29YTmhrVWE4WFJYaGZ1dXBVa0gycm5NTXlOVTJ0bjBEY0Fsb2VFcFFRc2VnQzVOY0lWYl9OMk5nWEgtQjl5MktrTlVjbFBzcDA2b0JNVWVhcXVtTlFjYjJwaWtJNnY5dGJPRXNuQzh6Y195WDJyVlRzYTFfTERqN21fTEwtcF9BdGliV3cxR2RqcFUwS2tmQWtMek5KaC10dThB",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789683120.0
-    },
-    {
-        "id": "ec1a0ce630",
-        "title_fa": "تاکسی‌نقلیه توگو در هرمز هدف حمله ایران",
-        "title_en": "Togo-Flagged Tanker Near Hormuz: Iran’s Strike Claim and What Is Confirmed",
-        "summary": [
-            "ایران ادعا کرد ناوگان سپاه در ۱۸ سپتامبر کشتی توگوپرچم «Trend» را در هرمز اصابت کرد",
-            "رسانه‌های بریتانیایی حوادثی نزدیک گزارش کردند اما هیچ‌کدام ارتباط مستقیم با این کشتی را تأیید نکردند",
-            "ایران گفت پس از آتش‌سوزی کشتی متوقف شد و عبور غیرمجاز را محکوم کرد"
-        ],
-        "impact": "این ادعا می‌تواند فشار بر ترافیک نفتی هرمز را افزایشد و ریسک برخوردهای نظامی را بالا ببرد",
-        "tag": "ناحیه‌هرمز",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Rio Times",
-        "url": "https://www.riotimesonline.com/togo-flagged-tanker-strait-of-hormuz-2026/",
-        "clean_url": "https://www.riotimesonline.com/togo-flagged-tanker-strait-of-hormuz-2026",
-        "image": "https://www.riotimesonline.com/wp-content/uploads/2026/09/img-togo-flagged-tanker-strait-of-hormuz-2026.jpg",
-        "timestamp": 1789682586.0
-    },
-    {
-        "id": "ec067daf5c",
-        "title_fa": "تمرین گسترده ۳۱۳٬۰۰۰ نفره سپاه پیام به آمریکا",
-        "title_en": "IRGC's mass exercise sparks alarm, sends message to US & Israel | Watch",
-        "summary": [
-            "سپاه پاسداران یک مانور ملی با حضور ۳۱۳٬۰۰۰ نفر نظامی و غیرنظامی در سرتاسر کشور برگزار کرد",
-            "هدف نمایش توانمندی‌های جنگی و هشدار به ایالات متحده و اسرائیل بود",
-            "شهروندان به‌صورت داوطلبانه در تمرین شرکت کردند، نشان از بسیج گسترده داخلی دارد"
-        ],
-        "impact": "نمایش قدرت نظامی می‌تواند تصمیم‌گیری‌های استراتژیک آمریکا و اسرائیل را تحت فشار قرار دهد",
-        "tag": "تمرین-نظامی",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/news/other/irgc-s-mass-exercise-sparks-alarm-sends-message-to-us-israel-watch/vi-AA2cvuWm?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/irgc-s-mass-exercise-sparks-alarm-sends-message-to-us-israel-watch/vi-AA2cvuWm",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789682586.0
-    },
-    {
-        "id": "ce2e432bff",
-        "title_fa": "کنگره آمریکا لاینس گراهام: تحریم‌های سنگین بر روسیه و ایران",
-        "title_en": "Ukraine Returns To The U.S. Agenda As Congress Passes A Sweeping Sanctions Bill On Russia",
-        "summary": [
-            "مجلس نمایندگان ۲۶ سپتامبر لاینس گراهام سناتور را به تصویب قانون تحریم‌های روسیه و ایران رساند",
-            "قانون به عنوان فشار بر اقتصادهای وابسته به نفت روسیه معرفی شد",
-            "قانون به رئیس‌جمهور اجازه می‌دهد تا تا ۱۰۰٪ تعرفه بر کشورهایی که بیشترین خرید نفت روسیه را دارند اعمال کند"
-        ],
-        "impact": "تحریم‌های جدید می‌تواند دسترسی ایران به بازارهای مالی بین‌المللی را محدود کند",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/ukraine-returns-u-agenda-congress-205750308.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/ukraine-returns-u-agenda-congress-205750308.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/90c5cc84b236e0d875ec7f73a17d78f677524ff2fa9a6734ab37a6b2d62d1b6d/lightyear_networkapi/resizefill_w960_h640%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_staff_375%2F45018fbb3a26aae23c93101da4834f57.jpg",
-        "timestamp": 1789682586.0
     }
 ]
