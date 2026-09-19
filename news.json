@@ -1,5 +1,25 @@
 [
     {
+        "id": "39280039b2",
+        "title_fa": "ترامپ باید چین را از تقویت جنگ ایران بازدارد",
+        "title_en": "China is fueling the Iran War — can Trump stop them?",
+        "summary": [
+            "چین به‌طور فعال به ایران کمک می‌کند تا در خلیج و یمن گسترش یابد",
+            "ایران مسیرهای تجاری را مسدود کرده و زیرساخت‌های سعودی را هدف گرفته",
+            "این وضعیت اعتبار غرب را در منطقه تضعیف می‌کند",
+            "ترامپ باید در اجلاس ۲۴ سپتامبر با ژی‌جیانگ این مسأله را در صدر برنامه بگذارد"
+        ],
+        "impact": "اگر ترامپ اقدام نکند، چین قدرت نفوذ در خلیج فارس را افزایش می‌دهد و خطر گسترش جنگ برای آمریکا بالا می‌رود",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/19/opinion/china-is-fueling-the-iran-war-can-trump-stop-them/",
+        "clean_url": "https://nypost.com/2026/09/19/opinion/china-is-fueling-the-iran-war-can-trump-stop-them",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-40853027.jpg?quality=75&strip=all&w=1200",
+        "timestamp": 1789837381.5935068
+    },
+    {
         "id": "ee5a424e4b",
         "title_fa": "اخلاق در خطر در روایت‌های سیاسی",
         "title_en": "Have ethics and morality become dispensable?",
@@ -18,6 +38,26 @@
         "clean_url": "https://johnmenadue.com/post/2026/09/have-ethics-morality-become-dispensable",
         "image": "https://www.bing.com/th?id=ONUT.VPoLEbA3UJLW9gVcRdTdpw",
         "timestamp": 1789833782.7124503
+    },
+    {
+        "id": "e96b6d2625",
+        "title_fa": "امریکا بیت‌بانک را به سپاه تحریم کرد",
+        "title_en": "Treasury Sanctions Iranian Crypto Exchange BitBank Over Bitcoin Transfers to IRGC",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا بیت‌بانک را به‌دلیل انتقال بیت‌کوین به سپاه پاسداران تحریم کرد",
+            "این اقدام دسترسی مالی غیرقانونی به سپاه را محدود می‌کند",
+            "بازار رمزارزهای ایرانی تحت فشار خواهد شد",
+            "تراکنش‌های دیگر صرافی‌های مشابه ممکن است تحت نظارت قرار گیرد"
+        ],
+        "impact": "تحریم بیت‌بانک مسیر مالی بین‌المللی سپاه را مسدود می‌کند و فشار اقتصادی بر ایران را افزاش می‌دهد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Bitcoin Magazine",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mSlhvWFNBVV9EYmNCcXBjVTBJSW5zM29EYmpBVl9QcF91R0hlTnZlQTRQOXBaS3dJSFF4d1VBTVpiX3NubEN2VGNtcnBTXzZBN19zQ0RvSTBraVVvSC03bzJ1TEhScVFVNmttSkZsRV9Rd25vNWFIaWNMU1dQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mSlhvWFNBVV9EYmNCcXBjVTBJSW5zM29EYmpBVl9QcF91R0hlTnZlQTRQOXBaS3dJSFF4d1VBTVpiX3NubEN2VGNtcnBTXzZBN19zQ0RvSTBraVVvSC03bzJ1TEhScVFVNmttSkZsRV9Rd25vNWFIaWNMU1dQUQ",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789833214.0
     },
     {
         "id": "0321118d6e",
@@ -5461,39 +5501,5 @@
         "clean_url": "https://www.yahoo.com/news/videos/ayotte-responds-related-warmingtons-lobbying-211214084.html",
         "image": "https://www.bing.com/th?id=ONUT.0M0CEp48wKrDvPf6XXXTDw",
         "timestamp": 1789683162.0
-    },
-    {
-        "id": "95e29f7438",
-        "title_fa": "خبر بین‌المللی — Pakistan abstains as روسیه, چین veto UN monitoring ایران sa",
-        "title_en": "Pakistan abstains as Russia, China veto UN monitoring of Iran sanctionsPublished on: September 19, 2026 1:47 AM",
-        "summary": [
-            "Pakistan, Sept. 19 -- Pakistan has abstained from a US-backed UN Security Council resolution to extend independent monitoring of sanctions on Iran, state media reported on Friday, as vetoes by Russia..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/asia/pakistan/pakistan-abstains-as-russia-china-veto-un-monitoring-of-iran-sanctionspublished-on-september-19-2026-147-am/ar-AA2cwJMp?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/pakistan-abstains-as-russia-china-veto-un-monitoring-of-iran-sanctionspublished-on-september-19-2026-147-am/ar-AA2cwJMp",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789683161.0
-    },
-    {
-        "id": "8328a531cd",
-        "title_fa": "خبر بین‌المللی — Oil Traders Stymied by ایران جنگ Stalemate: Evening Briefing",
-        "title_en": "Oil Traders Stymied by Iran War Stalemate: Evening Briefing Americas",
-        "summary": [
-            "Oil Traders Stymied by Iran War Stalemate: Evening Briefing Americas bloomberg.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW0xSnVFQ1JsVExqeGFxYUpCdjc0OXg5cVFuM29YTmhrVWE4WFJYaGZ1dXBVa0gycm5NTXlOVTJ0bjBEY0Fsb2VFcFFRc2VnQzVOY0lWYl9OMk5nWEgtQjl5MktrTlVjbFBzcDA2b0JNVWVhcXVtTlFjYjJwaWtJNnY5dGJPRXNuQzh6Y195WDJyVlRzYTFfTERqN21fTEwtcF9BdGliV3cxR2RqcFUwS2tmQWtMek5KaC10dThB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW0xSnVFQ1JsVExqeGFxYUpCdjc0OXg5cVFuM29YTmhrVWE4WFJYaGZ1dXBVa0gycm5NTXlOVTJ0bjBEY0Fsb2VFcFFRc2VnQzVOY0lWYl9OMk5nWEgtQjl5MktrTlVjbFBzcDA2b0JNVWVhcXVtTlFjYjJwaWtJNnY5dGJPRXNuQzh6Y195WDJyVlRzYTFfTERqN21fTEwtcF9BdGliV3cxR2RqcFUwS2tmQWtMek5KaC10dThB",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789683120.0
     }
 ]
