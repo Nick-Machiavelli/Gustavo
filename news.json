@@ -1749,6 +1749,26 @@
         "timestamp": 1789724770.0
     },
     {
+        "id": "2b4745f0b9",
+        "title_fa": "تجمعات شبانه حامی دولت به میدانی برای جدال احزاب",
+        "title_en": "Iran's nightly pro-state rallies become factional battleground",
+        "summary": [
+            "برگزاری 200 شب متوالی، حالا به ابزار فشار بر رقبای داخل حکومت تبدیل شده",
+            "شعارهای ضد مقامات کلیدی مثل قالیباف، عارفی و پزِشکیان نشان‌دهنده تقسیم‌پذیری عمیق داخل حاکمیت است",
+            "اختلال در زندگی روزمره و محدود کردن فضای عمومی برای اعتراض، پیامد مستقیم این تجمعات است",
+            "تشدید تنش‌های سیاسی و کاهش توانمندی مخالفان، خطر تشدید بحران داخلی را افزایش می‌دهد"
+        ],
+        "impact": "تقویت قدرت حامیان دولت و تضعیف فضای اعتراض، فشار بیشتر بر رقبای داخلی",
+        "tag": "سیاست داخلی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609170359",
+        "clean_url": "https://www.iranintl.com/en/202609170359",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/684416aa083225ff61f632193b45ede78ae1e0ac-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789724700.0
+    },
+    {
         "id": "a0b37711de",
         "title_fa": "صدها هزار نفر در ایران با فشردگی جنگ و اقتصاد تظاهرات کردند",
         "title_en": "Hundreds of thousands rally in Iran as war and economy squeeze",
@@ -5436,22 +5456,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/shroud-of-20000-palestinian-children-killed-by-israel-unveiled-in-new-york-55-years-of-funerals/ar-AA2cr5a9",
         "image": "https://www.bing.com/th?id=ONUT.0QRJpZCLD0-2dHp0yBGN_Q",
         "timestamp": 1789655166.3370109
-    },
-    {
-        "id": "d3a5927faa",
-        "title_fa": "تهدید تعرفه ای جدید ترامپ با کاهش عرضه خلیج فارس، خط حیاتی نفت روسیه را در آسیا قطع می‌کند",
-        "title_en": "Trump's new tariff threat risks cutting off Asia’s Russian oil lifeline as Gulf supply falls",
-        "summary": [
-            "New levies could raise costs for US consumers reliant on Indian electronics..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The National on MSN",
-        "url": "https://www.msn.com/en-ae/money/news/trumps-new-tariff-threat-risks-cutting-off-asia-s-russian-oil-lifeline-as-gulf-supply-falls/ar-AA2cuzPG?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ae/money/news/trumps-new-tariff-threat-risks-cutting-off-asia-s-russian-oil-lifeline-as-gulf-supply-falls/ar-AA2cuzPG",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789654998.0
     }
 ]
