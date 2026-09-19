@@ -20,6 +20,25 @@
         "timestamp": 1789778544.7620068
     },
     {
+        "id": "b912255adc",
+        "title_fa": "ترامپ تحریم جدید روسیه و حق تعرفه‌گیری را تصویب کرد",
+        "title_en": "Trump signs new sanctions on Russia, gains power to impose tariffs on third countries",
+        "summary": [
+            "تحریم‌ها به دلیل نقض حقوق بشر و تهاجم روسیه اعمال شد",
+            "اختیار تعرفه‌گیری به واشنگتن اجازه می‌دهد فشار اقتصادی بر کشورهای ثالث بگذارد",
+            "این گام می‌تواند روابط تجاری آمریکا با شرکای اروپایی را تحت فشار قرار دهد"
+        ],
+        "impact": "تحریم‌ها فشار اقتصادی بر روسیه را افزاش می‌دهد و امکان اعمال تعرفه بر هم‌پیمانانش را به واشنگتن می‌دهد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "efe.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemhGdUpaam1nWGxKeHhzVy1pR0h3TWdYQVVUV2xPX3JyZnRkOWNmWmlxRHBtUEY0ZmYzVXBIR2l6UURWRzF0UDRKcm5KRzBqUEp3RjV3YlJhWDNDeDVDTTFndjJ0VV9Zc2VkVFBrNkQwNDByaTlBOVFfUHl0Z1IzVVVnMTNwWWlCMXZHU3UzZ3hYUTFyb3YtSkhWb08tMU9kZFlCZEtraXYwaGtpUkhsX3otNmxLdnh4QW4zcU02RXY3SHRkbmZjM2ZEaW4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemhGdUpaam1nWGxKeHhzVy1pR0h3TWdYQVVUV2xPX3JyZnRkOWNmWmlxRHBtUEY0ZmYzVXBIR2l6UURWRzF0UDRKcm5KRzBqUEp3RjV3YlJhWDNDeDVDTTFndjJ0VV9Zc2VkVFBrNkQwNDByaTlBOVFfUHl0Z1IzVVVnMTNwWWlCMXZHU3UzZ3hYUTFyb3YtSkhWb08tMU9kZFlCZEtraXYwaGtpUkhsX3otNmxLdnh4QW4zcU02RXY3SHRkbmZjM2ZEaW4",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789778469.0
+    },
+    {
         "id": "f1930e20e2",
         "title_fa": "خبر بین‌المللی — [Morning Edition] September 19 (Sat) 20 Business & Market Ne",
         "title_en": "[Morning Edition] September 19 (Sat) 20 Business & Market News Highlights | BOJ Raises Rates to 1.25% for First Time in 31 Years, Yen at 157, Buffett Steps Down as Chairman",
@@ -5422,25 +5441,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXanpGS04yWldVLVc5T1Y3S2dXMXg5VS1FelprMm1kN0Y5TktjMHVoMk9xMHo5NlNZRnJ5Nmg5Z2dlNjd0OTF6ZUliTThLUmE0WHVqTEVBOU5WOHBqWUU2RmpuWHpMMHpDYWNFSVJhYWFPSUN2",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789650145.0
-    },
-    {
-        "id": "43cd947acf",
-        "title_fa": "نرخ برق در کنتیکت ۱۰٪ کاهش یافت",
-        "title_en": "Connecticut’s electric rates have taken a turn. Here’s what to know",
-        "summary": [
-            "قیمت برق مسکونی در کنتیکت بین ژوئن ۲۰۲۵ و ژوئن ۲۰۲۶ حدود ۱۰٪ کم شد",
-            "در عین حال میان‌گزارش ملی برق ۵٪ افزایش داشت",
-            "کنتیکت از پنجم به دوازدهمین ایالت گران‌ترین برق شد",
-            "کاهش عمدتاً به توسعه دیتاسنتر و قیمت گاز مرتبط است"
-        ],
-        "impact": "مصرف‌کنندگان خانه‌ای در کنتیکت هزینه برق کمتری می‌پردازند",
-        "tag": "انرژی",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "Hartford Courant",
-        "url": "https://www.courant.com/2026/09/18/connecticuts-electric-rates-have-taken-a-turn-heres-what-to-know/",
-        "clean_url": "https://www.courant.com/2026/09/18/connecticuts-electric-rates-have-taken-a-turn-heres-what-to-know",
-        "image": "https://www.courant.com/wp-content/uploads/2024/01/thc-l-smart-meter-01.jpg?w=1500&h=1994",
-        "timestamp": 1789649596.0
     }
 ]
