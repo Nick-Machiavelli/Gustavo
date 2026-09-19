@@ -127,6 +127,25 @@
         "timestamp": 1789774260.0
     },
     {
+        "id": "b63fd1bc5d",
+        "title_fa": "چین پل میان ایران و آمریکا می‌شود",
+        "title_en": "Tehran sees Beijing as potential bridge to Washington",
+        "summary": [
+            "وزیر خارجه چین اعلام کرد آماده نقش سازنده در حل منازعات است",
+            "ارغچی گفت تصمیمات با چین تعادل استراتژیک منطقه را شکل می‌دهد",
+            "انتظار می‌رود چین در جلسه ترمپ‑شی نقش میانه‌رویی داشته باشد"
+        ],
+        "impact": "چین می‌تواند فشار دیپلماتیک بر واشنگتن را تقویت کند",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609184967",
+        "clean_url": "https://www.iranintl.com/en/202609184967",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/dda014cfd84cdab7e2797308c93613ad4d1ce412-600x585.jpg?rect=15,160,558,293&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789772400.0
+    },
+    {
         "id": "b3187a2e36",
         "title_fa": "قیمت نفت ۱۰٪ جهش کرد؛ پیش‌بینی ۱۰۰ دلار",
         "title_en": "Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say",
@@ -5424,22 +5443,5 @@
         "clean_url": "https://www.thedailyjagran.com/world/news/inside-russia-sanctions-bill-to-be-signed-today-by-trump-who-will-face-100-per-cent-tariffs-india-at-risk-oil-buyers-lindsey-o-graham-act-10329657",
         "image": "https://images.thedailyjagran.com/images/2026/09/18/template/image/Ustariff-(1)-1789731626503.webp",
         "timestamp": 1789650184.0
-    },
-    {
-        "id": "b43a5f5562",
-        "title_fa": "Have We Lost ایران جنگ?",
-        "title_en": "Have We Lost the Iran War?",
-        "summary": [
-            "Have We Lost the Iran War? Foundation for Defense of Democracies"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Foundation for Defense of Democracies",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXanpGS04yWldVLVc5T1Y3S2dXMXg5VS1FelprMm1kN0Y5TktjMHVoMk9xMHo5NlNZRnJ5Nmg5Z2dlNjd0OTF6ZUliTThLUmE0WHVqTEVBOU5WOHBqWUU2RmpuWHpMMHpDYWNFSVJhYWFPSUN2?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXanpGS04yWldVLVc5T1Y3S2dXMXg5VS1FelprMm1kN0Y5TktjMHVoMk9xMHo5NlNZRnJ5Nmg5Z2dlNjd0OTF6ZUliTThLUmE0WHVqTEVBOU5WOHBqWUU2RmpuWHpMMHpDYWNFSVJhYWFPSUN2",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789650145.0
     }
 ]
