@@ -1,5 +1,25 @@
 [
     {
+        "id": "c0be797fc7",
+        "title_fa": "ادعای تصادف ناوشکی جعلی پاکستان علیه هند",
+        "title_en": "Did Pakistan create a false-flag naval collision to provoke India and weasel out of Mecca pact commitments?",
+        "summary": [
+            "ادعای انتشار در برخی رسانه‌ها مبنی بر اینکه پاکستان تصادف ناوشکی ساختگی ترتیب داده تا هند را تحریک کند",
+            "هیچ مدرک موثقی ارائه نشده؛ لینک منبع فقط به صفحه خطای فنی ارجاع دارد",
+            "اگر صحت داشته باشد، خطر برخورد نظامی در خلیج فارس و تنش‌های دریایی افزایش می‌یابد",
+            "تحلیلگران منطقه‌ای این ادعا را به‌عنوان ابزار فشار سیاسی می‌دانند"
+        ],
+        "impact": "احتمال تشدید تنش‌های نظامی در خلیج فارس و فشار بر پیمان مکه در صورت صحت ادعا",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/opinion/did-pakistan-create-a-false-flag-naval-collision-to-provoke-india-and-weasel-out-of-mecca-pact-commitments-14046991.html",
+        "clean_url": "https://www.firstpost.com/opinion/did-pakistan-create-a-false-flag-naval-collision-to-provoke-india-and-weasel-out-of-mecca-pact-commitments-14046991.html",
+        "image": "https://www.bing.com/th?id=ONUT.Njwmb9chmPT9cOhHG1BQyg",
+        "timestamp": 1789800684.0277903
+    },
+    {
         "id": "0760577721",
         "title_fa": "ایران executes man it accused spying برای اسرائیل در موشک sites",
         "title_en": "Iran executes man it accused of spying for Israel on missile sites",
@@ -5435,25 +5455,5 @@
         "clean_url": "https://www.msn.com/en-za/news/other/china-upgrades-military-operation-in-an-african-country-where-the-us-boasts-its-largest-military-base-as-houthis-choke-vital-sea-routes/ar-AA2cvs2c",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789659336.0
-    },
-    {
-        "id": "1850bd7635",
-        "title_fa": "اتهام جنگ‌جرمی آمریکا در ایران و اظهارات ترامپ",
-        "title_en": "Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal",
-        "summary": [
-            "پانل حقوق بشر سازمان ملل می‌گوید شواهد کافی برای ادعای جنگ‌جرمی آمریکا در دو حمله به ایران وجود دارد که حداقل ۱۷۸ غیرنظامی کشته شدند.",
-            "ترامپ دوباره تأکید کرد ایران مایل به توافق برای پایان جنگ است؛ این حرف می‌تواند فشار دیپلماتیک بر واشنگتن را کاهش دهد.",
-            "قیمت نفت پس از اعلام تعمیر خط لوله سعودی که توسط پهپادها آسیب دیده، کاهش یافت؛ اما کارشناسان هشدار می‌دهند هزینه‌ها در روزهای آینده بالا می‌رود.",
-            "یک تانکر در تنگه هرمز توسط پرتابه‌ای نامشخص صدمه دید؛ حادثه نشان‌دهنده خطرات ناوبری در مسیرهای استراتژیک است."
-        ],
-        "impact": "اعلام جنگ‌جرمی می‌تواند واکنش بین‌المللی شدید به آمریکا ایجاد کند و مذاکرات صلح را تحت فشار قرار دهد؛ همچنین نوسان قیمت نفت ادامه خواهد یافت.",
-        "tag": "جنگ",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal",
-        "image": "http://www.bing.com/th?id=ONUT.bGdvfTOY3UtSkcW_5-DHbA&pid=News",
-        "timestamp": 1789659300.0
     }
 ]
