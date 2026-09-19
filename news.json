@@ -624,6 +624,43 @@
         "timestamp": 1789801408.1875744
     },
     {
+        "id": "4396e94072",
+        "title_fa": "ترامپ چین را در حمایت از ایران متهم کرد",
+        "title_en": "Trump set for Xi summit as China accused of aiding Iran",
+        "summary": [
+            "در پیش‌نمایش اجلاس با شی جین‌پینگ، ترامپ چین را به‌عنوان حامی ایران نامید",
+            "این اتهام می‌تواند تنش‌های منطقه‌ای را تشدید کند و فشار بر مذاکرات هسته‌ای را افزایش دهد",
+            "حضور ترامپ در مجمع عمومی سازمان ملل و سپس دیدار با شی نشان از استفاده از صحنه بین‌المللی برای فشار بر ایران دارد",
+            "پاسخ چین احتمالاً رد اتهام و تأکید بر عدم مداخله خواهد بود"
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک مسیر مذاکرات هسته‌ای را دشوارتر می‌کند",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/video/6405297333112",
+        "clean_url": "https://www.foxnews.com/video/6405297333112",
+        "image": "http://www.bing.com/th?id=ONUT.OLpLLVQ6FI8cHHvjfnN8eA&pid=News",
+        "timestamp": 1789801380.0
+    },
+    {
+        "id": "39a8eca159",
+        "title_fa": "خبر بین‌المللی — MS Now denied access به White House after ترامپ said he’s ba",
+        "title_en": "MS Now denied access to White House after Trump said he’s banning the network, CNN and Politico",
+        "summary": [
+            "CNN reporter Betsy Klein was denied access at the White House on Saturday morning and her press pass was seized, one day after President Donald Trump announced that he was “banning” CNN, MS NOW and..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/ms-now-denied-access-to-white-house-after-trump-said-he-s-banning-the-network-cnn-and-politico/ar-AA2cyIk5",
+        "clean_url": "https://www.msn.com/en-us/news/other/ms-now-denied-access-to-white-house-after-trump-said-he-s-banning-the-network-cnn-and-politico/ar-AA2cyIk5",
+        "image": "http://www.bing.com/th?id=ONUT.91hMEYh7s6g_gr6BOEp7bw&pid=News",
+        "timestamp": 1789801363.0
+    },
+    {
         "id": "f4417d0b93",
         "title_fa": "هشدار هوایی ساعتی در عربستان پس از تهدید هوایی",
         "title_en": "Saudi Arabia issues air raid alerts across the country, and other Mideast...",
@@ -642,6 +679,43 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
         "image": "https://media.zenfs.com/en/ap.org/a8caef09711648e212883dba0776b854.jpg",
         "timestamp": 1789801360.0
+    },
+    {
+        "id": "ab71161ced",
+        "title_fa": "خبر بین‌المللی — CNN و MS NOW staffers turned away from White House after ترا",
+        "title_en": "CNN and MS NOW staffers turned away from White House after Trump ban",
+        "summary": [
+            "President Trump said Friday that MS NOW, CNN and Politico would be banned from the White House."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/ms-now-staffers-turned-away-from-white-house-after-trump-bans-outlets/ar-AA2cyIEj",
+        "clean_url": "https://www.msn.com/en-us/news/other/ms-now-staffers-turned-away-from-white-house-after-trump-bans-outlets/ar-AA2cyIEj",
+        "image": "http://www.bing.com/th?id=ONUT.qy4eHQyB2mNLKieSHyPEpQ&pid=News",
+        "timestamp": 1789801296.0
+    },
+    {
+        "id": "7763640202",
+        "title_fa": "انجمن لیبره هیسپانیک ریسک‌پذیری سوسیالیسم را دو برابر می‌کند",
+        "title_en": "Top Hispanic-American Think Tank Doubles Down on Efforts 15 Years After Its Founding",
+        "summary": [
+            "پس از پانزده سال فعالیت، ابتکار LIBRE برنامه‌های خود را برای جذب رأی هیسپانیک به جمهوری‌خواهان گسترش داد",
+            "حمایت از افراد برجسته‌ای چون ریچارد کوک و گلن یانکین نشان از ارتباط نزدیک با جناح راست دارد",
+            "هدف اصلی مقابله با سوسیالیسم و تقویت «رویای آمریکایی» است",
+            "این حرکت می‌تواند تأثیر قابل‌توجهی بر انتخابات آینده داشته باشد"
+        ],
+        "impact": "تقویت پایه‌های رأی‌گیری هیسپانیک می‌تواند نتایج انتخابات را به نفع جمهوری‌خواهان تغییر دهد",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "The Daily Signal",
+        "url": "https://www.dailysignal.com/2026/09/19/hispanic-american-think-tank-doubles-down-on-efforts/",
+        "clean_url": "https://www.dailysignal.com/2026/09/19/hispanic-american-think-tank-doubles-down-on-efforts",
+        "image": "http://www.bing.com/th?id=ONUT.Sc6slEGZZ5dxjEqvpy6xgg&pid=News",
+        "timestamp": 1789801200.0
     },
     {
         "id": "c0be797fc7",
@@ -907,6 +981,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemhGdUpaam1nWGxKeHhzVy1pR0h3TWdYQVVUV2xPX3JyZnRkOWNmWmlxRHBtUEY0ZmYzVXBIR2l6UURWRzF0UDRKcm5KRzBqUEp3RjV3YlJhWDNDeDVDTTFndjJ0VV9Zc2VkVFBrNkQwNDByaTlBOVFfUHl0Z1IzVVVnMTNwWWlCMXZHU3UzZ3hYUTFyb3YtSkhWb08tMU9kZFlCZEtraXYwaGtpUkhsX3otNmxLdnh4QW4zcU02RXY3SHRkbmZjM2ZEaW4",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789778469.0
+    },
+    {
+        "id": "feb7a524d4",
+        "title_fa": "ترامپ رسانه‌های مخالف را از کاخ سفید ممنوع کرد",
+        "title_en": "CNN Star Flays Trump for Banning Network in a ‘Tantrum’",
+        "summary": [
+            "ترامپ به‌صورت ناگهانی CNN، MS NOW و Politico را از حضور در کاخ سفید محروم کرد",
+            "این اقدام در آستانه انتخابات میانی سعی در منحرف کردن توجه از مشکلات اقتصادی و جنگ دارد",
+            "خبرنگاران دسترسی از دست دادند و پاس‌هایشان توقیف شد",
+            "رسانه‌ها این ممنوعیت را \"تینتر\" غیرقانونی و تهدیدی به آزادی مطبوعات توصیف کردند"
+        ],
+        "impact": "محدود کردن دسترسی رسانه‌ها فشار بین‌المللی بر دولت آمریکا را افزایش می‌دهد و فضای خبری داخلی را تشدید می‌کند",
+        "tag": "رسانه",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/cnn-star-flays-trump-for-banning-network-in-a-tantrum/",
+        "clean_url": "https://www.thedailybeast.com/cnn-star-flays-trump-for-banning-network-in-a-tantrum",
+        "image": "https://www.thedailybeast.com/resizer/v2/STRVISFKXZBPFPFDPC43XMXUSI.jpg?smart=true&auth=9083a41eca19d70fa90287ba1f16650bda88b2453cf1ee26b07173f470cef81d&width=1200&height=630",
+        "timestamp": 1789777800.0
     },
     {
         "id": "f1930e20e2",
@@ -2718,6 +2812,26 @@
         "timestamp": 1789729362.0
     },
     {
+        "id": "cdb9be680a",
+        "title_fa": "کاندید سوسیالیست کلار واِلدِز تحت فشار برای بررسی قانون لاگان",
+        "title_en": "Socialist Claire Valdez faces calls for federal probe after Mexico ‘fight’ pledge",
+        "summary": [
+            "کلار واِلدِز پس از ملاقات با اعضای حزب چپ مکزیک، تحت فشار برای بررسی قانون لاگان قرار گرفت",
+            "قانون لاگان برای جلوگیری از مداخله غیرمجاز شهروندان در روابط خارجی آمریکا است",
+            "این درخواست نشان از حساسیت دولت به هرگونه ارتباط سیاسی با دولت‌های خارجی دارد",
+            "اگر بررسی شود، می‌تواند پیش‌زمینه‌ای برای محدود کردن فعالیت‌های سیاسی داخلی باشد"
+        ],
+        "impact": "ممکن است باعث محدودیت‌های قانونی برای تعاملات سیاسی با خارجیان شود",
+        "tag": "قانون",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/socialist-claire-valdez-faces-calls-federal-probe-mexico-fight-pledge",
+        "clean_url": "https://www.foxnews.com/politics/socialist-claire-valdez-faces-calls-federal-probe-mexico-fight-pledge",
+        "image": "http://www.bing.com/th?id=ONUT.gOmrLqXWm74JYATgMhSxWQ&pid=News",
+        "timestamp": 1789729200.0
+    },
+    {
         "id": "a4a7abc7bc",
         "title_fa": "ویدیوهای ترکیبی واشنگتن با صحنه‌های جنگ ایران",
         "title_en": "White House posts so-called 'hype' videos combining real Iran war footage alongside movie, video game clips - ABC News",
@@ -3328,6 +3442,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUNQaW1RcmVFWUtlRGR5a1o3aTM2dkxJdV9qOFZiTnh6NE1tOVFJQVhRN0pRcWNkSy1NNm5YcExMMnZBWjlYdVJmenJjNF8tREs0TUd4VFZqaGpOWHlHTFc0WHRtVnNTY08tclc3dzlPNlNRU0dQTTkxR3JhcUhPWVNDNXdWeTNQYTJPYmd1WnVMZG5xcGZJanhWdWQtbHlYSjdOU2N2SkVKWnlZZ1FQZg",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789718384.0
+    },
+    {
+        "id": "8c62f843fc",
+        "title_fa": "جان جیمز پیشنهاد افزایش سقف انتخاب انرژی ۱۰٪ می‌کند",
+        "title_en": "John James pitches expanding Michigan’s 10% cap on energy choice. What does it mean?",
+        "summary": [
+            "جان جیمز برای کنترل نرخ‌های انرژی، سقف ۱۰٪ انتخاب انرژی را افزایش می‌خواهد",
+            "این طرح هدف دارد تا مصرف‌کنندگان را در برابر افزایش قیمت‌ها محافظت کند",
+            "مخالفان می‌گویند این سیاست می‌تواند رقابت بازار را محدود کند",
+            "اگر اجرا شود، می‌تواند الگوی مشابهی برای دیگر ایالت‌ها باشد"
+        ],
+        "impact": "قابلیت کاهش هزینه‌های انرژی برای خانوارهای میشیگان، اما ممکن است رقابت بازار را محدود کند",
+        "tag": "انرژی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/09/john-james-pitches-expanding-michigans-10-cap-on-energy-choice-what-does-it-mean.html",
+        "clean_url": "https://www.mlive.com/politics/2026/09/john-james-pitches-expanding-michigans-10-cap-on-energy-choice-what-does-it-mean.html",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789718280.0
     },
     {
         "id": "ace2f8859e",
@@ -5369,131 +5503,5 @@
         "clean_url": "https://www.thehindu.com/opinion/op-ed/does-the-brics-summit-signify-a-shift-for-indian-foreign-policy/article71477942.ece",
         "image": "https://www.bing.com/th?id=ONUT.-aUNXRQtJpB3AooM0FfL5Q",
         "timestamp": 1789677332.6568775
-    },
-    {
-        "id": "ae39dc1b26",
-        "title_fa": "خبر بین‌المللی — Activity at ایران هسته‌ای site draws ترامپ warning: Don’t ‘g",
-        "title_en": "Activity at Iran nuclear site draws Trump warning: Don’t ‘get cute’",
-        "summary": [
-            "Former CENTCOM Cmdr. Ret. Gen. Joseph Votel discusses reports of activity around Iran’s Pickaxe Mountain and concerns that Tehran could be hardening a nuclear site. Votel examines the strategic..."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "FOX News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/activity-at-iran-nuclear-site-draws-trump-warning-don-t-get-cute/vi-AA2cwuqe?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/activity-at-iran-nuclear-site-draws-trump-warning-don-t-get-cute/vi-AA2cwuqe",
-        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789677298.0
-    },
-    {
-        "id": "afbd25ca5b",
-        "title_fa": "خبر بین‌المللی — Republican چین committee chair urges tough ترامپ line with X",
-        "title_en": "Republican China committee chair urges tough Trump line with Xi",
-        "summary": [
-            "The Republican chair of the US congressional committee on China on Friday urged President Donald Trump to take a tough line..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/us/republican-china-committee-chair-urges-tough-trump-line-with-xi-2026-09-18/",
-        "clean_url": "https://www.reuters.com/world/us/republican-china-committee-chair-urges-tough-trump-line-with-xi-2026-09-18",
-        "image": "https://www.bing.com/th?id=ONUT.HDiPJDkwmmkH8CRVJ3GejA",
-        "timestamp": 1789677298.0
-    },
-    {
-        "id": "9de4aeea5e",
-        "title_fa": "خبر بین‌المللی — US نظامی death toll exceeds Pentagon’s public ایران جنگ coun",
-        "title_en": "US military death toll exceeds Pentagon’s public Iran war count",
-        "summary": [
-            "More US service members have died in the Middle East since the Iran war began than the Pentagon has publicly disclosed, the Washington Post reported Friday, citing six US officials familiar with..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609187641",
-        "clean_url": "https://www.iranintl.com/en/202609187641",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/badf043105beaec95c3cbc83b1e367f26df1bbbd-1920x1280.jpg?rect=0,136,1920,1008&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1789677298.0
-    },
-    {
-        "id": "e97dd18d2d",
-        "title_fa": "خبر بین‌المللی — Killer AI Is Already Here. We’re Using It در ایران.",
-        "title_en": "Killer AI Is Already Here. We’re Using It in Iran.",
-        "summary": [
-            "Arguments that AI companies are “gambling with our lives” have dominated the news this week. But despite our fear that AI might kill us en masse, another new poll shows that very few Americans know..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Mother Jones",
-        "url": "https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety/",
-        "clean_url": "https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety",
-        "image": "https://www.motherjones.com/wp-content/uploads/2026/09/minab-mass-grave.jpg?w=1200&h=630&crop=1",
-        "timestamp": 1789676645.5270815
-    },
-    {
-        "id": "923b91162e",
-        "title_fa": "دلار پس از کاهش در برابر ین ژاپن",
-        "title_en": "Dollar rally eases as currency’s gain against yen cools",
-        "summary": [
-            "دلار پس از رشد قبلی در برابر ین کمی تضعیف شد",
-            "بازارها به تصمیمات بانک‌های مرکزی و عدم قطعیت اقتصادی واکنش نشان دادند",
-            "کاهش کوتاه‌مدت دلار می‌تواند فشار بر قیمت‌های وارداتی را کمی کم کند"
-        ],
-        "impact": "کاهش جزئی فشار بر هزینهٔ کالاهای وارداتی برای مصرف‌کنندگان",
-        "tag": "ارز",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/dollar-rally-eases-as-currency-s-gain-against-yen-cools/ar-AA2csYHu?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/dollar-rally-eases-as-currency-s-gain-against-yen-cools/ar-AA2csYHu",
-        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789676534.0
-    },
-    {
-        "id": "1942c6ea37",
-        "title_fa": "انگلستان: وتوی شورای امنیت مانع نظارت مؤثر بر تحریم‌های ایران می‌شود",
-        "title_en": "UK says U.N. Iran monitoring veto undermines sanctions oversight",
-        "summary": [
-            "انگلستان روسیه و چین را به خاطر وتوی خود برای تجدید هیئت کارشناسان ایران سرزنش کرد.",
-            "این وتو نظارت مستقل بر تحریم‌های هسته‌ای و موشکی تهران را تضعیف می‌کند.",
-            "بدون نظارت دقیق، ریسک گسترش برنامه هسته‌ای ایران افزایش می‌یابد."
-        ],
-        "impact": "نظارت ضعیف‌تر می‌تواند اجرای مؤثر تحریم‌ها را مختل کرده و دسترسی ایران به فناوری‌های حساس را تسهیل کند.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "tradersunion",
-        "url": "https://tradersunion.com/news/geopolitics-trade/show/3376896-un-iran-sanctions-veto-uk/",
-        "clean_url": "https://tradersunion.com/news/geopolitics-trade/show/3376896-un-iran-sanctions-veto-uk",
-        "image": "https://files.tradersunion.com/images/regional-news/custom-by-date/2026/09/17/3376896.jpg",
-        "timestamp": 1789676460.0
-    },
-    {
-        "id": "3708cb2fa1",
-        "title_fa": "مسیر نازک عادی‌سازی روابط با لبنان",
-        "title_en": "Now or never: The fragile path to Lebanon normalization",
-        "summary": [
-            "اورتاگوس، دیپلمات ارشد آمریکا، مسیر نازک عادی‌سازی روابط با لبنان را توصیف کرد.",
-            "مذاکرات شامل رفع موانع تجاری و امنیتی است اما با مخالفت داخلی در هر دو کشور مواجه است.",
-            "هر گونه پیشرفت سریع می‌تواند به تثبیت امنیت مرزی و کاهش نفوذ ایران در لبنان منجر شود.",
-            "عدم پیشرفت می‌تواند تنش‌های منطقه‌ای را تشدید کند."
-        ],
-        "impact": "پیشرفت یا شکست عادی‌سازی می‌تواند تعادل قدرت در خاورمیانه را تغییر دهد.",
-        "tag": "لبنان",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/now-or-never-the-fragile-path-to-lebanon-normalization/ar-AA2cs1Wu?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/now-or-never-the-fragile-path-to-lebanon-normalization/ar-AA2cs1Wu",
-        "image": "https://www.bing.com/th?id=ORMS.f239a2e40311576ba2fb974fc276cf33",
-        "timestamp": 1789676061.8291311
     }
 ]
