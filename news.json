@@ -521,6 +521,26 @@
         "timestamp": 1789831800.0
     },
     {
+        "id": "e259af0769",
+        "title_fa": "آیا تعطیلی‌های نفتی تحت تحریم آمریکا به چاه‌ها آسیب می‌زند؟",
+        "title_en": "Will shutdowns forced by US blockade damage Iran’s oil wells?",
+        "summary": [
+            "کاهش بارگیری نفت ایران باعث کاهش تولید و هزینه‌های نگهداری چاه‌ها شده",
+            "ادعای مقامات ایرانی مبنی بر عدم توقف صادرات با واقعیت هزینه‌های توقف و فشار بر مخازن متفاوت است",
+            "پر شدن مخازن ممکن است به آسیب دائمی چاه‌ها منجر شود",
+            "هزینه بازگشت به سطح قبلی تولید می‌تواند میلیاردها دلار باشد"
+        ],
+        "impact": "هزینه‌های سنگین برای بازگرداندن تولید، فشار بر اقتصاد نفتی ایران",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609190748",
+        "clean_url": "https://www.iranintl.com/en/202609190748",
+        "image": "http://www.bing.com/th?id=ONUT.Ekig_ZPiSraKZYZZ1s0wwQ&pid=News",
+        "timestamp": 1789830900.0
+    },
+    {
         "id": "455d08d620",
         "title_fa": "پرده ۱۰۰ متری اسامی ۲۰٬۰۰۰ کودک کشته‌شده در غزه",
         "title_en": "Interfaith group unveil 100-meter shroud with names of 20,000 children killed in Gaza war at UN",
@@ -2161,6 +2181,25 @@
         "clean_url": "https://nypost.com/2026/09/19/opinion/oust-philly-da-larry-krasner-and-keep-nixing-progs-sabotage-of-public-safety",
         "image": "http://www.bing.com/th?id=ONUT.N-wcklW8JQSCXv2DBPfsWw&pid=News",
         "timestamp": 1789773720.0
+    },
+    {
+        "id": "8ccdca4a05",
+        "title_fa": "ترامپ: هزینه جنگ ایران ۴۳٫۶ میلیارد دلار",
+        "title_en": "Trump said Washington can’t take care of day care, Medicaid and Medicare while fighting wars. The Iran war bill has now hit $43.6 billion",
+        "summary": [
+            "ترامپ می‌گوید دولت باید به دفاع نظامی بپردازد نه به هزینه‌های داخلی",
+            "لایحه جنگ ایران به ۴۳٫۶ میلیارد دلار رسیده و فشار مالی شدیدی را نشان می‌دهد",
+            "این اظهارات می‌تواند فشار بر قانون‌گذاران برای افزایش هزینه‌های نظامی ایجاد کند"
+        ],
+        "impact": "افزایش هزینه‌های نظامی آمریکا، کاهش بودجه‌های داخلی",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Arkansas Public Advocate on MSN",
+        "url": "https://www.msn.com/en-us/money/general/trump-said-washington-can-t-take-care-of-day-care-medicaid-and-medicare-while-fighting-wars-the-iran-war-bill-has-now-hit-43-6-billion/ar-AA2cA0WL?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/trump-said-washington-can-t-take-care-of-day-care-medicaid-and-medicare-while-fighting-wars-the-iran-war-bill-has-now-hit-43-6-billion/ar-AA2cA0WL",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789773608.0
     },
     {
         "id": "b63fd1bc5d",
@@ -5447,42 +5486,5 @@
         "clean_url": "https://www.cnbctv18.com/world/us-trump-signs-russia-sanctions-bill-with-up-to-100-tariff-threat-for-india-china-oil-imports-19993950.htm",
         "image": "https://images.cnbctv18.com/uploads/2026/09/gareema-feature-images-2026-09-19t085845559-2026-09-a386d3b8c1ae23920d9931e769c3b8e6.jpg?im=FitAndFill,width=1200,height=675",
         "timestamp": 1789706414.0
-    },
-    {
-        "id": "d67c77f009",
-        "title_fa": "کارگرهای استرالیا به جای مهاجرت، به جنسیت می‌پردازند",
-        "title_en": "‘They’re embarrassed’ – Why Labor pivoted to gender and ignored immigration",
-        "summary": [
-            "حزب کارگر پس از طرح برنامه مهاجرتی، تمرکز را به مسائل جنسیتی منتقل کرد تا از انتقادات جلوگیری کند",
-            "این تغییر نشان می‌دهد که رهبری حزب از موضوعات حساس مانند مهاجرت دوری می‌کند"
-        ],
-        "impact": "توجه عمومی به سیاست مهاجرت کاهش می‌یابد و بحث جنسیتی به صدر می‌آید",
-        "tag": "سیاست_داخلی",
-        "urgency": 3,
-        "sentiment": -0.5,
-        "source": "2GB",
-        "url": "https://www.2gb.com/theyre-embarrassed-why-labor-pivoted-to-gender-and-ignored-immigration/",
-        "clean_url": "https://www.2gb.com/theyre-embarrassed-why-labor-pivoted-to-gender-and-ignored-immigration",
-        "image": "https://www.2gb.com/wp-content/uploads/sites/2/2026/09/GettyImages-2284273662-scaled.jpg",
-        "timestamp": 1789706169.2955942
-    },
-    {
-        "id": "bed47854d8",
-        "title_fa": "روسیه و چین مانع نظارت UN بر تحریم‌های ایران شدند",
-        "title_en": "Russia, China block US push to maintain UN oversight of Iran sanctions",
-        "summary": [
-            "روسیه و چین با رأی‌گیری در سازمان ملل طرح آمریکا برای ادامه نظارت بر تحریم‌ها را رد کردند",
-            "این اقدام نشان می‌دهد حمایت دیپلماتیک ایران در مجلس امنیتی قوی است",
-            "قابلیت اعمال تحریم‌های جدید توسط آمریکا تضعیف شد"
-        ],
-        "impact": "قابلیت اعمال تحریم‌های جدید توسط آمریکا محدود می‌شود",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1lIQkNQbno5QkhpYU9ETnhzTTlIeXJ6YVIzbmV0YW1kSDJXNmU1SFBaLXVMZk9KaE90WVJCV195Zlc3eTJXTTc2LTJwRDFpalRWWW04emRVSnlFNnJZRGQwUFFIWFNyYUY1RmdfdENEWWdyRmdCcEpySk9EOTZHOVB3b19PQUtaUnRQSmhrN2czdHZsUDhrdVhWRll5S05IMEU2TkVwTnZTY3pJZXJJSC1n?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1lIQkNQbno5QkhpYU9ETnhzTTlIeXJ6YVIzbmV0YW1kSDJXNmU1SFBaLXVMZk9KaE90WVJCV195Zlc3eTJXTTc2LTJwRDFpalRWWW04emRVSnlFNnJZRGQwUFFIWFNyYUY1RmdfdENEWWdyRmdCcEpySk9EOTZHOVB3b19PQUtaUnRQSmhrN2czdHZsUDhrdVhWRll5S05IMEU2TkVwTnZTY3pJZXJJSC1n",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789705638.0
     }
 ]
