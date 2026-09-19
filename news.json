@@ -1,5 +1,23 @@
 [
     {
+        "id": "a5da682322",
+        "title_fa": "دلیل‌های بالارفتن نرخ بهره",
+        "title_en": "10 Ways to Explain Why Interest Rates Are So High",
+        "summary": [
+            "تقاضای شدید برای اوراق خزانه‌داری باعث فشار بر قیمت‌ها و بالا رفتن نرخ بهره می‌شود",
+            "سیاست‌های پولی سفت‌سیر و انتظارات تورمی نیز به افزایش هزینه‌های وام‌دهی افزوده‌اند"
+        ],
+        "impact": "قرض‌گیری برای شرکت‌ها و خانوار گران‌تر می‌شود و رشد اقتصادی دچار سرکوب می‌شود",
+        "tag": "نرخ بهره",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/19/business/dealbook/why-are-interest-rates-high.html",
+        "clean_url": "https://www.nytimes.com/2026/09/19/business/dealbook/why-are-interest-rates-high.html",
+        "image": "https://www.bing.com/th?id=ONUT.psLk6aqu2PXxK6kLTz5Ldw",
+        "timestamp": 1789820155.1447935
+    },
+    {
         "id": "5d113cfced",
         "title_fa": "مسلمان صهیونیست: فعالان ضد اسرائیل اشتباه می‌کنند",
         "title_en": "I’m a Muslim Zionist. Anti-Israel activists have it completely backward",
@@ -122,6 +140,24 @@
         "clean_url": "https://www.iranintl.com/en/202609192570",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1789817400.0
+    },
+    {
+        "id": "eb03b5c008",
+        "title_fa": "حسن پیکر: ایران هسته‌ای خاورمیانه را پایدار می‌کند",
+        "title_en": "Socialist Streamer Hasan Piker Says Nuclear-Armed Iran Would Make Middle East ‘More Stable’",
+        "summary": [
+            "استریمر سوسیالیست حسن پیکر ادعا کرد داشتن سلاح هسته‌ای توسط ایران می‌تواند ثبات منطقه را تضمین کند",
+            "این حرف در برابر واقعیت‌های تاریخی و خطر گسترش رقابت هسته‌ای، واکنش‌های انتقادی شدید بین‌المللی را برانگیخته"
+        ],
+        "impact": "اظهار نظر می‌تواند فشار دیپلماتیک بر ایران را افزایش دهد و تنش‌های منطقه‌ای را تشدید کند",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Dallas Express",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmxDc2d0b2t0c241OWhnT1oxbGJSYW9QbDFUTi1pQi1xSGpEbXFPbkp6Z3NaRU9QWm1vb3RzZjZseWtZYWhqMVFHQWRESHZMcmFidHpmWHhDbkZ4WUJSSmJwN1pXY180bnlZNU1TQ29sSlRWLTZ1Q0Rjb1hZTnRpM0htc3VQakkzeHo4T0hrSWdxVWJkdzR6VVJ1TDRsbllqMXF5TTJIRGFGbE16S2JxMUlSMU43U3lzTHVDcXZob1pKaTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmxDc2d0b2t0c241OWhnT1oxbGJSYW9QbDFUTi1pQi1xSGpEbXFPbkp6Z3NaRU9QWm1vb3RzZjZseWtZYWhqMVFHQWRESHZMcmFidHpmWHhDbkZ4WUJSSmJwN1pXY180bnlZNU1TQ29sSlRWLTZ1Q0Rjb1hZTnRpM0htc3VQakkzeHo4T0hrSWdxVWJkdzR6VVJ1TDRsbllqMXF5TTJIRGFGbE16S2JxMUlSMU43U3lzTHVDcXZob1pKaTA",
+        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789817190.0
     },
     {
         "id": "37c2719cc7",
@@ -5447,42 +5483,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXkxczJULTFFc3ZoZkVzOXp1RlZIcjIyck1JNUxkbjlUMVpxa01Ja3lZRnl0ZFp1ZjI5ZE1VbnhxZHVKX3dBczlrNHNILVRYaTEtUG8yRWVLYVB2bXlNN3FQbmlHbDhHZVV3ajJIZTFyZ3lOaDMtRTFud3N2ZHZoMG9BMlhqOHlFT040azAzM0x5WkFBN3VYQzh0MEVCYThqb0ltaXNDaUF4OTNlb0U5amltYnnSAboBQVVfeXFMT2ZwZUp2ZlZ6ZjVuUWNLVS1BX2R2OWRrRmtoNWlJVG5yZUNSMi1FbVR5dUI2dlhvVXpQWW5YWG5TaHpZVkFDaGZia1ZsMzFjNThpeDRua3BDMDlWYWNicmswai1NemdYdV9jTTdyTDFHUlpWWUJIS19UVnota3hZQnp0OVNIcHBjYXJvLW1YVXBhV1kxaFNKWDNGNW9BNmJhOW5zTDM4VDkzcmc2ZEQtZ0FYdmU1Q08xa2Rn",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789670693.0
-    },
-    {
-        "id": "723b5d08bf",
-        "title_fa": "ترامپ تحریم روسیه با تعرفه ۱۰۰٪ برای هند را می‌امضا",
-        "title_en": "Trump to sign Russia sanctions bill today that threatens 100% tariffs on India: Report",
-        "summary": [
-            "ترامپ با امضای لاینس او گراهام، اختیار اعمال تعرفه ۱۰۰٪ بر کشورهایی که روسیه‌نفت می‌خرند، می‌دهد؛ هدف اصلی هند است",
-            "این اقدام می‌تواند هزینه‌های انرژی هند را به‌طور چشمگیری بالا برده و روابط تجاری دو کشور را تحت فشار قرار دهد",
-            "قانون همچنین به «ناوگان سایه» روسیه می‌پردازد تا توان ادامه صادرات انرژی روسیه را محدود کند"
-        ],
-        "impact": "هند با خطر تعرفه کامل، مجبور به بازنگری در خرید نفت روسیه و جستجوی منابع جایگزین می‌شود",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/trump-to-sign-russia-sanctions-bill-today-that-threatens-100-per-cent-tariffs-on-india-101789751001313.html",
-        "clean_url": "https://www.hindustantimes.com/india-news/trump-to-sign-russia-sanctions-bill-today-that-threatens-100-per-cent-tariffs-on-india-101789751001313.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/TRUMP-ROSE-GARDEN-14_1789751035529_9igT_1789751051218_BRqh_3647fe79-7b0c-4215-b0a9-a5edfb1a8806_Qyfb.jpg",
-        "timestamp": 1789670508.0
-    },
-    {
-        "id": "54e5c8aa8f",
-        "title_fa": "هاکابی پیش‌بینی شورش جدید در ایران",
-        "title_en": "Ambassador Huckabee Predicts Another Iran Uprising, Makes a Pitch for Objective Truth",
-        "summary": [
-            "سفیر هاکابی اعلام کرد احتمال بروز اعتراضات گسترده در ایران را می‌بیند.",
-            "او با تأکید بر «حقیقت عینی» سعی دارد روایت رسانه‌ای مخالف دولت تهران را تقویت کند."
-        ],
-        "impact": "بیان چنین پیش‌بینی‌ها می‌تواند نظرسنجی‌های داخلی و خارجی را تحت تأثیر قرار دهد اما اثر عملی محدودی دارد",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "themedialine.org",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMndDNjZnNmZfX0ZJSWtodkpDTE9LX2pzck84M3o4T3lyd1k3TERZNG5kS0FTMElyaEF4RnFlWmJSLU5EWExlaVMwcDBub09VYmZ0eEpHbTRQazY5TVNMRkVoaGN2WXZQMVprdXk0LVRHazk2Y1AybTFDaVlqWUwyVGhfNUFwcUJnaUtRdG9oMWRKbGRzS3JxTXhOTVp3U0ROZ0M2Mkc3dEp6bVducS1BWTZDYjR5WmIyNkR2SkVvbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMndDNjZnNmZfX0ZJSWtodkpDTE9LX2pzck84M3o4T3lyd1k3TERZNG5kS0FTMElyaEF4RnFlWmJSLU5EWExlaVMwcDBub09VYmZ0eEpHbTRQazY5TVNMRkVoaGN2WXZQMVprdXk0LVRHazk2Y1AybTFDaVlqWUwyVGhfNUFwcUJnaUtRdG9oMWRKbGRzS3JxTXhOTVp3U0ROZ0M2Mkc3dEp6bVducS1BWTZDYjR5WmIyNkR2SkVvbw",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789669947.0
     }
 ]
