@@ -1,5 +1,24 @@
 [
     {
+        "id": "b3f0066589",
+        "title_fa": "اعدام مردی به‌اتهام افشای اطلاعات موشکی به اسرائیل",
+        "title_en": "Iran Executes Man Accused Of Sharing Missile-site Intelligence With Israel",
+        "summary": [
+            "اجرای حکم اعدام نشان می‌دهد ایران برای هر گونه جاسوسی نظامی تحمل صفر دارد.",
+            "این اقدام پیام هشدار واضحی به نیروهای داخلی و شبکه‌های اطلاعاتی مخالف می‌فرستد.",
+            "افشای اطلاعات موشکی می‌تواند به اسرائیل در برنامه‌ریزی حملات نیابتی کمک کند؛ بنابراین تهران سعی دارد ریسک‌های مشابه را کاهش دهد."
+        ],
+        "impact": "دستگیری و اعدام افراد مشکوک به جاسوسی، فشار روانی بر داخل کشور و محدود کردن دسترسی دشمن به اطلاعات موشکی.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0NIdm00YVMxbm44NE1vWERDTi10MkZlcFNMZ1dMLWloSDBBZ1ZFZnpqVlhQLTgzUXlMRElfZVZNTjN0alpGZmY0LTZOaXZTNVJmZThmbEJGdVJvSW9TNko1VmlHdG56cVo4cGoyOXZvVUh2aldUY3NrSXctLS1zQ25yVV94ZUNqbzVPY3JlUkdlTTNUZV9mQ3lLOVRMRGwzczA1cl9ITkVFem1EUEg2cFdIb3F3b0YtczJZd1lQaldvejlsVWRXNDFXTElXb2xaLVd4SjdjQUNsUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0NIdm00YVMxbm44NE1vWERDTi10MkZlcFNMZ1dMLWloSDBBZ1ZFZnpqVlhQLTgzUXlMRElfZVZNTjN0alpGZmY0LTZOaXZTNVJmZThmbEJGdVJvSW9TNko1VmlHdG56cVo4cGoyOXZvVUh2aldUY3NrSXctLS1zQ25yVV94ZUNqbzVPY3JlUkdlTTNUZV9mQ3lLOVRMRGwzczA1cl9ITkVFem1EUEg2cFdIb3F3b0YtczJZd1lQaldvejlsVWRXNDFXTElXb2xaLVd4SjdjQUNsUQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789804390.0
+    },
+    {
         "id": "aaf0bfb550",
         "title_fa": "کانادا نباید حکومت خودکامه جدید ایران را بپذیرد",
         "title_en": "Canada must not accept another Iranian autocracy",
@@ -5437,23 +5456,5 @@
         "clean_url": "https://www.nytimes.com/2026/09/18/world/americas/iran-visas-us-general-assembly.html",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789660174.0
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "نگاه گاردین به روابط ایالات‑کانادا و بحران‌های داخلی",
-        "title_en": "US latest news",
-        "summary": [
-            "تحلیل‌گران گاردین به بی‌ثباتی رئیس‌جمهور آمریکا و اثراتش بر روابط تجاری اشاره کردند.",
-            "ترامپ ادعا کرد آمریکا نیازی به کانادا ندارد، اگرچه کانادا منبع مهم مواد معدنی نظامی است."
-        ],
-        "impact": "بی‌ثباتی سیاسی آمریکا می‌تواند تصمیم‌گیری‌های تجاری بریتانیا و اتحادیه اروپا را دشوار کند.",
-        "tag": "اقتصاد‑پول",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1789660080.0
     }
 ]
