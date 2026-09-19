@@ -1,5 +1,25 @@
 [
     {
+        "id": "267effd7f4",
+        "title_fa": "هوش مصنوعی و اطلاعات غلط در جنگ ایران‑عراق",
+        "title_en": "America Nearly Made a Catastrophic Mistake With China | Command Post",
+        "summary": [
+            "هوش مصنوعی تقریباً منجر به حمله به کشتی چینی در هرمز شد",
+            "پنتاگون ممکن است تلفات نظامی را کمتر از واقعیت گزارش کند",
+            "قطعات F‑35 به‌اشتباه به هنگ‌کنگ رسیدند",
+            "ادعای ترامپ درباره ۶۵ میلیارد بشکه نفت ونتوزلا به‌دقت بررسی شد"
+        ],
+        "impact": "اطلاعات نادرست می‌تواند تصمیمات نظامی خطرناک و هزینه‌های مالی بالاتر ایجاد کند",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "The Bulwark",
+        "url": "https://www.thebulwark.com/p/america-nearly-made-a-catastrophic",
+        "clean_url": "https://www.thebulwark.com/p/america-nearly-made-a-catastrophic",
+        "image": "https://www.bing.com/th?id=ONUT.GB-eA7tYCVdPGHpm2C9jKg",
+        "timestamp": 1789844560.053681
+    },
+    {
         "id": "38b54d25eb",
         "title_fa": "جنگ‌های نفتی که خودروهای برقی بی‌دست‌بردارند",
         "title_en": "Here’s all the dumb oil wars that electric cars have nothing to do with",
@@ -2032,6 +2052,24 @@
         "clean_url": "https://www.msn.com/en-au/news/other/america-just-handed-trump-a-crushing-two-word-verdict-opinion/ar-AA2cwIWy",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789758795.041489
+    },
+    {
+        "id": "e1f7ac743b",
+        "title_fa": "ترامپ روزنامه‌نگاران را از کاخ سفید منع کرد",
+        "title_en": "New York Times",
+        "summary": [
+            "این تصمیم نشان‌دهنده تشدید جنگ اداری ترامپ با رسانه‌هاست",
+            "محدود کردن دسترسی خبرنگاران می‌تواند فشار بین‌المللی بر دولت آمریکا را افزایش دهد"
+        ],
+        "impact": "اعلام ممنوعیت دسترسی، تنش رسانه‌ای و کاهش پوشش خبری مستقیم از کاخ سفید",
+        "tag": "رسانه",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "nytimes.com",
+        "url": "https://www.nytimes.com/ca/",
+        "clean_url": "https://www.nytimes.com/ca",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789758156.0
     },
     {
         "id": "1e4cc78ea2",
@@ -5461,44 +5499,5 @@
         "clean_url": "https://www.foxcarolina.com/2026/09/18/pres-trump-signs-sweeping-russia-sanctions-bill-aiming-choke-off-funds-moscow-ukraine-war",
         "image": "https://www.bing.com/th?id=ONUT.9TpjP5ZY7fdv-36X3m27Vg",
         "timestamp": 1789688853.0
-    },
-    {
-        "id": "c963dc9d1a",
-        "title_fa": "ترامپ توافق دائمی امنیت گرینلند با دانمارک را اعلام کرد",
-        "title_en": "Trump announces bombshell deal to take ‘permanent control’ over Greenland’s security and ban ‘all adversaries forever’",
-        "summary": [
-            "ایالات متحده حق استفاده، استقرار و پرواز بر جزیره را به‌صورت دائمی دریافت کرد.",
-            "دشمنان مانند روسیه و چین از حضور نظامی در گرینلند منع می‌شوند.",
-            "توافق هزینه‌ای برای مالیات‌گذاران آمریکا ندارد."
-        ],
-        "impact": "دسترسی نظامی آمریکا به گرینلند گسترش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "The Sun",
-        "url": "https://www.thesun.co.uk/news/40426913/trump-us-take-permanent-control-greenland/",
-        "clean_url": "https://www.thesun.co.uk/news/40426913/trump-us-take-permanent-control-greenland",
-        "image": "https://www.bing.com/th?id=ONUT.REUDAA9sdLdTmhz6IuiUYg",
-        "timestamp": 1789688853.0
-    },
-    {
-        "id": "76070f0752",
-        "title_fa": "دموکرات‌ها هزینه جنگ ایران را به ترامپ ربط می‌دهند",
-        "title_en": "Democrats seize on Iran war costs to hit Trump ahead of midterms",
-        "summary": [
-            "نمایندگان دموکرات هزینه‌های بالای بنزین را به جنگ ایران نسبت می‌دهند",
-            "این استدلال سعی دارد فشار انتخاباتی بر ترامپ قبل از انتخابات میانی ایجاد کند",
-            "جنگ هفت ماهه باعث اختلال در حمل‌ونقل نفتی و افزایش قیمت انرژی شده است",
-            "انتقادهای سیاسی می‌تواند حمایت عمومی از دولت را تضعیف کند"
-        ],
-        "impact": "تقویت فشار سیاسی بر ترامپ و احتمال تغییر رفتارهای خارجی او",
-        "tag": "انتخابات",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609181464",
-        "clean_url": "https://www.iranintl.com/en/202609181464",
-        "image": "http://www.bing.com/th?id=ONUT.zWUFTMF0zishUJ8fPr_w8Q&pid=News",
-        "timestamp": 1789688340.0
     }
 ]
