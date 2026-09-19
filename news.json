@@ -1,5 +1,42 @@
 [
     {
+        "id": "bcae651e39",
+        "title_fa": "حمله حوثی‌ها به بنادر یمن، بحران انرژی جهانی",
+        "title_en": "ANDREW NEIL: We face a winter of global discontent – yet the West is being run by failures of truly historic proportions, for whom reality is another country",
+        "summary": [
+            "حوثی‌ها بنادر موخا، دهباب و جزیره پیرم را تصرف کردند",
+            "این کنترل مسیر بحر باب‌ال‌مندب را به خطر می‌اندازد و ترافیک نفت را مختل می‌کند",
+            "قیمت نفت و گاز در اثر این تحولات به سرعت بالا رفته و هزینه‌های زندگی را فشار می‌دهد"
+        ],
+        "impact": "اختلال در مسیر بحر باب‌ال‌مندب می‌تواند عرضه نفت را محدود کند و تورم انرژی را تشدید کند",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Daily Mail",
+        "url": "https://www.dailymail.com/debate/article-16142883/ANDREW-NEIL-winter-global-discontent-West-failures.html",
+        "clean_url": "https://www.dailymail.com/debate/article-16142883/ANDREW-NEIL-winter-global-discontent-West-failures.html",
+        "image": "https://www.bing.com/th?id=ONUT.dMfwi2-1NLkmr2fsTewhKA",
+        "timestamp": 1789777075.4547474
+    },
+    {
+        "id": "7c1384cc7d",
+        "title_fa": "آمار مرگ‌ومیرهای جنگ ایران توسط پنتاگون ناقص است",
+        "title_en": "Pentagon’s count leaves out some deaths in Middle East during Iran war",
+        "summary": [
+            "پنتاگون در گزارش خود برخی کشته‌ها را حذف کرده",
+            "این کمبود شفافیت می‌تواند به ارزیابی نادرست قدرت نظامی و تصمیم‌گیری‌های استراتژیک منجر شود"
+        ],
+        "impact": "عدم شفافیت در شمارش کشته‌ها می‌تواند برنامه‌ریزی نظامی و پاسخ بین‌المللی را گمراه کند",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTJRM3hvRTVmb0JjRE15UkhmX0dzYi1XMUZhOXl3OW1wZ1RqemR5cDgxZUJYVVFVbmtZNTl6LVBVM2tCek9vbVl4ZlZvOFR5YVpiNUZLeXJWVkNvT0VWUlNvbHRrWU0xYlEzeTdXblc5MXY4cmhkNnBqdzBRNlY0YUVVOHcxZU5iR0HSAY8BQVVfeXFMTXAzU084STNfR09lMVNxeklXWkNBRzk3YkR1TDhQLWNNa0ktcE5SR2Z0QURjU3ZVMVBDQjFvU01BSDRJV2dJNTZlWXlmWTRITXJoLVpoTk90YmdPQjRtdE5iTVphQ3FLWERaS3J3OEpYMGoyUWpDZlJEOEkwZVlQd3kxNFV4OVVpTEdMTmstSlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTJRM3hvRTVmb0JjRE15UkhmX0dzYi1XMUZhOXl3OW1wZ1RqemR5cDgxZUJYVVFVbmtZNTl6LVBVM2tCek9vbVl4ZlZvOFR5YVpiNUZLeXJWVkNvT0VWUlNvbHRrWU0xYlEzeTdXblc5MXY4cmhkNnBqdzBRNlY0YUVVOHcxZU5iR0HSAY8BQVVfeXFMTXAzU084STNfR09lMVNxeklXWkNBRzk3YkR1TDhQLWNNa0ktcE5SR2Z0QURjU3ZVMVBDQjFvU01BSDRJV2dJNTZlWXlmWTRITXJoLVpoTk90YmdPQjRtdE5iTVphQ3FLWERaS3J3OEpYMGoyUWpDZlJEOEkwZVlQd3kxNFV4OVVpTEdMTmstSlE",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789774260.0
+    },
+    {
         "id": "b3187a2e36",
         "title_fa": "قیمت نفت ۱۰٪ جهش کرد؛ پیش‌بینی ۱۰۰ دلار",
         "title_en": "Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say",
@@ -16,6 +53,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUYxWXU0ZTFwaWtCOWZCVzJyNHJoU0ZnMzBkZm5NU283TE45ZzM0bVpKUEpubExlM0hQeV9sZjZ0M3BabGFDaUI0d1c2QS1SN183cGlPaXo3cE5ld0NBRXotajY3UkhaTm51M3R3eXJNYnlObGFDYzhWaXc2N1Y2aWxFUC1HT1d2Ml9nNUZvYXExVzJJdzR1ekR5RG9mcThpVmw0NlQtX1c",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789772316.0
+    },
+    {
+        "id": "cc38fe7fbe",
+        "title_fa": "ترامپ قانون تحریم روسیه‑ایران را تصویب کرد",
+        "title_en": "Trump signs Russia-Iran sanctions bill into law",
+        "summary": [
+            "قانون جدید تحریم‌های هدفمند علیه روسیه و ایران را اعمال می‌کند",
+            "این اقدام فشار اقتصادی آمریکا را بر دو کشور افزایش می‌دهد و ریسک تنگناهای مالی را بالا می‌برد"
+        ],
+        "impact": "تحریم‌های جدید فشار مالی بر ایران و روسیه را افزاش می‌دهد و روابط تجاری بین‌المللی را تحت فشار می‌گذارد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TcUZ4YURienptbk1EUVpEQVVSZVlOU09GQnEzREtQU3Z4Y0p0aEVHUVl1ZjhfU0E5VXVzNHVDeGFjQUZhZlE3LWJ6Nl9BSkxOWEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TcUZ4YURienptbk1EUVpEQVVSZVlOU09GQnEzREtQU3Z4Y0p0aEVHUVl1ZjhfU0E5VXVzNHVDeGFjQUZhZlE3LWJ6Nl9BSkxOWEE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789771292.0
     },
     {
         "id": "844753c312",
@@ -5395,62 +5450,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/serbias-president-inaugurates-assembly-factory-for-drones-made-by-israels-elbit",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789646280.0
-    },
-    {
-        "id": "1c72374946",
-        "title_fa": "بیانیه‌های آمریکا، ایران، اسرائیل و پاکستان درباره آتش‌بس",
-        "title_en": "What the US, Iran, Israel and Pakistan Have Said About the Ceasefire",
-        "summary": [
-            "آمریکا خواستار آتش‌بس فوری و بازگشت به مذاکرات صلح است.",
-            "ایران تنها پس از توقف کامل حملات نظامی و تضمین عدم تکرار می‌پذیرد.",
-            "اسرائیل با تردید به اظهارات آمریکا واکنش نشان داد و خواستار ادامه فشار نظامی است.",
-            "پاکستان به عنوان میان‌گیر منطقه‌ای، درخواست توقف تمام عملیات نظامی و حفظ ثبات خاورمیانه را مطرح کرد."
-        ],
-        "impact": "بیانیه‌ها می‌توانند مسیر مذاکرات صلح را تغییر دهند یا به تعلیق مذاکرات منجر شوند.",
-        "tag": "آتش‌بس",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWNYNjNVZ09OclZpU2NSWTVqRjU1NFo1Sk54eEFaQlpvRlFqZXlxRWxERTN6Y1BCN2xYaWY1bGxmbmp4blpRd0xicGQxeDNmeUR4OVJVaG9nYTdzeHgxN3E0SlhYQkI5V0pZRmJXVlRaUlNGcmxoRzhUNjRlNkFaTVgzZ3lGSVJ5U0dQRFhqckhMeTd0MXAwU3k2aUppdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWNYNjNVZ09OclZpU2NSWTVqRjU1NFo1Sk54eEFaQlpvRlFqZXlxRWxERTN6Y1BCN2xYaWY1bGxmbmp4blpRd0xicGQxeDNmeUR4OVJVaG9nYTdzeHgxN3E0SlhYQkI5V0pZRmJXVlRaUlNGcmxoRzhUNjRlNkFaTVgzZ3lGSVJ5U0dQRFhqckhMeTd0MXAwU3k2aUppdw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789645895.0
-    },
-    {
-        "id": "25128e3c5e",
-        "title_fa": "خبر بین‌المللی — I’m a Nobel Prize-winning scientist. ترامپ’s too unstable به",
-        "title_en": "I’m a Nobel Prize-winning scientist. Trump’s too unstable to have nuclear codes",
-        "summary": [
-            "Dr Henry David Abraham believes the US President's mental state and a lack of safeguards around nuclear weapons are a..."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "inews.co.uk on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/i-m-a-nobel-prize-winning-scientist-trump-s-too-unstable-to-have-nuclear-codes/ar-AA2cqLDI?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/i-m-a-nobel-prize-winning-scientist-trump-s-too-unstable-to-have-nuclear-codes/ar-AA2cqLDI",
-        "image": "https://www.bing.com/th?id=ONUT.Y5_qa9LcRe8ayR5ei4IFiQ",
-        "timestamp": 1789645806.618149
-    },
-    {
-        "id": "5e527b2636",
-        "title_fa": "قیمت رکوردی دیزل در آمریکا به‌دلیل جنگ ایران",
-        "title_en": "Iran war pushes diesel – the economy’s lifeblood – to record high prices, with no relief on the horizon",
-        "summary": [
-            "دیزل به‌عنوان سوخت حمل‌ونقل، کشاورزی و ساخت‌وساز، هزینه‌های کل اقتصاد آمریکا را فشار می‌دهد.",
-            "جنگ آمریکا علیه ایران باعث بسته شدن تنگه هرمز و کاهش عرضه نفت خام، که به افزایش قیمت دیزل منجر شده است.",
-            "قوانین زیست‌محیطی و جنگ روسیه‑اوکراین نیز فشارهای ترکیبی را افزوده‌اند، اما بحران جاری می‌تواند به بالاتر رفتن قیمت‌ها منجر شود.",
-            "بدون رفع تحریم‌ها یا بازگشت مسیرهای حمل‌ونقل، پیش‌بینی می‌شود قیمت دیزل به‌سرعت کاهش نیابد."
-        ],
-        "impact": "هزینه حمل‌ونقل و قیمت کالاها در آمریکا به‌طور چشمگیری بالا می‌رود.",
-        "tag": "دیزل",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Conversation",
-        "url": "https://theconversation.com/iran-war-pushes-diesel-the-economys-lifeblood-to-record-high-prices-with-no-relief-on-the-horizon-292049",
-        "clean_url": "https://theconversation.com/iran-war-pushes-diesel-the-economys-lifeblood-to-record-high-prices-with-no-relief-on-the-horizon-292049",
-        "image": "http://www.bing.com/th?id=ONUT.Eq1WmDuys5YR6r8q80MKRw&pid=News",
-        "timestamp": 1789645500.0
     }
 ]
