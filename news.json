@@ -20,6 +20,26 @@
         "timestamp": 1789789710.1409562
     },
     {
+        "id": "d9471b7b82",
+        "title_fa": "جنگ ایران امنیت و تأمین نفت خاورمیانه را تحت فشار",
+        "title_en": "Middle East tensions persist as Iran war strains regional security and oil supplies",
+        "summary": [
+            "درگیری‌های نظامی اطراف ایران خطر تشدید تنش‌های امنیتی منطقه‌ای را افزایش می‌دهد.",
+            "مسیرهای حمل‌ونقل نفت خلیج فارس با تهدیدهای هوایی و زمینی مواجه شده و عرضه جهانی تحت فشار قرار می‌گیرد.",
+            "قیمت نفت به دلیل نگرانی از قطع‌وتوصیه‌های احتمالی به سطوح بالایی می‌رسد.",
+            "دولت‌های غربی احتمالاً تحریم‌های هدفمند بیشتری علیه نهادهای نظامی و انرژی ایران اعمال می‌کنند."
+        ],
+        "impact": "کاهش عرضه نفت خاورمیانه، نوسان شدید قیمت جهانی و فشار بر زنجیره تأمین انرژی.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "news.cgtn.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX012WWpjZW9wazNGYkw2NnVBVXppRF9yMGY2ZVFGbXRmb1pOZ09HMFo3V1hpQWs4eklBZXhibnpuY1lMbFVMM01lUVo2TXNGRlVvNXhjdGo4RjlFR1d5OElyUFM1RU1VZEp0VHJRUTB2VzZzbldtT0F6ck10RHhwVjh1cVhiT0o1NjdfMGUxOG9VMnVQR2JIUDc1NlJYbmlWdFA3S1liNHZMeEZCSHdzUE5ZWmFTZWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX012WWpjZW9wazNGYkw2NnVBVXppRF9yMGY2ZVFGbXRmb1pOZ09HMFo3V1hpQWs4eklBZXhibnpuY1lMbFVMM01lUVo2TXNGRlVvNXhjdGo4RjlFR1d5OElyUFM1RU1VZEp0VHJRUTB2VzZzbldtT0F6ck10RHhwVjh1cVhiT0o1NjdfMGUxOG9VMnVQR2JIUDc1NlJYbmlWdFA3S1liNHZMeEZCSHdzUE5ZWmFTZWs",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789788994.0
+    },
+    {
         "id": "6c44d073e9",
         "title_fa": "به‌روزرسانی وضعیت نظامی ایران – ۱۸ سپتامبر ۲۰۲۶",
         "title_en": "Iran Update, September 18, 2026",
@@ -5432,24 +5452,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-fall-saudi-arabia-153112109.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/c9968fa130e18fb93709344bbbb38e79.jpg",
         "timestamp": 1789657958.0
-    },
-    {
-        "id": "73cc29fba3",
-        "title_fa": "تحریم آمریکا به روسیه، هند در تنگنا",
-        "title_en": "New US sanctions bill on Russia puts India's Modi in a bind",
-        "summary": [
-            "قانون جدید تحریم‌های آمریکا، صادرات نفت روسیه به هند را هدف قرار می‌دهد.",
-            "هند به‌عنوان سومین واردکننده نفت جهان، مجبور به یافتن منابع جایگزین می‌شود.",
-            "پیشنهادهای دیپلماتیک واشنگتن برای فشار بیشتر بر روسیه، روابط تجاری هند‑آمریکا را تحت فشار می‌گذارد."
-        ],
-        "impact": "قیمت نفت خاورمیانه بالا می‌رود و تراز تجاری هند تحت فشار می‌شود",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/energy/new-us-sanctions-bill-russia-puts-indias-modi-bind-2026-09-18/",
-        "clean_url": "https://www.reuters.com/business/energy/new-us-sanctions-bill-russia-puts-indias-modi-bind-2026-09-18",
-        "image": "https://www.bing.com/th?id=ONUT.7eFmelaO1ivr6oqPvbHaLw",
-        "timestamp": 1789657956.0
     }
 ]
