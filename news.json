@@ -379,6 +379,25 @@
         "timestamp": 1789762394.2197914
     },
     {
+        "id": "c8879b7532",
+        "title_fa": "قیمت نفت به‌دلیل امید به بازگشت صادرات خاورمیانه کاهش یافت",
+        "title_en": "Crude Prices Retreat on Hopes Middle East Energy Exports to Recover",
+        "summary": [
+            "قیمت نفت خام روز جمعه ۱٫۶۱ درصد کاهش یافت؛ بازارها به‌دنبال صلح در خاورمیانه و بازگشت جریان‌های نفتی هستند.",
+            "چین به‌صورت محرمانه از ایران درخواست کرد تا در مهار حوثی‌های یمن کمک کند؛ این اقدام می‌تواند فشار نظامی را کاهش دهد.",
+            "کاهش قیمت گازوئیل ربع‌سالیانه ۰٫۵۸ درصد نشان می‌دهد که بازار انرژی به‌سرعت به‌دست‌آوردهای دیپلماتیک واکنش می‌دهد."
+        ],
+        "impact": "کاهش قیمت نفت، فشار بر سود شرکت‌های نفتی و کاهش درآمدهای صادراتی را به‌وجود می‌آورد.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Barchart · via Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/crude-prices-retreat-hopes-middle-191455317.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-retreat-hopes-middle-191455317.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/09451fa03336c1633f2a4f36d6866025.jpg",
+        "timestamp": 1789760109.0
+    },
+    {
         "id": "6ccb31bdd5",
         "title_fa": "سفر نمایندگان ویژه ترامپ به کی‌یف و برنامهٔ ملاقات زلنسکی",
         "title_en": "Oleksandr Khara, Executive Director of the Center for Defense Studies",
@@ -5424,22 +5443,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/financial-services-roundup-market-talk/ar-AA2cuMmC",
         "image": "https://www.bing.com/th?id=ONUT.0w1BGYmPnOuAtLRZPWLJeg",
         "timestamp": 1789649596.0
-    },
-    {
-        "id": "f9bc805dc5",
-        "title_fa": "خبر بین‌المللی — BRICS و BJP’s ceiling در India’s ambition: case برای a gra",
-        "title_en": "BRICS and the BJP’s ceiling on India’s ambition: The case for a grand strategy",
-        "summary": [
-            "The BJP government doesn’t have a macro-normative vision for India."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Wire on MSN",
-        "url": "https://www.msn.com/en-in/money/general/brics-and-the-bjp-s-ceiling-on-india-s-ambition-the-case-for-a-grand-strategy/ar-AA2cqYTl?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/general/brics-and-the-bjp-s-ceiling-on-india-s-ambition-the-case-for-a-grand-strategy/ar-AA2cqYTl",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789649062.2422957
     }
 ]
