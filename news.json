@@ -1,5 +1,24 @@
 [
     {
+        "id": "606ef7ec26",
+        "title_fa": "اقتصاد جهانی فضای مانع‌پذیری می‌یابد",
+        "title_en": "Global economy is running out of wiggle room",
+        "summary": [
+            "حملات آمریکا و اسرائیل به ایران در فوریه باعث شوک انرژی و افزایش شدید قیمت نفت شد.",
+            "افزایش قیمت انرژی به سرعت نقدینگی جهانی را خنک کرده و حاشیه مانع‌پذیری اقتصادهای نوظهور را کاهش می‌دهد.",
+            "کشورهایی مثل سریلانکا که پیش از این با بحران‌های مالی دست و پنجه نرم می‌کردند، تحت فشار شدیدتر تورم و بدهی‌های خارجی قرار می‌گیرند."
+        ],
+        "impact": "قیمت نفت بالا می‌رود، فشار بر ارزهای در حال توسعه می‌چسبد و خطر رکود جهانی افزایش می‌یابد",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Daily News on MSN",
+        "url": "https://www.msn.com/en-xl/asia/srilanka/global-economy-is-running-out-of-wiggle-room/ar-AA2cznuJ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/asia/srilanka/global-economy-is-running-out-of-wiggle-room/ar-AA2cznuJ",
+        "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789851784.5687058
+    },
+    {
         "id": "f3df0e0e42",
         "title_fa": "مردی به دلیل حمله مستی پس از تصادف صبح زود در غرب لوبوک دستگیر شد",
         "title_en": "Man arrested for intoxication assault after early-morning crash in west Lubbock",
@@ -5461,25 +5480,5 @@
         "clean_url": "https://www.msn.com/en-in/money/general/nuclear-rules-for-thee-oil-penalties-for-me-us-targets-indian-oil-imports-while-granting-itself-russian-uranium-exemptions/ar-AA2ctsf0",
         "image": "https://www.bing.com/th?id=ONUT.7gHgKldcYMKXLFt85ydpDg",
         "timestamp": 1789701196.4444048
-    },
-    {
-        "id": "b4bbab4f4a",
-        "title_fa": "ترامپ اولین دیدار با دلسی رودریگز در سازمان ملل",
-        "title_en": "Trump to meet Venezuelan leader Delcy Rodríguez for first time at UN meeting next week",
-        "summary": [
-            "دیدار نشان می‌دهد واشنگتن می‌خواهد فشار بر ونزوئلا را کم کند",
-            "ممکن است مذاکرات انرژی و رفع تحریم‌ها در راه باشد",
-            "تحولات این دیدار می‌تواند روابط منطقه‌ای را تحت فشار بگذارد",
-            "نتیجه‌گیری نهایی هنوز نامشخص است"
-        ],
-        "impact": "احتمال کاهش تحریم‌های ونزوئلا و تغییر دینامیک انرژی خاورمیانه",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Los Angeles Times on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-to-meet-venezuelan-leader-delcy-rodríguez-for-first-time-at-un-meeting-next-week/ar-AA2cxktp?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-to-meet-venezuelan-leader-delcy-rodríguez-for-first-time-at-un-meeting-next-week/ar-AA2cxktp",
-        "image": "https://www.bing.com/th?id=ONUT.fuDUcmImAzuF29cn9a82Zw",
-        "timestamp": 1789701165.0
     }
 ]
