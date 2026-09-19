@@ -18,6 +18,24 @@
         "timestamp": 1789806940.5203443
     },
     {
+        "id": "74273c678e",
+        "title_fa": "ایران حمله به تانکر، تلفات آمریکایی",
+        "title_en": "Iran claims strike on tanker; US reports casualties",
+        "summary": [
+            "ایران ادعا کرد تانکری را در خلیج فارس مورد هدف قرار داد؛ ایالات متحده تلفات در میان خدمه را گزارش داد.",
+            "این حادثه نشانگر تشدید تنش‌های دریایی و احتمال واکنش نظامی یا تحریم‌های جدید علیه تهران است."
+        ],
+        "impact": "ناوبری کشتی‌ها در خلیج فارس با خطر بیشتری مواجه می‌شود و فشار بین‌المللی بر ایران افزایش می‌یابد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Arkansas Democrat-Gazette",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGlBM3NWLV8yNHJIM3dMNGdJaXgyRHV4TU11cFB2RmUtTzFIRTg0U3hnS2hIMkFGOVUxdTBtNmw4QUhvNzBiMmplX0FSN3ZpWnp2RUxYSEdvc3gtV0ZQNnczM3ZMV3A2Unp6WDRCZFdueUdLNU05NHd3Tk0wNkRqSHRQNWxqMTNMT2M4djNtb2lydE1tWXNuZGV1SW1pOFpN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGlBM3NWLV8yNHJIM3dMNGdJaXgyRHV4TU11cFB2RmUtTzFIRTg0U3hnS2hIMkFGOVUxdTBtNmw4QUhvNzBiMmplX0FSN3ZpWnp2RUxYSEdvc3gtV0ZQNnczM3ZMV3A2Unp6WDRCZFdueUdLNU05NHd3Tk0wNkRqSHRQNWxqMTNMT2M4djNtb2lydE1tWXNuZGV1SW1pOFpN",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789806840.0
+    },
+    {
         "id": "b3f0066589",
         "title_fa": "اعدام مردی به‌اتهام افشای اطلاعات موشکی به اسرائیل",
         "title_en": "Iran Executes Man Accused Of Sharing Missile-site Intelligence With Israel",
@@ -5439,24 +5457,5 @@
         "clean_url": "https://theintercept.com/2026/09/17/hegseth-christianity-jesus-iran-war",
         "image": "https://www.bing.com/th?id=ONUT.h7TDwrsNTouOW81XuqAQew",
         "timestamp": 1789661719.4271271
-    },
-    {
-        "id": "bd283729bc",
-        "title_fa": "مایک جانسون ادعای ترامپ درباره هرمز را رد کرد",
-        "title_en": "Mike Johnson accidentally wrecks Trump’s claim about Strait of Hormuz",
-        "summary": [
-            "مایک جانسون در یک تجمع سیاسی، ادعای ترامپ مبنی بر بازگشایی مجدد تنگه هرمز را رد کرد",
-            "این رد نشان می‌دهد که رهبری جمهوری‌خواه هنوز از ادعای ترامپ حمایت نمی‌کند",
-            "تنگه هرمز همچنان تحت کنترل نیروی دریایی آمریکا است و هیچ تغییر عملی در وضعیت وجود ندارد"
-        ],
-        "impact": "رد ادعای ترامپ، تصویر نادرست او درباره هرمز را در میان حامیان تضعیف می‌کند",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "The New Republic on MSN",
-        "url": "https://www.msn.com/en-us/news/other/mike-johnson-accidentally-wrecks-trump-s-claim-about-strait-of-hormuz/ar-AA2crrAa?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/mike-johnson-accidentally-wrecks-trump-s-claim-about-strait-of-hormuz/ar-AA2crrAa",
-        "image": "https://www.bing.com/th?id=ONUT._eJ-MKxlBZv93qr2OLNX4Q",
-        "timestamp": 1789661024.1464033
     }
 ]
