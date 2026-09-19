@@ -1,5 +1,25 @@
 [
     {
+        "id": "1ae809f5a1",
+        "title_fa": "ترامپ: ایران را رها می‌کنیم، خودشان می‌جنگند",
+        "title_en": "Trump’s foreign policy recklessness is coming home to roost",
+        "summary": [
+            "ترامپ بارها اعلام کرد آمریکا نیازی به حمایت از دیگران ندارد و ایران را به تنهایی در تنگه هرمز رها می‌کند.",
+            "این بی‌توجهی به مسئولیت‌های بین‌المللی می‌تواند فشار بر کشتی‌های نفتی و ناوبری در هرمز را افزایش دهد.",
+            "در نشست عمومی سازمان ملل، ترامپ قصد دارد مذاکرات پشت‌پرده‌ای درباره «جنگ انتخابی» با ایران برگزار کند.",
+            "بیان‌های او نشان‌دهنده ریسک بالای تضعیف دیپلماسی منطقه‌ای و تشدید تنش‌های نظامی است."
+        ],
+        "impact": "افزایش خطر اختلال در حمل‌ونقل نفتی هرمز و تشدید تنش‌های نظامی منطقه.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ms",
+        "url": "https://www.ms.now/opinion/trump-foreign-policy-blowback",
+        "clean_url": "https://www.ms.now/opinion/trump-foreign-policy-blowback",
+        "image": "https://www.bing.com/th?id=ONUT.QXAimRDMoxHDrHvctqeywA",
+        "timestamp": 1789813300.2686906
+    },
+    {
         "id": "bd7c2f91e1",
         "title_fa": "کاهش دارو در ایران؛ جنگ ادامه دارد",
         "title_en": "‘Ordinary people pay price’: Iran medicine shortages deepen as war continues",
@@ -5460,22 +5480,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53ZllFLUg4SGlpZjFvZU5DYXZyQ3M1OUl0a0RnNzJDS2VIV1V3cV80QW1XTHBydFpISTE1eUdnQk5LRUF0Rnc4Uno0SjR1ZFl0QVo0eUt2MA",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789664160.0
-    },
-    {
-        "id": "62cd2e8cfd",
-        "title_fa": "پلیس کرانستون می‌گوید تهدید بمب گذاری به ساختمان در خیابان الموود بی اساس بوده است",
-        "title_en": "Cranston police say bomb threat made to building on Elmwood Avenue was unfounded",
-        "summary": [
-            "The Cranston Police Department is investigating a bomb threat made to a building on Elmwood Avenue."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "WJAR on MSN",
-        "url": "https://www.msn.com/en-us/news/news/cranston-police-say-bomb-threat-made-to-building-on-elmwood-avenue-was-unfounded/ar-AA2cw65n?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/news/cranston-police-say-bomb-threat-made-to-building-on-elmwood-avenue-was-unfounded/ar-AA2cw65n",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789663684.0
     }
 ]
