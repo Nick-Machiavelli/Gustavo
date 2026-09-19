@@ -115,6 +115,26 @@
         "timestamp": 1789800684.0277903
     },
     {
+        "id": "942931ff6c",
+        "title_fa": "کره‌جنوبی از اعزام نیرو به ایران رد کرد",
+        "title_en": "South Korean Leader Says He Will Not Send Troops to Iran, Despite Trump’s Call",
+        "summary": [
+            "ترامپ خواست حضور نظامی کره‌جنوبی در ایران را مطرح کرد",
+            "رهبر کره‌جنوبی این درخواست را قطعی رد کرد",
+            "رد درخواست نشان می‌دهد محدودیت‌های ژئوپلیتیک ساکن‌های شرق آسیا",
+            "آمریکا احتمالاً فشار دیپلماتیک بیشتری بر هم‌پیمانان خود اعمال می‌کند"
+        ],
+        "impact": "عدم ارسال نیرو مانع تشدید مستقیم درگیری می‌شود اما فشار سیاسی آمریکا بر هم‌پیمانانش را تقویت می‌کند",
+        "tag": "سیاست خارجی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3Nzd1dtRmJZSnYxQUdkU0FlcUpkZG9Oc0dKMFJVLXhsV05obWZmTFBIT0J2WlRKWUhVTXNCa3dfUzNhb2VXNHgwbW5vcVAxeFd0VmNCbEtwWkQ3aUNfcTVsbWhkSUN6cWxKanFGSk1LbHdRLURQbGg3VWtIbnVHclA5cWsxZy1TVm5ETXR3LVdqbXFUaHJkQ29mMWlGdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3Nzd1dtRmJZSnYxQUdkU0FlcUpkZG9Oc0dKMFJVLXhsV05obWZmTFBIT0J2WlRKWUhVTXNCa3dfUzNhb2VXNHgwbW5vcVAxeFd0VmNCbEtwWkQ3aUNfcTVsbWhkSUN6cWxKanFGSk1LbHdRLURQbGg3VWtIbnVHclA5cWsxZy1TVm5ETXR3LVdqbXFUaHJkQ29mMWlGdw",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789800480.0
+    },
+    {
         "id": "0760577721",
         "title_fa": "ایران executes man it accused spying برای اسرائیل در موشک sites",
         "title_en": "Iran executes man it accused of spying for Israel on missile sites",
@@ -5439,22 +5459,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/china-russia-veto-renewal-of-un-iran-sanctions-panel/ar-AA2crpHo",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cruBo.img?w=900&h=510&m=4&q=84",
         "timestamp": 1789660283.0
-    },
-    {
-        "id": "8c7b8794d7",
-        "title_fa": "ایالات متحده ویزا برای هیئت ایران در سازمان ملل را تایید کرد",
-        "title_en": "U.S. Approves Visas for Iran’s U.N. Delegation",
-        "summary": [
-            "The officials will be subject to restrictions while in New York for next week’s U.N. General Assembly, according to the U.S. State Department."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/18/world/americas/iran-visas-us-general-assembly.html",
-        "clean_url": "https://www.nytimes.com/2026/09/18/world/americas/iran-visas-us-general-assembly.html",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789660174.0
     }
 ]
