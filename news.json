@@ -723,6 +723,24 @@
         "timestamp": 1789765740.0
     },
     {
+        "id": "f5b19e6662",
+        "title_fa": "زن اعدام‌دار اصفهان درمان نمی‌شود",
+        "title_en": "Death-row Iran protester denied hospital treatment, family says",
+        "summary": [
+            "خانواده می‌گوید زندانی ۲۰ ساله به دلیل آسیب پایش نیاز به MRI فوری دارد اما زندان اجازه خروج نمی‌دهد",
+            "ردیابی این پرونده می‌تواند فشار بین‌المللی بر ایران را در زمینه حقوق بشر تشدید کند"
+        ],
+        "impact": "افزایش فشار دیپلماتیک و نارضایتی داخلی نسبت به رفتار با زندانیان سیاسی",
+        "tag": "حقوق بشر",
+        "urgency": 5,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609182242",
+        "clean_url": "https://www.iranintl.com/en/202609182242",
+        "image": "http://www.bing.com/th?id=ONUT.kzdxs_Jz9GmGABy2qM98vw&pid=News",
+        "timestamp": 1789764000.0
+    },
+    {
         "id": "6194208963",
         "title_fa": "تصور اشتباه از جنگ ایران",
         "title_en": "Opinion | You Probably Have the Iran War Backward",
@@ -5459,22 +5477,5 @@
         "clean_url": "https://www.msn.com/en-us/news/news/cranston-police-say-bomb-threat-made-to-building-on-elmwood-avenue-was-unfounded/ar-AA2cw65n",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789663684.0
-    },
-    {
-        "id": "fa1f80e4db",
-        "title_fa": "رای گیری زودهنگام در انتخابات میان دوره ای آمریکا آغاز می‌شود که می‌تواند کنترل کنگره را تغییر دهد",
-        "title_en": "Early voting begins in US midterm elections that could flip control of Congress",
-        "summary": [
-            "In-person voting for this year’s midterm elections began Friday, ushering in the final six weeks for Americans to decide which party they trust to lead Congress through a cost-of-living crisis, a..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ABC Columbia",
-        "url": "https://www.abccolumbia.com/2026/09/18/early-voting-begins-in-us-midterm-elections-that-could-flip-control-of-congress/",
-        "clean_url": "https://www.abccolumbia.com/2026/09/18/early-voting-begins-in-us-midterm-elections-that-could-flip-control-of-congress",
-        "image": "https://www.abccolumbia.com/content/uploads/2026/09/r/v/ap26261486136475-scaled.jpg",
-        "timestamp": 1789663683.0
     }
 ]
