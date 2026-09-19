@@ -1,5 +1,24 @@
 [
     {
+        "id": "6b2e5b8b4d",
+        "title_fa": "هاکابی پیش‌بینی شورش‌های مردمی بیشتر در ایران",
+        "title_en": "Mike Huckabee believes more civilian uprisings are coming for Iran",
+        "summary": [
+            "مایک هاکابی، سیاست‌مدار آمریکایی، پیش‌بینی کرد که شورش‌های غیرنظامی در ایران نزدیک است",
+            "این اظهارات بدون پشتوانه رسمی و صرفاً نظرات شخصی است",
+            "ممکن است به تحریک مخالفان داخلی ایران کمک کند"
+        ],
+        "impact": "تقویت روحیه مخالفان داخلی، اما تأثیر محدود بر سیاست‌های بین‌المللی",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tS3pxd3N6MEFQa09Jb3JpRHZrX2czS1VGcWM3SmtXNXhwaTJuY3RZd241ME5SdHEycnNGS1RBU0V3MUhlVG5vX3UyVDNyc3hOdTN0RmdzcV9oenRJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tS3pxd3N6MEFQa09Jb3JpRHZrX2czS1VGcWM3SmtXNXhwaTJuY3RZd241ME5SdHEycnNGS1RBU0V3MUhlVG5vX3UyVDNyc3hOdTN0RmdzcV9oenRJ",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789822518.0
+    },
+    {
         "id": "a5da682322",
         "title_fa": "دلیل‌های بالارفتن نرخ بهره",
         "title_en": "10 Ways to Explain Why Interest Rates Are So High",
@@ -478,6 +497,26 @@
         "clean_url": "https://inews.co.uk/opinion/america-trump-nightmare-lesson-stop-farage-4772447",
         "image": "https://inews.co.uk/wp-content/uploads/2026/09/SEI_312981903.jpg?crop=0px,77px,1920px,1085px&resize=1200,675",
         "timestamp": 1789801408.1875744
+    },
+    {
+        "id": "f4417d0b93",
+        "title_fa": "هشدار هوایی ساعتی در عربستان پس از تهدید هوایی",
+        "title_en": "Saudi Arabia issues air raid alerts across the country, and other Mideast...",
+        "summary": [
+            "عربستان هشدارهای اضطراری برای تهدید هوایی صادر کرد",
+            "انفجار شنیده شد اما هیچ خسارتی گزارش نشد",
+            "این اولین هشدار در ریاض پس از تشدید درگیری با حوثی‌های یمن است",
+            "مقامات هنوز دلیل دقیق را فاش نکرده‌اند"
+        ],
+        "impact": "افزایش اضطراب هوایی در خلیج و احتمال محدودیت پروازی و هزینه‌های دفاعی",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Associated Press · via Yahoo News",
+        "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
+        "image": "https://media.zenfs.com/en/ap.org/a8caef09711648e212883dba0776b854.jpg",
+        "timestamp": 1789801360.0
     },
     {
         "id": "c0be797fc7",
@@ -2128,6 +2167,26 @@
         "clean_url": "https://seekingalpha.com/article/4947728-consumer-back-i-taking-tactical-position-staples",
         "image": "https://www.bing.com/th?id=ONUT.JU7rlz-3q2bVUeBZlCezsQ",
         "timestamp": 1789736601.384643
+    },
+    {
+        "id": "a1933cfc9b",
+        "title_fa": "گزارش هوش مصنوعی شبه‌واقعی نزدیک به جنگ با چین",
+        "title_en": "Oops! Misleading AI-Generated Report 'Almost Started a War' With China",
+        "summary": [
+            "یک مدل هوش مصنوعی اطلاعات غلط درباره حمله به کشتی چینی تولید کرد",
+            "ارتش آمریکا برنامه توقیف کشتی را بر پایه این گزارش نادرست آغاز کرد",
+            "قبل از اجرا خطا شناسایی شد و عملیات لغو شد",
+            "حادثه خطرات جدی هوش مصنوعی در تصمیم‌گیری نظامی را نشان می‌دهد"
+        ],
+        "impact": "افزایش نگرانی درباره استفاده هوش مصنوعی در عملیات نظامی و فشار برای نظارت سخت‌تر",
+        "tag": "فناوری",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "PCMag",
+        "url": "https://www.pcmag.com/news/oops-misleading-ai-generated-report-almost-started-a-war-with-china",
+        "clean_url": "https://www.pcmag.com/news/oops-misleading-ai-generated-report-almost-started-a-war-with-china",
+        "image": "https://www.bing.com/th?id=ONUT.sJSTeiIiNL27yDhEqNHV9A",
+        "timestamp": 1789736560.0
     },
     {
         "id": "1c985bfd6d",
@@ -5428,59 +5487,5 @@
         "clean_url": "https://www.middleeastmonitor.com/20260917-the-mecca-pact-must-meet-the-test-of-war",
         "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/08/AA-20260807-42161786-42161781-TURKIYE_SAUDI_ARABIA_AND_PAKISTAN_SIGN_TRILATERAL_DEFENSE_PACT-1-1.jpg?fit=920%2C613&ssl=1",
         "timestamp": 1789672930.7755415
-    },
-    {
-        "id": "2279e256c9",
-        "title_fa": "ایالات متحده تحریم‌های اریتره را در بحبوحه تمرکز استراتژیک دریای سرخ لغو می‌کند",
-        "title_en": "US lifts sanctions on Eritrea amid Red Sea strategic focus",
-        "summary": [
-            "The US Treasury lifted sanctions on Eritrea's ruling party, military, and Red Sea Trading Corporation as Washington..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-lifts-sanctions-eritrea-red-sea/",
-        "clean_url": "https://cryptobriefing.com/us-lifts-sanctions-eritrea-red-sea",
-        "image": "https://www.bing.com/th?id=ONUT.LniflMU7IFBsRQqaqldnsw",
-        "timestamp": 1789672871.0
-    },
-    {
-        "id": "d6da0ff020",
-        "title_fa": "حوثی‌ها از شبه‌نظامی به تهدید منطقه‌ای",
-        "title_en": "Explainer-How Yemen's Houthis went from a small mountain militia to a big regional threat",
-        "summary": [
-            "حوزه بحر باب‌ال‌مندب تحت کنترل حوثی‌ها قرار گرفته.",
-            "این گروه توانمندی نظامی خود را به‌سرعت گسترش داده است.",
-            "نفوذ حوثی‌ها خطر حملات به کشتی‌های تجاری را افزایش می‌دهد."
-        ],
-        "impact": "گسترش نفوذ حوثی‌ها می‌تواند اختلال در مسیرهای تجاری بین‌المللی را تشدید کند.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Belleville News-Democrat",
-        "url": "https://www.bnd.com/news/nation-world/world/article317277006.html",
-        "clean_url": "https://www.bnd.com/news/nation-world/world/article317277006.html",
-        "image": "https://www.mcclatchy-wires.com/public/incoming/s75a1z/picture317276913/alternates/LANDSCAPE_1200/f32804b6-9710-4475-bfc3-8897fa29c0b0",
-        "timestamp": 1789672680.0
-    },
-    {
-        "id": "ff5d14226d",
-        "title_fa": "دستگاه‌های دستی در خانه‌ای در هملوک کشف شد",
-        "title_en": "Live hand grenades found in Hemlock home",
-        "summary": [
-            "پلیس دو دستبند انفجاری احتمالی را در منزل یافت",
-            "تحقیقات نشان می‌دهد ممکن است به مواد مخدر یا گروه‌های افراطی مرتبط باشد"
-        ],
-        "impact": "احتمال تهدید امنیت محلی و نیاز به بررسی‌های بیشتر",
-        "tag": "امنیت",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "WNEM on MSN",
-        "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/live-hand-grenades-found-in-hemlock-home/ar-AA2cwwE2?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/live-hand-grenades-found-in-hemlock-home/ar-AA2cwwE2",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789672390.0
     }
 ]
