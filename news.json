@@ -2106,6 +2106,26 @@
         "timestamp": 1789749327.6302562
     },
     {
+        "id": "0056f7c25d",
+        "title_fa": "ترامپ خبرنگار MS NOW را از کاخ سفید مسدود کرد",
+        "title_en": "MS NOW Reporter Reveals Dramatic Moment She Was Barred by Trump",
+        "summary": [
+            "ترامپ دوباره به رسانه‌ها فشار آورد و آزادی مطبوعات را زیر سؤال برد",
+            "رد دسترسی خبرنگار به کاخ سفید می‌تواند روابط دولت‑رسانه را خراب کند",
+            "این اقدام پس از اعلام ممنوعیت سه سازمان خبری صورت گرفت؛ سرکوب خبری تشدید شد",
+            "حضور چنین صحنه‌ای می‌تواند واکنش داخلی و بین‌المللی را به‌سختی افزایش دهد"
+        ],
+        "impact": "دسترسی محدود به اطلاعات رسمی، تضعیف شفافیت دولتی و تشدید تنش‌های سیاسی",
+        "tag": "آزادی_مطبوعات",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/ms-now-reporter-reveals-dramatic-moment-she-was-barred-by-trump/",
+        "clean_url": "https://www.thedailybeast.com/ms-now-reporter-reveals-dramatic-moment-she-was-barred-by-trump",
+        "image": "https://www.thedailybeast.com/resizer/v2/DFAJDO7MBBEZTPDNUUK6CB4W5A.png?smart=true&auth=46a18b5f216026bd2b795d08831c33bf7ccec5416c64b8e4f691d888a92b4873&width=1200&height=630",
+        "timestamp": 1789748539.0
+    },
+    {
         "id": "be08c4a8d4",
         "title_fa": "افزایش نرخ بهره فدرال و بحران بازار خزانه‌داری",
         "title_en": "Fed rate hikes, US Treasury market & crisis of empire",
@@ -5476,22 +5496,5 @@
         "clean_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789682586.0
-    },
-    {
-        "id": "97c72b02f7",
-        "title_fa": "خبر بین‌المللی — Live Updates: Latest from اسرائیل, ایران, و Middle East",
-        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
-        "summary": [
-            "Live Updates: Latest from Israel, Iran, and the Middle East jpost.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "jpost.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tREVoUHcwbUx3MVRfbkpXcEtQX3NJR2hEbWVkS0VGanZEYkVsNklvVVVyZmtqbC1IbkdlWml2ZExKTG05bS1yQjd3YURPaWtIdktGb1JoMGM1QzExM2liWk9rZTAxejFtWjJfMVpqeHhtYWU5R29SRGNZZm9jcW8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tREVoUHcwbUx3MVRfbkpXcEtQX3NJR2hEbWVkS0VGanZEYkVsNklvVVVyZmtqbC1IbkdlWml2ZExKTG05bS1yQjd3YURPaWtIdktGb1JoMGM1QzExM2liWk9rZTAxejFtWjJfMVpqeHhtYWU5R29SRGNZZm9jcW8",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789682405.0
     }
 ]
