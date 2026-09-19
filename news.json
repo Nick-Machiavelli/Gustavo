@@ -432,6 +432,24 @@
         "timestamp": 1789777003.0
     },
     {
+        "id": "9745ea46a3",
+        "title_fa": "هشدار سعودی برای خطر احتمالی در ریاض",
+        "title_en": "Saudi Arabia issues alert for potential danger in capital Riyadh, amid Houthi attacks",
+        "summary": [
+            "حمله‌های اخیر حوثی‌ها فشار امنیتی بر عربستان را بالا برده و نیروی دفاع مدنی را مجبور به صدور هشدار کرده است",
+            "این هشدار نشان می‌دهد که درگیری یمن می‌تواند به شهرهای کلیدی خلیج نفوذ کند و ریسک اختلال در زیرساخت‌های حیاتی را افزایش دهد"
+        ],
+        "impact": "ممکن است ترافیک هوایی و حمل‌ونقل در ریاض مختل شود",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-issues-alert-for-potential-danger-in-capital-riyadh-amid-houthi-attacks/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-issues-alert-for-potential-danger-in-capital-riyadh-amid-houthi-attacks",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789776540.0
+    },
+    {
         "id": "df9df51a8a",
         "title_fa": "هزینه جنگ ایران برای آمریکا بیش از ۴۰ میلیارد دلار",
         "title_en": "Iran live updates: War cost US more than $40B, officials said to lawmakers",
@@ -5450,22 +5468,5 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/iranian-president-allowed-us-entry-for-un-trump-s-attack-decision-looms/ar-AA2cvEXj",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789663253.0
-    },
-    {
-        "id": "11128cb972",
-        "title_fa": "خبر بین‌المللی — Super-intelligent AI won’t kill us. Dumb billionaires are do",
-        "title_en": "Super-intelligent AI won’t kill us. Dumb billionaires are doing that all by themselves",
-        "summary": [
-            "The super-rich have already screwed up the planet in their pursuit of power and profit. AI simply gives them a new tool to hasten their story – and ours – to its dramatic finale It is extremely..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ZNetwork on MSN",
-        "url": "https://www.msn.com/en-us/technology/artificial-intelligence/super-intelligent-ai-won-t-kill-us-dumb-billionaires-are-doing-that-all-by-themselves/ar-AA2crJAb?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/super-intelligent-ai-won-t-kill-us-dumb-billionaires-are-doing-that-all-by-themselves/ar-AA2crJAb",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789663010.7398167
     }
 ]
