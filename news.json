@@ -352,6 +352,26 @@
         "timestamp": 1789822009.0
     },
     {
+        "id": "f7ea590155",
+        "title_fa": "هشدار هوایی سعودی پس از تشدید جنگ یمن",
+        "title_en": "Saudi Arabia issues first alert in the capital since escalation, and other Mideast developments",
+        "summary": [
+            "سعودی‌ها به دلیل تهدید هوایی از حوثی‌های یمن هشدارهای اضطراری صادر کردند؛ این اولین هشدار در ریاض پس از تشدید درگیری است.",
+            "ایران از طریق قطر شرایط خود برای پایان جنگ به واشنگتن ارسال کرده؛ نشان‌دهنده تلاش دیپلماتیک برای محدود کردن حضور آمریکا است.",
+            "حملات اسرائیل در غزه و هدف‌گیری‌های نظامی در لبنان فشار چندجانبه را بر منطقه افزون می‌کند.",
+            "تحولات اخیر خطر گسترش درگیری هوایی به کشورهای همسایه و افزایش تنش‌های امنیتی خاورمیانه را بالا می‌برد."
+        ],
+        "impact": "افزایش تنش هوایی در عربستان، خطر گسترش درگیری به یمن و لبنان و فشار بر روابط ایران‑آمریکا.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "ClickOrlando",
+        "url": "https://www.clickorlando.com/news/world/2026/09/19/saudi-arabia-issues-alerts-across-the-country-for-aerial-threat-and-other-mideast-developments/",
+        "clean_url": "https://www.clickorlando.com/news/world/2026/09/19/saudi-arabia-issues-alerts-across-the-country-for-aerial-threat-and-other-mideast-developments",
+        "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/UPFQ2LWS6FFN7PJ4IQNYHEBHPM.jpg?api_key=clickorlando_488cff2bcc157b2e",
+        "timestamp": 1789821060.0
+    },
+    {
         "id": "a5da682322",
         "title_fa": "دلیل‌های بالارفتن نرخ بهره",
         "title_en": "10 Ways to Explain Why Interest Rates Are So High",
@@ -5478,25 +5498,5 @@
         "clean_url": "https://hoodline.com/2026/09/foreign-hackers-briefly-breached-two-tiny-colorado-water-systems-state-reveals",
         "image": "https://www.bing.com/th?id=ONUT.MVGL4InA0gFhkWwQSJDu8w",
         "timestamp": 1789688331.0
-    },
-    {
-        "id": "b921234b2a",
-        "title_fa": "ناوگان سپاه نفت‌کش توگوئی را در هرمز متوقف کرد",
-        "title_en": "IRGC Navy strikes Togo-flagged tanker after illegal attempt to transit Strait of Hormuz",
-        "summary": [
-            "ناوگان سپاه اعلام کرد تانکر توگوئی در عبور غیرقانونی از هرمز سوزانده و متوقف شد",
-            "فرمانده ناوگان ادعا کرد این اقدام به دست «نقش‌برداری نظامی آمریکا» بوده",
-            "سپاه هشدار داد هر عبور غیرمجاز منجر به نابودی کشتی می‌شود",
-            "حادثه می‌تواند ریسک حمل‌ونقل نفت در خلیج فارس را بالا ببرد"
-        ],
-        "impact": "ریسک‌های حمل‌ونقل نفت و فشار اقتصادی بر کشورهای مصرف‌کننده نفت افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/09/17/776498/IRGC-Navy-strikes-Togo-flagged-tanker-after-illegal-attempt-to-transit-Strait-of-Hormuz",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/17/776498/IRGC-Navy-strikes-Togo-flagged-tanker-after-illegal-attempt-to-transit-Strait-of-Hormuz",
-        "image": "https://cdn.presstv.co.uk/Photo/2026/9/17/414d3a5d-5428-4724-8ada-99605a071e0e.jpg",
-        "timestamp": 1789687940.3178334
     }
 ]
