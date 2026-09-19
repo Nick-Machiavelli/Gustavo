@@ -38,6 +38,23 @@
         "timestamp": 1789815767.0645838
     },
     {
+        "id": "ef9e640557",
+        "title_fa": "خبر بین‌المللی — Three people, including girl, said killed by IDF در north, c",
+        "title_en": "Three people, including girl, said killed by IDF in north, central Gaza; no comment from military",
+        "summary": [
+            "Three people, including a girl, were killed in Israeli strikes in north and central Gaza since this morning, according to Palestinian media. The IDF does not immediately comment."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/three-people-including-girl-said-killed-by-idf-in-north-central-gaza-no-comment-from-military/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/three-people-including-girl-said-killed-by-idf-in-north-central-gaza-no-comment-from-military",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789815060.0
+    },
+    {
         "id": "71bab7c2f8",
         "title_fa": "چک‌های سود سهام ترامپ توزیع شد",
         "title_en": "The Trump dividend checks have already gone out. Just not to you.",
@@ -5472,23 +5489,5 @@
         "clean_url": "https://tradersunion.com/news/financial-news/show/3389974-us-auto-groups-chinese-carmakers-trump",
         "image": "https://www.bing.com/th?id=ONUT.4epelz19BK4YQoMOTiyQ2A",
         "timestamp": 1789666350.0
-    },
-    {
-        "id": "116fa9948b",
-        "title_fa": "شرکت چینی دسترسی وب‌سایت هورموز ایران را موقتاً باز کرد",
-        "title_en": "China firm gave Iran lifeline to collect Hormuz tolls before pulling plug amid US warning",
-        "summary": [
-            "TrustAsia گواهی خودکار صادر کرد که به PGSA امکان نظارت بر کشتی‌ها و جمع‌آوری عوارض هورموز را داد.",
-            "پس از هشدار آمریکا، دسترسی پس از چهار روز لغو شد و کارشناسان تحریم خواستند برنامه تطبیق را بررسی کند."
-        ],
-        "impact": "توان عملیاتی PGSA برای جمع‌آوری عوارض و نظارت بر ترافیک هورموز موقتاً باز شد اما لغو دسترسی توان مالی و اطلاعاتی ایران را تضعیف کرد.",
-        "tag": "سایبری",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/china-firm-gave-iran-lifeline-collect-hormuz-tolls-before-pulling-plug-amid-us-warning",
-        "clean_url": "https://www.foxnews.com/world/china-firm-gave-iran-lifeline-collect-hormuz-tolls-before-pulling-plug-amid-us-warning",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/hormuz-irgc-navy-iran.jpg",
-        "timestamp": 1789665619.0
     }
 ]
