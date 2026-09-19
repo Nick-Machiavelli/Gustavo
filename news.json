@@ -1,5 +1,24 @@
 [
     {
+        "id": "71bab7c2f8",
+        "title_fa": "چک‌های سود سهام ترامپ توزیع شد",
+        "title_en": "The Trump dividend checks have already gone out. Just not to you.",
+        "summary": [
+            "ترامپ قول داد که اگر جمهوری‌خواهان پیروز می‌شوند، چک‌های سود سهام می‌دهد",
+            "این وعده به حامیانش قدرت مالی می‌گیرد و پایه انتخاباتی را تقویت می‌کند",
+            "با تقویت حامیان داخلی، او می‌تواند فشار بیشتری بر ایران و تحریم‌ها اعمال کند"
+        ],
+        "impact": "حمایت مالی حامیان جمهوری‌خواهان افزایش می‌یابد و امکان تشدید تحریم‌های ضد ایران می‌گیرد",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The New Republic on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/the-trump-dividend-checks-have-already-gone-out-just-not-to-you/ar-AA2cyA6M?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/the-trump-dividend-checks-have-already-gone-out-just-not-to-you/ar-AA2cyA6M",
+        "image": "https://www.bing.com/th?id=ONUT.oGJnRuasNcbDi7b0_sP34A",
+        "timestamp": 1789814070.6893618
+    },
+    {
         "id": "1ae809f5a1",
         "title_fa": "ترامپ: ایران را رها می‌کنیم، خودشان می‌جنگند",
         "title_en": "Trump’s foreign policy recklessness is coming home to roost",
@@ -151,6 +170,26 @@
         "clean_url": "https://indianexpress.com/article/explained/explained-economics/us-russia-sanctions-law-russian-uranium-imports-exception-explained-10884789",
         "image": "https://www.bing.com/th?id=ONUT.EuQwnawkh1CVfOJyssWr0A",
         "timestamp": 1789803252.490933
+    },
+    {
+        "id": "d2b3af834c",
+        "title_fa": "جنگ آمریکا بر ایران؛ تنش عربستان‑حوثی",
+        "title_en": "UPDATES: US War on Iran, Day 205 - Saudi Arabia's Conflict with Yemen 's Houthis Escalates",
+        "summary": [
+            "ایالات متحده روز ۲۰۵ از «جنگ» خود بر ایران خبر داد",
+            "عربستان با حوثی‌های یمن به شدت درگیری می‌کند",
+            "این درگیری به نفع فشارهای آمریکا بر ایران است و ریسک گسترش به خلیج فارس را بالا می‌برد",
+            "تحریم‌های جدید و حضور نظامی آمریکا ممکن است در پی این تنش‌ها باشد"
+        ],
+        "impact": "خطر گسترش درگیری نظامی در خلیج فارس و تشدید تحریم‌های اقتصادی علیه ایران",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "EA WorldView",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaU1SbEQxZjVKX2I4ZVhDdmxxOWZxMnhaRmFySGVOdGxKTWZUMmpyNVBnSjg0QlZFMGU3TFUxRl9USXZsTmZfdmtBc3M3OEg2RllVMk9EMk84clp0TWdaQ2ZON3RCbXZCdWVLZkxKcC1IR1ZOaFBPTEF3dmpxT3l5S3ppenpFQVE0eG0wd0hFOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaU1SbEQxZjVKX2I4ZVhDdmxxOWZxMnhaRmFySGVOdGxKTWZUMmpyNVBnSjg0QlZFMGU3TFUxRl9USXZsTmZfdmtBc3M3OEg2RllVMk9EMk84clp0TWdaQ2ZON3RCbXZCdWVLZkxKcC1IR1ZOaFBPTEF3dmpxT3l5S3ppenpFQVE0eG0wd0hFOA",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789802597.0
     },
     {
         "id": "8bae321ab0",
@@ -5444,41 +5483,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aac62367e-1789682230.jpg?resize=1920%2C1440",
         "timestamp": 1789664400.0
-    },
-    {
-        "id": "2acbc42ad0",
-        "title_fa": "ترامپ: نقطه عطفی در جنگ ایران نزدیک است",
-        "title_en": "Trump tells Axios he's approaching major crossroads in Iran war",
-        "summary": [
-            "ترامپ اعلام کرد ایالات متحده در آستانه تصمیم‌گیری کلان دربارهٔ سیاست نظامی در مقابل ایران است",
-            "اظهارات او می‌تواند فشار دیپلماتیک و احتمال اعمال تحریم‌های جدید یا عملیات نظامی را افزایش دهد",
-            "واکنش داخلی و بین‌المللی ممکن است تنش‌های خاورمیانه را به‌سرعت تشدید کند"
-        ],
-        "impact": "احتمال افزایش تحریم‌ها یا عملیات نظامی آمریکا علیه ایران، تنش خاورمیانه را تشدید می‌کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ORmRyZmxVUFJPT1pwVFBYbk9mMnJKdmRGYlV4aEpJcXRUTFZWN1BITEd0WlZFZ3FZV0NqMnVBQnEzSmJ3OGxLQ2I3M19valJXbnBxNFRoMFZpRG5TRmJPN2ZUc3lrQlcxWmNyNDVTbEg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ORmRyZmxVUFJPT1pwVFBYbk9mMnJKdmRGYlV4aEpJcXRUTFZWN1BITEd0WlZFZ3FZV0NqMnVBQnEzSmJ3OGxLQ2I3M19valJXbnBxNFRoMFZpRG5TRmJPN2ZUc3lrQlcxWmNyNDVTbEg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789664167.0
-    },
-    {
-        "id": "b6dae9e858",
-        "title_fa": "خبر بین‌المللی — US likely committed جنگ crimes against ایرانی civilians: Ind",
-        "title_en": "US likely committed war crimes against Iranian civilians: Independent experts",
-        "summary": [
-            "US likely committed war crimes against Iranian civilians: Independent experts UN News"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "UN News",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53ZllFLUg4SGlpZjFvZU5DYXZyQ3M1OUl0a0RnNzJDS2VIV1V3cV80QW1XTHBydFpISTE1eUdnQk5LRUF0Rnc4Uno0SjR1ZFl0QVo0eUt2MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53ZllFLUg4SGlpZjFvZU5DYXZyQ3M1OUl0a0RnNzJDS2VIV1V3cV80QW1XTHBydFpISTE1eUdnQk5LRUF0Rnc4Uno0SjR1ZFl0QVo0eUt2MA",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789664160.0
     }
 ]
