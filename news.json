@@ -439,6 +439,25 @@
         "timestamp": 1789785128.0
     },
     {
+        "id": "a2dcd9aa39",
+        "title_fa": "نیروی هوایی ایران در برابر آمریکا توانایی ندارد",
+        "title_en": "Iran's air force can't challenge America",
+        "summary": [
+            "ایالات متحده حضور نظامی گسترده‌ای در اطراف ایران دارد اما نیروی هوایی ایران نمی‌تواند مقابله مستقیم کند",
+            "در صورت گسترش جنگ، پایگاه‌های کوچک آمریکا در خاورمیانه در خطر می‌باشند",
+            "این واقعیت نشان می‌دهد ایران باید به استراتژی‌های غیرخطی و موشکی تکیه کند"
+        ],
+        "impact": "عدم توانایی هوایی ایران در مقابل آمریکا، تقویت تمرکز بر موشک و جنگ‌نامی",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Binkov's Battlegrounds on MSN",
+        "url": "https://www.msn.com/en-us/news/other/irans-air-force-cant-challenge-america-its-ballistic-missiles-could-still-make-a-us-war-painful/vi-AA2cypEK",
+        "clean_url": "https://www.msn.com/en-us/news/other/irans-air-force-cant-challenge-america-its-ballistic-missiles-could-still-make-a-us-war-painful/vi-AA2cypEK",
+        "image": "http://www.bing.com/th?id=ONUT.bexwEJfHOiklQ0_dRkdRRA&pid=News",
+        "timestamp": 1789784533.0
+    },
+    {
         "id": "34e32e20ab",
         "title_fa": "ترامپ مسیر جدیدی برای ایران می‌کشد",
         "title_en": "Trump Is Charting a New Course on Iran",
@@ -2080,6 +2099,44 @@
         "clean_url": "https://www.msn.com/en-in/money/general/the-week-the-models-broke-talking-point/ar-AA2cuIMg",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789729960.6038353
+    },
+    {
+        "id": "3f44ab8f24",
+        "title_fa": "شروع مذاکرات تعرفه‌ای آمریکا‑چین در واشنگتن پیش از اجلاس شی‑ترامپ",
+        "title_en": "US-China tariff talks begin in Washington ahead of Xi-Trump summit",
+        "summary": [
+            "مذاکرات سطح بالا بین آمریکا و چین برای رفع تعرفه‌ها و تحریم‌ها در واشنگتن برگزار می‌شود",
+            "هدف آماده‌سازی سفر شی جین‌پینگ به آمریکا و کاهش تنش‌های تجاری است",
+            "این مذاکرات پس از فشارهای جدید ناشی از تحریم‌های روسیه و خرید نفت روسیه توسط چین شکل گرفته"
+        ],
+        "impact": "تثبیت روابط تجاری آمریکا‑چین می‌تواند فشار اقتصادی بر ایران را کاهش دهد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/us-china-tariff-talks-washington-xi-jinping-donald-trump-summit-ptag-2998266-2026-09-19",
+        "clean_url": "https://www.indiatoday.in/world/story/us-china-tariff-talks-washington-xi-jinping-donald-trump-summit-ptag-2998266-2026-09-19",
+        "image": "https://www.bing.com/th?id=ONUT.ueDx5YDCSXdvyx2w1KkGbw",
+        "timestamp": 1789729911.0
+    },
+    {
+        "id": "e8e202a21d",
+        "title_fa": "تحریم‌های نفت سعودی و محدودیت دوستی ترامپ",
+        "title_en": "As attacks choke off Saudi oil, kingdom confronts limits of Trump's friendship",
+        "summary": [
+            "حملات به خطوط نفت سعودی عرضه جهانی را مختل کرده و قیمت‌ها را بالا برده است",
+            "ریاض با هزینه‌های سنگین هنوز به حمایت نظامی آمریکا وابسته است",
+            "روابط نزدیک ترامپ با سعودی تحت فشار قرار گرفته؛ واشنگتن نمی‌خواهد درگیر جنگ مستقیم شود"
+        ],
+        "impact": "کاهش عرضه نفت سعودی به بازار، فشار بر اقتصاد جهانی و تضعیف نفوذ ترامپ در خاورمیانه",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/as-attacks-choke-off-saudi-oil-kingdom-confronts-limits-of-trumps-friendship/ar-AA2cygKA?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/as-attacks-choke-off-saudi-oil-kingdom-confronts-limits-of-trumps-friendship/ar-AA2cygKA",
+        "image": "https://www.bing.com/th?id=ONUT.QfPdxpPxRPh_ZaNA6lhV7g",
+        "timestamp": 1789729906.0
     },
     {
         "id": "ec4ee5675a",
@@ -5433,59 +5490,5 @@
         "clean_url": "https://www.foxnews.com/world/china-firm-gave-iran-lifeline-collect-hormuz-tolls-before-pulling-plug-amid-us-warning",
         "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/hormuz-irgc-navy-iran.jpg",
         "timestamp": 1789665619.0
-    },
-    {
-        "id": "e13a881e0b",
-        "title_fa": "وزیر پیشین فلسطین ادعا کرد پیام پیش‌اکتبر ۷ را از سینوار دریافت کرده",
-        "title_en": "Former PA minister claims he was source who relayed pre-Oct. 7 message from Hamas’s Sinwar to Israel",
-        "summary": [
-            "وزیر پیشین سازمان خودمختار فلسطین می‌گوید که یاسر سینوار برای انتقال پیام به اسرائیل قبل از حمله ۷ اکتبر تماس گرفته بود.",
-            "این ادعا می‌تواند نشان دهد که اطلاعاتی درباره برنامه‌ریزی حمله پیش از وقوع در دسترس بوده ولی هنوز توسط مقامات اسرائیلی تأیید نشده."
-        ],
-        "impact": "اگر صحت پیدا کند، فشار بین‌المللی بر اسرائیل برای بررسی پیشینه هشدارهای دریافتی و بازنگری در سیاست‌های امنیتی می‌آید.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The Times of Israel on MSN",
-        "url": "https://www.msn.com/en-us/news/other/former-pa-minister-claims-he-was-source-who-relayed-pre-oct-7-message-from-hamas-s-sinwar-to-israel/ar-AA2cup3X?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/former-pa-minister-claims-he-was-source-who-relayed-pre-oct-7-message-from-hamas-s-sinwar-to-israel/ar-AA2cup3X",
-        "image": "https://www.bing.com/th?id=ONUT.7E1iJbioN-m2yjZ-cQPPpg",
-        "timestamp": 1789665619.0
-    },
-    {
-        "id": "aed9d2cb2a",
-        "title_fa": "گزارش: روسیه و چین پیشنهاد سازمان ملل برای تمدید هیئت نظارت بر تحریم‌های ایران را وتو می‌کنند",
-        "title_en": "Russia, China veto UN bid to extend Iran sanctions monitoring panel: Report",
-        "summary": [
-            "The veto leaves the panel's mandate set to expire on September 26, while sanctions remain in force amid a wider dispute over the 2025 snapback mechanism"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/russia-china-veto-un-bid-to-extend-iran-sanctions-monitoring-panel-report-14046707.html",
-        "clean_url": "https://www.firstpost.com/world/russia-china-veto-un-bid-to-extend-iran-sanctions-monitoring-panel-report-14046707.html",
-        "image": "https://images.firstpost.com/uploads/2026/05/Firstpost-2026-05-20T165442.372-2026-05-c07545847b72df735094ce66904da898.jpg?im=FitAndFill,width=1200,height=675",
-        "timestamp": 1789665540.0
-    },
-    {
-        "id": "66c47b1dc8",
-        "title_fa": "دموکرات‌ها طرح مسدودسازی توافق هسته‌ای ترامپ با سعودی",
-        "title_en": "US Democrats move to block Trump's Saudi nuclear deal",
-        "summary": [
-            "دموکرات‌ها می‌گویند توافق فاقد محدودیت‌های غنی‌سازی و بازپردازش است",
-            "این اولین تلاش کنگره برای رد توافق هسته‌ای با سعودی است",
-            "اگر تصویب شود، سعودی می‌تواند مسیر سلاح هسته‌ای را باز کند"
-        ],
-        "impact": "مسدودسازی می‌تواند توافق هسته‌ای ترامپ با سعودی را به تعویق بیندازد و فشار بین‌المللی بر برنامه هسته‌ای سعودی را افزایش دهد",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/us-democrats-move-to-block-trump-s-saudi-nuclear-deal-article-14032464.html",
-        "clean_url": "https://www.moneycontrol.com/world/us-democrats-move-to-block-trump-s-saudi-nuclear-deal-article-14032464.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260724123916_Saudi-Trump.jpg",
-        "timestamp": 1789665480.0
     }
 ]
