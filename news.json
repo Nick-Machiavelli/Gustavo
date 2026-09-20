@@ -1,5 +1,41 @@
 [
     {
+        "id": "5142fd75ff",
+        "title_fa": "اتاق عملیات اسرائیل پس از حمله حماس",
+        "title_en": "Take a look inside Israel’s war room on the day Hamas invaded",
+        "summary": [
+            "اسرائیل پس از حمله ۷ اکتبر ۲۰۲۳، هدفش بازگرداندن گروگان‌ها و نابودی حماس است",
+            "در دسامبر ۲۰۲۴، اسرائیل به‌سرعت توانست توان نظامی سوریه را تا ۷۰ درصد کاهش دهد"
+        ],
+        "impact": "تشدید عملیات نظامی اسرائیل در غزه ادامه دارد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/20/opinion/go-inside-israels-war-room-on-the-day-hamas-invaded/",
+        "clean_url": "https://nypost.com/2026/09/20/opinion/go-inside-israels-war-room-on-the-day-hamas-invaded",
+        "image": "https://www.bing.com/th?id=ONUT.aVX6SdZX9ehnqO3OeWxI9w",
+        "timestamp": 1789909364.418908
+    },
+    {
+        "id": "f69737a822",
+        "title_fa": "ترامپ قصد دست‌کاری انتخابات میانی ۲۰۲۶ را دارد",
+        "title_en": "Democrats’ only hope against a rigged 2026 election",
+        "summary": [
+            "ترامپ به‌صراحت گفت برای جلوگیری از پیروزی دموکرات‌ها در انتخابات ۲۰۲۶ اقدام به تقلب خواهد کرد",
+            "این اظهارات نشان می‌دهد ریسک جدی برای اعتبار نظام انتخاباتی آمریکا وجود دارد"
+        ],
+        "impact": "اعتماد عمومی به انتخابات آمریکا زیر فشار شدید قرار می‌گیرد",
+        "tag": "انتخابات",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-gb/politics/government/democrats-only-hope-against-a-rigged-2026-election/ar-AA2cBap5?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/politics/government/democrats-only-hope-against-a-rigged-2026-election/ar-AA2cBap5",
+        "image": "https://www.bing.com/th?id=ONUT.3JqhXoa-YcIuvOn8fWh_DQ",
+        "timestamp": 1789909364.4186199
+    },
+    {
         "id": "35a48d3dfa",
         "title_fa": "رویکرد تاجر ترامپ به جنگ «وجودی» ایران ممکن است بزرگترین اشتباه محاسباتی او باشد",
         "title_en": "Trump’s businessman approach to ‘existential’ Iran war may be his biggest miscalculation",
@@ -1937,6 +1973,24 @@
         "timestamp": 1789832782.0
     },
     {
+        "id": "90c3a431bc",
+        "title_fa": "پیشنهاد تغییر تاکتیک‌های اپوزیسیون توسط رضا پهلوی",
+        "title_en": "شاهزاده رضا پهلوی: با توجه به سطح بالای کشتار، در تاکتیک‌های خود تغییراتی در نظر گرفته‌ایم",
+        "summary": [
+            "رضا پهلوی اعلام کرد تیمش به‌دلیل کشتارهای اخیر روش‌های اجرایی را بازنگری کرده است",
+            "تغییر تاکتیک به معنای تغییر هدف نیست؛ هدف سرنگون کردن جمهوری اسلامی باقی می‌ماند"
+        ],
+        "impact": "استراتژی جدید می‌تواند فشار بر رژیم را تقویت کند",
+        "tag": "اپوزیسیون",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609198919",
+        "clean_url": "https://www.iranintl.com/202609198919",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/4833e5ec5b6599a8298ba40ce6cb6277ec21e3c5-1143x1280.jpg?rect=0,89,957,502&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789832460.0
+    },
+    {
         "id": "b45cf2b716",
         "title_fa": "یک میلیارد بشکه نفت از طریق هرمز با کمک آمریکا",
         "title_en": "CENTCOM says US military has aided transit of 1 billion barrels of oil through Hormuz over 2 months",
@@ -2171,6 +2225,42 @@
         "clean_url": "https://www.ynetnews.com/article/sjtmdwntfg",
         "image": "http://www.bing.com/th?id=ONUT.dY1ZmANG103IW-P9A5ajgw&pid=News",
         "timestamp": 1789823040.0
+    },
+    {
+        "id": "b20aa57485",
+        "title_fa": "ترامپ قیمت سوخت را به‌دلیل جنگ ایران توجیه کرد",
+        "title_en": "El alza del combustible frustra a votantes. Trump dice que \"es un precio barato\" por guerra con Irán",
+        "summary": [
+            "در سخنرانی خود، ترامپ گفت افزایش قیمت بنزین «قیمت ارزان» است چون جنگ با ایران هزینه‌بر بوده",
+            "این بیانیه سعی دارد فشار اقتصادی را به سمت دشمن خارجی معطوف کند"
+        ],
+        "impact": "قیمت بنزین داخلی ممکن است تحت فشار سیاست‌های او تغییر کند",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Connecticut Post",
+        "url": "https://www.ctpost.com/news/politics/article/el-alza-del-combustible-frustra-a-votantes-trump-22440541.php",
+        "clean_url": "https://www.ctpost.com/news/politics/article/el-alza-del-combustible-frustra-a-votantes-trump-22440541.php",
+        "image": "https://www.bing.com/th?id=ONUT.f1SzAn7s2l0u0EL9loBFdQ",
+        "timestamp": 1789822954.0
+    },
+    {
+        "id": "dae072fab0",
+        "title_fa": "ترامپ اعتراف کرد جنگ ایران به رقبای حزبی صدمه زد",
+        "title_en": "Trump sa che le difficoltà del partito alle midterm sono anche colpa sua",
+        "summary": [
+            "ترامپ در گفتگو با مشاورانش اذعان کرد که جنگ با ایران باعث کاهش محبوبیت حزب جمهوری‌خواه شده",
+            "او قول داد برای جبران این خسارت، منابع مالی بیشتری به کاندیداهای میانی‌دوره اختصاص دهد"
+        ],
+        "impact": "حمایت رأی‌دهندگان جمهوری‌خواه ممکن است کاهش یابد",
+        "tag": "سیاست",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Bluewin",
+        "url": "https://www.bluewin.ch/it/attualita/mondo/trump-sa-che-difficolt-partito-a-midterm-sono-anche-colpa-sua-li.3606459",
+        "clean_url": "https://www.bluewin.ch/it/attualita/mondo/trump-sa-che-difficolt-partito-a-midterm-sono-anche-colpa-sua-li.3606459",
+        "image": "https://www.bing.com/th?id=ONUT.mVAj10vr1kI6mynnKEOxtQ",
+        "timestamp": 1789822954.0
     },
     {
         "id": "d235da2d61",
@@ -5393,96 +5483,5 @@
         "clean_url": "https://www.yahoo.com/news/videos/major-garrett-argues-trump-signaling-212534445.html",
         "image": "https://s.yimg.com/lo/mysterio/api/f43ca3aad1274eb9d4008889cc8115bdeb8366b75be1b0d206c2e40bd7dcd4b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.cbsnewsvideos.com%2Fb6e53794f36c73b099c1053ab09bfed1.jpg",
         "timestamp": 1789770114.1248474
-    },
-    {
-        "id": "a6f5b37c1e",
-        "title_fa": "قفل‌سازی آمریکا صادرات نفت ایران را ۸۰٪ کاهش داد",
-        "title_en": "Iran faces production cuts as oil loadings drop sharply amid US blockade",
-        "summary": [
-            "مسدودسازی ناوگان آمریکا در تنگه هرمز از اواسط ژوئیه باعث شد صادرات نفت ایران به ۲۲۰‑۲۶۰ هزار بشکه در روز برسد، در مقایسه با ۱٫۷‑۲ میلیون بشکه سال پیش.",
-            "هر روز حدود ۲۰۰‑۲۵۰ میلیون دلار درآمد نفتی از دست می‌رود و بخش نفتی ایران با شدیدترین شوک سال‌های اخیر مواجه شده است.",
-            "داده‌های ردیابی کشتی نشان می‌دهد از زمان بازگشت مسدودسازی هیچ محمولهٔ ایرانی به درگاه‌های بین‌المللی عبور نکرده است."
-        ],
-        "impact": "روزانه ۲۵۰ میلیون دلار درآمد نفتی ایران از دست می‌رود و فشار مالی بر دولت افزایش می‌یابد.",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.9,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-oil-loadings-drop-us-blockade/",
-        "clean_url": "https://cryptobriefing.com/iran-oil-loadings-drop-us-blockade",
-        "image": "https://www.bing.com/th?id=ONUT.Y-HmHlimFo5ixPi2niyRYQ",
-        "timestamp": 1789770072.0
-    },
-    {
-        "id": "1cff5fa360",
-        "title_fa": "خبر بین‌المللی — ترامپ’s Latest Trade Threat Would Throw آمریکا Into A Massiv",
-        "title_en": "Trump’s Latest Trade Threat Would Throw America Into A Massive Recession",
-        "summary": [
-            "Cutting off countries that export more to us than they import would mean ending trade with 95 countries and territories: ..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-latest-trade-threat-throw-213926080.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-latest-trade-threat-throw-213926080.html",
-        "image": "https://www.bing.com/th?id=ONUT.mobA3ph3CVXKUJoRnG1fUQ",
-        "timestamp": 1789769580.77864
-    },
-    {
-        "id": "4c91f79779",
-        "title_fa": "مرگ سربازان آمریکا در جنگ ایران بیش از گزارش پنتاگون",
-        "title_en": "US troop deaths during Iran war exceed Pentagon count by at least four, Washington Post reports",
-        "summary": [
-            "واشنگتن پست می‌گوید تعداد کشته‌های سربازان آمریکا حداقل چهار نفر بیشتر از آمار رسمی پنتاگون است",
-            "این اختلاف نشان‌دهنده عدم شفافیت در گزارش‌های نظامی است",
-            "کشته شدن بیشتر سربازان می‌تواند فشار داخلی بر دولت آمریکا برای پایان جنگ ایجاد کند"
-        ],
-        "impact": "کشتار بیشتر سربازان آمریکا می‌تواند تصمیم‌گیری‌های نظامی را تحت فشار قرار دهد",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWTJWTFE3dlFIRDVOVDZiY01XQXNxNDI0Z1RiWlFybTFpaEFEQUtpcVRnaEVNUUxPSkl3eFpLc1JzakdRWHNFQWZSUHhQMmQ0T0MtOHBrUjFYTGIzM0dMUmFwNGZPdWhkZUdUSmR1Q29mTHZXNDJuY2d6MllvMXNTM3pGM1BHQmVvQkstdEd2SDE2ZjJ4dXpxdmVSa25KcWJxaUV5eUFrNGFLSUJoT21wNDRieGxuQjFzTXNxU1dFZFlCT3R3aEJESmRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWTJWTFE3dlFIRDVOVDZiY01XQXNxNDI0Z1RiWlFybTFpaEFEQUtpcVRnaEVNUUxPSkl3eFpLc1JzakdRWHNFQWZSUHhQMmQ0T0MtOHBrUjFYTGIzM0dMUmFwNGZPdWhkZUdUSmR1Q29mTHZXNDJuY2d6MllvMXNTM3pGM1BHQmVvQkstdEd2SDE2ZjJ4dXpxdmVSa25KcWJxaUV5eUFrNGFLSUJoT21wNDRieGxuQjFzTXNxU1dFZFlCT3R3aEJESmRR",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789769329.0
-    },
-    {
-        "id": "b5d2c59946",
-        "title_fa": "چت‌بات هوش مصنوعی آمریکا توهم سلاح هسته‌ای روی کشتی چینی",
-        "title_en": "US military nearly started World War III after AI chatbot hallucinated nuclear weapons aboard a Chinese ship",
-        "summary": [
-            "یک ربات گفتاری نظامی اطلاعات نادرستی مبنی بر حضور سلاح‌های هسته‌ای روی یک کشتی چینی منتشر کرد",
-            "پس از بررسی، این ادعا کاملاً غلط تشخیص داده شد و خطر تشدید تنش‌های بین‌المللی از بین رفت",
-            "حادثه نشان می‌دهد که خطای هوش مصنوعی می‌تواند به‌سرعت به بحران‌های ژئوپلیتیک منجر شود"
-        ],
-        "impact": "خطای هوش مصنوعی می‌تواند واکنش‌های نظامی ناخواسته و ارتقای تنش‌های جهانی را تحریک کند",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.0,
-        "source": "Futurism on MSN",
-        "url": "https://www.msn.com/en-us/news/other/us-military-nearly-started-world-war-iii-after-ai-chatbot-hallucinated-nuclear-weapons-aboard-a-chinese-ship/ar-AA2cwU1J?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/us-military-nearly-started-world-war-iii-after-ai-chatbot-hallucinated-nuclear-weapons-aboard-a-chinese-ship/ar-AA2cwU1J",
-        "image": "https://www.bing.com/th?id=ONUT.57PjJ_hZusfyF-uLktMXnw",
-        "timestamp": 1789768995.2482603
-    },
-    {
-        "id": "dc1bf32999",
-        "title_fa": "نیکول والاس در اولین بیماری ام اس از «قبض قدرت اقتدارگرایانه» ترامپ انتقاد کرد و اکنون به ممنوعیت WH اشاره کرد.",
-        "title_en": "Nicolle Wallace Slams Trump’s ‘Authoritarian Power Grab’ in First MS Now Mention of WH Ban",
-        "summary": [
-            "Nicolle Wallace blasted Trump’s decision to ban MS NOW and two other outlets from the White House on Friday, calling the move..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/nicolle-wallace-slams-trump-authoritarian-205053287.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/nicolle-wallace-slams-trump-authoritarian-205053287.html",
-        "image": "https://www.bing.com/th?id=ONUT.VvertB7I3ze7ovZesehYUg",
-        "timestamp": 1789767581.97231
     }
 ]
