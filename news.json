@@ -2121,6 +2121,23 @@
         "timestamp": 1789809170.1900027
     },
     {
+        "id": "5d9d13be22",
+        "title_fa": "اخبار و نوسانات بازار طلا و ارز | قیمت دلار به ۲۳۲ هزار تومان رسید؛ سکه از ۲۴۰ میلیون گذشت",
+        "title_en": "اخبار و نوسانات بازار طلا و ارز | قیمت دلار به ۲۳۲ هزار تومان رسید؛ سکه از ۲۴۰ میلیون گذشت",
+        "summary": [
+            "معاملات بازار داخلی با جهش قیمت دلار و طلا آغاز شد و خریداران در واکنش به اخبار منطقهای، رشد بیشتری را برای طلا و سکه رقم زدند."
+        ],
+        "impact": "...",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "zoomon",
+        "url": "https://www.zoomon.ir/live/8037-dollar-gold-price-rise-iran/",
+        "clean_url": "https://www.zoomon.ir/live/8037-dollar-gold-price-rise-iran",
+        "image": "https://api2.zoomon.ir/media/us-one-dollar-bills-close-up-6a54d8c19b7fa15cebeeaa5b?w=1920&q=75",
+        "timestamp": 1789809153.0
+    },
+    {
         "id": "26a9e6e797",
         "title_fa": "کره شمالی موشک بالستیک به دریا پرتاب کرد",
         "title_en": "North Korea launches ballistic missile off east coast, Japan says",
@@ -5487,23 +5504,5 @@
         "clean_url": "https://www.jns.org/opinion/column/ben-cohen/america-has-never-been-subservient-to-israel",
         "image": "https://static.jns.org/dims4/default/02a7a87/2147483647/strip/true/crop/4000x2250+0+236/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2024%2F03%2FU.S.-Israel-Relationship-Flags-1.jpg",
         "timestamp": 1789744997.174553
-    },
-    {
-        "id": "1f527cebf1",
-        "title_fa": "۴۲۱۹ کشته در اعتراضات ایران؛ رقم کمتر از پیش‌بینی‌ها",
-        "title_en": "Rights group names 4,219 killed in Iran protests, a tenth of figures cited before US-Israeli war",
-        "summary": [
-            "گروه حقوقی تعداد کشته‌ها را به ۴۲۱۹ کاهش داد؛ دسترسی به اطلاعات هنوز محدود است",
-            "این رقم هنوز نشان از سرکوب شدید و نقض حقوق بشر دارد"
-        ],
-        "impact": "افزایش فشار بین‌المللی بر رژیم برای محدود کردن سرکوب",
-        "tag": "حقوق",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Middle East Monitor",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZGlSUHB3UDQ5Yjl2SlpReUhNTEJRa1ppamhOZHFOdUhTSXdWYWdoSFA3S1BNTU45M0pSUmVDSHV0R2h0Y3hYVXgyRndMNHdPVG5FV2ROcGMzTzNPV1JtS1Rtd1lZLXBWTDktc1NfcmtFdlNDRVdWZEwweUlDdnpGMHhDZFRzckl2LVY3TF9veU5KUUtvNFJpYkN0N0sybDJESjJoS1dyek84T2ppd040cHFFZkkxcG1Ta3B3azgyd1R4cFp4eDhkcE9xYVZFMVJwT3hfWtIB2gFBVV95cUxQVHZESjdtSGNhbnlaSnVUZkM2S0tfdXdLVW1COXp1elI3MDhjRFZ1U0hkZFlubU53eGxNOHJGMDlmLUt3cm8wVEF5UlJ3Zy1PYmlQQjE0MFA2Wm1WdnRBWkN5SERjOExucnJ1dGxibElVd2ZWQ2tVQ1AycGo1aVJBdEc4UDJ5OHVxSEQyODlOd0VTY25tYk1RWWtMX0VtcHdITjcwVXZJZHd0UFQ0Sm85ZmsxcjFBeE1fZGVYTkVIU2FQN3A0YXFnUG0tOUEwUjVqMjluT0lycThUQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZGlSUHB3UDQ5Yjl2SlpReUhNTEJRa1ppamhOZHFOdUhTSXdWYWdoSFA3S1BNTU45M0pSUmVDSHV0R2h0Y3hYVXgyRndMNHdPVG5FV2ROcGMzTzNPV1JtS1Rtd1lZLXBWTDktc1NfcmtFdlNDRVdWZEwweUlDdnpGMHhDZFRzckl2LVY3TF9veU5KUUtvNFJpYkN0N0sybDJESjJoS1dyek84T2ppd040cHFFZkkxcG1Ta3B3azgyd1R4cFp4eDhkcE9xYVZFMVJwT3hfWtIB2gFBVV95cUxQVHZESjdtSGNhbnlaSnVUZkM2S0tfdXdLVW1COXp1elI3MDhjRFZ1U0hkZFlubU53eGxNOHJGMDlmLUt3cm8wVEF5UlJ3Zy1PYmlQQjE0MFA2Wm1WdnRBWkN5SERjOExucnJ1dGxibElVd2ZWQ2tVQ1AycGo1aVJBdEc4UDJ5OHVxSEQyODlOd0VTY25tYk1RWWtMX0VtcHdITjcwVXZJZHd0UFQ0Sm85ZmsxcjFBeE1fZGVYTkVIU2FQN3A0YXFnUG0tOUEwUjVqMjluT0lycThUQQ",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789744740.0
     }
 ]
