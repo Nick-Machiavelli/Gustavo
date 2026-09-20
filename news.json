@@ -580,6 +580,26 @@
         "timestamp": 1789837329.0
     },
     {
+        "id": "8e5bbcac3b",
+        "title_fa": "طرح جدید هایت‌هاوس برای شتابدهی استارتاپ‌های امنیت سایبری",
+        "title_en": "White House drafts bold cybersecurity plan for tech's next wave",
+        "summary": [
+            "دستیار ملی امنیت سایبری ایالات متحده برنامه‌ای برای حمایت از استارتاپ‌های نوپا تدوین می‌کند",
+            "مدل این برنامه شبیه به واحدهای نظامی اسرائیلی است که شرکت‌های بزرگی مانند چک‌پوینت و پالو آلتو را به‌وجود آورده‌اند",
+            "سرمایه‌گذاری ترکیبی دولتی و سرمایه‌گذاری خطرپذیر برای پرورش فناوری‌های دفاعی سایبری هدف است",
+            "این اقدام می‌تواند وابستگی آمریکا به شرکت‌های خارجی را کاهش دهد"
+        ],
+        "impact": "تقویت توانمندی‌های سایبری ملی و کاهش وابستگی به فناوری‌های خارجی",
+        "tag": "امنیت‌سایبری",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/white-house-drafts-bold-cybersecurity-003700568.html",
+        "clean_url": "https://finance.yahoo.com/technology/ai/articles/white-house-drafts-bold-cybersecurity-003700568.html",
+        "image": "http://www.bing.com/th?id=ONUT.ojMC5u2o-_YL4H1Zldn2YA&pid=News",
+        "timestamp": 1789837200.0
+    },
+    {
         "id": "f547d83ad6",
         "title_fa": "خبر بین‌المللی — As U.S. Fuel Prices Surge, ایران’s Gas Costs 17 Cents A Gall",
         "title_en": "As U.S. Fuel Prices Surge, Iran’s Gas Costs 17 Cents A Gallon. The Reasons Why May Surprise You.",
@@ -693,6 +713,25 @@
         "clean_url": "https://www.iranintl.com/en/202609190748",
         "image": "http://www.bing.com/th?id=ONUT.Ekig_ZPiSraKZYZZ1s0wwQ&pid=News",
         "timestamp": 1789830900.0
+    },
+    {
+        "id": "17d0f3c752",
+        "title_fa": "NFL استیفن دیگز را به دلیل جشن گل جریمه کرد",
+        "title_en": "NFL punishes Commanders WR Stefon Diggs for touchdown celebration",
+        "summary": [
+            "لگن Washington Commanders پس از جشن پرشور دیگز، جریمه‌ای مالی اعمال کرد",
+            "قوانین لیگ برای جلوگیری از نمایش‌های پرشور و حفظ نظم بازی‌هاست",
+            "این جریمه می‌تواند بازیکنان را از انجام حرکات نمایشی در آینده بازدارد"
+        ],
+        "impact": "جریمه ممکن است رفتار بازیکنان را در طول مسابقات محدود کند",
+        "tag": "ورزش",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/sports/football/nfl-punishes-commanders-wr-stefon-diggs-for-touchdown-celebration/ar-AA2cA89L",
+        "clean_url": "https://www.msn.com/en-us/sports/football/nfl-punishes-commanders-wr-stefon-diggs-for-touchdown-celebration/ar-AA2cA89L",
+        "image": "http://www.bing.com/th?id=ONUT.RBgfwzXBHjI0l54ydICPwg&pid=News",
+        "timestamp": 1789828342.0
     },
     {
         "id": "455d08d620",
@@ -819,6 +858,25 @@
         "clean_url": "https://www.ynetnews.com/article/sjtmdwntfg",
         "image": "http://www.bing.com/th?id=ONUT.dY1ZmANG103IW-P9A5ajgw&pid=News",
         "timestamp": 1789823040.0
+    },
+    {
+        "id": "d235da2d61",
+        "title_fa": "سؤال‌های ترس‌انگیز هوش مصنوعی و خطرات واقعی",
+        "title_en": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’",
+        "summary": [
+            "هوش مصنوعی فعلاً توانایی طراحی سلاح‌های زیستی جدید را ندارد؛ موانع فنی و لجستیکی بزرگ هستند",
+            "ریسک اصلی، واگذاری کنترل سامانه‌های هسته‌ای به هوش مصنوعی توسط انسان‌هاست",
+            "احتمال وقوع فاجعهٔ هوش مصنوعی در کوتاه‌مدت کم است، اما نظارت سخت‌گیرانه ضروری است"
+        ],
+        "impact": "احتمال فاجعهٔ هوش مصنوعی در آینده نزدیک کم، اما عدم نظارت می‌تواند خطرات نظامی را افزایش دهد",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": -0.1,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity",
+        "clean_url": "https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity",
+        "image": "https://i.guim.co.uk/img/media/45cdb6f3028083230359386d33a5e3eb46f57e94/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ffd863b522d154bc2c53f3d7a56a86e5",
+        "timestamp": 1789822920.0
     },
     {
         "id": "4030c4056c",
@@ -968,6 +1026,25 @@
         "timestamp": 1789820125.0
     },
     {
+        "id": "428ff2cb33",
+        "title_fa": "انتخابات میانی آمریکا نزدیک است؛ وضعیت رقابت‌ها",
+        "title_en": "Primaries are over. Midterms are set. This is where we are.",
+        "summary": [
+            "کمتر از ۵۰ روز تا روز انتخابات باقی مانده و احزاب برای انتخابات میانی آماده می‌شوند",
+            "کسب‌وکارهای کلیدی در ایالت‌های سوینگ به شدت مورد توجه هستند",
+            "نتایج میانی می‌تواند جهت‌گیری قانون‌گذاری سال آینده را تعیین کند"
+        ],
+        "impact": "نتایج میانی می‌تواند سرنوشت قانون‌گذاری و سیاست‌های کلان ایالات متحده را شکل دهد",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/primaries-are-over-midterms-are-set-this-is-where-we-are/ar-AA2czSBX",
+        "clean_url": "https://www.msn.com/en-us/news/other/primaries-are-over-midterms-are-set-this-is-where-we-are/ar-AA2czSBX",
+        "image": "http://www.bing.com/th?id=ONUT.yRYUg26gAzjfa6z17ME08A&pid=News",
+        "timestamp": 1789819860.0
+    },
+    {
         "id": "5d113cfced",
         "title_fa": "مسلمان صهیونیست: فعالان ضد اسرائیل اشتباه می‌کنند",
         "title_en": "I’m a Muslim Zionist. Anti-Israel activists have it completely backward",
@@ -1107,6 +1184,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCQ09fWVBIZWY4TlpaX29uLXJ3dlVSdDRRWVNobVZFLWxyRmtnR0YtN0RzSDd1SjZRbklGb1o0OEtncDdueFE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789817617.0
+    },
+    {
+        "id": "6f8d999db6",
+        "title_fa": "مدیاتک با چیپ ۲ نانومتری به رقابت کوالکام می‌پردازد",
+        "title_en": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+        "summary": [
+            "مدیاتک دی‌مینیتی ۹۶۰۰ پرو را با فرایند ۲ نانومتری تی‌اس‌ام‌سی معرفی کرد",
+            "این گام نشان‌دهندهٔ قصد شرکت برای ورود به بازار گوشی‌های پرچم‌دار است",
+            "رقابت سخت‌تر می‌تواند فشار بر قیمت و سهم بازار کوالکام ایجاد کند",
+            "سرمایه‌گذاران ممکن است به‌سرعت واکنش نشان داده و ارزش سهام QCOM را تحت تأثیر قرار دهند"
+        ],
+        "impact": "قیمت سهام کوالکام ممکن است به‌دلیل رقابت جدید فشار ببیند",
+        "tag": "فناوری",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
+        "clean_url": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
+        "image": "http://www.bing.com/th?id=ONUT.aiUJutTED2kwINfVtseu_w&pid=News",
+        "timestamp": 1789817400.0
     },
     {
         "id": "06ecb17655",
@@ -1829,6 +1926,25 @@
         "timestamp": 1789797000.0
     },
     {
+        "id": "70e2e0be20",
+        "title_fa": "هشدار نمایندهٔ آمریکا از پیشرفت هوش مصنوعی چین",
+        "title_en": "Rep Tim Burchett warns of what China could do to surpass US in AI race",
+        "summary": [
+            "چین سرمایه‌گذاری عظیم در هوش مصنوعی انجام می‌دهد و به سرعت پیشرفت می‌کند",
+            "آمریکا در حال از دست دادن برتری تکنولوژیک خود است و باید سیاست‌های حمایتی قوی‌تری اتخاذ کند",
+            "رقابت هوش مصنوعی می‌تواند به تهدیدات امنیتی و اقتصادی برای ایالات متحده منجر شود"
+        ],
+        "impact": "کاهش برتری تکنولوژیک آمریکا می‌تواند توان نظامی و اقتصادی آن را تحت فشار قرار دهد",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/video/6405314405112",
+        "clean_url": "https://www.foxnews.com/video/6405314405112",
+        "image": "http://www.bing.com/th?id=ONUT.4weKabXFAYA8L-7H2dJ1uQ&pid=News",
+        "timestamp": 1789794720.0
+    },
+    {
         "id": "f2f66cc78d",
         "title_fa": "خبر بین‌المللی — This swing state Republican keeps distancing himself from تر",
         "title_en": "This swing state Republican keeps distancing himself from Trump. It may not save him in the midterms",
@@ -1861,6 +1977,26 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-tehran-holds-huge-pro-regime-march-in-defiance-of-trump/ar-AA2ct6HW",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789793512.0
+    },
+    {
+        "id": "6ae0206c46",
+        "title_fa": "گاوین نیوسام در مالابی با سلبریتی‌ها؛ بحث انتقال پارامونت",
+        "title_en": "Gavin Newsom spotted hobnobbing with A-list celebs at Malibu hot spot",
+        "summary": [
+            "نیوسام در مالابی با افراد مشهور حضور یافت؛ این رویداد در زمان جدال پارامونت با دولت کالیفرنیا برگزار شد",
+            "پارامونت به دلیل خرید ۱۱۰ میلیارد دلاری وارنر‌برازر، با خطر خروج از ایالت مواجه است",
+            "اگر پارامونت در کالیفرنیا بماند، هزاران شغل در صنعت سرگرمی حفظ می‌شود",
+            "شایعاتی دربارهٔ احتمال نامزدی نیوسام برای ریاست‌جمهوری ۲۰۲۸ وجود دارد"
+        ],
+        "impact": "حفظ پارامونت در کالیفرنیا می‌تواند هزاران شغل را در این ایالت حفظ کند",
+        "tag": "سرگرمی",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/09/19/us-news/gavin-newsom-spotted-hobnobbing-with-a-list-celebs-at-malibu-hot-spot/",
+        "clean_url": "https://nypost.com/2026/09/19/us-news/gavin-newsom-spotted-hobnobbing-with-a-list-celebs-at-malibu-hot-spot",
+        "image": "http://www.bing.com/th?id=ONUT.kbXb7XTjR_f0WoCGDp3eiA&pid=News",
+        "timestamp": 1789792320.0
     },
     {
         "id": "3378e6e873",
@@ -5371,135 +5507,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-says-it-strikes-an-oil-tanker-and-other-mideast-developments/ar-AA2ctwma",
         "image": "http://www.bing.com/th?id=ONUT.MyAtexmo4ar7voSJvFIgug&pid=News",
         "timestamp": 1789716782.0
-    },
-    {
-        "id": "abb5974b02",
-        "title_fa": "چپ‌گراها خواستار محاکمه ترامپ و همراهانش",
-        "title_en": "Readers sound off on charging Trump’s cronies, the national debt and student screen time",
-        "summary": [
-            "عضوهای دسا می‌خواهند ترامپ و نزدیکانش به جرائم داخلی و بین‌المللی پاسخگو شوند",
-            "این فشار نشان می‌دهد که جناح چپ در آمریکا به دنبال استفاده از دستگاه قضایی برای مهار جمهوری‌خواهان است",
-            "در داخل دسا جدال بین مارکسیست‑لنینیست‌ها و دیگر اعضا برای رهبری گروه تشدید شده",
-            "اگر محاکمه‌ها پیش بروند، می‌تواند تنش‌های سیاسی در ایالات متحده را به‌شدت افزایش دهد"
-        ],
-        "impact": "محاکمه‌های احتمالی می‌تواند فشار سیاسی بر جمهوری‌خواهان را بالا برده و ریسک تفرقه در احزاب راست آمریکا را افزایش دهد",
-        "tag": "قضایی",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "New York Daily News",
-        "url": "https://www.nydailynews.com/2026/09/18/readers-sound-off-on-charging-trumps-cronies-the-national-debt-and-student-screen-time/",
-        "clean_url": "https://www.nydailynews.com/2026/09/18/readers-sound-off-on-charging-trumps-cronies-the-national-debt-and-student-screen-time",
-        "image": "https://www.bing.com/th?id=ONUT.4rO4F1wrWvgRR4vAXX4eQQ",
-        "timestamp": 1789716188.7875855
-    },
-    {
-        "id": "f69f52b919",
-        "title_fa": "کیمیل به ترامپ هشدار داد: هوش مصنوعی و جنگ ایران",
-        "title_en": "Jimmy Kimmel Cuts Trump’s Biggest Backers With Damning Theory About MAGA Brains",
-        "summary": [
-            "ترامپ هوش مصنوعی را «حقیقت‌نما» می‌نامد و حتی پس از هشدارهای صنعت، به آن بی‌توجهی می‌کند.",
-            "در عین حال ادعا می‌کند ایران می‌خواهد جنگ را زودتر تمام کند و به دنبال معامله است، در حالی که هنوز در میانهٔ هفت ماه جنگ است.",
-            "بیانیه‌های ترامپ می‌تواند فشارهای اقتصادی و تحریم‌های جدید را به تعویق بیندازد و بازارهای انرژی را ناآرام کند."
-        ],
-        "impact": "بیان‌های ترامپ می‌تواند مذاکرات هسته‌ای و تحریم‌های آمریکا را به تعویق بیندازد و نوسان قیمت نفت را تشدید کند.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/jimmy-kimmel-trump-maga-hats_n_6aacbab0e4b0a3bc8deac00d",
-        "clean_url": "https://www.huffpost.com/entry/jimmy-kimmel-trump-maga-hats_n_6aacbab0e4b0a3bc8deac00d",
-        "image": "https://www.bing.com/th?id=ONUT.0pHlwKhVw69cI8wBqpZLVw",
-        "timestamp": 1789714447.0660791
-    },
-    {
-        "id": "925f528808",
-        "title_fa": "استراتژی منطقه‌ای ایران تحت فشار",
-        "title_en": "The cost of Iran’s regional leverage",
-        "summary": [
-            "توافق 2023 بین عربستان و ایران فضای دیپلماتیک ایجاد کرد اما رقابت را حذف نکرد",
-            "حملات مستقیم ایران به عربستان و حملات حوثی‌ها منجر به اخراج پیراهن نظامی و تعلیق مذاکرات شد",
-            "نتیجه نشان می‌دهد تهران نمی‌تواند همزمان روابط پایدار با همسایگان عربی و فشار استراتژیک را حفظ کند"
-        ],
-        "impact": "تحریم‌های دیپلماتیک و کاهش همکاری‌های اقتصادی خلیج‌فارس",
-        "tag": "سیاست‌منطقه‌ای",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage",
-        "clean_url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260916__C8H86MQ__v1__MidRes__YemenIranUsIsraelWar-1789581728.jpg?resize=1200%2C630",
-        "timestamp": 1789714320.0
-    },
-    {
-        "id": "706f97c07e",
-        "title_fa": "جایگزین‌های سوئیفت و نقش CBDC در بریکس",
-        "title_en": "What are the alternatives to SWIFT, and how are they faring? Explained",
-        "summary": [
-            "بریکس قصد دارد با استفاده از ارزهای ملی و CBDC، وابستگی به سامانه سوئیفت را کاهش دهد",
-            "چین و روسیه پیش‌قدم‌اند، اما موانع فنی و نظارتی برای اجرای یکپارچه‌سازی دیجیتال بین‌المللی جدی است",
-            "موفقیت این طرح می‌تواند هزینه‌های تراکنش تجاری بین‌المللی را به‌طور قابل‌توجهی کاهش دهد"
-        ],
-        "impact": "کاهش نقش سوئیفت می‌تواند جریان‌های مالی بین‌المللی را بازنویسی کند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/what-are-the-alternatives-to-swift-and-how-are-they-faring-explained/article71483749.ece",
-        "clean_url": "https://www.thehindu.com/news/international/what-are-the-alternatives-to-swift-and-how-are-they-faring-explained/article71483749.ece",
-        "image": "https://th-i.thgim.com/public/incoming/q27sdy/article71483755.ece/alternates/LANDSCAPE_1200/IMG_TH---RUSSIA-CYBERSWI_2_1_GV9HT0TE.jpg",
-        "timestamp": 1789713579.0
-    },
-    {
-        "id": "3b61656968",
-        "title_fa": "بازسازی پارچین با محافظت انفجاری جدید",
-        "title_en": "Iran rebuilds Parchin nuclear-related site, adds new blast protection",
-        "summary": [
-            "ایران پس از بازدیدهای بین‌المللی، سایت پارچین را با سازه‌های مقاوم در برابر انفجار بازسازی کرد",
-            "افزودن سپرهای انفجاری نشان‌دهنده قصد ادامه برنامه‌های هسته‌ای و مخفی‌سازی اثرات تست‌هاست",
-            "این اقدام می‌تواند نظارت سازمان‌های غیرنظامی را دشوارتر کند و فشار بین‌المللی را افزایش دهد"
-        ],
-        "impact": "توانمندی تست‌های هسته‌ای ایران را تقویت می‌کند و مانع شناسایی دقیق توسط ناظران می‌شود",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5Qjk5TlQ4bDg4UC0tYlpzd1F2MUI1ajhCdWdqQ1pxQkRpb2U1X0hEdUdTNUxrdkRxVDRpakdsOExXVXF6cGs0OU0zczRCVmlXenNoSTZ6MXpDNjg5YW5GSnJtY19vN2NZLXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5Qjk5TlQ4bDg4UC0tYlpzd1F2MUI1ajhCdWdqQ1pxQkRpb2U1X0hEdUdTNUxrdkRxVDRpakdsOExXVXF6cGs0OU0zczRCVmlXenNoSTZ6MXpDNjg5YW5GSnJtY19vN2NZLXc",
-        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789713232.0
-    },
-    {
-        "id": "4ebb383529",
-        "title_fa": "خبر بین‌المللی — ایران جنگ is driving clean energy development. It's not eno",
-        "title_en": "The Iran war is driving clean energy development. It's not enough to help the planet, yet",
-        "summary": [
-            "Countries are embracing clean power and taking steps to use less energy because of the war against Iran, but it is not yet enough to help address climate change.When the US and Israel launched the war..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "AsiaOne",
-        "url": "https://www.asiaone.com/world/iran-war-driving-clean-energy-development-its-not-enough-help-planet-yet",
-        "clean_url": "https://www.asiaone.com/world/iran-war-driving-clean-energy-development-its-not-enough-help-planet-yet",
-        "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Sep2026/solar%20farm.jpg?itok=XH1XtAsn",
-        "timestamp": 1789712899.8106813
-    },
-    {
-        "id": "98ba22e399",
-        "title_fa": "خبر بین‌المللی — Record diesel prices could be ترامپ's Achilles' heel",
-        "title_en": "Record diesel prices could be Trump's Achilles' heel",
-        "summary": [
-            "Unlike crude oil or gasoline, diesel rarely makes front-page news, yet it now has U.S. President Donald Trump’s full attention. Spiking prices for the fuel threaten to push inflation much higher, and..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/commentary/reuters-open-interest/record-diesel-prices-could-be-trumps-achilles-heel-2026-09-18/",
-        "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/record-diesel-prices-could-be-trumps-achilles-heel-2026-09-18",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789712894.2024772
     }
 ]
