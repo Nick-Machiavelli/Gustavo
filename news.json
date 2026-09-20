@@ -466,6 +466,25 @@
         "timestamp": 1789855915.6476245
     },
     {
+        "id": "a3081a9a34",
+        "title_fa": "هفت شرط صلح ایران؛ تهدید جنگ قاطع",
+        "title_en": "Iran Conveys 7 Conditions For Peace to Trump, Warns Of 'Decisive War' If Rejected",
+        "summary": [
+            "سخنگوی شورای امنیت ملی ایران هفت شرط اساسی برای پایان جنگ از جمله آزادی دارایی‌های مسدود شده و رفع محاصره دریایی را مطرح کرد.",
+            "در عین حال هشدار داد که در صورت رد این شرایط، ایران برای جنگ قاطع آماده است.",
+            "این پیام می‌تواند فشار دیپلماتیک بر ایالات متحده را افزایش دهد."
+        ],
+        "impact": "افزایش خطر تشدید درگیری نظامی در صورت عدم توافق",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/tehran-sets-conditions-for-wars-end-relayed-to-us-via-qatar-article-156188504",
+        "clean_url": "https://www.timesnownews.com/world/tehran-sets-conditions-for-wars-end-relayed-to-us-via-qatar-article-156188504",
+        "image": "https://images.timesnownews.com/thumb/msid-156189572,thumbsize-120915,width-1280,height-720,resizemode-75/156189572.jpg",
+        "timestamp": 1789852320.0
+    },
+    {
         "id": "606ef7ec26",
         "title_fa": "اقتصاد جهانی فضای مانع‌پذیری می‌یابد",
         "title_en": "Global economy is running out of wiggle room",
@@ -2219,6 +2238,99 @@
         "clean_url": "https://www.foxnews.com/video/6405314405112",
         "image": "http://www.bing.com/th?id=ONUT.4weKabXFAYA8L-7H2dJ1uQ&pid=News",
         "timestamp": 1789794720.0
+    },
+    {
+        "id": "6433144960",
+        "title_fa": "ترامپ از دشمنی به چین می‌پیوندد",
+        "title_en": "Trump used to slam China. Here’s why he’s now rolling out the red carpet for Xi",
+        "summary": [
+            "در سال ۲۰۱۶ ترامپ چین را تهدید اقتصادی می‌نامید؛ امروز او به صورت علنی از همکاری با شی جین‌پینگ حمایت می‌کند.",
+            "تغییر موضع می‌تواند فشارهای تجاری آمریکا را کاهش داده و مسیر مذاکرات تجاری را هموار سازد."
+        ],
+        "impact": "احتمال کاهش تحریم‌های تجاری علیه چین و بازنگری در سیاست‌های دوطرفه آمریکا-چین",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/trump-xi-china-relationship-ai-tariffs-iran-2716ee31afa579e9ca18ae76cbe35ab9",
+        "clean_url": "https://apnews.com/article/trump-xi-china-relationship-ai-tariffs-iran-2716ee31afa579e9ca18ae76cbe35ab9",
+        "image": "https://www.bing.com/th?id=ONUT.Nj1WiNwY5O0BixM_9L7_YQ",
+        "timestamp": 1789794166.0
+    },
+    {
+        "id": "733c6c9497",
+        "title_fa": "قانون جدید، امکان تعرفه ۱۰۰٪ برای چین و هند",
+        "title_en": "US law gives Trump power to impose 100% tariffs on India, China over Russian oil",
+        "summary": [
+            "قانون جدید به ترامپ اجازه می‌دهد تا تا صد درصد تعرفه بر کالاهای پنج خریدار بزرگ نفت روسیه اعمال کند.",
+            "چین و هند در فهرست این خریداران قرار دارند؛ اما اعمال تعرفه نیاز به تصمیم اجرایی دارد.",
+            "قابلیت بدون محدودیت این ابزار می‌تواند فشار اقتصادی شدید بر بازارهای انرژی جهانی ایجاد کند."
+        ],
+        "impact": "ریسک افزایش هزینه‌های انرژی برای کشورهای وابسته به نفت روسیه و تغییر جریان تجاری بین‌المللی",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/us-law-gives-trump-power-to-impose-100-tariffs-on-india-china-over-russian-oil-101789874185931.html",
+        "clean_url": "https://www.hindustantimes.com/india-news/us-law-gives-trump-power-to-impose-100-tariffs-on-india-china-over-russian-oil-101789874185931.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/US-POLITICS-TRUMP-8_1789778530946_eVuk_17897785440_1789874962260_5ZHL_1789874962445_GUd2_ac23d79a-3554-463e-8506-b511f0bc50de_lOxz.jpg",
+        "timestamp": 1789794166.0
+    },
+    {
+        "id": "47c36ad6c9",
+        "title_fa": "ایران منتظر پاسخ ترامپ درباره شرایط جنگ",
+        "title_en": "No signs of US proposal via Pakistan: Iran waits for Trump’s answer on war terms",
+        "summary": [
+            "قاطر امنیتی ایران اعلام کرد مذاکرات از طریق قطر و پاکستان ادامه دارد اما هنوز پیشنهادی از آمریکا دریافت نشده است.",
+            "عدم دریافت پاسخ می‌تواند مذاکرات صلح را به تعویق بیندازد و فشارهای نظامی را افزایش دهد."
+        ],
+        "impact": "تشدید عدم اطمینان در منطقه و احتمال ادامه تنش‌های نظامی",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Statesman on MSN",
+        "url": "https://www.msn.com/en-in/news/world/no-signs-of-us-proposal-via-pakistan-iran-waits-for-trump-s-answer-on-war-terms/ar-AA2cApmc?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/world/no-signs-of-us-proposal-via-pakistan-iran-waits-for-trump-s-answer-on-war-terms/ar-AA2cApmc",
+        "image": "https://www.bing.com/th?id=ONUT.uE6_bW7_R9__ssUtuj_Cog",
+        "timestamp": 1789794166.0
+    },
+    {
+        "id": "1bf1da46ad",
+        "title_fa": "جنگ ایران‑آمریکا، خطای استراتژیک ترامپ",
+        "title_en": "The Telegraph Says Trump’s Iran War Became a Strategic Miscalculation",
+        "summary": [
+            "تحلیلگران بریتانیایی می‌گویند عملیات نظامی علیه ایران به‌جای پایان سریع، به درگیری طولانی تبدیل شد.",
+            "بسته شدن تنگه هرمز به‌عنوان پیامد مستقیم جنگ، تجارت جهانی نفت را تحت فشار قرار داد.",
+            "عدم پیش‌بینی دقیق هزینه‌های انسانی و اقتصادی، نشانگر ضعف برنامه‌ریزی استراتژیک است."
+        ],
+        "impact": "تشدید هزینه‌های مالی و سیاسی برای دولت آمریکا و افزایش نارضایتی داخلی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Voennoe Delo",
+        "url": "https://voennoedelo.com/en/posts/id20058-telegraph-calls-trump-s-iran-war-a-us-miscalculation",
+        "clean_url": "https://voennoedelo.com/en/posts/id20058-telegraph-calls-trump-s-iran-war-a-us-miscalculation",
+        "image": "https://www.bing.com/th?id=ONUT.BG7fDHFrn_oQJ-ptxjqX8Q",
+        "timestamp": 1789794166.0
+    },
+    {
+        "id": "5ded3dcd9a",
+        "title_fa": "ترامپ به حل اوکراین می‌پردازد، برنامه هسته‌ای ایران",
+        "title_en": "Trump makes attempts to resolve conflict in Ukraine — US envoy to UN",
+        "summary": [
+            "سفیر آمریکا در سازمان ملل اعلام کرد ترامپ قصد دارد در مجمع عمومی به مسألهٔ صلح اوکراین و برنامه هسته‌ای ایران بپردازد.",
+            "تمرکز بر صلح اوکراین می‌تواند فشارهای بین‌المللی بر روسیه را کاهش دهد؛ اما اشاره به برنامه هسته‌ای ایران احتمالاً مذاکرات جدیدی را در خاورمیانه به راه می‌اندازد.",
+            "بیان این موضوعات در یک سخنرانی می‌تواند تصویر آمریکا را به‌عنوان میانجی‌گر جهانی تقویت کند."
+        ],
+        "impact": "امکان بازگشت مذاکرات هسته‌ای ایران و تغییر دینامیک دیپلماتیک در خاورمیانه",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2190205",
+        "clean_url": "https://tass.com/world/2190205",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1789794166.0
     },
     {
         "id": "f2f66cc78d",
@@ -5382,117 +5494,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/his-staff-reads-the-threat-file-mamdani-only-gets-the-summary/ar-AA2cumf3",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789729517.9699917
-    },
-    {
-        "id": "4b0f332a66",
-        "title_fa": "هشدار هوایی گسترده عربستان در برابر تهدید هوایی دشمن",
-        "title_en": "Saudi Arabia issues air raid alerts across the country, and other Mideast developments",
-        "summary": [
-            "عربستان تهدید هوایی hostile را اعلام کرد و هشدارهای اضطراری را در تمام استان‌ها فعال کرد",
-            "این اقدام نشانگر تشدید تنش‌های هوایی در خاورمیانه و احتمال حملات پهپادی یا موشکی است",
-            "واکنش ایران و دیگر همسایگان می‌تواند سطح خطر را به‌سرعت بالا ببرد"
-        ],
-        "impact": "افزایش خطر برخورد هوایی؛ احتمال بروز درگیری هوایی محدود در منطقه",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Canadian Press on MSN",
-        "url": "https://www.msn.com/en-ca/news/world/saudi-arabia-issues-air-raid-alerts-across-the-country-and-other-mideast-developments/ar-AA2cy4So?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/world/saudi-arabia-issues-air-raid-alerts-across-the-country-and-other-mideast-developments/ar-AA2cy4So",
-        "image": "https://www.bing.com/th?id=ONUT.oCY7EwndDEyv03TboxwS-Q",
-        "timestamp": 1789729362.0
-    },
-    {
-        "id": "cdb9be680a",
-        "title_fa": "کاندید سوسیالیست کلار واِلدِز تحت فشار برای بررسی قانون لاگان",
-        "title_en": "Socialist Claire Valdez faces calls for federal probe after Mexico ‘fight’ pledge",
-        "summary": [
-            "کلار واِلدِز پس از ملاقات با اعضای حزب چپ مکزیک، تحت فشار برای بررسی قانون لاگان قرار گرفت",
-            "قانون لاگان برای جلوگیری از مداخله غیرمجاز شهروندان در روابط خارجی آمریکا است",
-            "این درخواست نشان از حساسیت دولت به هرگونه ارتباط سیاسی با دولت‌های خارجی دارد",
-            "اگر بررسی شود، می‌تواند پیش‌زمینه‌ای برای محدود کردن فعالیت‌های سیاسی داخلی باشد"
-        ],
-        "impact": "ممکن است باعث محدودیت‌های قانونی برای تعاملات سیاسی با خارجیان شود",
-        "tag": "قانون",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/socialist-claire-valdez-faces-calls-federal-probe-mexico-fight-pledge",
-        "clean_url": "https://www.foxnews.com/politics/socialist-claire-valdez-faces-calls-federal-probe-mexico-fight-pledge",
-        "image": "http://www.bing.com/th?id=ONUT.gOmrLqXWm74JYATgMhSxWQ&pid=News",
-        "timestamp": 1789729200.0
-    },
-    {
-        "id": "a4a7abc7bc",
-        "title_fa": "ویدیوهای ترکیبی واشنگتن با صحنه‌های جنگ ایران",
-        "title_en": "White House posts so-called 'hype' videos combining real Iran war footage alongside movie, video game clips - ABC News",
-        "summary": [
-            "واشنگتن ویدیوهای تبلیغی منتشر کرد که صحنه‌های واقعی جنگ ایران را با کلیپ‌های فیلم و بازی ترکیب می‌کند.",
-            "این ترکیب می‌تواند به‌عنوان جنگ روانی عمل کرده و تصویر مخفی‌سازی شده‌ای از تهدیدهای نظامی آمریکا به ایران ارائه دهد."
-        ],
-        "impact": "تشدید جنگ اطلاعاتی و افزایش بی‌اعتمادی بین دو کشور",
-        "tag": "پروپاگاندا",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAyY0FXd2RlMlRnQWFp0gGmAUFVX3lxTFBiOXlWck42MkJWNjhKWDVDQWZXVGdLNm94cEU4b2ZJdlkxWFVyVWJpQkppenhGeW1JWGpESDh4UDFTS2s3WS1qa0c2cXJXLTlWa0pnd2pjZ19WcVZFaFhxRDZqNkI4QURjSGpDd0JUQ1lXSGY0Y3hGRVJrNUQyLUlzeEpTNmVwZmhobmZDeHlsWVk2NktDNEdwWXA2Uld5Z0JBUkhWVGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAyY0FXd2RlMlRnQWFp0gGmAUFVX3lxTFBiOXlWck42MkJWNjhKWDVDQWZXVGdLNm94cEU4b2ZJdlkxWFVyVWJpQkppenhGeW1JWGpESDh4UDFTS2s3WS1qa0c2cXJXLTlWa0pnd2pjZ19WcVZFaFhxRDZqNkI4QURjSGpDd0JUQ1lXSGY0Y3hGRVJrNUQyLUlzeEpTNmVwZmhobmZDeHlsWVk2NktDNEdwWXA2Uld5Z0JBUkhWVGc",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789729127.0
-    },
-    {
-        "id": "0151861c90",
-        "title_fa": "خبر بین‌المللی — Satellite images show ایران rapidly rebuilding هسته‌ای facil",
-        "title_en": "Satellite images show Iran rapidly rebuilding nuclear facility",
-        "summary": [
-            "Iran is rapidly rebuilding a secretive military facility linked to its nuclear weapons programme that was destroyed by Israeli bunker-busting bombs, new satellite imagery reveals."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/satellite-images-show-iran-rapidly-175706388.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/satellite-images-show-iran-rapidly-175706388.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/3b08583a5e2da2b3b00defc4a890de293ac5c76a3a9cf4d765f28412119beaeb/lightyear_networkapi/resizefill_w801_h502%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F9245ab1f05b1a1b7e2bf6aaaa37cf454.jpg",
-        "timestamp": 1789729020.0
-    },
-    {
-        "id": "2b0bddb2c0",
-        "title_fa": "آمادگی برای حمله به ایران",
-        "title_en": "The next Iran strike: How legal, economic, and diplomatic pressures are priming the region for war",
-        "summary": [
-            "تحریم‌های جدید، پرونده‌های حقوقی و فشارهای اقتصادی مسیر را برای عملیات نظامی هموار می‌کند",
-            "کشورهای منطقه و ایالات متحده به‌سرعت به گزینه نظامی می‌اندیشند",
-            "هر گونه پیشرفت در این زمینه می‌تواند بازارهای انرژی را به‌طور ناگهانی نوسان دهد"
-        ],
-        "impact": "افزایش خطر نظامی، نوسان شدید قیمت نفت",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Bulletin of the Atomic Scientists",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVFBemVSQkVySzlVSzBKcHFuWWdLTDEtNHZNQmRaakNBR0FDY3FlREt3T1dmcjg1aXFhSmtWamxzQUlGTzRSeXVFSVJlLTRxMDdkN3diVzVqWVo1NWR1ZVhqNlVzdzQwSjBwMjlRaG4wM0hMSVNnNS1iN2R4VUdnTldVU3U2c0lIUEhvZExiT0NaY1RNSEU5cUJlcFdraXZfcDNGYnJVcGhNX0tETUY3X2l5QnV1SGp3UWJweGZ1Rlc4QnRTaThN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVFBemVSQkVySzlVSzBKcHFuWWdLTDEtNHZNQmRaakNBR0FDY3FlREt3T1dmcjg1aXFhSmtWamxzQUlGTzRSeXVFSVJlLTRxMDdkN3diVzVqWVo1NWR1ZVhqNlVzdzQwSjBwMjlRaG4wM0hMSVNnNS1iN2R4VUdnTldVU3U2c0lIUEhvZExiT0NaY1RNSEU5cUJlcFdraXZfcDNGYnJVcGhNX0tETUY3X2l5QnV1SGp3UWJweGZ1Rlc4QnRTaThN",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789728901.0
-    },
-    {
-        "id": "97aff6846a",
-        "title_fa": "۴۰ عملیات مخالفان در ۲۱ شهر برای یادبود ۲۰۲۲",
-        "title_en": "Resistance Units Conduct 40 Operations Across 21 Iranian Cities to Honor 2022 Uprising Martyrs - National Council of Resistance of Iran",
-        "summary": [
-            "اعلام ۴۰ عملیات نمادین نشان‌دهنده توان سازمانی مخالفان است.",
-            "حضور در شهرهای کلیدی می‌تواند فشار بر نیروهای امنیتی را افزایش دهد.",
-            "احتمال سرکوب گسترده و بازداشت‌های بیشتر در پی این اقدام‌ها وجود دارد."
-        ],
-        "impact": "افزایش فشار بر امنیت داخلی و احتمال سرکوب گسترده",
-        "tag": "اعتراض",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWElMdVZ2UGZfbXc5Yzk1OE5lWW1SRTBxZ1Zjb0VsZFVPSmo2ZTJqVlZlSkRnV1J5QWh1QmNWZGp4c19mYVJSTTFHX3RZTzBLRlhUWGF2U0RRbi1KNFFKM2s1QXNKRm91bmFrUjZRcGZ3SEdfNWgwTkY3d0U1czg5anBVMVdoa3kxb3lKZngwZm9BRFVzODhEU0dVdmV2dVhiby13UjJ5XzlTX0tGSzBzUThQQzhrYkR4cklrSVRSalNCYnZtMTNJa3oxdnh6NkV6WlNncDZXOTN0dXBUeGhzdW9KblJDaks4R2poUHBzNnY3a3JhTFdocg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWElMdVZ2UGZfbXc5Yzk1OE5lWW1SRTBxZ1Zjb0VsZFVPSmo2ZTJqVlZlSkRnV1J5QWh1QmNWZGp4c19mYVJSTTFHX3RZTzBLRlhUWGF2U0RRbi1KNFFKM2s1QXNKRm91bmFrUjZRcGZ3SEdfNWgwTkY3d0U1czg5anBVMVdoa3kxb3lKZngwZm9BRFVzODhEU0dVdmV2dVhiby13UjJ5XzlTX0tGSzBzUThQQzhrYkR4cklrSVRSalNCYnZtMTNJa3oxdnh6NkV6WlNncDZXOTN0dXBUeGhzdW9KblJDaks4R2poUHBzNnY3a3JhTFdocg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789728861.0
     }
 ]
