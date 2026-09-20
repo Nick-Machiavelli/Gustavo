@@ -772,6 +772,23 @@
         "timestamp": 1789891857.0
     },
     {
+        "id": "ecce4a2572",
+        "title_fa": "فاکس نیوز: ترامپ می‌گوید در «حالت تصمیم گیری» درباره ایران است",
+        "title_en": "Trump says he is in ‘deciding mode’ on Iran – Fox News",
+        "summary": [
+            "Trump also said he would probably be open to meeting Iranian President Masoud Pezeshkian during the UN General Assembly this week and described himself as being in a “deciding mode” over Iran."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609208326",
+        "clean_url": "https://www.iranintl.com/en/202609208326",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/c7ae946db2e5c3e791e43fe01362221a705da896-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789891260.0
+    },
+    {
         "id": "fff06dcbc4",
         "title_fa": "تحریم‌های ترامپ، تورم و اقتصاد در حال فروپاشی، بیماران ایران را آشکار می‌کند",
         "title_en": "Trump’s sanctions, inflation and a collapsing economy leaves Iran’s sick exposed",
@@ -2280,6 +2297,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mSlhvWFNBVV9EYmNCcXBjVTBJSW5zM29EYmpBVl9QcF91R0hlTnZlQTRQOXBaS3dJSFF4d1VBTVpiX3NubEN2VGNtcnBTXzZBN19zQ0RvSTBraVVvSC03bzJ1TEhScVFVNmttSkZsRV9Rd25vNWFIaWNMU1dQUQ",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789833214.0
+    },
+    {
+        "id": "dad2c07b7c",
+        "title_fa": "رتکلیف رئیس سیا از السیسی رئیس جمهور مصر در قاهره بازدید کرد",
+        "title_en": "CIA-Chef Ratcliffe zu Gast bei Ägyptens Präsident al-Sisi in Kairo",
+        "summary": [
+            "Krisen in Südwestasien und im Sudan waren laut Ägypten Themen des Gesprächs. Ratcliffe traf sich zuvor mit Mohammed bin..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "derStandard.at on MSN",
+        "url": "https://www.msn.com/de-at/nachrichten/ausland/cia-chef-ratcliffe-zu-gast-bei-ägyptens-präsident-al-sisi-in-kairo/ar-AA2cBKtR?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/de-at/nachrichten/ausland/cia-chef-ratcliffe-zu-gast-bei-ägyptens-präsident-al-sisi-in-kairo/ar-AA2cBKtR",
+        "image": "https://www.bing.com/th?id=ONUT.s0iT6LLorfjWkZivf7Jh5w",
+        "timestamp": 1789832857.0
     },
     {
         "id": "0321118d6e",
@@ -5430,44 +5464,5 @@
         "clean_url": "https://tass.com/world/2190181",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1789786161.0
-    },
-    {
-        "id": "41239d16da",
-        "title_fa": "تهدید ۱۰۰٪ تعرفه بر هند توسط ترامپ",
-        "title_en": "Threat of 100% tariffs looms on India as Trump enacts Russia sanctions",
-        "summary": [
-            "ترامپ با تحریم روسیه، فشار اقتصادی را به کشورهای دیگر گسترش می‌دهد",
-            "تعرفه ۱۰۰٪ بر هند می‌تواند زنجیره تأمین انرژی و کالاهای ایرانی را تحت فشار بگذارد",
-            "این اقدام نشان‌دهنده سیاست فشار حداکثری ترامپ علیه هر کشوری است که با روسیه همکاری دارد",
-            "برای ایران خطر گسترش تحریم‌ها و فشارهای تجاری جدید به‌وجود می‌آید"
-        ],
-        "impact": "هند ممکن است صادراتش به‌طور ناگهانی قطع شود؛ ایران تحت فشار تحریم‌های گسترده‌تر قرار می‌گیرد",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/threat-of-100-tariffs-looms-on-india-as-trump-enacts-russia-sanctions/ar-AA2cAkBl?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/threat-of-100-tariffs-looms-on-india-as-trump-enacts-russia-sanctions/ar-AA2cAkBl",
-        "image": "https://www.bing.com/th?id=ONUT.kVzEvMMT02DMxY-EQLDfhQ",
-        "timestamp": 1789785646.0
-    },
-    {
-        "id": "6c44d073e9",
-        "title_fa": "به‌روزرسانی وضعیت نظامی ایران – ۱۸ سپتامبر ۲۰۲۶",
-        "title_en": "Iran Update, September 18, 2026",
-        "summary": [
-            "گزارش ISW نشان می‌دهد ایران مواضع نظامی خود را در خلیج فارس تقویت کرده است",
-            "نیروهای شبه‌نظامی ایران در سوریه و لبنان فعالیت‌های نیابتی خود را گسترش داده‌اند",
-            "پیشرفت‌های فنی در برنامه هسته‌ای ایران در این به‌روزرسانی برجسته شده است"
-        ],
-        "impact": "تنش‌های منطقه‌ای افزایش می‌یابد و احتمال واکنش‌های بین‌المللی به برنامه هسته‌ای بالا می‌رود",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Institute for the Study of War",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHZTUm5LQTliUnR6YXpoNzE5b2NWMDc4VVpRS1c5QXk5QmRBZ3pBTXJpX1lYSUhTbG1vdUFnLVp0NjYwUGdQUF9VMlU1UGhZMDBxbnJMZXFsWVNqMkQ4c0pJbGVTZXhibXlkVGY0UkpNZG80ZzVBMDZhVFZjYmluZDRCWVpTRHM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHZTUm5LQTliUnR6YXpoNzE5b2NWMDc4VVpRS1c5QXk5QmRBZ3pBTXJpX1lYSUhTbG1vdUFnLVp0NjYwUGdQUF9VMlU1UGhZMDBxbnJMZXFsWVNqMkQ4c0pJbGVTZXhibXlkVGY0UkpNZG80ZzVBMDZhVFZjYmluZDRCWVpTRHM",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789785128.0
     }
 ]
