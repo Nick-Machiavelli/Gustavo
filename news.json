@@ -54,6 +54,26 @@
         "timestamp": 1789932741.3770497
     },
     {
+        "id": "0575c3bf6d",
+        "title_fa": "حسیت: رئیس‌جمهور مجبور به اقدام شد",
+        "title_en": "Hassett on Iran war: ‘The president had to act’",
+        "summary": [
+            "حسیت می‌گوید رئیس‌جمهور برای جلوگیری از تهدیدات ایران مجبور به اقدام نظامی شد",
+            "این اظهارات نشانگر تشدید تنش‌های منطقه‌ای و خطر گسترش درگیری به کشورهای همسایه است",
+            "سخن‌چینی او می‌تواند پیش‌زمینه‌ای برای اعمال تحریم‌های جدید یا ارسال کمک‌های نظامی به متحدان باشد",
+            "احتمال واکنش تلافی‌جویانه ایران بالا است و می‌تواند فضای امنیتی خاورمیانه را به‌هم بزند"
+        ],
+        "impact": "افزایش خطر درگیری نظامی و اعمال تحریم‌های سنگین علیه ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXhBWGhlUVJPQTBVVDhmaVZERzJ1U3FPbWhXX0c1ODRfNTFSNXVXQ25YUWhtYjN0c2ZWNDVJTGVMdk5sRi02MlgtWXdhdHNHSERZSTdkblhMNWh5TzFiMjFSTXQ5eExxWTZQOHRPQ2hyd1RyTU5FYTdCYXhHVmZSdHdnZm1SSTJDaUxn0gGQAUFVX3lxTFBPZzQ3T1lEMWlEX2hCS3dRUklXbXFvWWJDVW4zaVBqaVJiOHdUdFREWUtuWGtPWkQ2bVVscmdZemVfZjRYVm4wSEQzRjR2Z21SaGo1U0tmM2gxQl9EOE5JWjhVcFF1UnRmWFpzSnU4QmxLS1EweUpJdVhmTGs1bFN5Y2w3RDdHSl9HRC1rcnRfTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXhBWGhlUVJPQTBVVDhmaVZERzJ1U3FPbWhXX0c1ODRfNTFSNXVXQ25YUWhtYjN0c2ZWNDVJTGVMdk5sRi02MlgtWXdhdHNHSERZSTdkblhMNWh5TzFiMjFSTXQ5eExxWTZQOHRPQ2hyd1RyTU5FYTdCYXhHVmZSdHdnZm1SSTJDaUxn0gGQAUFVX3lxTFBPZzQ3T1lEMWlEX2hCS3dRUklXbXFvWWJDVW4zaVBqaVJiOHdUdFREWUtuWGtPWkQ2bVVscmdZemVfZjRYVm4wSEQzRjR2Z21SaGo1U0tmM2gxQl9EOE5JWjhVcFF1UnRmWFpzSnU4QmxLS1EweUpJdVhmTGs1bFN5Y2w3RDdHSl9HRC1rcnRfTw",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789932000.0
+    },
+    {
         "id": "dda6f75be3",
         "title_fa": "نیکلاس کریستوف: در اینجا آمده است که چگونه ترامپ و شی می‌توانند در زمینه هوش مصنوعی پیشرفت کنند",
         "title_en": "Nicholas Kristof: Here’s how Trump and Xi can make progress on AI",
@@ -5448,25 +5468,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/ms-now-denied-access-to-white-house-after-trump-said-he-s-banning-the-network-cnn-and-politico/ar-AA2cyIk5",
         "image": "http://www.bing.com/th?id=ONUT.91hMEYh7s6g_gr6BOEp7bw&pid=News",
         "timestamp": 1789801363.0
-    },
-    {
-        "id": "f4417d0b93",
-        "title_fa": "هشدار هوایی ساعتی در عربستان پس از تهدید هوایی",
-        "title_en": "Saudi Arabia issues air raid alerts across the country, and other Mideast...",
-        "summary": [
-            "عربستان هشدارهای اضطراری برای تهدید هوایی صادر کرد",
-            "انفجار شنیده شد اما هیچ خسارتی گزارش نشد",
-            "این اولین هشدار در ریاض پس از تشدید درگیری با حوثی‌های یمن است",
-            "مقامات هنوز دلیل دقیق را فاش نکرده‌اند"
-        ],
-        "impact": "افزایش اضطراب هوایی در خلیج و احتمال محدودیت پروازی و هزینه‌های دفاعی",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Associated Press · via Yahoo News",
-        "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
-        "image": "https://media.zenfs.com/en/ap.org/a8caef09711648e212883dba0776b854.jpg",
-        "timestamp": 1789801360.0
     }
 ]
