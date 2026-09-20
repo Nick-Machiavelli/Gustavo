@@ -2153,6 +2153,26 @@
         "timestamp": 1789839285.0
     },
     {
+        "id": "9e2718e353",
+        "title_fa": "وضعیت نفت و ایران به‌شدت وخیم شد",
+        "title_en": "The oil & Iran situation just got really bad",
+        "summary": [
+            "تحریم‌های جدید آمریکا و اتحادیه اروپا صادرات نفت ایران را به‌طور جدی محدود کردند",
+            "کاهش عرضه باعث نوسان شدید قیمت نفت در بازارهای جهانی شد",
+            "سرمایه‌گذاران بین‌المللی به‌سرعت به منابع جایگزین روی می‌آورند",
+            "ایران ممکن است برای جبران خسارت، به فروش نفت در مسیرهای غیرقانونی بپردازد"
+        ],
+        "impact": "قیمت نفت جهانی بالا می‌رود و فشار اقتصادی بر مصرف‌کنندگان و صنایع انرژی افزایش می‌یابد",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "YouTube on MSN",
+        "url": "https://www.msn.com/en-us/news/other/the-oil-iran-situation-just-got-really-bad/vi-AA2cBZP4?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/the-oil-iran-situation-just-got-really-bad/vi-AA2cBZP4",
+        "image": "https://www.bing.com/th?id=ONUT.EOsWxZT6sWZ-TxC3yy9uHA",
+        "timestamp": 1789839214.0
+    },
+    {
         "id": "4ebc53ad18",
         "title_fa": "هشدار آمریکا از جنگ پس از حمله حوثی‌ها به ریاض",
         "title_en": "US fears rapid escalation in Mideast after Houthis attack Riyadh",
@@ -5448,22 +5468,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-tehran-holds-huge-pro-regime-march-in-defiance-of-trump/ar-AA2ct6HW",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789793512.0
-    },
-    {
-        "id": "7328676f9a",
-        "title_fa": "اسکای‌نیوز عربی: کارشناسان سپاه پاسداران از مواضع تازه حوثی‌ها در باب‌المندب بازدید کردند",
-        "title_en": "اسکای‌نیوز عربی: کارشناسان سپاه پاسداران از مواضع تازه حوثی‌ها در باب‌المندب بازدید کردند",
-        "summary": [
-            "اسکای‌نیوز عربی به نقل از منابع نظامی یمنی گزارش داد هم‌زمان با گسترش حضور حوثی‌ها در مناطق راهبردی مشرف به جنوب دریای سرخ، چهار کارشناس سپاه پاسداران از بندر و فرودگاه مُخا و منطقه باب‌المندب بازدید..."
-        ],
-        "impact": "...",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/2026091968570",
-        "clean_url": "https://www.iranintl.com/2026091968570",
-        "image": "http://www.bing.com/th?id=ONUT._xjrx_LY9t_AiVHjo2YNrA&pid=News",
-        "timestamp": 1789793340.0
     }
 ]
