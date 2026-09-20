@@ -2259,6 +2259,23 @@
         "timestamp": 1789854540.0
     },
     {
+        "id": "51c7933cd8",
+        "title_fa": "خبر بین‌المللی — ایران warns US و its allies against new حمله, threatens reta",
+        "title_en": "Iran warns US and its allies against new attack, threatens retaliation",
+        "summary": [
+            "Iran warned on Sunday that any major new attack by the United States and its allies would trigger sustained retaliation,..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-allies-against-new-attack-threatens-retaliation/articleshow/134374995.cms",
+        "image": "https://www.bing.com/th?id=ONUT.2445Pr1w27Mg3CeIvMjynQ",
+        "timestamp": 1789852329.0
+    },
+    {
         "id": "a3081a9a34",
         "title_fa": "هفت شرط صلح ایران؛ تهدید جنگ قاطع",
         "title_en": "Iran Conveys 7 Conditions For Peace to Trump, Warns Of 'Decisive War' If Rejected",
@@ -5445,25 +5462,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-says-war-end-terms-sent-to-trump/ar-AA2czdpQ",
         "image": "http://www.bing.com/th?id=ONUT.1OZohuX8BamrHQYb7XIRsQ&pid=News",
         "timestamp": 1789807511.0
-    },
-    {
-        "id": "92d88d42f7",
-        "title_fa": "برنامهٔ سازمان ملل: هوش مصنوعی، تنش خاورمیانه، اوکراین",
-        "title_en": "AI, Middle East escalation, Ukraine-Russia war on agenda for upcoming UN General Assembly",
-        "summary": [
-            "مجمع عمومی سازمان ملل هفته آینده به بررسی تأثیر هوش مصنوعی بر امنیت بین‌المللی می‌پردازد",
-            "بحران‌های خاورمیانه، به‌ویژه تنش‌های اسرائیل‑حماس و حضور ایران، در دستور کار قرار دارد",
-            "جنگ اوکراین‑روسیه نیز به‌عنوان عامل اصلی تغییر تعادل ژئوپلیتیک مطرح می‌شود",
-            "ترکیب این سه محور می‌تواند تصمیم‌گیری‌های آیندهٔ سازمان ملل را تحت فشار قرار دهد"
-        ],
-        "impact": "نتیجهٔ این مباحث می‌تواند تصمیمات جدید تحریمی یا فناوری‌پذیری را برای کشورهای عضو به‌وجود آورد",
-        "tag": "دیپلماتیک",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-ca/politics/government/ai-middle-east-escalation-ukraine-russia-war-on-agenda-for-upcoming-un-general-assembly/ar-AA2cBioG?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/politics/government/ai-middle-east-escalation-ukraine-russia-war-on-agenda-for-upcoming-un-general-assembly/ar-AA2cBioG",
-        "image": "https://www.bing.com/th?id=ONUT.1bHM0UeetozJivl8JGNRVA",
-        "timestamp": 1789806973.0
     }
 ]
