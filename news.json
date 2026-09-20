@@ -1,5 +1,25 @@
 [
     {
+        "id": "a9962351a8",
+        "title_fa": "تحلیل: آمریکا‑اسرائیل در آستانه حملهٔ نهایی به ایران",
+        "title_en": "Disposition of forces in the Middle East: before the last battle",
+        "summary": [
+            "مقاله پیش‌بینی می‌کند آمریکا و اسرائیل قصد حملهٔ بزرگ به ایران را دارند",
+            "پس از انتخابات میانی، فرصت قانونی برای چنین عملی محدود است؛ زمان‌بندی حدود یک‑ماه و نیم است",
+            "اگر حمله رخ دهد، پایگاه‌های آمریکایی در خلیج فارس به‌سرعت هدف می‌شوند",
+            "این سناریو هنوز شواهد محکمی ندارد و بیشتر بر اظهارات و تحلیل‌های مخفی است"
+        ],
+        "impact": "حملهٔ احتمالی آمریکا‑اسرائیل می‌تواند به تخریب گستردهٔ پایگاه‌های نظامی در خلیج فارس و تشدید تنش‌های منطقه‌ای منجر شود",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "EADaily",
+        "url": "https://eadaily.com/en/news/2026/09/20/disposition-of-forces-in-the-middle-east-before-the-last-battle",
+        "clean_url": "https://eadaily.com/en/news/2026/09/20/disposition-of-forces-in-the-middle-east-before-the-last-battle",
+        "image": "https://img7.eadaily.com/r650x400/o/ea4/8db98e3255f110a184cabb0c9a3b1.jpeg",
+        "timestamp": 1789900804.0994005
+    },
+    {
         "id": "a0de0531ae",
         "title_fa": "وزارت بهداشت در انتظار موج آنفلوآنزا؛ واکسن هنوز وارد کشور نشده است",
         "title_en": "وزارت بهداشت در انتظار موج آنفلوآنزا؛ واکسن هنوز وارد کشور نشده است",
@@ -2273,6 +2293,44 @@
         "clean_url": "https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721",
         "image": "http://www.bing.com/th?id=ONUT.p09_XGc-vJZ0b_A-NYQQTg&pid=News",
         "timestamp": 1789814460.0
+    },
+    {
+        "id": "b5d3ef611b",
+        "title_fa": "غلباف: تنگه هرمز تا تحقق تعهدات آمریکا بسته می‌ماند",
+        "title_en": "Strait Of Hormuz To Stay Closed Until US Fulfils June Deal Pledges: Iran's Ghalibaf",
+        "summary": [
+            "غلباف می‌گوید بسته ماندن تنگه به تحقق تعهدات نفتی آمریکا در ژوئن وابسته است",
+            "این پیام نشان می‌دهد ایران آماده اعمال فشار بحرانی بر مسیرهای انرژی است",
+            "اگر تعهدات انجام نشود، احتمال بستن مسیرهای کشتی‌رانی افزایش می‌یابد"
+        ],
+        "impact": "بسته ماندن تنگه هرمز می‌تواند صادرات نفت ایران و عبور کشتی‌های جهانی را مختل کند",
+        "tag": "راه‌آب",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/world/strait-of-hormuz-to-stay-closed-until-us-fulfils-june-deal-pledges-irans-ghalibaf-12071745",
+        "clean_url": "https://www.ndtvprofit.com/world/strait-of-hormuz-to-stay-closed-until-us-fulfils-june-deal-pledges-irans-ghalibaf-12071745",
+        "image": "https://www.bing.com/th?id=ONUT.hr5c-WF5jhKCiXtM6NKO-A",
+        "timestamp": 1789814398.0
+    },
+    {
+        "id": "429bdbddd9",
+        "title_fa": "ترامپ درخواست عربستان را رد کرد؛ حوثی‌ها نفت را تهدید",
+        "title_en": "Trump said no to Mohammed bin Salman’s military request as Houthi attacks threaten Saudi oil",
+        "summary": [
+            "ترامپ درخواست عربستان برای دریافت حمایت نظامی را رد کرد",
+            "حوثی‌ها به‌سرعت به زیرساخت‌های نفتی سعودی حمله می‌کنند و 73 نفر را مجروح کرده‌اند",
+            "رد درخواست می‌تواند تنش‌های منطقه‌ای را تشدید کند و قیمت نفت را نوسان دهد"
+        ],
+        "impact": "رد درخواست نظامی سعودی و تهدید حوثی‌ها می‌تواند عرضه نفت خلیج فارس را کاهش داده و قیمت جهانی را بالا ببرد",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-said-no-to-mohammed-bin-salman-s-military-request-as-houthi-attacks-threaten-saudi-oil/ar-AA2cBu9C?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-said-no-to-mohammed-bin-salman-s-military-request-as-houthi-attacks-threaten-saudi-oil/ar-AA2cBu9C",
+        "image": "https://www.bing.com/th?id=ONUT.pXMjY3SJ9yjRadQagnJL5A",
+        "timestamp": 1789814398.0
     },
     {
         "id": "71bab7c2f8",
@@ -5447,64 +5505,5 @@
         "clean_url": "https://iranwire.com/en/features/157775-iran-youtube-stories-journalist-exposes-intelligence-agents-running-irans-oil-industry",
         "image": "https://static.prod.iranwire.com/_versions_jpeg/articleslide/Screenshot_2026-09-18_at_8.32.57PM_ibfo__v1024x512__box_0%2C0%2C2816%2C1481.jpeg",
         "timestamp": 1789749327.6302562
-    },
-    {
-        "id": "aaef49a717",
-        "title_fa": "بلکاد آهنین سیتکام و تهدید ترامپ به ایران",
-        "title_en": "CENTCOM reveals what its ‘ironclad blockade’ has done to Iran as Trump weighs ‘annihilate’",
-        "summary": [
-            "سیتکام اعلام کرد بلوکاد دریایی در تنگه هرمز به‌طور کامل جریان نفت ایران را محدود کرده است.",
-            "ترامپ در جلسه‌ای گفت قصد دارد واکنش تندتری نسبت به ایران داشته باشد و حتی واژه «نابودسازی» را به کار برد.",
-            "بلوکاد و تهدید نظامی می‌تواند فشار اقتصادی را چند برابر کند و ریسک برخورد مستقیم را بالا ببرد."
-        ],
-        "impact": "فشار نظامی و اقتصادی بر ایران شدت می‌گیرد؛ خطر تشدید تنش در تنگه هرمز افزایش می‌یابد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "MEAWW News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/centcom-reveals-what-its-ironclad-blockade-has-done-to-iran-as-trump-weighs-annihilate/ar-AA2cyM0f?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/centcom-reveals-what-its-ironclad-blockade-has-done-to-iran-as-trump-weighs-annihilate/ar-AA2cyM0f",
-        "image": "https://www.bing.com/th?id=ONUT.rmgZl4Ru8gGYmlZEj77_qw",
-        "timestamp": 1789749284.0
-    },
-    {
-        "id": "0056f7c25d",
-        "title_fa": "ترامپ خبرنگار MS NOW را از کاخ سفید مسدود کرد",
-        "title_en": "MS NOW Reporter Reveals Dramatic Moment She Was Barred by Trump",
-        "summary": [
-            "ترامپ دوباره به رسانه‌ها فشار آورد و آزادی مطبوعات را زیر سؤال برد",
-            "رد دسترسی خبرنگار به کاخ سفید می‌تواند روابط دولت‑رسانه را خراب کند",
-            "این اقدام پس از اعلام ممنوعیت سه سازمان خبری صورت گرفت؛ سرکوب خبری تشدید شد",
-            "حضور چنین صحنه‌ای می‌تواند واکنش داخلی و بین‌المللی را به‌سختی افزایش دهد"
-        ],
-        "impact": "دسترسی محدود به اطلاعات رسمی، تضعیف شفافیت دولتی و تشدید تنش‌های سیاسی",
-        "tag": "آزادی_مطبوعات",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/ms-now-reporter-reveals-dramatic-moment-she-was-barred-by-trump/",
-        "clean_url": "https://www.thedailybeast.com/ms-now-reporter-reveals-dramatic-moment-she-was-barred-by-trump",
-        "image": "https://www.thedailybeast.com/resizer/v2/DFAJDO7MBBEZTPDNUUK6CB4W5A.png?smart=true&auth=46a18b5f216026bd2b795d08831c33bf7ccec5416c64b8e4f691d888a92b4873&width=1200&height=630",
-        "timestamp": 1789748539.0
-    },
-    {
-        "id": "be08c4a8d4",
-        "title_fa": "افزایش نرخ بهره فدرال و بحران بازار خزانه‌داری",
-        "title_en": "Fed rate hikes, US Treasury market & crisis of empire",
-        "summary": [
-            "فدرال نرخ بهره کوتاه‌مدت را ۲۵ پایه از ۳٫۷۵٪ به ۴٫۰۰٪ ارتقا داد.",
-            "این افزایش فشار بر بازار اوراق خزانه‌داری آمریکا می‌افزاید و نوسان قیمت‌ها را تشدید می‌کند.",
-            "هزینه استقراض برای شرکت‌ها و دولت‌ها بالا می‌رود و رشد اقتصادی را تهدید می‌کند.",
-            "قیمت دلار ممکن است تحت فشار قرار گیرد؛ هزینه‌های قرض‌گیری برای کشورهای در حال توسعه، از جمله ایران، افزایش می‌یابد."
-        ],
-        "impact": "هزینه سرویس بدهی عمومی و خصوصی بالا می‌رود؛ فشار بر ارزهای نوظهور تقویت می‌شود.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ZNetwork on MSN",
-        "url": "https://www.msn.com/en-us/news/other/fed-rate-hikes-us-treasury-market-crisis-of-empire/ar-AA2cwec5?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/fed-rate-hikes-us-treasury-market-crisis-of-empire/ar-AA2cwec5",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789748524.6773891
     }
 ]
