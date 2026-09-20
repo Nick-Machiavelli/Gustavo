@@ -548,6 +548,26 @@
         "timestamp": 1789910061.0
     },
     {
+        "id": "a09cc44620",
+        "title_fa": "بستری جدید بر تجارت زمینی ایران",
+        "title_en": "Iran’s economy faces another blockade: Red tape and gridlock are clogging up land routes that bypass the US Navy’s Hormuz stranglehold",
+        "summary": [
+            "مسیرهای زمینی برای دور زدن هورموز با مشکلات اداری مواجه‌اند",
+            "تحریم‌های آمریکا گره‌های بوروکراتیک در مرزها ایجاد کرده",
+            "کاهش ترافیک تجاری به فشار بر ارز و صنایع داخلی منجر می‌شود",
+            "دولت ایران برای بازگرداندن مسیرهای جنوب به‌سرعت اقدام می‌کند"
+        ],
+        "impact": "کاهش صادرات زمینی فشار اقتصادی بر مردم را تشدید می‌کند",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Fortune on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-economy-faces-another-blockade-red-tape-and-gridlock-are-clogging-up-land-routes-that-bypass-the-us-navy-s-hormuz-stranglehold/ar-AA2cCS5G",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-economy-faces-another-blockade-red-tape-and-gridlock-are-clogging-up-land-routes-that-bypass-the-us-navy-s-hormuz-stranglehold/ar-AA2cCS5G",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789910009.0
+    },
+    {
         "id": "0111276aac",
         "title_fa": "چرا ایالات متحده به شرط بندی مواد معدنی هوش مصنوعی کشورهای خلیج فارس نیاز دارد؟",
         "title_en": "Why The U.S. Needs The Gulf States’ AI Minerals Bet",
@@ -2274,6 +2294,26 @@
         "clean_url": "https://www.manisteenews.com/news/article/saudi-arabia-issues-alerts-across-the-country-for-22439414.php",
         "image": "https://s.hdnux.com/photos/01/67/30/73/31297248/3/rawImage.jpg",
         "timestamp": 1789854540.0
+    },
+    {
+        "id": "c5fb9e0b5d",
+        "title_fa": "ترامپ و رئیس‌جمهور ایران در نیویورک به مصاف می‌رسند",
+        "title_en": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
+        "summary": [
+            "آمریکا محدودیت‌های شدید برای تیم ایرانی در مجمع عمومی اعمال کرده",
+            "حضور در UNGA فرصتی برای نمایش قدرت واشنگتن است",
+            "دسترسی ایران به رسانه‌های بین‌المللی به‌طور چشمگیری کاهش می‌یابد",
+            "صحنه ممکن است تنش‌های خاورمیانه را تشدید کند"
+        ],
+        "impact": "تحریم‌های دیپلماتیک فشار سیاسی بر ایران را افزاش می‌دهد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
+        "clean_url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
+        "image": "https://www.bing.com/th?id=ONUT.oscZz9XYWz2oCrLrlnO_pg",
+        "timestamp": 1789853655.0
     },
     {
         "id": "5d262ffc1d",
@@ -5420,43 +5460,5 @@
         "clean_url": "https://www.ms.now/opinion/trump-foreign-policy-blowback",
         "image": "https://www.bing.com/th?id=ONUT.QXAimRDMoxHDrHvctqeywA",
         "timestamp": 1789813300.2686906
-    },
-    {
-        "id": "705c12ca8f",
-        "title_fa": "ترامپ خواست‌های جدید برای پایان جنگ",
-        "title_en": "Iran-US war latest: Trump issued fresh demands to end war by Tehran",
-        "summary": [
-            "ترامپ شرایط سختی برای پایان جنگ مطرح کرد، از جمله رفع محاصره هورموز",
-            "او فشار نظامی را تقویت می‌کند و مذاکرات را به شرط تسلیم ایران می‌گیرد",
-            "این اظهارات خطر تشدید تنش‌های نظامی را افزایش می‌دهد"
-        ],
-        "impact": "افزایش فشار ترامپ می‌تواند به تشدید درگیری‌های نظامی و تحریم‌های جدید منجر شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/news/content/ar-AA2ct6HW",
-        "clean_url": "https://www.msn.com/en-us/news/news/content/ar-AA2ct6HW",
-        "image": "http://www.bing.com/th?id=ONUT.fS2CAQ8L3ZGJly4jjCItgg&pid=News",
-        "timestamp": 1789812503.0
-    },
-    {
-        "id": "bd7c2f91e1",
-        "title_fa": "کاهش دارو در ایران؛ جنگ ادامه دارد",
-        "title_en": "‘Ordinary people pay price’: Iran medicine shortages deepen as war continues",
-        "summary": [
-            "کمبود داروهای اساسی در ایران به‌دلیل تحریم‌ها و ادامه جنگ تشدید شده است",
-            "مردم عادی برای درمان بیماری‌های ساده مجبور به خرید داروهای گران‌قیمت یا جایگزین‌های نامطمئن می‌شوند",
-            "این بحران به‌عنوان فشار داخلی بر دولت ایران عمل می‌کند و می‌تواند نارضایتی عمومی را افزایش دهد"
-        ],
-        "impact": "افزایش نارضایتی داخلی و فشار بر دولت ایران",
-        "tag": "بهداشت",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZE1ndHNQYUh2WjBEeEFFZEpDOXFkOGc2aS0zRlloSFlYbmhKZGotTkp4Tm1ydk03N29sQ2k1ZmNKNndlRnhHSjJnMENZQ1BkOFZhb0JodUNjSXhlVTE1NGR0QkdCOEFCQzhwSEpNVkpWdE0xU0VmUmNXYXZhUDRkMTJ5VU9Cd0hyZUlzU3dRamdEdTEwZnNvU0dUdmhGeGRfYVMwSFlVX25Gek93UHpBMmZuRFZ2dE5zeU5VZ2lPYlBVZ0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZE1ndHNQYUh2WjBEeEFFZEpDOXFkOGc2aS0zRlloSFlYbmhKZGotTkp4Tm1ydk03N29sQ2k1ZmNKNndlRnhHSjJnMENZQ1BkOFZhb0JodUNjSXhlVTE1NGR0QkdCOEFCQzhwSEpNVkpWdE0xU0VmUmNXYXZhUDRkMTJ5VU9Cd0hyZUlzU3dRamdEdTEwZnNvU0dUdmhGeGRfYVMwSFlVX25Gek93UHpBMmZuRFZ2dE5zeU5VZ2lPYlBVZ0U",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789810232.0
     }
 ]
