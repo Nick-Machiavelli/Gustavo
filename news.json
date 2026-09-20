@@ -2331,6 +2331,44 @@
         "timestamp": 1789855915.6476245
     },
     {
+        "id": "d3048cfdba",
+        "title_fa": "تحریم گسترده آمریکا علیه دادگاه کیفری بین‌المللی",
+        "title_en": "US prepares sweeping sanctions on International Criminal Court — report",
+        "summary": [
+            "دولت ترامپ قصد دارد تحریم‌های اقتصادی گسترده‌ای علیه تمام نهادهای دادگاه کیفری بین‌المللی اعمال کند",
+            "پس از دوره شش‑هفت ماهه، تراکنش‌های مالی و تجاری با این نهاد ممنوع می‌شود",
+            "این گام پس از هدف‌گیری افراد کلیدی مانند رئیس دادگاه، نشان از تشدید سیاست‌های انتقامی آمریکا دارد"
+        ],
+        "impact": "امکان قطع دسترسی آمریکا به منابع مالی ICC و تضعیف کارآیی قضایی بین‌المللی",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "TRT World",
+        "url": "https://www.trtworld.com/article/7339ffe73889",
+        "clean_url": "https://www.trtworld.com/article/7339ffe73889",
+        "image": "https://www.bing.com/th?id=ONUT.3zncGV3_AXdVHlLYYZXfCQ",
+        "timestamp": 1789855373.0
+    },
+    {
+        "id": "d16fd2c627",
+        "title_fa": "پایان تلخ برنزها در مقابل وایکینگز",
+        "title_en": "Studs and duds from Bears' brutal Week 2 loss vs. Vikings",
+        "summary": [
+            "باران شدید و شرایط نامساعد، بازی Bears‑Vikings را به نبردی کم‌نمره تبدیل کرد",
+            "تیم شیکاگو با 9‑3 باخت و اولین شکست فصل را تجربه کرد؛ کوارتر‌بک نتوانست توپ را در چهارم و دو از خط 12 یاردی به دست آورد",
+            "این شکست نشانگر مشکلات حمله کوتاه‌برد Bears در مقابل دفاع وایکینگز است"
+        ],
+        "impact": "از دست دادن اولین برد، فشار بر مربی و بازیکنان برای بهبود عملکرد در بازی‌های بعدی",
+        "tag": "ورزشی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Dispatch–Argus",
+        "url": "https://qconline.com/news/state-regional/illinois/article_a336181c-9e62-527a-af34-03a03696e47b.html",
+        "clean_url": "https://qconline.com/news/state-regional/illinois/article_a336181c-9e62-527a-af34-03a03696e47b.html",
+        "image": "https://www.bing.com/th?id=ONUT.QNO4uL8WH10IwXdeVJEm3w",
+        "timestamp": 1789855373.0
+    },
+    {
         "id": "ef63db1b52",
         "title_fa": "عربستان ادعا کرد حوثی‌ها سعی در حمله به ریاسازی داشتند",
         "title_en": "Saudi Arabia says Houthis tried to attack its capital, and other Mideast developments",
@@ -2697,6 +2735,25 @@
         "clean_url": "https://www.wwlp.com/news/local-news/hampden-county/local-drivers-feel-sting-of-soaring-gas-prices",
         "image": "https://www.bing.com/th?id=ONUT.yBbRXbxmKCFJorwMvYROlw",
         "timestamp": 1789849294.0
+    },
+    {
+        "id": "7c6e693473",
+        "title_fa": "ایران هفت شرط صریح برای مذاکرات صلح با آمریکا",
+        "title_en": "Iran sets seven conditions for peace talks with US via Qatar, threatens all-out war",
+        "summary": [
+            "ایران هفت شرط اساسی برای ادامه مذاکرات صلح با آمریکا از طریق قطر اعلام کرد",
+            "شرط‌ها شامل احترام به حاکمیت، رفع تحریم‌ها و عدم مداخله نظامی است؛ عدم پذیرش می‌تواند به جنگ تمام‌عیار منجر شود",
+            "پیام تهران به واشنگتن واضح است: پذیرش شرایط، راه نجات است"
+        ],
+        "impact": "اگر آمریکا شرط‌های ایران را نپذیرد، خطر تشدید تنش‌های نظامی در خاورمیانه افزایش می‌یابد",
+        "tag": "دیپلماتیک",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "NDTV Profit on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-sets-seven-conditions-for-peace-talks-with-us-via-qatar-threatens-all-out-war/ar-AA2cAoT0?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-sets-seven-conditions-for-peace-talks-with-us-via-qatar-threatens-all-out-war/ar-AA2cAoT0",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789848960.0
     },
     {
         "id": "713d067874",
@@ -5401,59 +5458,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/reporters-denied-white-house-access-as-trump-enforces-ban-on-3-outlets/ar-AA2czn6J",
         "image": "http://www.bing.com/th?id=ONUT.-5JAUTQbSfb5c5mehJzfnw&pid=News",
         "timestamp": 1789815166.0
-    },
-    {
-        "id": "ef9e640557",
-        "title_fa": "خبر بین‌المللی — Three people, including girl, said killed by IDF در north, c",
-        "title_en": "Three people, including girl, said killed by IDF in north, central Gaza; no comment from military",
-        "summary": [
-            "Three people, including a girl, were killed in Israeli strikes in north and central Gaza since this morning, according to Palestinian media. The IDF does not immediately comment."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/three-people-including-girl-said-killed-by-idf-in-north-central-gaza-no-comment-from-military/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/three-people-including-girl-said-killed-by-idf-in-north-central-gaza-no-comment-from-military",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789815060.0
-    },
-    {
-        "id": "66421661d5",
-        "title_fa": "کارا سوئیشر: خطر اصلی AI، نه ربات‌ها بلکه سازندگانشان است",
-        "title_en": "Kara Swisher: AI Isn’t Going to Destroy Humanity—But the People Building It Might",
-        "summary": [
-            "سوئیشر می‌گوید ریسک‌های آینده هوش مصنوعی ناشی از تصمیم‌گیری‌های نادرست افراد است، نه خود فناوری.",
-            "او خواستار ایجاد استانداردهای ایمنی و مسئولیت‌پذیری برای مهندسان می‌شود."
-        ],
-        "impact": "فشار بیشتر بر شرکت‌های فناوری برای پیاده‌سازی پروتکل‌های ایمنی",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/",
-        "clean_url": "https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721",
-        "image": "http://www.bing.com/th?id=ONUT.p09_XGc-vJZ0b_A-NYQQTg&pid=News",
-        "timestamp": 1789814460.0
-    },
-    {
-        "id": "b5d3ef611b",
-        "title_fa": "غلباف: تنگه هرمز تا تحقق تعهدات آمریکا بسته می‌ماند",
-        "title_en": "Strait Of Hormuz To Stay Closed Until US Fulfils June Deal Pledges: Iran's Ghalibaf",
-        "summary": [
-            "غلباف می‌گوید بسته ماندن تنگه به تحقق تعهدات نفتی آمریکا در ژوئن وابسته است",
-            "این پیام نشان می‌دهد ایران آماده اعمال فشار بحرانی بر مسیرهای انرژی است",
-            "اگر تعهدات انجام نشود، احتمال بستن مسیرهای کشتی‌رانی افزایش می‌یابد"
-        ],
-        "impact": "بسته ماندن تنگه هرمز می‌تواند صادرات نفت ایران و عبور کشتی‌های جهانی را مختل کند",
-        "tag": "راه‌آب",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "NDTV Profit",
-        "url": "https://www.ndtvprofit.com/world/strait-of-hormuz-to-stay-closed-until-us-fulfils-june-deal-pledges-irans-ghalibaf-12071745",
-        "clean_url": "https://www.ndtvprofit.com/world/strait-of-hormuz-to-stay-closed-until-us-fulfils-june-deal-pledges-irans-ghalibaf-12071745",
-        "image": "https://www.bing.com/th?id=ONUT.hr5c-WF5jhKCiXtM6NKO-A",
-        "timestamp": 1789814398.0
     }
 ]
