@@ -53,6 +53,26 @@
         "timestamp": 1789903291.4731119
     },
     {
+        "id": "7a5e42f30d",
+        "title_fa": "فرماندهی نظامی ایران از برنامه‌های جدید حمله آمریکا خبر داد",
+        "title_en": "Iran’s military command says it has been informed US plans to resume strikes",
+        "summary": [
+            "فرماندهان ارتش ایران ادعا کردند اطلاعاتی درباره برنامه‌های جدید آمریکا برای ادامه حملات هوایی دریافت کرده‌اند",
+            "این خبر نشان می‌دهد تدارکات نظامی ایران برای مقابله با احتمال حمله در حال تقویت است",
+            "احتمال پاسخ تلافی‌جویانه ایران به هر حمله آمریکایی افزایش می‌یابد",
+            "این وضعیت فشار دیپلماتیک بر واشنگتن را بالا می‌برد"
+        ],
+        "impact": "افزایش ریسک برخورد مستقیم نظامی بین ایالات متحده و ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmYyNXltNVFfdzRTaEF4ZnRxZ05aLWxKRHhaMUxfb29iM3B5VXdLTUttMGJJOXpiXzRyQzdONzVvaUpoS2ZudERvTFZ5bE1PMzl6b2EtSTRZeTduV1ROU3RzRng0NVpTcHFoNV8tUkN3YzgyMjFrc3owbUlSQ1R3MDFua3NVTWk5YXkyWWZLdVhJZWVMcFpsV2lCSkNzdUJEZDZoU2xTUW85a21kSlBHa1hzeVFYVUtrOTQwd05R?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmYyNXltNVFfdzRTaEF4ZnRxZ05aLWxKRHhaMUxfb29iM3B5VXdLTUttMGJJOXpiXzRyQzdONzVvaUpoS2ZudERvTFZ5bE1PMzl6b2EtSTRZeTduV1ROU3RzRng0NVpTcHFoNV8tUkN3YzgyMjFrc3owbUlSQ1R3MDFua3NVTWk5YXkyWWZLdVhJZWVMcFpsV2lCSkNzdUJEZDZoU2xTUW85a21kSlBHa1hzeVFYVUtrOTQwd05R",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789902886.0
+    },
+    {
         "id": "c1f1cdb525",
         "title_fa": "صداهای دیگر: خشونت توسط شهرک نشینان اسرائیلی در کرانه باختری را محکوم کنید",
         "title_en": "Other voices: Condemn violence by Israeli settlers in West Bank",
@@ -2234,6 +2254,45 @@
         "clean_url": "https://seekingalpha.com/article/4948061-weekly-commentary-walked-the-walk",
         "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193765243/image_2193765243.jpg?io=getty-c-w1536",
         "timestamp": 1789818360.0
+    },
+    {
+        "id": "a4e21e36a6",
+        "title_fa": "شلیک در کرانه‌غربی؛ یک اسرائیلی کشته شد",
+        "title_en": "An Israeli fatally shot and troops kill a man in the West Bank, and other Mideast developments",
+        "summary": [
+            "حمله مسلحانه در کرانه‌غربی منجر به جرح جدی یک شهروند اسرائیلی شد",
+            "نیروهای اسرائیلی در پی آن یک مرد را کشته و عملیات گسترده‌ای انجام دادند",
+            "این رخداد تنش‌های امنیتی بین اسرائیل و مقاومت‌های فلسطینی را تشدید می‌کند"
+        ],
+        "impact": "افزایش خطر برخورد مستقیم بین نیروهای اسرائیل و مقاومت‌های فلسطینی",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "WPRI 12 News",
+        "url": "https://www.wpri.com/news/us-and-world/ap-israeli-man-critically-wounded-in-west-bank-shooting-and-other-mideast-developments/",
+        "clean_url": "https://www.wpri.com/news/us-and-world/ap-israeli-man-critically-wounded-in-west-bank-shooting-and-other-mideast-developments",
+        "image": "https://www.bing.com/th?id=ONUT._APVcXPCoxcZuuNl11_H1w",
+        "timestamp": 1789817984.0
+    },
+    {
+        "id": "7df234fda2",
+        "title_fa": "حمله موشکی حوثی‌ها به ریاض؛ اولین هدف‌گیری",
+        "title_en": "Saudi Arabia says Houthis targeted its capital with a missile",
+        "summary": [
+            "حوثی‌های یمن برای اولین بار موشکی بالستیک به ریاض شلیک کردند؛ سامانه دفاعی شهر آن را مهار کرد",
+            "این اقدام گسترش جبهه جنگ ایران‑یمن به سمت عربستان را نشان می‌دهد",
+            "ایران در همان روز شرایط پایان جنگ را به واشنگتن از طریق قطر ارائه داد",
+            "اسرائیل هم به هدف‌های حزب‌الله در لبنان حمله کرد"
+        ],
+        "impact": "تحریک واکنش نظامی سعودی و تشدید تنش‌های منطقه‌ای",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Anchorage Daily News",
+        "url": "https://www.adn.com/nation-world/2026/09/20/saudi-arabia-says-houthis-targeted-its-capital-with-a-missile/",
+        "clean_url": "https://www.adn.com/nation-world/2026/09/20/saudi-arabia-says-houthis-targeted-its-capital-with-a-missile",
+        "image": "https://www.bing.com/th?id=ONUT.XpxYuciXzkQksyNiaJtrMg",
+        "timestamp": 1789817984.0
     },
     {
         "id": "01518fdb65",
@@ -5434,57 +5493,5 @@
         "clean_url": "https://cryptobriefing.com/iran-proxies-strike-saudi-oil-pipeline",
         "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/19140443/library-iran-backed-proxies-strike-saudi-arabia-s-oil-pipeline-a-1-800x450.png",
         "timestamp": 1789758630.0
-    },
-    {
-        "id": "c2faece457",
-        "title_fa": "آمریکا می‌گوید در حالی که صادرات نفت ایران به صفر رسیده است، یک میلیارد بشکه از هرمز عبور می‌کند",
-        "title_en": "1 billion barrels flow through Hormuz as Iran's oil exports hit zero, US says",
-        "summary": [
-            "U.S. forces said more than 1 billion barrels of crude have flowed through the Strait of Hormuz in recent months, with forces..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/1-billion-barrels-flow-through-hormuz-as-iran-s-oil-exports-hit-zero-us-says/vi-AA2cA2lr?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/1-billion-barrels-flow-through-hormuz-as-iran-s-oil-exports-hit-zero-us-says/vi-AA2cA2lr",
-        "image": "https://www.bing.com/th?id=ONUT.PBopR7HVnNv9SAlQShmgWw",
-        "timestamp": 1789758630.0
-    },
-    {
-        "id": "e1f7ac743b",
-        "title_fa": "ترامپ روزنامه‌نگاران را از کاخ سفید منع کرد",
-        "title_en": "New York Times",
-        "summary": [
-            "این تصمیم نشان‌دهنده تشدید جنگ اداری ترامپ با رسانه‌هاست",
-            "محدود کردن دسترسی خبرنگاران می‌تواند فشار بین‌المللی بر دولت آمریکا را افزایش دهد"
-        ],
-        "impact": "اعلام ممنوعیت دسترسی، تنش رسانه‌ای و کاهش پوشش خبری مستقیم از کاخ سفید",
-        "tag": "رسانه",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "nytimes.com",
-        "url": "https://www.nytimes.com/ca/",
-        "clean_url": "https://www.nytimes.com/ca",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789758156.0
-    },
-    {
-        "id": "1e4cc78ea2",
-        "title_fa": "خبر بین‌المللی — ایران جنگ Updates: 2 ships attacked در Strait هرمز as ترامپ",
-        "title_en": "Iran War Updates: 2 ships attacked in Strait of Hormuz as Trump says next move could be to \"annihilate\" regime",
-        "summary": [
-            "U.K. navy reports more attacks on tankers in the Strait of Hormuz as Trump says he's poised to make a \"big decision\" on whether to \"annihilate\" Iran's leadership."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-of-hormuz-oil-houthis/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-of-hormuz-oil-houthis",
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/d4b85ea5-1195-4655-944a-56cb6c2d7267/thumbnail/1200x630/a923a7948776243b67276ae326f9c82c/gettyimages-2295261441.jpg",
-        "timestamp": 1789758000.0
     }
 ]
