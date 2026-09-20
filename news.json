@@ -502,6 +502,26 @@
         "timestamp": 1789904054.0440886
     },
     {
+        "id": "53a44757f6",
+        "title_fa": "کمبود مواد اولیه در کارخانه‌های ایران",
+        "title_en": "Iran factories face deepening raw material shortages",
+        "summary": [
+            "موجودی مواد اولیه در آگوست به ۳۹٫۳ درصد سقوط کرد؛ کاهش ۵ درصدی نسبت به ژوئیه",
+            "شاخص PMI به ۴۶٫۹ رسید؛ زیر ۵۰ نشان‌دهنده رکود اقتصادی است",
+            "صدمات جنگ به تأسیسات پتروشیمی و فولاد فشار بر زنجیره تأمین را تشدید کرده",
+            "کاهش موجودی‌ها می‌تواند رشد تولید صنعتی را در ماه‌های آینده به شدت محدود کند"
+        ],
+        "impact": "کاهش تولید صنعتی و فشار بر رشد اقتصادی",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.62,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609205123",
+        "clean_url": "https://www.iranintl.com/en/202609205123",
+        "image": "http://www.bing.com/th?id=ONUT.wTUIDk_ao31cYG1B2pGaLQ&pid=News",
+        "timestamp": 1789904040.0
+    },
+    {
         "id": "7dbf28811f",
         "title_fa": "ساکس: جنگ ایران آمریکا را نابود می‌کند؛ ترامپ مسیر سقوط",
         "title_en": "The Iran War Will Break America",
@@ -2199,6 +2219,26 @@
         "clean_url": "https://www.msn.com/en-in/politics/international-relations/iran-sets-conditions-for-ending-war-with-us-exclusive/vi-AA2cAqPK",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789844940.0
+    },
+    {
+        "id": "625d36a7d8",
+        "title_fa": "تهدید ایران به ترامپ با ضربات دردناک",
+        "title_en": "Iran-US war latest: Tehran threatens Trump with 'painful strikes'",
+        "summary": [
+            "تهدید مستقیم به رئیس‌جمهور آمریکا نشان‌دهنده تشدید تنش‌های دیپلماتیک است",
+            "اگر آمریکا حمله‌ای تازه ترتیب دهد، احتمال پاسخ نظامی ایران بالا می‌رود",
+            "بیان این پیام می‌تواند فشار داخلی رهبران ایران را در برابر تحریم‌ها کاهش دهد",
+            "تحریک‌های نظامی می‌تواند ریسک گسترش درگیری به کشورهای همسایه را افزایش دهد"
+        ],
+        "impact": "افزایش خطر برخورد نظامی بین آمریکا و ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-tehran-threatens-trump-with-painful-strikes/ar-AA2ct6HW?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-tehran-threatens-trump-with-painful-strikes/ar-AA2ct6HW",
+        "image": "https://www.bing.com/th?id=ONUT.48rT3DqO5gQndhd7hIeeLQ",
+        "timestamp": 1789844571.0
     },
     {
         "id": "267effd7f4",
@@ -5425,40 +5465,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mM2ZoeHF2UnVfZWFJVEowSzduTXlQQ3gtMlJIWTZKeG1NczcxdWpMX29EOE9yMFk0YWkzcHEtSFdKVkZnX21XR0pJSzJIWkE5bGc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789799502.0
-    },
-    {
-        "id": "21635ea7bf",
-        "title_fa": "خبر بین‌المللی — Is ترامپ's latest White House media ban legal? It could get",
-        "title_en": "Is Trump's latest White House media ban legal? It could get complicated",
-        "summary": [
-            "If recent history is the judge, President Donald Trump faces an uncertain legal landscape in his latest effort to ban certain reporters from the White House."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/other/is-trumps-latest-white-house-media-ban-legal-it-could-get-complicated/ar-AA2cxhnV",
-        "clean_url": "https://www.msn.com/en-us/news/other/is-trumps-latest-white-house-media-ban-legal-it-could-get-complicated/ar-AA2cxhnV",
-        "image": "http://www.bing.com/th?id=ONUT.953aWLtsfEPtM_AtAKKPOQ&pid=News",
-        "timestamp": 1789799495.0
-    },
-    {
-        "id": "9afb02c836",
-        "title_fa": "اعدام جاسوس اسرائیلی در ایران",
-        "title_en": "Iran executes man convicted of spying for Israel's Mossad, judiciary says",
-        "summary": [
-            "اجرای حکم اعدام برای متهم به جاسوسی برای موساد، نشان‌دهنده شدت برخورد قضایی ایران با تهدیدات اطلاعاتی",
-            "این اقدام می‌تواند روابط دیپلماتیک ایران‑اسرائیل را تشدید کند و پیام هشدار به شبکه‌های جاسوسی خارجی باشد"
-        ],
-        "impact": "احتمال افزایش تنش‌های منطقه‌ای و فشار بین‌المللی بر ایران",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUHlXMU02X1Q1U245V0NOTFNPTGFPLXBYTFBNUG84ZlBWY2hteTNWRTNadlNxWWUzQVktelVDbmxOenJuQlZzV1h2bHlfNXZfWTh2RVNYeTVRVkhfTFpGTVNGSm5xeHhNUnE0U2E2ZmEtYmVDaFkwY25wUFl3alBnYXhJUnZGeVc5dVZKTU1aYTIxcW1xTmk3UGpBSmt4bU1lTHpsN1Rya1o2WDZlZ295LVZISUpXc0dZZEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUHlXMU02X1Q1U245V0NOTFNPTGFPLXBYTFBNUG84ZlBWY2hteTNWRTNadlNxWWUzQVktelVDbmxOenJuQlZzV1h2bHlfNXZfWTh2RVNYeTVRVkhfTFpGTVNGSm5xeHhNUnE0U2E2ZmEtYmVDaFkwY25wUFl3alBnYXhJUnZGeVc5dVZKTU1aYTIxcW1xTmk3UGpBSmt4bU1lTHpsN1Rya1o2WDZlZ295LVZISUpXc0dZZEE",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789799280.0
     }
 ]
