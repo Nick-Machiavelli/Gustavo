@@ -1,5 +1,25 @@
 [
     {
+        "id": "0f5de18925",
+        "title_fa": "کتاب انتقادی به لابی اسرائیل با سرمایه‌گذاری عربی",
+        "title_en": "Book Complaining About Israeli Influence Ironically Benefits From Offshore Arab Funding",
+        "summary": [
+            "کتاب ادعا می‌کند لابی اسرائیل آمریکا را تحت کنترل دارد اما پر از خطاهای تاریخی است",
+            "نویسندگان از منابع نامعتبر استفاده کرده و ادعاهای بی‌پایه می‌زنند",
+            "انتشار کتاب با حمایت مالی عربی می‌تواند هدف تبلیغاتی داشته باشد",
+            "این نوع آثار می‌توانند تنش‌های ایدئولوژیک داخلی ایالات متحده را تشدید کنند"
+        ],
+        "impact": "تقویت روایت‌های ضد‑اسرائیلی و تشدید بحث‌های داخلی در آمریکا",
+        "tag": "آنتی‌سیمیتی",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "The Washington Free Beacon",
+        "url": "https://freebeacon.com/israel/book-complaining-about-israeli-influence-ironically-benefits-from-offshore-arab-funding/",
+        "clean_url": "https://freebeacon.com/israel/book-complaining-about-israeli-influence-ironically-benefits-from-offshore-arab-funding",
+        "image": "https://freebeacon.com/wp-content/uploads/2026/09/israels-lobby-9781668210840_xlg.jpg",
+        "timestamp": 1789896870.904028
+    },
+    {
         "id": "94094bb31b",
         "title_fa": "سعودی‌ها به دنبال رشوه‌دادن به ترامپ: اورانیوم و اف‑35",
         "title_en": "Is Saudi Arabia trying to bribe Trump? After uranium deposits, there's F-35 on table",
@@ -5487,22 +5507,5 @@
         "clean_url": "https://www.bostonherald.com/2026/09/18/trump-signs-russia-sanctions",
         "image": "http://www.bing.com/th?id=ONUT.0vdQC-sC_mG6TyDNgSzB3Q&pid=News",
         "timestamp": 1789745220.0
-    },
-    {
-        "id": "de54ed18e4",
-        "title_fa": "آمریکا هرگز مطیع اسرائیل نبوده است",
-        "title_en": "America has never been subservient to Israel",
-        "summary": [
-            "The fact remains that what brings the democratic allies together is worth far more than the issues dividing them."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Jewish News Syndicate",
-        "url": "https://www.jns.org/opinion/column/ben-cohen/america-has-never-been-subservient-to-israel",
-        "clean_url": "https://www.jns.org/opinion/column/ben-cohen/america-has-never-been-subservient-to-israel",
-        "image": "https://static.jns.org/dims4/default/02a7a87/2147483647/strip/true/crop/4000x2250+0+236/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2024%2F03%2FU.S.-Israel-Relationship-Flags-1.jpg",
-        "timestamp": 1789744997.174553
     }
 ]
