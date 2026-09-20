@@ -1,5 +1,25 @@
 [
     {
+        "id": "957e6504ad",
+        "title_fa": "تاخیر پنج ساله در تحویل سلاح‌های کلیدی به متحدان",
+        "title_en": "Scholar flags Trump insecurity that just ended decades of US military dominance",
+        "summary": [
+            "ترامپ می‌گوید کمبود مهمات باعث تاخیر حداکثر پنج ساله در ارسال سلاح‌های پیشرفته می‌شود",
+            "این اظهارات نشانگر اضطراب آمریکا در مواجهه با جنگ ایران است",
+            "اعتماد متحدان به تعهدات نظامی واشنگتن تحت فشار قرار می‌گیرد",
+            "کشورهای دیگر ممکن است به دنبال تامین مستقل یا گزینه‌های جایگزین بروند"
+        ],
+        "impact": "تحویل سلاح‌های پیشرفته به متحدان به تاخیر می‌افتد و توان دفاعی آن‌ها کاهش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Raw Story on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/scholar-flags-trump-insecurity-that-just-ended-decades-of-us-military-dominance/ar-AA2cAKvL?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/scholar-flags-trump-insecurity-that-just-ended-decades-of-us-military-dominance/ar-AA2cAKvL",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789869794.0489361
+    },
+    {
         "id": "d1c98e5c68",
         "title_fa": "سخنرانی آمریکا: فشارهای خودگردان به عقب می‌چرخد",
         "title_en": "US coercion will boomerang",
@@ -5485,22 +5505,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/the-dark-geopolitics-behind-the-viral-dubai-chocolate-trend/ar-AA2cunwC",
         "image": "https://www.bing.com/th?id=ONUT.AAGGcPCQXR1p5J9KTrQvKQ",
         "timestamp": 1789719861.634997
-    },
-    {
-        "id": "194012f49c",
-        "title_fa": "جنگ ایران و پیشروی حوثی‌ها ادعاهای صلح طلب ترامپ را در سازمان ملل آزمایش می‌کنند",
-        "title_en": "Iran war, Houthi advance test Trump’s peacemaker claims at UN",
-        "summary": [
-            "Iran war, Houthi advance test Trump’s peacemaker claims at UN jpost.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "jpost.com",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9teE9LS2NGYm1OYnFhV2RzOE03R0tPNlVHVW5wS1U3MnBuYjBzbFdqbU00Y2E4NFlWUF9LR3ZFeDVxRmg2NkdiWGtWdEZlVVZEei03UEwycVZIb2gzQ3pJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9teE9LS2NGYm1OYnFhV2RzOE03R0tPNlVHVW5wS1U3MnBuYjBzbFdqbU00Y2E4NFlWUF9LR3ZFeDVxRmg2NkdiWGtWdEZlVVZEei03UEwycVZIb2gzQ3pJ",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789719843.0
     }
 ]
