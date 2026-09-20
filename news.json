@@ -1,5 +1,41 @@
 [
     {
+        "id": "d1c98e5c68",
+        "title_fa": "سخنرانی آمریکا: فشارهای خودگردان به عقب می‌چرخد",
+        "title_en": "US coercion will boomerang",
+        "summary": [
+            "مقامات آمریکایی هشدار دادند فشارهای اقتصادی می‌تواند به خود آمریکا آسیب بزند",
+            "این اظهارات در زمینه تحریم‌های ایران و چین مطرح شد"
+        ],
+        "impact": "احتمال تضعیف موضع آمریکا در مذاکرات بین‌المللی",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/politics/international-relations/us-coercion-will-boomerang/ar-AA2cACDT?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/politics/international-relations/us-coercion-will-boomerang/ar-AA2cACDT",
+        "image": "https://www.bing.com/th?id=ONUT.yGOY7Zfu2WqyfVLxKN9tDw",
+        "timestamp": 1789867317.8610482
+    },
+    {
+        "id": "f2de35c0dc",
+        "title_fa": "ترامپ با سرعت به واشنگتن بازگشت",
+        "title_en": "Panic as Trump races back to White House amid 'obvious signaling'",
+        "summary": [
+            "ترامپ به‌سرعت از کمپ دیوید برگشت و به عناوین داخلی فشار آورد",
+            "بازگشت می‌تواند موضع آمریکا نسبت به ایران را تحت فشار قرار دهد"
+        ],
+        "impact": "ممکن است سیاست‌های ایران‌محور دولت را تحت فشار قرار دهد",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Raw Story on MSN",
+        "url": "https://www.msn.com/en-nz/news/other/panic-as-trump-races-back-to-white-house-amid-obvious-signaling/ar-AA2cAgtH?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-nz/news/other/panic-as-trump-races-back-to-white-house-amid-obvious-signaling/ar-AA2cAgtH",
+        "image": "https://www.bing.com/th?id=ONUT.7O4UCIXRY9KviBE0gCVtWQ",
+        "timestamp": 1789867317.8606353
+    },
+    {
         "id": "ef4922a0ad",
         "title_fa": "ترامپ و ایران در اوج مذاکرات سازمان ملل",
         "title_en": "Iran will be top of mind at the UN — and Trump as a chance to strike a deal",
@@ -56,6 +92,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnprZnFhbmVCazJwX2J6X0VtN1dobTdLd1VWa0o3STJQbGhuY21NZGYycDRVVXpUTDZnWkFGaU1EV3pnY3hNSmRlcmk5WGlvM2pEeFBwRUpyUkVXSHBiblBQZFZfcWhlR1poS05fclE1RHlHaWlueEdVVFBoblJqcUlDa3BJaUdmUVNNTWV6azlsNlZGYXc3aDM1eE1DTkxVajd6WVdVRVFGUHNKOWx4VS1nRlpaVGs",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789864200.0
+    },
+    {
+        "id": "6ca7dbbf61",
+        "title_fa": "حوثی‌ها موشک بالستیک به ریاض پرتاب کردند",
+        "title_en": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "summary": [
+            "حوثی‌ها اعلام کردند موشک‌های بالستیک به ریاض شلیک کردند",
+            "این اقدام نشانگر ارتقای توان نظامی حوثی‌هاست",
+            "سعودی‌ها به‌سرعت موشک‌های دفاعی را فعال کردند"
+        ],
+        "impact": "تنش نظامی خلیج فارس افزایش یافت، خطر برخورد مستقیم",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0M1RqdlhDaEtlM0o2NEJqWEgtclk1NWZkeklLQTl2NUFFSEdLOFlPRVp2Mm1Lemx4czFSZnlBRVVhVkh6a0hJcXNQbWtoMF9JUVFKTUR1WVdUczQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0M1RqdlhDaEtlM0o2NEJqWEgtclk1NWZkeklLQTl2NUFFSEdLOFlPRVp2Mm1Lemx4czFSZnlBRVVhVkh6a0hJcXNQbWtoMF9JUVFKTUR1WVdUczQ",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789861766.0
     },
     {
         "id": "0feb32f689",
@@ -5447,62 +5502,5 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/japan-s-central-bank-raises-benchmark-interest-rate-to-1-25-the-highest-in-31-years/ar-AA2csOs3",
         "image": "https://www.bing.com/th?id=ONUT.rnzqJFOYqEOV-eUNf8NiBg",
         "timestamp": 1789718614.2521164
-    },
-    {
-        "id": "4dd2232911",
-        "title_fa": "\"پادشاه نیست، به آرای شما نیاز دارد\": نتانیاهو در برابر اسرائیلی‌ها به دلیل پیشروی رقیب در نظرسنجی‌ها \"گریه می‌کند\"",
-        "title_en": "'Not a King, Need Your Votes': Netanyahu 'CRIES' Before Israelis As Rival Leads In Opinion Polls",
-        "summary": [
-            "Israeli Prime Minister Benjamin Netanyahu appealed directly to Likud supporters in Tel Aviv ahead of Israel's October 27 national election, telling party members that he needed their votes to secure another term."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/videos/international/not-a-king-need-your-votes-netanyahu-cries-before-israelis-as-rival-leads-in-opinion-polls/videoshow/134324180.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/videos/international/not-a-king-need-your-votes-netanyahu-cries-before-israelis-as-rival-leads-in-opinion-polls/videoshow/134324180.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134324180,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1789718460.0
-    },
-    {
-        "id": "d5b0cdd23f",
-        "title_fa": "جنگ ایران خطر بحران گسترده‌تری در خاورمیانه را زنده می‌کند",
-        "title_en": "Middle East on the Brink: Iran War Fuels Wider Regional Crisis",
-        "summary": [
-            "درگیری‌های نظامی ایران با اسرائیل خطر گسترش به کشورهای همسایه را دارد",
-            "نیروهای منطقه‌ای و بازیگران خارجی ممکن است به‌سرعت به درگیری بپیوندند",
-            "بازارهای انرژی و مسیرهای حمل‌ونقل نفت در معرض خطر جدی قرار می‌گیرند",
-            "دیپلمات‌های جهانی فشار برای توقف جنگ را افزایش می‌دهند"
-        ],
-        "impact": "تشدید جنگ می‌تواند قیمت نفت را به اوج برساند و امنیت منطقه را به‌هم بزند",
-        "tag": "جنگ",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "ArabAmericanNews",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUNQaW1RcmVFWUtlRGR5a1o3aTM2dkxJdV9qOFZiTnh6NE1tOVFJQVhRN0pRcWNkSy1NNm5YcExMMnZBWjlYdVJmenJjNF8tREs0TUd4VFZqaGpOWHlHTFc0WHRtVnNTY08tclc3dzlPNlNRU0dQTTkxR3JhcUhPWVNDNXdWeTNQYTJPYmd1WnVMZG5xcGZJanhWdWQtbHlYSjdOU2N2SkVKWnlZZ1FQZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUNQaW1RcmVFWUtlRGR5a1o3aTM2dkxJdV9qOFZiTnh6NE1tOVFJQVhRN0pRcWNkSy1NNm5YcExMMnZBWjlYdVJmenJjNF8tREs0TUd4VFZqaGpOWHlHTFc0WHRtVnNTY08tclc3dzlPNlNRU0dQTTkxR3JhcUhPWVNDNXdWeTNQYTJPYmd1WnVMZG5xcGZJanhWdWQtbHlYSjdOU2N2SkVKWnlZZ1FQZg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789718384.0
-    },
-    {
-        "id": "8c62f843fc",
-        "title_fa": "جان جیمز پیشنهاد افزایش سقف انتخاب انرژی ۱۰٪ می‌کند",
-        "title_en": "John James pitches expanding Michigan’s 10% cap on energy choice. What does it mean?",
-        "summary": [
-            "جان جیمز برای کنترل نرخ‌های انرژی، سقف ۱۰٪ انتخاب انرژی را افزایش می‌خواهد",
-            "این طرح هدف دارد تا مصرف‌کنندگان را در برابر افزایش قیمت‌ها محافظت کند",
-            "مخالفان می‌گویند این سیاست می‌تواند رقابت بازار را محدود کند",
-            "اگر اجرا شود، می‌تواند الگوی مشابهی برای دیگر ایالت‌ها باشد"
-        ],
-        "impact": "قابلیت کاهش هزینه‌های انرژی برای خانوارهای میشیگان، اما ممکن است رقابت بازار را محدود کند",
-        "tag": "انرژی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/09/john-james-pitches-expanding-michigans-10-cap-on-energy-choice-what-does-it-mean.html",
-        "clean_url": "https://www.mlive.com/politics/2026/09/john-james-pitches-expanding-michigans-10-cap-on-energy-choice-what-does-it-mean.html",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789718280.0
     }
 ]
