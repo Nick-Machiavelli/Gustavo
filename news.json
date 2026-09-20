@@ -2255,6 +2255,25 @@
         "timestamp": 1789858980.0
     },
     {
+        "id": "b6c63c71cc",
+        "title_fa": "رانندگان مگا از ترامپ خسته شدند",
+        "title_en": "MAGA truckers beg for Biden back as they turn their backs on Trump over diesel prices",
+        "summary": [
+            "رانندگان مگا به دلیل قیمت دیزل فوق‌العاده، که به جنگ ایران و تحریم‌ها مرتبط است، حمایت خود از ترامپ را رها کردند",
+            "در ویدئویی چند نفر گفتند بیدن را می‌پسندند و تورم ناشی از سیاست‌های ترامپ را سرزنش می‌کنند",
+            "ترامپ هنوز از افزایش قیمت‌ها عذرخواهی نکرده و این بی‌پاسخ‌گویی خشم عمومی را تشدید می‌کند"
+        ],
+        "impact": "کاهش حمایت پایه ترامپ در میان کارگران حمل‌ونقل، فشار بر رهبری جمهوری‌خواه برای بازنگری در سیاست‌های انرژی",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/maga-truckers-beg-biden-back-220201000.html",
+        "clean_url": "https://www.aol.com/articles/maga-truckers-beg-biden-back-220201000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/09/20/67ccba16-daeb-3125-a656-7fd0365985eb/ec31cb03-271f-4a9f-8cfb-a0259f8ad5d0.jpg",
+        "timestamp": 1789858965.0
+    },
+    {
         "id": "c0db3a628d",
         "title_fa": "بررسی اظهارات لیاندرو بروسکو درباره اسرائیل و ونزوئلا",
         "title_en": "Lisandro Brusco: ‘We Must Fight the Imperialist and Zionist Bloc in Latin America’",
@@ -5432,25 +5451,6 @@
         "url": "https://www.latimes.com/world-nation/story/2026-09-20/oil-prices-could-be-much-worse-trump-has-chinas-xi-to-thank",
         "clean_url": "https://www.latimes.com/world-nation/story/2026-09-20/oil-prices-could-be-much-worse-trump-has-chinas-xi-to-thank",
         "image": "https://www.bing.com/th?id=ONUT.t5iC0ZBzkO67757vDuW-3Q",
-        "timestamp": 1789815773.0
-    },
-    {
-        "id": "f8eb870126",
-        "title_fa": "نرگس محمدی: تحریم‌ها و جنگ زندگی را خنک کرده",
-        "title_en": "‘No room to breathe’: Nobel laureate Narges Mohammadi describes Iranians facing war, sanctions",
-        "summary": [
-            "محمدی می‌گوید تحریم‌ها و جنگ زندگی روزمره را خنک کرده‌اند",
-            "او به شکنجه‌های زندان و محکومیت 44 ساله اشاره کرد",
-            "نسل جدید ایرانیان را به مقاومت بی‌صدا تشویق می‌کند"
-        ],
-        "impact": "بیان این حرف‌ها فشار بین‌المللی برای رفع تحریم‌ها را تقویت می‌کند",
-        "tag": "حقوق بشر",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "Los Angeles Times",
-        "url": "https://www.latimes.com/world-nation/story/2026-09-20/nobel-laureate-narges-mohammadi-says-iranians-paying-price-for-war",
-        "clean_url": "https://www.latimes.com/world-nation/story/2026-09-20/nobel-laureate-narges-mohammadi-says-iranians-paying-price-for-war",
-        "image": "https://www.bing.com/th?id=ONUT.-mSlVkURnPZgaHSCnPpQZg",
         "timestamp": 1789815773.0
     }
 ]
