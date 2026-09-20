@@ -2240,6 +2240,25 @@
         "timestamp": 1789782720.0
     },
     {
+        "id": "5cbbe8c14b",
+        "title_fa": "ترامپ پیش از پایان کمپ دیوید به‌سرعت بازگشت",
+        "title_en": "Trump mysteriously departs Camp David early for White House following chilling security alert",
+        "summary": [
+            "هشدار امنیتی نامشخص باعث شد ترامپ زودتر از برنامه‌اش از کمپ دیوید پرواز کند.",
+            "کاخ سفید بدون توضیح رسمی این حرکت را اعلام کرد؛ نشان از حساسیت بالای وضعیت دارد.",
+            "اگر تهدید ربطی به ایران داشته باشد، می‌تواند تنش‌های منطقه‌ای را تشدید کند."
+        ],
+        "impact": "برنامه‌های امنیتی و تصمیمات سیاسی ترامپ تحت فشار می‌گیرد.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Mirror US on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-mysteriously-departs-camp-david-early-for-white-house-following-chilling-security-alert/ar-AA2cAiIt?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-mysteriously-departs-camp-david-early-for-white-house-following-chilling-security-alert/ar-AA2cAiIt",
+        "image": "https://www.bing.com/th?id=ONUT.sQSPFRXrpQjXHVF6Fa2phQ",
+        "timestamp": 1789782506.0
+    },
+    {
         "id": "c3dbd5999c",
         "title_fa": "ویتمیر: چرا مرکز کندی بیش از آنچه فکر می‌کنید اهمیت دارد",
         "title_en": "Whitmire: Why the Kennedy Center matters more than you think",
@@ -5483,22 +5502,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9teE9LS2NGYm1OYnFhV2RzOE03R0tPNlVHVW5wS1U3MnBuYjBzbFdqbU00Y2E4NFlWUF9LR3ZFeDVxRmg2NkdiWGtWdEZlVVZEei03UEwycVZIb2gzQ3pJ",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789719843.0
-    },
-    {
-        "id": "b70d9ba35e",
-        "title_fa": "خبر بین‌المللی — Gas prices approach highest level this year with just weeks",
-        "title_en": "Gas prices approach highest level this year with just weeks to go before midterms",
-        "summary": [
-            "Friday’s national average is 10 cents below its May high, fewer than eight weeks before elections to determine which party controls Congress."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523",
-        "clean_url": "https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-gas-prices-mn-0905-3783e3.jpg",
-        "timestamp": 1789719060.0
     }
 ]
