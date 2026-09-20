@@ -1,5 +1,24 @@
 [
     {
+        "id": "ef4922a0ad",
+        "title_fa": "ترامپ و ایران در اوج مذاکرات سازمان ملل",
+        "title_en": "Iran will be top of mind at the UN — and Trump as a chance to strike a deal",
+        "summary": [
+            "مقاله می‌گوید ایران در جلسه ششمین مجمع عمومی سازمان ملل محور اصلی بحث‌هاست",
+            "اگر ترامپ بازگشت کند، ممکن است از فشارهای تحریمی برای رسیدن به توافق استفاده کند",
+            "این موضوع می‌تواند روابط منطقه‌ای را تحت فشار جدیدی قرار دهد"
+        ],
+        "impact": "فشارهای دیپلماتیک بر ایران افزایش می‌یابد و فرصت مذاکرات جدیدی برای رفع تحریم‌ها فراهم می‌شود",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "New York Post on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/iran-will-be-top-of-mind-at-the-un-and-trump-as-a-chance-to-strike-a-deal/ar-AA2czMr2?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/iran-will-be-top-of-mind-at-the-un-and-trump-as-a-chance-to-strike-a-deal/ar-AA2czMr2",
+        "image": "https://www.bing.com/th?id=ONUT.hQsnPbcCc84H7NV3L0vVOA",
+        "timestamp": 1789865513.2017894
+    },
+    {
         "id": "283fb91879",
         "title_fa": "بیانیه نماینده آمریکا: ایران آماده «آرمگدون»",
         "title_en": "Iran was preparing to launch ‘Armageddon,’ Rep. Tim Burchett says",
@@ -17,6 +36,26 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/iran-was-preparing-to-launch-armageddon-rep-tim-burchett-says/vi-AA2cAla4",
         "image": "https://www.bing.com/th?id=ONUT.Evu58Zt50bMVi0kY0ydn5A",
         "timestamp": 1789865128.5261319
+    },
+    {
+        "id": "cb16c7207a",
+        "title_fa": "حمله‌های حوثی و شبکه نیابتی ایران، چالش آمریکا",
+        "title_en": "Houthi Strikes and Iran’s Proxy Network Power: US Faces Tough Security Choices",
+        "summary": [
+            "حوثی‌ها به‌تازگی حملات موثری در خلیج عدن انجام دادند که نشان‌دهنده پشتیبانی ایران است",
+            "آمریکا باید بین فشار نظامی و دیپلماسی تعادل پیدا کند؛ هر تصمیم می‌تواند تنش‌های خاورمیانه را تشدید کند",
+            "شبکه نیابتی ایران شامل حوثی، حزب‌الله و میلت‌های عراقی است که به‌صورت هماهنگ عمل می‌کنند",
+            "احتمال گسترش حملات به کشتی‌های تجاری باعث افزایش هزینه‌های حمل‌ونقل بین‌المللی می‌شود"
+        ],
+        "impact": "هزینه‌های حمل‌ونقل بین‌المللی و زنجیره تأمین انرژی خاورمیانه تحت فشار شدید قرار می‌گیرد",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "India Narrative",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnprZnFhbmVCazJwX2J6X0VtN1dobTdLd1VWa0o3STJQbGhuY21NZGYycDRVVXpUTDZnWkFGaU1EV3pnY3hNSmRlcmk5WGlvM2pEeFBwRUpyUkVXSHBiblBQZFZfcWhlR1poS05fclE1RHlHaWlueEdVVFBoblJqcUlDa3BJaUdmUVNNTWV6azlsNlZGYXc3aDM1eE1DTkxVajd6WVdVRVFGUHNKOWx4VS1nRlpaVGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnprZnFhbmVCazJwX2J6X0VtN1dobTdLd1VWa0o3STJQbGhuY21NZGYycDRVVXpUTDZnWkFGaU1EV3pnY3hNSmRlcmk5WGlvM2pEeFBwRUpyUkVXSHBiblBQZFZfcWhlR1poS05fclE1RHlHaWlueEdVVFBoblJqcUlDa3BJaUdmUVNNTWV6azlsNlZGYXc3aDM1eE1DTkxVajd6WVdVRVFGUHNKOWx4VS1nRlpaVGs",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789864200.0
     },
     {
         "id": "0feb32f689",
@@ -5462,41 +5501,5 @@
         "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/record-diesel-prices-could-be-trumps-achilles-heel-2026-09-18",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789712894.2024772
-    },
-    {
-        "id": "5642e098a9",
-        "title_fa": "خبر بین‌المللی — Can ترامپ convince skeptical allies that ایران جنگ is under",
-        "title_en": "Can Trump convince skeptical allies that the Iran war is under control?",
-        "summary": [
-            "Can Trump convince skeptical allies that the Iran war is under control? moderndiplomacy.eu"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "moderndiplomacy.eu",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkNGb2RaVHZOM0JXMUEwbWlkM3laV3dMVjVoN051aVprV25HQUVkUzdCWWlER0JpVDB2OVJ5NnBXdXFxX2JOVGJadmcwaXRUVEg5Z0pYa2dMNHE0QUU3clVOUHFHT3NRSGdrNEtEWFZ2bURuTVV5ai1EX3BZemxsM2lUV3BmNC0xaHUtV3dhNXMyZm16ajN0YU5xLWJWazZBRlF6U2Jtcm9KekFqMmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkNGb2RaVHZOM0JXMUEwbWlkM3laV3dMVjVoN051aVprV25HQUVkUzdCWWlER0JpVDB2OVJ5NnBXdXFxX2JOVGJadmcwaXRUVEg5Z0pYa2dMNHE0QUU3clVOUHFHT3NRSGdrNEtEWFZ2bURuTVV5ai1EX3BZemxsM2lUV3BmNC0xaHUtV3dhNXMyZm16ajN0YU5xLWJWazZBRlF6U2Jtcm9KekFqMmc",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789712014.0
-    },
-    {
-        "id": "a9677db6ec",
-        "title_fa": "پول میلیاردی ایران از طریق بانک‌های آمریکا عبور می‌کند",
-        "title_en": "The Morning Risk Report: How Billions in Iranian Money Passes Through U.S. Banks",
-        "summary": [
-            "گزارش WSJ نشان می‌دهد میلیاردها دلار ایرانی از حساب‌های آمریکایی به‌صورت غیرقانونی جریان دارد",
-            "این مسیر باعث ضعف اثر تحریم‌ها و ریسک مالی برای بانک‌ها می‌شود",
-            "نهادهای نظارتی در حال بررسی روش‌های بسته شدن این مسیر هستند"
-        ],
-        "impact": "تحریم‌های مالی آمریکا تضعیف می‌شود و ریسک جریمه‌های بین‌المللی برای بانک‌ها افزایش می‌یابد",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0dlSS1mUmVLSldCd2RuU2FEMUZyTUItQkd4S0JIR1ZFbFAtaW1PUDc4Slp5cnZuX2ZsRjUxUzZZVHRZbnVQOXZhcVc5dEhpUHY2N2dnYXRfQmdlOUo2SEMtcWh3TklGV2xSWC1MN1VITjRBSEhfU0NlMDQyVGJDWGh6aW0xTXNsNlF3V29DeTVWNDl5VVpLc1lkQWcwVUo3VEtnUG5HRnRERTBCcG5aZVZ5cG1sME9ud0h3WUFfcXVTQ3dIT0dxQjVZRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS0dlSS1mUmVLSldCd2RuU2FEMUZyTUItQkd4S0JIR1ZFbFAtaW1PUDc4Slp5cnZuX2ZsRjUxUzZZVHRZbnVQOXZhcVc5dEhpUHY2N2dnYXRfQmdlOUo2SEMtcWh3TklGV2xSWC1MN1VITjRBSEhfU0NlMDQyVGJDWGh6aW0xTXNsNlF3V29DeTVWNDl5VVpLc1lkQWcwVUo3VEtnUG5HRnRERTBCcG5aZVZ5cG1sME9ud0h3WUFfcXVTQ3dIT0dxQjVZRQ",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789711791.0
     }
 ]
