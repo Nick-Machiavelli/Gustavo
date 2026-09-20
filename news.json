@@ -1,5 +1,25 @@
 [
     {
+        "id": "656f61b3fb",
+        "title_fa": "ترامپ و شی: هشدار جنگ‌آمادگی چین",
+        "title_en": "Xi prepares China ‘for battle’ as expert warns of grave danger facing US ahead of DC summit",
+        "summary": [
+            "گوردون چانگ می‌گوید شی جین‌پینگ چین را برای جنگ با آمریکا آماده می‌کند.",
+            "این ادعا با برنامه‌ریزی ملاقات دو جانبه در واشنگتن و تمرکز بر هوش مصنوعی و تجارت در تضاد است.",
+            "گزارش‌ها حاکی از کمک چین به ایران در حملات اخیر است که خطرات منطقه‌ای را تشدید می‌کند.",
+            "اگر این ادعاها صحت داشته باشد، فشار دیپلماتیک و احتمال تحریم‌های جدید برای چین افزایش می‌یابد."
+        ],
+        "impact": "اگر چین واقعاً برای جنگ آماده باشد، آمریکا ممکن است تحریم‌های سخت‌تری اعمال کند و تنش‌های نظامی در آسیا‑آتلانتیک تشدید شود.",
+        "tag": "چین-آمریکا",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/xi-prepares-china-battle-expert-warns-grave-danger-facing-us-ahead-dc-summit",
+        "clean_url": "https://www.foxnews.com/media/xi-prepares-china-battle-expert-warns-grave-danger-facing-us-ahead-dc-summit",
+        "image": "https://www.bing.com/th?id=ONUT.J-qvB5c71NJ9Nqo2H5PTig",
+        "timestamp": 1789936804.7551005
+    },
+    {
         "id": "f792af184d",
         "title_fa": "خبر بین‌المللی — Both Parties Aiming به Lose Midterm Election",
         "title_en": "Both Parties Aiming to Lose the Midterm Election",
@@ -647,6 +667,26 @@
         "clean_url": "https://www.msn.com/en-au/general/general/53-of-the-most-stupid-things-donald-trump-has-ever-said/ar-AA2cCiOP",
         "image": "https://www.bing.com/th?id=ONUT.qDIT6slVF8dyF8KsX6aTYA",
         "timestamp": 1789908015.7014892
+    },
+    {
+        "id": "47e22d4d65",
+        "title_fa": "نتایج انتخابات ایالت‌های آلمان: دیلینکه برتر برلین",
+        "title_en": "راست و چپ افراطی در انتخابات ۲ ایالت آلمان پیشتازند",
+        "summary": [
+            "در برلین حزب چپ افراطی دیلینکه با ۲۵.۱٪ صدرنشین شد.",
+            "در مکلنبورگ-فورپومرن آلترناتیو برای آلمان (AfD) ۳۷.۷٪ گرفت و مرز پنج درصد را عبور کرد.",
+            "حزب دموکرات مسیحی (CDU) در هر دو ایالت زیر حد نصاب تاریخی خود سقوط کرد.",
+            "سایر احزاب ائتلافی همکاری با AfD را رد کرده‌اند؛ لذا تشکیل دولت محلی برای این حزب دشوار است."
+        ],
+        "impact": "نتایج می‌تواند فشار بیشتری بر احزاب سنتی بگذارد و مسیر تشکیل ائتلاف‌های محلی را پیچیده کند.",
+        "tag": "آلمان",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609209930",
+        "clean_url": "https://www.iranintl.com/202609209930",
+        "image": "http://www.bing.com/th?id=ONUT.Wa3m84JXSIS22l5qB7fG1Q&pid=News",
+        "timestamp": 1789907040.0
     },
     {
         "id": "95535bd7f2",
@@ -5426,41 +5466,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGlBM3NWLV8yNHJIM3dMNGdJaXgyRHV4TU11cFB2RmUtTzFIRTg0U3hnS2hIMkFGOVUxdTBtNmw4QUhvNzBiMmplX0FSN3ZpWnp2RUxYSEdvc3gtV0ZQNnczM3ZMV3A2Unp6WDRCZFdueUdLNU05NHd3Tk0wNkRqSHRQNWxqMTNMT2M4djNtb2lydE1tWXNuZGV1SW1pOFpN",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789806840.0
-    },
-    {
-        "id": "b3f0066589",
-        "title_fa": "اعدام مردی به‌اتهام افشای اطلاعات موشکی به اسرائیل",
-        "title_en": "Iran Executes Man Accused Of Sharing Missile-site Intelligence With Israel",
-        "summary": [
-            "اجرای حکم اعدام نشان می‌دهد ایران برای هر گونه جاسوسی نظامی تحمل صفر دارد.",
-            "این اقدام پیام هشدار واضحی به نیروهای داخلی و شبکه‌های اطلاعاتی مخالف می‌فرستد.",
-            "افشای اطلاعات موشکی می‌تواند به اسرائیل در برنامه‌ریزی حملات نیابتی کمک کند؛ بنابراین تهران سعی دارد ریسک‌های مشابه را کاهش دهد."
-        ],
-        "impact": "دستگیری و اعدام افراد مشکوک به جاسوسی، فشار روانی بر داخل کشور و محدود کردن دسترسی دشمن به اطلاعات موشکی.",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0NIdm00YVMxbm44NE1vWERDTi10MkZlcFNMZ1dMLWloSDBBZ1ZFZnpqVlhQLTgzUXlMRElfZVZNTjN0alpGZmY0LTZOaXZTNVJmZThmbEJGdVJvSW9TNko1VmlHdG56cVo4cGoyOXZvVUh2aldUY3NrSXctLS1zQ25yVV94ZUNqbzVPY3JlUkdlTTNUZV9mQ3lLOVRMRGwzczA1cl9ITkVFem1EUEg2cFdIb3F3b0YtczJZd1lQaldvejlsVWRXNDFXTElXb2xaLVd4SjdjQUNsUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0NIdm00YVMxbm44NE1vWERDTi10MkZlcFNMZ1dMLWloSDBBZ1ZFZnpqVlhQLTgzUXlMRElfZVZNTjN0alpGZmY0LTZOaXZTNVJmZThmbEJGdVJvSW9TNko1VmlHdG56cVo4cGoyOXZvVUh2aldUY3NrSXctLS1zQ25yVV94ZUNqbzVPY3JlUkdlTTNUZV9mQ3lLOVRMRGwzczA1cl9ITkVFem1EUEg2cFdIb3F3b0YtczJZd1lQaldvejlsVWRXNDFXTElXb2xaLVd4SjdjQUNsUQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789804390.0
-    },
-    {
-        "id": "581792e55f",
-        "title_fa": "ترامپ: ایران جنگ به پایان soon, gas prices به drop به pre-جنگ levels",
-        "title_en": "Trump: Iran war to end soon, gas prices to drop to pre-war levels",
-        "summary": [
-            "Trump claims the Iran war will end soon, leading to lower gas prices. US-Iran deal funding in 2026 at 15.5% YES."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/trump-iran-war-to-end-soon-gas-prices-to-drop-to-pre-war-levels/",
-        "clean_url": "https://cryptobriefing.com/trump-iran-war-to-end-soon-gas-prices-to-drop-to-pre-war-levels",
-        "image": "http://www.bing.com/th?id=ONUT.xsdgsTiQvi-MyUgK7p4Hyw&pid=News",
-        "timestamp": 1789804140.0
     }
 ]
