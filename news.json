@@ -1087,6 +1087,25 @@
         "timestamp": 1789901533.0
     },
     {
+        "id": "d5178b23d9",
+        "title_fa": "هشدار ایران از اقدام نظامی جدید آمریکا",
+        "title_en": "Iran warns of fresh US action as peace talks remain deadlocked",
+        "summary": [
+            "فرماندهی مرکزی نظامی ایران گزارش دریافت کرده که ایالات متحده با حمایت چند کشور منطقه‌ای برای حمله جدید آماده می‌شود",
+            "تهران اعلام کرد هر حملهٔ تازهٔ آمریکا منجر به جنگ طولانی و گسترش در خاورمیانه خواهد شد",
+            "این هشدار نشان می‌دهد مذاکرات صلح در وضعیت بن‌بست باقی مانده و فشار دیپلماتیک کم‌رنگ است"
+        ],
+        "impact": "احتمال تشدید نظامی در خاورمیانه و تغییر استراتژی‌های نظامی آمریکا و ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Newspoint on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-warns-of-fresh-us-action-as-peace-talks-remain-deadlocked/ar-AA2cCCMS?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-warns-of-fresh-us-action-as-peace-talks-remain-deadlocked/ar-AA2cCCMS",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789901280.0
+    },
+    {
         "id": "e8a855659d",
         "title_fa": "دشمنان اسرائیل در حال یادگیری هستند که مقاومت واقعاً به چه معناست",
         "title_en": "Israel's enemies are learning what resilience really means",
@@ -2251,6 +2270,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXFDRkxCNTdRb1hER2wtR1NDbGJrM3NRUWpBSlJtSDRRWUF6RS1YX3J1VWtIUnQtYTlFOUdBMDFsTlJxRE9LVU1GQmNwSUZSME5FR0x3a3Zpd2tiYmtMX0NmTHhNRTZIUXBWbHg2ZW8wOGwzVGpRd3pIaldpT2w0ZXJhWFF6Ni03WThIWnd5dEJZRldybUhhc3JZTGNGRU83QXVBX3I1MlF5VVBySjd3",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789860277.0
+    },
+    {
+        "id": "569547b0c0",
+        "title_fa": "آمریکا عدم شناخت دولت نظامی سودان را اعلام کرد",
+        "title_en": "US says it does not recognise Sudan’s army-backed government",
+        "summary": [
+            "مشاور ارشد ترامپ، مسعد بولوس، گفت واشنگتن دولت نظامی سودان را به‌عنوان دولت رسمی نمی‌شناسد",
+            "ایالات متحده با مصر، امارات، عربستان، قطر، ترکیه و کشورهای اروپایی برای ایجاد آتش‌بس انسانی در سودان همکاری می‌کند",
+            "این موضع نشان می‌دهد آمریکا به‌جای به رسمیت شناختن، به تعامل عملی با مقامات نظامی ادامه می‌دهد"
+        ],
+        "impact": "عدم شناخت رسمی دولت سودان، مانع تحریم‌های گسترده می‌شود ولی روابط عملی با ارتش را حفظ می‌کند",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/us-says-it-does-not-recognise-sudans-army-backed-government",
+        "clean_url": "https://www.radiotamazuj.org/en/news/article/us-says-it-does-not-recognise-sudans-army-backed-government",
+        "image": "https://www.radiotamazuj.org/wp-content/uploads/2026/09/MB.png",
+        "timestamp": 1789860036.0
     },
     {
         "id": "90c1d35655",
@@ -5415,40 +5453,5 @@
         "clean_url": "https://www.espn.com/espn/story/_/id/49978068/india-asian-games-2026-aichi-nagoya-full-schedule-medal-events-fixtures-september-20-sunday",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789816316.0
-    },
-    {
-        "id": "03d950f528",
-        "title_fa": "کره جنوبی می‌گوید کره شمالی یک پرتابه اضافی به سمت دریا پرتاب کرده است",
-        "title_en": "South Korea says North Korea has launched an additional projectile toward the sea",
-        "summary": [
-            "North Korea launched a short-range ballistic missile toward the sea on Sunday, South Korea's military said, two days after the North threatened to bolster its nuclear deterrent capabilities and..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "WISN 12 News",
-        "url": "https://www.wisn.com/article/north-korea-missile-latest-weapons-display/73806975",
-        "clean_url": "https://www.wisn.com/article/north-korea-missile-latest-weapons-display/73806975",
-        "image": "https://kubrick.htvapps.com/htv-prod/images/3bd4be89-8460-46fb-bbb6-3cc76d36a4ae.jpg?crop=1.00xw%3A0.846xh%3B0%2C0&resize=1200%3A*",
-        "timestamp": 1789816316.0
-    },
-    {
-        "id": "e3f4e4b71e",
-        "title_fa": "حوثی‌ها ادعای حمله به تأسیسات سعودی می‌کنند",
-        "title_en": "Iran live updates: Houthis claim attacks made on Saudi facilities",
-        "summary": [
-            "حوثی‌ها ادعا کردند به تأسیسات نفتی یا نظامی سعودی حمله کرده‌اند، اما رییس عربستان پاسخی نداده است",
-            "این ادعاها می‌تواند تنش‌های خلیج فارس را تشدید کند و خطر گسترش درگیری را بالا ببرد"
-        ],
-        "impact": "افزایش نگرانی‌های امنیتی خلیج، احتمال واکنش نظامی سعودی",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/money/general/iran-live-updates-houthis-claim-attacks-made-on-saudi-facilities/ar-AA2caaSM",
-        "clean_url": "https://www.msn.com/en-us/money/general/iran-live-updates-houthis-claim-attacks-made-on-saudi-facilities/ar-AA2caaSM",
-        "image": "http://www.bing.com/th?id=ONUT.9Zi6p2C0maKLWyidcmeM6w&pid=News",
-        "timestamp": 1789816270.0
     }
 ]
