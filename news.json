@@ -1,5 +1,25 @@
 [
     {
+        "id": "5aa9da52d1",
+        "title_fa": "ترامپ ساختار جهانی آمریکا را می‌کاهد",
+        "title_en": "Trump Is Dismantling the World America Built",
+        "summary": [
+            "تحلیل‌گران می‌گویند خروج ترامپ از تعهدات نظامی و دیپلماتیک باعث گسترش جنگ‌های محلی شد",
+            "جنگ در اوکراین به‌سرعت به کشورهای همسایه سرایت کرد و فشار بر ایران و حوثی‌ها را افزاش داد",
+            "چین با تأمین سلاح و اطلاعات به تهران نقش جدیدی در تعادل منطقه‌ای پیدا کرده",
+            "بی‌ثباتی ناشی از این سیاست‌ها بازار انرژی را تحت فشار قرار داد و خطر تشدید درگیری‌های منطقه‌ای را بالا برد"
+        ],
+        "impact": "کاهش حضور آمریکا در خاورمیانه فضای بیشتری برای رقبا ایجاد می‌کند و خطر تشدید درگیری‌های نظامی در منطقه را افزایش می‌دهد",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Rolling Stone Australia",
+        "url": "https://au.rollingstone.com/culture/culture-features/trump-maga-destroyed-global-order-101301/",
+        "clean_url": "https://au.rollingstone.com/culture/culture-features/trump-maga-destroyed-global-order-101301",
+        "image": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=1200,height=628/https://images-r2-1.thebrag.com/rs/uploads/2026/09/trump-leadership-position.jpg",
+        "timestamp": 1789943640.054664
+    },
+    {
         "id": "656f61b3fb",
         "title_fa": "ترامپ و شی: هشدار جنگ‌آمادگی چین",
         "title_en": "Xi prepares China ‘for battle’ as expert warns of grave danger facing US ahead of DC summit",
@@ -2216,6 +2236,26 @@
         "clean_url": "https://venezuelanalysis.com/interviews/lisandro-brusco-we-must-fight-the-imperialist-and-zionist-bloc-in-latin-america",
         "image": "https://www.bing.com/th?id=ONUT.Z_618SvXWF90iivONhW0cg",
         "timestamp": 1789858038.8615031
+    },
+    {
+        "id": "dbc80ea964",
+        "title_fa": "هشدار سفر به ایران و سفر وزیر خارجه به نیویورک",
+        "title_en": "US-Iran War Live Updates: Iran FM Aragchi heads to NYC for UNGA; US restricts govt employees to 2 Saudi cities",
+        "summary": [
+            "سفارت‌مجازی آمریکا به شهروندان خود اعلام کرد برای هر دلیلی به ایران سفر نکنند و افراد داخل کشور را به خروج فوری دعوت کرد",
+            "تشدید تنش‌های نظامی بین حوثی‌های حامی ایران و عربستان سعودی می‌تواند به سرعت گسترش یابد",
+            "وزیر امور خارجه ایران، عباس آراغچی، پس از توقف کوتاه در دوحه، به نیویورک برای حضور در مجمع عمومی سازمان ملل می‌رود",
+            "دولت آمریکا سفرهای کاری کارمندان دولتی را به دو شهر سعودی (ریاض و جدّه) محدود کرد"
+        ],
+        "impact": "سفرهای تجاری و دیپلماتیک آمریکایی به خاورمیانه با محدودیت‌های جدید مواجه می‌شود و فشار سیاسی بر ایران افزایش می‌یابد",
+        "tag": "سفر",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
+        "image": "https://www.bing.com/th?id=ONUT.RYP_Hd7Q9N5osPI-D7kq5g",
+        "timestamp": 1789857234.0
     },
     {
         "id": "b45ab3c1e4",
@@ -5413,44 +5453,6 @@
         "url": "https://www.msn.com/en-us/politics/international-relations/north-korea-test-launches-ballistic-missile-south-korea-says/ar-AA2cAPoj?ocid=BingNewsVerp",
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/north-korea-test-launches-ballistic-missile-south-korea-says/ar-AA2cAPoj",
         "image": "https://www.bing.com/th?id=ONUT.5v4bDxSDHsoxVmWQZxABnA",
-        "timestamp": 1789815773.0
-    },
-    {
-        "id": "c72e2cb5f6",
-        "title_fa": "اد شیرن در فیلادلفیا به جدال فلسطینی‌ها پرداخته",
-        "title_en": "Ed Sheeran opens Philadelphia show by directly addressing row over Palestine he has found himself embroiled in",
-        "summary": [
-            "اد شیرن در کنسرت فیلادلفیا به جدال فلسطینی‌ها اشاره کرد",
-            "او از انتقادات رسانه‌ای درباره حمایت از فلسطین پاسخ داد",
-            "این بیانیه واکنش‌های متفاوتی در میان طرفداران و منتقدان برانگیخت"
-        ],
-        "impact": "بیان واضح هنرمند می‌تواند فشار عمومی بر سیاست‌های اسرائیل را افزایش دهد",
-        "tag": "فرهنگ",
-        "urgency": 3,
-        "sentiment": -0.1,
-        "source": "Dailymotion on MSN",
-        "url": "https://www.msn.com/en-xl/entertainment/music/ed-sheeran-opens-philadelphia-show-by-directly-addressing-row-over-palestine-he-has-found-himself-embroiled-in/vi-AA2cBBvx?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/entertainment/music/ed-sheeran-opens-philadelphia-show-by-directly-addressing-row-over-palestine-he-has-found-himself-embroiled-in/vi-AA2cBBvx",
-        "image": "https://www.bing.com/th?id=ONUT.2XNKmBd6WbGtcwZmEydBBA",
-        "timestamp": 1789815773.0
-    },
-    {
-        "id": "f5e4b63c87",
-        "title_fa": "نتانیاهو قانون حذف تابعیت برای منتقدان نظامی را پیش می‌برد",
-        "title_en": "Netanyahu backs legislation that would strip ‘NAZA’ makers of citizenship",
-        "summary": [
-            "نتانیاهو قانون جدیدی برای حذف تابعیت افراد انتقادکننده از ارتش پیش می‌برد",
-            "این قانون شامل جریمه‌های سنگین برای توهین به نظامی‌هاست",
-            "مخالفان می‌گویند این اقدام آزادی بیان را تهدید می‌کند"
-        ],
-        "impact": "قانون می‌تواند فشار بین‌المللی بر اسرائیل را در زمینه حقوق بشر افزایش دهد",
-        "tag": "قانون",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Forward",
-        "url": "https://forward.com/fast-forward/851243/netanyahu-backs-legislation-that-would-strip-naza-makers-of-citizenship/",
-        "clean_url": "https://forward.com/fast-forward/851243/netanyahu-backs-legislation-that-would-strip-naza-makers-of-citizenship",
-        "image": "https://www.bing.com/th?id=ONUT.37MfiDN_W9qO6csMufI-nA",
         "timestamp": 1789815773.0
     }
 ]
