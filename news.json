@@ -40,6 +40,25 @@
         "timestamp": 1789893379.0624573
     },
     {
+        "id": "38e0597436",
+        "title_fa": "هشدار آمریکا از تشدید سریع منازعه؛ ترامپ زودتر رفت",
+        "title_en": "‘Conflict has potential to escalate rapidly’: US issues Mideast warnings as Trump leaves Camp David early",
+        "summary": [
+            "خروج زودهنگام ترامپ از کمپ دیوید نشانگر فشار داخلی و عدم تمایل به ادامه مذاکرات فشار بر ایران است",
+            "واشنگتن با اعلام خطر تشدید سریع منازعه، زمینه اعمال تحریم‌های سخت‌تر یا اقدام‌ها نظامی محدود علیه ایران را فراهم می‌کند",
+            "پیام آمریکا ریسک تنش‌های منطقه‌ای را بالا می‌برد و ممکن است واکنش‌های ایران را در قالب حمایت از فلسطین تشدید کند"
+        ],
+        "impact": "افزایش فشار دیپلماتیک و احتمال اعمال تحریم‌های جدید علیه ایران",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "ynetnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAydUxLNkhxT0NhTHExYVhLUFZ4dlBJN3B0a25TSk8yNGh2UGJjbE1WdlctTkRfdXlVSXVYSjB5UTdoemFQLTRBcUJCU1loQkpETHZydUtR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAydUxLNkhxT0NhTHExYVhLUFZ4dlBJN3B0a25TSk8yNGh2UGJjbE1WdlctTkRfdXlVSXVYSjB5UTdoemFQLTRBcUJCU1loQkpETHZydUtR",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789893059.0
+    },
+    {
         "id": "49e51c4ab6",
         "title_fa": "سعودی‌ها، حوثی‌ها و اسرائیل: ریسک تشدید تنش",
         "title_en": "Opinion | The Saudis, the Houthis, and Israel",
@@ -5490,22 +5509,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pTEw1R0liSWlPRlptcDlsVjkyX2I4Und4VnZRRXJuVEtpODJEY3p2ZHBPWmwySmExcE5PaEI0cmNsRXV2VHJIRnN6bFVWSkNsN0VVenN3NkowME1TZVBKam5QcFdlZ3dBbmNycktjMWdUTXdLTnpsX3Z3",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789745432.0
-    },
-    {
-        "id": "a90638863f",
-        "title_fa": "خبر بین‌المللی — ترامپ signs sweeping روسیه تحریم‌ها bill, aiming به choke of",
-        "title_en": "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
-        "summary": [
-            "It’s meant to starve Russian President Vladimir Putin of the resources Moscow needs to continue its war in Ukraine after invading its neighbor more than four years ago. The bill, also drafted by Sen."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/09/18/trump-signs-russia-sanctions/",
-        "clean_url": "https://www.bostonherald.com/2026/09/18/trump-signs-russia-sanctions",
-        "image": "http://www.bing.com/th?id=ONUT.0vdQC-sC_mG6TyDNgSzB3Q&pid=News",
-        "timestamp": 1789745220.0
     }
 ]
