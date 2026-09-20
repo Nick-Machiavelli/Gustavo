@@ -1,5 +1,25 @@
 [
     {
+        "id": "a497cba73f",
+        "title_fa": "واحدهای خزانه‌داری سعی در کنترل اوراق قرضه",
+        "title_en": "Why the White House's Push to Control Bond Markets Is Destined to Disappoint Investors",
+        "summary": [
+            "خزانه‌داری قصد دارد خرید اوراق بلندمدت را دو برابر کند",
+            "این اقدام باعث افزایش نرخ بهره 10‑ساله شد",
+            "فشارهای ناشی از جنگ ایران‑اسرائیل به‌هم‌پیوستگی با این سیاست، بازدهی را بالا نگه می‌دارد",
+            "سرمایه‌گذاران به‌سرعت به سمت دارایی‌های امن می‌چرخند"
+        ],
+        "impact": "قیمت اوراق دولتی و سبدهای سرمایه‌گذاری به‌سرعت تحت فشار می‌افتند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/articles/why-white-houses-push-control-190400300.html",
+        "clean_url": "https://finance.yahoo.com/economy/policy/articles/why-white-houses-push-control-190400300.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/3bac9a0b818da3c60adc0057abbc73c2484585aa79c67f39b26d673d79db30df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F892dac7d57c93151c415f42e4e475a7e.jpg",
+        "timestamp": 1789932741.3770497
+    },
+    {
         "id": "dda6f75be3",
         "title_fa": "نیکلاس کریستوف: در اینجا آمده است که چگونه ترامپ و شی می‌توانند در زمینه هوش مصنوعی پیشرفت کنند",
         "title_en": "Nicholas Kristof: Here’s how Trump and Xi can make progress on AI",
@@ -15,6 +35,26 @@
         "clean_url": "https://www.indianagazette.com/opinion/nicholas-kristof-here-s-how-trump-and-xi-can-make-progress-on-ai/article_c0995a20-f612-4837-bf3a-279804dea84c.html",
         "image": "https://www.bing.com/th?id=ONUT.lPmHeHJcrPRKNg7m4ED9Xw",
         "timestamp": 1789931460.0149298
+    },
+    {
+        "id": "1c9f828594",
+        "title_fa": "ایران ادعا می‌کند آمریکا قصد تجدید حمله هوایی دارد",
+        "title_en": "Middle East braces for more violence as Iran claims US is planning to renew bombing campaign",
+        "summary": [
+            "ایران ادعا کرد ایالات متحده قصد دارد عملیات بمباران جدیدی را آغاز کند",
+            "این حرف‌ها پس از تشدید تنش‌های خاورمیانه و حضور نظامی آمریکا در منطقه بیان شد",
+            "اگر صحت داشته باشد، احتمال واکنش نظامی متقابل و افزایش تلفات غیرنظامی بالا است",
+            "رسانه‌های منطقه‌ای به‌سرعت این خبر را پخش کردند"
+        ],
+        "impact": "احتمال بروز درگیری هوایی جدید می‌تواند مسیر مذاکرات هسته‌ای را به‌سختی تغییر دهد",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0t5OWJYOHViSkxSV3RoR09ZWWNMR3N0LTEzMWxnY0FxVlA2WFNGa1NGRlRreHZGem1zRHhxb1kzV0JHTlNQUzBFR3hrUGViUmZuSmRYRFdhNDNBWGpkRS1GdGlwUnpZbnhYZmgtQnZtM3NTWjdET3huZXhWaWQwc0VfR1IxcTd6RXZKZVNIcUZ3NUVGVUlQV3Q1SzRTRFgtdUJGNjFDZ3NGZTR4LVRYNmdYVFhiby01U3JDTVpwWnA4N2Flc0c3T2c4a1M3eGpxMUFTTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0t5OWJYOHViSkxSV3RoR09ZWWNMR3N0LTEzMWxnY0FxVlA2WFNGa1NGRlRreHZGem1zRHhxb1kzV0JHTlNQUzBFR3hrUGViUmZuSmRYRFdhNDNBWGpkRS1GdGlwUnpZbnhYZmgtQnZtM3NTWjdET3huZXhWaWQwc0VfR1IxcTd6RXZKZVNIcUZ3NUVGVUlQV3Q1SzRTRFgtdUJGNjFDZ3NGZTR4LVRYNmdYVFhiby01U3JDTVpwWnA4N2Flc0c3T2c4a1M3eGpxMUFTTQ",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789930680.0
     },
     {
         "id": "dcd7bea6dd",
@@ -917,6 +957,26 @@
         "clean_url": "https://freebeacon.com/israel/book-complaining-about-israeli-influence-ironically-benefits-from-offshore-arab-funding",
         "image": "https://freebeacon.com/wp-content/uploads/2026/09/israels-lobby-9781668210840_xlg.jpg",
         "timestamp": 1789896870.904028
+    },
+    {
+        "id": "171e9e9015",
+        "title_fa": "دولت آمریکا سفرهای ایرانیان را هشدار داد",
+        "title_en": "Americans in Iran told to stockpile food and water as State Department issues countrywide alert",
+        "summary": [
+            "وزارت امور خارجه آمریکا هشدار عمومی برای تمام شهروندان در ایران صادر کرد",
+            "توصیه می‌شود افراد به‌سرعت غذا و آب ذخیره کنند یا از کشور خارج شوند",
+            "این هشدار پس از افزایش تهدیدات امنیتی و حملات احتمالی به سفارت‌ها صادر شد",
+            "شرکت‌های هواپیمایی ممکن است پروازهای مستقیم را محدود کنند"
+        ],
+        "impact": "سفرهای تجاری و گردشگری به ایران به‌طور ناگهانی کاهش می‌یابد",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Idaho Public Press on MSN",
+        "url": "https://www.msn.com/en-us/news/other/americans-in-iran-told-to-stockpile-food-and-water-as-state-department-issues-countrywide-alert/ar-AA2cCsgr",
+        "clean_url": "https://www.msn.com/en-us/news/other/americans-in-iran-told-to-stockpile-food-and-water-as-state-department-issues-countrywide-alert/ar-AA2cCsgr",
+        "image": "http://www.bing.com/th?id=ONUT.se0KdIMs3T8Hipihn6cEjg&pid=News",
+        "timestamp": 1789896801.0
     },
     {
         "id": "94094bb31b",
@@ -2125,6 +2185,26 @@
         "clean_url": "https://www.msn.com/en-in/news/other/trump-stages-tariffs-in-the-theatre-of-endless-wars/ar-AA2czQ7o",
         "image": "https://www.bing.com/th?id=ONUT.w8voefiqaNEooeJY3Td2-w",
         "timestamp": 1789846699.8578856
+    },
+    {
+        "id": "d7a65bd3c2",
+        "title_fa": "ترامپ تهدید به نابودسازی کل ایران",
+        "title_en": "Donald Trump warns Iran, says he is weighing whether to ‘blow the entire nation up’",
+        "summary": [
+            "ترامپ در مصاحبه فاکس‌نیوز گفت گزینه‌های «نابود کردن» یا «تحریم اقتصادی» را بررسی می‌کند",
+            "این اظهارات می‌تواند فشار دیپلماتیک بر مذاکرات هسته‌ای را تشدید کند",
+            "احتمال واکنش نظامی یا حمایت از گروه‌های نیابتی افزایش می‌یابد",
+            "بازارهای منطقه‌ای و نفت تحت تأثیر قرار می‌گیرند"
+        ],
+        "impact": "افزایش تنش‌های نظامی‑سیاستی می‌تواند به تحریم‌های گسترده و نوسان شدید بازارهای انرژی منجر شود",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/donald-trump-warns-iran-says-he-is-weighing-whether-to-blow-the-entire-nation-up-article-14034017.html",
+        "clean_url": "https://www.moneycontrol.com/world/donald-trump-warns-iran-says-he-is-weighing-whether-to-blow-the-entire-nation-up-article-14034017.html",
+        "image": "https://www.bing.com/th?id=ONUT.xOSz1xnWleYM4ZwyafNheg",
+        "timestamp": 1789846325.0
     },
     {
         "id": "7d161b1b7e",
@@ -5397,73 +5477,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3Nzd1dtRmJZSnYxQUdkU0FlcUpkZG9Oc0dKMFJVLXhsV05obWZmTFBIT0J2WlRKWUhVTXNCa3dfUzNhb2VXNHgwbW5vcVAxeFd0VmNCbEtwWkQ3aUNfcTVsbWhkSUN6cWxKanFGSk1LbHdRLURQbGg3VWtIbnVHclA5cWsxZy1TVm5ETXR3LVdqbXFUaHJkQ29mMWlGdw",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789800480.0
-    },
-    {
-        "id": "e102f3f4b9",
-        "title_fa": "مشاهده دود در نزدیکی فرودگاه ریاض پس از هشدار حمله هوایی در پایتخت عربستان تاریخ انتشار: 20 سپتامبر 2026 05: 08 ق.ظ.",
-        "title_en": "Smoke seen near Riyadh airport after air raid alerts in Saudi capitalPublished on: September 20, 2026 5:08 AM",
-        "summary": [
-            "Pakistan, Sept. 20 -- A large plume of smoke was visible near Riyadh's main airport on Saturday after booms were heard and..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/asia/pakistan/smoke-seen-near-riyadh-airport-after-air-raid-alerts-in-saudi-capitalpublished-on-september-20-2026-508-am/ar-AA2cAe3r?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/smoke-seen-near-riyadh-airport-after-air-raid-alerts-in-saudi-capitalpublished-on-september-20-2026-508-am/ar-AA2cAe3r",
-        "image": "https://www.bing.com/th?id=ONUT.YjSGynFXkRtLROtaqy7dcA",
-        "timestamp": 1789800007.0
-    },
-    {
-        "id": "56bb2af12c",
-        "title_fa": "جنگ ایران: تهران 7 دوره را برای تجدید مذاکرات آمریکا تعیین می‌کند - خواسته‌ها چیست؟",
-        "title_en": "Iran war: Tehran sets 7 terms to renew US talks — what are the demands? Will US strike against Houthis? What we know",
-        "summary": [
-            "Supreme National Security Council Secretary Mohsen Rezaei said Saturday in a post on X, “Iran has announced 7 conditions for..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/world/iran-war-tehran-sets-7-terms-to-renew-us-talks-what-are-the-demands-will-us-strike-against-houthis-what-we-know-11789880465957.html",
-        "clean_url": "https://www.livemint.com/news/world/iran-war-tehran-sets-7-terms-to-renew-us-talks-what-are-the-demands-will-us-strike-against-houthis-what-we-know-11789880465957.html",
-        "image": "https://www.bing.com/th?id=ONUT.3-oup9k6JhZsHg2uyn1a8w",
-        "timestamp": 1789800007.0
-    },
-    {
-        "id": "38aacdd1a3",
-        "title_fa": "مجمع عمومی سازمان ملل 2026: ترامپ در حالی به صحنه جهانی بازمی گردد که اوکراین، جنگ های خاورمیانه و خطرات هوش مصنوعی بر دستور کار مسلط هستند.",
-        "title_en": "UN General Assembly 2026: Trump returns to the world stage as Ukraine, Middle East wars and AI risks dominate agenda",
-        "summary": [
-            "The UN General Assembly takes center stage in New York this week, bringing together global leaders to debate pressing issues such as the Middle East crisis, Ukraine's turmoil, and the dangers posed by..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Economic Times on MSN",
-        "url": "https://www.msn.com/en-in/politics/government/un-general-assembly-2026-trump-returns-to-the-world-stage-as-ukraine-middle-east-wars-and-ai-risks-dominate-agenda/ar-AA2cBin8?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/politics/government/un-general-assembly-2026-trump-returns-to-the-world-stage-as-ukraine-middle-east-wars-and-ai-risks-dominate-agenda/ar-AA2cBin8",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789800007.0
-    },
-    {
-        "id": "415a373241",
-        "title_fa": "درک حرکت گردشگری ایران در بحبوحه جنگ و تحریم‌ها",
-        "title_en": "Understanding Iran’s tourism momentum amid war and sanctions",
-        "summary": [
-            "Iran’s tourism economy is taking an unusual shape, with private investment and domestic demand driving growth even as war,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/09/20/776646/Understanding-Iran-tourism-momentum-amid-war-sanctions",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/20/776646/Understanding-Iran-tourism-momentum-amid-war-sanctions",
-        "image": "https://www.bing.com/th?id=ONUT.2t7aOD-RerOSxAsetnIiIA",
-        "timestamp": 1789800007.0
     }
 ]
