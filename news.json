@@ -1,5 +1,24 @@
 [
     {
+        "id": "123b497cf9",
+        "title_fa": "تشدید تنش‌های ایران‑حوثی خطر منطقه را بالا می‌برد",
+        "title_en": "Iran escalation threatens Middle East as Houthi conflict intensifies",
+        "summary": [
+            "حوثی‌های وابسته به ایران حملات موشکی و پهپادی خود را در خاورمیانه گسترش داده‌اند",
+            "افزایش درگیری می‌تواند به کشورهای دیگر سرایت کند و ناوبری در خلیج فارس را تهدید کند",
+            "نگرانی‌ها درباره گسترش جنگ به عربستان و تأثیر بر بازارهای انرژی در حال رشد است"
+        ],
+        "impact": "افزایش خطر مستقیم برای ناوبری دریایی و نوسان قیمت انرژی",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "FOX News on MSN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/iran-escalation-threatens-middle-east-as-houthi-conflict-intensifies/vi-AA2cD0oF?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-escalation-threatens-middle-east-as-houthi-conflict-intensifies/vi-AA2cD0oF",
+        "image": "https://www.bing.com/th?id=ONUT.4Yq3fh5DT4LUYhSe7Ancsw",
+        "timestamp": 1789951558.6148424
+    },
+    {
         "id": "d4cb61e16e",
         "title_fa": "واشینگتن تایمز: ترامپ سه گزینه را برای ادامه جنگ با جمهوری اسلامی بررسی میکند",
         "title_en": "واشینگتن تایمز: ترامپ سه گزینه را برای ادامه جنگ با جمهوری اسلامی بررسی میکند",
@@ -289,6 +308,25 @@
         "clean_url": "https://finance.yahoo.com/economy/policy/articles/why-white-houses-push-control-190400300.html",
         "image": "https://s.yimg.com/lo/mysterio/api/3bac9a0b818da3c60adc0057abbc73c2484585aa79c67f39b26d673d79db30df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F892dac7d57c93151c415f42e4e475a7e.jpg",
         "timestamp": 1789932741.3770497
+    },
+    {
+        "id": "6fa3a30b1a",
+        "title_fa": "اجلاس ۱۸ام برکس با پیام صلح برگزار شد",
+        "title_en": "Bharat delivered a super hit 18th BRICS Summit",
+        "summary": [
+            "در میان تنش‌های ایران‑اسرائیل و اوکراین، برکس به آرامی برگزار شد",
+            "حضور نخست‌وزیر هند نشان‌دهنده ارتقای جایگاه این کشور در صحنه جهانی است",
+            "برکس به تقویت همکاری‌های اقتصادی غیرغربی و کاهش فشار تحریم‌ها می‌پردازد"
+        ],
+        "impact": "تقویت روابط تجاری غیرغربی و ایجاد گزینه‌های جایگزین برای اقتصادهای عضو",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "The Hans India",
+        "url": "https://www.thehansindia.com/hans/opinion/news-analysis/bharat-delivered-a-super-hit-18th-brics-summit-1123784",
+        "clean_url": "https://www.thehansindia.com/hans/opinion/news-analysis/bharat-delivered-a-super-hit-18th-brics-summit-1123784",
+        "image": "https://assets.thehansindia.com/h-upload/2026/09/20/1704109-brics.jpg",
+        "timestamp": 1789932600.0
     },
     {
         "id": "0575c3bf6d",
@@ -584,6 +622,25 @@
         "clean_url": "https://www.newsmax.com/newsmax-tv/gordon-chang-ai-china/2026/09/20/id/1270028",
         "image": "https://www.bing.com/th?id=ONUT.E7wGa-oGW9xYwhrwYbugXw",
         "timestamp": 1789917160.5170178
+    },
+    {
+        "id": "fe1aa02c59",
+        "title_fa": "وولت زمان پایان جنگ ایران را نمی‌گوید",
+        "title_en": "Waltz Won’t Give Iran War End Date as New Poll Shows Voter Skepticism",
+        "summary": [
+            "وولت اعلام کرد که تاریخ پایان جنگ ایران را مشخص نمی‌کند، در حالی که ترامپ پیش‌تر گفته بود جنگ در چند هفته تمام می‌شود",
+            "نظرسنجی NBC نشان داد 62٪ رای‌دهندگان جنگ را بی‌ارزش می‌دانند و 57٪ کمتر تمایل به حمایت از کاندیداهای حامی آن دارند",
+            "فشار داخلی بر جمهوری‌خواهان برای بازنگری در سیاست‌های نظامی افزایش می‌یابد"
+        ],
+        "impact": "عدم تعیین زمان پایان جنگ، فشار سیاسی بر جمهوری‌خواهان و ریسک کاهش حمایت عمومی",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/mike-waltz-iran-war-end-date-voter-skepticism-poll-12465764",
+        "clean_url": "https://www.newsweek.com/mike-waltz-iran-war-end-date-voter-skepticism-poll-12465764",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/09/GettyImages-2269666738.jpg?w=1200&crop=1",
+        "timestamp": 1789917000.0
     },
     {
         "id": "e906fd6134",
@@ -2303,6 +2360,25 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/iran-will-be-top-of-mind-at-the-un-and-trump-as-a-chance-to-strike-a-deal/ar-AA2czMr2",
         "image": "https://www.bing.com/th?id=ONUT.hQsnPbcCc84H7NV3L0vVOA",
         "timestamp": 1789865513.2017894
+    },
+    {
+        "id": "9108713661",
+        "title_fa": "قیمت نفت پس از حمله حوثی‌ها به ریاض بالا رفت",
+        "title_en": "Oil rises after Houthi attack on Saudi capital",
+        "summary": [
+            "حوثی‌های حامی ایران موشک و پهپاد به پایتخت عربستان شلیک کردند",
+            "قیمت نفت برنت 0.78٪ و ویست‌تی 0.76٪ افزایش یافت",
+            "بازارهای جهانی به تنش‌های خاورمیانه حساس هستند و این رویداد می‌تواند نوسان بیشتری ایجاد کند"
+        ],
+        "impact": "قیمت‌های سوخت برای مصرف‌کنندگان و هزینه‌های حمل‌ونقل افزایش می‌یابد",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "dzrh",
+        "url": "https://www.dzrh.com.ph/post/oil-rises-after-houthi-attack-on-saudi-capital",
+        "clean_url": "https://www.dzrh.com.ph/post/oil-rises-after-houthi-attack-on-saudi-capital",
+        "image": "https://www.bing.com/th?id=ONUT.HE34EVhokK6B9FgC7CaKOA",
+        "timestamp": 1789865151.0
     },
     {
         "id": "283fb91879",
@@ -5385,75 +5461,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/primaries-are-over-midterms-are-set-this-is-where-we-are/ar-AA2czSBX",
         "image": "http://www.bing.com/th?id=ONUT.yRYUg26gAzjfa6z17ME08A&pid=News",
         "timestamp": 1789819860.0
-    },
-    {
-        "id": "5d113cfced",
-        "title_fa": "مسلمان صهیونیست: فعالان ضد اسرائیل اشتباه می‌کنند",
-        "title_en": "I’m a Muslim Zionist. Anti-Israel activists have it completely backward",
-        "summary": [
-            "مقاله ادعای وجود مسلمانانی که به اسرائیل می‌پذیرند را مطرح می‌کند و تنوع ایدئولوژیک داخل جهان اسلام را نشان می‌دهد",
-            "نویسنده سعی دارد تصویر منفی فعالان ضد اسرائیل را به چالش بکشاند و به توافق‌های ابراهیم اشاره کند",
-            "این روایت می‌تواند به تضعیف یکپارچگی منافع فلسطینی در مذاکرات بین‌المللی منجر شود"
-        ],
-        "impact": "تقویت روایت حمایت برخی مسلمانان از اسرائیل و فشار بر جنبش‌های ضد‑اسرائیل",
-        "tag": "ایدئولوژی",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/i-m-a-muslim-zionist-anti-israel-activists-have-it-completely-backward/ar-AA2cyZkM?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/i-m-a-muslim-zionist-anti-israel-activists-have-it-completely-backward/ar-AA2cyZkM",
-        "image": "https://www.bing.com/th?id=ONUT.3kRyB3KevihqwYrTAoykgw",
-        "timestamp": 1789819408.9816594
-    },
-    {
-        "id": "1d51576a87",
-        "title_fa": "پلیس در حال تحقیق پس از شلیک گلوله در میان حادثه پرتاب سنگ در اورشلیم است",
-        "title_en": "Police investigating after shots fired amid alleged Jerusalem stone-throwing incident",
-        "summary": [
-            "Police say shots were fired in East Jerusalem’s Silwan after “a group of youths that passed through the area” was allegedly..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/police-investigating-after-shots-fired-amid-alleged-jerusalem-stone-throwing-incident/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/police-investigating-after-shots-fired-amid-alleged-jerusalem-stone-throwing-incident",
-        "image": "https://www.bing.com/th?id=ONUT.D3ZCTx3Vx5hLwThHnrepSg",
-        "timestamp": 1789818434.0
-    },
-    {
-        "id": "4c838f8130",
-        "title_fa": "کره شمالی یک موشک بالستیک مشکوک به دریای شرق پرتاب کرد",
-        "title_en": "North Korea launches 'suspected ballistic missile' into East Sea",
-        "summary": [
-            "A TV screen shows a file image of a North Korean missile launch during a news program at Seoul Railway Station in Seoul,..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "AOL.co.uk",
-        "url": "https://www.aol.co.uk/articles/north-korea-launches-suspected-ballistic-080909000.html",
-        "clean_url": "https://www.aol.co.uk/articles/north-korea-launches-suspected-ballistic-080909000.html",
-        "image": "https://www.bing.com/th?id=ONUT._nF1AV-Uknk6uD1ZNF3tAQ",
-        "timestamp": 1789818434.0
-    },
-    {
-        "id": "181c7c8c75",
-        "title_fa": "خبر بین‌المللی — Letters به editor, Sept. 19",
-        "title_en": "Letters to the editor, Sept. 19",
-        "summary": [
-            "An investment in our future..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Wyoming Tribune Eagle",
-        "url": "https://www.wyomingnews.com/laramieboomerang/opinion/letters-to-the-editor-sept-19/article_1ca1e458-500b-4dbc-9ee7-733f5521dcb7.html",
-        "clean_url": "https://www.wyomingnews.com/laramieboomerang/opinion/letters-to-the-editor-sept-19/article_1ca1e458-500b-4dbc-9ee7-733f5521dcb7.html",
-        "image": "https://www.bing.com/th?id=ONUT.AkbcStCJkYXnqGVh-cTgGQ",
-        "timestamp": 1789818423.0675879
     }
 ]
