@@ -728,6 +728,26 @@
         "timestamp": 1789926417.0
     },
     {
+        "id": "b81b30b472",
+        "title_fa": "ترامپ حمله هوایی به حوثی‌ها را به تعویق انداخت",
+        "title_en": "نیویورک‌تایمز: ترامپ حمله هوایی به حوثی‌ها را فعلا متوقف کرد",
+        "summary": [
+            "ترامپ پس از فشار سعودی و مخالفت حلقه نزدیک، عملیات هوایی علیه حوثی‌های حمایت‌شده ایران را متوقف کرد",
+            "تصمیم نشان می‌دهد سیاست‌گذاری نظامی آمریکا در یمن تحت تأثیر دیپلماسی منطقه‌ای و داخلی است",
+            "توقف موقت می‌تواند تنش‌های منطقه‌ای را کاهش دهد اما خطر بازگشت حملات را حذف نمی‌کند",
+            "ایران ممکن است این اقدام را پیروزی دیپلماتیک خود در مقابل فشارهای آمریکا بداند"
+        ],
+        "impact": "آسیب‌پذیری عملیات نظامی آمریکا در یمن کاهش می‌یابد و فشار دیپلماتیک بر ایران تقویت می‌شود",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609214100",
+        "clean_url": "https://www.iranintl.com/202609214100",
+        "image": "http://www.bing.com/th?id=ONUT.kLO4PINajyhCOXTJ9J9q2w&pid=News",
+        "timestamp": 1789923600.0
+    },
+    {
         "id": "e33cfbd2d2",
         "title_fa": "خبر بین‌المللی — ترامپ Threatens به Blow ایران ‘Off Face Earth’ as Ceasefi",
         "title_en": "Trump Threatens to Blow Iran ‘Off the Face of the Earth’ as Ceasefire Hangs by a Thread",
@@ -5454,24 +5474,5 @@
         "clean_url": "https://www.aol.com/articles/iran-warns-against-escalation-us-131851000.html",
         "image": "https://www.bing.com/th?id=ONUT.vSz05RNXIGZGefV8ROXjHQ",
         "timestamp": 1789827668.0
-    },
-    {
-        "id": "9fa519e291",
-        "title_fa": "قربانی تیراندازی تروریستی در الی زحاف شناسایی شد",
-        "title_en": "Victim of terror shooting named as Netanel Shukrun, father of six from Alei Zahav settlement",
-        "summary": [
-            "نتانل شکرون، پدر شش فرزند، در حمله تروریستی به منبع آب طبیعی در کرانه باختری کشته شد.",
-            "حمله نشانگر تشدید تنش‌های امنیتی بین شهرک‌های یهودی و فلسطینیان است.",
-            "واکنش‌های بین‌المللی محدود مانع فشار مؤثر بر اسرائیل برای جلوگیری از تکرار می‌شود."
-        ],
-        "impact": "کاهش حس امنیت در شهرک‌های یهودی و تشدید عملیات نظامی اسرائیل در منطقه",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.9,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/victim-of-terror-shooting-named-as-netanel-shukrun-father-of-six-from-alei-zahav-settlement/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/victim-of-terror-shooting-named-as-netanel-shukrun-father-of-six-from-alei-zahav-settlement",
-        "image": "https://www.bing.com/th?id=ONUT.qcyvaBkoRYEKQdhrH5g3zA",
-        "timestamp": 1789827143.0
     }
 ]
