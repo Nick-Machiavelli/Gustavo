@@ -2359,6 +2359,103 @@
         "timestamp": 1789883820.0
     },
     {
+        "id": "c8108dcc3a",
+        "title_fa": "رهبران جهان در او.ن. درباره جنگ، هوش مصنوعی و اقلیم",
+        "title_en": "World leaders meet at UN as their planet grapples with war, division, runaway AI and climate shocks",
+        "summary": [
+            "جنگ‌های جاری و تقسیمات ژئوپولیتیک مانع توافق‌های مؤثر می‌شود",
+            "هوش مصنوعی بدون چارچوب بین‌المللی خطر تشدید رقابت نظامی را دارد",
+            "تغییرات اقلیمی تهدید مشترکی است اما همکاری واقعی کم است"
+        ],
+        "impact": "عدم پیشرفت در مذاکرات بین‌المللی، ریسک تشدید تنش‌ها و نادیده‌گیری بحران‌های زیست‌محیطی",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/un-assembly-leaders-ai-trump-netanyahu-climate-c4727651b9030d6e7f81c0457a33440b",
+        "clean_url": "https://apnews.com/article/un-assembly-leaders-ai-trump-netanyahu-climate-c4727651b9030d6e7f81c0457a33440b",
+        "image": "https://www.bing.com/th?id=ONUT.1HTLjXxWXaW6_5FpYGRQoA",
+        "timestamp": 1789880616.0
+    },
+    {
+        "id": "6d75e91528",
+        "title_fa": "ترامپ پس از تماس مِب‌سلمان، عملیات هوثی را متوقف کرد",
+        "title_en": "Saudi's MBS dialled Trump, warplanes were readied to hit Houthis. Then, a U-turn",
+        "summary": [
+            "مِب‌سلمان فشار مستقیم بر ترامپ برای حمله هوثی اعمال کرد",
+            "ترامپ فهرست هدف‌گیری و پروازهای جنگی را صادر کرد اما پس از دو روز عقب‌نشینی کرد",
+            "نوسان تصمیم‌گیری نظامی آمریکا نشان‌دهنده ضعف در مواجهه با فشارهای خاورمیانه است",
+            "احتمال بازگشت فشارهای سعودی می‌تواند دوباره ریسک جنگ را بالا ببرد"
+        ],
+        "impact": "احتمال تشدید درگیری در خلیج، افزایش تنش‌های ایمنی بین‌المللی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/trump-pauses-us-airstrikes-on-houthis-after-saudi-crown-prince-appeal-red-sea-iran-war-2999207-2026-09-21",
+        "clean_url": "https://www.indiatoday.in/world/story/trump-pauses-us-airstrikes-on-houthis-after-saudi-crown-prince-appeal-red-sea-iran-war-2999207-2026-09-21",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/donald-trump-hosts-crown-prince-mohammed-bin-salman-193234900-16x9.jpg?VersionId=qgFRHr5yfBYALkFu.IWZDzQShb_WcoIp",
+        "timestamp": 1789880616.0
+    },
+    {
+        "id": "9a97f9864b",
+        "title_fa": "قضیه کیفری کیانهان در دبی؛ ایران گزینه احتمالی",
+        "title_en": "Dapper Dion Christy Kinahan 'is running out of road' after Dubai gives him days to get out of the desert state",
+        "summary": [
+            "کیانهان، شخصیت جنایی بین‌المللی، از دبی خواسته شد تا ظرف یک هفته ترک کند",
+            "گزارش‌ها حاکی از جستجوی او برای پناهگاه در ایران است",
+            "این موضوع نشان می‌دهد که ایران ممکن است به عنوان پناهگاه برای افراد تحت تحریم یا جنایت‌کاران استفاده شود"
+        ],
+        "impact": "ایجاد فشار دیپلماتیک بر امارات و نمایان شدن نقش پنهانی ایران در مسکن افراد جنایی",
+        "tag": "جرم",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Irish Mirror on MSN",
+        "url": "https://www.msn.com/en-ie/crime/general/dapper-dion-christy-kinahan-is-running-out-of-road-after-dubai-gives-him-days-to-get-out-of-the-desert-state/ar-AA2cDPGr?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ie/crime/general/dapper-dion-christy-kinahan-is-running-out-of-road-after-dubai-gives-him-days-to-get-out-of-the-desert-state/ar-AA2cDPGr",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789880616.0
+    },
+    {
+        "id": "759b33fe6b",
+        "title_fa": "پاکستان با هشدار ۴۰۰ میلیون دلار، تظاهرات را محدود می‌کند",
+        "title_en": "Pakistan braces for protests as govt warns of $400 million daily loss",
+        "summary": [
+            "دولت پاکستان با هشدار ۴۰۰ میلیون دلار ضرر روزانه، اعتراضات را محدود می‌کند",
+            "دو جناح اصلی (JI و PTI) در مسیر اسلام‌آباد تجمع می‌کنند",
+            "محدودیت‌ها می‌تواند به تشدید سرکوب و نارضایتی عمومی منجر شود",
+            "اقتصاد روزانه در خطر است؛ فشار بر دولت افزایش می‌یابد"
+        ],
+        "impact": "اختلال در اقتصاد ملی، خطر سقوط اعتماد عمومی و تشدید ناآرامی",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-braces-for-protests-as-govt-warns-of-400-million-daily-loss/articleshow/134379349.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-braces-for-protests-as-govt-warns-of-400-million-daily-loss/articleshow/134379349.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134379380,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1789880616.0
+    },
+    {
+        "id": "21f3673de6",
+        "title_fa": "ترامپ پهپاد و تک‌تیراندازها را بر بنای پیروزی می‌گذارد",
+        "title_en": "Why Trump wants to put drones and snipers on his huge new 'Triumphal Arch'",
+        "summary": [
+            "ترامپ ادعا می‌کند ارتش خواست بنای پیروزی را به پایگاه نظامی تبدیل کند",
+            "نصب پهپاد و تک‌تیراندازها نمادگرایی نظامی‌گرایانه و تفرقه‌پذیری است",
+            "این اقدام می‌تواند واکنش‌های انتقادی داخلی و بین‌المللی را برانگیزد"
+        ],
+        "impact": "تقویت تصویر نظامی‌گرایانه ترامپ، افزایش تنش‌های داخلی درباره نمادهای ملی",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "inews.co.uk on MSN",
+        "url": "https://www.msn.com/en-za/news/other/why-trump-wants-to-put-drones-and-snipers-on-his-huge-new-triumphal-arch/ar-AA2cDZQf?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-za/news/other/why-trump-wants-to-put-drones-and-snipers-on-his-huge-new-triumphal-arch/ar-AA2cDZQf",
+        "image": "https://www.bing.com/th?id=ONUT.OPp0Ks1k9ntAOW7PMfAJkQ",
+        "timestamp": 1789880616.0
+    },
+    {
         "id": "7e8035f5f0",
         "title_fa": "هزاران کامیون در مرز ایران‑پاکستان متوقف شدند",
         "title_en": "Des centaines de camions sont bloqués à la frontière entre Iran et Pakistan : que se passe-t-il?",
@@ -5382,98 +5479,5 @@
         "clean_url": "https://www.newsmax.com/finance/streettalk/federal-reserve-interest-rates-inflation/2026/09/20/id/1270027",
         "image": "https://www.bing.com/th?id=ONUT.FGTQwSy6CVyJLapX-HFm4w",
         "timestamp": 1789830737.0
-    },
-    {
-        "id": "e9886444d6",
-        "title_fa": "پهلوی: مجتبی زیرزمین صدایی ندارد",
-        "title_en": "شاهزاده رضا پهلوی: مجتبی اگر زنده باشد، جرات ندارد از زیرزمین صدایی از خود منتشر کند",
-        "summary": [
-            "پهلوی می‌گوید مجتبی مفقود است و حتی اگر زنده باشد، در تاریکی زیرزمین جرات سخن گفتن ندارد",
-            "او ادعا می‌کند نهادهای اطلاعاتی‑امنیتی رژیم از قدرت شبکه‌های انقلابی مردم می‌لرزد",
-            "به قطع صادرات نفت اشاره کرد و گفت پس از پایان تحریم می‌توان دوباره به سرعت تولید را از همان نقطه ادامه داد"
-        ],
-        "impact": "افزایش فشار سیاسی بر رژیم و تقویت امیدهای مخالفان داخلی",
-        "tag": "اپوزیسیون",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609199277",
-        "clean_url": "https://www.iranintl.com/202609199277",
-        "image": "http://www.bing.com/th?id=ONUT.g9XiYRRmc_u5v5HABKmsbA&pid=News",
-        "timestamp": 1789830660.0
-    },
-    {
-        "id": "2ece76c5fa",
-        "title_fa": "ترامپ بازدید کمپ دیوید را به‌دلیل تنش‌های خاورمیانه کوتاه کرد",
-        "title_en": "Trump cuts weekend at Camp David short as tensions rise in Middle East",
-        "summary": [
-            "ترامپ به‌سرعت از کمپ دیوید رفت؛ نشان‌دهنده اضطراب بالای دولت آمریکا است",
-            "زمان کوتاه برای مذاکرات دیپلماتیک فرصتی برای کاهش تنش نیست",
-            "افزایش فشارهای نظامی یا تحریم‌های جدید محتمل است",
-            "این واکنش می‌تواند پیامدهای فوری بر روابط منطقه‌ای داشته باشد"
-        ],
-        "impact": "کاهش زمان مذاکرات می‌تواند فرصتی برای تشدید تنش‌های نظامی در خاورمیانه باشد",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/trump-cuts-weekend-at-camp-david-short-as-tensions-rise-in-middle-east/ar-AA2cCtKR?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/trump-cuts-weekend-at-camp-david-short-as-tensions-rise-in-middle-east/ar-AA2cCtKR",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789830182.0
-    },
-    {
-        "id": "16b040217f",
-        "title_fa": "ایران سه سلول تروریستی را در سه استان خنثی کرد",
-        "title_en": "Iran dismantles terrorist cells in three provinces",
-        "summary": [
-            "نیروهای اطلاعاتی در آذربایجان غربی، البرز و کرمان عملیات موفق انجام داد",
-            "یک عامل کشته و چند نفر دیگر دستگیر شد",
-            "هدف‌ها شامل ترور فرمانده امنیتی و تخریب زیرساخت‌های حساس بود",
-            "ادعای ارتباط با گروه‌های سلطنتی و اطلاعات اسرائیل مطرح شد"
-        ],
-        "impact": "خنثی‌سازی این سلول‌ها خطر حملات تروریستی داخلی را به‌طور قابل‌توجهی کاهش می‌دهد",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/09/20/776672/Iran-dismantles-terrorist-cells-foil-planned-attacks-Kerman-Alborz-West-Azarbaijan",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/20/776672/Iran-dismantles-terrorist-cells-foil-planned-attacks-Kerman-Alborz-West-Azarbaijan",
-        "image": "https://cdn.presstv.co.uk/Photo/2026/9/20/72f2ca6c-5479-4e2d-a1a0-a98e2760057d.jpg",
-        "timestamp": 1789830182.0
-    },
-    {
-        "id": "a509a3078c",
-        "title_fa": "پشت فشار مقامات ایرانی برای یک کمپین بسیج توده ای چیست؟",
-        "title_en": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
-        "summary": [
-            "The Iranian authorities' public messaging campaign is part of a push to train and arm volunteer civilians who would serve as..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/behind-iranian-authorities-push-mass-134726911.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/behind-iranian-authorities-push-mass-134726911.html",
-        "image": "https://www.bing.com/th?id=ONUT.kyru1dqiD7ogJZ81wwL3ow",
-        "timestamp": 1789829255.0
-    },
-    {
-        "id": "b41babbbcc",
-        "title_fa": "مدیر عامل شورون پیامی قوی در مورد قیمت نفت و اقتصاد ارسال می‌کند",
-        "title_en": "Chevron CEO sends a strong message on oil price and the economy",
-        "summary": [
-            "Something Chevron's CEO said at an energy conference puts the White House's oil price message in a difficult spot..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/economy/chevron-ceo-sends-a-strong-message-on-oil-price-and-the-economy",
-        "clean_url": "https://www.thestreet.com/economy/chevron-ceo-sends-a-strong-message-on-oil-price-and-the-economy",
-        "image": "https://www.bing.com/th?id=ONUT.MFL0kRsMiU7ULdVzbt_FdA",
-        "timestamp": 1789829254.0
     }
 ]
