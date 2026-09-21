@@ -1,5 +1,45 @@
 [
     {
+        "id": "6ff7340602",
+        "title_fa": "افزایش نرخ بهره، مانع حملات پهپادی نمی‌شود",
+        "title_en": "Rate hikes can't stop drone strikes: Why is the Fed punishing Americans for the Hormuz blockade?",
+        "summary": [
+            "قیمت نفت به بالای ۱۰۰ دلار رسید، دیزل به ۶ دلار در گالن",
+            "فدرال رزرو با افزایش نرخ سعی در خنثی‌سازی تورم دارد اما اثر بر تحریم هورموز نیست",
+            "حملات پهپادی در تنگه هورموز ادامه دارد و تجارت نفت را مختل می‌کند",
+            "فشار اقتصادی بر آمریکا و خاورمیانه تشدید می‌شود"
+        ],
+        "impact": "تحریم‌های هورموز تجارت نفت را به‌صورت روزانه مختل می‌کند",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/rate-hikes-can-t-stop-drone-strikes-why-is-the-fed-punishing-americans-for-the-hormuz-blockade/ar-AA2cFMls?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/rate-hikes-can-t-stop-drone-strikes-why-is-the-fed-punishing-americans-for-the-hormuz-blockade/ar-AA2cFMls",
+        "image": "https://www.bing.com/th?id=ONUT.YcnDgM5qMHcTh4qoqLXEKw",
+        "timestamp": 1790004119.0775838
+    },
+    {
+        "id": "ff3fa30ac8",
+        "title_fa": "حوثی‌ها رسماً به جنگ ایران پیوستند",
+        "title_en": "Can rhetoric protect the nation?",
+        "summary": [
+            "حوثی‌ها یک‌ماه پس از آغاز جنگ ایران، حضور نظامی خود را اعلام کردند",
+            "هدف فشار بر عربستان و گسترش جبهه در خلیج فارس است",
+            "این حرکت می‌تواند تنگناهای نفتی خلیج را تشدید کند",
+            "واکنش‌های بین‌المللی هنوز نامشخص است"
+        ],
+        "impact": "خطری جدی برای مسیرهای حمل‌ونقل نفت در خلیج فارس ایجاد می‌شود",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Chosun Ilbo on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/can-rhetoric-protect-the-nation/ar-AA2cFHol?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/can-rhetoric-protect-the-nation/ar-AA2cFHol",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790004119.0772724
+    },
+    {
         "id": "1f82229735",
         "title_fa": "ولکر: خلیج باید در مقابله با ایران همیاری کند",
         "title_en": "Fmr NATO Amb. Volker to Newsmax: Gulf Nations Must Help on Iran",
@@ -2342,6 +2382,25 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-we-have-new-targets-iran-s-irgc-says-world-will-be-astonished-by-new-weapons-if-us-launches-fresh-attack/ar-AA2cEGP4",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789918140.0
+    },
+    {
+        "id": "c15a20325c",
+        "title_fa": "بازده‌های خزانه‌داری کاهش یافت، فشار تورمی کم شد",
+        "title_en": "Treasury yields ease, inflation concerns tread lower",
+        "summary": [
+            "بازده اوراق دولتی پس از سقوط نفت، به‌سرعت پایین آمد",
+            "نشست وزیر خزانه‌دار با معاون مالی چین، نگرانی‌های تورمی را کاهش داد",
+            "بازارهای جهانی پس از این خبر، ریسک‌پذیری را افزایش داد"
+        ],
+        "impact": "قیمت دلار در بازار داخلی کوتاه‌مدت کاهش می‌یابد",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/treasury-yields-ease-inflation-concerns-tread-lower/ar-AA2cExb4?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/treasury-yields-ease-inflation-concerns-tread-lower/ar-AA2cExb4",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789917713.0
     },
     {
         "id": "0f92ef105d",
@@ -5354,65 +5413,6 @@
         "url": "https://apnews.com/article/un-assembly-leaders-ai-trump-netanyahu-climate-c4727651b9030d6e7f81c0457a33440b",
         "clean_url": "https://apnews.com/article/un-assembly-leaders-ai-trump-netanyahu-climate-c4727651b9030d6e7f81c0457a33440b",
         "image": "https://www.bing.com/th?id=ONUT.1HTLjXxWXaW6_5FpYGRQoA",
-        "timestamp": 1789880616.0
-    },
-    {
-        "id": "6d75e91528",
-        "title_fa": "ترامپ پس از تماس مِب‌سلمان، عملیات هوثی را متوقف کرد",
-        "title_en": "Saudi's MBS dialled Trump, warplanes were readied to hit Houthis. Then, a U-turn",
-        "summary": [
-            "مِب‌سلمان فشار مستقیم بر ترامپ برای حمله هوثی اعمال کرد",
-            "ترامپ فهرست هدف‌گیری و پروازهای جنگی را صادر کرد اما پس از دو روز عقب‌نشینی کرد",
-            "نوسان تصمیم‌گیری نظامی آمریکا نشان‌دهنده ضعف در مواجهه با فشارهای خاورمیانه است",
-            "احتمال بازگشت فشارهای سعودی می‌تواند دوباره ریسک جنگ را بالا ببرد"
-        ],
-        "impact": "احتمال تشدید درگیری در خلیج، افزایش تنش‌های ایمنی بین‌المللی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/world/story/trump-pauses-us-airstrikes-on-houthis-after-saudi-crown-prince-appeal-red-sea-iran-war-2999207-2026-09-21",
-        "clean_url": "https://www.indiatoday.in/world/story/trump-pauses-us-airstrikes-on-houthis-after-saudi-crown-prince-appeal-red-sea-iran-war-2999207-2026-09-21",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/donald-trump-hosts-crown-prince-mohammed-bin-salman-193234900-16x9.jpg?VersionId=qgFRHr5yfBYALkFu.IWZDzQShb_WcoIp",
-        "timestamp": 1789880616.0
-    },
-    {
-        "id": "9a97f9864b",
-        "title_fa": "قضیه کیفری کیانهان در دبی؛ ایران گزینه احتمالی",
-        "title_en": "Dapper Dion Christy Kinahan 'is running out of road' after Dubai gives him days to get out of the desert state",
-        "summary": [
-            "کیانهان، شخصیت جنایی بین‌المللی، از دبی خواسته شد تا ظرف یک هفته ترک کند",
-            "گزارش‌ها حاکی از جستجوی او برای پناهگاه در ایران است",
-            "این موضوع نشان می‌دهد که ایران ممکن است به عنوان پناهگاه برای افراد تحت تحریم یا جنایت‌کاران استفاده شود"
-        ],
-        "impact": "ایجاد فشار دیپلماتیک بر امارات و نمایان شدن نقش پنهانی ایران در مسکن افراد جنایی",
-        "tag": "جرم",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Irish Mirror on MSN",
-        "url": "https://www.msn.com/en-ie/crime/general/dapper-dion-christy-kinahan-is-running-out-of-road-after-dubai-gives-him-days-to-get-out-of-the-desert-state/ar-AA2cDPGr?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ie/crime/general/dapper-dion-christy-kinahan-is-running-out-of-road-after-dubai-gives-him-days-to-get-out-of-the-desert-state/ar-AA2cDPGr",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789880616.0
-    },
-    {
-        "id": "759b33fe6b",
-        "title_fa": "پاکستان با هشدار ۴۰۰ میلیون دلار، تظاهرات را محدود می‌کند",
-        "title_en": "Pakistan braces for protests as govt warns of $400 million daily loss",
-        "summary": [
-            "دولت پاکستان با هشدار ۴۰۰ میلیون دلار ضرر روزانه، اعتراضات را محدود می‌کند",
-            "دو جناح اصلی (JI و PTI) در مسیر اسلام‌آباد تجمع می‌کنند",
-            "محدودیت‌ها می‌تواند به تشدید سرکوب و نارضایتی عمومی منجر شود",
-            "اقتصاد روزانه در خطر است؛ فشار بر دولت افزایش می‌یابد"
-        ],
-        "impact": "اختلال در اقتصاد ملی، خطر سقوط اعتماد عمومی و تشدید ناآرامی",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-braces-for-protests-as-govt-warns-of-400-million-daily-loss/articleshow/134379349.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-braces-for-protests-as-govt-warns-of-400-million-daily-loss/articleshow/134379349.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134379380,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789880616.0
     }
 ]
