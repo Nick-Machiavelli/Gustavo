@@ -1,5 +1,25 @@
 [
     {
+        "id": "1f82229735",
+        "title_fa": "ولکر: خلیج باید در مقابله با ایران همیاری کند",
+        "title_en": "Fmr NATO Amb. Volker to Newsmax: Gulf Nations Must Help on Iran",
+        "summary": [
+            "ولکر می‌گوید ایالات متحده نمی‌تواند به تنهایی با تهدیدات ایران مقابله کند",
+            "کشورهای خلیج به‌عنوان هدف مستقیم تهدیدات، باید نقش فعال در فشارهای نظامی و اقتصادی ایفا کنند",
+            "این اظهارات می‌تواند فشار دیپلماتیک بر تهران را افزایش دهد",
+            "همکاری واقعی بین خلیج و واشنگتن هنوز به‌وضوح مشخص نشده"
+        ],
+        "impact": "تشویق به مشارکت خلیج، احتمال تقویت تحریم‌ها و عملیات نیابتی علیه ایران را بالا می‌برد",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Newsmax",
+        "url": "https://www.newsmax.com/newsmax-tv/iran-trump-kurt-volker/2026/09/21/id/1270099/",
+        "clean_url": "https://www.newsmax.com/newsmax-tv/iran-trump-kurt-volker/2026/09/21/id/1270099",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790001746.7740471
+    },
+    {
         "id": "3dbc5e379e",
         "title_fa": "اعضای اپوزیسیون کرد برای سالگرد مهسا امینی اعتصاب فراخواندند",
         "title_en": "Iranian opposition groups called for a mass strike on Mahsa Amini’s anniversary then markets across western Iran shut down",
@@ -2523,6 +2543,26 @@
         "clean_url": "https://www.msn.com/en-sg/news/other/opinion-gop-revolt-against-trump-after-don-jr-wedding-controversy/ar-AA2cCmgU",
         "image": "https://www.bing.com/th?id=ONUT.NB8HtmJGZgmhfVYNF6qhjw",
         "timestamp": 1789915668.5834284
+    },
+    {
+        "id": "53e51117c5",
+        "title_fa": "انفجارهای مرموز در مخازن نظامی سوریه پس از اشغال اسرائیل",
+        "title_en": "Timeline: ‘Mysterious explosions’ and blasts since al Sharaa took charge in Syria",
+        "summary": [
+            "پس از سقوط اسد، اسرائیل به سرعت به مناطق استراتژیک سوریه حمله کرد",
+            "اکثریت انفجارها به ذخایر غیرقانونی و نگهداری نادرست مرتبط است",
+            "تحقیقات رسمی هنوز علت دقیق را مشخص نکرده اما تخریب هدفمند محتمل است",
+            "حوادث باعث تضعیف توان نظامی سوریه و افزایش ترس عمومی شده"
+        ],
+        "impact": "حمله‌های مداوم اسرائیل و انفجارهای مخزن، توان دفاعی سوریه را تضعیف و ریسک گسترش درگیری را بالا می‌برد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "TRT World",
+        "url": "https://www.trtworld.com/article/da03e8b7d02d",
+        "clean_url": "https://www.trtworld.com/article/da03e8b7d02d",
+        "image": "https://d341l694dl30ad.cloudfront.net/images/ap/2026/06/29/6a428e5ea23ef80c6cbeff86/original/1436592c-50e3-45f0-baef-742d78e605b6-1782746718841.jpg?width=1080&format=jpg&quality=80",
+        "timestamp": 1789915329.0
     },
     {
         "id": "ffb92eb9ac",
@@ -5368,42 +5408,5 @@
         "clean_url": "https://www.iranintl.com/202609200050",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1789877220.0
-    },
-    {
-        "id": "480fa79e2b",
-        "title_fa": "ترامپ تیمش برای حذف دادگاه کیفری بین‌المللی پیش می‌رود",
-        "title_en": "Team Trump Steps Up Bid to Dismantle International Criminal Court: Report",
-        "summary": [
-            "تیم ترامپ با فشار سیاسی سعی دارد دادگاه کیفری بین‌المللی (ICC) را منحل کند",
-            "این اقدام می‌تواند فضای بیشتری برای اعمال فشارهای دیپلماتیک علیه ایران و سایر هدف‌ها فراهم کند",
-            "حذف ICC واکنش منفی جامعه بین‌المللی را برانگیخته و ممکن است تحریم‌های جدیدی به دنبال داشته باشد",
-            "در صورت موفقیت، ابزار حقوقی بین‌المللی برای تعقیب جرایم جنگی و حقوق بشر به خطر می‌افتد"
-        ],
-        "impact": "امکان اعمال فشارهای دیپلماتیک و نظامی بدون ملاحظه مراجع قضایی بین‌المللی، ریسک تحریم‌های جدید برای آمریکا",
-        "tag": "قضایی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/world-news/team-trump-steps-up-bid-to-dismantle-international-criminal-court-report-12074229",
-        "clean_url": "https://www.ndtv.com/world-news/team-trump-steps-up-bid-to-dismantle-international-criminal-court-report-12074229",
-        "image": "https://www.bing.com/th?id=ONUT.m-BwjvvKZqLHG_57JCWUAA",
-        "timestamp": 1789876984.0
-    },
-    {
-        "id": "0065f0c198",
-        "title_fa": "مشاور فرمانده سپاه: سرنوشت صدام در انتظار ترامپ، نتانیاهو و حامیان آنها خواهد بود",
-        "title_en": "مشاور فرمانده سپاه: سرنوشت صدام در انتظار ترامپ، نتانیاهو و حامیان آنها خواهد بود",
-        "summary": [
-            "رمضان شریف، مشاور فرمانده کل سپاه پاسداران، گفت: «به برکت مقاومت و شجاعت مردم و اطاعت از رهبری، همان سرنوشتی که برای صدام و رژیم بعث رقم خورد، در انتظار ترامپ، نتانیاهو و همه حامیان آن‌ها خواهد بود.»..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609208941",
-        "clean_url": "https://www.iranintl.com/202609208941",
-        "image": "http://www.bing.com/th?id=ONUT.qrHD90jmrefAmQvk8WfNuA&pid=News",
-        "timestamp": 1789876920.0
     }
 ]
