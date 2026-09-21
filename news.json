@@ -744,6 +744,25 @@
         "timestamp": 1789964626.0
     },
     {
+        "id": "0b32ecde7e",
+        "title_fa": "وزیر کشور پاکستان به تهران آمد؛ مذاکرات میانجیگری",
+        "title_en": "محسن نقوی، وزیر کشور پاکستان در بدو ورود به تهران با اسکندر مومنی، وزیر کشور دیدار کرد",
+        "summary": [
+            "محسن نقوی پس از ورود به تهران، بلافاصله با اسکندر مومنی دیدار کرد و موضوعات امنیتی و مرزی را بررسی کرد",
+            "الجزیره سفر را برای پیشبرد تلاش‌های میانجیگری بین تهران و واشینگتن می‌داند؛ در حالی که تسنیم این ارتباط را رد می‌کند",
+            "دیدار می‌تواند نشانگر بازگشت دیپلماسی پشت‌پرده بین دو کشور باشد و فشارهای بین‌المللی را کاهش دهد"
+        ],
+        "impact": "تقویت مسیر دیپلماتیک منطقه‌ای و امکان کاهش تنش‌های سیاسی-اقتصادی",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609218029",
+        "clean_url": "https://www.iranintl.com/202609218029",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1789963920.0
+    },
+    {
         "id": "60c2ddd7e3",
         "title_fa": "آیا ایران با رسیدن تنش‌ها به نقطه اوج، «کد 100» را فعال کرده است؟",
         "title_en": "Has Iran activated ‘Code 100’ as tensions reach a tipping point? What could this mean?",
@@ -5411,23 +5430,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05UUZnOEliRG5BYUpfbDZVOGhOSVNUUFI2QkhNMU5fWE41M1g5MFRuMHJDNFRfMUZMYld1WDhfYmsySS04Yy00QmUtTGJTald2TEw2UUJqN0xkUk85dU9mUkdTS2xCQy1pOHVGS2VYZEJjQzdVZGNfQjdSNkF1bWs",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789862405.0
-    },
-    {
-        "id": "a4ae07e8a7",
-        "title_fa": "اد شیرن وضعیت غزه را 'غیرقابل توجیه' خواند",
-        "title_en": "Ed Sheeran says situation in Gaza 'unjustifiable' after pro-Palestinian rapper Macklemore booted from tour",
-        "summary": [
-            "اد شیرن پس از انتقادها، وضعیت انسانی غزه را غیرقابل توجیه خواند.",
-            "این اظهار نظر باعث واکنش‌های متفاوت در جامعه موسیقی و طرفداران شد."
-        ],
-        "impact": "بیان اد شیرن فشار بین‌المللی بر اسرائیل را تقویت می‌کند.",
-        "tag": "غزه",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/ed-sheeran-says-situation-in-gaza-unjustifiable-after-pro-palestinian-rapper-macklemore-booted-from-tour/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/ed-sheeran-says-situation-in-gaza-unjustifiable-after-pro-palestinian-rapper-macklemore-booted-from-tour",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP25257012661356.jpg",
-        "timestamp": 1789862400.0
     }
 ]
