@@ -36,6 +36,24 @@
         "timestamp": 1790024560.693427
     },
     {
+        "id": "4d272a1217",
+        "title_fa": "ترامپ حملات هوایی به حوثی‌ها را لغو کرد",
+        "title_en": "Iran claims world will be 'astonished' by new weapons, Trump in 'deciding mode'",
+        "summary": [
+            "ترامپ پس از آماده‌سازی کامل، به‌دلیل مذاکرات در مجمع عمومی سازمان ملل، عملیات هوایی را لغو کرد",
+            "این تصمیم نشان می‌دهد فشار داخلی در کابینه بر مداخله نظامی بالا است"
+        ],
+        "impact": "لغو حملات هوایی، فشار نظامی آمریکا بر حوثی‌ها کاهش یافت",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-donald-trump-strait-of-hormuz-09-21",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-donald-trump-strait-of-hormuz-09-21",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/a0569299b52b74a6818a8c7fcc84ff0d.jpg",
+        "timestamp": 1790022120.0
+    },
+    {
         "id": "255fa51557",
         "title_fa": "ایران-US جنگ latest: ایرانی president به fly به New York برای UN summit",
         "title_en": "Iran-US war latest: Iranian president to fly to New York for UN summit",
@@ -122,6 +140,41 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSUk2YlFnTTFBMkwzYmxDTlJxTk5RemNfSXVRYWFuSkh1V01mcGpYNGlPTUNxQW1NbnNJMGloTW9xX0s1OGVkWXZ3ai11Ym9ZMHhRWWNtdW5QeXFKYmdVT19iR1g3aXhBa0UzTkFiRHBoNld4SGQ0TWVkbTdJWi04UkRYLUxaNUpra09VcWRzVHlKUQ",
         "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790017848.0
+    },
+    {
+        "id": "ca17b8bc4d",
+        "title_fa": "جلسه خلیج فارس ترامپ خروج از درگیری را بررسی کرد",
+        "title_en": "Trump’s GCC Meeting: A Path Out of the Conflict",
+        "summary": [
+            "ترامپ در نشست با کشورهای خلیج فارس به‌دنبال یافتن راه‌حل برای خروج از درگیری‌های خاورمیانه بود",
+            "مقاله نشان می‌دهد این مذاکرات می‌تواند فشار دیپلماتیک بر ایران را کاهش دهد"
+        ],
+        "impact": "گفت‌وگوهای خلیج فارس می‌تواند مسیر دیپلماتیک برای کاهش تنش‌های منطقه‌ای فراهم کند",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Washington Institute",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekVvOEFwMUUxX2RSSURBOGVMUzVwTW92V2RzdjhTQUh5em5sbmF6TDVSX2xYaXZiWklvd0c5Q0NhSG1Td0NCbnRsOGJzNHJsbWQ4M3pyMkRiNXY5WDVydUgzOGNRSVZscnJsWEhzYUN1NDdINnM3WFotLUZDbGQwRWlKRzJFa1k5UUlsdFhMemc3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekVvOEFwMUUxX2RSSURBOGVMUzVwTW92V2RzdjhTQUh5em5sbmF6TDVSX2xYaXZiWklvd0c5Q0NhSG1Td0NCbnRsOGJzNHJsbWQ4M3pyMkRiNXY5WDVydUgzOGNRSVZscnJsWEhzYUN1NDdINnM3WFotLUZDbGQwRWlKRzJFa1k5UUlsdFhMemc3dw",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790017683.0
+    },
+    {
+        "id": "bd962a5d01",
+        "title_fa": "خبر بین‌المللی — ایرانی airlines به be cut off from global system as US Treas",
+        "title_en": "Iranian airlines to be cut off from global system as US Treasury announces secondary sanctions",
+        "summary": [
+            "Iranian airlines to be cut off from global system as US Treasury announces secondary sanctions The Jerusalem Post"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hb2VoOVp5dk5Cd1BSM094Si1CR0U5eWlncUJnMzBWanVkbmlHQk5ZN0xOQVlCNHA4VG0zUHpZYUhsNTJPcTcxT051UTZRQUhCdFdkN0tkUXVPYW5ZbE0tNnpXTmpwS0tnbkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hb2VoOVp5dk5Cd1BSM094Si1CR0U5eWlncUJnMzBWanVkbmlHQk5ZN0xOQVlCNHA4VG0zUHpZYUhsNTJPcTcxT051UTZRQUhCdFdkN0tkUXVPYW5ZbE0tNnpXTmpwS0tnbkE",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790016229.0
     },
     {
         "id": "ded0d58d90",
@@ -444,6 +497,25 @@
         "timestamp": 1790007860.889438
     },
     {
+        "id": "bd84be7fb1",
+        "title_fa": "دستگاه مالی آمریکا پروازهای ایرانی را قطع می‌کند",
+        "title_en": "Iran's Regime Is Going to Feel the Pain After This Announcement",
+        "summary": [
+            "بسن‌ت اعلام کرد تمام خطوط هوایی ایرانی از ۲۳ سپتامبر مسدود می‌شود",
+            "سه بانک، از جمله بزرگ‌ترین بانک مصر، به‌دلیل انتقال ۱.۸ میلیارد دلار به تهران تحریم شد",
+            "هدف، قطع دسترسی مالی و لجستیکی به صنعت هوایی ایران است"
+        ],
+        "impact": "بسته شدن خطوط هوایی ایرانی، ترافیک مسافران و درآمدهای هواپیمایی به‌طور جدی تحت فشار",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Townhall",
+        "url": "https://townhall.com/news/jeff-charles/2026/09/21/scott-bessents-threatens-to-shut-down-iranian-airlines-n2683318",
+        "clean_url": "https://townhall.com/news/jeff-charles/2026/09/21/scott-bessents-threatens-to-shut-down-iranian-airlines-n2683318",
+        "image": "https://media.townhall.com/cdn/hodl/2026/237/112c8d25-b85d-4d9d-9770-cd7e377b2d5d-1200x630.jpeg",
+        "timestamp": 1790007300.0
+    },
+    {
         "id": "3a4161b4d5",
         "title_fa": "خبر بین‌المللی — Protests Spread در ایران as State Media Warns Economic Chok",
         "title_en": "Protests Spread in Iran as State Media Warns of Economic Choke Points and Security Mobilization Expands",
@@ -459,6 +531,24 @@
         "clean_url": "https://www.ncr-iran.org/en/news/economy/protests-spread-in-iran-as-state-media-warns-of-economic-choke-points-and-security-mobilization-expands",
         "image": "https://www.ncr-iran.org/en/wp-content/uploads/2026/08/iran-shush-retirees-protests-02082026.jpg",
         "timestamp": 1790006100.0
+    },
+    {
+        "id": "b22373d65c",
+        "title_fa": "حمله‌های حوثی می‌تواند جبهه‌ای نو در جنگ ایران بسازد",
+        "title_en": "A potential new front in the Iran war.",
+        "summary": [
+            "حملات حوثی در هفته گذشته به کشتی‌ها و پایگاه‌های نفتی شدت یافت",
+            "تحلیل‌گران هشدار می‌دهند این تحرک می‌تواند جبهه‌ای جدید در جنگ بین ایران و حوثی‌ها ایجاد کند"
+        ],
+        "impact": "حمله‌های حوثی می‌تواند فشار بر خلیج فارس را افزاش دهد و خطر گسترش جنگ را بالا ببرد",
+        "tag": "حمله",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "readtangle",
+        "url": "https://www.readtangle.com/a-new-front-in-the-iran-war/",
+        "clean_url": "https://www.readtangle.com/a-new-front-in-the-iran-war",
+        "image": "https://storage.ghost.io/c/4a/93/4a939b47-6a19-4b38-a13c-89d5a0f0d6dd/content/images/size/w1200/2026/09/Strait.png",
+        "timestamp": 1790005920.0
     },
     {
         "id": "a8d01d990a",
@@ -2970,6 +3060,24 @@
         "timestamp": 1789939740.0
     },
     {
+        "id": "e0f5c19939",
+        "title_fa": "سپاه اعلام کرد سلاح‌های جدید برای پاسخ به آمریکا دارد",
+        "title_en": "Iran says it has new targets, weapons ready if US launches new attack, Fars news says",
+        "summary": [
+            "سخنگوی سپاه اعلام کرد ایران سلاح‌ها و مناطق جدیدی برای جنگ آماده کرده",
+            "این پیام به‌عنوان هشدار مستقیم به ایالات متحده در صورت ادامه حملات مطرح شد"
+        ],
+        "impact": "تهدید سپاه به استفاده از سلاح‌های جدید، خطر تشدید نظامی بین آمریکا و ایران را افزایش می‌دهد",
+        "tag": "تهدید",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/general/general/iran-says-it-has-new-targets-weapons-ready-if-us-launches-new-attack-fars-news-says/ar-AA2cHlcU?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/general/general/iran-says-it-has-new-targets-weapons-ready-if-us-launches-new-attack-fars-news-says/ar-AA2cHlcU",
+        "image": "https://www.bing.com/th?id=ONUT.zswt5tYmyOX9X2VmOYYEdw",
+        "timestamp": 1789939330.0
+    },
+    {
         "id": "967cd42863",
         "title_fa": "خبر بین‌المللی — New Attacks Reported در Ships Near هرمز as ترامپ Discusses ا",
         "title_en": "New Attacks Reported on Ships Near Hormuz as Trump Discusses Iran with Xi",
@@ -5266,110 +5374,5 @@
         "clean_url": "https://www.msn.com/en-au/general/general/53-of-the-most-stupid-things-donald-trump-has-ever-said/ar-AA2cCiOP",
         "image": "https://www.bing.com/th?id=ONUT.qDIT6slVF8dyF8KsX6aTYA",
         "timestamp": 1789908015.7014892
-    },
-    {
-        "id": "c364b332ae",
-        "title_fa": "05 دسامبر 2025",
-        "title_en": "05 Decembrie 2025",
-        "summary": [
-            "Recurgerea la activele rusești înghețate în Europa pentru a finanța nevoile financiare ale Ucrainei va avea 'consecințe considerabile' pentru Uniunea Europeană, a declarat vineri, 5 decembrie,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/raspuns-diplomatic-schimbare-decizie-pag317",
-        "clean_url": "https://ziare.com/cautare/raspuns-diplomatic-schimbare-decizie-pag317",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1789907206.0
-    },
-    {
-        "id": "1b6b0d1dc1",
-        "title_fa": "03 ژانویه 2026",
-        "title_en": "03 Ianuarie 2026",
-        "summary": [
-            "Will Smith a fost dat în judecată de un violonist din turneul său muzical, care îl acuză pe rapper de hărţuire sexuală, concediere abuzivă şi represalii."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/raspuns-diplomatic-schimbare-decizie-pag318",
-        "clean_url": "https://ziare.com/cautare/raspuns-diplomatic-schimbare-decizie-pag318",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1789907206.0
-    },
-    {
-        "id": "a928987cae",
-        "title_fa": "وقتی دکمه چرت زدن را نمی‌زنید",
-        "title_en": "When you don’t hit the snooze button",
-        "summary": [
-            "A relatable look at what happens when you actually get up with your alarm instead of reaching for snooze. A simple everyday moment that captures the struggle of starting the day."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ship Facts on MSN",
-        "url": "https://www.msn.com/en-au/news/other/when-you-don-t-hit-the-snooze-button/vi-AA2cFFvm?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/other/when-you-don-t-hit-the-snooze-button/vi-AA2cFFvm",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789907206.0
-    },
-    {
-        "id": "3dfb0b9188",
-        "title_fa": "مطالبی پیرامون «تصمیم-تغییر-دیپلماتیک-پاسخ-تغییر»",
-        "title_en": "Articole despre \"raspuns-diplomatic-schimbare-decizie\"",
-        "summary": [
-            "Într-o perioadă în care timpul petrecut pe telefon pare să crească constant, tot mai mulți oameni caută soluții realiste pentru a-și reduce dependența de ecrane. De la mici trucuri de zi cu..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/raspuns-diplomatic-schimbare-decizie-pag320",
-        "clean_url": "https://ziare.com/cautare/raspuns-diplomatic-schimbare-decizie-pag320",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1789907206.0
-    },
-    {
-        "id": "47e22d4d65",
-        "title_fa": "نتایج انتخابات ایالت‌های آلمان: دیلینکه برتر برلین",
-        "title_en": "راست و چپ افراطی در انتخابات ۲ ایالت آلمان پیشتازند",
-        "summary": [
-            "در برلین حزب چپ افراطی دیلینکه با ۲۵.۱٪ صدرنشین شد.",
-            "در مکلنبورگ-فورپومرن آلترناتیو برای آلمان (AfD) ۳۷.۷٪ گرفت و مرز پنج درصد را عبور کرد.",
-            "حزب دموکرات مسیحی (CDU) در هر دو ایالت زیر حد نصاب تاریخی خود سقوط کرد.",
-            "سایر احزاب ائتلافی همکاری با AfD را رد کرده‌اند؛ لذا تشکیل دولت محلی برای این حزب دشوار است."
-        ],
-        "impact": "نتایج می‌تواند فشار بیشتری بر احزاب سنتی بگذارد و مسیر تشکیل ائتلاف‌های محلی را پیچیده کند.",
-        "tag": "آلمان",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609209930",
-        "clean_url": "https://www.iranintl.com/202609209930",
-        "image": "http://www.bing.com/th?id=ONUT.Wa3m84JXSIS22l5qB7fG1Q&pid=News",
-        "timestamp": 1789907040.0
-    },
-    {
-        "id": "95535bd7f2",
-        "title_fa": "وزیر امور خارجه ایران برای شرکت در مجمع عمومی سازمان ملل عازم نیویورک شد",
-        "title_en": "Iran FM heads to New York for UN General Assembly",
-        "summary": [
-            "Iranian Foreign Minister Abbas Araghchi left for New York at the head of a diplomatic delegation to attend the United Nations General Assembly, state media reported on Sunday. Araghchi will travel to..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609200747",
-        "clean_url": "https://www.iranintl.com/en/202609200747",
-        "image": "http://www.bing.com/th?id=ONUT.254JR3fv2mFSNtzdlbmWiQ&pid=News",
-        "timestamp": 1789906380.0
     }
 ]
