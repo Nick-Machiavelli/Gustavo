@@ -1,5 +1,25 @@
 [
     {
+        "id": "3dbc5e379e",
+        "title_fa": "اعضای اپوزیسیون کرد برای سالگرد مهسا امینی اعتصاب فراخواندند",
+        "title_en": "Iranian opposition groups called for a mass strike on Mahsa Amini’s anniversary then markets across western Iran shut down",
+        "summary": [
+            "شیش حزب کرد برای سالگرد مهسا امینی اعتصاب عمومی اعلام کردند",
+            "اختلافات داخلی برای این هدف کنار گذاشته شد",
+            "بازارهای غربی ایران به‌سرعت بسته شد",
+            "احتمال گسترش اعتصاب به سایر استان‌ها وجود دارد"
+        ],
+        "impact": "اعتصاب گسترده می‌تواند تولید و توزیع کالاها را در غرب ایران مختل کند و فشار سیاسی بر دولت را افزایش دهد",
+        "tag": "اعتراض",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Dr. Steve Turley on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/iranian-opposition-groups-called-for-a-mass-strike-on-mahsa-amini-s-anniversary-then-markets-across-western-iran-shut-down-my-take/vi-AA2cFQH8?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/iranian-opposition-groups-called-for-a-mass-strike-on-mahsa-amini-s-anniversary-then-markets-across-western-iran-shut-down-my-take/vi-AA2cFQH8",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790000647.9224567
+    },
+    {
         "id": "790f1dfb43",
         "title_fa": "ترامپ می‌خواهد قوسی نظامی در آرلینگ‌تون بسازد",
         "title_en": "Trump’s AI Hubris Is a Blue Opportunity",
@@ -16,6 +36,46 @@
         "clean_url": "https://www.thebulwark.com/p/donald-trump-ai-hubris-is-a-blue-democratic-opportunity",
         "image": "https://substackcdn.com/image/fetch/$s_!BQcZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5efc1345-e8cc-4488-9fa7-c9bd34fe9aa5_3000x1688.png",
         "timestamp": 1789999399.7025142
+    },
+    {
+        "id": "56948b2917",
+        "title_fa": "سناتور جمهوری‌خواه می‌گوید حضور نظامی آمریکا در ایران شش ماه",
+        "title_en": "Senate Republican on Iran war: ‘I think we’ll be out of there in about 6 months’",
+        "summary": [
+            "یک سناتور جمهوری‌خواه اعلام کرد حضور نظامی آمریکا در ایران حداکثر شش ماه دیگر ادامه خواهد داشت",
+            "این حرف نشانگر فشار سیاسی داخلی آمریکا برای خروج است",
+            "هنوز تصمیم نهایی در واشنگتن تثبیت نشده",
+            "اگر پیش‌بینی درست باشد، تحولات نظامی خاورمیانه می‌تواند مسیر جدیدی بگیرد"
+        ],
+        "impact": "پیش‌بینی خروج نظامی آمریکا در شش ماه می‌تواند مذاکرات صلح را تسریع کند یا به ابهام‌های جدید منجر شود",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ0lQdlBJMURjWTZ0UEUzenY3NHdMRmRzSkV1cThieWJYMW5DNjFTUmJKZkJfMDJaajVTZ0Z6WXJoR3R5NE1qZmlnS042TEx2cW1MUFI4RmFNanlWRnQ5M01aMjZsRnBSZ3gwOWdNM3pSbXhLN1BUY0QteVNoTjBGdkxKT0xjQl82cnRBZXNiMXA1S2hWb1pTRWVHeENRbXPSAaQBQVVfeXFMTzdqbUJiN0Q5ZXY5TEk4WHA2UkJUeDNxUHR0b3dKNEk2aklsN1pEaDBGc09La2U3bVZHci1jLURpVlJUSGppRXRISDRKZDVtNno5RnBKQkJvM2tOX3VUUWtCWjZOb1BJWkFlUFNSRHZrei1xSWxSZXJDRFAxdnFRNERLWk5GYXQ4c21kWUlqcW1QdmlTY2g2dWtyTjhQQXp0MVNRcVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ0lQdlBJMURjWTZ0UEUzenY3NHdMRmRzSkV1cThieWJYMW5DNjFTUmJKZkJfMDJaajVTZ0Z6WXJoR3R5NE1qZmlnS042TEx2cW1MUFI4RmFNanlWRnQ5M01aMjZsRnBSZ3gwOWdNM3pSbXhLN1BUY0QteVNoTjBGdkxKT0xjQl82cnRBZXNiMXA1S2hWb1pTRWVHeENRbXPSAaQBQVVfeXFMTzdqbUJiN0Q5ZXY5TEk4WHA2UkJUeDNxUHR0b3dKNEk2aklsN1pEaDBGc09La2U3bVZHci1jLURpVlJUSGppRXRISDRKZDVtNno5RnBKQkJvM2tOX3VUUWtCWjZOb1BJWkFlUFNSRHZrei1xSWxSZXJDRFAxdnFRNERLWk5GYXQ4c21kWUlqcW1QdmlTY2g2dWtyTjhQQXp0MVNRcVg",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789997940.0
+    },
+    {
+        "id": "e6db0698f3",
+        "title_fa": "تحریم‌های ثانویه آمریکا پروازهای بین‌المللی ایران را قطع می‌کند",
+        "title_en": "Iranian airlines face global shutdown from Sept. 23, Bessent says",
+        "summary": [
+            "ایالات متحده تهدید به تحریم ثانویه شرکت‌های هواپیمایی کرد",
+            "چین به فشار واشنگتن پیوست و همکاری‌های مالی را بررسی می‌کند",
+            "از ۲۳ سپتامبر تمام پروازهای بین‌المللی ایرانی متوقف می‌شود",
+            "این اقدام به‌سرعت دلار و گردش مالی را تحت فشار می‌گذارد"
+        ],
+        "impact": "پروازهای بین‌المللی ایران از ۲۳ سپتامبر متوقف می‌شود و خسارت میلیارد دلاری به صنعت هواپیمایی وارد می‌کند",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609210904",
+        "clean_url": "https://www.iranintl.com/en/202609210904",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/06de5c459695e48d97a46564e8aec01990c4277c-1160x774.jpg?rect=251,94,680,680&w=200&h=200&q=58&fit=crop&auto=format",
+        "timestamp": 1789997100.0
     },
     {
         "id": "a9f99c96cc",
@@ -5349,56 +5409,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFFyeS0tU2gxWjFTWW5OVlVUQUUzcFh2ZzdVRFRjU2x1RDVibmp0MlF4QkZUV082MHB4ZGh1Q1dLYS1fUTNWd1F3N1FfajhPWXRvMDZWMDFaUERVMTczdUtYWnpJRk02RmJUQzB4Zmx5ejUzcTdRZUlnMlAxOHV2Sy1iNmtVbVl2VzV0NEx2Yw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789876020.0
-    },
-    {
-        "id": "46e55ebbad",
-        "title_fa": "خبر بین‌المللی — حوثی‌ها say they won't حمله US vessels در Red Sea, و other M",
-        "title_en": "Houthis say they won't attack US vessels in Red Sea, and other Mideast developments",
-        "summary": [
-            "An Israeli was fatally shot in the occupied West Bank, while Israel's military said it killed a man who attempted to ram his..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/houthis-say-they-wont-attack-us-vessels-in-red-sea-and-other-mideast-developments/ar-AA2cBrBf?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/houthis-say-they-wont-attack-us-vessels-in-red-sea-and-other-mideast-developments/ar-AA2cBrBf",
-        "image": "https://www.bing.com/th?id=ONUT.-vM40MCXF4DgYKvlB84Pqg",
-        "timestamp": 1789875801.0
-    },
-    {
-        "id": "ca66a37b0e",
-        "title_fa": "خبر بین‌المللی — Trevor Noah learned truth about Scottish drinking hard way",
-        "title_en": "Trevor Noah learned the truth about Scottish drinking the hard way",
-        "summary": [
-            "Ed Sheeran said at his concert Saturday that the Oct. 7 attacks on Israel were “horrific” but that what is happening to..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Trevor Noah on MSN",
-        "url": "https://www.msn.com/en-us/food-and-drink/beverages/trevor-noah-learned-the-truth-about-scottish-drinking-the-hard-way/vi-AA2cDFi4?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/food-and-drink/beverages/trevor-noah-learned-the-truth-about-scottish-drinking-the-hard-way/vi-AA2cDFi4",
-        "image": "https://www.bing.com/th?id=ONUT.9w2Q1h5e3j0zh5Q4ZzMSYg",
-        "timestamp": 1789875801.0
-    },
-    {
-        "id": "34c8dffb66",
-        "title_fa": "خبر بین‌المللی — Unfiltered & unapologetic",
-        "title_en": "Unfiltered & unapologetic",
-        "summary": [
-            "Austin police said an ICE officer shot a man in Austin, Texas, prompting crowds of protesters to gather at the scene, calling..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Trevor Noah on MSN",
-        "url": "https://www.msn.com/en-us/entertainment/celebrities/unfiltered-unapologetic-trevor-on-race-culture-and-attraction/vi-AA2cDKwg?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/entertainment/celebrities/unfiltered-unapologetic-trevor-on-race-culture-and-attraction/vi-AA2cDKwg",
-        "image": "https://www.bing.com/th?id=ONUT.vCysM6-JJ2mq0ScWyXU7Kw",
-        "timestamp": 1789875801.0
     }
 ]
