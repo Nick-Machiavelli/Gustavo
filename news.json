@@ -1,5 +1,24 @@
 [
     {
+        "id": "1633619d3f",
+        "title_fa": "پزشک برجسته رفتار ترامپ را «نوزاد» توصیف کرد",
+        "title_en": "Top doctor says Trump behaves like a 'toddler' to fight helplessness",
+        "summary": [
+            "پزشک روان‌پزشکی می‌گوید ترامپ برای مقابله با حس بی‌پناهی، خود را کودک بی‌ثبات نشان می‌دهد.",
+            "ادعای «حاکم جهان» نشان‌دهنده ناامنی عمیق و تمایل به کنترل بی‌حد و حصر است.",
+            "این توصیف می‌تواند تصویر منفی او را در رسانه‌ها و افکار عمومی تقویت کند."
+        ],
+        "impact": "تقویت تصویر منفی ترامپ در فضای داخلی و بین‌المللی",
+        "tag": "ترامپ",
+        "urgency": 2,
+        "sentiment": -0.7,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/health/general/top-doctor-says-trump-behaves-like-a-toddler-to-fight-helplessness/ar-AA2cHsOm?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/health/general/top-doctor-says-trump-behaves-like-a-toddler-to-fight-helplessness/ar-AA2cHsOm",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790013844.5399828
+    },
+    {
         "id": "8a6400846b",
         "title_fa": "خبر بین‌المللی — As ترامپ talks up oil flows در Strait هرمز, can US outlas",
         "title_en": "As Trump talks up oil flows in the Strait of Hormuz, can the US outlast Iran?",
@@ -2664,6 +2683,26 @@
         "clean_url": "https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html",
         "image": "http://www.bing.com/th?id=ONUT.Ian4ATFPgnlAR5Ci7cCP6A&pid=News",
         "timestamp": 1789928940.0
+    },
+    {
+        "id": "bc26c99472",
+        "title_fa": "حوثی‌ها برای کنترل ارتفاعات یمن پیش می‌روند",
+        "title_en": "Iran updates: Houthis push for control of Yemen highlands",
+        "summary": [
+            "حشد حوثی‌ها به سمت ارتفاعات استراتژیک یمن حرکت می‌کند تا مسیرهای تدارکاتی را مسدود کند.",
+            "ترامپ در آخرین لحظه حملات هوایی آمریکا را لغو کرد؛ تصمیمی که به حوثی‌ها نیرو می‌دهد.",
+            "لغو حملات می‌تواند به تقویت موضع حوثی‌ها و تشدید تنش‌های منطقه‌ای منجر شود.",
+            "ایران به‌عنوان حامی حوثی‌ها ممکن است از این تحولات برای گسترش نفوذ خود بهره بگیرد."
+        ],
+        "impact": "افزایش فشار بر نیروهای متحدین در یمن و احتمال تشدید درگیری",
+        "tag": "یمن",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "NewsNation on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-updates-houthis-push-for-control-of-yemen-highlands/ar-AA2cFULq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-updates-houthis-push-for-control-of-yemen-highlands/ar-AA2cFULq",
+        "image": "https://www.bing.com/th?id=ONUT.o2DeahNCA8R8KIsnwgvzig",
+        "timestamp": 1789927438.0
     },
     {
         "id": "fa4feadb5f",
@@ -5345,40 +5384,6 @@
         "url": "https://www.hindustantimes.com/world-news/wave-of-setbacks-leaves-trump-frustrated-and-looking-for-credit-101789980613804.html",
         "clean_url": "https://www.hindustantimes.com/world-news/wave-of-setbacks-leaves-trump-frustrated-and-looking-for-credit-101789980613804.html",
         "image": "https://www.bing.com/th?id=ONUT.wNuLqKNO4jjQtpq4kbsIyw",
-        "timestamp": 1789897789.0
-    },
-    {
-        "id": "46827261b0",
-        "title_fa": "در روسیه 4 حزب از سد 5 درصدی انتخابات عبور کردند",
-        "title_en": "In Russia, 4 parties crossed the 5% election barrier",
-        "summary": [
-            "Modern.az reports that this is indicated by the data on the electronic scoreboard of the Central Election Commission of..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "modern",
-        "url": "https://modern.az/en/world/801735/in-russia-4-parties-crossed-the-5-election-barrier/",
-        "clean_url": "https://modern.az/en/world/801735/in-russia-4-parties-crossed-the-5-election-barrier",
-        "image": "https://www.bing.com/th?id=ONUT.nPgHZVBeTNYiQwm8aPofyw",
-        "timestamp": 1789897789.0
-    },
-    {
-        "id": "1940c533bb",
-        "title_fa": "بازگشت کج خلقی ترامپ به تعرفه؟",
-        "title_en": "Trump’s tariff tantrums return? Gokaldas Exports, other textile stocks drop up to 5% after Trump signs Russia sanctions bill",
-        "summary": [
-            "Shares of textile exporters fell after US President Donald Trump signed a law allowing tariffs of up to 100% on countries buying Russian oil and gas, raising concerns over potential fresh duties on..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The Economic Times on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/trump-s-tariff-tantrums-return-gokaldas-exports-other-textile-stocks-drop-up-to-5-after-trump-signs-russia-sanctions-bill/ar-AA2cF5cM?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/trump-s-tariff-tantrums-return-gokaldas-exports-other-textile-stocks-drop-up-to-5-after-trump-signs-russia-sanctions-bill/ar-AA2cF5cM",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789897789.0
     }
 ]
