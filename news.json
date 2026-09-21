@@ -800,6 +800,44 @@
         "timestamp": 1789926417.0
     },
     {
+        "id": "2d071ea3c6",
+        "title_fa": "ترامپ و شی توافق تجاری موقت را رقم زدند",
+        "title_en": "ترامپ و شی چگونه از جنگ تعرفه‌ای به توافق موقت تجاری رسیدند؟",
+        "summary": [
+            "ترامپ پس از بازگشت به قدرت، تعرفه‌های سنگین علیه چین اعمال کرد",
+            "چین نیز با تعرفه‌های جدید به واکنش رفت",
+            "تبادلات تعرفه‌ای به توافق موقت تجاری منجر شد که تنش‌های اقتصادی را کمی کم می‌کند"
+        ],
+        "impact": "توافق موقت تجاری ممکن است تنش‌های اقتصادی آمریکا‑چین را کاهش دهد",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/2026092196520",
+        "clean_url": "https://www.iranintl.com/2026092196520",
+        "image": "http://www.bing.com/th?id=ONUT.ElGpwbsiZydBypHqvNOfwg&pid=News",
+        "timestamp": 1789923600.0
+    },
+    {
+        "id": "24d49a30b1",
+        "title_fa": "سخنگوی سپاه: هیچ ارتباطی با آمریکا نداریم",
+        "title_en": "سخنگوی سپاه پاسداران: سپاه هیچ ارتباط رسمی یا غیررسمی با آمریکا ندارد",
+        "summary": [
+            "سخنگوی سپاه تاکید کرد هیچ ارتباط رسمی یا غیررسمی با آمریکا ندارند",
+            "ادعا کرد تمام پایگاه‌های آمریکایی در منطقه تحت ضرب موشک و پهپادهای ایران هستند",
+            "می‌گوید ایران توان دفاعی برتر دارد و نظام جدید منطقه را تعیین می‌کند"
+        ],
+        "impact": "ادعای توانایی ضرب پایگاه‌های آمریکا می‌تواند حضور نظامی غرب در خاورمیانه را تهدید کند",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609210000",
+        "clean_url": "https://www.iranintl.com/202609210000",
+        "image": "http://www.bing.com/th?id=ONUT.78RcxrA-PHktQDrJYFFgQw&pid=News",
+        "timestamp": 1789923600.0
+    },
+    {
         "id": "b81b30b472",
         "title_fa": "ترامپ حمله هوایی به حوثی‌ها را به تعویق انداخت",
         "title_en": "نیویورک‌تایمز: ترامپ حمله هوایی به حوثی‌ها را فعلا متوقف کرد",
@@ -1017,6 +1055,25 @@
         "clean_url": "https://www.newsmax.com/newsmax-tv/gordon-chang-ai-china/2026/09/20/id/1270028",
         "image": "https://www.bing.com/th?id=ONUT.E7wGa-oGW9xYwhrwYbugXw",
         "timestamp": 1789917160.5170178
+    },
+    {
+        "id": "4612e7dbb1",
+        "title_fa": "قیمت نفت به کمترین یک‌هفته‌ای رسید",
+        "title_en": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war",
+        "summary": [
+            "قیمت نفت به دلیل امید به پیشرفت دیپلماسی در جنگ ایران کاهش یافت",
+            "بازار انتظار دارد تحریم‌ها شاید نرم شوند",
+            "کاهش قیمت ممکن است فشار بر درآمدهای نفتی ایران را افزایش دهد"
+        ],
+        "impact": "کاهش قیمت نفت می‌تواند درآمدهای نفتی ایران را تحت فشار قرار دهد",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/energy/oil-rises-after-houthi-attack-saudi-capital-2026-09-20/",
+        "clean_url": "https://www.reuters.com/business/energy/oil-rises-after-houthi-attack-saudi-capital-2026-09-20",
+        "image": "https://www.reuters.com/resizer/v2/KRVL5P3LHZNQ5N2YDBWA4XMBAM.jpg?auth=1e81760866fa18d8d3414e0c96973cf19f694a78a631a9a8a90f33e12dfa1cf5&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1789917000.0
     },
     {
         "id": "fe1aa02c59",
@@ -5434,59 +5491,5 @@
         "clean_url": "https://www.msn.com/en-us/entertainment/celebrities/billy-joel-very-much-alive-after-google-mistakenly-declares-him-dead/vi-AA2cCeuj",
         "image": "https://www.bing.com/th?id=ONUT.eK60ElXsjPmw4nuH0JXh-w",
         "timestamp": 1789832065.0
-    },
-    {
-        "id": "b45cf2b716",
-        "title_fa": "یک میلیارد بشکه نفت از طریق هرمز با کمک آمریکا",
-        "title_en": "CENTCOM says US military has aided transit of 1 billion barrels of oil through Hormuz over 2 months",
-        "summary": [
-            "آمریکا با حضور نظامی خود عبور یک میلیارد بشکه نفت را در دو ماه تضمین کرد.",
-            "این اقدام نشان‌دهنده توانمندی نیروی دریایی آمریکا در مقابله با تهدیدات احتمالی ایران است.",
-            "تسهیل جریان نفت، نوسان قیمت جهانی را کاهش و بازار انرژی را آرام می‌کند.",
-            "ایران با کاهش فشار بر صادرات نفت، توان مالی خود را کمتر از انتظار می‌بیند."
-        ],
-        "impact": "حضور مستقیم آمریکا در عبور نفت، فشار اقتصادی بر ایران را کم می‌کند و نوسان قیمت نفت را محدود می‌سازد.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGNHQ19yRXBMMHlXZ0lieEYzcWV4WFVhaDR3d2hFZ1R6eFZUTDAtWHlFWWk5aVJvVG9YVkFqeEloc1EtZDllQ18zUXY3bkhYMUE3OWtlNGx2Uno3ZkpJV0wwc3lLeXNpN3JXWmpWMlh2YzhGWDJMLXRadGExYTA2Vng1WEVMbTZVY19OQ3c1TTBGMm84VHAzb0FKVjM1anpoYjlCTkxFdFJ2UjczSlc0WldVb05kQThEVXNGSWNlMVNWZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGNHQ19yRXBMMHlXZ0lieEYzcWV4WFVhaDR3d2hFZ1R6eFZUTDAtWHlFWWk5aVJvVG9YVkFqeEloc1EtZDllQ18zUXY3bkhYMUE3OWtlNGx2Uno3ZkpJV0wwc3lLeXNpN3JXWmpWMlh2YzhGWDJMLXRadGExYTA2Vng1WEVMbTZVY19OQ3c1TTBGMm84VHAzb0FKVjM1anpoYjlCTkxFdFJ2UjczSlc0WldVb05kQThEVXNGSWNlMVNWZw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789831800.0
-    },
-    {
-        "id": "434e342cc4",
-        "title_fa": "شاهزاده رضا پهلوی: صبح آزادی ایران نزدیک است",
-        "title_en": "شاهزاده رضا پهلوی: صبح آزادی ایران نزدیک است",
-        "summary": [
-            "برای شخصی‌سازی تجربه شما و تحلیل استفاده از سایت، از کوکی‌ها استفاده می‌کنیم. شما می‌توانید تمام کوکی‌ها را بپذیرید یا رد کنید."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609191641",
-        "clean_url": "https://www.iranintl.com/202609191641",
-        "image": "http://www.bing.com/th?id=ONUT.oS-X4SKFICXkyxVL8zkolQ&pid=News",
-        "timestamp": 1789831380.0
-    },
-    {
-        "id": "4873c32d18",
-        "title_fa": "پس از اینکه ایران می‌گوید تنگه هرمز دوباره بسته شده است، خطر نفت برای اقتصاد یک بار دیگر افزایش می‌یابد",
-        "title_en": "After Iran says Strait of Hormuz is closed again, oil’s risk to economy rises once more",
-        "summary": [
-            "Quick ReadTrump declared the Iran ceasefire over after Tehran targeted Strait of Hormuz vessels, pushing Brent crude back..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "24/7 Wall St. on MSN",
-        "url": "https://www.msn.com/en-us/news/other/after-iran-says-strait-of-hormuz-is-closed-again-oil-s-risk-to-economy-rises-once-more/ar-AA27KFp7?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/after-iran-says-strait-of-hormuz-is-closed-again-oil-s-risk-to-economy-rises-once-more/ar-AA27KFp7",
-        "image": "https://www.bing.com/th?id=ONUT.ZuV9K5biwhvbwnTzvCe04Q",
-        "timestamp": 1789831301.0
     }
 ]
