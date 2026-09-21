@@ -995,6 +995,24 @@
         "timestamp": 1789996050.0
     },
     {
+        "id": "bbf5b5017f",
+        "title_fa": "ترامپ جنگ ایران را «سیب زمینی کوچک» خواند",
+        "title_en": "Did Trump call Iran war 'small potatoes'?",
+        "summary": [
+            "ترامپ با بیانیه‌ای کم‌اهمیت‌ساز، شدت درگیری را کم‌ارزش جلوه داد.",
+            "این کم‌توجهی می‌تواند فشار داخلی و بین‌المللی برای مقابله با ایران را کاهش دهد."
+        ],
+        "impact": "کاهش فشار سیاسی بر ایران؛ احتمال کاهش سرعت تحریم‌های جدید",
+        "tag": "بیانیه",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Snopes on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/did-trump-call-iran-war-small-potatoes/ar-AA2cGPtC",
+        "clean_url": "https://www.msn.com/en-us/politics/government/did-trump-call-iran-war-small-potatoes/ar-AA2cGPtC",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789995900.0
+    },
+    {
         "id": "73408d8a5d",
         "title_fa": "ترامپ با فشار اقتصادی خردکننده ای به ایران ضربه می‌زند... سپس تندروهای تهران منافع آمریکا را تهدید می‌کنند - \"اکنون خطرناک می‌شود\"",
         "title_en": "Trump hits Iran with crushing economic pressure… then Tehran’s hardliners threaten American interests - \"Now it gets dangerous\"",
@@ -1146,6 +1164,24 @@
         "clean_url": "https://www.iranintl.com/202609219544",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1789993680.0
+    },
+    {
+        "id": "af66c37e9d",
+        "title_fa": "ایران تهدید به گسترش جنگ؛ ترامپ گام بعدی",
+        "title_en": "Iran threatens wider war as Trump considers next steps",
+        "summary": [
+            "ایران پس از اظهارات ترامپ، هشدار داد که در صورت ادامه تنش، جنگ گسترده‌تری خواهد شد.",
+            "ترامپ هنوز تصمیم‌گیری درباره اقدام‌ها نظامی یا دیپلماتیک نهایی را اعلام نکرده است."
+        ],
+        "impact": "افزایش خطر تشدید نظامی؛ بازارهای انرژی و ارز تحت فشار می‌مانند",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Newsmax on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-threatens-wider-war-as-trump-considers-next-steps/ar-AA2cHbOl",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-threatens-wider-war-as-trump-considers-next-steps/ar-AA2cHbOl",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789993507.0
     },
     {
         "id": "b937e9338f",
@@ -5342,39 +5378,5 @@
         "clean_url": "https://www.wftv.com/news/business/republicans-target/S362IIEGNM5C3NPDT7XABW7VHE",
         "image": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNIZIWOXLSA6AHNRXKP2PM42YTA.jpg?auth=7338d6089dba7d81bb1e24d33eb7a02ef822605456fc1dfe392ad566d1a0f5bc&width=1200&height=630&smart=true",
         "timestamp": 1789909966.0
-    },
-    {
-        "id": "8f8a653950",
-        "title_fa": "حزب جمهوری خواه سنا می‌بیند که نقشه میدان نبرد در میان خشم رای دهندگان بر سر اقتصاد گسترده تر شده است",
-        "title_en": "Senate GOP sees battleground map widen amid voter anger over economy",
-        "summary": [
-            "Senators in both parties say the Senate midterm election battleground map has expanded significantly six weeks before Election Day, putting the GOP majority in greater jeopardy. Several solidly..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/senate-gop-sees-battleground-map-100000000.html",
-        "clean_url": "https://www.aol.com/articles/senate-gop-sees-battleground-map-100000000.html",
-        "image": "https://hermes.media.static.aol.com/media/2026/09/21/4484cc45-73a7-3770-add3-97068fbe1308/598e7873-8296-42fd-ac79-5a9b54589197.jpg",
-        "timestamp": 1789909966.0
-    },
-    {
-        "id": "0111276aac",
-        "title_fa": "چرا ایالات متحده به شرط بندی مواد معدنی هوش مصنوعی کشورهای خلیج فارس نیاز دارد؟",
-        "title_en": "Why The U.S. Needs The Gulf States’ AI Minerals Bet",
-        "summary": [
-            "Gulf sovereign wealth funds are pouring billions into copper, lithium, and rare-earth mines worldwide—and Washington is..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/kensilverstein/2026/09/20/why-the-us-needs-the-gulf-states-ai-minerals-bet/",
-        "clean_url": "https://www.forbes.com/sites/kensilverstein/2026/09/20/why-the-us-needs-the-gulf-states-ai-minerals-bet",
-        "image": "https://www.bing.com/th?id=ONUT.zJtWn_aa6_Veuwt3wNtIuw",
-        "timestamp": 1789909924.6968827
     }
 ]
