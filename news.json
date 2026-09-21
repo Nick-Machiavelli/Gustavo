@@ -2322,6 +2322,25 @@
         "timestamp": 1789869380.0
     },
     {
+        "id": "16ddb0597a",
+        "title_fa": "ایالات متحده تهدید به عواقب برای نقض تحریم‌های ایران",
+        "title_en": "US threatens consequences for defying Iran sanctions, analyst warns of global fallout",
+        "summary": [
+            "واشنگتن قصد دارد فشارهای مالی بر کشورها و شرکت‌هایی که به تحریم‌های ایران سرپیچی می‌کنند اعمال کند.",
+            "تحریم‌های دومرحله‌ای می‌تواند هزینه‌های تراکنش‌های بین‌المللی را بالا برده و زنجیره تأمین انرژی را مختل کند.",
+            "تحلیل‌گران پیش‌بینی می‌کنند واکنش‌های گسترده اقتصادی در بازارهای نفت و ارزهای نوظهور رخ دهد."
+        ],
+        "impact": "تحریم‌های گسترده تجارت جهانی را مختل و فشار اقتصادی بر کشورهای هدف را افزایش می‌دهد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "News24 on MSN",
+        "url": "https://www.msn.com/en-au/news/other/us-threatens-consequences-for-defying-iran-sanctions-analyst-warns-of-global-fallout/ar-AA2cDM7G?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-au/news/other/us-threatens-consequences-for-defying-iran-sanctions-analyst-warns-of-global-fallout/ar-AA2cDM7G",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789868491.0
+    },
+    {
         "id": "82b2f21e61",
         "title_fa": "به روز رسانی زنده ایران: قالیباف گفت: تنگه هرمز تا زمانی که شرایط تهران برآورده نشود بسته است",
         "title_en": "Iran live updates: Strait of Hormuz shut until Tehran's conditions met, Ghalibaf says",
@@ -5434,22 +5453,5 @@
         "clean_url": "https://www.clickorlando.com/news/world/2026/09/19/saudi-arabia-issues-alerts-across-the-country-for-aerial-threat-and-other-mideast-developments",
         "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/UPFQ2LWS6FFN7PJ4IQNYHEBHPM.jpg?api_key=clickorlando_488cff2bcc157b2e",
         "timestamp": 1789821060.0
-    },
-    {
-        "id": "af6292af27",
-        "title_fa": "رهبر اپوزیسیون ایران پهلوی قول داد جمهوری اسلامی را به چالش بکشد",
-        "title_en": "Iran Opposition Leader Pahlavi Vows To Challenge The Islamic Republic",
-        "summary": [
-            "Iranian opposition figure Prince Reza Pahlavi has said opponents of the Islamic Republic are “more experienced, more united..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Whistler",
-        "url": "https://thewhistler.ng/iran-opposition-leader-pahlavi-vows-to-challenge-the-islamic-republic/",
-        "clean_url": "https://thewhistler.ng/iran-opposition-leader-pahlavi-vows-to-challenge-the-islamic-republic",
-        "image": "https://www.bing.com/th?id=ONUT.k4oGMkaTQ1Nm4cE7CNt37A",
-        "timestamp": 1789820798.0
     }
 ]
