@@ -1,5 +1,24 @@
 [
     {
+        "id": "a8d01d990a",
+        "title_fa": "ترامپ در سخنرانی‌UN صلح می‌نویسد، جنگ ایران را شعله‌ور می‌کند",
+        "title_en": "Trump will use UN speech to pitch peace — while stoking Iran war",
+        "summary": [
+            "ترامپ در مجمع عمومی سازمان ملل ادعای صلح‌پذیری می‌کند اما به‌صورت واضح به ایران هشدار می‌دهد که در صورت عدم تبعیت، اقدام‌ها نظامی جدی در پیش است",
+            "این دوگانگی پیام، باعث سردرگمی متحدان می‌شود و فشار دیپلماتیک بر ایران را افزایش می‌دهد",
+            "اگر آمریکا به تهدیدات خود عمل کند، خطر گسترش درگیری در خاورمیانه به‌سرعت بالا می‌رود"
+        ],
+        "impact": "افزایش تنش نظامی و کاهش فضای دیپلماتیک بین آمریکا و ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/trump-will-use-un-speech-to-pitch-peace-while-stoking-iran-war/ar-AA2cGNzU?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/trump-will-use-un-speech-to-pitch-peace-while-stoking-iran-war/ar-AA2cGNzU",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790005791.949253
+    },
+    {
         "id": "f9454f0cc2",
         "title_fa": "خبر بین‌المللی — ترامپ Is Attacking Press Freedom و Disregarding Law. Again.",
         "title_en": "Trump Is Attacking Press Freedom and Disregarding the Law. Again.",
@@ -889,6 +908,25 @@
         "clean_url": "https://www.msn.com/en-us/news/news/martin-schram-mirror-mirror-on-the-wall-who-s-the-most-presidential/ar-AA2cEUUB",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789979834.1588697
+    },
+    {
+        "id": "e4e0bc8641",
+        "title_fa": "سپاه پاسداران: اگر آمریکا تشدید کند، جغرافیای جنگ عوض می‌شود",
+        "title_en": "Iran's Revolutionary Guard warns US over escalation, and other Mideast developments",
+        "summary": [
+            "سپاه پاسداران اعلام کرد که در صورت تشدید حملات آمریکا، \"جغرافیای جنگ\" را تغییر خواهد داد، یعنی گسترش عملیات به مناطق جدید",
+            "این اظهارات نشان می‌دهد که ایران آمادهٔ پاسخ گسترده و احتمالا غیرتقنیکال به تهدیدات است",
+            "پیام هدف جذب توجه جهانی به خطرات احتمالی گسترش جنگ است"
+        ],
+        "impact": "ممکن است آمریکا را به بازنگری استراتژی ارتش در خاورمیانه وادار کند",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Canadian Press on MSN",
+        "url": "https://www.msn.com/en-ca/money/topstories/irans-revolutionary-guard-warns-us-over-escalation-and-other-mideast-developments/ar-AA2cFHUb",
+        "clean_url": "https://www.msn.com/en-ca/money/topstories/irans-revolutionary-guard-warns-us-over-escalation-and-other-mideast-developments/ar-AA2cFHUb",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789978271.0
     },
     {
         "id": "095de9efeb",
@@ -1842,6 +1880,25 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-today-tehran-warns-donald-trump-of-painful-response-us-urges-citizens-to-leave-iran-strikes-update-houthis-riyadh-liveblog-156195552",
         "image": "http://www.bing.com/th?id=ONUT.6J0KWA-lefLBciEus9RAQA&pid=News",
         "timestamp": 1789949280.0
+    },
+    {
+        "id": "45bc69230e",
+        "title_fa": "ایران: نیروی مسلح از استقلال دفاع می‌کند؛ ترامپ تهدید نابودی",
+        "title_en": "US-Iran War News Live: Iran Says 'Armed Forces Will Not Hesitate To Defend Independence, Security' If US Resumes Attacks",
+        "summary": [
+            "ایران تأکید کرد که نیروهای مسلح آمادهٔ دفاع از استقلال و امنیت کشور هستند و در صورت ادامه حملات آمریکا، بدون تردید واکنش نشان می‌دهند",
+            "ترامپ در مصاحبه‌ای گفت: \"اگر و کی می‌خواهم تمام کشور را نابود کنم؟ بهتر است رفتار کنند\"، که نشان از تهدید مستقیم به تلافی نظامی دارد",
+            "این تبادل تهدیدها می‌تواند به سرعت به برخورد مسلحانه منجر شود"
+        ],
+        "impact": "افزایش خطر برخورد نظامی مستقیم بین دو کشور",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "News18",
+        "url": "https://www.news18.com/world/us-iran-war-news-live-updates-saudi-houthi-conflict-trump-iran-talks-strait-of-hormuz-reopening-crude-oil-prices-latest-news-liveblog-ws-l-10343097.html",
+        "clean_url": "https://www.news18.com/world/us-iran-war-news-live-updates-saudi-houthi-conflict-trump-iran-talks-strait-of-hormuz-reopening-crude-oil-prices-latest-news-liveblog-ws-l-10343097.html",
+        "image": "http://www.bing.com/th?id=ONUT.Nqlf5WY8ot_8kvymimDNwg&pid=News",
+        "timestamp": 1789949220.0
     },
     {
         "id": "1173dfbf4f",
@@ -5332,59 +5389,5 @@
         "clean_url": "https://www.msn.com/en-za/politics/international-relations/sa-scrambles-to-stave-off-us-sanctions/ar-AA2cDTbp",
         "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789887275.0
-    },
-    {
-        "id": "cc625354cb",
-        "title_fa": "سپاه پاسداران: هر حمله جدید جغرافیای جنگ را تغییر می‌دهد",
-        "title_en": "Iran’s IRGC warns any new strike will prompt Tehran to alter war geography and armaments",
-        "summary": [
-            "سپاه اعلام کرد هر حمله نظامی جدید می‌تواند به جبهه‌های جغرافیایی دیگر منجر شود",
-            "سلاح‌های نوین و توانمندی‌های جدید برای پاسخ‌گویی آماده می‌شود",
-            "هدف‌های نظامی تغییر می‌کند و گسترش احتمالی میدان جنگ پیش‌بینی می‌شود"
-        ],
-        "impact": "ریسک نظامی منطقه‌ای بالا می‌رود و نوسان قیمت نفت تشدید می‌شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "FXStreet",
-        "url": "https://www.fxstreet.com/news/irans-irgc-warns-any-new-strike-will-prompt-tehran-to-alter-war-geography-and-armaments-202609210549",
-        "clean_url": "https://www.fxstreet.com/news/irans-irgc-warns-any-new-strike-will-prompt-tehran-to-alter-war-geography-and-armaments-202609210549",
-        "image": "https://www.bing.com/th?id=ONUT.liYBPmvbmVOIuB1q40eKqA",
-        "timestamp": 1789887275.0
-    },
-    {
-        "id": "2ead95dc3e",
-        "title_fa": "ترامپ: تصمیم‌گیری برای «حمله بزرگ» به ایران",
-        "title_en": "ترامپ به فاکس‌نیوز: درباره ایران در آینده نه‌چندان دور اتفاق بسیار بزرگی رخ خواهد داد",
-        "summary": [
-            "ترامپ گزینه‌های نابودی یا توافق با ایران را مطرح کرد",
-            "او زمان‌سنجی «نابودی کل کشور» را پرسید"
-        ],
-        "impact": "افزایش فشار دیپلماتیک آمریکا بر ایران و احتمال اقدام‌ها نظامی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609204529",
-        "clean_url": "https://www.iranintl.com/202609204529",
-        "image": "http://www.bing.com/th?id=ONUT.X7KNrPBpV0rRSi00nhsWDQ&pid=News",
-        "timestamp": 1789887180.0
-    },
-    {
-        "id": "e9d9b30024",
-        "title_fa": "ایران می‌گوید تنگه هرمز تا زمانی که شرایط آن برآورده نشود بسته می‌ماند",
-        "title_en": "Iran says Strait of Hormuz will remain closed until its conditions are met",
-        "summary": [
-            "Iran says Strait of Hormuz will remain closed until its conditions are met The Times of Israel"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzhsUEJaNVpnQldWSm9EdGl3aVFTTEQyMDFMNHVBY01kd0ZQMVhVVlVSZVk4aHRiRDdfMGl1TU5VUzd5Q3NKdmtfYm90V2FXZ3ZrR1gycXhnT0NfTzQxa19KTERTb3NoYi10TUV2bkhDMGFyTUlDb3hfY2tSLUdKd013aWY0amRpblNHbFhCVkpudEUxSHl0NEJhdjIxREoyYWZ0ZHU5ZURXT1daaHJ4VEt5c2hKZ1JINjZQWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzhsUEJaNVpnQldWSm9EdGl3aVFTTEQyMDFMNHVBY01kd0ZQMVhVVlVSZVk4aHRiRDdfMGl1TU5VUzd5Q3NKdmtfYm90V2FXZ3ZrR1gycXhnT0NfTzQxa19KTERTb3NoYi10TUV2bkhDMGFyTUlDb3hfY2tSLUdKd013aWY0amRpblNHbFhCVkpudEUxSHl0NEJhdjIxREoyYWZ0ZHU5ZURXT1daaHJ4VEt5c2hKZ1JINjZQWQ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789887065.0
     }
 ]
