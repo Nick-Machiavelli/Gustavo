@@ -547,6 +547,26 @@
         "timestamp": 1789954500.0
     },
     {
+        "id": "4613cbea66",
+        "title_fa": "کاهش تردد کشتی‌ها در تنگه هرمز به‌دلیل تنش‌ها",
+        "title_en": "رویترز: تردد کشتی‌های قابل ردیابی در تنگه هرمز به‌شدت کاهش یافته است",
+        "summary": [
+            "تردد کشتی‌های ردیابی‌شده در هرمز از ۳۷ به ۱۷ کشتی در یک هفته افت کرد",
+            "۲۲ نفتکش با ۴۲ میلیون بشکه نفت خام از طریق کشتی‌های خاموش همچنان صادر می‌شوند",
+            "حملات حوثی به خط لوله آرامکو باعث شد عربستان صادرات نفت از هرمز را افزایش دهد",
+            "درخواست‌های مکرر ریاض برای حمله به مواضع حوثی فشار بر واشنگتن را تقویت می‌کند"
+        ],
+        "impact": "نظارت کمتر بر حمل و نقل نفت، ریسک تصادم‌های ناوبری و نوسان شدید قیمت نفت",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609219922",
+        "clean_url": "https://www.iranintl.com/202609219922",
+        "image": "http://www.bing.com/th?id=ONUT.l27JmTPWZARpBsOaWZXG8Q&pid=News",
+        "timestamp": 1789954200.0
+    },
+    {
         "id": "7e50c53006",
         "title_fa": "ایران اقتصاد shrinks 10.1% during US-اسرائیل جنگ, official data shows",
         "title_en": "Iran economy shrinks 10.1% during US-Israel war, official data shows",
@@ -2414,6 +2434,25 @@
         "clean_url": "https://www.israelhayom.com/2026/09/20/israel-us-relations-childish-disappointment-netanyahu-elections",
         "image": "https://www.israelhayom.com/wp-content/uploads/2025/10/AFP_78LA9QM.jpg",
         "timestamp": 1789897260.0
+    },
+    {
+        "id": "c2c1a84cac",
+        "title_fa": "نایجریه و کره‌جنوبی پر کردن خلأ سوخت جت اروپا",
+        "title_en": "Nigeria and South Korea help keep Europe flying as Iran war creates 510,000-barrel daily jet fuel gap",
+        "summary": [
+            "جنگ ایران مسیرهای سنتی سوخت جت به اروپا را قطع کرد",
+            "نایجریه و کره‌جنوبی روزانه ۵۱۰٬۰۰۰ بشکه جت‑فیوئل تأمین می‌کنند",
+            "وابستگی اروپا به این تأمین‌کنندگان جدید فشار سیاسی بر ایران و روسیه را افزایش می‌دهد"
+        ],
+        "impact": "قیمت بلیط‌های هوایی در اروپا بالا می‌رود و سیاست انرژی به سمت آفریقا و آسیا می‌چرخد",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Business Insider Africa on MSN",
+        "url": "https://www.msn.com/en-za/money/economy/nigeria-and-south-korea-help-keep-europe-flying-as-iran-war-creates-510-000-barrel-daily-jet-fuel-gap/ar-AA2cF0kv?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-za/money/economy/nigeria-and-south-korea-help-keep-europe-flying-as-iran-war-creates-510-000-barrel-daily-jet-fuel-gap/ar-AA2cF0kv",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789896983.0
     },
     {
         "id": "0f5de18925",
@@ -5428,44 +5467,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-tehran-threatens-trump-with-painful-strikes/ar-AA2ct6HW",
         "image": "https://www.bing.com/th?id=ONUT.48rT3DqO5gQndhd7hIeeLQ",
         "timestamp": 1789844571.0
-    },
-    {
-        "id": "267effd7f4",
-        "title_fa": "هوش مصنوعی و اطلاعات غلط در جنگ ایران‑عراق",
-        "title_en": "America Nearly Made a Catastrophic Mistake With China | Command Post",
-        "summary": [
-            "هوش مصنوعی تقریباً منجر به حمله به کشتی چینی در هرمز شد",
-            "پنتاگون ممکن است تلفات نظامی را کمتر از واقعیت گزارش کند",
-            "قطعات F‑35 به‌اشتباه به هنگ‌کنگ رسیدند",
-            "ادعای ترامپ درباره ۶۵ میلیارد بشکه نفت ونتوزلا به‌دقت بررسی شد"
-        ],
-        "impact": "اطلاعات نادرست می‌تواند تصمیمات نظامی خطرناک و هزینه‌های مالی بالاتر ایجاد کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "The Bulwark",
-        "url": "https://www.thebulwark.com/p/america-nearly-made-a-catastrophic",
-        "clean_url": "https://www.thebulwark.com/p/america-nearly-made-a-catastrophic",
-        "image": "https://www.bing.com/th?id=ONUT.GB-eA7tYCVdPGHpm2C9jKg",
-        "timestamp": 1789844560.053681
-    },
-    {
-        "id": "6e239bb667",
-        "title_fa": "ترامپ به رهبران ایران هشدار فقر اقتصادی",
-        "title_en": "Trump warns Iran leaders of economic ruin, says ‘make a deal’",
-        "summary": [
-            "هشدار ترامپ برای فشار بیشتر بر اقتصاد ایران و تهدید به فروپاشی مالی",
-            "این پیام سعی دارد اعتراضات داخلی را تشدید کند و مذاکرات هسته‌ای را تسریع بخشد",
-            "آمریکا احتمالاً با تحریم‌های جدید یا فشارهای مالی بیشتری همراه خواهد شد"
-        ],
-        "impact": "افزایش فشار اقتصادی آمریکا بر ایران و تشدید تنش‌های دیپلماتیک",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/world/iran-us-conflict-donald-trump-threatens-iran-tehran-retaliation-houthis-saudi-arabia-10886558/",
-        "clean_url": "https://indianexpress.com/article/world/iran-us-conflict-donald-trump-threatens-iran-tehran-retaliation-houthis-saudi-arabia-10886558",
-        "image": "https://www.bing.com/th?id=ONUT.BzpEGhdkZJF-fjMcxSbYog",
-        "timestamp": 1789843716.0
     }
 ]
