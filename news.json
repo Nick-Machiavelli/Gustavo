@@ -1,5 +1,41 @@
 [
     {
+        "id": "db02da6ded",
+        "title_fa": "ترامپ به‌دنبال خرید پتاس از بلاروس",
+        "title_en": "Trump’s Latest Shot at Canada: Buy Potash From Belarus",
+        "summary": [
+            "ترامپ در توییت خود گفت قصد دارد با بلاروس معامله پتاس بکند تا کانادا را دور بزند",
+            "قیمت پیشنهادی هنوز مشخص نیست و انتظار می‌رود تأثیر کمی بر هزینه کشاورزان داشته باشد"
+        ],
+        "impact": "فشار تجاری بر کانادا افزایش می‌یابد، اما قیمت پتاس برای کشاورزان آمریکا تغییر چندانی نمی‌کند",
+        "tag": "پتاس",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-latest-shot-canada-buy-200553679.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-latest-shot-canada-buy-200553679.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/611fa2bd67b5abb5fccbf8c2615916ca2d835be338b22df505152a42ce658627/lightyear_networkapi/resizefill_w928_h1152%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fce2c54214c257118f628b674f4ea9f27.jpg",
+        "timestamp": 1790024560.6937242
+    },
+    {
+        "id": "4654a7c553",
+        "title_fa": "ترامپ به آزادی مطبوعات حمله می‌کند",
+        "title_en": "Editorial roundup: United States",
+        "summary": [
+            "تحریریه‌های آمریکایی و خارجی به‌خاطر سرکوب آزادی رسانه‌ها توسط ترامپ هشدار دادند",
+            "این رفتار می‌تواند فشار بین‌المللی بر ایالات متحده را افزایش دهد"
+        ],
+        "impact": "تضعیف فضای رسانه‌ای داخلی و بین‌المللی",
+        "tag": "آزادی_مطبوعات",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/editorial-roundup-united-states/ar-AA2cHeF9?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/politics/government/editorial-roundup-united-states/ar-AA2cHeF9",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790024560.693427
+    },
+    {
         "id": "255fa51557",
         "title_fa": "ایران-US جنگ latest: ایرانی president به fly به New York برای UN summit",
         "title_en": "Iran-US war latest: Iranian president to fly to New York for UN summit",
@@ -2934,6 +2970,24 @@
         "timestamp": 1789939274.0
     },
     {
+        "id": "1775898309",
+        "title_fa": "فرمانده ارتش ایران به تهدید ترامپ واکنش داد",
+        "title_en": "Iran commander says military ready for 'enemy's aggression' after Trump threat",
+        "summary": [
+            "سرتیپ حاتمی اعلام کرد نیروهای نظامی ایران برای هر حمله‌ای از سوی آمریکا یا اسرائیل آماده‌اند",
+            "اظهارات ترامپ درباره «حذف» ایران و امکان ملاقات با رئیس‌جمهور ایرانی تنش‌های نظامی را تشدید می‌کند"
+        ],
+        "impact": "افزایش خطر برخورد نظامی مستقیم بین آمریکا و ایران",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Business Standard",
+        "url": "https://www.tbsnews.net/world/iran-commander-says-military-ready-enemys-aggression-after-trump-threat-1549651",
+        "clean_url": "https://www.tbsnews.net/world/iran-commander-says-military-ready-enemys-aggression-after-trump-threat-1549651",
+        "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/21/iranian_army_commander_major-general_amir_hatami.jpg",
+        "timestamp": 1789938155.0
+    },
+    {
         "id": "83a2198144",
         "title_fa": "خبر بین‌المللی — US Issues Fresh ایران-Related تحریم‌ها, Website Shows",
         "title_en": "US Issues Fresh Iran-Related Sanctions, Website Shows",
@@ -5319,58 +5373,5 @@
         "clean_url": "https://www.iranintl.com/en/202609218450",
         "image": "http://www.bing.com/th?id=ONUT.hF2PNM9LjoTCAx_nL5gMZA&pid=News",
         "timestamp": 1789905480.0
-    },
-    {
-        "id": "38ac9bf427",
-        "title_fa": "ایران parliament speaker says ایران’s hand ‘در lever’ در هرمز",
-        "title_en": "Iran parliament speaker says Iran’s hand ‘on the lever’ in Hormuz",
-        "summary": [
-            "Iran’s parliament speaker said Iran’s “hand is already on the lever” over the Strait of Hormuz in response to a JPMorgan report saying it could no longer model an endgame to the conflict on Sunday."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609204254",
-        "clean_url": "https://www.iranintl.com/en/202609204254",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1789905360.0
-    },
-    {
-        "id": "d4aa42639e",
-        "title_fa": "ایران: آمریکا قصد ادامه حملات هوایی دارد",
-        "title_en": "Iran says US decided to resume strikes, vows retaliation",
-        "summary": [
-            "تهران اعلام کرد آمریکا تصمیم به ادامهٔ حملات هوایی گرفته و انتقام خواهد گرفت.",
-            "این ادعا نشان‌دهندهٔ تشدید تنش‌های نظامی در منطقه است."
-        ],
-        "impact": "افزایش خطر برخورد مستقیم نظامی بین دو کشور",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY05rQ3FvVDUwc3lVV0p2cGpaMVN0YkUtQnJ1X1FkVmI4cXRKdHFZbUFfeWdZcEJGTzg4b21ETl9WNGNNdTFUaTd2bmpuYkpZZ1lKM0JNR1FFOGhhcVBXd3NxVFRXalJvbV9BUTJsenhSTWt5cWNFVFZjQUJzdnMwSVhTVVBnQkExU25KQm04R1d4dFR0TE9ESHlBX3Ntenp2S3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY05rQ3FvVDUwc3lVV0p2cGpaMVN0YkUtQnJ1X1FkVmI4cXRKdHFZbUFfeWdZcEJGTzg4b21ETl9WNGNNdTFUaTd2bmpuYkpZZ1lKM0JNR1FFOGhhcVBXd3NxVFRXalJvbV9BUTJsenhSTWt5cWNFVFZjQUJzdnMwSVhTVVBnQkExU25KQm04R1d4dFR0TE9ESHlBX3Ntenp2S3c",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789905015.0
-    },
-    {
-        "id": "9b91200390",
-        "title_fa": "پروژه‌ل ناشناخته تانکر در تنگه هرمز",
-        "title_en": "A projectile strikes a tanker as it sails into the Strait of Hormuz, and other Mideast developments",
-        "summary": [
-            "یک پرتاب ناشناخته به تانکری که به سمت بندر می‌رفت، برخورد کرد و دو خدمه را مجروح کرد.",
-            "کشتی بدون کمک خارجی به مسیر خود ادامه داد؛ هیچ نشانه‌ای از نشت نفت گزارش نشده."
-        ],
-        "impact": "افزایش نگرانی برای مسیرهای نفتی و احتمال ارتقای هزینه‌های حمل‌ونقل",
-        "tag": "ناوگان",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "WRAL",
-        "url": "https://www.wral.com/news/ap/82714-a-projectile-strikes-a-tanker-as-it-sails-into-the-strait-of-hormuz-and-other-mideast-developments/",
-        "clean_url": "https://www.wral.com/news/ap/82714-a-projectile-strikes-a-tanker-as-it-sails-into-the-strait-of-hormuz-and-other-mideast-developments",
-        "image": "https://images.wral.com/75f3dce7-818e-5cde-be35-ca27c5dba6fe?w=1200&h=630&height=630",
-        "timestamp": 1789904984.0
     }
 ]
