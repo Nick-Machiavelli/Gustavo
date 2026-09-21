@@ -1,5 +1,45 @@
 [
     {
+        "id": "fec628ee55",
+        "title_fa": "آمریکا هدف‌گیری هند با تعرفه‌های جدید",
+        "title_en": "The paranoia of another China? Why US is targeting India with policies, tariffs",
+        "summary": [
+            "واشنگتن دوباره تهدید به اعمال تحریم‌های سنگین علیه هند به‌خاطر خرید نفت روسیه کرده است",
+            "این سیاست پس از رفع تحریم‌های هسته‌ای در سال ۲۰۰۱ به‌کار گرفته می‌شود و نشانگر نگرانی آمریکا از رشد اقتصادی هند است",
+            "حمایت دوحزبی در کنگره آمریکا نشان می‌دهد فشار اقتصادی به هند می‌تواند جدی باشد",
+            "هند ممکن است به دنبال تأمین انرژی از منابع غیرغربی یا تقویت روابط با روسیه پیش برود"
+        ],
+        "impact": "تحریم‌های جدید هزینه‌های واردات نفت هند را بالا برده و رقابت انرژی در آسیا را تشدید می‌کند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/us-tariff-on-india-lindsey-graham-sanctions-bill-russia-crude-oil-supply-to-india-operation-pokhran-2-george-w-bush-2997649-2026-09-21",
+        "clean_url": "https://www.indiatoday.in/world/story/us-tariff-on-india-lindsey-graham-sanctions-bill-russia-crude-oil-supply-to-india-operation-pokhran-2-george-w-bush-2997649-2026-09-21",
+        "image": "https://www.bing.com/th?id=ONUT.uT_y-gpfpT7FCWVlWsEVeQ",
+        "timestamp": 1789955392.0117893
+    },
+    {
+        "id": "ba66be56b3",
+        "title_fa": "نشانه‌های نگران‌کننده گسترش جنگ‌ها و رنج اقتصادی",
+        "title_en": "Worrying signs of widening war and economic pain",
+        "summary": [
+            "بیش از ۵۰ درگیری مسلحانه در جهان به‌سر می‌برند و خطر گسترش جنگ‌ها افزایش یافته",
+            "کشورهای خلیج فارس پس از هشدارهای آمریکا نسبت به سفر به منطقه اضطراب نشان می‌دهند",
+            "نوسان شدید قیمت نفت و نگرانی‌های اقتصادی در پی این تنش‌ها ظاهر شده است",
+            "نویسنده سازمان ملل را به‌عنوان نهاد بی‌اثر در مواجهه با این بحران می‌داند"
+        ],
+        "impact": "عدم ثبات امنیتی جهانی فشار بر بازارهای انرژی و زنجیره‌های تأمین را افزایش می‌دهد",
+        "tag": "جنگ",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/opinion/worrying-signs-of-widening-war-and-economic-pain-101789924093974.html",
+        "clean_url": "https://www.hindustantimes.com/opinion/worrying-signs-of-widening-war-and-economic-pain-101789924093974.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/IMG_1243_1789924592819_tyhE_1789924596598_5v2C_9dec2200-cc00-4181-8175-0a84e0f87300_O1U3.jpg",
+        "timestamp": 1789955392.0114813
+    },
+    {
         "id": "7e50c53006",
         "title_fa": "ایران اقتصاد shrinks 10.1% during US-اسرائیل جنگ, official data shows",
         "title_en": "Iran economy shrinks 10.1% during US-Israel war, official data shows",
@@ -15,6 +55,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2xXSjZqRXdjRjZQWEU1NHZSY1VyNmpNSUZzOEhuNlRkV2NRTDZxUEFTYmV1V0ZsMjRSMzJvQUhVbDM0NE1HaW1HaVNPamRuaVNNLVc0LUpvb1NmZURFOEt1b2txeEFBOUYxLUQ5dHMxRVpTMGs1RkJSeDBOZm9nMnJEbll3blRwb0U2RV82WFVnM2FaQnc",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789952911.0
+    },
+    {
+        "id": "e8063e493b",
+        "title_fa": "قیمت نفت به‌دلیل امیدهای دیپلوماسی آمریکا‑ایران کاهش یافت",
+        "title_en": "Oil extends decline amid U.S.-Iran diplomacy hopes",
+        "summary": [
+            "قیمت نفت خام پس از انتشار خبرهای دیپلوماسی مثبت بین آمریکا و ایران کاهش یافت",
+            "بازارها انتظار دارند مذاکرات منجر به کاهش تنش‌های نظامی و رفع تحریم‌های جزئی شود",
+            "کاهش قیمت به‌سرعت به‌دلیل انتظارات کاهش ریسک جیوپولیتیک است، نه به‌دلیل تغییرات عرضه",
+            "این روند می‌تواند فشار بر درآمدهای نفتی کشورهای تولیدکننده را کاهش دهد"
+        ],
+        "impact": "کاهش قیمت نفت به سود مصرف‌کنندگان و فشار بر درآمدهای دولتی کشورهای نفت‌خیز می‌انجامد",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXIxYk41eTBuWDdKblk5YU1FLXJPTU1OM2EtcEtsUEpjS2tjd01RNllBX29VakFodVdOcS1wT3NJTEFpWVFvRFZXQURaY0ZralVsX3lqYkRmbVhTMmt6OWk0T1JHTDduNW01bkRvV3ctMjJRb1lQdVhPbXZlNkd0T2Z6LThwRm5YZGZFQ0hLSUFNZ1NsTUZFN2QzTTBKOTJvcng2NkRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXIxYk41eTBuWDdKblk5YU1FLXJPTU1OM2EtcEtsUEpjS2tjd01RNllBX29VakFodVdOcS1wT3NJTEFpWVFvRFZXQURaY0ZralVsX3lqYkRmbVhTMmt6OWk0T1JHTDduNW01bkRvV3ctMjJRb1lQdVhPbXZlNkd0T2Z6LThwRm5YZGZFQ0hLSUFNZ1NsTUZFN2QzTTBKOTJvcng2NkRB",
+        "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789952080.0
     },
     {
         "id": "123b497cf9",
@@ -418,6 +478,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0t5OWJYOHViSkxSV3RoR09ZWWNMR3N0LTEzMWxnY0FxVlA2WFNGa1NGRlRreHZGem1zRHhxb1kzV0JHTlNQUzBFR3hrUGViUmZuSmRYRFdhNDNBWGpkRS1GdGlwUnpZbnhYZmgtQnZtM3NTWjdET3huZXhWaWQwc0VfR1IxcTd6RXZKZVNIcUZ3NUVGVUlQV3Q1SzRTRFgtdUJGNjFDZ3NGZTR4LVRYNmdYVFhiby01U3JDTVpwWnA4N2Flc0c3T2c4a1M3eGpxMUFTTQ",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789930680.0
+    },
+    {
+        "id": "fb7b2958ad",
+        "title_fa": "هشدار سفر آمریکا به ایران؛ خطر تشدید تنش‌ها",
+        "title_en": "US-Iran war LIVE Updates: US issues Iran travel warning, Tehran warns of 'continuous, painful' attacks on US bases if...",
+        "summary": [
+            "سفارت مجازی آمریکا سفر به ایران را برای تمام شهروندان ممنوع کرد و خروج فوری را توصیه کرد",
+            "هشدار شامل احتمال لغو پروازها، بسته شدن فضاهای هوایی و تغییرات ناگهانی مرزهاست",
+            "این اقدام پس از افزایش حملات حوثی‌ها به عربستان و خطر تشدید درگیری‌های منطقه‌ای صادر شد",
+            "خروج ناگهانی آمریکایی‌ها می‌تواند فشار دیپلوماسی دوطرفه را بیشتر کند"
+        ],
+        "impact": "آمریکایی‌ها مجبور به ترک ایران می‌شوند؛ روابط دیپلوماسی تضعیف می‌شود",
+        "tag": "سفر",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html",
+        "clean_url": "https://www.livemint.com/news/us-news/usiran-war-live-update-donald-trump-strait-of-hormuz-tehran-travel-warning-painful-attacks-us-bases-saudi-yemen-houthis-11789953418288.html",
+        "image": "http://www.bing.com/th?id=ONUT.Ian4ATFPgnlAR5Ci7cCP6A&pid=News",
+        "timestamp": 1789928940.0
     },
     {
         "id": "fa4feadb5f",
@@ -5382,76 +5462,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzBLUDV6NHM2Q3NkaUpNWno0ZXZlZjA5WEFOX0ZpYU9qbVZfdVEySm9scjZwSzN2RnlBZURRcHRvWGhQNXpJS1NFcEVsV1ZtWjZpczZNN2lkMHZCa1ItbWtydklKRnRKNTRHT1hnWkpRUUxkSkllYWFqVHIwbWppMU93NHZVNDdMV3F4SVZGTWtRZ2szNkU0WFVLOVltT1dOamQwdzhBZDBrR0FtWVE",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789822009.0
-    },
-    {
-        "id": "38e9944f8a",
-        "title_fa": "پهلوی می‌گوید در درون نخبگان ایران - جروزالم پست - انحرافات پنهانی وجود دارد",
-        "title_en": "Pahlavi says there are covert defections within Iran’s elites — Jerusalem Post",
-        "summary": [
-            "Reza Pahlavi said Iranian military and civilian officials are allegedly covertly withdrawing loyalty from the authorities, while the opposition expands its networks inside Iran."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "UA.NEWS",
-        "url": "https://ua.news/en/world/pakhlavi-zaiaviv-pro-prikhovani-perekhodi-v-elitakh-iranu-jerusalem-post",
-        "clean_url": "https://ua.news/en/world/pakhlavi-zaiaviv-pro-prikhovani-perekhodi-v-elitakh-iranu-jerusalem-post",
-        "image": "https://cdn-cabinet.ua.news/uploads/images/pahlavi_zaiavyv_pro_perekhody_v_elitakh_1789893630976.webp",
-        "timestamp": 1789821825.0
-    },
-    {
-        "id": "19d3b4fe90",
-        "title_fa": "مقالاتی در مورد \"مهاجرت-آمریکایی‌ها\"",
-        "title_en": "Articole despre \"migratie-americani\"",
-        "summary": [
-            "În contextul intensificării presiunilor exercitate de Statele Unite asupra Kievului pentru a accepta un acord de pace cu Rusia, mulți ucraineni spun că resping ferm orice concesii teritoriale și 12 De..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/migratie-americani-pag87",
-        "clean_url": "https://ziare.com/cautare/migratie-americani-pag87",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1789821596.0
-    },
-    {
-        "id": "2ac0fbdb65",
-        "title_fa": "مطالبی در مورد \"زن-خیابانی تحریک آمیز\"",
-        "title_en": "Articole despre \"femeie-provocatoare-strada\"",
-        "summary": [
-            "Un bărbat a murit şi alte cinci persoane, între care doi copii, au fost transportate la spital, marţi, după ce două autoturisme s-au ciocnit, pe E 85, în comuna Săbăoani din judeţul Neamţ."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/femeie-provocatoare-strada-pag69",
-        "clean_url": "https://ziare.com/cautare/femeie-provocatoare-strada-pag69",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1789821596.0
-    },
-    {
-        "id": "f7ea590155",
-        "title_fa": "هشدار هوایی سعودی پس از تشدید جنگ یمن",
-        "title_en": "Saudi Arabia issues first alert in the capital since escalation, and other Mideast developments",
-        "summary": [
-            "سعودی‌ها به دلیل تهدید هوایی از حوثی‌های یمن هشدارهای اضطراری صادر کردند؛ این اولین هشدار در ریاض پس از تشدید درگیری است.",
-            "ایران از طریق قطر شرایط خود برای پایان جنگ به واشنگتن ارسال کرده؛ نشان‌دهنده تلاش دیپلماتیک برای محدود کردن حضور آمریکا است.",
-            "حملات اسرائیل در غزه و هدف‌گیری‌های نظامی در لبنان فشار چندجانبه را بر منطقه افزون می‌کند.",
-            "تحولات اخیر خطر گسترش درگیری هوایی به کشورهای همسایه و افزایش تنش‌های امنیتی خاورمیانه را بالا می‌برد."
-        ],
-        "impact": "افزایش تنش هوایی در عربستان، خطر گسترش درگیری به یمن و لبنان و فشار بر روابط ایران‑آمریکا.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ClickOrlando",
-        "url": "https://www.clickorlando.com/news/world/2026/09/19/saudi-arabia-issues-alerts-across-the-country-for-aerial-threat-and-other-mideast-developments/",
-        "clean_url": "https://www.clickorlando.com/news/world/2026/09/19/saudi-arabia-issues-alerts-across-the-country-for-aerial-threat-and-other-mideast-developments",
-        "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/UPFQ2LWS6FFN7PJ4IQNYHEBHPM.jpg?api_key=clickorlando_488cff2bcc157b2e",
-        "timestamp": 1789821060.0
     }
 ]
