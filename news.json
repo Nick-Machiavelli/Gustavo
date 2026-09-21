@@ -1,5 +1,43 @@
 [
     {
+        "id": "f40656fb50",
+        "title_fa": "نماینده آمریکا: باید حوثی‌ها را سرکوب کرد",
+        "title_en": "Rep. Hamadeh: US Must Crush the Houthis",
+        "summary": [
+            "نماینده هاماده‌ه حوثی‌ها را تهدید به سرکوب کرد",
+            "او حملات به کشتی‌های آمریکایی و اسرائیلی را به عنوان خطر ملی آمریکا نامید",
+            "این اظهارات فشار سیاسی بر ایران برای کاهش حمایت از حوثی‌هاست"
+        ],
+        "impact": "فشار سیاسی آمریکا بر حوثی‌ها ممکن است منجر به تشدید عملیات نظامی در خلیج عدن شود",
+        "tag": "نیابتی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/rep-hamadeh-us-must-crush-091149861.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/rep-hamadeh-us-must-crush-091149861.html",
+        "image": "https://www.bing.com/th?id=ONUT.PRA4ASt2CX1Jruewn7B-vA",
+        "timestamp": 1789984998.9446099
+    },
+    {
+        "id": "60a1a512f3",
+        "title_fa": "درگیری در اربیل: پهپاد ایرانی شناسایی شد",
+        "title_en": "BREAKING: Iran Bombs US-led Coalition Base? Drone Intercepted Near Erbil Airport | Details",
+        "summary": [
+            "گزارش‌ها حاکی از شلیک سامانه‌های هوایی بر پهپاد نزدیک فرودگاه اربیل بود",
+            "منابع امنیتی می‌گویند این پهپاد احتمالاً ایرانی بوده",
+            "اگر تأیید شود، تهدید مستقیم به پایگاه ائتلاف آمریکا در کردستان عراق است"
+        ],
+        "impact": "اگر پهپاد ایرانی تأیید شود، احتمال پاسخ نظامی گسترده علیه ایران بالا می‌رود",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/videos/international/breaking-iran-bombs-us-led-coalition-base-drone-intercepted-near-erbil-airport-details/videoshow/134379764.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/videos/international/breaking-iran-bombs-us-led-coalition-base-drone-intercepted-near-erbil-airport-details/videoshow/134379764.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134379764,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1789984440.0
+    },
+    {
         "id": "45ffbc0497",
         "title_fa": "برنی سندرز، استیو کیس و دیگران در مورد آنچه واشنگتن اکنون باید در A.I انجام دهد.",
         "title_en": "Bernie Sanders, Steve Case and Others on What Washington Should Do Now on A.I.",
@@ -32,6 +70,25 @@
         "clean_url": "https://www.nytimes.com/2026/09/21/opinion/america-china-war.html",
         "image": "https://www.bing.com/th?id=ONUT.K-WyqnEXyLBoFju6n659iw",
         "timestamp": 1789984203.124675
+    },
+    {
+        "id": "8fff0d6c54",
+        "title_fa": "بحران اقتصادی، خطر برای معدن‌کاران زغال‌سنگ",
+        "title_en": "Economic crisis puts Iran’s coal miners at greater risk",
+        "summary": [
+            "بحران اقتصادی ایران باعث کاهش دستمزد و ایمنی معدن‌کاران زغال‌سنگ شد",
+            "خطر تصادف و بیماری‌های شغلی در میان کارگران افزایش یافته",
+            "دولت هنوز برنامه‌ای جامع برای بهبود شرایط ارائه نکرده"
+        ],
+        "impact": "ناآرامی در بخش معدن می‌تواند اعتراضات کارگری و فشار اقتصادی بر دولت را تشدید کند",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5cjN3QnVFb3BPUWZ4eFJxMWd2QVV4NWtBeGE2Q3hraTRJOVJhdHhxdW0zWU92MHozeFFLMkZXQS1NSVNZckNmTzBsODNQTXgwR3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5cjN3QnVFb3BPUWZ4eFJxMWd2QVV4NWtBeGE2Q3hraTRJOVJhdHhxdW0zWU92MHozeFFLMkZXQS1NSVNZckNmTzBsODNQTXgwR3c",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789982960.0
     },
     {
         "id": "3aa764692e",
@@ -727,6 +784,25 @@
         "clean_url": "https://www.eurasiareview.com/21092026-americas-miscalculation-has-unleashed-a-region-it-can-no-longer-control-oped",
         "image": "https://www.bing.com/th?id=ONUT.tH0Sq_7hEKmefdJJCTe5Uw",
         "timestamp": 1789949038.4979494
+    },
+    {
+        "id": "490d0fe267",
+        "title_fa": "ایران: سلاح‌های نوین جهان را شگفت‌زده می‌کند",
+        "title_en": "Iran war live: Tehran says world will be 'astonished' by its new weapons",
+        "summary": [
+            "ایران تهدید به استفاده از سلاح‌های جدید در صورت حمله آمریکا کرد",
+            "مجلس پیشنویس خروج از پیمان عدم گسترش سلاح‌های هسته‌ای را مطرح کرد",
+            "این اظهارات نشان‌دهنده تمایل به ارتقای توان نظامی است"
+        ],
+        "impact": "افزایش تنش‌های نظامی می‌تواند تحریم‌های جدید و ریسک جنگ را به دنبال داشته باشد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/14300550-1789967456.jpg?resize=1920%2C1440",
+        "timestamp": 1789948800.0
     },
     {
         "id": "bd3d75d9df",
@@ -5384,79 +5460,5 @@
         "clean_url": "https://www.timesnownews.com/world/us/us-news/trump-pezeshkian-meeting-on-cards-us-president-says-open-to-talks-amid-irans-7-demands-article-156192716",
         "image": "https://images.timesnownews.com/thumb/msid-156192717,thumbsize-1514468,width-1280,height-720,resizemode-75/156192717.jpg",
         "timestamp": 1789846663.0
-    },
-    {
-        "id": "c7220ae0c6",
-        "title_fa": "پیپ به نیوزمکس: سخنرانی ترامپ در سازمان ملل می‌تواند متحدان را درباره ایران جمع کند",
-        "title_en": "Pape to Newsmax: Trump UN Speech Could Rally Allies on Iran",
-        "summary": [
-            "President Donald Trump's address to the United Nations on Tuesday could be an opportunity to rally U.S. allies around preventing Iran from obtaining a nuclear weapon and heading off a broader nuclear..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Newsmax",
-        "url": "https://www.newsmax.com/newsmax-tv/robert-pape-iran-donald-trump/2026/09/20/id/1270050/",
-        "clean_url": "https://www.newsmax.com/newsmax-tv/robert-pape-iran-donald-trump/2026/09/20/id/1270050",
-        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789846663.0
-    },
-    {
-        "id": "d7a65bd3c2",
-        "title_fa": "ترامپ تهدید به نابودسازی کل ایران",
-        "title_en": "Donald Trump warns Iran, says he is weighing whether to ‘blow the entire nation up’",
-        "summary": [
-            "ترامپ در مصاحبه فاکس‌نیوز گفت گزینه‌های «نابود کردن» یا «تحریم اقتصادی» را بررسی می‌کند",
-            "این اظهارات می‌تواند فشار دیپلماتیک بر مذاکرات هسته‌ای را تشدید کند",
-            "احتمال واکنش نظامی یا حمایت از گروه‌های نیابتی افزایش می‌یابد",
-            "بازارهای منطقه‌ای و نفت تحت تأثیر قرار می‌گیرند"
-        ],
-        "impact": "افزایش تنش‌های نظامی‑سیاستی می‌تواند به تحریم‌های گسترده و نوسان شدید بازارهای انرژی منجر شود",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/donald-trump-warns-iran-says-he-is-weighing-whether-to-blow-the-entire-nation-up-article-14034017.html",
-        "clean_url": "https://www.moneycontrol.com/world/donald-trump-warns-iran-says-he-is-weighing-whether-to-blow-the-entire-nation-up-article-14034017.html",
-        "image": "https://www.bing.com/th?id=ONUT.xOSz1xnWleYM4ZwyafNheg",
-        "timestamp": 1789846325.0
-    },
-    {
-        "id": "7d161b1b7e",
-        "title_fa": "محسن رضایی می‌گوید ایران برای پایان دادن به جنگ با دونالد ترامپ از طریق قطر شروط فرستاد: ۱۵ رسانه چگونه آن را تنظیم کردند.",
-        "title_en": "Mohsen Rezaei Says Iran Sent Conditions Via Qatar To End War With Donald Trump: how 15 outlets framed it",
-        "summary": [
-            "Mohsen Rezaei Says Iran Sent Conditions Via Qatar To End War With Donald Trump: how 15 outlets framed it NewsCord"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "NewsCord",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR2JocExfOXE2b2YtaDBsY3c2UUwwLU9OM0I1dmRIY25ZNzU4Y1dvYkVGcmdwaU5kSWhvQkZBWjBTUVJMc0lxamgxTGJjWEhIWGdPcWZScWI0cUFTNEZPSDBaWXB5bkJtWEQ5LXZsWEJGQmxKYnpuNm84YkNOYTZ6c21PS3pONk5meFIxeHhLcDVwM29RN0F2S2M0cXFwSGw0UzNNY2VtNlpXbFJDNTBobnk4N0hTaGdIVUlWeTFYLWxkekdDdlZvYmtLaXVUb3hmMkVnNl9IMlBRUXd2VmRHNGhBdHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR2JocExfOXE2b2YtaDBsY3c2UUwwLU9OM0I1dmRIY25ZNzU4Y1dvYkVGcmdwaU5kSWhvQkZBWjBTUVJMc0lxamgxTGJjWEhIWGdPcWZScWI0cUFTNEZPSDBaWXB5bkJtWEQ5LXZsWEJGQmxKYnpuNm84YkNOYTZ6c21PS3pONk5meFIxeHhLcDVwM29RN0F2S2M0cXFwSGw0UzNNY2VtNlpXbFJDNTBobnk4N0hTaGdIVUlWeTFYLWxkekdDdlZvYmtLaXVUb3hmMkVnNl9IMlBRUXd2VmRHNGhBdHc",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789845864.0
-    },
-    {
-        "id": "f133ebc885",
-        "title_fa": "گزارش IIFFM: جرایم جنگی آمریکا در ایران",
-        "title_en": "The Iran IIFFM’s Unconvincing War Crimes Analysis",
-        "summary": [
-            "مأموریت بین‌المللی حملات هوایی آمریکا را به‌عنوان جرم جنگی شناساخت",
-            "بیش از ۱۷۸ کشته غیرنظامی در دو هدف گزارش شد",
-            "ایران خواستار بررسی مستقل و پاسخگویی شد",
-            "این گزارش فشار دیپلماتیک بر آمریکا را افزایش می‌دهد"
-        ],
-        "impact": "افزایش فشار دیپلماتیک بر آمریکا و تقویت موضع حقوق بشر در خاورمیانه",
-        "tag": "حقوق بشر",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Opinio Juris",
-        "url": "https://opiniojuris.org/2026/09/19/the-iran-iiffms-unconvincing-war-crimes-analysis/",
-        "clean_url": "https://opiniojuris.org/2026/09/19/the-iran-iiffms-unconvincing-war-crimes-analysis",
-        "image": "https://i1.wp.com/opiniojuris.org/wp-content/uploads/gettyimages-2264285328.jpg?fit=1200%2C800&ssl=1",
-        "timestamp": 1789845561.9458876
     }
 ]
