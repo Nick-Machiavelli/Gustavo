@@ -693,6 +693,23 @@
         "timestamp": 1789965807.5508945
     },
     {
+        "id": "874ff1d8b2",
+        "title_fa": "در حالی که ترامپ در حال بررسی دیدار با رئیس جمهور ایران است، ایران درباره «سلاح های جدید» هشدار می‌دهد",
+        "title_en": "Iran warns of ‘new weapons’ as Trump weighs meeting with Iranian president",
+        "summary": [
+            "President Donald Trump describes his options as “wiping Iran out, letting them rot economically, or making a deal.”..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/middle-east/trump-wiping-out-iran-warns-new-weapons-rcna598954",
+        "clean_url": "https://www.nbcnews.com/world/middle-east/trump-wiping-out-iran-warns-new-weapons-rcna598954",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260921-iran-military-mb-1059-ce5bce.jpg",
+        "timestamp": 1789965480.0
+    },
+    {
         "id": "7e5d565027",
         "title_fa": "داستان داخلی: ایران در بحبوحه هشدار نسبت به حمله آمریکا شرایطی را برای گفت وگو تعیین می‌کند",
         "title_en": "Inside story: Iran sets conditions for talks amid warning of US onslaught",
@@ -5418,24 +5435,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXFDRkxCNTdRb1hER2wtR1NDbGJrM3NRUWpBSlJtSDRRWUF6RS1YX3J1VWtIUnQtYTlFOUdBMDFsTlJxRE9LVU1GQmNwSUZSME5FR0x3a3Zpd2tiYmtMX0NmTHhNRTZIUXBWbHg2ZW8wOGwzVGpRd3pIaldpT2w0ZXJhWFF6Ni03WThIWnd5dEJZRldybUhhc3JZTGNGRU83QXVBX3I1MlF5VVBySjd3",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789860277.0
-    },
-    {
-        "id": "569547b0c0",
-        "title_fa": "آمریکا عدم شناخت دولت نظامی سودان را اعلام کرد",
-        "title_en": "US says it does not recognise Sudan’s army-backed government",
-        "summary": [
-            "مشاور ارشد ترامپ، مسعد بولوس، گفت واشنگتن دولت نظامی سودان را به‌عنوان دولت رسمی نمی‌شناسد",
-            "ایالات متحده با مصر، امارات، عربستان، قطر، ترکیه و کشورهای اروپایی برای ایجاد آتش‌بس انسانی در سودان همکاری می‌کند",
-            "این موضع نشان می‌دهد آمریکا به‌جای به رسمیت شناختن، به تعامل عملی با مقامات نظامی ادامه می‌دهد"
-        ],
-        "impact": "عدم شناخت رسمی دولت سودان، مانع تحریم‌های گسترده می‌شود ولی روابط عملی با ارتش را حفظ می‌کند",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Radio Tamazuj",
-        "url": "https://www.radiotamazuj.org/en/news/article/us-says-it-does-not-recognise-sudans-army-backed-government",
-        "clean_url": "https://www.radiotamazuj.org/en/news/article/us-says-it-does-not-recognise-sudans-army-backed-government",
-        "image": "https://www.radiotamazuj.org/wp-content/uploads/2026/09/MB.png",
-        "timestamp": 1789860036.0
     }
 ]
