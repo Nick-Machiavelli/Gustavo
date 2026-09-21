@@ -2705,6 +2705,24 @@
         "timestamp": 1789926417.0
     },
     {
+        "id": "76157c8953",
+        "title_fa": "حریق اضطراری سیسینه گاز در اسکورئوی سوبیوا",
+        "title_en": "Articole despre \"intervenţie\"",
+        "summary": [
+            "در ۲۳ فوریه، سیسینه‌ای پر از گاز بوتان در جاده DN1 اسکورئوی سوبیوا (استان سیبیو) منفجر شد و حریق شدیدی ایجاد کرد.",
+            "نیروهای اورژانس و آتش‌نشانی به‌سرعت به محل رسیدند؛ خطر گسترش شعله به مناطق مسکونی تحت کنترل است."
+        ],
+        "impact": "قطع موقت ترافیک جاده DN1 و خطر آلودگی هوایی محلی",
+        "tag": "حریق",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/intervenţie-pag48",
+        "clean_url": "https://ziare.com/cautare/intervenţie-pag48",
+        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
+        "timestamp": 1789925642.0
+    },
+    {
         "id": "176d030e74",
         "title_fa": "هشدار آمریکا به خطوط هوایی ایران در صورت تعطیلی جهانی تحت تحریم‌های جدید",
         "title_en": "US Warns Iranian Airlines Face Global Shutdown Under New Sanctions",
@@ -5372,24 +5390,5 @@
         "clean_url": "https://www.msn.com/en-in/money/economy/us-israel-iran-war-latest-live-news-oil-prices-fall-as-markets-watch-saudi-arabia-after-houthi-missile-and-drone-attacks-brent-drops-to-102/ar-AA2cDSp8",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789895644.0
-    },
-    {
-        "id": "b6688614dc",
-        "title_fa": "بازارهای آسیایی پس از موفقیت مذاکرات چین‑آمریکا صعود کردند",
-        "title_en": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
-        "summary": [
-            "اسکات بسن‌ت گفت مذاکرات چین‑آمریکا موفق بوده.",
-            "انتظار نشست ترامپ‑شی باعث رشد شاخص‌های سهام شد.",
-            "سهام‌های هوش مصنوعی و سامسونگ به‌ویژه پیشرفت کردند."
-        ],
-        "impact": "شاخص‌های سهام آسیایی بالا رفتند و روحیه سرمایه‌گذاران ارتقا یافت.",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0.4,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/stocks-advance-bessent-says-talks-051936000.html",
-        "clean_url": "https://www.aol.com/articles/stocks-advance-bessent-says-talks-051936000.html",
-        "image": "https://hermes.media.static.aol.com/media/2026/09/21/dfe3f81a-48a8-39a3-8156-2b6f281647e5/b3d5b90a-3bba-4be1-b892-815af8fd22b3.jpg",
-        "timestamp": 1789895643.0
     }
 ]
