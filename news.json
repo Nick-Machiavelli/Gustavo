@@ -1,5 +1,25 @@
 [
     {
+        "id": "415e3d92b1",
+        "title_fa": "شوک‌های انرژی ترامپ و اثرها بر بازارهای جهانی",
+        "title_en": "BRICS+ and the fallout from Trump's energy shocks",
+        "summary": [
+            "سیاست‌های انرژی ترامپ باعث نوسان شدید قیمت نفت شد",
+            "چین با کاهش واردات نفت، بازار را موقتاً تثبیت کرد",
+            "برکس+ با طرح‌های انرژی مشترک سعی در کاهش وابستگی به نفت غربی دارد",
+            "نوسان قیمت نفت فشار اقتصادی بر ایران را افزاش می‌دهد"
+        ],
+        "impact": "قیمت نفت بالا می‌رود و هزینه‌های واردات انرژی ایران افزایش می‌یابد",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Economic Times on MSN",
+        "url": "https://www.msn.com/en-in/politics/government/brics-and-the-fallout-from-trump-s-energy-shocks/ar-AA2cHvkv?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/politics/government/brics-and-the-fallout-from-trump-s-energy-shocks/ar-AA2cHvkv",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790014495.7680514
+    },
+    {
         "id": "1633619d3f",
         "title_fa": "پزشک برجسته رفتار ترامپ را «نوزاد» توصیف کرد",
         "title_en": "Top doctor says Trump behaves like a 'toddler' to fight helplessness",
@@ -304,6 +324,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3ZvZG1DVHkwY2JmZkZlVjJLeFRCTE1udWpqdnZKcEJwWjQ4eW5RUTR0dGp1ak1uODluWFY4YlNWakV3SmxMQi02OWprNHhyT252RHprcjRIVDhGTHRMRUx0VEs0c1UtLXdlZ3huMGJxNTJPMkhfYXdQdlZ6aWFoR21aZks5amM",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790004099.0
+    },
+    {
+        "id": "ea944b3e24",
+        "title_fa": "سه تانکر در خلیج به‌دلیل تنش آمریکا‑ایران آسیب دید",
+        "title_en": "Three Tankers Damaged in Gulf as US-Iran Conflict Escalates",
+        "summary": [
+            "سه تانکر حامل نفت در خلیج فارس به‌دلیل حملات یا اشتباهات ناوبری آسیب دیدند",
+            "حادثه نشانگر تشدید درگیری نظامی بین نیروی‌های آمریکا و سپاه است",
+            "خسارت به زیرساخت‌های حمل و نقل نفت خطر آلودگی محیطی را به‌وجود می‌آورد",
+            "ایران ممکن است واکنش نظامی یا دیپلماتیک قوی نشان دهد"
+        ],
+        "impact": "توقف موقت حمل و نقل نفت در خلیج، نوسان شدید قیمت جهانی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVRBMEZTU1ZkSU45YVJobzBpREJWc1E1bEV3Q2hkY2piREhRQkhCWlN2Z3NNRW80TDZwWGZkZ1RBYnVocEVuaDF1cElrZjctVmVCWFdZbnc0XzZoS0xRSjhpcGs1Um0wX2xBWmVHNGpuQjdub2FXbjFDcC1ibDVocEV4UFc3MzYybHFsTnZMYlJ1cFd5",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790003901.0
     },
     {
         "id": "1f82229735",
@@ -5348,42 +5388,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSQUpsbFBZdHJBVzE5RksxTlV3a01Mb0c1bHktX0RSeXhLR3c1bC1JZ3FBUUtWcEYzbkNWZEV1SXQ1QUl2LW1oR0VMa2lvQ0dycm1QMHRWQmpRUjNDOTlqZ2xoU2xkOWZab25sb1R6UW56QWJqb0h0NjRaX3RiOFpCQTc5UzQtRjlMWFBFWG9QazFHQnpHTg",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789898349.0
-    },
-    {
-        "id": "778b427564",
-        "title_fa": "ترامپ: امکان نابودی کل ایران",
-        "title_en": "Trump considering ‘blowing up entire nation’ of Iran",
-        "summary": [
-            "ترامپ سه گزینهٔ اصلی را مطرح کرد: نابود کردن ایران، رها کردن اقتصادش برای خراب شدن یا رسیدن به توافق.",
-            "او گفت در «حالت تصمیم‌گیری» است و «چیزهای بزرگ» در آیندهٔ نزدیک رخ خواهد داد.",
-            "ایران برای حملات هوایی محتمل آماده شده و تهدید به انتقام کرده است.",
-            "دولت آمریکا هشدارهای امنیتی را در سفارت‌ها به‌دلیل تنش‌های منطقه‌ای صادر کرد."
-        ],
-        "impact": "افزایش فشار نظامی و تحریم‌ها، خطر برخورد مستقیم و تشدید تنش‌های خاورمیانه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-considering-blowing-entire-nation-165829203.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-considering-blowing-entire-nation-165829203.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/3302169bdbaa051a4ee8ac6f49cb4edbf4da3bf694f08d1dc7fdb01fab85aa5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F348a78917b97afc12fbe7338ba70a427.jpg",
-        "timestamp": 1789898280.0
-    },
-    {
-        "id": "a687bedbc0",
-        "title_fa": "موج شکست، ترامپ را ناامید کرد و به دنبال اعتبار بود",
-        "title_en": "Wave of Setbacks Leaves Trump Frustrated and Looking for Credit",
-        "summary": [
-            "The president has told associates that he thinks there aren’t enough political allies defending him on television. | World..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/wave-of-setbacks-leaves-trump-frustrated-and-looking-for-credit-101789980613804.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/wave-of-setbacks-leaves-trump-frustrated-and-looking-for-credit-101789980613804.html",
-        "image": "https://www.bing.com/th?id=ONUT.wNuLqKNO4jjQtpq4kbsIyw",
-        "timestamp": 1789897789.0
     }
 ]
