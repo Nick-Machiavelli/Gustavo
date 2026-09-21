@@ -2817,6 +2817,26 @@
         "timestamp": 1789933683.3956213
     },
     {
+        "id": "c9375acfaf",
+        "title_fa": "ترامپ: روسیه کنترل صنعت نفت را از دست داد",
+        "title_en": "Ukraine war live: Trump says Moscow lost control of oil industry",
+        "summary": [
+            "ادعای ترامپ فشار جدید غرب بر اقتصاد روسیه پس از حملات به پالایشگاه‌ها را نشان می‌دهد",
+            "اگر درست باشد، کاهش تولید نفت روسیه می‌تواند قیمت جهانی را بالا ببرد و تحریم‌ها را تقویت کند",
+            "این حرف ممکن است برای تقویت موقعیت ترامپ پیش از انتخابات به کار رفته باشد",
+            "واکنش روسیه هنوز نامشخص؛ احتمال رد ادعا یا تشدید حملات به زیرساخت‌ها وجود دارد"
+        ],
+        "impact": "کاهش توان مالی روسیه و تشدید فشار تحریمی",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/ukraine-war-live-trump-says-moscow-lost-control-of-oil-industry/ar-AA2cDPWD?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/ukraine-war-live-trump-says-moscow-lost-control-of-oil-industry/ar-AA2cDPWD",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789933640.0
+    },
+    {
         "id": "c9c529c0b9",
         "title_fa": "جمهوری‌خواهان با کاهش امیدهای میان‌دوره‌ای، واقعیت‌های متناوب را ایجاد می‌کنند",
         "title_en": "Republicans craft alternate reality as their midterm hopes dwindle",
@@ -5366,22 +5386,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEREVjBnRFJWaERsOE9IbmM2ZVlBa2Y3ZnIyVk1uRXBuUnBOQzJZdzFxQ3c1OHFBSVdNZGJkZHE1Ty1COXlpck0wRjU0QTVzbUhmUkREVWdyVlhpTC1ROFBFZXZVN09uRUgtbHVlcUVnLUE5eG9MYjhhLXBwaFlPa2JBSlB4R3ptY2kwQUVkQWpuUk5kb2FFZXRWY9IBoAFBVV95cUxPbnJMY1Z0X0ZnME9OVHJDZHQ3RDV0Y29iTDNpS05kZVZvRTlCQzRjOXVvck9lNDlabmJwQ1Z0NGJtUy1BRFVlTWczcnViQmh3bDl4WV9zdFlycmtMSWZGLWphYWZuMExPNFZtbTdRdDVBM29TNjk2aGZSc1RMTTVQbDBrQjBQd1F3Z1RDNGtXU1lNN0t4QS1ucU5zbGZkWlJn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789901533.0
-    },
-    {
-        "id": "a5e59ee9da",
-        "title_fa": "اندی برنهام قرار است برای اولین بار در سازمان ملل در نیویورک با دونالد ترامپ دیدار کند",
-        "title_en": "Andy Burnham is set to meet Donald Trump for the first time at the UN in New York",
-        "summary": [
-            "Britain's Prime Minister Andy Burnham to meet Donald Trump for the first time at the UN, addressing key global issues."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/andy-burnham-is-set-to-meet-donald-trump-for-the-first-time-at-the-un-in-new-york/article71490809.ece",
-        "clean_url": "https://www.thehindu.com/news/international/andy-burnham-is-set-to-meet-donald-trump-for-the-first-time-at-the-un-in-new-york/article71490809.ece",
-        "image": "https://th-i.thgim.com/public/incoming/f8w4be/article71490842.ece/alternates/LANDSCAPE_1200/2026-09-18T093639Z_624103304_RC2LLNAKPBUW_RTRMADP_3_BRITAIN-IRELAND.JPG",
-        "timestamp": 1789901340.0
     }
 ]
