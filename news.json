@@ -2818,6 +2818,25 @@
         "timestamp": 1789936020.0
     },
     {
+        "id": "7a7cb20517",
+        "title_fa": "وکیل جدید جزئیات تیراندازی ICE را فاش کرد",
+        "title_en": "Austin ICE shooting: Attorney gives new details",
+        "summary": [
+            "وکیل مهاجرت خانواده گارسِس پرز، جزئیات جدیدی از تیراندازی در ایستگاه ICE ارائه داد",
+            "اطلاعات جدید می‌تواند نشانگر نقص در پروتکل‌های امنیتی یا رفتار نادرست مأموران باشد",
+            "افشای این جزئیات احتمالاً فشار عمومی برای بررسی رفتار ICE را تقویت می‌کند"
+        ],
+        "impact": "ممکن است درخواست‌های قانونی و نظارتی علیه ICE افزایش یابد",
+        "tag": "مهاجرت",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/videos/austin-ice-shooting-attorney-gives-192203525.html",
+        "clean_url": "https://www.yahoo.com/news/videos/austin-ice-shooting-attorney-gives-192203525.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/e62de08f6b0d4d46b96ef9a0dc0135a761cdc05de9f29752d31305f62b039069/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fktbc_fox_local_videos_395%2F76aa860f36a1ffcba1c37c1c8fe625b7.jpg",
+        "timestamp": 1789935763.0
+    },
+    {
         "id": "ca14298815",
         "title_fa": "استراتژیست: فساد ترامپ جهان را به‌هم می‌ریزد",
         "title_en": "Trump's 'breathtaking' corruption has world feeling like it's 'coming apart': strategist",
@@ -5369,22 +5388,5 @@
         "clean_url": "https://www.twincities.com/2026/09/20/other-voices-condemn-violence-by-israeli-settlers-in-west-bank",
         "image": "https://www.twincities.com/wp-content/uploads/2026/09/Israel_Palestinians_West_Bank_565_3.jpg?w=5616&h=3744",
         "timestamp": 1789902194.1505897
-    },
-    {
-        "id": "a8fb2a520f",
-        "title_fa": "آیا پرزیدنت ترامپ بازار سهام را سقوط خواهد کرد؟",
-        "title_en": "Will President Trump Crash the Stock Market? History Says This Could Come Next.",
-        "summary": [
-            "Let's dig deeper into the challenges facing the current market -- referencing historical parallels to try to figure out what might come next for investors. While the Trump administration continues to..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/president-trump-crash-stock-market-102000110.html",
-        "clean_url": "https://finance.yahoo.com/markets/stocks/articles/president-trump-crash-stock-market-102000110.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/59b3cc8d9d24234ace531545208e275e6fcf275d15df96135c76ad3242c586aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Feb246af3d0ea4db01e31cf5298f7ffed.jpg",
-        "timestamp": 1789902194.1500783
     }
 ]
