@@ -1,5 +1,39 @@
 [
     {
+        "id": "b6c8fa9309",
+        "title_fa": "چرا قیمت بالای بنزین آنطور که ترامپ می‌گوید «قیمت کمی برای پرداخت» نیست؟",
+        "title_en": "Why high gas prices are not a 'small price to pay' as Trump says",
+        "summary": [
+            "President Trump described high gas prices as a small cost linked to the U.S. war on Iran, with prices reaching $4.46 per..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Richmond Times-Dispatch",
+        "url": "https://richmond.com/news/nation-world/article_d3cdef5a-9205-5953-b43b-b5c078e83b92.html",
+        "clean_url": "https://richmond.com/news/nation-world/article_d3cdef5a-9205-5953-b43b-b5c078e83b92.html",
+        "image": "https://www.bing.com/th?id=ONUT.erRPdLPn4eLaR9K5Oamqyg",
+        "timestamp": 1790098497.7457006
+    },
+    {
+        "id": "033d4a2f18",
+        "title_fa": "مشکل ترامپ تنها مشکل CNN نیست.",
+        "title_en": "Trump's isn't CNN's only problem. Azerbaijan sues network | Opinion",
+        "summary": [
+            "Trump isn't CNN's only problem. Azerbaijan is suing CNN for reporting that Israel had used its territory for military action against Iran."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trumps-isnt-cnns-only-problem-170043019.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trumps-isnt-cnns-only-problem-170043019.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/08b1f59430349c8e2b1bc710de317100c219e6a4353c0291afe63ac10ca03514/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-bergen-record%2F6e6954402409d5990c276be888be6597.jpg",
+        "timestamp": 1790098497.7449412
+    },
+    {
         "id": "aff05be090",
         "title_fa": "نظر: ترس جدید آمریکایی - از 9-11 تا هوش مصنوعی",
         "title_en": "OPINION: The New American Fear – From 9-11 to AI",
@@ -1242,6 +1276,23 @@
         "timestamp": 1790069003.5623846
     },
     {
+        "id": "2f0927b645",
+        "title_fa": "اوپک و هند درباره ثبات بازار جهانی نفت گفتگو کردند",
+        "title_en": "OPEC, India discuss global oil market stability",
+        "summary": [
+            "Both sides reviewed the short-, medium-, and long-term outlooks, highlighting India's key role in global economic growth and energy demand growth"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2191271",
+        "clean_url": "https://tass.com/economy/2191271",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790068980.0
+    },
+    {
         "id": "97af37b9ad",
         "title_fa": "جنگ آینده ایران ممکن است زودتر از انتظار آغاز شود",
         "title_en": "The Next Iran War May Come Sooner Than You Think: Joachim Klement",
@@ -2068,6 +2119,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnBZWUVmMkxWSjZPRkJCQzFDQjNHMFZxZEJ0Y2plTHRvemowOWMzYldmTnBYcTdMbDJSVFQ0MXQ2YXNGdl8wVV9OM29LemZneFVNY1NZQ0NrU0dLdzBxaDRzVVY1UmtncVhhT05acWs3c0RROXBCNUJ1RnRhdGdkYzNsTlRuYjI0U2czVzhrVFJ6UHpjQXUydUxwNEZyRUVSVDFqYk1EQXB4RHFYSG1JX0h2eU1zWGNPbzhWbzln",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790050080.0
+    },
+    {
+        "id": "b872347f3e",
+        "title_fa": "قانونگذاران ایران لایحه اعمال جریمه 20 درصدی محموله را برای تخلفات هرمز ارائه کردند",
+        "title_en": "Iran lawmakers advance bill imposing 20% cargo penalty for Hormuz violations",
+        "summary": [
+            "An Iranian parliamentary committee has approved provisions allowing authorities to seize 20% of the cargo or its value from ships violating Iran's rules for passage through the Strait of Hormuz and temporarily detain the vessels until the penalty is paid."
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609228308",
+        "clean_url": "https://www.iranintl.com/en/202609228308",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790049900.0
     },
     {
         "id": "5466421e9f",
@@ -3364,6 +3432,23 @@
         "clean_url": "https://www.newarab.com/analysis/trump-touts-hormuz-oil-flows-can-us-outlast-iran",
         "image": "https://www.bing.com/th?id=ONUT.ocmbt8c1lPGPMIgYwDe7wQ",
         "timestamp": 1790012915.7373855
+    },
+    {
+        "id": "858e84f14d",
+        "title_fa": "بررسی کتاب: «قوانین سلیمان» قلب لطیف سرباز کودک سابق را آشکار می‌کند",
+        "title_en": "BOOK REVIEW: ‘Laws of Solomon’ Reveals Tender Heart of Former Child Soldier",
+        "summary": [
+            "The monsters that came to him early in his sleep were the easy ones. It was the later demons that stole Solomon Nangobi’s sleep, the spirits of all the people he killed when he was a child soldier in..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "BlackPressUSA",
+        "url": "https://blackpressusa.com/book-review-laws-of-solomon-reveals-tender-heart-of-former-child-soldier/",
+        "clean_url": "https://blackpressusa.com/book-review-laws-of-solomon-reveals-tender-heart-of-former-child-soldier",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790012077.0
     },
     {
         "id": "0c224bff9d",
@@ -5252,93 +5337,5 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/trump-s-address-kicks-off-jam-packed-day-at-unga/ar-AA2cJYwL",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789994550.0
-    },
-    {
-        "id": "d6c599dd9b",
-        "title_fa": "آی‌زدادی: سپاه قادر به هدف‌گیری کشتی‌های بزرگ با موشک‌های بالستیک",
-        "title_en": "Iran Guards deputy says Tehran can hit large enemy vessels with ballistic missiles",
-        "summary": [
-            "معاون سپاه پاسداران گفت موشک‌های بالستیک می‌توانند کشتی‌های بزرگ را هدف بگیرند",
-            "این توانمندی نشان‌دهنده پیشرفت برنامه موشکی ایران است",
-            "او از کشورهای منطقه خواست امنیت مشترک را تقویت کنند",
-            "ادعای توان هدف‌گیری در ۱۲ کشور نشان‌دهنده تهدید گسترده است"
-        ],
-        "impact": "تهدید به هدف‌گیری ناوگان‌های دشمن می‌تواند ناوبری در خلیج فارس را تحت فشار قرار دهد",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609226244",
-        "clean_url": "https://www.iranintl.com/en/202609226244",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1789994550.0
-    },
-    {
-        "id": "c59f660f97",
-        "title_fa": "تفسیر: آیا جنگ ایران رای دهندگان جوان را در آستانه انتخابات میان دوره ای از جمهوری خواهان دور می‌کند؟",
-        "title_en": "Commentary: Is the Iran war turning young voters away from Republicans ahead of the midterms?",
-        "summary": [
-            "President Donald Trump won a surprising number of Gen Z voters in 2024, with a particularly strong performance among young men. Although Kamala Harris still won a majority of the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yakima Herald",
-        "url": "https://www.yakimaherald.com/opinion/commentary-is-the-iran-war-turning-young-voters-away-from-republicans-ahead-of-the-midterms/article_83ebcc35-51dd-44e7-8a27-ee20469d34b4.html",
-        "clean_url": "https://www.yakimaherald.com/opinion/commentary-is-the-iran-war-turning-young-voters-away-from-republicans-ahead-of-the-midterms/article_83ebcc35-51dd-44e7-8a27-ee20469d34b4.html",
-        "image": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/a/62/a6271cc6-8cfe-4ba4-802c-9ccbb93e77ea/6aad7c2b89ba0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-        "timestamp": 1789994376.3090563
-    },
-    {
-        "id": "72c223663f",
-        "title_fa": "خبر بین‌المللی — ترامپ inaugurates new White House helipad, but networks skip",
-        "title_en": "Trump inaugurates new White House helipad, but networks skip coverage during First Amendment fight",
-        "summary": [
-            "WASHINGTON (AP) — President Donald Trump showed off his new White House helicopter landing pad on Monday, attempting to brush aside a First Amendment firestorm even as major television networks kept..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Press Democrat",
-        "url": "https://www.pressdemocrat.com/2026/09/21/trump-helipad-first-amendment-fight/",
-        "clean_url": "https://www.pressdemocrat.com/2026/09/21/trump-helipad-first-amendment-fight",
-        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/09/Trump_54_7.jpg?w=2000&h=1333",
-        "timestamp": 1789993800.0
-    },
-    {
-        "id": "4c525e46ca",
-        "title_fa": "امید معماریان: پرونده حقوق بشری جمهوری اسلامی تلاش‌های دیپلماتیک تهران را دشوارتر می‌کند",
-        "title_en": "امید معماریان: پرونده حقوق بشری جمهوری اسلامی تلاش‌های دیپلماتیک تهران را دشوارتر می‌کند",
-        "summary": [
-            "امید معماریان، تحلیل‌گر سیاسی در موسسه دان، گفت گزارش هیئت حقیقت‌یاب شورای حقوق بشر درباره سرکوب اعتراضات، فشار سیاسی بر جمهوری اسلامی را افزایش می‌دهد و تلاش‌های تهران برای کاهش فشارهای بین‌المللی در..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609219544",
-        "clean_url": "https://www.iranintl.com/202609219544",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1789993680.0
-    },
-    {
-        "id": "4d2c02dd06",
-        "title_fa": "خبر بین‌المللی — With جنگ, climate change و AI, it's a troubled جهانی as lead",
-        "title_en": "With war, climate change and AI, it's a troubled world as leaders convene at the United Nations",
-        "summary": [
-            "UNITED NATIONS (AP) — With wars raging,temperatures rising and artificial intelligence encroaching, leaders from across the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Canadian Press on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/with-war-climate-change-and-ai-it-s-a-troubled-world-as-leaders-convene-at-the-united-nations/ar-AA2cDPJx?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/with-war-climate-change-and-ai-it-s-a-troubled-world-as-leaders-convene-at-the-united-nations/ar-AA2cDPJx",
-        "image": "https://www.bing.com/th?id=ONUT.ImBZSpwgr53cD6uo5sY8zg",
-        "timestamp": 1789993666.0
     }
 ]
