@@ -1176,6 +1176,25 @@
         "timestamp": 1790067068.0
     },
     {
+        "id": "c59306580c",
+        "title_fa": "نامزدهای جمهوری‌خواه فشار برای پایان جنگ",
+        "title_en": "'End the open-ended war.' GOP candidates push Trump on Iran",
+        "summary": [
+            "برخی نامزدهای جمهوری‌خواه از ترامپ می‌خواهند جنگ ایران‑ایران را به‌سرعت به‌پایان برسانند",
+            "فشار داخلی حزب جمهوری‌خواه نشان می‌دهد که ادامه درگیری برای رده‌های انتخاباتی خطرساز شده",
+            "این فشار می‌تواند سیاست‌های ترامپ نسبت به ایران را ملایم‌تر کند و مذاکرات صلحی را تسریع کند"
+        ],
+        "impact": "فشار داخلی می‌تواند مسیر دیپلماتیک را باز کند و احتمال توافق صلحی را افزایش دهد",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/end-the-open-ended-war-gop-candidates-push-trump-on-iran/ar-AA2cKyTo",
+        "clean_url": "https://www.msn.com/en-us/news/other/end-the-open-ended-war-gop-candidates-push-trump-on-iran/ar-AA2cKyTo",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790066398.0
+    },
+    {
         "id": "9844fcba3d",
         "title_fa": "چین علیه تحریم‌های آمریکا بر هواپیمایی‌های ایران موضع گرفت",
         "title_en": "China says opposes ‘illegal’ US sanctions on Iran airlines",
@@ -3456,6 +3475,44 @@
         "timestamp": 1790009436.2194505
     },
     {
+        "id": "fc6e9ee509",
+        "title_fa": "ترامپ: یا توافق یا نابودی سریع ایران",
+        "title_en": "ترامپ: یا توافق میشود یا جمهوری اسلامی را پیش از کشتار بیشتر مردم نابود میکنم",
+        "summary": [
+            "ترامپ در مجمع عمومی سازمان ملل گفت یا توافق هسته‌ای می‌شود یا جمهوری اسلامی را «به‌سرعت نابود» می‌کند",
+            "او ادعا کرد این تصمیم «بزرگ» می‌تواند ایران را از توانایی کشتار مردم و ویران‌کردن کشورها محروم سازد",
+            "اشاره به توافق پس از انتخابات آمریکا نشان می‌دهد که تهدید به‌عنوان کارت فشار سیاسی استفاده می‌شود"
+        ],
+        "impact": "تهدید مستقیم به نابودی می‌تواند تنش نظامی را بالا برده و واکنش‌های منطقه‌ای را برانگیزد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609226190",
+        "clean_url": "https://www.iranintl.com/202609226190",
+        "image": "https://www.bing.com/th?id=ONUT.KJTQ1u33nURvEcVtNz8Rgw",
+        "timestamp": 1790008926.0
+    },
+    {
+        "id": "d3067f8c1b",
+        "title_fa": "تحریم هوایی آمریکا هدف‌گیری خطوط ایرانی",
+        "title_en": "Trump plans to ground Iranian airlines worldwide: How the US plans to do it and will India be hit?",
+        "summary": [
+            "آمریکا با فشار بر شرکت‌های هواپیمایی، سوخت‌گیری و بانک‌ها، پروازهای ایرانی را به‌تدریج از مسیرهای بین‌المللی حذف می‌کند",
+            "این اقدام بخشی از «عملیات Economic Outcast» است که هدفش قطع دسترسی مالی و زیرساختی ایران است",
+            "۲۷ شرکت هواپیمایی ایرانی تحت تحریم قرار گرفتند؛ شرکت‌های هندی که با این خطوط کار می‌کنند، خطر جریمه‌های ثانویه را دارند"
+        ],
+        "impact": "ایران به‌سرعت از شبکه‌های مالی هوایی جهانی جدا می‌شود؛ شرکت‌های هواپیمایی هندی ممکن است با محدودیت‌های بانکی مواجه شوند",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/trump-plans-to-ground-iranian-airlines-worldwide-how-the-us-plans-to-do-it-and-should-india-be-concerned-article-14035695.html",
+        "clean_url": "https://www.moneycontrol.com/world/trump-plans-to-ground-iranian-airlines-worldwide-how-the-us-plans-to-do-it-and-should-india-be-concerned-article-14035695.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260922153439_Iran-airline.jpg",
+        "timestamp": 1790008925.0
+    },
+    {
         "id": "76f0c6382b",
         "title_fa": "تلاش ترامپ برای تبدیل دی سی به یک پناهگاه طلاکاری شده، انزوای بدتر او را آشکار می‌کند",
         "title_en": "Trump push to make DC a gilded bunker reveals his worsening isolation",
@@ -5288,56 +5345,5 @@
         "clean_url": "https://www.premiumtimesng.com/foreign/world-foreign/911246-iran-considers-exiting-non-proliferation-treaty.html",
         "image": "https://media.premiumtimesng.com/wp-content/files/2017/07/Iranian-parliament-passes-bill-aimed-at-countering-‘American-terrorism’.jpg",
         "timestamp": 1789989840.0
-    },
-    {
-        "id": "9d23c55885",
-        "title_fa": "ترامپ با تشدید مجدد درگیری‌ها، تهدید جدیدی علیه ایران مطرح می‌کند",
-        "title_en": "Trump Issues New Threat to Iran as the Conflict Escalates Again",
-        "summary": [
-            "Trump Issues New Threat to Iran as the Conflict Escalates Again TODAY.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TODAY.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEcySGd4eXZwMzdNZ1VUTERzVGtOU3N3R1BMZmRwQW52dV95UUNQc2dhd0M2RF9SejZLQVUtVEhkVU15bHNVUndEMk9ZR3BmRnNEMDdGZ193YXhTT09fTEkzRm91Q2RpSF9DVzFpeWl1b2ZlRUFOTE9pYlRoU0hxdnRva1lEYmJDU1VoTjY4NWN2M3lYbFF4ZS1nbTR3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEcySGd4eXZwMzdNZ1VUTERzVGtOU3N3R1BMZmRwQW52dV95UUNQc2dhd0M2RF9SejZLQVUtVEhkVU15bHNVUndEMk9ZR3BmRnNEMDdGZ193YXhTT09fTEkzRm91Q2RpSF9DVzFpeWl1b2ZlRUFOTE9pYlRoU0hxdnRva1lEYmJDU1VoTjY4NWN2M3lYbFF4ZS1nbTR3QQ",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789989643.0
-    },
-    {
-        "id": "007b3722ca",
-        "title_fa": "خبر بین‌المللی — Iowa GOP Senate candidate Ashley Hinson calls برای ایران جنگ",
-        "title_en": "Iowa GOP Senate candidate Ashley Hinson calls for Iran war to end despite voting to let Trump continue it",
-        "summary": [
-            "Hinson, a congresswoman who is running for Senate, said the Iran war “needs to be brought to a successful and immediate end” and called for other policies to lower costs."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/2026-election/iowa-gop-senate-candidate-ashley-hinson-calls-iran-war-end-rcna599041",
-        "clean_url": "https://www.nbcnews.com/politics/2026-election/iowa-gop-senate-candidate-ashley-hinson-calls-iran-war-end-rcna599041",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260921-Ashley-Hinson-ew-100p-87c345.jpg",
-        "timestamp": 1789989300.0
-    },
-    {
-        "id": "dbc80ea964",
-        "title_fa": "به‌روزرسانی زنده جنگ ایران و آمریکا: 760 شناور در حملات بندرعباس آسیب دیدند و 12 نفر کشته شدند.",
-        "title_en": "US-Iran War Live Updates: 760 vessels damaged, 12 killed in Bandar Abbas attacks, Iran says",
-        "summary": [
-            "Iran is under growing pressure as the war that began with US and Israeli strikes in February continues to reshape the region, damage its economy and"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134374650,width-1280,height-720,imgsize-95851,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1789989300.0
     }
 ]
