@@ -1,5 +1,24 @@
 [
     {
+        "id": "b8494e5d8b",
+        "title_fa": "ترامپ در مجمع عمومی: تغییر نام هوش مصنوعی",
+        "title_en": "Trump rants to UN about Iran and AI",
+        "summary": [
+            "ترامپ اعلام کرد اصطلاح «هوش مصنوعی» را به «هوش فوق‌العاده» تغییر می‌دهد و تمام اسناد دولتی آمریکا این واژه جدید را به کار می‌برند.",
+            "در همان جلسه، او به ایران به‌عنوان تهدیدی برای امنیت منطقه اشاره کرد و وعده اعمال فشارهای تحریمی سخت‌گیرانه را تکرار کرد.",
+            "این تغییر واژه نشان‌دهنده تمایل ترامپ به استفاده از زبان پرسر و فشار روانی بر رقبای ژئوپولیتیک است."
+        ],
+        "impact": "تغییر واژه در اسناد دولتی می‌تواند سردرگمی فنی ایجاد کند؛ تهدیدهای تحریمی به ایران فشار اقتصادی جدیدی می‌آورد.",
+        "tag": "ایران",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Crikey",
+        "url": "https://www.crikey.com.au/2026/09/23/trump-rants-to-united-nations-about-iran-and-ai-chris-bowen-anthony-albanese-super-intelligence-middle-east-fuel-prices-bears/",
+        "clean_url": "https://www.crikey.com.au/2026/09/23/trump-rants-to-united-nations-about-iran-and-ai-chris-bowen-anthony-albanese-super-intelligence-middle-east-fuel-prices-bears",
+        "image": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/09/20260923158134412949-original-1.jpg?quality=70&w=1312",
+        "timestamp": 1790112874.8657503
+    },
+    {
         "id": "ec835b2dde",
         "title_fa": "خبر بین‌المللی — A.I.: Let’s Not Have Another Failure Imagination",
         "title_en": "A.I.: Let’s Not Have Another Failure of Imagination",
@@ -142,6 +161,26 @@
         "timestamp": 1790106016.7490127
     },
     {
+        "id": "d9c5131bf0",
+        "title_fa": "ملاقات آمریکایی-ایرانی در نیویورک برای پایان جنگ",
+        "title_en": "U.S. and Iran officials meet in New York to discuss ending the war",
+        "summary": [
+            "نمایندگان آمریکا و ایران در نیویورک برای مذاکرات صلح گرد هم آمدند.",
+            "هدف بررسی راه‌های پایان جنگ و کاهش تحریم‌های اقتصادی است.",
+            "این ملاقات می‌تواند فشار دیپلماتیک بر ایران را کاهش داده و مسیر مذاکرات بیشتری باز کند.",
+            "پیشرفت‌ها احتمالاً به توافق‌های موقت محدود خواهد شد."
+        ],
+        "impact": "اگر مذاکرات به توافق برسد، تحریم‌های اقتصادی می‌توانند کاهش یابند و تنش‌های نظامی فروکش کند.",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fSDdtMjE4M3BicXVNZ1R3UUNETkI5S0xUTWtBVzdfdi1ieFBIbUxGbHNwcTdBMUxtdDgtZmp6SVRmanlCWnZzZmpDQmp4V0RFYUM3eXU2Ulg3b202Sk5Qa0p1b1d4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fSDdtMjE4M3BicXVNZ1R3UUNETkI5S0xUTWtBVzdfdi1ieFBIbUxGbHNwcTdBMUxtdDgtZmp6SVRmanlCWnZzZmpDQmp4V0RFYUM3eXU2Ulg3b202Sk5Qa0p1b1d4Zw",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790105163.0
+    },
+    {
         "id": "dfd520eacd",
         "title_fa": "نظرسنجی: کم‌ترین تأیید ترامپ در امور خارجی به‌دلیل جنگ ایران",
         "title_en": "Trump, dragged down by Iran war, hits lowest approval ever on foreign affairs in new poll",
@@ -211,6 +250,25 @@
         "clean_url": "https://www.iranintl.com/en/202609226492",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790102580.0
+    },
+    {
+        "id": "63a3a6f0ab",
+        "title_fa": "پوشش زنده جنگ ایران در NBC",
+        "title_en": "Iran War: Latest News, Live Coverage and Video",
+        "summary": [
+            "صفحه NBC به‌صورت زنده اخبار و ویدیوهای مرتبط با جنگ ایران را منتشر می‌کند.",
+            "محتوا صرفاً تجمیع گزارش‌های قبلی است و اطلاعات جدیدی ارائه نمی‌دهد.",
+            "وجود این پوشش نشان‌دهنده ادامه نگرانی بین‌المللی نسبت به تنش‌های منطقه‌ای است."
+        ],
+        "impact": "اطلاع‌رسانی عمومی افزایش می‌یابد اما تأثیر عملی بر رویدادها کم است.",
+        "tag": "خبر",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790102573.0
     },
     {
         "id": "ce63a6aa1d",
@@ -5246,56 +5304,5 @@
         "clean_url": "https://www.dw.com/en/trump-threatens-to-annihilate-iran-if-no-deal-is-reached/video-79378770",
         "image": "https://static.dw.com/image/79377592_6.jpg",
         "timestamp": 1790010744.0
-    },
-    {
-        "id": "786a4899b0",
-        "title_fa": "«پیمان دفاع متقابل» جدید اهل سنت و پیامدهای نبوی آن",
-        "title_en": "The New Sunni ‘Mutual Defense Pact’ and Its Prophetic Implications",
-        "summary": [
-            "Pakistani defense pact is reshaping Middle East power—and echoing biblical warnings about nations aligning against Israel."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Charisma Magazine Online",
-        "url": "https://mycharisma.com/propheticrevival/the-new-sunni-mutual-defense-pact-and-its-prophetic-implications/",
-        "clean_url": "https://mycharisma.com/propheticrevival/the-new-sunni-mutual-defense-pact-and-its-prophetic-implications",
-        "image": "https://mycharisma.com/wp-content/uploads/2026/09/Islam-alliance-article.jpg",
-        "timestamp": 1790010666.4849641
-    },
-    {
-        "id": "510e3b49a4",
-        "title_fa": "جنگ ابدی ترامپ زندگی را از او می‌مکد",
-        "title_en": "Trump’s Forever War Is Sucking the Life Out of Him",
-        "summary": [
-            "I thought he would end the war after a couple days. I assumed the military would never undertake a war without considering the status of the Strait of Hormuz. Once the strait was closed and it was..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Bulwark",
-        "url": "https://www.thebulwark.com/p/trump-forever-war-iran-is-sucking-the-life-out-of-him",
-        "clean_url": "https://www.thebulwark.com/p/trump-forever-war-iran-is-sucking-the-life-out-of-him",
-        "image": "https://substackcdn.com/image/fetch/$s_!Nree!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9cfe717-589b-42d3-b785-393955a13e3f_3000x1688.jpeg",
-        "timestamp": 1790010666.4847634
-    },
-    {
-        "id": "d603cacb98",
-        "title_fa": "واکنش پیر مورگان پس از ادعای خبرنگار فاکس نیوز، \"البته جنایت جنگی نسل کشی خواهد بود\"",
-        "title_en": "\"Would of course be a genocidal war crime\": Piers Morgan reacts after Fox News correspondent claims Trump discussed the possibility of \"wiping Iran out\"",
-        "summary": [
-            "Piers Morgan condemned Trump’s alleged warning about ’wiping Iran out’ amid the ongoing US-Iran military conflict. Here’s what the broadcaster said."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "PRIMETIMER",
-        "url": "https://www.primetimer.com/news/would-of-course-be-a-genocidal-war-crime-piers-morgan-reacts-after-fox-news-correspondent-claims-trump-discussed-the-possibility-of-wiping-iran-out",
-        "clean_url": "https://www.primetimer.com/news/would-of-course-be-a-genocidal-war-crime-piers-morgan-reacts-after-fox-news-correspondent-claims-trump-discussed-the-possibility-of-wiping-iran-out",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790010666.4838643
     }
 ]
