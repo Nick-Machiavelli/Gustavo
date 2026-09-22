@@ -1,5 +1,41 @@
 [
     {
+        "id": "b0fc643677",
+        "title_fa": "چین برتری می‌یابد؛ آمریکا در خاورمیانه به خطر",
+        "title_en": "China is outfoxing the US in the battle for Mideast influence",
+        "summary": [
+            "چین با کم‌هزینه‌سازی حضور خود، رقیب اصلی آمریکا در خاورمیانه می‌شود",
+            "موضع نظامی واشنگتن اعتبار خود را کاهش می‌دهد و فضا را برای نفوذ چین باز می‌کند"
+        ],
+        "impact": "تغییر تعادل قدرت در خاورمیانه؛ احتمال همکاری‌های نظامی جدید با پکن",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Responsible Statecraft on MSN",
+        "url": "https://www.msn.com/en-us/news/other/china-is-outfoxing-the-us-in-the-battle-for-mideast-influence/ar-AA2cIBB7?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/china-is-outfoxing-the-us-in-the-battle-for-mideast-influence/ar-AA2cIBB7",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790051779.4873223
+    },
+    {
+        "id": "5632b24a48",
+        "title_fa": "عکس‌العمل عربستان به چین: اشتباه استراتژیک",
+        "title_en": "When Saudi Arabia realizes it's backed the wrong horse",
+        "summary": [
+            "مقاله می‌گوید جنگ‌های بوش و ترامپ به ایران قدرت می‌دهند و چین را تقویت می‌کند",
+            "عربستان با تکیه بر چین خطر از دست دادن نفوذ خلیج را می‌پذیرد"
+        ],
+        "impact": "روابط تجاری عربستان‑چین تقویت می‌شود، اما فشار آمریکا بر خلیج افزایش می‌یابد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Responsible Statecraft on MSN",
+        "url": "https://www.msn.com/en-us/news/other/when-saudi-arabia-realizes-its-backed-the-wrong-horse/ar-AA2cIxev?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/when-saudi-arabia-realizes-its-backed-the-wrong-horse/ar-AA2cIxev",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790051779.486941
+    },
+    {
         "id": "a191384781",
         "title_fa": "لغو پروازهای ترکیه به ایران به‌دلیل تحریم‌های آمریکا",
         "title_en": "Three Turkish Airlines Cancel Flights To Iran As US Sanctions Take Effect",
@@ -5326,40 +5362,5 @@
         "clean_url": "https://www.thebulwark.com/p/trumps-iran-disaster-is-reshaping",
         "image": "https://www.bing.com/th?id=ONUT.E-Op5DwATsvPJBPkc-2zQw",
         "timestamp": 1789926422.8145843
-    },
-    {
-        "id": "3026022ef1",
-        "title_fa": "قانون جدید آمریکا: توانایی تعرفه‌گذاری بر خریداران نفت",
-        "title_en": "Not aimed at India, but meant for India: Russia sanctions law leaves New Delhi at Trump's mercy",
-        "summary": [
-            "قانون جدید به ترامپ اجازه می‌دهد تعرفه‌های سنگین بر خریداران نفت اعمال کند",
-            "این اقدام می‌تواند فشار اقتصادی بر هند افزایش دهد و روابط تجاری را پیچیده کند"
-        ],
-        "impact": "هند ممکن است با هزینه‌های بالاتر انرژی مواجه شود و وابستگی به روسیه را تقویت کند",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "The Economic Times on MSN",
-        "url": "https://www.msn.com/en-in/politics/government/not-aimed-at-india-but-meant-for-india-russia-sanctions-law-leaves-new-delhi-at-trump-s-mercy/ar-AA2cCODq?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/politics/government/not-aimed-at-india-but-meant-for-india-russia-sanctions-law-leaves-new-delhi-at-trump-s-mercy/ar-AA2cCODq",
-        "image": "https://www.bing.com/th?id=ONUT.vPDiIt0tLMKY8_jmwOiMrg",
-        "timestamp": 1789926422.8142886
-    },
-    {
-        "id": "75858b82ed",
-        "title_fa": "تهدیدات تجاری ایران و آمریکا پس از حملات حوثی‌ها درگیری های منطقه ای را تشدید کرده است",
-        "title_en": "Iran and US trade threats after Houthi attacks escalate regional conflict",
-        "summary": [
-            "Iran and US trade threats after Houthi attacks escalate regional conflict Reuters"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789926417.0
     }
 ]
