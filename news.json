@@ -1,5 +1,59 @@
 [
     {
+        "id": "22cb8542f4",
+        "title_fa": "بازار خودروهای الکتریکی چین: هزینه‌های امنیتی پنهان",
+        "title_en": "‘National security and sovereignty’ – The pyrrhic victory that is China’s EV market",
+        "summary": [
+            "استفاده گسترده از خودروهای چینی در استرالیا نگرانی‌های امنیتی داده‌ها را برانگیخته",
+            "دولت به‌دنبال کاهش وابستگی به سوخت‌های فسیلی است"
+        ],
+        "impact": "ممکن است سیاست‌های خرید دولتی را تحت فشار بگذارد",
+        "tag": "اقتصاد",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "4BC",
+        "url": "https://www.4bc.com.au/national-security-and-sovereignty-the-pyrrhic-victory-that-is-chinas-ev-market/",
+        "clean_url": "https://www.4bc.com.au/national-security-and-sovereignty-the-pyrrhic-victory-that-is-chinas-ev-market",
+        "image": "https://www.bing.com/th?id=ONUT.Y2YK0bVjpedRqst6Hp03HA",
+        "timestamp": 1790059437.65099
+    },
+    {
+        "id": "c2a65a5418",
+        "title_fa": "وزیر دفاع سایه استرالیا برای حفظ پایگاه‌های تاریخی می‌جنگد",
+        "title_en": "‘I’m still hopeful’ – Shadow Defence Minister ramps up Defence sites fight",
+        "summary": [
+            "جیمز پاترسون قول داد برای حفظ سایت‌های نظامی تاریخی در استرالیا مبارزه کند",
+            "این موضوع نشان‌دهنده فشار داخلی بر دولت است"
+        ],
+        "impact": "تأثیر کم بر سیاست‌های امنیتی منطقه",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "2GB",
+        "url": "https://www.2gb.com/im-still-hopeful-shadow-defence-minister-ramps-up-defence-sites-fight/",
+        "clean_url": "https://www.2gb.com/im-still-hopeful-shadow-defence-minister-ramps-up-defence-sites-fight",
+        "image": "https://www.bing.com/th?id=ONUT.oeq3NgywLo4MKXeNU8f9sg",
+        "timestamp": 1790059437.6506438
+    },
+    {
+        "id": "90e4dcc321",
+        "title_fa": "کودتای ۱۹۵۳: نقش ویستچیل و آیزنهاور در سرنگونی مصدق",
+        "title_en": "El pecado original de Occidente en Irán: cuando Churchill y Eisenhower ordenaron derrocar a Mosaddeq",
+        "summary": [
+            "اسناد نشان می‌دهد دولت‌های غربی برای ملی‌سازی نفت ایران مداخله کردند",
+            "این تاریخچه به‌عنوان پیش‌زمینه تحریم‌های امروز یادآور می‌شود"
+        ],
+        "impact": "تقویت روایت مقاومت در برابر دخالت خارجی",
+        "tag": "تاریخ",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Moncloa",
+        "url": "https://www.moncloa.com/2026/09/22/pecado-original-occidente-iran-derrocar-mosaddeq-3431367/",
+        "clean_url": "https://www.moncloa.com/2026/09/22/pecado-original-occidente-iran-derrocar-mosaddeq-3431367",
+        "image": "https://www.bing.com/th?id=ONUT.fmOkPfK0jkKi0pfMVsfYgA",
+        "timestamp": 1790059437.650302
+    },
+    {
         "id": "b6535f4813",
         "title_fa": "خبر بین‌المللی — Delhi High Court Directs SAP India به Restore Support Servic",
         "title_en": "Delhi High Court Directs SAP India To Restore Support Services To Nayara Energy Amid EU Sanctions",
@@ -1189,6 +1243,43 @@
         "clean_url": "https://time.com/article/2026/09/21/trump-iran-war-united-nations-general-assembly",
         "image": "http://www.bing.com/th?id=ONUT.OWHkamiibfQUDoQdy7kezg&pid=News",
         "timestamp": 1790010060.0
+    },
+    {
+        "id": "6f2075c840",
+        "title_fa": "رستمی: مذاکره مستقیم با ترامپ مردود",
+        "title_en": "یک نماینده مجلس: هر مذاکره مستقیم پزشکیان با ترامپ به عنوان «قاتل رهبر شهیدمان» مردود است",
+        "summary": [
+            "نماینده مجلس گفت هرگونه گفت‌وگو مستقیم با ترامپ به‌عنوان «قاتل رهبر» رد می‌شود",
+            "او معتقد است آمریکا در صورت جنگ با ایران شکست سنگینی می‌خورد"
+        ],
+        "impact": "احتمال کاهش فشار دیپلماتیک آمریکا بر ایران",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609226904",
+        "clean_url": "https://www.iranintl.com/202609226904",
+        "image": "http://www.bing.com/th?id=ONUT.VL6T_LDAvBKiNRMtH_A8MQ&pid=News",
+        "timestamp": 1790010000.0
+    },
+    {
+        "id": "3e8c116dcb",
+        "title_fa": "سپاه: سلاح‌های جدید و آزمایش روی ناو آمریکایی",
+        "title_en": "سخنگوی سپاه پاسداران: دائما سلاح‌های جدید تولید و آزمایش می‌کنیم",
+        "summary": [
+            "سپاه ادعا کرد سلاح‌های نو تولید و آزمایش می‌کند",
+            "آزمایش موفق بر روی ناو هواپیمابر آمریکا انجام شد",
+            "این ادعا نشان‌دهنده افزایش توان نظامی است"
+        ],
+        "impact": "ممکن است تنش‌های نظامی با ایالات متحده را تشدید کند",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609222307",
+        "clean_url": "https://www.iranintl.com/202609222307",
+        "image": "http://www.bing.com/th?id=ONUT.VL6T_LDAvBKiNRMtH_A8MQ&pid=News",
+        "timestamp": 1790010000.0
     },
     {
         "id": "97b7eba181",
@@ -2898,6 +2989,24 @@
         "timestamp": 1789979220.0
     },
     {
+        "id": "40511ddb4b",
+        "title_fa": "سپاه: اگر آمریکا تشدید کند، جغرافیای جنگ عوض می‌شود",
+        "title_en": "Iran’s Revolutionary Guard Warns US Over Escalation",
+        "summary": [
+            "سخنگوی سپاه هشدار داد در صورت تشدید آمریکا، استراتژی و اهداف نظامی تغییر خواهد کرد",
+            "گفته شد «جنگ تمام نشده» و سلاح‌های جدید به کار خواهد رفت"
+        ],
+        "impact": "افزایش ریسک برخورد مستقیم بین دو کشور",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-revolutionary-guard-warns-us-151634624.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-revolutionary-guard-warns-us-151634624.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/cb0d30413c772cd615c373d8d3714fd769bde234cab03579352235d5b392fdfd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmilitary_com_347%2F729b10d121521703b9ceaae3a7f5ef73.jpg",
+        "timestamp": 1789978560.0
+    },
+    {
         "id": "e4e0bc8641",
         "title_fa": "سپاه پاسداران: اگر آمریکا تشدید کند، جغرافیای جنگ عوض می‌شود",
         "title_en": "Iran's Revolutionary Guard warns US over escalation, and other Mideast developments",
@@ -3176,6 +3285,24 @@
         "clean_url": "https://www.nj.com/politics/2026/09/trump-invoked-this-name-nearly-900-times-this-year-its-an-obsession.html",
         "image": "http://www.bing.com/th?id=ONUT.CvJBXZj5ndglP-MrFVvKqQ&pid=News",
         "timestamp": 1789973040.0
+    },
+    {
+        "id": "7e588f4e8f",
+        "title_fa": "سپاه: مهندسی معکوس پهپاد زیرآبی آمریکا",
+        "title_en": "Iran to begin reverse engineering of captured US underwater drone: IRGC",
+        "summary": [
+            "سپاه گفت پس از تصرف یک پهپاد زیرآبی آمریکایی، فرآیند مهندسی معکوس آغاز شده",
+            "این کار نشان‌دهنده توان فنی پیشرفته در مقابل تجهیزات غربی است"
+        ],
+        "impact": "تقویت توان دفاعی و کاهش برتری فنی آمریکا",
+        "tag": "فناوری",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "presstv",
+        "url": "https://www.presstv.co.uk/Detail/2026/09/22/776777/Reverse-engineering-of-captured-US-submersible-begin--IRGC-spokesman",
+        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/22/776777/Reverse-engineering-of-captured-US-submersible-begin--IRGC-spokesman",
+        "image": "https://cdn.presstv.co.uk/Photo/2026/9/21/360cd891-575e-4482-be87-89ef75d5d9e1.PNG",
+        "timestamp": 1789973029.0
     },
     {
         "id": "f710a6f6f1",
@@ -5240,133 +5367,5 @@
         "clean_url": "https://www.trend.az/azerbaijan/4226062.html",
         "image": "https://www.trend.az/media/2026/09/21/trend_viliam_davila.jfif",
         "timestamp": 1789936020.0
-    },
-    {
-        "id": "7a7cb20517",
-        "title_fa": "وکیل جدید جزئیات تیراندازی ICE را فاش کرد",
-        "title_en": "Austin ICE shooting: Attorney gives new details",
-        "summary": [
-            "وکیل مهاجرت خانواده گارسِس پرز، جزئیات جدیدی از تیراندازی در ایستگاه ICE ارائه داد",
-            "اطلاعات جدید می‌تواند نشانگر نقص در پروتکل‌های امنیتی یا رفتار نادرست مأموران باشد",
-            "افشای این جزئیات احتمالاً فشار عمومی برای بررسی رفتار ICE را تقویت می‌کند"
-        ],
-        "impact": "ممکن است درخواست‌های قانونی و نظارتی علیه ICE افزایش یابد",
-        "tag": "مهاجرت",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/videos/austin-ice-shooting-attorney-gives-192203525.html",
-        "clean_url": "https://www.yahoo.com/news/videos/austin-ice-shooting-attorney-gives-192203525.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/e62de08f6b0d4d46b96ef9a0dc0135a761cdc05de9f29752d31305f62b039069/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fktbc_fox_local_videos_395%2F76aa860f36a1ffcba1c37c1c8fe625b7.jpg",
-        "timestamp": 1789935763.0
-    },
-    {
-        "id": "ca14298815",
-        "title_fa": "استراتژیست: فساد ترامپ جهان را به‌هم می‌ریزد",
-        "title_en": "Trump's 'breathtaking' corruption has world feeling like it's 'coming apart': strategist",
-        "summary": [
-            "مقاله‌ای ادعا می‌کند فساد مالی و سیاسی ترامپ به‌طور گسترده احساس ناامنی ایجاد کرده",
-            "نویسنده به شکست‌های مدیریتی و عدم توانایی در حل بحران‌های کلان اشاره می‌کند",
-            "این ادعاها بدون ارائه شواهد مستند منتشر شده‌اند",
-            "واکنش‌های عمومی می‌تواند حمایت یا مخالفت‌های سیاسی را تشدید کند"
-        ],
-        "impact": "افزایش فشار عمومی بر ترامپ می‌تواند مانع از بازگشت او به قدرت شود",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "Raw Story on MSN",
-        "url": "https://www.msn.com/en-au/news/other/trump-s-breathtaking-corruption-has-world-feeling-like-it-s-coming-apart-strategist/ar-AA2cD8Zz?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/other/trump-s-breathtaking-corruption-has-world-feeling-like-it-s-coming-apart-strategist/ar-AA2cD8Zz",
-        "image": "https://www.bing.com/th?id=ONUT.emcnoECCo9Jw4aA2piEuKw",
-        "timestamp": 1789935702.411753
-    },
-    {
-        "id": "8af41585de",
-        "title_fa": "خبر بین‌المللی — Qatar PM describes fallout US-اسرائیل جنگ در ایران as ‘eart",
-        "title_en": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
-        "summary": [
-            "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’ Al Jazeera"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789935398.0
-    },
-    {
-        "id": "255439b05d",
-        "title_fa": "وایس‌پرسیدن ونس از ممنوعیت رسانه‌ای ترامپ حمایت کرد",
-        "title_en": "Vice President Vance defends President Trump's media ban as 'totally appropriate'",
-        "summary": [
-            "ونز، که خود را مدافع آزادی بیان می‌داند، ممنوعیت سه رسانه از کاخ سفید را «کاملاً مناسب» توصیف کرد.",
-            "این واکنش نشان می‌دهد که دولت ترامپ به‌طور فعال فضای خبری مخالف را محدود می‌کند و فشار بین‌المللی بر آزادی مطبوعات را افزایش می‌دهد."
-        ],
-        "impact": "محدود شدن دسترسی خبرگزاری‌های مخالف، فشار بر شفافیت داخلی و افزایش تنش‌های رسانه‌ای",
-        "tag": "آزادی_بیان",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/videos/vice-president-vance-defends-president-190400358.html",
-        "clean_url": "https://www.yahoo.com/news/videos/vice-president-vance-defends-president-190400358.html",
-        "image": "https://www.bing.com/th?id=ONUT.8kw4Gzbwh6FPceyXBhHjgA",
-        "timestamp": 1789934593.0
-    },
-    {
-        "id": "5d66449fe8",
-        "title_fa": "دیدگاه آیریش تایمز در مورد حملات حوثی‌ها: افزایش پیشروی در خلیج فارس",
-        "title_en": "The Irish Times view on Houthi attacks: upping the ante in the Gulf",
-        "summary": [
-            "Lightening military breakthroughs of rebel Houthi forces in Yemen have given Iran greater leverage in the Gulf war against the United State, disrupting world oil supplies, energy prices and bond..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/opinion/editorials/2026/09/20/the-irish-times-view-on-houthi-attacks-upping-the-ante-in-the-gulf/",
-        "clean_url": "https://www.irishtimes.com/opinion/editorials/2026/09/20/the-irish-times-view-on-houthi-attacks-upping-the-ante-in-the-gulf",
-        "image": "https://www.irishtimes.com/resizer/v2/RIRCI6TJNNTUY6QMS7R6ILWFAQ.jpg?smart=true&auth=75e759b6073fb9862a7470625ac0e8a152439d4ed2f1eeaba1658f64a047f19c&width=1200&height=630",
-        "timestamp": 1789933683.3956213
-    },
-    {
-        "id": "c9375acfaf",
-        "title_fa": "ترامپ: روسیه کنترل صنعت نفت را از دست داد",
-        "title_en": "Ukraine war live: Trump says Moscow lost control of oil industry",
-        "summary": [
-            "ادعای ترامپ فشار جدید غرب بر اقتصاد روسیه پس از حملات به پالایشگاه‌ها را نشان می‌دهد",
-            "اگر درست باشد، کاهش تولید نفت روسیه می‌تواند قیمت جهانی را بالا ببرد و تحریم‌ها را تقویت کند",
-            "این حرف ممکن است برای تقویت موقعیت ترامپ پیش از انتخابات به کار رفته باشد",
-            "واکنش روسیه هنوز نامشخص؛ احتمال رد ادعا یا تشدید حملات به زیرساخت‌ها وجود دارد"
-        ],
-        "impact": "کاهش توان مالی روسیه و تشدید فشار تحریمی",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/ukraine-war-live-trump-says-moscow-lost-control-of-oil-industry/ar-AA2cDPWD?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/ukraine-war-live-trump-says-moscow-lost-control-of-oil-industry/ar-AA2cDPWD",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789933640.0
-    },
-    {
-        "id": "c9c529c0b9",
-        "title_fa": "جمهوری‌خواهان با کاهش امیدهای میان‌دوره‌ای، واقعیت‌های متناوب را ایجاد می‌کنند",
-        "title_en": "Republicans craft alternate reality as their midterm hopes dwindle",
-        "summary": [
-            "So Republican leaders telling Americans that the GOP has made things better when voters are saying the exact opposite is … something. As actor Jason Bateman said in the 2004 comedy “Dodgeball: A True..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Kos",
-        "url": "https://www.dailykos.com/stories/2026/9/20/800100010/series/gop-alternate-reality-midterms-2026/",
-        "clean_url": "https://www.dailykos.com/stories/2026/9/20/800100010/series/gop-alternate-reality-midterms-2026",
-        "image": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/09/Congressional-Cowards-1.png",
-        "timestamp": 1789933092.9698799
     }
 ]
