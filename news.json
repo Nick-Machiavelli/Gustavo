@@ -1,5 +1,23 @@
 [
     {
+        "id": "f39796fa30",
+        "title_fa": "اولین حضور بُرنهم در مجمع عمومی: ملاقات با ترامپ",
+        "title_en": "The UN General Assembly’s true value lies in the encounters that it facilitates",
+        "summary": [
+            "اندی برنهم برای نخستین بار در مجمع عمومی نیویورک حضور یافت و ملاقاتش با ترامپ به عنوان مهم‌ترین نقطهٔ روزهای اول برنامه‌ریزی شد.",
+            "این دیدار نشان می‌دهد که حتی رهبران کشورهای بزرگ، برای حضور در صحنهٔ جهانی، مجبورند با رقبای سخت‌گیر مانند ترامپ تعامل داشته باشند."
+        ],
+        "impact": "تأثیر محدود؛ فقط نشان‌دهندهٔ دینامیک دیپلماتیک بین ایالات متحده و بریتانیا در چارچوب مجمع عمومی است.",
+        "tag": "دیپلماتیک",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Monocle",
+        "url": "https://monocle.com/affairs/diplomacy/new-york-united-nations-general-assembly/",
+        "clean_url": "https://monocle.com/affairs/diplomacy/new-york-united-nations-general-assembly",
+        "image": "https://www.bing.com/th?id=ONUT.KoYakJXmOEEWhFmATwgWiw",
+        "timestamp": 1790120027.1811202
+    },
+    {
         "id": "8bbb4e444c",
         "title_fa": "خبر بین‌المللی — 10 Februarie 2026",
         "title_en": "10 Februarie 2026",
@@ -910,6 +928,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHlfaF85em55RjZHa3VUZnlpME1GTnNQTmdxdFRiYktLd2Y1c1ZpQUNPUF9ma1RqSFE1QVJJdXRYM21ZUGJfWEhNVDBVMHk2OGNMSFpYMVB2cVg2Tk92aUgzQkxSWGlhYVZjUDdyMTg5dnVFNFQyTlRqanFxRzFLS0twcXZEcFk0RlR6M0hhdlU4ajNhdURycVdfTWRnQ0pYR0h2SzBieTJBVmo3d3FmeWhyaVpiZzZOMm84",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790089259.0
+    },
+    {
+        "id": "b210180251",
+        "title_fa": "مکرون: تغییر حکومت از طریق بمباران عملی نیست",
+        "title_en": "مکرون: تغییر حکومت از طریق بمباران یک کشور عملی نیست",
+        "summary": [
+            "امانوئل مکرون تأکید کرد که استفاده از بمباران برای سرنگونی حکومت ایران، راه‌حل عملی نیست و در سیاست خارجی اروپا جایگاهی ندارد.",
+            "در عین حال، ترامپ گفت «تحرک زیادی» برای رسیدن به توافق با ایران دارد؛ این تضاد نشان‌دهندهٔ اختلاف رویکردهای غربی نسبت به ایران است."
+        ],
+        "impact": "احتمال کاهش حمایت‌های نظامی غربی برای تغییر رژیم؛ فشار بیشتر به سمت دیپلماسی و تحریم‌های اقتصادی.",
+        "tag": "سیاست_خارجی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609228199",
+        "clean_url": "https://www.iranintl.com/202609228199",
+        "image": "http://www.bing.com/th?id=ONUT.UkCYMfJrS1xVH37zVk7EHw&pid=News",
+        "timestamp": 1790088840.0
     },
     {
         "id": "74e8605463",
@@ -2682,6 +2718,24 @@
         "clean_url": "https://tass.com/world/2191235",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1790064840.0
+    },
+    {
+        "id": "bd43170da4",
+        "title_fa": "ترامپ: یا توافق یا نابودی رژیم ایران",
+        "title_en": "Trump defends US interventions abroad ahead of 'big decision' on Iran: 'Settling years of unfinished business'",
+        "summary": [
+            "رنگ‌سفید ترامپ در مجمع عمومی سازمان ملل، تهدید به «نابودی» رژیم ایران را به عنوان گزینهٔ نهایی مطرح کرد؛ این سخن‌باران فشار نظامی را به سطح دیپلماتیک می‌برد.",
+            "بیان این انتخاب سخت، نشان می‌دهد ایالات متحده قصد دارد با تهدید مستقیم، مذاکرات هسته‌ای را تسریع کند و حریفان داخلی ایران را تحت فشار بگذارد."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک و احتمال اعمال تحریم‌های جدید؛ بازار نفت و ارز ایران تحت فشار می‌گیرد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-defends-us-interventions-abroad-ahead-of-big-decision-on-iran-settling-years-of-unfinished-business/ar-AA2cLfry",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-defends-us-interventions-abroad-ahead-of-big-decision-on-iran-settling-years-of-unfinished-business/ar-AA2cLfry",
+        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790064659.0
     },
     {
         "id": "771bd00058",
@@ -5260,57 +5314,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fcUdSU0NaUWVzYzRKenc3MmlucHlHSEx1UzY1bXhiNGN3MEx6cjhkYjV3dGNhVTVqMUo4MkFJTHR4LTVqZkVGUmJ1dDVNMlZBZVQyYjAxbm9obzBaZGwySVZ2YnlCdkp1Mnc",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790021160.0
-    },
-    {
-        "id": "b8bab0e250",
-        "title_fa": "ترامپ: تصمیم بین توافق یا فرستادن ایران به جهنم",
-        "title_en": "Trump says he's deciding between deal or driving Iran \"into hell\"",
-        "summary": [
-            "در مجمع عمومی سازمان ملل ترامپ گفت تصمیم‌گیری بین معامله یا تخریب کامل ایران دارد",
-            "به جلسهٔ سه ساعته با تیمی شامل استیو ویتکاف و جرد کوشنر اشاره کرد اما جزئیات مذاکرات را فاش نکرد"
-        ],
-        "impact": "احتمال افزایش تحریم‌های سخت و ریسک نظامی، فشار بر مذاکرات هسته‌ای",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/iran-warns-u-assault-see-092924465.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/iran-warns-u-assault-see-092924465.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/79545553ab307f54959492d3f57744008b1dc04151a8046b23bffe0e75d86f58/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb5127e215d7f9b1d6b60916046e3c1b5.jpg",
-        "timestamp": 1790020989.0
-    },
-    {
-        "id": "b752054c59",
-        "title_fa": "خبر بین‌المللی — Articole despre \"ci-tuiasi-admitere-masterat\"",
-        "title_en": "Articole despre \"ci-tuiasi-admitere-masterat\"",
-        "summary": [
-            "Ministrul Apărării Naționale, Radu Miruță, a afirmat luni, 12 ianuarie, că Guvernul urmează să își asume răspunderea în vederea diminuării cu 10% a fondului de salarii în instituțiile..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/ci-tuiasi-admitere-masterat-pag266",
-        "clean_url": "https://ziare.com/cautare/ci-tuiasi-admitere-masterat-pag266",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1790020989.0
-    },
-    {
-        "id": "a976391386",
-        "title_fa": "خبر بین‌المللی — ترامپ says officials from US و ایران met در New York",
-        "title_en": "Trump says officials from US and Iran met in New York",
-        "summary": [
-            "Officials from the United States and Iran met on Tuesday on the sidelines of the UN General Assembly in New York, US President Donald Trump said. The talks on Tuesday went \"very well\" and lasted..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-says-officials-us-iran-190332913.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-officials-us-iran-190332913.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/b4d7b87c6d4b21145d5d51f19c565b0044049dc60fd41104e0cf0782b95f54e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fefb200b5e637b0358a5fb9677a41a2c6.jpg",
-        "timestamp": 1790020988.0
     }
 ]
