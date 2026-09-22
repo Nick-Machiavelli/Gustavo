@@ -89,6 +89,26 @@
         "timestamp": 1790043195.323405
     },
     {
+        "id": "027a34d58c",
+        "title_fa": "حرس IRGC: آمریکا و اسرائیل باید از خلیج خروج کنند",
+        "title_en": "Iran war live: IRGC says US, Israel 'must accept withdrawal' from region",
+        "summary": [
+            "IRGC به صراحت خواستار خروج حضور «جنایتکار» آمریکا و اسرائیل از خلیج فارس شد",
+            "ناوگان تجاری بریتانیا گزارش داد یک کشتی دیگر توسط پرتاب ناشناخته آسیب دید",
+            "سخن‌مانند مایک والتز اشاره کرد ترامپ مصمم است مانع توسعه سلاح هسته‌ای ایران شود",
+            "این تبادل تهدیدها می‌تواند فشار بر مسیرهای نفتی را افزایش دهد"
+        ],
+        "impact": "افزایش خطر اختلال در حمل و نقل نفتی خلیج فارس و تشدید تنش‌های نظامی منطقه",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-16T102857Z_1194214241_RC27KNALS9D3_RTRMADP_3_IRAN-CRISIS-1790031216.jpg?resize=1920%2C1440",
+        "timestamp": 1790042940.0
+    },
+    {
         "id": "90fe105362",
         "title_fa": "خبر بین‌المللی — Binance under US scrutiny over possible ایران تحریم‌ها viola",
         "title_en": "Binance under US scrutiny over possible Iran sanctions violations, Bloomberg News reports",
@@ -5341,23 +5361,6 @@
         "url": "https://www.aol.co.uk/articles/houthis-move-seize-strategic-terrain-161438000.html",
         "clean_url": "https://www.aol.co.uk/articles/houthis-move-seize-strategic-terrain-161438000.html",
         "image": "https://hermes.media.static.aol.com/media/2026/09/21/84dcf4f9-f474-39c0-a412-f7535d54265d/77fd39db-0a57-4f81-b9be-1ab947e4070a.jpg",
-        "timestamp": 1789924828.0
-    },
-    {
-        "id": "c43327e76e",
-        "title_fa": "شاخص FTSE 100 با کاهش قیمت نفت به امید مذاکرات ایران و آمریکا، صعود کرد",
-        "title_en": "FTSE 100 climbs as oil prices dip on US-Iran talks hope",
-        "summary": [
-            "In London, the FTSE 100 index ended up 79.88 points, or 0.8%, at 10,739.01. The FTSE 250 rose 285.95 points, 1.2%, to 24,491.37, but the AIM all-share fell 0.69 of a point, 0.1%, to 795.40."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "London Evening Standard",
-        "url": "https://www.standard.co.uk/business/business-news/jd-sports-iran-un-general-assembly-aj-bell-strait-of-hormuz-b1297824.html",
-        "clean_url": "https://www.standard.co.uk/business/business-news/jd-sports-iran-un-general-assembly-aj-bell-strait-of-hormuz-b1297824.html",
-        "image": "https://static.standard.co.uk/2026/09/21/17/342e41e98a1dfcda8e19d42ffe88ddf8Y29udGVudHNlYXJjaGFwaSwxNzkwMDg5MDgw-2.82985246.jpg?width=1200&auto=webp&quality=75",
         "timestamp": 1789924828.0
     }
 ]
