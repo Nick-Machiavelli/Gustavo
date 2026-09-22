@@ -1,5 +1,23 @@
 [
     {
+        "id": "260eefe50c",
+        "title_fa": "یک روز آرام در پارک Tuckahoe، مریلند",
+        "title_en": "A day at Tuckahoe State Park, Maryland",
+        "summary": [
+            "بازدیدکنندگان در پارک Tuckahoe از طبیعت و غذاهای ساده لذت بردند.",
+            "فضای باز و امکانات تفریحی، فرصت مناسبی برای استراحت فراهم کرد."
+        ],
+        "impact": "تقویت گردشگری محلی و ارتقای رفاه شهروندان",
+        "tag": "زندگی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Facebook on MSN",
+        "url": "https://www.msn.com/en-nz/news/other/a-day-at-tuckahoe-state-park-maryland/vi-AA2cMiKF?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-nz/news/other/a-day-at-tuckahoe-state-park-maryland/vi-AA2cMiKF",
+        "image": "https://www.bing.com/th?id=ONUT.Xm7oX_BJy4yupXEDjGCCoQ",
+        "timestamp": 1790113721.0246248
+    },
+    {
         "id": "b8494e5d8b",
         "title_fa": "ترامپ در مجمع عمومی: تغییر نام هوش مصنوعی",
         "title_en": "Trump rants to UN about Iran and AI",
@@ -4017,6 +4035,81 @@
         "timestamp": 1790028000.0
     },
     {
+        "id": "3aedc60114",
+        "title_fa": "ترامپ جلسه آمریکا‑ایران را تأیید کرد",
+        "title_en": "As Trump confirms US-Iran meeting, can Pezeshkian find at UN path to a deal?",
+        "summary": [
+            "ترامپ اعلام کرد مذاکراتی با ایران در نیویورک برگزار شد.",
+            "او اشاره کرد که میانجیگری‌های استیو ویتکاف و جرد کوشنر پیشرفت داشته‌اند.",
+            "حضور وزیر علوم ایران، پزeshkian، در سازمان ملل می‌تواند مسیر توافق را هموار کند."
+        ],
+        "impact": "راه‌اندازی مذاکرات ممکن است فشارهای اقتصادی را کاهش دهد",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2026/09/trump-confirms-us-iran-meeting-can-pezeshkian-find-un-path-deal",
+        "clean_url": "https://www.al-monitor.com/originals/2026/09/trump-confirms-us-iran-meeting-can-pezeshkian-find-un-path-deal",
+        "image": "https://www.bing.com/th?id=ONUT.Vh9YgQhvO5ytGSoaIWOOmQ",
+        "timestamp": 1790027314.0
+    },
+    {
+        "id": "4578b72352",
+        "title_fa": "ارجنتین ۷ ایرانی و یک حماس‌دار را در پرونده آمیا متهم کرد",
+        "title_en": "AMIA bombing: Why Argentina is charging Iran and Hezbollah suspects 32 years later",
+        "summary": [
+            "دادگاه آرژانتین هفت مقام ایرانی و یک عضو حزب‌الله را به اتهام ترور ۱۹۹۴ امیا متهم کرد.",
+            "این پرونده پس از ۳۲ سال به مرحله تعقیب قضایی رسیده و احتمال محاکمه غیربحضوری وجود دارد.",
+            "اتهام‌ها می‌تواند فشار دیپلماتیک جدیدی بر روابط ایران‑آرژانتین ایجاد کند."
+        ],
+        "impact": "تحریم‌های احتمالی و محدودیت‌های دیپلماتیک برای ایران",
+        "tag": "قضایی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "i24NEWS",
+        "url": "https://www.i24news.tv/en/news/international/latin-america/artc-amia-bombing-why-argentina-is-charging-iran-and-hezbollah-suspects-32-years-later",
+        "clean_url": "https://www.i24news.tv/en/news/international/latin-america/artc-amia-bombing-why-argentina-is-charging-iran-and-hezbollah-suspects-32-years-later",
+        "image": "https://www.bing.com/th?id=ONUT.awclQvl48fTIx-2SVzkG6w",
+        "timestamp": 1790027314.0
+    },
+    {
+        "id": "f258f19fe0",
+        "title_fa": "مدبولی خواستار تغییر نظام مالی جهانی به سمت جنوب جهانی",
+        "title_en": "Egypt’s Madbouly calls for reorienting international financial system towards Global South",
+        "summary": [
+            "نخست‌وزیر مصر در جلسه‌ای در نیویورک خواستار عدالت بیشتر در نظام مالی بین‌المللی شد.",
+            "او تأکید کرد که سیستم فعلی نیاز به بازنگری برای پاسخ به نیازهای کشورهای جنوب دارد.",
+            "این دعوت می‌تواند زمینه همکاری‌های اقتصادی جدید بین‌المللی را فراهم کند."
+        ],
+        "impact": "تقویت نقش کشورهای در حال توسعه در تصمیم‌گیری‌های مالی جهانی",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Daily News Egypt",
+        "url": "https://www.dailynewsegypt.com/2026/09/22/egypts-madbouly-calls-for-reorienting-international-financial-system-towards-global-south/",
+        "clean_url": "https://www.dailynewsegypt.com/2026/09/22/egypts-madbouly-calls-for-reorienting-international-financial-system-towards-global-south",
+        "image": "https://www.bing.com/th?id=ONUT.NNj4czI69-9M9JtKnZNedQ",
+        "timestamp": 1790027314.0
+    },
+    {
+        "id": "7b37c5e68c",
+        "title_fa": "تهدید ترامپ به بمباران کوه کلنگ گزلا",
+        "title_en": "تهدید دوباره ترامپ: آمریکا به مجموعه زیرزمینی کوه «کلنگ گزلا» حمله میکند",
+        "summary": [
+            "ترامپ گفت ممکن است ایالات متحده کوه کلنگ گزلا، زیرزمینی نزدیک تسهیلات غنی‌سازی نطنز، را منفجر کند.",
+            "این اظهارات فشار نظامی مستقیم بر ایران را نشان می‌دهد و خطر تشدید تنش‌های هسته‌ای را افزایش می‌دهد."
+        ],
+        "impact": "احتمال حمله هوایی به زیرساخت هسته‌ای ایران و تشدید تحریم‌ها",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609229256",
+        "clean_url": "https://www.iranintl.com/202609229256",
+        "image": "https://www.bing.com/th?id=ONUT.Lpsj4UG3DuOrHpgQ7xfV-A",
+        "timestamp": 1790027314.0
+    },
+    {
         "id": "834bd0a088",
         "title_fa": "ترامپ tells UN he has 'big decision به make' در US-ایران جنگ",
         "title_en": "Trump tells UN he has 'big decision to make' in US-Iran war",
@@ -5218,91 +5311,5 @@
         "clean_url": "https://www.iranintl.com/202609221259",
         "image": "https://www.bing.com/th?id=ONUT.XJ5cIavKm_S7a0LLNvM_Iw",
         "timestamp": 1790012836.0
-    },
-    {
-        "id": "16f64c4861",
-        "title_fa": "گوگل با انرژی هسته‌ای پروژه هوش مصنوعی را تقویت می‌کند",
-        "title_en": "Google taps nuclear power to fuel the AI boom",
-        "summary": [
-            "کایروس پاور و سامسونگ C&T با هم یک رآکتور هسته‌ای می‌سازند تا برق مورد نیاز دیتاسنترهای گوگل را تأمین کنند.",
-            "استفاده از انرژی هسته‌ای می‌تواند هزینه‌های انرژی هوش مصنوعی را به‌طور چشمگیری پایین آورد و فشار کربن را کاهش دهد."
-        ],
-        "impact": "تامین برق ارزان و پایدار برای دیتاسنترهای گوگل، هزینه‌های انرژی AI را کاهش می‌دهد",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "Dailymotion on MSN",
-        "url": "https://www.msn.com/en-us/video/other/google-taps-nuclear-power-to-fuel-the-ai-boom/vi-AA2cLyaC?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/video/other/google-taps-nuclear-power-to-fuel-the-ai-boom/vi-AA2cLyaC",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790012835.0
-    },
-    {
-        "id": "d962616aac",
-        "title_fa": "ترامپ در حالی که ایران را در مقابل رهبران جهان در مجمع سازمان ملل تهدید می‌کند، «تاریک ترین هشدار» را ارائه می‌دهد",
-        "title_en": "Trump delivers 'darkest warning yet' as he threatens Iran in front of world leaders at UN Assembly",
-        "summary": [
-            "Donald Trump threatened to 'annihilate' Iran if regime refuses to capitulate today, in front of an entire assembly of World leaders. Mr Trump opens his speech to the UN with a lengthy series of brags..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "YouTube on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/trump-delivers-darkest-warning-yet-as-he-threatens-iran-in-front-of-world-leaders-at-un-assembly/vi-AA2cLlFf?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/trump-delivers-darkest-warning-yet-as-he-threatens-iran-in-front-of-world-leaders-at-un-assembly/vi-AA2cLlFf",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790012386.0
-    },
-    {
-        "id": "dfa63f57d6",
-        "title_fa": "سرآشپز رمزی در سرویس نهایی مرغ خام و استیک های نیم پز را صدا می‌کند",
-        "title_en": "Chef Ramsay calls out raw chicken and undercooked steaks in final service",
-        "summary": [
-            "Final dinner service gets tense fast as both Alex and Dafne run into major protein problems. Alex’s kitchen starts slowly when Brett serves raw hushpuppies, then things get worse when his fried..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Hell's Kitchen on MSN",
-        "url": "https://www.msn.com/en-us/news/other/chef-ramsay-calls-out-raw-chicken-and-undercooked-steaks-in-final-service/vi-AA2cLlGd?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/chef-ramsay-calls-out-raw-chicken-and-undercooked-steaks-in-final-service/vi-AA2cLlGd",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790012386.0
-    },
-    {
-        "id": "b74d7ea37f",
-        "title_fa": "نتانیاهو سفر خود به نیویورک را در میان اعتراضات و تهدید ممدانی به بازداشت کوتاه کرد",
-        "title_en": "Netanyahu cuts short NYC visit amid protests, Mamdani arrest threat",
-        "summary": [
-            "Netanyahu will spend just hours in New York amid planned protests, as Israeli reports cite concerns over Mayor Zohran Mamdani..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/netanyahu-cuts-short-nyc-trip-amid-protests-mamdani-arrest-fear",
-        "clean_url": "https://www.newarab.com/news/netanyahu-cuts-short-nyc-trip-amid-protests-mamdani-arrest-fear",
-        "image": "https://www.bing.com/th?id=ONUT.0NPSMmI7oZdUERaG6S6X1w",
-        "timestamp": 1790012386.0
-    },
-    {
-        "id": "858e84f14d",
-        "title_fa": "بررسی کتاب: «قوانین سلیمان» قلب لطیف سرباز کودک سابق را آشکار می‌کند",
-        "title_en": "BOOK REVIEW: ‘Laws of Solomon’ Reveals Tender Heart of Former Child Soldier",
-        "summary": [
-            "The monsters that came to him early in his sleep were the easy ones. It was the later demons that stole Solomon Nangobi’s sleep, the spirits of all the people he killed when he was a child soldier in..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "BlackPressUSA",
-        "url": "https://blackpressusa.com/book-review-laws-of-solomon-reveals-tender-heart-of-former-child-soldier/",
-        "clean_url": "https://blackpressusa.com/book-review-laws-of-solomon-reveals-tender-heart-of-former-child-soldier",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790012077.0
     }
 ]
