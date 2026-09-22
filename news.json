@@ -1174,6 +1174,26 @@
         "timestamp": 1790052240.0
     },
     {
+        "id": "5b2516c125",
+        "title_fa": "لهستان هدف خود را به‌عنوان مرکز گاز اروپا می‌گذارد",
+        "title_en": "Poland aims to become gas hub for Europe, minister says",
+        "summary": [
+            "لهستان قصد دارد LNG آمریکایی را از طریق بنادر خود به اروپا توزیع کند",
+            "مذاکرات با یونان برای کنترل تأمین گاز از جنوب در حال پیشرفت است",
+            "طرح می‌تواند نقش لهستان را در بازار انرژی اروپا تقویت کند",
+            "رقابت با روسیه و فشار بر مسیرهای گاز موجود ادامه دارد"
+        ],
+        "impact": "تقویت امنیت انرژی اروپا و کاهش وابستگی به گاز روسی",
+        "tag": "انرژی",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2191111",
+        "clean_url": "https://tass.com/economy/2191111",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790052180.0
+    },
+    {
         "id": "b0fc643677",
         "title_fa": "چین برتری می‌یابد؛ آمریکا در خاورمیانه به خطر",
         "title_en": "China is outfoxing the US in the battle for Mideast influence",
@@ -3172,6 +3192,66 @@
         "clean_url": "https://www.thebulwark.com/p/donald-trump-ai-hubris-is-a-blue-democratic-opportunity",
         "image": "https://substackcdn.com/image/fetch/$s_!BQcZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5efc1345-e8cc-4488-9fa7-c9bd34fe9aa5_3000x1688.png",
         "timestamp": 1789999399.7025142
+    },
+    {
+        "id": "4943da5203",
+        "title_fa": "دستیاران جِی‌دی ونس برای رقابت شدید ۲۰۲۸ آماده می‌شوند",
+        "title_en": "JD Vance aides privately brace for brutal 2028 primary fight as Fox News favorite senator threatens presidential run",
+        "summary": [
+            "دستیاران ونس پیش‌بینی می‌کنند رقابت اولیه ۲۰۲۸ به‌شدت خواهد شد",
+            "او به‌عنوان گزینه‌ای مورد حمایت فاکس نیوز، احتمال نامزدی ریاست‌جمهوری را دارد",
+            "رقیبانی چون تد کروز به سوابق او در ایران انتقاد می‌کنند",
+            "این جدال می‌تواند خطوط داخلی حزب را بازنویسی کند"
+        ],
+        "impact": "تقویت رقابت داخلی جمهوری‌حرفه و تأثیر بر استراتژی‌های انتخابات ۲۰۲۸",
+        "tag": "انتخابات",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Daily Mail",
+        "url": "https://www.dailymail.com/news/article-16151171/jd-vance-2028-primary-fight.html",
+        "clean_url": "https://www.dailymail.com/news/article-16151171/jd-vance-2028-primary-fight.html",
+        "image": "https://i.dailymail.com/1s/2026/09/22/13/111396249-0-image-a-8_1790079813640.jpg",
+        "timestamp": 1789999380.0
+    },
+    {
+        "id": "0f9b2f3249",
+        "title_fa": "رئیس‌جمهور ایران به‌سوی آمریکا سفر می‌کند",
+        "title_en": "Iran’s President Travels to U.S. Against Backdrop of War",
+        "summary": [
+            "سفر رئیس‌جمهور به آمریکا در حالی‌که روابط دو کشور در اوج تنش است",
+            "سخنان تند او نشان‌دهنده ریسک تشدید دیپلماسی و احتمال واکنش‌های متقابل",
+            "حضور در نشست سالانه برای بحث درباره تحریم‌ها و مسیر هسته‌ای پیش‌بینی می‌شود",
+            "این حرکت می‌تواند فشار داخلی بر رهبری را افزایش دهد"
+        ],
+        "impact": "تقویت فشار دیپلماتیک آمریکا و احتمال اعمال تحریم‌های جدید علیه ایران",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/22/world/middleeast/iran-war-un-general-assembly-pezeshkian.html",
+        "clean_url": "https://www.nytimes.com/2026/09/22/world/middleeast/iran-war-un-general-assembly-pezeshkian.html",
+        "image": "https://www.bing.com/th?id=ONUT.Yj3kN6SThTGqPUTPGvQvLQ",
+        "timestamp": 1789999379.0
+    },
+    {
+        "id": "e247becc3f",
+        "title_fa": "ام‌ئی‌سی باز به مذاکرات ایران در سازمان ملل",
+        "title_en": "US open to meeting Iran at UN as conflicting reports over peace deal swirl",
+        "summary": [
+            "گزارش‌های متناقض درباره توافق بازگشایی هورموز در هفت روز منتشر شد",
+            "ایالات متحده آمادگی ملاقات با ایران در سازمان ملل را اعلام کرد",
+            "این اظهارات می‌تواند به کاهش تنش‌های دریایی منجر شود",
+            "عدم قطعیت در اجرای توافق ریسک ادامه تحریم‌ها را حفظ می‌کند"
+        ],
+        "impact": "احتمال کاهش فشار اقتصادی بر ایران در صورت بازگشایی هورموز",
+        "tag": "هورموز",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/us-open-to-meeting-iran-at-un-as-conflicting-reports-over-peace-deal-swirl/ar-AA2cKsZw?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/us-open-to-meeting-iran-at-un-as-conflicting-reports-over-peace-deal-swirl/ar-AA2cKsZw",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789999379.0
     },
     {
         "id": "c722cd05a0",
@@ -5275,73 +5355,5 @@
         "clean_url": "https://www.msn.com/en-ca/money/topstories/irans-revolutionary-guard-warns-us-over-escalation-and-other-mideast-developments/ar-AA2cFHUb",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789978271.0
-    },
-    {
-        "id": "095de9efeb",
-        "title_fa": "خبر بین‌المللی — چین و US are competing برای AI dominance but have shared co",
-        "title_en": "China and the US are competing for AI dominance but have shared concerns over safety",
-        "summary": [
-            "U.S. President Donald Trump and Chinese leader Xi Jinping, leaders of rival nations in a race to dominate artificial intelligence, are expected to meet this week against a backdrop of rising concerns..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Press Democrat",
-        "url": "https://www.pressdemocrat.com/2026/09/21/china-us-ai-dominance-safety-concerns/",
-        "clean_url": "https://www.pressdemocrat.com/2026/09/21/china-us-ai-dominance-safety-concerns",
-        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/09/AI_Safety_US_China_What_to_Know_69918-1.jpg?w=2000&h=1333",
-        "timestamp": 1789978260.0
-    },
-    {
-        "id": "3295fe72d6",
-        "title_fa": "خبر بین‌المللی — JD Vance forced به apologize during political rally: \"I prom",
-        "title_en": "JD Vance forced to apologize during political rally: \"I promise that was an accident\"",
-        "summary": [
-            "Political rallies are usually carefully designed to produce a memorable line or two. JD Vance certainly managed that in North..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Dagens.com on MSN",
-        "url": "https://www.msn.com/en-nz/news/other/jd-vance-forced-to-apologize-during-political-rally-i-promise-that-was-an-accident/ar-AA2cJ7fx?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-nz/news/other/jd-vance-forced-to-apologize-during-political-rally-i-promise-that-was-an-accident/ar-AA2cJ7fx",
-        "image": "https://www.bing.com/th?id=ONUT.87zyY7Y_udv7gu6EeEY40Q",
-        "timestamp": 1789977790.0
-    },
-    {
-        "id": "503fc55db6",
-        "title_fa": "خبر بین‌المللی — Federal Reserve official says fighting inflation likely به b",
-        "title_en": "Federal Reserve official says fighting inflation likely to be ‘painful’",
-        "summary": [
-            "A top Federal Reserve official said Monday that the central bank may have to cause economic pain in the form of higher unemployment to combat stubbornly high inflation."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/inflation-goolsbee-federal-reserve-rates-5acf1f7e4f38ac77329fa0b9aaddd30f",
-        "clean_url": "https://apnews.com/article/inflation-goolsbee-federal-reserve-rates-5acf1f7e4f38ac77329fa0b9aaddd30f",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789977600.0
-    },
-    {
-        "id": "37874679ce",
-        "title_fa": "خبر بین‌المللی — Latest: MS NOW, CNN و Politico file lawsuit against ترامپ ب",
-        "title_en": "The Latest: MS NOW, CNN and Politico file lawsuit against Trump to restore White House access",
-        "summary": [
-            "CNN, MS NOW and Politico say they’ve notified President Donald Trump’s administration that they’re filing a lawsuit over being denied White House access. Reporters from the three major news..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/the-latest-cnn-ms-now-and-politico-say-they-re-suing-over-denied-white-house-access/ar-AA2cFYbv",
-        "clean_url": "https://www.msn.com/en-us/news/other/the-latest-cnn-ms-now-and-politico-say-they-re-suing-over-denied-white-house-access/ar-AA2cFYbv",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789977440.0
     }
 ]
