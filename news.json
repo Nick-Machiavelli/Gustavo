@@ -1,5 +1,23 @@
 [
     {
+        "id": "41b3694016",
+        "title_fa": "عربستان کارت کاهش تنش را به کار می‌گیرد",
+        "title_en": "Saudi is playing the de-escalation card",
+        "summary": [
+            "عربستان اعلام کرد که در حال استفاده از کارت کاهش تنش است",
+            "جزئیات مشخصی دربارهٔ اقدام یا سیاست جدید ارائه نشده"
+        ],
+        "impact": "امکان تغییر مسیر دیپلماتیک در منطقه، اما عدم شفافیت مانع ارزیابی دقیق می‌شود",
+        "tag": "دیپلماتیک",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/webtv/programs/w-news/2026/09/22/saudi-is-playing-the-deescalation-card-iran-is-making-a-bigger-war",
+        "clean_url": "https://english.alarabiya.net/webtv/programs/w-news/2026/09/22/saudi-is-playing-the-deescalation-card-iran-is-making-a-bigger-war",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790087069.7408903
+    },
+    {
         "id": "0c8450f473",
         "title_fa": "تجلیل نیروهای امنیتی و نظامی 200 شب راهپیمایی سراسری به عنوان دلیلی بر قدرت ایران",
         "title_en": "Top security, military brass hail 200 nights of nationwide rallies as proof of Iran’s strength",
@@ -49,6 +67,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHFVWHVmRkJDV09JMHNSQ2RvNk5zS2NwN3lwZ3lNOFNLd0tUdjZHS09lMUhZdHBCWXZUQ1NJUHh5cUxmYlU4NjNTRGRtWDJ3UkFpb05jS1U2R2huempndzFvVEtqZmV1RjN2cTRJWWYybEpQSkptR2NjLWFySUtUeDdXMmdBd0N4dktqeGN6WjdTOGVfQXZJLVgyX2k1RTlzbDZncmktWlI",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790084762.0
+    },
+    {
+        "id": "eda85789b8",
+        "title_fa": "روبینو: ایران ممکن است به «کره شمالی خاورمیانه» تبدیل شود",
+        "title_en": "'North Korea in the Middle East': Marco Rubio warns of the possibility of nuclear Iran",
+        "summary": [
+            "مارکو روبینو هشدار داد ایران می‌تواند به «کره شمالی خاورمیانه» تبدیل شود",
+            "او خطر گسترش برنامه هسته‌ای ایران را به‌صورت جدی بیان کرد"
+        ],
+        "impact": "تشدید فشار سیاسی بر ایران و احتمال اعمال تحریم‌های جدید",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YUnBUTWRlUklZaXYxbnJ0U1N4X2dMQnIyNm8tc1ZQTE04ZEVxV0xxS2JIUmlPd1lHWER3dE9Ddmc0OGlYaDFyR1JXRE1ZU3hWajl6SUJld0tXRkF5V2pyVkYxcXBFWlBucVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YUnBUTWRlUklZaXYxbnJ0U1N4X2dMQnIyNm8tc1ZQTE04ZEVxV0xxS2JIUmlPd1lHWER3dE9Ddmc0OGlYaDFyR1JXRE1ZU3hWajl6SUJld0tXRkF5V2pyVkYxcXBFWlBucVE",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790084517.0
     },
     {
         "id": "1a066da2fb",
@@ -137,6 +173,41 @@
         "clean_url": "https://www.forbes.com/sites/arielcohen/2026/09/22/iran-to-take-global-economy-hostage-boost-energy-prices-inflation",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790083464.1991413
+    },
+    {
+        "id": "1e3c1be5d5",
+        "title_fa": "ترامپ قصد دارد در آخرین حضور در سازمان ملل از جنگ در ایران دفاع کند",
+        "title_en": "Trump Set to Defend War in Iran in Latest Appearance at the UN",
+        "summary": [
+            "Trump Set to Defend War in Iran in Latest Appearance at the UN Bloomberg.com"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLW1kbDZ3MjRQYi1COTBNQlE4bVBGdXl3VG9MOGFOQlVUS0tCVUl4YjUzYXNCZ1otNFBXcGRYU29GUXVBTnhzTXhqYllvWUdpcUxsSG8waWRkMEdybnVGREFwR2ttam9vYTVZX0dYMk1PRXpvbDBXVmhlbUVBalYxNnltQTBPNERBTHlvZmhwOG9mT3lFamhtcGkzbWNmOWhYR3NCTTBienlCNUZyT25VQXNCYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLW1kbDZ3MjRQYi1COTBNQlE4bVBGdXl3VG9MOGFOQlVUS0tCVUl4YjUzYXNCZ1otNFBXcGRYU29GUXVBTnhzTXhqYllvWUdpcUxsSG8waWRkMEdybnVGREFwR2ttam9vYTVZX0dYMk1PRXpvbDBXVmhlbUVBalYxNnltQTBPNERBTHlvZmhwOG9mT3lFamhtcGkzbWNmOWhYR3NCTTBienlCNUZyT25VQXNCYw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790083344.0
+    },
+    {
+        "id": "ed1560f616",
+        "title_fa": "نزدیک به دو سوم مردم، جنگ ایران‑آمریکا را ناموفق می‌دانند",
+        "title_en": "Almost 2 in 3 say US not winning Iran war: Survey",
+        "summary": [
+            "نظرسنجی نشان می‌دهد 63٪ آمریکایی معتقدند جنگ ایران‑آمریکا به‌سودی نیست",
+            "این عدم اعتماد می‌تواند فشار داخلی بر دولت را برای تغییر مسیر ارتقا دهد"
+        ],
+        "impact": "کاهش حمایت عمومی برای ادامه عملیات نظامی در ایران",
+        "tag": "عمومی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUYWxnTXhiZ2d1UUdSWUlpb2t3MHQyMVNLSTJoTkVGMUxnMklzc3o1UnJhbmtSbmdyNDJQSHRDdDRVOUhpOUJqc2Zna0dzbmdfYjB4dUdqUXZHQ1dxTGRwanE2OVhna1FaQTlKbEdnZ0fSAXZBVV95cUxPYzllbl9HeS00d2dBMTBTVWdfU2VZZlJpU0ZXZU5JQWVjdHRJTzdia3NMLWZsVlA4UE1zVzE4ano1dmFBaU8tWEZtSTBWMHpLVzRWZVAtYVlVSGlzdEJ0T3BPcXJNcGJrN3JpZWdpb1lHd3JQRzFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUYWxnTXhiZ2d1UUdSWUlpb2t3MHQyMVNLSTJoTkVGMUxnMklzc3o1UnJhbmtSbmdyNDJQSHRDdDRVOUhpOUJqc2Zna0dzbmdfYjB4dUdqUXZHQ1dxTGRwanE2OVhna1FaQTlKbEdnZ0fSAXZBVV95cUxPYzllbl9HeS00d2dBMTBTVWdfU2VZZlJpU0ZXZU5JQWVjdHRJTzdia3NMLWZsVlA4UE1zVzE4ano1dmFBaU8tWEZtSTBWMHpLVzRWZVAtYVlVSGlzdEJ0T3BPcXJNcGJrN3JpZWdpb1lHd3JQRzFn",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790083080.0
     },
     {
         "id": "a8c010923c",
@@ -3169,6 +3240,95 @@
         "timestamp": 1790001480.0
     },
     {
+        "id": "bf209a179a",
+        "title_fa": "حمله هوایی سعودی به زندان یمن؛ ۹ کشته شد",
+        "title_en": "Houthis say Saudi airstrike on Yemen prison kills 9 as Red Sea conflict escalates",
+        "summary": [
+            "سخن‌سازان حوثی‌ها اعلام کردند هواپیمای سعودی به زندان در یمن حمله کرد و نه نفر کشته شدند",
+            "این حمله تنش در خلیج‌قرمز را تشدید کرد و خطر برای کشتی‌های تجاری منطقه افزایش یافت"
+        ],
+        "impact": "افزایش خطر برای ناوگان تجاری در خلیج‌قرمز و فشار بیشتر بر روابط سعودی‑امارات",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/houthis-say-saudi-airstrike-on-yemen-prison-kills-9-as-red-sea-conflict-escalates-14047647.html",
+        "clean_url": "https://www.firstpost.com/world/houthis-say-saudi-airstrike-on-yemen-prison-kills-9-as-red-sea-conflict-escalates-14047647.html",
+        "image": "https://www.bing.com/th?id=ONUT.l_VCqK-kaeECR9AdONQR1w",
+        "timestamp": 1790000653.0
+    },
+    {
+        "id": "df9e8dc55f",
+        "title_fa": "اسرائیل به شبکه هسته‌ای ایران ضربه زد",
+        "title_en": "Israel hit Iran’s nuclear web",
+        "summary": [
+            "اسرائیل حمله‌ای گسترده به زیرساخت‌های هسته‌ای ایران انجام داد",
+            "هدف اصلی، تخریب توانمندی‌های هسته‌ای پیشرفته ایران بود"
+        ],
+        "impact": "تشدید تنش‌های نظامی خاورمیانه و احتمال واکنش تلافی‌جویانه ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Millennium 7 * HistoryTech on MSN",
+        "url": "https://www.msn.com/en-us/news/other/israel-hit-iran-s-nuclear-web-and-it-escalated-fast/vi-AA1XnraN?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/israel-hit-iran-s-nuclear-web-and-it-escalated-fast/vi-AA1XnraN",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790000653.0
+    },
+    {
+        "id": "0c6e0c6531",
+        "title_fa": "پس از توقف حملات، حوثی‌ها عبور ایمن کشتی‌های آمریکا را تضمین کردند",
+        "title_en": "After Trump halts airstrikes, Houthis guarantee safe passage for US ships in Red Sea",
+        "summary": [
+            "ترامپ تصمیم به توقف حملات هوایی به حوثی‌ها را گرفت",
+            "حوثی‌ها به‌جای تلافی، عبور ایمن کشتی‌های آمریکایی را وعده دادند"
+        ],
+        "impact": "کاهش خطر تصادم مستقیم بین آمریکا و حوثی‌ها، اما ابهام در پیگیری استراتژیک باقی می‌ماند",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Dagens.com on MSN",
+        "url": "https://www.msn.com/en-us/news/other/after-trump-halts-airstrikes-houthis-guarantee-safe-passage-for-us-ships-in-red-sea/ar-AA2cKRYh?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/after-trump-halts-airstrikes-houthis-guarantee-safe-passage-for-us-ships-in-red-sea/ar-AA2cKRYh",
+        "image": "https://www.bing.com/th?id=ONUT.UUyR8W0YcHRcrTrZW5bFYQ",
+        "timestamp": 1790000653.0
+    },
+    {
+        "id": "8fe7e00aa9",
+        "title_fa": "ترامپ در مجمع عمومیONU به جنگ ایران اشاره کرد",
+        "title_en": "President Donald Trump addresses the U.N. General Assembly at a challenging moment for the world and his presidency",
+        "summary": [
+            "ترامپ در سخنرانی خود به مجمع عمومی سازمان ملل، جنگ علیه ایران را توجیه کرد و اعلام کرد آمریکا از قدرت خود برای مقابله با چالش‌ها استفاده می‌کند",
+            "او حمایت مالی آمریکا از سازمان ملل را کاهش می‌دهد و به ریسک‌های هوش مصنوعی اشاره کرد"
+        ],
+        "impact": "تقویت فشار بین‌المللی بر ایران و کاهش اعتبار مالی سازمان ملل",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "WKOW",
+        "url": "https://www.wkow.com/news/top-stories/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future/article_a828f9c1-48c7-5f35-b087-9ebab5aa55a8.html",
+        "clean_url": "https://www.wkow.com/news/top-stories/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future/article_a828f9c1-48c7-5f35-b087-9ebab5aa55a8.html",
+        "image": "https://www.bing.com/th?id=ONUT.UFIzXb-8HNioA4OrMHUp7w",
+        "timestamp": 1790000652.0
+    },
+    {
+        "id": "7cdfda3660",
+        "title_fa": "ترامپ، آماده دیدار با نمایندگان ایران در مجمع سازمان ملل: مارکو روبیو؛ با رهبران خارجی دیدار خواهد کرد",
+        "title_en": "Trump, abierto a reunión con representantes de Irán durante Asamblea de la ONU: Marco Rubio; se reunirá con líderes extranjeros",
+        "summary": [
+            "Naciones Unidas.- El presidente de Estados Unidos, Donald Trump, está abierto a reunirse con representantes iraníes para abordar el fin de la guerra durante su participación este martes en la Asamblea..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "El Universal on MSN",
+        "url": "https://www.msn.com/es-mx/noticias/other/trump-abierto-a-reunión-con-representantes-de-irán-durante-asamblea-de-la-onu-afirma-rubio-se-reunirá-con-líderes-extranjeros/ar-AA2cK6ix?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/es-mx/noticias/other/trump-abierto-a-reunión-con-representantes-de-irán-durante-asamblea-de-la-onu-afirma-rubio-se-reunirá-con-líderes-extranjeros/ar-AA2cK6ix",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790000652.0
+    },
+    {
         "id": "3dbc5e379e",
         "title_fa": "اعضای اپوزیسیون کرد برای سالگرد مهسا امینی اعتصاب فراخواندند",
         "title_en": "Iranian opposition groups called for a mass strike on Mahsa Amini’s anniversary then markets across western Iran shut down",
@@ -5187,171 +5347,5 @@
         "clean_url": "https://www.trtworld.com/article/1c19e765147a",
         "image": "https://d341l694dl30ad.cloudfront.net/images/cms/2026/06/30/6a43d0b521a460114c6dbf70/original/4d3e8e82-da41-4f7a-9030-6223a6fb0469-1782829237518.JPG?width=1080&format=jpg&quality=80",
         "timestamp": 1789981400.0
-    },
-    {
-        "id": "71d080a818",
-        "title_fa": "خبر بین‌المللی — ایران MP Signals Possible Shift در Supreme Leader’s Stance د",
-        "title_en": "Iran MP Signals Possible Shift in Supreme Leader’s Stance on Nuclear Weapons Under “Existential Threat”",
-        "summary": [
-            "Iran MP Signals Possible Shift in Supreme Leader’s Stance on Nuclear Weapons Under “Existential Threat” IranWire"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "IranWire",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZi1wQUMyaUptU2pFVG13eEE5b2JsS3F1MjZzd0JaTDRsUTJaSkQ2RGE4ZDNWQTBfR21BelY5YTk4cWpsU0pHMDJPdGJ4NDlpMEJVTmVNSjVxNng2QjFmd0xrRnFfR0lJd0lUd1lfdm9oUEw4TFU4ZGNyTnVQeHRDMEtab0puN1NIeGpiemFYOTdWR29zaDVRSGJEbmlGYXZzN09YeVZrMnl2dmVjWXU2U0gzQVhnSVVyWi1ZQktZWXh5NXZQa3VzaHBQREYzbE9uLURJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZi1wQUMyaUptU2pFVG13eEE5b2JsS3F1MjZzd0JaTDRsUTJaSkQ2RGE4ZDNWQTBfR21BelY5YTk4cWpsU0pHMDJPdGJ4NDlpMEJVTmVNSjVxNng2QjFmd0xrRnFfR0lJd0lUd1lfdm9oUEw4TFU4ZGNyTnVQeHRDMEtab0puN1NIeGpiemFYOTdWR29zaDVRSGJEbmlGYXZzN09YeVZrMnl2dmVjWXU2U0gzQVhnSVVyWi1ZQktZWXh5NXZQa3VzaHBQREYzbE9uLURJ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789980870.0
-    },
-    {
-        "id": "17575db4b1",
-        "title_fa": "قیمت‌ LPG و CNG در دهلی امروز بالا رفت",
-        "title_en": "LPG, CNG prices today (September 22): Before refilling your gas cylinder, know the current price",
-        "summary": [
-            "دولت دهلی قیمت‌ CNG را ۱۰٪ افزایش داد",
-            "هزینهٔ حمل‌ونقل شهری به‌سرعت بالا می‌رود",
-            "نوسان قیمت نفت جهانی باعث عدم اطمینان در تأمین گاز شد"
-        ],
-        "impact": "هزینهٔ سفرهای روزانه بالا می‌رود و فشار بر تورم خوراکی‌ها افزوده می‌شود",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Newspoint on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/lpg-cng-prices-today-september-22-before-refilling-your-gas-cylinder-know-the-current-price/ar-AA2cJhW6?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/lpg-cng-prices-today-september-22-before-refilling-your-gas-cylinder-know-the-current-price/ar-AA2cJhW6",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789980168.0
-    },
-    {
-        "id": "49379f0078",
-        "title_fa": "فرح پهلوی در «پوینت دو ویو» به ایران عشق گفت",
-        "title_en": "Point de vue n° 4075",
-        "summary": [
-            "مصاحبهٔ اختصاصی با فرح پهلوی در شمارهٔ ۴۰۷۵ مجله",
-            "او گفت «قلبم برای ایران می‌تپد» و از آیندهٔ کشور حمایت کرد",
-            "انتشار این مصاحبه توجه رسانه‌های فارسی‌زبان را به خود جلب کرد"
-        ],
-        "impact": "پیام مثبت پهلوی می‌تواند جرقه‌ای برای همبستگی ملی ایجاد کند",
-        "tag": "رسانه",
-        "urgency": 2,
-        "sentiment": 0.6,
-        "source": "Point de Vue",
-        "url": "https://www.pointdevue.fr/boutique/produit/point-de-vue-n-4075",
-        "clean_url": "https://www.pointdevue.fr/boutique/produit/point-de-vue-n-4075",
-        "image": "https://www.pointdevue.fr/img/logo.svg",
-        "timestamp": 1789980168.0
-    },
-    {
-        "id": "8a24460a0b",
-        "title_fa": "مسائل مذاکرات پایان جنگ و بازگشایی هورموز",
-        "title_en": "THE ISSUES: What’s Included in Talks to End the Iran War and Reopen Hormuz?",
-        "summary": [
-            "مذاکرات شامل رفع تحریم‌های نفتی و تضمین امنیت ناوگان تجاری است",
-            "بازگشایی هورموز می‌تواند قیمت نفت جهانی را به‌سرعت کاهش دهد",
-            "ایران به‌دنبال تضمین عدم مداخله نظامی و دسترسی آزاد به بازارهای جهانی است",
-            "چین و رقبای منطقه نقش کلیدی در فشار دیپلماتیک ایفا می‌کنند"
-        ],
-        "impact": "بازگشایی هورموز می‌تواند جریان نفت را به ۲۵ میلیون بشکه در روز برگرداند و فشار اقتصادی بر ایران را کاهش دهد",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGppMXlqOTk3SWVTYXRjZklrZ0o3Q0lDaE9WQnVGYXo2eWM0MHlMeWRjbkhldkl3eFNRZnd1TlBkY1Q0YWFmRG5oZWtlVW51Y3RyYnNoVVVwWkNBNEZqSW9yYjV0clNPZnN5SHZ2OHZRekFJejAweFY0OXdxT1p6ZzcyU1h2U2Jma3RNdmg3S2QxNi1zR3NR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGppMXlqOTk3SWVTYXRjZklrZ0o3Q0lDaE9WQnVGYXo2eWM0MHlMeWRjbkhldkl3eFNRZnd1TlBkY1Q0YWFmRG5oZWtlVW51Y3RyYnNoVVVwWkNBNEZqSW9yYjV0clNPZnN5SHZ2OHZRekFJejAweFY0OXdxT1p6ZzcyU1h2U2Jma3RNdmg3S2QxNi1zR3NR",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789980168.0
-    },
-    {
-        "id": "9a12042472",
-        "title_fa": "نماینده اوکراین گزارش ایران را جنایت علیه بشریت می‌نامد",
-        "title_en": "نماینده اوکراین در سازمان ملل: بسیاری از موارد گزارش حقیقت‌یاب در حد جنایت علیه بشریت است",
-        "summary": [
-            "گزارش حقیقت‌یاب به سرکوب گسترده، قتل کودکان و شکنجه اشاره دارد",
-            "اوکراین می‌گوید حمایت نظامی ایران به روسیه امکان حمله می‌دهد",
-            "ادعای استفاده از پهپادهای ساخت ایران علیه شهرها مطرح شد",
-            "این اظهارات می‌تواند تنش‌های دیپلماتیک را تشدید کند"
-        ],
-        "impact": "تشدید فشار بین‌المللی بر ایران و احتمال تحریم‌های جدید",
-        "tag": "حقوق بشر",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609213143",
-        "clean_url": "https://www.iranintl.com/202609213143",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1789980000.0
-    },
-    {
-        "id": "95d34247f1",
-        "title_fa": "خبر بین‌المللی — Martin Schram: Mirror, mirror در wall, who’s most presiden",
-        "title_en": "Martin Schram: Mirror, mirror on the wall, who’s the most presidential…",
-        "summary": [
-            "Chroniclers of history and masters of geometry have every reason to be equally confounded by what we have witnessed happening to President Donald Trump – not just once, but time and again, this year."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Tribune News Service on MSN",
-        "url": "https://www.msn.com/en-us/news/news/martin-schram-mirror-mirror-on-the-wall-who-s-the-most-presidential/ar-AA2cEUUB?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/news/martin-schram-mirror-mirror-on-the-wall-who-s-the-most-presidential/ar-AA2cEUUB",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789979834.1588697
-    },
-    {
-        "id": "4a8143a56b",
-        "title_fa": "اتحادیه اروپا در برابر تهدیدهای چندگانه بی‌کفایت است",
-        "title_en": "European Union",
-        "summary": [
-            "ناتالی توچی می‌گوید اتحادیه اروپا و ناتو برای دفاع از اروپا ناکافی‌اند",
-            "او به سیاست‌های جدید اوسرلا ون درر لئون و روابط کانادا اشاره کرد",
-            "انتقادات او در پس‌زمینه اظهارات ترامپ درباره سیاست‌های خارجی است"
-        ],
-        "impact": "بی‌کفایتی ادعایی اروپا می‌تواند فشار بر روسیه و چین را تضعیف کند",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/eu",
-        "clean_url": "https://www.theguardian.com/world/eu",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=world",
-        "timestamp": 1789979820.0
-    },
-    {
-        "id": "fccdf615cf",
-        "title_fa": "خبر بین‌المللی — ایران threatens به expand 'geography جنگ' following latest",
-        "title_en": "Iran threatens to expand 'geography of war' following latest US attack",
-        "summary": [
-            "Iran warned that the \"geography of war\" could expand as the U.S. increases its threats to the Middle East nation and the ongoing conflict nears seven months."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Daily Express US on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-threatens-to-expand-geography-of-war-following-latest-us-attack/ar-AA2cGu3U",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-threatens-to-expand-geography-of-war-following-latest-us-attack/ar-AA2cGu3U",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789979220.0
-    },
-    {
-        "id": "40511ddb4b",
-        "title_fa": "سپاه: اگر آمریکا تشدید کند، جغرافیای جنگ عوض می‌شود",
-        "title_en": "Iran’s Revolutionary Guard Warns US Over Escalation",
-        "summary": [
-            "سخنگوی سپاه هشدار داد در صورت تشدید آمریکا، استراتژی و اهداف نظامی تغییر خواهد کرد",
-            "گفته شد «جنگ تمام نشده» و سلاح‌های جدید به کار خواهد رفت"
-        ],
-        "impact": "افزایش ریسک برخورد مستقیم بین دو کشور",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-revolutionary-guard-warns-us-151634624.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-revolutionary-guard-warns-us-151634624.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/cb0d30413c772cd615c373d8d3714fd769bde234cab03579352235d5b392fdfd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmilitary_com_347%2F729b10d121521703b9ceaae3a7f5ef73.jpg",
-        "timestamp": 1789978560.0
     }
 ]
