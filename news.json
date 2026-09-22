@@ -1,5 +1,24 @@
 [
     {
+        "id": "2293ca3a5c",
+        "title_fa": "سخنرانی خودستایی ترامپ در مجمع ملل",
+        "title_en": "Me, myself and I: Donald Trump's self-congratulatory speech to the UN",
+        "summary": [
+            "ترامپ زمان سخنرانی را دو برابر کرد و از برنامهٔ رسمی منحرف شد",
+            "او به‌جای تمرکز بر موضوعات بین‌المللی، به تحریم‌ها و تهدیدهای خود اشاره کرد",
+            "این رفتار نشان‌دهنده بی‌ثباتی دیپلماتیک آمریکا در برابر ایران است"
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک آمریکا با ایران و کاهش اعتبار رهبری در مجمع ملل",
+        "tag": "سخنرانی-ترامپ",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "Manchester Evening News on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/me-myself-and-i-donald-trump-s-self-congratulatory-speech-to-the-un/ar-AA2cLXPo?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/me-myself-and-i-donald-trump-s-self-congratulatory-speech-to-the-un/ar-AA2cLXPo",
+        "image": "https://www.bing.com/th?id=ONUT.Idg6gmg3pnmyZ41LVFGi5w",
+        "timestamp": 1790103754.5230486
+    },
+    {
         "id": "0fb7282fae",
         "title_fa": "خبر بین‌المللی — ترامپ’s threat به annihilate ایران به UN general assembly is",
         "title_en": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
@@ -3787,6 +3806,43 @@
         "timestamp": 1790017683.0
     },
     {
+        "id": "fcf192094b",
+        "title_fa": "استخدام پسران ۱۲ تا ۱۵ ساله برای تیپ‌های «فداکاری»",
+        "title_en": "Iran recruiting boys as young as 12 to train for 'self sacrifice' brigades",
+        "summary": [
+            "ایران برنامه جذب نوجوانان برای تک‌تیراندازی و عملیات خودکشی راه‌اندازی کرد",
+            "این اقدام خلاف قوانین بین‌المللی حقوق کودک است",
+            "احتمال افزایش حملات نیابتی علیه هدف‌های خارجی بالا می‌رود"
+        ],
+        "impact": "تقویت تهدیدات نیابتی ایران و فشار بین‌المللی بر رژیم",
+        "tag": "استخدام-نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "New York Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-recruiting-boys-as-young-as-12-to-train-for-self-sacrifice-brigades/ar-AA2cLw1e?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-recruiting-boys-as-young-as-12-to-train-for-self-sacrifice-brigades/ar-AA2cLw1e",
+        "image": "https://www.bing.com/th?id=ONUT.qO4zu6tArfzxAg8BkvQ6Ig",
+        "timestamp": 1790017349.0
+    },
+    {
+        "id": "69632ad86b",
+        "title_fa": "نقشهٔ افسارگسیختهٔ $20 بنزین در لس آنجلس",
+        "title_en": "Depressing new map shows how far $20 of gas gets you in LA after price hikes",
+        "summary": [
+            "پس از افزایش قیمت‌ها، 20 دلار فقط حدود 30 کیلومتر مسافت می‌دهد",
+            "این نشان‌دهنده فشار شدید بر هزینه‌های زندگی شهروندان است"
+        ],
+        "impact": "کاهش توان خرید مردم و تشدید نارضایتی اقتصادی",
+        "tag": "قیمت-بنزین",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "New York Post on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/depressing-new-map-shows-how-far-20-of-gas-gets-you-in-la-after-price-hikes/ar-AA2cLXFJ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/depressing-new-map-shows-how-far-20-of-gas-gets-you-in-la-after-price-hikes/ar-AA2cLXFJ",
+        "image": "https://www.bing.com/th?id=ONUT.hXwBeT-O5ITCDJGT1KGeKw",
+        "timestamp": 1790017349.0
+    },
+    {
         "id": "1beb3af869",
         "title_fa": "خبر بین‌المللی — Latest: ترامپ uses UN speech به defend decision به start جن",
         "title_en": "The Latest: Trump uses UN speech to defend decision to start war against Iran",
@@ -5255,60 +5311,5 @@
         "clean_url": "https://www.iranintl.com/202609222052",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/733dd614d1a3b0c781497fa0eab7243ef8c2e74f-620x413.jpg?rect=0,43,426,224&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790001484.0
-    },
-    {
-        "id": "9c1b8053f5",
-        "title_fa": "جاسوسی جنسی در سفارت بریتانیا؛ ریشه‌های خونین جمهوری اسلامی",
-        "title_en": "جاسوسی با مشکل جنسی؛ روایتی از تصفیه خونین جمهوری اسلامی با نیروهای چپ",
-        "summary": [
-            "کتاب بن مکینتایر روایت می‌کند که یک افسر روسی و یک افسر MI6 در سفارت بریتانیا در سال ۱۳۶۰ به‌دلیل مشکل جنسی به پرونده‌ای پیچیده جاسوسی کشیده شدند.",
-            "این ماجرا منجر به یکی از خونین‌ترین تصفیه‌های جمهوری اسلامی شد و نشان‌دهنده حضور پنهانی قدرت‌های بزرگ در ایران بود.",
-            "اسناد تازه منتشرشده نشان می‌دهند جنگ سرد در ایران به‌صورت مخفیانه ادامه داشته و تأثیرات سیاسی‑امنیتی امروز را شکل می‌دهد."
-        ],
-        "impact": "آگاهی از تاریخ جاسوسی می‌تواند دید سیاسی امروز نسبت به روابط ایران‑غرب را تحت‌تأثیر قرار دهد.",
-        "tag": "جاسوسی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609212974",
-        "clean_url": "https://www.iranintl.com/202609212974",
-        "image": "http://www.bing.com/th?id=ONUT.4Jwr1XdGM4tuHNM9ejDrjw&pid=News",
-        "timestamp": 1790001480.0
-    },
-    {
-        "id": "bf209a179a",
-        "title_fa": "حمله هوایی سعودی به زندان یمن؛ ۹ کشته شد",
-        "title_en": "Houthis say Saudi airstrike on Yemen prison kills 9 as Red Sea conflict escalates",
-        "summary": [
-            "سخن‌سازان حوثی‌ها اعلام کردند هواپیمای سعودی به زندان در یمن حمله کرد و نه نفر کشته شدند",
-            "این حمله تنش در خلیج‌قرمز را تشدید کرد و خطر برای کشتی‌های تجاری منطقه افزایش یافت"
-        ],
-        "impact": "افزایش خطر برای ناوگان تجاری در خلیج‌قرمز و فشار بیشتر بر روابط سعودی‑امارات",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/houthis-say-saudi-airstrike-on-yemen-prison-kills-9-as-red-sea-conflict-escalates-14047647.html",
-        "clean_url": "https://www.firstpost.com/world/houthis-say-saudi-airstrike-on-yemen-prison-kills-9-as-red-sea-conflict-escalates-14047647.html",
-        "image": "https://www.bing.com/th?id=ONUT.l_VCqK-kaeECR9AdONQR1w",
-        "timestamp": 1790000653.0
-    },
-    {
-        "id": "df9e8dc55f",
-        "title_fa": "اسرائیل به شبکه هسته‌ای ایران ضربه زد",
-        "title_en": "Israel hit Iran’s nuclear web",
-        "summary": [
-            "اسرائیل حمله‌ای گسترده به زیرساخت‌های هسته‌ای ایران انجام داد",
-            "هدف اصلی، تخریب توانمندی‌های هسته‌ای پیشرفته ایران بود"
-        ],
-        "impact": "تشدید تنش‌های نظامی خاورمیانه و احتمال واکنش تلافی‌جویانه ایران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Millennium 7 * HistoryTech on MSN",
-        "url": "https://www.msn.com/en-us/news/other/israel-hit-iran-s-nuclear-web-and-it-escalated-fast/vi-AA1XnraN?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/israel-hit-iran-s-nuclear-web-and-it-escalated-fast/vi-AA1XnraN",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790000653.0
     }
 ]
