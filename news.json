@@ -1,5 +1,42 @@
 [
     {
+        "id": "a191384781",
+        "title_fa": "لغو پروازهای ترکیه به ایران به‌دلیل تحریم‌های آمریکا",
+        "title_en": "Three Turkish Airlines Cancel Flights To Iran As US Sanctions Take Effect",
+        "summary": [
+            "ایالات متحده تحریم‌های جدیدی علیه ایران اعمال کرد که باعث شد ترکیه خطوط هوایی خود را متوقف کند",
+            "این تصمیم حمله به گردشگری و تجارت دوطرفه را تشدید می‌کند و فشار اقتصادی بر مردم ایران را افزاش می‌دهد"
+        ],
+        "impact": "کاهش ترافیک مسافری و تضعیف روابط تجاری بین ترکیه و ایران",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnBZWUVmMkxWSjZPRkJCQzFDQjNHMFZxZEJ0Y2plTHRvemowOWMzYldmTnBYcTdMbDJSVFQ0MXQ2YXNGdl8wVV9OM29LemZneFVNY1NZQ0NrU0dLdzBxaDRzVVY1UmtncVhhT05acWs3c0RROXBCNUJ1RnRhdGdkYzNsTlRuYjI0U2czVzhrVFJ6UHpjQXUydUxwNEZyRUVSVDFqYk1EQXB4RHFYSG1JX0h2eU1zWGNPbzhWbzln?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnBZWUVmMkxWSjZPRkJCQzFDQjNHMFZxZEJ0Y2plTHRvemowOWMzYldmTnBYcTdMbDJSVFQ0MXQ2YXNGdl8wVV9OM29LemZneFVNY1NZQ0NrU0dLdzBxaDRzVVY1UmtncVhhT05acWs3c0RROXBCNUJ1RnRhdGdkYzNsTlRuYjI0U2czVzhrVFJ6UHpjQXUydUxwNEZyRUVSVDFqYk1EQXB4RHFYSG1JX0h2eU1zWGNPbzhWbzln",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790050080.0
+    },
+    {
+        "id": "4dcc82632e",
+        "title_fa": "ترامپ می‌گوید ایران سلاح هسته‌ای نخواهد داشت",
+        "title_en": "Trump holds meetings on Iran: They’re not gonna have a nuclear weapon",
+        "summary": [
+            "ترامپ در جلسات متعدد با مقامات آمریکایی درباره ایران تاکید کرد که هدف حذف برنامه هسته‌ای است",
+            "او اعلام کرد که فشارهای دیپلماتیک و اقتصادی ادامه خواهد یافت تا ایران نتواند سلاح هسته‌ای بسازد",
+            "بیانیه او نشان می‌دهد احتمال افزایش تحریم‌ها یا اقدام‌ها نظامی در آینده نزدیک وجود دارد"
+        ],
+        "impact": "افزایش تنش‌های سیاسی بین آمریکا و ایران و احتمال تحریم‌های جدید",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "israelnationalnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBSV9BVnJOeXRJSm9zTm1yM0VZRUxDbWNQT2tNcW9ZSVY2bVBKOFZXa1ltR3c0VFlSOFRMMVh2UEdtS2MyWC1NUmVtMHdOajE3NWVoSm5xSkpNQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBSV9BVnJOeXRJSm9zTm1yM0VZRUxDbWNQT2tNcW9ZSVY2bVBKOFZXa1ltR3c0VFlSOFRMMVh2UEdtS2MyWC1NUmVtMHdOajE3NWVoSm5xSkpNQQ",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790049430.0
+    },
+    {
         "id": "d9f1a905d8",
         "title_fa": "خبر بین‌المللی — ایران diplomacy intensifies at UN as هرمز crisis keeps press",
         "title_en": "Iran diplomacy intensifies at UN as Hormuz crisis keeps pressure on region",
@@ -5326,41 +5363,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/what-to-expect-at-the-un-general-assembly-the-biggest-event-in-world-diplomacy/ar-AA2cEQuP",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789926006.0
-    },
-    {
-        "id": "c97e33fb69",
-        "title_fa": "امتیاز رضایت ترامپ زیر ۳۰ درصد سقوط کرد",
-        "title_en": "Trump’s approval rating falls below 30 percent in new poll",
-        "summary": [
-            "نظرسنجی جدید نشان داد حمایت از ترامپ به زیر سی‌درصد رسید",
-            "کاهش شدید امتیاز نشان‌دهنده نارضایتی عمومی از سیاست‌های اقتصادی دولت است"
-        ],
-        "impact": "احتمال فشارهای سیاسی بر دولت و تغییر استراتژی‌های پیش‌اکتسابی افزایش می‌یابد",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "The Daily Beast on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/trump-s-approval-rating-falls-below-30-percent-in-new-poll/ar-AA2cGuIn?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/politics/government/trump-s-approval-rating-falls-below-30-percent-in-new-poll/ar-AA2cGuIn",
-        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789926006.0
-    },
-    {
-        "id": "76157c8953",
-        "title_fa": "حریق اضطراری سیسینه گاز در اسکورئوی سوبیوا",
-        "title_en": "Articole despre \"intervenţie\"",
-        "summary": [
-            "در ۲۳ فوریه، سیسینه‌ای پر از گاز بوتان در جاده DN1 اسکورئوی سوبیوا (استان سیبیو) منفجر شد و حریق شدیدی ایجاد کرد.",
-            "نیروهای اورژانس و آتش‌نشانی به‌سرعت به محل رسیدند؛ خطر گسترش شعله به مناطق مسکونی تحت کنترل است."
-        ],
-        "impact": "قطع موقت ترافیک جاده DN1 و خطر آلودگی هوایی محلی",
-        "tag": "حریق",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/intervenţie-pag48",
-        "clean_url": "https://ziare.com/cautare/intervenţie-pag48",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1789925642.0
     }
 ]
