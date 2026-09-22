@@ -767,6 +767,24 @@
         "timestamp": 1790050080.0
     },
     {
+        "id": "46ba315364",
+        "title_fa": "افتتاح دفتر بین‌المللی GFCN در دبی",
+        "title_en": "GFCN's first international fact-checking office to open in Dubai",
+        "summary": [
+            "شبکهٔ جهانی بررسی حقایق (GFCN) اولین دفتر بین‌المللی خود را در دبی راه‌اندازی کرد؛ روسیه به‌عنوان پایهٔ پروژه نقش کلیدی دارد.",
+            "این گام هدف دارد تا فضای اطلاعاتی بین‌المللی را تحت پوشش روسیه و شرکایش گسترش دهد."
+        ],
+        "impact": "تقویت حضور روسیه در حوزهٔ اطلاعات و افزایش نفوذ در مباحث جهانی",
+        "tag": "اطلاعات",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/society/2191085",
+        "clean_url": "https://tass.com/society/2191085",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790049660.0
+    },
+    {
         "id": "4dcc82632e",
         "title_fa": "ترامپ می‌گوید ایران سلاح هسته‌ای نخواهد داشت",
         "title_en": "Trump holds meetings on Iran: They’re not gonna have a nuclear weapon",
@@ -5329,24 +5347,5 @@
         "clean_url": "https://www.firstpost.com/explainers/has-iran-activated-code-100-tensions-reach-tipping-point-what-this-means-14047319.html",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789963800.0
-    },
-    {
-        "id": "80d2c0057c",
-        "title_fa": "ایران تهدید به انتقام دردناک در برابر فشار ترامپ",
-        "title_en": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
-        "summary": [
-            "ترامپ پیش از نشست عمومی سازمان ملل فشار اقتصادی و نظامی جدیدی علیه ایران اعمال می‌کند",
-            "ایران اعلام کرد پاسخ انتقامی دردناک خواهد بود، اما جزئیات هنوز نامشخص است",
-            "این تبادل تهدید می‌تواند تنش‌های منطقه‌ای را به اوج برساند"
-        ],
-        "impact": "افزایش ریسک برخورد نظامی و تشدید تحریم‌های بین‌المللی",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDb1BxRGVIaXJ5YV9MbEEtX0dXYmRCYnQ5eldIeWpybERJYVpzSFVrNktSTDJOeTZoOFp5S3ZXOUFDdlJJeF9rbmhEZ0RWVjMyMlNzZDQ3MjFZS2JHU2puTTNvS1c4dkFxbVlZVUp30gFzQVVfeXFMTmNOTExQcHFzeVdHV2h2YUJ0NVkwb3ZUVldWRXFzLXlsb0QtU1BEQVQ4dll6aWJGcWNsY25uZXJ4bFFuOFkxN3M5M3lpenZ1ZllzbGotQndTQlR3N0p2YlgzZ3hJTkJQaXZKZldGUmwydmw3bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDb1BxRGVIaXJ5YV9MbEEtX0dXYmRCYnQ5eldIeWpybERJYVpzSFVrNktSTDJOeTZoOFp5S3ZXOUFDdlJJeF9rbmhEZ0RWVjMyMlNzZDQ3MjFZS2JHU2puTTNvS1c4dkFxbVlZVUp30gFzQVVfeXFMTmNOTExQcHFzeVdHV2h2YUJ0NVkwb3ZUVldWRXFzLXlsb0QtU1BEQVQ4dll6aWJGcWNsY25uZXJ4bFFuOFkxN3M5M3lpenZ1ZllzbGotQndTQlR3N0p2YlgzZ3hJTkJQaXZKZldGUmwydmw3bw",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789963458.0
     }
 ]
