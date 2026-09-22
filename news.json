@@ -1,5 +1,23 @@
 [
     {
+        "id": "2bc9915d5e",
+        "title_fa": "ترامپ در نیویورک تنهاست؛ فشار بر ایران ادامه دارد",
+        "title_en": "Trump, (prácticamente) solo ante el mundo",
+        "summary": [
+            "ترامپ پس از توافق پتاس با بلاروس به نشست عمومی سازمان ملل می‌رود؛ ایستادگی‌اش در برابر فشارهای بین‌المللی نشان می‌دهد که سیاست «حداکثر فشار» بر ایران تغییر نمی‌کند",
+            "عدم حضور هم‌پیمانان در کنار او نشان می‌دهد که ایالات متحده ممکن است تنهایی تحریم‌های جدید یا اقدام‌ها نظامی علیه برنامه هسته‌ای ایران را پیش بگیرد"
+        ],
+        "impact": "تحریم‌های جدید یا تهدید نظامی می‌تواند اقتصاد نفتی ایران را به‌طور جدی تحت فشار قرار دهد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "elDiarioAR.com on MSN",
+        "url": "https://www.msn.com/es-ar/noticias/other/trump-prácticamente-solo-ante-el-mundo/ar-AA2cK1YC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/es-ar/noticias/other/trump-prácticamente-solo-ante-el-mundo/ar-AA2cK1YC",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790071411.3403492
+    },
+    {
         "id": "b3bd5c9316",
         "title_fa": "جنگ ایران، گسترش هسته‌ای و پیامدهای هند",
         "title_en": "Iran War, Nuclear Proliferation And Implications For India",
@@ -2985,6 +3003,24 @@
         "timestamp": 1789985591.9176018
     },
     {
+        "id": "9be93a3a22",
+        "title_fa": "لاوروف: رسانه‌های غربی بازی‌های اطلاعاتی درباره پهپادهای روسیه",
+        "title_en": "Western media play games against Russia by alleging drone attacks in EU countries — Lavrov",
+        "summary": [
+            "لاوروف ادعا کرد رسانه‌های غربی بدون مدرک، روسیه را متهم به پرواز پهپادهای ناشناس در اروپا می‌کنند؛ این روایت برای تضعیف تصویر روسیه ساخته شده است",
+            "او نشان داد که اکثر موارد یا پهپادهای اوکراین یا شناسایی نشده‌اند و هدف اصلی، ایجاد فشار روانی بر کشورهای هم‌پیمان روسیه است"
+        ],
+        "impact": "تشدید سردرگمی عمومی می‌تواند تصمیم‌گیری‌های امنیتی اروپایی را تحت تأثیر قرار دهد و مانع واکنش مؤثر به تهدیدات واقعی شود",
+        "tag": "اطلاعات",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2190961",
+        "clean_url": "https://tass.com/politics/2190961",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260922/1487517.jpg",
+        "timestamp": 1789985006.0
+    },
+    {
         "id": "f40656fb50",
         "title_fa": "نماینده آمریکا: باید حوثی‌ها را سرکوب کرد",
         "title_en": "Rep. Hamadeh: US Must Crush the Houthis",
@@ -5325,39 +5361,5 @@
         "clean_url": "https://www.lemonde.fr/international/live/2026/09/22/en-direct-guerre-en-ukraine-l-ue-ne-trouve-pas-d-accord-de-principe-pour-la-levee-de-sanctions-contre-deux-oligarques-russes-dont-l-une-souhaitee-par-la-france_6777944_3210.html",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789952547.0
-    },
-    {
-        "id": "dbab27b069",
-        "title_fa": "خبر بین‌المللی — ترامپ's Media Ban Reportedly Triggered By Natalie Harp",
-        "title_en": "Trump's Media Ban Reportedly Triggered By Natalie Harp",
-        "summary": [
-            "The Wall Street Journal reported Sunday that the precise moment his frustrations with the media “reached a fever pitch” came after aide Natalie Harp showed him videos of MS NOW hosts criticizing his..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-natalie-harp-wsj_n_6ab0d616e4b09ae53890997b",
-        "clean_url": "https://www.huffpost.com/entry/trump-natalie-harp-wsj_n_6ab0d616e4b09ae53890997b",
-        "image": "http://www.bing.com/th?id=ONUT.eqVPlr_Wh7bwos3vZ1LBWg&pid=News",
-        "timestamp": 1789952280.0
-    },
-    {
-        "id": "fec8cee68e",
-        "title_fa": "Donald ترامپ",
-        "title_en": "Donald Trump",
-        "summary": [
-            "The president vacillated but decided on Sunday not to join Saudi Arabia, for now, in joint strikes against the Houthis in Yemen. But he also needs the kingdom’s cooperation in his war against Iran. By..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "nytimes.com",
-        "url": "https://www.nytimes.com/spotlight/donald-trump",
-        "clean_url": "https://www.nytimes.com/spotlight/donald-trump",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789952160.0
     }
 ]
