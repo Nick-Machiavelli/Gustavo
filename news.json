@@ -3990,6 +3990,40 @@
         "timestamp": 1790024560.693427
     },
     {
+        "id": "9c77c5efa6",
+        "title_fa": "خبر بین‌المللی — Ethiopian Rebel Groups Join Forces Against Government",
+        "title_en": "Ethiopian Rebel Groups Join Forces Against the Government",
+        "summary": [
+            "Half a dozen groups, accusing the prime minister of being dictatorial, announced the formation of a coalition in a country..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html",
+        "clean_url": "https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html",
+        "image": "https://www.bing.com/th?id=ONUT.iW4uuQAUNTvImQ5ifTqgtQ",
+        "timestamp": 1790023755.0
+    },
+    {
+        "id": "dce6fbf4e5",
+        "title_fa": "خبر بین‌المللی — Saoedi-Arabië neemt belangrijke oliepijpleiding die beschadi",
+        "title_en": "Saoedi-Arabië neemt belangrijke oliepijpleiding die beschadigd raakte bij droneaanval weer in gebruik",
+        "summary": [
+            "Saoedi-Arabië heeft een belangrijke oliepijpleiding opgestart, na de sluiting vorige week als gevolg van <a href=\"https: //www..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Algemeen Dagblad",
+        "url": "https://www.ad.nl/buitenland/saoedi-arabie-neemt-belangrijke-oliepijpleiding-die-beschadigd-raakte-bij-droneaanval-weer-in-gebruik~a49ea0cf7/",
+        "clean_url": "https://www.ad.nl/buitenland/saoedi-arabie-neemt-belangrijke-oliepijpleiding-die-beschadigd-raakte-bij-droneaanval-weer-in-gebruik~a49ea0cf7",
+        "image": "https://www.bing.com/th?id=ONUT.PXwZWJCUeYbpSx74_sqsEA",
+        "timestamp": 1790023755.0
+    },
+    {
         "id": "525898914d",
         "title_fa": "خبر بین‌المللی — ترامپ says US و ایرانی officials met Tuesday, shortly after",
         "title_en": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
@@ -5261,41 +5295,5 @@
         "clean_url": "https://www.iranintl.com/202609226696",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790010000.0
-    },
-    {
-        "id": "29ba80deeb",
-        "title_fa": "کاندیدایان جمهوری‌خواه خواستار پایان سریع جنگ ایران",
-        "title_en": "Rogers calls for swift end to Iran War in new Senate campaign ad",
-        "summary": [
-            "دو نامزد سعی می‌کنند از حمایت ترامپ در جنگ ایران فاصله بگیرند تا در انتخابات حساس برنده شوند",
-            "آنها فشارهای اقتصادی مثل افزایش قیمت بنزین و دیزل را به عنوان دلیل اصلی پایان جنگ مطرح می‌کنند",
-            "این تغییر لحن نشان می‌دهد که فشار داخلی برای محدود کردن مداخله نظامی در خاورمیانه در حال تقویت است"
-        ],
-        "impact": "فشار داخلی بر دولت آمریکا برای کاهش عملیات نظامی در ایران افزایش می‌یابد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/rogers-calls-swift-end-iran-002117222.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/rogers-calls-swift-end-iran-002117222.html",
-        "image": "http://www.bing.com/th?id=ONUT.2q0KtYw-Uwjn7gGUEKfDPA&pid=News",
-        "timestamp": 1790010000.0
-    },
-    {
-        "id": "e71ccc4858",
-        "title_fa": "تلاش رژیم ایران برای از بین بردن شواهد جنایات خود نشان می‌دهد که این رژیم نگران است روز داوری نزدیک است - استروان استیونسون",
-        "title_en": "Iran regime's attempt to destroy evidence of its crimes shows it fears judgment day is nigh – Struan Stevenson",
-        "summary": [
-            "The demolition of an infamous prison is the latest sign that Iran’s dictatorship is afraid it will be held to account for mass murder, rape and its many other crimes against humanity..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Scotsman",
-        "url": "https://www.scotsman.com/news/opinion/columnists/iran-regimes-attempt-to-destroy-evidence-of-its-crimes-shows-it-fears-judgment-day-is-nigh-9127003",
-        "clean_url": "https://www.scotsman.com/news/opinion/columnists/iran-regimes-attempt-to-destroy-evidence-of-its-crimes-shows-it-fears-judgment-day-is-nigh-9127003",
-        "image": "https://www.scotsman.com/jpim-static/image/2026/09/21/11/30/GettyImages-1236731809.jpeg?trim=504,1350,394,7&crop=&width=1200&auto=webp&quality=75",
-        "timestamp": 1790009436.220112
     }
 ]
