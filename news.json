@@ -3108,6 +3108,44 @@
         "timestamp": 1789982692.1522253
     },
     {
+        "id": "c6f4cda6e3",
+        "title_fa": "رقابت سنا ویرجینیا در سایه انتخابات ملی نادیده گرفته شد",
+        "title_en": "Virginia’s Senate race is taking place outside the national spotlight",
+        "summary": [
+            "سنت‌ورک‌های ملی به رقابت بین مارک وارن و برت میزوساوا کمتر توجه کرده‌اند؛ تمرکز بیشتر بر مسابقات در تگزاس، میشیگان و کارولینای جنوبی است.",
+            "گزارش Cook Political Report صندلی سنا را به‌صورت قطعی دموکراتیک می‌داند و وارن به‌عنوان پیشتاز واضح شناخته می‌شود.",
+            "هر دو نامزد می‌پذیرند که کم‌توجهی ملی به این رقابت تأثیری بر استراتژی‌های محلی‌شان ندارد."
+        ],
+        "impact": "عدم جلب توجه ملی ممکن است باعث کاهش مشارکت رأی‌دهندگان در ویرجینیا شود",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Cardinal News",
+        "url": "https://cardinalnews.org/2026/09/22/virginias-senate-race-is-taking-place-outside-the-national-spotlight/",
+        "clean_url": "https://cardinalnews.org/2026/09/22/virginias-senate-race-is-taking-place-outside-the-national-spotlight",
+        "image": "https://i0.wp.com/cardinalnews.org/wp-content/uploads/2026/09/warner_mizusawa-scaled.jpg?fit=1200%2C750&ssl=1",
+        "timestamp": 1789981979.0
+    },
+    {
+        "id": "5f8ae42e89",
+        "title_fa": "تحقیقات DOJ علیه بایننس در چارچوب فشارهای تحریمی بر ایران",
+        "title_en": "Binance faces DOJ probe as Iran sanctions crackdown widens",
+        "summary": [
+            "دادستانان فدرال آمریکا بررسی می‌کنند که بایننس آیا به‌آگاهی معاملات مرتبط با ایران را در پلتفرم خود اجازه داده یا نه.",
+            "این بررسی همزمان با تشدید تحریم‌های آمریکا علیه ایران و فشار بر صرافی‌های رمزارز انجام می‌شود.",
+            "اگر اتهام‌ها ثابت شود، بایننس ممکن است با جریمه‌های سنگین و محدودیت‌های عملیاتی در آمریکا مواجه شود."
+        ],
+        "impact": "جریمه‌های بزرگ و محدودیت دسترسی به بازار آمریکا برای بایننس",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Cryptopolitan on MSN",
+        "url": "https://www.msn.com/en-us/news/other/binance-faces-doj-probe-as-iran-sanctions-crackdown-widens/ar-AA2cJLYN?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/binance-faces-doj-probe-as-iran-sanctions-crackdown-widens/ar-AA2cJLYN",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789981979.0
+    },
+    {
         "id": "0507ad328f",
         "title_fa": "ترامپ: توقف‌ساز ایران در حالت اضطراری",
         "title_en": "Trump Says Iran Ceasefire on ‘Life Support’ After Rejecting Tehran’s Response",
@@ -5329,40 +5367,5 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/14300550-1789967456.jpg?resize=1920%2C1440",
         "timestamp": 1789948800.0
-    },
-    {
-        "id": "d37137371c",
-        "title_fa": "خبر بین‌المللی — ADM-160 Miniature Air Launched Decoy Wreckage A Reminder On",
-        "title_en": "ADM-160 Miniature Air Launched Decoy Wreckage A Reminder Of Ongoing Spying On Iran’s Air Defenses",
-        "summary": [
-            "The U.S. and Israel need to keep a close eye on the status of Iran's battered air defenses. Wreckage provides the clearest evidence yet that American forces are using ADM-160 decoys in the Iranian..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The War Zone",
-        "url": "https://www.twz.com/air/adm-160-miniature-air-launched-decoy-wreckage-a-reminder-of-ongoing-spying-on-irans-air-defenses",
-        "clean_url": "https://www.twz.com/air/adm-160-miniature-air-launched-decoy-wreckage-a-reminder-of-ongoing-spying-on-irans-air-defenses",
-        "image": "https://www.twz.com/wp-content/uploads/2026/09/ADM-160-MALD-WRECKAGE.jpg?w=1200",
-        "timestamp": 1789948065.0
-    },
-    {
-        "id": "f126e1f92d",
-        "title_fa": "شوخی روزانه دیلی شو به وعده‌های کاهش قیمت بنزین ترامپ",
-        "title_en": "Donald Trump issued brutal blow as Daily Show ruthlessly mocks his ‘wet passage'",
-        "summary": [
-            "دیلی شو با تبلیغ ساختگی «ترامپ پرومیسرو» به‌صورت انتقادی به وعده‌های ترامپ دربارهٔ کاهش قیمت بنزین پرداخته است",
-            "این شوخی نشان می‌دهد فشار عمومی بر ترامپ برای ارائه برنامه واقعی کاهش قیمت‌ها در حال افزایش است"
-        ],
-        "impact": "احتمالاً فشار بر ترامپ برای ارائه برنامه واقعی کاهش قیمت‌ها را تقویت می‌کند",
-        "tag": "رسانه",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/donald-trump-issued-brutal-blow-223300000.html",
-        "clean_url": "https://www.aol.com/articles/donald-trump-issued-brutal-blow-223300000.html",
-        "image": "https://hermes.media.transform.aol.com/23d4dc760ffd0caf99bddc9bd43b1d0386d427e0/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/09/21/9316bcca-e1cc-3e7c-965d-b1d1fb5f45f9/29a0b500-0806-476d-8e04-aee0403508a6.jpg",
-        "timestamp": 1789947614.0
     }
 ]
