@@ -590,6 +590,25 @@
         "timestamp": 1790060662.12235
     },
     {
+        "id": "5c0327d9e2",
+        "title_fa": "عجز سعودی‌ها در مقابله با حوثی‌ها",
+        "title_en": "Despite wealth and advanced weapons, Saudis fumbling in fight against Houthis",
+        "summary": [
+            "سعودی‌ها به جای نیروی مستقیم، به نیروهای ضعیف محلی تکیه کرده‌اند؛ این استراتژی نتوانسته حریف را سرنگون کند.",
+            "زمین‌پوشی دشوار یمن، به حوثی‌ها امکان پنهان‌سازی و حمله به سواحل دریای سرخ و سایت‌های نفتی می‌دهد.",
+            "بودجه عظیم و سلاح‌های پیشرفته بدون برنامه‌ریزی عملیاتی مؤثر، نتایج ملموسی به‌دست نمی‌آورد."
+        ],
+        "impact": "اختلال در عبور نفت از خلیج و افزایش هزینه‌های امنیتی منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/despite-wealth-and-advanced-weapons-saudis-fumbling-in-fight-against-houthis/",
+        "clean_url": "https://www.timesofisrael.com/despite-wealth-and-advanced-weapons-saudis-fumbling-in-fight-against-houthis",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26257367254211-e1789654800772-640x400.jpg",
+        "timestamp": 1790060160.0
+    },
+    {
         "id": "43fb97b663",
         "title_fa": "خبر بین‌المللی — Pentagon divide caused aborted US حمله در حوثی‌ها — report",
         "title_en": "Pentagon divide caused aborted US strike on Houthis — report",
@@ -5326,22 +5345,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/videos/international/trumps-biggest-iran-blunder-kash-patel-fired-12-experts-before-war-mazie-hirono-goes-nuclear/videoshow/134377212.cms",
         "image": "https://static.toiimg.com/thumb/msid-134377212,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789967760.0
-    },
-    {
-        "id": "fa1a98260a",
-        "title_fa": "خبر بین‌المللی — GOP Senator Says Donald ترامپ Jr.’s Plush روسی Oligarch Wedd",
-        "title_en": "GOP Senator Says Donald Trump Jr.’s Plush Russian Oligarch Wedding Gift ‘Wrong’ Any Way You Slice It",
-        "summary": [
-            "Sen. Bill Cassidy shamed the president’s son following reports that a Putin ally shelled out $250,000 for his wedding celebrations in May."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/bill-cassidy-donald-trump-jr-wedding-gift_n_6ab057aee4b02be6d959df92",
-        "clean_url": "https://www.huffpost.com/entry/bill-cassidy-donald-trump-jr-wedding-gift_n_6ab057aee4b02be6d959df92",
-        "image": "http://www.bing.com/th?id=ONUT.Q0k8j1a-iSlizERAR0To9Q&pid=News",
-        "timestamp": 1789967100.0
     }
 ]
