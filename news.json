@@ -1,5 +1,25 @@
 [
     {
+        "id": "9a131fed72",
+        "title_fa": "قفل سه کارخانه شیمیایی اینئوس هال؛ خطر انرژی اروپا",
+        "title_en": "Ineos Hull plant shutdown exposes Europe’s risk",
+        "summary": [
+            "اینئوس سه کارخانه شیمیایی در هال را به‌دلیل هزینه گاز بالا تعطیل کرد",
+            "این اقدام ظرفیت اسید استیک اصلی اروپا را کاهش می‌دهد",
+            "کاهش تولید می‌تواند قیمت مواد شیمیایی را بالا ببرد",
+            "ریسک تأمین انرژی در اروپا به‌ویژه در صنایع شیمیایی افزایش می‌یابد"
+        ],
+        "impact": "کاهش ظرفیت شیمیایی اروپا می‌تواند هزینه‌های تولید را به‌طور قابل‌توجهی افزایش دهد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0,
+        "source": "The Hook on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/ineos-hull-plant-shutdown-exposes-europe-s-risk/ar-AA2cKERi?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/ineos-hull-plant-shutdown-exposes-europe-s-risk/ar-AA2cKERi",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790080961.3331714
+    },
+    {
         "id": "f5eb6b91d4",
         "title_fa": "خبر بین‌المللی — ایرانی test-takers head abroad as exam access shrinks",
         "title_en": "Iranian test-takers head abroad as exam access shrinks",
@@ -85,6 +105,26 @@
         "clean_url": "https://www.realcleardefense.com/articles/2026/09/22/the_israeli_card_1207462.html",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790077031.2982447
+    },
+    {
+        "id": "baca8332c2",
+        "title_fa": "جنگ ایران در خاورمیانه گسترش می‌یابد؛ ترامپ بی‌راه‌حل",
+        "title_en": "The Iran war is spreading in the Middle East and Trump has yet to find a way out",
+        "summary": [
+            "جنگ بین ایران و حامیانش به کشورهای همسایه سرایت کرده",
+            "عدم تصمیم‌گیری ترامپ خطر تشدید درگیری‌های نظامی را افزایش می‌دهد",
+            "ریسک گسترش درگیری به خطوط انرژی خاورمیانه می‌رسد",
+            "جامعه بین‌المللی هنوز راه‌حل دیپلماتیک ارائه نکرده"
+        ],
+        "impact": "افزایش تنش‌های نظامی می‌تواند مسیر نفت و گاز خاورمیانه را مختل کند",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTdIeXdaQ095ZnFac1lpTjR4YllpS1FxczlBOUU1aUYwRWx6QVlROFlwellnZGhpdlZIc3JCTnRXS1NSZ1Uya3Y5OUxJNnVFYUwtREE4OWVPWFQ1THBMYXk2V2hfTWFtU09xT1hJcGdHYVBSMk95Q2FPS2JfN0RqYzRkVFdPazNPZ2JsYmQ5bnLSAZABQVVfeXFMTUE3SHl3WkNPeWZxWnNZaU40eGJZaUtRcXM5QTlFNWlGMEVsekFZUThZcHpZZ2RoaXZWSHNyQk50V0tTUmdVMmt2OTlMSTZ1RWFMLURBODllT1hUNUxwTGF5NldoX01hbVNPcU9YSXBnR2FQUjJPeUNhT0tiXzdEamM0ZFRXT2szT2dibGJkOW5y?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTdIeXdaQ095ZnFac1lpTjR4YllpS1FxczlBOUU1aUYwRWx6QVlROFlwellnZGhpdlZIc3JCTnRXS1NSZ1Uya3Y5OUxJNnVFYUwtREE4OWVPWFQ1THBMYXk2V2hfTWFtU09xT1hJcGdHYVBSMk95Q2FPS2JfN0RqYzRkVFdPazNPZ2JsYmQ5bnLSAZABQVVfeXFMTUE3SHl3WkNPeWZxWnNZaU40eGJZaUtRcXM5QTlFNWlGMEVsekFZUThZcHpZZ2RoaXZWSHNyQk50V0tTUmdVMmt2OTlMSTZ1RWFMLURBODllT1hUNUxwTGF5NldoX01hbVNPcU9YSXBnR2FQUjJPeUNhT0tiXzdEamM0ZFRXT2szT2dibGJkOW5y",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790076807.0
     },
     {
         "id": "a8e21e3e3e",
@@ -3173,6 +3213,86 @@
         "timestamp": 1789994658.0
     },
     {
+        "id": "9b3bd9a76f",
+        "title_fa": "ترامپ: ذخایر مهمات آمریکا به سطوح بی‌سابقه رسیده",
+        "title_en": "ترامپ: در حال افزایش ذخایر مهمات خود به سطحی هستیم که هرگز شاهد آن نبودهایم",
+        "summary": [
+            "ترامپ ادعا کرد ذخایر مهمات آمریکا به سطوح بی‌سابقه رسیده",
+            "او این پیام را برای نشان دادن توان نظامی در برابر ایران منتشر کرد",
+            "افزایش موجودی سلاح می‌تواند تهدید مستقیم به موضع ایران باشد",
+            "این ادعا بدون ارائه شواهد دقیق منتشر شد"
+        ],
+        "impact": "بیان‌های پرقدرت می‌تواند استراتژی دفاعی ایران را به‌چالش بکشد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609225029",
+        "clean_url": "https://www.iranintl.com/202609225029",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/c6127341b26d538f03f18afba08776c45a555e7f-3000x2000.png?rect=0,213,3000,1575&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789994551.0
+    },
+    {
+        "id": "d71ec11103",
+        "title_fa": "تحریم جدید آمریکا؛ هواپیمایی‌های ایرانی از سپتامبر بسته می‌شوند",
+        "title_en": "US Warns Iranian Airlines Face Global Shutdown As Washington Expands Sanctions Pressure",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا اعلام کرد از ۲۳ سپتامبر هواپیمایی‌های ایرانی مسدود می‌شوند",
+            "تحریم‌های ثانویه شامل سوخت، خدمات فرود و فروش بلیت می‌شود",
+            "شرکت‌های بین‌المللی که به این خطوط کمک کنند، از سیستم دلاری خارج می‌شوند",
+            "این فشار می‌تواند حمل و نقل مسافران و کالاهای ایران را به‌طور کامل قطع کند"
+        ],
+        "impact": "قطعی کامل حمل‌ونقل هوایی ایران به‌سرعت به کاهش درآمدهای ارزی منجر می‌شود",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Free Press Journal",
+        "url": "https://www.freepressjournal.in/business/us-warns-iranian-airlines-face-global-shutdown-as-washington-expands-sanctions-pressure",
+        "clean_url": "https://www.freepressjournal.in/business/us-warns-iranian-airlines-face-global-shutdown-as-washington-expands-sanctions-pressure",
+        "image": "https://media.assettype.com/freepressjournal/2026-08-21/5xahdh3u/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-21T191756.395.jpg",
+        "timestamp": 1789994550.0
+    },
+    {
+        "id": "3dcc4a7290",
+        "title_fa": "سخنرانی ترامپ در مجمع عمومی سازمان ملل",
+        "title_en": "Trump’s address kicks off jam-packed day at UNGA",
+        "summary": [
+            "ترامپ در مجمع عمومی سازمان ملل به مسائل جهانی اشاره کرد",
+            "او به ادامه فشارهای اقتصادی علیه ایران اشاره نکرد",
+            "حضور او در این صحنه نشان‌دهنده تمایل به حفظ نقش آمریکا در دیپلماسی است",
+            "هیچ برنامه نظامی جدیدی علیه ایران مطرح نشد"
+        ],
+        "impact": "بیان‌های عمومی ممکن است فشار روانی بر ایران را کاهش دهد",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0,
+        "source": "The Hill on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/trump-s-address-kicks-off-jam-packed-day-at-unga/ar-AA2cJYwL?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/politics/trump-s-address-kicks-off-jam-packed-day-at-unga/ar-AA2cJYwL",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789994550.0
+    },
+    {
+        "id": "d6c599dd9b",
+        "title_fa": "آی‌زدادی: سپاه قادر به هدف‌گیری کشتی‌های بزرگ با موشک‌های بالستیک",
+        "title_en": "Iran Guards deputy says Tehran can hit large enemy vessels with ballistic missiles",
+        "summary": [
+            "معاون سپاه پاسداران گفت موشک‌های بالستیک می‌توانند کشتی‌های بزرگ را هدف بگیرند",
+            "این توانمندی نشان‌دهنده پیشرفت برنامه موشکی ایران است",
+            "او از کشورهای منطقه خواست امنیت مشترک را تقویت کنند",
+            "ادعای توان هدف‌گیری در ۱۲ کشور نشان‌دهنده تهدید گسترده است"
+        ],
+        "impact": "تهدید به هدف‌گیری ناوگان‌های دشمن می‌تواند ناوبری در خلیج فارس را تحت فشار قرار دهد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609226244",
+        "clean_url": "https://www.iranintl.com/en/202609226244",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1789994550.0
+    },
+    {
         "id": "c59f660f97",
         "title_fa": "تفسیر: آیا جنگ ایران رای دهندگان جوان را در آستانه انتخابات میان دوره ای از جمهوری خواهان دور می‌کند؟",
         "title_en": "Commentary: Is the Iran war turning young voters away from Republicans ahead of the midterms?",
@@ -5228,113 +5348,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUdOc0I0Qm91cWtRR2ZMTlJSVFZ5Q3lOcFJwRzRwMTIyblpEZTJFT29SSEVBTVplOWJ1UHBHUXJfRlNUN0pud3BDdXg5ZFJKa2pfbjl3R2t6c19kSVlJZFdKS3pPZzgtNHdRbmthR2lNQVcwX28tTWpsSzU1TE5IY0FHY1F5LTRyUlVac2ZYRlBnNXR1bW9LRTJXdTZkUQ",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1789971854.0
-    },
-    {
-        "id": "e1060b3b8b",
-        "title_fa": "ترامپ در مجمع عمومی سازمان ملل به ایران می‌پردازد",
-        "title_en": "Trump set to address the UN General Assembly, with Iran in focus",
-        "summary": [
-            "ترامپ قصد دارد در سخنرانی خود به تحریم‌های سخت‌گیرانه علیه ایران اشاره کند",
-            "این پیام می‌تواند فشار دیپلماتیک واشنگتن را بر برنامه هسته‌ای تهران تقویت کند",
-            "حضور او در نیویورک فرصتی برای جذب حمایت کشورهای خلیج است"
-        ],
-        "impact": "افزایش فشار بین‌المللی بر ایران و احتمال اعمال تحریم‌های جدید",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "scrippsnews.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUdCTDFGd2ZuNDZrUmtkVXYwdlRROENIOGZWYjJSY3IyblcyMGp0UFJSTFNPN1lXakp3alVtUE1WUlI4QWYtWnJlMk9sMGhNSE9ESGN3Z1BacjJCcUh3aHE1T2JyWFFka3BiN3BxNEVmMnl0aWk1LVhnX285akZRbllaa1NQS19GNXVrQ2pYRUFLcmZkdEFxLXFQSjgxWHI2OEZZNUN0ZGRfMXpxc0JIdnRFWEN4UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUdCTDFGd2ZuNDZrUmtkVXYwdlRROENIOGZWYjJSY3IyblcyMGp0UFJSTFNPN1lXakp3alVtUE1WUlI4QWYtWnJlMk9sMGhNSE9ESGN3Z1BacjJCcUh3aHE1T2JyWFFka3BiN3BxNEVmMnl0aWk1LVhnX285akZRbllaa1NQS19GNXVrQ2pYRUFLcmZkdEFxLXFQSjgxWHI2OEZZNUN0ZGRfMXpxc0JIdnRFWEN4UQ",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789971760.0
-    },
-    {
-        "id": "170e4e4fcf",
-        "title_fa": "سلمان ذاکر، نماینده مجلس: ترامپ باید پرچم سفید تسلیم را بالا ببرد",
-        "title_en": "سلمان ذاکر، نماینده مجلس: ترامپ باید پرچم سفید تسلیم را بالا ببرد",
-        "summary": [
-            "برای شخصی‌سازی تجربه شما و تحلیل استفاده از سایت، از کوکی‌ها استفاده می‌کنیم. شما می‌توانید تمام کوکی‌ها را بپذیرید یا رد کنید."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609218497",
-        "clean_url": "https://www.iranintl.com/202609218497",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/35d9297bf01e17b1735838c4508dde18b8c030fc-640x427.jpg?rect=0,46,640,336&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1789971720.0
-    },
-    {
-        "id": "e60e91a84e",
-        "title_fa": "خبر بین‌المللی — As جنگ در Middle East widens, Saudi Arabia’s new defence pa",
-        "title_en": "As war in the Middle East widens, Saudi Arabia’s new defence pact could face a major test",
-        "summary": [
-            "As war in the Middle East widens, Saudi Arabia’s new defence pact could face a major test The Conversation"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWERlSlhTaXQ1VUpqTkFhWUJwNGFmOFc1Wl9lS2xHYzRocldZMndncDJKWUJSelRnYVlYWHB1aHBwUTJVSzNPTUNTVWxVV3Y4RzJXemxiSzNTNDFJNE5lbU43VUxpQnh6ODFoNUR6dTFPUGx0V3l6R19ITFZBallVeDlBb2tIS2lkRmxTMXZzWUhwcVp6OHEzZGxJX1BHbWxaNnlUdXVRbjBTR1Jsa3BmdjBKUUlzVVNfQUpTVE0ydw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWERlSlhTaXQ1VUpqTkFhWUJwNGFmOFc1Wl9lS2xHYzRocldZMndncDJKWUJSelRnYVlYWHB1aHBwUTJVSzNPTUNTVWxVV3Y4RzJXemxiSzNTNDFJNE5lbU43VUxpQnh6ODFoNUR6dTFPUGx0V3l6R19ITFZBallVeDlBb2tIS2lkRmxTMXZzWUhwcVp6OHEzZGxJX1BHbWxaNnlUdXVRbjBTR1Jsa3BmdjBKUUlzVVNfQUpTVE0ydw",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789971523.0
-    },
-    {
-        "id": "e905f0d8c6",
-        "title_fa": "نتانیاهو سفر کوتاه به آمریکا، بدون دیدار با ترامپ",
-        "title_en": "Netanyahu set for one of shortest US trips, to make UN speech with no meeting with Trump",
-        "summary": [
-            "نتانیاهو برنامه‌ریزی سفر کوتاه به واشنگتن را نهایی کرد",
-            "در برنامه هیچ جلسه‌ای با ترامپ وجود ندارد",
-            "او قصد دارد در مجمع عمومی سازمان ملل سخنرانی کند"
-        ],
-        "impact": "روابط اسرائیل‑آمریکا با ایران بدون حضور ترامپ در مذاکرات حفظ می‌شود",
-        "tag": "سفر",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-my/news/news/netanyahu-set-for-one-of-shortest-us-trips-to-make-un-speech-with-no-meeting-with-trump/ar-AA2cId8l?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-my/news/news/netanyahu-set-for-one-of-shortest-us-trips-to-make-un-speech-with-no-meeting-with-trump/ar-AA2cId8l",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789970625.0
-    },
-    {
-        "id": "45f83994a0",
-        "title_fa": "دولت آمریکا مهلت ۲۳ سپتامبر برای تعطیلی پروازهای ایرانی",
-        "title_en": "US sets Sept 23 deadline in new war move against Tehran: 'All Iranian airlines will be grounded globally'",
-        "summary": [
-            "خزانه‌دار آمریکا مهلت ۲۳ سپتامبر را برای قطع تمام پروازهای تجاری ایران اعلام کرد",
-            "این تصمیم می‌تواند شبکه هوایی بین‌المللی ایران را به‌طور جدی مختل کند",
-            "شرکت‌های هواپیمایی جهان مجبور به تعلیق خدمات به ایران خواهند شد"
-        ],
-        "impact": "هواپیمایی ایران به‌صورت ناگهانی از مسیرهای بین‌المللی قطع می‌شود",
-        "tag": "هواپیمایی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ABP News on MSN",
-        "url": "https://www.msn.com/en-in/news/other/us-sets-sept-23-deadline-in-new-war-move-against-tehran-all-iranian-airlines-will-be-grounded-globally/ar-AA2cIxGu?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-sets-sept-23-deadline-in-new-war-move-against-tehran-all-iranian-airlines-will-be-grounded-globally/ar-AA2cIxGu",
-        "image": "https://www.bing.com/th?id=ONUT.tuyVappAMmwGUtFTJVYJsw",
-        "timestamp": 1789970625.0
-    },
-    {
-        "id": "ea20d41877",
-        "title_fa": "خبر بین‌المللی — Kamala Harris launches into 2026 midterms as her 2028 decis",
-        "title_en": "Kamala Harris launches into the 2026 midterms as her 2028 decision looms",
-        "summary": [
-            "Kamala Harris is diving into the midterms, campaigning with Democrats like Senate nominee Abdul El-Sayed in Michigan."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/kamala-harris-2028-elsayed-michigan-bc2ca2bbcffac4f56435fb1b2e1bf547",
-        "clean_url": "https://apnews.com/article/kamala-harris-2028-elsayed-michigan-bc2ca2bbcffac4f56435fb1b2e1bf547",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789969080.0
     }
 ]
