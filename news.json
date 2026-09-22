@@ -1,5 +1,25 @@
 [
     {
+        "id": "c8bea3d583",
+        "title_fa": "پیمان دفاع مشترک مکه: محدودیت‌های ائتلاف ترکیه‑سعودی‑پاکستان",
+        "title_en": "Mecca Defence Pact: A Month On, the Limits of the Saudi Arabia-Turkey-Pakistan Alliance Are Clearer | OPINION",
+        "summary": [
+            "پیمان دفاع مشترک مکه بین سعودی، ترکیه و پاکستان امضای ۷ اوت شد",
+            "متن قرارداد شبیه ماده ۵ ناتو است اما سازوکار اجرایی واضحی ندارد",
+            "عدم یکپارچگی نظامی و مکانیزم تصمیم‌گیری، توان عملیاتی پیمان را زیر سؤال می‌برد",
+            "در صورت بروز بحران، این ائتلاف ممکن است نتواند واکنش مؤثری نشان دهد"
+        ],
+        "impact": "شکست احتمالی در جلوگیری از گسترش تنش‌های خاورمیانه",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Quint",
+        "url": "https://www.thequint.com/opinion/mecca-defence-pact-turkey-pakistan-saudi-political-solidarity",
+        "clean_url": "https://www.thequint.com/opinion/mecca-defence-pact-turkey-pakistan-saudi-political-solidarity",
+        "image": "https://cf-images.assettype.com/thequint%2F2026-09-22%2F15ql32jx%2FHPHyvirWIAAf7F6.jpg",
+        "timestamp": 1790061802.62796
+    },
+    {
         "id": "9fb2e4af4f",
         "title_fa": "ترامپ می‌خواهد چین را به‌دست آورد؛ هند در خطر",
         "title_en": "Opinion | Trump-Xi meet: What China can give America, and what India could lose",
@@ -3237,6 +3257,45 @@
         "timestamp": 1789975500.0
     },
     {
+        "id": "8a2483862a",
+        "title_fa": "ترامپ ایران را پس از حملات حوثی تهدید کرد",
+        "title_en": "Trump threatens Iran after Houthis claim attacks on Saudi tankers",
+        "summary": [
+            "ترامپ گفت ایالات متحده ایران را مسئول حملات حوثی به تانکرهای سعودی می‌داند",
+            "این اظهارات می‌تواند فشار دیپلماتیک و احتمال تحریم‌های جدید را به همراه داشته باشد",
+            "پاسخ رسمی ایران هنوز منتشر نشده"
+        ],
+        "impact": "احتمال اعمال تحریم‌های سخت‌تر و تشدید تنش‌های خلیج فارس",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-threatens-iran-after-houthis-claim-attacks-on-saudi-tankers/ar-AA2cJehi?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-threatens-iran-after-houthis-claim-attacks-on-saudi-tankers/ar-AA2cJehi",
+        "image": "https://www.bing.com/th?id=ONUT.yJLf1R2pLzGpN7W58QtPQA",
+        "timestamp": 1789975397.0
+    },
+    {
+        "id": "11f25dd6af",
+        "title_fa": "ترامپ در مجمع عام ملل درباره جنگ ایران سخن گفت",
+        "title_en": "Trump returns to UN at a moment of anxiety about Iran",
+        "summary": [
+            "ترامپ در جلسه مجمع عام ملل به جنگ جاری علیه ایران اشاره کرد",
+            "او وعده حمایت نظامی و اقتصادی آمریکا را تکرار کرد",
+            "ملاقات‌های سطح بالا با رهبران خلیج و بریتانیا برای هماهنگی استراتژیک برنامه‌ریزی شده است",
+            "این رویکرد باعث نگرانی بین‌المللی درباره گسترش درگیری می‌شود"
+        ],
+        "impact": "تشدید عملیات نظامی و افزایش ریسک درگیری‌های منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Siasat Daily",
+        "url": "https://www.siasat.com/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-3546251/",
+        "clean_url": "https://www.siasat.com/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-3546251",
+        "image": "https://www.bing.com/th?id=ONUT.LiIgriE32E80GdN2LGtyfA",
+        "timestamp": 1789975397.0
+    },
+    {
         "id": "444dd4a229",
         "title_fa": "آخرین جنگ ایران و آمریکا: ترامپ تهدید کرد که کل ملت را منفجر می‌کند",
         "title_en": "Iran-US war latest: Trump threatens to 'blow the entire nation up'",
@@ -5311,60 +5370,5 @@
         "clean_url": "https://www.tbsnews.net/world/iran-commander-says-military-ready-enemys-aggression-after-trump-threat-1549651",
         "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/21/iranian_army_commander_major-general_amir_hatami.jpg",
         "timestamp": 1789938155.0
-    },
-    {
-        "id": "83a2198144",
-        "title_fa": "خبر بین‌المللی — US Issues Fresh ایران-Related تحریم‌ها, Website Shows",
-        "title_en": "US Issues Fresh Iran-Related Sanctions, Website Shows",
-        "summary": [
-            "US Issues Fresh Iran-Related Sanctions, Website Shows EnergyNow.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDNWaFFKLW5sRnpQNWxfOWd4UFRQckZxVF9DX1NWbjNDMnkxdUlHTlZFR29RRzVfYlAycmFyNVVYWDdPRjQ1amlsTHNCLUZOX3NQT20xRVpBX0lBZ25wT3RPaXBFWC1RY0xFUDVYQjREcXNodEwtckp5cEhwQlFvM1RpczVXNUF0NXR3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDNWaFFKLW5sRnpQNWxfOWd4UFRQckZxVF9DX1NWbjNDMnkxdUlHTlZFR29RRzVfYlAycmFyNVVYWDdPRjQ1amlsTHNCLUZOX3NQT20xRVpBX0lBZ25wT3RPaXBFWC1RY0xFUDVYQjREcXNodEwtckp5cEhwQlFvM1RpczVXNUF0NXR3",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1789937566.0
-    },
-    {
-        "id": "510ef0ffbb",
-        "title_fa": "گزینه‌های ترامپ پس از شرایط صلح ایران",
-        "title_en": "What are Trump’s options after Iran laid down 7 conditions for peace talks?",
-        "summary": [
-            "ایران هفت شرط برای مذاکرات صلح مطرح کرد؛ ترامپ باید تصمیم بگیرد که آیا فشار اقتصادی را ادامه دهد یا به دیپلماسی بازگردد.",
-            "اگر ترامپ تحریم‌ها را تقویت کند، احتمال واکنش تند ایران و تشدید تنش‌های منطقه‌ای بالا می‌رود؛ اما بازگشت به مذاکرات می‌تواند به کاهش تنش‌های نظامی کمک کند."
-        ],
-        "impact": "تصمیم‌گیری ترامپ می‌تواند مسیر تحریم‌ها یا مذاکرات صلح را تعیین کند و بر اقتصاد و امنیت منطقه تأثیر مستقیم داشته باشد.",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/explainers/what-are-trumps-options-after-iran-laid-down-7-conditions-for-peace-talks-14047197.html",
-        "clean_url": "https://www.firstpost.com/explainers/what-are-trumps-options-after-iran-laid-down-7-conditions-for-peace-talks-14047197.html",
-        "image": "http://www.bing.com/th?id=ONUT.Z5DTf9tEHg2QOxCIVwm1eQ&pid=News",
-        "timestamp": 1789936920.0
-    },
-    {
-        "id": "656f61b3fb",
-        "title_fa": "ترامپ و شی: هشدار جنگ‌آمادگی چین",
-        "title_en": "Xi prepares China ‘for battle’ as expert warns of grave danger facing US ahead of DC summit",
-        "summary": [
-            "گوردون چانگ می‌گوید شی جین‌پینگ چین را برای جنگ با آمریکا آماده می‌کند.",
-            "این ادعا با برنامه‌ریزی ملاقات دو جانبه در واشنگتن و تمرکز بر هوش مصنوعی و تجارت در تضاد است.",
-            "گزارش‌ها حاکی از کمک چین به ایران در حملات اخیر است که خطرات منطقه‌ای را تشدید می‌کند.",
-            "اگر این ادعاها صحت داشته باشد، فشار دیپلماتیک و احتمال تحریم‌های جدید برای چین افزایش می‌یابد."
-        ],
-        "impact": "اگر چین واقعاً برای جنگ آماده باشد، آمریکا ممکن است تحریم‌های سخت‌تری اعمال کند و تنش‌های نظامی در آسیا‑آتلانتیک تشدید شود.",
-        "tag": "چین-آمریکا",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/media/xi-prepares-china-battle-expert-warns-grave-danger-facing-us-ahead-dc-summit",
-        "clean_url": "https://www.foxnews.com/media/xi-prepares-china-battle-expert-warns-grave-danger-facing-us-ahead-dc-summit",
-        "image": "https://www.bing.com/th?id=ONUT.J-qvB5c71NJ9Nqo2H5PTig",
-        "timestamp": 1789936804.7551005
     }
 ]
