@@ -728,6 +728,25 @@
         "timestamp": 1790010060.0
     },
     {
+        "id": "29ba80deeb",
+        "title_fa": "کاندیدایان جمهوری‌خواه خواستار پایان سریع جنگ ایران",
+        "title_en": "Rogers calls for swift end to Iran War in new Senate campaign ad",
+        "summary": [
+            "دو نامزد سعی می‌کنند از حمایت ترامپ در جنگ ایران فاصله بگیرند تا در انتخابات حساس برنده شوند",
+            "آنها فشارهای اقتصادی مثل افزایش قیمت بنزین و دیزل را به عنوان دلیل اصلی پایان جنگ مطرح می‌کنند",
+            "این تغییر لحن نشان می‌دهد که فشار داخلی برای محدود کردن مداخله نظامی در خاورمیانه در حال تقویت است"
+        ],
+        "impact": "فشار داخلی بر دولت آمریکا برای کاهش عملیات نظامی در ایران افزایش می‌یابد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/rogers-calls-swift-end-iran-002117222.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/rogers-calls-swift-end-iran-002117222.html",
+        "image": "http://www.bing.com/th?id=ONUT.2q0KtYw-Uwjn7gGUEKfDPA&pid=News",
+        "timestamp": 1790010000.0
+    },
+    {
         "id": "e71ccc4858",
         "title_fa": "تلاش رژیم ایران برای از بین بردن شواهد جنایات خود نشان می‌دهد که این رژیم نگران است روز داوری نزدیک است - استروان استیونسون",
         "title_en": "Iran regime's attempt to destroy evidence of its crimes shows it fears judgment day is nigh – Struan Stevenson",
@@ -5356,22 +5375,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/videos/international/trump-secretly-deals-with-houthis-dumps-mbs-as-iran-ally-hammers-saudi-arabia/videoshow/134377209.cms",
         "image": "https://static.toiimg.com/thumb/msid-134377209,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1789917180.0
-    },
-    {
-        "id": "38ba73761b",
-        "title_fa": "گوردون چانگ به نیوزمکس: توافق هوش مصنوعی با چین \"غیرقابل اجرا\" است",
-        "title_en": "Gordon Chang to Newsmax: AI Deal With China 'Unenforceable'",
-        "summary": [
-            "President Donald Trump should make artificial intelligence a major focus of his upcoming summit with Chinese President Xi..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Newsmax",
-        "url": "https://www.newsmax.com/newsmax-tv/gordon-chang-ai-china/2026/09/20/id/1270028/",
-        "clean_url": "https://www.newsmax.com/newsmax-tv/gordon-chang-ai-china/2026/09/20/id/1270028",
-        "image": "https://www.bing.com/th?id=ONUT.E7wGa-oGW9xYwhrwYbugXw",
-        "timestamp": 1789917160.5170178
     }
 ]
