@@ -1,5 +1,24 @@
 [
     {
+        "id": "e6d67d4136",
+        "title_fa": "ترامپ و لولا در افتتاح اجلاس 130 سرپرست‌دولت",
+        "title_en": "Trump y Lula intervienen en la jornada inaugural de la cumbre, que reúne a más de 130 jefes de Estado y de Gobierno",
+        "summary": [
+            "در مراسم افتتاح اجلاس بین‌المللی، ترامپ و لولا به‌صورت مشترک سخنرانی کردند",
+            "هر دو به ضرورت همکاری‌های اقتصادی و امنیتی در برابر تهدیدهای منطقه‌ای اشاره کردند",
+            "حضور این دو رهبر نشان‌دهنده تقویت روابط آمریکا‑برزیل است"
+        ],
+        "impact": "تقویت هم‌پیمانی‌های تجاری و نظامی میان آمریکا و برزیل می‌تواند تعادل قدرت در قاره‌ها را تغییر دهد",
+        "tag": "اجلاس",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "EL PAÍS",
+        "url": "https://elpais.com/internacional/2026-09-22/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
+        "clean_url": "https://elpais.com/internacional/2026-09-22/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
+        "image": "https://www.bing.com/th?id=ONUT.M6PBqA0rvdr1WnoOZQJBsA",
+        "timestamp": 1790082235.79125
+    },
+    {
         "id": "9a131fed72",
         "title_fa": "قفل سه کارخانه شیمیایی اینئوس هال؛ خطر انرژی اروپا",
         "title_en": "Ineos Hull plant shutdown exposes Europe’s risk",
@@ -3109,6 +3128,64 @@
         "timestamp": 1789995840.0
     },
     {
+        "id": "504e2df4e3",
+        "title_fa": "پروسهٔ فدرال آمریکا علیه بایننس برای نقض تحریم‌های ایران",
+        "title_en": "US Prosecutors Probe Binance Over Potential Iran Sanctions Violations, Bloomberg Reports",
+        "summary": [
+            "دادستانان نیویورک به بررسی معاملات بایننس که ممکن است به فروش نفت ایران کمک کرده بپردازند",
+            "بایننس ادعا می‌کند صفر تحمل برای نقض تحریم‌ها دارد و با مقامات همکاری می‌کند",
+            "این بررسی پس از پروندهٔ مصادره رمزارزهای مرتبط با نفت ایران آغاز شد"
+        ],
+        "impact": "ممکن است جریمه سنگین و محدودیت‌های دسترسی بایننس در آمریکا ایجاد شود",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Crypto Daily",
+        "url": "https://cryptodaily.co.uk/2026/09/us-prosecutors-binance-iran-sanctions-probe",
+        "clean_url": "https://cryptodaily.co.uk/2026/09/us-prosecutors-binance-iran-sanctions-probe",
+        "image": "https://images.cryptodaily.co.uk/space/articles/us-prosecutors-binance-iran-sanctions-probe/us-prosecutors-binance-iran-sanctions-probe-us-prosecutors-probe-binance-over-potential-iran-sanctions-v-1.jpg",
+        "timestamp": 1789995829.0
+    },
+    {
+        "id": "4a460872d6",
+        "title_fa": "ایران کشتی‌های اسارت‌شدهٔ آمریکا و اسرائیل را می‌فروشد",
+        "title_en": "Iran bakal jual kapal AS & Israel yang disita di Selat Hormuz",
+        "summary": [
+            "وزارت خارجه ایران اعلام کرد کشتی‌های ضبط‌شده در تنگه هرمز به فروش می‌رسند",
+            "هدف فروش تأمین مالی برای پروژه‌های داخلی است",
+            "خریداران احتمالی کشورهای مخالف تحریم هستند",
+            "این اقدام می‌تواند تنش‌های دریایی را تشدید کند"
+        ],
+        "impact": "فروش کشتی‌ها می‌تواند فشار اقتصادی بر آمریکا و اسرائیل را افزایش دهد",
+        "tag": "کشتی",
+        "urgency": 6,
+        "sentiment": -0.1,
+        "source": "JPNN.com on MSN",
+        "url": "https://www.msn.com/id-id/ekonomi/ekonomi/iran-bakal-jual-kapal-as-israel-yang-disita-di-selat-hormuz/ar-AA2cKkTv?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/id-id/ekonomi/ekonomi/iran-bakal-jual-kapal-as-israel-yang-disita-di-selat-hormuz/ar-AA2cKkTv",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1789995829.0
+    },
+    {
+        "id": "fb26fb1ad4",
+        "title_fa": "دکترین هسته‌ای ترامپ: مانع جنگ جهانی سوم",
+        "title_en": "Biden brought us to the brink of WWIII. Trump’s nuclear doctrine is stopping it",
+        "summary": [
+            "مقاله ادعا می‌کند ترامپ با بازنگری استراتژی هسته‌ای خطر تشدید تنش‌ها را کاهش داده",
+            "طرح جدید شامل تقویت موشک‌های موضعی و کاهش وابستگی به سلاح‌های استراتژیک است",
+            "منتقدان می‌گویند این تغییر می‌تواند هم‌پوشانی نظامی ایجاد کند"
+        ],
+        "impact": "تغییر سیاست هسته‌ای آمریکا می‌تواند ریسک تصاعد نظامی را در خاورمیانه کم کند",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/biden-brought-us-to-the-brink-of-wwiii-trump-s-nuclear-doctrine-is-stopping-it/ar-AA2cJNMe?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/biden-brought-us-to-the-brink-of-wwiii-trump-s-nuclear-doctrine-is-stopping-it/ar-AA2cJNMe",
+        "image": "https://www.bing.com/th?id=ONUT.-wBLhVsEdFbqOoa3Bm2gxA",
+        "timestamp": 1789995829.0
+    },
+    {
         "id": "73408d8a5d",
         "title_fa": "ترامپ با فشار اقتصادی خردکننده ای به ایران ضربه می‌زند... سپس تندروهای تهران منافع آمریکا را تهدید می‌کنند - \"اکنون خطرناک می‌شود\"",
         "title_en": "Trump hits Iran with crushing economic pressure… then Tehran’s hardliners threaten American interests - \"Now it gets dangerous\"",
@@ -5268,76 +5345,5 @@
         "clean_url": "https://www.msn.com/de-ch/nachrichten/other/trump-in-neuer-umfrage-so-unbeliebt-wie-noch-nie/ar-AA2cIFhQ",
         "image": "https://www.bing.com/th?id=ONUT.uXX3XCLUoFexvBsJF7DlXg",
         "timestamp": 1789973159.0
-    },
-    {
-        "id": "1c851d28c9",
-        "title_fa": "خبر بین‌المللی — ترامپ invoked this name nearly 900 times this year: ‘It’s an",
-        "title_en": "Trump invoked this name nearly 900 times this year: ‘It’s an obsession’",
-        "summary": [
-            "President Donald Trump has mentioned his predecessor’s name nearly 900 times this year, according to a new review. Reuters reported Monday that Trump has invoked Biden, on average, three times a day..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NJ.com",
-        "url": "https://www.nj.com/politics/2026/09/trump-invoked-this-name-nearly-900-times-this-year-its-an-obsession.html",
-        "clean_url": "https://www.nj.com/politics/2026/09/trump-invoked-this-name-nearly-900-times-this-year-its-an-obsession.html",
-        "image": "http://www.bing.com/th?id=ONUT.CvJBXZj5ndglP-MrFVvKqQ&pid=News",
-        "timestamp": 1789973040.0
-    },
-    {
-        "id": "7e588f4e8f",
-        "title_fa": "سپاه: مهندسی معکوس پهپاد زیرآبی آمریکا",
-        "title_en": "Iran to begin reverse engineering of captured US underwater drone: IRGC",
-        "summary": [
-            "سپاه گفت پس از تصرف یک پهپاد زیرآبی آمریکایی، فرآیند مهندسی معکوس آغاز شده",
-            "این کار نشان‌دهنده توان فنی پیشرفته در مقابل تجهیزات غربی است"
-        ],
-        "impact": "تقویت توان دفاعی و کاهش برتری فنی آمریکا",
-        "tag": "فناوری",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/09/22/776777/Reverse-engineering-of-captured-US-submersible-begin--IRGC-spokesman",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/22/776777/Reverse-engineering-of-captured-US-submersible-begin--IRGC-spokesman",
-        "image": "https://cdn.presstv.co.uk/Photo/2026/9/21/360cd891-575e-4482-be87-89ef75d5d9e1.PNG",
-        "timestamp": 1789973029.0
-    },
-    {
-        "id": "f710a6f6f1",
-        "title_fa": "ترامپ به نیویورک می‌رود؛ ایران شرایط گفتگو را اعلام کرد",
-        "title_en": "Trump heads to UN as Iran offers conditions for talks, end to war | Morning in America",
-        "summary": [
-            "ترامپ برای نشست مجمع ملل می‌رود در حالی که ایران پیش‌نیازهای پایان جنگ و تجدید مذاکرات را مطرح کرده.",
-            "حضور چین در کنار شی جین‌پینگ می‌تواند فشار دیپلماتیک بر واشنگتن را تقویت کند.",
-            "اگر مذاکرات پیش بروند، احتمال کاهش تحریم‌های اقتصادی برای ایران افزایش می‌یابد."
-        ],
-        "impact": "پیشنهادهای ایران می‌تواند مسیر کاهش تحریم‌ها و تغییر دینامیک منطقه‌ای را باز کند",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/videos/trump-heads-un-iran-offers-133605145.html",
-        "clean_url": "https://www.yahoo.com/news/videos/trump-heads-un-iran-offers-133605145.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/bce57ad9d4c4ca094949c9dc1ffe26e33a66accd8ec716c8c10d5b459e974538/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_videos_816%2F6cb9381629e734be53cdba70d52357e4.jpg",
-        "timestamp": 1789972560.0
-    },
-    {
-        "id": "f31b481c91",
-        "title_fa": "خبر بین‌المللی — Rising gas prices frustrate voters. ترامپ says it’s an ‘inex",
-        "title_en": "Rising gas prices frustrate voters. Trump says it’s an ‘inexpensive price to pay’ for the Iran war",
-        "summary": [
-            "“You have a little higher. It’s a very inexpensive price to pay for what we’ve done,” Trump said of the war, which he describes as critical to prevent Iran from obtaining a nuclear weapon. “Remember..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/09/21/gas-prices-voters-trump-iran-war/",
-        "clean_url": "https://www.baltimoresun.com/2026/09/21/gas-prices-voters-trump-iran-war",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/US_Gas_Price_35671-1.jpg?w=2000&h=1322",
-        "timestamp": 1789972260.0
     }
 ]
