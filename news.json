@@ -70,6 +70,24 @@
         "timestamp": 1790032937.6536067
     },
     {
+        "id": "3a5bfe486e",
+        "title_fa": "فرانسه خواست هوتی‌ها از تشدید خودداری کنند",
+        "title_en": "Houthis must stop escalation and commit to peace, France's UN envoy tells Arab News",
+        "summary": [
+            "سفیر فرانسه در سازمان ملل از حوثی‌ها خواست تا از حملات نظامی در یمن و مسیرهای کشتی‌رانی باب‌ال‌منداب دست بکشند.",
+            "این درخواست نشان می‌دهد که جامعه بین‌المللی به دنبال جلوگیری از گسترش درگیری‌های نیابتی در خلیج فارس است."
+        ],
+        "impact": "کاهش احتمال تشدید درگیری‌های نیابتی در خلیج فارس",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Arab News",
+        "url": "https://www.arabnews.com/middle-east/houthis-must-stop-escalation-and-commit-to-peace-frances-un-envoy-tells-arab-news-3002603",
+        "clean_url": "https://www.arabnews.com/middle-east/houthis-must-stop-escalation-and-commit-to-peace-frances-un-envoy-tells-arab-news-3002603",
+        "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1790032336021-80865f5faff77aab.jpg",
+        "timestamp": 1790032440.0
+    },
+    {
         "id": "50332cc19f",
         "title_fa": "Blank check برای اسرائیل: Van Hollen exposes ترامپ’s deal with نتانیاهو; reality ایران & غزه",
         "title_en": "Blank check for Israel: Van Hollen exposes Trump’s deal with Netanyahu; reality of Iran & Gaza",
@@ -690,6 +708,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/post-reader-believes-government-spending-fuels-amendment-3-letters/ar-AA2cHfSi",
         "image": "https://www.bing.com/th?id=ONUT.hytRU6NJsI230H5leMECyg",
         "timestamp": 1790010195.6131232
+    },
+    {
+        "id": "782f6c215f",
+        "title_fa": "تهدیدهای ترامپ به ایران پیش از اجلاس جهانی",
+        "title_en": "Trump and Iran Exchange Threats as Leaders Converge for Key U.N. Gathering. Can the Meeting Cool Rising Tensions?",
+        "summary": [
+            "ترامپ در مصاحبه‌ای با فاکس‌نیوز گفت ایران باید «رفتار مناسبی» داشته باشد و در صورت عدم تبعیت، گزینه‌های «نابود کردن» یا «تحریم‌های شدید» را در نظر دارد.",
+            "سخن‌سخنان او می‌تواند فشار دیپلماتیک را به سطح نظامی برساند و خطر گسترش جنگ را در زمان نشست عمومی ملل افزایش دهد."
+        ],
+        "impact": "افزایش خطر درگیری نظامی و تحریم‌های گسترده علیه ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/09/21/trump-iran-war-united-nations-general-assembly/",
+        "clean_url": "https://time.com/article/2026/09/21/trump-iran-war-united-nations-general-assembly",
+        "image": "http://www.bing.com/th?id=ONUT.OWHkamiibfQUDoQdy7kezg&pid=News",
+        "timestamp": 1790010060.0
     },
     {
         "id": "e71ccc4858",
@@ -5337,43 +5373,5 @@
         "clean_url": "https://www.newsmax.com/newsmax-tv/gordon-chang-ai-china/2026/09/20/id/1270028",
         "image": "https://www.bing.com/th?id=ONUT.E7wGa-oGW9xYwhrwYbugXw",
         "timestamp": 1789917160.5170178
-    },
-    {
-        "id": "4612e7dbb1",
-        "title_fa": "قیمت نفت به کمترین یک‌هفته‌ای رسید",
-        "title_en": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war",
-        "summary": [
-            "قیمت نفت به دلیل امید به پیشرفت دیپلماسی در جنگ ایران کاهش یافت",
-            "بازار انتظار دارد تحریم‌ها شاید نرم شوند",
-            "کاهش قیمت ممکن است فشار بر درآمدهای نفتی ایران را افزایش دهد"
-        ],
-        "impact": "کاهش قیمت نفت می‌تواند درآمدهای نفتی ایران را تحت فشار قرار دهد",
-        "tag": "نفت",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/energy/oil-rises-after-houthi-attack-saudi-capital-2026-09-20/",
-        "clean_url": "https://www.reuters.com/business/energy/oil-rises-after-houthi-attack-saudi-capital-2026-09-20",
-        "image": "https://www.reuters.com/resizer/v2/KRVL5P3LHZNQ5N2YDBWA4XMBAM.jpg?auth=1e81760866fa18d8d3414e0c96973cf19f694a78a631a9a8a90f33e12dfa1cf5&height=1005&width=1920&quality=80&smart=true",
-        "timestamp": 1789917000.0
-    },
-    {
-        "id": "fe1aa02c59",
-        "title_fa": "وولت زمان پایان جنگ ایران را نمی‌گوید",
-        "title_en": "Waltz Won’t Give Iran War End Date as New Poll Shows Voter Skepticism",
-        "summary": [
-            "وولت اعلام کرد که تاریخ پایان جنگ ایران را مشخص نمی‌کند، در حالی که ترامپ پیش‌تر گفته بود جنگ در چند هفته تمام می‌شود",
-            "نظرسنجی NBC نشان داد 62٪ رای‌دهندگان جنگ را بی‌ارزش می‌دانند و 57٪ کمتر تمایل به حمایت از کاندیداهای حامی آن دارند",
-            "فشار داخلی بر جمهوری‌خواهان برای بازنگری در سیاست‌های نظامی افزایش می‌یابد"
-        ],
-        "impact": "عدم تعیین زمان پایان جنگ، فشار سیاسی بر جمهوری‌خواهان و ریسک کاهش حمایت عمومی",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/mike-waltz-iran-war-end-date-voter-skepticism-poll-12465764",
-        "clean_url": "https://www.newsweek.com/mike-waltz-iran-war-end-date-voter-skepticism-poll-12465764",
-        "image": "https://assets.newsweek.com/wp-content/uploads/2026/09/GettyImages-2269666738.jpg?w=1200&crop=1",
-        "timestamp": 1789917000.0
     }
 ]
