@@ -1,5 +1,43 @@
 [
     {
+        "id": "cf4e5598e1",
+        "title_fa": "تجلیل ترامپ از مسیر هند‑خاورمیانه‑اروپا، مزیت برای هند",
+        "title_en": "Advantage India after Trump endorses India-Middle East-Europe Corridor?",
+        "summary": [
+            "ترامپ حمایت خود را از پروژه راه‌آهن بین‌المللی اعلام کرد",
+            "هند می‌تواند به‌عنوان نقطه اتصال تجاری در این مسیر نقش کلیدی ایفا کند",
+            "پروژه می‌تواند جریان کالاها را از خاورمیانه به اروپا تسریع کند"
+        ],
+        "impact": "تقویت موقعیت تجاری هند در مسیرهای جابجایی بین‌المللی و جذب سرمایه‌گذاری‌های خارجی",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/explainers/trump-india-middle-east-europe-corridor-support-india-advantage-us-iran-war-14047870.html",
+        "clean_url": "https://www.firstpost.com/explainers/trump-india-middle-east-europe-corridor-support-india-advantage-us-iran-war-14047870.html",
+        "image": "https://www.bing.com/th?id=ONUT.r3YmxEJnylk5KK-U1R6nfA",
+        "timestamp": 1790165055.859228
+    },
+    {
+        "id": "f515721b48",
+        "title_fa": "کارلسون: فشار رسانه‌ای ترامپ بر روزنامه‌نگاران",
+        "title_en": "Gretchen Carlson on press under Trump: ‘It’s my hope journalists will start speaking up’",
+        "summary": [
+            "ترامپ شبکه‌های تلویزیونی رقیب را از کاخ سفید منع کرد و رسانه‌ها را به‌یک‌دیگر وابسته کرد",
+            "کارلسون از روزنامه‌نگاران خواستند در برابر این حمله صدا بلند کنند",
+            "این جدال می‌تواند فضای آزادی مطبوعات در واشنگتن را تنگ‌تر کند"
+        ],
+        "impact": "فشار بر آزادی مطبوعات افزایش می‌یابد و ممکن است خودسانسوری در رسانه‌ها رشد کند",
+        "tag": "رسانه",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/gretchen-carlson-press-under-trump-100045000.html",
+        "clean_url": "https://www.aol.com/articles/gretchen-carlson-press-under-trump-100045000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/09/23/7e8a3f4c-3884-34fa-b890-feef641b400b/aaf2c218-5590-4fba-8d58-b2911af9c346.jpg",
+        "timestamp": 1790165055.8581486
+    },
+    {
         "id": "a3229b7176",
         "title_fa": "حضور نظامیان در مدارس و فشارهای ایدئولوژیک بر دانشآموزان در آغاز سال تحصیلی",
         "title_en": "حضور نظامیان در مدارس و فشارهای ایدئولوژیک بر دانشآموزان در آغاز سال تحصیلی",
@@ -224,6 +262,25 @@
         "clean_url": "https://www.lavocedelpatriota.it/trump-allonu-senza-confini-non-esistono-nazioni",
         "image": "https://www.bing.com/th?id=ONUT.f8VA03i6V3xJSUOmzHZ_OQ",
         "timestamp": 1790157101.1022022
+    },
+    {
+        "id": "3d645fa3b7",
+        "title_fa": "گالری ویدئویی فرماندهی مرکزی آمریکا",
+        "title_en": "U.S. Central Command Video Gallery",
+        "summary": [
+            "وب‌سایت CENTCOM مجموعه‌ای از ویدئوهای عمومی نظامی را منتشر کرده",
+            "محتوا شامل تمرینات و عملیات‌های اطلاعاتی است و خبری جدید ارائه نمی‌دهد",
+            "این گالری بیشتر برای نمایش توانمندی‌های نظامی به‌کار می‌رود"
+        ],
+        "impact": "اطلاع‌رسانی محدود؛ تأثیر عملی یا اقتصادی چشمگیری ندارد",
+        "tag": "نظامی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "centcom.mil",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNdUZpaEJ4VVFlR0lXZEx4Sk83c2RnN2hWVnl2WTZfaHo5MWNURElXQUVHd1VTS1lDMGtIOGhPZ2dPS2h5ZXlSWElqRndEV1RuWjJMNXZxaTdyUUJEVGdtQlIxV212UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNdUZpaEJ4VVFlR0lXZEx4Sk83c2RnN2hWVnl2WTZfaHo5MWNURElXQUVHd1VTS1lDMGtIOGhPZ2dPS2h5ZXlSWElqRndEV1RuWjJMNXZxaTdyUUJEVGdtQlIxV212UQ",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790156845.0
     },
     {
         "id": "4f19189b93",
@@ -2487,6 +2544,25 @@
         "timestamp": 1790089860.0
     },
     {
+        "id": "ea0318ce01",
+        "title_fa": "هانان چین فناوری‌های صفرکربن را گسترش می‌دهد",
+        "title_en": "China's Hainan to develop zero carbon technologies based on Boao Forum for Asia experience",
+        "summary": [
+            "استان هانان در چارچوب برنامه پنج‌ساله 2026‑2030 به‌سراغ فناوری‌های سبز می‌رود",
+            "تجربه منطقه بوآو به‌عنوان الگوی توسعه کم‌کربن برای شهرهای دیگر استفاده می‌شود",
+            "این برنامه می‌تواند به‌بهبود کیفیت هوای منطقه و جذب سرمایه‌گذاری‌های سبز منجر شود"
+        ],
+        "impact": "الگوی موفق برای توسعه پایدار در چین و احتمال انتقال فناوری به سایر مناطق",
+        "tag": "محیط‌زیست",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2191229",
+        "clean_url": "https://tass.com/economy/2191229",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790089560.0
+    },
+    {
         "id": "9fd9ef22ff",
         "title_fa": "ترامپ به سازمان ملل می‌گوید که می‌تواند ایران را «نابودی» کند اما انتظار دارد پس از انتخابات میان‌دوره‌ای به توافق برسد.",
         "title_en": "Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections",
@@ -2693,6 +2769,23 @@
         "clean_url": "https://new.finalcall.com/2026/09/22/top-security-military-brass-hail-200-nights-of-nationwide-rallies-as-proof-of-irans-strength",
         "image": "https://new.finalcall.com/wp-content/uploads/2026/01/GettyImages-2255940589-scaled.jpg",
         "timestamp": 1790086410.7662637
+    },
+    {
+        "id": "5a2779c2a6",
+        "title_fa": "خبر بین‌المللی — روسیه به address در detail objectives special mil-op at UNG",
+        "title_en": "Russia to address in detail objectives of special mil-op at UNGA — diplomat",
+        "summary": [
+            "Russia is set to use the platform of the UN Security Council meeting on September 23 to outline the objectives of its special military operation and focus on the issue of Ukraine's Nazification, Director of the Russian Foreign Ministry's Department of International Organizations Kirill Logvinov said in an interview with TASS."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2191187",
+        "clean_url": "https://tass.com/politics/2191187",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790085960.0
     },
     {
         "id": "36a1c6089e",
@@ -3218,6 +3311,63 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTJHS2hXV0doNGMtQjkxWnYzNWhNeXF0NGJwQ2U0Vm1FRkFsRk5iTlp3MDlXc0pOdEVaTm1JemNobFRxVVVnanBOM2dMVXh5eWF4SXdqWVFEVzlqTW5VUThoNmdsZDR0bGloRzMwRkkybnVRUkY0blFtRXBSMWFfOFg1bkpFalJaV095Z0FVYWFBWVBfVHlLNmdmcUJGYnZZVDJLejk3NnlFeHlGSEV6TWNfbUJmZ0hpZWQ5cHhB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790079056.0
+    },
+    {
+        "id": "1256745005",
+        "title_fa": "سندرز طرح ممنوعیت هوش‌مصنوعی برتر را معرفی کرد",
+        "title_en": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+        "summary": [
+            "لایحه‌ای برای ممنوع کردن هوش‌مصنوعی فوق‌العاده و توقف توسعه پیشرفته تا زمان تدوین چارچوب‌ها ارائه شد",
+            "ایجاد وزارت جدید هوش‌مصنوعی هدف نظارت مرکزی بر پیشرفت‌های فناوری است",
+            "پشتیبانی برخی کارمندان شرکت‌های بزرگ هوش‌مصنوعی نشان از نگرانی‌های داخلی صنعت دارد"
+        ],
+        "impact": "قوانین سخت‌گیرانه می‌تواند مسیر رشد فناوری AI در آمریکا را کند یا تغییر جهت دهد",
+        "tag": "فناوری",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/politics/nation/bernie-sanders-artificial-superintelligence-ban-20260923.html",
+        "clean_url": "https://www.inquirer.com/politics/nation/bernie-sanders-artificial-superintelligence-ban-20260923.html",
+        "image": "https://www.inquirer.com/resizer/v2/664OG7GQZIBPQIUFCVD7Q2CZSE.jpg?auth=0ad7967484ec3757d02b0331f802fc6839732f6faa995c8ef6323073af7d1023&width=760&height=507&smart=true",
+        "timestamp": 1790078637.0
+    },
+    {
+        "id": "400d8ff9c8",
+        "title_fa": "شی جین‌پینگ علاقه‌ای به بهبود روابط با ترامپ نشان نمی‌دهد",
+        "title_en": "Xi has no interest in stabilizing relations with Trump",
+        "summary": [
+            "در دیدار واشنگتن، شی اعلام کرد که هدف اصلی او نشان قدرت است نه صلح‌پذیری",
+            "بیان این موضع می‌تواند مذاکرات تجاری و امنیتی را به‌سختی پیش ببرد",
+            "تحلیل‌گران می‌گویند این رفتار نشان از ادامه رقابت استراتژیک چین‑آمریکا است"
+        ],
+        "impact": "پتانسیل همکاری‌های دوجانبه کاهش می‌یابد و فشار بر زنجیره‌های تأمین جهانی افزایش می‌یابد",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Spectator on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/xi-has-no-interest-in-stabilizing-relations-with-trump/ar-AA2cOvel?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/xi-has-no-interest-in-stabilizing-relations-with-trump/ar-AA2cOvel",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790078637.0
+    },
+    {
+        "id": "c6babc9d96",
+        "title_fa": "سفیدخانه صادرات دیزل را به‌دلیل قیمت‌های بالا بررسی می‌کند",
+        "title_en": "White House considers ban on diesel exports as prices keep rising",
+        "summary": [
+            "قیمت‌های جهانی دیزل به‌سرعت در حال افزایش است و دولت آمریکا به‌دنبال محدود کردن صادرات است",
+            "محدودیت می‌تواند عرضه جهانی را کاهش داده و قیمت‌ها را برای مصرف‌کنندگان دیگر بالا ببرد",
+            "صنعت حمل‌ونقل داخلی آمریکا ممکن است از این تصمیم بهره‌مند شود"
+        ],
+        "impact": "قیمت سوخت در بازارهای بین‌المللی فشار می‌گیرد و هزینه‌های حمل‌ونقل جهانی ارتقا می‌یابد",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/white-house-considers-ban-on-diesel-exports-as-prices-keep-rising/ar-AA2cP6hv?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/white-house-considers-ban-on-diesel-exports-as-prices-keep-rising/ar-AA2cP6hv",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790078637.0
     },
     {
         "id": "6a179514aa",
@@ -5189,147 +5339,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/opinion-pakistans-hajj-heist-mecca-pact/ar-AA2cJrkS",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790064211.653377
-    },
-    {
-        "id": "65e3d09adf",
-        "title_fa": "خبر بین‌المللی — ایران’s Long Game در Türkiye: From Political Islam به Post-",
-        "title_en": "Iran’s Long Game in Türkiye: From Political Islam to the Post-Erdoğan Era",
-        "summary": [
-            "Iran’s strategy toward Türkiye has evolved significantly over the past several decades. As examined in the first installment of this series, Tehran developed intelligence networks and operational..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Homeland Security Today",
-        "url": "https://www.hstoday.us/subject-matter-areas/counterterrorism/irans-long-game-in-turkiye-from-political-islam-to-the-post-erdogan-era/",
-        "clean_url": "https://www.hstoday.us/subject-matter-areas/counterterrorism/irans-long-game-in-turkiye-from-political-islam-to-the-post-erdogan-era",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790064206.723355
-    },
-    {
-        "id": "a1a6341052",
-        "title_fa": "تحلیل حقایق سخنرانی ترامپ در سازمان ملل",
-        "title_en": "Fact check on Trump: Every lie he told during his UN speech",
-        "summary": [
-            "سخنرانی ترامپ شامل چندین ادعای نادرست بود",
-            "ادعاهای نادرست درباره ایران و چین بیشترین توجه را جلب کردند",
-            "سازمان‌های خبری به سرعت به‌روزرسانی کردند"
-        ],
-        "impact": "اعتماد بین‌المللی به گفته‌های ترامپ کاهش یافت",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "Dagens.com on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/fact-check-on-trump-every-lie-he-told-during-his-un-speech/ar-AA2cNpVq?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/fact-check-on-trump-every-lie-he-told-during-his-un-speech/ar-AA2cNpVq",
-        "image": "https://www.bing.com/th?id=ONUT.F5zdAPKVQ-w1k1tD8xVk9w",
-        "timestamp": 1790064195.0
-    },
-    {
-        "id": "36abc91f42",
-        "title_fa": "بازار آلمان پس از مذاکرات آمریکا‑ایران صعود کرد",
-        "title_en": "Verhandlungen zwischen USA und Iran: DAX mit festem Handelsstart",
-        "summary": [
-            "خبر مذاکرات جدید بین واشنگتن و تهران باعث امید به رفع تحریم‌ها شد",
-            "سرمایه‌گذاران به‌سرعت سهام DAX را خریدند",
-            "رشد کوتاه‌مدت شاخص می‌تواند فشار بر ارزهای اروپایی را کاهش دهد"
-        ],
-        "impact": "قیمت سهام آلمانی در روزهای آینده احتمالاً بالا می‌ماند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "finanzen.net on MSN",
-        "url": "https://www.msn.com/de-de/nachrichten/other/verhandlungen-zwischen-usa-und-iran-dax-mit-festem-handelsstart-vortageshoch-im-blick/ar-AA2cNLTv?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/de-de/nachrichten/other/verhandlungen-zwischen-usa-und-iran-dax-mit-festem-handelsstart-vortageshoch-im-blick/ar-AA2cNLTv",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790064195.0
-    },
-    {
-        "id": "9bf36d7ec7",
-        "title_fa": "خبر بین‌المللی — What به know about hospital deals with ترامپ administration",
-        "title_en": "What to know about hospital deals with the Trump administration to avoid treating transgender minors",
-        "summary": [
-            "The Justice Department announced settlements last week with New York University Langone Hospitals and the University of Pittsburgh Medical Centers. The hospitals agreed not to provide puberty blockers..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Los Angeles Daily News",
-        "url": "https://www.dailynews.com/2026/09/22/hospital-deals-trump-administration-transgender-minors/",
-        "clean_url": "https://www.dailynews.com/2026/09/22/hospital-deals-trump-administration-transgender-minors",
-        "image": "https://www.dailynews.com/wp-content/uploads/2026/09/Transgender_Health_What_to_Know__8974.jpg?w=2000&h=1334",
-        "timestamp": 1790063520.0
-    },
-    {
-        "id": "1cb4ceac7d",
-        "title_fa": "ترامپ: پس انتخابات، توافق با ایران می‌شود",
-        "title_en": "Trump Says He Thinks US Will Make Deal With Iran After Election",
-        "summary": [
-            "ترامپ پس از انتخابات میانه‌دوره‌ای اعلام کرد که آمریکا باید سریعاً به توافق هسته‌ای با ایران برسد",
-            "او می‌گوید عدم توافق برای هر دو طرف منطقی نیست و می‌تواند تنش‌ها را کاهش دهد",
-            "این اظهارنظر می‌تواند فشار داخلی بر دولت فعلی را برای بازگشت به میز مذاکره تقویت کند"
-        ],
-        "impact": "توقع بازگشت به مذاکرات هسته‌ای می‌تواند تحریم‌ها را کاهش و اقتصاد ایران را تسکین دهد",
-        "tag": "توافق‌هسته‌ای",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "U.S. News & World Report",
-        "url": "https://www.usnews.com/news/top-news/articles/2026-09-22/trump-says-he-thinks-us-will-make-deal-with-iran-after-election",
-        "clean_url": "https://www.usnews.com/news/top-news/articles/2026-09-22/trump-says-he-thinks-us-will-make-deal-with-iran-after-election",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790063460.0
-    },
-    {
-        "id": "81cbedaf62",
-        "title_fa": "خبر بین‌المللی — El Museo Lucas abre en Los Ángeles con tesoros de 'Star Wars",
-        "title_en": "El Museo Lucas abre en Los Ángeles con tesoros de 'Star Wars'",
-        "summary": [
-            "R2-D2 y el traje de C-3PO de John Mollo se exhiben en la presentación previa del Lucas Museum of Narrative Art el 31 de..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Euronews on MSN",
-        "url": "https://www.msn.com/es-us/entretenimiento/cine/el-museo-lucas-abre-en-los-ángeles-con-tesoros-de-star-wars/vi-AA2cNwN7?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/es-us/entretenimiento/cine/el-museo-lucas-abre-en-los-ángeles-con-tesoros-de-star-wars/vi-AA2cNwN7",
-        "image": "https://www.bing.com/th?id=ONUT.RujPwpE5hxdlrbr-5z2anw",
-        "timestamp": 1790063426.0
-    },
-    {
-        "id": "76d6eea88c",
-        "title_fa": "خبر بین‌المللی — Oil prices slide as ترامپ signals 'very good' US-ایران talks",
-        "title_en": "Oil prices slide as Trump signals 'very good' US-Iran talks at UN",
-        "summary": [
-            "Oil prices slipped below $100 a barrel after Donald Trump said US-Iran talks were “very good”, while Saudi Arabia prepares to..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "IOL on MSN",
-        "url": "https://www.msn.com/en-za/money/economy/oil-prices-slide-as-trump-signals-very-good-us-iran-talks-at-un/ar-AA2cO5Te?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-za/money/economy/oil-prices-slide-as-trump-signals-very-good-us-iran-talks-at-un/ar-AA2cO5Te",
-        "image": "https://www.bing.com/th?id=ONUT.IqnV4lI7HwkkirxEfCzdAA",
-        "timestamp": 1790063426.0
-    },
-    {
-        "id": "4e8108b76f",
-        "title_fa": "خبر بین‌المللی — US-ایران جنگ Live Updates: ایرانی President Pezeshkian Lands",
-        "title_en": "US-Iran War Live Updates: Iranian President Pezeshkian Lands In New York For UNGA",
-        "summary": [
-            "The latest developments as Israeli forces enter Southern Syria, meanwhile the IRGC calls out US' \"lack of courage\" to admit..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-today-tehran-warns-donald-trump-of-painful-response-us-urges-citizens-to-leave-iran-strikes-update-houthis-riyadh-liveblog-156195552",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-today-tehran-warns-donald-trump-of-painful-response-us-urges-citizens-to-leave-iran-strikes-update-houthis-riyadh-liveblog-156195552",
-        "image": "https://www.bing.com/th?id=ONUT.6J0KWA-lefLBciEus9RAQA",
-        "timestamp": 1790063426.0
     }
 ]
