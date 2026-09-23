@@ -1,5 +1,25 @@
 [
     {
+        "id": "42c5ba53a6",
+        "title_fa": "ترامپ در سازمان ملل از CNN انتقاد کرد",
+        "title_en": "Crybaby Trump Rips CNN's Kaitlan Collins At UN: 'You Should Not Be Here'",
+        "summary": [
+            "ترامپ با لحن سرسختی به خبرنگار CNN گفت حضورش در مجمع ممنوع است",
+            "او با نادیده گرفتن نظرسنجی که دو‑سوم آمریکایی‌ها جنگ با ایران را ناموفق می‌دانند، ادعای پیشرفت‌های چشمگیر کرد",
+            "بیان این حرف‌ها در صحنهٔ بین‌المللی صرفاً بازتابی از رقیب‌سازی داخلی و نه تغییر در سیاست‌های نظامی است",
+            "نقش رسانه‌ای این برخورد در تقویت روایت «پیروزی» برای هوادارانش واضح است"
+        ],
+        "impact": "هیچ تغییر عملی در عملیات یا تحریم‌ها ایجاد نمی‌کند؛ فقط پیام داخلی را تقویت می‌کند",
+        "tag": "جنگ",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Crooks and Liars",
+        "url": "https://crooksandliars.com/2026/09/trump-kaitlan-collins-cnn",
+        "clean_url": "https://crooksandliars.com/2026/09/trump-kaitlan-collins-cnn",
+        "image": "https://crooksandliars.com/files/mediaposters/2026/09/59810.jpg",
+        "timestamp": 1790124135.9490376
+    },
+    {
         "id": "8b4b9d429f",
         "title_fa": "شبکه‌های غیرقانونی نفت ایران، اقتصادها را به خطر می‌اندازند",
         "title_en": "Iran’s Sanctions Violations, Illicit Networks Prolong Conflict, Place Commercial Operators, Economies At Risk",
@@ -5295,22 +5315,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/editorial-roundup-united-states/ar-AA2cHeF9",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790024560.693427
-    },
-    {
-        "id": "9c77c5efa6",
-        "title_fa": "خبر بین‌المللی — Ethiopian Rebel Groups Join Forces Against Government",
-        "title_en": "Ethiopian Rebel Groups Join Forces Against the Government",
-        "summary": [
-            "Half a dozen groups, accusing the prime minister of being dictatorial, announced the formation of a coalition in a country..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html",
-        "clean_url": "https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html",
-        "image": "https://www.bing.com/th?id=ONUT.iW4uuQAUNTvImQ5ifTqgtQ",
-        "timestamp": 1790023755.0
     }
 ]
