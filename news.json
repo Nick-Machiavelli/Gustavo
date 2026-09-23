@@ -1,5 +1,25 @@
 [
     {
+        "id": "eb993f94bd",
+        "title_fa": "ترامپ در سازمان ملل به ایران هشدار شدید داد",
+        "title_en": "Elizabeth Pipko reacts to President Trump's UN warnings to Iran",
+        "summary": [
+            "ترامپ در جلسه عمومی ملل، ایران را به توقف حملات تجاری تهدید کرد",
+            "او گفت تحریم‌های جدید در راه است اگر رفتار تغییر نکند",
+            "این اظهارات همزمان با امضای توافق امنیتی با دانمارک و گرینلند شد",
+            "پیام مستقیم به حامیان نظامی ایران ارسال شد"
+        ],
+        "impact": "تحریم‌های فوری می‌تواند فشار اقتصادی بر ایران را افزایشد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Fox Business on MSN",
+        "url": "https://www.msn.com/en-us/news/other/elizabeth-pipko-reacts-to-president-trump-s-un-warnings-to-iran/vi-AA2cOZnU?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/elizabeth-pipko-reacts-to-president-trump-s-un-warnings-to-iran/vi-AA2cOZnU",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790168803.3504786
+    },
+    {
         "id": "769155ead8",
         "title_fa": "خبر بین‌المللی — ایران went after a US aircraft carrier",
         "title_en": "Iran went after a US aircraft carrier",
@@ -3343,6 +3363,64 @@
         "timestamp": 1790082863.1860785
     },
     {
+        "id": "b5f6d2d1cf",
+        "title_fa": "آمریکا پیش از سال‌های گذشته سلاح به ایران می‌داد",
+        "title_en": "America once gave Iran weapons and nuclear technology",
+        "summary": [
+            "در دههٔ ۷۰ آمریکا به ایران تجهیزات نظامی و فناوری هسته‌ای عرضه کرد",
+            "این دوره بهانهٔ امروز برای ادعای تهدید ایران شد",
+            "روابط امروز بر پایهٔ این تاریخ‌نگاری است"
+        ],
+        "impact": "ادعاهای تحریمی امروز بر پایهٔ تاریخ سلاح‌فروشی آمریکا است",
+        "tag": "سلاح",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Think School on MSN",
+        "url": "https://www.msn.com/en-us/news/other/america-once-gave-iran-weapons-and-nuclear-technology-then-the-two-countries-became-bitter-enemies/vi-AA2cP4hG?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/america-once-gave-iran-weapons-and-nuclear-technology-then-the-two-countries-became-bitter-enemies/vi-AA2cP4hG",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790082390.0
+    },
+    {
+        "id": "8cd486a7c0",
+        "title_fa": "ترامپ از مسیر تجاری IMEC علیه ایران حمایت کرد",
+        "title_en": "Trump backs IMEC: What the India-Gulf-Europe corridor is, and why it is back in focus",
+        "summary": [
+            "ترامپ پروژه IMEC را به عنوان راهی برای دور زدن مسیرهای انرژی تحت کنترل ایران معرفی کرد",
+            "او گفت حملات تروریستی ایران به کشتی‌ها نشان داد نیاز به تغییر زیرساخت‌هاست",
+            "پروژه هنوز با سرمایه‌گذاری و زمان‌بندی نامشخص است",
+            "تغییر مسیر انرژی می‌تواند درآمد نفت ایران را کاهش دهد"
+        ],
+        "impact": "تغییر مسیر انرژی می‌تواند درآمد نفت ایران را به‌طور قابل‌توجهی کم کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/ht-explainers/trump-backs-imec-what-the-india-gulf-europe-corridor-is-and-why-it-is-back-in-focus-101790156112148.html",
+        "clean_url": "https://www.hindustantimes.com/ht-explainers/trump-backs-imec-what-the-india-gulf-europe-corridor-is-and-why-it-is-back-in-focus-101790156112148.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/23/1600x900/logo/ANI-20260715268-0_1790164949950_78A9_1790164960084_M2U3_3c559f18-fd39-4b33-a039-e72e2439878a_bUZU.jpg",
+        "timestamp": 1790082390.0
+    },
+    {
+        "id": "5e8e1207fb",
+        "title_fa": "قهرمانان لیگ قهرمانان در مسابقهٔ شب گذشته",
+        "title_en": "Articole despre \"reguli-de-politete\"",
+        "summary": [
+            "رئال مادرید در خانه ۲-۱ اینتر میلان را شکست",
+            "آیک آتن ۱-۰ لاسک لینز را برد",
+            "اخبار دیگر شامل سرمایه‌گذاری‌های شهری و ارسال رکت‌های پاتریوت به اوکراین است"
+        ],
+        "impact": "نتایج مسابقه برای جدول لیگ قهرمانان مهم است",
+        "tag": "ورزش",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/reguli-de-politete-pag189",
+        "clean_url": "https://ziare.com/cautare/reguli-de-politete-pag189",
+        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
+        "timestamp": 1790082390.0
+    },
+    {
         "id": "e6d67d4136",
         "title_fa": "ترامپ و لولا در افتتاح اجلاس 130 سرپرست‌دولت",
         "title_en": "Trump y Lula intervienen en la jornada inaugural de la cumbre, que reúne a más de 130 jefes de Estado y de Gobierno",
@@ -5269,75 +5347,5 @@
         "clean_url": "https://tass.com/politics/2190985",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1790069280.0
-    },
-    {
-        "id": "f160611d9e",
-        "title_fa": "خبر بین‌المللی — Andy Burnham meets ترامپ LIVE: PM set برای high-stakes talks",
-        "title_en": "Andy Burnham meets Trump LIVE: PM set for high-stakes talks with unpredictable US President",
-        "summary": [
-            "Andy Burnham will today meet Donald Trump - whose politics he previously branded 'poisonous' - in New York in a high-stakes..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Mirror",
-        "url": "https://www.mirror.co.uk/news/politics/andy-burnham-trump-un-live-37687730",
-        "clean_url": "https://www.mirror.co.uk/news/politics/andy-burnham-trump-un-live-37687730",
-        "image": "https://www.bing.com/th?id=ONUT.tuK24SlIOvirBuR3gw8Oeg",
-        "timestamp": 1790069003.5623846
-    },
-    {
-        "id": "2f0927b645",
-        "title_fa": "اوپک و هند درباره ثبات بازار جهانی نفت گفتگو کردند",
-        "title_en": "OPEC, India discuss global oil market stability",
-        "summary": [
-            "Both sides reviewed the short-, medium-, and long-term outlooks, highlighting India's key role in global economic growth and energy demand growth"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2191271",
-        "clean_url": "https://tass.com/economy/2191271",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790068980.0
-    },
-    {
-        "id": "ee7f1eb390",
-        "title_fa": "مجلس خبرگان رهبری: سخن درباره «رفراندوم و صلح شرافتمندانه» جرمی نابخشودنی است",
-        "title_en": "مجلس خبرگان رهبری: سخن درباره «رفراندوم و صلح شرافتمندانه» جرمی نابخشودنی است",
-        "summary": [
-            "مجلس خبرگان رهبری در بیانیه‌ای اعلام کرد در برابر «دشمن متجاوز» راهی جز «جهاد و مقاومت» وجود ندارد و هر سخن «تفرقه‌افکنانه»، به‌ویژه «سخنان اخیر» درباره «رفراندوم و صلح شرافتمندانه»، را به معنای..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609223403",
-        "clean_url": "https://www.iranintl.com/202609223403",
-        "image": "http://www.bing.com/th?id=ONUT.sgI1YO0c0RjSZ7pcJw48hg&pid=News",
-        "timestamp": 1790068680.0
-    },
-    {
-        "id": "97af37b9ad",
-        "title_fa": "جنگ آینده ایران ممکن است زودتر از انتظار آغاز شود",
-        "title_en": "The Next Iran War May Come Sooner Than You Think: Joachim Klement",
-        "summary": [
-            "جوشکلمِنت پیش‌بینی می‌کند جنگ ایران‑ایالات متحده ممکن است زودتر از تصور آغاز شود",
-            "او به افزایش فعالیت‌های نظامی آمریکا در خلیج فارس و تهدیدهای سایبری اشاره کرد",
-            "اگر تنش‌ها ادامه یابد، خطر برخورد مستقیم بر زیرساخت‌های انرژی منطقه بالا می‌رود"
-        ],
-        "impact": "اگر جنگ زودتر آغاز شود، قیمت نفت و امنیت انرژی خاورمیانه به‌سرعت تحت فشار خواهد بود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1VxN0diZTQ2SHpRUGJHdGpad2lDU1FhTWpjTjJPeVp1cVZ0ZUlvU1B6NDBKaTNBNG1BZGczOEVicFk5cEZsSWEwZkw4amZ6VS1Scm4zRGtmMzI2LUJ6OXJKS0ZfcWR5SEZiYURidnJjd0JYYnJNdW1aSU5vVi1QYUZwRXpIMkVhSGpGQ3lfQ1FnekpTTHZoaXNYZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1VxN0diZTQ2SHpRUGJHdGpad2lDU1FhTWpjTjJPeVp1cVZ0ZUlvU1B6NDBKaTNBNG1BZGczOEVicFk5cEZsSWEwZkw4amZ6VS1Scm4zRGtmMzI2LUJ6OXJKS0ZfcWR5SEZiYURidnJjd0JYYnJNdW1aSU5vVi1QYUZwRXpIMkVhSGpGQ3lfQ1FnekpTTHZoaXNYZw",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790067932.0
     }
 ]
