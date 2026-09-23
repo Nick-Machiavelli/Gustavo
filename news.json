@@ -1,5 +1,24 @@
 [
     {
+        "id": "4cd131af33",
+        "title_fa": "دولت‌جاستیس به توجیه ملی‌امنیتی ممنوعیت رسانه‌ها از کاخ سفید می‌پردازد",
+        "title_en": "DOJ Cites “National Security” to Defend Trump’s White House Ban on News Outlets",
+        "summary": [
+            "ترامپ رسانه‌های CNN، MS NOW و Politico را به بهانه امنیت ملی مسدود کرد",
+            "دادستانی این ممنوعیت را در پرونده‌ای علیه این رسانه‌ها توجیه کرد",
+            "اقدام فشار جدیدی بر آزادی مطبوعات در آمریکا ایجاد می‌کند"
+        ],
+        "impact": "محدود شدن دسترسی روزنامه‌نگاران به کاخ سفید، تضعیف شفافیت حکمرانی",
+        "tag": "رسانه",
+        "urgency": 4,
+        "sentiment": -0.7,
+        "source": "Truthout",
+        "url": "https://truthout.org/articles/doj-cites-national-security-to-defend-trumps-white-house-ban-on-news-outlets/",
+        "clean_url": "https://truthout.org/articles/doj-cites-national-security-to-defend-trumps-white-house-ban-on-news-outlets",
+        "image": "https://truthout.org/app/uploads/2026/09/2026-0923-freepress.jpg",
+        "timestamp": 1790188753.4093285
+    },
+    {
         "id": "5fd4e130aa",
         "title_fa": "رئیس‌جمهور ایران در سازمان ملل از نسل‌کشی دفاع کرد",
         "title_en": "Blood on the UN podium: Iran’s president just defended genocide to an empty room",
@@ -3066,6 +3085,24 @@
         "timestamp": 1790102428.144353
     },
     {
+        "id": "af1175a886",
+        "title_fa": "راسِی ریس، ران‌دوی تیم چِیفس را 'عالی' خواند",
+        "title_en": "Chiefs WR Rashee Rice says team's run game has been 'tremendous'",
+        "summary": [
+            "ریس گفت بازی‌های دویدن تیم تا به حال \"فوق‌العاده\" بوده",
+            "این اظهارات نشان از اعتماد او به برنامه حمله زمینی چِیفس دارد"
+        ],
+        "impact": "تقویت روحیه تیمی و ادامه استراتژی دویدن در مسابقات",
+        "tag": "فوتبال",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/videos/chiefs-wr-rashee-rice-says-173951305.html",
+        "clean_url": "https://www.yahoo.com/news/videos/chiefs-wr-rashee-rice-says-173951305.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/4e3c1b6a779a023c77c757ba4b29df7845dd06fd99467e9d476c3424eea9f1d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.kshb.scripps.com%2F4e15ab6b4cb90dfb2a701eab85223dc2.jpg",
+        "timestamp": 1790102348.0
+    },
+    {
         "id": "09a96825b9",
         "title_fa": "خبر بین‌المللی — ترامپ Threatens به Annihilate ایران as He Lays شود Foreign-P",
         "title_en": "Trump Threatens to Annihilate Iran as He Lays Out Foreign-Policy Vision at U.N.",
@@ -5316,43 +5353,5 @@
         "clean_url": "https://www.iranintl.com/202609221382",
         "image": "http://www.bing.com/th?id=ONUT.gvzJQe_QTE0g9bFezORSZA&pid=News",
         "timestamp": 1790080680.0
-    },
-    {
-        "id": "c5afc6ae37",
-        "title_fa": "ترامپ تهدید به نابودی ایران در سازمان ملل",
-        "title_en": "Trump warns UN he might 'annihilate' Iran as war overshadows diplomacy",
-        "summary": [
-            "ترامپ در جلسهٔ ملل گفت ممکن است ایران را نابود کند",
-            "این حرف تنش‌های نظامی را به شدت تشدید کرد",
-            "او تأکید کرد سیاست‌اش تحت فشار داخلی تغییر نمی‌کند",
-            "واکنش جهانی احتمال تحریم‌های جدید را افزایش داد"
-        ],
-        "impact": "افزایش خطر برخورد نظامی و فشار اقتصادی بر ایران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-warns-un-he-might-annihilate-iran-as-war-overshadows-diplomacy/ar-AA2cKXUM",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-warns-un-he-might-annihilate-iran-as-war-overshadows-diplomacy/ar-AA2cKXUM",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790080382.0
-    },
-    {
-        "id": "1700744652",
-        "title_fa": "علی در جده کارت جمعیت یمنی را به کار گرفت",
-        "title_en": "Ould Ali play the \"Yemeni crowd\" card in Jeddah ahead of Arabian Gulf Cup Group B opener vs UAE",
-        "summary": [
-            "علی در پیش‌نمایش مسابقه گروه ب جام خلیج عربی به حضور جمعیت یمنی اشاره کرد",
-            "هدف او جلب حمایت سیاسی و نشان دادن همبستگی با یمن است"
-        ],
-        "impact": "ممکن است تنش‌های منطقه‌ای را در فضای ورزشی تشدید کند اما اثر محدود باقی می‌ماند",
-        "tag": "ورزش",
-        "urgency": 2,
-        "sentiment": 0.1,
-        "source": "Amazon S3 on MSN",
-        "url": "https://www.msn.com/en-ca/sports/soccer/ould-ali-play-the-yemeni-crowd-card-in-jeddah-ahead-of-arabian-gulf-cup-group-b-opener-vs-uae/vi-AA2cOU5c?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/sports/soccer/ould-ali-play-the-yemeni-crowd-card-in-jeddah-ahead-of-arabian-gulf-cup-group-b-opener-vs-uae/vi-AA2cOU5c",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790080108.0
     }
 ]
