@@ -1,5 +1,24 @@
 [
     {
+        "id": "8b4b9d429f",
+        "title_fa": "شبکه‌های غیرقانونی نفت ایران، اقتصادها را به خطر می‌اندازند",
+        "title_en": "Iran’s Sanctions Violations, Illicit Networks Prolong Conflict, Place Commercial Operators, Economies At Risk",
+        "summary": [
+            "حملات دریایی و روش‌های فشار ایران، همراه با شبکه‌های فرار از تحریم، نفت را به‌صورت مخفی به بازارهای جهانی می‌فرستند.",
+            "این جریان‌های غیرقانونی باعث می‌شود که کشورهای هدف تحریم نتوانند فشار مؤثری اعمال کنند.",
+            "پایداری این شبکه‌ها خطر تشدید مناقشات منطقه‌ای و نوسان قیمت‌های انرژی را افزایش می‌دهد."
+        ],
+        "impact": "افزایش فشار اقتصادی بر کشورهای هدف و تشدید تحریم‌ها",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Eurasia Review",
+        "url": "https://www.eurasiareview.com/23092026-irans-sanctions-violations-illicit-networks-prolong-conflict-place-commercial-operators-economies-at-risk/",
+        "clean_url": "https://www.eurasiareview.com/23092026-irans-sanctions-violations-illicit-networks-prolong-conflict-place-commercial-operators-economies-at-risk",
+        "image": "https://www.bing.com/th?id=ONUT.4ZBvURMJcrPS8G5qL2iWOQ",
+        "timestamp": 1790123288.5988538
+    },
+    {
         "id": "7de1ec88aa",
         "title_fa": "شکست بمباران ایران توسط ترامپ، نتایج مخالفان را به‌دست آورد",
         "title_en": "Has Trump’s Failure To Bomb Iran Into Capitulation Backfired, Prompting Netanyahu And MBS To Pull Washington In The Opposite Direction? – OpEd",
@@ -35,6 +54,25 @@
         "clean_url": "https://monocle.com/affairs/diplomacy/new-york-united-nations-general-assembly",
         "image": "https://www.bing.com/th?id=ONUT.KoYakJXmOEEWhFmATwgWiw",
         "timestamp": 1790120027.1811202
+    },
+    {
+        "id": "c46f81c4b8",
+        "title_fa": "ترامپ در مجمع عمومی: تهدید نابودی ایران",
+        "title_en": "Trump defends Iran war and threatens annihilation at UN General Assembly",
+        "summary": [
+            "ترامپ در جلسه مجمع عمومی سازمان ملل، جنگ با ایران را توجیه کرد و به نابودی کامل این کشور اشاره کرد.",
+            "این سخنرانی نشان‌دهنده تمایل ایالات متحده به اعمال فشار نظامی شدیدتر است.",
+            "تهدید صریح می‌تواند مذاکرات هسته‌ای را به خطر اندازد و تنش‌های دیپلماتیک را تشدید کند."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک آمریکا‑ایران و فشار بر مذاکرات هسته‌ای",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2s3VVRrb3hVTmx1ZG1sR3RQOXFVY2JLYjhya09sck5ndE1wNzM3U2ZYQmJMUHdoNG5uaU43UnVzUjRmNTQzUW9lcGxWMUpic3o3TDNFLVYwd0F2eEhxMDFuSW5hTTItMWU4RFNfamVtLVg1SlRRVEk0Y3cxMVg5RkVXV0pEdVRRV1Brb3E5bVR3VVNrVV9WRERUWl9NbkdmdnpIdm9UNWI3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2s3VVRrb3hVTmx1ZG1sR3RQOXFVY2JLYjhya09sck5ndE1wNzM3U2ZYQmJMUHdoNG5uaU43UnVzUjRmNTQzUW9lcGxWMUpic3o3TDNFLVYwd0F2eEhxMDFuSW5hTTItMWU4RFNfamVtLVg1SlRRVEk0Y3cxMVg5RkVXV0pEdVRRV1Brb3E5bVR3VVNrVV9WRERUWl9NbkdmdnpIdm9UNWI3dw",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790117713.0
     },
     {
         "id": "8bbb4e444c",
@@ -5274,39 +5312,5 @@
         "clean_url": "https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html",
         "image": "https://www.bing.com/th?id=ONUT.iW4uuQAUNTvImQ5ifTqgtQ",
         "timestamp": 1790023755.0
-    },
-    {
-        "id": "dce6fbf4e5",
-        "title_fa": "خبر بین‌المللی — Saoedi-Arabië neemt belangrijke oliepijpleiding die beschadi",
-        "title_en": "Saoedi-Arabië neemt belangrijke oliepijpleiding die beschadigd raakte bij droneaanval weer in gebruik",
-        "summary": [
-            "Saoedi-Arabië heeft een belangrijke oliepijpleiding opgestart, na de sluiting vorige week als gevolg van <a href=\"https: //www..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Algemeen Dagblad",
-        "url": "https://www.ad.nl/buitenland/saoedi-arabie-neemt-belangrijke-oliepijpleiding-die-beschadigd-raakte-bij-droneaanval-weer-in-gebruik~a49ea0cf7/",
-        "clean_url": "https://www.ad.nl/buitenland/saoedi-arabie-neemt-belangrijke-oliepijpleiding-die-beschadigd-raakte-bij-droneaanval-weer-in-gebruik~a49ea0cf7",
-        "image": "https://www.bing.com/th?id=ONUT.PXwZWJCUeYbpSx74_sqsEA",
-        "timestamp": 1790023755.0
-    },
-    {
-        "id": "525898914d",
-        "title_fa": "خبر بین‌المللی — ترامپ says US و ایرانی officials met Tuesday, shortly after",
-        "title_en": "Trump says US and Iranian officials met Tuesday, shortly after warning he may 'annihilate' Iran",
-        "summary": [
-            "UNITED NATIONS (AP) — President Donald Trump said U.S. and Iranian officials met on Tuesday, shortly after threatening in his address to the U.N. General Assembly that he may “annihilate” the Islamic..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Canadian Press on MSN",
-        "url": "https://www.msn.com/en-ca/news/world/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/ar-AA2cIRc5?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/world/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/ar-AA2cIRc5",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790022926.0
     }
 ]
