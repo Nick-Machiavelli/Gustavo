@@ -1,5 +1,42 @@
 [
     {
+        "id": "5fd4e130aa",
+        "title_fa": "رئیس‌جمهور ایران در سازمان ملل از نسل‌کشی دفاع کرد",
+        "title_en": "Blood on the UN podium: Iran’s president just defended genocide to an empty room",
+        "summary": [
+            "مسعود پزیشکی در جلسهٔ سازمان ملل ادعا کرد اتهام‌ها نسل‌کشی علیه ایران بی‌اساس است.",
+            "سخنرانی او در فضایی خالی از انتقاد، واکنش‌های بین‌المللی را برانگیخت."
+        ],
+        "impact": "دفاع از اتهام‌ها نسل‌کشی می‌تواند فشار دیپلماتیک علیه ایران را کاهش دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/blood-on-the-un-podium-iran-s-president-just-defended-genocide-to-an-empty-room/ar-AA2cQ58l?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/blood-on-the-un-podium-iran-s-president-just-defended-genocide-to-an-empty-room/ar-AA2cQ58l",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790185715.972218
+    },
+    {
+        "id": "7c76612675",
+        "title_fa": "خطای ثبت‌نام رای‌گیری در تگزاس به تاخیر می‌افتد",
+        "title_en": "Massive Error Affects Unknown Number of Texas Voter Registrations",
+        "summary": [
+            "دپارتمان امنیت عمومی تگزاس درخواست‌های آنلاین را به شهرستان‌ها نفرستاد.",
+            "تعداد دقیق متأثرین نامشخص اما ممکن است مهلت ۵ اکتبر را تحت فشار قرار دهد.",
+            "مقامات قول دادند درخواست‌ها را شبانه تحویل دهند؛ اما تاخیر دو هفته‌ای محتمل است."
+        ],
+        "impact": "تاخیر در ثبت‌نام می‌تواند تعداد قابل توجهی از رأی‌دهندگان را از شرکت در انتخابات منع کند.",
+        "tag": "انتخابات",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/215767/error-unknown-number-texas-voter-registrations",
+        "clean_url": "https://newrepublic.com/post/215767/error-unknown-number-texas-voter-registrations",
+        "image": "https://images.newrepublic.com/819443f618cb7b4c776afcbcdf1e67de566acf7e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+        "timestamp": 1790185715.9717968
+    },
+    {
         "id": "34ba0fa604",
         "title_fa": "خبر بین‌المللی — A diesel export ban might seem like a good idea. It isn’t.",
         "title_en": "A diesel export ban might seem like a good idea. It isn’t.",
@@ -3113,6 +3150,25 @@
         "timestamp": 1790099940.0
     },
     {
+        "id": "318ed69406",
+        "title_fa": "سخن‌گویان مذاکرات آمریکا‑ایران بر سر نماینده‌گری درگیرند",
+        "title_en": "New US-Iran talks run into old question of who speaks for Tehran",
+        "summary": [
+            "مذاکرات جدید در نیویورک با تردید داخلی ایران دربارهٔ صلاحیت مذاکره‌کنندگان مواجه است.",
+            "پزیشکی به اتهام‌ها ترامپ پاسخ داد و گفت ایران به زور تسلیم نخواهد شد.",
+            "مخالفان سخت‌گیر داخل کشور مانع گسترش فضای دیپلماتیک می‌شوند."
+        ],
+        "impact": "تقسیم‌نظر داخلی می‌تواند پیشرفت مذاکرات را به تعویق بیندازد.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609236056",
+        "clean_url": "https://www.iranintl.com/en/202609236056",
+        "image": "https://www.bing.com/th?id=ONUT.wCSCrlKeJIdFmWP_S6UKrA",
+        "timestamp": 1790099306.0
+    },
+    {
         "id": "8f85b90b16",
         "title_fa": "جیمی دیمون، رئیس جی پی مورگان: آمریکا نباید هند و بازارهای جهانی را به خاطر نفت روسیه مجازات کند",
         "title_en": "US shouldn't punish India, global markets over Russian oil: JPMorgan chief Jamie Dimon",
@@ -5302,63 +5358,5 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/xi-has-no-interest-in-stabilizing-relations-with-trump/ar-AA2cOvel",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790078637.0
-    },
-    {
-        "id": "c6babc9d96",
-        "title_fa": "سفیدخانه صادرات دیزل را به‌دلیل قیمت‌های بالا بررسی می‌کند",
-        "title_en": "White House considers ban on diesel exports as prices keep rising",
-        "summary": [
-            "قیمت‌های جهانی دیزل به‌سرعت در حال افزایش است و دولت آمریکا به‌دنبال محدود کردن صادرات است",
-            "محدودیت می‌تواند عرضه جهانی را کاهش داده و قیمت‌ها را برای مصرف‌کنندگان دیگر بالا ببرد",
-            "صنعت حمل‌ونقل داخلی آمریکا ممکن است از این تصمیم بهره‌مند شود"
-        ],
-        "impact": "قیمت سوخت در بازارهای بین‌المللی فشار می‌گیرد و هزینه‌های حمل‌ونقل جهانی ارتقا می‌یابد",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/white-house-considers-ban-on-diesel-exports-as-prices-keep-rising/ar-AA2cP6hv?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/white-house-considers-ban-on-diesel-exports-as-prices-keep-rising/ar-AA2cP6hv",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790078637.0
-    },
-    {
-        "id": "6a179514aa",
-        "title_fa": "تحلیل: تیم بایدن به دنبال جنگ خاورمیانه بدون مسئولیت",
-        "title_en": "Biden's Team Wanted War in the Middle East Without Owning It",
-        "summary": [
-            "مقاله ادعا می‌کند تیم بایدن می‌خواهد درگیری‌های غزه را ادامه دهد ولی ریسک مستقیم حضور نظامی را نپذیرد",
-            "نویسنده نشان می‌دهد دولت‌های پیشین آمریکا، از جمله ترامپ، به‌صورت پنهانی مالی و اطلاعاتی به عملیات‌های نظامی در فلسطین کمک کرده‌اند",
-            "این رویکرد می‌تواند فشار داخلی و بین‌المللی را بر واشنگتن افزایش دهد"
-        ],
-        "impact": "فشار داخلی آمریکا برای بازنگری سیاست خاورمیانه افزایش می‌یابد؛ احتمال تغییر رویکرد دیپلماتیک",
-        "tag": "سیاست خارجی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/bidens-team-wanted-war-middle-113045841.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/bidens-team-wanted-war-middle-113045841.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/6f9814b1d30eb341f56f9817b8c37df5c84459fbd669a42bd92dee9238b4d15a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freason_com_245%2F239549a684eb6968d6672c0a213a88d4.jpg",
-        "timestamp": 1790078608.1433327
-    },
-    {
-        "id": "355f3e827d",
-        "title_fa": "ترامپ فشار بر ایران؛ تهدید «نابودی» در هیئت عمومی",
-        "title_en": "Trump Turns Up Pressure on Iran as Hormuz Shipping Remains in Limbo",
-        "summary": [
-            "ترامپ در مجمع عمومی آمریکا را به «نابودی» جمهوری اسلامی تهدید کرد و گزینه «توافق یا نابودی» را مطرح کرد",
-            "دیپلمات‌های او با وزیر خارجه ایران برای سه ساعت مذاکرات مستقیم نشستند تا بحران هورموز را پایان دهند",
-            "این فشار تازه بر تحریم‌های سنگین و خطر بسته شدن مسیرهای نفتی هورموز افزوده شد",
-            "اگر مذاکرات شکست بخورد، احتمال تشدید نظامی در خلیج فارس و نوسان قیمت نفت بالا می‌رود"
-        ],
-        "impact": "افزایش فشار اقتصادی و خطر بروز درگیری نظامی در هورموز، نوسان شدید قیمت نفت",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Women's Wear Daily",
-        "url": "https://wwd.com/sourcing-journal/logistics/donald-trump-iran-war-strait-of-hormuz-un-talks-shipping-ultimatum-1239254216/",
-        "clean_url": "https://wwd.com/sourcing-journal/logistics/donald-trump-iran-war-strait-of-hormuz-un-talks-shipping-ultimatum-1239254216",
-        "image": "http://www.bing.com/th?id=ONUT.jGInldpm3zYo8agp7ej3Uw&pid=News",
-        "timestamp": 1790078460.0
     }
 ]
