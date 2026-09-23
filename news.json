@@ -35,6 +35,25 @@
         "timestamp": 1790132625.759836
     },
     {
+        "id": "867c379c56",
+        "title_fa": "روپی به قیمت نفت وابسته شد",
+        "title_en": "Rupee hooked to oil prices as markets gauge Iran diplomacy hopes",
+        "summary": [
+            "اتصال روپی به نفت نشانگر امید بازارها به تسهیل دیپلماسی ایران و احتمال رفع تحریم‌های نفتی است",
+            "در صورت عدم پیشرفت مذاکرات، روپی ممکن است نوسان شدید کند و فشار بر سرمایه‌گذاران افزایش یابد",
+            "این استراتژی می‌تواند به دیگر ارزهای منطقه‌ای فشار وارد کند تا به منابع انرژی وابستگی بیشتری پیدا کنند"
+        ],
+        "impact": "ثبات موقت ارزش روپی در صورت پیشرفت دیپلماسی، اما ریسک بالای تحریم‌ها می‌تواند نوسان شدید ایجاد کند",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVNmdlVNbHl0UDFJQll5ckV0NHkzNXZVTmhvdlVPNk1Bci1RSXJRV2RRc3FVRm4zTlNONm15dlNZOFhNTzlOYVFnVWJQUUJmWnMzZnJCdzV6RV9OblJldlBZMExybTBaVDk2X0VVbXVYNHVTNy1wcWF4TzdiVXZNbXBSYnpYZjhsVzNjZTJhWF8zR183OXBCX0lWMm1TamR5WjRJSjhrMWZ2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVNmdlVNbHl0UDFJQll5ckV0NHkzNXZVTmhvdlVPNk1Bci1RSXJRV2RRc3FVRm4zTlNONm15dlNZOFhNTzlOYVFnVWJQUUJmWnMzZnJCdzV6RV9OblJldlBZMExybTBaVDk2X0VVbXVYNHVTNy1wcWF4TzdiVXZNbXBSYnpYZjhsVzNjZTJhWF8zR183OXBCX0lWMm1TamR5WjRJSjhrMWZ2UQ",
+        "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790131560.0
+    },
+    {
         "id": "59f8fb7b6e",
         "title_fa": "ترامپ ایران را تهدید می‌کند؛ جهان هشدار می‌دهد",
         "title_en": "U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
@@ -5298,22 +5317,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdzdJU2JhWEZuZm9GdVhta2pyZHg1LTNZS2dNdm03UWtYQWZPV0wyNXVfV0NNeHZmVDRMTy1jcDYyTENiZWQ1V0Y1YURyeTY1UmwzV2U3RlVPS2poQlEtZFloUVl2a2Z0MEk0Qjl1VG8tX0pHa3dvOFBlbFpKeWg0ajhnVHpDOUsyTDkyZFVQTkMwUdIBlwFBVV95cUxQWGxsOXJVWmlZbGQ2VkRSTzJoUWhRbTg3TWJqNmZoamc2LUJwMkJSdnF2UVlRV2ppbTExbTVYZXRPaGdMcVcwVXVFOXhUMDFEWFZkdFRlenVnWnJpdTFGXzZOSkNEbDJ0NlF6dTZNem1BSEVmN3dHa1pSc0JkNk1qeU9mWkNzWTlVSmJjRWNvcEt5YnFVeDVV",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790033817.0
-    },
-    {
-        "id": "dbc80ea964",
-        "title_fa": "به روز رسانی زنده جنگ ایران و آمریکا: مارکو روبیو، وزیر امور خارجه ایالات متحده می‌گوید آماده دیدار با ایران در سازمان ملل است.",
-        "title_en": "US-Iran War Live Updates: US Secretary of State Marco Rubio says open to meeting Iran at UN",
-        "summary": [
-            "Iran is under growing pressure as the war that began with US and Israeli strikes in February continues to reshape the region, damage its economy and"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-trump-iran-talks-strait-of-hormuz-crude-oil-middle-east-tension-latest-news/liveblog/134374650.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134374650,width-1280,height-720,imgsize-926358,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1790033280.0
     }
 ]
