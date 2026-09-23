@@ -1,5 +1,24 @@
 [
     {
+        "id": "088e14b8f9",
+        "title_fa": "هانی‌تی به اد شیرن حملهٔ انتقادی",
+        "title_en": "Fox News' Sean Hannity launches into Ed Sheeran rant as he slams 'Israel-trashing woke mob'",
+        "summary": [
+            "هانی‌تی اد شیرن را به «mob بیدادگر» متهم کرد",
+            "این اتهام در فضای رسانه‌ای آمریکا واکنش‌های تند ایجاد کرد",
+            "هیچ ارتباطی به سیاست خارجی یا ایران وجود ندارد"
+        ],
+        "impact": "بحث رسانه‌ای درباره آزادی بیان در ایالات متحده تشدید شد",
+        "tag": "فرهنگ",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "Irish Star on MSN",
+        "url": "https://www.msn.com/en-us/entertainment/celebrities/fox-news-sean-hannity-launches-into-ed-sheeran-rant-as-he-slams-israel-trashing-woke-mob/ar-AA2cNs0O?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/entertainment/celebrities/fox-news-sean-hannity-launches-into-ed-sheeran-rant-as-he-slams-israel-trashing-woke-mob/ar-AA2cNs0O",
+        "image": "https://www.bing.com/th?id=ONUT.MPu8FMYjuz7_7YFgy7Ua6A",
+        "timestamp": 1790150600.5191085
+    },
+    {
         "id": "5900f046c0",
         "title_fa": "حمایت اندی برنهام از مبارزه با حوثی‌ها",
         "title_en": "Burnham’s show of support against the Houthis is a gamble worth taking",
@@ -3779,6 +3798,44 @@
         "timestamp": 1790064206.723355
     },
     {
+        "id": "a1a6341052",
+        "title_fa": "تحلیل حقایق سخنرانی ترامپ در سازمان ملل",
+        "title_en": "Fact check on Trump: Every lie he told during his UN speech",
+        "summary": [
+            "سخنرانی ترامپ شامل چندین ادعای نادرست بود",
+            "ادعاهای نادرست درباره ایران و چین بیشترین توجه را جلب کردند",
+            "سازمان‌های خبری به سرعت به‌روزرسانی کردند"
+        ],
+        "impact": "اعتماد بین‌المللی به گفته‌های ترامپ کاهش یافت",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "Dagens.com on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/fact-check-on-trump-every-lie-he-told-during-his-un-speech/ar-AA2cNpVq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/fact-check-on-trump-every-lie-he-told-during-his-un-speech/ar-AA2cNpVq",
+        "image": "https://www.bing.com/th?id=ONUT.F5zdAPKVQ-w1k1tD8xVk9w",
+        "timestamp": 1790064195.0
+    },
+    {
+        "id": "36abc91f42",
+        "title_fa": "بازار آلمان پس از مذاکرات آمریکا‑ایران صعود کرد",
+        "title_en": "Verhandlungen zwischen USA und Iran: DAX mit festem Handelsstart",
+        "summary": [
+            "خبر مذاکرات جدید بین واشنگتن و تهران باعث امید به رفع تحریم‌ها شد",
+            "سرمایه‌گذاران به‌سرعت سهام DAX را خریدند",
+            "رشد کوتاه‌مدت شاخص می‌تواند فشار بر ارزهای اروپایی را کاهش دهد"
+        ],
+        "impact": "قیمت سهام آلمانی در روزهای آینده احتمالاً بالا می‌ماند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "finanzen.net on MSN",
+        "url": "https://www.msn.com/de-de/nachrichten/other/verhandlungen-zwischen-usa-und-iran-dax-mit-festem-handelsstart-vortageshoch-im-blick/ar-AA2cNLTv?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/de-de/nachrichten/other/verhandlungen-zwischen-usa-und-iran-dax-mit-festem-handelsstart-vortageshoch-im-blick/ar-AA2cNLTv",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790064195.0
+    },
+    {
         "id": "9bf36d7ec7",
         "title_fa": "خبر بین‌المللی — What به know about hospital deals with ترامپ administration",
         "title_en": "What to know about hospital deals with the Trump administration to avoid treating transgender minors",
@@ -5279,62 +5336,5 @@
         "clean_url": "https://www.iranintl.com/en/202609228308",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790049900.0
-    },
-    {
-        "id": "5466421e9f",
-        "title_fa": "ترامپ به ملل می‌گوید: اضطراب درباره ایران و هوش مصنوعی",
-        "title_en": "Trump Returns to UN at a Moment of Anxiety About Iran, AI and the Future of the World Body Itself",
-        "summary": [
-            "در سخنرانی خود در مجمع عمومی، ترامپ نگرانی‌هایش را درباره گسترش نفوذ ایران و خطرات هوش مصنوعی بیان کرد.",
-            "او تأکید کرد که ایالات متحده باید رهبری فناوری را حفظ کند تا ایران نتواند از AI برای تهدید استفاده کند.",
-            "این اظهارات نشان می‌دهد ترکیب امنیت ژئوپولیتیک و فناوری در برنامه‌ریزی استراتژیک آمریکا.",
-            "برخی منتقدان می‌گویند این ترکیب برای جلب حمایت داخلی بیش از هدف واقعی است."
-        ],
-        "impact": "احتمال اعمال محدودیت‌های فناوری بر شرکت‌های ایرانی و افزایش فشار تحریمی.",
-        "tag": "فناوری",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "U.S. News & World Report",
-        "url": "https://www.usnews.com/news/world/articles/2026-09-22/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future-of-world-body-itself",
-        "clean_url": "https://www.usnews.com/news/world/articles/2026-09-22/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future-of-world-body-itself",
-        "image": "https://www.usnews.com/object/image/000001a0-c756-da25-a3b3-ef7e95ea0000/b0a73aca86614c54a273fa094d3513bbUN_General_Assembly_Trump_56675.jpg?update-time=1790039246000&size=responsive640",
-        "timestamp": 1790049780.0
-    },
-    {
-        "id": "46ba315364",
-        "title_fa": "افتتاح دفتر بین‌المللی GFCN در دبی",
-        "title_en": "GFCN's first international fact-checking office to open in Dubai",
-        "summary": [
-            "شبکهٔ جهانی بررسی حقایق (GFCN) اولین دفتر بین‌المللی خود را در دبی راه‌اندازی کرد؛ روسیه به‌عنوان پایهٔ پروژه نقش کلیدی دارد.",
-            "این گام هدف دارد تا فضای اطلاعاتی بین‌المللی را تحت پوشش روسیه و شرکایش گسترش دهد."
-        ],
-        "impact": "تقویت حضور روسیه در حوزهٔ اطلاعات و افزایش نفوذ در مباحث جهانی",
-        "tag": "اطلاعات",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/society/2191085",
-        "clean_url": "https://tass.com/society/2191085",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790049660.0
-    },
-    {
-        "id": "4dcc82632e",
-        "title_fa": "ترامپ می‌گوید ایران سلاح هسته‌ای نخواهد داشت",
-        "title_en": "Trump holds meetings on Iran: They’re not gonna have a nuclear weapon",
-        "summary": [
-            "ترامپ در جلسات متعدد با مقامات آمریکایی درباره ایران تاکید کرد که هدف حذف برنامه هسته‌ای است",
-            "او اعلام کرد که فشارهای دیپلماتیک و اقتصادی ادامه خواهد یافت تا ایران نتواند سلاح هسته‌ای بسازد",
-            "بیانیه او نشان می‌دهد احتمال افزایش تحریم‌ها یا اقدام‌ها نظامی در آینده نزدیک وجود دارد"
-        ],
-        "impact": "افزایش تنش‌های سیاسی بین آمریکا و ایران و احتمال تحریم‌های جدید",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "israelnationalnews.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBSV9BVnJOeXRJSm9zTm1yM0VZRUxDbWNQT2tNcW9ZSVY2bVBKOFZXa1ltR3c0VFlSOFRMMVh2UEdtS2MyWC1NUmVtMHdOajE3NWVoSm5xSkpNQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBSV9BVnJOeXRJSm9zTm1yM0VZRUxDbWNQT2tNcW9ZSVY2bVBKOFZXa1ltR3c0VFlSOFRMMVh2UEdtS2MyWC1NUmVtMHdOajE3NWVoSm5xSkpNQQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790049430.0
     }
 ]
