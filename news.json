@@ -1,5 +1,42 @@
 [
     {
+        "id": "109e6947ba",
+        "title_fa": "درگیری پرچم ایرانی در تظاهرات کپنهاگ",
+        "title_en": "Det iranske flag og mistænksomhedens politik: Hvordan dele af venstrefløjen splitter bevægelsen",
+        "summary": [
+            "گروهی از زنان مسلمان پرچم ایران را به تظاهرات آوردند و با توهین مواجه شدند",
+            "امنیت‌پذیران با عکاسی و فریادهای توهین‌آمیز واکنش نشان دادند، اما پلیس مداخله کرد",
+            "این حادثه نشان‌دهنده تقسیم‌پذیری جناح چپ در اروپا نسبت به ایران است"
+        ],
+        "impact": "تنش‌های مشابه می‌تواند حضور مهاجران ایرانی را در کشورهای اروپایی تحت فشار قرار دهد",
+        "tag": "فشار",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Arbejderen",
+        "url": "https://arbejderen.dk/debat/det-iranske-flag-og-mistaenksomhedens-politik-hvordan-dele-af-venstrefloejen-splitter-bevaegelsen/",
+        "clean_url": "https://arbejderen.dk/debat/det-iranske-flag-og-mistaenksomhedens-politik-hvordan-dele-af-venstrefloejen-splitter-bevaegelsen",
+        "image": "https://arbejderen.dk/wp-content/uploads/2026/09/20260905-12-32-dsc05812.jpg",
+        "timestamp": 1790161396.8335807
+    },
+    {
+        "id": "6af030940a",
+        "title_fa": "بی‌اعتمادی رای‌دهندگان به دولت",
+        "title_en": "The Distrust Election",
+        "summary": [
+            "نظرسنجی‌ها نشان می‌دهد مردم به عملکرد دولت شک دارند",
+            "این حس ناامنی می‌تواند مشارکت انتخاباتی را کاهش دهد"
+        ],
+        "impact": "کاهش حضور رأی‌دهندگان ممکن است نتایج انتخابات را تحت‌تأثیر قرار دهد",
+        "tag": "انتخابات",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/23/briefing/the-distrust-election.html",
+        "clean_url": "https://www.nytimes.com/2026/09/23/briefing/the-distrust-election.html",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790161396.8328404
+    },
+    {
         "id": "e14e5e7033",
         "title_fa": "در داخل جنگ اسرائیل با حماس",
         "title_en": "Inside Israel's war on Hamas",
@@ -3449,6 +3486,43 @@
         "timestamp": 1790074994.1204174
     },
     {
+        "id": "4a51dda63a",
+        "title_fa": "قیمت طلا در مثلث پنج هفته‌ای گیر کرده",
+        "title_en": "Gold ready to breakout of the triangle [Video]",
+        "summary": [
+            "طلا در محدوده ۴۲۳۵‑۴۵۱۰ دلار در ۴ هفته اخیر ثابت مانده",
+            "شکست زیر ۴۳۳۵ ممکن است به هدف ۴۳۰۲‑۴۲۹۷ فشار آورد"
+        ],
+        "impact": "نوسان محدود طلا باعث کاهش فرصت‌های سودآور برای معامله‌گران می‌شود",
+        "tag": "طلا",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/analysis/gold-ready-to-breakout-of-the-triangle-video-202609231000",
+        "clean_url": "https://www.fxstreet.com/analysis/gold-ready-to-breakout-of-the-triangle-video-202609231000",
+        "image": "https://editorial.fxsstatic.com/images/i/gold-march-02_Medium.jpg",
+        "timestamp": 1790074989.0
+    },
+    {
+        "id": "c4a7c49ade",
+        "title_fa": "تجارت ایران با بریکس به ۶۰ میلیارد دلار رسید",
+        "title_en": "Iran’s $60bn BRICS Trade Shows Growth but Full Benefits Remain Elusive",
+        "summary": [
+            "صادرات ایران به بریکس ۲۳ میلیارد و واردات ۳۷ میلیارد دلار است",
+            "تحریم‌ها و مشکلات حمل‌ونقل مانع بهره‌برداری کامل از عضویت بریکس می‌شوند",
+            "مقامات می‌گویند بریکس به‌عنوان خط زندگی اقتصادی عمل می‌کند"
+        ],
+        "impact": "ادامه تجارت با بریکس می‌تواند فشار تحریم‌ها را کمی کاهش دهد",
+        "tag": "تجارت",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "joburgetc",
+        "url": "https://www.joburgetc.com/business/irans-60bn-brics-trade-progress-potential/",
+        "clean_url": "https://www.joburgetc.com/business/irans-60bn-brics-trade-progress-potential",
+        "image": "https://www.joburgetc.com/wp-content/uploads/2026/09/pexels-16033963-1.jpg",
+        "timestamp": 1790074989.0
+    },
+    {
         "id": "23e24190b9",
         "title_fa": "ترامپ و رهبران دانمارک و گرینلند توافق گسترش حضور نظامی آمریکا را امضا کردند",
         "title_en": "ترامپ و رهبران دانمارک و گرینلند توافق گسترش حضور نظامی آمریکا را امضا کردند",
@@ -5259,73 +5333,5 @@
         "clean_url": "https://www.iranintl.com/202609227528",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790059980.0
-    },
-    {
-        "id": "551597f857",
-        "title_fa": "خبر بین‌المللی — Healey proposes suspending gas tax برای two months as prices",
-        "title_en": "Healey proposes suspending gas tax for two months as prices continue to rise",
-        "summary": [
-            "Gov. Maura Healey announced Tuesday she is filing legislation to suspend the Massachusetts gas tax for two months."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Boston.com",
-        "url": "https://www.boston.com/news/politics/2026/09/22/healey-proposes-suspending-gas-tax-for-two-months-as-prices-continue-to-rise/",
-        "clean_url": "https://www.boston.com/news/politics/2026/09/22/healey-proposes-suspending-gas-tax-for-two-months-as-prices-continue-to-rise",
-        "image": "http://www.bing.com/th?id=ONUT.ljT0oSrI10EHCgr3Vw0fJA&pid=News",
-        "timestamp": 1790059740.0
-    },
-    {
-        "id": "43fb97b663",
-        "title_fa": "خبر بین‌المللی — Pentagon divide caused aborted US حمله در حوثی‌ها — report",
-        "title_en": "Pentagon divide caused aborted US strike on Houthis — report",
-        "summary": [
-            "Concerns over the spillover effects of military action against Yemen's Houthi rebels led US President Donald Trump to call off a planned strike against the Iran-backed group hours before it was scheduled to commence Sunday afternoon,"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/pentagon-divide-caused-aborted-us-strike-on-houthis-report/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/pentagon-divide-caused-aborted-us-strike-on-houthis-report",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790059740.0
-    },
-    {
-        "id": "8b73a81c10",
-        "title_fa": "سخنگوی سپاه، مذاکره را عرصه دیگری از جنگ خواند",
-        "title_en": "IRGC spokesperson calls negotiations ‘another arena of war’",
-        "summary": [
-            "IRGC spokesperson calls negotiations ‘another arena of war’ Iran International"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QalhTNjg3QWhpa29TS3ZXa1ZXSC0zZzRYNEh6aWpUbmJPRkVsSVBqRG9SNnc3XzM3OWVVMjR1UFdlSE5HS1hQTVNrRjVqaV9oQWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QalhTNjg3QWhpa29TS3ZXa1ZXSC0zZzRYNEh6aWpUbmJPRkVsSVBqRG9SNnc3XzM3OWVVMjR1UFdlSE5HS1hQTVNrRjVqaV9oQWc",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790059662.0
-    },
-    {
-        "id": "8ad89414e6",
-        "title_fa": "خبر بین‌المللی — Binance Faces Fresh U.S. ایران تحریم‌ها Probe as Prosecutors",
-        "title_en": "Binance Faces Fresh U.S. Iran Sanctions Probe as Prosecutors Scrutinize Crypto Trades",
-        "summary": [
-            "Binance Faces Fresh U.S. Iran Sanctions Probe as Prosecutors Scrutinize Crypto Trades Bitcoin Foundation"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Bitcoin Foundation",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkI2RjRJY1lkdkJzVVNPWmdoU29vOFR5dFphLUYzX1RmQVd6X1VnTWtEcUxjYWM3Q2dxTk1wLVF4Nk5RbEtaOW5VSEVIam5PT1FZb3VlMXRYLVllTG9ENzA1T3hKNGJ2eEptS0Jkbk53T2drOVQyVDN1RHNqTVZZZ2M3QUNzVVVxcXhjVVloN0lzVWxleVJmRTFsak9US2k5LXlEUGVuNkM4UWFOMDQ4NlFDYWtDak1WTnBrd2c0NGgwWksyRV9EaFFvcmhmNk1DYlMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkI2RjRJY1lkdkJzVVNPWmdoU29vOFR5dFphLUYzX1RmQVd6X1VnTWtEcUxjYWM3Q2dxTk1wLVF4Nk5RbEtaOW5VSEVIam5PT1FZb3VlMXRYLVllTG9ENzA1T3hKNGJ2eEptS0Jkbk53T2drOVQyVDN1RHNqTVZZZ2M3QUNzVVVxcXhjVVloN0lzVWxleVJmRTFsak9US2k5LXlEUGVuNkM4UWFOMDQ4NlFDYWtDak1WTnBrd2c0NGgwWksyRV9EaFFvcmhmNk1DYlMw",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790059610.0
     }
 ]
