@@ -1,5 +1,24 @@
 [
     {
+        "id": "911be27b5e",
+        "title_fa": "نویسنده واشنگتن اکسامینر: ترامپ باید ضربه‌ای محکم به ایران بزند",
+        "title_en": "It’s time for Trump to put Iran down for good",
+        "summary": [
+            "مقالهٔ انتقادی خواستار حملهٔ نظامی فوری به رهبری و نیروهای ایران است؛ نشان‌دهندهٔ جریان‌های سخت‌گیرانه در رسانه‌های آمریکایی.",
+            "اگر چنین فشار شدیدی به‌کار رود، خطر تشدید تنش‌های نظامی و واکنش تلافی‌جویانهٔ ایران به سرعت بالا می‌رود.",
+            "روند چنین اظهارات می‌تواند تصمیم‌گیری‌های اجرایی را تحت فشار قرار دهد و فضای دیپلماتیک را تنگ‌تر کند."
+        ],
+        "impact": "افزایش خطر برخورد نظامی مستقیم بین آمریکا و ایران.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/it-s-time-for-trump-to-put-iran-down-for-good/ar-AA2cQdiI?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/it-s-time-for-trump-to-put-iran-down-for-good/ar-AA2cQdiI",
+        "image": "https://www.bing.com/th?id=ONUT.QFZSBYnM55ytq2RZcCsOCQ",
+        "timestamp": 1790190168.6225696
+    },
+    {
         "id": "4cd131af33",
         "title_fa": "دولت‌جاستیس به توجیه ملی‌امنیتی ممنوعیت رسانه‌ها از کاخ سفید می‌پردازد",
         "title_en": "DOJ Cites “National Security” to Defend Trump’s White House Ban on News Outlets",
@@ -3010,6 +3029,42 @@
         "timestamp": 1790103780.0
     },
     {
+        "id": "893f471c92",
+        "title_fa": "دادخواهی علیه Truth Social برای دسترسی زودهنگام به پیام‌های ایران",
+        "title_en": "San Francisco Sues Trump’s Truth Social Over ‘Insider Trading’ Play",
+        "summary": [
+            "پلتفرم ترامپ به معامله‌گران اجازه می‌دهد پیش از عموم از توییت‌های بازار‑محور او استفاده کنند؛ حتی پیام‌های تهدیدآمیز علیه ایران که قیمت نفت را نوسان می‌دهد.",
+            "قضیهٔ دسترسی زودهنگام به‌عنوان معاملهٔ داخلی شناخته می‌شود و می‌تواند فشار قانونی برای افشای محتوا و محدود کردن نفوذ سیاسی‑بازاری ترامپ ایجاد کند."
+        ],
+        "impact": "ممکن است توانایی ترامپ برای دستکاری بازارهای انرژی و فشار بر ایران کاهش یابد.",
+        "tag": "بازار",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "New York Magazine",
+        "url": "https://nymag.com/intelligencer/article/trump-truth-social-lawsuit.html",
+        "clean_url": "https://nymag.com/intelligencer/article/trump-truth-social-lawsuit.html",
+        "image": "https://www.bing.com/th?id=ONUT.0B1cC0LmDl1W231saRdGAQ",
+        "timestamp": 1790103762.0
+    },
+    {
+        "id": "4c461a22e1",
+        "title_fa": "پزشکیان: ایران به دیپلماسی باز است اما تسلیم فشار نمی‌شود",
+        "title_en": "Iran open to diplomacy, but will never yield to coercion: Pezeshkian",
+        "summary": [
+            "در مجمع عمومی سازمان ملل، رئیس‌جمهور ایران تأکید کرد که تحریم‌های آمریکا عزم مردم را تقویت می‌کند و دیپلماسی را رد نمی‌کند.",
+            "این بیانیه می‌تواند مانع از اعمال تحریم‌های جدید شود و فضای مذاکرات را برای رفع تنش‌های هسته‌ای باز نگه دارد."
+        ],
+        "impact": "حفظ مسیر دیپلماتیک، احتمال کاهش فشارهای اقتصادی بر ایران.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Asianet Newsable on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-open-to-diplomacy-but-will-never-yield-to-coercion-pezeshkian/ar-AA2cQ5Lv?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-open-to-diplomacy-but-will-never-yield-to-coercion-pezeshkian/ar-AA2cQ5Lv",
+        "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790103762.0
+    },
+    {
         "id": "2293ca3a5c",
         "title_fa": "سخنرانی خودستایی ترامپ در مجمع ملل",
         "title_en": "Me, myself and I: Donald Trump's self-congratulatory speech to the UN",
@@ -5295,56 +5350,5 @@
         "clean_url": "https://www.thedailybeast.com/trump-fcc-goon-brendan-carrs-secret-past-in-alleged-alcoholics-anonymous-sex-cult-midtown-group-revealed",
         "image": "http://www.bing.com/th?id=ONUT.YF6Rdp3gMav30vNM4gPhMA&pid=News",
         "timestamp": 1790081880.0
-    },
-    {
-        "id": "9c1a345821",
-        "title_fa": "خبر بین‌المللی — ایرانی hardliners talk up هسته‌ای weapons پیش از Pezeshkian'",
-        "title_en": "Iranian hardliners talk up nuclear weapons before Pezeshkian's UN trip",
-        "summary": [
-            "Iranian hardliners talk up nuclear weapons before Pezeshkian's UN trip Iran International"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Sk4tOWhEUk9aUDRwX0J5Ri1RVC1uVEhTMzlKd3ltUEphb0V1Zlh3a2Q5cnlhUzYzYTZ4bGRjcUdmVjhweDNubWY0WGVuX2dUb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96Sk4tOWhEUk9aUDRwX0J5Ri1RVC1uVEhTMzlKd3ltUEphb0V1Zlh3a2Q5cnlhUzYzYTZ4bGRjcUdmVjhweDNubWY0WGVuX2dUb0E",
-        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790081794.0
-    },
-    {
-        "id": "08ed00ee42",
-        "title_fa": "خبر بین‌المللی — Can Baghdad ever bring Iraq's militias under state control?",
-        "title_en": "Can Baghdad ever bring Iraq's militias under state control?",
-        "summary": [
-            "Analysis: With US forces leaving Iraq, Baghdad faces a difficult choice between confronting powerful Iran-backed militias and absorbing them into the state..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/analysis/can-baghdad-ever-bring-iraqs-militias-under-state-control",
-        "clean_url": "https://www.newarab.com/analysis/can-baghdad-ever-bring-iraqs-militias-under-state-control",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2026-09/illustration-colour.jpg?itok=cJqIYtCk",
-        "timestamp": 1790081751.0
-    },
-    {
-        "id": "d2391936a0",
-        "title_fa": "25 Ianuarie 2026",
-        "title_en": "25 Ianuarie 2026",
-        "summary": [
-            "Startupul rusesc Neiry Group implantează porumbeilor cipuri în creier pentru a-i transforma în biodrone controlate de la distanță. Echipa italiană Genoa, patronată de Dan Șucu, a dispus duminică, pe t..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/meci-aek-universitatea-craiova-pag133",
-        "clean_url": "https://ziare.com/cautare/meci-aek-universitatea-craiova-pag133",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1790081751.0
     }
 ]
