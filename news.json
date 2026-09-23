@@ -1,5 +1,41 @@
 [
     {
+        "id": "f1f7a6b517",
+        "title_fa": "هند و چین می‌خواهند نظم جدیدی بسازند",
+        "title_en": "India and China can build a new order together",
+        "summary": [
+            "هر دو کشور به دنبال ثبات بین‌المللی پس از عقب‌نشینی آمریکا هستند",
+            "همکاری می‌تواند رقابت‌های منطقه‌ای را به سمت دیپلماسی سوق دهد"
+        ],
+        "impact": "ممکن است تعادل قدرت در آسیا‑پاسیفیک تغییر کند",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Hindustan Times on MSN",
+        "url": "https://www.msn.com/en-in/money/economy/india-and-china-can-build-a-new-order-together/ar-AA2cNq8o?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/money/economy/india-and-china-can-build-a-new-order-together/ar-AA2cNq8o",
+        "image": "https://www.bing.com/th?id=ONUT.QPNSFzlqqApywf4bbv2U7Q",
+        "timestamp": 1790132625.759836
+    },
+    {
+        "id": "59f8fb7b6e",
+        "title_fa": "ترامپ ایران را تهدید می‌کند؛ جهان هشدار می‌دهد",
+        "title_en": "U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
+        "summary": [
+            "ترامپ به‌صورت علنی فشارهای نظامی و تحریمی علیه ایران را تکرار کرد",
+            "رهبران دیگر از تقسیم عمیق جهان و خطرات ناشی از تنش هشدار دادند"
+        ],
+        "impact": "افزایش ریسک برخورد نظامی در خاورمیانه",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0JnT0ZsMjRaazBVaURrQUFFOE1sLTZhc09waWo4QmFMMmJjUk5TemFmaHgwMFRwbzV2cHprSzRRZU8yemZZeUxIUW9oYWYzOUJwR0pqb0lDSmEzX1oxZ0hTVU05ODRhOC1ZcWU0MWJCNElJc0FCRmhnUmgtM0h1blFIU2c4SGNSUWpV?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0JnT0ZsMjRaazBVaURrQUFFOE1sLTZhc09waWo4QmFMMmJjUk5TemFmaHgwMFRwbzV2cHprSzRRZU8yemZZeUxIUW9oYWYzOUJwR0pqb0lDSmEzX1oxZ0hTVU05ODRhOC1ZcWU0MWJCNElJc0FCRmhnUmgtM0h1blFIU2c4SGNSUWpV",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790131182.0
+    },
+    {
         "id": "c37482a8c5",
         "title_fa": "رضا پهلوی: صلح با رژیم ایران امکان‌پذیر نیست",
         "title_en": "Reza Pahlavi: Peace cannot be attained with Iran’s regime",
@@ -1232,6 +1268,24 @@
         "clean_url": "https://www.iranintl.com/202609222201",
         "image": "http://www.bing.com/th?id=ONUT.Y1Ft6iyOqxdXGsv1oMXXSw&pid=News",
         "timestamp": 1790090220.0
+    },
+    {
+        "id": "be1ab26a44",
+        "title_fa": "گفتگوهای غیرمستقیم آمریکا‑ایران در مجمع عمومی",
+        "title_en": "Witkoff says US, Iran held lengthy talks through mediators at UN",
+        "summary": [
+            "استیون ویتکاف گفت مذاکرات غیرمستقیم در کنار مجمع عمومی پیش رفت",
+            "میانجی‌ها روزانه بین دو تیم رفت و آمد کردند"
+        ],
+        "impact": "راه‌گشایی برای بازگشت دیپلماسی مستقیم بین دو کشور",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609226325",
+        "clean_url": "https://www.iranintl.com/en/202609226325",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790089860.0
     },
     {
         "id": "9fd9ef22ff",
@@ -5263,56 +5317,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/two-republican-senate-candidates-call-for-swift-end-to-iran-war-diverging-from-trump/ar-AA2cInqQ",
         "image": "http://www.bing.com/th?id=ONUT.nBeS5j5WlwfdOHbZEe5CKw&pid=News",
         "timestamp": 1790031740.0
-    },
-    {
-        "id": "6727d9cb8e",
-        "title_fa": "خبر بین‌المللی — Can This Week's U.N. Gathering Cool Rising Tensions Between",
-        "title_en": "Can This Week's U.N. Gathering Cool Rising Tensions Between the U.S. and Iran?",
-        "summary": [
-            "Can This Week's U.N. Gathering Cool Rising Tensions Between the U.S. and Iran? Time Magazine"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Time Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0plUUlBWkVFWjdaYm5sLWhHVVJxaEVXc2RjWjVrRmpUeU85eHphZ2xzMjlXVFg1U2xnV3RzNFdyYkx4bmFkYzF2X1FZc29MbzUydEF3WERvRDVvVnV6c0dXZDNWRHVqcnI1Y2ZOZEhLalRsR2ZkNzhzQnA0dDBCU09rX0ZlbHNyLUYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0plUUlBWkVFWjdaYm5sLWhHVVJxaEVXc2RjWjVrRmpUeU85eHphZ2xzMjlXVFg1U2xnV3RzNFdyYkx4bmFkYzF2X1FZc29MbzUydEF3WERvRDVvVnV6c0dXZDNWRHVqcnI1Y2ZOZEhLalRsR2ZkNzhzQnA0dDBCU09rX0ZlbHNyLUYw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790031718.0
-    },
-    {
-        "id": "b8610df145",
-        "title_fa": "خبر بین‌المللی — ترامپ Crashes شود Over Media Lawsuit as Press Pool اعتراض Gr",
-        "title_en": "Trump Crashes Out Over Media Lawsuit as Press Pool Protest Grows",
-        "summary": [
-            "In a lengthy tirade on Truth Social, Trump raged against District Court Judge Timothy Kelly, who was assigned the lawsuit..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/215690/donald-trump-crashes-out-media-lawsuit-protest",
-        "clean_url": "https://newrepublic.com/post/215690/donald-trump-crashes-out-media-lawsuit-protest",
-        "image": "https://www.bing.com/th?id=ONUT.9SDk17yUMzT0swGnjREbcg",
-        "timestamp": 1790030452.6843889
-    },
-    {
-        "id": "c4b9ebb987",
-        "title_fa": "خبر بین‌المللی — U.K. Sending Voyager Tanker به Help Defend Saudi Airspace, ت",
-        "title_en": "U.K. Sending Voyager Tanker To Help Defend Saudi Airspace, Trump Tells UN Iran Deal Likely After Election",
-        "summary": [
-            "The Royal Air Force (RAF) is deploying one of its Voyager aerial refueling jets to help Saudi Arabia defend against ongoing..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The War Zone",
-        "url": "https://www.twz.com/air/u-k-sending-voyager-tanker-to-help-defend-saudi-airspace-trump-tells-un-iran-deal-likely-after-election",
-        "clean_url": "https://www.twz.com/air/u-k-sending-voyager-tanker-to-help-defend-saudi-airspace-trump-tells-un-iran-deal-likely-after-election",
-        "image": "https://www.bing.com/th?id=ONUT.q0949e3gI5YqPiDhz9vMag",
-        "timestamp": 1790030402.0
     }
 ]
