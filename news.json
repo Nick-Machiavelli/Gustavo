@@ -523,6 +523,25 @@
         "timestamp": 1790112874.8657503
     },
     {
+        "id": "cc60babc29",
+        "title_fa": "بیان ترامپ در مجمع عمومی: اضطراب ایران",
+        "title_en": "Trump's UNGA remarks show desperation, not authority: Iran's MFA",
+        "summary": [
+            "وزارت خارجه ایران سخنان ترامپ را نشانه‌ای از اضطراب و فشار آمریکا دانست",
+            "مذاکرات غیرمستقیم از طریق قطر ادامه دارد و هدف کاهش تحریم‌هاست",
+            "این ادعا نشان می‌دهد دیپلماسی پشت صحنه هنوز فعال است"
+        ],
+        "impact": "فشار دیپلماتیک آمریکا بر ایران در کوتاه‌مدت تند می‌شود",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Asianet Newsable on MSN",
+        "url": "https://www.msn.com/en-in/news/other/trump-s-unga-remarks-show-desperation-not-authority-iran-s-mfa/ar-AA2cNAT3",
+        "clean_url": "https://www.msn.com/en-in/news/other/trump-s-unga-remarks-show-desperation-not-authority-iran-s-mfa/ar-AA2cNAT3",
+        "image": "http://www.bing.com/th?id=ONUT.O-wRUpnkLejGGDrruzNIEQ&pid=News",
+        "timestamp": 1790112629.0
+    },
+    {
         "id": "ec835b2dde",
         "title_fa": "خبر بین‌المللی — A.I.: Let’s Not Have Another Failure Imagination",
         "title_en": "A.I.: Let’s Not Have Another Failure of Imagination",
@@ -3963,6 +3982,41 @@
         "timestamp": 1790059610.0
     },
     {
+        "id": "cf2693bb33",
+        "title_fa": "خبر بین‌المللی — Väldigt goda Iransamtal i FN-kulisserna",
+        "title_en": "Väldigt goda Iransamtal i FN-kulisserna",
+        "summary": [
+            "Samtal mellan Iran och USA har pågått i kulisserna vid FN: s generalförsamling i New York, enligt president Trump ”väldigt..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "TT Nyhetsbyrån on MSN",
+        "url": "https://www.msn.com/sv-se/nyheter/other/väldigt-goda-iransamtal-i-fn-kulisserna/ar-AA2cNwms?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/sv-se/nyheter/other/väldigt-goda-iransamtal-i-fn-kulisserna/ar-AA2cNwms",
+        "image": "https://www.bing.com/th?id=ONUT.mRXZ0TkEfqwEvlsPDldNhw",
+        "timestamp": 1790059555.0
+    },
+    {
+        "id": "a90786f50c",
+        "title_fa": "آراغچی فرانسه را در مجمع عمومی سرزنش کرد",
+        "title_en": "Araghchi criticizes France during meeting with foreign minister",
+        "summary": [
+            "وزیر خارجه ایران فرانسه را به دوگانگی در حقوق بشر متهم کرد",
+            "او می‌گوید پاریس در برابر حملات اسرائیل به زنان و کودکان ایرانی سکوت کرده است"
+        ],
+        "impact": "روابط ایران‑فرانسه تحت فشار می‌شود و ممکن است همکاری‌های دیپلماتیک کاهش یابد",
+        "tag": "روابط",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609232029",
+        "clean_url": "https://www.iranintl.com/en/202609232029",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790059555.0
+    },
+    {
         "id": "c424dfbe84",
         "title_fa": "نفت زیر ۱۰۰ دلار پس از گفت‌وگوی ترامپ با ایران",
         "title_en": "Oil falls below $100 after Trump reports talks with Iran",
@@ -5282,57 +5336,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUYxWXU0ZTFwaWtCOWZCVzJyNHJoU0ZnMzBkZm5NU283TE45ZzM0bVpKUEpubExlM0hQeV9sZjZ0M3BabGFDaUI0d1c2QS1SN183cGlPaXo3cE5ld0NBRXotajY3UkhaTm51M3R3eXJNYnlObGFDYzhWaXc2N1Y2aWxFUC1HT1d2Ml9nNUZvYXExVzJJdzR1ekR5RG9mcThpVmw0NlQtX1c",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790044753.0
-    },
-    {
-        "id": "d2ef144c7e",
-        "title_fa": "وزارت حمل‌ونقل عراق: هنوز دستوری برای تعلیق پروازهای ایران صادر نشده است",
-        "title_en": "وزارت حمل‌ونقل عراق: هنوز دستوری برای تعلیق پروازهای ایران صادر نشده است",
-        "summary": [
-            "وزارت حمل‌ونقل عراق سه‌شنبه ۳۱ شهریور اعلام کرد که پروازها میان این کشور و ایران به‌طور عادی ادامه دارد و تاکنون هیچ دستوری برای تعلیق این پروازها صادر نشده است. حسین احمد، سخنگوی وزارت حمل‌ونقل عراق، ..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609229841",
-        "clean_url": "https://www.iranintl.com/202609229841",
-        "image": "http://www.bing.com/th?id=ONUT.97d47D2V4KW-wq7CKOHVlw&pid=News",
-        "timestamp": 1790044740.0
-    },
-    {
-        "id": "54c2cfa0bf",
-        "title_fa": "آمریکا و ایران برای هرگونه توافق صلح باید چه مسائلی را حل کنند؟",
-        "title_en": "What Issues Do The US And Iran Need to Resolve for Any Peace Deal?",
-        "summary": [
-            "What Issues Do The US And Iran Need to Resolve for Any Peace Deal? EnergyNow.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790044280.0
-    },
-    {
-        "id": "f4e8731bee",
-        "title_fa": "کیتلان کالینز از فرار ترامپ از سؤال‌های ایران انتقاد کرد",
-        "title_en": "Kaitlan Collins calls out Trump for dodging her questions amid criticism he has no clear plan in Iran",
-        "summary": [
-            "کالینز در برنامه CNN ترامپ را متهم کرد که از پاسخ به سؤال‌های حمایت عمومی از جنگ ایران فرار می‌کند",
-            "این واکنش نشان می‌دهد فشار داخلی بر ترامپ برای ارائه برنامه واضح در قبال ایران افزایش یافته است"
-        ],
-        "impact": "فشار رسانه‌ای بر ترامپ برای شفاف‌سازی سیاست ایران، ممکن است تصمیم‌گیری‌های آینده را تحت تأثیر قرار دهد",
-        "tag": "رسانه",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "The Mirror US on MSN",
-        "url": "https://www.msn.com/en-us/news/other/kaitlan-collins-calls-out-trump-for-dodging-her-questions-amid-criticism-he-has-no-clear-plan-in-iran/ar-AA2cMmN1?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/kaitlan-collins-calls-out-trump-for-dodging-her-questions-amid-criticism-he-has-no-clear-plan-in-iran/ar-AA2cMmN1",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790043802.0
     }
 ]
