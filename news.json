@@ -1,5 +1,25 @@
 [
     {
+        "id": "122fca8f60",
+        "title_fa": "سقوط سرباز آمریکایی در جنگ ایران",
+        "title_en": "Another U.S. service member dies amid Iran war, Pentagon tally shows",
+        "summary": [
+            "یک نیروی نظامی آمریکا در عملیات مرتبط با جنگ ایران کشته شد",
+            "این مرگ اولین کشته جدید پس از شروع درگیری است",
+            "پنتاگون شمارش کشته‌ها را به‌روز کرد و فشار داخلی را افزایش داد",
+            "خبر می‌تواند واکنش‌های سیاسی در واشنگتن و تهران را تشدید کند"
+        ],
+        "impact": "تشدید تنش‌های نظامی و فشار بر مذاکرات صلح",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0Zza0o3MjZKaHdDNGo2eU1tdWREejVYamZGZThZdXNPN2V4MXNIZHVRczlYaHRCdzQ5T3BQZ3VqT3NVbmxPdXd0V3dhMjZDbVhqR3dJN01VOWp6bFduMXRDczBhaHBLZlRDYnR3SzZSQWxwcnM2TW1GajhNS0lGQkk2WDJjWEV0SDNTY3oxNm1COTlNd2RCWmhMTkJWRW9SMm9FVWRRaUZudVVONUtteENB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0Zza0o3MjZKaHdDNGo2eU1tdWREejVYamZGZThZdXNPN2V4MXNIZHVRczlYaHRCdzQ5T3BQZ3VqT3NVbmxPdXd0V3dhMjZDbVhqR3dJN01VOWp6bFduMXRDczBhaHBLZlRDYnR3SzZSQWxwcnM2TW1GajhNS0lGQkk2WDJjWEV0SDNTY3oxNm1COTlNd2RCWmhMTkJWRW9SMm9FVWRRaUZudVVONUtteENB",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790199769.0
+    },
+    {
         "id": "ef88333fdb",
         "title_fa": "ترامپ درک نمی‌کند روزنامه‌نگاری چطور کار می‌کند",
         "title_en": "Trump Doesn’t Understand How Journalism Works",
@@ -1391,6 +1411,25 @@
         "clean_url": "https://www.iranintl.com/202609231880",
         "image": "http://www.bing.com/th?id=ONUT.SSTMOSd6fY6wN0IOGbbRmA&pid=News",
         "timestamp": 1790162760.0
+    },
+    {
+        "id": "b582a41c67",
+        "title_fa": "پزشکیان: ایران در برابر فشار آمریکا سرسخت است",
+        "title_en": "Iran’s Tough Talk at the UN Gives Away Its Secret",
+        "summary": [
+            "رئیس‌جمهور ایران در مجمع عمومی متحدین به عدم تسلیم اشاره کرد",
+            "او گفت دیپلماسی باز است اما فشار و تحریم‌ها ادامه دارد",
+            "پیام ترکیبی مقاومت و نیاز به مذاکرات استراتژیک است"
+        ],
+        "impact": "تقویت تصویر مقاومت داخلی، اما احتمال مذاکرات پشت صحنه",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-pezeshkian-un-speech-war-diplomacy-12479915",
+        "clean_url": "https://www.newsweek.com/iran-pezeshkian-un-speech-war-diplomacy-12479915",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/09/GettyImages-2296136430.jpg?w=1200&crop=1",
+        "timestamp": 1790162640.0
     },
     {
         "id": "a26609cfe0",
@@ -3159,6 +3198,63 @@
         "clean_url": "https://www.msn.com/en-us/news/other/exiled-crown-prince-of-iran-we-need-to-equip-the-iranian-people/vi-AA2cM600",
         "image": "https://www.bing.com/th?id=ONUT.1Qt_fc2f3rv4eWaEIwLrvw",
         "timestamp": 1790114603.6515613
+    },
+    {
+        "id": "0b2e2f0561",
+        "title_fa": "ترامپ-شی جین: چین بر سر میز مذاکرات",
+        "title_en": "Decoding Trump-Xi",
+        "summary": [
+            "چین پیش از سفر رسمی به واشنگتن موقعیت قوی‌تری دارد",
+            "مذاکرات شامل تجارت، هوش مصنوعی و تایوان می‌شود",
+            "این وضعیت می‌تواند فشار آمریکا بر چین را کاهش دهد"
+        ],
+        "impact": "تقویت موضع چین در مذاکرات، احتمال تغییر سیاست تجاری آمریکا",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html",
+        "clean_url": "https://www.nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html",
+        "image": "https://www.bing.com/th?id=ONUT.cBr8X_R61JlSZiUbSUUDug",
+        "timestamp": 1790114590.0
+    },
+    {
+        "id": "7a7a9e1de1",
+        "title_fa": "ترامپ تهدید می‌کند، پوتین دعوت می‌شود",
+        "title_en": "Tracking Trump: Iran responds to Trump threat; Trump's ballroom safety code clashes; Trump invites Putin to Florida; and more",
+        "summary": [
+            "ترامپ در بیانیه‌ای به ایران هشدار داد که اقدام‌ها نظامی در پیش است",
+            "او قوانین ایمنی برای مهمانی‌های خود در واشنگتن اعلام کرد",
+            "دعوت پوتین به فلوریدا نشان‌دهنده تغییر استراتژی دیپلماتیک است",
+            "این ترکیب پیام‌ها می‌تواند تنش‌های منطقه‌ای را تشدید کند"
+        ],
+        "impact": "افزایش فشار نظامی بر ایران و ریسک واکنش روسیه",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/tracking-trump-iran-responds-to-trump-threat-trumps-ballroom-safety-code-clashes-trump-invites-putin-to-florida-and-more/ar-AA2cQZr9?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/tracking-trump-iran-responds-to-trump-threat-trumps-ballroom-safety-code-clashes-trump-invites-putin-to-florida-and-more/ar-AA2cQZr9",
+        "image": "https://www.bing.com/th?id=ONUT.pGT8vdmvwMxfvq5bDZWpXA",
+        "timestamp": 1790114590.0
+    },
+    {
+        "id": "756d9fb32a",
+        "title_fa": "رایولز: همه محتوا رایگان شد",
+        "title_en": "I made everything in Rivals free",
+        "summary": [
+            "سازنده بازی اعلام کرد تمام محتواهای Rivals رایگان است",
+            "این اقدام برای جذب بازیکنان جدید انجام شد"
+        ],
+        "impact": "افزایش کاربران بازی، تأثیر اقتصادی محدود",
+        "tag": "بازی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "YouTube on MSN",
+        "url": "https://www.msn.com/en-us/gaming/general/i-made-everything-in-rivals-free/vi-AA2cQWIm?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/gaming/general/i-made-everything-in-rivals-free/vi-AA2cQWIm",
+        "image": "https://www.bing.com/th?id=ONUT.EYF_mTbTd1yb5zXT8yH3nQ",
+        "timestamp": 1790114589.0
     },
     {
         "id": "5b14c22eda",
@@ -5255,91 +5351,5 @@
         "clean_url": "https://www.iranintl.com/202609227548",
         "image": "http://www.bing.com/th?id=ONUT.E8ztq_z8auBkHT2k_zFOpw&pid=News",
         "timestamp": 1790090400.0
-    },
-    {
-        "id": "9fdbb6583e",
-        "title_fa": "حمایت ترامپ از ممنوعیت صادرات گازوئیل؛ مقام‌های انرژی درباره پیامدهای احتمالی هشدار دادند",
-        "title_en": "حمایت ترامپ از ممنوعیت صادرات گازوئیل؛ مقام‌های انرژی درباره پیامدهای احتمالی هشدار دادند",
-        "summary": [
-            "دونالد ترامپ، رییس‌جمهوری آمریکا، سه‌شنبه ۳۱ شهریور گفت از ممنوعیت صادرات گازوئیل حمایت می‌کند؛ اقدامی که شماری از نامزدهای جمهوری‌خواه در رقابتی‌ترین حوزه‌های انتخاباتی ماه نوامبر نیز خواستار آن شده‌..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609222201",
-        "clean_url": "https://www.iranintl.com/202609222201",
-        "image": "http://www.bing.com/th?id=ONUT.Y1Ft6iyOqxdXGsv1oMXXSw&pid=News",
-        "timestamp": 1790090220.0
-    },
-    {
-        "id": "51b0db454a",
-        "title_fa": "ایرانی-آمریکایی Journalist Rejects به Work as an Informer برای سپاه",
-        "title_en": "Iranian-American Journalist Rejects to Work as an Informer for IRGC",
-        "summary": [
-            "A copy of a statement by Iranian-American journalist Reza Valizadeh, issued on the second anniversary of his detention in Evin Prison, h..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "IranWire",
-        "url": "https://iranwire.com/en/news/157987-iranian-american-journalist-rejects-to-work-as-an-informer-for-irgc/",
-        "clean_url": "https://iranwire.com/en/news/157987-iranian-american-journalist-rejects-to-work-as-an-informer-for-irgc",
-        "image": "https://static.prod.iranwire.com/_versions_jpeg/articleslide/Reza-Valizadeh-correct-696x509_SHtr__v1024x512__box_0%2C26%2C696%2C393.jpeg",
-        "timestamp": 1790089965.0
-    },
-    {
-        "id": "b0b9f5c675",
-        "title_fa": "خبر بین‌المللی — ترامپ’s Board Peace proposes $2.45 billion blueprint به beg",
-        "title_en": "Trump’s Board of Peace proposes $2.45 billion blueprint to begin Gaza reconstruction",
-        "summary": [
-            "The U.S.-backed Board of Peace is proposing a six-month, $2.45 billion plan to begin reconstruction and governance in Gaza as President..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Bangor Daily News",
-        "url": "https://www.bangordailynews.com/2026/09/23/nation/trumps-board-of-peace-proposes-2-45-billion-blueprint-to-begin-gaza-reconstruction/",
-        "clean_url": "https://www.bangordailynews.com/2026/09/23/nation/trumps-board-of-peace-proposes-2-45-billion-blueprint-to-begin-gaza-reconstruction",
-        "image": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/09/preview-1153.jpg?fit=1024%2C682&ssl=1",
-        "timestamp": 1790089964.0
-    },
-    {
-        "id": "5e058977b2",
-        "title_fa": "خبر بین‌المللی — Lewis Hamilton hopes Formula One presses ahead with ending s",
-        "title_en": "Lewis Hamilton hopes Formula One presses ahead with ending season in Middle East",
-        "summary": [
-            "Lewis Hamilton hopes Formula One presses ahead with ending season in Middle East - The campaign is scheduled to finish with rounds in Qatar on November 29 and then in Abu Dhabi a week later."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/sports/motorsports/lewis-hamilton-hopes-formula-one-presses-ahead-with-ending-season-in-middle-east/ar-AA2cP3b2?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/sports/motorsports/lewis-hamilton-hopes-formula-one-presses-ahead-with-ending-season-in-middle-east/ar-AA2cP3b2",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790089964.0
-    },
-    {
-        "id": "be1ab26a44",
-        "title_fa": "گفتگوهای غیرمستقیم آمریکا‑ایران در مجمع عمومی",
-        "title_en": "Witkoff says US, Iran held lengthy talks through mediators at UN",
-        "summary": [
-            "استیون ویتکاف گفت مذاکرات غیرمستقیم در کنار مجمع عمومی پیش رفت",
-            "میانجی‌ها روزانه بین دو تیم رفت و آمد کردند"
-        ],
-        "impact": "راه‌گشایی برای بازگشت دیپلماسی مستقیم بین دو کشور",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609226325",
-        "clean_url": "https://www.iranintl.com/en/202609226325",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790089860.0
     }
 ]
