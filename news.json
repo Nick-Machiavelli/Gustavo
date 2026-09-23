@@ -1107,6 +1107,23 @@
         "timestamp": 1790168166.6202116
     },
     {
+        "id": "29080bd176",
+        "title_fa": "خبر بین‌المللی — These GOP candidates در tight races are calling برای a quick",
+        "title_en": "These GOP candidates in tight races are calling for a quick end to Iran war",
+        "summary": [
+            "Some Trump-aligned candidates are calling for an end to the Iran war, even as Trump stands by his Iran strategy and has suggested escalation is possible."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/gop-candidates-tight-races-calling-150032403.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/gop-candidates-tight-races-calling-150032403.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/7ab591b3a0a0bcff769a21174d6a0ff0564863f18ba1abe9f90cb959a0b209ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fde234de08caec0c47acce1450ea5f8be.jpg",
+        "timestamp": 1790167620.0
+    },
+    {
         "id": "cc8a0c3152",
         "title_fa": "دوبل‌چوک خاورمیانه تهدیدی برای بحران جهانی",
         "title_en": "Double choke in West Asia threatens another global crisis",
@@ -3130,6 +3147,23 @@
         "clean_url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
         "image": "http://www.bing.com/th?id=ONUT.FGaxbZe0MDw4-lDq484llQ&pid=News",
         "timestamp": 1790116620.0
+    },
+    {
+        "id": "2b3cd8cf43",
+        "title_fa": "خبر بین‌المللی — ایرانی outlet says Araghchi's meeting with Witkoff was unaut",
+        "title_en": "Iranian outlet says Araghchi's meeting with Witkoff was unauthorized",
+        "summary": [
+            "Iran's Tasnim reports that Foreign Minister Araghchi's meeting with US envoy Witkoff in New York lacked authorization from Tehran's security council..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Türkiye Today",
+        "url": "https://www.turkiyetoday.com/region/iranian-outlet-says-araghchis-meeting-with-witkoff-was-unauthorized-3228806",
+        "clean_url": "https://www.turkiyetoday.com/region/iranian-outlet-says-araghchis-meeting-with-witkoff-was-unauthorized-3228806",
+        "image": "https://img.turkiyetoday.com/images/2026/9/23/iranian-outlet-says-araghchis-meeting-with-witkoff-was-unauthorized-3228806_20260923210738.jpg",
+        "timestamp": 1790115194.0
     },
     {
         "id": "8bbb4e444c",
@@ -5316,40 +5350,5 @@
         "clean_url": "https://www.msn.com/en-ae/news/world/benjamin-netanyahu-heads-to-unga-with-few-friends/ar-AA2cP0xf",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790090653.0
-    },
-    {
-        "id": "4de596ebc8",
-        "title_fa": "ترامپ مهمانی چین را در بحران سوخت می‌گیرد",
-        "title_en": "Trump's Tone Deaf State Dinner Is Driving His Own WH Allies 'Mad' As Americans Suffer",
-        "summary": [
-            "ترامپ با میزبانی شام دولتی برای شی جین‌پینگ، در حالی که قیمت بنزین در آمریکا به رکورد رسیده، نشان داد تمرکزش بر روابط چین است نه مردم",
-            "این اقدام هفت ماه پس از آغاز جنگ انتخابی با ایران، فشار اقتصادی داخلی را تشدید می‌کند و حتی هم‌پیمانان سفید‌خانه را ناآرام کرده است"
-        ],
-        "impact": "قیمت بنزین بالا می‌ماند، فشار بر مصرف‌کنندگان آمریکا افزایش می‌یابد و حمایت داخلی ترامپ تضعیف می‌شود",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Crooks and Liars",
-        "url": "https://crooksandliars.com/2026/09/trumps-tone-deaf-state-dinner-driving-his",
-        "clean_url": "https://crooksandliars.com/2026/09/trumps-tone-deaf-state-dinner-driving-his",
-        "image": "https://crooksandliars.com/files/primary_image/26/09/dancingtrump.jpg",
-        "timestamp": 1790090610.103578
-    },
-    {
-        "id": "43a1e906ca",
-        "title_fa": "نیویورک‌تایمز: برخی جمهوری‌خواهان در کنگره آمریکا خواستار ممنوعیت صادرات گازوئیل شده‌اند",
-        "title_en": "نیویورک‌تایمز: برخی جمهوری‌خواهان در کنگره آمریکا خواستار ممنوعیت صادرات گازوئیل شده‌اند",
-        "summary": [
-            "روزنامه نیویورک‌تایمز گزارش داد برخی جمهوری‌خواهان در کنگره ایالات متحده خواستار ممنوعیت صادرات گازوئیل شده‌اند؛ زیرا قیمت آن در پی کمبود عرضه جهانی، به‌دلیل جنگ ایران و همچنین جنگ چندساله روسیه و..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609227548",
-        "clean_url": "https://www.iranintl.com/202609227548",
-        "image": "http://www.bing.com/th?id=ONUT.E8ztq_z8auBkHT2k_zFOpw&pid=News",
-        "timestamp": 1790090400.0
     }
 ]
