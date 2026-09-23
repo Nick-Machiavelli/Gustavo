@@ -1,5 +1,23 @@
 [
     {
+        "id": "ef88333fdb",
+        "title_fa": "ترامپ درک نمی‌کند روزنامه‌نگاری چطور کار می‌کند",
+        "title_en": "Trump Doesn’t Understand How Journalism Works",
+        "summary": [
+            "ترامپ بارها به رسانه‌ها حمله کرده و اصول گزارش‌گری را نادیده می‌گیرد",
+            "این رفتار باعث تضعیف اعتماد عمومی به رسانه‌های مستقل می‌شود"
+        ],
+        "impact": "اعتماد مردم به خبرگزاری‌ها کاهش می‌یابد و فضای اطلاعاتی دچار تفرقه می‌شود",
+        "tag": "رسانه",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/culture/2026/09/trump-kaitlan-collins-united-nations/688757/",
+        "clean_url": "https://www.theatlantic.com/culture/2026/09/trump-kaitlan-collins-united-nations/688757",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790198590.7010555
+    },
+    {
         "id": "ce12cc590d",
         "title_fa": "بهنام طالبلو: دیدارهای نیویورک بعید است به توافقی میان تهران و واشینگتن منجر شود",
         "title_en": "بهنام طالبلو: دیدارهای نیویورک بعید است به توافقی میان تهران و واشینگتن منجر شود",
@@ -3180,6 +3198,25 @@
         "timestamp": 1790112629.0
     },
     {
+        "id": "1c3739e5d5",
+        "title_fa": "ایران در سخنرانی سازمان ملل به ترامپ هشدار داد",
+        "title_en": "Iran uses UN speech to send chilling attack warning to Trump",
+        "summary": [
+            "رئیس‌جمهور ایران در مجمع عمومی ملل به تهدیدهای قبلی ترامپ درباره نابودی کشور اشاره کرد",
+            "او با لحن سرد، پیام واضحی مبنی بر عواقب هرگونه اقدام نظامی ارسال کرد",
+            "سخنرانی می‌تواند فشار دیپلماتیک بر آمریکا را افزایش دهد"
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک بین واشنگتن و تهران، احتمال اعمال تحریم‌های جدید علیه ایران",
+        "tag": "سیاست خارجی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Daily Express US on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-uses-un-speech-to-send-chilling-attack-warning-to-trump/ar-AA2cQAFc?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-uses-un-speech-to-send-chilling-attack-warning-to-trump/ar-AA2cQAFc",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790112185.0
+    },
+    {
         "id": "ec835b2dde",
         "title_fa": "خبر بین‌المللی — A.I.: Let’s Not Have Another Failure Imagination",
         "title_en": "A.I.: Let’s Not Have Another Failure of Imagination",
@@ -5306,40 +5343,5 @@
         "clean_url": "https://www.upi.com/Top_News/World-News/2026/09/22/germany-us-f-16-fighter-jet-crashes-in-germany/8081790113360",
         "image": "http://www.bing.com/th?id=ONUT.jnRcwO-VEJWN86tBJpvSqw&pid=News",
         "timestamp": 1790089080.0
-    },
-    {
-        "id": "b210180251",
-        "title_fa": "مکرون: تغییر حکومت از طریق بمباران عملی نیست",
-        "title_en": "مکرون: تغییر حکومت از طریق بمباران یک کشور عملی نیست",
-        "summary": [
-            "امانوئل مکرون تأکید کرد که استفاده از بمباران برای سرنگونی حکومت ایران، راه‌حل عملی نیست و در سیاست خارجی اروپا جایگاهی ندارد.",
-            "در عین حال، ترامپ گفت «تحرک زیادی» برای رسیدن به توافق با ایران دارد؛ این تضاد نشان‌دهندهٔ اختلاف رویکردهای غربی نسبت به ایران است."
-        ],
-        "impact": "احتمال کاهش حمایت‌های نظامی غربی برای تغییر رژیم؛ فشار بیشتر به سمت دیپلماسی و تحریم‌های اقتصادی.",
-        "tag": "سیاست_خارجی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609228199",
-        "clean_url": "https://www.iranintl.com/202609228199",
-        "image": "http://www.bing.com/th?id=ONUT.UkCYMfJrS1xVH37zVk7EHw&pid=News",
-        "timestamp": 1790088840.0
-    },
-    {
-        "id": "47b0b1e01e",
-        "title_fa": "خبر بین‌المللی — Can flurry New York diplomacy lead به US-ایران diplomatic b",
-        "title_en": "Can flurry of New York diplomacy lead to US-Iran diplomatic breakthrough?",
-        "summary": [
-            "Analysts say a deal this week is unlikely - core disagreements between Washington and Tehran remain unresolved."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive",
-        "clean_url": "https://www.aljazeera.com/news/2026/9/23/flurry-of-diplomacy-trumps-fiery-threats-us-iran-war-deal-still-elusive",
-        "image": "https://www.bing.com/th?id=ONUT.3CFnDJH130WeIhv5t21Iow",
-        "timestamp": 1790088724.0
     }
 ]
