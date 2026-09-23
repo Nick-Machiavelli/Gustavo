@@ -2489,6 +2489,25 @@
         "timestamp": 1790083320.0
     },
     {
+        "id": "8bf3f913ba",
+        "title_fa": "تحریم جهانی خطوط هوایی ایران توسط ترامپ",
+        "title_en": "Trump Plans To Ban Iranian Airlines Across The World: Can US Do It And Will It Impact India?",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا ۲۷ شرکت هواپیمایی ایرانی را هدف تحریم‌های ثانویه کرد و هر شرکت خارجی که به آن‌ها کمک کند، دسترسی به سیستم مالی آمریکا را از دست می‌دهد",
+            "تحریم‌ها باعث می‌شود پروازهای بین‌المللی ایران به‌سرعت متوقف شود و هواپیماهای ایرانی مجبور به استفاده از مسیرهای غیرمستقیم یا ثبت‌نام در شرکت‌های واسطه‌ای شوند",
+            "شرکت‌های هواپیمایی خارجی، به‌ویژه آنهایی که در تجارت با هند فعالند، برای حفظ دسترسی به بازار آمریکا باید همکاری با خطوط ایرانی را قطع کنند"
+        ],
+        "impact": "ایران به‌سرعت دسترسی به فضای هوایی بین‌المللی را از دست می‌دهد؛ شرکت‌های خارجی مجبور به قطع همکاری می‌شوند",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "News18",
+        "url": "https://www.news18.com/explainers/us-plans-op-economic-outcast-to-ban-iranian-airlines-across-the-world-what-does-it-mean-and-will-it-impact-india-ws-klrt-10346497.html",
+        "clean_url": "https://www.news18.com/explainers/us-plans-op-economic-outcast-to-ban-iranian-airlines-across-the-world-what-does-it-mean-and-will-it-impact-india-ws-klrt-10346497.html",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/03/FotoJet-2026-03-10T062748.582-2026-03-3be372b98075f5bca67ebdfda25811fa-1200x675.jpg",
+        "timestamp": 1790083200.0
+    },
+    {
         "id": "f6f5b7c5ea",
         "title_fa": "ترامپ از ممدانی حمایت کرد؛ رپبلیکن‌ها واکنش نشان دادند",
         "title_en": "Republicans want to turn Mamdani into a bogeyman for the midterms. Trump just made that harder",
@@ -5315,22 +5334,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/from-gaddafi-tearing-up-un-charter-to-trump-s-escalatorgate-most-unforgettable-unga-moments/ar-AA2cNDly",
         "image": "https://www.bing.com/th?id=ONUT.JPeGzZAW8Aaw-nXs_yLGrA",
         "timestamp": 1790055664.0
-    },
-    {
-        "id": "0a6b3407a5",
-        "title_fa": "خبر بین‌المللی — اسرائیل: Iraqi pro-ایران Shi'ite militias may حمله amid disa",
-        "title_en": "Israel: Iraqi pro-Iran Shi'ite militias may attack amid disarmament efforts",
-        "summary": [
-            "Israel: Iraqi pro-Iran Shi'ite militias may attack amid disarmament efforts The Jerusalem Post"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vQ1ZKNlNkMVRYWHl5Vk56S2NfSEZ0V2xrdmZTNTVIRTUzYUNLdTU1WlBPX19MVjBnM1paYV9KejBVWVpnRWR2WmNFY2RBSGNfNkI2al9rdGYwdWJq?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vQ1ZKNlNkMVRYWHl5Vk56S2NfSEZ0V2xrdmZTNTVIRTUzYUNLdTU1WlBPX19MVjBnM1paYV9KejBVWVpnRWR2WmNFY2RBSGNfNkI2al9rdGYwdWJq",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790055452.0
     }
 ]
