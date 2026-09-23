@@ -1,5 +1,24 @@
 [
     {
+        "id": "6273efe9a1",
+        "title_fa": "رهبر نظامی ایران به توهین ترامپ در ملل واکنش داد",
+        "title_en": "Trump’s UN speech as ‘clumsy defense of a defeated aggressor’",
+        "summary": [
+            "محمدرضا رضایی سخنرانی ترامپ را «دفاع ناتوان» از جنگ‌گر مرتکب توصیف کرد.",
+            "او به صراحت گفت تهدید «نابودی» آمریکا به ایران، تنها راه تشدید فشار نظامی است.",
+            "این اظهارات می‌تواند حمایت داخلی نظامی را تقویت کند و ریسک برخورد مستقیم را بالا ببرد."
+        ],
+        "impact": "افزایش احتمال عملیات نظامی یا گسترش محاصره دریایی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Mehr News Agency",
+        "url": "https://en.mehrnews.com/news/248033/Trump-s-UN-speech-as-clumsy-defense-of-a-defeated-aggressor",
+        "clean_url": "https://en.mehrnews.com/news/248033/Trump-s-UN-speech-as-clumsy-defense-of-a-defeated-aggressor",
+        "image": "https://media.mehrnews.com/d/2026/05/24/4/6034838.jpg?ts=1779636110525",
+        "timestamp": 1790191352.5752127
+    },
+    {
         "id": "911be27b5e",
         "title_fa": "نویسنده واشنگتن اکسامینر: ترامپ باید ضربه‌ای محکم به ایران بزند",
         "title_en": "It’s time for Trump to put Iran down for good",
@@ -36,6 +55,23 @@
         "clean_url": "https://truthout.org/articles/doj-cites-national-security-to-defend-trumps-white-house-ban-on-news-outlets",
         "image": "https://truthout.org/app/uploads/2026/09/2026-0923-freepress.jpg",
         "timestamp": 1790188753.4093285
+    },
+    {
+        "id": "a8fb626e45",
+        "title_fa": "خبر بین‌المللی — ایران's president gives a rare wartime speech at U.N.",
+        "title_en": "Iran's president gives a rare wartime speech at the U.N.",
+        "summary": [
+            "Iran's president gives a rare wartime speech at the U.N. NPR"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWhVaUFqdzQ5N3g4R2twQmo0TTZRNkNSMjFMZVJrZWJlMHdjOWNYUk1uRFpHUGg0Q2lIMGxIeDBQZk1Ddi1oeVBjdmQ1MzZNRHEyUDBZX0hpdHd6ZjR0QW15SENUeU5Cc2VuZ3V2cjZBTzd6Rjh0S2tKYjBXSGJuME1ValFId2hfNDZaM0ZTWmdzWmIyMlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWhVaUFqdzQ5N3g4R2twQmo0TTZRNkNSMjFMZVJrZWJlMHdjOWNYUk1uRFpHUGg0Q2lIMGxIeDBQZk1Ddi1oeVBjdmQ1MzZNRHEyUDBZX0hpdHd6ZjR0QW15SENUeU5Cc2VuZ3V2cjZBTzd6Rjh0S2tKYjBXSGJuME1ValFId2hfNDZaM0ZTWmdzWmIyMlE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790187280.0
     },
     {
         "id": "4d96c762f6",
@@ -352,6 +388,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjBhV01rbEcwcTJwZjdTbjF1ekxtTnZiRzc2b3p3d1NRVjZZWEUyM0gtQlFPeXBWX0hRdlVpMS11d01GVHpiQmdVY1FlN3dIZUQ4eDRTcTZBRFJxYjRMeVp3eWg5M0Q1YWw5a2N3cEhOUHlhOWRxNmZQTjVLenl2MjRrSENSaUYyTkFhc0ZNdnNoNnN0VXZOM2NhRGRLOWcyUEtXUk9wbThsdXBzc1ZYQW5iRQ",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790175605.0
+    },
+    {
+        "id": "d97d1ce66d",
+        "title_fa": "خبر بین‌المللی — ایران's president says country won't surrender after ترامپ t",
+        "title_en": "Iran's president says country won't surrender after Trump threat to 'annihilate' Islamic Republic",
+        "summary": [
+            "Iranian President Masoud Pezeshkian did not mince words in a rare wartime speech at the United Nations General Assembly on Wednesday, a day after U.S. President Donald Trump suggested he may \"annihilate\" Iran amid the nearly seven-month war on the Islamic Republic."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "CBC.ca",
+        "url": "https://www.msn.com/en-ca/news/other/irans-president-says-country-wont-surrender-after-trump-threat-to-annihilate-islamic-republic/ar-AA2cP0Nq",
+        "clean_url": "https://www.msn.com/en-ca/news/other/irans-president-says-country-wont-surrender-after-trump-threat-to-annihilate-islamic-republic/ar-AA2cP0Nq",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790175495.0
     },
     {
         "id": "31fc07ca67",
@@ -1163,6 +1216,24 @@
         "timestamp": 1790159046.6017528
     },
     {
+        "id": "a8bca81709",
+        "title_fa": "واشنگتن پس از سخنرانی ایران در مجمع: «کشور شیطانی»",
+        "title_en": "White House fires back after Iran president's UNGA speech: \"Evil country\"",
+        "summary": [
+            "واشنطن به تصویرهای جنگی ایران با لحن توهین‌آمیز «کشور شیطانی» پاسخ داد.",
+            "این اظهارات می‌تواند مذاکرات هسته‌ای را در مسیر تنگ‌نظری بکشاند و تنش‌های منطقه‌ای را تشدید کند."
+        ],
+        "impact": "کاهش فضای دیپلماتیک و احتمال بازگشت به تحریم‌های گسترده",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/other/white-house-fires-back-after-iran-presidents-unga-speech-evil-country/ar-AA2cPYTX",
+        "clean_url": "https://www.msn.com/en-us/news/other/white-house-fires-back-after-iran-presidents-unga-speech-evil-country/ar-AA2cPYTX",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790158924.0
+    },
+    {
         "id": "fcb3cd5801",
         "title_fa": "ترامپ باید روسیه را نه اوکراین تحت فشار انرژی قرار دهد",
         "title_en": "Trump should pressure Russia, not Ukraine, on energy prices",
@@ -1789,6 +1860,24 @@
         "clean_url": "https://www.2gb.com/why-my-fair-lady-holds-the-key-to-fixing-australias-education-crisis",
         "image": "https://www.2gb.com/wp-content/uploads/sites/2/2026/09/iStock-1363069799-1.jpg",
         "timestamp": 1790143449.3516471
+    },
+    {
+        "id": "89a8c47545",
+        "title_fa": "تله ترامپ: حل بحران هرمز به نفع رژیم ایران",
+        "title_en": "Trump's trap: Solving Strait of Hormuz crisis saves Iranian regime, and threats stop working",
+        "summary": [
+            "ترامپ می‌خواهد فشار استراتژیک خود را با آرامش موقت در تنگه هرمز تعویض نکند.",
+            "اگر آمریکا به این شرط نرسد، احتمال تشدید تحریم‌ها و افزایش قیمت نفت برای خریداران جهانی بالا می‌رود."
+        ],
+        "impact": "تحریم‌های سخت‌تر و نوسان شدید قیمت نفت",
+        "tag": "استراتژیک",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post",
+        "url": "https://www.msn.com/en-ca/news/other/trump-s-trap-solving-strait-of-hormuz-crisis-saves-iranian-regime-and-threats-stop-working/ar-AA2cPXsh",
+        "clean_url": "https://www.msn.com/en-ca/news/other/trump-s-trap-solving-strait-of-hormuz-crisis-saves-iranian-regime-and-threats-stop-working/ar-AA2cPXsh",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/737783",
+        "timestamp": 1790142960.0
     },
     {
         "id": "d407a4e0d0",
@@ -5253,98 +5342,5 @@
         "clean_url": "https://apnews.com/article/trump-mamdani-midterms-new-york-f2a52d36a017516a005b1be06f16585e",
         "image": "http://www.bing.com/th?id=ONUT.Kwh-DLAnNSikhqA1kUa0fg&pid=News",
         "timestamp": 1790083080.0
-    },
-    {
-        "id": "ed1560f616",
-        "title_fa": "نزدیک به دو سوم مردم، جنگ ایران‑آمریکا را ناموفق می‌دانند",
-        "title_en": "Almost 2 in 3 say US not winning Iran war: Survey",
-        "summary": [
-            "نظرسنجی نشان می‌دهد 63٪ آمریکایی معتقدند جنگ ایران‑آمریکا به‌سودی نیست",
-            "این عدم اعتماد می‌تواند فشار داخلی بر دولت را برای تغییر مسیر ارتقا دهد"
-        ],
-        "impact": "کاهش حمایت عمومی برای ادامه عملیات نظامی در ایران",
-        "tag": "عمومی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUYWxnTXhiZ2d1UUdSWUlpb2t3MHQyMVNLSTJoTkVGMUxnMklzc3o1UnJhbmtSbmdyNDJQSHRDdDRVOUhpOUJqc2Zna0dzbmdfYjB4dUdqUXZHQ1dxTGRwanE2OVhna1FaQTlKbEdnZ0fSAXZBVV95cUxPYzllbl9HeS00d2dBMTBTVWdfU2VZZlJpU0ZXZU5JQWVjdHRJTzdia3NMLWZsVlA4UE1zVzE4ano1dmFBaU8tWEZtSTBWMHpLVzRWZVAtYVlVSGlzdEJ0T3BPcXJNcGJrN3JpZWdpb1lHd3JQRzFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUYWxnTXhiZ2d1UUdSWUlpb2t3MHQyMVNLSTJoTkVGMUxnMklzc3o1UnJhbmtSbmdyNDJQSHRDdDRVOUhpOUJqc2Zna0dzbmdfYjB4dUdqUXZHQ1dxTGRwanE2OVhna1FaQTlKbEdnZ0fSAXZBVV95cUxPYzllbl9HeS00d2dBMTBTVWdfU2VZZlJpU0ZXZU5JQWVjdHRJTzdia3NMLWZsVlA4UE1zVzE4ano1dmFBaU8tWEZtSTBWMHpLVzRWZVAtYVlVSGlzdEJ0T3BPcXJNcGJrN3JpZWdpb1lHd3JQRzFn",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790083080.0
-    },
-    {
-        "id": "a8c010923c",
-        "title_fa": "خبر بین‌المللی — UN should stop trying به be everything به everyone",
-        "title_en": "The UN should stop trying to be everything to everyone",
-        "summary": [
-            "Its next secretary-general must cut overlap after decades of unchecked mandate expansion, argues Rafael Grossi, a candidate for the job | World News..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/the-un-should-stop-trying-to-be-everything-to-everyone-101790061668655.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/the-un-should-stop-trying-to-be-everything-to-everyone-101790061668655.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/22/1600x900/logo/UN_ASSEMBLY_REUTERS_1790061754001_xD2u_1790061767090_Xgvk_0aaf3c32-d2c7-4c91-a829-d5c32fb099e5_1Zsc.jpg",
-        "timestamp": 1790082863.1860785
-    },
-    {
-        "id": "b5f6d2d1cf",
-        "title_fa": "آمریکا پیش از سال‌های گذشته سلاح به ایران می‌داد",
-        "title_en": "America once gave Iran weapons and nuclear technology",
-        "summary": [
-            "در دههٔ ۷۰ آمریکا به ایران تجهیزات نظامی و فناوری هسته‌ای عرضه کرد",
-            "این دوره بهانهٔ امروز برای ادعای تهدید ایران شد",
-            "روابط امروز بر پایهٔ این تاریخ‌نگاری است"
-        ],
-        "impact": "ادعاهای تحریمی امروز بر پایهٔ تاریخ سلاح‌فروشی آمریکا است",
-        "tag": "سلاح",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Think School on MSN",
-        "url": "https://www.msn.com/en-us/news/other/america-once-gave-iran-weapons-and-nuclear-technology-then-the-two-countries-became-bitter-enemies/vi-AA2cP4hG?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/america-once-gave-iran-weapons-and-nuclear-technology-then-the-two-countries-became-bitter-enemies/vi-AA2cP4hG",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790082390.0
-    },
-    {
-        "id": "8cd486a7c0",
-        "title_fa": "ترامپ از مسیر تجاری IMEC علیه ایران حمایت کرد",
-        "title_en": "Trump backs IMEC: What the India-Gulf-Europe corridor is, and why it is back in focus",
-        "summary": [
-            "ترامپ پروژه IMEC را به عنوان راهی برای دور زدن مسیرهای انرژی تحت کنترل ایران معرفی کرد",
-            "او گفت حملات تروریستی ایران به کشتی‌ها نشان داد نیاز به تغییر زیرساخت‌هاست",
-            "پروژه هنوز با سرمایه‌گذاری و زمان‌بندی نامشخص است",
-            "تغییر مسیر انرژی می‌تواند درآمد نفت ایران را کاهش دهد"
-        ],
-        "impact": "تغییر مسیر انرژی می‌تواند درآمد نفت ایران را به‌طور قابل‌توجهی کم کند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/ht-explainers/trump-backs-imec-what-the-india-gulf-europe-corridor-is-and-why-it-is-back-in-focus-101790156112148.html",
-        "clean_url": "https://www.hindustantimes.com/ht-explainers/trump-backs-imec-what-the-india-gulf-europe-corridor-is-and-why-it-is-back-in-focus-101790156112148.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/23/1600x900/logo/ANI-20260715268-0_1790164949950_78A9_1790164960084_M2U3_3c559f18-fd39-4b33-a039-e72e2439878a_bUZU.jpg",
-        "timestamp": 1790082390.0
-    },
-    {
-        "id": "5e8e1207fb",
-        "title_fa": "قهرمانان لیگ قهرمانان در مسابقهٔ شب گذشته",
-        "title_en": "Articole despre \"reguli-de-politete\"",
-        "summary": [
-            "رئال مادرید در خانه ۲-۱ اینتر میلان را شکست",
-            "آیک آتن ۱-۰ لاسک لینز را برد",
-            "اخبار دیگر شامل سرمایه‌گذاری‌های شهری و ارسال رکت‌های پاتریوت به اوکراین است"
-        ],
-        "impact": "نتایج مسابقه برای جدول لیگ قهرمانان مهم است",
-        "tag": "ورزش",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/reguli-de-politete-pag189",
-        "clean_url": "https://ziare.com/cautare/reguli-de-politete-pag189",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1790082390.0
     }
 ]
