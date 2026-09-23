@@ -1,5 +1,25 @@
 [
     {
+        "id": "5900f046c0",
+        "title_fa": "حمایت اندی برنهام از مبارزه با حوثی‌ها",
+        "title_en": "Burnham’s show of support against the Houthis is a gamble worth taking",
+        "summary": [
+            "برنهام با حمایت از ائتلاف سعودی، سعی در جلوگیری از تهدید حوثی‌ها به مکان‌های مقدس دارد",
+            "این موضع می‌تواند فشار دیپلماتیک بر لندن برای اعمال تحریم‌های هدفمند علیه حوثی‌ها را افزایش دهد",
+            "اگر بریتانیا به اقدام‌ها نظامی بپیوندد، خطر تشدید جنگ در یمن و واکنش حوثی‌ها بالا می‌رود",
+            "گام برنهام روابط بریتانیا با خاورمیانه را تقویت می‌کند اما ممکن است انتقادات داخلی درباره مداخله نظامی را برانگیزد"
+        ],
+        "impact": "تقویت فشار بین‌المللی بر حوثی‌ها و احتمال ارسال کمک نظامی یا تحریم‌های هدفمند توسط بریتانیا",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-au/news/other/burnham-s-show-of-support-against-the-houthis-is-a-gamble-worth-taking/ar-AA2cOg8e?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-au/news/other/burnham-s-show-of-support-against-the-houthis-is-a-gamble-worth-taking/ar-AA2cOg8e",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790149343.4414315
+    },
+    {
         "id": "e7034266f5",
         "title_fa": "خبر بین‌المللی — ایران says international flights continue despite US تحریم‌ه",
         "title_en": "Iran says international flights continue despite US sanctions pressure",
@@ -5319,22 +5339,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iraq-suspends-iranian-flights-to-baghdad-after-us-sanctions-threat-report/ar-AA2cNe27",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790048534.0
-    },
-    {
-        "id": "a0843646d2",
-        "title_fa": "در بحبوحه بی اعتمادی عمیق بین ایالات متحده و چین، هوش مصنوعی در دیدار ترامپ و شی به چشم می‌خورد",
-        "title_en": "AI looms large over Trump-Xi meeting amid deep distrust between US and China",
-        "summary": [
-            "Kenny Holston/Reuters When Xi Jinping, China’s leader, touches down in Maryland on Wednesday, he will step out into the arms..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/ai-looms-large-over-trump-023559000.html",
-        "clean_url": "https://www.aol.com/articles/ai-looms-large-over-trump-023559000.html",
-        "image": "https://www.bing.com/th?id=ONUT.Tc75_EVuR0oelSKm1ngulw",
-        "timestamp": 1790048533.0
     }
 ]
