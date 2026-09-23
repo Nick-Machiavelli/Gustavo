@@ -1,5 +1,25 @@
 [
     {
+        "id": "b797794635",
+        "title_fa": "هگست با کتاب مقدس جذب نظامی می‌کند",
+        "title_en": "Pete Hegseth is using Bible scripture to recruit for the military, and it's part of a disturbing pattern",
+        "summary": [
+            "پیت هگست در تبلیغات جذب نیرو از متون بایبل استفاده می‌کند؛ این کار با ادعای «مسیحی» توجیه می‌شود.",
+            "یک کشیش آن را «غیر مسیحی، غیر آمریکایی و تهدیدی برای دموکراسی» نامید.",
+            "این الگو نشان می‌دهد برخی گروه‌های نظامی سعی در ترکیب مذهب با خدمت نظامی دارند.",
+            "اگر ادامه یابد، می‌تواند باعث تفرقه‌زدایی در جامعه و کاهش اعتماد عمومی به نیروهای مسلح شود."
+        ],
+        "impact": "اعتماد عمومی به ارتش کاهش می‌یابد و فشار سیاسی برای جداسازی تبلیغات مذهبی از جذب نظامی افزایش می‌یابد.",
+        "tag": "نظامی",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "HuffPost on MSN",
+        "url": "https://www.msn.com/en-us/news/other/pete-hegseth-is-using-bible-scripture-to-recruit-for-the-military-and-it-s-part-of-a-disturbing-pattern/ar-AA2cQEWM?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/pete-hegseth-is-using-bible-scripture-to-recruit-for-the-military-and-it-s-part-of-a-disturbing-pattern/ar-AA2cQEWM",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790197409.1166356
+    },
+    {
         "id": "5e2e185f88",
         "title_fa": "بولتون: قانون تحریم‌ها خطرناک، تمرکز بر چین",
         "title_en": "John Bolton warns against sanctions act, urges focus on China",
@@ -1142,6 +1162,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0dDM1A3eDlVM1Y3VGl3UWpERk1hYzllZUlSMnlpd0dYVFpXZmNvanFENm1MLUFWU05KNXhtQzNxWkxrSG9yRkxveExxdUMzYlNMMkJLaTJPSWJUbHE1VGpfUk9hRG1rckNjMDFJSHQ4TGJLMndkdURIa1RFSTVWQmdGWExoQWVJX1hF",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790164800.0
+    },
+    {
+        "id": "8397b80005",
+        "title_fa": "روبیو و همتای هندی درباره تحریم‌های ضد‑ایران گفتگو کردند",
+        "title_en": "روبیو و همتای هندی او درباره تحریم‌های احتمالی مرتبط با جمهوری اسلامی گفت‌وگو کردند",
+        "summary": [
+            "مارکو روبیو، وزیر امور خارجه آمریکا، با سوپرامانیام جایشانکار، همتای هندی، درباره تحریم‌های احتمالی گفت‌وگو کرد.",
+            "تمرکز بر کشورهایی است که به‌صورت اقتصادی با روسیه و جمهوری اسلامی همکاری می‌کنند.",
+            "ایالات متحده قصد دارد فشار اقتصادی بیشتری اعمال کند تا همکاری‌های تجاری این کشورها را محدود سازد.",
+            "این مذاکرات می‌تواند منجر به تصویب تحریم‌های هدفمند علیه شرکت‌ها و بانک‌های مرتبط شود."
+        ],
+        "impact": "تحریم‌های جدید می‌توانند جریان تجارت بین‌المللی را مختل کرده و هزینه‌های اقتصادی برای کشورهای هدف را بالا ببرند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "iranintl",
+        "url": "https://www.iranintl.com/202609234904",
+        "clean_url": "https://www.iranintl.com/202609234904",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790164680.0
     },
     {
         "id": "a3229b7176",
@@ -5301,40 +5341,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-threatened-iran-with-annihilation-if-it-doesnt-reach-a-deal-tehran-doubled-down/ar-AA2cPBU1",
         "image": "https://www.bing.com/th?id=ONUT.uz2aX2Sly_f0ELk5MKKEaw",
         "timestamp": 1790088191.0
-    },
-    {
-        "id": "9bb10d9cea",
-        "title_fa": "در حالی که جنگ ایران بر دیپلماسی سایه انداخته است، ترامپ به سازمان ملل می‌رود تا پیروزی را اعلام کند",
-        "title_en": "Trump heads to U.N. to tout wins as Iran war overshadows diplomacy",
-        "summary": [
-            "Trump heads to U.N. to tout wins as Iran war overshadows diplomacy The Washington Post"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeG94eldoMEVmeW5Relh3V0U5S29XbERMeXhRTktZOC1XalhLMVU0R3JFVzI1X2N2WHBwWVJRbl9JVE5IS3dCb2o3S3hQQmVQaXpMYjE5R2JyZEF2SmZfaDZYakxRR29jdGxpOTVlOXpzTlZiZVN6Q2xmUHYxVndMS1Z0NVJ5OWt6b3duX013RTJRZFBITXlKNWdHRmJaNVlPNU9SOVNtN0FnN0k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeG94eldoMEVmeW5Relh3V0U5S29XbERMeXhRTktZOC1XalhLMVU0R3JFVzI1X2N2WHBwWVJRbl9JVE5IS3dCb2o3S3hQQmVQaXpMYjE5R2JyZEF2SmZfaDZYakxRR29jdGxpOTVlOXpzTlZiZVN6Q2xmUHYxVndMS1Z0NVJ5OWt6b3duX013RTJRZFBITXlKNWdHRmJaNVlPNU9SOVNtN0FnN0k",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790087686.0
-    },
-    {
-        "id": "91b5546ee1",
-        "title_fa": "جنگ ایران ترامپ در بین جمهوری‌خواهان نامحبوب شد",
-        "title_en": "Trump’s Iran war is bombing with Republicans",
-        "summary": [
-            "نظرسنجی جدید نشان می‌دهد حمایت از جنگ ایران در میان جمهوری‌خواهان به‌طور چشمگیری افت کرده است",
-            "کاهش محبوبیت می‌تواند فشار سیاسی بر ترامپ برای تغییر یا پایان عملیات نظامی ایجاد کند"
-        ],
-        "impact": "فشار داخلی می‌تواند مسیر تصمیم‌گیری‌های نظامی را به‌سوی دیپلماسی یا عقب‌نشینی سوق دهد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "New York Magazine on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-iran-war-is-bombing-with-republicans/ar-AA2cMxU6",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-iran-war-is-bombing-with-republicans/ar-AA2cMxU6",
-        "image": "http://www.bing.com/th?id=ONUT.PeqzhFEBjWVg2l0ITQCUYQ&pid=News",
-        "timestamp": 1790087334.0
     }
 ]
