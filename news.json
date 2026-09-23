@@ -289,6 +289,25 @@
         "timestamp": 1790121880.9678874
     },
     {
+        "id": "1115114798",
+        "title_fa": "قطر واسطه‌گری مذاکرات ایران‑آمریکا را اعلام کرد",
+        "title_en": "Iran says Qatar mediated talks with US, demands end to war on all fronts",
+        "summary": [
+            "ایران از طریق قطر در نیویورک شرایط خود شامل پایان جنگ در همه جبهه‌ها را مطرح کرد",
+            "وزارت خارجه ایران «اعمال تجاوزهای آمریکا» را محکوم کرد",
+            "این پیام نشان می‌دهد تهران هنوز به دنبال راه‌حل دیپلماتیک است"
+        ],
+        "impact": "درخواست ایران برای پایان جنگ، امکان بازگشت به میز مذاکرات را باز می‌کند",
+        "tag": "مذاکرات",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-qatar-mediated-talks-with-us-demands-end-to-war-on-all-fronts/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/iran-says-qatar-mediated-talks-with-us-demands-end-to-war-on-all-fronts",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790121600.0
+    },
+    {
         "id": "f39796fa30",
         "title_fa": "اولین حضور بُرنهم در مجمع عمومی: ملاقات با ترامپ",
         "title_en": "The UN General Assembly’s true value lies in the encounters that it facilitates",
@@ -642,6 +661,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-latest-kushner-and-witkoff-met-with-iranian-officials/ar-AA2cIztL",
         "image": "https://www.bing.com/th?id=ONUT.vkv418x0p6hI9a48gUlWHQ",
         "timestamp": 1790106016.7490127
+    },
+    {
+        "id": "37cee3d558",
+        "title_fa": "تهدید انهدام ترامپ؛ ایران در مجمع ملل رد کرد",
+        "title_en": "Walkout and defiance: How Iran reacted to Trump’s ‘annihilate’ threat while bargaining at UN",
+        "summary": [
+            "ترامپ در سخنرانی خود خواست ایران را از صلح‌جنگ در خلیج هرمز حذف کند",
+            "دیپلمات‌های ایرانی پس از شنیدن تهدید، جلسه را ترک کردند و اعتراض نشان دادند",
+            "این واکنش نشان می‌دهد مذاکرات هسته‌ای تحت فشار شدید آمریکا باقی مانده‌اند"
+        ],
+        "impact": "تهدید ترامپ به انهدام، فشار دیپلماتیک بر مذاکرات هسته‌ای را تشدید می‌کند",
+        "tag": "سخنرانی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Zee News on MSN",
+        "url": "https://www.msn.com/en-in/news/other/walkout-and-defiance-how-iran-reacted-to-trump-s-annihilate-threat-while-bargaining-at-un/ar-AA2cMF08",
+        "clean_url": "https://www.msn.com/en-in/news/other/walkout-and-defiance-how-iran-reacted-to-trump-s-annihilate-threat-while-bargaining-at-un/ar-AA2cMF08",
+        "image": "http://www.bing.com/th?id=ONUT.Mzh6hWS_daaBjmRmaNmsVg&pid=News",
+        "timestamp": 1790105819.0
     },
     {
         "id": "d9c5131bf0",
@@ -1218,6 +1256,25 @@
         "clean_url": "https://www.iranintl.com/202609220428",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790095020.0
+    },
+    {
+        "id": "5518b62a2f",
+        "title_fa": "آمریکا به هدف‌های حوثی در یمن حمله کرد",
+        "title_en": "US launches retaliatory strike on Houthi targets in Yemen after attack on Israel's Tel Aviv",
+        "summary": [
+            "آمریکا هدف‌های ذخیره موشک و مرکز فرماندهی حوثی‌ها را در سنا هدف قرار داد",
+            "حمله پس از شلیک موشک حوثی به تل‌آویو که ۱۶ نفر را مجروح کرد، انجام شد",
+            "این اقدام نشانگر گسترش درگیری‌های غیرمستقیم آمریکا در خلیج است"
+        ],
+        "impact": "حمله آمریکا به حوثی‌ها، خطر گسترش جنگ در خلیج و مسیرهای تجاری را بالا می‌برد",
+        "tag": "حمله-امریکا",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "WION",
+        "url": "https://www.wionews.com/world/us-launches-retaliatory-strike-on-houthi-targets-in-yemen-after-attack-on-israels-tel-aviv-785886",
+        "clean_url": "https://www.wionews.com/world/us-launches-retaliatory-strike-on-houthi-targets-in-yemen-after-attack-on-israels-tel-aviv-785886",
+        "image": "https://cdn.wionews.com/sites/default/files/2024/12/22/472484-new-wion-2024-12-22t062122532.jpg?imwidth=1200&imheight=900",
+        "timestamp": 1790093700.0
     },
     {
         "id": "d7917cf8ba",
@@ -4079,6 +4136,44 @@
         "timestamp": 1790054160.0
     },
     {
+        "id": "47ad8c6b5a",
+        "title_fa": "ADB پیش‌بینی رشد فیلیپین را به ۳٫۳٪ کاهش داد",
+        "title_en": "ADB cuts Philippine growth outlook to 3.3 pct",
+        "summary": [
+            "ADB پیش‌بینی رشد اقتصاد فیلیپین را از ۳٫۸٪ به ۳٫۳٪ کاهش داد",
+            "کاهش به دلیل فشارهای تورمی و کاهش سرمایه‌گذاری خارجی است",
+            "این پیش‌بینی می‌تواند سیاست‌های مالی دولت را تحت فشار قرار دهد"
+        ],
+        "impact": "کاهش پیش‌بینی رشد، فشار بر بودجه و برنامه‌های توسعه فیلیپین را افزایش می‌دهد",
+        "tag": "رشد-اقتصاد",
+        "urgency": 3,
+        "sentiment": -0.7,
+        "source": "ABS-CBN on MSN",
+        "url": "https://www.msn.com/en-ph/money/economy/adb-cuts-philippine-growth-outlook-to-3-3-pct/ar-AA2cNFY7?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ph/money/economy/adb-cuts-philippine-growth-outlook-to-3-3-pct/ar-AA2cNFY7",
+        "image": "https://www.bing.com/th?id=ONUT.VvU5saQx5hxQlNOP1p6bEQ",
+        "timestamp": 1790053947.0
+    },
+    {
+        "id": "5a38a7eff3",
+        "title_fa": "عراق پروازهای ایرانی به بغداد را متوقف کرد",
+        "title_en": "Iraq suspends Iranian flights to Baghdad after US sanctions threat, sources say",
+        "summary": [
+            "عراق پس از تهدید تحریم‌های آمریکا به پروازهای ایرانی به بغداد ممنوعیت داد",
+            "این تصمیم می‌تواند ترافیک هوایی و تجارت دوطرفه را به‌طور قابل‌توجهی کاهش دهد",
+            "واکنش ایران هنوز نامشخص است اما فشار دیپلماتیک افزایش یافته"
+        ],
+        "impact": "متوقف شدن پروازهای ایرانی، ترافیک هوایی و روابط تجاری عراق‑ایران را مختل می‌کند",
+        "tag": "پروازها",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Economic Times on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iraq-suspends-iranian-flights-to-baghdad-after-us-sanctions-threat-sources-say/ar-AA2cN9kt?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/iraq-suspends-iranian-flights-to-baghdad-after-us-sanctions-threat-sources-say/ar-AA2cN9kt",
+        "image": "https://www.bing.com/th?id=ONUT.bnnBtnK3P6ReM3l73yJZug",
+        "timestamp": 1790053947.0
+    },
+    {
         "id": "6d4fa76468",
         "title_fa": "ترامپ، نتانیاهو و ایران در کانون سازمان ملل قرار دارند",
         "title_en": "Trump, Netanyahu, and Iran Take Center Stage at UN",
@@ -5236,93 +5331,5 @@
         "clean_url": "https://www.iranintl.com/202609223294",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/d0cbc126d6010e7eae508c6031dd3e3ca2c61620-929x509.png?rect=0,11,929,488&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790039640.0
-    },
-    {
-        "id": "4a42d0b932",
-        "title_fa": "WTI به نزدیک 89.00 دلار سقوط کرد زیرا بازارها سخنرانی ترامپ در سازمان ملل را سنگین می‌کنند",
-        "title_en": "WTI slumps to near $89.00 as markets weigh Trump’s UN speech",
-        "summary": [
-            "West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $89.00 during the early Asian trading hours on..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "FXStreet",
-        "url": "https://www.fxstreet.com/news/wti-slumps-to-near-8900-as-markets-weigh-trumps-un-speech-202609230012",
-        "clean_url": "https://www.fxstreet.com/news/wti-slumps-to-near-8900-as-markets-weigh-trumps-un-speech-202609230012",
-        "image": "https://www.bing.com/th?id=ONUT.x436SskTnbucSzlOCqexFg",
-        "timestamp": 1790039540.0
-    },
-    {
-        "id": "307d6213f0",
-        "title_fa": "خبر بین‌المللی — ترامپ sees ‘momentum’ برای ایران deal after New York meeting",
-        "title_en": "Trump sees ‘momentum’ for Iran deal after New York meetings",
-        "summary": [
-            "US President Donald Trump said Tuesday there was “a lot of momentum” toward a deal with Tehran after his envoys met regional mediators and Iran’s top diplomat, as contacts in New York put the Strait..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609225547",
-        "clean_url": "https://www.iranintl.com/en/202609225547",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/9e000e8bcb87d7aeae2e5e234cb2c5724896fe75-4045x2667.jpg?rect=0,272,4045,2124&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790039460.0
-    },
-    {
-        "id": "5d2eb04260",
-        "title_fa": "اندی بیگز از موضع ترامپ درباره جنگ ایران جدا می‌شود",
-        "title_en": "Arizona governor candidate Andy Biggs breaks with Trump over Iran",
-        "summary": [
-            "بیگز، نامزد جمهوری‌خواه آریزونا، علناً مخالفت خود را با جنگ ایران اعلام کرد؛ این موضع با حمایت ترامپ در تضاد است.",
-            "جدایی او از ریکاوری‌گرایان می‌تواند فشار داخلی بر ترامپ برای سخت‌گیری بیشتر را کاهش دهد."
-        ],
-        "impact": "حمایت ترامپ از بیگز ممکن است در انتخابات 2024 توازن قدرت GOP را تغییر دهد",
-        "tag": "سیاست داخلی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "AZ Family",
-        "url": "https://www.azfamily.com/2026/09/23/arizona-governor-candidate-andy-biggs-breaks-with-trump-over-iran/",
-        "clean_url": "https://www.azfamily.com/2026/09/23/arizona-governor-candidate-andy-biggs-breaks-with-trump-over-iran",
-        "image": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/USAAPSXOXBGBXPMXYT4YLJBJZU.png?auth=b76000bb99b18b6693c8a26264b4594b8d095a3cf2a8a8db4f88b19bfa43a903&width=1200&height=600&smart=true",
-        "timestamp": 1790039001.0
-    },
-    {
-        "id": "3022f07e86",
-        "title_fa": "ترامپ تهدید به «نابودسازی» ایران در صورت عدم توافق",
-        "title_en": "Trump says he wants to 'annihilate' Iran if no deal reached",
-        "summary": [
-            "ترامپ در مجمع عمومی سازمان ملل گفت اگر پس از انتخابات توافقی حاصل نشود، ایران را «نابود» خواهد کرد.",
-            "این اظهارات با افزایش قیمت نفت و هفت ماه جنگ در خلیج فارس هم‌زمان شد؛ خطر تشدید تنش نظامی بالا است.",
-            "کارشناسان هشدار دادند تهدیدهای کلامی می‌توانند به اقدام‌ها واقعی تبدیل شوند و منطقه را به بحران نزدیک کنند."
-        ],
-        "impact": "افزایش تنش‌های نظامی می‌تواند قیمت نفت را به‌سختی بیشتر کند و ناامنی منطقه‌ای را تشدید کند",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "KTVU FOX 2",
-        "url": "https://www.ktvu.com/video/fmc-pdk9iqs2yod1m5bs",
-        "clean_url": "https://www.ktvu.com/video/fmc-pdk9iqs2yod1m5bs",
-        "image": "https://www.bing.com/th?id=ONUT.xPTlRKtSQkBY_kIJgPwmTQ",
-        "timestamp": 1790039001.0
-    },
-    {
-        "id": "b60aeb730a",
-        "title_fa": "ترامپ می‌گوید آمریکا نشست سه ساعته «بسیار سازنده» با ایران برگزار کرد",
-        "title_en": "Trump says US held ‘very productive’ three-hour meeting with Iran",
-        "summary": [
-            "President Donald Trump said US officials had a “very good” meeting with Iranian representatives, a rare direct encounter that..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Al Arabiya English",
-        "url": "https://english.alarabiya.net/News/middle-east/2026/09/22/us-officials-met-with-iranians-tuesday-in-new-york-trump-says",
-        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/09/22/us-officials-met-with-iranians-tuesday-in-new-york-trump-says",
-        "image": "https://www.bing.com/th?id=ONUT.sZLG8yt9XQ9_eSyD4A1Yag",
-        "timestamp": 1790039001.0
     }
 ]
