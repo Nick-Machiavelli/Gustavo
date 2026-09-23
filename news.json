@@ -453,6 +453,24 @@
         "timestamp": 1790123288.5988538
     },
     {
+        "id": "0cf444ea3a",
+        "title_fa": "فرمانده نیروی زمینی سپاه: در برابر دشمن کوتاه‌برد نخواهیم آمد",
+        "title_en": "فرمانده نیروی زمینی سپاه پاسداران: در مقابل دشمن ذره‌ای کوتاه نخواهیم آمد",
+        "summary": [
+            "محمد کرمی تأکید کرد که نیروی زمینی سپاه در برابر تهدیدات کوتاه‌برد دشمن ایستادگی می‌کند.",
+            "او آینده را «اسلام عزیز و ملت قهرمان ایران» توصیف کرد و بر تداوم آمادگی نظامی تأکید داشت."
+        ],
+        "impact": "بیان این موضع می‌تواند تهدیدهای مرزی را به‌صورت روانی تقویت کند",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609232442",
+        "clean_url": "https://www.iranintl.com/202609232442",
+        "image": "http://www.bing.com/th?id=ONUT.ZesE-7DtXqBG1IZYdc7ukA&pid=News",
+        "timestamp": 1790122920.0
+    },
+    {
         "id": "7de1ec88aa",
         "title_fa": "شکست بمباران ایران توسط ترامپ، نتایج مخالفان را به‌دست آورد",
         "title_en": "Has Trump’s Failure To Bomb Iran Into Capitulation Backfired, Prompting Netanyahu And MBS To Pull Washington In The Opposite Direction? – OpEd",
@@ -3694,6 +3712,24 @@
         "timestamp": 1790065669.0
     },
     {
+        "id": "247e468e7b",
+        "title_fa": "ترامپ به دادگاه کیفری بین‌المللی تهدید تحریم می‌زند",
+        "title_en": "“I call on Donald Trump to resign immediately”: Two and a Half Men’s Jon Cryer mocks Trump asking ICC members to resign",
+        "summary": [
+            "ترامپ دادگاه بین‌المللی را «مجموعه‌ای شیطانی» خواند و خواست اعضا استعفا دهند؛ آمریکا عضو این نهاد نیست.",
+            "گزارش‌ها حاکی از برنامه‌ریزی دولت برای اعمال تحریم‌های سنگین است که می‌تواند عملیات روزانه دادگاه را به‌سختی تحت‌الشعاع قرار دهد."
+        ],
+        "impact": "تحریم‌های پیشنهادی می‌توانند عملکرد دادگاه ICC را به‌طور جدی مختل کنند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Soap Central",
+        "url": "https://www.soapcentral.com/entertainment/i-call-donald-trump-resign-immediately-two-half-men-s-jon-cryer-mocks-trump-asking-icc-members-resign",
+        "clean_url": "https://www.soapcentral.com/entertainment/i-call-donald-trump-resign-immediately-two-half-men-s-jon-cryer-mocks-trump-asking-icc-members-resign",
+        "image": "https://statico.soapcentral.com/editor/2026/09/392a1-17901434230455-1920.jpg",
+        "timestamp": 1790065492.0
+    },
+    {
         "id": "e82a138f06",
         "title_fa": "رویترز: فرانسه با هماهنگی آمریکا قطعنامه‌ای درباره تنگه هرمز تدوین می‌کند",
         "title_en": "رویترز: فرانسه با هماهنگی آمریکا قطعنامه‌ای درباره تنگه هرمز تدوین می‌کند",
@@ -5301,39 +5337,5 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/record-diesel-prices-could-drive-up-the-cost-of-everyday-goods-in-kansas-city/ar-AA2cNerF",
         "image": "https://www.bing.com/th?id=ONUT.4qtSftyDfNG0GBpd7ZEsQg",
         "timestamp": 1790051054.0
-    },
-    {
-        "id": "9febb35448",
-        "title_fa": "به‌روزرسانی‌های زنده سازمان ملل: ترامپ می‌گوید با انتخابی برای دستیابی به توافق یا «نابودی» ایران مواجه است",
-        "title_en": "U.N. Live Updates: Trump Says He Faces Choice to Make a Deal or ‘Annihilate’ Iran",
-        "summary": [
-            "President Trump said that Iran had been “the bully of the Middle East, but they are the bully no longer.” Earlier, António Guterres, the U.N. secretary general, called on the General Assembly to end..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
-        "clean_url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790050680.0
-    },
-    {
-        "id": "752230d003",
-        "title_fa": "سخنگوی سپاه پاسداران: حمله آمریکا از اردن را قریب‌الوقوع ارزیابی کرده بودیم",
-        "title_en": "سخنگوی سپاه پاسداران: حمله آمریکا از اردن را قریب‌الوقوع ارزیابی کرده بودیم",
-        "summary": [
-            "حسین محبی، سخنگوی سپاه پاسداران، سه‌شنبه ۳۱ شهریور به تلویزیون العربی اعلام کرد جمهوری اسلامی حمله آمریکا از پایگاهی در اردن را قریب‌الوقوع ارزیابی کرده و به همین دلیل به آن حمله کرده است. سخنگوی سپاه..."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609222398",
-        "clean_url": "https://www.iranintl.com/202609222398",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790050440.0
     }
 ]
