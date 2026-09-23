@@ -1,5 +1,24 @@
 [
     {
+        "id": "1ab3729154",
+        "title_fa": "تصویر ماهواره‌ای مدرسه هدف‌دار در ایران",
+        "title_en": "The Treachery of Machine Realism",
+        "summary": [
+            "مقاله به نقش تصویر ماهواره‌ای در شناسایی هدف‌های نظامی می‌پردازد",
+            "بمباران مدرسه ابتدایی نشان‌دهنده خطرات استفاده از فناوری در جنگ است",
+            "این واقعه می‌تواند فشار بین‌المللی برای حفاظت از غیرنظامیان را تقویت کند"
+        ],
+        "impact": "افزایش فشار بین‌المللی برای جلوگیری از حملات به مدارس",
+        "tag": "حقوق بشر",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Public Books",
+        "url": "https://www.publicbooks.org/the-treachery-of-machine-realism/",
+        "clean_url": "https://www.publicbooks.org/the-treachery-of-machine-realism",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790178167.3033638
+    },
+    {
         "id": "e97b43526a",
         "title_fa": "نظرتان درباره سخنان پزشکیان پیرامون انقلاب ملی در سخنرانی سازمان ملل چیست؟",
         "title_en": "نظرتان درباره سخنان پزشکیان پیرامون انقلاب ملی در سخنرانی سازمان ملل چیست؟",
@@ -2498,6 +2517,26 @@
         "timestamp": 1790103754.5230486
     },
     {
+        "id": "76c5cbf560",
+        "title_fa": "زمستان سخت اروپا به‌خاطر کمبود گاز",
+        "title_en": "Europe faces harsh winter amid gas supply problems — IEA",
+        "summary": [
+            "ذخایر گاز اروپا به سطوح تاریخی پایین رسیده است",
+            "تحریم‌های روسیه و بسته شدن تنگه هرمز عرضه را تضعیف کرده",
+            "اروپا برای جبران به آمریکا و نروژ روی می‌آورد",
+            "این وضعیت می‌تواند قیمت انرژی را به‌طور چشمگیری بالا ببرد"
+        ],
+        "impact": "افزایش هزینه انرژی در اروپا و فشار بر اقتصادهای وابسته",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2191323",
+        "clean_url": "https://tass.com/economy/2191323",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790103180.0
+    },
+    {
         "id": "0fb7282fae",
         "title_fa": "خبر بین‌المللی — ترامپ’s threat به annihilate ایران به UN general assembly is",
         "title_en": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
@@ -3192,6 +3231,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/kamala-harris-backs-el-sayed-says-michigan-s-us-senate-seat-is-key/ar-AA2cM9hZ",
         "image": "http://www.bing.com/th?id=ONUT.fUrJkOHb3p93luwGHfjAEQ&pid=News",
         "timestamp": 1790091894.0
+    },
+    {
+        "id": "634e91ca36",
+        "title_fa": "سفارت آمریکا در سازمان ملل پس از اظهارات ایران خروج کرد",
+        "title_en": "US delegation walk out as Iranian president tells UN country has been 'victim of terrorism'",
+        "summary": [
+            "نمایندگان آمریکا پس از سخنرانی رئیس‌جمهور ایران درباره تروریسم از جلسه خروج کردند",
+            "خروج نشان‌دهنده تنش‌های تازه بین دو کشور در سکوهای بین‌المللی است",
+            "این اقدام می‌تواند مذاکرات هسته‌ای را تحت فشار قرار دهد"
+        ],
+        "impact": "کاهش فضای دیپلماتیک میان آمریکا و ایران در سازمان ملل",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Daily Mail on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/us-delegation-walk-out-as-iranian-president-tells-un-country-has-been-victim-of-terrorism/ar-AA2cPxDC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/us-delegation-walk-out-as-iranian-president-tells-un-country-has-been-victim-of-terrorism/ar-AA2cPxDC",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790091761.0
     },
     {
         "id": "70ba6ca453",
@@ -5301,65 +5359,5 @@
         "clean_url": "https://www.politico.com/news/2026/09/22/trump-iran-annihilation-unga-speech-01087902",
         "image": "http://www.bing.com/th?id=ONUT.Jww5pchj1f4we9r7COFhVw&pid=News",
         "timestamp": 1790075160.0
-    },
-    {
-        "id": "b2ff12f85c",
-        "title_fa": "پیش‌بینی افزایش نرخ بهره SARB و اثر بر رند",
-        "title_en": "South African Rand: SARB hike and hawkish tone – Commerzbank",
-        "summary": [
-            "بانک مرکزی آفریقا انتظار دارد ۲۵ پایه نرخ بهره را بالا ببرد",
-            "این تصمیم پس از نگه‌داشتن نرخ در جولای اتخاذ می‌شود",
-            "فشارهای تورمی و هزینه‌های سوخت و غذا باعث سخت‌گیری می‌شود",
-            "افزایش نرخ می‌تواند رند را تقویت کند اما رشد اقتصادی را محدود کند"
-        ],
-        "impact": "نرخ ارز رند ممکن است تثبیت یا کمی تقویت شود؛ هزینه‌های وام‌گیری بالاتر می‌رود",
-        "tag": "ارز",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "FXStreet",
-        "url": "https://www.fxstreet.com/news/south-african-rand-sarb-hike-and-hawkish-tone-commerzbank-202609221007",
-        "clean_url": "https://www.fxstreet.com/news/south-african-rand-sarb-hike-and-hawkish-tone-commerzbank-202609221007",
-        "image": "https://www.bing.com/th?id=ONUT._B56iaW1ujUwb9uQWHxKRg",
-        "timestamp": 1790074994.1214979
-    },
-    {
-        "id": "cbc5a5e926",
-        "title_fa": "انتقاد از ریاکاری در مجمع ملل",
-        "title_en": "The talking shop that can't stop spewing lies and hypocrisy",
-        "summary": [
-            "نویسنده به‌ظاهر ریاکارانه بودن مذاکرات در نیویورک اشاره می‌کند",
-            "ادعا می‌کند رهبری‌ها به‌جای حل مشکلات به‌بیان کلام‌های خالی می‌پردازند",
-            "این ریاکاری باعث بی‌اعتمادی عمومی می‌شود",
-            "بی‌توجهی به این مسأله می‌تواند نهاد ملل را تضعیف کند"
-        ],
-        "impact": "کاهش اعتبار سازمان ملل در چشم عمومی",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.5,
-        "source": "inews.co.uk on MSN",
-        "url": "https://www.msn.com/en-ph/news/other/the-talking-shop-that-cant-stop-spewing-lies-and-hypocrisy/ar-AA2cKjQw?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ph/news/other/the-talking-shop-that-cant-stop-spewing-lies-and-hypocrisy/ar-AA2cKjQw",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790074994.1211748
-    },
-    {
-        "id": "1b329fcfa5",
-        "title_fa": "نقدی بر سقوط عقلانی ترامپ",
-        "title_en": "Trump's plunge into madness enters freefall in preposterous week | Opinion",
-        "summary": [
-            "نویسنده به‌بیان خستگی از رفتارهای بی‌منطق ترامپ می‌پردازد",
-            "این وضعیت خطر سیاسی ایجاد می‌کند",
-            "عدم کنترل می‌تواند به‌نقض نهادهای دموکراتیک منجر شود",
-            "فراخوان به بازنگری در حمایت از او مطرح می‌شود"
-        ],
-        "impact": "تضعیف حمایت عمومی از ترامپ و فشار بر احزاب جمهوری‌خواه",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.9,
-        "source": "Raw Story on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-plunge-into-madness-enters-freefall-in-preposterous-week-opinion/ar-AA2cK7gk?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-plunge-into-madness-enters-freefall-in-preposterous-week-opinion/ar-AA2cK7gk",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790074994.1204174
     }
 ]
