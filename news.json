@@ -1,5 +1,41 @@
 [
     {
+        "id": "5e2e185f88",
+        "title_fa": "بولتون: قانون تحریم‌ها خطرناک، تمرکز بر چین",
+        "title_en": "John Bolton warns against sanctions act, urges focus on China",
+        "summary": [
+            "بولتون می‌گوید قانون جدید تحریم‌ها به چین توجه کافی نمی‌دهد و خطرات اقتصادی دارد",
+            "او هشدار می‌دهد این قانون می‌تواند روابط تجاری آمریکا را به‌هم بزند"
+        ],
+        "impact": "هشدار بولتون ممکن است فشار بر قانون‌گذاران آمریکا برای بازنگری در تحریم‌ها ایجاد کند",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Asianet Newsable on MSN",
+        "url": "https://www.msn.com/en-in/news/other/john-bolton-warns-against-sanctions-act-urges-focus-on-china/ar-AA2cQg3k?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/john-bolton-warns-against-sanctions-act-urges-focus-on-china/ar-AA2cQg3k",
+        "image": "https://www.bing.com/th?id=ONUT.4v7WbdYQV7lvSH74aJmxBg",
+        "timestamp": 1790195755.2013032
+    },
+    {
+        "id": "9f5219c5d2",
+        "title_fa": "رووبرو: روبیو و جایشانکار درباره تحریم‌های ایران",
+        "title_en": "Rubio, Jaishankar discuss sanctions on countries trading with Iran",
+        "summary": [
+            "روبیو و جایشانکار قصد دارند تحریم‌های هدفمند بر کشورهایی که با ایران و روسیه تجارت می‌کنند اعمال کنند",
+            "این گام می‌تواند جریان سرمایه‌گذاری و صادرات انرژی را در منطقه محدود کند"
+        ],
+        "impact": "تحریم‌های جدید می‌تواند تجارت بین‌المللی ایران و روسیه را به‌سختی تحت فشار قرار دهد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609238208",
+        "clean_url": "https://www.iranintl.com/en/202609238208",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1790195755.201163
+    },
+    {
         "id": "fde50f6ed3",
         "title_fa": "آمادگی ترامپ برای حمله هوایی به یمن",
         "title_en": "The urgency of recognizing the Ansar Allah government in Yemen",
@@ -3141,6 +3177,42 @@
         "timestamp": 1790109352.7916465
     },
     {
+        "id": "a001c86e53",
+        "title_fa": "سخنران جونسون: ترامپ باید جنگ ایران را پایان دهد",
+        "title_en": "Speaker Johnson Calls for Trump to Get Out of Iran: ‘We’ve Got to Bring it to a Resolution’",
+        "summary": [
+            "جونسون می‌گوید عملیات «فوری فری» موفق بوده و باید راه‌حل نهایی برای هرمز پیدا شود",
+            "بسته شدن تنگه هرمز به قیمت بنزین و خوراکی‌ها فشار می‌آورد؛ بازگشت آن می‌تواند قیمت‌ها را پایین بیاورد"
+        ],
+        "impact": "بازگشت تنگه هرمز می‌تواند قیمت بنزین و کالاهای اساسی را کاهش دهد",
+        "tag": "قیمت‌نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/speaker-johnson-calls-trump-iran-193150385.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/speaker-johnson-calls-trump-iran-193150385.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/12c28a0d99d08b7c8e7886e459f82b0979aecec1486d83e6cbb9eff4ff97d434/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2F2af3e0b134f91f33b5077cc5caea2d2d.jpg",
+        "timestamp": 1790109317.0
+    },
+    {
+        "id": "5e96d3833d",
+        "title_fa": "پزشکیان: ایران و فلسطین را در مجمع عمومی دفاع می‌کند",
+        "title_en": "‘We Will Not Bow’: Pezeshkian Defends Iran, Palestine in UNGA Address",
+        "summary": [
+            "پزشکیان در مجمع عمومی تأکید کرد که ایران حق دفاع از سرزمین خود و فلسطین را دارد",
+            "او گفت دیپلماسی ادامه دارد اما ایران هرگز به فشارهای آمریکا تسلیم نمی‌شود"
+        ],
+        "impact": "بیان پزشکیان حمایت بین‌المللی ایران را تقویت کرده و مذاکرات منطقه‌ای را تحت تأثیر قرار می‌دهد",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Palestine Chronicle",
+        "url": "https://www.palestinechronicle.com/we-will-not-bow-pezeshkian-defends-iran-palestine-in-unga-address/",
+        "clean_url": "https://www.palestinechronicle.com/we-will-not-bow-pezeshkian-defends-iran-palestine-in-unga-address",
+        "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790109317.0
+    },
+    {
         "id": "b146c1657c",
         "title_fa": "خبر بین‌المللی — Central Bank imposes strict تحریم‌ها در branches Bank Melli",
         "title_en": "Central Bank imposes strict sanctions on branches of Bank Melli Iran operating in UAE",
@@ -5266,74 +5338,5 @@
         "clean_url": "https://tass.com/politics/2191187",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1790085960.0
-    },
-    {
-        "id": "764d6840cd",
-        "title_fa": "تحریم‌های ترامپ چین و ایران؛ فشار اقتصادی دوگانه",
-        "title_en": "China’s Iran problem: Why Trump’s sanctions strategy could put Beijing in a bind",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا فشارهای اقتصادی علیه ایران را گسترش داد و شرکت‌های چینی را هدف تحریم‌های ثانویه کرد",
-            "این گام می‌تواند روابط تجاری چین‑ایران را تحت فشار قرار دهد و چین را در تعارض با واشنگتن قرار دهد"
-        ],
-        "impact": "جریان سرمایه و کالا به ایران کاهش می‌یابد و تنش‌های تجاری چین‑آمریکا تشدید می‌شود",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "WION on MSN",
-        "url": "https://www.msn.com/en-in/news/other/china-s-iran-problem-why-trump-s-sanctions-strategy-could-put-beijing-in-a-bind/ar-AA2cO20j?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/china-s-iran-problem-why-trump-s-sanctions-strategy-could-put-beijing-in-a-bind/ar-AA2cO20j",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790085803.0
-    },
-    {
-        "id": "36a1c6089e",
-        "title_fa": "ایران در صورت موافقت آمریکا با شرایط خود - کیودو - تنگه هرمز را ظرف یک هفته بازگشایی خواهد کرد",
-        "title_en": "Iran to reopen Strait of Hormuz within week if US agrees to its terms — Kyodo",
-        "summary": [
-            "Tehran's demands include lifting the US blockade of Iran's ports, ending the war on all fronts, and unblocking Iran's frozen assets"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2191181",
-        "clean_url": "https://tass.com/world/2191181",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260922/1487585.jpg",
-        "timestamp": 1790085420.0
-    },
-    {
-        "id": "39cc0fe9e7",
-        "title_fa": "روبیو: ترامپ آماده دیدار با رئیس جمهور ایران در حاشیه مجمع عمومی سازمان ملل است",
-        "title_en": "Trump open to meeting Iran’s president on UNGA sidelines: Rubio",
-        "summary": [
-            "Trump open to meeting Iran’s president on UNGA sidelines: Rubio The Hill"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbURYb3lKcVZWZ18yQ1dhdEEwN2otdkVVenFoWS1yTkJJRkVLOXN0Y0VCT19NTVd2WVN5Ny1CSzB3N0l0VUpHSnR1QXVrOXBJdHUyejRFQjE2dGFhT1pxdDZVRVpfR190SkNUeFluV05tSFpNTGg5d2JQRUE5YWdWMDhmQVpnd9IBiwFBVV95cUxNb3Zmc0lDX29ZYjVwQjZpSVVWVHoxQTJsYWRreU8zQXpROEZINkhHbEl5T01hdjhYUFhBZWp4alllUXJORW5SRndUdlJ4LUxnb2hBTlY0SjhTVXVnTFBVdWRnWXRoRnB0aC1UNENrNWhrcmZtMDRTSTdtaWFIbjNCWmF3VmZrSUl4LXB3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbURYb3lKcVZWZ18yQ1dhdEEwN2otdkVVenFoWS1yTkJJRkVLOXN0Y0VCT19NTVd2WVN5Ny1CSzB3N0l0VUpHSnR1QXVrOXBJdHUyejRFQjE2dGFhT1pxdDZVRVpfR190SkNUeFluV05tSFpNTGg5d2JQRUE5YWdWMDhmQVpnd9IBiwFBVV95cUxNb3Zmc0lDX29ZYjVwQjZpSVVWVHoxQTJsYWRreU8zQXpROEZINkhHbEl5T01hdjhYUFhBZWp4alllUXJORW5SRndUdlJ4LUxnb2hBTlY0SjhTVXVnTFBVdWRnWXRoRnB0aC1UNENrNWhrcmZtMDRTSTdtaWFIbjNCWmF3VmZrSUl4LXB3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790085420.0
-    },
-    {
-        "id": "243b5f7919",
-        "title_fa": "\"نحن وإیران جسد واحد\".. الحوثیون: باب المندب خط أحمر وسنضرب مصالح واشنطن إن ساندت الریاض",
-        "title_en": "\"نحن وإيران جسد واحد\".. الحوثيون: باب المندب خط أحمر وسنضرب مصالح واشنطن إن ساندت الرياض",
-        "summary": [
-            "فی وقت سابق من أیلول/سبتمبر، استکمل الحوثیون سیطرتهم على منطقة باب المندب والساحل الغربی للیمن، إثر معارک عنیفة وانسحاب القوات الحکومیة من مواقعها."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "يورونيوز",
-        "url": "https://arabic.euronews.com/2026/09/23/we-and-iran-are-one-body-the-houthis-bab-al-mandeb-is-a-red-line-and-we-will-strike",
-        "clean_url": "https://arabic.euronews.com/2026/09/23/we-and-iran-are-one-body-the-houthis-bab-al-mandeb-is-a-red-line-and-we-will-strike",
-        "image": "https://images.euronews.com/articles/stories/09/92/48/77/1200x675_cmsv2_1a4cea09-ff3b-51ff-897e-c19833681f26-9924877.jpg",
-        "timestamp": 1790085059.0
     }
 ]
