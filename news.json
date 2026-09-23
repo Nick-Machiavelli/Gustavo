@@ -3691,6 +3691,25 @@
         "timestamp": 1790067068.0
     },
     {
+        "id": "cbc89d2354",
+        "title_fa": "تحریم آمریکا پروازهای ایران به بغداد و مسقط را قطع کرد",
+        "title_en": "Iran cancels flights to Baghdad, Muscat as US sanctions bite",
+        "summary": [
+            "آمریکا سوخت، خدمات فرودگاهی و فروش بلیت‌های هواپیمایی ایرانی را تحت تحریم قرار داد و پروازهای بین‌المللی را متوقف کرد",
+            "ایران برای پروازهای لغو شده به عراق فرودگاه جایگزین می‌جوید؛ اما هزینه و زمان جابجایی افزایش می‌یابد",
+            "لغو پرواز به آذربایجان نشان می‌دهد تحریم‌ها به مسیرهای هوایی منطقه‌ای هم گسترش یافته‌اند"
+        ],
+        "impact": "درآمدهای هواپیمایی ایران کاهش می‌یابد و فشار اقتصادی بر دولت و تجارت هوایی شدت می‌گیرد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/iran-cancels-flights-baghdad-muscat-075140802.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/iran-cancels-flights-baghdad-muscat-075140802.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/a2b37d68e2846b09dda9d5cd60ddb189015f8e2c9fb8a35864c6955f29261d8e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff497ad6e4d5dc3e3f02235293d913545.jpg",
+        "timestamp": 1790067060.0
+    },
+    {
         "id": "25eadd74cf",
         "title_fa": "خبر بین‌المللی — JD Vance's Message به ‘Frustrated’ Voters Is An حمله Ad His",
         "title_en": "JD Vance's Message To ‘Frustrated’ Voters Is An Attack Ad Of His Own Making, Critics Say",
@@ -5319,22 +5338,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/when-saudi-arabia-realizes-its-backed-the-wrong-horse/ar-AA2cIxev",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790051779.486941
-    },
-    {
-        "id": "45e264f6bd",
-        "title_fa": "وزیر خارجه آمریکا: برای دیدار ترامپ با پزشکیان آمادگی داریم",
-        "title_en": "وزیر خارجه آمریکا: برای دیدار ترامپ با پزشکیان آمادگی داریم",
-        "summary": [
-            "مارکو روبیو، وزیر خارجه آمریکا، در مصاحبه با شبکه ان‌بی‌سی نیوز گفت در حال حاضر برنامه‌ای برای دیدار دونالد ترامپ، رییس‌جمهوری آمریکا، با مسعود پزشکیان، رییس دولت جمهوری اسلامی، در نیویورک تعیین نشده..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609227917",
-        "clean_url": "https://www.iranintl.com/202609227917",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/59b7614fde3a43407fdb1e6abcf3b6a26de7a14c-6970x4752.jpg?rect=0,167,6970,3659&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790051340.0
     }
 ]
