@@ -1,5 +1,24 @@
 [
     {
+        "id": "920b6f1869",
+        "title_fa": "ترامپ سعی در تقویت دی‌سی برای حمله دارد",
+        "title_en": "Trump appears to be fortifying DC for an invasion",
+        "summary": [
+            "گزارش‌ها می‌گویند دولت ترامپ در حال ساخت حصارهای امنیتی در واشنگتن است",
+            "این اقدام به‌منظور ایجاد «حلقه محافظ» اطراف رئیس‌جمهور توصیف می‌شود",
+            "تحلیل‌گران این حرکت را نمادین و خطرآفرین می‌دانند"
+        ],
+        "impact": "منابع امنیتی شهر تحت فشار قرار می‌گیرد و فضای سیاسی داخلی تشدید می‌شود",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-is-prepping-dc-for-invasion-but-by-whom/ar-AA2cOnyi?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-is-prepping-dc-for-invasion-but-by-whom/ar-AA2cOnyi",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790166516.4782238
+    },
+    {
         "id": "3bc663fb08",
         "title_fa": "خبر بین‌المللی — A Near-Record Market Is Ignoring اقتصاد's Biggest Risk",
         "title_en": "A Near-Record Market Is Ignoring The Economy's Biggest Risk",
@@ -155,6 +174,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/israel-s-diplomatic-isolation-prevents-proper-recognition-for-its-military-achievements/ar-AA2cNS72",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790163713.4589202
+    },
+    {
+        "id": "990f7bbde9",
+        "title_fa": "ترامپ: ایالات متحده آماده مقابله با ایران",
+        "title_en": "Trump warns Iran it is 'locked and loaded' as 130 leaders gather at the UN",
+        "summary": [
+            "ترامپ در سخنرانی خود به ایران گفت آمریکا «قفل و آماده» است",
+            "هشدار در حالی صادر شد که اعتراضات داخلی ایران در حال گسترش است",
+            "نزدیک 130 سرپرست دولت در جلسه مجمع عمومی سازمان ملل حضور دارند"
+        ],
+        "impact": "تنش‌های دیپلماتیک تشدید می‌شود و احتمال اعمال فشارهای اقتصادی یا نظامی جدید افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Idaho Learning News",
+        "url": "https://www.msn.com/en-us/news/other/trump-warns-iran-it-is-locked-and-loaded-as-130-leaders-gather-at-the-un/ar-AA2cPema",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-warns-iran-it-is-locked-and-loaded-as-130-leaders-gather-at-the-un/ar-AA2cPema",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790163333.0
     },
     {
         "id": "a26609cfe0",
@@ -796,6 +834,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zeTUtckVhZ0VkdVRsOWlMeVQwUHZ5LVZndW1ZRkVDdEQtQS1fMUpyMGJzQWp6NnpCbHFsWi1BOVJ2MzR3V19HZnJDSHdIdkVHV1E",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790134501.0
+    },
+    {
+        "id": "88f2be0f9a",
+        "title_fa": "مشاوران سپاه در تصرف سواحل دریای سرخ حضور داشتند",
+        "title_en": "آسوشیتدپرس: «مستشاران» سپاه در جریان تصرف بخش‌هایی از سواحل دریای سرخ حضور داشتند",
+        "summary": [
+            "مشاوران سپاه پاسداران در عملیات تصرف بخش‌هایی از سواحل دریای سرخ توسط حوثی‌ها شرکت کردند",
+            "این حضور نشان‌دهنده مستقیم‌ترین مداخله ایران در جنگ یمن از سال ۲۰۱۴ است",
+            "عملیات به حمایت از حوثی‌ها و گسترش نفوذ ایران در منطقه منجر شد"
+        ],
+        "impact": "تحریم‌های بین‌المللی علیه ایران تشدید می‌شود و فشارهای نظامی در خلیج فارس افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609239201",
+        "clean_url": "https://www.iranintl.com/202609239201",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790133840.0
     },
     {
         "id": "f5266ec333",
@@ -3328,6 +3385,42 @@
         "timestamp": 1790080382.0
     },
     {
+        "id": "1700744652",
+        "title_fa": "علی در جده کارت جمعیت یمنی را به کار گرفت",
+        "title_en": "Ould Ali play the \"Yemeni crowd\" card in Jeddah ahead of Arabian Gulf Cup Group B opener vs UAE",
+        "summary": [
+            "علی در پیش‌نمایش مسابقه گروه ب جام خلیج عربی به حضور جمعیت یمنی اشاره کرد",
+            "هدف او جلب حمایت سیاسی و نشان دادن همبستگی با یمن است"
+        ],
+        "impact": "ممکن است تنش‌های منطقه‌ای را در فضای ورزشی تشدید کند اما اثر محدود باقی می‌ماند",
+        "tag": "ورزش",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "Amazon S3 on MSN",
+        "url": "https://www.msn.com/en-ca/sports/soccer/ould-ali-play-the-yemeni-crowd-card-in-jeddah-ahead-of-arabian-gulf-cup-group-b-opener-vs-uae/vi-AA2cOU5c?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/sports/soccer/ould-ali-play-the-yemeni-crowd-card-in-jeddah-ahead-of-arabian-gulf-cup-group-b-opener-vs-uae/vi-AA2cOU5c",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790080108.0
+    },
+    {
+        "id": "f72664e5b4",
+        "title_fa": "جف ودلین: کمپین «ما» برای سنای آمریکا",
+        "title_en": "Libertarian candidate Jeff Wadlin",
+        "summary": [
+            "جف ودلین، نامزد لیبرال‌تاریف، در کمپین خود بر حمایت از جوامع محلی و قیمت‌پایین تأکید می‌کند",
+            "او می‌خواهد با شعار «ما» پیروان را به یک‌دست کند"
+        ],
+        "impact": "ممکن است برخی رأی‌دهندگان مستقل را جذب کند اما تأثیر کلان بر نتایج انتخابات ندارد",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Axios on MSN",
+        "url": "https://www.msn.com/en-us/news/other/libertarian-candidate-jeff-wadlin/ar-AA2cOCX2?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/libertarian-candidate-jeff-wadlin/ar-AA2cOCX2",
+        "image": "https://www.bing.com/th?id=ONUT.0yfcMYYTmR3UJHt8Mh4pIg",
+        "timestamp": 1790080107.0
+    },
+    {
         "id": "e1060b3b8b",
         "title_fa": "ترامپ در مجمع عمومی ملل به ایران می‌پردازد",
         "title_en": "Trump set to address the UN General Assembly, with Iran in focus",
@@ -5249,93 +5342,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/end-the-open-ended-war-gop-candidates-push-trump-on-iran/ar-AA2cKyTo",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790066398.0
-    },
-    {
-        "id": "9844fcba3d",
-        "title_fa": "چین علیه تحریم‌های آمریکا بر هواپیمایی‌های ایران موضع گرفت",
-        "title_en": "China says opposes ‘illegal’ US sanctions on Iran airlines",
-        "summary": [
-            "بیجینگ تحریم‌های آمریکا را «غیرقانونی» نامید",
-            "این موضع می‌تواند فشار دیپلماتیک بر واشنگتن را افزایش دهد",
-            "ایران ممکن است از حمایت چین برای ادامه پروازهای بین‌المللی بهره‌برداری کند"
-        ],
-        "impact": "حمایت چین می‌تواند مسیرهای هوایی ایران را از بسته شدن نجات دهد",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Hong Kong Free Press HKFP",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVp0T2ppemljVDlhZU8tdHJrOFNPSmZ0QXh5cFRWTVpDWmIzN2JCN1lONzNGWHkwRVIzZ0V4b1ZiN2RJSWFsMXBIb0Q1RnhfU3drS2pneDBnajVaMHdNc2NOOEFpenVaNnlGMFlvVlM2SjJFTHV6T05BYzZPYW91X1cxUmpxWk90S09sOUE0QURkcW1qZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVp0T2ppemljVDlhZU8tdHJrOFNPSmZ0QXh5cFRWTVpDWmIzN2JCN1lONzNGWHkwRVIzZ0V4b1ZiN2RJSWFsMXBIb0Q1RnhfU3drS2pneDBnajVaMHdNc2NOOEFpenVaNnlGMFlvVlM2SjJFTHV6T05BYzZPYW91X1cxUmpxWk90S09sOUE0QURkcW1qZUE",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790065669.0
-    },
-    {
-        "id": "247e468e7b",
-        "title_fa": "ترامپ به دادگاه کیفری بین‌المللی تهدید تحریم می‌زند",
-        "title_en": "“I call on Donald Trump to resign immediately”: Two and a Half Men’s Jon Cryer mocks Trump asking ICC members to resign",
-        "summary": [
-            "ترامپ دادگاه بین‌المللی را «مجموعه‌ای شیطانی» خواند و خواست اعضا استعفا دهند؛ آمریکا عضو این نهاد نیست.",
-            "گزارش‌ها حاکی از برنامه‌ریزی دولت برای اعمال تحریم‌های سنگین است که می‌تواند عملیات روزانه دادگاه را به‌سختی تحت‌الشعاع قرار دهد."
-        ],
-        "impact": "تحریم‌های پیشنهادی می‌توانند عملکرد دادگاه ICC را به‌طور جدی مختل کنند",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Soap Central",
-        "url": "https://www.soapcentral.com/entertainment/i-call-donald-trump-resign-immediately-two-half-men-s-jon-cryer-mocks-trump-asking-icc-members-resign",
-        "clean_url": "https://www.soapcentral.com/entertainment/i-call-donald-trump-resign-immediately-two-half-men-s-jon-cryer-mocks-trump-asking-icc-members-resign",
-        "image": "https://statico.soapcentral.com/editor/2026/09/392a1-17901434230455-1920.jpg",
-        "timestamp": 1790065492.0
-    },
-    {
-        "id": "e82a138f06",
-        "title_fa": "رویترز: فرانسه با هماهنگی آمریکا قطعنامه‌ای درباره تنگه هرمز تدوین می‌کند",
-        "title_en": "رویترز: فرانسه با هماهنگی آمریکا قطعنامه‌ای درباره تنگه هرمز تدوین می‌کند",
-        "summary": [
-            "خبرگزاری رویترز به نقل از دیپلمات‌ها گزارش داد فرانسه با هماهنگی آمریکا تدوین پیش‌نویس قطعنامه‌ای در شورای امنیت سازمان ملل را آغاز کرده است که هدف آن ایجاد یک ماموریت بین‌المللی برای ازسرگیری تردد در..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609226140",
-        "clean_url": "https://www.iranintl.com/202609226140",
-        "image": "http://www.bing.com/th?id=ONUT.pRn8dpg7XQURjtD7wD1myw&pid=News",
-        "timestamp": 1790065320.0
-    },
-    {
-        "id": "1629051363",
-        "title_fa": "ترامپ مطمئن است که آمریکا و ایران بلافاصله پس از انتخابات نوامبر به توافق خواهند رسید",
-        "title_en": "Trump confident US, Iran to make deal right after November election",
-        "summary": [
-            "UNITED NATIONS, September 22. /TASS/. The United States and Iran will reach a deal soon after the US congressional midterm election in early November, US President Donald Trump said in an address to the 81st session of the UN General Assembly in New York."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2191235",
-        "clean_url": "https://tass.com/world/2191235",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790064840.0
-    },
-    {
-        "id": "6ae45fee09",
-        "title_fa": "خبر بین‌المللی — سپاه ground forces pursuing ‘special plan’ به boost combat c",
-        "title_en": "IRGC ground forces pursuing ‘special plan’ to boost combat capabilities",
-        "summary": [
-            "The IRGC ground forces are implementing a “special plan” to enhance their combat capabilities, the coordinating deputy..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609239751",
-        "clean_url": "https://www.iranintl.com/en/202609239751",
-        "image": "https://www.bing.com/th?id=ONUT.lu1xNOlv7bt0XF_2J7McXw",
-        "timestamp": 1790064836.0
     }
 ]
