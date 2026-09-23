@@ -382,6 +382,25 @@
         "timestamp": 1790117713.0
     },
     {
+        "id": "2f8c73c40c",
+        "title_fa": "ترامپ: توافق پس از انتخابات می‌تواند هورموز را باز کند",
+        "title_en": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
+        "summary": [
+            "ایران برای بازگشت ترافیک هورموز، توقف «اعمال تجاوزی» آمریکا، رفع محاصره‌ نیرویی و آزادسازی دارایی‌ها را شرط می‌کند.",
+            "ترامپ در سخنرانی سازمان ملل اعلام کرد که پس از انتخابات می‌تواند به توافق برسد یا فشار نظامی را افزایش دهد.",
+            "اگر توافق حاصل شود، یک‌پنجم حملات نفت‑گاز جهانی می‌تواند دوباره جریان یابد؛ در غیر این‌صورت تنش‌های دریایی تشدید می‌شود."
+        ],
+        "impact": "بازگشت ناوگان تجاری به هورموز می‌تواند فشار اقتصادی بر ایران را کاهش و قیمت نفت را تثبیت کند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+        "clean_url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+        "image": "http://www.bing.com/th?id=ONUT.FGaxbZe0MDw4-lDq484llQ&pid=News",
+        "timestamp": 1790116620.0
+    },
+    {
         "id": "8bbb4e444c",
         "title_fa": "خبر بین‌المللی — 10 Februarie 2026",
         "title_en": "10 Februarie 2026",
@@ -5315,25 +5334,5 @@
         "clean_url": "https://spectator.org/waging-peace-in-a-2026-world-rhyming-with-1956",
         "image": "https://www.bing.com/th?id=ONUT.4cSKWCMaU0yRgLMUudBDAA",
         "timestamp": 1790043195.323405
-    },
-    {
-        "id": "027a34d58c",
-        "title_fa": "حرس IRGC: آمریکا و اسرائیل باید از خلیج خروج کنند",
-        "title_en": "Iran war live: IRGC says US, Israel 'must accept withdrawal' from region",
-        "summary": [
-            "IRGC به صراحت خواستار خروج حضور «جنایتکار» آمریکا و اسرائیل از خلیج فارس شد",
-            "ناوگان تجاری بریتانیا گزارش داد یک کشتی دیگر توسط پرتاب ناشناخته آسیب دید",
-            "سخن‌مانند مایک والتز اشاره کرد ترامپ مصمم است مانع توسعه سلاح هسته‌ای ایران شود",
-            "این تبادل تهدیدها می‌تواند فشار بر مسیرهای نفتی را افزایش دهد"
-        ],
-        "impact": "افزایش خطر اختلال در حمل و نقل نفتی خلیج فارس و تشدید تنش‌های نظامی منطقه",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-16T102857Z_1194214241_RC27KNALS9D3_RTRMADP_3_IRAN-CRISIS-1790031216.jpg?resize=1920%2C1440",
-        "timestamp": 1790042940.0
     }
 ]
