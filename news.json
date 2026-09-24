@@ -1,5 +1,24 @@
 [
     {
+        "id": "5ad2ec6cfa",
+        "title_fa": "گورکا ال‌ساید را به‌خاطر ایران «احمق» نامید",
+        "title_en": "Gorka to Newsmax: El-Sayed an 'Imbecile' on Iran",
+        "summary": [
+            "سباستین گورکا در مصاحبه‌ای ال‌ساید را «احمق» خواند و او را در برخورد با ایران سرزنش کرد",
+            "این اظهارنظر پس از رد شدن ال‌ساید از طرح‌های سخت‌گیرانه علیه ایران در برنامه‌اش منتشر شد",
+            "واکنش‌های سیاسی داخلی آمریکا ممکن است فشار برای اعمال تحریم‌های شدید علیه تهران را تضعیف کند"
+        ],
+        "impact": "کاهش فشار سیاسی داخلی بر دولت آمریکا برای اعمال تحریم‌های شدید علیه ایران",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Newsmax",
+        "url": "https://www.newsmax.com/newsmax-tv/gorka-sayed-imbecile/2026/09/24/id/1270608/",
+        "clean_url": "https://www.newsmax.com/newsmax-tv/gorka-sayed-imbecile/2026/09/24/id/1270608",
+        "image": "https://www.bing.com/th?id=ONUT.IaVpVoOp2rptTI3Mcvpw_Q",
+        "timestamp": 1790293677.0001419
+    },
+    {
         "id": "72d5da7fba",
         "title_fa": "خبر بین‌المللی — Bienvenidos a nuestra guerra financiera",
         "title_en": "Bienvenidos a nuestra guerra financiera",
@@ -3694,6 +3713,25 @@
         "timestamp": 1790208000.0
     },
     {
+        "id": "ba066edd9e",
+        "title_fa": "کویت و بحرین حملات هوثی علیه عربستان را محکوم کردند",
+        "title_en": "Kuwait, Bahrain condemn Iran-backed Houthi attacks on Saudi Arabia",
+        "summary": [
+            "کویت و بحرین حملات موشکی هوثی به شهرهای تایف و یانبوی را «تهاجم خصمانه» نامیدند",
+            "ائتلاف سعودی شش موشک بالستیک را رهگیری کرد و توان دفاعی منطقه را نشان داد",
+            "واکنش‌های دو کشور می‌تواند فشار دیپلماتیک بر ایران را بالا برده و خطر تشدید تنش‌های خلیج فارس را افزایش دهد"
+        ],
+        "impact": "افزایش تنش‌های امنیتی خلیج و احتمال تحریم‌های جدید علیه ایران",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609242642",
+        "clean_url": "https://www.iranintl.com/en/202609242642",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1790207259.0
+    },
+    {
         "id": "b12a6ab50b",
         "title_fa": "خبر بین‌المللی — Delegates walk شود as نتانیاهو addresses UN, و other Mideast",
         "title_en": "Delegates walk out as Netanyahu addresses UN, and other Mideast developments",
@@ -5276,39 +5314,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/stock-market-today-nasdaq-sinks-on-hawkish-fed-chorus-olive-garden-parent-slides-on-results-live-coverage/ar-AA2cTr50",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790189530.0
-    },
-    {
-        "id": "92d0b909c7",
-        "title_fa": "خبر بین‌المللی — 'We did not bend knee': Pezeshkian tells UN ایران و غزه com",
-        "title_en": "'We did not bend the knee': Pezeshkian tells UN Iran and Gaza committed to 'resistance'",
-        "summary": [
-            "Iran's president says Tehran open to talks but will not cave to US force, says nation will never give up on 'peaceful' nuclear program"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/we-did-not-bend-the-knee-pezeshkian-tells-un-iran-and-gaza-committed-to-resistance/",
-        "clean_url": "https://www.timesofisrael.com/we-did-not-bend-the-knee-pezeshkian-tells-un-iran-and-gaza-committed-to-resistance",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AFP__20260923__2296751955__v1__HighRes__WorldLeadersGatherForUnitedNationsGeneralAss-e1790182712886-640x400.jpg",
-        "timestamp": 1790189280.0
-    },
-    {
-        "id": "c61c4f8fa6",
-        "title_fa": "خبر بین‌المللی — نتانیاهو expected به berate New York's Mamdani در 'campaign",
-        "title_en": "Netanyahu expected to berate New York's Mamdani in 'campaign speech' of UN address",
-        "summary": [
-            "Benjamin Netanyahu is expected to use his UN address today (24 September) to berate New York Mayor Zohran Mamdani for calling him a war criminal, a feud that highlights the Israeli leader's growing..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Business Standard",
-        "url": "https://www.tbsnews.net/world/netanyahu-expected-berate-new-yorks-mamdani-campaign-speech-un-address-1552796",
-        "clean_url": "https://www.tbsnews.net/world/netanyahu-expected-berate-new-yorks-mamdani-campaign-speech-un-address-1552796",
-        "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/24/benjamin_netanyahu.png",
-        "timestamp": 1790189029.0
     }
 ]
