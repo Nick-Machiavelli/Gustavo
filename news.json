@@ -35,6 +35,23 @@
         "timestamp": 1790251443.7405057
     },
     {
+        "id": "90dd601794",
+        "title_fa": "خبر بین‌المللی — Saudi coalition says it shot down six ballistic missiles fir",
+        "title_en": "Saudi coalition says it shot down six ballistic missiles fired by Houthis at Taif and Yanbu",
+        "summary": [
+            "RIYADH, Saudi Arabia — The Saudi-led coalition battling Yemen's Houthis says that its forces intercepted six ballistic missiles fired by the Iran-backed group, thwarting attacks on the Saudi cities of Taif and Yanbu."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-shot-down-six-ballistic-missiles-fired-by-houthis-at-taif-and-yanbu/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-shot-down-six-ballistic-missiles-fired-by-houthis-at-taif-and-yanbu",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790250780.0
+    },
+    {
         "id": "5b30f8f8c7",
         "title_fa": "خبر بین‌المللی — Fierce Rhetoric و Cowardly Pragmatism در ایرانی Theater",
         "title_en": "Fierce Rhetoric and Cowardly Pragmatism in the Iranian Theater",
@@ -809,6 +826,25 @@
         "timestamp": 1790227361.9315226
     },
     {
+        "id": "ee9f0f69d7",
+        "title_fa": "نتانیاهو در سازمان ملل به دشمنان حمله می‌کند",
+        "title_en": "Israel's Netanyahu Expected to Denounce Enemies, Allies with UN Spotlight",
+        "summary": [
+            "نتانیاهو قصد دارد در جلسهٔ مجمع عمومی سازمان ملل به‌صراحت به دشمنان و حتی برخی متحدان انتقاد کند",
+            "سخنرانی در زمان نزدیک به انتخابات داخلی اسرائیل برگزار می‌شود و می‌تواند موضع سخت‌گیرانه‌اش را تقویت کند",
+            "این بیانیه ممکن است روابط اسرائیل با کشورهایی که اخیراً به دیپلماسی نزدیک شده‌اند را تحت فشار قرار دهد"
+        ],
+        "impact": "سخنرانی نتانیاهو می‌تواند روابط اسرائیل با برخی متحدان را تیره کند",
+        "tag": "سیاست خارجی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Asharq Alawsat (English)",
+        "url": "https://www.msn.com/en-ae/news/other/israel-s-netanyahu-expected-to-denounce-enemies-allies-with-un-spotlight/ar-AA2cRTm3",
+        "clean_url": "https://www.msn.com/en-ae/news/other/israel-s-netanyahu-expected-to-denounce-enemies-allies-with-un-spotlight/ar-AA2cRTm3",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790226193.0
+    },
+    {
         "id": "3a9e84b7f6",
         "title_fa": "ترامپ: ایران یا توافق یا نابودی",
         "title_en": "Trump says Iran must choose between peace deal and 'annihilation'",
@@ -879,6 +915,25 @@
         "clean_url": "https://www.iranintl.com/202609249019",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790223720.0
+    },
+    {
+        "id": "94978911d6",
+        "title_fa": "اتحادیه عربی شش موشک حوثی را رهگیری کرد",
+        "title_en": "ائتلاف به رهبری عربستان سعودی: شش موشک بالستیک شلیک‌شده از سوی حوثی‌ها رهگیری شد",
+        "summary": [
+            "اتحادیهٔ عربی‑سعودی موشک‌های بالستیک حوثی به سمت طائف و ینبوع را شناسایی و نابود کرد",
+            "عملیات نشان‌دهندهٔ توان دفاع هوایی ائتلاف در مقابل تهدیدات موشکی است",
+            "حوادث همچنان نشانگر جنگ نیابتی بین ایران و عربستان در منطقه است"
+        ],
+        "impact": "رهگیری موشک‌ها مانع گسترش درگیری مستقیم می‌شود اما تنش‌های منطقه‌ای را تقویت می‌کند",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609249106",
+        "clean_url": "https://www.iranintl.com/202609249106",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790223600.0
     },
     {
         "id": "886a8bfac4",
@@ -5272,58 +5327,5 @@
         "clean_url": "https://www.presstv.co.uk/Detail/2026/09/23/776836/Iran-airlines-continue-operating-despite-US-sanctions-pressure",
         "image": "https://www.bing.com/th?id=ONUT.2h7opoKT7CNQQA2Ti5ttVg",
         "timestamp": 1790147672.892268
-    },
-    {
-        "id": "dd8a6bbc91",
-        "title_fa": "خبر بین‌المللی — ترامپ, Xi و dangerous transition به a multipolar جهانی",
-        "title_en": "Trump, Xi and the dangerous transition to a multipolar world",
-        "summary": [
-            "In an age of global disorder, managed competition itself may have become an important form of strategic stability."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/trump-xi-and-the-dangerous-transition-to-a-multipolar-world-14047803.html",
-        "clean_url": "https://www.firstpost.com/opinion/trump-xi-and-the-dangerous-transition-to-a-multipolar-world-14047803.html",
-        "image": "https://images.firstpost.com/uploads/2026/09/Firstpost-1920x1080-100-2026-09-f11a78d94b4db8110bf8eef04a62ce53-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-        "timestamp": 1790147670.0037873
-    },
-    {
-        "id": "c27edbbe8b",
-        "title_fa": "خبر بین‌المللی — Readers sound off در U.S. aircraft carriers, UN و Thanksgiv",
-        "title_en": "Readers sound off on U.S. aircraft carriers, the UN and Thanksgiving turkeys",
-        "summary": [
-            "Our 11 aircraft carrier strike groups, like the USS Abraham Lincoln, are stretched thin around the world, in shipyards undergoing repairs, maintenance, overhauls and upgrades, in transit, and in port..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "New York Daily News",
-        "url": "https://www.nydailynews.com/2026/09/23/readers-sound-off-on-u-s-aircraft-carriers-the-un-and-thanksgiving-turkeys/",
-        "clean_url": "https://www.nydailynews.com/2026/09/23/readers-sound-off-on-u-s-aircraft-carriers-the-un-and-thanksgiving-turkeys",
-        "image": "https://www.nydailynews.com/wp-content/uploads/2026/09/GettyImages-2293753222.jpg?w=5145&h=3430",
-        "timestamp": 1790147667.3766701
-    },
-    {
-        "id": "5f0467c927",
-        "title_fa": "دست‌برداری از بیمه‌درمانی ۷۶۰ هزار آمریکایی",
-        "title_en": "People in uproar, as Trump administration revokes health care for 760K Americans",
-        "summary": [
-            "دولت ترامپ پوشش بیمه‌درمانی ۷۶۰٬۰۰۰ نفر را لغو کرد",
-            "لغو ناگهانی دسترسی به مراقبت‌های پیشگیرانه را از بین می‌برد",
-            "این تصمیم فشار مالی بر خانواده‌های کم‌درآمد را دوچندان می‌کند"
-        ],
-        "impact": "۷۶۰٬۰۰۰ نفر بدون پوشش سلامت می‌مانند",
-        "tag": "بهداشت",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Dagens.com on MSN",
-        "url": "https://www.msn.com/en-ie/health/general/people-in-uproar-as-trump-administration-revokes-health-care-for-760k-americans/ar-AA2cRGs0?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ie/health/general/people-in-uproar-as-trump-administration-revokes-health-care-for-760k-americans/ar-AA2cRGs0",
-        "image": "https://www.bing.com/th?id=ONUT.o3oVuzaD-Iq3nFqsoA7kCA",
-        "timestamp": 1790147183.0
     }
 ]
