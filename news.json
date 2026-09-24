@@ -1,5 +1,24 @@
 [
     {
+        "id": "a7c692672c",
+        "title_fa": "کارلسون خواست ترامپ با ۲۵امین اصلاحیه عزل شود",
+        "title_en": "Tucker Carlson says Trump’s Cabinet must remove him from office under the 25th Amendment",
+        "summary": [
+            "تکر کارلسون در پادکست NPR خواست کابین ترامپ او را به‌سرعت عزل کند",
+            "او این درخواست را به‌دلیل تهدید حمله هسته‌ای ترامپ به ایران مطرح کرد",
+            "کارلسون اشاره کرد ممکن است عزل به‌دلیل فساد یا جرائم دیگر باشد"
+        ],
+        "impact": "فشار داخلی بر ترامپ افزایش می‌یابد اما تأثیر مستقیم بر سیاست ایران محدود است",
+        "tag": "آمریکا",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/tucker-carlson-says-trump-cabinet-163123000.html",
+        "clean_url": "https://www.aol.com/articles/tucker-carlson-says-trump-cabinet-163123000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/09/24/85797561-e178-303c-96eb-c055aa7632ef/c4a1284e-1b8c-4911-9837-088f3ebf2fa4.jpg",
+        "timestamp": 1790271627.3415082
+    },
+    {
         "id": "4ee77841ad",
         "title_fa": "آراقی با سعودی و اردن در نیویورک دیدار",
         "title_en": "Iran's foreign minister meets Saudi, Jordanian counterparts in New York",
@@ -2807,6 +2826,26 @@
         "timestamp": 1790197409.1166356
     },
     {
+        "id": "ba9846e376",
+        "title_fa": "ایران جغرافیای جنگ را تا اقیانوس هند می‌گستراند",
+        "title_en": "From Hormuz to Indian Ocean: Iran threatens to redraw the map of the war",
+        "summary": [
+            "سخنگوی سپاه گفت ایران جغرافیای جنگ را تغییر خواهد داد و اهداف جدیدی خواهد داشت",
+            "مشاور نظامی رهبری افزود که خط‌مشی می‌تواند به خلیج هرمز، باب‌ال‌مندب و حتی اقیانوس هند برسد",
+            "این اظهارات نشان‌دهنده گسترش افقی عملیات نظامی ایران در پاسخ به فشارهای بین‌المللی است",
+            "حضور پایگاه‌های آمریکا‑بریتانیا در اقیانوس هند می‌تواند هدف جدیدی برای حملات باشد"
+        ],
+        "impact": "احتمال بسط عملیات دریایی ایران در مسیرهای استراتژیک، خطر تصادم با ناوگان غربی را افزایش می‌دهد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609243363",
+        "clean_url": "https://www.iranintl.com/en/202609243363",
+        "image": "http://www.bing.com/th?id=ONUT.MQ2vD6f4hZAh7P2XnZWlQw&pid=News",
+        "timestamp": 1790196480.0
+    },
+    {
         "id": "5e2e185f88",
         "title_fa": "بولتون: قانون تحریم‌ها خطرناک، تمرکز بر چین",
         "title_en": "John Bolton warns against sanctions act, urges focus on China",
@@ -5279,43 +5318,5 @@
         "clean_url": "https://www.msn.com/en-sg/news/other/unga-world-leaders-discuss-ai-global-conflicts/ar-AA2cJROy",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790167601.0
-    },
-    {
-        "id": "cc8a0c3152",
-        "title_fa": "دوبل‌چوک خاورمیانه تهدیدی برای بحران جهانی",
-        "title_en": "Double choke in West Asia threatens another global crisis",
-        "summary": [
-            "خاورمیانه با کمبود آب و انرژی همزمان مواجه است",
-            "این دو فشار می‌تواند به رقابت‌های ژئوپلیتیک بین ایران، ترکیه و سایر کشورها منجر شود",
-            "بحران آب ممکن است زنجیره تأمین غذا را در سطح جهانی مختل کند"
-        ],
-        "impact": "اختلال در زنجیره‌های غذایی و انرژی، خطر تشدید تنش‌های منطقه‌ای",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/double-choke-in-west-asia-threatens-another-global-crisis-14047886.html",
-        "clean_url": "https://www.firstpost.com/opinion/double-choke-in-west-asia-threatens-another-global-crisis-14047886.html",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790167425.3488367
-    },
-    {
-        "id": "920b6f1869",
-        "title_fa": "ترامپ سعی در تقویت دی‌سی برای حمله دارد",
-        "title_en": "Trump appears to be fortifying DC for an invasion",
-        "summary": [
-            "گزارش‌ها می‌گویند دولت ترامپ در حال ساخت حصارهای امنیتی در واشنگتن است",
-            "این اقدام به‌منظور ایجاد «حلقه محافظ» اطراف رئیس‌جمهور توصیف می‌شود",
-            "تحلیل‌گران این حرکت را نمادین و خطرآفرین می‌دانند"
-        ],
-        "impact": "منابع امنیتی شهر تحت فشار قرار می‌گیرد و فضای سیاسی داخلی تشدید می‌شود",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-is-prepping-dc-for-invasion-but-by-whom/ar-AA2cOnyi?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-is-prepping-dc-for-invasion-but-by-whom/ar-AA2cOnyi",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790166516.4782238
     }
 ]
