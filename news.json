@@ -1,5 +1,42 @@
 [
     {
+        "id": "23b3e715d1",
+        "title_fa": "چرا سریال فاو دا در جهان عرب محبوب است",
+        "title_en": "Why Fauda Is So Popular in the Arab World",
+        "summary": [
+            "فاو دا به‌دلیل ترکیب اکشن، درام و نمایش واقعیت‌های سیاسی خاورمیانه، در بین مخاطبان عربی محبوب شد",
+            "بازیگران و داستان‌های محلی باعث ایجاد حس همذات‌پنداری می‌شود"
+        ],
+        "impact": "محبوبیت این سریال می‌تواند تصویر مثبت‌تری از اسرائیل در جهان عرب ایجاد کند",
+        "tag": "فرهنگ",
+        "urgency": 1,
+        "sentiment": 0.1,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/ideas/2026/09/fauda-israeli-tv-show-popularity/688766/",
+        "clean_url": "https://www.theatlantic.com/ideas/2026/09/fauda-israeli-tv-show-popularity/688766",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790263517.7735033
+    },
+    {
+        "id": "a47a58aeb9",
+        "title_fa": "ترامپ وعده‌دار قیمت‌پایین؛ تخلف در سیاست تجاری",
+        "title_en": "Trump 'biting hand that feeds him' as he betrays core campaign promise",
+        "summary": [
+            "در کمپین ۲۰۲۴ ترامپ وعدهٔ کاهش قیمت‌ها را داد اما با اعمال تعرفه‌های جدید و تهدید به جنگ ایران، این وعده را نقض کرد",
+            "تعرفه‌های سنگین بر کالاهای ایرانی باعث افزایش هزینه‌های وارداتی شد",
+            "انتقادات داخلی و خارجی به‌سرعت به‌دست‌آمد؛ اقتصاد آمریکا تحت فشار است"
+        ],
+        "impact": "تغییر سیاست تجاری ترامپ می‌تواند تورم جهانی را تشدید کند",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.7,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/trump-biting-hand-that-feeds-him-as-he-betrays-core-campaign-promise/ar-AA2cTsFK?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/news/other/trump-biting-hand-that-feeds-him-as-he-betrays-core-campaign-promise/ar-AA2cTsFK",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790263517.7732031
+    },
+    {
         "id": "3547300367",
         "title_fa": "خبر بین‌المللی — Don’t Give ترامپ Benefit Low Expectations",
         "title_en": "Don’t Give Trump the Benefit of Low Expectations",
@@ -119,6 +156,24 @@
         "clean_url": "https://www.thebulwark.com/p/trump-kowtows-to-china-xi-visit-red-carpet-ai-un-speech-russia",
         "image": "https://substackcdn.com/image/fetch/$s_!asww!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90fc13a3-f671-4514-8a6e-d0dea8f3f649_3000x1687.jpeg",
         "timestamp": 1790258629.848826
+    },
+    {
+        "id": "7c9e0f9768",
+        "title_fa": "حوثی‌ها کیستند و چه می‌خواهند؟",
+        "title_en": "Who are the Houthis in Yemen and what do they want?",
+        "summary": [
+            "حوثی‌ها یک گروه شیعه‌سختگیر در یمن هستند که از سال ۲۰۰۴ به‌صورت مسلح به‌جنگ می‌پردازند",
+            "هدف اصلی آن‌ها سرنگونی دولت یمن و اعمال نفوذ منطقه‌ای است"
+        ],
+        "impact": "حضور حوثی‌ها در یمن به‌پایدار کردن بحران انسانی و گسترش نفوذ ایران منجر می‌شود",
+        "tag": "حوثی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vR2dmcDNUcFVqQzVQVWQ5WFBsUDhkbWNPd1ROOFZpV3pOd184NFIyTnd0THdhNTd0M2RQWWxpdFVBSWJodWVXcms5czFSa1RldlhQZVRzSlRFb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vR2dmcDNUcFVqQzVQVWQ5WFBsUDhkbWNPd1ROOFZpV3pOd184NFIyTnd0THdhNTd0M2RQWWxpdFVBSWJodWVXcms5czFSa1RldlhQZVRzSlRFb0E",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790258326.0
     },
     {
         "id": "49d4770514",
@@ -5249,58 +5304,5 @@
         "clean_url": "https://www.msn.com/en-in/money/top-stocks/why-is-market-falling-today-sensex-plummets-over-1-200-points-nifty-below-23-100-5-factors-behind-today-s-d-street-bloodbath/ar-AA2cRgRy",
         "image": "https://www.bing.com/th?id=ONUT.CG_n7K-fscOBAdAuqi7v1Q",
         "timestamp": 1790159033.0
-    },
-    {
-        "id": "a8bca81709",
-        "title_fa": "واشنگتن پس از سخنرانی ایران در مجمع: «کشور شیطانی»",
-        "title_en": "White House fires back after Iran president's UNGA speech: \"Evil country\"",
-        "summary": [
-            "واشنطن به تصویرهای جنگی ایران با لحن توهین‌آمیز «کشور شیطانی» پاسخ داد.",
-            "این اظهارات می‌تواند مذاکرات هسته‌ای را در مسیر تنگ‌نظری بکشاند و تنش‌های منطقه‌ای را تشدید کند."
-        ],
-        "impact": "کاهش فضای دیپلماتیک و احتمال بازگشت به تحریم‌های گسترده",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Newsweek on MSN",
-        "url": "https://www.msn.com/en-us/news/other/white-house-fires-back-after-iran-presidents-unga-speech-evil-country/ar-AA2cPYTX",
-        "clean_url": "https://www.msn.com/en-us/news/other/white-house-fires-back-after-iran-presidents-unga-speech-evil-country/ar-AA2cPYTX",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790158924.0
-    },
-    {
-        "id": "197231575b",
-        "title_fa": "مسئولان سنای ویرجینیا درباره سیل و هزینه‌ها می‌پرسند",
-        "title_en": "Virginia Senate race: Bert Mizusawa and Mark Warner on flooding and affordability",
-        "summary": [
-            "بارت میزوساوا تجربه هلند در مقابله با سیل را به عنوان الگو مطرح کرد",
-            "مارک وارنر بر ضرورت سیاست‌های فدرال برای کاهش هزینه‌های زندگی تأکید کرد"
-        ],
-        "impact": "شکل‌گیری جهت‌گیری سیاست‌های زیربنایی و سرمایه‌گذاری در مقابله با تغییرات آب‌وهوایی در ویرجینیا",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Daily Press",
-        "url": "https://www.dailypress.com/2026/09/23/mizusawa-warner-senate-election/",
-        "clean_url": "https://www.dailypress.com/2026/09/23/mizusawa-warner-senate-election",
-        "image": "http://www.bing.com/th?id=ONUT.OZ_Z6YiFtz2N94zok4I3bQ&pid=News",
-        "timestamp": 1790158920.0
-    },
-    {
-        "id": "c2c8c4003d",
-        "title_fa": "OECD پیش بینی رشد اقتصادی ترکیه را در بحبوحه جنگ ایران و افزایش قیمت‌ها به پایین ترین نرخ از سال 2020 کاهش داد.",
-        "title_en": "OECD cuts Turkish economic growth forecast to lowest rate since 2020 amid Iran war, rising prices",
-        "summary": [
-            "The organization, which published its latest economic outlook under the title “Navigating Successive Shocks,” also lowered Turkey’s 2027 growth forecast to 3.6%."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/oecd-cuts-turkish-economic-growth-forecast-to-lowest-rate-since-2020-amid-iran-war-rising-prices/ar-AA2cREHH?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/oecd-cuts-turkish-economic-growth-forecast-to-lowest-rate-since-2020-amid-iran-war-rising-prices/ar-AA2cREHH",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790158401.0
     }
 ]
