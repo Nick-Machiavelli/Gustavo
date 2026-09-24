@@ -1,5 +1,43 @@
 [
     {
+        "id": "f04f2e80ce",
+        "title_fa": "بازارها نرخ‌های افزایشی فدرال رزرو را بیش‌ارزیابی می‌کنند",
+        "title_en": "Rob Kaplan: Markets Are Pricing in Too Many Fed Rate Hikes",
+        "summary": [
+            "رب کپن، رئیس پیشین فدرال رزرو دالاس، می‌گوید بازارها بیش از حد نرخ‌های افزایشی را پیش‌بینی می‌کنند",
+            "این اشتباه می‌تواند نوسان‌های شدید در بورس و ارز را به‌وجود آورد",
+            "سرمایه‌گذاران باید به داده‌های واقعی فدرال رزرو توجه کنند"
+        ],
+        "impact": "ارزش‌گذاری نادرست نرخ‌ها می‌تواند نوسان شدید در بازارهای مالی ایجاد کند",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "finance.biggo",
+        "url": "https://finance.biggo.com/news/6f60bab45603c5e5",
+        "clean_url": "https://finance.biggo.com/news/6f60bab45603c5e5",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790209856.4430084
+    },
+    {
+        "id": "572fe5d18b",
+        "title_fa": "وی‌اس‌جی: جمهوری‌خواهان به‌دلیل ترامپ در خطر سیاسی",
+        "title_en": "WSJ: 'Republicans are now in political danger' thanks to Trump",
+        "summary": [
+            "وی‌اس‌جی هشدار داد جمهوری‌خواهان به‌دلیل سیاست‌های ترامپ در ایران و تعرفه‌ها در خطر هستند",
+            "حمایت از کشاورزان و مخالفت با جنگ‌های نیابتی، فشار داخلی را افزایش می‌دهد",
+            "این وضعیت می‌تواند انتخابات ۲۰۲۴ را تحت تأثیر قرار دهد"
+        ],
+        "impact": "ریاست جمهوری‌خواهان ممکن است در انتخابات ۲۴ تحت فشار شدید قرار گیرد",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/wsj-republicans-are-now-in-political-danger-thanks-to-trump/ar-AA2cRfhq?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/news/other/wsj-republicans-are-now-in-political-danger-thanks-to-trump/ar-AA2cRfhq",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790209856.4418144
+    },
+    {
         "id": "86b15d0434",
         "title_fa": "معمای امنیتی ریاض: پارادوکس مکه",
         "title_en": "Riyadh’s Security Dilemma And The Mecca Paradox – OpEd",
@@ -164,6 +202,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcTl6d2xJUUl6eTNZT2ZadzlzU2xETENQeElYUzFYcXItUUtnUDBSdnFESmxBak5jVHF2NkNtN3h6eU1MSTlJdUlPWlJzOHVsMXNzU1JoZDNRYTVkZlk3dXBySjVtZTFTSU8tSWI2Y1VKWlZHUVp3Z2tXUmFReXhPdWZBMUJUWl8zWFJndWV6OV9DTjY4WXNvWVBCN3VhNnEzbm1rWUIwZmdXUHUxZF9obVZqV01mZHliNjE4Ql9wR2VSR1luaEVaYlNxWjlENnIyUDVrVFg2YjVJbFVKUEE",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790199444.0
+    },
+    {
+        "id": "01d1d80871",
+        "title_fa": "جِی‌دی ونس می‌گوید نبرد ایران «جنگ» نیست",
+        "title_en": "Vice President JD Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears",
+        "summary": [
+            "جِی‌دی ونس تأکید کرد نبرد ایران‑ایالات متحده «جنگ» رسمی نیست",
+            "این بیانیه سعی دارد فشار عمومی را قبل از انتخابات ۲۰۲۴ کاهش دهد",
+            "اگر ترامپ ادامه دهد، احتمال تشدید عملیات نیابتی بالا می‌ماند"
+        ],
+        "impact": "بیان «نه جنگ» ممکن است حمایت عمومی از مداخله نظامی را کاهش دهد",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "6abc.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVWJKb21EbURKRTVhSnJuZ2lZdGwxWWRKdFpEdHJsSEtlWWZmdXhaOTRCbmJtS2NzQTg4REo1VkRtWVBWQzNPU0xjMjdJRUxKZ0lxZGM2cmdHYWpWQ3hReEJsM0c0MXRlSU1vSFl1NmNWZUhlT0t0ZEpiTjFNTEN5Mm4zcEszQUZPZDNENkctUUxxRVFoXzFTVTBKT0FnMVBmbFo4RnlYRk9LaDB4cE5RVjl5X1BuSng4VFUwRDNSVFh5R3NMTDVrc0ZZNDRQeTZYZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVWJKb21EbURKRTVhSnJuZ2lZdGwxWWRKdFpEdHJsSEtlWWZmdXhaOTRCbmJtS2NzQTg4REo1VkRtWVBWQzNPU0xjMjdJRUxKZ0lxZGM2cmdHYWpWQ3hReEJsM0c0MXRlSU1vSFl1NmNWZUhlT0t0ZEpiTjFNTEN5Mm4zcEszQUZPZDNENkctUUxxRVFoXzFTVTBKT0FnMVBmbFo4RnlYRk9LaDB4cE5RVjl5X1BuSng4VFUwRDNSVFh5R3NMTDVrc0ZZNDRQeTZYZlE",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790198616.0
     },
     {
         "id": "ef88333fdb",
@@ -729,6 +786,25 @@
         "clean_url": "https://www.presstv.co.uk/Detail/2026/09/23/776872/Nuclear-bomb-in-Israel-inspectors-in-Iran-Pezeshkian-slams-glaring-double-standards-at-UNGA",
         "image": "https://cdn.presstv.co.uk/Photo/2026/9/23/f6b5927c-0cd3-4ecd-8b76-58e9fa5ec8f2.JPG",
         "timestamp": 1790179800.0
+    },
+    {
+        "id": "1bc2694842",
+        "title_fa": "ترامپ خواست چین را به‌خاطر حمایت از ایران تحریم کند",
+        "title_en": "عضو ارشد سنا از حزب دموکرات از ترامپ خواست برای تحریم حمایت چین از جمهوری اسلامی اقدام کند",
+        "summary": [
+            "جین شاهین از ترامپ خواست تا قانون لیندزی‑گراهام را برای فشار بر چین به‌کار گیرد",
+            "هدف، قطع حمایت چین در تأمین ماهواره، فناوری و اطلاعات به نیروهای ایران است",
+            "اگر تحریم‌ها اعمال شوند، چین ممکن است روابط تجاری خود با واشنگتن را بازنگری کند"
+        ],
+        "impact": "تحریم چین می‌تواند دسترسی ایران به فناوری پیشرفته را محدود کند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609230090",
+        "clean_url": "https://www.iranintl.com/202609230090",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790179560.0
     },
     {
         "id": "ebf9939075",
@@ -5289,74 +5365,5 @@
         "clean_url": "https://rinj.org/interactive/criticisms-of-america/as-the-rude-crazy-politics-worsen-women-need-to-step-forward-and-stop-the-madness-by-running-for-office-in-november",
         "image": "https://www.bing.com/th?id=ONUT.0TJHErUy7qsh_j9QeZtNPg",
         "timestamp": 1790101027.85615
-    },
-    {
-        "id": "b7dfb879c3",
-        "title_fa": "خبر بین‌المللی — Former ترامپ advisor drops a bomb در president's endgame",
-        "title_en": "Former Trump advisor drops a bomb on the president's endgame",
-        "summary": [
-            "When President Donald Trump was elected in 2016, and then reelected in 2024, Americans who opposed him asked a simple and..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/former-trump-advisor-drops-a-bomb-on-the-presidents-endgame/ar-AA2cM2fy?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/former-trump-advisor-drops-a-bomb-on-the-presidents-endgame/ar-AA2cM2fy",
-        "image": "https://www.bing.com/th?id=ONUT.Ln7EbFoJuoF02Eg2N2K71w",
-        "timestamp": 1790101024.8205574
-    },
-    {
-        "id": "e216819b79",
-        "title_fa": "وینس برنامه سلامت را برای ۷۵۰ هزار نفر قطع می‌کند",
-        "title_en": "JD Vance Rips Health Care Away From Hundreds of Thousands of People",
-        "summary": [
-            "معاون رئیس‌جمهور آمریکا اعلام کرد 750,000 نفر به دلیل تقلب در ثبت‌نام از بیمه‌ درمانی حذف می‌شوند",
-            "تاییدیه‌های اضافی برای 419,000 نفر دیگر نیز در دستور کار است"
-        ],
-        "impact": "مردم آمریکایی بدون پوشش بیمه‌ درمانی می‌مانند",
-        "tag": "بهداشت",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/215713/jd-vance-health-care-obamacare-one-million-fraud",
-        "clean_url": "https://newrepublic.com/post/215713/jd-vance-health-care-obamacare-one-million-fraud",
-        "image": "https://www.bing.com/th?id=ONUT.gOvk_xZW2BtQdOXETuxXvA",
-        "timestamp": 1790101018.9202933
-    },
-    {
-        "id": "1eb7dc8191",
-        "title_fa": "Bank روسیه cuts دلار rate برای September 23 به 84.07 rubles",
-        "title_en": "Bank of Russia cuts dollar rate for September 23 to 84.07 rubles",
-        "summary": [
-            "The regulator lowered the yuan exchange rate by 1.57 kopecks to 12.5291 rubles MOSCOW, September 22. /TASS/. The Bank of Russia has set the official dollar exchange rate for September 23, 2026, at 84."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2191311",
-        "clean_url": "https://tass.com/economy/2191311",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790100480.0
-    },
-    {
-        "id": "920919469e",
-        "title_fa": "خبر بین‌المللی — price US pressure moves up ایران's social ladder",
-        "title_en": "The price of US pressure moves up Iran's social ladder",
-        "summary": [
-            "Expanding US pressure on Iran's aviation sector is bringing a class dimension to the debate over the costs of the country's growing isolation, with some Iranians welcoming restrictions they say are finally reaching the better-off."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609221203",
-        "clean_url": "https://www.iranintl.com/en/202609221203",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/8c788aafadf8c549ce7a78e2505e8b8df75965f7-1280x853.jpg?rect=170,155,1036,544&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790099940.0
     }
 ]
