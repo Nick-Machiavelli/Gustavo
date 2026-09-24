@@ -3336,6 +3336,63 @@
         "timestamp": 1790148600.0
     },
     {
+        "id": "b690603283",
+        "title_fa": "بستن مسیرهای هوایی ایران توسط تحریم‌های آمریکا",
+        "title_en": "US Treasury Secretary wonders how Iran’s UN delegation will get home as sanctions disrupt flights",
+        "summary": [
+            "بِسِنت عملیات Economic Outcast باعث بسته شدن ۸۰‑۹۰٪ پروازهای بین‌المللی ایران شده است",
+            "هشدار داد که هر شرکتی که به ایران کمک کند، حساب‌های بانکی‌اش هدف آمریکا خواهد شد",
+            "این فشار مالی سعی دارد هوای اکسیژن مالی ایران را قطع کند"
+        ],
+        "impact": "حذف پروازهای بین‌المللی و تهدید به مسدودسازی حساب‌های خارجی، فشار اقتصادی شدید بر دولت و مردم ایران ایجاد می‌کند",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "TRT World",
+        "url": "https://www.trtworld.com/article/369cc075e103",
+        "clean_url": "https://www.trtworld.com/article/369cc075e103",
+        "image": "https://d341l694dl30ad.cloudfront.net/images/cms/2026/09/24/6ab4b72aba5734bc363348e2/original/d0a4dd7c-05f8-4dbe-b146-d78e587d9260-1790228266677.jpg?width=1080&format=jpg&quality=80",
+        "timestamp": 1790148236.0
+    },
+    {
+        "id": "d8c78d80b6",
+        "title_fa": "قانون جدید ای15، بنزین ارزان‌تر در کالیفرنیا",
+        "title_en": "Could E15 bring cheaper gas to California? New law aims to get it to more pumps",
+        "summary": [
+            "قانون جدید ای15 اجازه می‌دهد مخلوط ۱۵٪ اتانول به بنزین در ایستگاه‌های کالیفرنیا اضافه شود",
+            "هدف کاهش هزینه سوخت برای رانندگان در مواجهه با افزایش قیمت‌های جهانی نفت است",
+            "اجرای تدریجی است و به‌زودی در اکثر پمپ‌ها مشاهده خواهد شد"
+        ],
+        "impact": "افزایش سهم اتانول در بنزین می‌تواند قیمت سوخت را تا چند درصد کاهش دهد و تقاضای داخلی برای ذرت را بالا ببرد",
+        "tag": "انرژی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "KCRA Channel 3 on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/could-e15-bring-cheaper-gas-to-california-new-law-aims-to-get-it-to-more-pumps/ar-AA2cRYF2?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/could-e15-bring-cheaper-gas-to-california-new-law-aims-to-get-it-to-more-pumps/ar-AA2cRYF2",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790148236.0
+    },
+    {
+        "id": "880f28285b",
+        "title_fa": "مداخله RBI، روپیه را در برابر سود جهانی نگه داشت",
+        "title_en": "RBI intervention shields rupee as global yields soar on inflation worries",
+        "summary": [
+            "RBI برای جلوگیری از سقوط روپیه، در بازار ارز مداخله کرد",
+            "این اقدام در حالی انجام شد که بازده اوراق جهانی به دلیل نگرانی‌های تورمی بالا رفت",
+            "نرخ روپیه نسبت به دلار کمی تثبیت شد اما فشارهای خارجی ادامه دارد"
+        ],
+        "impact": "پایدار نگه داشتن نرخ روپیه از نوسان شدید جلوگیری می‌کند و هزینه‌های واردات را محدود می‌سازد",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/rbi-intervention-shields-rupee-as-global-yields-soar-on-inflation-worries/ar-AA2cSsfD?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/rbi-intervention-shields-rupee-as-global-yields-soar-on-inflation-worries/ar-AA2cSsfD",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790148236.0
+    },
+    {
         "id": "e7034266f5",
         "title_fa": "خبر بین‌المللی — ایران says international flights continue despite US تحریم‌ه",
         "title_en": "Iran says international flights continue despite US sanctions pressure",
@@ -5325,56 +5382,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/the-future-of-gulf-state-security/ar-AA2cQytV",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790117293.0
-    },
-    {
-        "id": "7e3e877094",
-        "title_fa": "خبر بین‌المللی — Donald ترامپ Jokes About ‘Dropping’ Marco Rubio در Cuba",
-        "title_en": "Donald Trump Jokes About ‘Dropping’ Marco Rubio in Cuba",
-        "summary": [
-            "President Donald Trump joked about sending Secretary of State Marco Rubio to Cuba aboard an aircraft carrier, suggesting Rubio could help tackle the island’s problems. The remark came during a..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/donald-trump-jokes-dropping-marco-214751530.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/donald-trump-jokes-dropping-marco-214751530.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/2f03cbbbdc22daa1959e03f815b03e100afd070d18a55b41c10b0f994d79f424/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Fb9e33c0aef8f9b8b056d02d30bce2428.png",
-        "timestamp": 1790117292.0
-    },
-    {
-        "id": "e9ec40eb75",
-        "title_fa": "خبر بین‌المللی — ترامپ admin spars with ایران at UN meeting",
-        "title_en": "Trump admin spars with Iran at UN meeting",
-        "summary": [
-            "The post Trump admin spars with Iran at UN meeting appeared first on Salon.com. It's the Chinese leader's first state visit..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-admin-spars-iran-un-214130292.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-admin-spars-iran-un-214130292.html",
-        "image": "https://www.bing.com/th?id=ONUT.xfiDF9h1Ir-VtP5v2Fpfpw",
-        "timestamp": 1790117292.0
-    },
-    {
-        "id": "afa95f878c",
-        "title_fa": "خبر بین‌المللی — ترامپ rolls شود red carpet برای چینی President Xi Jinping d",
-        "title_en": "Trump rolls out the red carpet for Chinese President Xi Jinping despite U.S.-China tensions",
-        "summary": [
-            "It's not clear what specific goals President Trump wants to accomplish in his meeting with the Chinese leader."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/trump-rolls-out-the-red-carpet-for-xi-despite-us-china-tensions/",
-        "clean_url": "https://www.cbsnews.com/news/trump-rolls-out-the-red-carpet-for-xi-despite-us-china-tensions",
-        "image": "https://www.bing.com/th?id=ONUT.2BpP3lWehC4TAtSOzV-jIQ",
-        "timestamp": 1790116812.0
     }
 ]
