@@ -3246,6 +3246,44 @@
         "timestamp": 1790153032.0
     },
     {
+        "id": "cb2fcdd4fd",
+        "title_fa": "ترامپ در سخنرانی UN تهدید به نابودی ایران",
+        "title_en": "\"Trump touts being a peacemaker\": MS NOW goes viral for onscreen text during Trump's U.N. address",
+        "summary": [
+            "ترامپ خود را صلح‌جو می‌نامد اما همزمان به «نابودی» ایران اشاره کرد",
+            "این حرف فشار دیپلماتیک بر ایران را بالا می‌برد",
+            "واکنش جهانی می‌تواند تنش‌های منطقه‌ای را تشدید کند"
+        ],
+        "impact": "افزایش فشار سیاسی و احتمال تشدید تحریم‌ها علیه ایران",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "PRIMETIMER",
+        "url": "https://www.primetimer.com/features/trump-touts-being-a-peacemaker-ms-now-goes-viral-for-onscreen-text-during-trumps-u-n-address",
+        "clean_url": "https://www.primetimer.com/features/trump-touts-being-a-peacemaker-ms-now-goes-viral-for-onscreen-text-during-trumps-u-n-address",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790152684.0
+    },
+    {
+        "id": "438aa7401a",
+        "title_fa": "ترامپ کشورهای عضو ICC را ترک کردن می‌طلبد",
+        "title_en": "Europe today: Trump tells countries to quit ICC, EU defence chief speaks to Euronews",
+        "summary": [
+            "ترامپ از همه کشورها خواست که از دادگاه بین‌المللی کیفری خارج شوند",
+            "این گام نشان می‌دهد که آمریکا و متحدانش از مسئولیت‌های بین‌المللی فرار می‌کنند",
+            "رئیس دفاع اروپا به یورونوز گفت که این تصمیم می‌تواند همبستگی نظامی اروپا را تحت فشار بگذارد"
+        ],
+        "impact": "تضعیف مشروعیت ICC و ایجاد تنش در روابط بین‌المللی",
+        "tag": "قضایی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/en-us/news/other/europe-today-trump-tells-countries-to-quit-icc-eu-defence-chief-speaks-to-euronews/ar-AA2cSfGV?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/europe-today-trump-tells-countries-to-quit-icc-eu-defence-chief-speaks-to-euronews/ar-AA2cSfGV",
+        "image": "https://www.bing.com/th?id=ONUT.USuP9YblfoicayQWUhZr1g",
+        "timestamp": 1790152684.0
+    },
+    {
         "id": "c7a348e609",
         "title_fa": "خبر بین‌المللی — ترامپ threatens ایران as fuel protests loom ahead Budget 20",
         "title_en": "Trump threatens Iran as fuel protests loom ahead of Budget 2027",
@@ -5341,41 +5379,5 @@
         "clean_url": "https://www.palestinechronicle.com/iran-says-30-million-ready-for-defense-sets-new-terms-for-reopening-hormuz",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790121820.0
-    },
-    {
-        "id": "1115114798",
-        "title_fa": "قطر واسطه‌گری مذاکرات ایران‑آمریکا را اعلام کرد",
-        "title_en": "Iran says Qatar mediated talks with US, demands end to war on all fronts",
-        "summary": [
-            "ایران از طریق قطر در نیویورک شرایط خود شامل پایان جنگ در همه جبهه‌ها را مطرح کرد",
-            "وزارت خارجه ایران «اعمال تجاوزهای آمریکا» را محکوم کرد",
-            "این پیام نشان می‌دهد تهران هنوز به دنبال راه‌حل دیپلماتیک است"
-        ],
-        "impact": "درخواست ایران برای پایان جنگ، امکان بازگشت به میز مذاکرات را باز می‌کند",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-qatar-mediated-talks-with-us-demands-end-to-war-on-all-fronts/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/iran-says-qatar-mediated-talks-with-us-demands-end-to-war-on-all-fronts",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790121600.0
-    },
-    {
-        "id": "8f202fc99c",
-        "title_fa": "خبر بین‌المللی — Pezeshkian says ایران خواهد not surrender به US pressurePubl",
-        "title_en": "Pezeshkian says Iran will not surrender to US pressurePublished on: September 23, 2026 10:04 PM",
-        "summary": [
-            "NEW YORK, Sept. 23 -- Iranian President Masoud Pezeshkian said Iran would not surrender to US pressure during his UN General..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/asia/pakistan/pezeshkian-says-iran-will-not-surrender-to-us-pressurepublished-on-september-23-2026-1004-pm/ar-AA2cQ2EM?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/pezeshkian-says-iran-will-not-surrender-to-us-pressurepublished-on-september-23-2026-1004-pm/ar-AA2cQ2EM",
-        "image": "https://www.bing.com/th?id=ONUT.DfY1X3F6foYZAqFK6-CaJA",
-        "timestamp": 1790120337.0
     }
 ]
