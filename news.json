@@ -461,6 +461,25 @@
         "timestamp": 1790214620.0
     },
     {
+        "id": "e3f8641f70",
+        "title_fa": "نامهٔ نادر رهبر در ایران منتشر شد",
+        "title_en": "Iran live: Tehran shares letter from Supreme Leader not seen in months",
+        "summary": [
+            "انتشار نامه پس از ماه‌ها عدم حضور، نشانگر تغییر در رهبری و تلاش برای بازنگری موضع است",
+            "رئیس‌جمهور از ترامپ انتقاد کرد؛ تنش‌های دیپلماتیک بین تهران و واشنگتن تشدید شد",
+            "احتمال استفاده از نامه برای تقویت پیام داخلی و فشار بر مخالفان داخلی وجود دارد"
+        ],
+        "impact": "تقویت موضع داخلی ایران و تشدید فشار دیپلماتیک آمریکا",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-us-war-live-iranian-president-hits-out-at-bully-trump/ar-AA2cRQ2J",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-us-war-live-iranian-president-hits-out-at-bully-trump/ar-AA2cRQ2J",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790214381.0
+    },
+    {
         "id": "a7535c3fc4",
         "title_fa": "خبر بین‌المللی — Oil prices edge lower as ایران says it is open به diplomacy",
         "title_en": "Oil prices edge lower as Iran says it is open to diplomacy to end the war",
@@ -5349,25 +5368,5 @@
         "clean_url": "https://www.eurasiareview.com/23092026-has-trumps-failure-to-bomb-iran-into-capitulation-backfired-prompting-netanyahu-and-mbs-to-pull-washington-in-the-opposite-direction-oped",
         "image": "https://www.bing.com/th?id=ONUT.leTOp_K8QFqg4Amo1whFcg",
         "timestamp": 1790121880.9678874
-    },
-    {
-        "id": "20771c949a",
-        "title_fa": "قضیهٔ ممنوعیت رسانه‌ای ترامپ به دادگاه رسید",
-        "title_en": "Trump's Media Ban on Thin Ice as Judge Raises Red Flags: 'Due Process Wasn't Followed'",
-        "summary": [
-            "قاضی فدرال ادعای عدم رعایت فرآیند قانونی در ممنوعیت سه رسانه از حضور در کاخ سفید را بررسی کرد",
-            "سازمان‌های خبری ادعا می‌کنند این اقدام نقض آزادی مطبوعات است",
-            "دادگاه ممکن است حکم موقت برای بازگشت پاس‌های خبری صادر کند",
-            "این پرونده می‌تواند پیش‌زمینهٔ محدودیت‌های رسانه‌ای در دورهٔ ترامپ باشد"
-        ],
-        "impact": "احتمال بازگشت دسترسی رسانه‌ها به کاخ سفید و کاهش فشار بر آزادی بیان",
-        "tag": "آزادی مطبوعات",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/us/us-news/us-president-donald-trump-press-pool-media-ban-cnn-ms-now-politico-case-ruling-judge-timothy-kelly-article-156212757",
-        "clean_url": "https://www.timesnownews.com/world/us/us-news/us-president-donald-trump-press-pool-media-ban-cnn-ms-now-politico-case-ruling-judge-timothy-kelly-article-156212757",
-        "image": "https://www.bing.com/th?id=ONUT.ObJt3xO_W791Kk0yTP08LA",
-        "timestamp": 1790121821.0
     }
 ]
