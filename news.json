@@ -1146,6 +1146,24 @@
         "timestamp": 1790265600.0
     },
     {
+        "id": "d6d7eb1f7b",
+        "title_fa": "ایران پیشنهادی برای بازگشایی تنگه هرمز به ترامپ",
+        "title_en": "Iran says it has given Trump administration new proposal for peace talks",
+        "summary": [
+            "وزیر خارجه ایران اعلام کرد طرحی برای بازگشایی تنگه هرمز و تجدید مذاکرات صلح در هفت روز ارائه شده است.",
+            "پیشنهاد شامل بازگشت به مذاکرات پایان جنگ گسترده و کاهش فشارهای اقتصادی بر کشتی‌رانی خلیج می‌شود."
+        ],
+        "impact": "ممکن است فشارهای اقتصادی و ناوبری در خلیج کاهش یابد.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/24/iran-says-it-has-given-trump-administration-new-proposal-peace-talks/",
+        "clean_url": "https://www.washingtonpost.com/world/2026/09/24/iran-says-it-has-given-trump-administration-new-proposal-peace-talks",
+        "image": "http://www.bing.com/th?id=ONUT.Nao9bqhjbLOplVOb-wm8Gw&pid=News",
+        "timestamp": 1790264940.0
+    },
+    {
         "id": "855e69ffe9",
         "title_fa": "خبر بین‌المللی — سپاه chief praises Pezeshkian's 'steadfast' UN address",
         "title_en": "IRGC chief praises Pezeshkian's 'steadfast' UN address",
@@ -3595,6 +3613,24 @@
         "timestamp": 1790205180.0
     },
     {
+        "id": "d15cc5c39b",
+        "title_fa": "نیککی و داو پس از افزایش نرخ بهره",
+        "title_en": "Kue's Stock Analysis (September 25)",
+        "summary": [
+            "نیککی برای چهارمین روز متوالی صعود کرد و بالای میانگین ۲۵ روزه بسته شد.",
+            "بازده اوراق ۱۰‑ساله آمریکا به ۵.۲۱۰٪ رسید؛ داو برای دومین روز متوالی کاهش یافت."
+        ],
+        "impact": "بازارهای آسیا و آمریکا با نوسان کوتاه‌مدت مواجه‌اند.",
+        "tag": "بازار",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "note",
+        "url": "https://note.com/japan_unwritten_/n/n50c3cae0a8ad?hl=en",
+        "clean_url": "https://note.com/japan_unwritten_/n/n50c3cae0a8ad",
+        "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/d3f3edb33979af3ecaca48459949595090fcaf80.png",
+        "timestamp": 1790204584.0
+    },
+    {
         "id": "764ab0474b",
         "title_fa": "ترامپ در آستانه سقوط؛ جمهوری‌خواهان فرار می‌کنند",
         "title_en": "'Weak' Trump has Republicans 'tripping over themselves' to escape him: Nicolle Wallace",
@@ -5277,41 +5313,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/blood-on-the-un-podium-iran-s-president-just-defended-genocide-to-an-empty-room/ar-AA2cQ58l",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790185715.972218
-    },
-    {
-        "id": "7c76612675",
-        "title_fa": "خطای ثبت‌نام رای‌گیری در تگزاس به تاخیر می‌افتد",
-        "title_en": "Massive Error Affects Unknown Number of Texas Voter Registrations",
-        "summary": [
-            "دپارتمان امنیت عمومی تگزاس درخواست‌های آنلاین را به شهرستان‌ها نفرستاد.",
-            "تعداد دقیق متأثرین نامشخص اما ممکن است مهلت ۵ اکتبر را تحت فشار قرار دهد.",
-            "مقامات قول دادند درخواست‌ها را شبانه تحویل دهند؛ اما تاخیر دو هفته‌ای محتمل است."
-        ],
-        "impact": "تاخیر در ثبت‌نام می‌تواند تعداد قابل توجهی از رأی‌دهندگان را از شرکت در انتخابات منع کند.",
-        "tag": "انتخابات",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/215767/error-unknown-number-texas-voter-registrations",
-        "clean_url": "https://newrepublic.com/post/215767/error-unknown-number-texas-voter-registrations",
-        "image": "https://images.newrepublic.com/819443f618cb7b4c776afcbcdf1e67de566acf7e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-        "timestamp": 1790185715.9717968
-    },
-    {
-        "id": "3efd7b0b97",
-        "title_fa": "خبر بین‌المللی — El-Sayed avoids acknowledging ایرانی protester deaths, conde",
-        "title_en": "El-Sayed avoids acknowledging Iranian protester deaths, condemns Iran war instead",
-        "summary": [
-            "Asked by a student to ‘stand unequivocally against the IRGC,’ El-Sayed criticized the U.S. for trying to be the ‘world’s..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "Jewish Insider",
-        "url": "https://jewishinsider.com/2026/09/el-sayed-iran-war-protester-deaths-irgc/",
-        "clean_url": "https://jewishinsider.com/2026/09/el-sayed-iran-war-protester-deaths-irgc",
-        "image": "https://www.bing.com/th?id=ONUT.A5ttQJpw00C-41E7C2JHMA",
-        "timestamp": 1790185710.0
     }
 ]
