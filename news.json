@@ -1,5 +1,24 @@
 [
     {
+        "id": "ebde8d77db",
+        "title_fa": "قیمت گازوئیل به بالاترین سطح تاریخ رسیده",
+        "title_en": "Rising gas prices will hammer already fragile consumers",
+        "summary": [
+            "قیمت بنزین در ایالات متحده به حدود ۴٫۵ دلار در گالن رسید؛ دیزل برای اولین بار از ۶ دلار عبور کرد.",
+            "مصرف‌کنندگان با درآمد محدود به‌سرعت تحت فشار هزینه‌های سوخت قرار می‌گیرند.",
+            "افزایش قیمت‌ها می‌تواند واکنش سیاسی و فشار بر قانون‌گذاران برای کنترل تورم ایجاد کند."
+        ],
+        "impact": "کاهش قدرت خرید خانوارها و فشار بر سیاست‌گذاران",
+        "tag": "قیمت‌نفت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "American Banker",
+        "url": "https://www.americanbanker.com/news/rising-gas-prices-will-hammer-already-fragile-consumers",
+        "clean_url": "https://www.americanbanker.com/news/rising-gas-prices-will-hammer-already-fragile-consumers",
+        "image": "https://arizent.brightspotcdn.com/dims4/default/da17a09/2147483647/strip/true/crop/4000x2100+0+283/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F5a%2F65%2Ff7185d4c431db298be054d76fee3%2F467259273.jpg",
+        "timestamp": 1790274388.9770617
+    },
+    {
         "id": "0df97a6555",
         "title_fa": "سنای آمریکا به رأی‌گیری پایان جنگ ایران می‌پردازد",
         "title_en": "Senate to vote on ending Iran war as Americans face higher fuel costs from conflict",
@@ -35,6 +54,25 @@
         "clean_url": "https://www.aol.com/articles/tucker-carlson-says-trump-cabinet-163123000.html",
         "image": "https://hermes.media.static.aol.com/media/2026/09/24/85797561-e178-303c-96eb-c055aa7632ef/c4a1284e-1b8c-4911-9837-088f3ebf2fa4.jpg",
         "timestamp": 1790271627.3415082
+    },
+    {
+        "id": "ebe7c54bfc",
+        "title_fa": "ایران هدف دفاع هسته‌ای خود را تأیید کرد",
+        "title_en": "Iran admits nuclear defense aspiration goals",
+        "summary": [
+            "ایران به‌صراحت اعلام کرد هدفش دستیابی به توان دفاعی هسته‌ای است.",
+            "این تغییر موضع پس از سال‌ها انکار، نگرانی‌های امنیتی منطقه را تشدید می‌کند.",
+            "احتمال اعمال تحریم‌های جدید یا اقدام‌ها پیشگیرانه توسط کشورهای غربی افزایش می‌یابد."
+        ],
+        "impact": "افزایش تنش‌های نظامی منطقه و احتمال تحریم‌های جدید",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "TV7 Israel News",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0Vnl1eERJYVJCWmNmSko2R2M0N1cxcHh5Ynp3bFptZ004TGNoUTJUb0EwT3gyM1A1U21OMm9YNXl3WWF5bk42SDcwT2pWUE90RVpyQkxDU2ZIZThfYVVLZ1ZMVW5kMGZhZU81X3F4S3FhSXgwWGI2T1ZvRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0Vnl1eERJYVJCWmNmSko2R2M0N1cxcHh5Ynp3bFptZ004TGNoUTJUb0EwT3gyM1A1U21OMm9YNXl3WWF5bk42SDcwT2pWUE90RVpyQkxDU2ZIZThfYVVLZ1ZMVW5kMGZhZU81X3F4S3FhSXgwWGI2T1ZvRQ",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790271614.0
     },
     {
         "id": "4ee77841ad",
@@ -5277,39 +5315,5 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/a-single-number-threatens-a-bloodbath-for-the-gop-opinion/ar-AA2cP4Px",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790169289.229365
-    },
-    {
-        "id": "f0aa0bf856",
-        "title_fa": "تصمیمات بد پولی در حال بازگشت به خانه برای ایالات متحده و ژاپن است",
-        "title_en": "Bad money decisions are coming home to roost for the US and Japan",
-        "summary": [
-            "For major economies that have relied on debt to maintain living standards since 2007, high inflation might be one way out The US Treasury market is in trouble, oil prices have been surging and the yen..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "South China Morning Post on MSN",
-        "url": "https://www.msn.com/en-xl/money/economy/bad-money-decisions-are-coming-home-to-roost-for-the-us-and-japan/ar-AA2cPhnj?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/money/economy/bad-money-decisions-are-coming-home-to-roost-for-the-us-and-japan/ar-AA2cPhnj",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790169289.2281432
-    },
-    {
-        "id": "78daee1e25",
-        "title_fa": "جنگ ایران: 8 ملوان نیروی دریایی آمریکا در شرمساری ترامپ اقدام به خودکشی در کشتی یو اس اس آبراهام لینکلن کردند.",
-        "title_en": "Iran war: 8 US Navy sailors attempt suicide aboard USS Abraham Lincoln in embarrassment for Trump",
-        "summary": [
-            "Eight U.S. sailors assigned to the USS Abraham Lincoln carrier strike group attempted suicide during a deployment that included combat operations against Iran, according to CNN, citing a letter from..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/news/other/iran-war-8-us-navy-sailors-attempt-suicide-aboard-uss-abraham-lincoln-in-embarrassment-for-trump/vi-AA2cRU2Z?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-war-8-us-navy-sailors-attempt-suicide-aboard-uss-abraham-lincoln-in-embarrassment-for-trump/vi-AA2cRU2Z",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790169261.0
     }
 ]
