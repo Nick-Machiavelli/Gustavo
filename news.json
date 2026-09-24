@@ -750,6 +750,25 @@
         "timestamp": 1790185219.6681654
     },
     {
+        "id": "8c4f3d6587",
+        "title_fa": "ترامپ گفت‌وگو با شی درباره ایران را می‌کوشد",
+        "title_en": "ترامپ: درباره ایران با شی جین‌پینگ گفت‌وگو خواهم کرد",
+        "summary": [
+            "ترامپ اعلام کرد ایران محور اصلی نشست با چین است",
+            "شی جین‌پینگ خواستار همکاری به‌جای رقابت شد",
+            "قانونگذاران آمریکایی خواستار فشار بر چین برای حمایت از تهران هستند"
+        ],
+        "impact": "ممکن است چین فشار دیپلماتیک بر ایران را تقویت کند یا به تحریم‌های جدید دامن بزند",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609240605",
+        "clean_url": "https://www.iranintl.com/202609240605",
+        "image": "http://www.bing.com/th?id=ONUT.OSOBYHXuKncRhRKI-P9uEg&pid=News",
+        "timestamp": 1790182800.0
+    },
+    {
         "id": "a3b2ddd96c",
         "title_fa": "تمدید آتش‌بس تجاری آمریکا‑چین؛ ترامپ و شی درباره ایران",
         "title_en": "آمریکا از تمدید آتش‌بس تجاری با چین خبر داد؛ ترامپ و شی درباره ایران گفت‌وگو می‌کنند",
@@ -5345,23 +5364,6 @@
         "url": "https://www.msn.com/en-in/news/other/yemen-houthis-claim-10-killed-14-wounded-in-saudi-airstrikes/ar-AA2cP7pU?ocid=BingNewsVerp",
         "clean_url": "https://www.msn.com/en-in/news/other/yemen-houthis-claim-10-killed-14-wounded-in-saudi-airstrikes/ar-AA2cP7pU",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790104313.0
-    },
-    {
-        "id": "6e557ffaf0",
-        "title_fa": "خبر بین‌المللی — در UN Speech, ایران’s President Displays Pictures Children",
-        "title_en": "In UN Speech, Iran’s President Displays Pictures of Children Killed by US, Brings Attention to Israel’s Nuclear Arsenal",
-        "summary": [
-            "Iranian President Masoud Pezeshkian gave a defiant speech at the UN General Assembly in New York City on Wednesday, which he opened by holding up photos of children killed by US strikes in Iran. \"I..."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Antiwar.com",
-        "url": "https://news.antiwar.com/2026/09/23/in-un-speech-irans-president-displays-pictures-of-children-killed-by-us-brings-attention-to-israels-nuclear-arsenal/",
-        "clean_url": "https://news.antiwar.com/2026/09/23/in-un-speech-irans-president-displays-pictures-of-children-killed-by-us-brings-attention-to-israels-nuclear-arsenal",
-        "image": "https://news.antiwar.com/wp-content/uploads/2026/09/Pezeshkian-speech2.jpg",
         "timestamp": 1790104313.0
     }
 ]
