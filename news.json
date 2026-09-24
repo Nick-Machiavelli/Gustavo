@@ -1,5 +1,41 @@
 [
     {
+        "id": "49d4770514",
+        "title_fa": "زندگی روزمره زیر برج‌های مسکونی چین",
+        "title_en": "Exploring everyday life beneath China’s residential towers",
+        "summary": [
+            "در پایه‌برج‌های مسکونی چین، رستوران‌ها، فروشگاه‌ها و خدمات آموزشی فعال‌اند.",
+            "این تراکم نشان‌دهنده فشارهای جمعیتی و نیاز به برنامه‌ریزی شهری دقیق است."
+        ],
+        "impact": "برنامه‌ریزی شهری چین با چالش‌های زیرساختی و خدماتی بیشتری مواجه می‌شود.",
+        "tag": "شهرسازی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Time Walker on MSN",
+        "url": "https://www.msn.com/en-ca/lifestyle/other/exploring-everyday-life-beneath-china-s-residential-towers/vi-AA2cTOim?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/lifestyle/other/exploring-everyday-life-beneath-china-s-residential-towers/vi-AA2cTOim",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790257089.4351113
+    },
+    {
+        "id": "aa0691933f",
+        "title_fa": "کارهای اره‌خانه در محیط روستایی",
+        "title_en": "Sawmill work in a rural outdoor setting",
+        "summary": [
+            "متن به توصیف تجهیزات عملی در اره‌خانه‌های روستایی می‌پردازد.",
+            "این فعالیت‌ها به‌طور مستقیم به حمایت از عملیات کشاورزی محلی کمک می‌کند."
+        ],
+        "impact": "بهبود بهره‌وری کشاورزی و رشد اقتصاد روستایی در مناطق موردنظر.",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Facebook on MSN",
+        "url": "https://www.msn.com/en-ca/money/general/sawmill-work-in-a-rural-outdoor-setting/vi-AA2cTuoL?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/money/general/sawmill-work-in-a-rural-outdoor-setting/vi-AA2cTuoL",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790257089.4347737
+    },
+    {
         "id": "8b5dac9ec9",
         "title_fa": "تجلیل فراموش شده توسط تاریخ",
         "title_en": "Geschichtsvergessene Glorifizierung",
@@ -430,6 +466,24 @@
         "clean_url": "https://www.latimes.com/opinion/story/2026-09-24/trump-united-nations-xi-china-state-visit",
         "image": "https://ca-times.brightspotcdn.com/dims4/default/39d13f9/2147483647/strip/true/crop/5275x2769+0+374/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2F47%2Fcd4879c1443abb33ddf8c9b830da%2F2296751955.jpg",
         "timestamp": 1790246256.2143674
+    },
+    {
+        "id": "208691d4a8",
+        "title_fa": "نقشه‌ و نمودار قیمت گاز در ایالات متحده",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "قیمت گاز به‌صورت روزانه به‌روز می‌شود و در نقشه‌ها نمایش داده می‌شود.",
+            "تفاوت‌های قیمتی بین ایالت‌ها و شهرستان‌ها به‌وضوح قابل مشاهده است."
+        ],
+        "impact": "مصرف‌کنندگان می‌توانند هزینه سفر خود را بر اساس قیمت‌های محلی برنامه‌ریزی کنند.",
+        "tag": "انرژی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790246160.0
     },
     {
         "id": "1bb073c37a",
@@ -5266,56 +5320,5 @@
         "clean_url": "https://www.msn.com/en-us/money/personalfinance/tips-for-a-fulfilling-and-memorable-college-life/vi-AA1XmeoH",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790150593.0
-    },
-    {
-        "id": "a4e3cbcb66",
-        "title_fa": "خبر بین‌المللی — Pezeshkian hits back at ترامپ, says ایران is 'victim terror",
-        "title_en": "Pezeshkian hits back at Trump, says Iran is 'victim of terrorism'",
-        "summary": [
-            "Iranian President Masoud Pezeshkian on Wednesday hit back at a blistering attack on Iran by US President Donald Trump, rejecting his accusations of terrorism. \"Yesterday, the United States President..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/pezeshkian-hits-back-trump-says-150339810.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/pezeshkian-hits-back-trump-says-150339810.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/1f81b2b53640029471263201a2d25dfa6c74cd75cd0a35d88439759c84421d9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb1733db3bc5d2d47cf0bf97c4802fc4a.jpg",
-        "timestamp": 1790150580.0
-    },
-    {
-        "id": "920919469e",
-        "title_fa": "خبر بین‌المللی — price US pressure moves up ایران's social ladder",
-        "title_en": "The price of US pressure moves up Iran's social ladder",
-        "summary": [
-            "Expanding US pressure on Iran's aviation sector is bringing a class dimension to the debate over the costs of the country's growing isolation, with some Iranians welcoming restrictions they say are finally reaching the better-off."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609221203",
-        "clean_url": "https://www.iranintl.com/en/202609221203",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/8c788aafadf8c549ce7a78e2505e8b8df75965f7-1280x853.jpg?rect=170,155,1036,544&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790150340.0
-    },
-    {
-        "id": "a75a3cc2e7",
-        "title_fa": "خبر بین‌المللی — Petrolio, Bank آمریکا avverte: \"Può superare i 150 dollari",
-        "title_en": "Petrolio, Bank of America avverte: \"Può superare i 150 dollari al barile\"",
-        "summary": [
-            "Il petrolio torna sotto i riflettori dei mercati per l'impatto della guerra tra Stati Uniti e Iran sulle forniture globali. Bank of America avverte che, se il conflitto dovesse continuare a mettere so..."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Wall Street Italia on MSN",
-        "url": "https://www.msn.com/it-it/money/investimento/petrolio-bank-of-america-avverte-può-superare-i-150-dollari-al-barile/ar-AA2cSsrx?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/it-it/money/investimento/petrolio-bank-of-america-avverte-può-superare-i-150-dollari-al-barile/ar-AA2cSsrx",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790149816.0
     }
 ]
