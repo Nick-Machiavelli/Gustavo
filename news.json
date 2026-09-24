@@ -1,5 +1,23 @@
 [
     {
+        "id": "c5b193c4cf",
+        "title_fa": "ترکیه در مجمع ملن زیر سلطه آمریکا",
+        "title_en": "The New York trip: a sign of obedience",
+        "summary": [
+            "سخنرانی اردوغان در مجمع عمومی سازمان ملل به ظاهر ضدامپریالیستی بود اما پیام‌هایش به نفع منافع واشنگتن بود.",
+            "این رفتار نشان می‌دهد ترکیه به جای استقلال، به سیاست‌های آمریکا وفادار مانده و نقش منطقه‌ای خود را از دست می‌دهد."
+        ],
+        "impact": "تقویت تصویر ترکیه به عنوان متحد آمریکا می‌تواند روابط آن با کشورهای خاورمیانه را تضعیف کند",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "BirGün",
+        "url": "https://www.birgun.net/haber/the-new-york-trip-a-sign-of-obedience-736659",
+        "clean_url": "https://www.birgun.net/haber/the-new-york-trip-a-sign-of-obedience-736659",
+        "image": "https://static.birgun.net/resim/big-haber/2026/09/24/the-new-york-trip-a-sign-of-obedience.webp",
+        "timestamp": 1790253875.8366508
+    },
+    {
         "id": "5d582a6f9a",
         "title_fa": "خبر بین‌المللی — Opinion: Did we just hear ایرانی رژیم’s last speech at UN?",
         "title_en": "Opinion: Did we just hear the Iranian regime’s last speech at the UN?",
@@ -4808,6 +4826,24 @@
         "timestamp": 1790154120.0
     },
     {
+        "id": "c40631be61",
+        "title_fa": "پزشکیان ایران در سازمان ملل به ترامپ چالش کرد",
+        "title_en": "Iranian President Pezeshkian Challenges Trump At The UN, Says Tehran Seeks 'No One's Permission' To Defend Itself.",
+        "summary": [
+            "پزشکیان در جلسه مجمع عمومی سازمان ملل به ترامپ گفت: ایران برای دفاع از خود به قدرت نیاز دارد.",
+            "این بیانیه نشان می‌دهد تهران آماده مقابله با فشارهای آمریکا است و ممکن است مذاکرات تحریمی را سخت‌تر کند."
+        ],
+        "impact": "بیان استقلال دفاعی ایران می‌تواند موضع‌گیری آمریکا را در مذاکرات تحریم تغییر دهد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "International Business Times on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iranian-president-pezeshkian-challenges-trump-at-the-un-says-tehran-seeks-no-ones-permission-to-defend-itself/ar-AA2cPv1x?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iranian-president-pezeshkian-challenges-trump-at-the-un-says-tehran-seeks-no-ones-permission-to-defend-itself/ar-AA2cPv1x",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790153760.0
+    },
+    {
         "id": "2df048001a",
         "title_fa": "خبر بین‌المللی — ایران's president tells UN his country 'must be powerful so",
         "title_en": "Iran's president tells UN his country 'must be powerful so as to avoid being threatened'",
@@ -5291,41 +5327,5 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/could-e15-bring-cheaper-gas-to-california-new-law-aims-to-get-it-to-more-pumps/ar-AA2cRYF2",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790148236.0
-    },
-    {
-        "id": "880f28285b",
-        "title_fa": "مداخله RBI، روپیه را در برابر سود جهانی نگه داشت",
-        "title_en": "RBI intervention shields rupee as global yields soar on inflation worries",
-        "summary": [
-            "RBI برای جلوگیری از سقوط روپیه، در بازار ارز مداخله کرد",
-            "این اقدام در حالی انجام شد که بازده اوراق جهانی به دلیل نگرانی‌های تورمی بالا رفت",
-            "نرخ روپیه نسبت به دلار کمی تثبیت شد اما فشارهای خارجی ادامه دارد"
-        ],
-        "impact": "پایدار نگه داشتن نرخ روپیه از نوسان شدید جلوگیری می‌کند و هزینه‌های واردات را محدود می‌سازد",
-        "tag": "ارز",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/other/rbi-intervention-shields-rupee-as-global-yields-soar-on-inflation-worries/ar-AA2cSsfD?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/rbi-intervention-shields-rupee-as-global-yields-soar-on-inflation-worries/ar-AA2cSsfD",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790148236.0
-    },
-    {
-        "id": "e7034266f5",
-        "title_fa": "خبر بین‌المللی — ایران says international flights continue despite US تحریم‌ه",
-        "title_en": "Iran says international flights continue despite US sanctions pressure",
-        "summary": [
-            "Iran says its airlines are continuing to operate international routes despite growing restrictions linked to new US sanctions..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/09/23/776836/Iran-airlines-continue-operating-despite-US-sanctions-pressure",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/23/776836/Iran-airlines-continue-operating-despite-US-sanctions-pressure",
-        "image": "https://www.bing.com/th?id=ONUT.2h7opoKT7CNQQA2Ti5ttVg",
-        "timestamp": 1790147672.892268
     }
 ]
