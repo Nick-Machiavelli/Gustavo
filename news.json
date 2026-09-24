@@ -51,6 +51,23 @@
         "timestamp": 1790285684.6681302
     },
     {
+        "id": "ff8558c3f0",
+        "title_fa": "خبر بین‌المللی — نتانیاهو blasts Mamdani at UN: 'You can't silence me. You ca",
+        "title_en": "Netanyahu blasts Mamdani at UN: 'You can't silence me. You can't silence the truth'",
+        "summary": [
+            "Israeli Prime Minister Benjamin Netanyahu promises 'surprises' for UN speech one day after the son of the Israeli Ambassador to the US was injured in a West Bank attack. Iran continues to accelerate its nuclear program pushing crude oil prices up."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/netanyahu-iran-war-news-us-oil-prices-strait-of-hormuz-9-24-26",
+        "clean_url": "https://www.foxnews.com/live-news/netanyahu-iran-war-news-us-oil-prices-strait-of-hormuz-9-24-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/693d46b4051a2f34ee0ea8d387357513.jpg",
+        "timestamp": 1790285280.0
+    },
+    {
         "id": "cf703890e2",
         "title_fa": "خبر بین‌المللی — Why U.N. Still Matters",
         "title_en": "Why the U.N. Still Matters",
@@ -86,6 +103,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamJSbU5CT0NkYTRYbG1KLVllUlFDdW92NTVFdHR3N04tQW9YQWkzZzJLMGNYMkRBTkpqM1d5UUxWcm5SSERTMkxqc2IzZ1pZOTJvSTdfOW40YTV6WHVpRjFTMVRad2NoVmV2TDl3VHQ3RGdkaFdKeEZIU2UzRzZhMTF4dUMzTklVWjhDY19pZXhwZlRORTgyUlRBclBRSDJCY1B5dnZCYmUtN1N0aF8tVV90QUFweVh5T2JSQTlBTQ",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790283537.0
+    },
+    {
+        "id": "2693260f9e",
+        "title_fa": "نتانیاهو به شهردار نیویورک توهین کرد",
+        "title_en": "Amid Protests, Netanyahu Castigates Foes and Mayor of New York City",
+        "summary": [
+            "نتانیاهو در بیانیه‌ای به‌صورت تند به شهردار نیویورک زومران ممدانی حمله کرد",
+            "این حمله در پس‌زمینه اعتراضات داخلی و فشارهای بین‌المللی به دولت اسرائیل صورت گرفت",
+            "توهین او نشان‌دهنده تشدید تنش‌های سیاسی داخل آمریکا و اسرائیل است"
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک اسرائیل‑آمریکا و تضعیف تصویر بین‌المللی نتانیاهو",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
+        "clean_url": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-speech-un-general-assembly.html",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790282700.0
     },
     {
         "id": "d36dd9f956",
@@ -154,6 +190,25 @@
         "clean_url": "https://www.msn.com/en-us/money/general/iran-deal-oil-war-yields-and-what-it-means-for-you/vi-AA2cUACo",
         "image": "https://www.bing.com/th?id=ONUT.pdhaZwKMijYkN-xnqD_SJQ",
         "timestamp": 1790280869.643349
+    },
+    {
+        "id": "a285fefd67",
+        "title_fa": "سنا قطعاً قطعیت‌نامه جنگ با ایران را رد کرد",
+        "title_en": "Iran live updates: Netanyahu touts Israel's war efforts, praises Trump at UN speech",
+        "summary": [
+            "سنا با رأی 49-50 قطعیت‌نامه‌ای برای پایان جنگ با ایران را رد کرد",
+            "حمایت محدود جمهوری‌خواهان نشان می‌دهد فشار داخلی برای پایان درگیری همچنان تقسیم است",
+            "عدم تصویب قطعیت‌نامه می‌تواند مانع کاهش تنش‌های نظامی بین آمریکا و ایران شود"
+        ],
+        "impact": "ادامه عدم قطعیت در سیاست آمریکا نسبت به ایران، ریسک تشدید تحریم‌ها",
+        "tag": "جنگ",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "ABC News",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks/?id=136611503",
+        "clean_url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks",
+        "image": "https://i.abcnewsfe.com/a/29c6d081-3a28-4195-ab46-d9ea3fbe8076/Tehran-DB-260921_1789976622887_hpMain_9x16.jpg?w=992",
+        "timestamp": 1790279340.0
     },
     {
         "id": "5bda77177a",
@@ -284,6 +339,25 @@
         "clean_url": "https://www.dailykos.com/stories/2026/9/24/800102864/world/trump-cant-make-super-intelligence-happen",
         "image": "https://www.bing.com/th?id=ONUT.n6la48yj46-ge-W-VqOfCw",
         "timestamp": 1790275940.6547954
+    },
+    {
+        "id": "ac90f6faa5",
+        "title_fa": "نتانیاهو در مجمع عمومی سازمان ملل به آینده‌اش می‌پردازد",
+        "title_en": "Israel's Netanyahu takes the U.N. stage facing global isolation and a fight for his political future",
+        "summary": [
+            "نتانیاهو در مجمع عمومی ملل از حمایت‌های بین‌المللی برای اسرائیل دفاع کرد",
+            "او با اشاره به انزوا سیاسی خود، سعی کرد رأی‌دهندگان داخلی را راضی کند",
+            "سخنرانی او نشان می‌دهد که دولت اسرائیل به‌دنبال حفظ قدرت داخلی است، نه بهبود روابط جهانی"
+        ],
+        "impact": "تقویت پایه‌های سیاسی نتانیاهو در داخل اسرائیل، اما عزل‌پذیری در سطح جهانی",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "NBC News",
+        "url": "https://www.msn.com/en-us/news/other/israel-s-netanyahu-takes-the-un-stage-facing-global-isolation-and-a-fight-for-his-political-future/ar-AA2cTm6H",
+        "clean_url": "https://www.msn.com/en-us/news/other/israel-s-netanyahu-takes-the-un-stage-facing-global-isolation-and-a-fight-for-his-political-future/ar-AA2cTm6H",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790275860.0
     },
     {
         "id": "d689f84ab9",
@@ -3305,6 +3379,23 @@
         "timestamp": 1790199769.0
     },
     {
+        "id": "1e79e714ed",
+        "title_fa": "خبر بین‌المللی — Senate rejects ایران جنگ powers resolution despite more GOP",
+        "title_en": "Senate rejects Iran war powers resolution despite more GOP support",
+        "summary": [
+            "The U.S. Senate voted down a resolution Thursday calling for President Donald Trump to end the war with Iran despite more GOP..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "UPI",
+        "url": "https://www.upi.com/Top_News/US/2026/09/24/congress-senate-iran-war-powers/6471790280826/",
+        "clean_url": "https://www.upi.com/Top_News/US/2026/09/24/congress-senate-iran-war-powers/6471790280826",
+        "image": "https://www.bing.com/th?id=ONUT.O8-b7zBTWLx6J_LLLX2PYA",
+        "timestamp": 1790199606.0
+    },
+    {
         "id": "c9e1202baf",
         "title_fa": "ایران در مجمع: بدون تسلیم به تحریم‌ها؛ هسته‌ای ادامه دارد",
         "title_en": "Iran won’t bow to military action or sanctions and will retain nuclear program, country’s president tells UNGA",
@@ -5221,98 +5312,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-welcomes-xi-to-white-house-touting-agreement-on-ai/ar-AA2cNUOJ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790180066.0
-    },
-    {
-        "id": "f226ef1bd3",
-        "title_fa": "خبر بین‌المللی — خواهد Lawrence vows به پایان جنگ در ایران as Tom Barrett ru",
-        "title_en": "Will Lawrence vows to end the war in Iran as Tom Barrett runs from his record",
-        "summary": [
-            "Will Lawrence told supporters in Lansing he's running for Congress to end constant war—including the war in Iran that his opponent helped fund."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Gander Newsroom",
-        "url": "https://gandernewsroom.com/news/elections/will-lawrence-iran-war/",
-        "clean_url": "https://gandernewsroom.com/news/elections/will-lawrence-iran-war",
-        "image": "https://gandernewsroom.com/wp-content/uploads/sites/8/2026/09/lawrence-092426-michigan.webp",
-        "timestamp": 1790180066.0
-    },
-    {
-        "id": "dcc2b56037",
-        "title_fa": "خبر بین‌المللی — US delegation walks شود during ایرانی president's speech",
-        "title_en": "US delegation walks out during Iranian president's speech",
-        "summary": [
-            "Andrew Marr is joined by Jeffrey Feltman to discuss the fallout from the UN General Assembly after the US delegate waled out of the Iranian president's speech. Andrew is also joined by China expert..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Amazon S3 on MSN",
-        "url": "https://www.msn.com/en-us/news/other/us-delegation-walks-out-during-iranian-president-s-speech/vi-AA2cU9mh?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/us-delegation-walks-out-during-iranian-president-s-speech/vi-AA2cU9mh",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790180066.0
-    },
-    {
-        "id": "769408a646",
-        "title_fa": "قیمت دیزل تا ۳ پوند در صورت تحریم صادرات آمریکا",
-        "title_en": "Diesel price could get close to £3 a litre if Trump brings in US export ban",
-        "summary": [
-            "تحریم صادرات دیزل توسط ترامپ می‌تواند قیمت سوخت بریتانیا را به نزدیک رکورد ژوئن ۲۰۲۲ برساند",
-            "رانندگان در حال حاضر نزدیک به ۱۹۸ پنس در هر لیتر می‌پردازند؛ اختلاف تنها یک پنس است",
-            "این اقدام نشان‌دهنده تمایل ترامپ به استفاده از ابزارهای اقتصادی برای فشار بر بازارهای جهانی است",
-            "افزایش قیمت سوخت هزینه‌های حمل‌ونقل و زندگی خانوارهای بریتانیایی را به شدت می‌کشد"
-        ],
-        "impact": "افزایش هزینه حمل‌ونقل و فشار بر هزینه‌های زندگی در بریتانیا",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "This is Money on MSN",
-        "url": "https://www.msn.com/en-ph/money/economy/diesel-price-could-get-close-to-3-a-litre-if-trump-brings-in-us-export-ban/ar-AA2cSf5G?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ph/money/economy/diesel-price-could-get-close-to-3-a-litre-if-trump-brings-in-us-export-ban/ar-AA2cSf5G",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790180066.0
-    },
-    {
-        "id": "a9469cd10c",
-        "title_fa": "خطای هوش مصنوعی پالانتیر در حمله به مدرسه ایران",
-        "title_en": "Overreliance on Palantir AI System Contributed to US Strike That Killed 123 Iranian Children, Report Says",
-        "summary": [
-            "سیستم هوش مصنوعی Maven پالانتیر بیش از حد در فرایند هدف‌گیری استفاده شد و منجر به اشتباه مرگ‌آور شد",
-            "حداقل ۱۲۳ کودک در حمله به مدرسه شجاره طیبه در میناب کشته شدند",
-            "پنتاگون هنوز نتایج کامل تحقیق را منتشر نکرده و مسئولیت‌پذیری عمومی را به تعویق انداخته",
-            "این حادثه خطرات جدی به‌کارگیری هوش مصنوعی در عملیات نظامی را به‌وضوح نشان می‌دهد"
-        ],
-        "impact": "افزایش فشار بین‌المللی بر ایالات متحده برای پاسخگویی و بازنگری استفاده از هوش مصنوعی در عملیات نظامی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "International Business Times UK",
-        "url": "https://www.ibtimes.co.uk/palantir-ai-system-us-strike-iranian-school-1821738",
-        "clean_url": "https://www.ibtimes.co.uk/palantir-ai-system-us-strike-iranian-school-1821738",
-        "image": "https://d.ibtimes.co.uk/en/full/1810350/us-bases-iran.png",
-        "timestamp": 1790180066.0
-    },
-    {
-        "id": "b2e5453105",
-        "title_fa": "پزشکیان: دوگانگی هسته‌ای اسرائیل و فشار بر ایران",
-        "title_en": "'Nuclear bomb in Israel, inspectors in Iran': Pezeshkian slams glaring double standards at UNGA",
-        "summary": [
-            "پزشکیان در مجمع عمومی آمریکا به دوگانگی هسته‌ای اسرائیل و تحریم‌های ایران اشاره کرد",
-            "او گفت اسرائیل سلاح‌های اتمی دارد ولی بازرسی نمی‌شود، در حالی که ایران تحت فشار است",
-            "این انتقاد می‌تواند روابط آمریکا‑ایران را سخت‌تر کند"
-        ],
-        "impact": "بی‌ثباتی دیپلماتیک بین آمریکا و ایران تشدید می‌شود",
-        "tag": "دیپلماتیک",
-        "urgency": 4,
-        "sentiment": -0.7,
-        "source": "presstv",
-        "url": "https://www.presstv.co.uk/Detail/2026/09/23/776872/Nuclear-bomb-in-Israel-inspectors-in-Iran-Pezeshkian-slams-glaring-double-standards-at-UNGA",
-        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/23/776872/Nuclear-bomb-in-Israel-inspectors-in-Iran-Pezeshkian-slams-glaring-double-standards-at-UNGA",
-        "image": "https://cdn.presstv.co.uk/Photo/2026/9/23/f6b5927c-0cd3-4ecd-8b76-58e9fa5ec8f2.JPG",
-        "timestamp": 1790179800.0
     }
 ]
