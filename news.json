@@ -1,5 +1,23 @@
 [
     {
+        "id": "e1d8f2c407",
+        "title_fa": "جنگ ایران‑ایالات متحده می‌تواند نتایج میانی‌دوره را خراب کند",
+        "title_en": "The News Is All Bad For Donald Trump and the Midterms Could Mean Pain for the GOP Thanks to the Iran War",
+        "summary": [
+            "ادامه جنگ بیش از شش ماه، تصویر مدیریت ضعیف ترامپ را تقویت می‌کند",
+            "افزایش قیمت انرژی و تورم، دو استدلال اصلی ترامپ برای انتخابات ۲۰۲۴ را تضعیف می‌کند"
+        ],
+        "impact": "کاهش حمایت رأی‌دهندگان جمهوری‌دموکراتیک و خطر از دست دادن کرسی در میانه‌دوره",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "nationalsecurityjournal",
+        "url": "https://nationalsecurityjournal.org/the-news-is-all-bad-for-donald-trump-and-the-midterms-could-mean-pain-for-the-gop-thanks-to-the-iran-war/",
+        "clean_url": "https://nationalsecurityjournal.org/the-news-is-all-bad-for-donald-trump-and-the-midterms-could-mean-pain-for-the-gop-thanks-to-the-iran-war",
+        "image": "https://www.bing.com/th?id=ONUT._oyELzi9ZN_XRWxOXeTfQQ",
+        "timestamp": 1790292865.5976589
+    },
+    {
         "id": "7cc2b346d1",
         "title_fa": "خبر بین‌المللی — Commentary: A diesel export ban is a bad idea. ترامپ needs i",
         "title_en": "Commentary: A diesel export ban is a bad idea. Trump needs it anyway",
@@ -2207,6 +2225,24 @@
         "timestamp": 1790246160.0
     },
     {
+        "id": "b680822f77",
+        "title_fa": "ترامپ در مجمع عمومی: ایران باید معامله بپذیرد یا نابود شود",
+        "title_en": "Trump tells the UN Iran faces 'annihilation' — then predicts a deal after the midterms",
+        "summary": [
+            "ترامپ در سخنرانی سازمان ملل، ایران را به پذیرش توافق یا مواجهه با نابودی تهدید کرد",
+            "این اظهارات با فشار دیپلماتیک برای رسیدن به توافق هسته‌ای همزمان شد و نشان از ریسک‌پذیری سیاسی او دارد"
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک و فشار بر مذاکرات هسته‌ای ایران",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Idaho Learning News",
+        "url": "https://www.msn.com/en-us/news/other/trump-tells-the-un-iran-faces-annihilation-then-predicts-a-deal-after-the-midterms/ar-AA2cSk8b",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-tells-the-un-iran-faces-annihilation-then-predicts-a-deal-after-the-midterms/ar-AA2cSk8b",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790246133.0
+    },
+    {
         "id": "1bb073c37a",
         "title_fa": "ترامپ به‌طور ناخواسته کاهش گازهای گلخانه‌ای",
         "title_en": "How Trump is unintentionally helping the world's climate",
@@ -3588,6 +3624,42 @@
         "clean_url": "https://www.nation.com.pk/24-Sep-2026/iran-will-bow-us-pressure-pezeshkian-tells-un",
         "image": "https://www.nation.com.pk/print_images/large/2026-09-24/iran-will-bow-us-pressure-pezeshkian-tells-un-1790210842-8456.jpg",
         "timestamp": 1790208000.0
+    },
+    {
+        "id": "9d69c36359",
+        "title_fa": "نتانیاهو در مجمع ملل به ایران و مخالفان اسرائیل حمله کرد",
+        "title_en": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+        "summary": [
+            "نتانیاهو در سخنرانی سازمان ملل، ایران را دشمن اصلی و تهدیدی برای امنیت منطقه نامید",
+            "او همچنین شهردار نیویورک و منتقدان اسرائیل را به‌عنوان مخالفان اسرائیل محکوم کرد"
+        ],
+        "impact": "تشدید رادیکال‌سازی دیپلماسی اسرائیل و احتمال افزایش فشار بین‌المللی بر ایران",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Al Jazeera on MSN",
+        "url": "https://www.msn.com/en-us/news/other/benjamin-netanyahu-attacks-israel-s-enemies-and-allies-in-un-speech/ar-AA2cV5ew?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/benjamin-netanyahu-attacks-israel-s-enemies-and-allies-in-un-speech/ar-AA2cV5ew",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790206459.0
+    },
+    {
+        "id": "003c8d81e7",
+        "title_fa": "رئیس‌جمهور ایران: در صورت توافق با آمریکا، اورانیوم غنی را رها می‌کنیم",
+        "title_en": "Iran may give up its highly enriched uranium if deal with US reached — president",
+        "summary": [
+            "مسعود پزشکین گفت ایران حاضر است اورانیوم ۶۰٪ را در چارچوب قوانین بین‌المللی تحویل دهد",
+            "این اظهارات می‌تواند مسیر مذاکرات هسته‌ای را تسریع کند و تحریم‌ها را کاهش دهد"
+        ],
+        "impact": "کاهش فشار اقتصادی بین‌المللی و پیشرفت مذاکرات هسته‌ای",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2192475",
+        "clean_url": "https://tass.com/world/2192475",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260925/1487851.jpg",
+        "timestamp": 1790206458.0
     },
     {
         "id": "9095d797c0",
@@ -5240,73 +5312,5 @@
         "clean_url": "https://www.cnbctv18.com/world/us-missile-strike-on-iran-school-how-a-series-of-errors-led-to-123-child-deaths-19997924.htm",
         "image": "https://www.bing.com/th?id=ONUT.uIHUKlJh3jODyQNIWukVPQ",
         "timestamp": 1790187356.0
-    },
-    {
-        "id": "1947399a66",
-        "title_fa": "خبر بین‌المللی — ترامپ lackey slammed by Fox News viewers over bold oil claim",
-        "title_en": "Trump lackey slammed by Fox News viewers over bold oil claim",
-        "summary": [
-            "United States Secretary of the Treasury Scott Bessent appeared as a guest on Special Report to discuss the disruption of the Strait of Hormuz, which has caused oil prices to skyrocket..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Mirror US on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/trump-lackey-slammed-by-fox-news-viewers-over-bold-oil-claim/ar-AA2cUuME?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/trump-lackey-slammed-by-fox-news-viewers-over-bold-oil-claim/ar-AA2cUuME",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790187355.0
-    },
-    {
-        "id": "1133a4eaa3",
-        "title_fa": "خبر بین‌المللی — US stocks waver as bond market, oil prices keep up pressur",
-        "title_en": "US stocks waver as the bond market, oil prices keep up the pressure",
-        "summary": [
-            "Asian shares were trading mixed in early Thursday trading, as investors tried to digest the recent swings in oil prices and the U.S. bond market. Japan’s benchmark Nikkei 225..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "KDVR & KWGN",
-        "url": "https://kdvr.com/news/money/ap-asian-shares-trade-mixed-as-markets-eye-oil-prices-us-bonds-and-currency-fluctuations/",
-        "clean_url": "https://kdvr.com/news/money/ap-asian-shares-trade-mixed-as-markets-eye-oil-prices-us-bonds-and-currency-fluctuations",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790187355.0
-    },
-    {
-        "id": "16201d00c0",
-        "title_fa": "خبر بین‌المللی — UAE suspends flights by ایرانی air carriers after US ban",
-        "title_en": "UAE suspends flights by Iranian air carriers after US ban",
-        "summary": [
-            "The United Arab Emirates has suspended flights by Iranian air carriers to and from the country until further notice,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TRT World",
-        "url": "https://www.trtworld.com/article/60b1494e5cbd",
-        "clean_url": "https://www.trtworld.com/article/60b1494e5cbd",
-        "image": "https://www.bing.com/th?id=ONUT.lMvEvZuGUXpzdXM_N07xjg",
-        "timestamp": 1790187355.0
-    },
-    {
-        "id": "a8fb626e45",
-        "title_fa": "خبر بین‌المللی — ایران's president gives a rare wartime speech at U.N.",
-        "title_en": "Iran's president gives a rare wartime speech at the U.N.",
-        "summary": [
-            "Iran's president gives a rare wartime speech at the U.N. NPR"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWhVaUFqdzQ5N3g4R2twQmo0TTZRNkNSMjFMZVJrZWJlMHdjOWNYUk1uRFpHUGg0Q2lIMGxIeDBQZk1Ddi1oeVBjdmQ1MzZNRHEyUDBZX0hpdHd6ZjR0QW15SENUeU5Cc2VuZ3V2cjZBTzd6Rjh0S2tKYjBXSGJuME1ValFId2hfNDZaM0ZTWmdzWmIyMlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWhVaUFqdzQ5N3g4R2twQmo0TTZRNkNSMjFMZVJrZWJlMHdjOWNYUk1uRFpHUGg0Q2lIMGxIeDBQZk1Ddi1oeVBjdmQ1MzZNRHEyUDBZX0hpdHd6ZjR0QW15SENUeU5Cc2VuZ3V2cjZBTzd6Rjh0S2tKYjBXSGJuME1ValFId2hfNDZaM0ZTWmdzWmIyMlE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790187280.0
     }
 ]
