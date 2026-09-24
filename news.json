@@ -1,5 +1,24 @@
 [
     {
+        "id": "95887c56bc",
+        "title_fa": "سخنرانی ترامپ در مجمع عمومی: تنش با هند",
+        "title_en": "Trump’s UNGA speech sparks fresh friction with India",
+        "summary": [
+            "ترامپ به جای دیپلماسی، لحن رالی‌مانند استفاده کرد",
+            "هند واکنش انتقادی نشان داد و به تجاوز آمریکا به منافع مشترک اشاره کرد",
+            "تحریم‌های ایران در این سخنرانی کم‌نقش بود"
+        ],
+        "impact": "تنش ترسیم شده می‌تواند روابط تجاری و امنیتی آمریکا-هند را تحت فشار قرار دهد",
+        "tag": "هند",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/opinion/trumps-unga-speech-sparks-fresh-friction-with-india-14048107.html",
+        "clean_url": "https://www.firstpost.com/opinion/trumps-unga-speech-sparks-fresh-friction-with-india-14048107.html",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790241251.4312172
+    },
+    {
         "id": "e4a50b60b2",
         "title_fa": "خبر بین‌المللی — Burnham calls football alcohol ban 'discrimination'",
         "title_en": "Burnham calls football alcohol ban 'discrimination'",
@@ -3138,6 +3157,26 @@
         "timestamp": 1790156280.0
     },
     {
+        "id": "733a1057df",
+        "title_fa": "پزشکیان: ایران تا آخرین نفس می‌جنگد",
+        "title_en": "In defiant speech, Pezeshkian calls out Trump and says Iran will fight 'until our last breath'",
+        "summary": [
+            "پزشکیان در UNGA به‌صورت جنگی به آمریکا توهین کرد",
+            "او تأکید کرد ایران تحت تهدید تروریسم آمریکا است",
+            "سخنرانی نشانگر ریسک ارتقای تنش‌های نظامی‑سیاستی است",
+            "پیام او می‌تواند حمایت داخلی را تقویت کند"
+        ],
+        "impact": "سخنرانی پزشکیان می‌تواند حمایت داخلی ایران را تقویت کند و احتمال واکنش نظامی آمریکا را بالا ببرد",
+        "tag": "ایران",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/irans-president-delivers-wartime-address-at-un-we-have-been-victims-of-terrorism/ar-AA2cPs29",
+        "clean_url": "https://www.msn.com/en-us/news/other/irans-president-delivers-wartime-address-at-un-we-have-been-victims-of-terrorism/ar-AA2cPs29",
+        "image": "http://www.bing.com/th?id=ONUT.AxBLaUMXK704ZwtQRfMt-A&pid=News",
+        "timestamp": 1790155877.0
+    },
+    {
         "id": "4c3770f62a",
         "title_fa": "کشتن مالی‌دار ارشد حماس در غزه",
         "title_en": "Top Hamas moneyman killed in Gaza strike, Israel says",
@@ -3192,6 +3231,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUo0V3BWdFhfQ2RSSDVkT2d1Vk9XWmluUktieE1hSU8za2kyOHRRZWxyNXpubVVweFdOTC1uMmprOUlhdjFOUVhhQTFlSDlhVnY1Wloxa2VzME92cm9oZWYtUmJ6R0lvOXl0SW5wTlBaRWtCNkRXMERyb3V5bmJQanhWQlptQzI4M3UwTm81TnMwSnJobHV2TEwzUmx5Mlk5T3MzOGJjNG1uYTV2MWNpU1drRUdUd245UVdHazVB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790154960.0
+    },
+    {
+        "id": "ecee22a95f",
+        "title_fa": "ایرانیان خواستار دستگیری پزشکیان در نیویورک",
+        "title_en": "'Killers in suits': Iranians ask New York's mayor why Pezeshkian walks free",
+        "summary": [
+            "شهروندان ایرانی از طریق Iran International خواستار دستگیری نمایندگان دولت در نیویورک شدند",
+            "این درخواست پس از حضور پزشکیان و ارغچی در UNGA شکل گرفت",
+            "فشار عمومی می‌تواند به بررسی حقوقی مسئولان جنایت‌های ژانویه منجر شود",
+            "دیپلماسی ایرانی در برابر انتقادات جهانی مقاومت می‌کند"
+        ],
+        "impact": "فراخوان عمومی ممکن است فشار بین‌المللی برای دستگیری مقامات ایرانی را افزایش دهد",
+        "tag": "حقوق بشر",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609249393",
+        "clean_url": "https://www.iranintl.com/en/202609249393",
+        "image": "https://www.bing.com/th?id=ONUT.FepsU5cHodjejCVQrLmV-A",
+        "timestamp": 1790154844.0
     },
     {
         "id": "6598332a80",
@@ -5315,58 +5374,5 @@
         "clean_url": "https://www.iranintl.com/202609238372",
         "image": "http://www.bing.com/th?id=ONUT.ZesE-7DtXqBG1IZYdc7ukA&pid=News",
         "timestamp": 1790122740.0
-    },
-    {
-        "id": "cc71c3cc68",
-        "title_fa": "خبر بین‌المللی — Dentro de un submarino en Vladivostok",
-        "title_en": "Dentro de un submarino en Vladivostok",
-        "summary": [
-            "Recorrido por el interior de un submarino en Vladivostok."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TikTok on MSN",
-        "url": "https://www.msn.com/es-us/noticias/otras/dentro-de-un-submarino-en-vladivostok/vi-AA2cQw58?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/es-us/noticias/otras/dentro-de-un-submarino-en-vladivostok/vi-AA2cQw58",
-        "image": "https://www.bing.com/th?id=ONUT.j70obj26H1VFxu12136ryA",
-        "timestamp": 1790122659.0
-    },
-    {
-        "id": "54f711557f",
-        "title_fa": "خبر بین‌المللی — Video: Pahlavi urges West به back Iranians, not talks with ت",
-        "title_en": "Video: Pahlavi urges West to back Iranians, not talks with Tehran",
-        "summary": [
-            "Iran’s exiled crown prince Reza Pahlavi urged Western governments to support the Iranian people rather than pursue “endless..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609236913",
-        "clean_url": "https://www.iranintl.com/en/202609236913",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1790122659.0
-    },
-    {
-        "id": "7de1ec88aa",
-        "title_fa": "شکست بمباران ایران توسط ترامپ، نتایج مخالفان را به‌دست آورد",
-        "title_en": "Has Trump’s Failure To Bomb Iran Into Capitulation Backfired, Prompting Netanyahu And MBS To Pull Washington In The Opposite Direction? – OpEd",
-        "summary": [
-            "ترامپ ادعا می‌کند ایران به زانو افتاده، اما عدم استفاده از نیروی هوایی نشان از ضعف استراتژی او دارد",
-            "نتانیاهو و محمد بن سلمان از این شکست به نفع خود استفاده کرده و فشار دیپلماتیک را به واشنگتن معکوس کردند",
-            "تحلیل‌گران پیش‌بینی می‌کنند این شکست می‌تواند تحریم‌های اقتصادی شدیدتر را به‌جای حمله نظامی به دنبال داشته باشد"
-        ],
-        "impact": "واشنگتن ممکن است به‌جای بمباران، تحریم‌های اقتصادی شدیدتر اعمال کند",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/23092026-has-trumps-failure-to-bomb-iran-into-capitulation-backfired-prompting-netanyahu-and-mbs-to-pull-washington-in-the-opposite-direction-oped/",
-        "clean_url": "https://www.eurasiareview.com/23092026-has-trumps-failure-to-bomb-iran-into-capitulation-backfired-prompting-netanyahu-and-mbs-to-pull-washington-in-the-opposite-direction-oped",
-        "image": "https://www.bing.com/th?id=ONUT.leTOp_K8QFqg4Amo1whFcg",
-        "timestamp": 1790121880.9678874
     }
 ]
