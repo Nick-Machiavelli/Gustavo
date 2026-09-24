@@ -1,5 +1,22 @@
 [
     {
+        "id": "5aef9c5321",
+        "title_fa": "יורש העצר האירני: הפשירו 100 מיליארד דולר לטובת המהפכה בטהרן",
+        "title_en": "יורש העצר האירני: הפשירו 100 מיליארד דולר לטובת המהפכה בטהרן",
+        "summary": [
+            "רזא פהלווי הציג בוועידת קונקורדיה חלופה לשיחות עם הרפובליקה האיסלאמית * בנו של השאה הבהיר כי אזרחי ארה\"ב לא יישאו בנטל * המנהיג מזהיר שהמשטר לא ישנה התנהגותו * התושבים יהוו כוח לוחם מול האייתוללות..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "News1 מחלקה ראשונה",
+        "url": "https://www.news1.co.il/Archive/001-D-524065-00.html",
+        "clean_url": "https://www.news1.co.il/Archive/001-D-524065-00.html",
+        "image": "https://media.news1.co.il/thumbs/480/NEWSY20f52a73e2db1d4d47b0ab4b7c857dab65.jpg",
+        "timestamp": 1790232389.0140064
+    },
+    {
         "id": "86a4f0c000",
         "title_fa": "درگیری‌های تازه در مجمع ملل: ترامپ مقابل ایران",
         "title_en": "Confrontations at the UN",
@@ -2395,6 +2412,23 @@
         "clean_url": "https://www.iranintl.com/202609236871",
         "image": "http://www.bing.com/th?id=ONUT.kHXRlG1cH6W0Biu7FQ7lqQ&pid=News",
         "timestamp": 1790163000.0
+    },
+    {
+        "id": "d926501686",
+        "title_fa": "خبر بین‌المللی — ایران جنگ Highlights: ترامپ open به ایران deal but warns ‘n",
+        "title_en": "Iran War Highlights: Trump open to Iran deal but warns of ‘number of options’ including military action — Rubio",
+        "summary": [
+            "Trump warns Iran of annihilation but says a deal could be near. Tehran sets conditions to reopen the Strait of Hormuz, while Saudi Arabia restarts its East-West oil pipeline and Gulf states discuss a..."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/us-news/iran-war-live-updates-strait-of-hormuz-houthis-saudi-arabia-trump-oil-price-11790124295205.html",
+        "clean_url": "https://www.livemint.com/news/us-news/iran-war-live-updates-strait-of-hormuz-houthis-saudi-arabia-trump-oil-price-11790124295205.html",
+        "image": "http://www.bing.com/th?id=ONUT.xF4Yzx5TcyOKzXUK-BOuGA&pid=News",
+        "timestamp": 1790162760.0
     },
     {
         "id": "43b051311a",
@@ -5337,39 +5371,5 @@
         "clean_url": "https://www.iranintl.com/202609233301",
         "image": "https://www.bing.com/th?id=ONUT.oRcReVVbdTwbp_WhgrldLg",
         "timestamp": 1790115719.0
-    },
-    {
-        "id": "2b3cd8cf43",
-        "title_fa": "خبر بین‌المللی — ایرانی outlet says Araghchi's meeting with Witkoff was unaut",
-        "title_en": "Iranian outlet says Araghchi's meeting with Witkoff was unauthorized",
-        "summary": [
-            "Iran's Tasnim reports that Foreign Minister Araghchi's meeting with US envoy Witkoff in New York lacked authorization from Tehran's security council..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Türkiye Today",
-        "url": "https://www.turkiyetoday.com/region/iranian-outlet-says-araghchis-meeting-with-witkoff-was-unauthorized-3228806",
-        "clean_url": "https://www.turkiyetoday.com/region/iranian-outlet-says-araghchis-meeting-with-witkoff-was-unauthorized-3228806",
-        "image": "https://img.turkiyetoday.com/images/2026/9/23/iranian-outlet-says-araghchis-meeting-with-witkoff-was-unauthorized-3228806_20260923210738.jpg",
-        "timestamp": 1790115194.0
-    },
-    {
-        "id": "8bbb4e444c",
-        "title_fa": "خبر بین‌المللی — 10 Februarie 2026",
-        "title_en": "10 Februarie 2026",
-        "summary": [
-            "„Merită să te mai muți în Marea Britanie în 2026?”. Părerile românilor care au studiat și au lucrat în Regat, ori care încă se află pe teritoriul occidental sunt diverse."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/ci-tuiasi-admitere-masterat-pag272",
-        "clean_url": "https://ziare.com/cautare/ci-tuiasi-admitere-masterat-pag272",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1790114613.6960828
     }
 ]
