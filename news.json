@@ -1,5 +1,45 @@
 [
     {
+        "id": "4ee77841ad",
+        "title_fa": "آراقی با سعودی و اردن در نیویورک دیدار",
+        "title_en": "Iran's foreign minister meets Saudi, Jordanian counterparts in New York",
+        "summary": [
+            "آراقی با وزیر خارجه سعودی و اردنی در حاشیه مجمع عمومی سازمان ملل دیدار کرد",
+            "تهران آمادگی برای گفت‌وگو را اعلام کرد ولی «زبان زور» را رد کرد",
+            "ترامپ را «قهرمان زورگو» خواند و عکس‌های خامنه‌ای و قربانیان میناب را نشان داد",
+            "تاکید بر تضاد بین موضع‌گیری خارجی ایران و سرکوب داخلی"
+        ],
+        "impact": "گفت‌وگوهای منطقه‌ای تحت فشار؛ احتمال کاهش همکاری‌های اقتصادی",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609245476",
+        "clean_url": "https://www.iranintl.com/en/202609245476",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1790271288.399237
+    },
+    {
+        "id": "d3258a68aa",
+        "title_fa": "آراقی: آمریکا میانجی‌ها را تضعیف کرد",
+        "title_en": "Araghchi accuses US of undermining mediators’ role",
+        "summary": [
+            "آراقی می‌گوید آمریکا مکرراً توافقات را نقض کرده و نقش میانجی‌ها را تضعیف کرده است",
+            "نقض توافقات اسلام‌آباد امنیت منطقه را تشدید کرده و تنش‌ها را افزایش می‌دهد",
+            "ایران با عمان درصدد ایجاد سازوکار عبور امن کشتی‌ها از تنگه‌ Hormuz است",
+            "اقدام‌ها آمریکا به ناپایداری دیپلماتیک و خطر تشدید تنش در خلیج منجر می‌شود"
+        ],
+        "impact": "ایران‑امریکا روابط دیپلماتیک تیره می‌شود؛ خطر تشدید تنش در خلیج",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609240401",
+        "clean_url": "https://www.iranintl.com/en/202609240401",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1790271288.3988106
+    },
+    {
         "id": "c0441122be",
         "title_fa": "خبر بین‌المللی — Is جهانی sleepwalking into worst energy crisis در 50 years?",
         "title_en": "Is the world sleepwalking into worst energy crisis in 50 years?",
@@ -3138,6 +3178,26 @@
         "timestamp": 1790184960.0
     },
     {
+        "id": "572469cf16",
+        "title_fa": "واحد فرماندهی سپاه: «ما از جنگ نمی‌ترسیم»",
+        "title_en": "IRGC chief: Pezeshkian’s ‘we do not fear war’ message echoes Iranian nation’s resolute voice",
+        "summary": [
+            "سرهنگ‌عمومی سپاه، احمد وحیدی، بیانیه‌ای در حمایت از سخنرانی مسعود پزeshکیان در سازمان ملل منتشر کرد",
+            "او این جمله را صدای بلند و مصمم ملت ایران در برابر تهدیدهای آمریکا می‌داند",
+            "پزeshکیان جنگ‌ناپذیری ایران را به‌عنوان پاسخی به «جنگ غیرقانونی» آمریکا توصیف کرد",
+            "پیام هدف تقویت روحیه ملی و نشان دادن عدم ترس به دشمنان است"
+        ],
+        "impact": "تقویت روحیه ملی؛ پیام به دشمنان درباره عدم ترس از جنگ",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "presstv",
+        "url": "https://www.presstv.co.uk/Detail/2026/09/24/776937/Iran-IRGC-Vahidi-UN-Pezeshkian-war-US-Trump-",
+        "clean_url": "https://www.presstv.co.uk/Detail/2026/09/24/776937/Iran-IRGC-Vahidi-UN-Pezeshkian-war-US-Trump-",
+        "image": "https://cdn.presstv.co.uk/Photo/2026/9/24/6583fa18-7021-4ad0-9aea-44b9c55234f0.jpg",
+        "timestamp": 1790184872.0
+    },
+    {
         "id": "1b31a7ec91",
         "title_fa": "دیدار ترامپ و شی: تاکید بر تجارت و هوش مصنوعی، سکوت درباره جنگ ایران",
         "title_en": "دیدار ترامپ و شی: تاکید بر تجارت و هوش مصنوعی، سکوت درباره جنگ ایران",
@@ -5257,56 +5317,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-is-prepping-dc-for-invasion-but-by-whom/ar-AA2cOnyi",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790166516.4782238
-    },
-    {
-        "id": "3bc663fb08",
-        "title_fa": "خبر بین‌المللی — A Near-Record Market Is Ignoring اقتصاد's Biggest Risk",
-        "title_en": "A Near-Record Market Is Ignoring The Economy's Biggest Risk",
-        "summary": [
-            "Mega-cap tech and AI are masking real economy weakness as rates, tariffs, and fuel costs squeeze small/mid-caps. Click here..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4948807-a-near-record-market-is-ignoring-the-economys-biggest-risk",
-        "clean_url": "https://seekingalpha.com/article/4948807-a-near-record-market-is-ignoring-the-economys-biggest-risk",
-        "image": "https://www.bing.com/th?id=ONUT.-vciSpvgIP_kU35Kc7fhIw",
-        "timestamp": 1790165818.5015204
-    },
-    {
-        "id": "b9ed475343",
-        "title_fa": "خبر بین‌المللی — US pushes ایران back در هرمز then تهران’s allies hit pipel",
-        "title_en": "The US pushes Iran back in Hormuz then Tehran’s allies hit the pipeline keeping Saudi oil moving - A major escalation",
-        "summary": [
-            "Emergency reserves helped prevent the initial Hormuz crisis from becoming the catastrophe many feared, according to the video. But the transcript says the U.S. Strategic Petroleum Reserve has now..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Warfronts on MSN",
-        "url": "https://www.msn.com/en-au/news/other/the-us-pushes-iran-back-in-hormuz-then-tehran-s-allies-hit-the-pipeline-keeping-saudi-oil-moving-a-major-escalation-my-take/vi-AA2cOxu8?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/other/the-us-pushes-iran-back-in-hormuz-then-tehran-s-allies-hit-the-pipeline-keeping-saudi-oil-moving-a-major-escalation-my-take/vi-AA2cOxu8",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790165816.219457
-    },
-    {
-        "id": "a3b57953b6",
-        "title_fa": "خبر بین‌المللی — ترامپ captured Maduro",
-        "title_en": "Trump captured Maduro",
-        "summary": [
-            "The video examines the U.S. operation that captured Venezuelan leader Nicolás Maduro and Donald Trump's subsequent statements about American control over Venezuela and its oil sector. It argues that..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Tom Nicholas on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/trump-captured-maduro-then-america-put-its-hands-on-venezuela-s-oil/vi-AA2cOvqS?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/trump-captured-maduro-then-america-put-its-hands-on-venezuela-s-oil/vi-AA2cOvqS",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790165813.7221131
     }
 ]
