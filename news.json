@@ -1,5 +1,41 @@
 [
     {
+        "id": "86a4f0c000",
+        "title_fa": "درگیری‌های تازه در مجمع ملل: ترامپ مقابل ایران",
+        "title_en": "Confrontations at the UN",
+        "summary": [
+            "در مجمع ملل، ترامپ به‌صورت مستقیم به ایران حمله لفظی کرد و ادعا کرد ایران تهدیدی برای امنیت است",
+            "این برخورد باعث واکنش‌های تند نمایندگان دیگر شد و فضای دیپلماتیک را تشدید کرد"
+        ],
+        "impact": "تشدید رنج‌گیری سیاسی بین آمریکا و ایران، کاهش امکان مذاکرات صلح",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Creators Syndicate on MSN",
+        "url": "https://www.msn.com/en-us/news/news/confrontations-at-the-un/ar-AA2cRYpG?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/news/confrontations-at-the-un/ar-AA2cRYpG",
+        "image": "https://www.bing.com/th?id=ONUT.6IE2Vyh7jQBMyhmj4_zWOA",
+        "timestamp": 1790232265.3030517
+    },
+    {
+        "id": "abe359eb76",
+        "title_fa": "اقتصاد خلیج‌ها به‌دلیل جنگ ایران ۵٪ می‌کُند",
+        "title_en": "Gulf economies to shrink 5% this year as Iran war drags on, Capital Economics says",
+        "summary": [
+            "پیش‌بینی کاهش ۵٪ تولید ناخالص منطقه خلیج به‌دلیل ادامه جنگ ایران",
+            "کاهش صادرات انرژی تا ۲۰۲۷ و فشار بر گردش مالی غیرنفتی"
+        ],
+        "impact": "کاهش رشد اقتصادی خلیج‌ها، فشار بر بودجه‌های دولتی و سرمایه‌گذاری‌ها",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "bne IntelliNews",
+        "url": "https://www.intellinews.com/gulf-economies-to-shrink-5-this-year-as-iran-war-drags-on-capital-economics-says-470575/",
+        "clean_url": "https://www.intellinews.com/gulf-economies-to-shrink-5-this-year-as-iran-war-drags-on-capital-economics-says-470575",
+        "image": "https://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/bneGeneric_Iran_Israel_Palestine_red_sea_Gulf_-_Satellite_NASA_-__Southern_Levant_.jpg",
+        "timestamp": 1790229240.0
+    },
+    {
         "id": "9d86e4fdfd",
         "title_fa": "تهران کانادا را به‌خاطر سکوت در برابر تهدید ترامپ سرزنش",
         "title_en": "Tehran takes aim at Canada for not condemning Trump's threat to destroy Iran",
@@ -3319,6 +3355,42 @@
         "timestamp": 1790146080.0
     },
     {
+        "id": "35dc9610cd",
+        "title_fa": "ترامپ در مجمع ملل خواست خروج از دیوان کیفری",
+        "title_en": "Trump at UN calls on countries to quit ICC",
+        "summary": [
+            "ترامپ در نشست مجمع ملل از دیوان کیفری بین‌المللی انتقاد کرد و خواست اعضا آن را ترک کنند",
+            "او این را بخشی از فشار بر کشورهای مخالف سیاست‌های آمریکا می‌داند"
+        ],
+        "impact": "افزایش تنش‌های حقوقی بین‌المللی، احتمال تحریم‌های جدید علیه اعضای دیوان",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Global News - Inquirer.net on MSN",
+        "url": "https://www.msn.com/en-ph/news/other/trump-at-un-calls-on-countries-to-quit-icc/ar-AA2cQUEw?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ph/news/other/trump-at-un-calls-on-countries-to-quit-icc/ar-AA2cQUEw",
+        "image": "https://www.bing.com/th?id=ONUT.NR1MEqbVYUWBWjctsk8WYg",
+        "timestamp": 1790145858.0
+    },
+    {
+        "id": "b2be3ce1dc",
+        "title_fa": "ایران در سازمان ملل از بازگشایی هورموز امتناع کرد",
+        "title_en": "Iran's UN defiance keeps the Strait of Hormuz question open, and US pump prices elevated this fall",
+        "summary": [
+            "رئیس‌جمهور ایران در مجمع ملل از بازگشایی بدون شرط تنگه هورموز امتناع کرد",
+            "این موضع باعث نگرانی بازارهای نفت و افزایش قیمت‌های بنزین در آمریکا شد"
+        ],
+        "impact": "تنش در تنگه هورموز، احتمال کاهش حمل و نقل نفت و فشار بر قیمت جهانی",
+        "tag": "هیدروکربن",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "International Business Times UK on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/iran-s-un-defiance-keeps-the-strait-of-hormuz-question-open-and-us-pump-prices-elevated-this-fall/ar-AA2cS31t?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/iran-s-un-defiance-keeps-the-strait-of-hormuz-question-open-and-us-pump-prices-elevated-this-fall/ar-AA2cS31t",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790145858.0
+    },
+    {
         "id": "e35955ca83",
         "title_fa": "خبر بین‌المللی — Judge skeptical about national security arguments برای media",
         "title_en": "Judge skeptical about national security arguments for media ban",
@@ -5299,75 +5371,5 @@
         "clean_url": "https://ziare.com/cautare/ci-tuiasi-admitere-masterat-pag272",
         "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
         "timestamp": 1790114613.6960828
-    },
-    {
-        "id": "39a0a78c6d",
-        "title_fa": "Best Way برای ترامپ به Win Midterms Is به Win جنگ پیش از Election",
-        "title_en": "Best Way for Trump to Win the Midterms Is to Win the War Before the Election",
-        "summary": [
-            "President Trump, in his speech to the United Nations General Assembly this week, laid out the choice he faces. \"I have a big..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Washington Free Beacon",
-        "url": "https://freebeacon.com/trump-administration/best-way-for-trump-to-win-the-midterms-is-to-win-the-war-before-the-election/",
-        "clean_url": "https://freebeacon.com/trump-administration/best-way-for-trump-to-win-the-midterms-is-to-win-the-war-before-the-election",
-        "image": "https://www.bing.com/th?id=ONUT.vRce-01NsCcGZfp2KM5pqA",
-        "timestamp": 1790114608.4105957
-    },
-    {
-        "id": "1e4285c819",
-        "title_fa": "خبر بین‌المللی — MR. TITO: WWE و TKO Should Seriously Consider MOVING Wrestle",
-        "title_en": "MR. TITO: WWE and TKO Should Seriously Consider MOVING WrestleMania 43 Away from Saudi Arabia Due to Safety Concerns",
-        "summary": [
-            "However, I am here to explain why WWE having its #1 show, WrestleMania (or WrestleMania 43) at Riyadh, Saudi Arabia might be..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NoDQ.com",
-        "url": "https://nodq.com/opinions/mr-tito-wwe-and-tko-should-seriously-consider-moving-wrestlemania-43-away-from-saudi-arabia-due-to-safety-concerns/",
-        "clean_url": "https://nodq.com/opinions/mr-tito-wwe-and-tko-should-seriously-consider-moving-wrestlemania-43-away-from-saudi-arabia-due-to-safety-concerns",
-        "image": "https://www.bing.com/th?id=ONUT.kysyoJRaayapHLrQvERXPA",
-        "timestamp": 1790114606.0436676
-    },
-    {
-        "id": "ac1c4d0cf9",
-        "title_fa": "خبر بین‌المللی — Exiled crown prince ایران: We need به 'equip ایرانی people",
-        "title_en": "Exiled crown prince of Iran: We need to 'equip the Iranian people'",
-        "summary": [
-            "Exiled Crown Prince of Iran HRH Reza Pahlavi discusses where the U.S.-Iran conflict currently stands, what he believes is..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "FOX News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/exiled-crown-prince-of-iran-we-need-to-equip-the-iranian-people/vi-AA2cM600?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/exiled-crown-prince-of-iran-we-need-to-equip-the-iranian-people/vi-AA2cM600",
-        "image": "https://www.bing.com/th?id=ONUT.1Qt_fc2f3rv4eWaEIwLrvw",
-        "timestamp": 1790114603.6515613
-    },
-    {
-        "id": "0b2e2f0561",
-        "title_fa": "ترامپ-شی جین: چین بر سر میز مذاکرات",
-        "title_en": "Decoding Trump-Xi",
-        "summary": [
-            "چین پیش از سفر رسمی به واشنگتن موقعیت قوی‌تری دارد",
-            "مذاکرات شامل تجارت، هوش مصنوعی و تایوان می‌شود",
-            "این وضعیت می‌تواند فشار آمریکا بر چین را کاهش دهد"
-        ],
-        "impact": "تقویت موضع چین در مذاکرات، احتمال تغییر سیاست تجاری آمریکا",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html",
-        "clean_url": "https://www.nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html",
-        "image": "https://www.bing.com/th?id=ONUT.cBr8X_R61JlSZiUbSUUDug",
-        "timestamp": 1790114590.0
     }
 ]
