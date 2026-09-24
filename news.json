@@ -1,5 +1,25 @@
 [
     {
+        "id": "86b15d0434",
+        "title_fa": "معمای امنیتی ریاض: پارادوکس مکه",
+        "title_en": "Riyadh’s Security Dilemma And The Mecca Paradox – OpEd",
+        "summary": [
+            "عربستان با تهدیدهای پهپادی حوثی و درخواست حمایت از واشنگتن و تل‌آویو مواجه است",
+            "وابستگی به آمریکا و اسرائیل خطرات جدیدی برای امنیت داخلی ایجاد می‌کند",
+            "مقاله به تضعیف اتحاد تاریخی بین ریاض و غرب اشاره دارد",
+            "پیشنهادها برای تعادل بین استقلال و همکاری‌های امنیتی ارائه می‌شود"
+        ],
+        "impact": "می‌تواند بحث‌های داخلی دربارهٔ سیاست خارجی عربستان را تحریک کند",
+        "tag": "امنیت",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Eurasia Review",
+        "url": "https://www.eurasiareview.com/24092026-riyadhs-security-dilemma-and-the-mecca-paradox-oped/",
+        "clean_url": "https://www.eurasiareview.com/24092026-riyadhs-security-dilemma-and-the-mecca-paradox-oped",
+        "image": "https://www.bing.com/th?id=ONUT.6rJ42Feh_fTPHAMcpQ9rZA",
+        "timestamp": 1790208260.3251667
+    },
+    {
         "id": "9095d797c0",
         "title_fa": "اقتصاددان هشدار: تهدیدهای ترامپ به ایران به آمریکا صدمه می‌زند",
         "title_en": "Economist sounds the alarm as Trump's 'bonkers' threats come home to roost",
@@ -2663,6 +2683,26 @@
         "timestamp": 1790137467.3389893
     },
     {
+        "id": "570e1e7b7b",
+        "title_fa": "جبههٔ جمهوری‌خواهان علیه جنگ ایران",
+        "title_en": "Why a Growing Number of Republicans Are Breaking With Trump on Iran",
+        "summary": [
+            "تعداد بیشتری از کاندیدای جمهوری‌خواه به پایان جنگ با ایران فشار می‌آورند",
+            "مجلس با تصویب قطع‌نامهٔ جدید نشان داد حمایت تازه‌ای از قطع جنگ دارد",
+            "نظرسنجی‌ها حاکی از کاهش دو رقمی حمایت جمهوری‌خواهان از ترامپ در این زمینه است",
+            "ترامپ هم تهدید به «نابود کردن» جمهوری اسلامی کرده اما پیش‌بینی پایان جنگ پس از انتخابات می‌کند"
+        ],
+        "impact": "فشار داخلی بر ترامپ برای تغییر استراتژی نظامی و خطر کاهش حمایت حزبی",
+        "tag": "سیاست داخلی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/09/23/republicans-trump-iran-war-midterms-gas-prices/",
+        "clean_url": "https://time.com/article/2026/09/23/republicans-trump-iran-war-midterms-gas-prices",
+        "image": "http://www.bing.com/th?id=ONUT.d1_qUywhIN3nnjFJYCBMcw&pid=News",
+        "timestamp": 1790134560.0
+    },
+    {
         "id": "2783f13c90",
         "title_fa": "تهران شرایط مذاکرات آمریکا‑ایران را در نیویورک اعلام کرد",
         "title_en": "Tehran sets out terms as US-Iran talks intensify in New York",
@@ -3276,6 +3316,105 @@
         "clean_url": "https://www.eurasiareview.com/23092026-has-trumps-failure-to-bomb-iran-into-capitulation-backfired-prompting-netanyahu-and-mbs-to-pull-washington-in-the-opposite-direction-oped",
         "image": "https://www.bing.com/th?id=ONUT.leTOp_K8QFqg4Amo1whFcg",
         "timestamp": 1790121880.9678874
+    },
+    {
+        "id": "20771c949a",
+        "title_fa": "قضیهٔ ممنوعیت رسانه‌ای ترامپ به دادگاه رسید",
+        "title_en": "Trump's Media Ban on Thin Ice as Judge Raises Red Flags: 'Due Process Wasn't Followed'",
+        "summary": [
+            "قاضی فدرال ادعای عدم رعایت فرآیند قانونی در ممنوعیت سه رسانه از حضور در کاخ سفید را بررسی کرد",
+            "سازمان‌های خبری ادعا می‌کنند این اقدام نقض آزادی مطبوعات است",
+            "دادگاه ممکن است حکم موقت برای بازگشت پاس‌های خبری صادر کند",
+            "این پرونده می‌تواند پیش‌زمینهٔ محدودیت‌های رسانه‌ای در دورهٔ ترامپ باشد"
+        ],
+        "impact": "احتمال بازگشت دسترسی رسانه‌ها به کاخ سفید و کاهش فشار بر آزادی بیان",
+        "tag": "آزادی مطبوعات",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/us/us-news/us-president-donald-trump-press-pool-media-ban-cnn-ms-now-politico-case-ruling-judge-timothy-kelly-article-156212757",
+        "clean_url": "https://www.timesnownews.com/world/us/us-news/us-president-donald-trump-press-pool-media-ban-cnn-ms-now-politico-case-ruling-judge-timothy-kelly-article-156212757",
+        "image": "https://www.bing.com/th?id=ONUT.ObJt3xO_W791Kk0yTP08LA",
+        "timestamp": 1790121821.0
+    },
+    {
+        "id": "e40072eb24",
+        "title_fa": "سناتور هوستد: پایان جنگ اما بدون تسلیم به ایران",
+        "title_en": "Sen. Husted to Newsmax: 'We Need to Be Successful' Against Iran",
+        "summary": [
+            "هوستد خواستار خاتمهٔ جنگ با ایران است اما بر حفظ موضع آمریکا تأکید می‌کند",
+            "او می‌گوید ایران نباید شرایط صلح را تعیین کند",
+            "این موضع نشان می‌دهد فشار دوگانهٔ جمهوری‌خواهان: پایان درگیری و جلوگیری از تسلیم"
+        ],
+        "impact": "تقویت فشار بر مذاکرات صلحی و حفظ موضع سخت‌گیرانهٔ آمریکا",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Newsmax",
+        "url": "https://www.newsmax.com/newsmax-tv/jon-husted-iran-war/2026/09/23/id/1270468/",
+        "clean_url": "https://www.newsmax.com/newsmax-tv/jon-husted-iran-war/2026/09/23/id/1270468",
+        "image": "https://www.bing.com/th?id=ONUT.wIjNEi6M-EJ1wf8pCusR8g",
+        "timestamp": 1790121820.0
+    },
+    {
+        "id": "3d8bac5701",
+        "title_fa": "شی جین‌پینگ با ریل‌پرده به آمریکا می‌رسد",
+        "title_en": "Xi lands in US. Since his last visit, equation has changed. It went China's way",
+        "summary": [
+            "شی جین‌پینگ با مراسم پرزرق و برق به ایالات متحده آمد",
+            "حضور او نشان‌دهندهٔ افزایش فشار چین بر فناوری و زنجیره تأمین است",
+            "این دیدار در زمان تنش‌های آمریکا‑چین و بحران خاورمیانه رخ داد",
+            "آمریکا سعی دارد تعادل قدرت را با مذاکرات چندجانبه حفظ کند"
+        ],
+        "impact": "تقویت موضع چین در مذاکرات تجاری و فناوری",
+        "tag": "چین‑آمریکا",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/xi-jinping-lands-us-donald-trump-red-carpet-washington-summit-china-stronger-tech-trade-leverage-3001636-2026-09-24",
+        "clean_url": "https://www.indiatoday.in/world/story/xi-jinping-lands-us-donald-trump-red-carpet-washington-summit-china-stronger-tech-trade-leverage-3001636-2026-09-24",
+        "image": "https://www.bing.com/th?id=ONUT.S_w_oghZpTFX2jInd56sdw",
+        "timestamp": 1790121820.0
+    },
+    {
+        "id": "9ebf687d17",
+        "title_fa": "نمایندهٔ ترامپ در سخنرانی ایران از جلسه خارج شد",
+        "title_en": "Trump administration delegate exits during Iranian president’s US terrorism claim",
+        "summary": [
+            "نماینده‌ای از دولت ترامپ هنگام اتهام ایران به تروریسم آمریکا، جلسه را ترک کرد",
+            "این اقدام نشانگر تنش‌های دیپلماتیک تازه بین دو کشور است",
+            "ایران ادعا می‌کند آمریکا در عملیات تروریستی دخالت داشته",
+            "خروج نماینده می‌تواند مذاکرات را دشوارتر کند"
+        ],
+        "impact": "کاهش فضای دیپلوماسی و احتمال تشدید تحریم‌ها",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-administration-delegate-exits-during-iranian-president-s-us-terrorism-claim/ar-AA2cRcuI?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-administration-delegate-exits-during-iranian-president-s-us-terrorism-claim/ar-AA2cRcuI",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790121820.0
+    },
+    {
+        "id": "02b80bc0ed",
+        "title_fa": "ایران 30 میلیون نفر را برای دفاع آماده می‌کند",
+        "title_en": "Iran Says 30 Million Ready for Defense, Sets New Terms for Reopening Hormuz",
+        "summary": [
+            "ایران اعلام کرد 30 میلیون شهروند برای دفاع ملی آموزش دیده‌اند",
+            "شرایط جدید برای بازگشایی تنگه هرمز شامل محدودیت‌های بین‌المللی است",
+            "ادعای عدم تخلف هسته‌ای به عنوان پشتوانهٔ فشار دیپلماتیک مطرح شد",
+            "این پیام در پی تنش‌های منطقه‌ای و حضور نظامی آمریکا است"
+        ],
+        "impact": "افزایش توان دفاعی ایران می‌تواند مانع فشارهای نظامی غرب را تقویت کند",
+        "tag": "دفاع",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Palestine Chronicle",
+        "url": "https://www.palestinechronicle.com/iran-says-30-million-ready-for-defense-sets-new-terms-for-reopening-hormuz/",
+        "clean_url": "https://www.palestinechronicle.com/iran-says-30-million-ready-for-defense-sets-new-terms-for-reopening-hormuz",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790121820.0
     },
     {
         "id": "1115114798",
@@ -5232,130 +5371,5 @@
         "clean_url": "https://www.iranintl.com/en/202609237595",
         "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
         "timestamp": 1790096596.0
-    },
-    {
-        "id": "4016b9b1dc",
-        "title_fa": "ایران در اجلاس سازمان ملل در نیویورک شرکت خواهد کرد - حتی در شرایطی که صلح با ایالات متحده همچنان گریزان است",
-        "title_en": "Iran to attend UN assembly in New York — even as peace with US remains elusive",
-        "summary": [
-            "A slimmed-down Iranian delegation is arriving in New York this week for the United Nations General Assembly, as President Donald Trump touts the possibility of “very big things” ahead amid the war in..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-to-attend-un-assembly-in-new-york-even-as-peace-with-us-remains-elusive/ar-AA2cGUfG",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-to-attend-un-assembly-in-new-york-even-as-peace-with-us-remains-elusive/ar-AA2cGUfG",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790096432.0
-    },
-    {
-        "id": "e974418341",
-        "title_fa": "کروبی: اگر شرایط شد، با ترامپ ملاقات کنید",
-        "title_en": "کروبی به پزشکیان: برای صلحی پایدار، اگر شرایط فراهم آمد با ترامپ دیدار کن",
-        "summary": [
-            "کروبی به پزشکیان می‌گوید بحران اقتصادی ناشی از تحریم‌ها باید با گفتگوهای سطح بالا حل شود",
-            "او پیشنهاد می‌کند در صورت بهبود شرایط، رئیس‌جمهور آمریکا را برای مذاکرات صلحی دعوت کند",
-            "این فراخوان نشان می‌دهد برخی جناح‌های اصلاح‌طلب به دنبال راه‌حل دیپلماتیک حتی با رقبای سخت‌گیر هستند"
-        ],
-        "impact": "اگر ملاقات صورت گیرد، فشار دیپلماتیک بر آمریکا برای رفع تحریم‌ها افزایش می‌یابد",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609235494",
-        "clean_url": "https://www.iranintl.com/202609235494",
-        "image": "http://www.bing.com/th?id=ONUT.QbRADFhOuV_BobtKRn8olQ&pid=News",
-        "timestamp": 1790096400.0
-    },
-    {
-        "id": "44f469b1ca",
-        "title_fa": "ترامپ و رودریگز در نشست ونزوئلا پس از بازداشت مادورو",
-        "title_en": "ترامپ و دلسی رودریگز برای نخستین بار پس از بازداشت مادورو دیدار کردند",
-        "summary": [
-            "دیدار نشان می‌دهد ترامپ به جذب سرمایه‌گذاری نفتی ونزوئلا علاقه‌مند است",
-            "رابطه کاری ترامپ با رودریگز می‌تواند فشار بر مخالفان ونزوئلا را تقویت کند",
-            "ترامپ همچنان سیاست فشار حداکثری بر ایران را ادامه می‌دهد و تحریم‌ها را گسترش می‌دهد",
-            "این حرکت می‌تواند تنش‌های منطقه‌ای را بالا ببرد"
-        ],
-        "impact": "تقویت سرمایه‌گذاری نفتی ونزوئلا و تشدید تحریم‌های آمریکا بر ایران",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609234757",
-        "clean_url": "https://www.iranintl.com/202609234757",
-        "image": "http://www.bing.com/th?id=ONUT.q2zbgjbjG5LXyglItsvcoQ&pid=News",
-        "timestamp": 1790096400.0
-    },
-    {
-        "id": "ecc790214b",
-        "title_fa": "سفیر اسرائیل می‌داند رهبران جمهوری اسلامی کجا مخفی‌اند",
-        "title_en": "سفیر اسرائیل در سازمان ملل: اسرائیل می‌داند رهبران جمهوری اسلامی کجا پنهان شده‌اند",
-        "summary": [
-            "سفیر اسرائیل در سازمان ملل ادعا کرد که مکان مخفی رهبران جمهوری اسلامی را می‌داند و می‌تواند در چند روز به آن‌ها دسترسی پیدا کند",
-            "او اشاره کرد مذاکرات میانجیگری با حضور عمان، قطر و پاکستان ادامه دارد اما جزئیات روشن نیست"
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک بین اسرائیل و ایران، احتمال واکنش نظامی سریع",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609238794",
-        "clean_url": "https://www.iranintl.com/202609238794",
-        "image": "http://www.bing.com/th?id=ONUT.F66Ad4HfT3JrU5OAwjvx7Q&pid=News",
-        "timestamp": 1790096400.0
-    },
-    {
-        "id": "b32ce7e928",
-        "title_fa": "وای‌نت: سخنرانی نتانیاهو در مجمع عمومی تا حد زیادی بر جمهوری اسلامی متمرکز خواهد بود",
-        "title_en": "وای‌نت: سخنرانی نتانیاهو در مجمع عمومی تا حد زیادی بر جمهوری اسلامی متمرکز خواهد بود",
-        "summary": [
-            "سایت «وای‌نت» گزارش داد انتظار می‌رود سخنرانی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در مجمع عمومی سازمان ملل تا حد زیادی بر جمهوری اسلامی متمرکز باشد. به گفته دستیاران نتانیاهو، این سخنرانی حاوی..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609237922",
-        "clean_url": "https://www.iranintl.com/202609237922",
-        "image": "http://www.bing.com/th?id=ONUT.6d8PsA4lvCYYUz-kr9Bxdg&pid=News",
-        "timestamp": 1790096400.0
-    },
-    {
-        "id": "c1eaaa8593",
-        "title_fa": "خبر بین‌المللی — Nolan Wells' parents 'not surprised' by grand jury decision",
-        "title_en": "Nolan Wells' parents 'not surprised' by grand jury decision in his death",
-        "summary": [
-            "NBC News' Yasmine Vossoughian talks to Nolan Wells' parents Christine Wells-Wonsley and Elmore Wonsley and their attorney Ben Crump after a grand jury decided not to bring criminal charges in Nolan's..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/video/nolan-wells-parents-not-surprised-by-grand-jury-decision-in-his-death-270336581719",
-        "clean_url": "https://www.nbcnews.com/video/nolan-wells-parents-not-surprised-by-grand-jury-decision-in-his-death-270336581719",
-        "image": "http://www.bing.com/th?id=ONUT.BaiZSJJIisCksGrxrDxPjw&pid=News",
-        "timestamp": 1790096400.0
-    },
-    {
-        "id": "d8cafdf189",
-        "title_fa": "جغرافیای جنگ نامتقارن: حزب‌الله، حوثی‌ها و محدودیت‌های ایده نیابتی",
-        "title_en": "The geography of asymmetric war: Hezbollah, the Houthis and the limits of the proxy idea",
-        "summary": [
-            "In an earlier essay, “To Understand the Houthis, Begin With Yemen”, I argued that describing the Houthis simply as Iranian proxies gets the history backward. The movement did not begin as an Iranian..."
-        ],
-        "impact": "...",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ZNetwork on MSN",
-        "url": "https://www.msn.com/en-us/news/other/the-geography-of-asymmetric-war-hezbollah-the-houthis-and-the-limits-of-the-proxy-idea/ar-AA2cLiNx?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/the-geography-of-asymmetric-war-hezbollah-the-houthis-and-the-limits-of-the-proxy-idea/ar-AA2cLiNx",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790095804.9143507
     }
 ]
