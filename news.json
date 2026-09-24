@@ -36,6 +36,24 @@
         "timestamp": 1790257089.4347737
     },
     {
+        "id": "213cf39ffe",
+        "title_fa": "نتانیاهو در سازمان ملل درباره جنگ ایران-اسرائیل سخن گفت",
+        "title_en": "Watch live: Netanyahu to address UN amis US-Israel war in Iran",
+        "summary": [
+            "نتانیاهو حمایت اسرائیل از عملیات نظامی آمریکا در ایران را اعلام کرد",
+            "سخن او واکنش‌های شدید بین‌المللی برانگیخت و تنش‌های خاورمیانه را تشدید کرد"
+        ],
+        "impact": "تشدید ریسک مواجهه نظامی در منطقه و احتمال اعمال تحریم‌های جدید علیه ایران",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXNhYTBoZmlaSXNHemlTam5ST21fbXBFSGFXd2RrNEdSRFJvQ2NSQnFkUHF5Qndxd1lYRDZTczdjdGVLWGZqV3pheTV4ekx6S3ZhZGpPS3RldDh3YzVFVnY2QUt2dmZsTHpTemg5QlUwaWdlOTFVNHBGbTBUVjMwQl80X215dnJlbWFDa3J1SmRmb0NTQU8xSlltc9IBoAFBVV95cUxPZlJTdGFEYmhySDZUdHlkbm14OGt5Q3VKcjBKR09ubWJFQWNhampwV05VTUNXRGNOZEc0ZlRiLUtGRkhOR2Jqc050OWN1d1Ryd0I5bDRXNmVlZUZrSmVJQ3ByRjNLZGwtcEdoYy12bWY3d3dqb0FZQkhxWVlGQU4xU3JFOGtqNERCcWpBSmthQnZWN1pwZWRySVo0VTE3eUk2?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXNhYTBoZmlaSXNHemlTam5ST21fbXBFSGFXd2RrNEdSRFJvQ2NSQnFkUHF5Qndxd1lYRDZTczdjdGVLWGZqV3pheTV4ekx6S3ZhZGpPS3RldDh3YzVFVnY2QUt2dmZsTHpTemg5QlUwaWdlOTFVNHBGbTBUVjMwQl80X215dnJlbWFDa3J1SmRmb0NTQU8xSlltc9IBoAFBVV95cUxPZlJTdGFEYmhySDZUdHlkbm14OGt5Q3VKcjBKR09ubWJFQWNhampwV05VTUNXRGNOZEc0ZlRiLUtGRkhOR2Jqc050OWN1d1Ryd0I5bDRXNmVlZUZrSmVJQ3ByRjNLZGwtcEdoYy12bWY3d3dqb0FZQkhxWVlGQU4xU3JFOGtqNERCcWpBSmthQnZWN1pwZWRySVo0VTE3eUk2",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790255340.0
+    },
+    {
         "id": "8b5dac9ec9",
         "title_fa": "تجلیل فراموش شده توسط تاریخ",
         "title_en": "Geschichtsvergessene Glorifizierung",
@@ -913,6 +931,24 @@
         "timestamp": 1790232265.3030517
     },
     {
+        "id": "635cdf5fd2",
+        "title_fa": "بازارهای آمریکا به دلیل سودهای دو دهه‌ای اوراق سقوط کردند",
+        "title_en": "US markets point to more losses as Treasury yields hover near two-decade highs, energy prices rise",
+        "summary": [
+            "شاخص‌های اصلی سه‌گانه زیر ۱٪ کاهش یافتند؛ بازده ۱۰‑ساله نزدیک به اوج ۲۰۰۷ شد",
+            "هزینه وام‌گیری برای شرکت‌ها و مصرف‌کنندگان بالا رفت و رشد اقتصادی را کند کرد"
+        ],
+        "impact": "فشار بر سرمایه‌گذاران و احتمال کاهش هزینه‌های شرکت‌ها، رشد اقتصادی را محدود می‌کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/09/24/us-markets-treasury-yields/",
+        "clean_url": "https://www.baltimoresun.com/2026/09/24/us-markets-treasury-yields",
+        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/AP26257517900348.jpg?w=2000&h=1333",
+        "timestamp": 1790229900.0
+    },
+    {
         "id": "98729446d3",
         "title_fa": "خبر بین‌المللی — 'We did not bow our head': ایران's president defies ترامپ's",
         "title_en": "'We did not bow our head': Iran's president defies Trump's annihilation threat at the UN",
@@ -966,6 +1002,76 @@
         "timestamp": 1790228863.0
     },
     {
+        "id": "ca904112b9",
+        "title_fa": "با توجه به نادر بودن اخراج کارگران، مطالبات برای دریافت مزایای بیکاری به 197000 کاهش یافت که کمترین میزان از اواسط ژوئیه است.",
+        "title_en": "Claims for unemployment benefits drop to 197,000, the lowest since mid-July as layoffs remain rare",
+        "summary": [
+            "Fewer people applied for U.S. unemployment benefits last week, as U.S. jobless claims remain at historically low levels as most Americans enjoy job security. The Labor Department said Thursday that..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/09/24/unemployment-benefits-claims-drop/",
+        "clean_url": "https://www.baltimoresun.com/2026/09/24/unemployment-benefits-claims-drop",
+        "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/Unemployment_Benefits_259_1-1.jpg?w=2000&h=1500",
+        "timestamp": 1790228580.0
+    },
+    {
+        "id": "7ffeaf02c3",
+        "title_fa": "استارباکس این هفته 250 فروشگاه خود را در آمریکای شمالی در دومین موج بسته شدن تعطیل می‌کند.",
+        "title_en": "Starbucks to shutter 250 stores in North America this week in 2nd wave of closings",
+        "summary": [
+            "Starbucks plans to close 250 North American stores later this week. Starbucks Chief Operating Officer Mike Grams said the locations targeted either aren’t delivering acceptable financial results or..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/starbucks-close-stores-coffeehouses-6be14000fc4f760d2de78af0294b7695",
+        "clean_url": "https://apnews.com/article/starbucks-close-stores-coffeehouses-6be14000fc4f760d2de78af0294b7695",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790228340.0
+    },
+    {
+        "id": "76d2f64962",
+        "title_fa": "قاضی دسترسی رسانه‌های CNN و Politico به کاخ سفید را احضار کرد",
+        "title_en": "Judge orders White House to restore access to CNN, MS NOW and Politico. Reporters still blocked",
+        "summary": [
+            "قاضی فدرال به‌صورت موقت ممنوعیت ترامپ برای سه رسانه را لغو کرد",
+            "هنوز برخی خبرنگاران مسدودند؛ کشمکش بین قوه قضائیه و اجرایی ادامه دارد"
+        ],
+        "impact": "فشار بر دولت ترامپ برای رعایت آزادی مطبوعات و بازگرداندن دسترسی رسانه‌ها به اطلاعات روز",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/judge-orders-white-house-to-restore-access-to-cnn-ms-now-and-politico/ar-AA2cSd2R",
+        "clean_url": "https://www.msn.com/en-us/news/other/judge-orders-white-house-to-restore-access-to-cnn-ms-now-and-politico/ar-AA2cSd2R",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790228145.0
+    },
+    {
+        "id": "80a21c04be",
+        "title_fa": "هشت نفر از خدمه ناو ایبراهیم لینکلن خودکشی کردند",
+        "title_en": "Navy says 8 USS Abraham Lincoln strike group sailors attempted suicide",
+        "summary": [
+            "در طولانی‌ترین استقرار ناو، فشارهای روانی خدمه منجر به هشت تلاش خودکشی شد",
+            "نیروی دریایی برای بررسی حمایت‌های سلامت روانی و جلوگیری از تکرار این حوادث اقدام می‌کند"
+        ],
+        "impact": "کاهش توان عملیاتی ناو و فشار بر سیاست‌های سلامت روانی نظامی",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "UPI on MSN",
+        "url": "https://www.msn.com/en-us/news/other/navy-says-8-uss-abraham-lincoln-strike-group-sailors-attempted-suicide/ar-AA2cTeHr",
+        "clean_url": "https://www.msn.com/en-us/news/other/navy-says-8-uss-abraham-lincoln-strike-group-sailors-attempted-suicide/ar-AA2cTeHr",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790227743.0
+    },
+    {
         "id": "54414193ab",
         "title_fa": "خبر بین‌المللی — This is why ترامپ’s summit with چین’s Xi could not be worse",
         "title_en": "This is why Trump’s summit with China’s Xi could not be worse timed",
@@ -998,6 +1104,24 @@
         "clean_url": "https://www.iranintl.com/202609249243",
         "image": "http://www.bing.com/th?id=ONUT.iLVLsZEt4kkaQgewLh_mzg&pid=News",
         "timestamp": 1790226780.0
+    },
+    {
+        "id": "8962fd914e",
+        "title_fa": "ترامپ درباره خطرات هوش مصنوعی هشدار داد",
+        "title_en": "When it comes to AI, President Trump is on the case! Lord help us.",
+        "summary": [
+            "نویسنده به نگرانی‌های عمومی درباره استفاده نظامی و اجتماعی هوش مصنوعی اشاره کرد",
+            "شرکت‌های پیشرو درخواست تنظیم قوانین ایمنی برای جلوگیری از سوءاستفاده‌های احتمالی کرده‌اند"
+        ],
+        "impact": "افزایش فشار بر قانون‌گذاران برای وضع چارچوب‌های نظارتی بر هوش مصنوعی",
+        "tag": "فناوری",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/09/24/metro/alarming-news-on-ai-and-trumps-response-to-it/",
+        "clean_url": "https://www.bostonglobe.com/2026/09/24/metro/alarming-news-on-ai-and-trumps-response-to-it",
+        "image": "http://www.bing.com/th?id=ONUT.ormO2anPHNoYLjj8FcRD5A&pid=News",
+        "timestamp": 1790226360.0
     },
     {
         "id": "ee9f0f69d7",
@@ -1390,6 +1514,23 @@
         "timestamp": 1790211600.0
     },
     {
+        "id": "e4d04f9ac7",
+        "title_fa": "رهبر گروه محافظه‌کار حقیقت ناخوشایند درباره جمهوری‌خواهان را به صورت زنده در CNN اعلام کرد",
+        "title_en": "Conservative Group Leader Drops Awkward Truth About Republicans Live On CNN",
+        "summary": [
+            "The American Principles Project’s Terry Schilling spelled out a trust issue that voters have with the GOP under Donald Trump."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/terry-schilling-donald-trump-economy_n_6ab4becbe4b07f4bd7959ef1",
+        "clean_url": "https://www.huffpost.com/entry/terry-schilling-donald-trump-economy_n_6ab4becbe4b07f4bd7959ef1",
+        "image": "http://www.bing.com/th?id=ONUT.5qVtL787_8nNpuJSF_VhBw&pid=News",
+        "timestamp": 1790211540.0
+    },
+    {
         "id": "71afc21e24",
         "title_fa": "ترامپ looks جهانی directly در eye over ایران جنگ",
         "title_en": "Trump looks world directly in the eye over the Iran war",
@@ -1625,6 +1766,23 @@
         "clean_url": "https://www.iranintl.com/en/202609243172",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/5fb49010835cbc7b8d9b7e92aa47f68c468690ac-4539x3026.jpg?rect=0,322,4539,2383&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1790204460.0
+    },
+    {
+        "id": "e21204abdc",
+        "title_fa": "ترامپ با مخالفت 92 درصدی در مورد اصلی گروه رای دهنده کلیدی: \"اعماق جهنم\" می‌بیند.",
+        "title_en": "Trump sees 92% disapproval on top issue with key voting group: ‘Deep depths of hell’",
+        "summary": [
+            "Enten then explained that the downward shift is even greater among pure independents when it comes to the economy. In the fall of 2024, Trump had a 22-percentage-point edge over Harris on the issue —..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "mlive",
+        "url": "https://www.mlive.com/politics/2026/09/trump-sees-92-disapproval-on-top-issue-with-key-voting-group-deep-depths-of-hell.html",
+        "clean_url": "https://www.mlive.com/politics/2026/09/trump-sees-92-disapproval-on-top-issue-with-key-voting-group-deep-depths-of-hell.html",
+        "image": "http://www.bing.com/th?id=ONUT.-_78hRqtXsiq8eZxQbEbJg&pid=News",
+        "timestamp": 1790204220.0
     },
     {
         "id": "a3b8bc3b7c",
@@ -2975,6 +3133,74 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGVwQTd0TVh0YW5rbU5EQWo3QkVXYk9BWE0wZG5XLVZjZEgxdjBndURxZEFnQmo3aFR6Vk1oSlpiUFFmUXl0S3lUd1NvOGFXNnA0UmJmLVhXRE1pS01hMkkzTUl0ZGZJTVhVclRadnRkclVXUjlBbUctZkhzMFB1RTlvenlhWVp4NEZVVUd5cE44WTNONG5JSXQ0QUY4Q2pkRVYyX3BUVmVCdEMwSmfSAbMBQVVfeXFMTlNKMmxzYVBqRnY3Q0p4QUQ0eUp2cXZlTkxFNDNIeVpuWEY2TVNCYjN6ODBBZkNJU21tN2xRbHdsd0duWUJ3Y3ZsQ3B6cFVTSC1hRWJEck44VnVUczZtVEtiVXRQX3UzNkFuWmJLeUVCeURNVHlrWl9PUm1oZ0IyNThuSS1oTkRsbkN0akpJVFk2TndvbUNzOUg5VFlfZkdqZk0ySjNwMENzeGZNazhpcXpsSUk",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790172029.0
+    },
+    {
+        "id": "faac8aab19",
+        "title_fa": "نتانیاهو برای سخنرانی در سازمان ملل و سایر تحولات خاورمیانه وارد نیویورک می‌شود",
+        "title_en": "Netanyahu arrives in New York to address the UN, and other Mideast developments",
+        "summary": [
+            "Israel’s increasingly isolated Prime Minister Benjamin Netanyahu has arrived in New York to address the United Nations General Assembly, but no meeting with U.S. President Donald Trump is planned."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "East Bay Times",
+        "url": "https://www.eastbaytimes.com/2026/09/24/netanyahu-un-mideast-news/",
+        "clean_url": "https://www.eastbaytimes.com/2026/09/24/netanyahu-un-mideast-news",
+        "image": "https://www.eastbaytimes.com/wp-content/uploads/2026/09/Israel_Politics_3_251-1.jpg?w=3000&h=2000",
+        "timestamp": 1790171518.0
+    },
+    {
+        "id": "fa8cf3bc0c",
+        "title_fa": "آیا تصاحب شعب بانک مصر امارات به بحران پایان می‌دهد؟",
+        "title_en": "Will the takeover of Banque Misr UAE branches end the crisis?",
+        "summary": [
+            "Egypt moves to transfer Banque Misr branches to National Bank amid US sanctions and allegations involving Iranian-linked..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/will-banque-misr-uae-branches-takeover-end-us-sanctions-crisis",
+        "clean_url": "https://www.newarab.com/news/will-banque-misr-uae-branches-takeover-end-us-sanctions-crisis",
+        "image": "https://www.bing.com/th?id=ONUT.ocmbt8c1lPGPMIgYwDe7wQ",
+        "timestamp": 1790171518.0
+    },
+    {
+        "id": "53e070d111",
+        "title_fa": "دموکرات‌های آمریکا در حالی که برخی از جمهوری‌خواهان از ترامپ درباره ایران جدا می‌شوند، قدرت‌های جنگ پیش از انتخابات را به‌هم می‌ریزند",
+        "title_en": "US Democrats tee up pre-election war powers vote as some Republicans break with Trump on Iran",
+        "summary": [
+            "WASHINGTON ― The US Senate could vote as soon as Thursday to tell President Donald Trump to end the war in Iran or get Congress' authorization to continue it, as Democrats tee up a vote on the..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2026/09/24/us-democrats-pre-election-war-powers-vote-some-republicans-break-with-trump-on-iran/91917113007/",
+        "clean_url": "https://www.usatoday.com/story/news/politics/2026/09/24/us-democrats-pre-election-war-powers-vote-some-republicans-break-with-trump-on-iran/91917113007",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/03/PDTN/90394113007-20260603-t-181203-z-1938471263-rc-2-hmlaafhb-8-rtrmadp-3-usacongress.JPG?crop=5652,3180,x0,y376&width=3200&height=1801&format=pjpg&auto=webp",
+        "timestamp": 1790171518.0
+    },
+    {
+        "id": "187baffdd5",
+        "title_fa": "پرواز ایران به مقصد تاجیکستان به دلیل تحریم‌های آمریکا مجبور به بازگشت شد",
+        "title_en": "Tajikistan-bound Iranian flight forced to return due to US sanctions",
+        "summary": [
+            "An Iranian passenger plane travelling to Tajikistan was forced to turn back mid-flight because Turkmenistan did not grant it authorization to transit its airspace amid the threat of US sanctions,..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/tajikistan-bound-iranian-flight-forced-124833933.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/tajikistan-bound-iranian-flight-forced-124833933.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/d740f60098e8d8e29c5872762931d44865112a679c8c78438d95f1da0a2c4231/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4e27b6719633d37a34cb57de3ba18765.jpg",
+        "timestamp": 1790171518.0
     },
     {
         "id": "c9ad09da28",
@@ -4457,6 +4683,24 @@
         "timestamp": 1790158924.0
     },
     {
+        "id": "197231575b",
+        "title_fa": "مسئولان سنای ویرجینیا درباره سیل و هزینه‌ها می‌پرسند",
+        "title_en": "Virginia Senate race: Bert Mizusawa and Mark Warner on flooding and affordability",
+        "summary": [
+            "بارت میزوساوا تجربه هلند در مقابله با سیل را به عنوان الگو مطرح کرد",
+            "مارک وارنر بر ضرورت سیاست‌های فدرال برای کاهش هزینه‌های زندگی تأکید کرد"
+        ],
+        "impact": "شکل‌گیری جهت‌گیری سیاست‌های زیربنایی و سرمایه‌گذاری در مقابله با تغییرات آب‌وهوایی در ویرجینیا",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Daily Press",
+        "url": "https://www.dailypress.com/2026/09/23/mizusawa-warner-senate-election/",
+        "clean_url": "https://www.dailypress.com/2026/09/23/mizusawa-warner-senate-election",
+        "image": "http://www.bing.com/th?id=ONUT.OZ_Z6YiFtz2N94zok4I3bQ&pid=News",
+        "timestamp": 1790158920.0
+    },
+    {
         "id": "c2c8c4003d",
         "title_fa": "OECD پیش بینی رشد اقتصادی ترکیه را در بحبوحه جنگ ایران و افزایش قیمت‌ها به پایین ترین نرخ از سال 2020 کاهش داد.",
         "title_en": "OECD cuts Turkish economic growth forecast to lowest rate since 2020 amid Iran war, rising prices",
@@ -5065,259 +5309,5 @@
         "clean_url": "https://www.dailynews.com/2026/09/23/republicans-midterm-election-spending",
         "image": "https://www.dailynews.com/wp-content/uploads/2026/09/Election_2_26_Republicans_53944_118b00-1.jpg?w=2000&h=1333",
         "timestamp": 1790154120.0
-    },
-    {
-        "id": "817a2953b4",
-        "title_fa": "خبر بین‌المللی — Three Jerusalem minors arrested over synagogue attacks after",
-        "title_en": "Three Jerusalem minors arrested over synagogue attacks after Reform temple repeatedly vandalized",
-        "summary": [
-            "Police do not name the synagogue, but the arrests follow repeated incidents of vandalism against Baka's Reform Kol HaNeshama congregation. On Sunday night, during Yom Kippur, unidentified assailants tore through a window screen at the synagogue and threw a glass plate into the building, where it shattered."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/three-jerusalem-minors-arrested-over-synagogue-attacks-after-reform-temple-repeatedly-vandalized/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/three-jerusalem-minors-arrested-over-synagogue-attacks-after-reform-temple-repeatedly-vandalized",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790154120.0
-    },
-    {
-        "id": "c40631be61",
-        "title_fa": "پزشکیان ایران در سازمان ملل به ترامپ چالش کرد",
-        "title_en": "Iranian President Pezeshkian Challenges Trump At The UN, Says Tehran Seeks 'No One's Permission' To Defend Itself.",
-        "summary": [
-            "پزشکیان در جلسه مجمع عمومی سازمان ملل به ترامپ گفت: ایران برای دفاع از خود به قدرت نیاز دارد.",
-            "این بیانیه نشان می‌دهد تهران آماده مقابله با فشارهای آمریکا است و ممکن است مذاکرات تحریمی را سخت‌تر کند."
-        ],
-        "impact": "بیان استقلال دفاعی ایران می‌تواند موضع‌گیری آمریکا را در مذاکرات تحریم تغییر دهد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "International Business Times on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iranian-president-pezeshkian-challenges-trump-at-the-un-says-tehran-seeks-no-ones-permission-to-defend-itself/ar-AA2cPv1x?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/iranian-president-pezeshkian-challenges-trump-at-the-un-says-tehran-seeks-no-ones-permission-to-defend-itself/ar-AA2cPv1x",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790153760.0
-    },
-    {
-        "id": "2df048001a",
-        "title_fa": "خبر بین‌المللی — ایران's president tells UN his country 'must be powerful so",
-        "title_en": "Iran's president tells UN his country 'must be powerful so as to avoid being threatened'",
-        "summary": [
-            "Masoud Pezeshkian began his brief address by saying that he had planned to deliver different remarks before hearing President Donald Trump's speech Tuesday."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/irans-president-speaks-at-un-general-assembly-after-trump-threatens-annihilation/ar-AA2cPqh4",
-        "clean_url": "https://www.msn.com/en-us/news/other/irans-president-speaks-at-un-general-assembly-after-trump-threatens-annihilation/ar-AA2cPqh4",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790153711.0
-    },
-    {
-        "id": "ade34bcf91",
-        "title_fa": "رئیس‌جمهور ایران فرصت نادری برای اظهار نظر در جهان پیدا می‌کند",
-        "title_en": "Iran’s President Gets Rare Opportunity to Make His Case to the World",
-        "summary": [
-            "Iran’s President Gets Rare Opportunity to Make His Case to the World WSJ"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU5rbGNnLUcySzFuclhGRUtyMm1tN2dfRU5SNEFtcWxxYTlZUzFBWEIyVWxCdEN1ZmF4NHFHclJOcm5jeTIya2xESkJ3aW1QX1R0WVQ5ZElXUTN4emFJeGlSNHhBWTZiVGxmbVU0UHhoaU9naXlsMlZZRVE0QUo2STh2R2ZvY3h2SFQxLVhuckp2Q0Ruc3F0STNBMVlZcmRSbVc5SldRUzE2UG5sNjJsYkdUYzI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU5rbGNnLUcySzFuclhGRUtyMm1tN2dfRU5SNEFtcWxxYTlZUzFBWEIyVWxCdEN1ZmF4NHFHclJOcm5jeTIya2xESkJ3aW1QX1R0WVQ5ZElXUTN4emFJeGlSNHhBWTZiVGxmbVU0UHhoaU9naXlsMlZZRVE0QUo2STh2R2ZvY3h2SFQxLVhuckp2Q0Ruc3F0STNBMVlZcmRSbVc5SldRUzE2UG5sNjJsYkdUYzI",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790153552.0
-    },
-    {
-        "id": "5860b1b479",
-        "title_fa": "رئیس‌جمهور ایران: در برابر تهدیدهای آمریکا خم نمی‌شویم",
-        "title_en": "Iran’s president warns Trump it will not ‘bend at the knee’",
-        "summary": [
-            "در سخنرانی خود به سازمان ملل گفت که ایران در برابر تهدیدهای آمریکا و اسرائیل خم نمی‌شود",
-            "ایالات متحده و اسرائیل را «تروریست» نامید",
-            "بیانیه نشان‌دهنده تند شدن خط‌مشی دیپلماتیک تهران است"
-        ],
-        "impact": "بیانیه ایران احتمالاً مانع هرگونه پیشرفت دیپلماتیک کوتاه‌مدت می‌شود",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/09/23/irans-president-warns-trump-it-will-not-bend-at-the-knee-01089425",
-        "clean_url": "https://www.politico.com/news/2026/09/23/irans-president-warns-trump-it-will-not-bend-at-the-knee-01089425",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790153400.0
-    },
-    {
-        "id": "6b74c82674",
-        "title_fa": "ترامپ در سازمان ملل: انتخاب بین توافق یا نابودی",
-        "title_en": "At UN, Trump Presents Iran Choice: Deal or Destruction; Israel Reacts to Podium Attacks By Guterres, Macron",
-        "summary": [
-            "ترامپ در جلسه مجمع جهانی شدگان، ایران را بین توافق یا نابودی قرار داد",
-            "اسرائیل به این سخنرانی واکنش شدیدی نشان داد و فشار بر ایران را تقویت کرد",
-            "پیام ترامپ می‌تواند فشار دیپلماتیک و تحریم‌های جدید را به دنبال داشته باشد"
-        ],
-        "impact": "تحریم‌های جدید آمریکا علیه ایران احتمالاً گسترش می‌یابد",
-        "tag": "سیاست",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "cbn.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcExTcGJMX3hNTHRXVlNaZ1l3V05ndEdZR2Y4UUh6cExLb0dXaFM1ODJmbUtmY2I5VEpYV2dHRW5UU3h1c296QWVpRThFcDZieDFhRlg3Zm5LeXFMUndaeDVtaG9oUEtUd1J3SVdSMmlVb0loRmo0Zmh5bjR3QmEtUkFxeUExTHE5eEhBX1VPd3F6Y09LSEhnaTVXSmJ0dmJBMjVuYXh1YklyLUpGU2FCdVkzQzN2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcExTcGJMX3hNTHRXVlNaZ1l3V05ndEdZR2Y4UUh6cExLb0dXaFM1ODJmbUtmY2I5VEpYV2dHRW5UU3h1c296QWVpRThFcDZieDFhRlg3Zm5LeXFMUndaeDVtaG9oUEtUd1J3SVdSMmlVb0loRmo0Zmh5bjR3QmEtUkFxeUExTHE5eEhBX1VPd3F6Y09LSEhnaTVXSmJ0dmJBMjVuYXh1YklyLUpGU2FCdVkzQzN2UQ",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790153101.0
-    },
-    {
-        "id": "d25ec2245a",
-        "title_fa": "خبر بین‌المللی — ترامپ’s ایران threat raises stakes as diplomacy takes shape",
-        "title_en": "Trump’s Iran threat raises stakes as diplomacy takes shape at UN",
-        "summary": [
-            "Trump’s Iran threat raises stakes as diplomacy takes shape at UN The Arab Weekly"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Arab Weekly",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFpZaTZDZ0lHbTQ5THBkWWNzNVZYMUNWTG1MZThiUUN5VkNjWTdSRWNyRy1LdGJ6Ti1vOWIyenZXRHF1emlaR0FWRXdEOWN2V1loRHR1Sm02NW9Wa1k0RDIxRGROOGNxcUhnQmRLdWs5ZGZtU3hoUXpDVkMwQ1BSVVdaNm1zZFlSS1FJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFpZaTZDZ0lHbTQ5THBkWWNzNVZYMUNWTG1MZThiUUN5VkNjWTdSRWNyRy1LdGJ6Ti1vOWIyenZXRHF1emlaR0FWRXdEOWN2V1loRHR1Sm02NW9Wa1k0RDIxRGROOGNxcUhnQmRLdWs5ZGZtU3hoUXpDVkMwQ1BSVVdaNm1zZFlSS1FJ",
-        "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790153032.0
-    },
-    {
-        "id": "cb2fcdd4fd",
-        "title_fa": "ترامپ در سخنرانی UN تهدید به نابودی ایران",
-        "title_en": "\"Trump touts being a peacemaker\": MS NOW goes viral for onscreen text during Trump's U.N. address",
-        "summary": [
-            "ترامپ خود را صلح‌جو می‌نامد اما همزمان به «نابودی» ایران اشاره کرد",
-            "این حرف فشار دیپلماتیک بر ایران را بالا می‌برد",
-            "واکنش جهانی می‌تواند تنش‌های منطقه‌ای را تشدید کند"
-        ],
-        "impact": "افزایش فشار سیاسی و احتمال تشدید تحریم‌ها علیه ایران",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "PRIMETIMER",
-        "url": "https://www.primetimer.com/features/trump-touts-being-a-peacemaker-ms-now-goes-viral-for-onscreen-text-during-trumps-u-n-address",
-        "clean_url": "https://www.primetimer.com/features/trump-touts-being-a-peacemaker-ms-now-goes-viral-for-onscreen-text-during-trumps-u-n-address",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790152684.0
-    },
-    {
-        "id": "438aa7401a",
-        "title_fa": "ترامپ کشورهای عضو ICC را ترک کردن می‌طلبد",
-        "title_en": "Europe today: Trump tells countries to quit ICC, EU defence chief speaks to Euronews",
-        "summary": [
-            "ترامپ از همه کشورها خواست که از دادگاه بین‌المللی کیفری خارج شوند",
-            "این گام نشان می‌دهد که آمریکا و متحدانش از مسئولیت‌های بین‌المللی فرار می‌کنند",
-            "رئیس دفاع اروپا به یورونوز گفت که این تصمیم می‌تواند همبستگی نظامی اروپا را تحت فشار بگذارد"
-        ],
-        "impact": "تضعیف مشروعیت ICC و ایجاد تنش در روابط بین‌المللی",
-        "tag": "قضایی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Euronews on MSN",
-        "url": "https://www.msn.com/en-us/news/other/europe-today-trump-tells-countries-to-quit-icc-eu-defence-chief-speaks-to-euronews/ar-AA2cSfGV?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/europe-today-trump-tells-countries-to-quit-icc-eu-defence-chief-speaks-to-euronews/ar-AA2cSfGV",
-        "image": "https://www.bing.com/th?id=ONUT.USuP9YblfoicayQWUhZr1g",
-        "timestamp": 1790152684.0
-    },
-    {
-        "id": "c7a348e609",
-        "title_fa": "خبر بین‌المللی — ترامپ threatens ایران as fuel protests loom ahead Budget 20",
-        "title_en": "Trump threatens Iran as fuel protests loom ahead of Budget 2027",
-        "summary": [
-            "US president Donald Trump threatening to “annihilate” Iran and “drive them into hell”; Turkish president Recep Tayyip Erdogan saying Gaza has become “the most inhuman and shameful concentration camp..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/politics/2026/09/23/trump-threatens-iran-as-fuel-protests-loom-ahead-of-budget-2027/",
-        "clean_url": "https://www.irishtimes.com/politics/2026/09/23/trump-threatens-iran-as-fuel-protests-loom-ahead-of-budget-2027",
-        "image": "https://www.irishtimes.com/resizer/v2/NCUDLFGTWA227EEP2K2JZWJDXQ.jpg?smart=true&auth=661a0739b02686ac9afa31b8e60b1281a95e5b0932cc9b1df6c56b2649989075&width=1200&height=630",
-        "timestamp": 1790152654.9039655
-    },
-    {
-        "id": "2df373d852",
-        "title_fa": "خبر بین‌المللی — Yemen's حوثی rebels shook up Mideast with a sudden blitz. ا",
-        "title_en": "Yemen's Houthi rebels shook up the Mideast with a sudden blitz. Iran helped,...",
-        "summary": [
-            "It took Houthi rebels less than 48 hours to seize Yemen's Red Sea coast from pro-government forces..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Associated Press · via Yahoo News",
-        "url": "https://www.yahoo.com/news/world/articles/yemens-houthi-rebels-shook-mideast-081737132.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/yemens-houthi-rebels-shook-mideast-081737132.html",
-        "image": "https://media.zenfs.com/en/ap.org/2bc8a2653aecf7b5d50f1fa46b9283be.jpg",
-        "timestamp": 1790151441.0
-    },
-    {
-        "id": "c699a0eff9",
-        "title_fa": "مذاکرات ایران‑آمریکا در سازمان ملل و ادامه محاصره هرمز",
-        "title_en": "Iran, US end UN talks still divided as Hormuz blockade continues",
-        "summary": [
-            "ترامپ در مجمع عمومی سازمان ملل تهدید به اقدام نظامی علیه ایران کرد",
-            "پژوهشی استفاده از زور را رد کرد و گفت دیپلماسی تنها راه حل است",
-            "ایالات متحده مسدودیت درگاه‌های هرمز را ادامه داد و نفت ایران همچنان از این مسیر عبور می‌کند"
-        ],
-        "impact": "ادامه مسدودیت هرمز و تهدید نظامی آمریکا فشار اقتصادی و امنیتی بر ایران را تشدید می‌کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609247510",
-        "clean_url": "https://www.iranintl.com/en/202609247510",
-        "image": "http://www.bing.com/th?id=ONUT.yjmcoDmwxHOSmrMh3b5A8w&pid=News",
-        "timestamp": 1790151000.0
-    },
-    {
-        "id": "8ea6432516",
-        "title_fa": "سخنرانی پرتنش ایران در مجمع عمومی؛ ایالات متحده خروج کرد",
-        "title_en": "US delegation walks out as Iran’s president angrily responds to Trump at UN",
-        "summary": [
-            "مسعود پزشکین در مجمع عمومی سازمان ملل آمریکا و اسرائیل را متهم به «تروریسم» کرد",
-            "پس از اتهام‌ها، هیئت آمریکایی سالن را ترک کرد",
-            "او تأکید کرد ایران فقط دفاع می‌کند و هدفش انرژی هسته‌ای صلح‌آمیز است",
-            "این برخورد نشان‌دهنده تشدید تنش‌های دیپلماتیک بین دو کشور است"
-        ],
-        "impact": "کاهش فضای دیپلماتیک در سازمان ملل، احتمال تضعیف مذاکرات هسته‌ای",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/us/2026/09/23/us-delegation-walks-out-as-irans-president-angrily-responds-to-trump-at-un/",
-        "clean_url": "https://www.irishtimes.com/world/us/2026/09/23/us-delegation-walks-out-as-irans-president-angrily-responds-to-trump-at-un",
-        "image": "https://www.irishtimes.com/resizer/v2/LSJ4SXTKLFNLY5AGJAUYPZEYGE.jpg?smart=true&auth=504fc70d6f75189df3c8b6061b0fc8ad7dd4fa3825876914016d57e440174e21&width=1200&height=630",
-        "timestamp": 1790150760.0
-    },
-    {
-        "id": "088e14b8f9",
-        "title_fa": "هانی‌تی به اد شیرن حملهٔ انتقادی",
-        "title_en": "Fox News' Sean Hannity launches into Ed Sheeran rant as he slams 'Israel-trashing woke mob'",
-        "summary": [
-            "هانی‌تی اد شیرن را به «mob بیدادگر» متهم کرد",
-            "این اتهام در فضای رسانه‌ای آمریکا واکنش‌های تند ایجاد کرد",
-            "هیچ ارتباطی به سیاست خارجی یا ایران وجود ندارد"
-        ],
-        "impact": "بحث رسانه‌ای درباره آزادی بیان در ایالات متحده تشدید شد",
-        "tag": "فرهنگ",
-        "urgency": 2,
-        "sentiment": -0.1,
-        "source": "Irish Star on MSN",
-        "url": "https://www.msn.com/en-us/entertainment/celebrities/fox-news-sean-hannity-launches-into-ed-sheeran-rant-as-he-slams-israel-trashing-woke-mob/ar-AA2cNs0O?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/entertainment/celebrities/fox-news-sean-hannity-launches-into-ed-sheeran-rant-as-he-slams-israel-trashing-woke-mob/ar-AA2cNs0O",
-        "image": "https://www.bing.com/th?id=ONUT.MPu8FMYjuz7_7YFgy7Ua6A",
-        "timestamp": 1790150600.5191085
     }
 ]
