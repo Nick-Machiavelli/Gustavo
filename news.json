@@ -1,5 +1,23 @@
 [
     {
+        "id": "282330d126",
+        "title_fa": "بی‌تفاوتی جهان نسبت به غزه در اجلاس عمومی سازمان ملل",
+        "title_en": "Indifference, the view from Gaza on the UN General Assembly amid Israel's genocidal war",
+        "summary": [
+            "نمایندگان جهانی در نیویورک از درد روزانه مردم غزه جدا شده‌اند",
+            "حضور نتانیاهو در جلسه، در حالی که توسط دیوان بین‌المللی جنایت‌کار شناخته شده، نشان‌دهنده بی‌توجهی به عدالت است"
+        ],
+        "impact": "عدم توجه بین‌المللی به غزه، فشار دیپلماتیک کمتر برای پایان جنگ",
+        "tag": "سیاست خارجی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/indifference-view-gaza-unga-amid-israels-genocide",
+        "clean_url": "https://www.newarab.com/news/indifference-view-gaza-unga-amid-israels-genocide",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2237524177.jpeg?itok=8r7W-B3n",
+        "timestamp": 1790236998.9302967
+    },
+    {
         "id": "ed5c13cbd2",
         "title_fa": "خبر بین‌المللی — ایران, US remain divided در جنگ as diplomacy struggles به ga",
         "title_en": "Iran, US remain divided on war as diplomacy struggles to gain ground",
@@ -609,6 +627,24 @@
         "clean_url": "https://www.rawstory.com/nicolle-wallace-trump-2677925735",
         "image": "https://www.bing.com/th?id=ONUT.VT4GH8JknFwknCz1NBhfWg",
         "timestamp": 1790204573.9759326
+    },
+    {
+        "id": "a3b8bc3b7c",
+        "title_fa": "ایران کارنی را به کم‌اهمیت‌کردن تهدید آمریکا متهم کرد",
+        "title_en": "Iran accuses Canada’s Carney of downplaying US threat to ‘annihilate’ Iran",
+        "summary": [
+            "سخنگوی وزارت خارجه ایران، کارنی را به تسکین واشنگتن و کم‌اهمیت‌کردن خطر نابودی ایران متهم کرد",
+            "او گفت هر کشوری که به زبان جنگ آمریکا گوش دهد، سرانجام در برابر زور آمریکا بی‌پناه می‌شود"
+        ],
+        "impact": "تنش دیپلماتیک ایران‑کانادا افزایش یافت، احتمال اعمال تحریم‌های جدید",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609240969",
+        "clean_url": "https://www.iranintl.com/en/202609240969",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790203740.0
     },
     {
         "id": "fec604a547",
@@ -3285,6 +3321,24 @@
         "timestamp": 1790150600.5191085
     },
     {
+        "id": "04fd505679",
+        "title_fa": "سه نکته کلیدی برای زندگی دانشگاهی موفق",
+        "title_en": "Tips for a fulfilling and memorable college life",
+        "summary": [
+            "رشد شخصی از طریق مواجهه با چالش‌های تحصیلی",
+            "استفاده هوشمندانه از زمان، تعادل بین درس و تفریح"
+        ],
+        "impact": "بهبود عملکرد تحصیلی و رضایت شخصی دانشجو",
+        "tag": "تحصیل",
+        "urgency": 1,
+        "sentiment": 0.2,
+        "source": "Caitlyn Kumi on MSN",
+        "url": "https://www.msn.com/en-us/money/personalfinance/tips-for-a-fulfilling-and-memorable-college-life/vi-AA1XmeoH?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/personalfinance/tips-for-a-fulfilling-and-memorable-college-life/vi-AA1XmeoH",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790150593.0
+    },
+    {
         "id": "a4e3cbcb66",
         "title_fa": "خبر بین‌المللی — Pezeshkian hits back at ترامپ, says ایران is 'victim terror",
         "title_en": "Pezeshkian hits back at Trump, says Iran is 'victim of terrorism'",
@@ -5324,62 +5378,5 @@
         "clean_url": "https://monocle.com/affairs/diplomacy/new-york-united-nations-general-assembly",
         "image": "https://www.bing.com/th?id=ONUT.KoYakJXmOEEWhFmATwgWiw",
         "timestamp": 1790120027.1811202
-    },
-    {
-        "id": "8054ec7f61",
-        "title_fa": "کاندیداهای جمهوری‌خواه از جنگ ایران مخالف ترامپ می‌پرهیزند",
-        "title_en": "GOP candidates break with Trump on unpopular Iran war",
-        "summary": [
-            "نمایندگان جمهوری‌خواه ایوا در برابر جنگ ایران که ترامپ پیش‌نهاد کرده، مخالفت کردند.",
-            "آن‌ها خواستار بازگشت فوری مجلس برای بررسی گزینه‌های دیپلماتیک شدند.",
-            "این جدایی نشان می‌دهد فشار داخلی بر ترامپ برای گسترش عملیات نظامی در خاورمیانه در حال کاهش است."
-        ],
-        "impact": "کاهش حمایت حزبی می‌تواند برنامه‌های نظامی ترامپ علیه ایران را به تعویق بیندازد.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "YouTube on MSN",
-        "url": "https://www.msn.com/en-us/news/other/gop-candidates-break-with-trump-on-unpopular-iran-war/vi-AA2cQPZp?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/gop-candidates-break-with-trump-on-unpopular-iran-war/vi-AA2cQPZp",
-        "image": "https://www.bing.com/th?id=ONUT.AlzUj9IMY3wwDrCBoL4T8g",
-        "timestamp": 1790119948.0
-    },
-    {
-        "id": "1b6e62f963",
-        "title_fa": "ترامپ به شی جین‌پینگ خوش‌آمد می‌گوید؛ انتقادات کنگره سرسخت",
-        "title_en": "Trump is giving China's Xi a warm welcome. But criticism is loud on Capitol Hill",
-        "summary": [
-            "ترامپ در دیدار با شی جین‌پینگ پیام دوستی ارسال کرد، در حالی که کنگره به شدت انتقاد می‌کند.",
-            "منتقدان می‌گویند این رفتار به چین امتیاز می‌دهد و منافع استراتژیک آمریکا را به خطر می‌اندازد.",
-            "فشار کنگره می‌تواند مانع از ادامه روابط نزدیک ترامپ با چین شود."
-        ],
-        "impact": "اگر کنگره واکنش قوی نشان دهد، سیاست‌های تجاری و امنیتی آمریکا نسبت به چین ممکن است تغییر کند.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Advocate",
-        "url": "https://www.stamfordadvocate.com/news/politics/article/trump-is-giving-china-s-xi-a-warm-welcome-but-22446276.php",
-        "clean_url": "https://www.stamfordadvocate.com/news/politics/article/trump-is-giving-china-s-xi-a-warm-welcome-but-22446276.php",
-        "image": "https://www.bing.com/th?id=ONUT.a3ViNoKAjSeOUtJxRKMZnQ",
-        "timestamp": 1790119948.0
-    },
-    {
-        "id": "449110d389",
-        "title_fa": "کانون تجارت و نفتی‌ها از ترامپ خواستند دیزل ممنوع نشود",
-        "title_en": "Chamber of Commerce, oil groups urge Trump to reject diesel export ban",
-        "summary": [
-            "کانون تجارت و گروه‌های نفتی استدلال می‌کنند ممنوعیت دیزل به زنجیره تأمین انرژی آمریکا آسیب می‌رساند.",
-            "آن‌ها از ترامپ می‌خواهند به جای محدود کردن صادرات، به بازارهای جهانی دسترسی حفظ شود.",
-            "این فشار داخلی می‌تواند تصمیم‌گیری‌های تجاری ترامپ را تحت تأثیر قرار دهد."
-        ],
-        "impact": "اگر ترامپ ممنوعیت را رد کند، صادرات دیزل آمریکا ادامه می‌یابد و فشار بر قیمت‌های سوخت داخلی کاهش می‌یابد.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The Hill on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/chamber-of-commerce-oil-groups-urge-trump-to-reject-diesel-export-ban/ar-AA2cQXx1?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/politics/chamber-of-commerce-oil-groups-urge-trump-to-reject-diesel-export-ban/ar-AA2cQXx1",
-        "image": "https://www.bing.com/th?id=ONUT.A4K8VcuTrIVOqpwS_VVPJA",
-        "timestamp": 1790119947.0
     }
 ]
