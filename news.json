@@ -985,6 +985,25 @@
         "timestamp": 1790235060.0
     },
     {
+        "id": "61d59658a0",
+        "title_fa": "آیا ایران به‌سوی توسعه موشک‌های پیشرفته پیش می‌رود؟",
+        "title_en": "Is Iran Building A More Sophisticated Missile Arsenal Under Fire?",
+        "summary": [
+            "تحلیل‌گران می‌گویند موجودی موشک‌های ایران کاهش یافته اما هنوز توانایی تولید دارد",
+            "برخی کارشناسان شک دارند که ایران در آستانهٔ استقرار سامانه‌های دقیق‌تر و کشنده‌تر است",
+            "تحریم‌های بین‌المللی مانع دسترسی به فناوری‌های پیشرفته می‌شود اما ایران سعی در خودکفایی دارد"
+        ],
+        "impact": "اگر موشک‌های جدید به‌کار گرفته شوند، تهدید به موضع‌گیری نظامی آمریکا و هم‌پیمانان افزایش می‌یابد",
+        "tag": "موشک",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/pauliddon/2026/09/24/is-iran-building-a-more-sophisticated-missile-arsenal-under-fire/",
+        "clean_url": "https://www.forbes.com/sites/pauliddon/2026/09/24/is-iran-building-a-more-sophisticated-missile-arsenal-under-fire",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790234340.0
+    },
+    {
         "id": "3e6e163e32",
         "title_fa": "خبر بین‌المللی — Readers sound off در student performance, Mamdani’s ترامپ me",
         "title_en": "Readers sound off on student performance, Mamdani’s Trump meeting and Climate Week",
@@ -3113,6 +3132,62 @@
         "timestamp": 1790174340.0
     },
     {
+        "id": "2ee1dca41e",
+        "title_fa": "حوثی‌ها پیشرفت‌های سلاحی؛ سپاه از سخنرانی پزشکیان حمایت کرد",
+        "title_en": "مشاور مجتبی خامنهای: حوثیهای یمن در تولید سلاح پیشرفتهای بسیار خوبی کردند",
+        "summary": [
+            "مشاور خامنه‌ای اعلام کرد حوثی‌های یمن به تولید سلاح‌های پیشرفته دست یافته‌اند",
+            "فرمانده کل سپاه پاسداران به سخنرانی پزشکیان در سازمان ملل اشاره کرد و گفت «از جنگ نمی‌ترسیم»",
+            "استراتژی‌های جغرافیایی خلیج فارس، تنگه هرمز و بابالمندب می‌تواند صحنه جنگ را تغییر دهد"
+        ],
+        "impact": "تقویت تصویر توانمندی نظامی ایران در منطقه و تشدید نگرانی‌های بین‌المللی",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609246620",
+        "clean_url": "https://www.iranintl.com/202609246620",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/9d9365fd535f5da3c87e82d4cfd0a796c7502f8b-833x620.jpg?rect=0,27,833,437&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790174296.0
+    },
+    {
+        "id": "f05fa5e387",
+        "title_fa": "فروش اوراق قرضه به‌دلیل نگرانی از جنگ ایران",
+        "title_en": "Bond market sell-off rumbles on ahead of Trump and Xi talks",
+        "summary": [
+            "نگرانی از تشدید جنگ ایران-امریکا باعث فروش گسترده اوراق خزانه‌داری آمریکا شد",
+            "این فشار فروش باعث افزایش نرخ بهره و نوسان بازارهای جهانی شد",
+            "سرمایه‌گذاران به دنبال پناهگاه‌های امن مانند طلا و ارزهای دیجیتال رفتند"
+        ],
+        "impact": "نوسان شدید در بازارهای مالی جهانی، هزینه‌های استقراض برای دولت‌ها بالا می‌رود",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/bond-market-sell-off-rumbles-on-ahead-of-trump-and-xi-talks/ar-AA2cTVUQ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/bond-market-sell-off-rumbles-on-ahead-of-trump-and-xi-talks/ar-AA2cTVUQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790174295.0
+    },
+    {
+        "id": "fd01a7c2bf",
+        "title_fa": "نظرسنجی‌های عمیق سقوط حمایت ترامپ را نشان می‌دهد",
+        "title_en": "'Deep depths of hell': Harry Enten says this seismic polling shift spells trouble for Trump",
+        "summary": [
+            "هری انتن، تحلیل‌گر داده‌ها، گفت اعداد نظرسنجی اخیر برای ترامپ به‌طور تاریخی پایین است",
+            "این سقوط حمایت می‌تواند نتایج انتخابات ۲۰۲۴ را به‌طور اساسی تحت‌تأثیر قرار دهد"
+        ],
+        "impact": "کاهش حمایت عمومی می‌تواند استراتژی کمپین ترامپ و موقعیت او در انتخابات را به‌چالش بکشد",
+        "tag": "انتخابات",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "HuffPost on MSN",
+        "url": "https://www.msn.com/en-us/news/other/deep-depths-of-hell-harry-enten-says-this-seismic-polling-shift-spells-trouble-for-trump/ar-AA2cTrWm?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/deep-depths-of-hell-harry-enten-says-this-seismic-polling-shift-spells-trouble-for-trump/ar-AA2cTrWm",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790174295.0
+    },
+    {
         "id": "1070acc473",
         "title_fa": "پایان قانون جنگ‌های ابدی ۲۰۰۱",
         "title_en": "Dan Tully: End Congress’s forever law for forever wars",
@@ -5228,76 +5303,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNdUZpaEJ4VVFlR0lXZEx4Sk83c2RnN2hWVnl2WTZfaHo5MWNURElXQUVHd1VTS1lDMGtIOGhPZ2dPS2h5ZXlSWElqRndEV1RuWjJMNXZxaTdyUUJEVGdtQlIxV212UQ",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790156845.0
-    },
-    {
-        "id": "4f19189b93",
-        "title_fa": "خبر بین‌المللی — Board Peace به roll شود $2.75 billion غزه recovery plan — r",
-        "title_en": "Board of Peace to roll out $2.75 billion Gaza recovery plan — report",
-        "summary": [
-            "It estimates that it will take some $71.4 billion over a decade for Gaza's full recovery. Reuters cannot immediately verify the report."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/board-of-peace-to-roll-out-2-75-billion-gaza-recovery-plan-report/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/board-of-peace-to-roll-out-2-75-billion-gaza-recovery-plan-report",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/AP26260656905918-640x400.jpg",
-        "timestamp": 1790156760.0
-    },
-    {
-        "id": "cc398f0985",
-        "title_fa": "رئیس جمهور ایران همزمان با نزدیک شدن به سفر نتانیاهو در سازمان ملل سخنرانی خواهد کرد",
-        "title_en": "Iran president set to speak at United Nations as Netanyahu visit nears",
-        "summary": [
-            "Iran president set to speak at United Nations as Netanyahu visit nears ABC7 New York"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ABC7 New York",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHFybHhqNF93Z292a2pkOGYxOVhoXzJGNHFJRkRBNzdXUlBSLVpSOXY5cVFBLV9IVk42ZjZmc2JyRlQ4V2ZoTkk0b3MxYXYzVEUtVi1QQjBJN29ESG1VZk0zTGV5b0dYdTA4MXdtT3ljWjJhdU5YbGpuUXpEZnludWdBd3NPZmdqOHdWc05DTGpZU3lVNW1lTFgxVdIBoAFBVV95cUxQanQ0VGZLWmNMcTJ1a1QtNklCT0g2OUlXZGkyUnRXWEg4ZVhHRVlDNlQ1LWpuRW5qWVFPZ3dYUW43NHRXTkJqMElMa1FLb0Jta3pQd1NENFRZUGVXZW9jR19qb3c4ZzFRZFVxNlYyei1tUnBGbnRJaUd5R2JnSU5wQlhxTGJ4WWhEdTk3cUxKb2pzNTFVaHBHcVlPOXljMVdN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHFybHhqNF93Z292a2pkOGYxOVhoXzJGNHFJRkRBNzdXUlBSLVpSOXY5cVFBLV9IVk42ZjZmc2JyRlQ4V2ZoTkk0b3MxYXYzVEUtVi1QQjBJN29ESG1VZk0zTGV5b0dYdTA4MXdtT3ljWjJhdU5YbGpuUXpEZnludWdBd3NPZmdqOHdWc05DTGpZU3lVNW1lTFgxVdIBoAFBVV95cUxQanQ0VGZLWmNMcTJ1a1QtNklCT0g2OUlXZGkyUnRXWEg4ZVhHRVlDNlQ1LWpuRW5qWVFPZ3dYUW43NHRXTkJqMElMa1FLb0Jta3pQd1NENFRZUGVXZW9jR19qb3c4ZzFRZFVxNlYyei1tUnBGbnRJaUd5R2JnSU5wQlhxTGJ4WWhEdTk3cUxKb2pzNTFVaHBHcVlPOXljMVdN",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790156728.0
-    },
-    {
-        "id": "2cefe7e278",
-        "title_fa": "تحریکات آمریکا‑اسرائیل علیه ایران؛ واکنش بازار انرژی",
-        "title_en": "Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events",
-        "summary": [
-            "حمله هوایی مشترک آمریکا‑اسرائیل به اهداف نظامی ایران رخ داد",
-            "بازارهای انرژی فوراً نوسان کردند و قیمت نفت بالا رفت",
-            "تحلیل‌گران پیش‌بینی می‌کنند تحریم‌های جدید زنجیره تأمین نفت ایران را فشار می‌آورد",
-            "افزایش قیمت نفت می‌تواند به‌سرنوشت اقتصاد جهانی ضربه بزند"
-        ],
-        "impact": "قیمت نفت جهانی به سرعت بالا می‌رود و فشار اقتصادی بر ایران و خریداران نفت افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzVBRVpMelFCUXptU2w1VFdxLV9XUFBsNVlaX1ZHMTlEbDQwNW1WWWpvUjNGYnM1d0h3d2s2Y1ZDMkJJRVh0dHlGUVp0aWNQeF9YMjFDTE1vazZGbG5tM0VrM002WVB1STFibzVzV29WY2lyLXc5NlhHV0t0NDB3MEtBUWdHM3dB",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790156623.0
-    },
-    {
-        "id": "0c1313f298",
-        "title_fa": "حملات \"نابودی\" در مقابل \"درهم شکستن\": چرا ایران و آمریکا در بحبوحه مذاکرات لفاظی می‌کنند",
-        "title_en": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
-        "summary": [
-            "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks Al Jazeera"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM00tdGJYVTZKd1NBNFBDTllXU21LZE02VkR0UnU3dkxNakphNkp0OXFuSFc0cmlTUC1XZktybmlHRU5TZ2xEczFjV1pvZHZheHpnTXJOR0VaY2pZRm81bG8zcDc3YzJUZzZrcGQta0RBQTRYcmtpem9ra0w3bmJoMjhpYkZCbG1CU3hnNFpWSGh5LVVRQ0ZBT1ZtQzd1NDUzZ3c2WHhCQlFJUdIBrwFBVV95cUxQcnNnN0doNUNIV3ZUMjVyRUQwZ3ZUdW9TQUo5VVpWb25UTnYyNkFCMkdscTNKSVdCTXNoVDhOVjlvWTBIanRxTlRpd0hYSURibU9QX1ZnU0NnQS0taVJQeXV5ZGsxREotS00tQXhLRXg5V04xa01VNUdwb3BIeFRHUTNmY3JzRGtBZS12Zm1Ha2lDazl0djc1cDVFSDY5YkIwN1J1VUxBX3ZtOFpxemJr?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM00tdGJYVTZKd1NBNFBDTllXU21LZE02VkR0UnU3dkxNakphNkp0OXFuSFc0cmlTUC1XZktybmlHRU5TZ2xEczFjV1pvZHZheHpnTXJOR0VaY2pZRm81bG8zcDc3YzJUZzZrcGQta0RBQTRYcmtpem9ra0w3bmJoMjhpYkZCbG1CU3hnNFpWSGh5LVVRQ0ZBT1ZtQzd1NDUzZ3c2WHhCQlFJUdIBrwFBVV95cUxQcnNnN0doNUNIV3ZUMjVyRUQwZ3ZUdW9TQUo5VVpWb25UTnYyNkFCMkdscTNKSVdCTXNoVDhOVjlvWTBIanRxTlRpd0hYSURibU9QX1ZnU0NnQS0taVJQeXV5ZGsxREotS00tQXhLRXg5V04xa01VNUdwb3BIeFRHUTNmY3JzRGtBZS12Zm1Ha2lDazl0djc1cDVFSDY5YkIwN1J1VUxBX3ZtOFpxemJr",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790156587.0
     }
 ]
