@@ -1,5 +1,23 @@
 [
     {
+        "id": "8b62343ba0",
+        "title_fa": "باربارین‌های مدرن در دروازه‌های سازمان ملل",
+        "title_en": "Barbarians within the UN gates",
+        "summary": [
+            "نویسنده می‌گوید قدرت‌های امروز می‌توانند هدف‌گیری دقیق داشته باشند و پس از آن توجیه می‌کنند",
+            "این رفتار نشان‌دهنده ضعف سازوکارهای بین‌المللی در مهار خشونت است"
+        ],
+        "impact": "بی‌اعتمادی به سازمان ملل و تشدید ریسک استفاده از نیابتی",
+        "tag": "نیابتی",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "MalaysiaNow on MSN",
+        "url": "https://www.msn.com/en-my/news/national/barbarians-within-the-un-gates/ar-AA2cR8X0?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-my/news/national/barbarians-within-the-un-gates/ar-AA2cR8X0",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790218985.58871
+    },
+    {
         "id": "aae4472032",
         "title_fa": "عینک‌های هوشمند: هوش مصنوعی در چشم شما",
         "title_en": "AI glasses: The lens technology bringing AI into your line of sight",
@@ -5345,22 +5363,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-speaks-on-war-with-iran-at-un-general-assembly/vi-AA2cPYf5",
         "image": "https://www.bing.com/th?id=ONUT.l_hgMgRcZzrGaOpsOfMUrg",
         "timestamp": 1790105711.0
-    },
-    {
-        "id": "589ebd986b",
-        "title_fa": "خبر بین‌المللی — ایران warns it would disrupt regional airports اگر its fligh",
-        "title_en": "Iran warns it would disrupt regional airports if its flights are barred",
-        "summary": [
-            "Iran threatened to disrupt airports in neighboring countries that comply with a US campaign to ground Iranian airlines, escalating its response to new sanctions that have already begun cutting some of..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609233581",
-        "clean_url": "https://www.iranintl.com/en/202609233581",
-        "image": "http://www.bing.com/th?id=ONUT.h6DpkPiUxIpmSknKXiApOQ&pid=News",
-        "timestamp": 1790105460.0
     }
 ]
