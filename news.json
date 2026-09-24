@@ -1,5 +1,42 @@
 [
     {
+        "id": "41a1a4b264",
+        "title_fa": "ترامپ درباره «سفر کوتاه» به ایران گفت",
+        "title_en": "Why does White House keep lying about Iran 'excursion'? Kerr",
+        "summary": [
+            "ترامپ در سخنرانی اخیر خود از «سفر کوتاه» به ایران یاد کرد و اشاره کرد که جنگ به‌زودی به پایان می‌رسد",
+            "این عبارت نشان می‌دهد که دولت آمریکا هنوز به‌صورت غیرمستقیم درگیر تنش‌های نظامی با ایران است",
+            "سخنرانان سفیدخانه برای پاسخ به پرسش‌های رسانه‌ای درباره جزئیات عملیات سکوت می‌کنند"
+        ],
+        "impact": "افزایش فشار روانی بر ایران و تقویت روایت جنگ‌نامی در داخل و خارج کشور",
+        "tag": "ایران",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/why-does-white-house-keep-090643176.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/why-does-white-house-keep-090643176.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/d377f0dff962ee45fa3e6d5f24a04b427c387742798665c2965357f9d853e396/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fusatoday-portsmouthseacoastonline-light_7237.png",
+        "timestamp": 1790242624.4888306
+    },
+    {
+        "id": "fb847598ee",
+        "title_fa": "سرخط مبهم «ترامپ نابودگر» بدون جزئیات",
+        "title_en": "Trump the Destroyer",
+        "summary": [
+            "عنوان خبری فقط نام ترامپ را به‌صورت پررنگ می‌نویسد و محتوای واضحی ارائه نمی‌دهد",
+            "متن مقاله به معرفی نویسندگان نظرات می‌پردازد و به هیچ‌یک از مواضع ترامپ اشاره نمی‌کند"
+        ],
+        "impact": "هیچ تأثیر عملی یا سیاسی فوری ندارد",
+        "tag": "سردرگمی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/24/opinion/trump-arch-macklemore-israel.html",
+        "clean_url": "https://www.nytimes.com/2026/09/24/opinion/trump-arch-macklemore-israel.html",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790242624.488586
+    },
+    {
         "id": "95887c56bc",
         "title_fa": "سخنرانی ترامپ در مجمع عمومی: تنش با هند",
         "title_en": "Trump’s UNGA speech sparks fresh friction with India",
@@ -5331,44 +5368,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/xi-arrives-in-us-to-personal-trump-welcome/ar-AA2cNUOJ",
         "image": "https://www.bing.com/th?id=ONUT.m99ENQDHIqwTS5jaYX5JXA",
         "timestamp": 1790124335.0
-    },
-    {
-        "id": "42c5ba53a6",
-        "title_fa": "ترامپ در سازمان ملل از CNN انتقاد کرد",
-        "title_en": "Crybaby Trump Rips CNN's Kaitlan Collins At UN: 'You Should Not Be Here'",
-        "summary": [
-            "ترامپ با لحن سرسختی به خبرنگار CNN گفت حضورش در مجمع ممنوع است",
-            "او با نادیده گرفتن نظرسنجی که دو‑سوم آمریکایی‌ها جنگ با ایران را ناموفق می‌دانند، ادعای پیشرفت‌های چشمگیر کرد",
-            "بیان این حرف‌ها در صحنهٔ بین‌المللی صرفاً بازتابی از رقیب‌سازی داخلی و نه تغییر در سیاست‌های نظامی است",
-            "نقش رسانه‌ای این برخورد در تقویت روایت «پیروزی» برای هوادارانش واضح است"
-        ],
-        "impact": "هیچ تغییر عملی در عملیات یا تحریم‌ها ایجاد نمی‌کند؛ فقط پیام داخلی را تقویت می‌کند",
-        "tag": "جنگ",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Crooks and Liars",
-        "url": "https://crooksandliars.com/2026/09/trump-kaitlan-collins-cnn",
-        "clean_url": "https://crooksandliars.com/2026/09/trump-kaitlan-collins-cnn",
-        "image": "https://crooksandliars.com/files/mediaposters/2026/09/59810.jpg",
-        "timestamp": 1790124135.9490376
-    },
-    {
-        "id": "8b4b9d429f",
-        "title_fa": "شبکه‌های غیرقانونی نفت ایران، اقتصادها را به خطر می‌اندازند",
-        "title_en": "Iran’s Sanctions Violations, Illicit Networks Prolong Conflict, Place Commercial Operators, Economies At Risk",
-        "summary": [
-            "حملات دریایی و روش‌های فشار ایران، همراه با شبکه‌های فرار از تحریم، نفت را به‌صورت مخفی به بازارهای جهانی می‌فرستند.",
-            "این جریان‌های غیرقانونی باعث می‌شود که کشورهای هدف تحریم نتوانند فشار مؤثری اعمال کنند.",
-            "پایداری این شبکه‌ها خطر تشدید مناقشات منطقه‌ای و نوسان قیمت‌های انرژی را افزایش می‌دهد."
-        ],
-        "impact": "افزایش فشار اقتصادی بر کشورهای هدف و تشدید تحریم‌ها",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/23092026-irans-sanctions-violations-illicit-networks-prolong-conflict-place-commercial-operators-economies-at-risk/",
-        "clean_url": "https://www.eurasiareview.com/23092026-irans-sanctions-violations-illicit-networks-prolong-conflict-place-commercial-operators-economies-at-risk",
-        "image": "https://www.bing.com/th?id=ONUT.4ZBvURMJcrPS8G5qL2iWOQ",
-        "timestamp": 1790123288.5988538
     }
 ]
