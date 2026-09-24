@@ -3264,6 +3264,44 @@
         "timestamp": 1790141280.0
     },
     {
+        "id": "12b4121240",
+        "title_fa": "کاهش برنامه تخلیه هینکلی پوینت ب",
+        "title_en": "Evacuation plans for Somerset nuclear site scaled back as decommissioning looms",
+        "summary": [
+            "تولید در هینکلی پوینت ب در سال ۲۰۲۲ متوقف شد",
+            "سایت در اوایل امسال بدون سوخت هسته‌ای اعلام شد",
+            "به‌دلیل زمان‌بندی بازنشستگی، برنامه‌های تخلیه به‌طور قابل‌توجهی کاهش یافت"
+        ],
+        "impact": "هزینه‌های اضطراری پروژه کاهش می‌یابد و زمان‌بندی بازنشستگی تسریع می‌شود",
+        "tag": "نفت‌هسته‌ای",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Somerset County Gazette on MSN",
+        "url": "https://www.msn.com/en-gb/money/general/evacuation-plans-for-somerset-nuclear-site-scaled-back-as-decommissioning-looms/ar-AA2cRlBV?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/money/general/evacuation-plans-for-somerset-nuclear-site-scaled-back-as-decommissioning-looms/ar-AA2cRlBV",
+        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790139759.0
+    },
+    {
+        "id": "635afe6234",
+        "title_fa": "ورود نتانیاهو به نیویورک و تظاهرات",
+        "title_en": "Netanyahu’nun gelişi New York’u gerdi",
+        "summary": [
+            "نتانیاهو در بازدید سازمان ملل به نیویورک آمد",
+            "یهودیان، اسرائیلی‌ها و مخالفان صهیونیسم قصد برگزاری اعتراض دارند",
+            "امنیت شهر و روابط دیپلماتیک تحت فشار قرار می‌گیرد"
+        ],
+        "impact": "نیویورک با افزایش حضور نیروهای امنیتی و فشارهای دیپلماتیک مواجه می‌شود",
+        "tag": "تظاهرات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Milliyet on MSN",
+        "url": "https://www.msn.com/tr-tr/haber/other/netanyahu-nun-gelişi-new-york-u-gerdi/ar-AA2cQTP4?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/tr-tr/haber/other/netanyahu-nun-gelişi-new-york-u-gerdi/ar-AA2cQTP4",
+        "image": "https://www.bing.com/th?id=ONUT._85ULR1teF-itFAnab0RfA",
+        "timestamp": 1790139759.0
+    },
+    {
         "id": "e75eae6958",
         "title_fa": "خبر بین‌المللی — Morning Risk Report: U.S. تحریم‌ها روسی Bank در Latest Targ",
         "title_en": "The Morning Risk Report: U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran",
@@ -5334,40 +5372,6 @@
         "url": "https://www.jns.org/news/u-s-news/last-thing-israel-needs-is-flashpoint-in-judea-and-samaria-rubio-says",
         "clean_url": "https://www.jns.org/news/u-s-news/last-thing-israel-needs-is-flashpoint-in-judea-and-samaria-rubio-says",
         "image": "https://www.bing.com/th?id=ONUT.Pf3_XCEobJ1pKByMTK-WeQ",
-        "timestamp": 1790110135.0
-    },
-    {
-        "id": "6d6266d033",
-        "title_fa": "کاخ سفید گزارش ممنوعیت 90 روزه صادرات گازوئیل آمریکا را تکذیب کرد",
-        "title_en": "White House denies report of 90-day US diesel export ban",
-        "summary": [
-            "US Energy Secretary Chris Wright said a blanket diesel export ban would not work and could instead push up prices of gasoline..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Mint on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/white-house-denies-report-of-90-day-us-diesel-export-ban/ar-AA2cQHAu?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/white-house-denies-report-of-90-day-us-diesel-export-ban/ar-AA2cQHAu",
-        "image": "https://www.bing.com/th?id=ONUT.3GwwISqRiy2OQ66b8_NINQ",
-        "timestamp": 1790110135.0
-    },
-    {
-        "id": "9efa25fbf8",
-        "title_fa": "از ماسی تا کالینز: چرا جمهوری خواهان در آستانه انتخابات میان دوره ای از ترامپ جدا می‌شوند؟",
-        "title_en": "From Massie to Collins: Why Republicans Are Breaking Away From Trump Ahead of Midterms",
-        "summary": [
-            "A growing number of Republicans are breaking with President Trump ahead of the November 3 midterms, most often over the Iran..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/us/us-news/from-massie-to-collins-why-republicans-are-breaking-away-from-trump-ahead-of-midterms-article-156211874",
-        "clean_url": "https://www.timesnownews.com/world/us/us-news/from-massie-to-collins-why-republicans-are-breaking-away-from-trump-ahead-of-midterms-article-156211874",
-        "image": "https://www.bing.com/th?id=ONUT.ynLqPvWnbwIntZdzpzfeTQ",
         "timestamp": 1790110135.0
     }
 ]
