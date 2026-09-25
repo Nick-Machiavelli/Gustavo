@@ -3793,6 +3793,45 @@
         "timestamp": 1790223000.0
     },
     {
+        "id": "ab89d4b9c0",
+        "title_fa": "نتانیاهو در مجمع ملل با ماندانی درگیر شد",
+        "title_en": "'Shame on you': Netanyahu takes on NYC Mayor Mamdani at UN as delegates walk out, Qatar hits back",
+        "summary": [
+            "نتانیاهو با حمله به ماندانی سعی کرد توجه جهانیان را از عملیات اسرائیل منحرف کند",
+            "قطر با اشاره به حکم دادگاه بین‌المللی به نتانیاهو انتقاد شدید کرد",
+            "نمایندگان برخی کشورها از جلسه خارج شدند و تقسیمات در سازمان ملل عمیق‌تر شد"
+        ],
+        "impact": "تنش‌های دیپلماتیک در مجمع ملل تشدید می‌شود و احتمال کاهش همکاری‌های منطقه‌ای افزایش می‌یابد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Statesman on MSN",
+        "url": "https://www.msn.com/en-in/news/other/shame-on-you-netanyahu-takes-on-nyc-mayor-mamdani-at-un-as-delegates-walk-out-qatar-hits-back/ar-AA2cVNa1?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/shame-on-you-netanyahu-takes-on-nyc-mayor-mamdani-at-un-as-delegates-walk-out-qatar-hits-back/ar-AA2cVNa1",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790222595.0
+    },
+    {
+        "id": "90c2d33660",
+        "title_fa": "رئیس‌جمهور: ایران هدف هسته‌ای ندارد، به پیمان NPT پایبند",
+        "title_en": "Iran still not seeking to obtain nuclear weapons — president",
+        "summary": [
+            "رئیس‌جمهور ایران به صراحت گفت هدف هسته‌ای ندارد",
+            "استناد به فتواهای دینی برای رد سلاح‌های کشتار جمعی شد",
+            "آمادگی برای توافق با آمریکا در چارچوب بین‌المللی اعلام شد",
+            "بیانیه می‌تواند فشار تحریم‌ها را کاهش دهد"
+        ],
+        "impact": "بیانیه مسیر مذاکرات هسته‌ای را باز می‌کند و فشار تحریمی را کم می‌کند",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2192513",
+        "clean_url": "https://tass.com/world/2192513",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1790222595.0
+    },
+    {
         "id": "886a8bfac4",
         "title_fa": "سخنرانی ترامپ در مجمع عمومی: تهدید هسته‌ای ایران",
         "title_en": "Trump at the UN: A transactional conception of global order",
@@ -5264,39 +5303,5 @@
         "clean_url": "https://whdh.com/news/israels-netanyahu-at-un-calls-accusations-of-genocide-in-gaza-the-biggest-lie-of-the-century",
         "image": "https://www.bing.com/th?id=ONUT.P86STUBDL_Vyk7XPxryNDQ",
         "timestamp": 1790203195.0
-    },
-    {
-        "id": "b22c893e6c",
-        "title_fa": "10 Mai 2026",
-        "title_en": "10 Mai 2026",
-        "summary": [
-            "Președintele Nicușor Dan va găzdui miercuri, la Palatul Cotroceni, Summitul Formatului București 9 și al Țărilor Nordice. Vor fi prezenți secretarul general al NATO, Mark Rutte, președintele..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/efecte-munca-asupra-omului-pag287",
-        "clean_url": "https://ziare.com/cautare/efecte-munca-asupra-omului-pag287",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1790202877.0
-    },
-    {
-        "id": "a0e67bc0d0",
-        "title_fa": "خبر بین‌المللی — DAN HODGES: اگر Burnham wants به unite Left و win a snap el",
-        "title_en": "DAN HODGES: If Burnham wants to unite the Left and win a snap election, he'll have to stage a public fallout with Trump",
-        "summary": [
-            "Andy Burnham's first meeting with Donald Trump couldn't have gone better. His opening round of diplomacy with the West's most..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Mail",
-        "url": "https://www.dailymail.com/debate/article-16155551/DAN-HODGES-Burnham-Left-election-public-fallout-Trump.html",
-        "clean_url": "https://www.dailymail.com/debate/article-16155551/DAN-HODGES-Burnham-Left-election-public-fallout-Trump.html",
-        "image": "https://www.bing.com/th?id=ONUT.f-uOJk5kysR1iio0FltDqw",
-        "timestamp": 1790202148.3293025
     }
 ]
