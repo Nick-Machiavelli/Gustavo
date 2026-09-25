@@ -1,5 +1,25 @@
 [
     {
+        "id": "0d2f1849fa",
+        "title_fa": "نتانیاهو: ایران تهدیدی برای اسرائیل نیست",
+        "title_en": "Netanyahu’s message on Iran and the voices the world must hear",
+        "summary": [
+            "نتانیاهو در مجمع ملل بر دفاع خود اسرائیل تأکید کرد",
+            "او ادعا کرد که ایران تهدیدی برای امنیت اسرائیل محسوب نمی‌شود",
+            "سخنرانی او در مقابل روایت ایران‌محور در همان روز ارائه شد",
+            "پیام واضحی به رژیم تهران ارسال شد"
+        ],
+        "impact": "بیان نتانیاهو می‌تواند فشار دیپلماتیک بر ایران را تقویت کند",
+        "tag": "ایران‑اسرائیل",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Israel National News",
+        "url": "https://www.israelnationalnews.com/news/433640",
+        "clean_url": "https://www.israelnationalnews.com/news/433640",
+        "image": "https://www.bing.com/th?id=ONUT.wr60M45XzPb_y4jkj2COdA",
+        "timestamp": 1790318839.1697571
+    },
+    {
         "id": "99b0a08ddd",
         "title_fa": "ترامپ با توجیه مرگبار به جنگ ایران پرداخته",
         "title_en": "Trump’s horrific justification for Iran war revealed: “We’ll all die anyway”",
@@ -3639,6 +3659,44 @@
         "timestamp": 1790232959.0
     },
     {
+        "id": "1cbabe19c5",
+        "title_fa": "هرج و مرج مطبوعات چینی در اجلاس ترامپ‑شی",
+        "title_en": "Trump-Xi summit sees reported Chinese press corps chaos",
+        "summary": [
+            "نیوزویک گزارش داد که خبرنگاران چینی در طول اجلاس دچار آشفتگی شدند",
+            "این حادثه نشانگر تنش‌های رسانه‌ای بین دو قدرت است",
+            "تأثیر مستقیم بر مذاکرات دوجانبه کم است"
+        ],
+        "impact": "این رخداد تصویر روابط چین‑آمریکا را به‌طور اساسی تغییر نمی‌دهد",
+        "tag": "روابط",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/news/trump-xi-summit-sees-reported-chinese-press-corps-chaos/ar-AA2cWkqw?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/news/trump-xi-summit-sees-reported-chinese-press-corps-chaos/ar-AA2cWkqw",
+        "image": "https://www.bing.com/th?id=ONUT.0cI-1JqJfUeyom8US1BQFw",
+        "timestamp": 1790232434.0
+    },
+    {
+        "id": "ef76bf6182",
+        "title_fa": "بازگشت استراتژیک هرمز بین آمریکا و ایران",
+        "title_en": "strait of hormuz us iran talks houthi saudi attack impact",
+        "summary": [
+            "مقامات آمریکا و ایران فازبندی برای بازگشایی هرمز را بررسی می‌کنند",
+            "تحریم‌های هدفمند برای هر دو طرف در چارچوب مذاکرات گنجانده شده",
+            "بازگشت ناوگان تجاری می‌تواند نوسانات قیمت نفت را آرام کند"
+        ],
+        "impact": "بازگشایی هرمز فشار بر قیمت نفت را کاهش می‌دهد",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Zee Business",
+        "url": "https://www.zeebiz.com/market-news/video-gallery-strait-of-hormuz-us-iran-talks-houthi-saudi-attack-impact-402835",
+        "clean_url": "https://www.zeebiz.com/market-news/video-gallery-strait-of-hormuz-us-iran-talks-houthi-saudi-attack-impact-402835",
+        "image": "https://www.bing.com/th?id=ONUT.7yRu-zhuw-5TucA5ZipFYw",
+        "timestamp": 1790232434.0
+    },
+    {
         "id": "5aef9c5321",
         "title_fa": "יורש העצר האירני: הפשירו 100 מיליארד דולר לטובת המהפכה בטהרן",
         "title_en": "יורש העצר האירני: הפשירו 100 מיליארד דולר לטובת המהפכה בטהרן",
@@ -5260,59 +5318,5 @@
         "clean_url": "https://www.eurasiareview.com/24092026-riyadhs-security-dilemma-and-the-mecca-paradox-oped",
         "image": "https://www.bing.com/th?id=ONUT.6rJ42Feh_fTPHAMcpQ9rZA",
         "timestamp": 1790208260.3251667
-    },
-    {
-        "id": "6c0a0889bc",
-        "title_fa": "خبر بین‌المللی — SDNY's $61 Million Crypto Forfeiture Action Reflects Growing",
-        "title_en": "SDNY's $61 Million Crypto Forfeiture Action Reflects Growing Convergence of Civil Forfeiture and Sanctions Enforcement",
-        "summary": [
-            "On September 14, 2026, the U.S. Attorney's Office for the Southern District of New York (SDNY) filed a civil forfeiture complaint"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "JD Supra",
-        "url": "https://www.jdsupra.com/legalnews/sdny-s-61-million-crypto-forfeiture-1999947/",
-        "clean_url": "https://www.jdsupra.com/legalnews/sdny-s-61-million-crypto-forfeiture-1999947",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790208000.0
-    },
-    {
-        "id": "c4469f378f",
-        "title_fa": "خبر بین‌المللی — Who Is More Powerful: Saudi Arabia Or ایران?",
-        "title_en": "Who Is More Powerful: Saudi Arabia Or Iran?",
-        "summary": [
-            "Saudi Arabia and Iran are two major oil-producing nations but they have chosen two different paths to build power. Each country has a different vision for success: Saudi Arabia primarily invests in the strength of its economy and the state, while Iran has primarily invested in the power of weapons and external influence."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/24092026-who-is-more-powerful-saudi-arabia-or-iran-oped/",
-        "clean_url": "https://www.eurasiareview.com/24092026-who-is-more-powerful-saudi-arabia-or-iran-oped",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2015/09/is-e1687393708589.jpg",
-        "timestamp": 1790208000.0
-    },
-    {
-        "id": "348f4d8257",
-        "title_fa": "پزشکیان در سازمان ملل: ایران تسلیم نمی‌شود",
-        "title_en": "#ISRAELIRANWAR. Pezeshkian to the United Nations: \"We will not give up.\" Gvir has received 13 convictions out of 15 cases for racism. Djibouti: Houthis appear on the Red ...",
-        "summary": [
-            "مسعود پزشکین در مجمع عمومی سازمان ملل اعلام کرد ایران به هیچ‌وجه سلاح هسته‌ای نمی‌سپارد",
-            "او بر ضرورت حفظ صلح در غرب آسیا با تأکید بر فلسطین و مقابله با اسرائیل تأکید کرد",
-            "سخنرانی حاکی از ادامه مقاومت ایران در برابر فشارهای آمریکا و اسرائیل است",
-            "اشاره به «بمب اتمی در اسرائیل» می‌تواند تنش‌های منطقه‌ای را تشدید کند"
-        ],
-        "impact": "افزایش فشار دیپلماتیک بر اسرائیل و تقویت موضع مقابله‌ای ایران در مذاکرات هسته‌ای",
-        "tag": "سیاست خارجی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "AGC Communication",
-        "url": "https://www.agcnews.eu/israeliranwar-pezeshkian-to-the-united-nations-we-will-not-give-up-gvir-has-received-13-convictions-out-of-15-cases-for-racism-djibouti-houthis-appear-on-the-red-sea-route/",
-        "clean_url": "https://www.agcnews.eu/israeliranwar-pezeshkian-to-the-united-nations-we-will-not-give-up-gvir-has-received-13-convictions-out-of-15-cases-for-racism-djibouti-houthis-appear-on-the-red-sea-route",
-        "image": "https://www.agcnews.eu/wp-content/uploads/05frontiisriirn2409202605.png",
-        "timestamp": 1790208000.0
     }
 ]
