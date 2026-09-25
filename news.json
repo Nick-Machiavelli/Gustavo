@@ -19,6 +19,42 @@
         "timestamp": 1790296297.9318452
     },
     {
+        "id": "911595abb9",
+        "title_fa": "پیشنهاد رقیق‌سازی اورانیوم و پذیرش بازرسی",
+        "title_en": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
+        "summary": [
+            "رئیس‌جمهور مسعود پژوهشی اعلام کرد برنامه هسته‌ای تحت بازرسی بین‌المللی خواهد بود",
+            "ایران قصد دارد غنی‌سازی اورانیوم را رقیق کند تا تنش‌ها کاهش یابد",
+            "این گام می‌تواند تحریم‌های جدید را مهار کرده و مذاکرات هسته‌ای را پیش ببرد"
+        ],
+        "impact": "رقیق‌سازی اورانیوم می‌تواند تحریم‌های جدید را مهار کند و مذاکرات هسته‌ای را پیش ببرد",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Fox News",
+        "url": "https://www.msn.com/en-us/news/other/iranian-president-blames-us-for-middle-east-conflict-while-denying-nuclear-ambitions-offers-to-dilute-uranium/ar-AA2cVCA6",
+        "clean_url": "https://www.msn.com/en-us/news/other/iranian-president-blames-us-for-middle-east-conflict-while-denying-nuclear-ambitions-offers-to-dilute-uranium/ar-AA2cVCA6",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/pezeshkian-special-report.jpg",
+        "timestamp": 1790295936.0
+    },
+    {
+        "id": "962a2d102a",
+        "title_fa": "خبر بین‌المللی — ایرانی president says تهران is ready برای a deal, denies see",
+        "title_en": "Iranian president says Tehran is ready for a deal, denies seeking nuclear weapons",
+        "summary": [
+            "Iranian President Masoud Pezeshkian said his country is open to reaching an agreement with the United States and is willing to dilute its enriched uranium, while insisting Tehran does not want war or nuclear weapons."
+        ],
+        "impact": "...",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Tampa Free Press",
+        "url": "https://www.msn.com/en-us/news/other/iranian-president-says-tehran-is-ready-for-a-deal-denies-seeking-nuclear-weapons/ar-AA2cV5Kl",
+        "clean_url": "https://www.msn.com/en-us/news/other/iranian-president-says-tehran-is-ready-for-a-deal-denies-seeking-nuclear-weapons/ar-AA2cV5Kl",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cVaJQ.img?w=900&h=489&m=4&q=89",
+        "timestamp": 1790294798.0
+    },
+    {
         "id": "5ad2ec6cfa",
         "title_fa": "گورکا ال‌ساید را به‌خاطر ایران «احمق» نامید",
         "title_en": "Gorka to Newsmax: El-Sayed an 'Imbecile' on Iran",
@@ -1304,6 +1340,25 @@
         "clean_url": "https://www.eurasiareview.com/24092026-brics-has-grown-its-contradictions-have-grown-faster-oped",
         "image": "https://www.bing.com/th?id=ONUT.N6wiPUtnNcL-2QZ3JarTrA",
         "timestamp": 1790266515.09596
+    },
+    {
+        "id": "12ee5d010d",
+        "title_fa": "حامیان حوثی متهم به اجرای اهداف ایران",
+        "title_en": "مقام یمنی حوثی‌ها را به پیشبرد اهداف حکومت ایران در دریای سرخ متهم کرد",
+        "summary": [
+            "مقام یمنی حوثی‌ها را به اجرای اهداف ایران در دریای سرخ متهم کرد",
+            "او گفت حوثی‌ها با رد نقشه صلح عربستان و عمان، فشار بر مسیرهای تجاری جهانی را افزایش می‌دهند",
+            "این ادعاها می‌تواند منجر به تقویت حضور نظامی بین‌المللی در آب‌های جنوب‌شرقی شود"
+        ],
+        "impact": "اتهام به حوثی‌ها ممکن است منجر به تشدید حضور نظامی بین‌المللی در دریای سرخ شود",
+        "tag": "منطقه‌ای",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609244336",
+        "clean_url": "https://www.iranintl.com/202609244336",
+        "image": "http://www.bing.com/th?id=ONUT.CevNLw4mdYJPCJmPKA0y2Q&pid=News",
+        "timestamp": 1790266380.0
     },
     {
         "id": "865eafb9b5",
@@ -5252,56 +5307,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/live-updates-un-delegates-walk-out-of-netanyahu-s-remarks-trump-xi-begin-high-stakes-talks/ar-AA2cThNK",
         "image": "https://www.bing.com/th?id=ONUT.zbKx5sw0ZERy9DhPiBaknw",
         "timestamp": 1790192897.0
-    },
-    {
-        "id": "32c322b696",
-        "title_fa": "سنا قطعنامه نهایی اختیارات جنگ را قبل از انتخابات میان دوره ای لغو کرد",
-        "title_en": "Senate shoots down final war powers resolution before midterm elections",
-        "summary": [
-            "A war powers resolution narrowly failed to pass the Senate Thursday after only four Republicans voted for its passage. Republican Sens. Susan Collins of Maine, Rand Paul of Kentucky, Thom Tillis of..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Daily Caller on MSN",
-        "url": "https://www.msn.com/en-us/news/other/senate-shoots-down-final-war-powers-resolution-before-midterm-elections/ar-AA2cUEQ9?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/senate-shoots-down-final-war-powers-resolution-before-midterm-elections/ar-AA2cUEQ9",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790192897.0
-    },
-    {
-        "id": "bce5081b80",
-        "title_fa": "4 سناتور جمهوری خواه علیه ترامپ درباره جنگ ایران شورش کردند و با دموکرات‌ها برای مهار قدرت رای دادند",
-        "title_en": "4 GOP senators rebel against Trump on Iran war, vote with Dems to rein in authority",
-        "summary": [
-            "President Donald Trump dismissed midterm fears as Republicans defeated a Democratic war powers resolution despite surging gas and diesel prices."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/4-gop-senators-rebel-against-trump-on-iran-war-vote-with-dems-to-rein-in-authority/ar-AA2cV3Wn?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/4-gop-senators-rebel-against-trump-on-iran-war-vote-with-dems-to-rein-in-authority/ar-AA2cV3Wn",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790192897.0
-    },
-    {
-        "id": "9f0befad67",
-        "title_fa": "وزیر خارجه آلمان به العربیه گفت: تهدید هسته‌ای ایران به آغاز جنگ کمک کرد",
-        "title_en": "Iran’s nuclear threat helped trigger war, German FM tells Al Arabiya",
-        "summary": [
-            "German Foreign Minister Johann Wadephul said Thursday that the threat posed by Iran’s nuclear program helped trigger the war and warned that Tehran would not have peace as long as it maintained the..."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609242047",
-        "clean_url": "https://www.iranintl.com/en/202609242047",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/d1910b1276ff0892e6e57f4968442b5f0a80995e-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790192410.0
     }
 ]
