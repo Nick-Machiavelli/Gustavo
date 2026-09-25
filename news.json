@@ -1,5 +1,23 @@
 [
     {
+        "id": "cacacb31d3",
+        "title_fa": "کارلسون: خط قرمز هسته‌ای، ترامپ باید حذف شود",
+        "title_en": "Tucker Carlson draws a nuclear 'red line': Trump should be removed from office immediately",
+        "summary": [
+            "تاکر کارلسون گفت اگر ترامپ به استفاده نخستین از سلاح هسته‌ای فکر کند، باید فوراً از سمت خود برکنار شود.",
+            "این اظهارات صرفاً بیانیه سیاسی است و ریسک عملی برای استفاده هسته‌ای را تغییر نمی‌دهد."
+        ],
+        "impact": "افزایش فشار داخلی بر ترامپ بدون اثر مستقیم بر سیاست هسته‌ای",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "Idaho Public Press on MSN",
+        "url": "https://www.msn.com/en-us/news/other/tucker-carlson-draws-a-nuclear-red-line-trump-should-be-removed-from-office-immediately/ar-AA2cVOJG?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/tucker-carlson-draws-a-nuclear-red-line-trump-should-be-removed-from-office-immediately/ar-AA2cVOJG",
+        "image": "https://www.bing.com/th?id=ONUT.l4pZoH7Mft86qVzCO05-Ow",
+        "timestamp": 1790298729.746329
+    },
+    {
         "id": "681d6dec8c",
         "title_fa": "ترامپ پیشنهاد ممنوعیت صادرات دیزل آمریکا را داد",
         "title_en": "Trump L’Oil: A Fake Fix for High Diesel Prices",
@@ -2074,6 +2092,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/senate-republicans-defeat-latest-push-to-end-iran-war/ar-AA2cUpRF",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790250420.0
+    },
+    {
+        "id": "53ea8a2593",
+        "title_fa": "نتانیاهو: اردوغان حاکم اورشلیم نمی‌شود",
+        "title_en": "نتانیاهو خطاب به اردوغان: حاکم اورشلیم نخواهی شد",
+        "summary": [
+            "نتانیاهو در مجمع عمومی ملل ترکیه را «ابرپراکننده دروغ‌های یهودستیزانه» و «دیکتاتور» نامید.",
+            "او به ادعای اردوغان درباره حاکمیت بر اورشلیم رد کرد و شهر را «پایتخت ابدی اسرائیل» توصیف کرد.",
+            "نتانیاهو ترکیه را متهم به میزبانی حماس، سرکوب مخالفان و تجاوز به قبرس شمالی کرد."
+        ],
+        "impact": "تشدید تنش اسرائیل‑ترکیه و احتمال فشار دیپلماتیک بیشتر در منطقه",
+        "tag": "روابط",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609244352",
+        "clean_url": "https://www.iranintl.com/202609244352",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790250120.0
     },
     {
         "id": "6c255112b2",
@@ -5268,40 +5305,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/the-urgency-of-recognizing-the-ansar-allah-government-in-yemen/ar-AA2cQMAN",
         "image": "https://www.bing.com/th?id=ONUT.E535quCSsbziDHRVx8k9yw",
         "timestamp": 1790194449.1542456
-    },
-    {
-        "id": "5874a9fecb",
-        "title_fa": "خبر بین‌المللی — Can 81st UNGA Restore Hope Amid Global Crises?",
-        "title_en": "Can the 81st UNGA Restore Hope Amid Global Crises?",
-        "summary": [
-            "We are going to witness the grand finale of the 81st UNGA meeting at a time when geopolitical flashpoints are proliferating..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "europesays",
-        "url": "https://www.europesays.com/3268783/",
-        "clean_url": "https://www.europesays.com/3268783",
-        "image": "https://www.bing.com/th?id=ONUT.nZefHV3ckBQcJLYwsjg07g",
-        "timestamp": 1790193856.9506176
-    },
-    {
-        "id": "aff7f91e12",
-        "title_fa": "قضات تهران زندانی را به اعدام جاسوسی محکوم کردند",
-        "title_en": "Tehran court sentences detainee to death on espionage charge",
-        "summary": [
-            "دادگاه انقلاب زندانی را به اعدام در اتهام جاسوسی محکوم کرد",
-            "این حکم در میانه جنگ ایران‑اسرائیل صادر شد تا ترس از هرگونه همکاری با اسرائیل را تقویت کند"
-        ],
-        "impact": "تشدید سرکوب مخالفان داخلی و افزایش نگرانی‌های حقوق بشر",
-        "tag": "حقوق",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609246418",
-        "clean_url": "https://www.iranintl.com/en/202609246418",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1790193820.0
     }
 ]
