@@ -1,5 +1,62 @@
 [
     {
+        "id": "1d103754e4",
+        "title_fa": "نایبرییس مجلس می‌گوید نمایندگان آنلاین کار می‌کنند",
+        "title_en": "نایبرییس مجلس: نمایندگان دو دیوار آنطرفتر از صحن فعالیت میکنند",
+        "summary": [
+            "نایبرییس اعلام کرد جلسات آنلاین مجلس برای حفظ اکثریت ادامه دارد",
+            "هر نماینده‌ای که به سامانه متصل نشود، غایب محسوب می‌شود",
+            "در صورت کشته شدن نماینده، انتخابات اجباری می‌شود، نه تعیین سرپرست"
+        ],
+        "impact": "ادامه کار آنلاین مجلس باعث حفظ قانون‌گذاری در شرایط بحرانی می‌شود",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609256054",
+        "clean_url": "https://www.iranintl.com/202609256054",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1790364161.0615807
+    },
+    {
+        "id": "d0990db0f3",
+        "title_fa": "دادستانی اسکاتلند پیگیری مرد ایرانی را متوقف کرد",
+        "title_en": "دادستانی اسکاتلند مرد ایرانی متهم به ورود به پایگاه هستهای بریتانیا را تعقیب نمیکند",
+        "summary": [
+            "مرد ۳۴ ساله‌ای که سعی کرد به پایگاه زیردریایی بریتانیا وارد شود، حالا تحت تعقیب نیست",
+            "تصمیم بر پایه بررسی شواهد قابل پذیرش و امکان پیگیری در آینده است",
+            "این اتفاق پس از پیام تشکر شاهزاده رضا پهلوی به کلمبیا منتشر شد"
+        ],
+        "impact": "عدم پیگرد قضایی می‌تواند به کاهش تنش‌های دیپلماتیک بین ایران و بریتانیا منجر شود",
+        "tag": "قضایی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609251586",
+        "clean_url": "https://www.iranintl.com/202609251586",
+        "image": "https://www.bing.com/th?id=ONUT.VH89HNNGd8tcRty6vvUF_g",
+        "timestamp": 1790364161.061225
+    },
+    {
+        "id": "53a2b89859",
+        "title_fa": "نتانیاهو در مجمع عمومی سازمان ملل سکوتی درباره ایران کرد",
+        "title_en": "What Netanyahu didn’t say at the UN was as telling as what he did",
+        "summary": [
+            "نتانیاهو هیچ اطلاعات جدیدی درباره برنامه هسته‌ای ایران ارائه نکرد",
+            "او به جای تهدید، به موضوع صلح در خاورمیانه و روابط با عربستان اشاره کرد",
+            "این عدم بیان می‌تواند نشانگر انتظار برای تصمیمات دیپلماتیک جدید باشد"
+        ],
+        "impact": "عدم ارائه تهدید جدید، فشار بین‌المللی بر ایران را تا حدی کاهش می‌دهد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/what-netanyahu-didnt-say-at-the-un-was-as-telling-as-what-he-did/",
+        "clean_url": "https://www.timesofisrael.com/what-netanyahu-didnt-say-at-the-un-was-as-telling-as-what-he-did",
+        "image": "https://www.bing.com/th?id=ONUT.7UA91D9Yr4p8uR5JsYZNLQ",
+        "timestamp": 1790364161.0607991
+    },
+    {
         "id": "e70a1d43d1",
         "title_fa": "قضیه دادگاه عالی: سوءاستفاده از داده‌های تامین اجتماعی",
         "title_en": "SCOTUS Greenlights the Misuse of Social Security Data",
@@ -1839,6 +1896,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQUFESGsybWJYSHd5OVVqVUh0Y3lOMlhMQ2oxMWo2SHhwTWNMR0tYdlBJNWUzQ05lcVNRV29WWk04QU1qcE13NzBjaUV0Y3hnVGxkcjIxTmlyRlNEckllSXdRSU9FU0pQX0Y5QkF1bk11dzd0UkNEdEZtZjRyREZiX0prMVNOSUU",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790278203.0
+    },
+    {
+        "id": "e28fc3b4fb",
+        "title_fa": "ترامپ در مهمانی ریاست‌جمهوری چین درباره تعرفه‌ها و ایران می‌گوید",
+        "title_en": "Cina e Usa: Intesa sui dazi, ma restano le tensioni su armi a Taiwan, chip e dossier Iran",
+        "summary": [
+            "ترامپ اعلام کرد توافق موقت دو ماهه بر سر تعرفه‌های معادن برقرار شد",
+            "محدودیت صادرات چیپ پیشرفته به چین همچنان پابرجاست و هیچ چشم‌پوشی‌ای نیست",
+            "او اشاره کرد که پرونده ایران همچنان منبع تنش است و مذاکرات درباره آن ادامه دارد"
+        ],
+        "impact": "تجارت سنگین معادن موقتاً ادامه می‌یابد؛ اما محدودیت چیپ و تنش ایران‑چین فشار اقتصادی آمریکا را افزایش می‌دهد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Rai News",
+        "url": "https://www.rainews.it/video/2026/09/tregua-usa-cina-intesa-sui-dazi-ma-restano-le-tensioni-su-armi-a-taiwan-chip-e-dossier-iran-aa2dfa3d-7cae-4ad4-8b15-fa4932528415.html",
+        "clean_url": "https://www.rainews.it/video/2026/09/tregua-usa-cina-intesa-sui-dazi-ma-restano-le-tensioni-su-armi-a-taiwan-chip-e-dossier-iran-aa2dfa3d-7cae-4ad4-8b15-fa4932528415.html",
+        "image": "https://www.rainews.it/cropgd/1200x630/dl/img/2026/9/25/1790360601316_videoframe.png",
+        "timestamp": 1790277753.0
     },
     {
         "id": "b7ecef5e3b",
@@ -5317,78 +5393,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/shame-on-you-netanyahu-takes-on-nyc-mayor-mamdani-at-un-as-delegates-walk-out-qatar-hits-back/ar-AA2cVNa1",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790222595.0
-    },
-    {
-        "id": "90c2d33660",
-        "title_fa": "رئیس‌جمهور: ایران هدف هسته‌ای ندارد، به پیمان NPT پایبند",
-        "title_en": "Iran still not seeking to obtain nuclear weapons — president",
-        "summary": [
-            "رئیس‌جمهور ایران به صراحت گفت هدف هسته‌ای ندارد",
-            "استناد به فتواهای دینی برای رد سلاح‌های کشتار جمعی شد",
-            "آمادگی برای توافق با آمریکا در چارچوب بین‌المللی اعلام شد",
-            "بیانیه می‌تواند فشار تحریم‌ها را کاهش دهد"
-        ],
-        "impact": "بیانیه مسیر مذاکرات هسته‌ای را باز می‌کند و فشار تحریمی را کم می‌کند",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2192513",
-        "clean_url": "https://tass.com/world/2192513",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790222595.0
-    },
-    {
-        "id": "886a8bfac4",
-        "title_fa": "سخنرانی ترامپ در مجمع عمومی: تهدید هسته‌ای ایران",
-        "title_en": "Trump at the UN: A transactional conception of global order",
-        "summary": [
-            "ترامپ در ۳۷ دقیقه، آمریکا را به عنوان نیروی اصلی صلح معرفی کرد",
-            "او ایران را بزرگ‌ترین حامی تروریسم جهان نامید و گفت آمریکا اجازه ساخت سلاح هسته‌ای به تهران نمی‌دهد",
-            "پیام او نشان می‌دهد واشنگتن قصد دارد فشار دیپلماتیک را به‌جای مذاکرات افزایش دهد"
-        ],
-        "impact": "افزایش فشار دیپلماتیک آمریکا بر ایران، احتمال اعمال تحریم‌های جدید",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/news/opinion/trump-at-the-un-a-transactional-conception-of-global-order-14036926.html",
-        "clean_url": "https://www.moneycontrol.com/news/opinion/trump-at-the-un-a-transactional-conception-of-global-order-14036926.html",
-        "image": "https://www.bing.com/th?id=ONUT.E_uiUriD9hFEonNBFh0Zjg",
-        "timestamp": 1790222587.1299133
-    },
-    {
-        "id": "5070626b43",
-        "title_fa": "خبر بین‌المللی — ایران live updates: Saudi Arabia issues safety alerts coveri",
-        "title_en": "Iran live updates: Saudi Arabia issues safety alerts covering Jeddah, Mecca",
-        "summary": [
-            "Iran-backed Houthi rebels have been firing on Saudi Arabia from Yemen."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-saudi-arabia-issues-safety-alerts-covering-jeddah-mecca/ar-AA2cEt54",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-saudi-arabia-issues-safety-alerts-covering-jeddah-mecca/ar-AA2cEt54",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790222157.0
-    },
-    {
-        "id": "b118ae25a6",
-        "title_fa": "خبر بین‌المللی — ‘You tried به stop me, you tried به silence me…’: نتانیاهو t",
-        "title_en": "‘You tried to stop me, you tried to silence me…’: Netanyahu targets Zohran Mamdani, Rama Duwaji at UNGA speech",
-        "summary": [
-            "Netanyahu also mentioned social media activity by Rama Duwaji accusing her of liking posts praising the October 7 massacre and denying Israel's right to exist."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Business Today",
-        "url": "https://www.businesstoday.in/world/story/you-tried-to-stop-me-you-tried-to-silence-me-netanyahu-targets-zohran-mamdani-rama-duwaji-at-unga-speech-557707-2026-09-25",
-        "clean_url": "https://www.businesstoday.in/world/story/you-tried-to-stop-me-you-tried-to-silence-me-netanyahu-targets-zohran-mamdani-rama-duwaji-at-unga-speech-557707-2026-09-25",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab5e033a1e34-benjamin-netanyahu-said-zohran-mamdani-tried-to-silence-him-254506389-16x9.png",
-        "timestamp": 1790221829.0
     }
 ]
