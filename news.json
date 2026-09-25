@@ -1,5 +1,24 @@
 [
     {
+        "id": "681d6dec8c",
+        "title_fa": "ترامپ پیشنهاد ممنوعیت صادرات دیزل آمریکا را داد",
+        "title_en": "Trump L’Oil: A Fake Fix for High Diesel Prices",
+        "summary": [
+            "در واکنش به افزایش قیمت دیزل پس از جنگ ایران‑آمریکا، ترامپ ایده ممنوعیت صادرات دیزل را مطرح کرد",
+            "این طرح تاریخی است و می‌تواند زنجیره تأمین سوخت‌های سنگین را به‌هم بزند",
+            "کارشناسان پیش‌بینی می‌کنند که چنین محدودیتی به اقتصاد داخلی و روابط تجاری آسیب می‌رساند"
+        ],
+        "impact": "ممنوعیت صادرات دیزل می‌تواند قیمت‌ها را در داخل آمریکا بالا برد و فشار بر حمل‌ونقل بین‌المللی را تشدید کند",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "The Bulwark",
+        "url": "https://www.thebulwark.com/p/trump-loil-oil-a-fake-fix-for-high-diesel-prices-fuel-export-ban",
+        "clean_url": "https://www.thebulwark.com/p/trump-loil-oil-a-fake-fix-for-high-diesel-prices-fuel-export-ban",
+        "image": "https://www.bing.com/th?id=ONUT.enKCALfZ28ixHPAej2-mJQ",
+        "timestamp": 1790296297.9318452
+    },
+    {
         "id": "5ad2ec6cfa",
         "title_fa": "گورکا ال‌ساید را به‌خاطر ایران «احمق» نامید",
         "title_en": "Gorka to Newsmax: El-Sayed an 'Imbecile' on Iran",
@@ -1008,6 +1027,25 @@
         "clean_url": "https://www.iranintl.com/en/202609240401",
         "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
         "timestamp": 1790271288.3988106
+    },
+    {
+        "id": "f4263394e4",
+        "title_fa": "پزشکیان: توافق‌نامه اسلام‌آباد برای ایران کاملاً قابل قبول است",
+        "title_en": "Islamabad MoU still fully acceptable to Iran, Pezeshkian tells PM ShehbazPublished on: September 25, 2026 4:54 AM",
+        "summary": [
+            "مسعود پزشکیان به نخست‌وزیر پاکستان گفت توافق‌نامه اسلام‌آباد در زمینه همکاری‌های اقتصادی و انرژی برای ایران \"کاملاً قابل قبول\" است",
+            "این بیانیه نشان از تمایل ایران به تقویت روابط منطقه‌ای در مواجهه با فشارهای غرب دارد",
+            "پذیرش این توافق می‌تواند پروژه‌های انرژی مشترک را تسریع کند"
+        ],
+        "impact": "تقویت همکاری‌های انرژی با پاکستان می‌تواند وابستگی ایران به صادرات نفت را کاهش دهد",
+        "tag": "دیپلماتیک",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "Daily Times on MSN",
+        "url": "https://www.msn.com/en-xl/asia/pakistan/islamabad-mou-still-fully-acceptable-to-iran-pezeshkian-tells-pm-shehbazpublished-on-september-25-2026-454-am/ar-AA2cVncW",
+        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/islamabad-mou-still-fully-acceptable-to-iran-pezeshkian-tells-pm-shehbazpublished-on-september-25-2026-454-am/ar-AA2cVncW",
+        "image": "http://www.bing.com/th?id=ONUT.CKVe85GRImI2N_eM-vPwsQ&pid=News",
+        "timestamp": 1790270040.0
     },
     {
         "id": "c0441122be",
@@ -3126,6 +3164,25 @@
         "timestamp": 1790226360.0
     },
     {
+        "id": "fd27937390",
+        "title_fa": "ایران: گسترش جنگ به اقیانوس هند در صورت حمله آمریکا",
+        "title_en": "Iran-US war news: War could expand to Indian Ocean if US attacks again, Iran issues big warning to Trump; what it means for India?",
+        "summary": [
+            "یحیی رحیم صافی، مشاور رهبری، اعلام کرد که در صورت حملهٔ مجدد آمریکا، جنگ می‌تواند از خلیج فارس به اقیانوس هند گسترش یابد",
+            "این اظهارات پس از سخنرانی رئیس‌جمهور مسعود پزشکیان در مجمع عمومی سازمان ملل منتشر شد",
+            "گسترش به اقیانوس هند می‌تواند مسیرهای تجاری بین‌المللی و ناوگان‌های نظامی آمریکا را به خطر بیندازد"
+        ],
+        "impact": "تهدید گسترش به اقیانوس هند می‌تواند فشار استراتژیک بر ناوگان‌های آمریکا در مسیرهای بحرانی را افزایش دهد",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "News24",
+        "url": "https://news24online.com/world/iran-us-war-news-war-could-expand-to-indian-ocean-if-us-attacks-again-iran-issues-big-warning-to-donald-trump-what-it-means-for-india-mojtaba-khamenei/933385/",
+        "clean_url": "https://news24online.com/world/iran-us-war-news-war-could-expand-to-indian-ocean-if-us-attacks-again-iran-issues-big-warning-to-donald-trump-what-it-means-for-india-mojtaba-khamenei/933385",
+        "image": "https://news24online.com/wp-content/uploads/2026/09/TRUMP.jpg-10.jpeg",
+        "timestamp": 1790226240.0
+    },
+    {
         "id": "ee9f0f69d7",
         "title_fa": "نتانیاهو در سازمان ملل به دشمنان حمله می‌کند",
         "title_en": "Israel's Netanyahu Expected to Denounce Enemies, Allies with UN Spotlight",
@@ -3584,6 +3641,25 @@
         "clean_url": "https://www.msn.com/en-au/news/other/trump-looks-world-directly-in-the-eye-over-the-iran-war/ar-AA2cQQqf",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790210771.4233446
+    },
+    {
+        "id": "87d793ea3b",
+        "title_fa": "نتانیاهو در مجمع ملل حمله به ایران را توجیه کرد",
+        "title_en": "Natanyahu justifica ante la ONU los ataques contra Irán: \"Estaríamos todos muertos\"",
+        "summary": [
+            "نتانیاهو در جلسه مجمع عمومی سازمان ملل، حملات نظامی اسرائیل به تأسیسات هسته‌ای ایران را ضروری اعلام کرد",
+            "او تاکید کرد که عدم اقدام می‌ساخت خطر مرگ جمعی برای جهان",
+            "برخی کشورها پیش از سخن او از جلسه خارج شدند، نشان از واکنش بین‌المللی شدید دارد"
+        ],
+        "impact": "تشدید تنش‌های نظامی می‌تواند خطر برخورد مستقیم را افزایش دهد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Exitosa Noticias",
+        "url": "https://www.exitosanoticias.pe/mundo/natanyahu-justifica-onu-ataques-iran-estariamos-todos-muertos-n184494",
+        "clean_url": "https://www.exitosanoticias.pe/mundo/natanyahu-justifica-onu-ataques-iran-estariamos-todos-muertos-n184494",
+        "image": "https://www.bing.com/th?id=ONUT.E9QTfTUaqfGBmEDBE3QI4Q",
+        "timestamp": 1790209889.0
     },
     {
         "id": "f04f2e80ce",
@@ -5234,79 +5310,5 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/trump-hit-with-grim-milestone-as-housing-market-takes-another-blow/ar-AA2cUD2Y",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790192045.0
-    },
-    {
-        "id": "6273efe9a1",
-        "title_fa": "رهبر نظامی ایران به توهین ترامپ در ملل واکنش داد",
-        "title_en": "Trump’s UN speech as ‘clumsy defense of a defeated aggressor’",
-        "summary": [
-            "محمدرضا رضایی سخنرانی ترامپ را «دفاع ناتوان» از جنگ‌گر مرتکب توصیف کرد.",
-            "او به صراحت گفت تهدید «نابودی» آمریکا به ایران، تنها راه تشدید فشار نظامی است.",
-            "این اظهارات می‌تواند حمایت داخلی نظامی را تقویت کند و ریسک برخورد مستقیم را بالا ببرد."
-        ],
-        "impact": "افزایش احتمال عملیات نظامی یا گسترش محاصره دریایی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/248033/Trump-s-UN-speech-as-clumsy-defense-of-a-defeated-aggressor",
-        "clean_url": "https://en.mehrnews.com/news/248033/Trump-s-UN-speech-as-clumsy-defense-of-a-defeated-aggressor",
-        "image": "https://media.mehrnews.com/d/2026/05/24/4/6034838.jpg?ts=1779636110525",
-        "timestamp": 1790191352.5752127
-    },
-    {
-        "id": "5118288591",
-        "title_fa": "سنا به قطعنامه اختیارات جنگی ایران رای داد زیرا گاز به 4.48 دلار رسید",
-        "title_en": "Senate votes on Iran war powers resolution as gas hits $4.48",
-        "summary": [
-            "The measure would direct President Donald Trump to remove U.S. troops from hostilities in Iran, but it does not carry the force of law..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/senate-votes-iran-war-powers-182246566.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/senate-votes-iran-war-powers-182246566.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/071874b9dfa920e897b81ca3f4fb5e9242a519d140702952fde61c91ecf3c093/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F8815dd6cbe7bf54289cad28262a7cc1d.jpg",
-        "timestamp": 1790191320.0
-    },
-    {
-        "id": "bc58c7e862",
-        "title_fa": "بازارهای اروپا به دلیل نفت و تنش‌های خاورمیانه سقوط کردند",
-        "title_en": "European markets retreat on oil rally, rate hike bets",
-        "summary": [
-            "شاخص‌های اروپایی پس از افزایش قیمت نفت و سبد اوراق دولتی کاهش یافت",
-            "عدم پیشرفت دیپلماتیک در خاورمیانه نگرانی سرمایه‌گذاران را افزون کرد",
-            "پیش‌بینی افزایش نرخ بهره فشار بر سهام را بیشتر کرد"
-        ],
-        "impact": "سرمایه‌گذاری در اوراق و سهام اروپایی کاهش می‌یابد",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "DPA International on MSN",
-        "url": "https://www.msn.com/en-gb/money/economy/european-markets-retreat-on-oil-rally-rate-hike-bets/ar-AA2cUOvv?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/money/economy/european-markets-retreat-on-oil-rally-rate-hike-bets/ar-AA2cUOvv",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790190754.0
-    },
-    {
-        "id": "6ca1010e5a",
-        "title_fa": "هگستث افشا کرد دارایی‌های ۳٫۱ میلیون دلاری",
-        "title_en": "Pete Hegseth reports at least $3.1 million in cash, investments and Bitcoin",
-        "summary": [
-            "وزیر دفاع دارایی‌های نقدی، سرمایه‌گذاری و بیت‌کوین خود را اعلام کرد",
-            "این افشا در حین فشار برای استیضاح به دلیل مدیریت جنگ ایران صورت گرفت",
-            "وجود بیت‌کوین نشان‌دهنده ورود ارزهای دیجیتال به سطوح بالای دولت است"
-        ],
-        "impact": "افشای دارایی‌ها می‌تواند استیضاح وزیر دفاع را تشدید کند",
-        "tag": "مالی",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "CNBC on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/pete-hegseth-reports-at-least-3-1-million-in-cash-investments-and-bitcoin/ar-AA2cV6j4?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/pete-hegseth-reports-at-least-3-1-million-in-cash-investments-and-bitcoin/ar-AA2cV6j4",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790190754.0
     }
 ]
