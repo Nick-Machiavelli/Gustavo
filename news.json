@@ -1,5 +1,22 @@
 [
     {
+        "id": "3a1ae927df",
+        "title_fa": "خبر بین‌المللی — Holt به Newsmax: نتانیاهو Missed Chance در Peace",
+        "title_en": "Holt to Newsmax: Netanyahu Missed Chance on Peace",
+        "summary": [
+            "Retired Air Force Brig. Gen. Blaine Holt told Newsmax on Thursday that Israeli Prime Minister Benjamin Netanyahu delivered a strong defense of his country before the United Nations but missed an..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Newsmax",
+        "url": "https://www.newsmax.com/newsmax-tv/blaine-holt-newsmax-benjamin-netanyahu/2026/09/24/id/1270613/",
+        "clean_url": "https://www.newsmax.com/newsmax-tv/blaine-holt-newsmax-benjamin-netanyahu/2026/09/24/id/1270613",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790299351.3850756
+    },
+    {
         "id": "cacacb31d3",
         "title_fa": "کارلسون: خط قرمز هسته‌ای، ترامپ باید حذف شود",
         "title_en": "Tucker Carlson draws a nuclear 'red line': Trump should be removed from office immediately",
@@ -1151,6 +1168,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzZCR2xNNFVjMFJ6bk5TRnlMT2daTEQ2cEl3OTZKQjgwc2VhUjZaR3ZnNWp2UmI0cGRnUEJXM3c3QWpQcFd3U2NvUmJKTWdySVV3ZmdjQmx6RkxGTjRIREZVTG1jai0xY0h6ZktKT3pyY3p4eTdNcFk3MUl4WDRMSkpfVUJEZjF5d0V0cHZWTkdvNVI4S1Y3V1JfZDI5WlRZdGRFWg",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790269227.0
+    },
+    {
+        "id": "64c70d78ae",
+        "title_fa": "نخست‌وزیر یونان خواستار تضمین آزادی کشتیرانی در تنگه‌های بین‌المللی شد",
+        "title_en": "نخست‌وزیر یونان خواستار تضمین آزادی کشتیرانی در تنگه‌های بین‌المللی شد",
+        "summary": [
+            "کیریاکوس میتسوتاکیس، نخست‌وزیر یونان، در سخنرانی خود در سازمان ملل خواستار حمایت جهانی از آزادی کشتیرانی و عبور بدون مانع از تنگه‌های بین‌المللی، مطابق قوانین بین‌المللی شد. او هشدار داد که مسیرهای..."
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609251459",
+        "clean_url": "https://www.iranintl.com/202609251459",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790269200.0
     },
     {
         "id": "c248dcdd9e",
@@ -5270,40 +5304,5 @@
         "clean_url": "https://www.foxnews.com/live-news/trump-iran-war-news-us-oil-prices-strait-of-hormuz-september-23",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/7416dc332c8ccf09fa41cdc6e8c33594.jpg",
         "timestamp": 1790194560.0
-    },
-    {
-        "id": "77cb4a779f",
-        "title_fa": "دیدار اد میلیبند با وزیر امور خارجه ایران در حالی که تهران به آمریکا در مورد تنگه هرمز اولتیماتوم می‌دهد.",
-        "title_en": "Ed Miliband meets Iran’s foreign minister as Tehran gives US ultimatum on strait of Hormuz",
-        "summary": [
-            "Senior Iranian officials say Washington has four to five days to respond to its conditions for reopening the strait..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AOL.co.uk",
-        "url": "https://www.aol.co.uk/articles/ed-miliband-meets-iran-foreign-191306000.html",
-        "clean_url": "https://www.aol.co.uk/articles/ed-miliband-meets-iran-foreign-191306000.html",
-        "image": "https://www.bing.com/th?id=ONUT.gz2GdTVlIdnlmhtsoffGmQ",
-        "timestamp": 1790194457.0
-    },
-    {
-        "id": "fde50f6ed3",
-        "title_fa": "آمادگی ترامپ برای حمله هوایی به یمن",
-        "title_en": "The urgency of recognizing the Ansar Allah government in Yemen",
-        "summary": [
-            "ترامپ نزدیک به شروع عملیات بمبارانی جدید علیه یمن شد؛ نشان‌دهنده تغییر رویکرد آمریکا به جنگ داخلی یمن است",
-            "این فشار می‌تواند حمایت ایران از حوثی‌ها را تقویت کند و تنش‌های خلیج فارس را تشدید کند"
-        ],
-        "impact": "احتمال تشدید جنگ در یمن و گسترش نفوذ ایران در منطقه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ZNetwork on MSN",
-        "url": "https://www.msn.com/en-us/news/other/the-urgency-of-recognizing-the-ansar-allah-government-in-yemen/ar-AA2cQMAN?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/the-urgency-of-recognizing-the-ansar-allah-government-in-yemen/ar-AA2cQMAN",
-        "image": "https://www.bing.com/th?id=ONUT.E535quCSsbziDHRVx8k9yw",
-        "timestamp": 1790194449.1542456
     }
 ]
