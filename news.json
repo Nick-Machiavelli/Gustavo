@@ -1,5 +1,23 @@
 [
     {
+        "id": "056fb5da58",
+        "title_fa": "قیمت نفت به‌دلیل امید به راه‌حل دیپلماتیک سقوط کرد",
+        "title_en": "Oil falls amid optimism over potential diplomatic solution to the Iran conflict",
+        "summary": [
+            "بازار نفت پس از اخبار مذاکرات صلح‌آمیز، حدود ۲ درصد کاهش یافت",
+            "کاهش قیمت نشان می‌دهد سرمایه‌گذاران به سرعت بهبود روابط خاورمیانه را می‌پذیرند"
+        ],
+        "impact": "قیمت‌های پایین‌تر به مصرف‌کنندگان انرژی در سطح جهانی سود می‌رساند",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWg0NGc2SjdwRnlqUG1pTU9kcnh0TmFINnBMd3ZiQ0hFcWZ2YkVONmpBS200djlScGE1cXhzUEJxTDBrV25QZ0hpNkFlbWNpbUtBTkhjOFBvWWZRd1NKMl9uODRYN0t5QWpFNl9zS1dvTEhTRjVNdzV2aS1xbkRZWmZYTURad1VQNFFjMGJKMXpXN01keVdyd2FremNrb3g4WTJSUGtR0gGrAUFVX3lxTE1kSlMwMkNPZ2F6TWdPM1F6bi02TXAzRzNkeTVUMG5oOWxlRTVONXNBdGstbklQLVhRcVdLMjdfMFFPM0lyOTBUU3hwdnVvc1kzN0xFYjJ1MWMtRG5YQWJ4MTBqekhfTFlxS3lOc1hHVktCV0h5UXI4NTh0d1FmaDJ5all3ZVdNVUd0cnplWUdlQjlnZDRxZmRWbXlNZ2xnUGRaSGtwTzBsWndJSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWg0NGc2SjdwRnlqUG1pTU9kcnh0TmFINnBMd3ZiQ0hFcWZ2YkVONmpBS200djlScGE1cXhzUEJxTDBrV25QZ0hpNkFlbWNpbUtBTkhjOFBvWWZRd1NKMl9uODRYN0t5QWpFNl9zS1dvTEhTRjVNdzV2aS1xbkRZWmZYTURad1VQNFFjMGJKMXpXN01keVdyd2FremNrb3g4WTJSUGtR0gGrAUFVX3lxTE1kSlMwMkNPZ2F6TWdPM1F6bi02TXAzRzNkeTVUMG5oOWxlRTVONXNBdGstbklQLVhRcVdLMjdfMFFPM0lyOTBUU3hwdnVvc1kzN0xFYjJ1MWMtRG5YQWJ4MTBqekhfTFlxS3lOc1hHVktCV0h5UXI4NTh0d1FmaDJ5all3ZVdNVUd0cnplWUdlQjlnZDRxZmRWbXlNZ2xnUGRaSGtwTzBsWndJSQ",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790299380.0
+    },
+    {
         "id": "3a1ae927df",
         "title_fa": "خبر بین‌المللی — Holt به Newsmax: نتانیاهو Missed Chance در Peace",
         "title_en": "Holt to Newsmax: Netanyahu Missed Chance on Peace",
@@ -2075,6 +2093,24 @@
         "clean_url": "https://www.iranintl.com/202609246395",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790250960.0
+    },
+    {
+        "id": "06cb66554a",
+        "title_fa": "مذاکرات آمریکا‑ایران برای بازگشایی هرمز به مرحلهٔ جدید رسید",
+        "title_en": "US-Iran talks focused on phased deal to reopen Hormuz",
+        "summary": [
+            "مذاکرات دو جانبه بر پایهٔ بازگشایی تدریجی هرمز در مقابل رفع تحریم‌های اقتصادی آمریکا متمرکز است",
+            "هر دو طرف هنوز نمی‌خواهند پیش از دریافت تعهدات کلیدی ریسک کنند"
+        ],
+        "impact": "اگر به توافق برسد، تجارت ایران رهایی می‌یابد و جریان نفت جهانی تثبیت می‌شود",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609249795",
+        "clean_url": "https://www.iranintl.com/en/202609249795",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/b23934742b81d81e0d6e1d56492b5b908e9fe2af-1280x853.jpg?rect=187,99,992,521&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790250900.0
     },
     {
         "id": "90dd601794",
@@ -5267,42 +5303,5 @@
         "clean_url": "https://www.elespectador.com/mundo/america/netanyahu-en-la-onu",
         "image": "https://www.bing.com/th?id=ONUT.t4C9eoFZWmJ-3BHtsxTm9Q",
         "timestamp": 1790195106.0
-    },
-    {
-        "id": "18a099807f",
-        "title_fa": "حوثی‌ها حمله موشکی به ریاض و تسهیلات آرامکو",
-        "title_en": "Houthis Say They Attacked Riyadh and Aramco Facilities in Yanbu",
-        "summary": [
-            "حوثی‌ها ادعا کردند موشک و پهپاد به هدف حساس در ریاض و تسهیلات آرامکو در یانبو فرستادند.",
-            "این حمله نشان‌دهنده توان عملیاتی بالای گروه حوثی و حمایت احتمالی ایران است.",
-            "هدف حمله احتمالاً ایجاد اختلال در صادرات نفت سعودی و فشار بر اقتصاد کشور است.",
-            "واکنش سعودی احتمالاً شامل تقویت دفاع هوایی و پاسخ نظامی خواهد بود."
-        ],
-        "impact": "اختلال در تولید و صادرات نفت سعودی می‌تواند قیمت جهانی نفت را بالا ببرد.",
-        "tag": "حمله",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "U.S. News & World Report",
-        "url": "https://www.usnews.com/news/world/articles/2026-09-24/houthis-say-they-attacked-riyadh-and-aramco-facilities-in-yanbu",
-        "clean_url": "https://www.usnews.com/news/world/articles/2026-09-24/houthis-say-they-attacked-riyadh-and-aramco-facilities-in-yanbu",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790195106.0
-    },
-    {
-        "id": "323b3d0d06",
-        "title_fa": "ترامپ بلافاصله پس از تهدید به نابودی با مقامات ایرانی دیدار می‌کند",
-        "title_en": "Trump meets with Iranian officials shortly after threatening annihilation",
-        "summary": [
-            "President Donald Trump said U.S. and Iranian officials met Tuesday, shortly after he threatened in his address to the U.N. General Assembly that he may \"annihilate\" the Islamic Republic if a deal isn't reached soon to end nearly seven-month war."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/trump-iran-war-news-us-oil-prices-strait-of-hormuz-september-23",
-        "clean_url": "https://www.foxnews.com/live-news/trump-iran-war-news-us-oil-prices-strait-of-hormuz-september-23",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/7416dc332c8ccf09fa41cdc6e8c33594.jpg",
-        "timestamp": 1790194560.0
     }
 ]
