@@ -1,5 +1,60 @@
 [
     {
+        "id": "249b8950af",
+        "title_fa": "پزشکیان، ش‌ن را به دادگاه جرایم آمریکا و اسرائیل کرد",
+        "title_en": "Pezeshkian turned the United Nations into a court for American and Israeli crimes",
+        "summary": [
+            "سخنرانی رئیس‌جمهور در ش‌ن، به‌صورت مستقیم به تهدیدات ترامپ علیه ایران اشاره کرد و آن را به‌عنوان سرکوب غربی نامید.",
+            "با تبدیل صحنه ش‌ن به محاکمه جرایم واشنگتن و تل‌آویو، پیام مقاومت و عدم نیاز به اجازه خارجی برای دفاع از حاکمیت ایران را تقویت کرد."
+        ],
+        "impact": "بیان قاطع در ش‌ن می‌تواند حمایت داخلی را تقویت کرده و تنش‌های دیپلماتیک با آمریکا و اسرائیل را تشدید کند.",
+        "tag": "سخنرانی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/530434/Pezeshkian-turned-the-United-Nations-into-a-court-for-American",
+        "clean_url": "https://www.tehrantimes.com/news/530434/Pezeshkian-turned-the-United-Nations-into-a-court-for-American",
+        "image": "https://media.tehrantimes.com/d/t/2026/09/26/4/6191876.jpg?ts=1790430109688",
+        "timestamp": 1790456753.952944
+    },
+    {
+        "id": "4dddd7796b",
+        "title_fa": "ترامپ رسانه‌ها را از کاخ سفید ممنوع کرد",
+        "title_en": "Elder: Why an angry Trump is banning media from White House",
+        "summary": [
+            "ترامپ به دلیل خشم، دسترسی روزنامه‌ها به کاخ سفید را قطع کرد",
+            "این اقدام نشان‌دهنده تشدید تنش بین دولت و رسانه‌هاست"
+        ],
+        "impact": "اطلاعات رسمی دولت برای عموم محدود می‌شود",
+        "tag": "رسانه",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Toronto Sun on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/elder-why-an-angry-trump-is-banning-media-from-white-house/ar-AA2d2hpu?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/news/other/elder-why-an-angry-trump-is-banning-media-from-white-house/ar-AA2d2hpu",
+        "image": "https://www.bing.com/th?id=ONUT.Jt3wM0SOoNy4KPiPwKsCrw",
+        "timestamp": 1790456753.9524572
+    },
+    {
+        "id": "2e30608b10",
+        "title_fa": "چین در مجمع متحدین به آمریکا درباره ایران واکنش داد",
+        "title_en": "China pushes back against US on Iran and Cuba in UN speech",
+        "summary": [
+            "چین اعلام کرد تحریم‌های آمریکا بر ایران و کوبا نامعقول است",
+            "دیپلماتیک چین خواست گفت‌وگوهای چندجانبه حفظ شود",
+            "این موضع می‌تواند تنش‌های دو جانبه را تشدید کند"
+        ],
+        "impact": "روابط آمریکا‑چین در حوزه تحریم‌ها داغ می‌شود",
+        "tag": "دیپلوماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790450077.0
+    },
+    {
         "id": "f31169b2f2",
         "title_fa": "ملانیا ترامپ میلیون‌ها دلار از کسب‌وکارهای جانبی گرفت",
         "title_en": "Melania Trump's multimillion-dollar side hustles draw scrutiny from major paper",
@@ -145,6 +200,79 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0gwNnhhTlZZWlFuRmhDLVhzS3Y3VDBGZnRUVEROc1h0anpwZ2RfZGZXR2ZvN3pEczZJWFR5UGtvVkFYTEtTSVpWVHA0cmVIdTJBUG9fbF9hVWZtV1gzblhqaGNNdXNpbGxZSVVSTW1WN1VDdEw3aUxSOUFoX013SlNJU1NMYVM2RXVzdUZfc3ZITkFJdzdJSTB1bVQ3UDZVVkx0VDRfbGdrNXhWSjY00gHDAUFVX3lxTE1SdUIwaUhDZWZJdGVhYXpIdTRDMW9TVExheXRkUkNJRlFMRC01ZE9jZTZMemlMemtzdVY5ejVMY0hEaEtoZWVVdHNWaXpFcEpYUmw3RmVZTG5BS0RNSUJEOGN3YnVwekZJSzA0ZUlJYUFSMHpsdHJTNEFRSk5PbGxwd2VFb0I0bVJDZDNGOUJvTUxXN1p0WUFuTVV4Vm13ZkZLU2hLdEVkcWpEejl1cm80V1ltaEdKRy1BQTduSm5KdDludw",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790427120.0
+    },
+    {
+        "id": "c66864fb07",
+        "title_fa": "پزشکان دو ساعت در الجزایر برای سوخت‌گیری معطل شد",
+        "title_en": "پزشکیان: حدود دو ساعت در الجزایر برای سوخت‌گیری معطل شدیم",
+        "summary": [
+            "پرواز دولتی ایران برای سوخت‌گیری در الجزایر دو ساعت توقف کرد",
+            "در این زمان وزیر کشور الجزایر را ملاقات کردند"
+        ],
+        "impact": "تاخیر کوتاه سفر رسمی ایران، اثر اقتصادی جزئی",
+        "tag": "سفر",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609266006",
+        "clean_url": "https://www.iranintl.com/202609266006",
+        "image": "http://www.bing.com/th?id=ONUT.ffHCEkuW6J6WX8O5InTU8Q&pid=News",
+        "timestamp": 1790425920.0
+    },
+    {
+        "id": "c5ab811d00",
+        "title_fa": "عراقچی و تخت‌روانچی در پرسش‌های ایران‌اینترنشنال سکوت کردند",
+        "title_en": "سکوت عراقچی و تخت‌روانچی در برابر پرسش‌های ایران‌اینترنشنال",
+        "summary": [
+            "خبرنگار درباره امید به توافق و جنگ دوباره پرسید",
+            "هر دو مقام بدون پاسخ ادامه دادند"
+        ],
+        "impact": "عدم پاسخ‌گویی می‌تواند شفافیت مذاکرات ایران را زیر سؤال ببرد",
+        "tag": "دیپلوماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609260549",
+        "clean_url": "https://www.iranintl.com/202609260549",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790425740.0
+    },
+    {
+        "id": "e1168df5b3",
+        "title_fa": "پزشکان پس از سخنرانی ترامپ لحن را در ملل عوض کرد",
+        "title_en": "پزشکیان: سخنرانی خود در سازمان ملل را پس از اظهارات ترامپ تغییر دادم",
+        "summary": [
+            "ترامپ در مجمع عمومی نکات سخت‌گیرانه‌ای علیه ایران گفت",
+            "پزشکان گفتند این اظهارات باعث تغییر متن سخنرانی ایران شد"
+        ],
+        "impact": "بیان رسمی ایران در ملل تحت فشار سخنرانی‌های آمریکا تغییر یافت",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609260570",
+        "clean_url": "https://www.iranintl.com/202609260570",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790425440.0
+    },
+    {
+        "id": "c5b4b1e931",
+        "title_fa": "ترامپ می‌گوید انتخابات میانه‌دوره محدودش نمی‌کند",
+        "title_en": "Iran wrong to expect midterms to restrain Trump, former US official says",
+        "summary": [
+            "اورتاگس تاکید کرد که فشار حداکثری علیه ایران ادامه دارد",
+            "تغییر ترکیب کنگره توانایی تصمیم‌گیری ترامپ را تغییر نمی‌دهد",
+            "ریسک تحریم‌های جدید برای تهران بالا است"
+        ],
+        "impact": "ایران با ادامه فشارهای اقتصادی و نظامی آمریکا مواجه می‌شود",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609258777",
+        "clean_url": "https://www.iranintl.com/en/202609258777",
+        "image": "http://www.bing.com/th?id=ONUT.cYwubepKoB30NSLGQeLrDQ&pid=News",
+        "timestamp": 1790425200.0
     },
     {
         "id": "8e08aea966",
@@ -935,6 +1063,42 @@
         "clean_url": "https://www.msn.com/en-us/news/other/el-sayed-a-coward-for-response-to-college-student-on-iran-joe-concha/ar-AA2cZbqI",
         "image": "https://www.bing.com/th?id=ONUT.VBZ8wlCNVN-gPfgxwz40Ng",
         "timestamp": 1790373827.085221
+    },
+    {
+        "id": "ffac69729e",
+        "title_fa": "ترامپ طرح ایران برای بازگشایی تنگه هرمز را رد کرد",
+        "title_en": "« Ils sont en train de méchamment perdre... » Donald Trump rejette le plan iranien pour rouvrir le détroit d’Ormuz",
+        "summary": [
+            "ایران پیشنهادی برای بازگشایی هرمز در هفت روز ارائه داد",
+            "ترامپ این پیشنهاد را «قابل قبول نیست» نامید",
+            "این رد می‌تواند فشار بر صادرات نفت ایران را ادامه دهد"
+        ],
+        "impact": "نقشه ایران برای رفع تحریم‌های نفتی به تعویق می‌افتد",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "20 Minutes on MSN",
+        "url": "https://www.msn.com/fr-fr/actualite/other/ils-sont-en-train-de-méchamment-perdre-donald-trump-rejette-le-plan-iranien-pour-rouvrir-le-détroit-d-ormuz/ar-AA2d22ci?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/fr-fr/actualite/other/ils-sont-en-train-de-méchamment-perdre-donald-trump-rejette-le-plan-iranien-pour-rouvrir-le-détroit-d-ormuz/ar-AA2d22ci",
+        "image": "https://www.bing.com/th?id=ONUT.ChdxY7YpdLltSfnzFVspIg",
+        "timestamp": 1790370336.0
+    },
+    {
+        "id": "0900bb42ef",
+        "title_fa": "خبر بین‌المللی — ترامپ rechaza la inaceptable propuesta de Irán para la reape",
+        "title_en": "Trump rechaza la inaceptable propuesta de Irán para la reapertura del estrecho de Ormuz",
+        "summary": [
+            "MADRID, 26 (EUROPA PRESS) El presidente estadounidense, Donald Trump, ha manifestado este sábado su rechazo a la última..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Europa Press on MSN",
+        "url": "https://www.msn.com/es-es/noticias/other/trump-rechaza-la-inaceptable-propuesta-de-irán-para-la-reapertura-del-estrecho-de-ormuz/ar-AA2d1yox?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/es-es/noticias/other/trump-rechaza-la-inaceptable-propuesta-de-irán-para-la-reapertura-del-estrecho-de-ormuz/ar-AA2d1yox",
+        "image": "https://www.bing.com/th?id=ONUT.D5XCe0YSaMwAd3-ErGeZYA",
+        "timestamp": 1790370336.0
     },
     {
         "id": "9a8b14b7b2",
@@ -5323,163 +5487,5 @@
         "clean_url": "https://www.iranintl.com/202609249103",
         "image": "http://www.bing.com/th?id=ONUT.rNR9rgGEmgTEAFqtvsL4Fg&pid=News",
         "timestamp": 1790251620.0
-    },
-    {
-        "id": "118b849a25",
-        "title_fa": "۴۷ سال مسیر انقلاب ایران به خلیج فارس",
-        "title_en": "From Najaf to Hormuz: The Forty-Seven-Year Road That Brought Iran’s Revolution to the Gulf’s Doorstep",
-        "summary": [
-            "مقاله به ریشه‌های استراتژیک انقلاب می‌پردازد و نشان می‌دهد هدف اولیه‌اش گسترش نفوذ در خلیج بود",
-            "پروژهٔ نظامی‌سازی در خلیج از سال ۱۹۷۹ تا امروز با تغییرات جزئی ادامه دارد"
-        ],
-        "impact": "درک بهتر ریشه‌های تهدیدات امنیتی خلیج برای سیاست‌گذاران فراهم می‌شود",
-        "tag": "تاریخ",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Middle East Monitor",
-        "url": "https://www.middleeastmonitor.com/20260924-from-najaf-to-hormuz-the-forty-seven-year-road-that-brought-irans-revolution-to-the-gulfs-doorstep/",
-        "clean_url": "https://www.middleeastmonitor.com/20260924-from-najaf-to-hormuz-the-forty-seven-year-road-that-brought-irans-revolution-to-the-gulfs-doorstep",
-        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/09/AA-20260918-42506679-42506657-IRANIANS_TAKE_TO_THE_STREETS_OF_TEHRAN_FOLLOWING_US_AND_ISRAELI_ATTACKS.jpg?fit=920%2C613&ssl=1",
-        "timestamp": 1790251443.7405057
-    },
-    {
-        "id": "6e4bc1f53f",
-        "title_fa": "بنیامین نتانیاهو: حکومت شرور ایران سقوط می‌کند و همه آن روز را جشن می‌گیریم",
-        "title_en": "بنیامین نتانیاهو: حکومت شرور ایران سقوط می‌کند و همه آن روز را جشن می‌گیریم",
-        "summary": [
-            "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در مجمع عمومی سازمان ملل گفت: «می‌خواهم با دقت به سخنانم گوش کنید. روزی، و شاید آن روز چندان دور نباشد، مردم ایران آزاد خواهند شد.» او افزود: «حکومت آدم‌کش آنها..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609244992",
-        "clean_url": "https://www.iranintl.com/202609244992",
-        "image": "http://www.bing.com/th?id=ONUT.p_iNKgTbmSCnpdm7wIcCRA&pid=News",
-        "timestamp": 1790251140.0
-    },
-    {
-        "id": "dd27af3709",
-        "title_fa": "نتانیاهو: روزی نه چندان دور جمهوری اسلامی سقوط خواهد کرد و مردم ایران آزاد خواهند شد",
-        "title_en": "نتانیاهو: روزی نه چندان دور جمهوری اسلامی سقوط خواهد کرد و مردم ایران آزاد خواهند شد",
-        "summary": [
-            "تنگه هرمز در مذاکرات اخیر جمهوری اسلامی و آمریکا در نیویورک به یکی از محورهای اصلی چانه‌زنی برای پایان جنگ تبدیل شده است. جمهوری اسلامی خواهان رفع محاصره آمریکاست که فشار سنگینی بر اقتصاد ایران وارد..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609246395",
-        "clean_url": "https://www.iranintl.com/202609246395",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790250960.0
-    },
-    {
-        "id": "06cb66554a",
-        "title_fa": "مذاکرات آمریکا‑ایران برای بازگشایی هرمز به مرحلهٔ جدید رسید",
-        "title_en": "US-Iran talks focused on phased deal to reopen Hormuz",
-        "summary": [
-            "مذاکرات دو جانبه بر پایهٔ بازگشایی تدریجی هرمز در مقابل رفع تحریم‌های اقتصادی آمریکا متمرکز است",
-            "هر دو طرف هنوز نمی‌خواهند پیش از دریافت تعهدات کلیدی ریسک کنند"
-        ],
-        "impact": "اگر به توافق برسد، تجارت ایران رهایی می‌یابد و جریان نفت جهانی تثبیت می‌شود",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609249795",
-        "clean_url": "https://www.iranintl.com/en/202609249795",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/b23934742b81d81e0d6e1d56492b5b908e9fe2af-1280x853.jpg?rect=187,99,992,521&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790250900.0
-    },
-    {
-        "id": "90dd601794",
-        "title_fa": "خبر بین‌المللی — Saudi coalition says it shot down six ballistic missiles fir",
-        "title_en": "Saudi coalition says it shot down six ballistic missiles fired by Houthis at Taif and Yanbu",
-        "summary": [
-            "RIYADH, Saudi Arabia — The Saudi-led coalition battling Yemen's Houthis says that its forces intercepted six ballistic missiles fired by the Iran-backed group, thwarting attacks on the Saudi cities of Taif and Yanbu."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-shot-down-six-ballistic-missiles-fired-by-houthis-at-taif-and-yanbu/",
-        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-it-shot-down-six-ballistic-missiles-fired-by-houthis-at-taif-and-yanbu",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790250780.0
-    },
-    {
-        "id": "5b30f8f8c7",
-        "title_fa": "خبر بین‌المللی — Fierce Rhetoric و Cowardly Pragmatism در ایرانی Theater",
-        "title_en": "Fierce Rhetoric and Cowardly Pragmatism in the Iranian Theater",
-        "summary": [
-            "Nothing exposes the fragility of totalitarian diplomacy quite like the panic that precedes submission. When one reads leaks from media outlets affiliated with Iran’s Islamic Revolutionary Guard..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Middle East Monitor",
-        "url": "https://www.middleeastmonitor.com/20260924-fierce-rhetoric-and-cowardly-pragmatism-in-the-iranian-theater/",
-        "clean_url": "https://www.middleeastmonitor.com/20260924-fierce-rhetoric-and-cowardly-pragmatism-in-the-iranian-theater",
-        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/09/AA-20260914-42467541-42467534-A_HUGE_ANTIUS_BANNER_HAS_BEEN_HUNG_IN_TEHRAN.jpg?fit=920%2C613&ssl=1",
-        "timestamp": 1790250646.7253063
-    },
-    {
-        "id": "d76696abac",
-        "title_fa": "جمهوری خواهان سنا آخرین تلاش‌ها برای پایان دادن به جنگ ایران را شکست دادند",
-        "title_en": "Senate Republicans defeat latest push to end Iran war",
-        "summary": [
-            "The vote marked a high-profile opportunity for GOP lawmakers to signal disagreement with Trump before heading home to campaign."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/senate-republicans-defeat-latest-push-to-end-iran-war/ar-AA2cUpRF",
-        "clean_url": "https://www.msn.com/en-us/news/other/senate-republicans-defeat-latest-push-to-end-iran-war/ar-AA2cUpRF",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790250420.0
-    },
-    {
-        "id": "53ea8a2593",
-        "title_fa": "نتانیاهو: اردوغان حاکم اورشلیم نمی‌شود",
-        "title_en": "نتانیاهو خطاب به اردوغان: حاکم اورشلیم نخواهی شد",
-        "summary": [
-            "نتانیاهو در مجمع عمومی ملل ترکیه را «ابرپراکننده دروغ‌های یهودستیزانه» و «دیکتاتور» نامید.",
-            "او به ادعای اردوغان درباره حاکمیت بر اورشلیم رد کرد و شهر را «پایتخت ابدی اسرائیل» توصیف کرد.",
-            "نتانیاهو ترکیه را متهم به میزبانی حماس، سرکوب مخالفان و تجاوز به قبرس شمالی کرد."
-        ],
-        "impact": "تشدید تنش اسرائیل‑ترکیه و احتمال فشار دیپلماتیک بیشتر در منطقه",
-        "tag": "روابط",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609244352",
-        "clean_url": "https://www.iranintl.com/202609244352",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790250120.0
-    },
-    {
-        "id": "6c255112b2",
-        "title_fa": "جنگ ایران‑آمریکا باعث کاهش شدید انتشار کربن شد",
-        "title_en": "Trump-appointed judge rejects Trump media outlets ban; Spanberger calls for data center \"rules of the road\"",
-        "summary": [
-            "جنگ با ایران باعث کاهش مصرف سوخت و انتشار گازهای گلخانه‌ای شد",
-            "این کاهش موقت است و به سیاست‌های انرژی وابسته"
-        ],
-        "impact": "نشان می‌دهد جنگ می‌تواند اثرات محیطی غیرمنتظره داشته باشد",
-        "tag": "محیط‌زیست",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Blue Virginia",
-        "url": "https://bluevirginia.us/2026/09/thursday-9-24-news-roundup-trump-rolls-out-red-carpet-for-communist-dictator-winces-in-pain-at-jet-flyover-ai-tech-leaders-to-un-please-control-the-technology-we-created/",
-        "clean_url": "https://bluevirginia.us/2026/09/thursday-9-24-news-roundup-trump-rolls-out-red-carpet-for-communist-dictator-winces-in-pain-at-jet-flyover-ai-tech-leaders-to-un-please-control-the-technology-we-created",
-        "image": "https://bluevirginia.us/wp-content/uploads/2026/09/montage0924.jpg",
-        "timestamp": 1790249792.574351
     }
 ]
