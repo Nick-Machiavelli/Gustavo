@@ -1,5 +1,25 @@
 [
     {
+        "id": "5049c8ba00",
+        "title_fa": "تحلیل سوئد: خروج‌ها می‌تواند به حزب چپ کمک کند",
+        "title_en": "Analys: Båda utfallen kan vara bra för Vänsterpartiet",
+        "summary": [
+            "تحلیل‌گر سوئد می‌گوید خروج‌های دو حزب می‌تواند موقعیت حزب چپ را تقویت کند",
+            "این دیدگاه نشان می‌دهد که ائتلاف‌های چپ‑سوسیالیست در سوئد در حال تغییر است",
+            "اگر حزب چپ به‌دست آوردن قدرت برسد، سیاست‌های رفاهی و مهاجرتی می‌تواند تحت تأثیر قرار گیرد",
+            "این تحولات برای روابط سوئد‑ایران تأثیر مستقیم ندارد"
+        ],
+        "impact": "تقویت حزب چپ می‌تواند سیاست‌های داخلی سوئد را به سمت سمت چپ سوق دهد",
+        "tag": "سیاست_سوئد",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Omni on MSN",
+        "url": "https://www.msn.com/sv-se/nyheter/other/analys-båda-utfallen-kan-vara-bra-för-vänsterpartiet/ar-AA2d1hGK?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/sv-se/nyheter/other/analys-båda-utfallen-kan-vara-bra-för-vänsterpartiet/ar-AA2d1hGK",
+        "image": "https://www.bing.com/th?id=ONUT.8lc7ngaTzsR2UiwI9LNmLg",
+        "timestamp": 1790435102.6889467
+    },
+    {
         "id": "fab8414493",
         "title_fa": "جنگ اطلاعاتی علیه حوثی‌ها به نفع مخالفان می‌چرخد",
         "title_en": "The intelligence war is turning against the Houthis",
@@ -34,6 +54,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUxSZFlzOVNFVTZ0b3NTQjREX3FMakM2RG5BNk8xS09UTEhiZ0xoMVpoMU93aDVhN3Fza1d5R2Y0TWJYbEo0UDgyeWdBWFE2ZldWZmhaMDE0UVhpQk8xclNnZGhiVHMtMjU4bmhWSTJLbnVUZHZsT1REUXBtSThJWFJrbFJLN18wc051WTdrWkZ4bXJzblJsTGhTdUo2aEVrZk5ubHhOQWVXTkk4M0xvUEs3V1JRTWFyWTNr",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790430315.0
+    },
+    {
+        "id": "22207c8151",
+        "title_fa": "خبر بین‌المللی — ترامپ posts map showing ‘ترامپ Strait’ after ایران proposes",
+        "title_en": "Trump posts map showing ‘Trump Strait’ after Iran proposes deal to open the waterway",
+        "summary": [
+            "Trump posts map showing ‘Trump Strait’ after Iran proposes deal to open the waterway WWNY"
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "WWNY",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0gwNnhhTlZZWlFuRmhDLVhzS3Y3VDBGZnRUVEROc1h0anpwZ2RfZGZXR2ZvN3pEczZJWFR5UGtvVkFYTEtTSVpWVHA0cmVIdTJBUG9fbF9hVWZtV1gzblhqaGNNdXNpbGxZSVVSTW1WN1VDdEw3aUxSOUFoX013SlNJU1NMYVM2RXVzdUZfc3ZITkFJdzdJSTB1bVQ3UDZVVkx0VDRfbGdrNXhWSjY00gHDAUFVX3lxTE1SdUIwaUhDZWZJdGVhYXpIdTRDMW9TVExheXRkUkNJRlFMRC01ZE9jZTZMemlMemtzdVY5ejVMY0hEaEtoZWVVdHNWaXpFcEpYUmw3RmVZTG5BS0RNSUJEOGN3YnVwekZJSzA0ZUlJYUFSMHpsdHJTNEFRSk5PbGxwd2VFb0I0bVJDZDNGOUJvTUxXN1p0WUFuTVV4Vm13ZkZLU2hLdEVkcWpEejl1cm80V1ltaEdKRy1BQTduSm5KdDludw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0gwNnhhTlZZWlFuRmhDLVhzS3Y3VDBGZnRUVEROc1h0anpwZ2RfZGZXR2ZvN3pEczZJWFR5UGtvVkFYTEtTSVpWVHA0cmVIdTJBUG9fbF9hVWZtV1gzblhqaGNNdXNpbGxZSVVSTW1WN1VDdEw3aUxSOUFoX013SlNJU1NMYVM2RXVzdUZfc3ZITkFJdzdJSTB1bVQ3UDZVVkx0VDRfbGdrNXhWSjY00gHDAUFVX3lxTE1SdUIwaUhDZWZJdGVhYXpIdTRDMW9TVExheXRkUkNJRlFMRC01ZE9jZTZMemlMemtzdVY5ejVMY0hEaEtoZWVVdHNWaXpFcEpYUmw3RmVZTG5BS0RNSUJEOGN3YnVwekZJSzA0ZUlJYUFSMHpsdHJTNEFRSk5PbGxwd2VFb0I0bVJDZDNGOUJvTUxXN1p0WUFuTVV4Vm13ZkZLU2hLdEVkcWpEejl1cm80V1ltaEdKRy1BQTduSm5KdDludw",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790427120.0
     },
     {
         "id": "8e08aea966",
@@ -204,6 +241,46 @@
         "timestamp": 1790410386.0
     },
     {
+        "id": "3b7160f0f6",
+        "title_fa": "ترامپ پیشنهاد ایران برای بازگشایی تنگه هرمز را رد کرد",
+        "title_en": "دونالد ترامپ: پیشنهاد جمهوری اسلامی را رد کردم",
+        "summary": [
+            "ترامپ گفت پیشنهادی از ایران برای بازگشایی فوری تنگه هرمز دریافت کرد اما آن را رد کرد",
+            "او ادعا کرد آمریکا کنترل کامل تنگه را دارد و حجم عظیمی نفت از آن عبور می‌کند",
+            "ترامپ افزود توافق پیشنهادی قابل قبول نیست چون ایران پول خود را از تنگه می‌گیرد",
+            "این اظهارات می‌تواند تنش‌های نفتی خلیج فارس را تشدید کند و بازارهای جهانی را ناآرام سازد"
+        ],
+        "impact": "رد پیشنهاد ایران می‌تواند خروج نفت از تنگه هرمز را محدود کرده و قیمت نفت را بالا ببرد",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609264099",
+        "clean_url": "https://www.iranintl.com/202609264099",
+        "image": "http://www.bing.com/th?id=ONUT.SvD5HeiN_I0w3TPJxMvpow&pid=News",
+        "timestamp": 1790405340.0
+    },
+    {
+        "id": "c331c4f9f1",
+        "title_fa": "هیئت فنی برای مذاکرات نیویورک سفر نکرد",
+        "title_en": "رسانه وابسته به سپاه: هیچ هیات فنی برای مذاکره با آمریکا به نیویورک نرفته است",
+        "summary": [
+            "رسانه سپاه ادعا کرد هیئتی به نیویورک نرفته و آن را خبرسازی نامید",
+            "عدم حضور فنی نشان می‌دهد مذاکرات مستقیم با واشنگتن در تعلیق است",
+            "تحریم‌های جدید آمریکا پروازها را به ۱.۷ میلیون شاغل تحت فشار می‌گذارد",
+            "شرکت‌های هواپیمایی مجبور به بازپرداخت بلیت‌های لغو شده‌اند اما بازپس‌گیری پول به دلیل محدودیت‌های بانکی دشوار است"
+        ],
+        "impact": "تحریم‌های هوایی فشار اقتصادی بر صنایع حمل‌ونقل و گردشگری ایران را تشدید می‌کند",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609262625",
+        "clean_url": "https://www.iranintl.com/202609262625",
+        "image": "http://www.bing.com/th?id=ONUT.IwS6JyH9a7uIkb0tHjdfvg&pid=News",
+        "timestamp": 1790402940.0
+    },
+    {
         "id": "e406c8827c",
         "title_fa": "قله نفت، پایان سپتامبر فرصتی برای خرید",
         "title_en": "[9/25] Crude oil peak-out brings forward the bottoming out: Will the end of September be the final buying opportunity?",
@@ -279,6 +356,46 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports-as-saudi-coalition-intercepts-projectiles/ar-AA2d1a6f",
         "image": "http://www.bing.com/th?id=ONUT.E-tWpbqCyKMI2OARwB5KkA&pid=News",
         "timestamp": 1790401149.0
+    },
+    {
+        "id": "4d541b8f2f",
+        "title_fa": "ترامپ: ایران نمی‌تواند سلاح هسته‌ای داشته باشد",
+        "title_en": "ترامپ: حکومت ایران نمی‌تواند سلاح هسته‌ای داشته باشد",
+        "summary": [
+            "ترامپ در توییت‌ خود تکرار کرد که ایران نمی‌تواند سلاح هسته‌ای داشته باشد",
+            "بیانیه در زمان اعلام تحریم‌های گسترده آمریکا بر پروازها منتشر شد",
+            "پیام واضحی به دولت ایران درباره ادامه فشارهای نظامی‑اقتصادی است",
+            "این اظهارنظر می‌تواند حمایت داخلی مخالفان برنامه هسته‌ای را تقویت کند"
+        ],
+        "impact": "بیان‌نامه ترامپ احتمالاً فشار بین‌المللی برای محدود کردن برنامه هسته‌ای ایران را افزایش می‌دهد",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609269886",
+        "clean_url": "https://www.iranintl.com/202609269886",
+        "image": "http://www.bing.com/th?id=ONUT.fPhrlQIr-VKq3NsGIsu88A&pid=News",
+        "timestamp": 1790400120.0
+    },
+    {
+        "id": "1a59fd1e54",
+        "title_fa": "ایران، اسرائیل و استراتژی آمریکا در خاورمیانه",
+        "title_en": "Part III: Iran, Israel And The Unravelling Of America’s Middle East Strategy",
+        "summary": [
+            "مقاله به بررسی استراتژی آمریکا در خاورمیانه می‌پردازد و نقش ایران را به‌عنوان بلوک مقاوم نشان می‌دهد",
+            "اشاره می‌کند که اسرائیل سعی دارد حاشیه‌های خود را در برابر حماس و دیگر گروه‌ها تقویت کند",
+            "تحریم‌های اقتصادی بر ایران فشار می‌آورد ولی توان مقاومتش را حفظ کرده است",
+            "بدون حضور یک قدرت منطقه‌ای قوی، ایالات متحده به تکیه بر اسرائیل برای حفظ امنیت می‌پردازد"
+        ],
+        "impact": "تحلیل نشان می‌دهد فشارهای آمریکا بر ایران ادامه دارد و نقش اسرائیل در منطقه تقویت می‌شود",
+        "tag": "استراتژی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Friday Times",
+        "url": "https://thefridaytimes.com/26-Sep-2026/part-iii-iran-israel-unravelling-america-s-middle-east-strategy",
+        "clean_url": "https://thefridaytimes.com/26-Sep-2026/part-iii-iran-israel-unravelling-america-s-middle-east-strategy",
+        "image": "http://www.bing.com/th?id=ONUT.DCLW8glSVSY-PRG0toQ_RA&pid=News",
+        "timestamp": 1790396880.0
     },
     {
         "id": "a0b23c7252",
@@ -386,6 +503,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790389370.0
+    },
+    {
+        "id": "4ad6dcffc3",
+        "title_fa": "پزشکیان: تحولات یمن ربطی به ایران ندارد",
+        "title_en": "مسعود پزشکیان: تحولات یمن ارتباطی با جمهوری اسلامی ندارد",
+        "summary": [
+            "پزشکیان تأکید کرد که درگیری یمن ربطی به ایران ندارد و حوثی‌ها باید با عربستان مذاکره کنند",
+            "بحران تنگه هرمز می‌تواند از طریق گفت‌وگو حل شود، نه با زور",
+            "اعتماد به مذاکرات با واشنگتن از دست رفته؛ قطر و پاکستان نقش میانجیگری را دارند",
+            "همکاری دفاعی فرانسه‑عربستان با ابهام و پنهان‌کاری همراه است"
+        ],
+        "impact": "بیان عدم دخالت ایران در یمن می‌تواند فشار بین‌المللی بر تهران را کاهش دهد",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609268471",
+        "clean_url": "https://www.iranintl.com/202609268471",
+        "image": "http://www.bing.com/th?id=ONUT.ajYTq0nS1cfkb_f87DbIgg&pid=News",
+        "timestamp": 1790389260.0
     },
     {
         "id": "8437643f1e",
@@ -5335,124 +5472,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwUVlVRVVsSXVYeHA5WXg5YnNDOHpHSmNacnVsUmVsbUFkOXBLZFVqekpNZWRsRGZ0bTNHRWgta1dRSFp4TjZOOVFGcnM4RXFYZ3Y5MzZzTGVhMEpGRnhaSGEtVFM4RzV3UW5EWlVnVVo1MGxoNm5IWFZjQ3hSX2c",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790247605.0
-    },
-    {
-        "id": "58adbc0203",
-        "title_fa": "از داوود تا جالوت: چگونه سایه بزرگ اسرائیل جرقه بی ثباتی و انزوای جهانی را برمی انگیزد",
-        "title_en": "From David to Goliath: How Israel's outsized shadow sparks global instability, isolation",
-        "summary": [
-            "As Netanyahu calls on Israel to become a \"super Sparta\", its reliance on military force, intelligence manipulation and international censorship has alienated long-standing allies, weakened international legal institutions,"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Business Standard",
-        "url": "https://www.tbsnews.net/features/big-picture/david-goliath-how-israels-outsized-shadow-sparks-global-instability-isolation",
-        "clean_url": "https://www.tbsnews.net/features/big-picture/david-goliath-how-israels-outsized-shadow-sparks-global-instability-isolation",
-        "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/25/netanyahu_big_picture.jpg",
-        "timestamp": 1790247120.0
-    },
-    {
-        "id": "e4ccbee629",
-        "title_fa": "خبر بین‌المللی — ایران’s Resilience و Changing Balance Power در Middle Eas",
-        "title_en": "Iran’s Resilience And The Changing Balance Of Power In The Middle East",
-        "summary": [
-            "The Iranian regime is intact; the war capacity of Iran, though weakened, has not been neutralized, while decades of economic sanctions have failed to strangle..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Friday Times",
-        "url": "https://thefridaytimes.com/24-Sep-2026/iran-s-resilience-changing-balance-power-middle-east",
-        "clean_url": "https://thefridaytimes.com/24-Sep-2026/iran-s-resilience-changing-balance-power-middle-east",
-        "image": "https://www.thefridaytimes.com/digital_images/large/2026-09-24/iran-s-resilience-changing-balance-power-middle-east-1790244480-7607.png",
-        "timestamp": 1790247067.9049978
-    },
-    {
-        "id": "a7595b3cae",
-        "title_fa": "خبر بین‌المللی — Editorial: Despite outrage, 'Big Oil' might not be charging",
-        "title_en": "Editorial: Despite outrage, 'Big Oil' might not be charging enough for gasoline",
-        "summary": [
-            "Historical analyses show gasoline isn't unusually expensive, and attempts to vilify the oil industry are politically motivated."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "CT Insider on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/editorial-despite-outrage-big-oil-might-not-be-charging-enough-for-gasoline/ar-AA2cSErb?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/editorial-despite-outrage-big-oil-might-not-be-charging-enough-for-gasoline/ar-AA2cSErb",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790247052.8523004
-    },
-    {
-        "id": "5fe9db24bb",
-        "title_fa": "خبر بین‌المللی — Articole despre \"operatiune-calin-georgescu\"",
-        "title_en": "Articole despre \"operatiune-calin-georgescu\"",
-        "summary": [
-            "Republicanii din Senatul SUA au blocat miercuri, 14 ianuarie, o rezoluție care i-ar fi interzis președintelui Donald Trump să întreprindă alte acțiuni militare în Venezuela fără autorizarea Ionuț Andr..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/operatiune-calin-georgescu-pag58",
-        "clean_url": "https://ziare.com/cautare/operatiune-calin-georgescu-pag58",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790246272.4800315
-    },
-    {
-        "id": "a3278e4a88",
-        "title_fa": "خبر بین‌المللی — Danny Danon در نتانیاهو's UN address و غزه recovery plan",
-        "title_en": "Danny Danon on Netanyahu's UN address and Gaza recovery plan",
-        "summary": [
-            "Israeli Ambassador to the U.N. Danny Danon joins 'Fox & Friends First' to discuss Prime Minister Netanyahu's upcoming address to the United Nations General Assembly. Danon shares his perspective on..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "FOX News on MSN",
-        "url": "https://www.msn.com/en-us/news/news/danny-danon-on-netanyahu-s-un-address-and-gaza-recovery-plan/vi-AA2cSRqp?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/news/danny-danon-on-netanyahu-s-un-address-and-gaza-recovery-plan/vi-AA2cSRqp",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790246269.7409866
-    },
-    {
-        "id": "77590b4338",
-        "title_fa": "خبر بین‌المللی — ترامپ tells U.N. ایران faces deal به rebuild or annihilation",
-        "title_en": "Trump tells U.N. Iran faces deal to rebuild or annihilation",
-        "summary": [
-            "After Iranian diplomats walked out of his General Assembly speech, Trump set a stark postwar choice—rebuild under a deal..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Independent Journal Review",
-        "url": "https://ijr.com/discover/trump-s-u-n-choice-for-iran-deal-or-annihilation-dbf5bb7a",
-        "clean_url": "https://ijr.com/discover/trump-s-u-n-choice-for-iran-deal-or-annihilation-dbf5bb7a",
-        "image": "https://www.bing.com/th?id=ONUT.d2V0c2NhApPZTL3pW2LFLg",
-        "timestamp": 1790246264.5007603
-    },
-    {
-        "id": "35adda1b47",
-        "title_fa": "خبر بین‌المللی — ترامپ’s lost his star power, at home و abroad",
-        "title_en": "Trump’s lost his star power, at home and abroad",
-        "summary": [
-            "At home and abroad, among a significant majority of Americans that includes increasing numbers of Republicans, as well as in the eyes of foreign leaders, the president of the United States is..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Los Angeles Times",
-        "url": "https://www.latimes.com/opinion/story/2026-09-24/trump-united-nations-xi-china-state-visit",
-        "clean_url": "https://www.latimes.com/opinion/story/2026-09-24/trump-united-nations-xi-china-state-visit",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/39d13f9/2147483647/strip/true/crop/5275x2769+0+374/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2F47%2Fcd4879c1443abb33ddf8c9b830da%2F2296751955.jpg",
-        "timestamp": 1790246256.2143674
     }
 ]
