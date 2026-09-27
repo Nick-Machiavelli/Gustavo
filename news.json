@@ -1,5 +1,60 @@
 [
     {
+        "id": "5da4eccc6e",
+        "title_fa": "اصلاح‌طلبان: شکست در مقابل سپاه",
+        "title_en": "Thank God that Iran has the IRGC: The reformists were \" defeated\" in Iran",
+        "summary": [
+            "رسانه‌های اصلاح‌طلب پس از خروج ترامپ از برجام، مسئولیت رنجش‌ها را به تست موشک سپاه نسبت دادند",
+            "مقاله اشاره می‌کند که ترامپ هرگز به برنامه موشکی به عنوان دلیل اصلی اشاره نکرده است"
+        ],
+        "impact": "این روایت می‌تواند حمایت عمومی از سپاه را در داخل کشور تقویت کند",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "EADaily",
+        "url": "https://eadaily.com/en/news/2026/09/27/thank-god-that-iran-has-the-irgc-the-reformists-were-defeated-in-iran",
+        "clean_url": "https://eadaily.com/en/news/2026/09/27/thank-god-that-iran-has-the-irgc-the-reformists-were-defeated-in-iran",
+        "image": "https://www.bing.com/th?id=ONUT.JD5VHLAD8_nx6sltd2QkrA",
+        "timestamp": 1790514608.6940818
+    },
+    {
+        "id": "3e771ca39b",
+        "title_fa": "ترامپ‌تی‌وی: شکست فوری رسانه‌ای",
+        "title_en": "Trump TV",
+        "summary": [
+            "روزنامه Daily Kos کارتون جدیدی با عنوان «ترامپ‌تی‌وی» منتشر کرد",
+            "متن مقاله می‌گوید سایت بدون تبلیغ‌کننده‌های بزرگ ادامه دارد ولی به کمک خوانندگان نیاز دارد"
+        ],
+        "impact": "عدم جذب تبلیغات باعث فشار مالی بر رسانه‌های مستقل می‌شود",
+        "tag": "رسانه",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Daily Kos",
+        "url": "https://www.dailykos.com/stories/2026/9/27/800102902/cartoon/trump-tv/",
+        "clean_url": "https://www.dailykos.com/stories/2026/9/27/800102902/cartoon/trump-tv",
+        "image": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/09/20260923edohc-a.jpg",
+        "timestamp": 1790514608.6932528
+    },
+    {
+        "id": "88cc2cd4d7",
+        "title_fa": "سپاه: آمریکا باید از غرب آسیا برود",
+        "title_en": "Iran's military: Americans must leave West Asia, we will not retreat one step",
+        "summary": [
+            "نیروی نظامی ایران اعلام کرد آمریکا باید از غرب آسیا خارج شود",
+            "گفته شد نیروی نظامی هیچ‌گونه عقب‌نشینی نخواهد کرد",
+            "این بیانیه در پس افزایش حضور نظامی آمریکا در منطقه منتشر شد"
+        ],
+        "impact": "بیانیه می‌تواند تنش‌های نظامی منطقه را تشدید کند و واکنش‌های دیپلماتیک را به تعویق بیندازد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Kurdistan24",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXVTaWozZk1rVGJHT25OMlFGbDdnV002a3dGVDNJaTFJNldBNnl0T1JndGlRSGhfN2tydlo3bmxFN1pCVEYtYVNXd1l4dzNhRVB6TmpydUJNYU5GdnMtUER6eTJwaXhJZ2dtcmRZekdmYWZXRTJTbU1mamhmVnh0S2V4LUpHOUZTNDQ3cHFNOVpnYnJSVUhla2kzM3JNV24tNENUNHgxX0h6cVhRVFFmQ3dDSk1NS0tuWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXVTaWozZk1rVGJHT25OMlFGbDdnV002a3dGVDNJaTFJNldBNnl0T1JndGlRSGhfN2tydlo3bmxFN1pCVEYtYVNXd1l4dzNhRVB6TmpydUJNYU5GdnMtUER6eTJwaXhJZ2dtcmRZekdmYWZXRTJTbU1mamhmVnh0S2V4LUpHOUZTNDQ3cHFNOVpnYnJSVUhla2kzM3JNV24tNENUNHgxX0h6cVhRVFFmQ3dDSk1NS0tuWXc",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790510785.0
+    },
+    {
         "id": "8a175db569",
         "title_fa": "ادعای نازا درباره رفتار ارتش اسرائیل در غزه؛ نقص‌های مستند",
         "title_en": "NAZA’s claims about IDF conduct in Gaza are grave. So are the film’s journalistic flaws",
@@ -54,6 +109,24 @@
         "timestamp": 1790509146.1656504
     },
     {
+        "id": "208691d4a8",
+        "title_fa": "قیمت گاز آمریکا: نقشه‌ و نمودار روزانه",
+        "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+        "summary": [
+            "NBC نقشه‌های قیمت گاز در ایالات متحده را به‌روز می‌کند",
+            "داده‌ها به صورت روزانه برای ایالت‌ها و شهرستان‌ها منتشر می‌شود"
+        ],
+        "impact": "دیده شدن نوسان قیمت گاز می‌تواند تصمیمات مصرف‌کنندگان و سیاست‌گذاران را تحت تأثیر قرار دهد",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790504580.0
+    },
+    {
         "id": "9edcd2424b",
         "title_fa": "ترامپ معامله هرمز را رد کرد؛ ایران خواستار مذاکره",
         "title_en": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
@@ -71,6 +144,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43MDVHUjlYS2J2N0RyYVBDR2ZYQzh5XzJGRFcwU2dUM2xBeFVxakZvSlBCTlNfSjBtTlhSZkRBSVFWNG9NVkpId3dDc3pDbkZPOGJnUjN1MXl1ejg",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790495051.0
+    },
+    {
+        "id": "49d176764e",
+        "title_fa": "قتل افسر پلیس در زنجان و واکنش ترامپ",
+        "title_en": "Police officer killed in northwestern Iran",
+        "summary": [
+            "افسر پلیس مژده‌بهار در عملیات ضد قاچاق کشته شد",
+            "وزارت خارجه ایران گفت واکنش اولیه ترامپ را دریافت کرده ولی هنوز پاسخی رسمی از واشنگتن نیست"
+        ],
+        "impact": "کشتن یک افسر پلیس امنیت محلی را تضعیف می‌کند و تنش دیپلماتیک با آمریکا را افزاش می‌دهد",
+        "tag": "امنیت",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609272542",
+        "clean_url": "https://www.iranintl.com/en/202609272542",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/ee6435a6b6d4eba8f2374e4eb8fba7172d89d361-800x533.jpg?rect=0,9,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790489520.0
     },
     {
         "id": "b28fbb85a2",
@@ -106,6 +197,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00SFhOZE1Ianp1LU5DX1dHamFfQ3k3dFptZGNNdHFSSkRvT29nQ0IzMm4zYllYWW5yUm5ES05KM2otN19XMERhZ0l0d1FyR3VyM2QxWE01WDhYWEdEX2c",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790486196.0
+    },
+    {
+        "id": "8b2d494129",
+        "title_fa": "سابق CIA: ترامپ در تله جنگ ایران",
+        "title_en": "Fmr. CIA Director on Iran war: Trump ‘got himself into this mess, now he can’t figure a way out’",
+        "summary": [
+            "کارگردان پیشین سیا در مصاحبه‌ای گفت ترامپ خود را در تله جنگ ایران گرفتار کرده و راه‌حل نمی‌بیند",
+            "او هشدار داد ادامه تنش‌ها می‌تواند به درگیری مستقیم منجر شود"
+        ],
+        "impact": "اظهارات این چهره می‌تواند فشار داخلی بر دولت آمریکا برای تغییر سیاست را افزایش دهد",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "ms",
+        "url": "https://www.ms.now/the-weekend/watch/fmr-cia-director-on-iran-war-trump-got-himself-into-this-mess-now-he-can-t-figure-a-way-out-2515508803782",
+        "clean_url": "https://www.ms.now/the-weekend/watch/fmr-cia-director-on-iran-war-trump-got-himself-into-this-mess-now-he-can-t-figure-a-way-out-2515508803782",
+        "image": "https://www.ms.now/wp-content/uploads/2026/09/1790510008752_n_theweekend_TrumpIranChina_260927_1920x1080.jpg?w=1200&h=630&crop=1",
+        "timestamp": 1790484900.0
     },
     {
         "id": "aa8d108e7e",
@@ -790,6 +899,25 @@
         "clean_url": "https://www.iranintl.com/202609268394",
         "image": "http://www.bing.com/th?id=ONUT.TDNaVTaOY00e8KBmNNWuWA&pid=News",
         "timestamp": 1790428560.0
+    },
+    {
+        "id": "77f0a5c319",
+        "title_fa": "دستگیری پهپاد زیرآبی آمریکا در هرمز",
+        "title_en": "US underwater drone seized in Strait of Hormuz, claim Iran's Revolutionary Guards",
+        "summary": [
+            "سپاه پاسداران اعلام کرد پهپاد زیرآبی آمریکایی مدل Remus 600 را در هرمز گرفت",
+            "عملیات با نظارت اطلاعاتی و جنگ الکترونیکی انجام شد",
+            "این دومین پهپاد مشابه در این ماه است و نشان‌دهنده افزایش فشار اطلاعاتی آمریکا در مسیر نفت است"
+        ],
+        "impact": "از دست رفتن یک پهپاد اطلاعاتی مهم، توانایی جاسوسی آمریکا در هرمز را محدود می‌کند",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/international/us/us-underwater-drone-seized-in-strait-of-hormuz-claim-irans-revolutionary-guards/articleshow/134519887.cms",
+        "clean_url": "https://economictimes.indiatimes.com/news/international/us/us-underwater-drone-seized-in-strait-of-hormuz-claim-irans-revolutionary-guards/articleshow/134519887.cms",
+        "image": "https://www.bing.com/th?id=ONUT.bVE3bqh2tSknkqT-RFRjqA",
+        "timestamp": 1790428198.0
     },
     {
         "id": "53abf5b655",
@@ -5401,127 +5529,5 @@
         "clean_url": "https://www.iranintl.com/202609249589",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790268300.0
-    },
-    {
-        "id": "439b862f9d",
-        "title_fa": "خبر بین‌المللی — A warmongering ceasefire, ترامپ 20-point peace plan و a vei",
-        "title_en": "A warmongering ceasefire, the Trump 20-point peace plan and a veil over the ongoing Gaza genocide",
-        "summary": [
-            "Overall, the coercive Trump Plan was one-sided from its origins. This should come as no surprise in view of the US/Israel..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "ZNetwork on MSN",
-        "url": "https://www.msn.com/en-us/news/other/a-warmongering-ceasefire-the-trump-20-point-peace-plan-and-a-veil-over-the-ongoing-gaza-genocide/ar-AA2cUBj7?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/a-warmongering-ceasefire-the-trump-20-point-peace-plan-and-a-veil-over-the-ongoing-gaza-genocide/ar-AA2cUBj7",
-        "image": "https://www.bing.com/th?id=ONUT.eWFeIm-jxPYBI6GjsWRIoQ",
-        "timestamp": 1790268163.8247874
-    },
-    {
-        "id": "f225794fe7",
-        "title_fa": "خبر بین‌المللی — ترامپ’s چین deals are buying time, not restraint",
-        "title_en": "Trump’s China deals are buying time, not restraint",
-        "summary": [
-            "Donald Trump has offered Beijing concessions in pursuit of ‘deals’, but Xi Jinping has given Washington little in return..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/trumps-china-deals-are-buying-time-not-restraint-14048184.html",
-        "clean_url": "https://www.firstpost.com/opinion/trumps-china-deals-are-buying-time-not-restraint-14048184.html",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790268155.6381543
-    },
-    {
-        "id": "41d724f52b",
-        "title_fa": "پزشکی: پایان جنگ به تصمیم آمریکا",
-        "title_en": "Iran's president says it is up to US to choose if it wants to end Iran war",
-        "summary": [
-            "پزشکی گفت پایان جنگ به انتخاب ایالات متحده است و ایران نمی‌خواهد ادامه دهد.",
-            "او در مصاحبه‌ای با فاکس نیوز تأکید کرد که آمریکا باید تصمیم بگیرد که آیا می‌خواهد جنگ را تمام کند یا نه."
-        ],
-        "impact": "اگر آمریکا تصمیم به ادامه جنگ بگیرد، فشار نظامی و اقتصادی بر ایران افزایش می‌یابد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/irans-president-says-us-choose-233923662.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/irans-president-says-us-choose-233923662.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/6647266055641e5ee3402ecbe0cf35ff56dbf01b0d1e5cc43609dd7be8d3d44b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6baa4df073f8a6ed9d5306488d1cc56a.jpg",
-        "timestamp": 1790267940.0
-    },
-    {
-        "id": "6c6d1d3560",
-        "title_fa": "روزیه او'دونیل درباره بازسازی پرونده اپستین",
-        "title_en": "Why Rosie O’Donnell Wanted To Bring Epstein Survivors On ‘Jimmy Kimmel Live!’",
-        "summary": [
-            "او'دونیل می‌خواست در برنامه جیمی کیمل به قربانیان اپستین بپردازد",
-            "شبکه ABC برنامه را رد کرد؛ او در پادکست خود ادامه داد",
-            "این موضوع نشان می‌دهد محدودیت‌های تلویزیونی در پوشش مسائل جنسی"
-        ],
-        "impact": "آگاهی عمومی درباره پرونده اپستین در رسانه‌های سرگرمی افزایش می‌یابد",
-        "tag": "سرگرمی",
-        "urgency": 1,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/why-rosie-o-donnell-wanted-153000614.html",
-        "clean_url": "https://www.yahoo.com/entertainment/tv/articles/why-rosie-o-donnell-wanted-153000614.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/ff221fa4f4f66f99036b1651261af1382fc28de31b9fa9536c5e6351173c0d1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F82f57eceff914f25d7654cfb0ee23587.jpg",
-        "timestamp": 1790267894.0576766
-    },
-    {
-        "id": "380161644a",
-        "title_fa": "خبر بین‌المللی — دموکرات‌ها hit جمهوری‌خواهان with do-nothing charges after a",
-        "title_en": "Democrats hit Republicans with do-nothing charges after abrupt House adjournment",
-        "summary": [
-            "Speaker Mike Johnson abruptly ended the House of Representatives' legislative session early to allow members to campaign for the upcoming midterm elections following several contentious votes on..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Hill on MSN",
-        "url": "https://www.msn.com/en-us/news/other/democrats-hit-republicans-with-do-nothing-charges-after-abrupt-house-adjournment/ar-AA2cUrcr?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/democrats-hit-republicans-with-do-nothing-charges-after-abrupt-house-adjournment/ar-AA2cUrcr",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790267165.4349597
-    },
-    {
-        "id": "f31ff64afa",
-        "title_fa": "خبر بین‌المللی — Oil rises 2% as hopes fade برای US-ایران breakthrough",
-        "title_en": "Oil rises 2% as hopes fade for US-Iran breakthrough",
-        "summary": [
-            "Oil prices rose around 2% on Thursday as talks between the United States and Iran showed little sign of progress during the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609248498",
-        "clean_url": "https://www.iranintl.com/en/202609248498",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1790267160.918298
-    },
-    {
-        "id": "d1b5182e54",
-        "title_fa": "خبر بین‌المللی — Revolutionary court sentences nine lawyers به more than 14 y",
-        "title_en": "Revolutionary court sentences nine lawyers to more than 14 years in prison",
-        "summary": [
-            "A Revolutionary Court in the city of Rasht in Iran’s Gilan province has sentenced nine lawyers to a combined total of more..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609240974",
-        "clean_url": "https://www.iranintl.com/en/202609240974",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1790267154.2223234
     }
 ]
