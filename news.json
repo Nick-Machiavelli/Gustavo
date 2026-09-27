@@ -1,5 +1,24 @@
 [
     {
+        "id": "a1abf9d31a",
+        "title_fa": "ترامپ می‌خواهد وضعیت پیش از جنگ با ایران را بازگرداند",
+        "title_en": "Mark Kelly: Trump ‘stuck’ with Iran and wants to ‘get back to where he was before’ war started",
+        "summary": [
+            "مارک کلی سناتور آمریکا می‌گوید ترامپ با ایران گیر کرده و می‌خواهد پیش از شروع جنگ به وضعیت قبلی برگردد",
+            "این اظهارات نشان می‌دهد احتمال فشار دیپلماتیک یا تغییر موضع آمریکا نسبت به تحریم‌ها وجود دارد",
+            "اگر ترامپ به این مسیر ادامه دهد، مذاکرات هسته‌ای ممکن است دوباره فعال شود"
+        ],
+        "impact": "احتمال تغییر سیاست آمریکا نسبت به تحریم‌های ایران و بازگشت به مذاکرات هسته‌ای",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2NSalJ6YXVPUEZrbXpoQ05LYXRGNlM0ekVIY29qdUxmREJHMGhQZmdxQW04eGNEMFkycFNTUmQtMGhiM2V0QVo2U2lmSC04T0dSaGNzaWtHMWNhVktOc1I3SzI2cjBiNTNpSktWeWJsMmVFOE5DSFVnaE5WLWdGdXVCVUxEZlFz0gGOAUFVX3lxTFBsRnZRcFU1UHZHQ2RmWHFyQThnZHBHYXB0SDJGQldDMllFSjNxWW5XbnVLajljWF9EV2tRU0hPdFd4WUx5dnhBanNqbkNURWs3UkJYZkFGM2gxdDNLSWdMMnlyVURoOHVnNHA1LVAySVZvRFpRM1Y4RGxtbml1c1UtSWstV00zN2Jfd0FfT2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2NSalJ6YXVPUEZrbXpoQ05LYXRGNlM0ekVIY29qdUxmREJHMGhQZmdxQW04eGNEMFkycFNTUmQtMGhiM2V0QVo2U2lmSC04T0dSaGNzaWtHMWNhVktOc1I3SzI2cjBiNTNpSktWeWJsMmVFOE5DSFVnaE5WLWdGdXVCVUxEZlFz0gGOAUFVX3lxTFBsRnZRcFU1UHZHQ2RmWHFyQThnZHBHYXB0SDJGQldDMllFSjNxWW5XbnVLajljWF9EV2tRU0hPdFd4WUx5dnhBanNqbkNURWs3UkJYZkFGM2gxdDNLSWdMMnlyVURoOHVnNHA1LVAySVZvRFpRM1Y4RGxtbml1c1UtSWstV00zN2Jfd0FfT2c",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790526360.0
+    },
+    {
         "id": "829b8fe22e",
         "title_fa": "ترامپ پس از رد طرح، این هفته مذاکرات را می‌گوید",
         "title_en": "After nixing Iran proposal, Trump tells Axios he expects talks this week",
@@ -221,6 +240,23 @@
         "timestamp": 1790504580.0
     },
     {
+        "id": "488db21df8",
+        "title_fa": "نتانیاهو در سالگرد کشته شدن حسن نصرالله: عید بر مردم اسرائیل مبارک است",
+        "title_en": "نتانیاهو در سالگرد کشته شدن حسن نصرالله: عید بر مردم اسرائیل مبارک است",
+        "summary": [
+            "در پیرانشهر، کومار درافتاده ۱۶ ساله با شلیک ساچمه از فاصله نزدیک به سینه و شکم کشته شد. در اشنویه، امین معرفت ۱۶ ساله، میلان حقیقی ۲۱ ساله و عبدالسلام قادر گلوان ۳۲ ساله هدف گلوله قرار گرفتند."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609273326",
+        "clean_url": "https://www.iranintl.com/202609273326",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790502000.0
+    },
+    {
         "id": "70d36ae652",
         "title_fa": "جریان نفت در هرمز بالا رفت؛ تهدیدهای ایران ادامه دارد",
         "title_en": "Hormuz oil flows rise despite Iran threats against shipping",
@@ -239,6 +275,80 @@
         "clean_url": "https://www.iranintl.com/en/202609279147",
         "image": "http://www.bing.com/th?id=ONUT.BnwnFwxFVz72NULyWwK9Lg&pid=News",
         "timestamp": 1790500560.0
+    },
+    {
+        "id": "b86b908782",
+        "title_fa": "سناتور کندی: تحریم‌ها و محاصره باید ادامه یابد",
+        "title_en": "جان کندی، سناتور جمهوری‌خواه، درباره ایران: باید به تحریم‌ها و محاصره ادامه دهیم",
+        "summary": [
+            "جان کندی تأکید کرد تحریم‌ها و محاصره باید ادامه یابد",
+            "او تنگه هرمز را «بسته» توصیف کرد و اثر آن بر قیمت نفت را برجسته کرد",
+            "کندی گفت یا راه‌حلی برای باز کردن تنگه پیدا می‌کنیم یا تنش را تشدید می‌کنیم"
+        ],
+        "impact": "فشار اقتصادی بیشتر بر ایران و احتمال نوسان شدید قیمت نفت",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609274671",
+        "clean_url": "https://www.iranintl.com/202609274671",
+        "image": "http://www.bing.com/th?id=ONUT.OwVRGJW6FTtjIgkZylcctQ&pid=News",
+        "timestamp": 1790500440.0
+    },
+    {
+        "id": "d415313ceb",
+        "title_fa": "ترامپ: انتظار دارم این هفته گفت‌وگوهای بیشتری با ایران داشته باشیم",
+        "title_en": "ترامپ: انتظار دارم این هفته گفت‌وگوهای بیشتری با ایران داشته باشیم",
+        "summary": [
+            "دونالد ترامپ، رییس‌جمهوری آمریکا، به اکسیوس گفت انتظار دارد مذاکره‌کنندگان آمریکایی این هفته گفت‌وگوهای بیشتری با هیات ایرانی داشته باشند. دو منبع منطقه‌ای نیز پیش‌بینی کردند دور تازه مذاکرات غیرمستقی..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609277628",
+        "clean_url": "https://www.iranintl.com/202609277628",
+        "image": "http://www.bing.com/th?id=ONUT.ds2TEADC_yMD0mlzGYtLvg&pid=News",
+        "timestamp": 1790498520.0
+    },
+    {
+        "id": "e5e4eb0b34",
+        "title_fa": "ترامپ: مذاکرات بیشتر با ایران، اما توافق دلخواه نیست",
+        "title_en": "ترامپ: انتظار دارم این هفته مذاکرات بیشتری با جمهوری اسلامی انجام شود",
+        "summary": [
+            "ترامپ گفت این هفته مذاکرات بیشتری با ایران خواهد شد، اما توافق دلخواه او نیست",
+            "او افزود ۲۰ میلیون بشکه نفت از تنگه هرمز عبور کرده‌اند",
+            "مذاکرات غیرمستقیم توسط قطر ادامه دارد"
+        ],
+        "impact": "نشان‌دهنده ادامه دیپلماسی فشارآمیز و تأثیر بر بازار نفت",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609273714",
+        "clean_url": "https://www.iranintl.com/202609273714",
+        "image": "http://www.bing.com/th?id=ONUT.6F3b1kC6TW8jr1NZOImWmQ&pid=News",
+        "timestamp": 1790496060.0
+    },
+    {
+        "id": "7bc02fecb1",
+        "title_fa": "ترامپ: پنج مرد قصد خراب‌کاری در پایگاه فرفورد داشتند",
+        "title_en": "ترامپ: بازداشت‌شدگان در بریتانیا قصد داشتند به پایگاه فرفورد خسارت گسترده وارد کنند",
+        "summary": [
+            "ترامپ ادعا کرد پنج مرد در بریتانیا قصد خراب‌کاری در پایگاه فرفورد داشتند",
+            "فرفورد به‌عنوان پایگاهی که در عملیات علیه ایران به کار می‌رود، هدف این طرح بود",
+            "بازداشت این افراد توسط مقامات بریتانیایی تأیید شد"
+        ],
+        "impact": "تقویت روایت تهدیدات تروریستی علیه نیروهای آمریکایی در خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609277685",
+        "clean_url": "https://www.iranintl.com/202609277685",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790495760.0
     },
     {
         "id": "9edcd2424b",
@@ -316,6 +426,25 @@
         "timestamp": 1790486953.0
     },
     {
+        "id": "075e538c15",
+        "title_fa": "پزشکیان: ترامپ خواب نابودی ایران را می‌بیند",
+        "title_en": "پزشکیان: ترامپ خواب نابودی و ساقط کردن ایران را خواهد دید",
+        "summary": [
+            "مسعود پزشکیان گفت ترامپ «خواب نابودی ایران» می‌بیند اما مردم ایران بر موانع غلبه می‌کنند",
+            "او به‌نظر می‌آید آمریکا و اسرائیل انتظار سقوط داخلی ایران را داشته‌اند",
+            "این حرف‌ها می‌تواند به‌عنوان حمایت از مقاومت داخلی تفسیر شود"
+        ],
+        "impact": "افزایش حس ملی‌گرایی و مقاومت در داخل ایران",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609277175",
+        "clean_url": "https://www.iranintl.com/202609277175",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790486400.0
+    },
+    {
         "id": "3917932707",
         "title_fa": "خبر بین‌المللی — Live - ایران says awaiting formal US answer after ترامپ reje",
         "title_en": "Live - Iran says awaiting formal US answer after Trump rejection",
@@ -369,6 +498,25 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/smotrich-calls-on-israel-to-annex-southern-lebanon-most-of-gaza",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/F260616CG29-640x400.jpg",
         "timestamp": 1790484780.0
+    },
+    {
+        "id": "34ad457d85",
+        "title_fa": "نیروهای مسلح ایران ۱۹ کشتی متخلف را هدف قرار دادند",
+        "title_en": "خبرگزاری فارس: نیروهای مسلح جمعه و شنبه ۱۹ کشتی «متخلف» را در تنگه هرمز هدف قرار دادند",
+        "summary": [
+            "نیروهای مسلح ایران ۱۹ کشتی «متخلف» را در تنگه هرمز هدف قرار دادند",
+            "گزارش‌ها حاکی از شلیک موشک‌های کروز و پهپادهای انتحاری به کشتی‌های تجاری است",
+            "تهدیدهای خانوادگی به افراد مرتبط با بنیاد شهید نیز منتشر شد"
+        ],
+        "impact": "کاهش عبور تجاری در تنگه و افزایش خطر برای ناوگان بین‌المللی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609271875",
+        "clean_url": "https://www.iranintl.com/202609271875",
+        "image": "http://www.bing.com/th?id=ONUT.aKeWjSHEfM6J283KYdnwQA&pid=News",
+        "timestamp": 1790484000.0
     },
     {
         "id": "aa8d108e7e",
@@ -689,6 +837,25 @@
         "timestamp": 1790463600.0
     },
     {
+        "id": "0cc5f0a967",
+        "title_fa": "ایران در برابر پیشنهاد هورموز هسته‌ای امتناع می‌کند",
+        "title_en": "Iran rejects nuclear concessions in Hormuz proposal",
+        "summary": [
+            "مقام ارشد ایرانی در مجمع عمومی سازمان ملل اعلام کرد در برنامه هسته‌ای هیچ امتیازی نمی‌دهد",
+            "بازگشایی هورموز مشروط به پایان جنگ، رفع تحریم‌های نفتی و آزادسازی دارایی‌های مسدود شده است",
+            "این موضع می‌تواند فشار اقتصادی بر آمریکا را افزایش دهد و مذاکرات هسته‌ای را به تعویق بیندازد"
+        ],
+        "impact": "ادامه بسته بودن هورموز فشار بر بازار نفت و تقویت موضع ایران در مذاکرات هسته‌ای",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Daily Times",
+        "url": "https://dailytimes.com.pk/1558797/iran-rejects-nuclear-concessions-in-hormuz-proposal/",
+        "clean_url": "https://dailytimes.com.pk/1558797/iran-rejects-nuclear-concessions-in-hormuz-proposal",
+        "image": "https://dailytimes.com.pk/assets/uploads/2026/09/26/Iran-rejects-nuclear-concessions-in-Hormuz-proposal.jpg",
+        "timestamp": 1790462820.0
+    },
+    {
         "id": "7e232c7c3f",
         "title_fa": "خبر بین‌المللی — ایران insists در diplomatic solution after ترامپ rejects pea",
         "title_en": "Iran insists on diplomatic solution after Trump rejects peace plan",
@@ -923,6 +1090,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUtBVUJSRWdjelUySnhBRGJUNDN2TEd4QndjRnBXa0NJS1h3cVBBaFJkdlF3SHBrTTJJYUhScUt5WVFQRHZObXVJLXF3aUhqSVVReFFmcnRtMGEtclVxZXJnZjF3TW93eFJjYXM2VUw3S0txTnNhNU9leFRiSGpXcFNwVElPTEJlZ2VwYnByUXRvOUo3N2p4X3dRaURoMld3VEprbTBiWGMtMXhGXzdPYTlfaWZsSXB0NmN1NlM1dmxBcVE",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790447239.0
+    },
+    {
+        "id": "1cae11dec4",
+        "title_fa": "نتانیاهو پیام عید را با ویدئوی شعله‌دار منتشر کرد",
+        "title_en": "Netanyahu marks Nasrallah killing anniversary with ‘happy holiday’ message",
+        "summary": [
+            "نتانیاهو ویدئویی منتشر کرد که رهبران ایران، حزب‌الله و حماس را در شعله‌ها نشان می‌دهد",
+            "پیام «عید بر مردم اسرائیل» به‌صورت صریح تهدیدی نمادین به ایران است",
+            "این انتشار می‌تواند واکنش‌های انتقادی داخلی و بین‌المللی را برانگیزد"
+        ],
+        "impact": "تشدید رادیکال‌سازی روابط اسرائیل‑ایران و افزایش تنش در فضای مجازی",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609278272",
+        "clean_url": "https://www.iranintl.com/en/202609278272",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1790444587.0
     },
     {
         "id": "dc7a98c2fe",
@@ -5362,190 +5548,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fejNiR3ZtZXNjejk1NG4zNXVHdHZKUXEybXZsQW5fQXpxMTNVYjU2Zjl1VlY2YnhzTjF4LTZnRVpEVGVMeXRpdkF3Z3hLTElHRFE",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790273606.0
-    },
-    {
-        "id": "6908effbad",
-        "title_fa": "طرح هفت‌روزه ایران برای بازگشایی هورموز",
-        "title_en": "Iran proposes 7-day roadmap to reopen Strait of Hormuz",
-        "summary": [
-            "وزیر خارجه ایران برنامه‌ای هفت‌روزه برای پایان جنگ و بازگشایی تنگه هورموز به آمریکا پیشنهاد داد.",
-            "پیشنهاد مشروط به رعایت چند شرط است و نشان‌دهنده تمایل تهران به دیپلماسی فشارآور است."
-        ],
-        "impact": "اگر پذیرفته شود، مسیر نفت‌کشانی خاورمیانه باز می‌شود و فشار اقتصادی بر ایران کاهش می‌یابد.",
-        "tag": "هورموز",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Chosun Ilbo on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/iran-proposes-7-day-roadmap-to-reopen-strait-of-hormuz/ar-AA2cUVH4",
-        "clean_url": "https://www.msn.com/en-xl/news/other/iran-proposes-7-day-roadmap-to-reopen-strait-of-hormuz/ar-AA2cUVH4",
-        "image": "http://www.bing.com/th?id=ONUT.UkqCOMl5NviAcMAdBGFcLQ&pid=News",
-        "timestamp": 1790273593.0
-    },
-    {
-        "id": "ede1ccf604",
-        "title_fa": "خبر بین‌المللی — ترامپ threatened به 'annihilate' ایران. Its president laid ش",
-        "title_en": "Trump threatened to 'annihilate' Iran. Its president laid out Tehran's demands at the UN",
-        "summary": [
-            "Iranian President Masoud Pezeshkian used his wartime address in New York to reject Donald Trump's military threats and defend Tehran's nuclear program, missile capabilities and position on the Strait of Hormuz."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Arkansas Public Advocate",
-        "url": "https://www.msn.com/en-us/news/other/trump-threatened-to-annihilate-iran-its-president-laid-out-tehran-s-demands-at-the-un/ar-AA2cUxnK",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-threatened-to-annihilate-iran-its-president-laid-out-tehran-s-demands-at-the-un/ar-AA2cUxnK",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790273428.0
-    },
-    {
-        "id": "cde39cdbe8",
-        "title_fa": "ترامپ در مهمانی دولتی چین، دوستی آمریکا‑چین را تحسین کرد",
-        "title_en": "Trump praises US-China friendship, talks up White House ballroom during state dinner for China's Xi",
-        "summary": [
-            "در مهمانی شام ریاست‌جمهوری، ترامپ روابط دوستانه با چین را ستود و به جزئیات میهمانان و منو اشاره کرد.",
-            "این رویداد نشان می‌دهد که دیپلماسی نمادین در کنار تنش‌های ژئوپلیتیک ادامه دارد."
-        ],
-        "impact": "تقویت تصویر مثبت آمریکا در چین می‌تواند مذاکرات تجاری را تسهیل کند.",
-        "tag": "چین",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-praises-us-china-friendship-talks-up-white-house-ballroom-during-state-dinner-for-china-s-xi/ar-AA2cVhds",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-praises-us-china-friendship-talks-up-white-house-ballroom-during-state-dinner-for-china-s-xi/ar-AA2cVhds",
-        "image": "http://www.bing.com/th?id=ONUT.PPukuzazlWRBaRIQgKBkPw&pid=News",
-        "timestamp": 1790272444.0
-    },
-    {
-        "id": "0df97a6555",
-        "title_fa": "سنای آمریکا به رأی‌گیری پایان جنگ ایران می‌پردازد",
-        "title_en": "Senate to vote on ending Iran war as Americans face higher fuel costs from conflict",
-        "summary": [
-            "مجلس‌سنا در برابر هزینه‌های سوخت بالا، فشار برای خاتمه درگیری را حس می‌کند",
-            "تصمیم‌گیری می‌تواند مسیر دیپلماتیک یا نظامی را تغییر دهد"
-        ],
-        "impact": "احتمال کاهش هزینه‌های انرژی برای آمریکایی‌ها، اما ریسک تشدید فشار بر ایران",
-        "tag": "قانون‌گذاری",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrcEFuR2ltdy1LY0IzMk11WU1zaC1QZFVnZnQ0cnNZenBmVVZDX3c0NUNFNjhrQXhMdW9fSGZwRVJRcDZualZ5dDZMOUNHMjU1REdqbmNfb3RpZXF1NEV3V0FTU1lzUFJXNHBNNUNReERwZ0o5a3pINNIBfkFVX3lxTFAtLWJtQURVTkdxT3VyQ0FxVGZldldwcml6ZXVFU0ZuX2pCUlQzUEtQNi04U3ltWUMtQUp0Tzg2SmszUUF0R2M2QnNuRTJ1TkdyQkk4YWhRVzlqdk9DTnZsdlp1ZDhQeTh1aVFaRV9uLUdIdDFpRGRlUTVrakZ5Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrcEFuR2ltdy1LY0IzMk11WU1zaC1QZFVnZnQ0cnNZenBmVVZDX3c0NUNFNjhrQXhMdW9fSGZwRVJRcDZualZ5dDZMOUNHMjU1REdqbmNfb3RpZXF1NEV3V0FTU1lzUFJXNHBNNUNReERwZ0o5a3pINNIBfkFVX3lxTFAtLWJtQURVTkdxT3VyQ0FxVGZldldwcml6ZXVFU0ZuX2pCUlQzUEtQNi04U3ltWUMtQUp0Tzg2SmszUUF0R2M2QnNuRTJ1TkdyQkk4YWhRVzlqdk9DTnZsdlp1ZDhQeTh1aVFaRV9uLUdIdDFpRGRlUTVrakZ5Zw",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790271735.0
-    },
-    {
-        "id": "a7c692672c",
-        "title_fa": "کارلسون خواست ترامپ با ۲۵امین اصلاحیه عزل شود",
-        "title_en": "Tucker Carlson says Trump’s Cabinet must remove him from office under the 25th Amendment",
-        "summary": [
-            "تکر کارلسون در پادکست NPR خواست کابین ترامپ او را به‌سرعت عزل کند",
-            "او این درخواست را به‌دلیل تهدید حمله هسته‌ای ترامپ به ایران مطرح کرد",
-            "کارلسون اشاره کرد ممکن است عزل به‌دلیل فساد یا جرائم دیگر باشد"
-        ],
-        "impact": "فشار داخلی بر ترامپ افزایش می‌یابد اما تأثیر مستقیم بر سیاست ایران محدود است",
-        "tag": "آمریکا",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/tucker-carlson-says-trump-cabinet-163123000.html",
-        "clean_url": "https://www.aol.com/articles/tucker-carlson-says-trump-cabinet-163123000.html",
-        "image": "https://hermes.media.static.aol.com/media/2026/09/24/85797561-e178-303c-96eb-c055aa7632ef/c4a1284e-1b8c-4911-9837-088f3ebf2fa4.jpg",
-        "timestamp": 1790271627.3415082
-    },
-    {
-        "id": "ebe7c54bfc",
-        "title_fa": "ایران هدف دفاع هسته‌ای خود را تأیید کرد",
-        "title_en": "Iran admits nuclear defense aspiration goals",
-        "summary": [
-            "ایران به‌صراحت اعلام کرد هدفش دستیابی به توان دفاعی هسته‌ای است.",
-            "این تغییر موضع پس از سال‌ها انکار، نگرانی‌های امنیتی منطقه را تشدید می‌کند.",
-            "احتمال اعمال تحریم‌های جدید یا اقدام‌ها پیشگیرانه توسط کشورهای غربی افزایش می‌یابد."
-        ],
-        "impact": "افزایش تنش‌های نظامی منطقه و احتمال تحریم‌های جدید",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0Vnl1eERJYVJCWmNmSko2R2M0N1cxcHh5Ynp3bFptZ004TGNoUTJUb0EwT3gyM1A1U21OMm9YNXl3WWF5bk42SDcwT2pWUE90RVpyQkxDU2ZIZThfYVVLZ1ZMVW5kMGZhZU81X3F4S3FhSXgwWGI2T1ZvRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0Vnl1eERJYVJCWmNmSko2R2M0N1cxcHh5Ynp3bFptZ004TGNoUTJUb0EwT3gyM1A1U21OMm9YNXl3WWF5bk42SDcwT2pWUE90RVpyQkxDU2ZIZThfYVVLZ1ZMVW5kMGZhZU81X3F4S3FhSXgwWGI2T1ZvRQ",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790271614.0
-    },
-    {
-        "id": "4ee77841ad",
-        "title_fa": "آراقی با سعودی و اردن در نیویورک دیدار",
-        "title_en": "Iran's foreign minister meets Saudi, Jordanian counterparts in New York",
-        "summary": [
-            "آراقی با وزیر خارجه سعودی و اردنی در حاشیه مجمع عمومی سازمان ملل دیدار کرد",
-            "تهران آمادگی برای گفت‌وگو را اعلام کرد ولی «زبان زور» را رد کرد",
-            "ترامپ را «قهرمان زورگو» خواند و عکس‌های خامنه‌ای و قربانیان میناب را نشان داد",
-            "تاکید بر تضاد بین موضع‌گیری خارجی ایران و سرکوب داخلی"
-        ],
-        "impact": "گفت‌وگوهای منطقه‌ای تحت فشار؛ احتمال کاهش همکاری‌های اقتصادی",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609245476",
-        "clean_url": "https://www.iranintl.com/en/202609245476",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1790271288.399237
-    },
-    {
-        "id": "d3258a68aa",
-        "title_fa": "آراقی: آمریکا میانجی‌ها را تضعیف کرد",
-        "title_en": "Araghchi accuses US of undermining mediators’ role",
-        "summary": [
-            "آراقی می‌گوید آمریکا مکرراً توافقات را نقض کرده و نقش میانجی‌ها را تضعیف کرده است",
-            "نقض توافقات اسلام‌آباد امنیت منطقه را تشدید کرده و تنش‌ها را افزایش می‌دهد",
-            "ایران با عمان درصدد ایجاد سازوکار عبور امن کشتی‌ها از تنگه‌ Hormuz است",
-            "اقدام‌ها آمریکا به ناپایداری دیپلماتیک و خطر تشدید تنش در خلیج منجر می‌شود"
-        ],
-        "impact": "ایران‑امریکا روابط دیپلماتیک تیره می‌شود؛ خطر تشدید تنش در خلیج",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609240401",
-        "clean_url": "https://www.iranintl.com/en/202609240401",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1790271288.3988106
-    },
-    {
-        "id": "6cfe4f8275",
-        "title_fa": "خبر بین‌المللی — Who was invited به چین state dinner: White House releases gu",
-        "title_en": "Who was invited to China state dinner: White House releases guest list for celebration",
-        "summary": [
-            "Guests at the White House dinner hosted Thursday by President Donald Trump and Melania Trump for Chinese President Xi Jinping and his wife, Peng Liyuan, as released by the White House: President..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/who-was-invited-to-china-state-dinner-white-house-releases-guest-list-for-celebration/ar-AA2cVv9d",
-        "clean_url": "https://www.msn.com/en-us/news/other/who-was-invited-to-china-state-dinner-white-house-releases-guest-list-for-celebration/ar-AA2cVv9d",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790270424.0
-    },
-    {
-        "id": "f4263394e4",
-        "title_fa": "پزشکیان: توافق‌نامه اسلام‌آباد برای ایران کاملاً قابل قبول است",
-        "title_en": "Islamabad MoU still fully acceptable to Iran, Pezeshkian tells PM ShehbazPublished on: September 25, 2026 4:54 AM",
-        "summary": [
-            "مسعود پزشکیان به نخست‌وزیر پاکستان گفت توافق‌نامه اسلام‌آباد در زمینه همکاری‌های اقتصادی و انرژی برای ایران \"کاملاً قابل قبول\" است",
-            "این بیانیه نشان از تمایل ایران به تقویت روابط منطقه‌ای در مواجهه با فشارهای غرب دارد",
-            "پذیرش این توافق می‌تواند پروژه‌های انرژی مشترک را تسریع کند"
-        ],
-        "impact": "تقویت همکاری‌های انرژی با پاکستان می‌تواند وابستگی ایران به صادرات نفت را کاهش دهد",
-        "tag": "دیپلماتیک",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/asia/pakistan/islamabad-mou-still-fully-acceptable-to-iran-pezeshkian-tells-pm-shehbazpublished-on-september-25-2026-454-am/ar-AA2cVncW",
-        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/islamabad-mou-still-fully-acceptable-to-iran-pezeshkian-tells-pm-shehbazpublished-on-september-25-2026-454-am/ar-AA2cVncW",
-        "image": "http://www.bing.com/th?id=ONUT.CKVe85GRImI2N_eM-vPwsQ&pid=News",
-        "timestamp": 1790270040.0
     }
 ]
