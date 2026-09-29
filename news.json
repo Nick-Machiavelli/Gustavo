@@ -1,5 +1,65 @@
 [
     {
+        "id": "043f1bb6f8",
+        "title_fa": "افزایش نرخ بهره RBA و سقوط قیمت مسکن",
+        "title_en": "Will these RBA rate rises crash house prices?",
+        "summary": [
+            "بانک مرکزی استرالیا (RBA) نرخ بهره را برای چهارمین بار افزایش داد",
+            "تحلیل‌گران پیش‌بینی می‌کنند این اقدام باعث سقوط شدید قیمت مسکن می‌شود",
+            "تورم هنوز بالاتر از هدف ۲‑۳٪ RBA است",
+            "سقوط مسکن می‌تواند به رکود اقتصادی منجر شود"
+        ],
+        "impact": "افزایش نرخ بهره می‌تواند فشار مالی بر خریداران مسکن استرالیا را تشدید کند.",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Switzer Daily",
+        "url": "https://switzer.com.au/will-these-rba-rate-rises-crash-house-prices/",
+        "clean_url": "https://switzer.com.au/will-these-rba-rate-rises-crash-house-prices",
+        "image": "https://switzer.com.au/wp-content/uploads/2026/02/housepricefall.jpeg",
+        "timestamp": 1790721918.0735002
+    },
+    {
+        "id": "46494d3e1c",
+        "title_fa": "ایالات متحده ۱۰ نهاد را به‌خاطر حمایت نظامی تحریم کرد",
+        "title_en": "US sanctions 10 entities for allegedly supporting Iran’s military",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا ۱۰ شرکت و سازمان را به‌خاطر حمایت از نیروهای نظامی ایران تحریم کرد",
+            "این نهادها در تأمین قطعات و فناوری موشکی نقش داشته‌اند",
+            "تحریم‌ها به‌سرعت اثرات مالی بر آن‌ها خواهد گذاشت",
+            "اقدام نشانگر تشدید فشار آمریکا بر برنامه‌های نظامی ایران است"
+        ],
+        "impact": "تحریم‌ها می‌توانند توان مالی شبکه‌های پشتیبانی نظامی ایران را محدود کنند.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM21LMDMtUHZ6V1dZelNGTGVNOXdBb2lVWndHWnJlclVGWUFCNE1kSGVSRmVsWktxeG5CZEtKWnVKOHc3MVI3eXFsaFV2ZXVWMVhaT0xyVnFIMHQ1TWQ0dDltM0ZQZ0l4SXlUbjRtQW9rdzdlNW9sWmlMYTZLQWg1VFkzYkFuc1pKTFpuWHVoejY2WjlLVmRWcm5fcUMzOUJQM1VjN2RWZF_SAa4BQVVfeXFMUGs2WXZKVnVUQ2NJZVRNWHBpTW9oOHpsbXBWcjlwSHpnTmtFLWx0eFRlSmRDNkNrSkpJdE8wTzVxaVZaRG83bXRiYmx1amZONkhOaGk2UXNoNDBfQXBfczFZbU81RmJiamdmX3RYZFEyY0R5YzRscHVPWkJ5LTJhTHBZSnlfaG9kX2c1QmlpNmJ2eFVubHFZYjF5Q0RHOWFDemQ4QWJmcmQweXMzOWFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM21LMDMtUHZ6V1dZelNGTGVNOXdBb2lVWndHWnJlclVGWUFCNE1kSGVSRmVsWktxeG5CZEtKWnVKOHc3MVI3eXFsaFV2ZXVWMVhaT0xyVnFIMHQ1TWQ0dDltM0ZQZ0l4SXlUbjRtQW9rdzdlNW9sWmlMYTZLQWg1VFkzYkFuc1pKTFpuWHVoejY2WjlLVmRWcm5fcUMzOUJQM1VjN2RWZF_SAa4BQVVfeXFMUGs2WXZKVnVUQ2NJZVRNWHBpTW9oOHpsbXBWcjlwSHpnTmtFLWx0eFRlSmRDNkNrSkpJdE8wTzVxaVZaRG83bXRiYmx1amZONkhOaGk2UXNoNDBfQXBfczFZbU81RmJiamdmX3RYZFEyY0R5YzRscHVPWkJ5LTJhTHBZSnlfaG9kX2c1QmlpNmJ2eFVubHFZYjF5Q0RHOWFDemQ4QWJmcmQweXMzOWFR",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790715106.0
+    },
+    {
+        "id": "57837dbe30",
+        "title_fa": "پیش‌نویس توافق آمریکا‑ایران شامل معافیت نفتی",
+        "title_en": "Iran Says Draft US Deal Includes Oil Sanctions Waiver, Nuclear Limits and Asset Release",
+        "summary": [
+            "ایران اعلام کرد پیش‌نویس توافق شامل معافیت از تحریم‌های نفتی است",
+            "محدودیت‌های هسته‌ای و آزادسازی دارایی‌ها نیز در متن گنجانده شده",
+            "این پیش‌نویس می‌تواند مسیر مذاکرات هسته‌ای را هموار کند",
+            "هنوز جزئیات نهایی توسط دو طرف تأیید نشده است"
+        ],
+        "impact": "معافیت نفتی می‌تواند درآمدهای ارزی ایران را بهبود بخشد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzdKMnBXN2ppc2w4aGpPc01uZjBVY0cwRFl4MkoxOER3OGFjMTJEbFFWdUlzRGlVUTB0MUNEZWdYcUlEbG1zTW1BWEtjMFlXOE9vNjhVdlBETUdncUR2NWtYdGhuUENEa056QWtsLXJXSGg3WWhCVzQ2YnVnTXF3eHJqYXFLb2hfd1BhSVFkR1FiZUJEaGsyLUppQ0xNcF9iV1JpMDhpbHBoYjBvZjBBOG9sNWlCOWhf",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790714152.0
+    },
+    {
         "id": "00c95c0a3c",
         "title_fa": "قانون سوخت‌پذیری ترامپ هزینه بنزین را ۶۰۰۰ دلار بالا می‌برد",
         "title_en": "ICYMI: POLITICO: Trump’s ‘Affordability’ Car Rule Makes Drivers Pay More At The Pump",
@@ -264,6 +324,66 @@
         "timestamp": 1790694266.0
     },
     {
+        "id": "e518e2763b",
+        "title_fa": "ایالات متحده ۱۵ میلیون دلار جایزه برای اطلاعات نیسا",
+        "title_en": "آمریکا برای اطلاعات درباره سه فرمانده نیروی هوافضای سپاه ۱۵ میلیون دلار جایزه تعیین کرد",
+        "summary": [
+            "وزارت خارجه آمریکا جایزه تا ۱۵ میلیون دلار برای اطلاعات درباره سه فرمانده نیروی هوافضای سپاه اعلام کرد",
+            "هدف شناسایی سازوکارهای مالی و تولید پهپاد و موشک است",
+            "برنامه از طریق سیگنال‌های امن تور (Tor) اطلاعات می‌گیرد",
+            "این اقدام نشانگر تشدید فشار آمریکا بر توان نظامی ایران است"
+        ],
+        "impact": "جایزه می‌تواند منجر به افشای جزئیات حساس نیسا و تضعیف برنامه‌های موشکی شود.",
+        "tag": "نیسا",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609290439",
+        "clean_url": "https://www.iranintl.com/202609290439",
+        "image": "http://www.bing.com/th?id=ONUT.YlHyJf0_FFWNxIM9YwuC7g&pid=News",
+        "timestamp": 1790692740.0
+    },
+    {
+        "id": "68fb620637",
+        "title_fa": "نتانیاهو علیه هاآرتص و رسانه‌ها شکایت کرد",
+        "title_en": "نتانیاهو از روزنامه هاآرتص، چند رسانه وروزنامه‌نگار شکایت کرد",
+        "summary": [
+            "نتانیاهو پس از گزارش هاآرتص که او را پیش از ۷ اکتبر ۲۰۲۳ به امارات هشدار داده می‌داند، اقدام قانونی علیه روزنامه و چند رسانه دیگر کرد.",
+            "این حرکت نشان می‌دهد دولت اسرائیل نسبت به انتقادات رسانه‌ای حساس است و سعی دارد روایت خبری را تحت کنترل بگیرد.",
+            "اگر شکایت موفق شود، روزنامه‌ها ممکن است برای جلوگیری از پیگردهای قضایی خودسانسوری کنند.",
+            "ادعای نادیده‌گیری هشدار به امارات می‌تواند تنش‌های دیپلماتیک اسرائیل‑امارات را تشدید کند."
+        ],
+        "impact": "فشار بر آزادی مطبوعات و احتمال خودسانسوری رسانه‌ای در اسرائیل",
+        "tag": "رسانه",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609290065",
+        "clean_url": "https://www.iranintl.com/202609290065",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790692260.0
+    },
+    {
+        "id": "401131fd4c",
+        "title_fa": "بررسی نامه سپاه به مردم آمریکا",
+        "title_en": "جمشید برزگر: نامه سپاه پاسداران خطاب به مردم آمریکا بیشتر کاربرد داخلی دارد",
+        "summary": [
+            "جمشید برزگر می‌گوید نامه سپاه کاربرد داخلی دارد",
+            "نامه مشابه به بیانیه‌های خامنه‌ای اثر کوتاهی دارد",
+            "نشان می‌دهد تصمیم‌گیران ایران از واقعیت‌های میدانی آمریکا بی‌خبرند",
+            "این موضوع به آشفتگی داخلی ساختار قدرت می‌افزاید"
+        ],
+        "impact": "بی‌تاثیری نامه بر روابط عمومی ایران‑آمریکا، اما نشانگر ضعف استراتژیک است.",
+        "tag": "روابط‌عمومی",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609290650",
+        "clean_url": "https://www.iranintl.com/202609290650",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790692080.0
+    },
+    {
         "id": "67b58c9c8b",
         "title_fa": "یکی از افسران بازنشسته نیروهای ویژه ایالات متحده استدلال می‌کند که واشنگتن به جای اینکه منتظر فروپاشی باشد، باید شورشیان ایران را مسلح کند.",
         "title_en": "One retired US special forces officer argues that Washington should arm an Iranian insurgency instead of waiting for collapse",
@@ -296,6 +416,66 @@
         "clean_url": "https://www.indiatvnews.com/news/world/iran-rial-hits-record-low-irgc-s-mohebbi-accuses-us-of-targeting-nuclear-programme-2026-09-29-1055644",
         "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/iran-rial-hits-record-low-irgc-s-mohebbi-accuses-us-of-targeting-nuclear-programme-1790688309.jpg",
         "timestamp": 1790688480.0
+    },
+    {
+        "id": "f6e7c17842",
+        "title_fa": "ترامپ وضعیت بحرانی ایران را اعلام کرد",
+        "title_en": "ترامپ درباره ایران: هنوز نمی‌دانم قرار است تسلیم شوند یا نه",
+        "summary": [
+            "ترامپ گفت جمهوری اسلامی در «وضعیت خیلی بدی» است",
+            "او ادعا کرد ایران سلاح هسته‌ای نخواهد داشت",
+            "نفت از تنگه هرمز بیش از هر زمان دیگری خروج دارد",
+            "در والکس سرویس USDT موقتاً غیرفعال شد"
+        ],
+        "impact": "اظهارات ترامپ می‌تواند فشار سیاسی بر ایران را افزایش دهد.",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609299169",
+        "clean_url": "https://www.iranintl.com/202609299169",
+        "image": "http://www.bing.com/th?id=ONUT.-uezhs2NXHX4qrCYazSCjg&pid=News",
+        "timestamp": 1790686920.0
+    },
+    {
+        "id": "1794703b36",
+        "title_fa": "والکس سرویس واریز تتر را غیرفعال کرد",
+        "title_en": "واریز تتر در صرافی ایرانی والکس از طریق شبکه‌های اتریوم و ترون غیرفعال شد",
+        "summary": [
+            "کاربران نمی‌توانند تتر را از طریق شبکه‌های ERC‑20 و TRC‑20 واریز کنند",
+            "پیام خطا «امکان واریز USDT در بستر ERC20 وجود ندارد» نمایش داده می‌شود",
+            "غیرفعالی از روز ششم مهر ادامه دارد",
+            "این مشکل می‌تواند تراکنش‌های رمزارزی ایرانی را مختل کند"
+        ],
+        "impact": "قفل شدن مسیرهای واریز تتر باعث کاهش نقدینگی رمزارزی در ایران می‌شود.",
+        "tag": "رمزارز",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609297446",
+        "clean_url": "https://www.iranintl.com/202609297446",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790686560.0
+    },
+    {
+        "id": "5bf67ce8c1",
+        "title_fa": "ادعای برتری جهانی ایران و تهدید حمله پیشدستانه",
+        "title_en": "شکست شروط هفت‌گانه مجتبی خامنه‌ای با ادعای ابرقدرتی جهان؛ احتمال حمله پیش‌دستانه سپاه",
+        "summary": [
+            "خامنه‌ای ایران را «قدرت اول جهان» خواند",
+            "وال استریت ژورنال گزارش داد سپاه کنترل تنگه هرمز را از دست داده",
+            "رسانه‌ها احتمال حملات پیشدستانه سپاه به آمریکا را مطرح کردند",
+            "این ادعاها فضای تنش‌های نظامی را تشدید می‌کند"
+        ],
+        "impact": "افزایش احتمال برخورد نظامی می‌تواند امنیت خلیج فارس را به خطر اندازد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609294908",
+        "clean_url": "https://www.iranintl.com/202609294908",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790684640.0
     },
     {
         "id": "121379137e",
@@ -5402,178 +5582,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790389370.0
-    },
-    {
-        "id": "4ad6dcffc3",
-        "title_fa": "پزشکیان: تحولات یمن ربطی به ایران ندارد",
-        "title_en": "مسعود پزشکیان: تحولات یمن ارتباطی با جمهوری اسلامی ندارد",
-        "summary": [
-            "پزشکیان تأکید کرد که درگیری یمن ربطی به ایران ندارد و حوثی‌ها باید با عربستان مذاکره کنند",
-            "بحران تنگه هرمز می‌تواند از طریق گفت‌وگو حل شود، نه با زور",
-            "اعتماد به مذاکرات با واشنگتن از دست رفته؛ قطر و پاکستان نقش میانجیگری را دارند",
-            "همکاری دفاعی فرانسه‑عربستان با ابهام و پنهان‌کاری همراه است"
-        ],
-        "impact": "بیان عدم دخالت ایران در یمن می‌تواند فشار بین‌المللی بر تهران را کاهش دهد",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609268471",
-        "clean_url": "https://www.iranintl.com/202609268471",
-        "image": "http://www.bing.com/th?id=ONUT.ajYTq0nS1cfkb_f87DbIgg&pid=News",
-        "timestamp": 1790389260.0
-    },
-    {
-        "id": "8437643f1e",
-        "title_fa": "استاندار آمریکا: قیام در ایران حتماً رخ می‌دهد",
-        "title_en": "Video: Iran's next uprising is 'when, not if', says former US adviser",
-        "summary": [
-            "لودویک هود می‌گوید پنجمین شورش در ایران اجتناب‌ناپذیر است",
-            "فشار اقتصادی و محاصره دریایی توان مالی تهران را به‌حدی که نمی‌تواند حقوق نیروهای امنیتی را بپردازد، کاهش می‌دهد",
-            "رژیم در وضعیت آسیب‌پذیری ۴۷ ساله قرار دارد",
-            "این نکات می‌تواند به تشدید اعتراضات داخلی منجر شود"
-        ],
-        "impact": "افزایش فشار داخلی بر رژیم و احتمال تظاهرات گسترده",
-        "tag": "ناآرامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609265864",
-        "clean_url": "https://www.iranintl.com/en/202609265864",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1790389260.0
-    },
-    {
-        "id": "594a0f77b3",
-        "title_fa": "پزشکی: ایران دیگر به مذاکرات واشنگتن اعتماد ندارد",
-        "title_en": "‘We no longer trust talks with Washington’: Iran’s Pezeshkian says Hormuz crisis needs diplomacy",
-        "summary": [
-            "رئیس‌جمهور مسعود پزشکین گفت تکرار حملات و تحریم‌ها اعتماد تهران به آمریکا را از بین برده",
-            "او خواستار راه‌حل دیپلماتیک برای بحران هرمز شد، نه فشار نظامی"
-        ],
-        "impact": "احتمال ادامه تنش‌های اقتصادی و نظامی در خلیج‌فارس تا یافتن راه‌حل دیپلماتیک",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/we-no-longer-trust-talks-with-washington-iran-s-pezeshkian-says-hormuz-crisis-needs-diplomacy-article-14038850.html",
-        "clean_url": "https://www.moneycontrol.com/world/we-no-longer-trust-talks-with-washington-iran-s-pezeshkian-says-hormuz-crisis-needs-diplomacy-article-14038850.html",
-        "image": "http://www.bing.com/th?id=ONUT.ILsTgqTxT2RFhoxkt76mng&pid=News",
-        "timestamp": 1790388840.0
-    },
-    {
-        "id": "e8084658ff",
-        "title_fa": "پیشنهاد جدید ایران در مجمع عمومی، بی‌نتیجه",
-        "title_en": "A good week for Iran at the UN – but latest offer to the US appears a non-starter",
-        "summary": [
-            "دیپلمات‌های ایرانی پیشنهاد باز کردن هرمز در یک هفته را دوباره مطرح کردند",
-            "مذاکرات مستقیم با آمریکا به‌نظر می‌رسد که به‌سرعت به بن‌بست رسیده است"
-        ],
-        "impact": "کاهش امید به حل دیپلماتیک بحران هرمز در کوتاه‌مدت",
-        "tag": "سخنرانی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/good-week-iran-un-latest-090338940.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/good-week-iran-un-latest-090338940.html",
-        "image": "http://www.bing.com/th?id=ONUT.srIN2zHWTLerDh5zjuZpkQ&pid=News",
-        "timestamp": 1790388180.0
-    },
-    {
-        "id": "5bcb6fd59d",
-        "title_fa": "وضعیت مذاکرات باز کردن تنگه هرمز",
-        "title_en": "Where things stand after Iran's new pitch for a deal to open the Strait of Hormuz",
-        "summary": [
-            "ایران در نشست‌های نیویورک پیشنهاد باز کردن تنگه هرمز را مطرح کرد.",
-            "مذاکرات هنوز به توافق نرسیده و رقبای منطقه نظارت می‌کنند."
-        ],
-        "impact": "اگر توافق حاصل شود، مسیر صادرات نفتی ایران باز می‌شود",
-        "tag": "هرمز",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/where-things-stand-after-irans-new-pitch-for-a-deal-to-open-the-strait-of-hormuz/ar-AA2d0TbK",
-        "clean_url": "https://www.msn.com/en-us/news/other/where-things-stand-after-irans-new-pitch-for-a-deal-to-open-the-strait-of-hormuz/ar-AA2d0TbK",
-        "image": "http://www.bing.com/th?id=ONUT.OBYDakXhdAQiPBHPxpzeRg&pid=News",
-        "timestamp": 1790388074.0
-    },
-    {
-        "id": "0bf49f5c12",
-        "title_fa": "چین ادامه‌دار تهدید آمریکایی‌ها را پیش‌بینی می‌کند",
-        "title_en": "China expert says country 'will continue to try to kill Americans' | Elizabeth Vargas Reports",
-        "summary": [
-            "گوردن چانگ می‌گوید مذاکرات مستقیم ترامپ با شی جین‌پینگ نتوانست رفتار پکن را در تایوان و ایران تغییر دهد",
-            "چین آمریکا را بی‌احترام می‌داند و قصد دارد به‌صورت مداوم آمریکایی‌ها را هدف قرار دهد",
-            "به‌جای مذاکرات، ایالات متحده باید هزینه‌های چین را افزایش دهد تا رفتار تهدیدآمیزش را مهار کند"
-        ],
-        "impact": "افزایش فشار سیاسی و احتمال تشدید تنش‌های نظامی بین دو کشور",
-        "tag": "چین",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/videos/china-expert-says-country-continue-235058743.html",
-        "clean_url": "https://www.yahoo.com/news/videos/china-expert-says-country-continue-235058743.html",
-        "image": "https://www.bing.com/th?id=ONUT.ZhiYds_RF6bNdMxEK-sr_A",
-        "timestamp": 1790383759.3082943
-    },
-    {
-        "id": "a9de688e46",
-        "title_fa": "ادعای جِی‌دی ونس درباره ۴۰ سال تنش آمریکا‑اسرائیل",
-        "title_en": "JD Vance’s '40 years' claim ignores the history of US-Israel tensions",
-        "summary": [
-            "ونس می‌گوید هیچ‌یک از روسای‌جمهور پیشین ۴۰ سال به اسرائیل چالش ندادند.",
-            "تاریخ نشان می‌دهد چندین رئیس‌جمهور محدودیت‌های نظامی و تحریم‌ها اعمال کردند.",
-            "این ادعا به‌منظور تقویت حمایت داخلی از سیاست‌های اسرائیل مطرح شد.",
-            "تحلیل‌گران می‌گویند این نوع روایت‌ها برای تغییر دید عمومی به کار می‌رود."
-        ],
-        "impact": "تشدید روایت‌سازی سیاسی در آمریکا، ممکن است حمایت عمومی از اسرائیل را تقویت کند.",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-my/news/other/jd-vance-s-40-years-claim-ignores-the-history-of-us-israel-tensions/ar-AA2cZDQP?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-my/news/other/jd-vance-s-40-years-claim-ignores-the-history-of-us-israel-tensions/ar-AA2cZDQP",
-        "image": "https://www.bing.com/th?id=ONUT.D6WcEVb1SvLJaAXvxQboyg",
-        "timestamp": 1790383759.3076248
-    },
-    {
-        "id": "3b8eebbab4",
-        "title_fa": "پیمان مکه: آزمون واقعی برای عوامل غیردولتی",
-        "title_en": "Dealing With Non-State Actors: The Mecca Pact’s Real Test – Analysis",
-        "summary": [
-            "توافق مشترک عربستان، ترکیه و پاکستان هدف ایجاد دفاع جمعی در خاورمیانه است.",
-            "این پیمان به‌خصوص برای مقابله با گروه‌های شبه‌نظامی طراحی شده.",
-            "تحلیل‌گران می‌گویند اجرای عملی آن با چالش‌های سیاسی و مالی مواجه است.",
-            "هنوز مشخص نیست که آیا ایران یا اسرائیل در این چارچوب نقش خواهند داشت."
-        ],
-        "impact": "پیمان می‌تواند تعادل نظامی منطقه را تغییر دهد، اما اثر مستقیم بر ایران در کوتاه‌مدت کم است.",
-        "tag": "منطقه",
-        "urgency": 2,
-        "sentiment": 0,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/26092026-dealing-with-non-state-actors-the-mecca-pacts-real-test-analysis/",
-        "clean_url": "https://www.eurasiareview.com/26092026-dealing-with-non-state-actors-the-mecca-pacts-real-test-analysis",
-        "image": "https://www.bing.com/th?id=ONUT.O_4EEBlWXg0j3z_3tPNB4w",
-        "timestamp": 1790383759.307003
-    },
-    {
-        "id": "5cff5f2e74",
-        "title_fa": "کیهان مذاکرات را «عملیات فریب» خواند",
-        "title_en": "کیهان مذاکره با آمریکا را «عملیات فریب» خواند و خواستار پاسخ نظامی به محاصره شد",
-        "summary": [
-            "روزنامه کیهان مذاکرات با آمریکا را تلاشی برای کاهش فشار می‌داند.",
-            "بازگشت هورموز را «پالس ضعف» به واشینگتن می‌داند.",
-            "مقاله می‌گوید دیپلماسی بدون تقویت نظامی، نتایج ملموسی نخواهد داشت.",
-            "انتقاد اصلی به طرح‌های عراقچی و پزشکیان است که به‌نظر کیهان «تسلیم» است."
-        ],
-        "impact": "اگر دولت به مذاکرات ادامه دهد، فشار اقتصادی آمریکا بر ایران کاهش می‌یابد اما ریسک تضعیف موضع استراتژیک افزایش می‌یابد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609268641",
-        "clean_url": "https://www.iranintl.com/202609268641",
-        "image": "https://www.bing.com/th?id=ONUT.sn23XZAfdYtavq6FueEVgg",
-        "timestamp": 1790383759.3067043
     }
 ]
