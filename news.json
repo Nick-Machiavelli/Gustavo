@@ -1,5 +1,45 @@
 [
     {
+        "id": "f562e08e3e",
+        "title_fa": "قیمت گاز بالا؛ هزینه آزادی هم افزا می‌شود",
+        "title_en": "Gas prices are high, but so is the price of liberty",
+        "summary": [
+            "قیمت گاز در ایالات متحده به اوج رسیده و همزمان هزینه‌های آزادی سیاسی افزایش می‌یابد",
+            "نویسنده به ارتباط بین سیاست‌های اقتصادی و محدودیت‌های آزادی اشاره می‌کند",
+            "اگرچه مقاله مستقیم به ایران نمی‌پردازد، اما نشان می‌دهد فشارهای اقتصادی می‌تواند به تحولات سیاسی منجر شود",
+            "این روند می‌تواند فضای انتخاباتی را برای احزاب مختلف تغییر دهد"
+        ],
+        "impact": "افزایش فشارهای اقتصادی می‌تواند به نوسان در تصمیمات سیاسی داخلی منجر شود",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Creators Syndicate on MSN",
+        "url": "https://www.msn.com/en-us/news/other/gas-prices-are-high-but-so-is-the-price-of-liberty/ar-AA2ddDW9?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/gas-prices-are-high-but-so-is-the-price-of-liberty/ar-AA2ddDW9",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790726091.478781
+    },
+    {
+        "id": "838e324881",
+        "title_fa": "سپاه پاسداران به ترامپ 'دروغگو' اتهام کرد",
+        "title_en": "Iranian Revolutionary Guard Corps lashes out at 'liar' Trump",
+        "summary": [
+            "سپاه پاسداران ترامپ را در توییتی «دروغگو» خواند و انتقادات سختی مطرح کرد.",
+            "در همان زمان نیروهای امنیتی به شهر ایرانشهر تانک، پهپاد و خودروهای نظامی فرستادند.",
+            "درگیری‌ها هنوز واضح نیست؛ کشته‌و‌مجروح رسمی اعلام نشده است.",
+            "این حرکت می‌تواند تنش‌های داخلی و روابط آمریکا‑ایران را تشدید کند."
+        ],
+        "impact": "اتهام به ترامپ و حضور تانک در ایرانشهر می‌تواند روابط آمریکا‑ایران را به‌سختی‌تر کند.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/trump-iran-war-news-peace-talks-hormuz-09-29-26",
+        "clean_url": "https://www.foxnews.com/live-news/trump-iran-war-news-peace-talks-hormuz-09-29-26",
+        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/fc99427a21cff25e50b2a97a18eccce8.jpg?ve=1&tl=1",
+        "timestamp": 1790723100.0
+    },
+    {
         "id": "043f1bb6f8",
         "title_fa": "افزایش نرخ بهره RBA و سقوط قیمت مسکن",
         "title_en": "Will these RBA rate rises crash house prices?",
@@ -206,6 +246,46 @@
         "timestamp": 1790697906.0
     },
     {
+        "id": "02518e001f",
+        "title_fa": "اورتگاس: انتظار محدود شدن قدرت ترامپ در ایران اشتباه است",
+        "title_en": "اورتگاس: انتظار تهران برای محدود شدن قدرت ترامپ محاسبه‌ای اشتباه است",
+        "summary": [
+            "مورگان اورتگاس می‌گوید انتظار کاهش فشار آمریکا پس از انتخابات آمریکا نادرست است",
+            "ترامپ اعلام کرد ایران در وضعیت بحرانی است و سلاح هسته‌ای نخواهد داشت",
+            "اورتگاس به این نکته اشاره کرد که فشارهای قبلی حتی در زمان دموکرات‌ها انجام شده‌اند",
+            "بیان‌های ترامپ می‌تواند به تقویت موضع سخت‌گیری‌های آینده منجر شود"
+        ],
+        "impact": "بیان‌های ترامپ ممکن است سیاست‌های سخت‌گیرانه‌تر آمریکا را نسبت به ایران توجیه کند",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609298916",
+        "clean_url": "https://www.iranintl.com/202609298916",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/fbd840d81962cae92687028e523508e582320d04-1167x611.jpg?rect=119,0,930,488&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790696160.0
+    },
+    {
+        "id": "42e51f118f",
+        "title_fa": "هزاران کارگر و بازنشسته مقابل خصوصی‌سازی تأمین اجتماعی",
+        "title_en": "هزاران نفر از کارگران و بازنشستگان به خصوصی‌سازی در سازمان تامین اجتماعی اعتراض کردند",
+        "summary": [
+            "حدود ۱۰٬۰۰۰ نفر در اعتراض به طرح خصوصی‌سازی سازمان تأمین اجتماعی حضور یافتند",
+            "این اقدام دولت مالکیت سرمایه‌های بیمه‌شدگان را به بخش خصوصی وا می‌دارد",
+            "پیشنهاد مسعود پزشکیان باعث بروز موجی از نگرانی در میان کارگران و بازنشستگان شد",
+            "اگر طرح اجرایی شود، دسترسی به خدمات پایه ممکن است تحت فشار مالی قرار گیرد"
+        ],
+        "impact": "احتمال بروز ناآرامی‌های گسترده و فشار بر دولت در زمینه اصلاحات اقتصادی",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609294113",
+        "clean_url": "https://www.iranintl.com/202609294113",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790695740.0
+    },
+    {
         "id": "32bb1a85b1",
         "title_fa": "حکومت نتانیاهو خطر نابودی طرح‌های مستوطنین را دارد",
         "title_en": "Could Netanyahu’s government doom the settlement project?",
@@ -286,6 +366,26 @@
         "timestamp": 1790695701.8743372
     },
     {
+        "id": "e7a2e49424",
+        "title_fa": "نامه بازگشت‌پذیر سپاه: پیروزی بر آمریکا و تهدید ترمپ",
+        "title_en": "5 takeaways from Iran letter to Americans and what it means for Trump's war",
+        "summary": [
+            "سپاه پاسداران نامه‌ای ۲۵ صفحه‌ای به مردم آمریکا ارسال کرد و ادعای پیروزی خود را اعلام کرد",
+            "در متن، ترامپ به‌عنوان عامل اصلی مشکلات ایران مورد سرزنش قرار می‌گیرد",
+            "دعوت به قیام شهروندان آمریکایی نشان‌دهنده تشدید جنگ روانی است",
+            "این اقدام می‌تواند روابط دیپلماتیک را به نقطه بحرانی‌تری برساند"
+        ],
+        "impact": "افزایش تنش‌های اطلاعاتی بین ایران و ایالات متحده و احتمال واکنش‌های تلافی‌جویانه",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/5-takeaways-iran-letter-americans-222124422.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/5-takeaways-iran-letter-americans-222124422.html",
+        "image": "http://www.bing.com/th?id=ONUT.U9RVYezIaYtXClmniygE1A&pid=News",
+        "timestamp": 1790695260.0
+    },
+    {
         "id": "236c9f66ca",
         "title_fa": "گزارش AIPAC درباره لابی ایران و دفاع اسرائیل",
         "title_en": "AIPAC Reported Lobbying on Iran and Israel Defense Policy",
@@ -303,6 +403,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UYkhKdTNxdmZCN3ZPRks4SUM0eEx6TTRtbVFtamNLU19tUGxXcW1nYk9NRzBkZ0NIZ21idFNQUENibjUzQTlPcWVzY1RvMk10UTgwQnZ5X3RuNmhULVdxczNNYU9Rc0xLV3ozMF9zcTY2OHBja0xUdQ",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790694947.0
+    },
+    {
+        "id": "2eb84a9eb7",
+        "title_fa": "نتانیاهو در امارات: پیام‌های کلیدی برای هند",
+        "title_en": "One meeting, many messages: The significance of Netanyahu's visit to UAE, and what it means for India",
+        "summary": [
+            "نتانیاهو با ابوالفضل ص. بن زید در ابوظبی دیدار کرد.",
+            "ملاقات نشانگر تقویت روابط اسرائیل‑امارات در مقابل تهدیدهای ایرانی است.",
+            "هند به‌عنوان شریک اقتصادی منطقه، به‌دنبال حفظ تعادل و دسترسی به فناوری‌های دفاعی است.",
+            "پیام اصلی: همکاری‌های امنیتی و تجاری در خاورمیانه در حال تجدید است."
+        ],
+        "impact": "تقویت ائتلاف اسرائیل‑امارات می‌تواند هند را به‌سوی مشارکت‌های امنیتی و تجاری جدید سوق دهد.",
+        "tag": "دیپلوماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/one-meeting-many-messages-the-significance-of-netanyahu-visit-to-uae-and-what-it-means-for-india-ht-point-blank-101790687524035.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/one-meeting-many-messages-the-significance-of-netanyahu-visit-to-uae-and-what-it-means-for-india-ht-point-blank-101790687524035.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/29/1600x900/netanyahu_uae_visit_1790688134329_w3Rx_1790688146151_lu8P_04f917e9-1ef2-4598-b457-c29b626d0383_YjCK.jpg",
+        "timestamp": 1790694480.0
     },
     {
         "id": "694dbd050b",
@@ -476,6 +596,26 @@
         "clean_url": "https://www.iranintl.com/202609294908",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1790684640.0
+    },
+    {
+        "id": "51f095363c",
+        "title_fa": "دولت آمریکا فعالیت‌های حساس هسته‌ای ایران را مختل کرد",
+        "title_en": "United States Disrupts Iran’s Proliferation-Sensitive Efforts in Support of UN Restrictions",
+        "summary": [
+            "وزارت امور خارجه آمریکا یک نهاد ایرانی و دو نهاد روسی را تحت تحریم قرار داد",
+            "این اقدام به‌منظور جلوگیری از پیشرفت برنامه هسته‌ای ایران انجام شد",
+            "تحریم‌ها می‌توانند مسیر تأمین فناوری‌های حساس را به‌سختی تحت فشار قرار دهند",
+            "ایران ممکن است برای دور زدن تحریم‌ها به شبکه‌های پنهان روی‌آورد"
+        ],
+        "impact": "کاهش توانایی ایران در پیشبرد پروژه‌های حساس هسته‌ای در کوتاه‌مدت",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "U.S. Department of State",
+        "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-disrupts-irans-proliferation-sensitive-efforts-in-support-of-un-restrictions-fact-sheet/",
+        "clean_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-disrupts-irans-proliferation-sensitive-efforts-in-support-of-un-restrictions-fact-sheet",
+        "image": "http://www.bing.com/th?id=ONUT.UOwRH8TwYvMmZ7rOgADHDQ&pid=News",
+        "timestamp": 1790683740.0
     },
     {
         "id": "121379137e",
@@ -764,6 +904,26 @@
         "timestamp": 1790663880.0
     },
     {
+        "id": "7e61c61c4b",
+        "title_fa": "تسویه مالیات‌گذاران: ایالات متحده زنجیره نظامی ایران را هدف گرفت",
+        "title_en": "US targets Iran’s military supply chain as the status of diplomatic talks remains uncertain",
+        "summary": [
+            "تدارکات مالی برای تأمین زنجیره نظامی ایران توسط وزارت خزانه‌داری هدف قرار گرفت",
+            "ده نفر و نهاد در ایران، هنگ‌کنگ و پاکستان تحت تحریم‌های جدید قرار گرفتند",
+            "این اقدام بخشی از کمپین «Economic Outcast» برای قطع مسیرهای مالی نظامی است",
+            "ایران برای ادامه جنگ ممکن است به منابع غیرقانونی روی‌آورد"
+        ],
+        "impact": "کاهش دسترسی ایران به منابع مالی برای خرید تجهیزات نظامی",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "WTOP",
+        "url": "https://wtop.com/national/2026/09/us-targets-irans-military-supply-chain-as-the-status-of-diplomatic-talks-remains-uncertain/",
+        "clean_url": "https://wtop.com/national/2026/09/us-targets-irans-military-supply-chain-as-the-status-of-diplomatic-talks-remains-uncertain",
+        "image": "http://www.bing.com/th?id=ONUT.pBTuFGtbI3vfQGVrj0Omhg&pid=News",
+        "timestamp": 1790662080.0
+    },
+    {
         "id": "9270a6a0fe",
         "title_fa": "ایالات متحده پیشنهاد ایران برای بازگشایی هرمز را رد کرد",
         "title_en": "Negotiations continue after US rejects Iran's latest proposal to open the Strait of Hormuz",
@@ -855,6 +1015,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHVqVXdzRlYzejRHMkdvR3p4b1NHSmhmblRkUkRQZVQyRW5Cd1E5WUU4eGh0Yi0xY3JyNGktcGt6bzg0RXJDeXFuRFZWVTV1ell1WWlXMC05Rk50SE9nbkp4enFjYXMta1h3T0x3aXU0ZTZreWJBUFM1UnozMmo1TTNiM0dmR1NENVlRdWpYbGhZYXp1Y041ZTg3QVByYVJGemc",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790654893.0
+    },
+    {
+        "id": "24b0ca30f1",
+        "title_fa": "اسرائیل جزئیات عملیات پجرهای انفجاری علیه حزب‌الله را فاش کرد",
+        "title_en": "Israel Reveals New Secrets Of Mossad's Explosive Hezbollah Pager Operation (Worthy News Investigation)",
+        "summary": [
+            "اسرائیل فیلم‌های جدیدی از عملیات پجرهای ۲۰۲۴ منتشر کرد.",
+            "این عملیات حدود ۳۵۰۰ عضو حزب‌الله را کشته یا مجروح کرد.",
+            "یک مبارز حزب‌الله که به پجرها شک داشت، توسط عوامل موشکی کشته شد.",
+            "افشای این جزئیات تصویر توانمندی مخفی‌کاری اسرائیل را تقویت می‌کند."
+        ],
+        "impact": "آشکارسازی عملیات ۳۵۰۰ هدف، توانمندی مخفی‌کاری اسرائیل را به‌نمایش می‌گذارد و تهدید جدیدی برای حزب‌الله ایجاد می‌کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "Worthy Christian News",
+        "url": "https://www.worthynews.com/117829-israel-reveals-new-secrets-of-mossads-explosive-hezbollah-pager-operation-worthy-news-investigation",
+        "clean_url": "https://www.worthynews.com/117829-israel-reveals-new-secrets-of-mossads-explosive-hezbollah-pager-operation-worthy-news-investigation",
+        "image": "https://worthynews-1fe3e.kxcdn.com/wordpressimages/2021/08/mossad-israel-intelligence-agency-worthy-ministries-320x180.jpg",
+        "timestamp": 1790654160.0
     },
     {
         "id": "a972e565ac",
@@ -965,6 +1145,26 @@
         "clean_url": "https://cowboystatedaily.com/2026/09/28/dave-simpson-a-pending-blue-wave-god-help-us",
         "image": "https://cowboystatedaily.imgix.net/dave-simpson-head-10-3-22.jpg?w=1200&q=75&auto=format%2Ccompress",
         "timestamp": 1790648051.117245
+    },
+    {
+        "id": "0aa8932e64",
+        "title_fa": "ترمپ و نیروی نظامی آمریکا در هرمز کنترل را به دست گرفتند",
+        "title_en": "Morning glory: President Trump and the American military have beaten Iran",
+        "summary": [
+            "مقاله ادعا می‌کند نیروی نظامی آمریکا تحت حمایت ترامپ کنترل استراتژیک هرمز را به‌دست گرفته",
+            "استفاده از مسیرهای شاتل در «Oman Lane» به‌عنوان نماد قدرت نظامی آمریکا مطرح شد",
+            "اگرچه این روایت ممکن است بیش از حد تبلیغاتی باشد، اما نشان‌دهنده تمایل آمریکا به نمایش قدرت است",
+            "تاثیر این پیام بر تصمیم‌گیری‌های منطقه‌ای می‌تواند حمایت از مواضع آمریکا را تقویت کند"
+        ],
+        "impact": "تقویت تصویر قدرت نظامی آمریکا در خلیج فارس و فشار بر ایران برای تسلیم در مسیر هرمز",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/morning-glory-president-trump-and-the-american-military-have-beaten-iran/ar-AA2dbgSz",
+        "clean_url": "https://www.msn.com/en-us/news/other/morning-glory-president-trump-and-the-american-military-have-beaten-iran/ar-AA2dbgSz",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790647242.0
     },
     {
         "id": "7664fc3d28",
@@ -1092,6 +1292,25 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260928__C9LH8YA__v1__HighRes__776523904-1790633728.jpg?resize=1920%2C1440",
         "timestamp": 1790639940.0
+    },
+    {
+        "id": "00d1f96e5e",
+        "title_fa": "آب‌وهوای اضطراری تگزاس به‌دلیل قیمت دیزل بالا",
+        "title_en": "Gov. Abbott declares disaster in Texas over high diesel prices, fuel shortage",
+        "summary": [
+            "گورنر ابوت وضعیت را فاجعه اعلام کرد و درخواست کمک فدرال کرد.",
+            "قیمت دیزل بالا باعث کمبود سوخت برای کشاورزان و حمل‌ونقل شد.",
+            "هزینه‌های حمل‌ونقل کشاورزی دوچندان می‌شود و فشار بر بودجه خانوارهای تگزاسی افزایشی می‌یابد."
+        ],
+        "impact": "قیمت دیزل بالا هزینه حمل‌ونقل کشاورزی را دوچندان می‌کند و فشار بر بودجه خانوارهای تگزاسی را افزاش می‌دهد.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "KVUE",
+        "url": "https://www.kvue.com/article/traffic/gas-prices/gov-abbott-declares-disaster-texas-high-diesel-prices-fuel-shortage/269-7b311d4c-4dc4-4ff2-baf3-c71b6276edf9",
+        "clean_url": "https://www.kvue.com/article/traffic/gas-prices/gov-abbott-declares-disaster-texas-high-diesel-prices-fuel-shortage/269-7b311d4c-4dc4-4ff2-baf3-c71b6276edf9",
+        "image": "https://www.bing.com/th?id=ONUT.ZzfnSl1BUtkm4F2AxctQ7Q",
+        "timestamp": 1790639676.0
     },
     {
         "id": "263d01c41c",
@@ -1376,6 +1595,26 @@
         "clean_url": "https://www.iranintl.com/en/202609285925",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1790622900.0
+    },
+    {
+        "id": "ecc47d2d3f",
+        "title_fa": "قضایای ۱۰ ساله برای کارگر بشردوست آلمانی در ایران در ایران",
+        "title_en": "German-based aid worker gets 10-year prison sentence in Iran",
+        "summary": [
+            "سرانجام کارآفرین ترکی-آلمانی سازمان STELP به ۱۰ سال حبس محکوم شد",
+            "اتهام تماس با کشوری که ایران آن را دشمن می‌داند، به عنوان پیش‌دستی سیاسی استفاده شد",
+            "این پرونده نشان می‌دهد ایران از بازداشت‌های خارجی برای فشار دیپلماتیک بهره می‌برد",
+            "محافظت از کارگران بشردوست خارجی در آینده دشوارتر خواهد شد"
+        ],
+        "impact": "تشدید نگرانی بین‌المللی درباره استفاده ایران از بازداشت‌های سیاسی به عنوان ابزار فشار",
+        "tag": "حقوق بشر",
+        "urgency": 4,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609294798",
+        "clean_url": "https://www.iranintl.com/en/202609294798",
+        "image": "http://www.bing.com/th?id=ONUT.KsIQbGbjeke0OROdbNVPLw&pid=News",
+        "timestamp": 1790622300.0
     },
     {
         "id": "ea331f069a",
@@ -5358,229 +5597,5 @@
         "clean_url": "https://www.iranintl.com/202609262625",
         "image": "http://www.bing.com/th?id=ONUT.IwS6JyH9a7uIkb0tHjdfvg&pid=News",
         "timestamp": 1790402940.0
-    },
-    {
-        "id": "e406c8827c",
-        "title_fa": "قله نفت، پایان سپتامبر فرصتی برای خرید",
-        "title_en": "[9/25] Crude oil peak-out brings forward the bottoming out: Will the end of September be the final buying opportunity?",
-        "summary": [
-            "کاهش قیمت نفت باعث فشار کمتر بر تورم آمریکا می‌شود.",
-            "انتظار می‌رود نرخ بهره بلندمدت آمریکا کاهش یابد و بازار اوراق قرضه آرام شود.",
-            "رشد پیش‌بینی‌شده تقاضای هوش مصنوعی در نیمه دوم سال می‌تواند شاخص‌های نیمه‌فنی ژاپن را بهبود بخشد."
-        ],
-        "impact": "سرمایه‌گذاران ممکن است به خرید نفت و سهام مرتبط روی آورند",
-        "tag": "نفت",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "note",
-        "url": "https://note.com/irohachiyo_ai/n/nfa8758ac56d1?hl=en",
-        "clean_url": "https://note.com/irohachiyo_ai/n/nfa8758ac56d1",
-        "image": "https://www.bing.com/th?id=ONUT.gMFkeXw8XN7_oJFMLBxyQA",
-        "timestamp": 1790401298.5435033
-    },
-    {
-        "id": "cad1ca0b56",
-        "title_fa": "دلایل واقعی ممنوعیت رسانه‌ای ترامپ",
-        "title_en": "Voices: The real reason for Trump’s media ban – and it’s not about fake news",
-        "summary": [
-            "گزارش می‌گوید ممنوعیت رسانه‌ای ترامپ به‌دلیل جلوگیری از انتشار اطلاعات حساس نیست.",
-            "هدف اصلی فشار بر رسانه‌های مخالف و کنترل روایت خبری است.",
-            "این اقدام نشان‌دهنده تمایل ترامپ به حذف نظرات مخالف است.",
-            "محدود کردن دسترسی به رسانه‌ها می‌تواند فضای اطلاعاتی را تحت سلطه دولت بگذارد."
-        ],
-        "impact": "محدود شدن آزادی مطبوعات در آمریکا می‌تواند الگوی سرکوب رسانه‌ای در دیگر کشورها شود.",
-        "tag": "رسانه",
-        "urgency": 2,
-        "sentiment": -0.7,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/other/voices-the-real-reason-for-trump-s-media-ban-and-it-s-not-about-fake-news/ar-AA2d0jcP?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/voices-the-real-reason-for-trump-s-media-ban-and-it-s-not-about-fake-news/ar-AA2d0jcP",
-        "image": "https://www.bing.com/th?id=ONUT.jG5B3scX_df0tqKMKUdiog",
-        "timestamp": 1790401295.8798676
-    },
-    {
-        "id": "06d912ae8e",
-        "title_fa": "سبک خصمانه ترامپ آمریکا را به سقوط می‌کشاند",
-        "title_en": "Trump has sent America into decline. These figures prove it",
-        "summary": [
-            "تحلیل‌گران می‌گویند رفتار تند و تیز ترامپ باعث کاهش اعتبار جهانی ایالات متحده شده.",
-            "نظرسنجی‌ها نشان می‌دهد حمایت بین‌المللی از آمریکا در حال کاهش است.",
-            "این روند می‌تواند نفوذ اقتصادی و نظامی آمریکا را در خاورمیانه تضعیف کند.",
-            "مقاله به‌طور کلی تصویر منفی از رهبری فعلی ترامپ ارائه می‌دهد."
-        ],
-        "impact": "کاهش اعتبار آمریکا ممکن است فرصت‌های نفوذ روسیه و چین در منطقه را افزایش دهد.",
-        "tag": "سیاست داخلی",
-        "urgency": 2,
-        "sentiment": -0.8,
-        "source": "inews.co.uk on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/trump-has-sent-america-into-decline-these-figures-prove-it/ar-AA2cZKwJ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/trump-has-sent-america-into-decline-these-figures-prove-it/ar-AA2cZKwJ",
-        "image": "https://www.bing.com/th?id=ONUT.eX0evfIdf_wgCV8pS8QiIg",
-        "timestamp": 1790401295.8795376
-    },
-    {
-        "id": "a26a80bd5b",
-        "title_fa": "ترامپ پیشنهاد آتش‌بس ایران را رد کرد",
-        "title_en": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-        "summary": [
-            "ترامپ گفت پیشنهاد آتش‌بس ایران را رد می‌کند و پس از انتخابات هدف جدیدی برای بمباران دارد.",
-            "ائتلاف سعودی نیز موشک‌های هدف‌دار را رهگیری کرده، نشان از تشدید درگیری‌هاست."
-        ],
-        "impact": "احتمال شروع عملیات هوایی آمریکا علیه ایران، افزایش خطرات نظامی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "CNBC on MSN",
-        "url": "https://www.msn.com/en-us/money/markets/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports-as-saudi-coalition-intercepts-projectiles/ar-AA2d1a6f",
-        "clean_url": "https://www.msn.com/en-us/money/markets/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports-as-saudi-coalition-intercepts-projectiles/ar-AA2d1a6f",
-        "image": "http://www.bing.com/th?id=ONUT.E-tWpbqCyKMI2OARwB5KkA&pid=News",
-        "timestamp": 1790401149.0
-    },
-    {
-        "id": "4d541b8f2f",
-        "title_fa": "ترامپ: ایران نمی‌تواند سلاح هسته‌ای داشته باشد",
-        "title_en": "ترامپ: حکومت ایران نمی‌تواند سلاح هسته‌ای داشته باشد",
-        "summary": [
-            "ترامپ در توییت‌ خود تکرار کرد که ایران نمی‌تواند سلاح هسته‌ای داشته باشد",
-            "بیانیه در زمان اعلام تحریم‌های گسترده آمریکا بر پروازها منتشر شد",
-            "پیام واضحی به دولت ایران درباره ادامه فشارهای نظامی‑اقتصادی است",
-            "این اظهارنظر می‌تواند حمایت داخلی مخالفان برنامه هسته‌ای را تقویت کند"
-        ],
-        "impact": "بیان‌نامه ترامپ احتمالاً فشار بین‌المللی برای محدود کردن برنامه هسته‌ای ایران را افزایش می‌دهد",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609269886",
-        "clean_url": "https://www.iranintl.com/202609269886",
-        "image": "http://www.bing.com/th?id=ONUT.fPhrlQIr-VKq3NsGIsu88A&pid=News",
-        "timestamp": 1790400120.0
-    },
-    {
-        "id": "1a59fd1e54",
-        "title_fa": "ایران، اسرائیل و استراتژی آمریکا در خاورمیانه",
-        "title_en": "Part III: Iran, Israel And The Unravelling Of America’s Middle East Strategy",
-        "summary": [
-            "مقاله به بررسی استراتژی آمریکا در خاورمیانه می‌پردازد و نقش ایران را به‌عنوان بلوک مقاوم نشان می‌دهد",
-            "اشاره می‌کند که اسرائیل سعی دارد حاشیه‌های خود را در برابر حماس و دیگر گروه‌ها تقویت کند",
-            "تحریم‌های اقتصادی بر ایران فشار می‌آورد ولی توان مقاومتش را حفظ کرده است",
-            "بدون حضور یک قدرت منطقه‌ای قوی، ایالات متحده به تکیه بر اسرائیل برای حفظ امنیت می‌پردازد"
-        ],
-        "impact": "تحلیل نشان می‌دهد فشارهای آمریکا بر ایران ادامه دارد و نقش اسرائیل در منطقه تقویت می‌شود",
-        "tag": "استراتژی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Friday Times",
-        "url": "https://thefridaytimes.com/26-Sep-2026/part-iii-iran-israel-unravelling-america-s-middle-east-strategy",
-        "clean_url": "https://thefridaytimes.com/26-Sep-2026/part-iii-iran-israel-unravelling-america-s-middle-east-strategy",
-        "image": "http://www.bing.com/th?id=ONUT.DCLW8glSVSY-PRG0toQ_RA&pid=News",
-        "timestamp": 1790396880.0
-    },
-    {
-        "id": "a0b23c7252",
-        "title_fa": "خبر بین‌المللی — Pezeshkian says ایران wants peace, 'distrust' US remains",
-        "title_en": "Pezeshkian says Iran wants peace, 'distrust' of US remains",
-        "summary": [
-            "Pezeshkian says Iran wants peace, 'distrust' of US remains Anadolu Ajansı"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVU1RmxKNk5aNVFXSXdYRjI2ai1HbzV6Rlc3Vjk0YnQzbDd0QzNmU19NY3VGQXdrNWpUV3o2Y3VhcnB3RXNKR2doRmlVM2F2LVNsbG9SeEhPOGhsbkZXTGxwZkRCT0J1SjlhNGk5QmxVbHlpUzhYSTZLQk1sMm13X19FRmt4YW9DYVgtdW5SQ0c5UHE4bGpYUFc1Zm9RbV9TVjdCdmRLTTNqOUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVU1RmxKNk5aNVFXSXdYRjI2ai1HbzV6Rlc3Vjk0YnQzbDd0QzNmU19NY3VGQXdrNWpUV3o2Y3VhcnB3RXNKR2doRmlVM2F2LVNsbG9SeEhPOGhsbkZXTGxwZkRCT0J1SjlhNGk5QmxVbHlpUzhYSTZLQk1sMm13X19FRmt4YW9DYVgtdW5SQ0c5UHE4bGpYUFc1Zm9RbV9TVjdCdmRLTTNqOUE",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790395720.0
-    },
-    {
-        "id": "62511c376b",
-        "title_fa": "جنگ ایران، ورزش را به هراس کشاند",
-        "title_en": "How the war in Iran is creating chaos and uncertainty in sport",
-        "summary": [
-            "جنگ جاری در ایران مسابقات داخلی را به تعلیق یا لغو کشانده.",
-            "قهرمانان و تیم‌های بین‌المللی از حضور در ایران می‌پرهیزند، برنامه‌های لیگ‌های خارجی دچار اختلال می‌شود.",
-            "عدم امنیت باعث کاهش سرمایه‌گذاری‌های تجاری و تبلیغاتی در ورزش می‌شود."
-        ],
-        "impact": "رویدادهای ورزشی داخلی و بین‌المللی با تاخیر یا لغو مواجه می‌شوند",
-        "tag": "ورزش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVFNNa0NMSmxYMmY3LU1WaC1SWGJ1R1hOYnBPMmx2ZmZZOWVsend4aEdXdHZDRDBBSnhGb2dkMU1IaHh0clBaRFg0WXVBRzV6QjRwaVByUGlDa09JaEJxMlM3SF92WHVFZzk3NnpjZ01tbkl3X282NDFlS1RHTDdsSW1naw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVFNNa0NMSmxYMmY3LU1WaC1SWGJ1R1hOYnBPMmx2ZmZZOWVsend4aEdXdHZDRDBBSnhGb2dkMU1IaHh0clBaRFg0WXVBRzV6QjRwaVByUGlDa09JaEJxMlM3SF92WHVFZzk3NnpjZ01tbkl3X282NDFlS1RHTDdsSW1naw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790395524.0
-    },
-    {
-        "id": "f8ea9dc1f0",
-        "title_fa": "پزشکیان: پذیرش طرح هرمز، ایران بازرسی هسته‌ای می‌پذیرد",
-        "title_en": "Pezeshkian Says Iran Ready To Allow UN Nuclear Inspections If US Accepts Hormuz Proposal",
-        "summary": [
-            "پزشکیان گفت ایران فقط در صورت پذیرش طرح هرمز توسط واشنگتن، بازرسی‌های آی‌ای‌ای را می‌پذیرد.",
-            "این شرط، مذاکرات هسته‌ای را به تبادل شرایط استراتژیک تبدیل می‌کند، نه صرفاً بازگشت بازرسان.",
-            "اگر آمریکا موافقت کند، فشار تحریم‌ها می‌تواند کاهش یابد و مسیر دیپلماتیک باز شود."
-        ],
-        "impact": "ممکن است مذاکرات هسته‌ای دوباره راه بیفتد و فشار تحریم‌ها کاهش یابد",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/pezeshkian-says-iran-ready-to-allow-un-nuclear-inspections-if-us-accepts-hormuz-proposal-article-156227685",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/pezeshkian-says-iran-ready-to-allow-un-nuclear-inspections-if-us-accepts-hormuz-proposal-article-156227685",
-        "image": "https://images.timesnownews.com/thumb/msid-156227689,thumbsize-1624578,width-1280,height-720,resizemode-75/156227689.jpg",
-        "timestamp": 1790395200.0
-    },
-    {
-        "id": "7e1c5f22c6",
-        "title_fa": "خبر بین‌المللی — ایران President Masoud Pezeshkian Says تهران Would Allow UN",
-        "title_en": "Iran President Masoud Pezeshkian Says Tehran Would Allow UN Nuclear Inspectors Under Peace Deal",
-        "summary": [
-            "Iranian President Masoud Pezeshkian said Tehran would allow UN nuclear inspectors into Iran as part of negotiations on a possible long-term ceasefire with the US. He also said distrust between the two countries makes a Trump meeting difficult,"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "LatestLY",
-        "url": "https://www.latestly.com/world/iran-president-masoud-pezeshkian-says-tehran-would-allow-un-nuclear-inspectors-under-peace-deal-7621100.html",
-        "clean_url": "https://www.latestly.com/world/iran-president-masoud-pezeshkian-says-tehran-would-allow-un-nuclear-inspectors-under-peace-deal-7621100.html",
-        "image": "https://st1.latestly.com/wp-content/uploads/2025/03/Masoud-Pezeshkian-784x441.jpg",
-        "timestamp": 1790395020.0
-    },
-    {
-        "id": "6762991e3c",
-        "title_fa": "شرایط سخت ایران برای نشست با ترامپ",
-        "title_en": "Iran Trump Summit Conditions: 5 Tough Demands Blocking a Historic Meeting",
-        "summary": [
-            "مسعود پزeshian پنج شرط اساسی برای ملاقات با ترامپ را اعلام کرد: پایان حملات، رفع تحریم‌ها و احترام به تعهدات.",
-            "این شرایط تا قبل از انتخابات آمریکا به‌دست نیامده‌اند."
-        ],
-        "impact": "عدم برآورده شدن شروط، ادامه تنش‌های دیپلماتیک و تحریم‌ها",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "teleSUR English",
-        "url": "https://www.telesurenglish.net/iran-trump/",
-        "clean_url": "https://www.telesurenglish.net/iran-trump",
-        "image": "http://www.bing.com/th?id=ONUT.2IJvnB_sBNnF_e94eHibJQ&pid=News",
-        "timestamp": 1790392320.0
-    },
-    {
-        "id": "f6b82bf5dc",
-        "title_fa": "خبر بین‌المللی — ایران awaits US move after WSJ report says ترامپ rejects pea",
-        "title_en": "Iran awaits US move after WSJ report says Trump rejects peace plan",
-        "summary": [
-            "Iran awaits US move after WSJ report says Trump rejects peace plan reuters.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "reuters.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790389370.0
     }
 ]
