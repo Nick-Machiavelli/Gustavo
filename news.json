@@ -1,5 +1,23 @@
 [
     {
+        "id": "d4861493ee",
+        "title_fa": "دموکرات‌ها و خطر سقوط آمریکا",
+        "title_en": "Dave Simpson: A Pending Blue Wave? God Help Us!",
+        "summary": [
+            "متن مقاله نشان می‌دهد دموکرات‌ها سعی می‌کنند با بازگشت مهاجران غیرقانونی و هزینه‌های خارجی، حمایت عمومی را جلب کنند",
+            "ادعای فروپاشی کشور توسط مخالفان، بیشتر ریتوریک سیاسی است تا واقعیت اقتصادی"
+        ],
+        "impact": "ممکن است افکار عمومی را به سمت انتخابات نیمه‌سالانه سوق دهد",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "Cowboy State Daily",
+        "url": "https://cowboystatedaily.com/2026/09/28/dave-simpson-a-pending-blue-wave-god-help-us/",
+        "clean_url": "https://cowboystatedaily.com/2026/09/28/dave-simpson-a-pending-blue-wave-god-help-us",
+        "image": "https://cowboystatedaily.imgix.net/dave-simpson-head-10-3-22.jpg?w=1200&q=75&auto=format%2Ccompress",
+        "timestamp": 1790648051.117245
+    },
+    {
         "id": "7664fc3d28",
         "title_fa": "رسانه‌ها اقتصاد را برای انتخابات می‌فروشند",
         "title_en": "Media manipulates economic gloom — and it’s all about the midterms",
@@ -222,6 +240,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXZybWpYdGZCWHd5WlBiVFg4cDR1LXFIeGFyakJFaVZXbEJ1S3U3ZjIwTkxqVE5mOGR0Q1dERkZmSlNwZ0RZNnd5anlvTktKc2h3aUVCOVhLLUpsNGp3eVZtakc3dHJhbkNCTGFwZ3NQZG02ZTV3TVEtYy1qcTlaMnNpRV9Cci1pTTByTTZFOGFIMXNEQS1udGlFZm54Z0lWNjd3bw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790622120.0
+    },
+    {
+        "id": "cae3ffbc1c",
+        "title_fa": "خامنئی: نیروهای دشمن از دریای عربی رانده می‌شوند",
+        "title_en": "Mojtaba Khamenei warns 'enemy forces' will soon be driven out of Arabian Sea; US replies 'Iran has no navy'",
+        "summary": [
+            "خامنئی اعلام کرد نیروی هوایی و دریایی ایران به‌سرعت به‌دست‌گیری مناطق بحرانی می‌پردازد",
+            "واکنش آمریکا «ایران ناوش‌دار نیست» نشان می‌دهد اختلاف ادراک استراتژیک بین دو طرف"
+        ],
+        "impact": "افزایش تنش‌های دریایی می‌تواند مانع عبور کشتی‌های تجاری در مسیرهای کلیدی شود",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "ABP News on MSN",
+        "url": "https://www.msn.com/en-in/news/other/mojtaba-khamenei-warns-enemy-forces-will-soon-be-driven-out-of-arabian-sea-us-replies-iran-has-no-navy/ar-AA2d9IDx",
+        "clean_url": "https://www.msn.com/en-in/news/other/mojtaba-khamenei-warns-enemy-forces-will-soon-be-driven-out-of-arabian-sea-us-replies-iran-has-no-navy/ar-AA2d9IDx",
+        "image": "http://www.bing.com/th?id=ONUT.qShBAxqNadFE8vbLXWpI4A&pid=News",
+        "timestamp": 1790620623.0
     },
     {
         "id": "5e480a4537",
@@ -950,6 +986,42 @@
         "clean_url": "https://www.iranintl.com/202609287367",
         "image": "http://www.bing.com/th?id=ONUT.bKWVdwY5pECucUbbl0x0nw&pid=News",
         "timestamp": 1790565720.0
+    },
+    {
+        "id": "956c937674",
+        "title_fa": "ترامپ: ادعای رفع تحریم ایران توهم است",
+        "title_en": "'I offered them NOTHING': Trump rejects claims of granting Iran sanctions relief, calls it a 'hoax'",
+        "summary": [
+            "ترامپ به‌صراحت گفت هیچ‌گونه تسهیل تحریمی به ایران داده نشده و این ادعاها «حقیقت ندارند»",
+            "این بیانیه سعی دارد فشار دیپلماتیک بر تهران را حفظ کند و حمایت داخلی خود را تقویت کند"
+        ],
+        "impact": "تحریم‌های جاری برای ایران پابرجا می‌مانند؛ فرصت مذاکرات محدود می‌شود",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/trump-rejects-claims-of-offering-iran-sanctions-relief-calls-it-a-hoax-14048944.html",
+        "clean_url": "https://www.firstpost.com/world/trump-rejects-claims-of-offering-iran-sanctions-relief-calls-it-a-hoax-14048944.html",
+        "image": "https://www.bing.com/th?id=ONUT.ifjRMt0j2M8BulIAUid7nw",
+        "timestamp": 1790561644.0
+    },
+    {
+        "id": "2f225ff3c9",
+        "title_fa": "دلار آمریکا بر جفت‌ارز CAD فشار می‌آورد",
+        "title_en": "Canadian Dollar slumps to its lowest level since July 9, eyes 1.4200 vs bullish USD",
+        "summary": [
+            "دلار به دلیل چشم‌انداز سخت‌گیرانه فدرال رزرو و تنش‌های جیوپولیتیک، به بالاترین سطح از 9 ژوئیه رسیده",
+            "سقوط دلار کانادا به 1.4200 در مقابل دلار، نشانگر جابجایی سرمایه به سمت ارزهای امن است"
+        ],
+        "impact": "قیمت‌گذاری کالاهای صادراتی کانادا تحت فشار می‌افتد؛ واردکنندگان هزینه‌های بالاتری می‌پذیرند",
+        "tag": "ارز",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news//canadian-dollar-slumps-to-its-lowest-level-since-july-9-eyes-14200-vs-bullish-usd-202609290110",
+        "clean_url": "https://www.fxstreet.com/news//canadian-dollar-slumps-to-its-lowest-level-since-july-9-eyes-14200-vs-bullish-usd-202609290110",
+        "image": "https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal_Medium.png",
+        "timestamp": 1790561644.0
     },
     {
         "id": "3416f47b28",
@@ -5517,76 +5589,5 @@
         "clean_url": "https://www.iranintl.com/202609252781",
         "image": "http://www.bing.com/th?id=ONUT.9jIkJiD9CNfRpLy4xT7UxA&pid=News",
         "timestamp": 1790330520.0
-    },
-    {
-        "id": "75243798c9",
-        "title_fa": "ترامپ: کمک چین به ایران غیرقابل‌قبول",
-        "title_en": "ترامپ در جریان مذاکرات با شی کمک چین به ایران را غیرقابل قبول دانست",
-        "summary": [
-            "ترامپ در ملاقات با شی جین‌پینگ به صراحت حمایت چین از ایران را رد کرد",
-            "او گفت مذاکرات بازگشایی هرمز پیشرفت خواهد کرد اما جزئیات نداد"
-        ],
-        "impact": "فشار دیپلماتیک آمریکا بر چین برای قطع هرگونه کمک نظامی یا اطلاعاتی به ایران",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says/33864473.html",
-        "clean_url": "https://www.radiofarda.com/a/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says/33864473.html",
-        "image": "http://www.bing.com/th?id=ONUT.xWpcHkqJLaHGrO1PrKQIBA&pid=News",
-        "timestamp": 1790329260.0
-    },
-    {
-        "id": "f4090986c6",
-        "title_fa": "ایران بدون انعطاف در برنامه هسته‌ای",
-        "title_en": "Iran will make no nuclear concessions, Iranian official says",
-        "summary": [
-            "مقام ایرانی اعلام کرد حتی پذیرش طرح آمریکا برای بازگشایی هرمز، هیچ امتیازی در برنامه هسته‌ای نمی‌دهد",
-            "این موضع نشان‌دهنده ریسک تشدید تحریم‌های بین‌المللی است"
-        ],
-        "impact": "ادامه تحریم‌های اقتصادی و فشار بین‌المللی بر ایران",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/iran-will-make-no-nuclear-concessions-iranian-official-says-2026-09-25/",
-        "clean_url": "https://www.reuters.com/world/middle-east/iran-will-make-no-nuclear-concessions-iranian-official-says-2026-09-25",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790328960.0
-    },
-    {
-        "id": "996c3c1b47",
-        "title_fa": "دبلوماسی ایران پس از حمله هوایی به نیویورک می‌رسد",
-        "title_en": "From hiding in bomb shelters to visiting New York, Iran’s leaders seize the opportunity",
-        "summary": [
-            "دیپلمات ارشد ایران پس از حمله هوایی اسرائیلی به کاخ سفید، به نیویورک سفر کرد",
-            "حضور او نشان‌دهنده تلاش برای جذب حمایت بین‌المللی و نشان دادن مقاومت است"
-        ],
-        "impact": "افزایش فشار بر اسرائیل و جلب همدلی جهانی",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/from-hiding-in-bomb-shelters-to-visiting-new-york-iran-s-leaders-seize-the-opportunity/ar-AA2cYDNZ",
-        "clean_url": "https://www.msn.com/en-us/news/other/from-hiding-in-bomb-shelters-to-visiting-new-york-iran-s-leaders-seize-the-opportunity/ar-AA2cYDNZ",
-        "image": "http://www.bing.com/th?id=ONUT.2IryWtQxGsgfneUSQIOhZg&pid=News",
-        "timestamp": 1790328918.0
-    },
-    {
-        "id": "c075efd1a0",
-        "title_fa": "ترامپ درباره گفت‌وگو با شی درباره جنگ ایران: فکر می‌کنم عملکرد خیلی خوبی خواهیم داشت",
-        "title_en": "ترامپ درباره گفت‌وگو با شی درباره جنگ ایران: فکر می‌کنم عملکرد خیلی خوبی خواهیم داشت",
-        "summary": [
-            "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت در دیدار با شی جین‌پینگ، رییس‌جمهوری چین، درباره جنگ ایران گفت‌وگو کرده است. او در پاسخ به پرسشی در این‌باره گفت: «بله، گفت‌وگو کردیم. فکر می‌کنم عملکرد خیلی خوبی..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609252033",
-        "clean_url": "https://www.iranintl.com/202609252033",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790328600.0
     }
 ]
