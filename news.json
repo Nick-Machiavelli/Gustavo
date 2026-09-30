@@ -1,5 +1,78 @@
 [
     {
+        "id": "097d834d4a",
+        "title_fa": "قیمت گاز، امنیت ملی و اقتصاد آمریکا",
+        "title_en": "The Real Story About Gas Prices, National Security, and the Economy",
+        "summary": [
+            "افزایش قیمت گاز به مصرف‌کنندگان آمریکا فشار می‌آورد",
+            "تحلیل‌گران برخی خطرات امنیت ملی را به‌دلیل هزینه بالای انرژی می‌دانند",
+            "دولت سعی دارد با سیاست‌های مالی و انرژی این فشار را کاهش دهد"
+        ],
+        "impact": "قیمت بالای گاز می‌تواند تورم را تشدید کند و سیاست‌های اقتصادی را محدود سازد",
+        "tag": "قیمت‌گاز",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Daily Signal",
+        "url": "https://www.dailysignal.com/2026/09/30/real-story-gas-prices/",
+        "clean_url": "https://www.dailysignal.com/2026/09/30/real-story-gas-prices",
+        "image": "https://www.bing.com/th?id=ONUT.CUP1jABhOmVTS-e51gqdog",
+        "timestamp": 1790776817.825841
+    },
+    {
+        "id": "0dd7b36056",
+        "title_fa": "قابلیت تأیید سازگاری هسته‌ای ایران از بین رفت",
+        "title_en": "Iran's Nuclear Compliance Can No Longer Be Independently Verified",
+        "summary": [
+            "حملات آمریکا و اسرائیل زنجیرهٔ بازرسی‌های آی‌ای‌ای را قطع کرد",
+            "بدون داده‌های مستقل، ارزیابی غنی‌سازی و ذخایر اورانیوم نامشخص شد"
+        ],
+        "impact": "عدم توانایی نظارت بین‌المللی، ریسک گسترش برنامه هسته‌ای",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "legis1",
+        "url": "https://legis1.com/news/iran-nuclear-compliance-verification-irans-can-no",
+        "clean_url": "https://legis1.com/news/iran-nuclear-compliance-verification-irans-can-no",
+        "image": "https://newsgen-prod.reframedata.com/api/v1/public/articles/id/b4fa817e-04ba-4e07-9699-466b307490db/image",
+        "timestamp": 1790772840.0
+    },
+    {
+        "id": "cda1c8d5a3",
+        "title_fa": "فشارهای بین‌المللی می‌تواند حملهٔ ایران به اسرائیل را تحریک کند",
+        "title_en": "Mounting pressure on Iran could lead to attack on Israel despite US peace talks",
+        "summary": [
+            "افزایش تحریم‌ها و دیپلماسی‌های صلح‌جویانه آمریکا، ایران را به گزینهٔ نظامی سوق می‌دهد",
+            "هر حمله‌ای به اسرائیل می‌تواند واکنش نظامی گسترده‌ای در منطقه به دنبال داشته باشد"
+        ],
+        "impact": "ریسک گسترش جنگ در خاورمیانه و تهدید به زیرساخت‌های انرژی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpaHNGNEpLdFFJTXMyQ3NWSXVwTG8zZkVtY1EyanpoREFIRTdhdGRGZ3UyMTBkbTlQd1VWaGctc2lQdVo5SUlzVDdQZHdGQllCdnZWMzQzRExja040YlNsbjZqTmdjV2M1Wnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpaHNGNEpLdFFJTXMyQ3NWSXVwTG8zZkVtY1EyanpoREFIRTdhdGRGZ3UyMTBkbTlQd1VWaGctc2lQdVo5SUlzVDdQZHdGQllCdnZWMzQzRExja040YlNsbjZqTmdjV2M1Wnc",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790769118.0
+    },
+    {
+        "id": "b6a028ff47",
+        "title_fa": "نیروهای آمریکا از عراق خارج شدند؛ جنگ ایران‑عراق ادامه دارد",
+        "title_en": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+        "summary": [
+            "خروج نیروها نشان‌دهنده تغییر استراتژی آمریکایی در میانهٔ درگیری است",
+            "قضیهٔ احیای سیاست اخراج مهاجران ترامپ توسط دیوان عالی، فشار داخلی آمریکا را افزون می‌کند"
+        ],
+        "impact": "کاهش حضور نظامی مستقیم آمریکا، امکان تشدید نقش نیابتی دیگران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2Jkdm5aVTAyeXVwYzl6b0ZXZDVWbFNyWG9xVzNxaDVsSGZJS3F0cmZoclpPVnM3RWI1N29tRHVTd3RTWHdqM1YtNVpmR1JOcnhUZWhGTjFlc0lUaTRhM1p6RVpHR29QQUdPRnc4NnFMY21ZQUplYzEzMG0tbEpHSVdQbFQ1WVJ0cVcxd0VWRkxvMU01OVJjN29Zd2FIRVc1aDhuTUNYeVZzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2Jkdm5aVTAyeXVwYzl6b0ZXZDVWbFNyWG9xVzNxaDVsSGZJS3F0cmZoclpPVnM3RWI1N29tRHVTd3RTWHdqM1YtNVpmR1JOcnhUZWhGTjFlc0lUaTRhM1p6RVpHR29QQUdPRnc4NnFMY21ZQUplYzEzMG0tbEpHSVdQbFQ1WVJ0cVcxd0VWRkxvMU01OVJjN29Zd2FIRVc1aDhuTUNYeVZzUQ",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790766797.0
+    },
+    {
         "id": "170c80a8ec",
         "title_fa": "پیتر تیل گفت که دولت ترامپ از وفاداران «نه خیلی باهوش» تشکیل شده بود، سپس جمهوری‌خواهان از دان جونیور جدا شدند.",
         "title_en": "Peter Thiel said Trump’s administration was staffed by “not very smart” loyalists then Republicans broke ranks over Don Jr.",
@@ -146,6 +219,23 @@
         "timestamp": 1790751300.0
     },
     {
+        "id": "f4aa94ff4c",
+        "title_fa": "خبر بین‌المللی — ایران says it receives US response به latest proposal as Was",
+        "title_en": "Iran says it receives US response to latest proposal as Washington pulls out of Iraq",
+        "summary": [
+            "Iran's Islamic Revolutionary Guard Corps urged Americans to vote out US President Donald Trump's allies in Congress as US forces were due to withdraw from their remaining bases ​in neighbouring Iraq..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/iran-appeals-us-voters-american-troops-leave-iraq-2026-09-30/",
+        "clean_url": "https://www.reuters.com/world/us/iran-appeals-us-voters-american-troops-leave-iraq-2026-09-30",
+        "image": "http://www.bing.com/th?id=ONUT.laRU_vja5Z-4v2a7dALq6g&pid=News",
+        "timestamp": 1790749020.0
+    },
+    {
         "id": "41cf2f6b21",
         "title_fa": "روسیه از خروج ایران از پیمان عدم گسترش هسته‌ای می‌نالد",
         "title_en": "Russia Opposes Iran Leaving Nuclear Non-Proliferation Treaty",
@@ -165,6 +255,26 @@
         "timestamp": 1790748660.0
     },
     {
+        "id": "6405d695e3",
+        "title_fa": "ایران پاسخی از آمریکا به پیشنهاد هفت‌روزه دریافت کرد",
+        "title_en": "Iran takes US response to cabinet, Hormuz clashes continue",
+        "summary": [
+            "وزارت خارجه ایران اعلام کرد بازخورد آمریکا به طرح هفت‌روزه دریافت شد",
+            "اختلاف اصلی بر ترتیب اجرای طرح است نه محتوا",
+            "در همان روز یک تانکر در تنگه هرمز هدف حمله شد",
+            "دو زندانی معترض ژانویه اعدام شدند"
+        ],
+        "impact": "بازخورد آمریکا می‌تواند مذاکرات هسته‌ای را دوباره فعال کند ولی تنش‌های هرمز و اعدام‌ها فشار داخلی را افزاش می‌دهد",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609302668",
+        "clean_url": "https://www.iranintl.com/en/202609302668",
+        "image": "http://www.bing.com/th?id=ONUT.YqU5m-g_cp5eEHPi_D6KzQ&pid=News",
+        "timestamp": 1790748300.0
+    },
+    {
         "id": "c9c5d8a17c",
         "title_fa": "نتانیاهو: پیشرفت هسته‌ای ایران ادامه دارد",
         "title_en": "Iran is renewing progress on its nuclear program, Netanyahu tells UAE President MBZ - report",
@@ -181,6 +291,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sVmp5R2xkQXlOalZoT0tWN21QNmJLUWVRTG1hWlZNWjZPN0E0cVVZRVBobEYwYi1aaTQ2d0hGcW04cTFlcjVhNThGb3lSMjdIYjRwNlV6TFloR3JndGMxN28zenByYjMxMGc",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790748052.0
+    },
+    {
+        "id": "519811692d",
+        "title_fa": "پنج نشانهٔ نزدیک شدن شکست ایران",
+        "title_en": "5 Signs Iran’s Defeat Is Finally Arriving",
+        "summary": [
+            "تغییر زمان‌بندی ترامپ از هفته‌ها به ماه‌ها نشانگر خطاهای استراتژیک است",
+            "قابلیت ایران برای مختل‌کردن عبور نفت از تنگه هرمز همچنان زیرآب است"
+        ],
+        "impact": "کاهش اعتماد به سرعت پایان جنگ و ادامه هزینه‌های نظامی",
+        "tag": "تحلیل",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/5-signs-irans-defeat-finally-arriving-12505952",
+        "clean_url": "https://www.newsweek.com/5-signs-irans-defeat-finally-arriving-12505952",
+        "image": "http://www.bing.com/th?id=ONUT.FS6U6BbVhpfrC0O-32n77g&pid=News",
+        "timestamp": 1790743740.0
     },
     {
         "id": "b750aa3761",
@@ -235,6 +363,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UYlpPUlpFcXBlcEtVTzk2ektFd2FBTkpKbXp1c283Z1VBNEdqQll4R2dlODRsS0tJLUdpWXdTeFlLZnFjSV84THRURlktSU5aVEtyTFJEWU85OXk0ZkVMN0NMaGplamxvREdqYUtvcUo",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790741476.0
+    },
+    {
+        "id": "790aca5a72",
+        "title_fa": "خبر بین‌المللی — ایران indicates it's received an official US response به its",
+        "title_en": "Iran indicates it's received an official US response to its latest offer on ending the war",
+        "summary": [
+            "Iranian officials indicated Wednesday they have received an official U.S. response to Tehran's latest proposal to end the seven-month war, which U.S. President Donald Trump had publicly rejected just..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-indicates-it-s-received-an-official-us-response-to-its-latest-offer-on-ending-the-war/ar-AA2dfZyJ",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-indicates-it-s-received-an-official-us-response-to-its-latest-offer-on-ending-the-war/ar-AA2dfZyJ",
+        "image": "http://www.bing.com/th?id=ONUT.NGw1rPp4Udi43bBTLOQcgA&pid=News",
+        "timestamp": 1790740779.0
     },
     {
         "id": "b61faa9a12",
@@ -440,6 +585,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2hlRlY5RFh4YWgtOFBHaFNnc1dKRXh6Q243VXU0bUFUWk5TeThyVFM2Yk1jWUpnYWRUQkV6eGhZM3YzNzBzY296NXNwRlRXbWl1eFFVb0dvckZ4aUhsVHctOERRMkJJRTNZbVo1ZjVqejViYWxuaDRIY2Q0STZ2al9EVHlXVlgtbE9lSVhQbjZCSzZwTmtpM01uUWdxS2tPLWRj0gGoAUFVX3lxTE1wUUM0QkFNelExVzUzcVBxdnM2c1l4bklTdndFT3pzcEZVQXZkOVA0VHFRYXREZjAtcVhXcktBVi12VEZ6dVFRcEpVSEJZb0thLUs3NGY1d2pBV3BJOXdBS2NkWnJ1T0RrTWpzNm8yS2R5Q3ZnaDYyYmRMejdKYm5kd2RNZmhZOE9BdHRrU1NfdmlicXJUR3hZMDVTQldmN3lCWUFFYWIxdw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790729421.0
+    },
+    {
+        "id": "431437d5ff",
+        "title_fa": "ایران تا پس‌انتخابات ممکن است جنگ را تشدید کند",
+        "title_en": "Groundhog Day: Iran is unlikely to let the war end until after the midterms and may even escalate soon",
+        "summary": [
+            "تهدید ایران برای «تحقیر» ترامپ نشان‌دهنده قصد ادامه درگیری پس از انتخابات است",
+            "افزایش حملات می‌تواند فشار بر انرژی جهانی و مسیرهای تجاری را تشدید کند"
+        ],
+        "impact": "تحریک تنش‌های نظامی و ریسک گسترش درگیری در خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Fortune on MSN",
+        "url": "https://www.msn.com/en-us/news/other/groundhog-day-iran-is-unlikely-to-let-the-war-end-until-after-the-midterms-and-may-even-escalate-soon/ar-AA2dg08L",
+        "clean_url": "https://www.msn.com/en-us/news/other/groundhog-day-iran-is-unlikely-to-let-the-war-end-until-after-the-midterms-and-may-even-escalate-soon/ar-AA2dg08L",
+        "image": "http://www.bing.com/th?id=ONUT.5MixSs3fnOER70Si1LeO6w&pid=News",
+        "timestamp": 1790726820.0
     },
     {
         "id": "7e88c7d75b",
@@ -1182,6 +1345,82 @@
         "clean_url": "https://www.msn.com/en-in/money/economy/iran-rial-crashes-past-2-5-million-per-dollar-war-sanctions-push-currency-to-new-low/ar-AA2dcC9U",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790690507.0
+    },
+    {
+        "id": "b401ac9e8e",
+        "title_fa": "انفجار در بلوار جمهوری‌زاهدان و پرونده سپاهی",
+        "title_en": "Explosion heard near Zahedan boulevard – IRGC media",
+        "summary": [
+            "صدای انفجار در بلوار جمهوری‌زاهدان گزارش شد؛ علت هنوز نامشخص",
+            "پرونده زندانی معترض که به اعدام محکوم شد، دوباره به دفتر اجرای حکم ارجاع شد",
+            "او ادعا می‌کند گلوله‌های پلت‌ساز به پای او آسیب رسانده‌اند"
+        ],
+        "impact": "انفجار می‌تواند امنیت محلی را تحت فشار قرار دهد و پرونده سپاهی نشان‌دهنده تشدید سرکوب اعتراضات است",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609302159",
+        "clean_url": "https://www.iranintl.com/en/202609302159",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1790690390.0
+    },
+    {
+        "id": "91120969b2",
+        "title_fa": "رشد ۲٫۲٪ اقتصاد آمریکا در سه‌ماهه دوم",
+        "title_en": "US economy grew a solid 2.2% in the second quarter, government says, upgrading previous estimate",
+        "summary": [
+            "رشد تولید ناخالص داخلی آمریکا در سه‌ماهه دوم ۲٫۲٪ ثبت شد، بالاتر از پیش‌بینی‌ها",
+            "مصرف‌کنندگان با رشد ۳٫۸٪ هزینه‌ها، اقتصاد را تقویت کردند",
+            "واردات منفی بر رشد کلی اثر گذاشت",
+            "این ارقام نشان از ادامه رونق اقتصادی در مواجهه با فشارهای جهانی دارد"
+        ],
+        "impact": "رشد قوی می‌تواند فشار بر سیاست‌های پولی فدرال رزرو را کاهش دهد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/09/30/us-economy-second-quarter-growth/",
+        "clean_url": "https://www.sun-sentinel.com/2026/09/30/us-economy-second-quarter-growth",
+        "image": "https://www.bing.com/th?id=ONUT.HIeK2xYTgquKojKRapxahQ",
+        "timestamp": 1790690390.0
+    },
+    {
+        "id": "f780c3686c",
+        "title_fa": "پرواز FlyDubai به اسرائیل با فرود اضطراری در عربستان",
+        "title_en": "Dubai to Israel flight makes emergency landing, passenger says \"co-pilot tried to murder the pilot\" and crash jet",
+        "summary": [
+            "یکی از خلبانان پرواز FlyDubai به‌طور خشونت‌آمیز خلبان دیگر را مورد حمله قرار داد",
+            "خلبان دیگر توسط مسافران و خدمه خنثی شد و هواپیما به تباک، عربستان اضطراری فرود آمد",
+            "نتانیاهو این حادثه را به‌عنوان تهدید احتمالی تروریستی توصیف کرد",
+            "هنوز مشخص نیست آیا این اقدام به‌تنهایی یا بخشی از نقشه بزرگ‌تر است"
+        ],
+        "impact": "فرود اضطراری می‌تواند امنیت هوایی خاورمیانه را تحت فشار قرار دهد و واکنش‌های نظامی و امنیتی را تشدید کند",
+        "tag": "هوانوردی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/tel-aviv-israel-flydubai-flight-saudi-arabia-diverted-pilots/",
+        "clean_url": "https://www.cbsnews.com/news/tel-aviv-israel-flydubai-flight-saudi-arabia-diverted-pilots",
+        "image": "https://www.bing.com/th?id=ONUT.Jn5BLbO2gf2-c5wy-RqLfw",
+        "timestamp": 1790690390.0
+    },
+    {
+        "id": "f17efbd5f2",
+        "title_fa": "خبر بین‌المللی — An اسرائیل-bound plane diverts به Saudi Arabia برای emergenc",
+        "title_en": "An Israel-bound plane diverts to Saudi Arabia for emergency landing and other Mideast developments",
+        "summary": [
+            "Full coverage is available here.An Israel-bound plane makes and emergency landing in Saudi ArabiaA fight erupted between the..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/an-israel-bound-plane-diverts-to-saudi-arabia-for-emergency-landing-and-other-mideast-developments/ar-AA2dgead?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/an-israel-bound-plane-diverts-to-saudi-arabia-for-emergency-landing-and-other-mideast-developments/ar-AA2dgead",
+        "image": "https://www.bing.com/th?id=ONUT.F0unqH5jK-tHXZiMN90vjA",
+        "timestamp": 1790690390.0
     },
     {
         "id": "67b58c9c8b",
@@ -5350,244 +5589,5 @@
         "clean_url": "https://www.iranintl.com/202609266544",
         "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
         "timestamp": 1790465855.0796282
-    },
-    {
-        "id": "1817464908",
-        "title_fa": "ترامپ مذاکرات ایران را پس از رد آتش‌بس پیش‌بینی می‌کند",
-        "title_en": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
-        "summary": [
-            "ترامپ رد طرح آتش‌بس هفت روزه را اعلام کرد اما گفت مذاکرات با ایران در هفته آینده ممکن است",
-            "او به آکسئوس گفت ایران «دست خود را بیش از حد باز کرد» و هنوز شرایط بازگشایی تنگه هرمز را می‌طلبد",
-            "احتمال ادامه حملات هوایی تا زمان رسیدن به توافق، فشار بر بازار نفت و ناوبری خلیج را افزایش می‌دهد"
-        ],
-        "impact": "بازگشت مذاکرات می‌تواند مسیر بازگشایی تنگه هرمز را هموار کند ولی ریسک حملات هوایی همچنان باقی است",
-        "tag": "دیپلماتیک",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "AOL.co.uk",
-        "url": "https://www.aol.co.uk/articles/trump-expects-iran-talks-next-221044000.html",
-        "clean_url": "https://www.aol.co.uk/articles/trump-expects-iran-talks-next-221044000.html",
-        "image": "https://www.bing.com/th?id=ONUT.lcpl3OrgESqHVwwGlAleVA",
-        "timestamp": 1790464258.0
-    },
-    {
-        "id": "4b42287c5e",
-        "title_fa": "آرژانتین و پاناما: ایران هماهنگ‌کننده حملات تروریستی",
-        "title_en": "Tribunales de Argentina y de Panamá probaron que Irán coordinó ataques terroristas en América Latina para desestabilizar Medio Oriente",
-        "summary": [
-            "دادگاه‌های آرژانتین و پاناما ادعا کردند ایران برنامه‌ریزی حملات تروریستی در آمریکای لاتین را داشته است",
-            "این حملات شامل ترور سفارت آمیا و سقوط هواپیمای پاناما در ۱۹۹۴ بود که بیش از صد نفر کشته شد",
-            "اگر صحت ادعاها ثابت شود، تصویر ایران به عنوان حامی تروریسم در سطح جهانی تقویت می‌شود"
-        ],
-        "impact": "افزایش فشار بین‌المللی برای تحریم‌های جدید علیه ایران",
-        "tag": "تروریسم",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "Infobae",
-        "url": "https://www.infobae.com/estados-unidos/2026/09/27/tribunales-de-argentina-y-de-panama-probaron-que-iran-coordino-ataques-terroristas-en-america-latina-para-desestabilizar-medio-oriente/",
-        "clean_url": "https://www.infobae.com/estados-unidos/2026/09/27/tribunales-de-argentina-y-de-panama-probaron-que-iran-coordino-ataques-terroristas-en-america-latina-para-desestabilizar-medio-oriente",
-        "image": "http://www.bing.com/th?id=ONUT.QJYTlnEhmf-eEv-VW1-pgg&pid=News",
-        "timestamp": 1790463600.0
-    },
-    {
-        "id": "0cc5f0a967",
-        "title_fa": "ایران در برابر پیشنهاد هورموز هسته‌ای امتناع می‌کند",
-        "title_en": "Iran rejects nuclear concessions in Hormuz proposal",
-        "summary": [
-            "مقام ارشد ایرانی در مجمع عمومی سازمان ملل اعلام کرد در برنامه هسته‌ای هیچ امتیازی نمی‌دهد",
-            "بازگشایی هورموز مشروط به پایان جنگ، رفع تحریم‌های نفتی و آزادسازی دارایی‌های مسدود شده است",
-            "این موضع می‌تواند فشار اقتصادی بر آمریکا را افزایش دهد و مذاکرات هسته‌ای را به تعویق بیندازد"
-        ],
-        "impact": "ادامه بسته بودن هورموز فشار بر بازار نفت و تقویت موضع ایران در مذاکرات هسته‌ای",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Daily Times",
-        "url": "https://dailytimes.com.pk/1558797/iran-rejects-nuclear-concessions-in-hormuz-proposal/",
-        "clean_url": "https://dailytimes.com.pk/1558797/iran-rejects-nuclear-concessions-in-hormuz-proposal",
-        "image": "https://dailytimes.com.pk/assets/uploads/2026/09/26/Iran-rejects-nuclear-concessions-in-Hormuz-proposal.jpg",
-        "timestamp": 1790462820.0
-    },
-    {
-        "id": "7e232c7c3f",
-        "title_fa": "خبر بین‌المللی — ایران insists در diplomatic solution after ترامپ rejects pea",
-        "title_en": "Iran insists on diplomatic solution after Trump rejects peace plan",
-        "summary": [
-            "Iran insists on diplomatic solution after Trump rejects peace plan Reuters"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790462554.0
-    },
-    {
-        "id": "ab2fd2759f",
-        "title_fa": "رئیس‌جمهور: رقیق‌سازی اورانیوم اما رد عقب‌نشینی هسته‌ای",
-        "title_en": "Iran's president offers uranium dilution while rejecting a nuclear retreat",
-        "summary": [
-            "رئیس‌جمهور اعلام کرد می‌تواند اورانیوم غنی را رقیق کند تا به توافق برسد",
-            "در عین حال، هرگز قصد عقب‌نشینی از برنامه هسته‌ای را نادیده نمی‌گیرد",
-            "این پیام می‌تواند فشار بین‌المللی را کاهش دهد ولی ریسک مذاکرات سخت باقی می‌ماند"
-        ],
-        "impact": "پیشنهاد رقیق‌سازی اورانیوم می‌تواند مذاکرات هسته‌ای را پیش ببرد اما عدم عقب‌نشینی ممکن است تحریم‌ها را ادامه دهد",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Idaho Learning News",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-president-offers-uranium-dilution-while-rejecting-a-nuclear-retreat/ar-AA2d2wXw",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-president-offers-uranium-dilution-while-rejecting-a-nuclear-retreat/ar-AA2d2wXw",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2d2cAa.img?w=1731&h=909&m=4&q=91",
-        "timestamp": 1790462133.0
-    },
-    {
-        "id": "9e8cd2e4d8",
-        "title_fa": "ترامپ پیشنهاد ایران برای هورموز را رد کرد",
-        "title_en": "Trump says Iran wants to make a deal over the Strait of Hormuz 'because they're dying'",
-        "summary": [
-            "ترامپ اعلام کرد پیشنهاد ایران برای بازگشایی مجدد تنگه هورموز «قابل قبول» نیست",
-            "یک نماینده مجلس ایران هشدار داد تهران آماده اقدام‌ها نظامی بیشتر آمریکا است",
-            "رد پیشنهاد خطر تشدید درگیری نظامی در تنگه هورموز را افزایش می‌دهد",
-            "تنگه هورموز همچنان نقطه حساس برای عبور نفت جهانی باقی می‌ماند"
-        ],
-        "impact": "رد پیشنهاد ایران خطر تشدید درگیری نظامی در هورموز و اختلال در حمل و نقل نفت را افزایش می‌دهد.",
-        "tag": "هورموز",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-oil-gas-prices-midterms-09-26-26",
-        "clean_url": "https://www.foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-oil-gas-prices-midterms-09-26-26",
-        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/304ccf69319e1d4e260f916ec5c51e8a.jpg?tl=1&ve=1",
-        "timestamp": 1790459220.0
-    },
-    {
-        "id": "7014c207aa",
-        "title_fa": "سازمان امنیت ملی ایران رد واکنش نظامی به تحریم‌های هوایی",
-        "title_en": "US Iran War Live Updates: ‘We will not spare them’: Iran vows to pursue Trump, Netanyahu even after war ends",
-        "summary": [
-            "سازمان امنیت ملی ایران اعلام کرد که به تحریم‌های هوایی پاسخ نظامی نمی‌دهد",
-            "به جای آن، گزینه‌های غیرنظامی برای فشار بر فرودگاه‌های مخالف در دست بررسی است"
-        ],
-        "impact": "تهدیدهای غیرنظامی می‌تواند پروازهای برخی فرودگاه‌ها را مختل کند",
-        "tag": "هوانوردی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-update-reopen-strait-of-hormuz-donald-trump-rejects-tehran-7-days-peace-plan-middle-east-latest-news/liveblog/134509880.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-update-reopen-strait-of-hormuz-donald-trump-rejects-tehran-7-days-peace-plan-middle-east-latest-news/liveblog/134509880.cms",
-        "image": "http://www.bing.com/th?id=ONUT.Y_kDoaJ_3kO4w-mFoqQ4BQ&pid=News",
-        "timestamp": 1790458680.0
-    },
-    {
-        "id": "249b8950af",
-        "title_fa": "پزشکیان، ش‌ن را به دادگاه جرایم آمریکا و اسرائیل کرد",
-        "title_en": "Pezeshkian turned the United Nations into a court for American and Israeli crimes",
-        "summary": [
-            "سخنرانی رئیس‌جمهور در ش‌ن، به‌صورت مستقیم به تهدیدات ترامپ علیه ایران اشاره کرد و آن را به‌عنوان سرکوب غربی نامید.",
-            "با تبدیل صحنه ش‌ن به محاکمه جرایم واشنگتن و تل‌آویو، پیام مقاومت و عدم نیاز به اجازه خارجی برای دفاع از حاکمیت ایران را تقویت کرد."
-        ],
-        "impact": "بیان قاطع در ش‌ن می‌تواند حمایت داخلی را تقویت کرده و تنش‌های دیپلماتیک با آمریکا و اسرائیل را تشدید کند.",
-        "tag": "سخنرانی",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "Tehran Times",
-        "url": "https://www.tehrantimes.com/news/530434/Pezeshkian-turned-the-United-Nations-into-a-court-for-American",
-        "clean_url": "https://www.tehrantimes.com/news/530434/Pezeshkian-turned-the-United-Nations-into-a-court-for-American",
-        "image": "https://media.tehrantimes.com/d/t/2026/09/26/4/6191876.jpg?ts=1790430109688",
-        "timestamp": 1790456753.952944
-    },
-    {
-        "id": "4dddd7796b",
-        "title_fa": "ترامپ رسانه‌ها را از کاخ سفید ممنوع کرد",
-        "title_en": "Elder: Why an angry Trump is banning media from White House",
-        "summary": [
-            "ترامپ به دلیل خشم، دسترسی روزنامه‌ها به کاخ سفید را قطع کرد",
-            "این اقدام نشان‌دهنده تشدید تنش بین دولت و رسانه‌هاست"
-        ],
-        "impact": "اطلاعات رسمی دولت برای عموم محدود می‌شود",
-        "tag": "رسانه",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Toronto Sun on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/elder-why-an-angry-trump-is-banning-media-from-white-house/ar-AA2d2hpu?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/elder-why-an-angry-trump-is-banning-media-from-white-house/ar-AA2d2hpu",
-        "image": "https://www.bing.com/th?id=ONUT.Jt3wM0SOoNy4KPiPwKsCrw",
-        "timestamp": 1790456753.9524572
-    },
-    {
-        "id": "53514e604a",
-        "title_fa": "اطلاعات آمریکا: عربستان هنوز به برنامه هسته‌ای ادامه می‌دهد",
-        "title_en": "US intelligence says Saudi Arabia has not abandoned its nuclear weapons ambitions",
-        "summary": [
-            "اسناد طبقه‌بندی شده نشان می‌دهد عربستان برنامه‌های توسعه سلاح هسته‌ای را رها نکرده است",
-            "این گزارش فشار بین‌المللی و احتمال تحریم‌های جدید علیه ریاض را تشدید می‌کند"
-        ],
-        "impact": "افزایش فشار بین‌المللی بر عربستان و احتمال تحریم‌های جدید",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Tehran Times",
-        "url": "https://www.tehrantimes.com/news/530444/US-intelligence-says-Saudi-Arabia-has-not-abandoned-its-nuclear",
-        "clean_url": "https://www.tehrantimes.com/news/530444/US-intelligence-says-Saudi-Arabia-has-not-abandoned-its-nuclear",
-        "image": "https://media.tehrantimes.com/d/t/2026/09/26/4/6191955.jpg?ts=1790440076672",
-        "timestamp": 1790455440.0
-    },
-    {
-        "id": "958c11025a",
-        "title_fa": "خبر بین‌المللی — ترامپ calls ایرانی plan به reopen Strait هرمز not 'acceptab",
-        "title_en": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-        "summary": [
-            "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable' NPR"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFFIUk9GUUctYjB3UzR4VmZGTTU0S2VKSm5paEYtbHNZSFAtSXl6TlgwRWxfREkyOXpkbTNTd0lyeTdfTW5kMlhnQmVhWUo0YnZydlRCVGFrVlZVellxTFlidFFTS2FiS3piUW8yVFlmVjVuN2FuWWR4bjB2ZDltWVpJTmFuVURhNXdaXzZHMDY2QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFFIUk9GUUctYjB3UzR4VmZGTTU0S2VKSm5paEYtbHNZSFAtSXl6TlgwRWxfREkyOXpkbTNTd0lyeTdfTW5kMlhnQmVhWUo0YnZydlRCVGFrVlZVellxTFlidFFTS2FiS3piUW8yVFlmVjVuN2FuWWR4bjB2ZDltWVpJTmFuVURhNXdaXzZHMDY2QQ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790453308.0
-    },
-    {
-        "id": "051d89a5f6",
-        "title_fa": "ترامپ به مذاکرات جدید با ایران امید می‌دهد؛ اما پیشنهاد هورموز را رد کرد",
-        "title_en": "Trump expects new Iran talks despite rejecting deal offer",
-        "summary": [
-            "ترامپ گفت مذاکرات با ایران می‌تواند هفته آینده آغاز شود، در حالی که طرح هفت‌روزه برای بازگشایی هورموز را رد کرد.",
-            "در مصاحبه با Axios، او به احتمال حملات هوایی گسترده به اهداف ایرانی اشاره کرد.",
-            "منابع خبری می‌گویند مذاکرات غیرمستقیم می‌تواند تا دوشنبه آغاز شود، اما فضای تنش‌زا باقی می‌ماند."
-        ],
-        "impact": "اگر مذاکرات ادامه یابد، خطر تشدید درگیری نظامی در خلیج فارس کاهش می‌یابد؛ در غیر این‌صورت، احتمال حملات هوایی و اختلال در حمل و نقل نفتی بالا می‌رود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Jamaica Observer",
-        "url": "https://www.jamaicaobserver.com/2026/09/27/trump-expects-new-iran-talks-despite-rejecting-deal-offer/",
-        "clean_url": "https://www.jamaicaobserver.com/2026/09/27/trump-expects-new-iran-talks-despite-rejecting-deal-offer",
-        "image": "https://www.bing.com/th?id=ONUT.4LrWAMK12Eb6FD4CC-bDyA",
-        "timestamp": 1790452725.0
-    },
-    {
-        "id": "c8ada7789e",
-        "title_fa": "جمهوری‌خواهان آمریکا برای هزینه‌های برق در میانه انتخابات",
-        "title_en": "Senate Republicans target rising costs as Iran war weighs on midterms",
-        "summary": [
-            "جمهوری‌خواهان قانون جدیدی برای محافظت از مصرف‌کنندگان در برابر افزایش قیمت برق تصویب می‌کنند",
-            "این اقدام سعی دارد نگرانی‌های رأی‌دهندگان درباره تورم ناشی از جنگ ایران‑آمریکا را کاهش دهد"
-        ],
-        "impact": "قانون می‌تواند هزینه‌های انرژی را برای مصرف‌کنندگان ثابت نگه دارد",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609272228",
-        "clean_url": "https://www.iranintl.com/en/202609272228",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790452380.0
     }
 ]
