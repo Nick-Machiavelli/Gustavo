@@ -1,5 +1,23 @@
 [
     {
+        "id": "d8a21ea843",
+        "title_fa": "دموکرات‌ها هنوز درک غلطی از رأی‌دهندگان دارند",
+        "title_en": "What Democrats are still getting wrong about voters",
+        "summary": [
+            "سارا لانگولن توضیح می‌دهد که احزاب دموکراتیک به‌درستی رفتار رای‌دهندگان را تحلیل نمی‌کنند.",
+            "او استراتژی‌های پیشنهادی برای انتخابات ۲۰۲۶ را بیان می‌کند اما به‌نظر می‌رسد هنوز درک عمیقی از تمایلات عمومی ندارند."
+        ],
+        "impact": "عدم اصلاح استراتژی می‌تواند منجر به شکست‌های انتخابی جدی برای دموکرات‌ها شود.",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "Vox on MSN",
+        "url": "https://www.msn.com/en-us/news/other/what-democrats-are-still-getting-wrong-about-voters/ar-AA2diTWS?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/what-democrats-are-still-getting-wrong-about-voters/ar-AA2diTWS",
+        "image": "https://www.bing.com/th?id=ONUT.tv26HOwQsBmIAnI_VZBh5Q",
+        "timestamp": 1790808150.644991
+    },
+    {
         "id": "8185370ee6",
         "title_fa": "خبر بین‌المللی — ترامپ’s surrender fantasy: knot در talks",
         "title_en": "Trump’s surrender fantasy: The knot in talks",
@@ -85,6 +103,42 @@
         "clean_url": "https://nypost.com/2026/09/30/opinion/high-oil-prices-under-trump-letters",
         "image": "https://www.bing.com/th?id=ONUT.LSU-X2UMmzwZ8VVIizTYkA",
         "timestamp": 1790803150.9192932
+    },
+    {
+        "id": "b9ab2f2a14",
+        "title_fa": "عملیات Outcast: رویکرد جراحی‌گونه به تحریم‌های ایران",
+        "title_en": "Operation Outcast Takes a Surgical Approach to Iran Sanctions, Export Compliance Manager",
+        "summary": [
+            "شرکت Morgan Lewis جزئیات برنامه‌ای به نام Operation Outcast را که هدفش هدفمند کردن تحریم‌هاست، منتشر کرد.",
+            "این رویکرد به‌جای اعمال تحریم‌های گسترده، بر شرکت‌های خاصی متمرکز می‌شود تا فشار اقتصادی مؤثرتری ایجاد کند."
+        ],
+        "impact": "اجرای دقیق می‌تواند شرکت‌های بین‌المللی را در مواجهه با تحریم‌های آمریکا به‌سرعت محدود کند.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Morgan Lewis",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3AtT3ZGU2lyZlRMdnNqd2VrV01vb2FVbzBqd0dTQXlLUFZLTURJY1BvNHluZXVuSnBvZF9MRGZhTVpCb0VLLW1zRk0tYmxTa3g3NC1wRDNSTVFSZmVKR2dvMFBvLWVLZlVTVGFLN1pjZlB1Q0pQTTVIbTIyQVpRZTFrM0YwVXNvZHFrM0V4cTYwd3BVY2NYb3k4R1M4VTJoYW5LOENwVjlDWnFYaktMb1hKVjlEbzhxYmY0dzNNcFlOZEZUSS1n?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3AtT3ZGU2lyZlRMdnNqd2VrV01vb2FVbzBqd0dTQXlLUFZLTURJY1BvNHluZXVuSnBvZF9MRGZhTVpCb0VLLW1zRk0tYmxTa3g3NC1wRDNSTVFSZmVKR2dvMFBvLWVLZlVTVGFLN1pjZlB1Q0pQTTVIbTIyQVpRZTFrM0YwVXNvZHFrM0V4cTYwd3BVY2NYb3k4R1M4VTJoYW5LOENwVjlDWnFYaktMb1hKVjlEbzhxYmY0dzNNcFlOZEZUSS1n",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790803143.0
+    },
+    {
+        "id": "29af006eba",
+        "title_fa": "پویایی‌های آمریکا‑ایران در حالت بن‌بست",
+        "title_en": "U.S.-Iran Dynamics Beneath the Stalemate",
+        "summary": [
+            "تحلیل‌گران مؤسسه واشنگتن به بررسی علل عدم پیشرفت مذاکرات هسته‌ای می‌پردازند.",
+            "تاکید بر این است که هر دو طرف به‌دلیل فشارهای داخلی و منطقه‌ای به‌سختی می‌توانند قدمی جلوتر بروند."
+        ],
+        "impact": "بدون تغییر در دینامیک‌ها، احتمال تشدید تحریم‌ها و تنش‌های نظامی افزایش می‌یابد.",
+        "tag": "تحلیل",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "washingtoninstitute.org",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTVyY0JVTnVhY094WnFSRzktWm1kaS1DeEgzb2ZYQ2E3N1o0MjgzRUZWTXE4Ym00WS12YjlaT1NHSmczRzVXSjlqN0U1dC1zN0UwbzNDWGRFNEY4b2lvZU9KeXVMMjBtMnZCQVhiNXRpZXd4UnFqcXNOeVBiWC1XWXhLaDE4SUNtb2VhM1Jmbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTVyY0JVTnVhY094WnFSRzktWm1kaS1DeEgzb2ZYQ2E3N1o0MjgzRUZWTXE4Ym00WS12YjlaT1NHSmczRzVXSjlqN0U1dC1zN0UwbzNDWGRFNEY4b2lvZU9KeXVMMjBtMnZCQVhiNXRpZXd4UnFqcXNOeVBiWC1XWXhLaDE4SUNtb2VhM1Jmbw",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790802867.0
     },
     {
         "id": "02db096929",
@@ -270,6 +324,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFhGZG5kcVd0Y05FalBHeTJsM0xHRl9KSU5kb3RCeE4tVnAxSUlGSkt0b2wxRkduUm50NUJERHlUbFJsZEVJQmdlU0Q0ZDg5bWZtMGNSNmdhOTdVYUlacXA2NHR2cjlua010MDVUNEpKX29tN2xFS2pOTkh0aEtFOXk4dW16TXE1bUNr0gGQAUFVX3lxTE1ZVUVOS3ZxRnNmd2xpNmIzdDJnSWJmS2V4MEhsYUpfOFgyT2VfRVRmM2lsYkFtajUzSnRLa0J6NUhhRThqa0pkYkJ0bW1GbDYtT3ZGTUZZYUsxN3o0TDN5Sk1uMlY3RGxSN1k1UjdJeEdGSGxYaUprOXFNY0xTNjlWZFlzTFVBaWNBX1RvS2l6aA",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790785850.0
+    },
+    {
+        "id": "b827a133f4",
+        "title_fa": "ترامپ: جنگ ایران «به‌زودی» تمام می‌شود، قیمت‌ها پایین می‌آید",
+        "title_en": "Trump says Iran war will end ‘very soon’",
+        "summary": [
+            "ترامپ گفت جنگ با ایران «به‌زودی» به پایان می‌رسد و قیمت بنزین و نفت به‌سرعت کاهش می‌یابد.",
+            "او تعداد تلفات آمریکا در این جنگ را ۱۸ نفر اعلام کرد و مقایسه‌ای با جنگ عراق انجام داد."
+        ],
+        "impact": "بیانیه‌های تند می‌تواند انتظارات بازار انرژی را بر هم بزند و فشار سیاسی بر دولت ایران را افزاش دهد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609309867",
+        "clean_url": "https://www.iranintl.com/en/202609309867",
+        "image": "http://www.bing.com/th?id=ONUT.RjgBFE9wZs0-Oofw8Y2VLw&pid=News",
+        "timestamp": 1790782440.0
+    },
+    {
+        "id": "4b5f720460",
+        "title_fa": "ترامپ: جزئیات آزادی مظنونان پایگاه بریتانیا امروز فاش می‌شود",
+        "title_en": "ترامپ: علت آزادی مظنونان پرونده پایگاه بریتانیا تا پایان روز روشن‌تر می‌شود",
+        "summary": [
+            "ترامپ وعده داد تا پایان روز اطلاعات بیشتری درباره آزادسازی دو مظنون متهم به توطئه علیه پایگاه هوایی بریتانیا منتشر کند.",
+            "این آزادی‌ها پس از ادعای استفاده نیروهای آمریکایی از پایگاه برای حمله به ایران مطرح شد."
+        ],
+        "impact": "افشای جزئیات می‌تواند فشار دیپلماتیک بر روابط آمریکا‑بریتانیا و ایران را تشدید کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609301309",
+        "clean_url": "https://www.iranintl.com/202609301309",
+        "image": "http://www.bing.com/th?id=ONUT.H0YOzTNZSamPuvUMIiEeTA&pid=News",
+        "timestamp": 1790778300.0
     },
     {
         "id": "6a62f5cb9f",
@@ -637,6 +727,24 @@
         "clean_url": "https://www.msn.com/en-in/news/other/irgc-accuses-us-of-using-nuclear-pretext-to-plunder-national-wealth/ar-AA2dg6Fk",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dgjpC.img?w=640&h=480&m=4&q=50",
         "timestamp": 1790760300.0
+    },
+    {
+        "id": "404b84c839",
+        "title_fa": "خروج نهایی نیروهای آمریکایی از عراق؛ خلا برای ایران",
+        "title_en": "US closes final base in Iraq as Iran eyes chance to fill vacuum",
+        "summary": [
+            "نیروهای غربی آخرین پایگاه خود را در عراق تخلیه کردند و این خروج توسط رسانه‌های دولتی ایران به‌عنوان پیروزی تبلیغ شد.",
+            "تحلیل‌گران هشدار می‌دهند که خالی شدن این موضع می‌تواند فرصت نفوذ ایران در منطقه را فراهم کند."
+        ],
+        "impact": "فاصله قدرتی جدید می‌تواند تعادل نظامی در خاورمیانه را به نفع ایران تغییر دهد.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/us-closes-final-iraq-iran-160243966.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/us-closes-final-iraq-iran-160243966.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/b1216858b1619a8333279e2e836f88501340ae600018b5c0145adddf845b7185/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0351f2d62ac9992a0d58a095b3be8ba0.jpg",
+        "timestamp": 1790758920.0
     },
     {
         "id": "cdcf86c0a5",
@@ -1274,6 +1382,23 @@
         "clean_url": "https://www.msn.com/en-us/news/other/groundhog-day-iran-is-unlikely-to-let-the-war-end-until-after-the-midterms-and-may-even-escalate-soon/ar-AA2dg08L",
         "image": "http://www.bing.com/th?id=ONUT.5MixSs3fnOER70Si1LeO6w&pid=News",
         "timestamp": 1790726820.0
+    },
+    {
+        "id": "906daf1fa9",
+        "title_fa": "ایران جنگ live: ترامپ says may 'blow up' ایران, تهران denies UK airbase role",
+        "title_en": "Iran war live: Trump says may 'blow up' Iran, Tehran denies UK airbase role",
+        "summary": [
+            "US President Donald Trump says the war on Iran will end \"very soon\" and asserts that the country will not obtain a nuclear weapon. Mohsen Rezaei, the secretary of Iran's Supreme National Security Council, says Trump is trapped in a \"quagmire\", where he can neither negotiate nor wage war."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abd5265-1790792293.jpg?resize=1920%2C1440",
+        "timestamp": 1790726400.0
     },
     {
         "id": "7e88c7d75b",
@@ -5441,135 +5566,5 @@
         "clean_url": "https://eadaily.com/en/news/2026/09/27/thank-god-that-iran-has-the-irgc-the-reformists-were-defeated-in-iran",
         "image": "https://www.bing.com/th?id=ONUT.JD5VHLAD8_nx6sltd2QkrA",
         "timestamp": 1790514608.6940818
-    },
-    {
-        "id": "3e771ca39b",
-        "title_fa": "ترامپ‌تی‌وی: شکست فوری رسانه‌ای",
-        "title_en": "Trump TV",
-        "summary": [
-            "روزنامه Daily Kos کارتون جدیدی با عنوان «ترامپ‌تی‌وی» منتشر کرد",
-            "متن مقاله می‌گوید سایت بدون تبلیغ‌کننده‌های بزرگ ادامه دارد ولی به کمک خوانندگان نیاز دارد"
-        ],
-        "impact": "عدم جذب تبلیغات باعث فشار مالی بر رسانه‌های مستقل می‌شود",
-        "tag": "رسانه",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Daily Kos",
-        "url": "https://www.dailykos.com/stories/2026/9/27/800102902/cartoon/trump-tv/",
-        "clean_url": "https://www.dailykos.com/stories/2026/9/27/800102902/cartoon/trump-tv",
-        "image": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/09/20260923edohc-a.jpg",
-        "timestamp": 1790514608.6932528
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "پاتریوت‌ها و دریک میِی در اخبار ورزشی",
-        "title_en": "US latest news",
-        "summary": [
-            "ریوادز با یک گل در دقیقه آخر بر کافسور پیروز شد؛ تیم‌های NFL و MLB به‌تازگی نتایج شگفت‌انگیزی داشتند",
-            "خبرهای سیاسی در این خبر‌نامه به‌صورت طنزآمیز به ترامپ اشاره کردند، اما محتوای اصلی ورزشی است"
-        ],
-        "impact": "نتایج مسابقات بر فروش بلیط و تبلیغات تیم‌ها تأثیر مستقیم دارد",
-        "tag": "ورزش",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1790513640.0
-    },
-    {
-        "id": "030a29db9e",
-        "title_fa": "کشتی «متخلف» در تنگه هرمز هدف موشک کروز شد",
-        "title_en": "رسانه وابسته به سپاه: یک کشتی «متخلف» در تنگه هرمز هدف قرار گرفت",
-        "summary": [
-            "خبرگزاری فارس گزارش داد موشکی کروز به کشتی در مسیر غیرمجاز شلیک شد",
-            "همزمان چند فعال صنفی توسط نیروهای سپاه بازداشت شدند؛ ادعاهای نقض حقوق انسانی مطرح شد"
-        ],
-        "impact": "حمله به کشتی می‌تواند ترافیک تجاری در هرمز را مختل کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609277356",
-        "clean_url": "https://www.iranintl.com/202609277356",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/393eda6de7ae16db824c09410fdea06e808e7f83-800x450.jpg?rect=61,72,715,375&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790513160.0
-    },
-    {
-        "id": "e4527bf21e",
-        "title_fa": "نتانیاهو به‌صورت مخفی به ابوظبی سفر کرد",
-        "title_en": "وای‌نت: نتانیاهو مخفیانه به ابوظبی رفت و با رییس امارات متحده عربی دیدار کرد",
-        "summary": [
-            "نتانیاهو با هواپیمای خصوصی به ابوظبی رفت و با محمد بن زاید دیدار کرد",
-            "اسرائیل سامانه موقت گنبد آهنین را به امارات تحویل داد؛ این همکاری در زمان جنگ با ایران رخ داد",
-            "سفر قبلاً در عملیات «غرش شیران» مخفیانه انجام شده بود؛ نشان از نزدیک شدن روابط نظامی دو کشور دارد",
-            "این حرکت می‌تواند تعادل قدرت در خاورمیانه را به نفع اسرائیل و امارات تغییر دهد"
-        ],
-        "impact": "تقویت همکاری دفاعی اسرائیل‑امارات می‌تواند فشار بر ایران را افزایش دهد",
-        "tag": "امنیتی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609275516",
-        "clean_url": "https://www.iranintl.com/202609275516",
-        "image": "http://www.bing.com/th?id=ONUT.xY6vqAWpl6v-O5eKQ4DAXw&pid=News",
-        "timestamp": 1790511360.0
-    },
-    {
-        "id": "88cc2cd4d7",
-        "title_fa": "سپاه: آمریکا باید از غرب آسیا برود",
-        "title_en": "Iran's military: Americans must leave West Asia, we will not retreat one step",
-        "summary": [
-            "نیروی نظامی ایران اعلام کرد آمریکا باید از غرب آسیا خارج شود",
-            "گفته شد نیروی نظامی هیچ‌گونه عقب‌نشینی نخواهد کرد",
-            "این بیانیه در پس افزایش حضور نظامی آمریکا در منطقه منتشر شد"
-        ],
-        "impact": "بیانیه می‌تواند تنش‌های نظامی منطقه را تشدید کند و واکنش‌های دیپلماتیک را به تعویق بیندازد",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Kurdistan24",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXVTaWozZk1rVGJHT25OMlFGbDdnV002a3dGVDNJaTFJNldBNnl0T1JndGlRSGhfN2tydlo3bmxFN1pCVEYtYVNXd1l4dzNhRVB6TmpydUJNYU5GdnMtUER6eTJwaXhJZ2dtcmRZekdmYWZXRTJTbU1mamhmVnh0S2V4LUpHOUZTNDQ3cHFNOVpnYnJSVUhla2kzM3JNV24tNENUNHgxX0h6cVhRVFFmQ3dDSk1NS0tuWXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXVTaWozZk1rVGJHT25OMlFGbDdnV002a3dGVDNJaTFJNldBNnl0T1JndGlRSGhfN2tydlo3bmxFN1pCVEYtYVNXd1l4dzNhRVB6TmpydUJNYU5GdnMtUER6eTJwaXhJZ2dtcmRZekdmYWZXRTJTbU1mamhmVnh0S2V4LUpHOUZTNDQ3cHFNOVpnYnJSVUhla2kzM3JNV24tNENUNHgxX0h6cVhRVFFmQ3dDSk1NS0tuWXc",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790510785.0
-    },
-    {
-        "id": "918e4532cf",
-        "title_fa": "امارات راه‌حل جدید برای خنثی‌کردن فشار هرمز",
-        "title_en": "UAE outmaneuvers Iran’s Hormuz strategy, state TV analysts say",
-        "summary": [
-            "امارات با استفاده از کشتی‌های ارزان، هزینه بسته شدن هرمز را برای ایران کاهش داد",
-            "تحلیل‌گران تلویزیونی ایران هدف‌گیری شاتل‌های کوچک را ناکافی دانستند",
-            "این تغییر تاکتیک باعث شد ایران نتواند با فشار نظامی مسیر نفت را کنترل کند"
-        ],
-        "impact": "امارات توانست فشار ایران بر ترافیک نفتی هرمز را کاهش دهد، ریسک بسته شدن مسیر را برای خریداران نفت پایین آورد",
-        "tag": "هیدروکربن",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609283835",
-        "clean_url": "https://www.iranintl.com/en/202609283835",
-        "image": "http://www.bing.com/th?id=ONUT.v87RRqMD9oNGbe9Nny3DDQ&pid=News",
-        "timestamp": 1790509560.0
-    },
-    {
-        "id": "8a175db569",
-        "title_fa": "ادعای نازا درباره رفتار ارتش اسرائیل در غزه؛ نقص‌های مستند",
-        "title_en": "NAZA’s claims about IDF conduct in Gaza are grave. So are the film’s journalistic flaws",
-        "summary": [
-            "مستند نازا ادعا می‌کند ارتش اسرائیل در غزه جنایات گسترده‌ای مرتکب شده است.",
-            "بررسی‌های مستقل نشان می‌دهد برخی ادعاها فاقد شواهد مستند و دارای سوگیری خبری هستند."
-        ],
-        "impact": "کاهش اعتبار مستند در جامعه بین‌المللی و تشدید بحث‌های رسانه‌ای",
-        "tag": "رسانه",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "The Times of Israel on MSN",
-        "url": "https://www.msn.com/en-us/news/other/naza-s-claims-about-idf-conduct-in-gaza-are-grave-so-are-the-film-s-journalistic-flaws/ar-AA2d38Yk?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/naza-s-claims-about-idf-conduct-in-gaza-are-grave-so-are-the-film-s-journalistic-flaws/ar-AA2d38Yk",
-        "image": "https://www.bing.com/th?id=ONUT.7LJAJ542VownS75S5hnf2w",
-        "timestamp": 1790509148.9755547
     }
 ]
