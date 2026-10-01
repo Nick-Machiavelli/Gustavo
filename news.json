@@ -1,5 +1,152 @@
 [
     {
+        "id": "756e45b835",
+        "title_fa": "ترامپ جشن شام برای خریداران رمزارز خود",
+        "title_en": "Trump to Reward People Who Buy His Crypto for Making Him Rich",
+        "summary": [
+            "ترامپ برنامه‌ریزی یک شام ویژه برای بزرگ‌ترین خریداران سکه دیجیتال خود دارد",
+            "این رویداد به‌نظر می‌رسد برای تحریک فروش رمزارز و کسب سود شخصی است"
+        ],
+        "impact": "افزایش تقاضای رمزارزهای مرتبط با ترامپ و ریسک سرمایه‌گذاران",
+        "tag": "کریپتو",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/216118/donald-trump-dinner-top-buyers-crypto",
+        "clean_url": "https://newrepublic.com/post/216118/donald-trump-dinner-top-buyers-crypto",
+        "image": "https://www.bing.com/th?id=ONUT.SOlahbMyTv84AgJDBX5ftA",
+        "timestamp": 1790883976.9702775
+    },
+    {
+        "id": "d705a10311",
+        "title_fa": "ترامپ ادعای نادرست درباره تأثیر جنگ ایران بر میانه‌دوره",
+        "title_en": "Trump Makes Delusional Claim About Iran War’s Effect on Midterms",
+        "summary": [
+            "ترامپ می‌گوید جنگ ایران به نفع حزبش است چون ایران سلاح هسته‌ای ندارد",
+            "این بیانیه نادیده‌گیری بسته شدن مسیرهای بحرانی و افزایش قیمت سوخت را نشان می‌دهد",
+            "کاندیداهای جمهوری‌خواه به‌جای تمرکز بر پیامدهای اقتصادی، به این ادعاها واکنش نشان می‌دهند"
+        ],
+        "impact": "تشویق به نادیده گرفتن هزینه‌های اقتصادی جنگ برای جذب رای‌داران",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/216124/donald-trump-delusional-claim-iran-war-midterms",
+        "clean_url": "https://newrepublic.com/post/216124/donald-trump-delusional-claim-iran-war-midterms",
+        "image": "https://www.bing.com/th?id=ONUT.7e3dlRAGjgkRaM3kHaUJdg",
+        "timestamp": 1790883976.9698467
+    },
+    {
+        "id": "04c2538316",
+        "title_fa": "اقتصاد ترامپ فشار بر بخش تولید آمریکا",
+        "title_en": "Trump’s Economy is Crushing the Manufacturing Sector as Americans Struggle to Find Good-Paying Jobs",
+        "summary": [
+            "از زمان به‌کارگیری ترامپ 35,000 شغل تولیدی از دست رفته است",
+            "هزینه‌های ورودی به‌دلیل تعرفه‌ها و انرژی بالا به‌سرعت افزایش یافته",
+            "سرمایه‌گذاری در ساخت کارخانه‌ها 28٪ سقوط کرده و بازار کار ساکن شده",
+            "فرصت‌های شغلی خوب برای آمریکایی‌ها به نقطه‌ای رسیده که بیشترین نگرانی را ایجاد می‌کند"
+        ],
+        "impact": "کاهش تولید داخلی و افزایش بیکاری در آمریکا",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Democratic Party",
+        "url": "https://democrats.org/trumps-economy-is-crushing-the-manufacturing-sector-as-americans-struggle-to-find-good-paying-jobs/",
+        "clean_url": "https://democrats.org/trumps-economy-is-crushing-the-manufacturing-sector-as-americans-struggle-to-find-good-paying-jobs",
+        "image": "https://democrats.org/wp-content/uploads/2026/10/GOTV-Call-—-Web-Banner-3_2-2.png?w=1024",
+        "timestamp": 1790883976.969401
+    },
+    {
+        "id": "0ce426d1e1",
+        "title_fa": "ترامپ مخالف گسترش مراکز داده هوش مصنوعی",
+        "title_en": "Trump Admits He’s a NIMBY on Data Centers",
+        "summary": [
+            "ترامپ می‌گوید هوش مصنوعی عالی است اما نمی‌خواهد مراکز داده در نزدیکی او ساخته شود",
+            "این تضاد نشان‌دهنده عدم درک عمیق سیاست‌گذاری فناوری در سطح رهبری است"
+        ],
+        "impact": "بی‌ثباتی در برنامه‌ریزی زیرساخت‌های دیجیتال آمریکا",
+        "tag": "فناوری",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Gizmodo",
+        "url": "https://gizmodo.com/trump-admits-hes-a-nimby-on-data-centers-2000820324",
+        "clean_url": "https://gizmodo.com/trump-admits-hes-a-nimby-on-data-centers-2000820324",
+        "image": "https://www.bing.com/th?id=ONUT.qXHZ9fP_jI506tpTLoQFwA",
+        "timestamp": 1790883974.5061176
+    },
+    {
+        "id": "6a36937200",
+        "title_fa": "تسویه‌حساب خزانه‌داری آمریکا با خودروسازی و راه‌آهن ایران",
+        "title_en": "Treasury targets Iranian auto, rail sectors in latest round of sanctions",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا تحریم‌های جدیدی علیه شرکت‌های خودروسازی و راه‌آهن ایران اعمال کرد.",
+            "هدف این تحریم‌ها فشار بر اقتصاد ایران و محدود کردن توان مالی برای برنامه هسته‌ای است.",
+            "شرکت‌های هدف به‌سرعت دسترسی به بانک‌های بین‌المللی را از دست می‌دهند."
+        ],
+        "impact": "اقتصاد حمل‌ونقل ایران تحت فشار شدید قرار می‌گیرد؛ تولید خودرو و بار ریلی احتمالاً کاهش می‌یابد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX21YWVhpMEJaa2NqV25tWkNvby11blNYczZxaUlUSGRPN1BuSTdzMEhDeVdPV3NuRlVXcVl3b2VlX1hDSmZ4ck81ejRFZ01PMER5aFN4X2phVFM4OWczQWpEbmo4RkhwSUVxNVZwNTBDVGhNS1FDdlhWQjBiS2tJcDlIYjBSTGR0bEwxTWJ2NGZJYk9rQzB3ME8wbkVEZFFPRjBaZndwakFIWExQ0gGyAUFVX3lxTE1qcTR5WE1tWkM2VTh6TjVtZEpxUHNhWEJiQWVsaVlXYi1LNFlaZGpSNWJYN0FENzJBYmJaTHlmbkc2Q3dtc0kyQXp4RTFqbDJPRk9ySFpKRjBmYzRvcldhX21VQmwwdnBrXzZUdlc3b0YtdzVxcFFhcDBUUUFibXNRUXJnc0xKMEVGQkhiX1ZJOGpWd1U3c193cEV6RlJ2c2xwWDJEVWdqNGJIQ1lHNS1sS1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX21YWVhpMEJaa2NqV25tWkNvby11blNYczZxaUlUSGRPN1BuSTdzMEhDeVdPV3NuRlVXcVl3b2VlX1hDSmZ4ck81ejRFZ01PMER5aFN4X2phVFM4OWczQWpEbmo4RkhwSUVxNVZwNTBDVGhNS1FDdlhWQjBiS2tJcDlIYjBSTGR0bEwxTWJ2NGZJYk9rQzB3ME8wbkVEZFFPRjBaZndwakFIWExQ0gGyAUFVX3lxTE1qcTR5WE1tWkM2VTh6TjVtZEpxUHNhWEJiQWVsaVlXYi1LNFlaZGpSNWJYN0FENzJBYmJaTHlmbkc2Q3dtc0kyQXp4RTFqbDJPRk9ySFpKRjBmYzRvcldhX21VQmwwdnBrXzZUdlc3b0YtdzVxcFFhcDBUUUFibXNRUXJnc0xKMEVGQkhiX1ZJOGpWd1U3c193cEV6RlJ2c2xwWDJEVWdqNGJIQ1lHNS1sS1E",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790881140.0
+    },
+    {
+        "id": "eb1f625520",
+        "title_fa": "ایران: پذیرش بازرس‌های هسته‌ای در صورت رفع تحریم‌ها",
+        "title_en": "Iran Offers to Allow Nuclear Inspectors If Sanctions Are Eased",
+        "summary": [
+            "ایران پیشنهاد کرد با کاهش تحریم‌ها، بازرس‌های آژانس بین‌المللی انرژی اجازه بازدید از تاسیسات هسته‌ای را بدهد.",
+            "این حرکت سعی دارد فشار دیپلماتیک را کم کند و مذاکرات هسته‌ای را زنده کند.",
+            "آمریکا و اتحادیه اروپا هنوز به شرط‌گذاری مالی پاسخ مثبت نداده‌اند."
+        ],
+        "impact": "ممکن است مسیر مذاکرات هسته‌ای را تسریع کند، اما رفع تحریم‌ها به توافق‌های گسترده وابسته است.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclN5TVFKWVhqRjNsSlB6SkJ5NWRaRXBZREVMVzZheWtjSWxUVHc5d2RzakVrSnZsakRNczE5SWdxYkdFZnV1ek0zTkJmSzAxVGJ3bHFqdDh0LUdubTdldkkwT21ZRExtSkZYX3JfdmFtaDFRaFZCMmJCYXUybGZlZUZvLXowaFdVdC1xQ2pXb2ZYcjZYNEFEQlZwSEE4ejNVREMtRUh6emo4NnVORWk2RlU4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclN5TVFKWVhqRjNsSlB6SkJ5NWRaRXBZREVMVzZheWtjSWxUVHc5d2RzakVrSnZsakRNczE5SWdxYkdFZnV1ek0zTkJmSzAxVGJ3bHFqdDh0LUdubTdldkkwT21ZRExtSkZYX3JfdmFtaDFRaFZCMmJCYXUybGZlZUZvLXowaFdVdC1xQ2pXb2ZYcjZYNEFEQlZwSEE4ejNVREMtRUh6emo4NnVORWk2RlU4dw",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790878985.0
+    },
+    {
+        "id": "2f1ed81993",
+        "title_fa": "خبر بین‌المللی — US تحریم‌ها target ایران's auto, rail sectors after blockade",
+        "title_en": "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes",
+        "summary": [
+            "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes Reuters"
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGQ5cWhPbnlFT0hFQU1VME1qVVB2SndmZVROdUpzUU1sVGxRcDZndDN0R1BwdGVXRThreEJhTnV4WWQzZ19xUjlqZ3hqWjBWSEJWQ1JtcExJNVVRTG95UHQ1RjFsc21pbWQ4Q3c3dnhvYWZXUF9uNmQ0UHhWT1pJRXg3Yk42b0dOS0FJVmNsbGJLeFZTQkNKcW5ocVZVSzBlS2tnSnRpM044NEhMZW1FMG94N1U2dW1fUXJkbng1clJZSHpaZVVGLXFyeDBYcXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGQ5cWhPbnlFT0hFQU1VME1qVVB2SndmZVROdUpzUU1sVGxRcDZndDN0R1BwdGVXRThreEJhTnV4WWQzZ19xUjlqZ3hqWjBWSEJWQ1JtcExJNVVRTG95UHQ1RjFsc21pbWQ4Q3c3dnhvYWZXUF9uNmQ0UHhWT1pJRXg3Yk42b0dOS0FJVmNsbGJLeFZTQkNKcW5ocVZVSzBlS2tnSnRpM044NEhMZW1FMG94N1U2dW1fUXJkbng1clJZSHpaZVVGLXFyeDBYcXM",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790877223.0
+    },
+    {
+        "id": "cbf51b3b39",
+        "title_fa": "خبر بین‌المللی — Treasury تحریم‌ها operation targets ایران's auto, rail indus",
+        "title_en": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
+        "summary": [
+            "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack CNBC"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": 0,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1neDhtODh4WXhPazlFWklfLWlINzd4N1Z5ck5TTlNJV2VYQ2xzN3libXVWME9xOHJvR2J3S3lMaEwyZzNlc25xOVU0UDJvS3FYa2N4dUFNMEEwU3ZYWl9GWlViaTZJbGRHcDNaeW5uZmlSTVZ5TTY5Y2pB0gF_QVVfeXFMTUJNT3FWUnlTZy1adkZtT01IeERSWm1uRkd3S2t0Z0s5SkUzdG5uNWZwMWFMVjJpbDAzN0lfT3lRZ3BHVmU2SHN0cmlTenF4TW81bjlPMkhxUkdkRDU2azRZR0RCQ1BpQXpESUJITEhvOF9VRWQ0alFIbV9uN2JySQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1neDhtODh4WXhPazlFWklfLWlINzd4N1Z5ck5TTlNJV2VYQ2xzN3libXVWME9xOHJvR2J3S3lMaEwyZzNlc25xOVU0UDJvS3FYa2N4dUFNMEEwU3ZYWl9GWlViaTZJbGRHcDNaeW5uZmlSTVZ5TTY5Y2pB0gF_QVVfeXFMTUJNT3FWUnlTZy1adkZtT01IeERSWm1uRkd3S2t0Z0s5SkUzdG5uNWZwMWFMVjJpbDAzN0lfT3lRZ3BHVmU2SHN0cmlTenF4TW81bjlPMkhxUkdkRDU2azRZR0RCQ1BpQXpESUJITEhvOF9VRWQ0alFIbV9uN2JySQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790874666.0
+    },
+    {
         "id": "84aab4db29",
         "title_fa": "نظرسنجی ویسکانسین: حمایت از ترامپ به شدت کاهش یافت",
         "title_en": "WisDems: Derrick Van Orden remains unapologetically in line with increasingly unpopular President Donald Trump",
@@ -89,6 +236,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjVkUXFPaWRiQXFWM1ZsOHBQQUJYMUlVUF9CVnRqVGhXSlZWNG1Zb3Z2dVcwTF9pYnFXV2FFaGVoRlEwenNzTWI2R2J0a3FXWlI3bWk2Q1dIS2tGUl9ZdC16T2JlX0hkN296cGo1ZlpMZEg5bG11M2pQdEM4Nmp3aV9rbTNlMHctM0NUbXBUUHVUMHhOLVlHbUlFc2otRi05",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790863267.0
+    },
+    {
+        "id": "620111769b",
+        "title_fa": "تحریم جدید آمریکا بر خودروسازی و راه‌آهن ایران",
+        "title_en": "US targets Iran auto, rail and metals sectors in new sanctions blitz",
+        "summary": [
+            "تسکین‌گری خزانه‌داری آمریکا شرکت‌های کلیدی خودروسازی و راه‌آهن ایران را هدف گرفت تا منابع مالی نظام را قطع کند",
+            "این اقدام در چارچوب «عملیات Economic Outcast» برای خنثی‌سازی توان مالی سپاه و برنامه هسته‌ای انجام شد",
+            "شرکت‌های ایران‌خودرو، سایپا، پارس‌خودرو و دیگران به فهرست اضافه شدند؛ صادرات خودرو که سال 2024 حدود 1.1 میلیون واحد بود، تحت فشار شدید قرار می‌گیرد",
+            "پیش‌بینی می‌شود فشار بر ارز و تورم داخلی ایران افزایش یابد"
+        ],
+        "impact": "کاهش شدید درآمدهای ارزی ایران و تضعیف توان مالی نظام",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610016404",
+        "clean_url": "https://www.iranintl.com/en/202610016404",
+        "image": "http://www.bing.com/th?id=ONUT.it1nVb7dO2PtCZtM4vv4eA&pid=News",
+        "timestamp": 1790858340.0
     },
     {
         "id": "554286626c",
@@ -652,6 +819,44 @@
         "clean_url": "https://www.iranintl.com/202610015442",
         "image": "http://www.bing.com/th?id=ONUT.XZP2SU-CJQY5BPgyA7xAJw&pid=News",
         "timestamp": 1790797740.0
+    },
+    {
+        "id": "d702edc4e8",
+        "title_fa": "دومین شهروند ایرانی-بریتانیایی در طرح تروریستی RAF دستگیر شد",
+        "title_en": "Sixth man arrested in connection with suspected RAF Fairford terror plot",
+        "summary": [
+            "ششمین فرد با تابعیت دوگانه ایران-بریتانیا به اتهام برنامه‌ریزی حمله تروریستی به پایگاه RAF فیرفورد بازداشت شد",
+            "پلیس به بررسی احتمال دخالت خارجی، از جمله ایران، پرداخته است",
+            "پنج شهروند بریتانیایی دیگر نیز در ارتباط با مواد منفجره دستگیر شدند"
+        ],
+        "impact": "افزایش هشدارهای امنیتی در پایگاه‌های نظامی بریتانیا",
+        "tag": "تروریسم",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "The Mail in South Cumbria",
+        "url": "https://www.nwemail.co.uk/news/national/26600371.sixth-man-arrested-connection-suspected-raf-fairford-terror-plot/",
+        "clean_url": "https://www.nwemail.co.uk/news/national/26600371.sixth-man-arrested-connection-suspected-raf-fairford-terror-plot",
+        "image": "https://www.nwemail.co.uk/resources/images/21507055.jpg?type=og-image",
+        "timestamp": 1790797425.0
+    },
+    {
+        "id": "98c8013437",
+        "title_fa": "ترامپ: احتمال ارتباط ایران با حملهٔ خلبان FlyDubai",
+        "title_en": "Trump says Iran may be linked to FlyDubai copilot who tried to crash Israel-bound jet",
+        "summary": [
+            "ترامپ ادعا کرد ایران ممکن است در پشت خلبان عمانی که سعی در کشتن هواپیمای اسرائیلی داشت، باشد.",
+            "این اظهارات بدون ارائه مدرک واضح منتشر شد و می‌تواند تنش‌های منطقه‌ای را تشدید کند.",
+            "ایران رد کامل این اتهام را اعلام کرد و خواستار بررسی مستقل شد."
+        ],
+        "impact": "بیان‌های ترامپ می‌تواند فشار سیاسی بر ایران را افزایش دهد و مذاکرات هسته‌ای را پیچیده‌تر کند.",
+        "tag": "سیاست خارجی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/10/01/israel-saudi-flight-copilot-flydubai-investigation/8c7665f4-bd65-11f1-81fc-9b76f8343b6c_story.html",
+        "clean_url": "https://www.washingtonpost.com/business/2026/10/01/israel-saudi-flight-copilot-flydubai-investigation/8c7665f4-bd65-11f1-81fc-9b76f8343b6c_story.html",
+        "image": "https://www.bing.com/th?id=ONUT.iPVF4oAJ_0QvyakvePLRyw",
+        "timestamp": 1790797425.0
     },
     {
         "id": "680b678262",
@@ -5369,204 +5574,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQTZBZVRsbktKeDJod3VELW9YTF9YUlpkeFl5NzJOMzMyMExQay05UWdIYlh0dEZSUkYzTjVfaDNiMzlONmUyMXgyY2dhUnR4S0l5LXA4XzlFMWdZVFYwS0kzSlVYNy1nb0luWk5PRFd2WWpiZHRsdFhtOVQwbGhqSmNOQTRYZ19mNUNraW9tTENGWmZvdC1Ia20xR1pJdw",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790574908.0
-    },
-    {
-        "id": "2022e27e3f",
-        "title_fa": "رایال ایران به رکورد پایین جدید رسید",
-        "title_en": "Iran’s rial hits another record low under economic and military pressure",
-        "summary": [
-            "نرخ ارز به ۲٫۴۴ میلیون ریال برای هر دلار رسید",
-            "فشارهای اقتصادی و نظامی ترکیب شده باعث سقوط ارزش پول شد",
-            "مذاکرات غیرمستقیم با آمریکا در حال شکل‌گیری است",
-            "در داخل کشور اختلافات درباره سیاست هسته‌ای تشدید شد"
-        ],
-        "impact": "کاهش قدرت خرید مردم و تشدید تورم",
-        "tag": "ارز",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202609280172",
-        "clean_url": "https://www.iranintl.com/en/202609280172",
-        "image": "http://www.bing.com/th?id=ONUT.ZDtzcqjZBG6q781mK54uFQ&pid=News",
-        "timestamp": 1790574480.0
-    },
-    {
-        "id": "88416837ea",
-        "title_fa": "مذاکرات برای امتیاز هسته‌ای ایران در ازای مذاکرات صلح آمریکا",
-        "title_en": "Negotiators pushing Iran for nuclear program concessions in exchange for US peace talks - report",
-        "summary": [
-            "دیپلمات‌ها سعی دارند محدودیت‌های هسته‌ای ایران را در ازای پیشبرد مذاکرات صلح کاهش دهند",
-            "آمریکا فشار می‌آورد تا ایران به تعهدات قبلی خود پایبند بماند",
-            "پیشنهاد می‌تواند به رفع بخشی از تحریم‌ها و بهبود روابط اقتصادی منجر شود"
-        ],
-        "impact": "احتمال کاهش تحریم‌های اقتصادی و بازگشت سرمایه‌گذاری‌های خارجی",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sbzlZa3dyYl9RSHVabkFnR1VfMEJCVW5ETnJtaThoWTZSS1J4SVVvRHp6NVJaNUZQZ1VyTzhEY3RMcnF6XzJ0V0JJMXZmbG5QUzlqeU9UVWhrMnNxSEJ6d3JIeWJJLVZHeEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sbzlZa3dyYl9RSHVabkFnR1VfMEJCVW5ETnJtaThoWTZSS1J4SVVvRHp6NVJaNUZQZ1VyTzhEY3RMcnF6XzJ0V0JJMXZmbG5QUzlqeU9UVWhrMnNxSEJ6d3JIeWJJLVZHeEE",
-        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790573972.0
-    },
-    {
-        "id": "47110a0d4f",
-        "title_fa": "نماینده آمریکا علت رد پیشنهاد هرمز ایران را فاش کرد",
-        "title_en": "Envoy reveals why US rejected Iran's Hormuz offer",
-        "summary": [
-            "The US rejected Iran's proposal to reopen the Strait of Hormuz, citing Tehran's demands for sanctions relief and access to frozen assets before nuclear program negotiations. US Ambassador Mike Waltz called the offer a 'cynical attempt,"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Rediff.com",
-        "url": "https://www.rediff.com/news/report/envoy-reveals-why-us-rejected-irans-hormuz-offer/20260928.htm",
-        "clean_url": "https://www.rediff.com/news/report/envoy-reveals-why-us-rejected-irans-hormuz-offer/20260928.htm",
-        "image": "https://im.rediff.com/1200-630/news/2026/apr/19hormuz.jpg",
-        "timestamp": 1790572740.0
-    },
-    {
-        "id": "c9acb48e21",
-        "title_fa": "قیمت نفت پس از توقف حملات ایران‑اسرائیل افت کرد",
-        "title_en": "Oil Falls as Investors Await Clarity After Iran-Israel Halt Attacks",
-        "summary": [
-            "توقف حملات خطر منطقه‌ای را کم کرد و سرمایه‌گذاران منتظر سیاست‌گذاران شدند",
-            "قیمت نفت خام حدود ۲٪ کاهش یافت و بازار به وضوح در حالت انتظار است"
-        ],
-        "impact": "کاهش قیمت نفت به سود خریداران و فشار بر درآمدهای نفتی ایران",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "energynow.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZQTG5MYW5mNnVRTlZMenMzal82djYwWkszRHRUVlpWNkNvTThoRVk4ZjlpWVM2R2ZJM2UycUg2MFRiUS1ndnlqZ1dIVkN0V3NmM3owV2R4QjlDS2NNbGtiZmdIOTZHVUtpc0g1bjZ3Nk10SUc0R1pnLUgtS1pnYkJkVEkwZ0VUcnAyaUpCLTZ1dEFYQkFIWHNtSFJpR28?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZQTG5MYW5mNnVRTlZMenMzal82djYwWkszRHRUVlpWNkNvTThoRVk4ZjlpWVM2R2ZJM2UycUg2MFRiUS1ndnlqZ1dIVkN0V3NmM3owV2R4QjlDS2NNbGtiZmdIOTZHVUtpc0g1bjZ3Nk10SUc0R1pnLUgtS1pnYkJkVEkwZ0VUcnAyaUpCLTZ1dEFYQkFIWHNtSFJpR28",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790571002.0
-    },
-    {
-        "id": "1e2b478b17",
-        "title_fa": "مایک والتز، سفیر آمریکا در سازمان ملل: آمریکا پیشنهاد هرمز ایران را به دلیل تقاضای «میلیاردها دارایی مسدود شده» رد کرد.",
-        "title_en": "US rejected Iran's Hormuz proposal over \"billions in frozen assets\" demand: Ambassador to UN Mike Waltz",
-        "summary": [
-            "The United States has rejected Iran's proposal to reopen the Strait of Hormuz due to conditional demands. Iranian Foreign Minister Seyyed Abbas Araghchi stated that diplomacy remains an option amid tensions."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Economic Times",
-        "url": "https://www.msn.com/en-in/news/other/us-rejected-irans-hormuz-proposal-over-billions-in-frozen-assets-demand-ambassador-to-un-mike-waltz/ar-AA2d5Caa",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-rejected-irans-hormuz-proposal-over-billions-in-frozen-assets-demand-ambassador-to-un-mike-waltz/ar-AA2d5Caa",
-        "image": "https://img.etimg.com/thumb/msid-134530801,width-1200,height-630,imgsize-67958,overlay-economictimes/articleshow.jpg",
-        "timestamp": 1790569411.0
-    },
-    {
-        "id": "055235ff5e",
-        "title_fa": "امریکا پیشنهاد آتش‌بس ایران را رد کرد",
-        "title_en": "'Unacceptable cynical attempt': Why US rejected Iran's ceasefire proposal",
-        "summary": [
-            "سفیر آمریکا به سازمان ملل اعلام کرد پیشنهاد ایران برای بازگشایی هرمز رد شد",
-            "دلیل رد، طلب رفع تحریم‌ها و آزادسازی دارایی‌های منجمد بود",
-            "این تصمیم مذاکرات هسته‌ای را پیچیده‌تر می‌کند"
-        ],
-        "impact": "رد آتش‌بس می‌تواند تنش‌های نظامی را در منطقه تشدید کند",
-        "tag": "دیپلماتیک",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Times of India",
-        "url": "https://www.msn.com/en-in/news/other/unacceptable-cynical-attempt-why-us-rejected-iran-s-ceasefire-proposal/ar-AA2d54xJ",
-        "clean_url": "https://www.msn.com/en-in/news/other/unacceptable-cynical-attempt-why-us-rejected-iran-s-ceasefire-proposal/ar-AA2d54xJ",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2d5H2z.img?w=1280&h=720&m=4&q=70",
-        "timestamp": 1790568840.0
-    },
-    {
-        "id": "24aff58cba",
-        "title_fa": "آمریکا پیشنهاد ایران را رد کرد و گفت تهران همه چیز را از پیش می‌خواست",
-        "title_en": "US rejects Iran's proposal, says Tehran wanted everything 'up front'",
-        "summary": [
-            "The US rejected Iran's proposal to reopen the Strait of Hormuz, citing Tehran's demand for sanctions relief first. President Trump warned military strikes are 'possible', while Iran said it remains ready for diplomacy but also prepared for war."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Asianet Newsable",
-        "url": "https://www.msn.com/en-in/news/other/us-rejects-irans-proposal-says-tehran-wanted-everything-up-front/ar-AA2d5abJ",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-rejects-irans-proposal-says-tehran-wanted-everything-up-front/ar-AA2d5abJ",
-        "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-45ca077d-f086-4e67-9add-6ab0bf8bef17.jpg",
-        "timestamp": 1790566238.0
-    },
-    {
-        "id": "dc9d6adb1b",
-        "title_fa": "ترکیه احتمال لغو تمام پروازهای ایران را اعلام کرد",
-        "title_en": "ترکیه تودی: انتظار می‌رود همه پروازهای ایران به ترکیه از اوایل ماه آینده میلادی لغو شوند",
-        "summary": [
-            "منابع ترکیه پیش‌بینی می‌کنند پروازهای ایران به ترکیه از اوایل ماه آینده متوقف شود؛ هنوز رسمی نشده",
-            "لغو پروازهای قبلی به امارات، قطر و دیگر کشورها نشان می‌دهد فشار هوایی در راستای تحریم‌های نفتی در حال گسترش است"
-        ],
-        "impact": "قطع مسیر هوایی، فشار بر تجارت هوایی و گردشگری ایران را افزاش می‌دهد",
-        "tag": "حمل_و_نقل",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609287367",
-        "clean_url": "https://www.iranintl.com/202609287367",
-        "image": "http://www.bing.com/th?id=ONUT.bKWVdwY5pECucUbbl0x0nw&pid=News",
-        "timestamp": 1790565720.0
-    },
-    {
-        "id": "956c937674",
-        "title_fa": "ترامپ: ادعای رفع تحریم ایران توهم است",
-        "title_en": "'I offered them NOTHING': Trump rejects claims of granting Iran sanctions relief, calls it a 'hoax'",
-        "summary": [
-            "ترامپ به‌صراحت گفت هیچ‌گونه تسهیل تحریمی به ایران داده نشده و این ادعاها «حقیقت ندارند»",
-            "این بیانیه سعی دارد فشار دیپلماتیک بر تهران را حفظ کند و حمایت داخلی خود را تقویت کند"
-        ],
-        "impact": "تحریم‌های جاری برای ایران پابرجا می‌مانند؛ فرصت مذاکرات محدود می‌شود",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/trump-rejects-claims-of-offering-iran-sanctions-relief-calls-it-a-hoax-14048944.html",
-        "clean_url": "https://www.firstpost.com/world/trump-rejects-claims-of-offering-iran-sanctions-relief-calls-it-a-hoax-14048944.html",
-        "image": "https://www.bing.com/th?id=ONUT.ifjRMt0j2M8BulIAUid7nw",
-        "timestamp": 1790561644.0
-    },
-    {
-        "id": "2f225ff3c9",
-        "title_fa": "دلار آمریکا بر جفت‌ارز CAD فشار می‌آورد",
-        "title_en": "Canadian Dollar slumps to its lowest level since July 9, eyes 1.4200 vs bullish USD",
-        "summary": [
-            "دلار به دلیل چشم‌انداز سخت‌گیرانه فدرال رزرو و تنش‌های جیوپولیتیک، به بالاترین سطح از 9 ژوئیه رسیده",
-            "سقوط دلار کانادا به 1.4200 در مقابل دلار، نشانگر جابجایی سرمایه به سمت ارزهای امن است"
-        ],
-        "impact": "قیمت‌گذاری کالاهای صادراتی کانادا تحت فشار می‌افتد؛ واردکنندگان هزینه‌های بالاتری می‌پذیرند",
-        "tag": "ارز",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "FXStreet",
-        "url": "https://www.fxstreet.com/news//canadian-dollar-slumps-to-its-lowest-level-since-july-9-eyes-14200-vs-bullish-usd-202609290110",
-        "clean_url": "https://www.fxstreet.com/news//canadian-dollar-slumps-to-its-lowest-level-since-july-9-eyes-14200-vs-bullish-usd-202609290110",
-        "image": "https://editorial.fxsstatic.com/images/i/USDCAD-bearish-animal_Medium.png",
-        "timestamp": 1790561644.0
-    },
-    {
-        "id": "3416f47b28",
-        "title_fa": "نتانیاهو در امارات مذاکراتی با محوریت ایران برگزار کرد",
-        "title_en": "آی۲۴‌نیوز: مذاکرات نتانیاهو در امارات متحده عربی عمدتا متمرکز بر ایران بوده است",
-        "summary": [
-            "سفر شش ساعته نتانیاهو به امارات عمدتاً برای هماهنگی ضد ایران بود؛ موضوع هسته‌ای و فشار بر تهران در دستور کار بود",
-            "حضور اسرائیل در امارات نشان می‌دهد همکاری امنیتی منطقه‌ای در مقابل تهدیدات هسته‌ای و دریایی تقویت می‌شود"
-        ],
-        "impact": "تقویت ائتلاف اسرائیل‑امارات می‌تواند فشار دیپلماتیک بر ایران را بالا برد و مسیر جدیدی برای اقدام‌ها نیابتی باز کند",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609286167",
-        "clean_url": "https://www.iranintl.com/202609286167",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790559960.0
     }
 ]
