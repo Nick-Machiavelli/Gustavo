@@ -1,5 +1,22 @@
 [
     {
+        "id": "1a42208dee",
+        "title_fa": "خبر بین‌المللی — ترامپ says ایران decision coming 'very soon' as US probes po",
+        "title_en": "Trump says Iran decision coming 'very soon' as US probes possible Fairford terror links",
+        "summary": [
+            "Iran's economy remains crippled by sanctions and a U.S. blockade, leaving Tehran with few options now that its control over the Strait of Hormuz has slipped."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-oil-september-30",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-trump-oil-september-30",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/f85ef488b5b03b74fbd6af79ff0968d6.jpg",
+        "timestamp": 1790813280.0
+    },
+    {
         "id": "d8a21ea843",
         "title_fa": "دموکرات‌ها هنوز درک غلطی از رأی‌دهندگان دارند",
         "title_en": "What Democrats are still getting wrong about voters",
@@ -16,6 +33,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/what-democrats-are-still-getting-wrong-about-voters/ar-AA2diTWS",
         "image": "https://www.bing.com/th?id=ONUT.tv26HOwQsBmIAnI_VZBh5Q",
         "timestamp": 1790808150.644991
+    },
+    {
+        "id": "54c2cfa0bf",
+        "title_fa": "مسائل کلیدی برای توافق صلح آمریکا‑ایران",
+        "title_en": "What Issues Do The US And Iran Need to Resolve for Any Peace Deal?",
+        "summary": [
+            "دو طرف باید درباره برنامه هسته‌ای، تحریم‌ها و منطقه خلیج تصمیم بگیرند.",
+            "تضمین‌های نظارتی و رفع تحریم‌های اقتصادی از نکات اصلی است.",
+            "سؤال‌های امنیتی درباره موشک‌های بالستیک و حضور نظامی نیز مطرح است."
+        ],
+        "impact": "حل این مسائل می‌تواند مسیر مذاکرات صلحی را باز کند و تنش‌های خاورمیانه را کاهش دهد.",
+        "tag": "دیپلماتیک",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790804614.0
     },
     {
         "id": "8185370ee6",
@@ -289,6 +325,26 @@
         "timestamp": 1790791560.0
     },
     {
+        "id": "5ac86cbda2",
+        "title_fa": "هگست هگست: نیروهای آمریکا بخش عمده‌ای از نظامی ایران را نابود کردند",
+        "title_en": "Hegseth says US forces have ‘destroyed’ much of Iran’s military",
+        "summary": [
+            "وزیر دفاع آمریکا اعلام کرد نیروی دریایی، هوایی و صنایع نظامی ایران تخریب شده‌اند.",
+            "برنامه هسته‌ای ایران نیز به‌طور قابل توجهی تضعیف شد.",
+            "این ادعا در مراسمی در پایگاه کوئنتیکو وینگرز بیان شد.",
+            "همزمان برنامه کاهش ۲۰٪ ژنرال‌ها و ایجاد فرماندهی جنگ خودمختار اعلام شد."
+        ],
+        "impact": "بیان این ادعا می‌تواند فشار بین‌المللی برای ادامه تحریم‌ها و احتمال واکنش نظامی ایران را افزایش دهد.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202609305702",
+        "clean_url": "https://www.iranintl.com/en/202609305702",
+        "image": "http://www.bing.com/th?id=ONUT.wNhbg-B3GPCtCFMVQ45MCQ&pid=News",
+        "timestamp": 1790787120.0
+    },
+    {
         "id": "771d7c8581",
         "title_fa": "چین: تأمین تسلیحات هسته‌ای برای ایران",
         "title_en": "Bessent is wrong: China armed Iran’s nuclear weapons ambitions",
@@ -342,6 +398,63 @@
         "clean_url": "https://www.iranintl.com/en/202609309867",
         "image": "http://www.bing.com/th?id=ONUT.RjgBFE9wZs0-Oofw8Y2VLw&pid=News",
         "timestamp": 1790782440.0
+    },
+    {
+        "id": "a88a34c52f",
+        "title_fa": "فلای‌دبی پروازهای اسرائیل را به‌دلیل سقوط احتمالی هواپیما تعلیق کرد",
+        "title_en": "فلای‌دبی پروازهای اسرائیل را تعلیق کرد؛ احتمال سقوط عمدی هواپیما بررسی می‌شود",
+        "summary": [
+            "فلای‌دبی پس از حادثه سقوط هواپیما در مسیر دبی‑تل‌آویو، پروازهای اسرائیل را متوقف کرد.",
+            "بررسی می‌شود آیا سقوط عمدی بوده است.",
+            "شواهد نشان می‌دهد خلبان ممکن است قصد داشته هواپیما را در خاک اسرائیل بیندازد.",
+            "تعلیق پروازها فرصتی برای بررسی کامل حادثه فراهم می‌کند."
+        ],
+        "impact": "تعلیق پروازها می‌تواند ترافیک هوایی منطقه را مختل کرده و تنش‌های هوایی بین امارات و اسرائیل را تشدید کند.",
+        "tag": "حمل‌و‌نقل",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609307309",
+        "clean_url": "https://www.iranintl.com/202609307309",
+        "image": "http://www.bing.com/th?id=ONUT.Krn_8ib5N0hfaySpLL3MHw&pid=News",
+        "timestamp": 1790781960.0
+    },
+    {
+        "id": "2985978fad",
+        "title_fa": "خبر بین‌المللی — ایران just got handed a stark choice by ترامپ: At UN he ask",
+        "title_en": "Iran just got handed a stark choice by Trump: At the UN he asked whether to make a deal or annihilate the Islamic Republic",
+        "summary": [
+            "At the United Nations, Trump framed his Iran decision as a deal or annihilation, then said he expects a deal right after the election. That timing matters. With the midterms less than five weeks away,..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-stark-choice-by-trump-at-the-un-he-asked-whether-to-make-a-deal-or-annihilate-the-islamic-republic/ar-AA2diU0s",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-stark-choice-by-trump-at-the-un-he-asked-whether-to-make-a-deal-or-annihilate-the-islamic-republic/ar-AA2diU0s",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790781717.0
+    },
+    {
+        "id": "55af5c942b",
+        "title_fa": "ترامپ: تصمیم بین بمباران یا توافق با ایران",
+        "title_en": "ترامپ: در ایران ارتش، نیروی دریای، هوایی،پدافند، رهبران، ارزش پول، همه چیز از بین رفته است",
+        "summary": [
+            "ترامپ گفت باید بین حمله نظامی و توافق انتخاب کنیم.",
+            "او ادعا کرد ارتش، نیروی هوایی، دریایی و پدافند ایران از بین رفته‌اند.",
+            "نرخ تورم ایران به ۳۰۱٪ رسیده و ارزش پول به‌طور کامل سقوط کرده.",
+            "هشدار او می‌تواند فشار دیپلماتیک آمریکا را به‌سرعت تشدید کند."
+        ],
+        "impact": "ممکن است ایالات متحده به سرعت تحریم‌های سخت‌گیرانه یا عملیات هوایی علیه ایران بپردازد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609309756",
+        "clean_url": "https://www.iranintl.com/202609309756",
+        "image": "http://www.bing.com/th?id=ONUT.PdVTULVjfsqaSkiP5u4AZQ&pid=News",
+        "timestamp": 1790779440.0
     },
     {
         "id": "4b5f720460",
@@ -5456,115 +5569,5 @@
         "clean_url": "https://www.iranintl.com/202609274603",
         "image": "http://www.bing.com/th?id=ONUT.EmamrKtqtYMbSzvaHqyz6w&pid=News",
         "timestamp": 1790519340.0
-    },
-    {
-        "id": "fb3be98091",
-        "title_fa": "عراقی: ایران کاملاً آماده تجدید جنگ است",
-        "title_en": "Iran ‘fully prepared’ for war to resume but diplomacy not over yet, Foreign Minister Abbas Araghchi says",
-        "summary": [
-            "عباس عراقی اعلام کرد ایران «کاملاً آماده» برای تجدید جنگ در هرمز است",
-            "او افزود مذاکرات دیپلماتیک هنوز ادامه دارد و امکان حل مسالمت‌آمیز وجود دارد",
-            "این بیانیه سعی دارد فشار داخلی را با نشان دادن آمادگی نظامی کاهش دهد",
-            "واکنش آمریکا هنوز نامشخص است؛ احتمال افزایش تحریم‌ها وجود دارد"
-        ],
-        "impact": "بیان آمادگی نظامی ایران می‌تواند فشار دیپلماتیک را تقویت کند و ریسک تجدید درگیری را بالا ببرد",
-        "tag": "آمادگی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTNkWFhBZVRsSGxVeFR4WUItOXVlY0Nxckt3elYwRThWT1phZ2VpU2VFVnlJNmhjYlBjWExpMjBDRThxdWVzYWxPYlpUSlFBeUVJajRrRjBUYmh3MHhQZnBYZ1hKUm5MMU5TQzkwSFBzd3YxMEpyaHBVa1RDR0V5R2NiRTFucm8xVVFVLWJ0ejN6V1B2c3hkOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTNkWFhBZVRsSGxVeFR4WUItOXVlY0Nxckt3elYwRThWT1phZ2VpU2VFVnlJNmhjYlBjWExpMjBDRThxdWVzYWxPYlpUSlFBeUVJajRrRjBUYmh3MHhQZnBYZ1hKUm5MMU5TQzkwSFBzd3YxMEpyaHBVa1RDR0V5R2NiRTFucm8xVVFVLWJ0ejN6V1B2c3hkOQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790518117.0
-    },
-    {
-        "id": "435511056a",
-        "title_fa": "ایران به ترامپ می‌گوید مذاکرات ترامپ تنها راه خروج از بن بست جنگ است: زنده",
-        "title_en": "Iran tells Trump negotiations are only way to break war deadlock: Live",
-        "summary": [
-            "Iran-US war latest: Tehran tells Trump negotiations are the only way to break deadlock in Strait of Hormuz - Donald Trump has publicly rejected the seven-day plan and reportedly told staff he expects"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-tells-trump-negotiations-are-only-way-to-break-war-deadlock-live/ar-AA2cVKOw",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-tells-trump-negotiations-are-only-way-to-break-war-deadlock-live/ar-AA2cVKOw",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2d1BYP.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1790517465.0
-    },
-    {
-        "id": "4ea3ec8393",
-        "title_fa": "ایران متهم به طرح بمب‌گذاری در پایگاه RAF فیرفورد شد",
-        "title_en": "Iran’s terrifying campaign of revenge against countries that oppose it",
-        "summary": [
-            "پلیس بریتانیا پنج نفر را به اتهام آماده‌سازی حمله تروریستی به پایگاه هوایی RAF فیرفورد دستگیر کرد",
-            "مقامات احتمال می‌دهند ایران پشت این طرح باشد؛ امکان خرابکاری روسی نیز بررسی می‌شود"
-        ],
-        "impact": "اگر ثابت شود، نشان می‌دهد تهدیدات ایران به خاک اروپا گسترش یافته است",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/iran-terrifying-campaign-revenge-against-205550977.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/iran-terrifying-campaign-revenge-against-205550977.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/eee376b3308498ce1e63de39abe1084fd79e1d02b01d45fd05353f7345f86cdf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F17c982220c931332dfcfada3f47972d4.jpg",
-        "timestamp": 1790517300.0
-    },
-    {
-        "id": "d9a4d99d7f",
-        "title_fa": "ایران برای بازگرداندن مذاکرات هسته‌ای فشار می‌آورد",
-        "title_en": "Iran pressed to make nuclear concessions to revive peace talks with US",
-        "summary": [
-            "میان‌جیان ایران را به ارائه امتیازهای هسته‌ای ترغیب کردند تا از جنگ تمام‌عیار جلوگیری شود",
-            "این پیشنهاد پس از رد درخواست قطع آتش توسط ترامپ مطرح شد"
-        ],
-        "impact": "اگر موفق شود، می‌تواند تنش‌های منطقه‌ای را کاهش دهد",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-pressed-to-make-nuclear-concessions-to-revive-peace-talks-with-us/ar-AA2d4R1D",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-pressed-to-make-nuclear-concessions-to-revive-peace-talks-with-us/ar-AA2d4R1D",
-        "image": "http://www.bing.com/th?id=ONUT.jrF3B7s983Xy1nGUftBIhg&pid=News",
-        "timestamp": 1790517180.0
-    },
-    {
-        "id": "7ae906c1c3",
-        "title_fa": "ناو ایران پهپاد زیرآبی را گرفت؛ مذاکرات غیرمستقیم ادامه دارد",
-        "title_en": "Iran's foreign minister keeps indirect talks with the U.S. open; Iranian navy claims capture of underwater drone",
-        "summary": [
-            "وزیر خارجه گفت مذاکرات غیرمستقیم با واشنگتن همچنان باز است",
-            "ناو ایران ادعا کرد پهپاد زیرآبی آمریکایی را به‌دست آورد",
-            "دستگیری می‌تواند تنش‌های دریایی را بالا ببرد"
-        ],
-        "impact": "فشار نظامی در خلیج فارس افزایش می‌یابد و اعتماد دیپلماتیک تضعیف می‌شود",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVU1TSVRCVjFmV0ZuQmtsNTBuZkpZb2JKVU5EaHMyeDZaUHdIQzhOZno0QzdUeHRaVV9ibFJIQU1pWnRTVHA2b21XR3VhYmNPenl2eEhYYUhXSkc2TFI3UUI1S2dqZnJ1SEp6eEJEWnh2bUdGeWlhQnVRb1dQenFvcVgxenRWbmFJYTczRzJ1aTlnLTdLRHZSOHFQTkRMcTJneEUyT3JFd9IBrAFBVV95cUxOZEZodUZKbjI5T01UanZ3NWtBSE9NMFQ4UGhESDl1SDJ5WFdISWsxeFF1NFRDZ04wMmswUHdBOEtKbkZSS1JPa2RMemxtTW5tZ1lHWmhycFNWRGdValNMcUx2VElIc3BTYUVvVVNCQ3BWVi11aE15UDloODY2T1E5b1dLRUNpZ1h5cTBiWXRaSkx2bHZuTDBLUXlXamFNTmxxZkVTUHVkSTA2Z1Rk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVU1TSVRCVjFmV0ZuQmtsNTBuZkpZb2JKVU5EaHMyeDZaUHdIQzhOZno0QzdUeHRaVV9ibFJIQU1pWnRTVHA2b21XR3VhYmNPenl2eEhYYUhXSkc2TFI3UUI1S2dqZnJ1SEp6eEJEWnh2bUdGeWlhQnVRb1dQenFvcVgxenRWbmFJYTczRzJ1aTlnLTdLRHZSOHFQTkRMcTJneEUyT3JFd9IBrAFBVV95cUxOZEZodUZKbjI5T01UanZ3NWtBSE9NMFQ4UGhESDl1SDJ5WFdISWsxeFF1NFRDZ04wMmswUHdBOEtKbkZSS1JPa2RMemxtTW5tZ1lHWmhycFNWRGdValNMcUx2VElIc3BTYUVvVVNCQ3BWVi11aE15UDloODY2T1E5b1dLRUNpZ1h5cTBiWXRaSkx2bHZuTDBLUXlXamFNTmxxZkVTUHVkSTA2Z1Rk",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790515802.0
-    },
-    {
-        "id": "5da4eccc6e",
-        "title_fa": "اصلاح‌طلبان: شکست در مقابل سپاه",
-        "title_en": "Thank God that Iran has the IRGC: The reformists were \" defeated\" in Iran",
-        "summary": [
-            "رسانه‌های اصلاح‌طلب پس از خروج ترامپ از برجام، مسئولیت رنجش‌ها را به تست موشک سپاه نسبت دادند",
-            "مقاله اشاره می‌کند که ترامپ هرگز به برنامه موشکی به عنوان دلیل اصلی اشاره نکرده است"
-        ],
-        "impact": "این روایت می‌تواند حمایت عمومی از سپاه را در داخل کشور تقویت کند",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "EADaily",
-        "url": "https://eadaily.com/en/news/2026/09/27/thank-god-that-iran-has-the-irgc-the-reformists-were-defeated-in-iran",
-        "clean_url": "https://eadaily.com/en/news/2026/09/27/thank-god-that-iran-has-the-irgc-the-reformists-were-defeated-in-iran",
-        "image": "https://www.bing.com/th?id=ONUT.JD5VHLAD8_nx6sltd2QkrA",
-        "timestamp": 1790514608.6940818
     }
 ]
