@@ -1,5 +1,62 @@
 [
     {
+        "id": "4a557c2f54",
+        "title_fa": "انتظار نشست‌های آینده ژی‑ترامپ در G20 و APEC",
+        "title_en": "Zheng Yongnian on what to expect from future Xi-Trump meetings",
+        "summary": [
+            "ژن‌یونگ‌نیان پیش‌بینی می‌کند نشست‌های آینده بین شی جین‌پینگ و ترامپ در چارچوب G20 و APEC ادامه خواهد یافت",
+            "این ملاقات‌ها می‌توانند بر تجارت و امنیت منطقه‌ای، از جمله تحریم‌های ایران، تأثیر بگذارند",
+            "حضور ترامپ در مذاکرات بین‌المللی نشان‌دهنده نقش کلیدی آمریکا در تعادل قدرت است"
+        ],
+        "impact": "نشست‌های آینده می‌توانند مسیر تحریم‌ها یا مذاکرات درباره برنامه هسته‌ای ایران را شکل دهند",
+        "tag": "روابط‌بین‌الملل",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "South China Morning Post on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/zheng-yongnian-on-what-to-expect-from-future-xi-trump-meetings/ar-AA2doqtM?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/zheng-yongnian-on-what-to-expect-from-future-xi-trump-meetings/ar-AA2doqtM",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790931593.684779
+    },
+    {
+        "id": "be48b6dacc",
+        "title_fa": "بحران انرژی بریتانیا؛ ترامپ مقصر شناخته شد",
+        "title_en": "Voices: The UK is heading for another energy crisis. Again, Trump is to blame",
+        "summary": [
+            "تحلیلگر می‌گوید بریتانیا به‌دلیل کمبود ظرفیت پالایش، به بحران انرژی نزدیک می‌شود",
+            "او ترامپ را مقصر اصلی این وضعیت می‌داند؛ هرچند ارتباط مستقیم با ایران ندارد",
+            "بحران انرژی می‌تواند فشارهای ژئوپولیتیکی جدیدی ایجاد کند"
+        ],
+        "impact": "بحران انرژی بریتانیا می‌تواند به تغییر سیاست‌های انرژی اروپا منجر شود",
+        "tag": "انرژی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/voices-the-uk-is-heading-for-another-energy-crisis-again-trump-is-to-blame/ar-AA2doUpx?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/news/other/voices-the-uk-is-heading-for-another-energy-crisis-again-trump-is-to-blame/ar-AA2doUpx",
+        "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790931593.68448
+    },
+    {
+        "id": "71209b5762",
+        "title_fa": "قیمت گاز بالا؛ ریسک حمله به ایران در انتخابات",
+        "title_en": "McCaughey: Gas prices high, but so is price of liberty",
+        "summary": [
+            "مقاله به افزایش قیمت گاز و ربط آن به سیاست‌های انرژی آمریکا می‌پردازد",
+            "نویسنده می‌گوید فشار بر ایران برای دست‌کم‌کردن برنامه هسته‌ای، بخشی از استراتژی انتخابات است",
+            "اشاره به «قیمت آزادی» نشان می‌دهد هزینه‌های انرژی می‌تواند به عنوان ابزار فشار استفاده شود"
+        ],
+        "impact": "قیمت گاز بالا فشار داخلی آمریکا را افزایش می‌دهد و ممکن است به تند شدن سیاست‌های ضد‑ایران منجر شود",
+        "tag": "قیمت‌گاز",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/10/02/mccaughey-gas-prices-high-but-so-is-price-of-liberty/",
+        "clean_url": "https://www.bostonherald.com/2026/10/02/mccaughey-gas-prices-high-but-so-is-price-of-liberty",
+        "image": "https://www.bostonherald.com/wp-content/uploads/2026/10/BHR-Z-BETSY-01.jpg?w=6000&h=4000",
+        "timestamp": 1790931593.684178
+    },
+    {
         "id": "25c9bfa414",
         "title_fa": "صداهای نادرست غربی، ایران را دوچندان رنجاند",
         "title_en": "When the West Amplifies the Wrong Voice, Iranians Bleed Twice",
@@ -38,6 +95,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG1vM25faW5LcklvY082VWw2bHJ2MFdzR1NRekV1TzI2SzloOTFrZGhPTEVyWlY4bGpiRXprNWVhTUxqbF8zc3pxNGFFZzJIalNteWs5UV9oWkI3V1dBX2hjckVwejBiZmtSVnFTUUVVeFdGS19nZE9kOVB4OTUwUUcxOWZzY25FWXJPNXg3WGprdw",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790903974.0
+    },
+    {
+        "id": "e34a778435",
+        "title_fa": "ایران از بازدید نتانیاهو در امارات هشدار داد",
+        "title_en": "Iran's rhetoric against UAE hardens after Netanyahu visit",
+        "summary": [
+            "نتانیاهو به امارات سفر کرد؛ ایران آن را تهدیدی برای منطقه می‌داند",
+            "وزیر خارجه ایران خطرات حضور اسرائیل در خلیج را اعلام کرد",
+            "سخن‌سار امنیت ملی هشدار داد میزبانی «قاطع گازا» امنیت امارات را نمی‌آورد"
+        ],
+        "impact": "احتمال تشدید تنش‌های خلیج و کاهش همکاری‌های اقتصادی امارات با ایران",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610013501",
+        "clean_url": "https://www.iranintl.com/en/202610013501",
+        "image": "http://www.bing.com/th?id=ONUT.LuZz5aCwLzNRhzLtDimg3A&pid=News",
+        "timestamp": 1790902800.0
     },
     {
         "id": "9a943574b1",
@@ -931,6 +1007,82 @@
         "timestamp": 1790847840.0
     },
     {
+        "id": "f41a37fe55",
+        "title_fa": "ترامپ: اگر ایران پشت حادثه FlyDubai باشد، هدف می‌شویم",
+        "title_en": "ABD Başkanı Trump: FlyDubai uçağındaki olayın arkasından İran'ın çıkması halinde bu ülkeyi vuracağız",
+        "summary": [
+            "ترامپ گفت اگر ایران پشت حادثه هواپیمای FlyDubai باشد، آمریکا به‌سرعت حمله می‌کند",
+            "این اظهارات نشان‌دهنده آماده‌سازی نظامی مستقیم علیه ایران است",
+            "تهدید در قالب «هدف‌گیری سخت» بیان شد؛ پیام واضح برای دیپلمات‌های تهران"
+        ],
+        "impact": "تهدید مستقیم آمریکا می‌تواند منجر به برخورد نظامی سریع با ایران شود",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "T24 on MSN",
+        "url": "https://www.msn.com/tr-tr/haber/other/abd-başkanı-trump-flydubai-uçağındaki-olayın-arkasından-İran-ın-çıkması-halinde-bu-ülkeyi-vuracağız/ar-AA2do5zj?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/tr-tr/haber/other/abd-başkanı-trump-flydubai-uçağındaki-olayın-arkasından-İran-ın-çıkması-halinde-bu-ülkeyi-vuracağız/ar-AA2do5zj",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1790845176.0
+    },
+    {
+        "id": "843301b167",
+        "title_fa": "نکات کلیدی مصاحبه ترامپ با TIME درباره ایران",
+        "title_en": "Takeaways from Trump’s TIME interview on DC, Iran and affordability",
+        "summary": [
+            "در مصاحبه TIME، ترامپ از برنامه‌های اصلاحات داخلی آمریکا گفت و به ایران اشاره کرد",
+            "او ادعا کرد هزینه‌های زندگی در آمریکا بالا است و ایران را به‌عنوان تهدید هسته‌ای نام برد",
+            "مصاحبه نشان می‌دهد تمرکز ترامپ بر فشار اقتصادی و نظامی بر ایران است"
+        ],
+        "impact": "بیان‌های ترامپ فشار سیاسی و اقتصادی بر ایران را تقویت می‌کند",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/takeaways-from-trump-s-time-interview-on-dc-iran-and-affordability/ar-AA2dmykE?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/takeaways-from-trump-s-time-interview-on-dc-iran-and-affordability/ar-AA2dmykE",
+        "image": "https://www.bing.com/th?id=ONUT.tLFVbVkclA5eUAOOehQ3JA",
+        "timestamp": 1790845176.0
+    },
+    {
+        "id": "0e5366fae1",
+        "title_fa": "تحریم‌های آمریکا بر خودروسازهای ایرانی و راه‌آهن",
+        "title_en": "US sanctions Iran’s car makers and railway operators as pressure shifts from sea to land",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا دو خودروساز بزرگ ایران (ایران‌خودرو، سایپا) را فهرست سیاه کرد",
+            "شرکت‌های دولتی راه‌آهن نیز تحت تحریم قرار گرفتند؛ هدف قطع زنجیره تأمین صنعتی",
+            "این گام بخشی از «عملیات Economic Outcast» برای محدود کردن منابع مالی برنامه موشکی ایران است"
+        ],
+        "impact": "تحریم‌ها زنجیره تأمین خودروسازی و حمل‌ونقل ایران را مختل می‌کند",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/business/economy/2026/10/02/us-sanctions-irans-car-makers-and-railway-operators-as-pressure-shifts-from-sea-to-land/",
+        "clean_url": "https://www.thenationalnews.com/business/economy/2026/10/02/us-sanctions-irans-car-makers-and-railway-operators-as-pressure-shifts-from-sea-to-land",
+        "image": "https://www.bing.com/th?id=ONUT.zNif_8TW7UJLpUckwL7MDw",
+        "timestamp": 1790845176.0
+    },
+    {
+        "id": "a6ffbfa6e2",
+        "title_fa": "ایالات متحده هیات نظارت بر تحریم‌های ایران تشکیل می‌دهد",
+        "title_en": "مایک والتز: هیاتی برای نظارت بر اجرای تحریم‌های جمهوری اسلامی تشکیل خواهیم داد",
+        "summary": [
+            "آمریکا هیات کارشناسی برای پیگیری اجرای تحریم‌های ضد هسته‌ای علیه ایران راه‌اندازی می‌کند.",
+            "این اقدام نشان‌دهنده عزم آمریکا برای مقابله با حمایت چین و روسیه از تهران است.",
+            "هدف اصلی، جلوگیری از پیشرفت برنامه هسته‌ای ایران با فشار اقتصادی مستمر است."
+        ],
+        "impact": "ایران با مانع‌گذاری بیشتر بر دسترسی به فناوری‌های هسته‌ای و مالی روبرو می‌شود.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610013255",
+        "clean_url": "https://www.iranintl.com/202610013255",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790844900.0
+    },
+    {
         "id": "e06cf165a7",
         "title_fa": "ترامپ: جمهوری اسلامی سرانجام ناگزیر به عقب‌نشینی و پذیرش شروط هسته‌ای آمریکا خواهد شد",
         "title_en": "ترامپ: جمهوری اسلامی سرانجام ناگزیر به عقب‌نشینی و پذیرش شروط هسته‌ای آمریکا خواهد شد",
@@ -1112,6 +1264,25 @@
         "clean_url": "https://www.iranintl.com/202610012744",
         "image": "http://www.bing.com/th?id=ONUT.ET5qIGWdrYVsa5dtOSiFHw&pid=News",
         "timestamp": 1790829420.0
+    },
+    {
+        "id": "7ca5e4a0fa",
+        "title_fa": "سپاه: موشک بالستیک دوربرد هدف متحرک را می‌زند",
+        "title_en": "مشاور نیروی هوافضای سپاه: به قابلیت زدن هدف متحرک با موشک بالستیک دوربرد دست یافتیم",
+        "summary": [
+            "مشاور نیروی هوافضای سپاه اعلام کرد موشک بالستیک دوربرد توانست هدف متحرک را بزند",
+            "این ادعا نشان‌دهنده پیشرفت قابل توجه در توان نظامی سپاه و تهدید به نیروهای دشمن است",
+            "موفقیت‌های بعدی در مسیر «دست‌یابی به قابلیت‌های دقیق» مدنظر است"
+        ],
+        "impact": "ادعای موفقیت موشک می‌تواند توان نظامی ایران را در منطقه ارتقا دهد",
+        "tag": "موشک",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610014928",
+        "clean_url": "https://www.iranintl.com/202610014928",
+        "image": "http://www.bing.com/th?id=ONUT.bYTi3lj9tPZ-AnWyLV_ICA&pid=News",
+        "timestamp": 1790829300.0
     },
     {
         "id": "9254deb095",
@@ -5412,166 +5583,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/inflationary-pressures-keep-growing-consumer-confidence-is-dropping-further/ar-AA2dcPX9",
         "image": "https://www.bing.com/th?id=ONUT.yVigwpf5h4_bFjX18Nz4FQ",
         "timestamp": 1790621513.0
-    },
-    {
-        "id": "5ffb66bf0d",
-        "title_fa": "خبر بین‌المللی — MTN’s آمریکا anti-terrorism case reaches critical phase",
-        "title_en": "MTN’s United States anti-terrorism case reaches critical phase",
-        "summary": [
-            "The anti-terrorism case against MTN in the United States is moving ahead to the discovery phase, presenting a major headache for the South African telecoms giant."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Investor",
-        "url": "https://dailyinvestor.com/telecommunications/157660/mtns-united-states-anti-terrorism-case-reaches-critical-phase/",
-        "clean_url": "https://dailyinvestor.com/telecommunications/157660/mtns-united-states-anti-terrorism-case-reaches-critical-phase",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790621513.0
-    },
-    {
-        "id": "ef451cc4f2",
-        "title_fa": "خبر بین‌المللی — 'Don't trust videos': Longevity expert آغاز silence در ترام",
-        "title_en": "'Don't trust the videos': Longevity expert breaks silence on Trump's health",
-        "summary": [
-            "When I spoke with one of the world's top aging experts about President Donald Trump, he immediately established that he will..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-ca/health/mindandbody/don-t-trust-the-videos-longevity-expert-breaks-silence-on-trump-s-health/ar-AA2ddJoC?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/health/mindandbody/don-t-trust-the-videos-longevity-expert-breaks-silence-on-trump-s-health/ar-AA2ddJoC",
-        "image": "https://www.bing.com/th?id=ONUT.W9-9aBGDxHKMKOXnuxBmaQ",
-        "timestamp": 1790621513.0
-    },
-    {
-        "id": "dc5017a137",
-        "title_fa": "خبر بین‌المللی — 'Magic business' instead pressure: ترامپ backs plan به eas",
-        "title_en": "'Magic of business' instead of pressure: Trump backs plan to ease sanctions on Russia",
-        "summary": [
-            "Trump’s envoy is working on a deal to exchange political prisoners in Russia for easing US sanctions. This would pave the way for business deals before the war in Ukraine ends, The Atlantic reports."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "RBC Ukraine on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/magic-of-business-instead-of-pressure-trump-backs-plan-to-ease-sanctions-on-russia/ar-AA2dddnJ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/magic-of-business-instead-of-pressure-trump-backs-plan-to-ease-sanctions-on-russia/ar-AA2dddnJ",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790621513.0
-    },
-    {
-        "id": "9bc628ec8c",
-        "title_fa": "خبر بین‌المللی — نتانیاهو met with representatives from eight Muslim nations",
-        "title_en": "Netanyahu met with representatives from eight Muslim nations during secret UAE visit: Report",
-        "summary": [
-            "Israeli Prime Minister Benjamin Netanyahu met with representatives from nine Middle Eastern and North African countries..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/netanyahu-met-with-representatives-from-eight-muslim-nations-during-secret-uae-visit-report/ar-AA2dcZZ9?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/netanyahu-met-with-representatives-from-eight-muslim-nations-during-secret-uae-visit-report/ar-AA2dcZZ9",
-        "image": "https://www.bing.com/th?id=ONUT.VfWeilQUbifPFBUtYBLbOg",
-        "timestamp": 1790621513.0
-    },
-    {
-        "id": "2c92abc897",
-        "title_fa": "به‌روزرسانی‌های جنگ ایران: تهران می‌گوید انتظار دارد که ایالات متحده به پیشنهاد آتش‌بس که قبلاً از سوی ترامپ رد شده بود، پاسخ دهد.",
-        "title_en": "Iran War Updates: Tehran says it expects U.S. response to cease-fire proposal already rejected by Trump today",
-        "summary": [
-            "As the war with Iran hits the 7-month mark, Trump tells Axios he expects talks to resume despite neither side signaling willingness to change demands."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/28/8650d82a-f9ec-4511-bfb0-d2cf0fc15f78/thumbnail/1200x630/f0731decdfdc6b26eb029f8eef693777/gettyimages-2296954351.jpg",
-        "timestamp": 1790621280.0
-    },
-    {
-        "id": "cae3ffbc1c",
-        "title_fa": "خامنئی: نیروهای دشمن از دریای عربی رانده می‌شوند",
-        "title_en": "Mojtaba Khamenei warns 'enemy forces' will soon be driven out of Arabian Sea; US replies 'Iran has no navy'",
-        "summary": [
-            "خامنئی اعلام کرد نیروی هوایی و دریایی ایران به‌سرعت به‌دست‌گیری مناطق بحرانی می‌پردازد",
-            "واکنش آمریکا «ایران ناوش‌دار نیست» نشان می‌دهد اختلاف ادراک استراتژیک بین دو طرف"
-        ],
-        "impact": "افزایش تنش‌های دریایی می‌تواند مانع عبور کشتی‌های تجاری در مسیرهای کلیدی شود",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "ABP News on MSN",
-        "url": "https://www.msn.com/en-in/news/other/mojtaba-khamenei-warns-enemy-forces-will-soon-be-driven-out-of-arabian-sea-us-replies-iran-has-no-navy/ar-AA2d9IDx",
-        "clean_url": "https://www.msn.com/en-in/news/other/mojtaba-khamenei-warns-enemy-forces-will-soon-be-driven-out-of-arabian-sea-us-replies-iran-has-no-navy/ar-AA2d9IDx",
-        "image": "http://www.bing.com/th?id=ONUT.qShBAxqNadFE8vbLXWpI4A&pid=News",
-        "timestamp": 1790620623.0
-    },
-    {
-        "id": "f4b3abe482",
-        "title_fa": "درآمدهای روساتوم چهار برابر شد",
-        "title_en": "Rosatom's revenues surge four times over decade in open part of sector — CEO",
-        "summary": [
-            "رئیس‌جمهور روساتوم اعلام کرد که درآمد بخش باز بازار در ده سال گذشته چهار برابر شده",
-            "بیش از ۳ تریلیون روبل بدون سفارشات دفاعی دولت به دست آمده",
-            "فروش محصولات جدید نیز ده برابر رشد کرده",
-            "پیش‌بینی‌های پنج ساله نشان‌دهنده ادامه رشد است"
-        ],
-        "impact": "تقویت توان مالی روساتوم برای گسترش فناوری هسته‌ای تجاری",
-        "tag": "نفت-هسته‌ای",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2194179",
-        "clean_url": "https://tass.com/economy/2194179",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790620620.0
-    },
-    {
-        "id": "310dc6fc7b",
-        "title_fa": "روسیه پیشتاز ساخت نیروگاه‌های هسته‌ای خارجی",
-        "title_en": "Russia on top in building nuclear power units overseas — Putin",
-        "summary": [
-            "مسکو اعلام کرد رستاتوم بیشترین تعداد واحدهای هسته‌ای را در خارج از کشور می‌سازد.",
-            "این پروژه‌ها تحت نظارت کامل نظامی و فناوری پیشرفته انجام می‌شود.",
-            "هدف روسیه گسترش نفوذ انرژی هسته‌ای در بازارهای جهانی است."
-        ],
-        "impact": "افزایش حضور روسیه در حوزه انرژی هسته‌ای می‌تواند رقابت با غرب را تشدید کند.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2194121",
-        "clean_url": "https://tass.com/economy/2194121",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1790618040.0
-    },
-    {
-        "id": "fa414e78fc",
-        "title_fa": "قالیباف به ترامپ: رفتار شما تغییر نکرده، باید چرخ بزنیم",
-        "title_en": "قالیباف خطاب به ترامپ: هنوز رفتارت را تغییر ندادی، پس بچرخ تا بچرخیم",
-        "summary": [
-            "قالیباف در جلسه وبیناری مجلس، رفتار سبکسرانه ترامپ را در مجمع عمومی سازمان ملل سرزنش کرد.",
-            "او اعلام کرد که ایران به تهدیدهای هوایی و تجاری پاسخ سخت و سریع خواهد داد.",
-            "بیان این سخنرانی در میان بحران‌های اقتصادی داخلی و فشارهای مزدکاران انجام شد."
-        ],
-        "impact": "تشدید تنش‌های سیاسی بین ایران و آمریکا و احتمال اعمال اقدام‌ها انتقامی.",
-        "tag": "سخنرانی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609292523",
-        "clean_url": "https://www.iranintl.com/202609292523",
-        "image": "http://www.bing.com/th?id=ONUT.k4pg-FgrfuQcefDNdvoLhA&pid=News",
-        "timestamp": 1790614740.0
     }
 ]
