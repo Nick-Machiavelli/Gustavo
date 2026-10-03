@@ -1,5 +1,61 @@
 [
     {
+        "id": "120f13c726",
+        "title_fa": "جنگ روایت‌گری در ایران؛ ترامپ در نقطه‌عطف",
+        "title_en": "El conflicto en Irán se ha convertido en una guerra por el relato que Donald Trump está perdiendo",
+        "summary": [
+            "مقاله می‌گوید جنگ اطلاعاتی بین واشنگتن و تهران به مرحله‌ای رسیده که روایت‌ها بر سیاست‌های نظامی چیره شده‌اند",
+            "وعده‌های قبلی ترامپ برای «نابودی» ایران تحقق نیافته و خستگی عمومی در آمریکا را نشان می‌دهد",
+            "فشارهای اقتصادی و مسدود شدن تنگه هرمز باعث تضعیف قدرت دیپلماتیک هر دو طرف شده است"
+        ],
+        "impact": "بی‌ثباتی در روایت‌های جنگی می‌تواند تصمیم‌گیری‌های نظامی را پیچیده‌تر کند",
+        "tag": "روایت",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "El Independiente",
+        "url": "https://www.elindependiente.com/internacional/2026/10/04/conflicto-iran-guerra-relato-donald-trump-perdiendo/",
+        "clean_url": "https://www.elindependiente.com/internacional/2026/10/04/conflicto-iran-guerra-relato-donald-trump-perdiendo",
+        "image": "https://www.bing.com/th?id=ONUT.dLBW3zfOaJvsRJyY2k4UjQ",
+        "timestamp": 1791068415.2267897
+    },
+    {
+        "id": "9eb339205c",
+        "title_fa": "کانادا بزرگ‌ترین شریک تجاری آمریکا",
+        "title_en": "Peace-peace is better than war-war",
+        "summary": [
+            "کانادا همچنان بزرگ‌ترین شریک تجاری ایالات متحده است",
+            "این رابطه تجاری به تقویت زنجیره تأمین شمال‌امریکایی کمک می‌کند"
+        ],
+        "impact": "تقویت همکاری‌های اقتصادی بین دو کشور، فشار کمتر بر چین",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/news/other/peace-peace-is-better-than-war-war/ar-AA2dvhuH?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/peace-peace-is-better-than-war-war/ar-AA2dvhuH",
+        "image": "https://www.bing.com/th?id=ONUT.OpgcBpxKb4MRl9NYEVRJ5Q",
+        "timestamp": 1791068415.2261913
+    },
+    {
+        "id": "96c10651b7",
+        "title_fa": "سفر مخفی نتانیاهو به امارات و سانسور نظامی",
+        "title_en": "Netanyahu's secret UAE trip: What is Israel's military censorship really for?",
+        "summary": [
+            "نتانیاهو بدون اطلاع کابینه به امارات رفت، نشان از جداسازی تصمیمات امنیتی از سیاست دارد",
+            "این سفر نشان می‌دهد اسرائیل می‌خواهد روابط اقتصادی را تقویت کند در حالی که امنیت را پنهان می‌سازد",
+            "سانسور نظامی داخلی می‌تواند مانع افشای جزئیات عملیات‌های آینده شود"
+        ],
+        "impact": "احتمال افزایش فشار دیپلماتیک بر ایران و تقویت هم‌پیمانی‌های منطقه‌ای",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/netanyahus-secret-uae-trip-what-is-israels-military-censorship-really-for/ar-AA2dvc4z?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/netanyahus-secret-uae-trip-what-is-israels-military-censorship-really-for/ar-AA2dvc4z",
+        "image": "https://www.bing.com/th?id=ONUT.EwKwhyl0-Aqkd5V7kYWerA",
+        "timestamp": 1791068415.2256165
+    },
+    {
         "id": "efdfcd73d2",
         "title_fa": "مهندس سابق اوپن‌ای‌آی: هوش مصنوعی ایمن نیست",
         "title_en": "AI giants not 'careful enough,' ex-OpenAI engineer warns",
@@ -16,6 +72,26 @@
         "clean_url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080",
         "image": "https://static.dw.com/image/78061989_6.jpg",
         "timestamp": 1791066048.1345193
+    },
+    {
+        "id": "84d33888d5",
+        "title_fa": "ارز ایران پس از کمبود نفت به سقوط می‌رسد",
+        "title_en": "Iran's currency crashes as the regime runs out of oil to sell and can’t get its money from customers",
+        "summary": [
+            "سقوط ارزش ریال به‌دلیل قطع فروش نفت و عدم دسترسی به ارزهای خارجی است",
+            "کاهش ذخایر ارزی باعث ناتوانی دولت در پرداخت حقوق و خدمات می‌شود",
+            "تورم به‌سرعت بالا رفته و فشار بر طبقه متوسط را تشدید می‌کند",
+            "تحریم‌های بین‌المللی مانع جذب سرمایه‌گذاری جدید می‌شوند"
+        ],
+        "impact": "اقتصاد داخلی به‌سرعت دچار رکود می‌شود و ناآرامی‌های اجتماعی افزایش می‌یابد",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFJqdWxMeU5mdkxKeS1FY1hocXF6Tl9GbWc3ejZMamlmZ2hZMWZINGlYUXNkZi1lSVFqNFN6US0zcXBoeVozYWVKZHM4azZGcW9VV3VFcXdoQzJUUVdEZUpkeUdqYV9mblNMaXRVYVVhcXhVZ1E2bkJsNEx5c0FOd1ZvNTFUcW1jdTViT3NwQm0zSWljaW1XeWFXazJlNUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFJqdWxMeU5mdkxKeS1FY1hocXF6Tl9GbWc3ejZMamlmZ2hZMWZINGlYUXNkZi1lSVFqNFN6US0zcXBoeVozYWVKZHM4azZGcW9VV3VFcXdoQzJUUVdEZUpkeUdqYV9mblNMaXRVYVVhcXhVZ1E2bkJsNEx5c0FOd1ZvNTFUcW1jdTViT3NwQm0zSWljaW1XeWFXazJlNUE",
+        "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791063600.0
     },
     {
         "id": "dbe743af41",
@@ -292,6 +368,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkFocGRSMmpaV3lZTXFET0ZZbHItdHZZajVBcWtiZTg4R2xDLVVBRzIyQ3NWSTZpRUUtSllFSE5Xa0UzTVFuMmh6UTBscGJWVXBtdTM5SzNhWWhkZjlDNmRMbmxwZ0pVQ3FRbnRTaGhzaUJEdlAxVlZlNmZTN3BzZTdURjZfSTVIdUxRR2JyUllpYkxxT3AxOU9BZm9VaWs",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791041135.0
+    },
+    {
+        "id": "9178f455f7",
+        "title_fa": "ترامپ: ایران تقریباً برنامه هسته‌ای خود را رها کرد",
+        "title_en": "Iran 'virtually' giving up any plans for nuclear weapon, Trump says",
+        "summary": [
+            "ترامپ ادعا کرد ایران دیگر به ساخت سلاح هسته‌ای نمی‌پردازد",
+            "او همزمان قیمت نفت را پایین‌تر از دوره بایدن اعلام کرد که نشان از فشار اقتصادی است"
+        ],
+        "impact": "بیانیه‌اش می‌تواند فشار دیپلماتیک بر ایران را کاهش دهد، اما اعتبارش زیر سؤال است",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610030220",
+        "clean_url": "https://www.iranintl.com/en/202610030220",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791040080.0
     },
     {
         "id": "fe0cd70393",
@@ -1192,6 +1286,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmhhaXlIcFhPS1pBVURqdWdlZ29iVDlSSTRGdlZWNkJSZFkxVEhEdDlTWE9MSjlpR3NGZGJOTkV5d3V2U2p2SnoxdWItZkRzeEFQcHZBY3UzZ3k4Y0VEZmVsWjBMY2lvcGJGTi1TdW9wdFNHV1dEdzJUcUEtNHFMaURiakFqRVhqOG1LWjhSbl9qTnVFdkxDQm1OcnAxMkdO",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790984735.0
+    },
+    {
+        "id": "f8e353100d",
+        "title_fa": "قیمت بنزین سن دیگو بالای ۶ دلار",
+        "title_en": "San Diego gas prices still hovering above $6 despite slight decrease",
+        "summary": [
+            "قیمت سوخت در سن دیگو هنوز بالای ۶ دلار باقی مانده، حتی پس از اعلام ترکیب سرد زمستانی",
+            "تحلیل‌گران پیش‌بینی می‌کنند کاهش جزئی در چند هفته آینده ممکن است"
+        ],
+        "impact": "سرمایه‌گذاران انرژی ممکن است به دنبال منابع ارزان‌تر جستجو کنند",
+        "tag": "قیمت",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Times of San Diego on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/san-diego-gas-prices-still-hovering-above-6-despite-slight-decrease/ar-AA2dvzrV?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/san-diego-gas-prices-still-hovering-above-6-despite-slight-decrease/ar-AA2dvzrV",
+        "image": "https://www.bing.com/th?id=ONUT.EV3jFBwfstilg5MwE7xX0g",
+        "timestamp": 1790982006.0
     },
     {
         "id": "860c7952a8",
@@ -5428,120 +5540,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRll5YjNzc1ZwaEh2enM4SEZLOEVEemdIcnYtR1NOUWdsbzUtblVPRjVrWjRjd2NxTVQzTFlCZEl1dzlXd0g2WXI5bHJ0eHlfbm9iYkJmUWlSV0pjam5RRU1UeGwwRG5zVEU5ZVpKV195M245cjF5Z095emhnSjNHRC1rUnNOZ2hNUGZDckwwNW5uYmplbWNKd2ExNW5uM3lydWRtVk5MUjhCUDV4dS1oTzlhdkI4ZzV5dlIwb01sNkl4NmpnbnBBcw",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790757819.0
-    },
-    {
-        "id": "93186b66bc",
-        "title_fa": "نتانیاهو دستور افزایش امنیت پروازهای هواپیمایی پس از حادثه دبی",
-        "title_en": "نتانیاهو دستور افزایش تدابیر امنیتی در شرکت‌های هواپیمایی اسرائیلی و خارجی را صادر کرد",
-        "summary": [
-            "نتانیاهو پس از سقوط پرواز دبی به تل‌آویو دستور داد امنیت هواپیماهای اسرائیلی و خارجی تقویت شود",
-            "این اقدام نشانگر نگرانی اسرائیل از تهدیدات هوایی در منطقه است"
-        ],
-        "impact": "هواپیماهای تجاری ممکن است با بازرسی‌های سخت‌گیرانه مواجه شوند",
-        "tag": "هوانوردی",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609306293",
-        "clean_url": "https://www.iranintl.com/202609306293",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/0262a0f715d09692be7be58d9642e9e7c17a7000-678x452.jpg?rect=54,0,570,299&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1790756400.0
-    },
-    {
-        "id": "23d5942377",
-        "title_fa": "ترامپ می‌گوید اقتصاد ایران به‌سر می‌برد",
-        "title_en": "Here’s What Trump Reveals About Iran’s Struggling Economy",
-        "summary": [
-            "ترامپ گفت اقتصاد ایران «بسیار ضعیف» است و در نهایت تسلیم خواهد شد",
-            "او ادعا کرد فشار اقتصادی آمریکا باعث سقوط ارزش ریال شده است",
-            "وزیر خزانه‌داری آمریکا تأیید کرد که ریال به رکورد تاریخی رسیده",
-            "این اظهارات سعی دارد نشان دهد سیاست‌های فشار اقتصادی در حال کار است"
-        ],
-        "impact": "کاهش ارزش ریال ادامه می‌یابد، فشار بر زندگی مردم",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "ijr",
-        "url": "https://ijr.com/journals/trending-herald/here-s-what-trump-reveals-about-iran-s-struggling-economy-c716d10d",
-        "clean_url": "https://ijr.com/journals/trending-herald/here-s-what-trump-reveals-about-iran-s-struggling-economy-c716d10d",
-        "image": "https://ijr.com/journals/trending-herald/here-s-what-trump-reveals-about-iran-s-struggling-economy-c716d10d/opengraph-image-a0nw1t?472901479bcd1535",
-        "timestamp": 1790755620.0
-    },
-    {
-        "id": "5c7c2a4883",
-        "title_fa": "نتانیاهو درباره حمله به پرواز Flydubai اظهار نظر کرد",
-        "title_en": "Iran-link in flydubai attack? Netanyahu says Israel will 'get to the root' of Omani co-pilot",
-        "summary": [
-            "نتانیاهو گفت اسرائیل به ریشهٔ هم‌پایلوت حمله می‌پردازد",
-            "هنوز نمی‌توان تأیید کرد ایران درگیر است",
-            "تحقیق در عربستان و احتمال انتقال به امارات ادامه دارد",
-            "اگر ایران دخالت داشته باشد، تهدید برای ایرانیان خارج از کشور افزایش می‌یابد"
-        ],
-        "impact": "افزایش فشار دیپلماتیک بر ایران و احتمال اقدام‌ها انتقامی",
-        "tag": "امنیت هوایی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/iran-link-in-flydubai-attack-netanyahu-says-israel-will-get-to-the-root-of-omani-co-pilot-article-14042631.html",
-        "clean_url": "https://www.moneycontrol.com/world/iran-link-in-flydubai-attack-netanyahu-says-israel-will-get-to-the-root-of-omani-co-pilot-article-14042631.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260813162609_Netanyahu-New-3.jpg",
-        "timestamp": 1790754627.0
-    },
-    {
-        "id": "4408a4baeb",
-        "title_fa": "آیا ایران پشت حادثه فلای دبی بود؟",
-        "title_en": "Was Iran behind Flydubai incident? Netanyahu answers",
-        "summary": [
-            "ALBAWABA - Israeli President Isaac Herzog said in a statement Thursday that four passengers who were on the Fly Dubai flight..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Al Bawaba",
-        "url": "https://www.albawaba.com/node/was-iran-behind-flydubai-incident-1638177",
-        "clean_url": "https://www.albawaba.com/node/was-iran-behind-flydubai-incident-1638177",
-        "image": "https://www.bing.com/th?id=ONUT.VqX-I-Q_WJWAKiQ4ePCR9w",
-        "timestamp": 1790754627.0
-    },
-    {
-        "id": "434eae74e6",
-        "title_fa": "500 هدف در لبنان و غزه توسط نیروی هوایی اسرائیل",
-        "title_en": "ارتش اسرائیل: بیش از ۵۰۰ هدف در لبنان و غزه طی یک ماه هدف قرار گرفتند",
-        "summary": [
-            "در ماه گذشته بیش از ۵۰۰ هدف در دو جبهه هدف قرار گرفت",
-            "۳۷۰ هدف حزب‌الله و ۱۴۰ هدف غزه شامل فرماندهان و انبارهای تسلیحاتی بود",
-            "عملیات نشان‌دهنده توان حمله هوایی مستمر اسرائیل است",
-            "احتمال تشدید تنش‌های مرزی در آینده وجود دارد"
-        ],
-        "impact": "کاهش توان نظامی حماس و حزب‌الله، اما خطر واکنش تلافی‌جویانه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610016414",
-        "clean_url": "https://www.iranintl.com/202610016414",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1790754627.0
-    },
-    {
-        "id": "2416951ce2",
-        "title_fa": "ایران بازخورد آمریکا به طرح اعتماد هفت‌روزه را دریافت کرد",
-        "title_en": "Iran receives US feedback on seven-day trust-building plan",
-        "summary": [
-            "آمریکا بازخورد خود را به طرح هفت‌روزه اعتماد ایران ارائه داد",
-            "طرح شامل گام‌های کاهش تنش‌های نظامی و اقتصادی است",
-            "دریافت بازخورد نشان می‌دهد مذاکرات دیپلماتیک ادامه دارد",
-            "جزئیات بازخورد هنوز به‌صورت عمومی منتشر نشده است"
-        ],
-        "impact": "پیشرفت مذاکرات می‌تواند به کاهش تنش‌های نظامی در خاورمیانه کمک کند",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "reuters.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXVGNEhtaUhtTVlCMndfQ0l3ZUthempGR3UwQklJTXN0MlQ4cG44bWdMWnRzOGJibUl1cFJXcDJSMDZNT2VmNlgyMG0zbms2dVJ3ZEszVmlucmdrX0pWdmp5cjNaQ2x3QUpIQjJFU0RMcTVCbFVfQ0xfaWU0MXVNTzdNUnZpMW5qX2VvSU9wY0ZJN0NPZFFTMWtiLS1HNDZmbWVaWWphVEVKeDZQVXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXVGNEhtaUhtTVlCMndfQ0l3ZUthempGR3UwQklJTXN0MlQ4cG44bWdMWnRzOGJibUl1cFJXcDJSMDZNT2VmNlgyMG0zbms2dVJ3ZEszVmlucmdrX0pWdmp5cjNaQ2x3QUpIQjJFU0RMcTVCbFVfQ0xfaWU0MXVNTzdNUnZpMW5qX2VvSU9wY0ZJN0NPZFFTMWtiLS1HNDZmbWVaWWphVEVKeDZQVXc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790753358.0
     }
 ]
