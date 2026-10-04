@@ -1,5 +1,41 @@
 [
     {
+        "id": "eccc438e4b",
+        "title_fa": "طرح حمله به فلای‌دوبای شکست خورد",
+        "title_en": "The flydubai attack was a failure before it was a plot",
+        "summary": [
+            "طرح حمله به پرواز فلای‌دوبای توسط عوامل ایرانی ناکام ماند",
+            "مقامات عمان و استرالیا نگرانی‌های امنیتی خود را ابراز کردند"
+        ],
+        "impact": "شکست این طرح می‌تواند مانع تشدید تنش‌های هوایی در منطقه شود",
+        "tag": "تروریسم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/the-flydubai-attack-was-a-failure-before-it-was-a-plot/ar-AA2dytR5?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/news/other/the-flydubai-attack-was-a-failure-before-it-was-a-plot/ar-AA2dytR5",
+        "image": "https://www.bing.com/th?id=ONUT.SGuI7KQw6pYh475ltRaFBg",
+        "timestamp": 1791149102.844101
+    },
+    {
+        "id": "e024543009",
+        "title_fa": "فرمانده سپاه: ناوهای آمریکا از خلیج رفته‌اند",
+        "title_en": "IRGC commander claims US warships have withdrawn from region",
+        "summary": [
+            "فرمانده ارشد سپاه گفت هیچ ناو آمریکایی در خلیج فارس یا هرمز حضور ندارد",
+            "او ادعا کرد خروج ناوها به دلیل قدرت نیروی دریایی سپاه است"
+        ],
+        "impact": "این ادعا می‌تواند تصویر داخلی را تقویت کند ولی واکنش‌های بین‌المللی را به چالش بکشد",
+        "tag": "نظامی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610043985",
+        "clean_url": "https://www.iranintl.com/en/202610043985",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791146580.0
+    },
+    {
         "id": "b169535c87",
         "title_fa": "جنگ نامتقارن: درگیری‌های پهپادی ارزان‌قیمت",
         "title_en": "What is Asymmetric Warfare? | An Era Where $10,000 Drones Exhaust Interceptor Missiles: How Should Japan Prepare?",
@@ -166,6 +202,24 @@
         "timestamp": 1791121692.530262
     },
     {
+        "id": "22ca24f49e",
+        "title_fa": "جریان نفت خلیج به سطح پیش‌جنگ بازگشت؛ تهدید سوزاندن",
+        "title_en": "Persian Gulf oil flows return to prewar levels, but Iran could resort to a 'scorched earth campaign' as US deploys more ships and Marines to Mideast",
+        "summary": [
+            "جریان نفت خلیج فارس به سطح پیش‌جنگ بازگشت",
+            "آمریکا ناوها و تفنگداران دریایی بیشتری به منطقه اعزام کرده؛ ایران ممکن است استراتژی «زمین سوخته» را در پیش بگیرد"
+        ],
+        "impact": "افزایش حضور نظامی آمریکا می‌تواند خطر تصادم و کاهش صادرات نفت را به دنبال داشته باشد",
+        "tag": "جیوپولیتیک",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Fortune on MSN",
+        "url": "https://www.msn.com/en-us/money/general/persian-gulf-oil-flows-return-to-prewar-levels-but-iran-could-resort-to-a-scorched-earth-campaign-as-us-deploys-more-ships-and-marines-to-mideast/ar-AA2dzdKc",
+        "clean_url": "https://www.msn.com/en-us/money/general/persian-gulf-oil-flows-return-to-prewar-levels-but-iran-could-resort-to-a-scorched-earth-campaign-as-us-deploys-more-ships-and-marines-to-mideast/ar-AA2dzdKc",
+        "image": "http://www.bing.com/th?id=ONUT.-cHzanqutMulHLVBVvP4iQ&pid=News",
+        "timestamp": 1791118990.0
+    },
+    {
         "id": "fe5719508a",
         "title_fa": "ایران: تنگه هرمز تا برآورده شدن شرایط باز نخواهد شد",
         "title_en": "Iran says Strait of Hormuz will not reopen until conditions are met",
@@ -201,6 +255,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WaXEzYlFiRW4yUjRPcE52eGljMmpJVXlmSVgzbHNDSnFzZk1OQVc2d3pRcmlvTHE5dnBtbVZjLXdPVGtPemJWRjRCMA",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791117471.0
+    },
+    {
+        "id": "254c6f64bf",
+        "title_fa": "المپیاد علمی ایران: منبع نیروی انسانی هسته‌ای",
+        "title_en": "Iran’s Olympiad paradox: Building scientific talent for a future abroad",
+        "summary": [
+            "سیستم المپیاد سال‌ها دانش‌آموزان برتر را شناسایی و به رشته‌های فنی هدایت می‌کند",
+            "این افراد به دانشگاه‌ها و صنایع حساس مثل هسته و موشک می‌پیوندند؛ خروجشان به‌خاطر فرصت‌های بهتر می‌چرخد"
+        ],
+        "impact": "کاهش یا خروج این نیروهای متخصص می‌تواند توان تولید فناوری‌های حساس ایران را تضعیف کند",
+        "tag": "علم",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610041181",
+        "clean_url": "https://www.iranintl.com/en/202610041181",
+        "image": "http://www.bing.com/th?id=ONUT.IkvcVzmb3Au53zDwtRYZcA&pid=News",
+        "timestamp": 1791117300.0
+    },
+    {
+        "id": "525d68145e",
+        "title_fa": "وزیر نفت ایران استعفا داد؛ پیش از اتمام بارها",
+        "title_en": "Iran's Oil Minister Quits Days Before Its Last Cargoes Run Out",
+        "summary": [
+            "وزیر نفت محمد پاکنژاد بدون توضیح استعفا داد",
+            "این خبر در حالی آمد که آخرین محموله‌های نفتی ایران در حال اتمام است"
+        ],
+        "impact": "دست‌خالی وزارت نفت می‌تواند فشار بر درآمدهای نفتی و توان مالی دولت را افزاش دهد",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/irans-oil-minister-quits-days-190956532.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/irans-oil-minister-quits-days-190956532.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/fe97025f3b3f6d5d127d94ba71fe2fdec617fbc8e98dfd92548d6dfe672bbf05/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F7341270da35a208060b24dbfab3ea75d.png",
+        "timestamp": 1791115740.0
     },
     {
         "id": "3519469be7",
@@ -275,6 +365,24 @@
         "timestamp": 1791108830.0
     },
     {
+        "id": "e0659cd2cb",
+        "title_fa": "ناوگان سایه‌ای ایران بدون سوخت گیر کرده",
+        "title_en": "Iran’s shadow fleet is stranded without fuel",
+        "summary": [
+            "ناوگان سایه‌ای ایران به دلیل کمبود سوخت در بنادر خارجی گیر کرده است",
+            "این وضعیت توان عملیاتی ایران در خلیج را محدود می‌کند"
+        ],
+        "impact": "عدم دسترسی به سوخت باعث کاهش حضور نظامی ایران در مسیرهای بحرانی می‌شود",
+        "tag": "ناوگان",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "worldisraelnews",
+        "url": "https://worldisraelnews.com/irans-shadow-fleet-is-stranded-without-fuel/",
+        "clean_url": "https://worldisraelnews.com/irans-shadow-fleet-is-stranded-without-fuel",
+        "image": "http://www.bing.com/th?id=ONUT.F9L5PksLUWfoaKwTwYh9EQ&pid=News",
+        "timestamp": 1791108000.0
+    },
+    {
         "id": "6b462c99f8",
         "title_fa": "روند نزولی ارز ایران به رکورد جدید رسید",
         "title_en": "Iranian currency hits another record low under US economic pressure",
@@ -329,6 +437,24 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/did-the-pager-operation-change-the-middle-east/ar-AA2dw2GI",
         "image": "https://www.bing.com/th?id=ONUT.r5nW9wveQ7Mg3Ez6BFp_kg",
         "timestamp": 1791103079.5482168
+    },
+    {
+        "id": "49d94d5fab",
+        "title_fa": "فشار بر دانش‌آموزان برای «رزمایش جانفدایان»",
+        "title_en": "منابع آگاه از فشار بر پسران دانش‌آموز برای شرکت در «رزمایش جانفدایان» خبر دادند",
+        "summary": [
+            "در شش استان، دانش‌آموزان پسر تحت فشار برای شرکت در «رزمایش جانفدایان» قرار گرفتند",
+            "تهدید اخراج و تعقیب والدین توسط نهادهای امنیتی به کار گرفته شد"
+        ],
+        "impact": "فشار بر جوانان می‌تواند نارضایتی عمومی و اعتراضات مدرسه‌ای را تشدید کند",
+        "tag": "حقوق",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610041219",
+        "clean_url": "https://www.iranintl.com/202610041219",
+        "image": "http://www.bing.com/th?id=ONUT.h4ei2i0ZzTffhy7RgIugmw&pid=News",
+        "timestamp": 1791102780.0
     },
     {
         "id": "b2626ccf2e",
@@ -5410,131 +5536,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYUpNTVZDVmpoSWFfSzlKYl96TEVOZUJCTExmd0wzVTFFQk1Qc2hLM1pzc0xFTGpZUTJETzFyTHI0TTJ2R3FabUFZLVRMYWk1UEd1akVwSWU3YjZKRzkzTEZpb2FjUUYzMkdsMklVWm9kXzlmam5uclFCZ0FSYWp2Nmk2dXZvbjZjU3liVk9QMnFLbGxhb3VnS3FOSFZIVW0zTlJjM1FuaGdpbEVyekRobC1DeEUtNU8yR1k3d0djeVJ2cVN1TjhqYnc1QTNXT015VHpB",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790811469.0
-    },
-    {
-        "id": "2d68e26399",
-        "title_fa": "وزیر اقتصاد: سقوط اقتصاد ایران در هفته‌های آینده نیست",
-        "title_en": "Iran economy minister rejects predictions of imminent collapse",
-        "summary": [
-            "وزیر اقتصاد می‌گوید پیش‌بینی‌های سقوط در دو هفته یا یک ماه بی‌اساس است",
-            "او ادعا می‌کند این شایعات برای ایجاد اضطراب و فشار بر بازار ارز منتشر می‌شود",
-            "اشاره به تأثیر ستارلینک بر کنترل فضای سایبری کشور شد"
-        ],
-        "impact": "اعتماد عمومی به پول ملی حفظ می‌شود و فشار بر نرخ ارز کاهش می‌یابد",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610010316",
-        "clean_url": "https://www.iranintl.com/en/202610010316",
-        "image": "http://www.bing.com/th?id=ONUT.HYU0LVrTp9cGA5vzw_wPdg&pid=News",
-        "timestamp": 1790810700.0
-    },
-    {
-        "id": "af18dac4df",
-        "title_fa": "رهبر: نماز کلید امید در جهاد و پیروزی",
-        "title_en": "Iran’s supreme leader invokes ‘jihad and victory’ in call to promote prayer",
-        "summary": [
-            "رهبر تأکید کرد نماز می‌تواند در جهاد و پیروزی به مردم امید بدهد",
-            "او از مدارس، دانشگاه‌ها و رسانه‌ها خواست تا نماز را به‌ویژه در میان جوانان ترویج دهند"
-        ],
-        "impact": "تقویت روحیه ملی و افزایش حضور مردم در مراسم مذهبی",
-        "tag": "اجتماعی",
-        "urgency": 2,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610014158",
-        "clean_url": "https://www.iranintl.com/en/202610014158",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790809560.0
-    },
-    {
-        "id": "7e71bbb595",
-        "title_fa": "مشاور خامنه‌ای: اظهارات ترامپ بی‌موضوعیت است",
-        "title_en": "مشاور مجتبی خامنه‌ای: اظهارات ترامپ موضوعیتی ندارد و رزمندگان به مسیر خود ادامه می‌دهند",
-        "summary": [
-            "مشاور خامنه‌ای گفت اظهارات ترامپ هیچ وزن سیاسی ندارد",
-            "او رزمندگان را به تکیه بر انسجام ملی و حمایت مردم یادآوری کرد"
-        ],
-        "impact": "تقویت مقاومت داخلی در برابر فشارهای خارجی",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": -0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610011604",
-        "clean_url": "https://www.iranintl.com/202610011604",
-        "image": "http://www.bing.com/th?id=ONUT.P-YWtaHyZEx6cyqBDUMSnQ&pid=News",
-        "timestamp": 1790808480.0
-    },
-    {
-        "id": "d8a21ea843",
-        "title_fa": "دموکرات‌ها هنوز درک غلطی از رأی‌دهندگان دارند",
-        "title_en": "What Democrats are still getting wrong about voters",
-        "summary": [
-            "سارا لانگولن توضیح می‌دهد که احزاب دموکراتیک به‌درستی رفتار رای‌دهندگان را تحلیل نمی‌کنند.",
-            "او استراتژی‌های پیشنهادی برای انتخابات ۲۰۲۶ را بیان می‌کند اما به‌نظر می‌رسد هنوز درک عمیقی از تمایلات عمومی ندارند."
-        ],
-        "impact": "عدم اصلاح استراتژی می‌تواند منجر به شکست‌های انتخابی جدی برای دموکرات‌ها شود.",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": -0.1,
-        "source": "Vox on MSN",
-        "url": "https://www.msn.com/en-us/news/other/what-democrats-are-still-getting-wrong-about-voters/ar-AA2diTWS?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/what-democrats-are-still-getting-wrong-about-voters/ar-AA2diTWS",
-        "image": "https://www.bing.com/th?id=ONUT.tv26HOwQsBmIAnI_VZBh5Q",
-        "timestamp": 1790808150.644991
-    },
-    {
-        "id": "54c2cfa0bf",
-        "title_fa": "مسائل کلیدی برای توافق صلح آمریکا‑ایران",
-        "title_en": "What Issues Do The US And Iran Need to Resolve for Any Peace Deal?",
-        "summary": [
-            "دو طرف باید درباره برنامه هسته‌ای، تحریم‌ها و منطقه خلیج تصمیم بگیرند.",
-            "تضمین‌های نظارتی و رفع تحریم‌های اقتصادی از نکات اصلی است.",
-            "سؤال‌های امنیتی درباره موشک‌های بالستیک و حضور نظامی نیز مطرح است."
-        ],
-        "impact": "حل این مسائل می‌تواند مسیر مذاکرات صلحی را باز کند و تنش‌های خاورمیانه را کاهش دهد.",
-        "tag": "دیپلماتیک",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790804614.0
-    },
-    {
-        "id": "8185370ee6",
-        "title_fa": "خبر بین‌المللی — ترامپ’s surrender fantasy: knot در talks",
-        "title_en": "Trump’s surrender fantasy: The knot in talks",
-        "summary": [
-            "Iran has received Washington’s response to its latest initiative aimed at ending the seven-month-long conflict that began..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Tehran Times",
-        "url": "https://www.tehrantimes.com/news/530612/Trump-s-surrender-fantasy-The-knot-in-talks",
-        "clean_url": "https://www.tehrantimes.com/news/530612/Trump-s-surrender-fantasy-The-knot-in-talks",
-        "image": "https://www.bing.com/th?id=ONUT.Pq_nhGT0oyUKToJEmGO40Q",
-        "timestamp": 1790803167.5534976
-    },
-    {
-        "id": "62336961d5",
-        "title_fa": "خبر بین‌المللی — Oman’s Long Dance with ایران",
-        "title_en": "Oman’s Long Dance with Iran",
-        "summary": [
-            "Washington has long valued Oman because it can talk to the Islamic Republic of Iran. The same access can also give Tehran..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Blogs | The Times of Israel",
-        "url": "https://blogs.timesofisrael.com/omans-long-dance-with-iran/",
-        "clean_url": "https://blogs.timesofisrael.com/omans-long-dance-with-iran",
-        "image": "https://www.bing.com/th?id=ONUT.xPJpUZICuFfmsfiaZfgckA",
-        "timestamp": 1790803158.1211588
     }
 ]
