@@ -1,5 +1,60 @@
 [
     {
+        "id": "ddb40d7ce1",
+        "title_fa": "حزب‌الله هنوز هزاران موشک دارد",
+        "title_en": "Did the pager operation change the Middle East?",
+        "summary": [
+            "حزب‌الله توان نظامی‌اش کاهش یافته ولی سلاح‌های سنگین را حفظ کرده",
+            "هزاران موشک و موشک‌بالست در اختیار دارد و می‌تواند به‌سرعت به‌روزرسانی کند",
+            "این وضعیت باعث ادامه تهدید به اسرائیل می‌شود"
+        ],
+        "impact": "منطقه خاورمیانه با خطر حملات راکتی به‌خصوص به اسرائیل مواجه می‌شود",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/did-the-pager-operation-change-the-middle-east/ar-AA2dw2GI?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/did-the-pager-operation-change-the-middle-east/ar-AA2dw2GI",
+        "image": "https://www.bing.com/th?id=ONUT.r5nW9wveQ7Mg3Ez6BFp_kg",
+        "timestamp": 1791103079.5482168
+    },
+    {
+        "id": "b2626ccf2e",
+        "title_fa": "وزیر خارجه ایران: راه‌حل نظامی برای تنش با آمریکا نیست",
+        "title_en": "Iran FM: There is no military solution to conflict with US",
+        "summary": [
+            "وزیر خارجه ایران اعلام کرد جنگ نظامی راه‌حل نیست",
+            "تاکید بر ادامه دیپلماسی و احتمال فشارهای اقتصادی"
+        ],
+        "impact": "تشدید فشارهای دیپلماتیک و احتمال تحریم‌های جدید علیه ایران",
+        "tag": "دیپلوماسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnQxcldLUkhSeDdjRjBneUFaZjlwbkxvYWNnT3docVloRmVSMnlLMTA3Vy1TZUI1Y0VkM0E3TnlEYmtKWExkRl9SeWViNlU5WTI0WVl6RloydEdfVVJOcmZQWlNMOE9sT28tTHBQOFNXVmFoREhkMTdadmNKd1NJeTJpSWVtcjNTZ3Uwcl9ocXpadEtqQ2NnV1lEN2VxMlZkcmlBeHJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnQxcldLUkhSeDdjRjBneUFaZjlwbkxvYWNnT3docVloRmVSMnlLMTA3Vy1TZUI1Y0VkM0E3TnlEYmtKWExkRl9SeWViNlU5WTI0WVl6RloydEdfVVJOcmZQWlNMOE9sT28tTHBQOFNXVmFoREhkMTdadmNKd1NJeTJpSWVtcjNTZ3Uwcl9ocXpadEtqQ2NnV1lEN2VxMlZkcmlBeHJ3",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791101266.0
+    },
+    {
+        "id": "2e1393172c",
+        "title_fa": "وزیر خارجه: تهران برای دیپلماسی و جنگ آماده است",
+        "title_en": "Iran's Foreign Minister Says Tehran Is Ready For Diplomacy And War",
+        "summary": [
+            "وزیر خارجه ایران اعلام کرد ایران هم به دیپلماسی و هم به جنگ آماده است",
+            "این پیام نشان‌دهنده انعطاف‌پذیری استراتژیک تهران در برابر فشارهای بین‌المللی است"
+        ],
+        "impact": "افزایش تنش‌های منطقه‌ای و احتمال واکنش‌های نظامی یا تحریمی",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "kurdistan24.net",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0lJaXFRVFNvcUNaTGItQXdyTTNVNE9SNTJwbmJVUnR1YUYwaXFzSDNvQWdIbkNNTTlrMUtVeUhrUVBsYjFjT0hZaUdaVUZKS19vZGJNNG5QMXhoVzdKS2RsVWhhOENmVDV3Y1RTbjdpdFh6VXhwekg0SzNNU2EyczBXTUhLY2k2VTR1OHZJaUQ3cGhfRWdtMnFvOVMyN20ySFpPNVdoc210blhESnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0lJaXFRVFNvcUNaTGItQXdyTTNVNE9SNTJwbmJVUnR1YUYwaXFzSDNvQWdIbkNNTTlrMUtVeUhrUVBsYjFjT0hZaUdaVUZKS19vZGJNNG5QMXhoVzdKS2RsVWhhOENmVDV3Y1RTbjdpdFh6VXhwekg0SzNNU2EyczBXTUhLY2k2VTR1OHZJaUQ3cGhfRWdtMnFvOVMyN20ySFpPNVdoc210blhESnc",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791100781.0
+    },
+    {
         "id": "61989a53fa",
         "title_fa": "مشرق چگونه می‌تواند بر اختلال امنیتی فزاینده خود غلبه کند؟",
         "title_en": "How Can the Mashriq Overcome Its Escalating Security Disorder?",
@@ -1202,6 +1257,42 @@
         "clean_url": "https://www.thehindu.com/news/international/iran-executes-man-linked-to-anti-government-protests/article71541461.ece",
         "image": "https://th-i.thgim.com/public/incoming/gsjpi5/article71541468.ece/alternates/LANDSCAPE_1200/Iran_War_61611.jpg",
         "timestamp": 1791016740.0
+    },
+    {
+        "id": "cc6cc20bb6",
+        "title_fa": "خبر بین‌المللی — 'Evil creature' ترامپ slammed برای foul-mouthed Ohio rally s",
+        "title_en": "'Evil creature' Trump slammed for foul-mouthed Ohio rally speech ahead of midterms",
+        "summary": [
+            "Donald Trump was dubbed an 'evil creature' after launching into a foul mouthed campaign rally speech in Ohio ahead of the midterms this November."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Irish Star on MSN",
+        "url": "https://www.msn.com/en-us/news/other/evil-creature-trump-slammed-for-foul-mouthed-ohio-rally-speech-ahead-of-midterms/ar-AA2dwd37?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/evil-creature-trump-slammed-for-foul-mouthed-ohio-rally-speech-ahead-of-midterms/ar-AA2dwd37",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791016668.0
+    },
+    {
+        "id": "d213217839",
+        "title_fa": "ترامپ در اوهایو با الفاظ توهین‌آمیز به رقبای دموکراتیک",
+        "title_en": "In crude Ohio rally speech, Trump says he may not help if Democrats win",
+        "summary": [
+            "ترامپ در رالی اوهایو با کلمات رکیک به دموکرات‌ها حمله کرد",
+            "وعده کمک مالی به جمهوری‌خواهان و تهدید همکاری کمتر با ایالت در صورت پیروزی دموکرات‌ها",
+            "این رفتار در میانه انتخابات می‌تواند حمایت‌های میانی‌سالانه را تحت فشار قرار دهد"
+        ],
+        "impact": "احتمال کاهش مشارکت دموکرات‌ها و تشدید قطبی‌سازی سیاسی در انتخابات میانی",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/04/in-ohio-rally-speech-trump-says-he-may-not-help-if-democrats-win.html",
+        "clean_url": "https://www.cnbc.com/2026/10/04/in-ohio-rally-speech-trump-says-he-may-not-help-if-democrats-win.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108372253-1791097040185-gettyimages-2298454247-rs2_1543_0nifoiyq.jpeg?v=1791097064&w=1920&h=1080",
+        "timestamp": 1791016668.0
     },
     {
         "id": "ee9ffb1074",
@@ -5453,97 +5544,5 @@
         "clean_url": "https://www.iranintl.com/202609307309",
         "image": "http://www.bing.com/th?id=ONUT.Krn_8ib5N0hfaySpLL3MHw&pid=News",
         "timestamp": 1790781960.0
-    },
-    {
-        "id": "2985978fad",
-        "title_fa": "خبر بین‌المللی — ایران just got handed a stark choice by ترامپ: At UN he ask",
-        "title_en": "Iran just got handed a stark choice by Trump: At the UN he asked whether to make a deal or annihilate the Islamic Republic",
-        "summary": [
-            "At the United Nations, Trump framed his Iran decision as a deal or annihilation, then said he expects a deal right after the election. That timing matters. With the midterms less than five weeks away,..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-stark-choice-by-trump-at-the-un-he-asked-whether-to-make-a-deal-or-annihilate-the-islamic-republic/ar-AA2diU0s",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-stark-choice-by-trump-at-the-un-he-asked-whether-to-make-a-deal-or-annihilate-the-islamic-republic/ar-AA2diU0s",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790781717.0
-    },
-    {
-        "id": "a0b40dfe8c",
-        "title_fa": "توافق تجاری هند‑آمریکا از «تمام شد» به «موافقت‌نامه موقت» تغییر یافت",
-        "title_en": "India-US trade agreement went from 'done and dusted' to 'interim agreement'",
-        "summary": [
-            "وزیر تجارت هند گفت توافق «تمام شد» اما پس از ملاقات تغییر کرد",
-            "مذاکرات هنوز ادامه دارد و موانع تعرفه‌ای و خرید نفت روسی وجود دارد",
-            "هدف آمریکا ارائه مزیت رقابتی به هند است"
-        ],
-        "impact": "تاخیر در اجرای توافق تجاری و اثر بر صادرات",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": 0.1,
-        "source": "indiaweekly",
-        "url": "https://www.indiaweekly.biz/india-us-trade-agreement-went-from-done-and-dusted-to-interim-agreement/",
-        "clean_url": "https://www.indiaweekly.biz/india-us-trade-agreement-went-from-done-and-dusted-to-interim-agreement",
-        "image": "https://www.bing.com/th?id=ONUT.BbeMokizvkoZQjiV2-MkmA",
-        "timestamp": 1790780076.0
-    },
-    {
-        "id": "55af5c942b",
-        "title_fa": "ترامپ: تصمیم بین بمباران یا توافق با ایران",
-        "title_en": "ترامپ: در ایران ارتش، نیروی دریای، هوایی،پدافند، رهبران، ارزش پول، همه چیز از بین رفته است",
-        "summary": [
-            "ترامپ گفت باید بین حمله نظامی و توافق انتخاب کنیم.",
-            "او ادعا کرد ارتش، نیروی هوایی، دریایی و پدافند ایران از بین رفته‌اند.",
-            "نرخ تورم ایران به ۳۰۱٪ رسیده و ارزش پول به‌طور کامل سقوط کرده.",
-            "هشدار او می‌تواند فشار دیپلماتیک آمریکا را به‌سرعت تشدید کند."
-        ],
-        "impact": "ممکن است ایالات متحده به سرعت تحریم‌های سخت‌گیرانه یا عملیات هوایی علیه ایران بپردازد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609309756",
-        "clean_url": "https://www.iranintl.com/202609309756",
-        "image": "http://www.bing.com/th?id=ONUT.PdVTULVjfsqaSkiP5u4AZQ&pid=News",
-        "timestamp": 1790779440.0
-    },
-    {
-        "id": "4b5f720460",
-        "title_fa": "ترامپ: جزئیات آزادی مظنونان پایگاه بریتانیا امروز فاش می‌شود",
-        "title_en": "ترامپ: علت آزادی مظنونان پرونده پایگاه بریتانیا تا پایان روز روشن‌تر می‌شود",
-        "summary": [
-            "ترامپ وعده داد تا پایان روز اطلاعات بیشتری درباره آزادسازی دو مظنون متهم به توطئه علیه پایگاه هوایی بریتانیا منتشر کند.",
-            "این آزادی‌ها پس از ادعای استفاده نیروهای آمریکایی از پایگاه برای حمله به ایران مطرح شد."
-        ],
-        "impact": "افشای جزئیات می‌تواند فشار دیپلماتیک بر روابط آمریکا‑بریتانیا و ایران را تشدید کند.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609301309",
-        "clean_url": "https://www.iranintl.com/202609301309",
-        "image": "http://www.bing.com/th?id=ONUT.H0YOzTNZSamPuvUMIiEeTA&pid=News",
-        "timestamp": 1790778300.0
-    },
-    {
-        "id": "e41c5c545b",
-        "title_fa": "هم‌پایلوت flydubai به‌عنوان رادیکال مذهبی شناخته شد",
-        "title_en": "flydubai co-pilot was a ‘religious extremist’, ‘refused to shake hands with women’, says colleague",
-        "summary": [
-            "هم‌پایلوت عمانی به‌دلیل رفتارهای مذهبی شدید، دست‌کم یک بار از دست دادن دست دادن با زنان خودداری کرد",
-            "این رفتار منجر به توصیف او به‌عنوان «افراط‌گرای مذهبی» شد"
-        ],
-        "impact": "افزایش نگرانی‌های امنیتی در خطوط هوایی خاورمیانه",
-        "tag": "هواپیمایی",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/flydubai-omani-co-pilot-was-religious-extremist-refused-to-shake-hands-with-women-says-colleague-israel-modi-netanyahu-iran-islam-101790859423095.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/flydubai-omani-co-pilot-was-religious-extremist-refused-to-shake-hands-with-women-says-colleague-israel-modi-netanyahu-iran-islam-101790859423095.html",
-        "image": "https://www.bing.com/th?id=ONUT.WhM5wmRoJQax_A5qzGBlaw",
-        "timestamp": 1790778240.0
     }
 ]
