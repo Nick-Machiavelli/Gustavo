@@ -1,5 +1,41 @@
 [
     {
+        "id": "ab0e7c6852",
+        "title_fa": "میانه‌دوره آمریکا و فرصت‌های هند",
+        "title_en": "US midterms: Could a Democratic House be good for India?",
+        "summary": [
+            "پس از جنگ آمریکا‑ایران، رده‌های دموکرات ممکن است روابط تجاری هند را تقویت کنند",
+            "حضور هند در زنجیره تأمین انرژی می‌تواند به نفع واشنگتن باشد"
+        ],
+        "impact": "هند نقش استراتژیک بیشتری در سیاست خاورمیانه پیدا می‌کند",
+        "tag": "انتخابات-آمریکا",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "WION on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-midterms-could-a-democratic-house-be-good-for-india/ar-AA2dy4S9?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-midterms-could-a-democratic-house-be-good-for-india/ar-AA2dy4S9",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791158498.9195821
+    },
+    {
+        "id": "d1995ef91b",
+        "title_fa": "دولت‌سالاران آمریکایی حمایت خارجی می‌جویند",
+        "title_en": "Jerry Shenk: Who do non-Americans favor in November, and why?",
+        "summary": [
+            "مقاله می‌گوید دمکرات‌ها توسط مقامات کانادا و اروپا حمایت می‌شوند",
+            "این حمایت را به‌عنوان تهدیدی برای منافع آمریکا معرفی می‌کند"
+        ],
+        "impact": "فشار داخلی بر دمکرات‌ها افزایش می‌یابد و روایت ضد‑آمریکایی تقویت می‌شود",
+        "tag": "سیاست-آمریکا",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "The Mercury",
+        "url": "https://www.pottsmerc.com/2026/10/04/jerry-shenk-who-do-non-americans-favor-in-november-and-why/",
+        "clean_url": "https://www.pottsmerc.com/2026/10/04/jerry-shenk-who-do-non-americans-favor-in-november-and-why",
+        "image": "https://www.bing.com/th?id=ONUT.3tzcITr_lSOdirgPPtNyrw",
+        "timestamp": 1791158498.9187012
+    },
+    {
         "id": "38fdc74c87",
         "title_fa": "خروج نهایی نیروهای آمریکا از عراق؛ ایران پیروزی می‌داند",
         "title_en": "They call it victory: How America’s enemies read the Iraq exit",
@@ -203,6 +239,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/ending-the-war-requires-accepting-iran-in-the-middle-east/ar-AA2dxRgE",
         "image": "https://www.bing.com/th?id=ONUT.kz7GFVIPxO6nQ7f6RIAbdg",
         "timestamp": 1791123696.8410347
+    },
+    {
+        "id": "47cde44f57",
+        "title_fa": "بورس عربستان پس از پنج هفته کاهش رشد کرد",
+        "title_en": "رشد بورس عربستان سعودی پس از پنج هفته کاهش هم‌زمان با بالا ماندن قیمت نفت",
+        "summary": [
+            "قیمت نفت بالای ۱۰۲ دلار، تقاضای سرمایه‌گذاران را به خلیج جلب کرد",
+            "شاخص اصلی ۱.۱٪ رشد کرد؛ بانک الراجحی پیشتاز بود"
+        ],
+        "impact": "جریان سرمایه به عربستان افزایش می‌یابد؛ سرمایه‌گذاران خاورمیانه به نفت وابسته می‌شوند",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610040831",
+        "clean_url": "https://www.iranintl.com/202610040831",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791122280.0
     },
     {
         "id": "15df70079d",
@@ -825,6 +879,24 @@
         "clean_url": "https://www.iranintl.com/202610040354",
         "image": "http://www.bing.com/th?id=ONUT.Em-4L-VEuMzQWvn2FKkm3g&pid=News",
         "timestamp": 1791075000.0
+    },
+    {
+        "id": "251a3c1385",
+        "title_fa": "جنگ ایران می‌تواند بودجه بریتانیا را خالی کند",
+        "title_en": "Healey’s headroom ‘could wiped out by Iran war’",
+        "summary": [
+            "OBR ممکن است پیش‌بینی مالی را به‌سوی منفی‌تری اصلاح کند",
+            "ادامه جنگ ایران‑عربستان می‌تواند ۱۸ میلیارد پوند از پیش‌بینی مالی بریتانیا کم کند"
+        ],
+        "impact": "بودجه دولت بریتانیا تحت فشار می‌گیرد؛ احتمال افزایش مالیات یا کاهش هزینه‌ها",
+        "tag": "اقتصاد-انگلستان",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "City A.M.",
+        "url": "https://www.cityam.com/healeys-headroom-could-wiped-out-by-iran-war/",
+        "clean_url": "https://www.cityam.com/healeys-headroom-could-wiped-out-by-iran-war",
+        "image": "https://www.bing.com/th?id=ONUT.Webid0FvvUQt72nytcOU7A",
+        "timestamp": 1791072092.0
     },
     {
         "id": "e9049e5d4d",
@@ -5465,77 +5537,5 @@
         "clean_url": "https://www.crescent-news.com/opinion/opinion_columnists/christine-flowers---a-great-pretender-betrayed-her-jewish-roots/article_0eafc084-4a01-4165-9124-38d946baea2f.html",
         "image": "https://www.bing.com/th?id=ONUT.mjJTdGMbFrWT6IZm4k1O6g",
         "timestamp": 1790818489.8886473
-    },
-    {
-        "id": "92ccc1348b",
-        "title_fa": "درگیری شدید در زاهدان؛ سپاه پاسداران از کشته شدن ۶ فرد مسلح خبر داد",
-        "title_en": "درگیری شدید در زاهدان؛ سپاه پاسداران از کشته شدن ۶ فرد مسلح خبر داد",
-        "summary": [
-            "وب‌سایت حال‌وش از درگیری شدید نیروهای جمهوری اسلامی با افراد مسلح در منطقه منزل‌آب زاهدان خبر داد. سپاه پاسداران نیز اعلام کرد شش عضو «یک گروه تروریستی» در این درگیری کشته شده‌اند."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610018381",
-        "clean_url": "https://www.iranintl.com/202610018381",
-        "image": "http://www.bing.com/th?id=ONUT.m22qwhOkJCmAiN4DOs16Lg&pid=News",
-        "timestamp": 1790817120.0
-    },
-    {
-        "id": "401e2c32e4",
-        "title_fa": "ایران استفاده از استیبل‌کوین‌ها را گسترش می‌دهد",
-        "title_en": "Iran likely to step up use of stablecoins as US sanctions tighten, analyst says",
-        "summary": [
-            "تحریم‌های آمریکا فشار بر فروش نفت را بالا برده است",
-            "استیبل‌کوین‌ها دسترسی به نقدینگی بین‌المللی را برای تهران فراهم می‌کند",
-            "آمریکا می‌تواند دارایی‌های زنجیره‌ای را مسدود کند",
-            "روش جدید ریسک‌های مالی تازه‌ای برای بازار جهانی ایجاد می‌کند"
-        ],
-        "impact": "تسهیل فروش نفت تحریم‌شده و خرید تجهیزات دو‑مصرف",
-        "tag": "پول دیجیتال",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610018191",
-        "clean_url": "https://www.iranintl.com/en/202610018191",
-        "image": "http://www.bing.com/th?id=ONUT.J4mEPTSmxoHakCF2iASB1A&pid=News",
-        "timestamp": 1790815500.0
-    },
-    {
-        "id": "1a42208dee",
-        "title_fa": "خبر بین‌المللی — ترامپ says ایران decision coming 'very soon' as US probes po",
-        "title_en": "Trump says Iran decision coming 'very soon' as US probes possible Fairford terror links",
-        "summary": [
-            "Iran's economy remains crippled by sanctions and a U.S. blockade, leaving Tehran with few options now that its control over the Strait of Hormuz has slipped."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-oil-september-30",
-        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-trump-oil-september-30",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/f85ef488b5b03b74fbd6af79ff0968d6.jpg",
-        "timestamp": 1790813280.0
-    },
-    {
-        "id": "ff88dc499d",
-        "title_fa": "خبر بین‌المللی — Tokocrypto introduces special dine-در benefits برای users at",
-        "title_en": "Tokocrypto introduces special dine-in benefits for users at GOASAYA from October 2026",
-        "summary": [
-            "کاربران حساب تأییدشده Tokocrypto می‌توانند از ۱۵٪ تخفیف در سرویس غذاخوری استفاده کنند.",
-            "اعضای VIP علاوه بر ۲۰٪ تخفیف، ارتقا رایگان به اتاق VIP و رزرو اولویت‌دار در آخر هفته دریافت می‌کنند."
-        ],
-        "impact": "جذب کاربران جدید و افزایش تراکنش‌های داخلی Tokocrypto در طول یک سال.",
-        "tag": "اقتصاد",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "tradersunion",
-        "url": "https://tradersunion.com/news/brokers-news/show/3597566-tokocrypto-and-goasaya-launch-dining/",
-        "clean_url": "https://tradersunion.com/news/brokers-news/show/3597566-tokocrypto-and-goasaya-launch-dining",
-        "image": "https://files.tradersunion.com/images/brokers-twitter-news/tokocrypto/tokocrypto_02.jpg",
-        "timestamp": 1790812800.0
     }
 ]
