@@ -1,5 +1,24 @@
 [
     {
+        "id": "53bce5414a",
+        "title_fa": "تاجیکستان به سوخت ایران روی می‌آورد؛ روسیه خالی شد",
+        "title_en": "Tajikistan Taps Iran as Russian Fuel Runs Dry",
+        "summary": [
+            "تاجیکستان پس از کمبود سوخت روسی، وارد قرارداد تامین گازوئیل از ایران شد",
+            "این حرکت باعث می‌شود ایران بازار صادرات انرژی خود را در آسیای میانه گسترش دهد",
+            "تاجیکستان می‌تواند وابستگی به روسیه را کاهش داده و تنوع منابع انرژی خود را بالا ببرد"
+        ],
+        "impact": "افزایش صادرات سوخت ایران به تاجیکستان و کاهش نفوذ روسیه در منطقه",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWlDdW1ObV9teFNQY3ZTaFp6QlRZc2ctdk9fcEZiclpPeVp2cVhKQ2dnSlhpb182RlRaVlg1VjFzN0tiMXY0UTk0ZDZYaHRFWWdLTVFYSG5uUEdlVDBOR3BBbGFsY2R4elNZLUdTODNMS253VG0xNnVTX3NzT2xFeTBNMGY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWlDdW1ObV9teFNQY3ZTaFp6QlRZc2ctdk9fcEZiclpPeVp2cVhKQ2dnSlhpb182RlRaVlg1VjFzN0tiMXY0UTk0ZDZYaHRFWWdLTVFYSG5uUEdlVDBOR3BBbGFsY2R4elNZLUdTODNMS253VG0xNnVTX3NzT2xFeTBNMGY",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791249525.0
+    },
+    {
         "id": "b86ecc1791",
         "title_fa": "حوثی‌ها هدف فرودگاه ریاض؛ ترامپ ایران را مقصر می‌داند",
         "title_en": "Houthis target Riyadh airport, Aramco refinery as Saudi-led coalition strikes Yemen",
@@ -926,6 +945,63 @@
         "clean_url": "https://www.iranintl.com/202610059043",
         "image": "http://www.bing.com/th?id=ONUT.baCxfv4r2_Rxc7tdTCsY8Q&pid=News",
         "timestamp": 1791167280.0
+    },
+    {
+        "id": "f1d976d8db",
+        "title_fa": "نقشهٔ آدم‌ربای فلای‌دوبی برای فرودگاه اسرائیل",
+        "title_en": "Alleged FlyDubai hijacker planned to target Israel airport",
+        "summary": [
+            "متهم به ربودن هواپیما قصد داشت هواپیما را به سمت فرودگاه تل‌آویو هدایت کند",
+            "این طرح نشان می‌دهد تهدیدات تروریستی علیه زیرساخت‌های هوایی اسرائیل در حال تشدید است",
+            "سازمان‌های امنیتی احتمالاً بازرسی‌های سخت‌تری روی پروازهای منطقه‌ای اعمال می‌کنند"
+        ],
+        "impact": "افزایش هشدارهای امنیتی و بررسی‌های دقیق‌تر در فرودگاه‌های اسرائیل",
+        "tag": "تروریست",
+        "urgency": 6,
+        "sentiment": -0.9,
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/world/alleged-flydubai-hijacker-target-israel-airport/",
+        "clean_url": "https://www.newsnationnow.com/world/alleged-flydubai-hijacker-target-israel-airport",
+        "image": "https://www.bing.com/th?id=ONUT.kSfUSzYE9G7znCLq4dU5jA",
+        "timestamp": 1791167149.0
+    },
+    {
+        "id": "14e94a9ae1",
+        "title_fa": "حملات هورموز؛ ۱۱ تانکر هدف، خطر بسته شدن مسیر نفت",
+        "title_en": "Oil Lifelines Under Siege: Hormuz Attacks Surge, Houthis Strike Saudi Energy Sites",
+        "summary": [
+            "از دوشنبه تا امروز ۱۱ تانکر در تنگه هورموز هدف حملات شد",
+            "حمله‌های حوثی به زیرساخت‌های انرژی سعودی خطر بسته شدن مسیر اصلی حمل نفت را ایجاد کرده",
+            "نیروهای آمریکایی هنوز در حال حفاظت از کشتی‌ها هستند اما ریسک‌ها به‌صورت چشمگیری بالا رفته"
+        ],
+        "impact": "افزایش نااطمینانی بازار نفت و فشار بر قیمت‌های جهانی انرژی",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.95,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-strait-of-hormuz-attacks-irgc-saudi-houthis-conflict-oil-prices-article-156281258",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-strait-of-hormuz-attacks-irgc-saudi-houthis-conflict-oil-prices-article-156281258",
+        "image": "https://www.bing.com/th?id=ONUT.y4_ZpSMqUTkSCejMO6ABVQ",
+        "timestamp": 1791167149.0
+    },
+    {
+        "id": "8cce9cf451",
+        "title_fa": "ترامپ: جنگ ایران تقریباً تمام شد، سلاح هسته‌ای ممنوع",
+        "title_en": "Trump says Iran war ‘essentially almost over,’ rules out nuclear weapon",
+        "summary": [
+            "ترامپ گفت جنگ با ایران نزدیک به پایان است و تهدید هسته‌ای از بین رفته",
+            "قیمت بنزین را «قیمت موقتی» نامید و وعدهٔ کاهش سریع داد",
+            "اظهارات او می‌تواند فشار دیپلماتیک بر تهران را کم کند"
+        ],
+        "impact": "کاهش تنش‌های نظامی و احتمال کاهش قیمت‌های انرژی در کوتاه‌مدت",
+        "tag": "ایران-آمریکا",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610069611",
+        "clean_url": "https://www.iranintl.com/en/202610069611",
+        "image": "https://www.bing.com/th?id=ONUT.TFDaubhyedgF1FHucEpr_A",
+        "timestamp": 1791167149.0
     },
     {
         "id": "d52e1d2f90",
@@ -5441,81 +5517,5 @@
         "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-02/live-updates-910393",
         "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740203",
         "timestamp": 1790914980.0
-    },
-    {
-        "id": "15bcb8003a",
-        "title_fa": "ترامپ به «کارخانه‌های مواد مخدر» ایران به‌عنوان هدف اشاره کرد",
-        "title_en": "Trump Cites Iran's 'Drug Factories' As Another Target For Bombing",
-        "summary": [
-            "ترامپ در تجمعی در اوکلاهوما ادعا کرد عملیات «چکش نیمه‌شب» هدف «کارخانه‌های مواد مخدر» ایران را نیز داشته",
-            "این اظهارات سعی دارد فشار نظامی علیه ایران را توجیه کند و به انتخابات میانی‌دورهی آمریکا ربط می‌دهد"
-        ],
-        "impact": "تشدید تنش‌های سیاسی بین آمریکا و ایران",
-        "tag": "سیاست",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-cites-iran-drug-factories-as-another-target-for-bombings_n_6abf788be4b02a789b3527a9",
-        "clean_url": "https://www.huffpost.com/entry/trump-cites-iran-drug-factories-as-another-target-for-bombings_n_6abf788be4b02a789b3527a9",
-        "image": "https://img.huffingtonpost.com/asset/6abf8596180000e56bf15b28.jpeg?cache=akH49yCSo6&ops=500_281%2Cscalefit_1200_630",
-        "timestamp": 1790913420.0
-    },
-    {
-        "id": "0eeb733644",
-        "title_fa": "ایران: دسترسی بازرس‌ها در ازای رفع تحریم‌ها",
-        "title_en": "Iran Links Nuclear Site Inspections to Sanctions Relief in Talks with Diplomats",
-        "summary": [
-            "ایران آمادگی دارد تا بازرس‌های بین‌المللی به سایت‌های هسته‌ای آسیب‌دیده دسترسی پیدا کنند، مشروط بر کاهش فشار تحریمی",
-            "پیشنهاد توسط عباس عراغچی در جلسات خصوصی کنار مجمع عمومی سازمان ملل مطرح شد",
-            "این حرکت نشان می‌دهد اقتصاد ایران تحت فشار شدید؛ تورم نزدیک به ۹۰٪ و کاهش ۳۰٪ ارزش ریال",
-            "اگر تحریم‌ها سبک شوند، امکان بازگشت سرمایه‌گذاری و صادرات نفتی برای تهران باز می‌شود"
-        ],
-        "impact": "کاهش تحریم‌ها می‌تواند جریان نفت ایران را دوباره فعال کند و فشار اقتصادی داخلی را کم کند",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Mezha",
-        "url": "https://mezha.net/eng/news/06c351e4_iran_links_nuclear/",
-        "clean_url": "https://mezha.net/eng/news/06c351e4_iran_links_nuclear",
-        "image": "https://mezha.net/eng/kd_image_generate/06c351e4_iran_links_nuclear/3727793.jpg?ver=2.0.15",
-        "timestamp": 1790911740.0
-    },
-    {
-        "id": "d73c0c466a",
-        "title_fa": "القاعده پشت‌پردهٔ پشتیبان ایران در جنگ",
-        "title_en": "Al-Qaeda is Iran's quiet backup if the war turns, expert says",
-        "summary": [
-            "کارشناس H9 Defense می‌گوید القاعده می‌تواند به‌عنوان نیابتی مخفی برای ایران عمل کند.",
-            "سایف العدل، رهبر غیررسمی القاعده در ایران، آمادهٔ حملات در صورت گسترش جنگ است.",
-            "ایران می‌تواند با این روش مشارکت خود را رد کند و القاعده به‌سوی صحنهٔ جهانی بازگردد.",
-            "ادعای حمایت تاریخی ایران از عملیات ۱۱ سپتامبر، زمینهٔ این همکاری را نشان می‌دهد."
-        ],
-        "impact": "ایران می‌تواند به‌صورت مخفی حملات علیه غرب انجام دهد و فشار بین‌المللی را افزایش دهد.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610013624",
-        "clean_url": "https://www.iranintl.com/en/202610013624",
-        "image": "http://www.bing.com/th?id=ONUT.txEOeuMg4sfYJtdQTrga-Q&pid=News",
-        "timestamp": 1790910900.0
-    },
-    {
-        "id": "d95481a737",
-        "title_fa": "شهدوستی: حمله به ایران، منطقه و اروپا در خطر",
-        "title_en": "امام جمعه هرمز: در صورت حمله به ایران نه منطقه روی آرامش می‌بیند، نه اروپا در امان می‌ماند",
-        "summary": [
-            "شهدوستی در خطبه جمعه گفت هر حمله‌ای به ایران، صلح منطقه را نابود می‌کند.",
-            "او وعده ضربه‌های مهلک به مهاجمان داد."
-        ],
-        "impact": "تشدید تنش‌های منطقه‌ای و واکنش‌های بین‌المللی به تهدید مستقیم.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610027970",
-        "clean_url": "https://www.iranintl.com/202610027970",
-        "image": "http://www.bing.com/th?id=ONUT.PljsxW9YN5_ezhCGmaejUA&pid=News",
-        "timestamp": 1790910780.0
     }
 ]
