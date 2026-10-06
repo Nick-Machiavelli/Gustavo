@@ -1,5 +1,40 @@
 [
     {
+        "id": "cb6e3e7336",
+        "title_fa": "خبر بین‌المللی — 'ترامپ said 'ایران bombing LA is small price به pay'",
+        "title_en": "'Trump said 'Iran bombing LA is small price to pay'",
+        "summary": [
+            "No other politician in the world gets taken \"seriously but not literally\". It's unreasonable to expect Americans to all..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "AOL.co.uk",
+        "url": "https://www.aol.co.uk/articles/trump-said-iran-bombing-la-200932000.html",
+        "clean_url": "https://www.aol.co.uk/articles/trump-said-iran-bombing-la-200932000.html",
+        "image": "https://www.bing.com/th?id=ONUT.7j2O-11GyzDvA4EAAa8CYA",
+        "timestamp": 1791320909.123425
+    },
+    {
+        "id": "28fd9db8c6",
+        "title_fa": "دو مبارز عرب برای دموکراسی، درس‌هایی برای آمریکا",
+        "title_en": "Two Arab Fighters for Democracy Have Lessons for America",
+        "summary": [
+            "سمر سینی‌لاوی، فعال دموکراسی فلسطینی، تجربهٔ مقاومت در شرق اورشلیم را به آمریکایی‌ها می‌گوید.",
+            "او می‌گوید موفقیت‌های کوچک می‌تواند الگوی تغییر در جوامع سرکوب‌شده باشد."
+        ],
+        "impact": "تأثیر محدود بر گفت‌وگوی عمومی آمریکا؛ احتمال افزایش حمایت از جنبش‌های دموکراتیک خاورمیانه.",
+        "tag": "دموکراسی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/06/opinion/middle-east-democracy-iran-us-yemen.html",
+        "clean_url": "https://www.nytimes.com/2026/10/06/opinion/middle-east-democracy-iran-us-yemen.html",
+        "image": "https://www.bing.com/th?id=ONUT.sCLMod6C_uwbyfMrVKZHAg",
+        "timestamp": 1791320909.1225522
+    },
+    {
         "id": "7aa66f5086",
         "title_fa": "استرالیا باید با ایران مقابله کند: اولویت خاورمیانه",
         "title_en": "Australia’s Middle East priority should be working with those that can counter Iran",
@@ -168,6 +203,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2ZFQnNmdE8wMGsyUElSa2dwLXdfMU8tcE9CN0tQb1R1NUhidk1PczMxRl9QbFA1U19DUFlyQWw4VUo2YVhGcWxzSzBvMU5TSFdZRjRYMG5LLUxRSThaLWRIaGpXd2lwNldxQWdEUklmNWROdXFZNnpYdG5uYklpdUlDeDRZNFBXNlVlVmwzODhDWTdwcVVjNzNaeldzdlZ4VkhFOG1meGbSAa4BQVVfeXFMTmEtUFg4NEU1UXgyRXRUdHhoSDhEMzhKQkExU0dvaFBBbFprQUNxcDZ6U1h0aUtOZUlMNlliUkswYXNZVWhuZWVfQmhuS0xSaWdsMlJ0M3VIbmR5Qkc5TzZaSFdtWTBVb1BWQUV6RG5QRUwyWGMzM2VOcEQ1QkxDekw1SnJyNmppdjBLOTEzSXRQOHgyWXhQLWRXeGhwdWtBYWwzRXVUYzh0ZUlqbjFR",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791298189.0
+    },
+    {
+        "id": "7339ce42b3",
+        "title_fa": "ترامپ: بگذارید ایران لس آنجلس را بمباران کند",
+        "title_en": "‘Let ’em take out Los Angeles’: Trump’s Iran remarks ignite backlash",
+        "summary": [
+            "در یک تجمع در نبراسکا، ترامپ گفت قربانی کردن شهرهای آمریکایی هزینهٔ کوچکی برای پایان جنگ است.",
+            "اظهارات او واکنش‌های سرسختانهٔ گاورین نیوسام و کارن باس را برانگیخت؛ مقامات محلی او را «خطرناک» توصیف کردند.",
+            "سفارت‌خانه آمریکا اعلام کرد ترامپ در حال توجیه مداخلهٔ نظامی در جنگ ایران نیست، بلکه به پیشگیری از دسترسی ایران به سلاح هسته‌ای اشاره می‌کند.",
+            "این سخنرانی باعث تشدید تنش‌های داخلی و افزایش فشار بر مقامات امنیتی می‌شود."
+        ],
+        "impact": "افزایش اضطراب امنیتی داخلی و تقویت روایت‌های ضد‑ایرانی در فضای سیاسی آمریکا.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610066353",
+        "clean_url": "https://www.iranintl.com/en/202610066353",
+        "image": "http://www.bing.com/th?id=ONUT.AWXw6l0qtZvQAg_Joa51-A&pid=News",
+        "timestamp": 1791295200.0
     },
     {
         "id": "737ee759c7",
@@ -572,6 +627,25 @@
         "clean_url": "https://www.crescent-news.com/opinion/opinion_columnists/larry-elder---cnn-biased-against-trump-surely-you-jest/article_6a6a1402-5b14-4e81-a7df-fa7cef1f7458.html",
         "image": "https://bloximages.newyork1.vip.townnews.com/crescent-news.com/content/tncms/assets/v3/editorial/b/ab/babf1996-3921-11ed-9a87-dbb3771b4700/632a20d2695aa.image.jpg",
         "timestamp": 1791248400.0
+    },
+    {
+        "id": "c78f0db4ee",
+        "title_fa": "ترامپ: استعفای وزیر نفت، فشار شدید بر اقتصاد ایران",
+        "title_en": "Trump says oil minister's resignation proves Iran economy under severe strain",
+        "summary": [
+            "ترامپ با اشاره به استعفای وزیر نفت ایران و تورم نزدیک به ۳۰۰٪، ادعا کرد اقتصاد ایران در حال فروپاشی است.",
+            "او افزود که حجم نفت عبوری از تنگه هرمز در روزهای اخیر از سطوح پیش از جنگ فراتر رفته و «ما عملکرد خوبی داشته‌ایم».",
+            "این اظهارات سعی دارد فشار اقتصادی را به عنوان توجیهی برای ادامه تحریم‌ها و حضور نظامی آمریکا ارائه دهد."
+        ],
+        "impact": "تقویت فشارهای اقتصادی بین‌المللی بر ایران و تضعیف موقعیت مذاکرات هسته‌ای.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610062289",
+        "clean_url": "https://www.iranintl.com/en/202610062289",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/df18a40d717e28f603c1fab81782bee3e2a8714b-964x691.jpg?rect=0,93,964,506&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1791245520.0
     },
     {
         "id": "5a2624b5a6",
@@ -5443,80 +5517,5 @@
         "clean_url": "https://www.iranintl.com/202610034789",
         "image": "http://www.bing.com/th?id=ONUT.4Movub8zgajJZ8WN5d4wCQ&pid=News",
         "timestamp": 1790962860.0
-    },
-    {
-        "id": "a4f44cc2a3",
-        "title_fa": "چاقو زدن به خلبان؛ تنش‌های منطقه‌ای تشدید می‌شود",
-        "title_en": "Pilot stabbing further unsettles region shaken by U.S.-Iran war",
-        "summary": [
-            "یک خلبان در منطقه‌ای که تحت تأثیر جنگ آمریکا‑ایران است، مورد حمله چاقو قرار گرفت",
-            "این حادثه نگرانی‌های امنیتی را درباره تهدیدهای شخصی در فضای هوایی افزایش می‌دهد"
-        ],
-        "impact": "حوادث مشابه می‌توانند به کاهش اعتماد به امنیت پروازی در منطقه منجر شوند",
-        "tag": "امنیت",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlpEWFg0N2tsR1ROY1duSXdGTTJsdGtVUzVBVC02QzZPYm5vZk02VEFESFp4eVFOcklZb0JTV1lLUm9nZmE1TkNYcjlFbS1xUnZHQUYzMkphS0k2X2t0Q3JleWI1YlVmckhvLVZVc2UwYmNlTUlTMVh2Z3h1bnlnOEVZdHpCYnEtMnNGcVNFamRqb0VOQ3g0RzZPY0hKQdIBowFBVV95cUxNUG9xbHZJN0dzb3lOcUNyaG15M2VWUmxHNkk5OE5md0VudnJUdDNfSW01OXdlcnM3OXB0Q1l6bHh6NE5oS1VyV3hzcUdmWkdCeHhxQmMyMVN6WjZJOEhjM3YxNUY1ZEZMUlFLVEVOVm5DVkZ3ZFNpejQzQ2pIcExrTmgyZTJjbHRNbC1nWWlOZUhxVHNoMzMtejlJNmctOXRKUndB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlpEWFg0N2tsR1ROY1duSXdGTTJsdGtVUzVBVC02QzZPYm5vZk02VEFESFp4eVFOcklZb0JTV1lLUm9nZmE1TkNYcjlFbS1xUnZHQUYzMkphS0k2X2t0Q3JleWI1YlVmckhvLVZVc2UwYmNlTUlTMVh2Z3h1bnlnOEVZdHpCYnEtMnNGcVNFamRqb0VOQ3g0RzZPY0hKQdIBowFBVV95cUxNUG9xbHZJN0dzb3lOcUNyaG15M2VWUmxHNkk5OE5md0VudnJUdDNfSW01OXdlcnM3OXB0Q1l6bHh6NE5oS1VyV3hzcUdmWkdCeHhxQmMyMVN6WjZJOEhjM3YxNUY1ZEZMUlFLVEVOVm5DVkZ3ZFNpejQzQ2pIcExrTmgyZTJjbHRNbC1nWWlOZUhxVHNoMzMtejlJNmctOXRKUndB",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790962750.0
-    },
-    {
-        "id": "f1241a5766",
-        "title_fa": "ترامپ می‌گوید ایران وضعیت خوبی ندارد؛ اقدام آینده ناشناخته",
-        "title_en": "US-Israel-Iran war latest live news: Trump says Iran 'not doing well', hints at upcoming US action as he keeps details of next move secret",
-        "summary": [
-            "ترامپ به‌صورت عمومی گفت ایران «خوب پیش نمی‌رود»",
-            "جزئیات برنامه‌های بعدی او مخفی مانده و احتمال اقدام مخفیانه وجود دارد",
-            "بیان این نظر نشانگر آمادگی آمریکا برای فشار بیشتر بر تهران است"
-        ],
-        "impact": "احتمال افزایش فشار نظامی یا اقتصادی آمریکا بر ایران در کوتاه‌مدت",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-trump-says-iran-not-doing-well-hints-at-upcoming-us-action-as-he-keeps-details-of-next-move-secret/ar-AA2du9uT?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-trump-says-iran-not-doing-well-hints-at-upcoming-us-action-as-he-keeps-details-of-next-move-secret/ar-AA2du9uT",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790962594.0
-    },
-    {
-        "id": "f1785cd6d0",
-        "title_fa": "ریال در حال سقوط؛ مردم به دنبال پناهگاه‌های مالی",
-        "title_en": "As the rial sinks, Iranians seek shelter in almost anything else",
-        "summary": [
-            "قیمت ریال به شدت کاهش یافته و مردم برای حفظ ارزش دارایی‌های خود به ارزهای خارجی و طلا روی آورده‌اند",
-            "کاهش ارزش پول ملی فشار بر هزینه‌های زندگی را به حدی بحرانی رسانده"
-        ],
-        "impact": "تورم شدید می‌تواند باعث کاهش قدرت خرید و ناآرامی‌های اجتماعی شود",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "iranintl.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abTJ5SmczbVpWdkVRcHVfaklkV0F4OEtWTlVmZW9kMFBUaTdXWFp3ZlBkbG9HOGFMTXVjT1hSTm5fMjVWdENDbnN0Yk5HT1NvbWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9abTJ5SmczbVpWdkVRcHVfaklkV0F4OEtWTlVmZW9kMFBUaTdXWFp3ZlBkbG9HOGFMTXVjT1hSTm5fMjVWdENDbnN0Yk5HT1NvbWc",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790960340.0
-    },
-    {
-        "id": "671fdb634c",
-        "title_fa": "ایران: از تکرار خطاهای گذشته بپرهیزید",
-        "title_en": "Iran: Don’t Repeat the Mistakes of the Past",
-        "summary": [
-            "نویسنده هشدار می‌دهد که ایالات متحده ممکن است دوباره به استراتژی‌های قدیمی علیه ایران بازگردد",
-            "تاکید بر این است که تکرار فشارهای نظامی و اقتصادی می‌تواند منجر به تشدید تنش‌های منطقه‌ای شود",
-            "پیشنهاد می‌شود دیپلماتیک‌ترین مسیر برای حل اختلافات انتخاب شود",
-            "اگر آمریکا به خطاهای قبلی بازگردد، ریسک برخورد مستقیم افزایش می‌یابد"
-        ],
-        "impact": "افزایش خطر برخورد نظامی یا تحریم‌های جدید علیه ایران",
-        "tag": "سیاست",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Blogs | The Times of Israel",
-        "url": "https://blogs.timesofisrael.com/iran-dont-repeat-the-mistakes-of-the-past/",
-        "clean_url": "https://blogs.timesofisrael.com/iran-dont-repeat-the-mistakes-of-the-past",
-        "image": "https://www.bing.com/th?id=ONUT.BSeolc6s1rLUlsPzegA0BQ",
-        "timestamp": 1790958847.828634
     }
 ]
