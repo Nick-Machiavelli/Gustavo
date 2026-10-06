@@ -1,5 +1,23 @@
 [
     {
+        "id": "b86ecc1791",
+        "title_fa": "حوثی‌ها هدف فرودگاه ریاض؛ ترامپ ایران را مقصر می‌داند",
+        "title_en": "Houthis target Riyadh airport, Aramco refinery as Saudi-led coalition strikes Yemen",
+        "summary": [
+            "حوثی‌ها به فرودگاه ریاض و پالایشگاه آرامکو حمله کردند.",
+            "ترامپ در مصاحبه ادعا کرد ایران پشت حملهٔ هواپیمای FlyDubai است."
+        ],
+        "impact": "تشدید تنش‌های منطقه‌ای و احتمال پاسخ نظامی گسترده.",
+        "tag": "حمله",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-trump-oil-strait-hormuz-terrorism-october-5",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-trump-oil-strait-hormuz-terrorism-october-5",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/d192d649a8f08b2a0ee938666bdc81b0.jpg",
+        "timestamp": 1791249000.0
+    },
+    {
         "id": "5dfb74e42f",
         "title_fa": "بومباردهای آمریکایی از پایگاه فیرفورد به‌سرعت عقب‌نشینی کردند",
         "title_en": "MARK ALMOND: This Fairford farce has put another nail in the coffin of US-British relations",
@@ -110,6 +128,24 @@
         "timestamp": 1791230266.0
     },
     {
+        "id": "541a296e4a",
+        "title_fa": "جغرافیای جنگ؛ مسدودیت‌های خلیج خاورمیانه را بازنگری می‌کند",
+        "title_en": "War Is Forcing the World to Reckon With Geography's Power",
+        "summary": [
+            "مقاله نیویورک تایمز به تأثیر جغرافیای خلیج بر زنجیره‌های تجاری اشاره کرد.",
+            "مسدودیت‌های دریایی نشان دادند که فناوری نمی‌تواند مانع جغرافیا شود."
+        ],
+        "impact": "کشورهای منطقه باید استراتژی‌های لجستیکی خود را بازنگری کنند.",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
+        "clean_url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
+        "image": "https://static01.nyt.com/images/2026/10/02/business/00geographys-revenge/00geographys-revenge-facebookJumbo.jpg",
+        "timestamp": 1791224940.0
+    },
+    {
         "id": "57ebf72cf1",
         "title_fa": "رئیس‌جمهور ایران مذاکرات با آمریکا را بی‌معنی می‌داند",
         "title_en": "Iran president says talks with US ‘meaningless’",
@@ -126,6 +162,78 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2tWdU43cVo5NWNydG5FMER0WGZubjVJYUI0UjJHazBiZTZqbkJjREJTV05xRjRac3JCNnJHNVFNUXhGQThXZS1LN01yc2lwSG5ZajVGVzlZRHFjS3JqNjRidTZfUUExS2FlNTdBbVp3dGtSRjd6MnJxaTRNaXZCYWNsaU1wY0QxVlRsUy1FMEtxSGdwYVE",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791224039.0
+    },
+    {
+        "id": "05bef978a9",
+        "title_fa": "ترامپ پیش‌بینی کرد جنگ ایران به‌زودی پایان می‌یابد",
+        "title_en": "ترامپ: جنگ ایران به‌زودی به هر شکلی که باشد پایان می‌یابد",
+        "summary": [
+            "ترامپ در نبراسکا گفت جنگ ایران «به‌زودی» به هر شکل پایان می‌یابد.",
+            "او ادعا کرد هزینه‌های جنگ «بهای اندکی» برای امنیت جهانی است."
+        ],
+        "impact": "بیان این‌گونه می‌تواند فشار دیپلماتیک بر ایران را تقویت کند.",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610066765",
+        "clean_url": "https://www.iranintl.com/202610066765",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791219600.0
+    },
+    {
+        "id": "3e31ed053e",
+        "title_fa": "تحریم هوایی؛ ایران به جابه‌جایی گردشگری زمینی می‌پردازد",
+        "title_en": "Iran says it will focus on land tourism after flight sanctions",
+        "summary": [
+            "تحریم‌های آمریکا پروازهای مسافری به عراق و آذربایجان را قطع کرد.",
+            "وزیر گردشگری برنامه‌ریزی برای جذب توریست‌های زمینی از مرزهای مشترک را اعلام کرد."
+        ],
+        "impact": "گردشگری زمینی افزایش می‌یابد، اما درآمد هوایی کاهش می‌یابد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610057513",
+        "clean_url": "https://www.iranintl.com/en/202610057513",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791217740.0
+    },
+    {
+        "id": "0cf1bdabd8",
+        "title_fa": "مسئول ارشد امنیت ملی: اقتصاد ایران به‌حالت بحرانی است",
+        "title_en": "Top Iranian official admits dire state of the economy: report",
+        "summary": [
+            "محسن رضایی، دبیر شورای امنیت ملی، وضعیت اقتصاد را «بحرانی» توصیف کرد.",
+            "او به جنگ و تحریم‌های آمریکا به‌عنوان عوامل اصلی اشاره کرد."
+        ],
+        "impact": "اعلام بحران می‌تواند واکنش‌های داخلی و بین‌المللی را تحریک کند.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Washington Examiner",
+        "url": "https://www.msn.com/en-us/news/other/top-iranian-official-admits-dire-state-of-the-economy-report/ar-AA2dC0Wk",
+        "clean_url": "https://www.msn.com/en-us/news/other/top-iranian-official-admits-dire-state-of-the-economy-report/ar-AA2dC0Wk",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dCEJ2.img?w=1024&h=682&m=4&q=100",
+        "timestamp": 1791217497.0
+    },
+    {
+        "id": "cb29078010",
+        "title_fa": "بمبافکن‌های آمریکا از بریتانیا خارج شد؛ تهدید ایران دلیل",
+        "title_en": "ترامپ: بمب‌افکن‌های آمریکا به‌دلیل تهدیدهای امنیتی از بریتانیا خارج شدند",
+        "summary": [
+            "ترامپ اعلام کرد ۱۲ بمبافکن B‑1 از پایگاه فرفورد بریتانیا منتقل شد.",
+            "دلیل گفته شده، تهدید احتمالی پهپادهای ایرانی بود."
+        ],
+        "impact": "کاهش حضور نظامی آمریکا در بریتانیا، نشان‌دهندهٔ تنش هوایی با ایران.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610051298",
+        "clean_url": "https://www.iranintl.com/202610051298",
+        "image": "http://www.bing.com/th?id=ONUT.PsuRK5HBbOx4a_wx_nyiag&pid=News",
+        "timestamp": 1791216180.0
     },
     {
         "id": "c19391b656",
@@ -333,6 +441,24 @@
         "timestamp": 1791203400.0
     },
     {
+        "id": "15b425659b",
+        "title_fa": "حمله به مدرسه میناَب؛ بنیان‌گذار آن همسر فرمانده سپاه بود",
+        "title_en": "IRGC commander says his wife founded Minab school hit in February strike",
+        "summary": [
+            "مدرسه میناَب که توسط همسر فرمانده سپاه تأسیس شد، در حملهٔ فوریه هدف شد.",
+            "این حمله نشان‌دهندهٔ هدف‌گیری زیرساخت‌های آموزشی سپاه در جنوب است."
+        ],
+        "impact": "آسیب به شبکهٔ مدارس سپاه، تضعیف مشروعیت نظام در مناطق جنوبی.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610067736",
+        "clean_url": "https://www.iranintl.com/en/202610067736",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/28cdb0dac8067fdb69cf48922ca86d55ea01fa33-632x421.jpg?w=576&h=384&q=58&fit=max&auto=format",
+        "timestamp": 1791202080.0
+    },
+    {
         "id": "5190bd5f16",
         "title_fa": "ایران امارات را دشمنی هم‌پیمان با آمریکا می‌داند",
         "title_en": "Iran Sees United Arab Emirates as an Enemy Alongside the United States and Israel",
@@ -456,6 +582,24 @@
         "clean_url": "https://www.iranintl.com/en/202610055192",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/e4f3108481c4ce649eddb249fa5307d157ba3108-800x528.jpg?rect=0,54,800,420&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791190320.0
+    },
+    {
+        "id": "66c69625b8",
+        "title_fa": "وزیر نفت ایران استعفا داد؛ تحریم‌ها و بحران اقتصادی فشار",
+        "title_en": "Iran's oil minister resigns as exports dry up due to US blockade and Tehran's economic crisis deepens",
+        "summary": [
+            "وزیر نفت جدیدی به‌عنوان هم‌سری با تحریم‌های هواپیمایی منصوب شد.",
+            "خروج نفت به‌دلیل تحریم‌ها و بحران ارزی، صادرات را به‌حداقل رسانده است."
+        ],
+        "impact": "کاهش درآمد نفتی، فشار بیشتر بر بودجه دولت.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "International Business Times",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-oil-minister-resigns-as-exports-dry-up-the-country-is-now-facing-an-economic-crisis-of-huge-proportions/ar-AA2dALJb",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-oil-minister-resigns-as-exports-dry-up-the-country-is-now-facing-an-economic-crisis-of-huge-proportions/ar-AA2dALJb",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dAYoS.img?w=1024&h=683&m=4&q=79",
+        "timestamp": 1791187261.0
     },
     {
         "id": "0f43c96cb8",
@@ -856,6 +1000,26 @@
         "clean_url": "https://www.iranintl.com/en/202610050152",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791164040.0
+    },
+    {
+        "id": "43cb4c5f48",
+        "title_fa": "اتاق وضعیت حزب حاکم برای حسابرسی پارلمانی",
+        "title_en": "Ruling party's situation room for parliamentary audit",
+        "summary": [
+            "جلسه‌ای برای بررسی عملکرد حزب در مجلس برگزار شد",
+            "رهبر حزب دموکراتیک و سرپرست‌های کلیدی در مراسم حضور داشتند",
+            "اقدام می‌تواند فشار داخلی برای شفافیت و اصلاحات را افزایش دهد",
+            "تأثیر عملی محدود است؛ رقیبان هنوز می‌توانند مانع پیشرفت شوند"
+        ],
+        "impact": "نظارت داخلی تقویت می‌شود اما تغییر اساسی در سیاست‌ها کم است",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "K-VIBE on MSN",
+        "url": "https://www.msn.com/en-us/news/other/ruling-partys-situation-room-for-parliamentary-audit/ar-AA2dDdVJ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/ruling-partys-situation-room-for-parliamentary-audit/ar-AA2dDdVJ",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791163759.0
     },
     {
         "id": "308e019a50",
@@ -5353,175 +5517,5 @@
         "clean_url": "https://www.iranintl.com/202610027970",
         "image": "http://www.bing.com/th?id=ONUT.PljsxW9YN5_ezhCGmaejUA&pid=News",
         "timestamp": 1790910780.0
-    },
-    {
-        "id": "1a22cb5fac",
-        "title_fa": "قاضی‌زاده: ادامه جمهوری هزینه‌بر برای جهان",
-        "title_en": "علی‌حسین قاضی‌زاده: بقای جمهوری اسلامی می‌تواند هزینه بیشتری برای جهان داشته باشد",
-        "summary": [
-            "قاضی‌زاده می‌گوید آمریکا برای سرنگونی ایران Ultimatum آماده می‌کند.",
-            "تحریم‌های جدید بر بانک‌های روسی و شبکه E7 فشار مالی بر ایران را افزاش می‌دهد."
-        ],
-        "impact": "افزایش فشار مالی بر ایران و احتمال بالا رفتن هزینه‌های جهانی انرژی.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610026345",
-        "clean_url": "https://www.iranintl.com/202610026345",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790909880.0
-    },
-    {
-        "id": "94aa1aae13",
-        "title_fa": "آلمان ماهوارهٔ شناسایی تهدیدهای هوایی را به‌مدار فرستاد",
-        "title_en": "شرکت صنایع دفاعی آلمان نخستین ماهواره خود را برای شناسایی تهدیدهای هوایی به مدار فرستاد",
-        "summary": [
-            "راینمتال با همکاری آرگوتک و موشک فالکون ۹ ماهواره‌ای برای شناسایی تهدیدهای هوایی پرتاب کرد.",
-            "هدف پروژه تقویت سامانه‌های پدافند هوایی و ارائهٔ داده‌های دقیق به نیروهای دفاعی است.",
-            "این پرتاب نشان‌دهندهٔ پیشرفت فناوری فضایی اروپا و همکاری‌های بین‌المللی است.",
-            "استفاده از فناوری‌های آمریکایی نشان‌دهندهٔ وابستگی محدود به منابع داخلی است."
-        ],
-        "impact": "بهبود توان شناسایی تهدیدهای هوایی برای آلمان و شرکای NATO.",
-        "tag": "فضا",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610020548",
-        "clean_url": "https://www.iranintl.com/202610020548",
-        "image": "http://www.bing.com/th?id=ONUT.bAkuLyguCe8I64FF9M2csA&pid=News",
-        "timestamp": 1790908860.0
-    },
-    {
-        "id": "5c0ad2a6c5",
-        "title_fa": "عبور LNG از هرمز به بالاترین سطح جنگ",
-        "title_en": "عبور محموله‌های ال‌ان‌جی از تنگه هرمز به بالاترین سطح از آغاز جنگ رسید",
-        "summary": [
-            "در سپتامبر ۱۹ محموله LNG از هرمز عبور کرد، بالاترین ماهانه از زمان آغاز جنگ.",
-            "تحلیل‌گران پیش‌بینی می‌کنند تا اکتبر ممکن است ۲۵٪ سطح پیش‌جنگ بازگردد."
-        ],
-        "impact": "ادامه تأمین انرژی جهانی و فشار بر تحریم‌های اقتصادی.",
-        "tag": "انرژی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610022979",
-        "clean_url": "https://www.iranintl.com/202610022979",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790908080.0
-    },
-    {
-        "id": "81fd3b968e",
-        "title_fa": "ایالات متحده مکانیسم جدیدی را برای نظارت بر تحریم‌ها علیه ایران ایجاد می‌کند - The National",
-        "title_en": "US pushes new mechanism to monitor sanctions against Iran — The National",
-        "summary": [
-            "The United States is promoting an independent multilateral mechanism to monitor Iran sanctions after Russia and China blocked an extension of the UN expert panel's mandate."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "UA.NEWS",
-        "url": "https://ua.news/en/world/ssha-prosuvaiut-novii-mekhanizm-kontroliu-sanktsii-proti-iranu-the-national",
-        "clean_url": "https://ua.news/en/world/ssha-prosuvaiut-novii-mekhanizm-kontroliu-sanktsii-proti-iranu-the-national",
-        "image": "https://cdn-cabinet.ua.news/uploads/images/us_new_mechanism_monitor_iran_sanctions_1790944072773.webp",
-        "timestamp": 1790904420.0
-    },
-    {
-        "id": "5975fd32e7",
-        "title_fa": "سومین ناو هواپیمابر آمریکا به خاورمیانه اعزام شد",
-        "title_en": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
-        "summary": [
-            "ایالات متحده ناو هواپیمابر سوم خود را به خلیج فارس فرستاد",
-            "این حرکت پس از بن‌بست در عملیات نظامی علیه ایران انجام شد",
-            "حضور ناوها نشان‌دهنده تمایل آمریکا به ادامه فشار نظامی است",
-            "ریسک تصاعد درگیری مستقیم با نیروی دریایی ایران افزایش یافت"
-        ],
-        "impact": "افزایش تهدید نظامی برای ایران، احتمال برخورد مستقیم در آب‌های خلیج",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG1vM25faW5LcklvY082VWw2bHJ2MFdzR1NRekV1TzI2SzloOTFrZGhPTEVyWlY4bGpiRXprNWVhTUxqbF8zc3pxNGFFZzJIalNteWs5UV9oWkI3V1dBX2hjckVwejBiZmtSVnFTUUVVeFdGS19nZE9kOVB4OTUwUUcxOWZzY25FWXJPNXg3WGprdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG1vM25faW5LcklvY082VWw2bHJ2MFdzR1NRekV1TzI2SzloOTFrZGhPTEVyWlY4bGpiRXprNWVhTUxqbF8zc3pxNGFFZzJIalNteWs5UV9oWkI3V1dBX2hjckVwejBiZmtSVnFTUUVVeFdGS19nZE9kOVB4OTUwUUcxOWZzY25FWXJPNXg3WGprdw",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790903974.0
-    },
-    {
-        "id": "e34a778435",
-        "title_fa": "ایران از بازدید نتانیاهو در امارات هشدار داد",
-        "title_en": "Iran's rhetoric against UAE hardens after Netanyahu visit",
-        "summary": [
-            "نتانیاهو به امارات سفر کرد؛ ایران آن را تهدیدی برای منطقه می‌داند",
-            "وزیر خارجه ایران خطرات حضور اسرائیل در خلیج را اعلام کرد",
-            "سخن‌سار امنیت ملی هشدار داد میزبانی «قاطع گازا» امنیت امارات را نمی‌آورد"
-        ],
-        "impact": "احتمال تشدید تنش‌های خلیج و کاهش همکاری‌های اقتصادی امارات با ایران",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610013501",
-        "clean_url": "https://www.iranintl.com/en/202610013501",
-        "image": "http://www.bing.com/th?id=ONUT.LuZz5aCwLzNRhzLtDimg3A&pid=News",
-        "timestamp": 1790902800.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "هشدار تیراندازی ۸۹ کشته در مدرسه ایتالیایی",
-        "title_en": "\"There will be a shooting with 89 victims\": massacre alarm at Amaldi high school in Tor Bella Monaca, student and mother's reports decisive",
-        "summary": [
-            "پیام تهدیدی با وعده ۸۹ کشته در مدرسه آمادِی منتشر شد",
-            "پلیس پس از بررسی خطر را رد کرد و کلاس‌ها عادی ادامه یافت"
-        ],
-        "impact": "نگرانی عمومی در مدارس ایتالیا؛ نیاز به بررسی امنیتی بیشتر",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261003KRONOS-202610121444259056_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "timestamp": 1790899140.0
-    },
-    {
-        "id": "9225faba23",
-        "title_fa": "آمریکا گروه سوم ناو هواپیمابر را به خاورمیانه می‌فرستد؛ ترامپ تهدید به حملات جدید می‌کند",
-        "title_en": "US to send third carrier group to Mideast as Trump warns of new Iran strikes",
-        "summary": [
-            "واحد سوم ناوهای هواپیمابر ایالات متحده به خاورمیانه اعزام می‌شود.",
-            "ترامپ به‌احتمال بازگشت به بمباران ایران پس از انتخابات می‌پردازد.",
-            "این حرکت نشان‌دهندهٔ تشدید فشار نظامی آمریکا بر ایران است.",
-            "احتمال برخورد مستقیم نظامی بین دو کشور در آینده نزدیک افزایش می‌یابد."
-        ],
-        "impact": "افزایش فشار نظامی آمریکا بر ایران و احتمال برخورد مستقیم.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "CNBC on MSN",
-        "url": "https://www.msn.com/en-us/money/markets/us-to-send-third-carrier-group-to-mideast-as-trump-warns-of-new-iran-strikes/ar-AA2dp3YN",
-        "clean_url": "https://www.msn.com/en-us/money/markets/us-to-send-third-carrier-group-to-mideast-as-trump-warns-of-new-iran-strikes/ar-AA2dp3YN",
-        "image": "http://www.bing.com/th?id=ONUT.aXcPMKr8rTPF9pUvGHsYFA&pid=News",
-        "timestamp": 1790898701.0
-    },
-    {
-        "id": "9a943574b1",
-        "title_fa": "دانیل دیل، ادعای نادرست ترامپ درباره مدت جنگ ایران",
-        "title_en": "CNN’s Daniel Dale Dissects Trump’s ‘Most Self-Damaging Lies’ in Fact Check of a Day’s Worth of Posts",
-        "summary": [
-            "دیل نشان داد ترامپ ادعا کرد جنگ ایران حداکثر شش هفته طول می‌کشد",
-            "این اظهارات با برنامه‌های نظامی واقعی ناسازگار است",
-            "ترامپ سعی دارد تصویر پیروزی سریع را به مخاطبان بدهد",
-            "فاکت‌چک نشان داد این ادعا بی‌پایه و اساس است"
-        ],
-        "impact": "کاهش اعتماد عمومی به سخنان ترامپ، فشار بر دولت برای شفاف‌سازی",
-        "tag": "اطلاعات",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/cnn-daniel-dale-dissects-trump-230708897.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/cnn-daniel-dale-dissects-trump-230708897.html",
-        "image": "https://www.bing.com/th?id=ONUT._WJ8duXavxLzl7kMhRo2Sw",
-        "timestamp": 1790898351.4117026
     }
 ]
