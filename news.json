@@ -228,6 +228,25 @@
         "timestamp": 1791313215.0
     },
     {
+        "id": "c0b910b882",
+        "title_fa": "هوبری آمریکا خطر بازگشت به توافق را افزایش می‌دهد",
+        "title_en": "Don't let hubris get in the way of ending the Iran war",
+        "summary": [
+            "ایران پس از امضای تفاهم‌نامه برای بازگشایی هرمز، ناگهان کشتی‌های نفتی را هدف حمله کرد تا نفوذ خود را حفظ کند.",
+            "آمریکا با فشار بر مسیرهای عبور کشتی‌ها و تحریم‌های سنگین، اقتصاد ایران را خفه کرده ولی صادرات نفتی را به سطوح پیش‌جنگ برگردانده است.",
+            "داده‌های JPMorgan و Goldman Sachs نشان می‌دهد حملات نفتی به‌زودی اثر خود را از دست می‌دهند و ایران به دنبال تسریع اجرای تفاهم‌نامه است."
+        ],
+        "impact": "تسریع اجرای تفاهم‌نامه می‌تواند فشار تحریمی آمریکا را کاهش داده و جریان نفت را تثبیت کند.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "The Korea Times",
+        "url": "https://www.koreatimes.co.kr/opinion/20261007/dont-let-hubris-get-in-the-way-of-ending-the-iran-war",
+        "clean_url": "https://www.koreatimes.co.kr/opinion/20261007/dont-let-hubris-get-in-the-way-of-ending-the-iran-war",
+        "image": "https://www.koreatimes.co.kr/images/logo_1200x1200.png",
+        "timestamp": 1791312060.0
+    },
+    {
         "id": "33c7994f91",
         "title_fa": "تحلیل ژئوپولیتیک ۶ اکتبر: فشار اقتصادی بر ایران",
         "title_en": "Gustavo de Arístegui: Geopolitical Analysis of October 6",
@@ -5513,23 +5532,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3ZFUk1PaVIxUXpiWVR4dnFzdm5JaDNlZmVkSFQxUlVYck4tOUNnQnJadzVyMFoteE1rOEJOdkRUWVpLRlgwci10MmVUZDg1UUdpcGVkNDhZVTBaMzJGX056UVFsYjdDdGo4ZFdkNTVDQnhEd1JXNnl3ajQtT0swM3owdHpVOUxKb2E0d3M2Mmg1WC15LV80",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1790980022.0
-    },
-    {
-        "id": "593a6b5fad",
-        "title_fa": "زِلنسکی: پوتین شرایط جدید آمریکا را می‌پذیرد؟",
-        "title_en": "Zelenskyy warns Putin tries to impose new conditions on US",
-        "summary": [
-            "زِلنسکی هشدار داد مسکو از هر گونه توافق جدید با آمریکا برای فشار بر اوکراین استفاده خواهد کرد.",
-            "او تأکید کرد که تلاش‌های دیپلماتیک روسیه صرفاً تضعیف حمایت‌های غربی است."
-        ],
-        "impact": "این اظهارات می‌تواند مذاکرات بین‌المللی درباره جنگ اوکراین را پیچیده‌تر کند.",
-        "tag": "روسیه",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "RBC Ukraine on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/zelenskyy-warns-putin-tries-to-impose-new-conditions-on-us/ar-AA2dvp1m?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/zelenskyy-warns-putin-tries-to-impose-new-conditions-on-us/ar-AA2dvp1m",
-        "image": "https://www.bing.com/th?id=ONUT.vY4dY8Uu1VLPzb3O94xVwA",
-        "timestamp": 1790979640.0
     }
 ]
