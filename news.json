@@ -1,5 +1,43 @@
 [
     {
+        "id": "df63bc9414",
+        "title_fa": "تانکرهای ایرانی در آب‌های سیشلی نزدیک به ساحل",
+        "title_en": "Iranian tankers and navigating with a moral compass",
+        "summary": [
+            "حدود ۱۹ تانکر ایرانی از اوت ۲۰۲۶ در ۱۵ مایل دریایی سیشلی مستقر هستند",
+            "این کشتی‌ها خالی از بار هستند و احتمالاً برای مخفی‌سازی مسیرهای نفتی استفاده می‌شوند",
+            "حضور مداوم آن‌ها فشار بین‌المللی بر تحریم‌های نفتی را نشان می‌دهد"
+        ],
+        "impact": "حضور تانکرها می‌تواند مسیرهای غیرقانونی انتقال نفت را برای مدت طولانی حفظ کند",
+        "tag": "دریایی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "The Island",
+        "url": "https://island.lk/iranian-tankers-and-navigating-with-a-moral-compass/",
+        "clean_url": "https://island.lk/iranian-tankers-and-navigating-with-a-moral-compass",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791334595.4731667
+    },
+    {
+        "id": "b0ea28d9c1",
+        "title_fa": "جنگ دوم علیه ایران؟ تحلیل نتانیاهو",
+        "title_en": "A second war on Iran?",
+        "summary": [
+            "نتانیاهو به احتمال حمله نظامی به برنامه هسته‌ای ایران اشاره کرد",
+            "او معتقد است آمریکا باید فشار نظامی را حفظ کند تا مذاکرات جدی شود",
+            "این موضع می‌تواند روابط اسرائیل‑ایران را به نقطه انفجار برساند"
+        ],
+        "impact": "تهدیدات نظامی نتانیاهو می‌تواند تنش‌های خاورمیانه را به اوج برساند",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Ahram Online",
+        "url": "https://english.ahram.org.eg/NewsContentP/50/578376/AlAhram-Weekly/A-second-war-on-Iran.aspx",
+        "clean_url": "https://english.ahram.org.eg/NewsContentP/50/578376/AlAhram-Weekly/A-second-war-on-Iran.aspx",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791334595.472916
+    },
+    {
         "id": "a02e2957e6",
         "title_fa": "ترامپ ادعا کرد جنگ ایران هشت ماه پیش تمام شد",
         "title_en": "Trump, 80, Claims Iran War Ended Eight Months Before He Started It",
@@ -190,6 +228,26 @@
         "timestamp": 1791313215.0
     },
     {
+        "id": "33c7994f91",
+        "title_fa": "تحلیل ژئوپولیتیک ۶ اکتبر: فشار اقتصادی بر ایران",
+        "title_en": "Gustavo de Arístegui: Geopolitical Analysis of October 6",
+        "summary": [
+            "نرخ ارز ریال به رکورد تاریخی رسیده و تورم سالانه حدود ۹۰٪ است",
+            "تحریم‌های دریایی آمریکا باعث سقوط صادرات نفتی و استعفای وزیر نفت شد",
+            "مذاکرات قطر و پاکستان برای حفظ کانال ارتباطی میان‌المللی ادامه دارد",
+            "پیش‌بینی‌ها نشان می‌دهد انتخابات آمریکا می‌تواند مسیر تحولات منطقه‌ای را تغییر دهد"
+        ],
+        "impact": "فشار ترکیبی اقتصادی و نظامی می‌تواند به فروپاشی مالی رژیم منجر شود",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Atalayar",
+        "url": "https://www.atalayar.com/en/opinion/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-october-6/20261006194054229716.html",
+        "clean_url": "https://www.atalayar.com/en/opinion/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-october-6/20261006194054229716.html",
+        "image": "https://www.atalayar.com/media/atalayar/images/2026/10/06/2026100619402136090.webp",
+        "timestamp": 1791308400.0
+    },
+    {
         "id": "1b9406b414",
         "title_fa": "ترامپ: ایران لس آنجلس و سن دیگو را هدف بگیرد",
         "title_en": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
@@ -244,6 +302,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/is-that-where-we-are-joe-scarborough-can-t-believe-trump-s-killing-comment/ar-AA2dGdut",
         "image": "https://www.bing.com/th?id=ONUT.FkDnbvvzDulzdGFNtOrF4Q",
         "timestamp": 1791303003.3099058
+    },
+    {
+        "id": "75ec76750d",
+        "title_fa": "هفت‌امین مظنون حمله به پایگاه فرفورد بازداشت شد",
+        "title_en": "پلیس بریتانیا هفتمین مظنون طرح احتمالی حمله به پایگاه فرفورد را بازداشت کرد",
+        "summary": [
+            "پلیس بریتانیا مرد ۲۲ ساله بریتانیایی را به تدارک حمله در وست‌مینستر بازداشت کرد",
+            "این پرونده به حضور بمبافکن‌های آمریکایی در فرفورد و نقش احتمالی ایران اشاره دارد",
+            "پنج بازداشت قبلی نیز در این تحقیق انجام شده بود"
+        ],
+        "impact": "بازداشت بیشتر مظنونان می‌تواند مانع برنامه‌ریزی حمله واقعی علیه پایگاه آمریکایی شود",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610064576",
+        "clean_url": "https://www.iranintl.com/202610064576",
+        "image": "http://www.bing.com/th?id=ONUT.rtQA0yV8rPme6dlbsIjDVg&pid=News",
+        "timestamp": 1791302220.0
     },
     {
         "id": "85797607dd",
@@ -475,6 +552,25 @@
         "timestamp": 1791284520.0
     },
     {
+        "id": "c79d83af2c",
+        "title_fa": "سینت‌کام ۱۳ کشتی تجاری را نابود کرد",
+        "title_en": "CENTCOM Destroys 13 Vessels and Reroutes 130 Ships Enforcing Maritime Blockade on Iran",
+        "summary": [
+            "نیروی‌های آمریکا در ۱۲ هفته ۱۳ کشتی را تخریب و ۱۳۰ کشتی را مسیرشان را تغییر دادند",
+            "هدف مسدود کردن شبکه مخفی مالی IRGC بود",
+            "فرمانده مرکز عملیات، براد کوپر، اعلام کرد که هر نقضی به سرعت سرکوب می‌شود"
+        ],
+        "impact": "مسدودسازی دریایی فشار اقتصادی بر ایران را به اوج می‌رساند و توان مالی IRGC را تضعیف می‌کند",
+        "tag": "دریایی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "IranWire",
+        "url": "https://iranwire.com/en/news/158535-centcom-destroys-13-vessels-and-reroutes-130-ships-enforcing-maritime-blockade-on-iran/",
+        "clean_url": "https://iranwire.com/en/news/158535-centcom-destroys-13-vessels-and-reroutes-130-ships-enforcing-maritime-blockade-on-iran",
+        "image": "https://static.prod.iranwire.com/_versions_jpeg/articleslide/1536x864_cmsv2_9a6119df-c6c4-5076-9d54-cddc11fc7f67-9794294_lTen__v1024x512__box_0,29,1536,836.jpeg",
+        "timestamp": 1791280320.0
+    },
+    {
         "id": "b8e09290b3",
         "title_fa": "ترامپ می‌گوید ایران می‌تواند لس‌آنجلس را هدف بگیرد",
         "title_en": "Trump suggests he would let Iran ‘take out’ Los Angeles or San Diego",
@@ -567,6 +663,25 @@
         "timestamp": 1791272145.0
     },
     {
+        "id": "0e4e9b6df2",
+        "title_fa": "قانون‌گذار: دولت نباید امید مردم را بگیرد",
+        "title_en": "Iran lawmaker says officials must not dash public hopes amid economic hardship",
+        "summary": [
+            "نماینده مجلس نوین به بحران تورم و قیمت‌ها اشاره کرد",
+            "او معتقد است مردم وفادار به انقلاب اصلی‌ترین سرمایه کشور هستند",
+            "هشدار داد که از دست دادن امید می‌تواند ناآرامی ایجاد کند"
+        ],
+        "impact": "بیان این نگرانی می‌تواند فشار داخلی برای اصلاحات اقتصادی را افزایش دهد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610065264",
+        "clean_url": "https://www.iranintl.com/en/202610065264",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791270900.0
+    },
+    {
         "id": "84d425d323",
         "title_fa": "خشم در کالیفرنیا پس از اینکه ترامپ پیشنهاد کرد ایران می‌تواند لس آنجلس یا سن دیگو را \"خروج\" کند.",
         "title_en": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
@@ -620,6 +735,25 @@
         "timestamp": 1791267720.0
     },
     {
+        "id": "5737bedb5b",
+        "title_fa": "ساده‌گی سدهی فروش نفت IRGC به روسیه",
+        "title_en": "IRGC commander, son helped build new oil-sales network",
+        "summary": [
+            "حسین‌رضا صادقی و پسرش سامانه انتقال درآمدهای نفتی تحریم‌شده را از امارات به روسیه منتقل کردند",
+            "بانک مرکزی مسیر جدیدی برای بازگرداندن ۱٫۵ میلیارد دلار پیدا کرد",
+            "استعفای وزیر نفت پس از این گزارش رخ داد"
+        ],
+        "impact": "تغییر مسیر مالی به روسیه فشار تحریم‌ها را کاهش می‌دهد و منابع مالی رژیم را تقویت می‌کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610060772",
+        "clean_url": "https://www.iranintl.com/en/202610060772",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/ab41333178f85f428da4efb4f3a87ae9746d635d-1024x576.png?rect=0,19,1024,538&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1791261660.0
+    },
+    {
         "id": "efe9d2b3b8",
         "title_fa": "قاضی‌زاده: تنگه هرمز از مذاکرات ترامپ حذف شد",
         "title_en": "علی‌حسین قاضی‌زاده: ترامپ تنگه هرمز را از روی میز مذاکره برداشته است",
@@ -653,6 +787,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVlaUmNHUF9jYnhFb0pRZzdLVTNYaEVtRlhDdVhlWldiTXpiUnc5YWlBQjBUTGlUeDVHVkF3Qk9pSml6dHVHM0JmdmMwMlU1QlZzUnlwd2l5MUlGTjM4VkJBcGo0cC0yYXZSRU5YMXZMdTNLUVVlRWFUZVBJRk9udDVyWWxGM1ZzT1E",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791259305.0
+    },
+    {
+        "id": "7cae1923d9",
+        "title_fa": "دستورات بالادستی سرکوب اعتراضات 2022 فاش شد",
+        "title_en": "How Iran’s 2022 crackdown was coordinated from the top",
+        "summary": [
+            "اسناد افشا شده نشان می‌دهد فرماندهی کل ارتش دستور مستقیم به پلیس برای سرکوب داد",
+            "۸۷ نفر شناسایی شده که ممکن است تحت تعقیب کیفری قرار گیرند",
+            "ساختار امنیتی ملی از شورای امنیت ملی تا فرماندهان میدانی هماهنگ عمل کرده"
+        ],
+        "impact": "افشای این مدارک می‌تواند فشار بین‌المللی برای محاکمه مسئولان سرکوب را تقویت کند",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610023171",
+        "clean_url": "https://www.iranintl.com/en/202610023171",
+        "image": "http://www.bing.com/th?id=ONUT.KfwMbLf-zibQm_SFd_SGiQ&pid=News",
+        "timestamp": 1791259200.0
     },
     {
         "id": "fbf92a0c76",
@@ -5378,154 +5531,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/zelenskyy-warns-putin-tries-to-impose-new-conditions-on-us/ar-AA2dvp1m",
         "image": "https://www.bing.com/th?id=ONUT.vY4dY8Uu1VLPzb3O94xVwA",
         "timestamp": 1790979640.0
-    },
-    {
-        "id": "205114ee50",
-        "title_fa": "تصاویر القاعده در حساب‌های مظنون پرواز دبی پیدا شد",
-        "title_en": "سی‌ان‌ان: تصاویر چهره‌های القاعده در شبکه‌های اجتماعی کمک‌خلبان مظنون فلای‌دبی پیدا شد",
-        "summary": [
-            "سیانان گزارش داد پس از حادثه، حساب لینکدین مظنون تصاویر هواپیماهای اسرائیلی و رهبران القاعده منتشر کرد",
-            "مظنون هفت سال در عمان ایر و سپس در رویال ایر مراکش کار کرده بود",
-            "این پست‌ها کمتر از نه ساعت پس از سقوط پرواز منتشر شد"
-        ],
-        "impact": "افشای ارتباط مظنون با القاعده فشار بین‌المللی بر ایران برای بررسی حمایت‌های احتمالی را بالا می‌برد",
-        "tag": "تروریسم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610031869",
-        "clean_url": "https://www.iranintl.com/202610031869",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1790977140.0
-    },
-    {
-        "id": "3d578c3e29",
-        "title_fa": "سخن‌سرای سپاه: ترامپ باید از تجربه یمن درس بگیرد",
-        "title_en": "US weighs next moves in Iran war Trump says will end after midterms",
-        "summary": [
-            "سخنگوی سپاه می‌گوید ترامپ نتوانست حوثی‌ها را شکست دهد",
-            "او پیشنهاد می‌کند آمریکا همان رویکرد را برای ایران به کار گیرد",
-            "ترامپ ۱۶ ماه است که با ایران درگیر است و هنوز هدفی نیافته"
-        ],
-        "impact": "فشار سیاسی بر دولت آمریکا برای تغییر استراتژی در ایران",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/liveblog/202610033293",
-        "clean_url": "https://www.iranintl.com/en/liveblog/202610033293",
-        "image": "http://www.bing.com/th?id=ONUT.OcR65FgqqhW_eE7auvGTlw&pid=News",
-        "timestamp": 1790976900.0
-    },
-    {
-        "id": "4e67c35e86",
-        "title_fa": "ترامپ می‌گوید ایران به شدت مجازات خواهد شد",
-        "title_en": "Trump says Iran will be hit 'very hard' if it is behind copilot who tried to crash flight to Israel",
-        "summary": [
-            "ترامپ ادعا کرد ایران پشت سعی خرابکارانهٔ خلبان برای حمله به اسرائیل است",
-            "او قول داد پاسخ نظامی شدید بدهد"
-        ],
-        "impact": "تهدید مستقیم به ایران؛ احتمال تشدید تحریم‌ها و عملیات هوایی",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.95,
-        "source": "WRAL",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUdKNDF1UU9DQ1NLS3BCd2FmeGNHR2twVXlhUXprUElZTmtpZ1d2TUgtcEIyTmhRZFhMVTUwSFFXUDhaUUYxYk9lTlpDdkFqeFhtU1Q1VGxfY2wyN0U0YUhsdGF0b1RmSlVHNy1mc0dfTjE2MTU3c25ZLVlCaDk3NFNUalhRVlk0X0gzbUg4dXRERGx4ODlyU3pZMThWLUI3VFNtOW9sSENxRndBRnhkU0poMWJHdmZmV0tFOC1XcThCVnZkdE56RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUdKNDF1UU9DQ1NLS3BCd2FmeGNHR2twVXlhUXprUElZTmtpZ1d2TUgtcEIyTmhRZFhMVTUwSFFXUDhaUUYxYk9lTlpDdkFqeFhtU1Q1VGxfY2wyN0U0YUhsdGF0b1RmSlVHNy1mc0dfTjE2MTU3c25ZLVlCaDk3NFNUalhRVlk0X0gzbUg4dXRERGx4ODlyU3pZMThWLUI3VFNtOW9sSENxRndBRnhkU0poMWJHdmZmV0tFOC1XcThCVnZkdE56RQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790975796.0
-    },
-    {
-        "id": "9067bd58cc",
-        "title_fa": "رکورد سقوط ریال و فشار تحریم‌های آمریکا",
-        "title_en": "Officials trade blame as Iran’s economy sinks deeper",
-        "summary": [
-            "ریال به رکورد تاریخی جدید سقوط کرد؛",
-            "تورم نزدیک ۹۰٪ شد؛",
-            "ایالات متحده تحریم‌های خود را به بخش‌های خودروسازی و راه‌آهن گسترش داد؛",
-            "وزیر اقتصاد ایران ادعا کرد پیش‌بینی‌های سقوط اقتصادی اشتباه است."
-        ],
-        "impact": "ارزش‌گذاری ارز ملی به شدت کاهش می‌یابد و سرمایه‌گذاری خارجی تضعیف می‌شود.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.85,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610025999",
-        "clean_url": "https://www.iranintl.com/en/202610025999",
-        "image": "http://www.bing.com/th?id=ONUT.PRwmTIvGquCIu7-zmTRTPg&pid=News",
-        "timestamp": 1790975640.0
-    },
-    {
-        "id": "5eadb92863",
-        "title_fa": "چین در جنگ ایران‑آمریکا‑اسرائیل کجا ایستاده است",
-        "title_en": "Where does China stand in Iran-US-Israel war?",
-        "summary": [
-            "روزنامه Daily Sabah پرسش می‌کند چین در جنگ میان ایران، آمریکا و اسرائیل چه موضعی اتخاذ کرده است",
-            "چین تاکنون موضعی محتاطانه و مخالف مداخله مستقیم نشان داده است"
-        ],
-        "impact": "نگرش محتاطانه چین می‌تواند تعادل دیپلماتیک منطقه را حفظ کند",
-        "tag": "دیپلوماسی",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "Daily Sabah",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEpyTW9tTEhNMzM4UUtTU0xjblplUzBacV8wRVgxeVJaZzN5MTdPY0tHTWMybGhNc29qUmduSmRFMHhieDRWekYwemlldjJ1UlZINmZlWWlWTDJqUFVCREFNV0w2SXVvSEtnTGNwOV82bDZhNnE1anR6YnJVWnpmWlEwMVZxRzNBOGVrMXpCNmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEpyTW9tTEhNMzM4UUtTU0xjblplUzBacV8wRVgxeVJaZzN5MTdPY0tHTWMybGhNc29qUmduSmRFMHhieDRWekYwemlldjJ1UlZINmZlWWlWTDJqUFVCREFNV0w2SXVvSEtnTGNwOV82bDZhNnE1anR6YnJVWnpmWlEwMVZxRzNBOGVrMXpCNmQ",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790975100.0
-    },
-    {
-        "id": "cb89996e9f",
-        "title_fa": "آمریکا روز نهم بمباران ایران را ادامه داد",
-        "title_en": "US Bombs Iran for Ninth Day as Standoff Over Hormuz Deepens",
-        "summary": [
-            "نیروهای هوایی آمریکا برای نهمین روز به اهداف ایرانی در خلیج هرمز حمله کردند",
-            "تنش‌های استراتژیک در آب‌های مهم تجاری تشدید شد"
-        ],
-        "impact": "ریسک بزرگ برای کشتی‌های تجاری؛ فشار اقتصادی بر ایران افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.95,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFJtUDhOb0FwSndubnJsYlAtMXFTSUxLd1RwS1dBcHZpcXN4RjRZOVlLQmpvSER6Y1VJTlAzbnhQWmJ3MUtpUlptQm9YMXc0cVBTaWt3RERQSERCdjJxRGdaU2ROQTdyaUNiNmJfenJWb0MzVUpOcUZGYkxFeGE1OFBfbktYeVhidmdOMUE2aElOR25F?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFJtUDhOb0FwSndubnJsYlAtMXFTSUxLd1RwS1dBcHZpcXN4RjRZOVlLQmpvSER6Y1VJTlAzbnhQWmJ3MUtpUlptQm9YMXc0cVBTaWt3RERQSERCdjJxRGdaU2ROQTdyaUNiNmJfenJWb0MzVUpOcUZGYkxFeGE1OFBfbktYeVhidmdOMUE2aElOR25F",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1790973702.0
-    },
-    {
-        "id": "67db668887",
-        "title_fa": "اکسیوس: مقام‌های ارشد امنیت ملی آمریکا محرمانه درباره ایران در کمپ دیوید جلسه برگزار کردند",
-        "title_en": "اکسیوس: مقام‌های ارشد امنیت ملی آمریکا محرمانه درباره ایران در کمپ دیوید جلسه برگزار کردند",
-        "summary": [
-            "اکسیوس به نقل از سه مقام آمریکایی گزارش داد مقام‌های ارشد امنیت ملی دولت دونالد ترامپ، رییس‌جمهوری آمریکا، جمعه چند ساعت در کمپ دیوید درباره گام‌های بعدی در جنگ با جمهوری اسلامی و درگیری عربستان سعودی..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610033151",
-        "clean_url": "https://www.iranintl.com/202610033151",
-        "image": "http://www.bing.com/th?id=ONUT.1lwuZW6Xa2jtuEwMLpFSBA&pid=News",
-        "timestamp": 1790973000.0
-    },
-    {
-        "id": "aec0b3479b",
-        "title_fa": "نشست مخفی کمپ دیوید؛ برنامه‌ریزی جنگ ایران",
-        "title_en": "اکسیوس: مقام‌های ارشد دولت ترامپ مخفیانه درباره گام‌های بعدی جنگ ایران رایزنی کردند",
-        "summary": [
-            "مقامات ارشد ترامپ در کمپ دیوید درباره گام‌های بعدی جنگ ایران و درگیری عربستان‑یمن گفت‌وگو کردند؛",
-            "جلسه توسط معاون رییس‌جمهوری جیدی ونس رهبری شد و شامل وزیر خارجه، دفاع، سفیر کاخ سفید، رئیس سیا و رئیس ستاد مشترک بود؛",
-            "بحث عمیق یا تصمیم‌گیری درباره عملیات نظامی گسترده علیه ایران صورت گرفته؛",
-            "عربستان خواستار مشارکت هوایی آمریکا در مقابله با حوثی‌ها شد اما هنوز تأیید نشده."
-        ],
-        "impact": "احتمال شروع عملیات نظامی گسترده علیه ایران افزایش می‌یابد و تنش خاورمیانه به اوج می‌رسد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610039499",
-        "clean_url": "https://www.iranintl.com/202610039499",
-        "image": "http://www.bing.com/th?id=ONUT.rLF3iWDo3sPu0JDJYa9Jxg&pid=News",
-        "timestamp": 1790972760.0
     }
 ]
