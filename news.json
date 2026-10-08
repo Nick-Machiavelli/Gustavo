@@ -1,5 +1,25 @@
 [
     {
+        "id": "5beb1b1a15",
+        "title_fa": "تهدیدهای ترامپ به ایران؛ استراتژی ترس‌زده",
+        "title_en": "The pot calling the kettle red",
+        "summary": [
+            "در سخنرانی‌اش به سازمان ملل، ترامپ جنگ را تهدید کرد",
+            "ادعای «نابودی جمهوری اسلامی» بدون جزئیات نظامی مطرح شد",
+            "کنگره ریکاردو صامت مانده، نشان از عدم حمایت می‌دهد",
+            "تبلیغات پرهزینه‌اش به‌نظر می‌رسد برای جلب رأی باشد"
+        ],
+        "impact": "تقویت حس ترس در داخل و خارج، اما بی‌پشتوانه نظامی",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "Cleveland Jewish News",
+        "url": "https://www.clevelandjewishnews.com/columnists/douglas_bloomfield/the-pot-calling-the-kettle-red/article_1f9f442c-2d7b-425e-b9dc-cdbc2b9434cb.html",
+        "clean_url": "https://www.clevelandjewishnews.com/columnists/douglas_bloomfield/the-pot-calling-the-kettle-red/article_1f9f442c-2d7b-425e-b9dc-cdbc2b9434cb.html",
+        "image": "https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/assets/v3/editorial/c/d6/cd6d1284-8b81-11ed-82bc-4399ac17c409/63b454a78553e.image.png?resize=200%2C200",
+        "timestamp": 1791490172.6263225
+    },
+    {
         "id": "06e5c3daef",
         "title_fa": "کشتی‌های نفتی سلاح اصلی جنگ آمریکا-اسرائیل علیه ایران",
         "title_en": "Tankers have replaced missiles as the main weapon in the US-Israeli war against Iran",
@@ -36,6 +56,26 @@
         "clean_url": "https://truthout.org/articles/us-embassy-aide-suppressed-report-on-israeli-killings-of-americans-in-west-bank",
         "image": "https://www.bing.com/th?id=ONUT.nGouzIl9BkMYZRrIENxOHg",
         "timestamp": 1791489784.2150903
+    },
+    {
+        "id": "a5a7bb474f",
+        "title_fa": "81 هواپیمای آمریکایی در جنگ ایران خسارت دید",
+        "title_en": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
+        "summary": [
+            "تخمین خسارت مالی تا ۳٫۳ میلیارد دلار است",
+            "این ارقام نشان‌دهنده شدت درگیری‌های هوایی است",
+            "آمریکا ممکن است برای جبران خسارت، فشار اقتصادی بیشتری اعمال کند",
+            "تلفات هواپیماها پیامدهای جدی برای توان نظامی آمریکا دارد"
+        ],
+        "impact": "کاهش توان هوایی آمریکا در خاورمیانه، تشدید تحریم‌ها",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJkWmJFODJFOWZtaHlLUUt5TXgwQ21XRkVrWEVrcHVwYlgtbG5JNHRxWVVGbmZGekpHdTlrWjhyZ1ZXbmdQcjRmb2lUbEx2cXlmcnZkdkExX2I4OWpzTS1reGlkc2g0RjNUN3FvZHpWX2tBa2NybjJZRW1ZM3A1UjgyV3RkbVZKcDVLQ1lKUm1Kc3VmQ0h1QnliOXE3MVYzcDliNzZYV2xBazczZHdJ0gG0AUFVX3lxTE1QLUsxVk1lZmY2cTFCVUFIVUtHdzVqTXE5aTJmTGdDWWtDX0xzb0l2VS1iLVI2OVYwd0k0R2I4M2NkejQ1NmZaV0VKZmUwZWlKWDJMOTJ0X0NPdllJZHRHUWlBZUc1NGI0ejJqYVJIR1dycVo4UHNtY0VJYlhpdWNmUUttZDJXR2R6NkE1Q1U4bHZmNlltNk1rN1lHVS16WkFzX2Rkc3lIUG5lSzJvQ1hOeWM2cQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGJkWmJFODJFOWZtaHlLUUt5TXgwQ21XRkVrWEVrcHVwYlgtbG5JNHRxWVVGbmZGekpHdTlrWjhyZ1ZXbmdQcjRmb2lUbEx2cXlmcnZkdkExX2I4OWpzTS1reGlkc2g0RjNUN3FvZHpWX2tBa2NybjJZRW1ZM3A1UjgyV3RkbVZKcDVLQ1lKUm1Kc3VmQ0h1QnliOXE3MVYzcDliNzZYV2xBazczZHdJ0gG0AUFVX3lxTE1QLUsxVk1lZmY2cTFCVUFIVUtHdzVqTXE5aTJmTGdDWWtDX0xzb0l2VS1iLVI2OVYwd0k0R2I4M2NkejQ1NmZaV0VKZmUwZWlKWDJMOTJ0X0NPdllJZHRHUWlBZUc1NGI0ejJqYVJIR1dycVo4UHNtY0VJYlhpdWNmUUttZDJXR2R6NkE1Q1U4bHZmNlltNk1rN1lHVS16WkFzX2Rkc3lIUG5lSzJvQ1hOeWM2cQ",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791488870.0
     },
     {
         "id": "c1c1cdc473",
@@ -268,6 +308,66 @@
         "timestamp": 1791460718.0
     },
     {
+        "id": "6cea7b498f",
+        "title_fa": "حمله‌های افزایشی ایران به هرمز، فشار بر ترامپ",
+        "title_en": "Iran scales up Hormuz attacks, raising pressure on Trump as midterms near",
+        "summary": [
+            "حملات به کشتی‌ها در تنگه هرمز دوباره شدت گرفت",
+            "کاهش حمل و نقل نفت باعث نگرانی در بازارهای جهانی شد",
+            "ترامپ با نزدیک شدن به انتخابات می‌کوشد تصویر قوی نشان دهد",
+            "ریسک تشدید تنش‌های نظامی در خلیج فارس افزایش یافت"
+        ],
+        "impact": "کاهش صادرات نفت و خطر گسترش درگیری‌های نظامی در خلیج",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-scales-up-hormuz-attacks-raising-pressure-on-trump-as-midterms-near/ar-AA2dQw0h",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-scales-up-hormuz-attacks-raising-pressure-on-trump-as-midterms-near/ar-AA2dQw0h",
+        "image": "http://www.bing.com/th?id=ONUT.e7VdHgZYK3vVU7ExVWgVFg&pid=News",
+        "timestamp": 1791459043.0
+    },
+    {
+        "id": "bd7d22e898",
+        "title_fa": "متهمان جاسوسی ایران در بریتانیا به دادگاه",
+        "title_en": "افشای گفت‌وگوهای متهمان پرونده جاسوسی جمهوری اسلامی علیه روزنامه‌نگاران ایران‌اینترنشنال",
+        "summary": [
+            "دادستان اسناد تماس‌ها و انتقال پول بین متهمان را ارائه کرد",
+            "سرویس اطلاعاتی مورد ادعا، متعلق به جمهوری اسلامی است",
+            "متهمان به رصد و شناسایی افراد برای خشونت احتمالی متهم شدند",
+            "پرونده می‌تواند روابط دیپلماتیک ایران‑انگلستان را تحت فشار قرار دهد"
+        ],
+        "impact": "احتمال تحریم‌های جدید علیه افراد و نهادهای ایرانی",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610084013",
+        "clean_url": "https://www.iranintl.com/202610084013",
+        "image": "http://www.bing.com/th?id=ONUT.AL_TBVai06MhUQ4ASt5Jig&pid=News",
+        "timestamp": 1791458940.0
+    },
+    {
+        "id": "3ebb96eb25",
+        "title_fa": "ترامپ رد حمله جدید به ایران پیش انتخابات",
+        "title_en": "Trump rules out new strikes on Iran before the midterms",
+        "summary": [
+            "ترامپ اعلام کرد مذاکرات با ایران پیشرفت دارد",
+            "هیچ اقدام نظامی جدیدی در برنامه نیست",
+            "این بیانیه سعی دارد از انتقادات داخلی جلوگیری کند",
+            "رقبای سیاسی ممکن است این را نشانه ضعف ببینند"
+        ],
+        "impact": "ثبات موقت در روابط آمریکا‑ایران، اما فشار داخلی بر ترامپ",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-rules-out-new-strikes-on-iran-before-the-midterms/ar-AA2dQtF2",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-rules-out-new-strikes-on-iran-before-the-midterms/ar-AA2dQtF2",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791457666.0
+    },
+    {
         "id": "16509db948",
         "title_fa": "نامه باز IRGC به رای‌دهندگان آمریکا؛ تلاشی برای تضعیف ترامپ",
         "title_en": "Frank Ryan: Ending the Iran conflict — the battle beyond the battlefield",
@@ -306,6 +406,26 @@
         "clean_url": "https://www.theyeshivaworld.com/news/israel-news/2607157/trump-preparing-new-iran-strikes-pentagon-ordered-to-develop-attack-plans-ahead-of-november-elections-joint-u-s-israeli-operation-possible.html",
         "image": "https://www.theyeshivaworld.com/wp-content/uploads/2026/06/Iran-trump.jpg",
         "timestamp": 1791447900.0
+    },
+    {
+        "id": "90354a9810",
+        "title_fa": "ایران کنترل هرمز ندارد؛ حجم نفت تاریخی",
+        "title_en": "العربیه به نقل از یک مقام سنتکام: جمهوری اسلامی کنترلی بر تنگه هرمز ندارد",
+        "summary": [
+            "عرب‌یه نقل کرد ایران توان کنترل تنگه را ندارد",
+            "بیش از ۱٫۱ میلیارد بشکه نفت در سه شب گذشته عبور کرد",
+            "ترامپ این حجم را بالاترین رکورد تاریخی اعلام کرد",
+            "عدم کنترل هرمز می‌تواند مسیر حمل‌ونقل نفت را تحت خطر بگذارد"
+        ],
+        "impact": "افزایش ریسک قطع مسیر نفتی و نوسان قیمت جهانی",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610087052",
+        "clean_url": "https://www.iranintl.com/202610087052",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791444720.0
     },
     {
         "id": "70156efa72",
@@ -537,6 +657,26 @@
         "clean_url": "https://www.iranintl.com/202610085978",
         "image": "http://www.bing.com/th?id=ONUT.HyKLFNR3i1SvDp-62rPqAw&pid=News",
         "timestamp": 1791418080.0
+    },
+    {
+        "id": "821b448b87",
+        "title_fa": "جنایات اسرائیل در غزه؛ جهان بی‌پاسخ",
+        "title_en": "Israel's ongoing genocide exposes a savage world order",
+        "summary": [
+            "تصاویر ماهواره‌ای شهرهای نابود شده را نشان می‌دهد",
+            "بیش از ۷۴٬۰۰۰ کشته فلسطینی از زمان شروع جنگ ثبت شده",
+            "حمایت غرب، به‌ویژه استرالیا، به ادامه قتل‌عام کمک می‌کند",
+            "فشار بین‌المللی برای توقف عملیات هنوز کافی نیست"
+        ],
+        "impact": "افزایش فشارهای بین‌المللی بر اسرائیل و تقویت جنبش‌های مقاومت",
+        "tag": "انسانی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Solidarity Online",
+        "url": "https://solidarity.net.au/palestine/israels-ongoing-genocide-exposes-a-savage-world-order/",
+        "clean_url": "https://solidarity.net.au/palestine/israels-ongoing-genocide-exposes-a-savage-world-order",
+        "image": "https://solidarity.net.au/wp-content/uploads/2026/10/Gaza-three-years.jpg",
+        "timestamp": 1791417600.0
     },
     {
         "id": "bf51712468",
@@ -5452,130 +5592,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmQwZjhsX2N2WEdYVC11QkdTODJJOTF3ekdlOXJIcUJMa2dsZWtQeUZwMnlXMkxtcjFTcVpaWF9jSzJwU2hzTV9XQV96MHdQcFNVSlM5clkzYlYzS1E1RENueWtUaEdXZG92OVZRY1RrWEpNWm96ZEFLc1hjMVNNRl9XNW9qMTNxMjZTd3g4V1hXaXJZZk5KaURwNEt5aVRfR0ZmNw",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791095625.0
-    },
-    {
-        "id": "bec4f8d0d7",
-        "title_fa": "ارتش ایران می‌گوید به موشک های با برد بیشتر و سریع تر نیاز دارد",
-        "title_en": "Iran's army says it needs longer-range, faster missiles",
-        "summary": [
-            "Iran needs to upgrade the range and speed of its missiles, army spokesman Mohammad Akraminia said in an interview with the semi-official Fars news agency published on Sunday. Akraminia described the..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/irans-army-says-needs-longer-133331980.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/irans-army-says-needs-longer-133331980.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/3046db9b075f0f35b82d810c94e35984f46a63e8b40b633d7bac94bc0c453972/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fce88607179b3bf7ce0171ac8c154cced.jpg",
-        "timestamp": 1791095580.0
-    },
-    {
-        "id": "bb1e2d3756",
-        "title_fa": "به‌روزرسانی‌های زنده جنگ ایران و آمریکا: داده‌ها نشان می‌دهند که صادرات نفت خام خاورمیانه بالاتر از سطح قبل از جنگ است",
-        "title_en": "US-Iran War Live Updates: Middle East Crude Oil Exports Rise Above Pre-War Levels, Data Shows",
-        "summary": [
-            "The UK Maritime Trade Operations (UKMTO) said on Sunday that it has received a report of an incident involving a tanker about..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-hormuz-tensions-rise-as-trump-issues-latest-warning-tehran-says-ready-for-a-us-attack-liveblog-156275404",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-hormuz-tensions-rise-as-trump-issues-latest-warning-tehran-says-ready-for-a-us-attack-liveblog-156275404",
-        "image": "https://www.bing.com/th?id=ONUT.2Vf7-YXv4yVqO8Il9AdlSg",
-        "timestamp": 1791091876.0
-    },
-    {
-        "id": "6caf6ae474",
-        "title_fa": "سفر نیویورک پزشک‌نیا و عراغچی تصویر ضعف ایران",
-        "title_en": "Pezeshkian and Araghchi’s New York trip made Iran look weak and divided, MP says",
-        "summary": [
-            "نماینده کمیته امنیت ملی مجلس سفر دو مقام را «بی‌احترامی» و «بی‌عقل» خواند",
-            "مصاحبه‌های پزشک‌نیا و اقامت طولانی عراغچی تصویر ایران را به‌عنوان کشوری تقسیم‌پذیر و مشتاق مذاکره با آمریکا نشان داد",
-            "او استالین‌گراد هرمز را میدان جنگ خواند و گفت ایران ماشین جنگ ترامپ را مجبور به تسلیم می‌کند"
-        ],
-        "impact": "تصویر داخلی و بین‌المللی ایران تضعیف می‌شود و فشار دیپلماتیک بر رهبری افزایش می‌یابد",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610045790",
-        "clean_url": "https://www.iranintl.com/en/202610045790",
-        "image": "http://www.bing.com/th?id=ONUT.5EdJPHn4vyq4q0zDPifgng&pid=News",
-        "timestamp": 1791090060.0
-    },
-    {
-        "id": "6ac82b46da",
-        "title_fa": "پیشنهاد آمریکا: تمرکز بر تنگه هرمز و رفع تحریم‌ها",
-        "title_en": "بقایی: پیشنهاد آمریکا درباره پرونده هسته‌ای و تمرکز ما روی تنگه هرمز است",
-        "summary": [
-            "بقایی اعلام کرد ایالات متحده تنها به مسائل هسته‌ای می‌پردازد، در حالی که ایران بر تنگه هرمز تمرکز دارد",
-            "رفع تحریم‌ها و بازگشت به تعهدات اسلام‌آباد شرط بازگشایی تنگه است",
-            "ایران روابط مثبت با روسیه و چین دارد و در صورت لزوم با آن‌ها هماهنگ می‌شود"
-        ],
-        "impact": "اگر توافقی حاصل نشود، فشار اقتصادی و نظامی بر تنگه هرمز ادامه خواهد یافت",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610045229",
-        "clean_url": "https://www.iranintl.com/202610045229",
-        "image": "http://www.bing.com/th?id=ONUT.f-wA3ZQNYLOdNVdr1bDhCg&pid=News",
-        "timestamp": 1791089400.0
-    },
-    {
-        "id": "d1c2ea7e2f",
-        "title_fa": "جنگ ایران تنها در صورتی می‌تواند پایان یابد که اسرائیل و آمریکا از تلاش برای خفه کردن ایران دست بردارند",
-        "title_en": "The Iran War can only End if Israel and the US Stop trying to Strangle Iran",
-        "summary": [
-            "The Iran War can only End if Israel and the US Stop trying to Strangle Iran Informed Comment"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Informed Comment",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FWWY1enRsQ3ZCdWZKcGdZOUFlQmVibTdtODJSQVFXY183TWxLR3dkVlpyS3JlSWk3bWRCTzZQYi1yYVdUckJHbHVESEZFSEhKbjNqVXRzWDBRTWlrU1FDU2lZVWEtRUZlREpkZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FWWY1enRsQ3ZCdWZKcGdZOUFlQmVibTdtODJSQVFXY183TWxLR3dkVlpyS3JlSWk3bWRCTzZQYi1yYVdUckJHbHVESEZFSEhKbjNqVXRzWDBRTWlrU1FDU2lZVWEtRUZlREpkZw",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791086772.0
-    },
-    {
-        "id": "5e12f3c956",
-        "title_fa": "ایران به سمت جنگ سایه‌ای خطرناک پیش می‌رود",
-        "title_en": "Iran could move shadow war in a dangerous direction, experts warn on back of two possible terror attacks",
-        "summary": [
-            "دو طرح مشکوک در RAF فیرفورد و پرواز FlyDubai نشانگر عملیات مخفی ایران است",
-            "کارشناسان هشدار می‌دهند این حملات می‌توانند تنش‌های منطقه‌ای را تشدید کنند"
-        ],
-        "impact": "احتمال افزایش اقدام‌ها نیابتی آمریکا علیه ایران بالا می‌رود",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-could-move-shadow-war-in-a-dangerous-direction-experts-warn-on-back-of-two-possible-terror-attacks/ar-AA2dwStp",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-could-move-shadow-war-in-a-dangerous-direction-experts-warn-on-back-of-two-possible-terror-attacks/ar-AA2dwStp",
-        "image": "http://www.bing.com/th?id=ONUT.8tVy2V7pBPAzEqjqqYdmjg&pid=News",
-        "timestamp": 1791086404.0
-    },
-    {
-        "id": "e44245f63a",
-        "title_fa": "ترامپ برای انتخابات میانه‌دوره با چالش‌های جدی روبروست",
-        "title_en": "Michael Goodwin: Trump faces an uphill battle to sell voters on his agenda before the midterms — here’s how he can do it",
-        "summary": [
-            "ترامپ برای جلب حمایت رای‌دهندگان پیش از انتخابات میانه‌دوره باید برنامه‌ای متفاوت ارائه دهد.",
-            "رقیبان داخلی و فشارهای رسانه‌ای مانع از انتقال پیام‌های قبلی او می‌شوند."
-        ],
-        "impact": "تاثیر محدود بر سیاست خارجی آمریکا و روابط با ایران",
-        "tag": "سیاست-آمریکا",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/michael-goodwin-trump-faces-an-uphill-battle-to-sell-voters-on-his-agenda-before-the-midterms-here-s-how-he-can-do-it/ar-AA2dvCNJ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/michael-goodwin-trump-faces-an-uphill-battle-to-sell-voters-on-his-agenda-before-the-midterms-here-s-how-he-can-do-it/ar-AA2dvCNJ",
-        "image": "https://www.bing.com/th?id=ONUT.3uOvbYqv4PjAKXVz78YPPw",
-        "timestamp": 1791080828.7518861
     }
 ]
