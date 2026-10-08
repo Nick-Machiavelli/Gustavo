@@ -1,5 +1,85 @@
 [
     {
+        "id": "70156efa72",
+        "title_fa": "ترامپ ادعا می‌کند می‌تواند نتایج انتخابات تگزاس را تغییر دهد",
+        "title_en": "Lone star Trump believes he can bend Texas election to his will",
+        "summary": [
+            "ترامپ در سفر به سن آنتونیو اعلام کرد می‌تواند نتایج انتخابات تگزاس را تحت‌تأثیر قرار دهد",
+            "غیبت گابرت ابوت نشان از فاصله‌گیری برخی گوندهای جمهوری‌خواه دارد",
+            "نظرسنجی‌ها نشان می‌دهد ترامپ هنوز حمایت قابل توجهی در ایالت دارد",
+            "این ادعاها با افزایش نظرسنجی‌های ضد او هم‌زمان است"
+        ],
+        "impact": "افزایش تنش‌های داخلی حزب جمهوری‌خواه و تأثیر بر رقابت‌های آینده ریاست‌جمهوری",
+        "tag": "سیاسی-آمریکا",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/us/2026/10/08/lone-star-trump-believes-he-can-bend-texas-election-to-his-will/",
+        "clean_url": "https://www.irishtimes.com/world/us/2026/10/08/lone-star-trump-believes-he-can-bend-texas-election-to-his-will",
+        "image": "https://www.bing.com/th?id=ONUT.NBHSzR5F5XeO2aVn5U9fXQ",
+        "timestamp": 1791443964.363273
+    },
+    {
+        "id": "45fda408d1",
+        "title_fa": "پیمان دفاعی عربستان‑پاکستان به‌کار افتاد",
+        "title_en": "Opinion | Pak's Saudi Mecca pact has been finally triggered. How far will it go?",
+        "summary": [
+            "جلسه اضطراری در ریاض به‌امضای تعهدات دفاعی میان عربستان و پاکستان منجر شد",
+            "این توافق به‌صورت عملیاتی در حال اجراست و هدف تقویت همکاری نظامی است",
+            "تحلیلگران می‌گویند این گام می‌تواند تعادل قدرت در خاورمیانه را تغییر دهد",
+            "هنوز جزئیات دقیق پیاده‌سازی و مشارکت‌های مالی مشخص نیست"
+        ],
+        "impact": "تقویت حضور نظامی پاکستان در خلیج فارس و افزایش فشار بر ایران محتمل می‌شود",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "NDTV on MSN",
+        "url": "https://www.msn.com/en-in/news/other/opinion-pak-s-saudi-mecca-pact-has-been-finally-triggered-how-far-will-it-go/ar-AA2dNiRm?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/opinion-pak-s-saudi-mecca-pact-has-been-finally-triggered-how-far-will-it-go/ar-AA2dNiRm",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791443964.363022
+    },
+    {
+        "id": "1941594cdc",
+        "title_fa": "گزارش جدید پیش‌دستی اسرائیل در حمله ۷ اکتبر",
+        "title_en": "Readers sound off on Oct. 7 attack warnings, France unrest and a failed execution",
+        "summary": [
+            "گزارش ادعا می‌کند اطلاعاتی درباره برنامه‌ریزی حماس از سال پیش در اختیار اسرائیل بوده",
+            "ادعای دریافت هشدار از اطلاعات مصر و مشاهده فعالیت‌های مشکوک حماس",
+            "عدم اقدام پیشگیرانه اسرائیل به‌عنوان سرنخی برای پوشش‌پذیری یا سرکوب انتقادات مطرح می‌شود",
+            "منبع گزارش یک تحقیق مستقل است که هنوز توسط مقامات رسمی تأیید نشده"
+        ],
+        "impact": "اعتماد عمومی به اطلاعات امنیتی اسرائیل تحت فشار قرار می‌گیرد و تنش‌های منطقه‌ای تشدید می‌شود",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "New York Daily News",
+        "url": "https://www.nydailynews.com/2026/10/08/readers-sound-off-on-oct-7-attack-warnings-france-unrest-and-a-failed-execution/",
+        "clean_url": "https://www.nydailynews.com/2026/10/08/readers-sound-off-on-oct-7-attack-warnings-france-unrest-and-a-failed-execution",
+        "image": "https://www.bing.com/th?id=ONUT.GG8JPT9o3uur7rnFwCBnaw",
+        "timestamp": 1791443964.3627605
+    },
+    {
+        "id": "8d45901c18",
+        "title_fa": "نظامی آمریکا برای ادامه عملیات علیه ایران آماده می‌شود",
+        "title_en": "US military told to complete preparations for potential resumption of Iran operations -- reports",
+        "summary": [
+            "گزارش‌ها می‌گویند ارتش آمریکا دستور دریافت کرده تا آماده‌سازی‌های لازم برای بازگشت عملیات علیه ایران را تکمیل کند",
+            "این اقدام پس از دوره‌ای تنش‌های شدید و تحریم‌های جدید صورت گرفته است",
+            "احتمال استفاده از نیابتی یا حملات هوایی در برنامه‌های آینده وجود دارد",
+            "این خبر نشان می‌دهد برنامه‌ریزی‌های نظامی آمریکا هنوز فعال است و فشار بر تهران ادامه دارد"
+        ],
+        "impact": "تهدید مستقیم به زیرساخت‌های نظامی ایران و تشدید تحریم‌های اقتصادی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.0,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR05OOThGQUxLNjhQYlpCRm9hZllRbjhWMlF0ZUR6TkZKMlpuOEQ2UERNZy1vZlNBc0k1R0FHMXplZmgwdzl2cGpGUGFBbF9KVVd0V2dSTnJHTWM3MUNHRWNzVmhWN1JaOXhGbUZzM2pLaWtMbDNLOWVWQjNxbjZDa1QzX2JPenBpTTYxWEttdHZzdVY5RVRjNER0M1Q2TkZBZ09WeG5UeW5ZNWRzRkFFNk5BOExRRURoMTc1Z3dqSkNRbFZfVktTQ1NtTVZ0NWx4cy1INA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR05OOThGQUxLNjhQYlpCRm9hZllRbjhWMlF0ZUR6TkZKMlpuOEQ2UERNZy1vZlNBc0k1R0FHMXplZmgwdzl2cGpGUGFBbF9KVVd0V2dSTnJHTWM3MUNHRWNzVmhWN1JaOXhGbUZzM2pLaWtMbDNLOWVWQjNxbjZDa1QzX2JPenBpTTYxWEttdHZzdVY5RVRjNER0M1Q2TkZBZ09WeG5UeW5ZNWRzRkFFNk5BOExRRURoMTc1Z3dqSkNRbFZfVktTQ1NtTVZ0NWx4cy1INA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791438546.0
+    },
+    {
         "id": "511e639ae4",
         "title_fa": "روبیو می‌گوید ایران کنترل کامل تنگه هرمز را از دست داده",
         "title_en": "Iran has ‘lost complete control’ of Hormuz Strait: Rubio",
@@ -113,6 +193,25 @@
         "timestamp": 1791416269.0
     },
     {
+        "id": "c7e89a9dd0",
+        "title_fa": "قیمت‌ها به‌دلیل مسیرهای جایگزین واردات بالا رفت",
+        "title_en": "Iran lawmaker says rerouted imports have pushed up prices",
+        "summary": [
+            "قانون‌گذار می‌گوید تغییر مسیرهای واردات هزینه‌ها را افزون کرده",
+            "افزایش هزینه‌ها به‌صورت مستقیم به قیمت کالاها منتقل شده",
+            "عدم شفافیت در مشخص شدن کالاها و مسیرها مانع ارزیابی دقیق می‌شود"
+        ],
+        "impact": "تورم مصرف‌کننده ارتقا می‌یابد و فشار بر کیف پول خانوارها افزایش می‌یابد",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610089712",
+        "clean_url": "https://www.iranintl.com/en/202610089712",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791414780.0
+    },
+    {
         "id": "22ba7badd2",
         "title_fa": "به ارتش دستور داده شد تا برای حملات احتمالی ایران آماده باشند، زیرا ترامپ زمان بندی را می‌سنجد",
         "title_en": "Military ordered to be ready for possible Iran strikes as Trump weighs timing",
@@ -128,6 +227,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJVT0lpY01IdHRxLXR3WFJUWVdlVlNWM2IyV0p2cFNoQVRPQjVMdXNkTHNpYk5NY2lvRzQ0SkpHN1I3T21KLThjVHI5SHlmeFZyZndfempWYjgzNWJMaWFmY1B2dk9nbGxuV056WG9NSWlRdWszd085cWZUOXBKbjc5YlFrcGo4VjI4",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791414619.0
+    },
+    {
+        "id": "2ecd0142f9",
+        "title_fa": "شبکه جذب حماس‌الله در ایران فاش شد",
+        "title_en": "Hezbollah recruitment network in Iran exposed, four safe houses identified",
+        "summary": [
+            "واحد عملیات خارجی حماس‌الله در ایران با استفاده از خانه‌های امن در قم و تهران، اتباع خارجی را جذب می‌کند",
+            "هدف آموزش سلاح، تخریب، حملات سایبری و جاسوسی است",
+            "عملیات با هماهنگی نیروهای قدس انجام می‌شود و دانشگاه المصطفی به‌عنوان نقطه جذب استفاده شده",
+            "شناسایی یک ملیت اندونزیایی به‌عنوان سرپرست عملیات نشان‌دهنده بین‌المللی شدن شبکه است"
+        ],
+        "impact": "تهدید امنیت داخلی و امکان انجام حملات تروریستی در داخل ایران افزایش می‌یابد",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610085605",
+        "clean_url": "https://www.iranintl.com/en/202610085605",
+        "image": "http://www.bing.com/th?id=ONUT.Rbm0rSnHJZIo6nNCC6cd4g&pid=News",
+        "timestamp": 1791409980.0
     },
     {
         "id": "a37910bc9e",
@@ -5459,114 +5578,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0JvcU4zV3c4MHE0N1B4R0pfM2luakY0Z3hXVnRrYTJJVnJnWjJpTEQtYjZqVHVpWUFjd3BNVVRuelVzYkdEOERLR0pkUzQwRDJjTXE1STdHNXM2RVdJVUhrTnVTNWVrSTBkdUk4UnRpNFVvejF3c1V1UWlHakw4M0xlRmc5Q2t1TVVMdTFDSllvV2dOTTJSZFFybHB4SlZyLWhWM3NB0gGrAUFVX3lxTE1KZVRsT3NjbnhWMEo5Z21uN0lFOVdSb0hhTHl5UXlzdFJMX25NdTY5Y3NOQnNmN2lFVlpHQWZFbElTSkhHb0xNNHNuS1hicGhIZXg2cG9ZX3M5bFZYaHBjMWYwYjVYc1Q3SWpTZ2J3eWFTd1dnc1Y2NDVKTDlQNG9qVlprYVJvaWljcFRZQnpfUk5CMy1yVmk0WjhadUZDUlBPVWtUTDU1UVBsbw",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791056981.0
-    },
-    {
-        "id": "175304395c",
-        "title_fa": "ریال به رکورد پایین رسیده؛ بانک مرکزی دلار می‌فروشد",
-        "title_en": "Iranian rial at new low, as cenbank sells dollars to support currency",
-        "summary": [
-            "ریال به پایین‌ترین سطح تاریخی خود در برابر دلار رسید",
-            "بانک مرکزی برای حمایت از ارز، فروش دلارهای خود را افزایش داد",
-            "این اقدام نشان از فشار شدید بر بازار ارز و کاهش توان خرید مردم دارد"
-        ],
-        "impact": "قیمت کالاهای اساسی بالا می‌رود و تورم شتاب می‌گیرد",
-        "tag": "ارز",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnE1RzhlNDNiUXdROTBBZS1SaEExN2JJb1hNX1huaXl3TFcwVTBKWGVVRlJVQWpYdVdwMnZwLV9kMWpIMHV5UWZIc0ZVVVdjQ180RE9sTTRIUmp2R0JNY3h2MXlyVzBfZGFSbTFWd19QREdkYkwyOEN2Nl9Xcm9xOWg4VlNRQ3ZQRkN2T0JDU296UFpfTzlfS2Y0NV9RbFEydmdWOTEwUERyUnBZNUM2Y3c4MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnE1RzhlNDNiUXdROTBBZS1SaEExN2JJb1hNX1huaXl3TFcwVTBKWGVVRlJVQWpYdVdwMnZwLV9kMWpIMHV5UWZIc0ZVVVdjQ180RE9sTTRIUmp2R0JNY3h2MXlyVzBfZGFSbTFWd19QREdkYkwyOEN2Nl9Xcm9xOWg4VlNRQ3ZQRkN2T0JDU296UFpfTzlfS2Y0NV9RbFEydmdWOTEwUERyUnBZNUM2Y3c4MA",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791056624.0
-    },
-    {
-        "id": "cf88e9ba15",
-        "title_fa": "قهرمانان پلی‌آف MLB؛ ارزش ورزش‌های کم‌هزینه",
-        "title_en": "MLB playoff heroes' stories teach us about value of low-cost youth sports",
-        "summary": [
-            "مقاله به نقش داستان‌های قهرمانان پلی‌آف MLB در ترویج ورزش‌های کم‌هزینه برای جوانان می‌پردازد.",
-            "تأکید می‌کند والدین باید به‌صورت واقع‌گرایانه مسیر ورزشی فرزندان را برنامه‌ریزی کنند."
-        ],
-        "impact": "تشویق به مشارکت ورزشی گسترده، اما تأثیر مستقیم بر سیاست‌های ژئوپلیتیک ندارد.",
-        "tag": "ورزش",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "WiscNews",
-        "url": "https://wiscnews.com/sports/article_9b7e69c8-c5ca-5831-9a74-037945dece2e.html",
-        "clean_url": "https://wiscnews.com/sports/article_9b7e69c8-c5ca-5831-9a74-037945dece2e.html",
-        "image": "https://www.bing.com/th?id=ONUT.zKtaplfTxbVUbcrW1gbc9w",
-        "timestamp": 1791054314.897687
-    },
-    {
-        "id": "809711a8f1",
-        "title_fa": "شرکت‌های نفتی از جنگ ایران سود می‌برند؟",
-        "title_en": "Are oil companies profiting from the Iran war? Experts explain - ABC News",
-        "summary": [
-            "کارشناسان بررسی می‌کنند آیا شرکت‌های نفتی از جنگ ایران سود می‌برند",
-            "افزایش قیمت نفت و تقاضای انرژی می‌تواند به سود این شرکت‌ها منجر شود"
-        ],
-        "impact": "قیمت نفت بالا می‌رود و سود شرکت‌های انرژی افزایش می‌یابد",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUV9YajZLcHUxLVFKVzBCLW41WS1vUGNuankwUmtqMWhRVEFLY3pxZmVCN3dMNUpIZlViQnR1dDVRazdxdExGelJnbjZfWFNVVEM4Q01KZjV3ZEM3UElMd3Z3bm52Nl9yck9FNWhBWXBLMGJMZ3ZhR1dNMmpyUFZqQWhHaDduNk9hWGxmaDY5ZlJiYzVQcnlRNEhXbjU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUV9YajZLcHUxLVFKVzBCLW41WS1vUGNuankwUmtqMWhRVEFLY3pxZmVCN3dMNUpIZlViQnR1dDVRazdxdExGelJnbjZfWFNVVEM4Q01KZjV3ZEM3UElMd3Z3bm52Nl9yck9FNWhBWXBLMGJMZ3ZhR1dNMmpyUFZqQWhHaDduNk9hWGxmaDY5ZlJiYzVQcnlRNEhXbjU",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791050716.0
-    },
-    {
-        "id": "c1f57e63b9",
-        "title_fa": "موضع هند در پیمان عدم‌پراکندگی متفاوت از ایران",
-        "title_en": "India's NPT stance different from signatory Iran's: Jaishankar",
-        "summary": [
-            "وزیر خارجه هند تأکید کرد که موضع کشورش با ایران متفاوت است",
-            "این اختلاف می‌تواند مذاکرات هسته‌ای منطقه را پیچیده‌تر کند"
-        ],
-        "impact": "هند ممکن است در مذاکرات هسته‌ای با ایالات متحده موقعیت سخت‌تری اتخاذ کند",
-        "tag": "دیپلماتیک",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Asianet Newsable on MSN",
-        "url": "https://www.msn.com/en-in/news/other/india-s-npt-stance-different-from-signatory-iran-s-jaishankar/ar-AA2dyNSd?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/india-s-npt-stance-different-from-signatory-iran-s-jaishankar/ar-AA2dyNSd",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791050503.0
-    },
-    {
-        "id": "375405e8d7",
-        "title_fa": "نگاه سریع به کامیون، خرید جدید کشاورزی",
-        "title_en": "A quick look leads to a new farm truck",
-        "summary": [
-            "یک نگاه کوتاه به کامیون منجر به خرید جدید شد",
-            "هزینه‌های کشاورزی کمی افزایش یافت"
-        ],
-        "impact": "خریدار جدید، هزینه‌های کشاورزی کمی بالا می‌رود",
-        "tag": "کشاورزی",
-        "urgency": 1,
-        "sentiment": 0.2,
-        "source": "Facebook on MSN",
-        "url": "https://www.msn.com/en-us/autos/trucks/a-quick-look-leads-to-a-new-farm-truck/vi-AA2dyoO0?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/autos/trucks/a-quick-look-leads-to-a-new-farm-truck/vi-AA2dyoO0",
-        "image": "https://www.bing.com/th?id=ONUT.Hw-hXDF2rArFWWvBddI_kA",
-        "timestamp": 1791050503.0
-    },
-    {
-        "id": "339865d1c7",
-        "title_fa": "رئیس امنیت ایران از بحران اقتصادی وخیم هشدار داد",
-        "title_en": "Iran’s Top Security Official Warns of Dire Economic Crisis",
-        "summary": [
-            "هشدار از کاهش شدید ارزش ریال و تورم دو رقمی",
-            "تحریم‌های جدید آمریکا باعث کمبود ارز و بیکاری می‌شود"
-        ],
-        "impact": "اقتصاد ایران به‌سرعت به رکود عمیق می‌رسد، سرمایه‌گذاری خارجی متوقف می‌شود",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
-        "clean_url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
-        "image": "http://www.bing.com/th?id=ONUT.DbYFZRAIdl8jh54F31zEIA&pid=News",
-        "timestamp": 1791050160.0
     }
 ]
