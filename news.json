@@ -1,5 +1,23 @@
 [
     {
+        "id": "7acb73787a",
+        "title_fa": "نظرسنجی: فشار آمریکا بر ایرانیان سخت‌تر از حاکمان",
+        "title_en": "US pressure hits Iranians harder than rulers, 68% in poll say",
+        "summary": [
+            "68٪ مردم ایران می‌گویند تحریم‌های آمریکا زندگی‌شان را بیشتر تحت فشار قرار می‌دهد تا سیاست داخلی",
+            "نتایج نشان‌دهنده نارضایتی عمومی از اثرات اقتصادی تحریم‌هاست"
+        ],
+        "impact": "افزایش فشار داخلی بر دولت ایران برای یافتن راه‌حل‌های اقتصادی",
+        "tag": "عمومی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05RGE2UlRuQUt6NlNJbnktaVlEUDhmT2h1em1YQ09wMWNCOGtjZGFvbWlCdFhBM25jTjBpSW9ncUVYSXZOTWYxeVhQNkJVc253UWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05RGE2UlRuQUt6NlNJbnktaVlEUDhmT2h1em1YQ09wMWNCOGtjZGFvbWlCdFhBM25jTjBpSW9ncUVYSXZOTWYxeVhQNkJVc253UWc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791504602.0
+    },
+    {
         "id": "5beb1b1a15",
         "title_fa": "تهدیدهای ترامپ به ایران؛ استراتژی ترس‌زده",
         "title_en": "The pot calling the kettle red",
@@ -154,6 +172,42 @@
         "timestamp": 1791475753.0
     },
     {
+        "id": "8262133332",
+        "title_fa": "خطای محاسبه‌ای ایران پس از حمله‌حماس",
+        "title_en": "Three years after October 7, Iran pays the price of miscalculation",
+        "summary": [
+            "ادعای ایران درباره محور مقاومت، اما واقعیت جنگ‌های منطقه توانمندی آن را کاهش داد",
+            "فشارهای نظامی اخیر بر خاک ایران نشان داد استراتژی زمان‌بندی اشتباه بود"
+        ],
+        "impact": "کاهش نفوذ منطقه‌ای ایران و افزایش فشار بین‌المللی",
+        "tag": "ژئوپولیتیک",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610082874",
+        "clean_url": "https://www.iranintl.com/en/202610082874",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/7afd30c8901f055bc7c41e6e0fd148a7b9d4af21-1024x768.jpg?rect=0,115,1024,538&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1791475140.0
+    },
+    {
+        "id": "d435114d14",
+        "title_fa": "پنتاگون طرح‌های حمله سه روزه به ایران",
+        "title_en": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates",
+        "summary": [
+            "ارتش آمریکا گزینه‌های حمله کوتاه‌مدت را آماده کرده اما ترامپ مداوم رد می‌کند",
+            "تردید رئیس‌جمهور مانع تشدید جنگ می‌شود و به حریفان زمان می‌دهد"
+        ],
+        "impact": "برنامه‌ریزی نظامی آمریکا در حالت تعلیق، ریسک ارتقای تنش‌های نظامی",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html",
+        "clean_url": "https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html",
+        "image": "http://www.bing.com/th?id=ONUT.dqb1XSBs4rJ8F2UeIOewSw&pid=News",
+        "timestamp": 1791471900.0
+    },
+    {
         "id": "7ac32d1e68",
         "title_fa": "سفیدخانه: تمام گزینه‌های حمله به ایران در دست ترامپ",
         "title_en": "White House on possible Iran strikes before midterms: Trump ‘has all options’",
@@ -208,6 +262,24 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/could-kuwait-be-the-next-country-to-join-the-abraham-accords/ar-AA2dPb7j",
         "image": "https://www.bing.com/th?id=ONUT.93m9NnkC95maZOV4a9u03w",
         "timestamp": 1791469590.6184402
+    },
+    {
+        "id": "75546e28ec",
+        "title_fa": "تحریم جدید آمریکا بر ناوگان سایه‌ای ایران",
+        "title_en": "Iran’s Economy is Teetering on The Brink. The U.S. Is Applying Further Pressure.",
+        "summary": [
+            "وزارت خزانه‌داری 17 کشتی و مالکانشان را به دلیل حمل نفت تحت تحریم هدف قرار داد",
+            "هدف این اقدام خنثی‌سازی منبع میلیاردهای دلاری درآمد نفتی ایران است"
+        ],
+        "impact": "کاهش توان مالی ایران برای تأمین هزینه‌های نظامی و منطقه‌ای",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "International Business Times",
+        "url": "https://www.ibtimes.com/irans-economy-teetering-brink-us-applying-further-pressure-3808398",
+        "clean_url": "https://www.ibtimes.com/irans-economy-teetering-brink-us-applying-further-pressure-3808398",
+        "image": "http://www.bing.com/th?id=ONUT.H0DxRqWRslrS9pHDG2J8lw&pid=News",
+        "timestamp": 1791468060.0
     },
     {
         "id": "0e7b1f4116",
@@ -267,6 +339,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yM1VSbW52VkN3RlJVYzBETmdubmxwMkdwTHZaM253N2RicjFwVWVjRFA0TjgyeXBFVHhQRzFrcVUxZ3FaX09PaTlJcFhTQXJOQnRNRGxXa1UwdllnOGtrN0x6eTJ0SjB3anRfaWR6Z9IBdEFVX3lxTE95SkdKRmlHRHBPSUxoYmpJTkEwU2lzWi1iMjB0UHdSbnExb05pVHpHOGhhZzBRY1hPNW03OHk0R1k5ai1MSWpmWWpjTzFxVTdFTmlhV2lJNGMyUnNzZ1lqdEpURTBaWnljZF9LNHVldlBwRUw0",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791463851.0
+    },
+    {
+        "id": "d1cec0ccb0",
+        "title_fa": "خزانه داری با تحریم‌های جدید ناوگان سایه باقیمانده ایران را هدف قرار داد",
+        "title_en": "Treasury Hits Iran's Remaining Shadow Fleet With New Sanctions",
+        "summary": [
+            "A shadow fleet is a network of aging oil tankers and related companies used to move sanctioned Iranian petroleum while concealing the cargoes' Iranian origin and evading U.S. sanctions, often through..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/treasury-hits-irans-remaining-shadow-191535535.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/treasury-hits-irans-remaining-shadow-191535535.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/9fc9ea12d995a7f464e340ad98bf71b735b36eb0ffff0f35e10a759fac098976/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F60b51158394d67a1882a0320e5508804.jpg",
+        "timestamp": 1791461760.0
     },
     {
         "id": "9631247cd7",
@@ -388,6 +477,24 @@
         "timestamp": 1791452760.0
     },
     {
+        "id": "40d6add17a",
+        "title_fa": "ترامپ تا انتخابات میان‌دوره‌ای حمله به ایران نمی‌کند",
+        "title_en": "Trump says he won't attack Iran until after midterm elections",
+        "summary": [
+            "رئیس‌جمهور آمریکا اعلام کرد تا نوامبر مذاکرات ادامه دارد و حمله عملیاتی به تعویق می‌افتد",
+            "این موضع نشان می‌دهد سیاست داخلی آمریکا بر تصمیمات خارجی حاکم است"
+        ],
+        "impact": "کاهش احتمال تصعید تنش‌های نظامی پیش از انتخابات آمریکا",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "UPI",
+        "url": "https://www.upi.com/Top_News/US/2026/10/08/trump-not-attacking-iran-midterm-elections/7481791489039/",
+        "clean_url": "https://www.upi.com/Top_News/US/2026/10/08/trump-not-attacking-iran-midterm-elections/7481791489039",
+        "image": "http://www.bing.com/th?id=ONUT.NPQyOAbYax_uqd9n7Nc2UQ&pid=News",
+        "timestamp": 1791450300.0
+    },
+    {
         "id": "f41cb06247",
         "title_fa": "ترامپ دستور برنامه‌ریزی حملات جدید به ایران را داد",
         "title_en": "TRUMP PREPARING NEW IRAN STRIKES: Pentagon Ordered To Develop Attack Plans Ahead Of November Elections; Joint U.S.-Israeli Operation Possible",
@@ -406,6 +513,24 @@
         "clean_url": "https://www.theyeshivaworld.com/news/israel-news/2607157/trump-preparing-new-iran-strikes-pentagon-ordered-to-develop-attack-plans-ahead-of-november-elections-joint-u-s-israeli-operation-possible.html",
         "image": "https://www.theyeshivaworld.com/wp-content/uploads/2026/06/Iran-trump.jpg",
         "timestamp": 1791447900.0
+    },
+    {
+        "id": "88e3dadd4b",
+        "title_fa": "رئیس بانک مرکزی: هزینه MDR تاثیر کمی دارد",
+        "title_en": "UPI MDR small fee will not have major impact on volumes: RBI Governor",
+        "summary": [
+            "بانک مرکزی هند می‌گوید هزینه 0.4٪ بر حجم تراکنش‌های UPI اثر قابل‌توجهی ندارد",
+            "این سیاست در کنار افزایش نرخ بهره، نشان از حفظ ثبات ریال دارد"
+        ],
+        "impact": "حفظ حجم تراکنش‌های دیجیتال در هند، فشار محدود بر بازار ارز",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Kashmir Reader",
+        "url": "https://kashmirreader.com/2026/10/08/upi-mdr-small-fee-will-not-have-major-impact-on-volumes-rbi-governor/",
+        "clean_url": "https://kashmirreader.com/2026/10/08/upi-mdr-small-fee-will-not-have-major-impact-on-volumes-rbi-governor",
+        "image": "https://kashmirreader.com/wp-content/uploads/2026/10/RBI-Governor-Sanjay-Malhotra-1024x663.webp",
+        "timestamp": 1791447240.0
     },
     {
         "id": "90354a9810",
@@ -5467,130 +5592,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfdTRpMGkyR3pFREJsZjNoLXlKU3FnZFdvbFRmaXoxdXR2dmwzbWM0dEwxN0E5LW9vOVEwNDBwNVhwQzhBNkY4dXBreXhaRXVZaWc",
         "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791107553.0
-    },
-    {
-        "id": "daffa2b078",
-        "title_fa": "ترامپ باید از کمک چین برای پایان جنگ ایران استفاده کند",
-        "title_en": "Why Trump should welcome China's help to end the Iran war",
-        "summary": [
-            "مقاله استدلال می‌کند منافع آمریکا در خاورمیانه و آسیا با همکاری چین بهتر می‌شود",
-            "پیشنهاد شامل فشارهای اقتصادی مشترک بر ایران برای کاهش تنش‌هاست"
-        ],
-        "impact": "سیاست‌گذاران ممکن است مسیر دیپلماتیک چین برای ایران را بررسی کنند",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Responsible Statecraft",
-        "url": "https://www.msn.com/en-us/news/other/why-trump-should-welcome-chinas-help-to-end-the-iran-war/ar-AA2dvIUK",
-        "clean_url": "https://www.msn.com/en-us/news/other/why-trump-should-welcome-chinas-help-to-end-the-iran-war/ar-AA2dvIUK",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dwc1p.img?w=2000&h=1600&m=4&q=74",
-        "timestamp": 1791105780.0
-    },
-    {
-        "id": "ddb40d7ce1",
-        "title_fa": "حزب‌الله هنوز هزاران موشک دارد",
-        "title_en": "Did the pager operation change the Middle East?",
-        "summary": [
-            "حزب‌الله توان نظامی‌اش کاهش یافته ولی سلاح‌های سنگین را حفظ کرده",
-            "هزاران موشک و موشک‌بالست در اختیار دارد و می‌تواند به‌سرعت به‌روزرسانی کند",
-            "این وضعیت باعث ادامه تهدید به اسرائیل می‌شود"
-        ],
-        "impact": "منطقه خاورمیانه با خطر حملات راکتی به‌خصوص به اسرائیل مواجه می‌شود",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/did-the-pager-operation-change-the-middle-east/ar-AA2dw2GI?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/did-the-pager-operation-change-the-middle-east/ar-AA2dw2GI",
-        "image": "https://www.bing.com/th?id=ONUT.r5nW9wveQ7Mg3Ez6BFp_kg",
-        "timestamp": 1791103079.5482168
-    },
-    {
-        "id": "49d94d5fab",
-        "title_fa": "فشار بر دانش‌آموزان برای «رزمایش جانفدایان»",
-        "title_en": "منابع آگاه از فشار بر پسران دانش‌آموز برای شرکت در «رزمایش جانفدایان» خبر دادند",
-        "summary": [
-            "در شش استان، دانش‌آموزان پسر تحت فشار برای شرکت در «رزمایش جانفدایان» قرار گرفتند",
-            "تهدید اخراج و تعقیب والدین توسط نهادهای امنیتی به کار گرفته شد"
-        ],
-        "impact": "فشار بر جوانان می‌تواند نارضایتی عمومی و اعتراضات مدرسه‌ای را تشدید کند",
-        "tag": "حقوق",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610041219",
-        "clean_url": "https://www.iranintl.com/202610041219",
-        "image": "http://www.bing.com/th?id=ONUT.h4ei2i0ZzTffhy7RgIugmw&pid=News",
-        "timestamp": 1791102780.0
-    },
-    {
-        "id": "b2626ccf2e",
-        "title_fa": "وزیر خارجه ایران: راه‌حل نظامی برای تنش با آمریکا نیست",
-        "title_en": "Iran FM: There is no military solution to conflict with US",
-        "summary": [
-            "وزیر خارجه ایران اعلام کرد جنگ نظامی راه‌حل نیست",
-            "تاکید بر ادامه دیپلماسی و احتمال فشارهای اقتصادی"
-        ],
-        "impact": "تشدید فشارهای دیپلماتیک و احتمال تحریم‌های جدید علیه ایران",
-        "tag": "دیپلوماسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnQxcldLUkhSeDdjRjBneUFaZjlwbkxvYWNnT3docVloRmVSMnlLMTA3Vy1TZUI1Y0VkM0E3TnlEYmtKWExkRl9SeWViNlU5WTI0WVl6RloydEdfVVJOcmZQWlNMOE9sT28tTHBQOFNXVmFoREhkMTdadmNKd1NJeTJpSWVtcjNTZ3Uwcl9ocXpadEtqQ2NnV1lEN2VxMlZkcmlBeHJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnQxcldLUkhSeDdjRjBneUFaZjlwbkxvYWNnT3docVloRmVSMnlLMTA3Vy1TZUI1Y0VkM0E3TnlEYmtKWExkRl9SeWViNlU5WTI0WVl6RloydEdfVVJOcmZQWlNMOE9sT28tTHBQOFNXVmFoREhkMTdadmNKd1NJeTJpSWVtcjNTZ3Uwcl9ocXpadEtqQ2NnV1lEN2VxMlZkcmlBeHJ3",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791101266.0
-    },
-    {
-        "id": "2e1393172c",
-        "title_fa": "وزیر خارجه: تهران برای دیپلماسی و جنگ آماده است",
-        "title_en": "Iran's Foreign Minister Says Tehran Is Ready For Diplomacy And War",
-        "summary": [
-            "وزیر خارجه ایران اعلام کرد ایران هم به دیپلماسی و هم به جنگ آماده است",
-            "این پیام نشان‌دهنده انعطاف‌پذیری استراتژیک تهران در برابر فشارهای بین‌المللی است"
-        ],
-        "impact": "افزایش تنش‌های منطقه‌ای و احتمال واکنش‌های نظامی یا تحریمی",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "kurdistan24.net",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0lJaXFRVFNvcUNaTGItQXdyTTNVNE9SNTJwbmJVUnR1YUYwaXFzSDNvQWdIbkNNTTlrMUtVeUhrUVBsYjFjT0hZaUdaVUZKS19vZGJNNG5QMXhoVzdKS2RsVWhhOENmVDV3Y1RTbjdpdFh6VXhwekg0SzNNU2EyczBXTUhLY2k2VTR1OHZJaUQ3cGhfRWdtMnFvOVMyN20ySFpPNVdoc210blhESnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0lJaXFRVFNvcUNaTGItQXdyTTNVNE9SNTJwbmJVUnR1YUYwaXFzSDNvQWdIbkNNTTlrMUtVeUhrUVBsYjFjT0hZaUdaVUZKS19vZGJNNG5QMXhoVzdKS2RsVWhhOENmVDV3Y1RTbjdpdFh6VXhwekg0SzNNU2EyczBXTUhLY2k2VTR1OHZJaUQ3cGhfRWdtMnFvOVMyN20ySFpPNVdoc210blhESnc",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791100781.0
-    },
-    {
-        "id": "61989a53fa",
-        "title_fa": "مشرق چگونه می‌تواند بر اختلال امنیتی فزاینده خود غلبه کند؟",
-        "title_en": "How Can the Mashriq Overcome Its Escalating Security Disorder?",
-        "summary": [
-            "How Can the Mashriq Overcome Its Escalating Security Disorder? Al Jazeera Centre for Studies"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Al Jazeera Centre for Studies",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5oSzlSdE9aLXcyUHNrT245Y2ZUOU1uOGdQUFl0eks1UERheko2MlYtWk5YeVphZVNidEt1d1N6cmRUNElFTC1JMmxlazBHazNxNnFCb3pfVWNNUi1zeHRWV0NUQ3FUR2tBa0lrOXBfSy1kZzNzVE0yQzVsWFRJeHpaM05vYURUSGFlNUUzeXZtTFJEXzdPeVp4d19kbmItYjh3TDFrcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5oSzlSdE9aLXcyUHNrT245Y2ZUOU1uOGdQUFl0eks1UERheko2MlYtWk5YeVphZVNidEt1d1N6cmRUNElFTC1JMmxlazBHazNxNnFCb3pfVWNNUi1zeHRWV0NUQ3FUR2tBa0lrOXBfSy1kZzNzVE0yQzVsWFRJeHpaM05vYURUSGFlNUUzeXZtTFJEXzdPeVp4d19kbmItYjh3TDFrcw",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791098734.0
-    },
-    {
-        "id": "efedd95e58",
-        "title_fa": "چگونه پرواز دبی به جبهه ای در مبارزه با ایران تبدیل شد",
-        "title_en": "How the Dubai flight became a front in the struggle against Iran",
-        "summary": [
-            "How the Dubai flight became a front in the struggle against Iran www.israelhayom.com"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "www.israelhayom.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmQwZjhsX2N2WEdYVC11QkdTODJJOTF3ekdlOXJIcUJMa2dsZWtQeUZwMnlXMkxtcjFTcVpaWF9jSzJwU2hzTV9XQV96MHdQcFNVSlM5clkzYlYzS1E1RENueWtUaEdXZG92OVZRY1RrWEpNWm96ZEFLc1hjMVNNRl9XNW9qMTNxMjZTd3g4V1hXaXJZZk5KaURwNEt5aVRfR0ZmNw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmQwZjhsX2N2WEdYVC11QkdTODJJOTF3ekdlOXJIcUJMa2dsZWtQeUZwMnlXMkxtcjFTcVpaWF9jSzJwU2hzTV9XQV96MHdQcFNVSlM5clkzYlYzS1E1RENueWtUaEdXZG92OVZRY1RrWEpNWm96ZEFLc1hjMVNNRl9XNW9qMTNxMjZTd3g4V1hXaXJZZk5KaURwNEt5aVRfR0ZmNw",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791095625.0
     }
 ]
