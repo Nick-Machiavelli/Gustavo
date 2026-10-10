@@ -1,5 +1,85 @@
 [
     {
+        "id": "74a6308059",
+        "title_fa": "تجلیل ترامپ از دیزل روسی: انتقادهای شدید اوکراین",
+        "title_en": "Trump’s Putin deal is a desperate attempt to win voters – Ukraine will pay for it",
+        "summary": [
+            "تحلیل‌گران اوکراینی می‌گویند توافق دیزل، سلاحی برای ادامه جنگ روسیه است",
+            "ترامپ این گام را برای جذب رأی‌داران خود می‌داند",
+            "تصمیم می‌تواند تحریم‌های غرب را تضعیف کند",
+            "واکنش‌های داخلی آمریکا به این معامله تند است"
+        ],
+        "impact": "احتمال افزایش حمایت روسیه از جنگ و کاهش فشار اقتصادی",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "inews.co.uk on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/trump-s-putin-deal-is-a-desperate-attempt-to-win-voters-ukraine-will-pay-for-it/ar-AA2dX9Sc?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/trump-s-putin-deal-is-a-desperate-attempt-to-win-voters-ukraine-will-pay-for-it/ar-AA2dX9Sc",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791643484.5314586
+    },
+    {
+        "id": "0045668b4a",
+        "title_fa": "ترامپ و نتانیاهو: دو رقیب فساد بین‌المللی",
+        "title_en": "Birds of a Feather",
+        "summary": [
+            "هر دو رهبر تحت تعقیب دادگاهی در کشور خود هستند",
+            "نتانیاهو با اتهام رشوه و تقلب، ترامپ با اتهام سوءاستفاده جنسی و اسناد طبقه‌بالا مواجه‌اند",
+            "دادگاه ژروال اسرائیل هنوز پرونده نتانیاهو را بررسی می‌کند",
+            "دادگاه بین‌المللی ICC برای نتانیاهو حکم دستگیری صادر کرده"
+        ],
+        "impact": "احتمال تضعیف اعتبار سیاسی هر دو کشور و تشدید فشارهای بین‌المللی",
+        "tag": "فساد",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/10/10/birds-of-a-feather-3/",
+        "clean_url": "https://www.counterpunch.org/2026/10/10/birds-of-a-feather-3",
+        "image": "https://www.bing.com/th?id=ONUT.NIg0S0so3KiOM73Uucgb7Q",
+        "timestamp": 1791643484.5302699
+    },
+    {
+        "id": "01c55a25da",
+        "title_fa": "پوتین طرح جنگ ایران را به ترامپ منتقل کرد",
+        "title_en": "Putin relayed Iran war proposal to Trump, Kremlin says",
+        "summary": [
+            "کرملین ادعا می‌کند پوتین پیشنهاد جنگ ایران علیه اسرائیل را به ترامپ رسانده",
+            "این ادعا نشانگر نزدیک شدن روابط استراتژیک روسیه‑ایران‑آمریکا است",
+            "هیچ مدرک مستقلی منتشر نشده",
+            "اگر صحت داشته باشد، می‌تواند تغییر اساسی در سیاست خاورمیانه ایجاد کند"
+        ],
+        "impact": "احتمال برنامه‌ریزی عملیات نظامی مشترک و تغییر تعادل منطقه‌ای",
+        "tag": "جنگ",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZ9IBgAFBVV95cUxOQTZlbjRaZGxKSXVpakFCZGtHekNRRGdLZUd4UGc3a0pyNnk3aGlFQmdNVEN0LXRXQ2dQNDV4RUpMY2UtYlVieTlDck5tZkQtVXNYSS1lV1c1QzVFR1NqQnJRZHJHMVFIT3FiSkFPMnFQclRfLVlmOFZZakxIZUxteg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZ9IBgAFBVV95cUxOQTZlbjRaZGxKSXVpakFCZGtHekNRRGdLZUd4UGc3a0pyNnk3aGlFQmdNVEN0LXRXQ2dQNDV4RUpMY2UtYlVieTlDck5tZkQtVXNYSS1lV1c1QzVFR1NqQnJRZHJHMVFIT3FiSkFPMnFQclRfLVlmOFZZakxIZUxteg",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791639706.0
+    },
+    {
+        "id": "9cb0711d75",
+        "title_fa": "ایالات متحده فشار برای عملیات منفرد اسرائیل علیه ایران",
+        "title_en": "US pushed for lone Israeli Iran operation as midterm elections loom",
+        "summary": [
+            "منابع خبری می‌گویند واشنگتن پیش از انتخابات میانی، اسرائیل را برای حمله تک‌جانبه به ایران تشویق می‌کند",
+            "هدف جلوگیری از پیشرفت برنامه هسته‌ای ایران است",
+            "این فشار می‌تواند به تشدید تنش‌های نظامی منجر شود",
+            "هنوز برنامه‌ای رسمی اعلام نشده"
+        ],
+        "impact": "افزایش خطر برخورد نظامی ناگهانی در خاورمیانه",
+        "tag": "ایران",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeGdLcFpkcDRnT1pFNEJIWlluQ0VjdlNESzJFandBNzVBQlotbnJLNURiTC16V1VwdG9qQnhaaldWN0F3SmJ0VkRBa2o3UWxydFZrZHNlNElIZy1OMTZJcVctMlktbnRqbUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeGdLcFpkcDRnT1pFNEJIWlluQ0VjdlNESzJFandBNzVBQlotbnJLNURiTC16V1VwdG9qQnhaaldWN0F3SmJ0VkRBa2o3UWxydFZrZHNlNElIZy1OMTZJcVctMlktbnRqbUE",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791637246.0
+    },
+    {
         "id": "b16813a316",
         "title_fa": "قدرت نیروی‌دریایی آمریکا هزینه‌های جهانی را کاهش داد",
         "title_en": "Commentary: What America’s naval power bought the world",
@@ -162,6 +242,26 @@
         "clean_url": "https://ndtv.in/world-news/donald-trump-russia-diesel-deal-sanctions-policy-u-turn-india-china-tariff-rules-controversy-iran-war-12164965",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791612836.2215545
+    },
+    {
+        "id": "91a5e554d0",
+        "title_fa": "حمله به هرمز: ایران با موشک‌های بالستیک مجهز",
+        "title_en": "Strait of Hormuz attacks up as sources say Iran is 'well-stocked' with missiles — despite Trump's claims",
+        "summary": [
+            "منابع غربی ادعا می‌کنند ایران موجودی موشک بالستیک و ضدکشتی را افزایش داده",
+            "این ادعاها پس از ادعای ترامپ مبنی بر «موجودی کافی» منتشر شد",
+            "تنش‌های دریایی خلیج فارس به اوج رسیده",
+            "هنوز هیچ تأیید رسمی از ایران دریافت نشده"
+        ],
+        "impact": "افزایش خطر برخورد ناگهانی در مسیرهای تجاری خلیج",
+        "tag": "هرمز",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Mediaite on MSN",
+        "url": "https://www.msn.com/en-us/news/other/strait-of-hormuz-attacks-up-as-sources-say-iran-is-well-stocked-with-missiles-despite-trumps-claims/ar-AA2dXB6q",
+        "clean_url": "https://www.msn.com/en-us/news/other/strait-of-hormuz-attacks-up-as-sources-say-iran-is-well-stocked-with-missiles-despite-trumps-claims/ar-AA2dXB6q",
+        "image": "http://www.bing.com/th?id=ONUT.YCRE2SLVlm1YGOOxs9J1ww&pid=News",
+        "timestamp": 1791610415.0
     },
     {
         "id": "ea4d3ec9bb",
@@ -968,6 +1068,26 @@
         "clean_url": "https://www.iranintl.com/en/202610097417",
         "image": "http://www.bing.com/th?id=ONUT.Ml8W4r4Sr1kLrqbKtNxV1Q&pid=News",
         "timestamp": 1791557460.0
+    },
+    {
+        "id": "53dccefe5a",
+        "title_fa": "اوکراین پس از توافق دیزل، پایگاه نفتی روسیه هدف شد",
+        "title_en": "‘Weak Decision’: Zelenskyy Strikes Russian Oil Hub Hours After Trump-Putin Diesel Deal",
+        "summary": [
+            "اوکراین ساعت‌ها پس از اعلام ترامپ درباره دیزل روسی، پایگاه یوج روسی را مورد حمله قرار داد",
+            "آتش‌سوزی و خسارت به پل راه‌آهن در روستوف‑آن‑دون گزارش شد",
+            "توان خروجی سالانه ۳٫۵ میلیون تن را هدف گرفت",
+            "این حمله نشانگر تشدید جنگ انرژی بین روسیه و غرب است"
+        ],
+        "impact": "کاهش توان صادرات نفت روسیه و فشار بیشتر بر مذاکرات انرژی",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/europe/weak-decision-zelensky-strikes-russian-oil-hub-hours-after-trump-putin-diesel-deal-article-156310808",
+        "clean_url": "https://www.timesnownews.com/world/europe/weak-decision-zelensky-strikes-russian-oil-hub-hours-after-trump-putin-diesel-deal-article-156310808",
+        "image": "https://www.bing.com/th?id=ONUT.Ob4SCJ-7xMsVdCUSk1QxKQ",
+        "timestamp": 1791557075.0
     },
     {
         "id": "b16d73bc72",
@@ -5512,115 +5632,5 @@
         "clean_url": "https://warontherocks.com/iran-faces-severe-challenges-to-rebuild-missile-and-drone-production",
         "image": "https://www.bing.com/th?id=ONUT.4tyaKYLNkxcF5zLEgoBvFA",
         "timestamp": 1791273235.2065232
-    },
-    {
-        "id": "fb5c90cb62",
-        "title_fa": "قیمت نفت با کاهش صادرات خاورمیانه آرام شد",
-        "title_en": "Oil slips as Mideast exports, G7 stockpile ease supply concerns",
-        "summary": [
-            "صادرات نفت خاورمیانه و کاهش ذخایر G7 فشار بر بازار را کم کرد",
-            "تحلیل‌گران پیش‌بینی می‌کنند قیمت‌ها تا پایان ماه زیر ۸۰ دلار بماند"
-        ],
-        "impact": "کاهش قیمت نفت به سود واردکنندگان انرژی و فشار بر درآمدهای نفتی ایران",
-        "tag": "نفت",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/oil-slips-as-mideast-exports-g7-stockpile-ease-supply-concerns/ar-AA2dEBgZ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/oil-slips-as-mideast-exports-g7-stockpile-ease-supply-concerns/ar-AA2dEBgZ",
-        "image": "https://www.bing.com/th?id=ONUT._H57bszoQ0usgeT2v4qW0g",
-        "timestamp": 1791273235.2039807
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "تحلیل وضعیت سیاسی آمریکا: رقابت ترامپ‌پسندها",
-        "title_en": "US latest news",
-        "summary": [
-            "جِی‌دی ونس و تد کروز برای رهبری جمهوری‌خواهان رقابت می‌کنند، اما هیچ‌کدام به‌عنوان ترامپ شناخته نمی‌شوند",
-            "تحلیلگرها می‌گویند این رقابت می‌تواند مسیر انتخابات 2028 را شکل دهد",
-            "اشاره به تأثیر اظهارات ترامپ بر اقتصاد و سیاست داخلی"
-        ],
-        "impact": "تشدید رقابت داخلی حزب جمهوری‌خواه، ممکن است سیاست‌های خارجی آمریکا را تحت تأثیر قرار دهد",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1791272760.0
-    },
-    {
-        "id": "4a8143a56b",
-        "title_fa": "اتحاد اروپا در مقالات متنوع",
-        "title_en": "European Union",
-        "summary": [
-            "مجموعه‌ای از مقالات کوتاه درباره سیاست‌های داخلی و خارجی اتحادیه اروپا منتشر شد",
-            "موضوعات شامل انتخابات، فناوری و دموکراسی بود"
-        ],
-        "impact": "هیچ تأثیر مستقیم بر ایران ندارد",
-        "tag": "اروپا",
-        "urgency": 1,
-        "sentiment": 0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/eu",
-        "clean_url": "https://www.theguardian.com/world/eu",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=world",
-        "timestamp": 1791272280.0
-    },
-    {
-        "id": "55f381f8db",
-        "title_fa": "ماراندی: بازگشت دیپلماسی آمریکا‑ایران پیش‌شرط تعهدات",
-        "title_en": "Can US-Iran diplomacy restart? Marandi says commitments come first",
-        "summary": [
-            "محمد ماراندی گفت بازگشت دیپلماسی آمریکا‑ایران فقط پس از تعهدات واضح هر دو طرف امکان‌پذیر است",
-            "او تأکید کرد مذاکرات باید بر پایهٔ رفع تحریم‌ها و تضمین امنیت منطقه باشد",
-            "اگر تعهدات عملی شود، می‌تواند فشار اقتصادی بر ایران را کاهش دهد"
-        ],
-        "impact": "امکان کاهش تحریم‌ها و بهبود وضعیت اقتصادی ایران",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zazFMdFhiLXlCeWRIaG9fZ0M5Rk9xS0tmMy0zT3RFZUJKdTFVNDZsX3Zac3kzZE83b1VDVUlqQlpoYlBKZ0laZ2tocHpIV2FBTG9RUmJsYnIwelFEa2VPZNIBXEFVX3lxTE55bjU2ZzloenpVTmZuN0dIRXUyX09CUTZOcDVGRHllOUZYWVY2ZWNFVng2ZVQyb0IwMU5INy1TbldUMUxuV0tMZkhtS0dPN19wYXpBXzF3bkwtYmYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zazFMdFhiLXlCeWRIaG9fZ0M5Rk9xS0tmMy0zT3RFZUJKdTFVNDZsX3Zac3kzZE83b1VDVUlqQlpoYlBKZ0laZ2tocHpIV2FBTG9RUmJsYnIwelFEa2VPZNIBXEFVX3lxTE55bjU2ZzloenpVTmZuN0dIRXUyX09CUTZOcDVGRHllOUZYWVY2ZWNFVng2ZVQyb0IwMU5INy1TbldUMUxuV0tMZkhtS0dPN19wYXpBXzF3bkwtYmYw",
-        "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791272145.0
-    },
-    {
-        "id": "0e4e9b6df2",
-        "title_fa": "قانون‌گذار: دولت نباید امید مردم را بگیرد",
-        "title_en": "Iran lawmaker says officials must not dash public hopes amid economic hardship",
-        "summary": [
-            "نماینده مجلس نوین به بحران تورم و قیمت‌ها اشاره کرد",
-            "او معتقد است مردم وفادار به انقلاب اصلی‌ترین سرمایه کشور هستند",
-            "هشدار داد که از دست دادن امید می‌تواند ناآرامی ایجاد کند"
-        ],
-        "impact": "بیان این نگرانی می‌تواند فشار داخلی برای اصلاحات اقتصادی را افزایش دهد",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610065264",
-        "clean_url": "https://www.iranintl.com/en/202610065264",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791270900.0
-    },
-    {
-        "id": "84d425d323",
-        "title_fa": "خشم در کالیفرنیا پس از اینکه ترامپ پیشنهاد کرد ایران می‌تواند لس آنجلس یا سن دیگو را \"خروج\" کند.",
-        "title_en": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
-        "summary": [
-            "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego The New York Times"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON29pRkdEczdWT2Y4ZW42aV9QQS1sNnl0UmRDMVNIczJ0Ynh3ZlNEOVVpUkd5ZFpSZjQ2MWY2VXNoR1JDRlhHdDdmY2h5UngzUC05VjZkaldUdUZpUjhCWFNudkIyOGJvbEt6UUJYdmpJU1p5VVUzRWM2dV85cnpDRWo5RHlCcUJ1VVFN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON29pRkdEczdWT2Y4ZW42aV9QQS1sNnl0UmRDMVNIczJ0Ynh3ZlNEOVVpUkd5ZFpSZjQ2MWY2VXNoR1JDRlhHdDdmY2h5UngzUC05VjZkaldUdUZpUjhCWFNudkIyOGJvbEt6UUJYdmpJU1p5VVUzRWM2dV85cnpDRWo5RHlCcUJ1VVFN",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791270717.0
     }
 ]
