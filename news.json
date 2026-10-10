@@ -1,5 +1,43 @@
 [
     {
+        "id": "5194e09afe",
+        "title_fa": "درآمد نفتی ایران تا دسامبر ممکن است صفر شود",
+        "title_en": "Message attributed to Khamenei praises Iran police chief",
+        "summary": [
+            "کاهش حجم نفت کشتی‌های خارج از محاصره از ۹۰ به ۸ میلیون بشکه نشان‌دهنده فشار بحرانی تحریم‌های دریایی است",
+            "اگر محاصره ادامه یابد، ایران ماهانه ۳ تا ۶ میلیارد دلار درآمد نفتی از دست می‌دهد",
+            "دسامبر آخرین فرصت دریافت پرداخت‌های چینی است؛ پس از آن درآمد به صفر می‌رسد"
+        ],
+        "impact": "دولت با کمبود چند میلیارد دلاری ماهانه مواجه می‌شود و فشار بر بودجه و خدمات عمومی شدید می‌شود",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610101133",
+        "clean_url": "https://www.iranintl.com/en/202610101133",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791657660.0
+    },
+    {
+        "id": "2c9612ea57",
+        "title_fa": "پس از جلوگیری از برنامه هسته‌ای، امنیت هرمز در خطر",
+        "title_en": "First Preventing a Nuclear Iran. Now Securing Hormuz. Where Does the War End?",
+        "summary": [
+            "حمایت اسرائیل از جلوگیری برنامه هسته‌ای ایران به تغییر استراتژی به کنترل مسیرهای نفتی منجر شده",
+            "تمرکز جدید بر امنیت هرمز می‌تواند به محاصره اقتصادی جدیدی برای کشتی‌های تجاری منجر شود",
+            "سؤال اصلی این است که جنگ در کجا به پایان می‌رسد: در هسته یا در مسیرهای تجاری"
+        ],
+        "impact": "تغییر تمرکز به هرمز فشار بر کشتی‌های تجاری را افزون می‌کند و ریسک تصادم‌های نظامی را بالا می‌برد",
+        "tag": "ژئوپلیتیک",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOC1oN3YyT3IxS2ZFVy0xMEt1NFl6U1ZqV1A1TmtxajZpaVA1cEZ5YVBUNFZaTmpCYU5wU2JzN2JmdDVQMFZBUDZWS1pBQXhhNzBscmI1YmVrVzluN1BGQzhDOWc5dUxOMkZVM0hfdGI4ZUVLc0ItaWx0RkRkbXFqUGNQbGlVVW9ENmdQdHktMmV4YTgyOFBPZzFqNTFNRmhPRVlidmZiYUdhYlAydHhCZHNQREZyRWtQdmFHRWZxZGd1LVFnYXhJbWhKeEpFLXlsSFJaaWNwQ3NDUVBBMTZ1ZGJpX2ljbWFNekdwRG1JY0FhN3ZNSWpVQlRab2ZMVzhfY3N4LVN6ZjJORDB5SWFndg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOC1oN3YyT3IxS2ZFVy0xMEt1NFl6U1ZqV1A1TmtxajZpaVA1cEZ5YVBUNFZaTmpCYU5wU2JzN2JmdDVQMFZBUDZWS1pBQXhhNzBscmI1YmVrVzluN1BGQzhDOWc5dUxOMkZVM0hfdGI4ZUVLc0ItaWx0RkRkbXFqUGNQbGlVVW9ENmdQdHktMmV4YTgyOFBPZzFqNTFNRmhPRVlidmZiYUdhYlAydHhCZHNQREZyRWtQdmFHRWZxZGd1LVFnYXhJbWhKeEpFLXlsSFJaaWNwQ3NDUVBBMTZ1ZGJpX2ljbWFNekdwRG1JY0FhN3ZNSWpVQlRab2ZMVzhfY3N4LVN6ZjJORDB5SWFndg",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791655320.0
+    },
+    {
         "id": "ad1a65e56d",
         "title_fa": "خبر بین‌المللی — Americans are turning dark در ترامپ, جمهوری‌خواهان خواهد pay",
         "title_en": "Americans are turning dark on Trump, Republicans will pay in midterm elections",
@@ -32,6 +70,25 @@
         "clean_url": "https://www.msn.com/it-it/notizie/other/il-gasolio-russo-agli-usa-e-quella-propaganda-elettorale-a-spese-dell-ucraina/ar-AA2dXxzX",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791654112.0090182
+    },
+    {
+        "id": "6de8905856",
+        "title_fa": "کشتی نفتی در هرمز به مین دریایی برخورد کرد",
+        "title_en": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report",
+        "summary": [
+            "سازمان سپاه پاسداران ادعا کرد کشتی به مین‌گذاری ایران برخورد کرده؛ این می‌تواند پیام هشدار برای ناوگان تجاری باشد",
+            "انفجار باعث توقف موقت عبور نفت از تنگه هرمز شد",
+            "اگر ادعای ایران صحت داشته باشد، خطر گسترش عملیات مین‌گذاری در مسیرهای تجاری افزایش می‌یابد"
+        ],
+        "impact": "اختلال در عبور میلیون‌ها بشکه نفت، ریسک افزایش قیمت جهانی و تشدید تنش‌های نظامی را به دنبال دارد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791652595.0
     },
     {
         "id": "74a6308059",
@@ -243,6 +300,23 @@
         "timestamp": 1791621792.892115
     },
     {
+        "id": "23412ccdbd",
+        "title_fa": "کپلر: درآمد نفتی ایران در صورت تداوم محاصره آمریکا ممکن است تا اواخر آذر به صفر برسد",
+        "title_en": "کپلر: درآمد نفتی ایران در صورت تداوم محاصره آمریکا ممکن است تا اواخر آذر به صفر برسد",
+        "summary": [
+            "همایون فلکشاهی، رییس بخش تحلیل نفت خام شرکت اطلاعات انرژی کپلر، به ایران‌اینترنشنال گفت اگر محاصره دریایی آمریکا علیه جمهوری اسلامی ادامه یابد، درآمد حاصل از صادرات نفت خام و میعانات گازی ایران ممکن ا..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610100070",
+        "clean_url": "https://www.iranintl.com/202610100070",
+        "image": "http://www.bing.com/th?id=ONUT.RwLAhaheBotZerG3fhOdmw&pid=News",
+        "timestamp": 1791621480.0
+    },
+    {
         "id": "871663eaa4",
         "title_fa": "ترامپ پس از رد نوبل: باید هشت جایزه می‌گرفت",
         "title_en": "ترامپ پس از نگرفتن جایزه صلح نوبل: باید هشت جایزه می‌گرفتم،‌نه فقط یکی",
@@ -426,6 +500,25 @@
         "clean_url": "https://www.iranintl.com/202610109777",
         "image": "http://www.bing.com/th?id=ONUT.sh3itiHi8e7wR5fxVJS_jg&pid=News",
         "timestamp": 1791608940.0
+    },
+    {
+        "id": "98287aed70",
+        "title_fa": "پرواز مسدود شده کاسپین به ایران بازگشت",
+        "title_en": "Caspian Airlines plane returns to Iran after seizure in Turkey",
+        "summary": [
+            "هواپیمای کاسپین پس از توقیف در ترکیه به دلیل بدهی‌های مالی به ایران برگشت؛ این نشان می‌دهد فشارهای مالی تا حدی کاهش یافته",
+            "تصاویر ماهواره‌ای تعمیرات و فعالیت‌های جدید در کمپ مینزادی شمال شرق تهران را نشان می‌دهد",
+            "بازگشت هواپیما امکان ادامه خدمات هوایی و تقویت توان حمل‌ونقل هوایی ایران را فراهم می‌کند"
+        ],
+        "impact": "ایران می‌تواند خدمات هوایی داخلی را حفظ کرده و وابستگی به مسیرهای هوایی خارجی را کاهش دهد",
+        "tag": "هوانوردی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610100478",
+        "clean_url": "https://www.iranintl.com/en/202610100478",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791607980.0
     },
     {
         "id": "91168295ed",
@@ -5530,101 +5623,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93cEtTcmRaQm04RTdROTUtUm80V214eGRjaDlLcGh5d0NLcG9Ud1VnM1Vhc1hpTzV5VDI1ZjQ4ZHZqLVZReGFHX2xFOXVEeTVJWThpVm1HNWRQdkU",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791303757.0
-    },
-    {
-        "id": "b1b91b9e35",
-        "title_fa": "ترمپ شوخی کرد: ایران می‌تواند لس آنجلس را هدف بگیرد",
-        "title_en": "Donald Trump just delivered the most insulting remark of his presidency and the price is going to be high",
-        "summary": [
-            "ترمپ در تجمع نبراسکا گفت ایران می‌تواند لس آنجلس و سن دیگو را هدف بگیرد",
-            "شهردار لس آنجلس واکنش تند نشان داد و تهدید را محکوم کرد",
-            "این اظهارنظر می‌تواند تنش‌های دیپلماتیک را تشدید کند"
-        ],
-        "impact": "احتمال افزایش تنش‌های نظامی‑سیاستی بین آمریکا و ایران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/donald-trump-just-delivered-the-most-insulting-remark-of-his-presidency-and-the-price-is-going-to-be-high/ar-AA2dGEFa?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-just-delivered-the-most-insulting-remark-of-his-presidency-and-the-price-is-going-to-be-high/ar-AA2dGEFa",
-        "image": "https://www.bing.com/th?id=ONUT.AQpcJdpnAwoEW71POJT3xA",
-        "timestamp": 1791303003.3102129
-    },
-    {
-        "id": "ff49e7b6e7",
-        "title_fa": "اسکارباروگی واکنش به اظهارنظر ترمپ",
-        "title_en": "Is that where we are? Joe Scarborough can't believe Trump's killing comment",
-        "summary": [
-            "اسکارباروگی در برنامه‌اش به اظهارنظر ترمپ درباره قتل اشاره کرد",
-            "او تاریخچه‌ای از شوخی‌های مشابه رؤسای جمهور ارائه داد"
-        ],
-        "impact": "افزایش فشار رسانه‌ای بر ترمپ برای کنترل گفتار",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "HuffPost on MSN",
-        "url": "https://www.msn.com/en-us/news/other/is-that-where-we-are-joe-scarborough-can-t-believe-trump-s-killing-comment/ar-AA2dGdut?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/is-that-where-we-are-joe-scarborough-can-t-believe-trump-s-killing-comment/ar-AA2dGdut",
-        "image": "https://www.bing.com/th?id=ONUT.FkDnbvvzDulzdGFNtOrF4Q",
-        "timestamp": 1791303003.3099058
-    },
-    {
-        "id": "75ec76750d",
-        "title_fa": "هفت‌امین مظنون حمله به پایگاه فرفورد بازداشت شد",
-        "title_en": "پلیس بریتانیا هفتمین مظنون طرح احتمالی حمله به پایگاه فرفورد را بازداشت کرد",
-        "summary": [
-            "پلیس بریتانیا مرد ۲۲ ساله بریتانیایی را به تدارک حمله در وست‌مینستر بازداشت کرد",
-            "این پرونده به حضور بمبافکن‌های آمریکایی در فرفورد و نقش احتمالی ایران اشاره دارد",
-            "پنج بازداشت قبلی نیز در این تحقیق انجام شده بود"
-        ],
-        "impact": "بازداشت بیشتر مظنونان می‌تواند مانع برنامه‌ریزی حمله واقعی علیه پایگاه آمریکایی شود",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610064576",
-        "clean_url": "https://www.iranintl.com/202610064576",
-        "image": "http://www.bing.com/th?id=ONUT.rtQA0yV8rPme6dlbsIjDVg&pid=News",
-        "timestamp": 1791302220.0
-    },
-    {
-        "id": "85797607dd",
-        "title_fa": "ترامپ: ایران می‌تواند لس آنجلس را هدف بگیرد",
-        "title_en": "Trump says Iran could ‘take out’ LA. Its missiles can’t reach that far.",
-        "summary": [
-            "ترامپ در کمپین خود ادعا کرد ایران می‌تواند شهرهای آمریکا را هدف بگیرد",
-            "تحلیل‌های دفاعی حداکثر برد موشک‌های ایران را ۱۲۰۰ مایل می‌دانند، در مقابل ۷۵۰۰ مایل فاصله",
-            "هیچ سلاح هسته‌ای شناخته‌شده‌ای در اختیار ایران نیست",
-            "این ادعاها می‌توانند ترس عمومی ایجاد کنند ولی پایه علمی ندارند"
-        ],
-        "impact": "افزایش اضطراب عمومی در ایالات، اما اثر عملی محدود",
-        "tag": "موشک",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "Insider",
-        "url": "https://www.businessinsider.com/iran-los-angeles-san-diego-nuclear-weapon-strike-trump-2026-10",
-        "clean_url": "https://www.businessinsider.com/iran-los-angeles-san-diego-nuclear-weapon-strike-trump-2026-10",
-        "image": "http://www.bing.com/th?id=ONUT.tNQ4fJO0lVRCQ4EOp8QW7w&pid=News",
-        "timestamp": 1791300300.0
-    },
-    {
-        "id": "d127a128f6",
-        "title_fa": "پهلوی: همبستگی برای پایان اعدام‌ها و نابودی رژیم",
-        "title_en": "دفتر شاهزاده رضا پهلوی: راه توقف اعدام‌ها، همبستگی برای نابودی جمهوری اسلامی است",
-        "summary": [
-            "دفتر شاهزاده رضا پهلوی پس از اعدام چندین معترض، خواستار همصدا شدن مردم شد",
-            "او می‌گوید کشتار جزئی از سرشت رژیم است",
-            "هدف توقف اعدام‌ها، همبستگی ملی برای سرنگونی حکومت است",
-            "این پیام می‌تواند موج جدیدی از اعتراضات را تحریک کند"
-        ],
-        "impact": "تشدید اعتراضات داخلی و فشار بین‌المللی بر رژیم",
-        "tag": "حقوق بشر",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610061530",
-        "clean_url": "https://www.iranintl.com/202610061530",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791299700.0
     }
 ]
