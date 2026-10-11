@@ -592,6 +592,26 @@
         "timestamp": 1791678085.4154131
     },
     {
+        "id": "da0499aadd",
+        "title_fa": "ترمینال فرودگاه ریاض دوباره هدف حمله شد",
+        "title_en": "Saudi airport passenger terminal is struck again, a day after 12 were killed",
+        "summary": [
+            "حمله موشکی حوثی‌ها به ترمینال‌های 3 و 4 فرودگاه بین‌المللی ریاض، 12 کشته و بیش از 300 مصدوم به‌وجود آورد.",
+            "این دومین حمله در دو روز و چهارمین هدف در پنج روز گذشته است؛ فشار بر ارتش سعودی و ایالات متحده را افزاش می‌دهد.",
+            "ترامپ اعلام کرد ممکن است به مبارزه با حوثی‌ها بپیوندد؛ حضور نظامی آمریکا در خلیج فارس می‌تواند گسترش یابد.",
+            "بسته شدن فرودگاه، ترافیک هوایی و تجارت منطقه را به‌طور جدی مختل می‌کند."
+        ],
+        "impact": "بسته شدن فرودگاه ریاض و احتمال گسترش حضور نظامی آمریکا، حمل و نقل هوایی خلیج فارس و اقتصاد منطقه را تحت فشار شدید قرار می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/10/11/saudi-airport-passenger-terminal-is-struck-again-a-day-after-12-were-killed/",
+        "clean_url": "https://www.sun-sentinel.com/2026/10/11/saudi-airport-passenger-terminal-is-struck-again-a-day-after-12-were-killed",
+        "image": "https://www.bing.com/th?id=ONUT.p2yEq_iRlzqiDjKJ-hbLEg",
+        "timestamp": 1791670697.0
+    },
+    {
         "id": "cbb6c1a408",
         "title_fa": "یمن ۹۰۰ حوثی را در ۱۷۳۲ حمله نابود کرد",
         "title_en": "Yemeni forces say more than 900 Iran-backed Houthis neutralized in 1,732 strikes",
@@ -5623,25 +5643,5 @@
         "clean_url": "https://www.foxnews.com/live-news/us-iran-war-vance-talks-tehran-nuclear-program-10-07-26",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/7c125e5223ef298c4428dbae4068a113.jpg",
         "timestamp": 1791403560.0
-    },
-    {
-        "id": "15eacacded",
-        "title_fa": "قیمت برنت به ۱۰۲ دلار رسید؛ نگرانی از تنگه هرمز",
-        "title_en": "نفت برنت با تشدید نگرانی‌های خاورمیانه به مرز ۱۰۲ دلار رسید",
-        "summary": [
-            "نفت برنت به بالاترین سطح هفته در ۱۰۲ دلار رسید.",
-            "نگرانی‌ها درباره امنیت عرضه در خاورمیانه قیمت را هل داد.",
-            "تحلیل‌گران اشاره کردند احتمال حمله آمریکا به ایران می‌تواند عرضه را مختل کند.",
-            "هر گونه تشدید تنش در هرمز می‌تواند فشار صعودی بر قیمت‌ها را ادامه دهد."
-        ],
-        "impact": "قیمت بالای نفت می‌تواند تورم جهانی را تشدید کند.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610089081",
-        "clean_url": "https://www.iranintl.com/202610089081",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791402720.0
     }
 ]
