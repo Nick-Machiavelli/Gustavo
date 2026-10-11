@@ -1,5 +1,23 @@
 [
     {
+        "id": "1d85411d3f",
+        "title_fa": "عملیات خطرناک ترامپ که کمتر شناخته شده است",
+        "title_en": "This is Trump's most dangerous operative — and few Americans have heard of him | Opinion",
+        "summary": [
+            "مقاله به نقش یک کارگزار مخفی در ادارات سفید می‌پردازد",
+            "این فرد بارها اطلاعات را دستکاری کرده و به توجیه سیاست‌های ترامپ کمک کرده است"
+        ],
+        "impact": "اعتماد عمومی به دولت زیر فشار جدی قرار می‌گیرد",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Raw Story on MSN",
+        "url": "https://www.msn.com/en-in/news/other/this-is-trumps-most-dangerous-operative-and-few-americans-have-heard-of-him-opinion/ar-AA2e0lIX?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/this-is-trumps-most-dangerous-operative-and-few-americans-have-heard-of-him-opinion/ar-AA2e0lIX",
+        "image": "https://www.bing.com/th?id=ONUT.2hg-lUSAmwiAzWPti4ht2Q",
+        "timestamp": 1791725864.184947
+    },
+    {
         "id": "aeabe3097b",
         "title_fa": "آیندهٔ ایران به مردم می‌سپارند؛ نه جدایی‌طلبان",
         "title_en": "Iran’s future will be decided by its people, not separatist factions",
@@ -129,6 +147,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791713513.0
+    },
+    {
+        "id": "087f1c93ab",
+        "title_fa": "رئیس هسته‌ای ایران، ساکت‌کاری انتخابی آژانس را متهم کرد",
+        "title_en": "Iran nuclear chief accuses IAEA of selective silence over attacks on its facilities",
+        "summary": [
+            "مسئول هسته‌ای ایران ادعا کرد آژانس بین‌المللی انرژی به حملات به تأسیساتش بی‌توجه مانده",
+            "روسیه حمایت خود را از تهران تأیید کرد اما در جنگ ۱۲ روزه کمکی نکرد"
+        ],
+        "impact": "تنش‌های هسته‌ای بین‌المللی تشدید می‌شود",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610119962",
+        "clean_url": "https://www.iranintl.com/en/202610119962",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791711780.0
     },
     {
         "id": "60267023f5",
@@ -778,6 +814,42 @@
         "clean_url": "https://www.mercurynews.com/2026/10/10/park-service-could-remove-more-than-500-trees-at-historic-golf-course-trump-wants-to-redesign",
         "image": "http://www.bing.com/th?id=ONUT.7Nu_cgzfQnp3i0eA943CtA&pid=News",
         "timestamp": 1791639540.0
+    },
+    {
+        "id": "619ad8ee6c",
+        "title_fa": "ال‑سید در میانه انتخابات میشیگان به رقیب حمله می‌کند",
+        "title_en": "Republicans Want Abdul El-Sayed To Be The Main Character Of The Midterms. He's Happy To Oblige",
+        "summary": [
+            "ال‑سید رقیب جمهوری‌خواه را «ترسیده» نامید و سؤال درباره تهدید ایران/اسرائیل را «احمقانه» توصیف کرد",
+            "این اظهارات می‌تواند جدال سیاسی را تشدید کرده و رأی‌گیری میشیگان را تحت تأثیر قرار دهد"
+        ],
+        "impact": "تقویت رقابت در انتخابات میشیگان و تأثیر بر نتایج مجلس سناتور",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/ap-us-election-2026-michigan-senate-abdul-el-sayed_n_6acb8116e4b0942a61419a69",
+        "clean_url": "https://www.huffpost.com/entry/ap-us-election-2026-michigan-senate-abdul-el-sayed_n_6acb8116e4b0942a61419a69",
+        "image": "https://www.bing.com/th?id=ONUT.K8TRMPAxTXNB9Gi5TKArZQ",
+        "timestamp": 1791639458.0
+    },
+    {
+        "id": "aa55ee7f7b",
+        "title_fa": "تعطیلات مالیات بنزین ترامپ می‌تواند عواقب داشته باشد",
+        "title_en": "Trump’s gas tax holiday could backfire: Drivers may never see the full 18.4-cent cut",
+        "summary": [
+            "ترامپ پیشنهاد لغو مالیات ۱۸٫۴ سنتی بر بنزین را مطرح کرد",
+            "کاهش قیمت موقت است اما ممکن است مصرف را بالا ببرد و کسری بودجه فدرال را تشدید کند"
+        ],
+        "impact": "کاهش مالیات می‌تواند فشار مالی بر خزانه را افزایش دهد",
+        "tag": "مالیات",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-s-gas-tax-holiday-could-backfire-drivers-may-never-see-the-full-18-4-cent-cut/ar-AA2e05Xe?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-gas-tax-holiday-could-backfire-drivers-may-never-see-the-full-18-4-cent-cut/ar-AA2e05Xe",
+        "image": "https://www.bing.com/th?id=ONUT.UIv4vBvx8t_oy7mMgBy42g",
+        "timestamp": 1791639457.0
     },
     {
         "id": "f7603033ed",
@@ -5556,81 +5628,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/marco-rubio-says-iran-failed-to-seize-multiple-opportunities-for-nuclear-deal-tehran-slams-washington-s-requests-and-ideas/ar-AA2dLnFC",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dKu6L.img?w=1024&h=683&m=4&q=81",
         "timestamp": 1791379878.0
-    },
-    {
-        "id": "f881f4b849",
-        "title_fa": "حزب‌الله از دانشجویان خارجی برای عملیات جذب می‌کند",
-        "title_en": "حزب‌الله از میان دانشجویان خارجی جامعه‌المصطفی برای عملیات برون‌مرزی نیرو جذب می‌کند",
-        "summary": [
-            "واحد ۹۱۰ حزب‌الله با هماهنگی سپاه قدس، دانشجویان خارجی جامعه‌المصطفی را جذب می‌کند.",
-            "چهار آپارتمان در قم و تهران برای آموزش سلاح، خرابکاری، سایبری و جاسوسی اختصاص یافته.",
-            "این شبکه حداقل پنج سال پیش شکل گرفته و در حال گسترش است."
-        ],
-        "impact": "گسترش توان عملیات مخفیانه حزب‌الله در منطقه و تهدید امنیت داخلی.",
-        "tag": "جاسوسی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610075121",
-        "clean_url": "https://www.iranintl.com/202610075121",
-        "image": "http://www.bing.com/th?id=ONUT.HyKLFNR3i1SvDp-62rPqAw&pid=News",
-        "timestamp": 1791377580.0
-    },
-    {
-        "id": "de708e7815",
-        "title_fa": "معترض دی‌ماه: شکنجه و تهدید اعدام",
-        "title_en": "معترض دی‌ماه: برای گرفتن اعتراف اجباری شکنجه شدم و طناب اعدام به گردنم انداختند",
-        "summary": [
-            "عرفان نبیان می‌گوید تحت فشار برای اعترافات اجباری در سلول انفرادی قرار گرفت.",
-            "بازجویان او را به طناب دور گردن کشیدند و تهدید به اعدام کرد.",
-            "این روایت نشان‌دهنده سرکوب شدید اعتراضات داخلی است."
-        ],
-        "impact": "تشدید نارضایتی داخلی و فشار بین‌المللی بر وضعیت حقوق بشر ایران.",
-        "tag": "حقوق بشر",
-        "urgency": 3,
-        "sentiment": -0.8,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610079271",
-        "clean_url": "https://www.iranintl.com/202610079271",
-        "image": "http://www.bing.com/th?id=ONUT.84s5hU3Gaqg8ap6HsCS9_g&pid=News",
-        "timestamp": 1791376500.0
-    },
-    {
-        "id": "b55b3bd88d",
-        "title_fa": "آی‌اِی‌اِی به شورای امنیت درباره ایران گزارش داد",
-        "title_en": "IAEA Reports Iran to UN Security Council",
-        "summary": [
-            "آی‌اِی‌اِی گزارش رسمی درباره عدم تبعیت ایران از تعهدات ارائه کرد",
-            "این سند می‌تواند پیش‌زمینه تصویب قطعنامهٔ جدید در شورای امنیت باشد",
-            "ایران ادعا می‌کند که اتهام‌ها بی‌اساس هستند و به مذاکرات ادامه می‌دهد"
-        ],
-        "impact": "گزارش آی‌اِی‌اِی می‌تواند منجر به تصویب قطعنامهٔ جدید و تشدید فشارهای بین‌المللی شود",
-        "tag": "آی‌اِی‌اِی",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Arms Control Association",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3JXaHB4LXhuT095QVFRenVFWUt1cmR6UEVaUHJrVllrYjVvd3NxV0UyWEYwQ3VDdi1fRnNFS1YyWDZQdEtZY1VXVUt0UjEzTHdzY21KeFNIYVJLMl9ZQndPRU5aMW5FbGFCSWUxVXZVcUVFc2R5UE5lOURGM2Z1Q290ajU3RFIyd1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3JXaHB4LXhuT095QVFRenVFWUt1cmR6UEVaUHJrVllrYjVvd3NxV0UyWEYwQ3VDdi1fRnNFS1YyWDZQdEtZY1VXVUt0UjEzTHdzY21KeFNIYVJLMl9ZQndPRU5aMW5FbGFCSWUxVXZVcUVFc2R5UE5lOURGM2Z1Q290ajU3RFIyd1E",
-        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791373548.0
-    },
-    {
-        "id": "6881adebd2",
-        "title_fa": "بالاترین حمله هفتگی به نفتکش‌ها در هرمز",
-        "title_en": "رویترز از ثبت بالاترین آمار هفتگی حمله به نفتکش‌ها در هرمز از آغاز جنگ خبر داد",
-        "summary": [
-            "حملات به کشتی‌های حامل نفت در هفته گذشته به ۱۲ رسید؛ بیشترین شمار از آغاز جنگ.",
-            "سپاه با پرواز پهپاد، رصد و تماس رادیویی بر کشتی‌ها فشار می‌آورد.",
-            "هدف نشان دادن حضور مستمر ایران در مسیرهای کشتیرانی است."
-        ],
-        "impact": "هزینه‌های بیمه‌دریایی و ریسک حمل و نقل نفت در خلیج فارس افزایش می‌یابد.",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610074946",
-        "clean_url": "https://www.iranintl.com/202610074946",
-        "image": "http://www.bing.com/th?id=ONUT.VG8HFRR_NdaJrD3mTU0tEA&pid=News",
-        "timestamp": 1791372660.0
     }
 ]
