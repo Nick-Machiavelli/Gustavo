@@ -1,5 +1,44 @@
 [
     {
+        "id": "2b52739a35",
+        "title_fa": "تهدید تروریستی ایران از طریق حوثی‌ها و استراتژی تاریخی",
+        "title_en": "Activating global partnership to save world from Iranian terrorism",
+        "summary": [
+            "ایران با تکیه بر الگوی تاریخی خود، حوثی‌ها را برای فشار بر مسیرهای بحرانی به کار می‌گیرد",
+            "استفاده از تنگه باب‌المنادب به عنوان ابزار فشار، خطر حملات به کشتی‌های تجاری را افزایش می‌دهد",
+            "این سیاست می‌تواند تنش‌های خلیج عدن و هرمز را به سطحی فراتر از کشورهای خلیج فارس برساند",
+            "هماهنگی بین‌المللی برای مقابله با این شبکه‌های نیابتی ضروری است"
+        ],
+        "impact": "افزایش خطر حملات به کشتی‌های تجاری در باب‌المنادب و هرمز",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Arab Times",
+        "url": "https://www.arabtimesonline.com/news/global-partnership-to-counter-iranian-terrorism-a-strategic-imperative/",
+        "clean_url": "https://www.arabtimesonline.com/news/global-partnership-to-counter-iranian-terrorism-a-strategic-imperative",
+        "image": "https://www.bing.com/th?id=ONUT.6Qv_MVdwhmkJLNn1IZU7sQ",
+        "timestamp": 1791680320.531708
+    },
+    {
+        "id": "698140c47f",
+        "title_fa": "استراتژی آمریکا برای نفوذ در عراق بدون اشغال",
+        "title_en": "Influence Without Occupation: A Future U.S. Strategy For Iraq – Analysis",
+        "summary": [
+            "واشنگتن قصد دارد با ابزارهای اقتصادی و دیپلماتیک جایگزین حضور نظامی شود",
+            "این مسیر می‌تواند مانع گسترش نفوذ ایران در بغداد شود",
+            "عراق ممکن است بین فشارهای داخلی و انتظارات غربی در کشمکش باشد"
+        ],
+        "impact": "تقویت موقعیت آمریکا در عراق و محدود کردن نفوذ ایران",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Eurasia Review",
+        "url": "https://www.eurasiareview.com/11102026-influence-without-occupation-a-future-u-s-strategy-for-iraq-analysis/",
+        "clean_url": "https://www.eurasiareview.com/11102026-influence-without-occupation-a-future-u-s-strategy-for-iraq-analysis",
+        "image": "https://www.bing.com/th?id=ONUT.dogndl4EtBGlH1VIp6otRw",
+        "timestamp": 1791680320.5313427
+    },
+    {
         "id": "068fe7dd6e",
         "title_fa": "سازمان ملل در نقطهٔ عطف؛ ترامپ به پایان نزدیک",
         "title_en": "UN at Crossroads, Trump nearing End of the Road",
@@ -344,6 +383,26 @@
         "clean_url": "https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks",
         "image": "http://www.bing.com/th?id=ONUT._5TQHyy6dw6X3oVPKks0aA&pid=News",
         "timestamp": 1791642120.0
+    },
+    {
+        "id": "d6ca212c4b",
+        "title_fa": "سوپر‌تانکر نفتی در تنگه هرمز با مین برخورد کرد",
+        "title_en": "Oil supertanker hits mine in Strait of Hormuz — IRGC",
+        "summary": [
+            "سپاه پاسداران ادعا کرد مین‌گذاری باعث انفجار سوپر‌تانکر شد",
+            "این حادثه پیام هشدار واضحی برای کشتی‌های عبوری از تنگه هرمز است",
+            "اگر تهدیدات مشابه ادامه یابد، عبور نفتی در این مسیر به خطر می‌افتد",
+            "تنش‌های نفتی منطقه می‌تواند به سرعت تشدید شود"
+        ],
+        "impact": "اختلال در عبور نفتی و افزایش هزینه‌های حمل‌ونقل",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2200371",
+        "clean_url": "https://tass.com/world/2200371",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1791640500.0
     },
     {
         "id": "01c55a25da",
@@ -5582,61 +5641,5 @@
         "clean_url": "https://www.iranintl.com/en/202610071494",
         "image": "http://www.bing.com/th?id=ONUT.ZxFeLTQWl48YiUw8YSn2LQ&pid=News",
         "timestamp": 1791354600.0
-    },
-    {
-        "id": "aeb5549410",
-        "title_fa": "وزیر اسرائیل از حمایت شاهزاده رضا پهلوی خبر داد",
-        "title_en": "وزیر اسرائیلی از شاهزاده رضا پهلوی حمایت کرد و خواستار احیای روابط ایران و اسرائیل شد",
-        "summary": [
-            "وزیر علوم اسرائیل، گیلا گملیل، حمایت خود از پیام شاهزاده درباره آزادی ایران را اعلام کرد.",
-            "او امید دارد پس از سقوط جمهوری اسلامی، روابط تجاری و صلح‌آمیز بین دو کشور تجدید شود."
-        ],
-        "impact": "تقویت امیدهای اپوزیسیون ایرانی برای بازسازی روابط با اسرائیل",
-        "tag": "دیپلماتیک",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610078968",
-        "clean_url": "https://www.iranintl.com/202610078968",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1791352980.0
-    },
-    {
-        "id": "044a0f7792",
-        "title_fa": "بازداشت تفنگدار آمریکایی در اوکیناوا اعتراضات را شعله‌ور کرد",
-        "title_en": "بازداشت تفنگدار آمریکایی به اتهام قتل زن ژاپنی و اوج‌گیری اعتراضات در اوکیناوا",
-        "summary": [
-            "یک تفنگدار نیروی دریایی آمریکا به ظن قتل یک زن ژاپنی در اوکیناوا دستگیر شد",
-            "این حادثه موجی از اعتراضات مردمی و انتقادات به حضور نظامی آمریکا در جزیره را برانگیخت",
-            "سفیر ایالات متحده و فرمانده نیروهای آمریکایی در ژاپن به توکیو احضار شدند"
-        ],
-        "impact": "تنش‌های نظامی آمریکا در ژاپن می‌تواند حضور نیروها را تحت فشار قرار دهد",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610076577",
-        "clean_url": "https://www.iranintl.com/202610076577",
-        "image": "http://www.bing.com/th?id=ONUT.skeJShqRK2gFRUWMmZ6xew&pid=News",
-        "timestamp": 1791352620.0
-    },
-    {
-        "id": "70ea34fbfa",
-        "title_fa": "جی‌دی ونس فشار به ایران برای تعهد هسته‌ای",
-        "title_en": "JD Vance Presses Iran on Nuclear Weapon Ambitions, Says Promises Won't Be Enough: 'If They Want to Show a",
-        "summary": [
-            "سناتور جردی ونس گفت وعده‌های ایران کافی نیست",
-            "او خواستار شفاف‌سازی کامل درباره برنامه سلاح هسته‌ای شد",
-            "این اظهارات می‌تواند پیش‌زمینه تحریم‌های جدید باشد"
-        ],
-        "impact": "احتمال اعمال فشار اقتصادی یا دیپلماتیک بیشتر از سوی ایالات متحده",
-        "tag": "دیپلوماسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQmRrOEo1aWVjRld1UlhrRG1oX1pWcXdZdExnR1VuZEUyU1FJS2lhSlNwN2pSalJIUjU4MzdNZm8tM3E1TlJOUXcwRTJjRkg4SWt4SlctTkZ0U014MWNyYzZUbEhFRXNIOFJZMGdPS3FZNm4zNDZrSG1weFdhaUhSQ21FQ3ZDTjdpYnR6UE5LdDB4Ulo5bTZucnVfa1RqZEtfUG92dVRiUnE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQmRrOEo1aWVjRld1UlhrRG1oX1pWcXdZdExnR1VuZEUyU1FJS2lhSlNwN2pSalJIUjU4MzdNZm8tM3E1TlJOUXcwRTJjRkg4SWt4SlctTkZ0U014MWNyYzZUbEhFRXNIOFJZMGdPS3FZNm4zNDZrSG1weFdhaUhSQ21FQ3ZDTjdpYnR6UE5LdDB4Ulo5bTZucnVfa1RqZEtfUG92dVRiUnE",
-        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791351007.0
     }
 ]
