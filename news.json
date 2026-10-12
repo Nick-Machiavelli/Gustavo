@@ -1,5 +1,65 @@
 [
     {
+        "id": "c7c3ece5bb",
+        "title_fa": "خطا در بارگذاری محتوا؛ اطلاعاتی موجود نیست",
+        "title_en": "The Only Thing the Houthis Have Done Successfully",
+        "summary": [
+            "صفحه وب‌سایت به دلیل مشکل فنی بارگذاری نشد و پیام امنیتی نمایش داد",
+            "هیچ اطلاعات خبری جدیدی در دسترس نیست",
+            "احتمالاً این خطا به‌صورت موقت است و تأثیری بر رویدادهای ژئوپلیتیک ندارد",
+            "کاربران باید صبر کنند تا محتوا بازگردد"
+        ],
+        "impact": "عدم دسترسی به اطلاعات باعث تاخیر در دریافت خبر می‌شود",
+        "tag": "دیگر",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/ideas/2026/10/only-thing-houthis-have-done-successfully/688972/",
+        "clean_url": "https://www.theatlantic.com/ideas/2026/10/only-thing-houthis-have-done-successfully/688972",
+        "image": "https://www.bing.com/th?id=ONUT.h8AfYofFpS41sv3mN0gS1A",
+        "timestamp": 1791767974.5180507
+    },
+    {
+        "id": "4913b643ce",
+        "title_fa": "ترامپ برنامه سرمایه‌گذاری ۲۰۰ میلیارد دلاری کره‌جنوبی را اعلام کرد",
+        "title_en": "Lee Jae Myung's diplomacy: penalty kick without goalkeeper?",
+        "summary": [
+            "ترامپ برنامه سرمایه‌گذاری ۲۰۰ میلیارد دلاری کره‌جنوبی در آمریکا را اعلام کرد",
+            "این طرح می‌تواند روابط اقتصادی دو کشور را تقویت کند اما توجهی به ایران ندارد",
+            "اعلام چنین سرمایه‌گذاری در زمان تنش‌های خاورمیانه می‌تواند حواس عمومی را از مسائل امنیتی منحرف کند",
+            "پروژه ممکن است با موانع نظارتی و پارلمانی در ایالات متحده مواجه شود"
+        ],
+        "impact": "سرمایه‌گذاری می‌تواند اشتغال و رشد اقتصادی آمریکا را تقویت کند",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "The Chosun Ilbo on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/lee-jae-myungs-diplomacy-penalty-kick-without-goalkeeper/ar-AA2e0tvK?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/lee-jae-myungs-diplomacy-penalty-kick-without-goalkeeper/ar-AA2e0tvK",
+        "image": "https://www.bing.com/th?id=ONUT.1nJR7USxnQtsxPiHuoEehA",
+        "timestamp": 1791767974.5178277
+    },
+    {
+        "id": "e5d569ca73",
+        "title_fa": "دیپلماسی ایران‑آمریکا به‌دلیل حملات حوثی متوقف شد",
+        "title_en": "Iran-US diplomacy stalls as Houthi attacks on Saudi Arabia intensify",
+        "summary": [
+            "حملات حوثی به عربستان شدت یافت و مذاکرات ایران‑آمریکا را به‌سختی ادامه می‌دهد",
+            "ایالات متحده به دلیل تهدیدات حوثی‌ها از ادامه دیپلماسی با ایران هراسی نشان می‌دهد",
+            "ایران به عنوان حامی حوثی‌ها، فشار بیشتری بر روابط دو جانبه اعمال می‌کند",
+            "توقف دیپلماسی می‌تواند به تشدید تنش‌های خلیج فارس و افزایش ریسک نظامی منجر شود"
+        ],
+        "impact": "توقف دیپلماسی ممکن است خطر برخورد نظامی در خلیج فارس را بالا ببرد",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzRkJQVEZEQlFRY1RocFViMGs3WFpxV1lOcFc0UzdGZXdVNzBRd1VOTUlRNE9wUHh3RGlLTzdJRlBVWkRHMUdtbkFTWVJXRWdHLVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzRkJQVEZEQlFRY1RocFViMGs3WFpxV1lOcFc0UzdGZXdVNzBRd1VOTUlRNE9wUHh3RGlLTzdJRlBVWkRHMUdtbkFTWVJXRWdHLVE",
+        "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791762000.0
+    },
+    {
         "id": "081738beef",
         "title_fa": "نقد روزنامه‌نگار درباره ترامپ و جنگ ایران",
         "title_en": "STEPHEN GLOVER: Yes, Trump is morally bankrupt and his diesel deal with Putin despicable. But dare I say it, he's right about one thing...",
@@ -53,6 +113,26 @@
         "clean_url": "https://www.tehrantimes.com/news/530973/Bombs-that-pushed-Iran-across-the-rubicon",
         "image": "https://media.mehrnews.com/d/2026/10/11/4/6214157.jpg?ts=1791740615732",
         "timestamp": 1791753240.0
+    },
+    {
+        "id": "6ca810eb30",
+        "title_fa": "نتانیاهو جلسه امنیتی درباره ایران برگزار کرد",
+        "title_en": "Netanyahu holds security meeting on Iran amid heightened alert",
+        "summary": [
+            "نتانیاهو با مقامات امنیتی درباره احتمال حمله آمریکا به ایران بحث کرد",
+            "سه سناریوی نظامی – عملیات مستقل، مشترک با آمریکا، یا واکنش به آتش ایران – بررسی می‌شود",
+            "ترامپ پیش از انتخابات تمایلی به اقدام نظامی نشان نداده، اما فشار سیاسی باقیست",
+            "این جلسه می‌تواند برنامه‌های دفاعی اسرائیل و هماهنگی با نیروی هوایی آمریکا را تحت تأثیر قرار دهد"
+        ],
+        "impact": "ممکن است برنامه‌های نظامی اسرائیل برای مقابله با ایران تسریع یا بازنگری شود",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610112312",
+        "clean_url": "https://www.iranintl.com/en/202610112312",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791751440.0
     },
     {
         "id": "b06a3f3b35",
@@ -112,6 +192,26 @@
         "clean_url": "https://www.iranintl.com/en/202610111048",
         "image": "https://www.bing.com/th?id=ONUT.IFz8k0lPL4BRORcZw8aaYg",
         "timestamp": 1791742802.6955373
+    },
+    {
+        "id": "59a3d9cc88",
+        "title_fa": "وزیر خارجه ایران گفت دیپلماسی با سعودی ضروری است",
+        "title_en": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+        "summary": [
+            "وزیر خارجه ایران گفت آماده تسهیل مذاکرات بین عربستان و حوثی‌هاست",
+            "این پیشنهاد پس از حملات مرگبار سعودی به حوثی‌ها مطرح شد",
+            "ایران سعی دارد نقش واسطه‌ای در خلیج فارس بازی کند و فشار بین‌المللی را کاهش دهد",
+            "موفقیت این دیپلماسی می‌تواند تنش‌های منطقه‌ای را به‌طور قابل‌توجهی کم کند"
+        ],
+        "impact": "اگر مذاکرات پیشرفت کند، خطر گسترش درگیری در خلیج فارس کاهش می‌یابد",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Al Jazeera on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-fm-urges-diplomacy-in-call-with-saudi-counterpart/ar-AA2e2kGh",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-fm-urges-diplomacy-in-call-with-saudi-counterpart/ar-AA2e2kGh",
+        "image": "http://www.bing.com/th?id=ONUT.faw4MjtQX_-AKn25QkKAPg&pid=News",
+        "timestamp": 1791740348.0
     },
     {
         "id": "8b899603e9",
@@ -227,6 +327,26 @@
         "clean_url": "https://www.msn.com/en-au/news/other/iran-is-at-the-breaking-point-the-regime-s-greatest-fear-is-what-comes-next/ar-AA2dZS8W",
         "image": "https://www.bing.com/th?id=ONUT._zBjOhjPnMDpLpr3tU6LHg",
         "timestamp": 1791724688.8299456
+    },
+    {
+        "id": "b8eb6cca33",
+        "title_fa": "دموکرات‌ها فشار بر پنتاگون برای بررسی کشته‌های غیرنظامی",
+        "title_en": "Democrats Press Pentagon on Iran Civilian Deaths",
+        "summary": [
+            "۷۴ نماینده دموکرات درخواست بررسی دقیق تلفات غیرنظامی در عملیات‌های علیه ایران کردند",
+            "فشار بر پنتاگون برای شفاف‌سازی ممکن است باعث محدود کردن عملیات‌های هوایی شود",
+            "این حرکت می‌تواند حمایت عمومی داخل آمریکا را در مقابل ادامه تحریم‌ها تقویت کند",
+            "اگر دموکرات‌ها کنترل کنگره را بگیرند، سیاست‌های سخت‌گیرانه‌تر علیه ایران پیش‌بینی می‌شود"
+        ],
+        "impact": "تحقیقات بیشتر می‌تواند فشار بین‌المللی بر ایران را افزایش دهد",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
+        "clean_url": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
+        "image": "http://www.bing.com/th?id=ONUT.pO3MyYE6jiAt5aP81ZH_VA&pid=News",
+        "timestamp": 1791721680.0
     },
     {
         "id": "afca8f9832",
@@ -5535,113 +5655,5 @@
         "clean_url": "https://www.iranintl.com/en/202610085605",
         "image": "http://www.bing.com/th?id=ONUT.Rbm0rSnHJZIo6nNCC6cd4g&pid=News",
         "timestamp": 1791409980.0
-    },
-    {
-        "id": "a37910bc9e",
-        "title_fa": "السید می‌گوید نتانیاهو آمریکا را وارد جنگ با ایران کرد",
-        "title_en": "El-Sayed says Netanyahu pushed US into Iran war",
-        "summary": [
-            "El-Sayed says Netanyahu pushed US into Iran war The Hill"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcE5mdGwza2FkUXEzQTVVTFVac0JqYU9IaEhQX3gwTG5BVVhrc0J0RVZZbkdZdUREWTl3V0ZGOHFudm13YWZRejdCZlF2aDFISV94LV8xMGN4eFJmUWJVTUFIMXU2RXhodi1jUVBnakdoMG5wMC02cmJLUDQxWWE3cTlCQkdvaGPSAYwBQVVfeXFMTmJObzJTQkx0d2YwRXMxb0d4Rlh0RDJkb2JOQmZmZy12eGQzNnQ5a19BbFlrQmY3eTBrY2pRNzhXeklJTm05a3h6VXZYZnp4LV95XzhZVFdiaWR6b2EtUV8waExqSm9yOWVMekRGQlhSTHpINTVhMGhrT244Mi1hbGFqVU55NVZ4bGFhYTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcE5mdGwza2FkUXEzQTVVTFVac0JqYU9IaEhQX3gwTG5BVVhrc0J0RVZZbkdZdUREWTl3V0ZGOHFudm13YWZRejdCZlF2aDFISV94LV8xMGN4eFJmUWJVTUFIMXU2RXhodi1jUVBnakdoMG5wMC02cmJLUDQxWWE3cTlCQkdvaGPSAYwBQVVfeXFMTmJObzJTQkx0d2YwRXMxb0d4Rlh0RDJkb2JOQmZmZy12eGQzNnQ5a19BbFlrQmY3eTBrY2pRNzhXeklJTm05a3h6VXZYZnp4LV95XzhZVFdiaWR6b2EtUV8waExqSm9yOWVMekRGQlhSTHpINTVhMGhrT244Mi1hbGFqVU55NVZ4bGFhYTQ",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791409440.0
-    },
-    {
-        "id": "7dcf5fb6e4",
-        "title_fa": "اوفک بخش‌های هوانوردی و ریلی ایران را برای تحریم‌های اضافی هدف قرار می‌دهد",
-        "title_en": "OFAC Targets Iran’s Aviation and Rail Sectors for Additional Sanctions",
-        "summary": [
-            "OFAC Targets Iran’s Aviation and Rail Sectors for Additional Sanctions Thompson Hine"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Thompson Hine",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMkQ4eWE3amlqRTE5aGx1T0VzaHlncXJFcHY2TmRBMEtlZ1VHRlprRENaQllrdVY0NVVKdkxRaW56djNZem5kTTE2b1kxV1pYUDlwVmdvcVI3TFUwRVpHNmlJa283ZHgtV3V0ZzBKT0FOWmtQbEpuMnJGYmNRSEVJeEZDTWs5Sm1abndfUDVlWDExSGNDMkdOd2NtXzIzUi15VW80aFVEb0xFV1FGR1k2QzF2eVBYdVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMkQ4eWE3amlqRTE5aGx1T0VzaHlncXJFcHY2TmRBMEtlZ1VHRlprRENaQllrdVY0NVVKdkxRaW56djNZem5kTTE2b1kxV1pYUDlwVmdvcVI3TFUwRVpHNmlJa283ZHgtV3V0ZzBKT0FOWmtQbEpuMnJGYmNRSEVJeEZDTWs5Sm1abndfUDVlWDExSGNDMkdOd2NtXzIzUi15VW80aFVEb0xFV1FGR1k2QzF2eVBYdVU",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791408761.0
-    },
-    {
-        "id": "bf64b79b16",
-        "title_fa": "پنتاگون گزینه‌های حمله پیش‌میانی به ایران را طرح می‌کند",
-        "title_en": "Pentagon drafting pre-midterm strike options against Iran",
-        "summary": [
-            "کاخ سفید درخواست کرد پنتاگون طرح‌های نظامی علیه اهداف ایرانی را آماده کند.",
-            "این گزینه‌ها می‌توانند پیش از انتخابات میانی اجرا شوند.",
-            "نشان‌دهنده آماده‌سازی برای اقدام نظامی در صورت تشدید تنش‌هاست."
-        ],
-        "impact": "احتمال اجرای حملات هوایی یا موشکی به زیرساخت‌های نظامی ایران در کوتاه‌مدت.",
-        "tag": "پیش‌نقشه",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/news/4651131-pentagon-drafting-pre-midterm-strike-options-against-iran---report",
-        "clean_url": "https://seekingalpha.com/news/4651131-pentagon-drafting-pre-midterm-strike-options-against-iran---report",
-        "image": "https://www.bing.com/th?id=ONUT.85MJp5jFpY4C0rai_QQifw",
-        "timestamp": 1791408482.9507203
-    },
-    {
-        "id": "2be9e061e2",
-        "title_fa": "ایران می‌گوید که پاسخ به پیشنهادهای آمریکا با هدف پایان دادن به جنگ از طریق میانجیگران ارائه خواهد شد",
-        "title_en": "Iran says response to US proposals aimed at ending war will be delivered through mediators",
-        "summary": [
-            "Iran says response to US proposals aimed at ending war will be delivered through mediators Anadolu Ajansı"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSEpzRFgzNF9GMmlUbFgyN0RrdWFGOUdQZDdoLU5lMDl3NHczdzRuRnpjRFhPbGVzR1Y2X0YzYko4MjhYMnFDTkNvN0dUSGxvTTF4djFtVmVDY0xRUUhzbTEwQk41M1lzdXQ0STJFQ2huQ0I0RUdNWFJ5WlhOa3R5VWVCWWVXbDcyWEZRdVMzSG5vNWQ2ZmtfLVZnUkFpSUxvYnlPWEFHQmh0bENwd2xHdmh3Z1JxRUN4NEpUdEtfVm5PMU51Rl9URHZKaHFLZ0F0Y2lfYVFLWDdKZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSEpzRFgzNF9GMmlUbFgyN0RrdWFGOUdQZDdoLU5lMDl3NHczdzRuRnpjRFhPbGVzR1Y2X0YzYko4MjhYMnFDTkNvN0dUSGxvTTF4djFtVmVDY0xRUUhzbTEwQk41M1lzdXQ0STJFQ2huQ0I0RUdNWFJ5WlhOa3R5VWVCWWVXbDcyWEZRdVMzSG5vNWQ2ZmtfLVZnUkFpSUxvYnlPWEFHQmh0bENwd2xHdmh3Z1JxRUN4NEpUdEtfVm5PMU51Rl9URHZKaHFLZ0F0Y2lfYVFLWDdKZw",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791407595.0
-    },
-    {
-        "id": "f8fa20b3b4",
-        "title_fa": "ترمپ در بحران مگا می‌نالد؛ روایت داخلی",
-        "title_en": "Trump is 'shrieking behind his own eyes' as MAGA crumbles: insider",
-        "summary": [
-            "مایکل وولف، نویسندهٔ چهار زندگینامهٔ ترامپ، گفت ترامپ در بحران مگا «فریاد می‌زند»",
-            "او بیان کرد حمایت‌های MAGA در حال فروپاشی است و ترامپ به‌دنبال حفظ قدرت است",
-            "این نظرات می‌تواند تصویر عمومی ترامپ را پیش از انتخابات 2024 تحت تأثیر قرار دهد"
-        ],
-        "impact": "نقد داخلی به ترامپ می‌تواند حمایت‌های پایه‌ای او را در انتخابات 2024 تضعیف کند",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/trump-is-shrieking-behind-his-own-eyes-as-maga-crumbles-insider/ar-AA2dLOY9?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-xl/news/other/trump-is-shrieking-behind-his-own-eyes-as-maga-crumbles-insider/ar-AA2dLOY9",
-        "image": "https://www.bing.com/th?id=ONUT.HygVzGSmtzvox419Usn3-w",
-        "timestamp": 1791404901.2360206
-    },
-    {
-        "id": "6066dc89af",
-        "title_fa": "وانس فشار به ایران برای کاهش غنی‌سازی اعمال کرد",
-        "title_en": "Vance presses Iran for 'meaningful' reduction in nuclear capability to end war",
-        "summary": [
-            "ونز در مصاحبه با رویترز، ایران را به کاهش معنادار غنی‌سازی اورانیوم فراخواند",
-            "او اشاره کرد 60٪ غنی‌سازی، نشانهٔ تمایل به سلاح هسته‌ای است",
-            "پوتین در تماس تلفنی با ایران، اعلام آمادگی برای کمک به کاهش تنش‌ها کرد"
-        ],
-        "impact": "فشار ونز و پیشنهاد روسیه برای میانجیگری، مسیر مذاکرات هسته‌ای را به‌سوی کاهش تنش‌ها هدایت می‌کند",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-war-vance-talks-tehran-nuclear-program-10-07-26",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-vance-talks-tehran-nuclear-program-10-07-26",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/7c125e5223ef298c4428dbae4068a113.jpg",
-        "timestamp": 1791403560.0
     }
 ]
