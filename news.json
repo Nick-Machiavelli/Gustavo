@@ -1,5 +1,98 @@
 [
     {
+        "id": "6c56334ede",
+        "title_fa": "آمارهای جدید نشان می‌دهد ترامپ اقتصاد را خراب کرد",
+        "title_en": "New Numbers Show Just How Badly Trump Wrecked the Economy",
+        "summary": [
+            "رولینگ استون به‌طور انتقادی به‌کارگیری سیاست‌های تجاری و مالی ترامپ در دوره دوم اشاره کرد",
+            "CPI نشان داد قیمت‌ها در سپتامبر ۰.۶٪ ماهانه و ۳٫۷٪ سالانه رشد کرده‌اند؛ بیش از حد انتظار",
+            "افزایش ۹٫۱٪ قیمت گاز نشان می‌دهد فشار بر مصرف‌کنندگان به‌خصوص در ایالات‌متحده شدید است"
+        ],
+        "impact": "تشدید نارضایتی عمومی از سیاست‌های اقتصادی ترامپ و ریسک سیاسی برای حزب",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Rolling Stone",
+        "url": "https://www.rollingstone.com/politics/politics-news/inflation-numbers-trump-wrecked-economy-1235642667/",
+        "clean_url": "https://www.rollingstone.com/politics/politics-news/inflation-numbers-trump-wrecked-economy-1235642667",
+        "image": "https://www.bing.com/th?id=ONUT.jgqdfe95tzF-apNW2k8-rQ",
+        "timestamp": 1792006605.6693213
+    },
+    {
+        "id": "1fea74e1cb",
+        "title_fa": "حوثی‌ها با قطعات چینی موشک بالستیک میانه‌برد می‌سازند",
+        "title_en": "Yemen's Houthis look to build ballistic missiles with more Chinese supplies,...",
+        "summary": [
+            "گروه Conflict Armament Research گزارش داد حوثی‌ها قطعات کلیدی چینی برای ساخت موشک «خیبر شکن» را دریافت کرده‌اند",
+            "این موشک می‌تواند تا ۲٬۰۰۰ km هدف‌گیری دقیق داشته باشد و تهدید مستقیم به سعودی و اسرائیل باشد",
+            "وابستگی به چین نشان‌دهنده استقلال فزاینده حوثی‌ها از حمایت‌های ایرانی است"
+        ],
+        "impact": "افزایش خطر حملات دقیق به پایگاه‌های نظامی سعودی و احتمال گسترش درگیری منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Associated Press · via Yahoo News",
+        "url": "https://www.yahoo.com/news/world/articles/yemens-houthis-look-build-ballistic-192359125.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/yemens-houthis-look-build-ballistic-192359125.html",
+        "image": "https://media.zenfs.com/en/ap.org/20a8202e6d3eda5ada1a1193418214d4.jpg",
+        "timestamp": 1792005811.0
+    },
+    {
+        "id": "443eb5e8a4",
+        "title_fa": "کمیسیون آمریکا به ظرفیت هسته‌ای ایران می‌نگرد",
+        "title_en": "Iran's Nuclear Weapons Production Capacity Faces Congressional Scrutiny",
+        "summary": [
+            "کمیسیون قانونگذاری ایالات متحده به بررسی توان تولید سلاح هسته‌ای ایران پرداخته است.",
+            "این بررسی می‌تواند فشار دیپلماتیک و تحریم‌های جدیدی را برای تهران به دنبال داشته باشد."
+        ],
+        "impact": "احتمال اعمال تحریم‌های سخت‌گیرانه و محدودیت‌های مالی برای برنامه هسته‌ای ایران افزایش می‌یابد.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Legis1",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yMFJ6THlqa2l1dGw0c1FrUlBLN1lELXp6S1hUVEs1ZnJVeUZXWjRFNVVGcl9ZNHBLeExsNG5Cb29HOEFNc2lHTXlwVUlfZE5ORmN6LUtXRVQwSWh0OUNpRVVFVE5Mb21SM3JWajZRZXZUSXpXVmRtMkRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yMFJ6THlqa2l1dGw0c1FrUlBLN1lELXp6S1hUVEs1ZnJVeUZXWjRFNVVGcl9ZNHBLeExsNG5Cb29HOEFNc2lHTXlwVUlfZE5ORmN6LUtXRVQwSWh0OUNpRVVFVE5Mb21SM3JWajZRZXZUSXpXVmRtMkRB",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792002546.0
+    },
+    {
+        "id": "74927c3aca",
+        "title_fa": "آی‌جی‌سی ارتش ایران جنگ جهانی را مقایسه کرد",
+        "title_en": "Tehran signals escalation in conflict IRGC likens to a ‘world war’",
+        "summary": [
+            "سپاه پاسداران در بیانیه‌ای جنگ جهانی را به‌عنوان تشبیه به تشدید منازعات جاری مطرح کرد",
+            "این بیان می‌تواند واکنش‌های بین‌المللی را به‌سختی افزایش دهد و فشار بر دیپلمات‌های ایرانی را بالا ببرد",
+            "استفاده از چنین اصطلاحات ریسک تشدید ترس و اضطراب عمومی را در منطقه دارد"
+        ],
+        "impact": "تشدید نگرانی‌های بین‌المللی و احتمال اعمال تحریم‌های جدید علیه ایران",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PWG1iYklCN3ZDdFl6VjhpLVRrWl9vWklrbV8yblNubkxzMm9KaWtpdDViYjdZWnhPMDdaMXBwNmY1Q0N2N3dfQkU1UkFCSXl0SEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PWG1iYklCN3ZDdFl6VjhpLVRrWl9vWklrbV8yblNubkxzMm9KaWtpdDViYjdZWnhPMDdaMXBwNmY1Q0N2N3dfQkU1UkFCSXl0SEE",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792000504.0
+    },
+    {
+        "id": "b50d57de1f",
+        "title_fa": "کاتز: در صورت حمله، سرزمین لبنان را می‌گیریم",
+        "title_en": "Defense Minister Katz threatens to seize Lebanese land if Hezbollah, Iran attack",
+        "summary": [
+            "وزیر دفاع اسرائیل، یائور کاتز، تهدید کرده که در صورت حملهٔ حزب‌الله یا ایران به اسرائیل، بخش‌هایی از خاک لبنان را اشغال می‌کند.",
+            "این اظهارات می‌تواند تنش‌های مرزی را به سرعت به درگیری مسلحانه تبدیل کند."
+        ],
+        "impact": "افزایش خطر درگیری نظامی در مرز لبنان‑اسرائیل و تشدید بحران منطقه‌ای محتمل است.",
+        "tag": "تهدید",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43TFd6VmlWR3B2OGZCaXZMbVhxRmZ0YVdMTmxKaWZ0d1psWFRsVGhId3VKVVFFeXBnMzJaM0dPcnlqR3ZSSGlxZjBkV2pjTEI5MDdCU2pRU0dXSHFwMjZTdkhzVi1HcWxpd2tXUDlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43TFd6VmlWR3B2OGZCaXZMbVhxRmZ0YVdMTmxKaWZ0d1psWFRsVGhId3VKVVFFeXBnMzJaM0dPcnlqR3ZSSGlxZjBkV2pjTEI5MDdCU2pRU0dXSHFwMjZTdkhzVi1HcWxpd2tXUDlR",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791999729.0
+    },
+    {
         "id": "3f84b8f75f",
         "title_fa": "ترامپ ممکن است نتانیاهو را حمایت کند",
         "title_en": "Trump may endorse Netanyahu. But loving Israel is not the same as loving Bibi.",
@@ -183,6 +276,25 @@
         "timestamp": 1791980026.0
     },
     {
+        "id": "10385cdee3",
+        "title_fa": "قتل فرمانده باسج و حمله به خودرو پلیس در مهرستان",
+        "title_en": "Ghalibaf mocks Bessent over Iran predictions, rising US inflation",
+        "summary": [
+            "تسنیم ادعای ترور فرمانده باسج و حمله به خودرو پلیس را به «متجاوزان مرتبط با آمریکا و اسرائیل» نسبت می‌دهد",
+            "شواهد مستند برای شناسایی گروه مقصر ارائه نشده؛ احتمال استفاده از این روایت برای توجیه اقدام‌ها امنیتی است",
+            "وقوع دو قتل در یک روز نشان‌دهنده تشدید ناآرامی‌ها در سیستان و بلوچستان است"
+        ],
+        "impact": "تشدید تنش‌های امنیتی در استان‌های مرزی و احتمال واکنش نظامی بیشتر",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610141897",
+        "clean_url": "https://www.iranintl.com/en/202610141897",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1791979440.0
+    },
+    {
         "id": "1608243a77",
         "title_fa": "سپاه هشدار: احتمال حمله آمریکا پیش از انتخابات میانی",
         "title_en": "IRGC warns of ‘very real’ chance of new US strikes before midterms",
@@ -344,6 +456,25 @@
         "clean_url": "https://www.iranintl.com/en/202610146741",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791972660.0
+    },
+    {
+        "id": "427d2cbba0",
+        "title_fa": "لبنان می‌تواند اولین موفقیت ترامپ در خاورمیانه باشد",
+        "title_en": "Opinion: How Lebanon can be Trump’s first success in a troubled region",
+        "summary": [
+            "دیوید هیل استدلال می‌کند توافق ژوئن ۲۰۲۶ برای خنثی‌سازی حزب‌الله می‌تواند نقطه عطفی برای حضور آمریکا در لبنان باشد",
+            "افزایش کمک‌های نظامی و دیپلماتیک ایالات متحده می‌تواند به بازسازی حاکمیت لبنانی منجر شود",
+            "موفقیت این طرح می‌تواند به‌عنوان اولین دستاورد بزرگ ترامپ در خاورمیانه شناخته شود"
+        ],
+        "impact": "تقویت نفوذ آمریکا در لبنان و کاهش قدرت حزب‌الله",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "The Hill on MSN",
+        "url": "https://www.msn.com/en-us/news/other/opinion-how-lebanon-can-be-trump-s-first-success-in-a-troubled-region/ar-AA2eeCeI",
+        "clean_url": "https://www.msn.com/en-us/news/other/opinion-how-lebanon-can-be-trump-s-first-success-in-a-troubled-region/ar-AA2eeCeI",
+        "image": "http://www.bing.com/th?id=ONUT.Y4qkwKJRv6ciJjS47_itMQ&pid=News",
+        "timestamp": 1791972000.0
     },
     {
         "id": "4cea5d40c9",
@@ -1000,6 +1131,63 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EcktzZ1drZDROd0ozVjhCOE5qWDJTeEpSMzlRRkN4OW0zLUcyc0pxSmpNMWJ1NHpyaVEtZmhIMDBpTHA1eGxFZlVITExaZlNxZG92XzY4SF9lN3Vy",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791921377.0
+    },
+    {
+        "id": "c6dea97d26",
+        "title_fa": "عضو کمونیست بریتانیا به جرم تروریسم اعتراف کرد",
+        "title_en": "UK communist admits terrorism offence after police uncover pro-Palestinian militant plans",
+        "summary": [
+            "شین گرانت، عضو حزب کمونیست بریتانیا، به داشتن اسناد برنامه‌ریزی برای گروه‌های شورشی شهری اعتراف کرد",
+            "دادگاه گرانت را به جرم «داشتن اسناد مفید برای تروریسم» محکوم کرد؛ هنوز عملیاتی انجام نشده است",
+            "این پرونده نشان می‌دهد نظارت پلیس بر فعالیت‌های افراطی در بریتانیا در حال تشدید است"
+        ],
+        "impact": "هشدار به خطرات رادیکال‌سازی جوانان و تقویت اقدام‌ها پیشگیرانه امنیتی",
+        "tag": "امنیت",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "i24NEWS",
+        "url": "https://www.i24news.tv/en/news/international/europe/artc-uk-communist-admits-terrorism-offence-after-police-uncover-pro-palestinian-militant-plans",
+        "clean_url": "https://www.i24news.tv/en/news/international/europe/artc-uk-communist-admits-terrorism-offence-after-police-uncover-pro-palestinian-militant-plans",
+        "image": "https://www.bing.com/th?id=ONUT.q2IcDvlFI9cM19wgrqi-9g",
+        "timestamp": 1791920192.0
+    },
+    {
+        "id": "096a1f42b7",
+        "title_fa": "اسپیس‌اکس سرویس ستارلینک نظامی اوکراین را محدود کرد",
+        "title_en": "Is Musk Unreliable? Ukraine Says SpaceX Has Limited Its Military Starlink Service",
+        "summary": [
+            "اوکراین اعلام کرد که اسپیس‌اکس به‌صورت ناگهانی سرعت حداکثر ۱۶۰ km/h برای ترمینال‌های ستارلینک نظامی اعمال کرد",
+            "این محدودیت باعث قطع ارتباط درگیری‌های هوایی و پهپادهای حمله‌گر شد و چند مأموریت نظامی را مختل کرد",
+            "شرکت بدون هشدار قبلی اقدام کرد؛ این نشان‌دهنده ریسک وابستگی به زیرساخت‌های خصوصی در جنگ است"
+        ],
+        "impact": "اختلال در عملیات دفاعی اوکراین و کاهش توان مقابله‌ای در برابر روسیه",
+        "tag": "فناوری",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/is-musk-unreliable-ukraine-says-spacex-has-limited-its-military-starlink-service-article-156341372",
+        "clean_url": "https://www.timesnownews.com/world/is-musk-unreliable-ukraine-says-spacex-has-limited-its-military-starlink-service-article-156341372",
+        "image": "https://www.bing.com/th?id=ONUT.tQyEGtQHsWTsrNEb0U9yxw",
+        "timestamp": 1791920191.0
+    },
+    {
+        "id": "3ba411e936",
+        "title_fa": "تورم آمریکا در سپتامبر به ۳٫۷٪ رسید",
+        "title_en": "National and International News in Focus: Oct. 14",
+        "summary": [
+            "CPI آمریکا در سپتامبر ۳٫۷٪ نسبت به سال گذشته افزایش یافت؛ بالاتر از ۳٫۴٪ ماه پیش",
+            "افزایش قیمت بنزین، پوشاک و بلیت هواپیما به‌ویژه در ایام نزدیک انتخابات میدانی حس می‌شود",
+            "فشار بر فدرال رزرو برای افزایش نرخ بهره بیشتر می‌شود تا تورم مهار شود"
+        ],
+        "impact": "هزینه زندگی بالاتر و فشار بر سیاست‌گذاران برای سخت‌گیری پولی",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "WKTV NewsChannel 2",
+        "url": "https://www.wktv.com/news/national/national-and-international-news-in-focus-oct-14/article_d70dc2cd-1b84-5a1c-9e5b-e910a44ac986.html",
+        "clean_url": "https://www.wktv.com/news/national/national-and-international-news-in-focus-oct-14/article_d70dc2cd-1b84-5a1c-9e5b-e910a44ac986.html",
+        "image": "https://www.bing.com/th?id=ONUT.hhM9qeU7imqXJw8Tihd1HQ",
+        "timestamp": 1791920191.0
     },
     {
         "id": "e663c17b9d",
@@ -5408,197 +5596,5 @@
         "clean_url": "https://www.1news.co.nz/2026/10/11/americans-are-turning-dark-on-trump-republicans-will-pay-in-midterm-elections",
         "image": "https://www.bing.com/th?id=ONUT.V0VVsPlCCk1fw2OTUdxSag",
         "timestamp": 1791654116.9209156
-    },
-    {
-        "id": "7cab2de1ed",
-        "title_fa": "خبر بین‌المللی — Il gasolio russo agli آمریکا e quella propaganda elettorale",
-        "title_en": "Il gasolio russo agli Usa e quella propaganda elettorale a spese dell'Ucraina",
-        "summary": [
-            "L’annuncio del presidente Donald Trump è arrivato a 25 giorni esatti dalle attesissime elezioni di metà mandato del 3 novembre: «La Russia fornirà immediatamente oltre 300mila tonnellate di gasolio al..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Avvenire on MSN",
-        "url": "https://www.msn.com/it-it/notizie/other/il-gasolio-russo-agli-usa-e-quella-propaganda-elettorale-a-spese-dell-ucraina/ar-AA2dXxzX?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/it-it/notizie/other/il-gasolio-russo-agli-usa-e-quella-propaganda-elettorale-a-spese-dell-ucraina/ar-AA2dXxzX",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791654112.0090182
-    },
-    {
-        "id": "5545f24712",
-        "title_fa": "تسویه‌حساب خزانه‌داری با ناوگان نفت‌قاچاق ایران",
-        "title_en": "Bessent has a warning for anyone helping Iran sell oil",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا اعلام کرد اکثر کشتی‌های قاچاق نفتی تهران را نابود کرده است.",
-            "این اقدام باعث کاهش چشمگیر درآمدهای نفتی ایران می‌شود و فشار اقتصادی را عمیق‌تر می‌کند."
-        ],
-        "impact": "کاهش تا چند میلیارد دلار درآمد نفتی تهران، تشدید فشار بر اقتصاد تحت تحریم",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "TheStreet on MSN",
-        "url": "https://www.msn.com/en-us/news/other/bessent-has-a-warning-for-anyone-helping-iran-sell-oil/ar-AA2dZtI5",
-        "clean_url": "https://www.msn.com/en-us/news/other/bessent-has-a-warning-for-anyone-helping-iran-sell-oil/ar-AA2dZtI5",
-        "image": "http://www.bing.com/th?id=ONUT.fbPQ45hclHCBXxplisUKMg&pid=News",
-        "timestamp": 1791653580.0
-    },
-    {
-        "id": "6de8905856",
-        "title_fa": "کشتی نفتی در هرمز به مین دریایی برخورد کرد",
-        "title_en": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report",
-        "summary": [
-            "سازمان سپاه پاسداران ادعا کرد کشتی به مین‌گذاری ایران برخورد کرده؛ این می‌تواند پیام هشدار برای ناوگان تجاری باشد",
-            "انفجار باعث توقف موقت عبور نفت از تنگه هرمز شد",
-            "اگر ادعای ایران صحت داشته باشد، خطر گسترش عملیات مین‌گذاری در مسیرهای تجاری افزایش می‌یابد"
-        ],
-        "impact": "اختلال در عبور میلیون‌ها بشکه نفت، ریسک افزایش قیمت جهانی و تشدید تنش‌های نظامی را به دنبال دارد",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791652595.0
-    },
-    {
-        "id": "6d73475741",
-        "title_fa": "حملهٔ مرگبار به فرودگاه سعودی؛ ۱۲ کشته، ۳۰۰ مصدوم",
-        "title_en": "Iran live updates: 12 killed, 300 injured at brutal attack on Saudi airport",
-        "summary": [
-            "حمله هوایی به فرودگاه سعودی توسط گروهی ناشناس انجام شد.",
-            "تلفات سنگین (۱۲ کشته، ۳۰۰ مصدوم) نشان‌دهنده خطر گسترش تنش‌های منطقه‌ای است.",
-            "خسارت مادی به زیرساخت‌های حمل‌ونقل هوایی سعودی افزوده شد.",
-            "احتمال واکنش نظامی یا تحریم‌های جدید علیه عامل حمله."
-        ],
-        "impact": "تلفات سنگین و خسارت به زیرساخت‌های هوایی سعودی می‌تواند منجر به تشدید تحریم‌ها و پاسخ نظامی منطقه‌ای شود.",
-        "tag": "حمله",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-12-killed-300-injured-at-brutal-attack-on-saudi-airport/ar-AA2dQb7l",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-12-killed-300-injured-at-brutal-attack-on-saudi-airport/ar-AA2dQb7l",
-        "image": "http://www.bing.com/th?id=ONUT.eM2Nz9qW_a78rO1Q7ekHrA&pid=News",
-        "timestamp": 1791646514.0
-    },
-    {
-        "id": "4ac7d1f286",
-        "title_fa": "پولیس با حکم اضطراری به‌دلیل قیمت گاز واکنش داد",
-        "title_en": "Gov. Jared Polis issues executive order aimed at high gas prices in Colorado",
-        "summary": [
-            "گورنر کلرادو یک حکم اضطراری برای کاهش قیمت بنزین صادر کرد",
-            "او جنگ ایران ترامپ را عامل اصلی افزایش قیمت‌ها دانست",
-            "اقدام شامل تسهیل سوخت برای کشاورزان و رانندگان است",
-            "هدف کاهش فشار مالی بر خانوارهای کلرادو است"
-        ],
-        "impact": "کاهش موقت قیمت سوخت برای ساکنان کلرادو",
-        "tag": "قیمت",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "Denver7",
-        "url": "https://www.denver7.com/news/local-news/gov-jared-polis-issues-executive-order-aimed-at-high-gas-prices-in-colorado",
-        "clean_url": "https://www.denver7.com/news/local-news/gov-jared-polis-issues-executive-order-aimed-at-high-gas-prices-in-colorado",
-        "image": "http://www.bing.com/th?id=ONUT.XUTgYAPX8z_mWbcO4rEBOg&pid=News",
-        "timestamp": 1791643500.0
-    },
-    {
-        "id": "74a6308059",
-        "title_fa": "تجلیل ترامپ از دیزل روسی: انتقادهای شدید اوکراین",
-        "title_en": "Trump’s Putin deal is a desperate attempt to win voters – Ukraine will pay for it",
-        "summary": [
-            "تحلیل‌گران اوکراینی می‌گویند توافق دیزل، سلاحی برای ادامه جنگ روسیه است",
-            "ترامپ این گام را برای جذب رأی‌داران خود می‌داند",
-            "تصمیم می‌تواند تحریم‌های غرب را تضعیف کند",
-            "واکنش‌های داخلی آمریکا به این معامله تند است"
-        ],
-        "impact": "احتمال افزایش حمایت روسیه از جنگ و کاهش فشار اقتصادی",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "inews.co.uk on MSN",
-        "url": "https://www.msn.com/en-gb/news/other/trump-s-putin-deal-is-a-desperate-attempt-to-win-voters-ukraine-will-pay-for-it/ar-AA2dX9Sc?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/news/other/trump-s-putin-deal-is-a-desperate-attempt-to-win-voters-ukraine-will-pay-for-it/ar-AA2dX9Sc",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791643484.5314586
-    },
-    {
-        "id": "0045668b4a",
-        "title_fa": "ترامپ و نتانیاهو: دو رقیب فساد بین‌المللی",
-        "title_en": "Birds of a Feather",
-        "summary": [
-            "هر دو رهبر تحت تعقیب دادگاهی در کشور خود هستند",
-            "نتانیاهو با اتهام رشوه و تقلب، ترامپ با اتهام سوءاستفاده جنسی و اسناد طبقه‌بالا مواجه‌اند",
-            "دادگاه ژروال اسرائیل هنوز پرونده نتانیاهو را بررسی می‌کند",
-            "دادگاه بین‌المللی ICC برای نتانیاهو حکم دستگیری صادر کرده"
-        ],
-        "impact": "احتمال تضعیف اعتبار سیاسی هر دو کشور و تشدید فشارهای بین‌المللی",
-        "tag": "فساد",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/10/10/birds-of-a-feather-3/",
-        "clean_url": "https://www.counterpunch.org/2026/10/10/birds-of-a-feather-3",
-        "image": "https://www.bing.com/th?id=ONUT.NIg0S0so3KiOM73Uucgb7Q",
-        "timestamp": 1791643484.5302699
-    },
-    {
-        "id": "3722aea2f0",
-        "title_fa": "ترامپ ممکن است به حملات سعودی علیه حوثی‌ها بپیوندد",
-        "title_en": "Trump Says U.S. May Join Saudi Strikes on Houthis After Riyadh Airport Attacks",
-        "summary": [
-            "ترامپ اعلام کرد ایالات متحده می‌تواند در حملات سعودی به حوثی‌ها مشارکت کند",
-            "این اظهارات پس از حمله موشکی به فرودگاه ریاض و کشته شدن حداقل شش نفر صورت گرفت",
-            "مشارکت آمریکا می‌تواند تنش‌های خاورمیانه را به سطح جدیدی برساند",
-            "تصمیم نهایی هنوز نامشخص اما فشار بر ایران افزایش می‌یابد"
-        ],
-        "impact": "ممکن است حضور نظامی آمریکا در یمن تنش‌های منطقه‌ای را تشدید کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/",
-        "clean_url": "https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks",
-        "image": "http://www.bing.com/th?id=ONUT._5TQHyy6dw6X3oVPKks0aA&pid=News",
-        "timestamp": 1791642120.0
-    },
-    {
-        "id": "d6ca212c4b",
-        "title_fa": "سوپر‌تانکر نفتی در تنگه هرمز با مین برخورد کرد",
-        "title_en": "Oil supertanker hits mine in Strait of Hormuz — IRGC",
-        "summary": [
-            "سپاه پاسداران ادعا کرد مین‌گذاری باعث انفجار سوپر‌تانکر شد",
-            "این حادثه پیام هشدار واضحی برای کشتی‌های عبوری از تنگه هرمز است",
-            "اگر تهدیدات مشابه ادامه یابد، عبور نفتی در این مسیر به خطر می‌افتد",
-            "تنش‌های نفتی منطقه می‌تواند به سرعت تشدید شود"
-        ],
-        "impact": "اختلال در عبور نفتی و افزایش هزینه‌های حمل‌ونقل",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2200371",
-        "clean_url": "https://tass.com/world/2200371",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1791640500.0
-    },
-    {
-        "id": "c28d3608fe",
-        "title_fa": "دونالد ترامپ: رئیس‌جمهور دوم غیرمتوالی",
-        "title_en": "Donald J. Trump",
-        "summary": [
-            "ترامپ برای دومین بار پس از دوره ۲۰۱۶‑۲۰۲۰ به‌عنوان رئیس‌جمهور آمریکا انتخاب شد",
-            "بازگشت او می‌تواند سیاست‌های آمریکا نسبت به تحریم‌ها و دیپلماسی با ایران را تحت بازنگری قرار دهد"
-        ],
-        "impact": "امکان تغییر موضع آمریکا در تحریم‌ها و مذاکرات هسته‌ای ایران",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/donald-trump/",
-        "clean_url": "https://www.cnbc.com/donald-trump",
-        "image": "https://image.cnbcfm.com/api/v1/image/104466932-PE_Color.jpg?v=1737040322&w=1920&h=1080",
-        "timestamp": 1791640200.0
     }
 ]
