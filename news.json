@@ -1,5 +1,78 @@
 [
     {
+        "id": "ba7045dac4",
+        "title_fa": "معامله دیزل ترامپ با روسیه: ۳ میلیون تن در کوتاه‌مدت",
+        "title_en": "What was the point of Trump’s diesel deal with Russia?",
+        "summary": [
+            "ترامپ با ولادیمیر پوتین توافق کرد روسیه به آمریکا دیزل به‌مقدار ۳ میلیون تن تحویل دهد",
+            "مجوز مالیاتی آمریکا دیزل روسی را تا آوریل از تحریم‌ها مستثنی کرد",
+            "در همان زمان روسیه به‌سرعت یک ایستگاه برق در خارکیو را هدف حمله کرد"
+        ],
+        "impact": "تقویت وابستگی انرژی آمریکا به روسیه و تنش‌های ژئوپلیتیک",
+        "tag": "انرژی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "spectator",
+        "url": "https://spectator.com/article/the-true-cost-of-trumps-diesel-deal-with-putin/?edition=us",
+        "clean_url": "https://spectator.com/article/the-true-cost-of-trumps-diesel-deal-with-putin",
+        "image": "https://www.bing.com/th?id=ONUT.tITYYs-wz66jHX_rwOw6uQ",
+        "timestamp": 1791980540.0433784
+    },
+    {
+        "id": "75013f3575",
+        "title_fa": "نقدی بر نفاق آمریکا در تحریم‌ها",
+        "title_en": "Russian oil for me, sanctions for thee: An American masterclass in hypocrisy",
+        "summary": [
+            "مقاله‌ای با عنوان انتقادی به سیاست‌های تحریمی آمریکا منتشر شد",
+            "لینک اصلی در دسترس نیست و جزئیات نامشخص است"
+        ],
+        "impact": "عدم دسترسی به محتوا مانع ارزیابی دقیق می‌شود",
+        "tag": "تحریم",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/opinion/russian-oil-for-me-sanctions-for-thee-an-american-masterclass-in-hypocrisy-14052809.html",
+        "clean_url": "https://www.firstpost.com/opinion/russian-oil-for-me-sanctions-for-thee-an-american-masterclass-in-hypocrisy-14052809.html",
+        "image": "https://www.bing.com/th?id=ONUT.r4DyW9nU95zhWLaFZtsTAg",
+        "timestamp": 1791980540.0413723
+    },
+    {
+        "id": "1608243a77",
+        "title_fa": "سپاه هشدار: احتمال حمله آمریکا پیش از انتخابات میانی",
+        "title_en": "IRGC warns of ‘very real’ chance of new US strikes before midterms",
+        "summary": [
+            "سپاه اعلام کرد احتمال واقعی حملات جدید آمریکا قبل از انتخابات میانی وجود دارد",
+            "این هشدار در پی تهدیدهای قبلی به ناوهای آمریکایی در تنگه هرمز مطرح شد"
+        ],
+        "impact": "افزایش تنش‌های نظامی و فشار بر تصمیم‌گیری‌های سیاسی آمریکا",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The New Region",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9reTkyRmtNdlpoNGxHNjhPSGRQdHJKbDhYNXZJd3ZHMHRtU2hUOTg3OGVhN3p1RE1iSlZjbmtFRkxxamZZNFN3NGg3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9reTkyRmtNdlpoNGxHNjhPSGRQdHJKbDhYNXZJd3ZHMHRtU2hUOTg3OGVhN3p1RE1iSlZjbmtFRkxxamZZNFN3NGg3UQ",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791979334.0
+    },
+    {
+        "id": "f814456be5",
+        "title_fa": "سخنگوی سپاه: ایران سلاح‌های پیشرفته‌تری به‌دست آورده",
+        "title_en": "Iran Acquires More Advanced Weapons: IRGC Spokesman",
+        "summary": [
+            "نماینده نیروی دریایی سپاه اعلام کرد ایران به سلاح‌های پیشرفته‌تری دست یافته",
+            "این ادعا نشان‌دهنده پیشرفت توان نظامی ایران در مواجهه با تحریم‌هاست"
+        ],
+        "impact": "تقویت توان دفاعی ایران و افزایش نگرانی‌های منطقه",
+        "tag": "سلاح",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "تسنیم",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0JIdnZBdU9oM01zeUdGTGtnSVVuRHBkcFQyTVhrd1dHdmdIaUl5SENKM0RYQ2tOcXR4LVVUT180aVFucTd1eTNEMHVSSXZrVlFZQzZHNDVLbmZ1YmZ5blpWQ3o0N0JVWEdLWVZjSmV5c0pxSTJaRFJXUmI3NG1tNGV4RTlheEVNUHE1WlRrMVlNbUFWbUtadXp1VmQ0elBQdG5WeEZn0gGrAUFVX3lxTE4xalFRS01fRGlsNHRoZ0U2MUVPMkROZnFxN19uOUJVX21LcWZLQ2hyQTVtUkFLZmpydzQ1MWZtdV9RWkNMcWROU2hYRURhYWk4RjFEVDBSamw1dE1fMWFzTUtuX3FGd2xHLVNiV0h6bE1zdzItWURIOWlqbkxTeW1JRWxmUDltZURfYmN5a0ZBd2dndTlINGE4Rnc1OTI4N3pOc3lBYkJCWEhpbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0JIdnZBdU9oM01zeUdGTGtnSVVuRHBkcFQyTVhrd1dHdmdIaUl5SENKM0RYQ2tOcXR4LVVUT180aVFucTd1eTNEMHVSSXZrVlFZQzZHNDVLbmZ1YmZ5blpWQ3o0N0JVWEdLWVZjSmV5c0pxSTJaRFJXUmI3NG1tNGV4RTlheEVNUHE1WlRrMVlNbUFWbUtadXp1VmQ0elBQdG5WeEZn0gGrAUFVX3lxTE4xalFRS01fRGlsNHRoZ0U2MUVPMkROZnFxN19uOUJVX21LcWZLQ2hyQTVtUkFLZmpydzQ1MWZtdV9RWkNMcWROU2hYRURhYWk4RjFEVDBSamw1dE1fMWFzTUtuX3FGd2xHLVNiV0h6bE1zdzItWURIOWlqbkxTeW1JRWxmUDltZURfYmN5a0ZBd2dndTlINGE4Rnc1OTI4N3pOc3lBYkJCWEhpbw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791978523.0
+    },
+    {
         "id": "46665378af",
         "title_fa": "سنداکی جدید دربارهٔ فرمان شلیک موشک بالستیک آمریکا",
         "title_en": "A former nuclear submariner reveals what happens when the US president orders a ballistic missile launch",
@@ -147,6 +220,44 @@
         "timestamp": 1791970753.0
     },
     {
+        "id": "002a9787b3",
+        "title_fa": "ترامپ می‌گوید سربازان کشته‌شده از سلاح هسته‌ای ایران می‌گریزند",
+        "title_en": "Trump claims fallen soldiers said 'we cannot let Iran have a nuclear weapon' - ABC News",
+        "summary": [
+            "ترامپ ادعا کرد سربازان آمریکایی کشته‌شده می‌گویند اجازه ندهیم ایران سلاح هسته‌ای داشته باشد",
+            "این حرف بدون سند رسمی منتشر شد و هدف تقویت موضع سخت‌گیرانه آمریکا است"
+        ],
+        "impact": "تقویت فشار سیاسی بر مذاکرات هسته‌ای ایران",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjg5NHl4dWUyQ0JyWnVDQ2dkbHFxaGgycjRNcy1OYktOQXlaLUxqWk1aT2ZEdlVoWm9TakEwSXA3aTAwTmFjdXZOZEhHdzE2WVZOMzBXaHZvMU9FYzBqZ25Fb1hXbHBEdVcxWTZ6OG5xcmIzUEhhdkp3VEUxai11c09GZDctSVVaQUhsblhYUThGYWRwem91bE4yWU96QWJlcC1OMtIBqgFBVV95cUxQeDZUX3JYWnNEUjl0OXJpMmhodjg4TVFmbkg5UmxOMjdMRTFsOXVGUUFfbExtUWx6T1JOLTBBTDhwaTNMRzZ5REtCWHcyXzNjMlAyUU5yWlJpTkZwZnBJWXl1OXpBUGhMb1ZZd3dVNnhpbWQtVjc0U096VlVpM0d0dldmckpZVTZGVXd2VW02VnM1VWNyX3RwZGhpWU1jZ3hZWUxncGI1RW8xZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjg5NHl4dWUyQ0JyWnVDQ2dkbHFxaGgycjRNcy1OYktOQXlaLUxqWk1aT2ZEdlVoWm9TakEwSXA3aTAwTmFjdXZOZEhHdzE2WVZOMzBXaHZvMU9FYzBqZ25Fb1hXbHBEdVcxWTZ6OG5xcmIzUEhhdkp3VEUxai11c09GZDctSVVaQUhsblhYUThGYWRwem91bE4yWU96QWJlcC1OMtIBqgFBVV95cUxQeDZUX3JYWnNEUjl0OXJpMmhodjg4TVFmbkg5UmxOMjdMRTFsOXVGUUFfbExtUWx6T1JOLTBBTDhwaTNMRzZ5REtCWHcyXzNjMlAyUU5yWlJpTkZwZnBJWXl1OXpBUGhMb1ZZd3dVNnhpbWQtVjc0U096VlVpM0d0dldmckpZVTZGVXd2VW02VnM1VWNyX3RwZGhpWU1jZ3hZWUxncGI1RW8xZw",
+        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791969881.0
+    },
+    {
+        "id": "3995be60a3",
+        "title_fa": "حمله به کشتی‌ها و تهدید ناوهای آمریکا در هرمز",
+        "title_en": "Gunmen attack police vehicle in southeastern Iran",
+        "summary": [
+            "حملات ناوشکن‌ها و تانکرها به‌صورت شلیک ناشناخته در خلیج فارس شدت یافت",
+            "معاون نیروی دریایی سپاه، علی عظمی، گفت ناوهای آمریکایی که به تنگه هرمز نزدیک شوند، غرق می‌شوند",
+            "تحریم‌های آمریکا صادرات نفت ایران را قطع کرده، اما سایر تولیدکنندگان خلیج توانسته‌اند از مسیر عبور کنند",
+            "قیمت نفت برنت پس از این تحولات به ۱۰۵٫۶۹ دلار رسید"
+        ],
+        "impact": "افزایش فشار نظامی بر آمریکا و تضعیف صادرات نفت ایران",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610142868",
+        "clean_url": "https://www.iranintl.com/en/202610142868",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791969600.0
+    },
+    {
         "id": "fe146594bc",
         "title_fa": "کاتز: ایران و نیابتی‌ها به انتخابات اسرائیل حمله می‌کنند",
         "title_en": "Katz warns Iran, proxies planning terrorist attacks to influence Israeli election",
@@ -165,6 +276,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWYxeGVqNi1rcllmRUlTaHJBdld4Tmg4M0NRWXJicGxNRDl4a1FVTnZ1YU93Zmdxbno5V3lPRDR5SU9HY003N3M3aWR6OHhETjNmYzVMWUtuYjJQNlBiQlpCbDNYWm9jT2lSYWl0OThKMmNBdWYtUlplRlYtbEktdlo3OGM4UERYWlNMd05mWDRWSkw2WjVsdGMwdFZQMlZ4QUtVU3FpYUc5eS1mUk9vYQ",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791969298.0
+    },
+    {
+        "id": "be7a301fcc",
+        "title_fa": "نیاز واشنگتن به استراتژی جدید پایگاه‌گذاری پس از ایران",
+        "title_en": "After Iran, Washington Needs a New Basing Strategy",
+        "summary": [
+            "تحلیل‌گر خارجی می‌گوید پس از حذف تهدید ایران، آمریکا باید مکان‌های نظامی جدیدی پیدا کند",
+            "این تغییر می‌تواند حضور نظامی آمریکا در خاورمیانه را بازتعریف کند"
+        ],
+        "impact": "بازنگری در توزیع نیروهای آمریکایی منطقه‌ای",
+        "tag": "پایگاه",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXJMZG16bUFiRWh4SlpiLWd1Y0ZMVXVwNzZjdFNyMnBIVlpodTlvdk9JVlJIQVFzSEYzcDBSWHRDcnRfUGJ6M2dlRlJWTzNfVGRyZmx6VW9YYk1aWUxlS3NUajFmZHRJZHJtYjYyYjl4OTZITEFTNDNtMmZEQnVKbG1wdG9TNThRNFpoNS13LVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXJMZG16bUFiRWh4SlpiLWd1Y0ZMVXVwNzZjdFNyMnBIVlpodTlvdk9JVlJIQVFzSEYzcDBSWHRDcnRfUGJ6M2dlRlJWTzNfVGRyZmx6VW9YYk1aWUxlS3NUajFmZHRJZHJtYjYyYjl4OTZITEFTNDNtMmZEQnVKbG1wdG9TNThRNFpoNS13LVA",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1791968786.0
     },
     {
         "id": "2f44d6f68c",
@@ -772,6 +901,25 @@
         "clean_url": "https://www.baltimoresun.com/2026/10/13/trump-russia-diesel-ukraine",
         "image": "https://www.baltimoresun.com/wp-content/uploads/2025/12/Europe_Summit_Trump_56280-1.jpg?w=2000&h=1337",
         "timestamp": 1791914940.0
+    },
+    {
+        "id": "7a0e6311a0",
+        "title_fa": "بانکدار مرکزی ایران رد ادعای فروپاشی اقتصاد",
+        "title_en": "Iran's central bank governor dismisses claims of economic collapse amid US blockade",
+        "summary": [
+            "رئیس بانک مرکزی ایران گفت اقتصاد ایران در حال فروپاشی نیست",
+            "آمریکا از ژوئیه بندرها را مسدود کرد و عملیات «اقتصاد برون‌رفت» را آغاز کرد",
+            "این تحریم‌ها هدف قطع ارتباطات اقتصادی ایران با جهان است"
+        ],
+        "impact": "تحریم‌های آمریکا فشار مالی بر ایران را تشدید می‌کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/iran-s-central-bank-governor-dismisses-claims-of-economic-collapse-amid-us-blockade/ar-AA2ee2KY",
+        "clean_url": "https://www.msn.com/en-us/money/economy/iran-s-central-bank-governor-dismisses-claims-of-economic-collapse-amid-us-blockade/ar-AA2ee2KY",
+        "image": "http://www.bing.com/th?id=ONUT.5U0SC-YUNu0JVYMCFuGWbQ&pid=News",
+        "timestamp": 1791914160.0
     },
     {
         "id": "b7b67f24c8",
@@ -5461,151 +5609,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/delusional-trump-is-claiming-he-deserves-nobel-peace-prize-again/ar-AA2dW4T6",
         "image": "https://www.bing.com/th?id=ONUT.gOcCjpNCi5rOaAGJ5Wc4PQ",
         "timestamp": 1791621792.892115
-    },
-    {
-        "id": "23412ccdbd",
-        "title_fa": "کپلر: درآمد نفتی ایران در صورت تداوم محاصره آمریکا ممکن است تا اواخر آذر به صفر برسد",
-        "title_en": "کپلر: درآمد نفتی ایران در صورت تداوم محاصره آمریکا ممکن است تا اواخر آذر به صفر برسد",
-        "summary": [
-            "همایون فلکشاهی، رییس بخش تحلیل نفت خام شرکت اطلاعات انرژی کپلر، به ایران‌اینترنشنال گفت اگر محاصره دریایی آمریکا علیه جمهوری اسلامی ادامه یابد، درآمد حاصل از صادرات نفت خام و میعانات گازی ایران ممکن ا..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610100070",
-        "clean_url": "https://www.iranintl.com/202610100070",
-        "image": "http://www.bing.com/th?id=ONUT.RwLAhaheBotZerG3fhOdmw&pid=News",
-        "timestamp": 1791621480.0
-    },
-    {
-        "id": "735ff74260",
-        "title_fa": "تحلیل نظرسنجی‌های سنا در تگزاس، مین و میشیگان",
-        "title_en": "Poll reality check: Texas, Maine and Michigan",
-        "summary": [
-            "لارری ساباتو و مایکل سمِرکونیش به بررسی نتایج نظرسنجی‌های کلیدی سنا می‌پردازند.",
-            "نظرسنجی‌ها ممکن است عوامل محلی و تغییرات دموگرافیک را به‌درستی نشان ندهند.",
-            "رقابت‌های مهم در تگزاس، مین و میشیگان می‌توانند تعادل کنگره را تحت تأثیر قرار دهند.",
-            "نتایج پیش‌بینی‌شده می‌تواند استراتژی احزاب را برای انتخابات میانی شکل دهد."
-        ],
-        "impact": "تحلیل نظرسنجی می‌تواند استراتژی‌های احزاب را برای انتخابات میانی شکل دهد.",
-        "tag": "نظرسنجی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/10/10/politics/video/poll-reality-check-texas-maine-and-michigan",
-        "clean_url": "https://www.cnn.com/2026/10/10/politics/video/poll-reality-check-texas-maine-and-michigan",
-        "image": "http://www.bing.com/th?id=ONUT.CF9mE0bD1Gm_pFlceMPZPA&pid=News",
-        "timestamp": 1791618300.0
-    },
-    {
-        "id": "694f981a91",
-        "title_fa": "فعالیت‌گر معلم‌کاران به اتهام تبلیغ علیه دولت متهم شد",
-        "title_en": "Iran charges teachers' rights activist with 'propaganda against the state'",
-        "summary": [
-            "محمود بهشتی لنگرودی به اتهام تبلیغ علیه دولت دستگیر شد",
-            "نماینده پیشین مجلس، ن. موسوی، به‌صراحت گفت عدم وضوح هسته‌ای مانع جنگ نیست و امکان بازنگری در دکترین هسته‌ای را مطرح کرد",
-            "این اظهارات نشان می‌دهد فشار داخلی برای تغییر سیاست هسته‌ای در حال بالا رفتن است"
-        ],
-        "impact": "تقویت سرکوب داخلی و احتمال تغییر موضع هسته‌ای ایران",
-        "tag": "حقوق",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610106613",
-        "clean_url": "https://www.iranintl.com/en/202610106613",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791617040.0
-    },
-    {
-        "id": "871663eaa4",
-        "title_fa": "ترامپ پس از رد نوبل: باید هشت جایزه می‌گرفت",
-        "title_en": "ترامپ پس از نگرفتن جایزه صلح نوبل: باید هشت جایزه می‌گرفتم،‌نه فقط یکی",
-        "summary": [
-            "ترامپ پس از رد جایزه نوبل، ادعای دریافت هشت جایزه را کرد",
-            "او کمیته نوبل را «شرم‌آور» خواند و به پایان جنگ‌ها اشاره کرد",
-            "این اظهارات نشان‌دهنده تلاش برای حفظ تصویر قهرمانانه پس از دوره ریاست‌جمهوری است",
-            "هیچ واکنش رسمی از نوبل یا دیگر سیاستمداران ثبت نشده"
-        ],
-        "impact": "اظهارات ترامپ به‌سختی توان سیاسی او را در داخل آمریکا تحت تأثیر قرار می‌دهد",
-        "tag": "سیاست-آمریکا",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610102377",
-        "clean_url": "https://www.iranintl.com/202610102377",
-        "image": "http://www.bing.com/th?id=ONUT.YkiTtr0nVvFkyHl45GphCg&pid=News",
-        "timestamp": 1791616380.0
-    },
-    {
-        "id": "e0474b9bad",
-        "title_fa": "خبر بین‌المللی — ایران said still able به produce missiles و drones, is being",
-        "title_en": "Iran said still able to produce missiles and drones, is being armed by Russia",
-        "summary": [
-            "Bloomberg cites officials saying Tehran remains 'well-stocked' with missiles, can 'quickly add more'; separate unsourced report claims US has pushed Israel to strike Iran alone..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-said-still-able-to-produce-missiles-and-drones-is-being-armed-by-russia/ar-AA2dXTn0",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-said-still-able-to-produce-missiles-and-drones-is-being-armed-by-russia/ar-AA2dXTn0",
-        "image": "http://www.bing.com/th?id=ONUT.uu3Dpa7fz7K0lGPXRJwTTA&pid=News",
-        "timestamp": 1791616121.0
-    },
-    {
-        "id": "ee06913ea8",
-        "title_fa": "پوتین پیشنهاد کمک به پایان جنگ ایران را می‌دهد، اما آیا روسیه می‌تواند این کار را انجام دهد؟",
-        "title_en": "Putin offers to help end Iran war, but can Russia deliver?",
-        "summary": [
-            "Putin offers to help end Iran war, but can Russia deliver? Al-Monitor"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Al-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGJueXZHSE9vUlY5MDRYSnVpN1g1QUhxQkhlc3RMMFRqaUJsYlVSOFRNZkszd3B6RUJKc1cyQnhDTFgzTFlDQVZVTjJEYXZCR1Ntc0JPMDdwc3ItLWp5blBvcnc1NGFUMU1NdGJkVzVrWDduSVdGVlNVMVpZeWFBNm1kNDFvUkY4cEh4N3NkeDBKWTdKU3pjdHNB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGJueXZHSE9vUlY5MDRYSnVpN1g1QUhxQkhlc3RMMFRqaUJsYlVSOFRNZkszd3B6RUJKc1cyQnhDTFgzTFlDQVZVTjJEYXZCR1Ntc0JPMDdwc3ItLWp5blBvcnc1NGFUMU1NdGJkVzVrWDduSVdGVlNVMVpZeWFBNm1kNDFvUkY4cEh4N3NkeDBKWTdKU3pjdHNB",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791615972.0
-    },
-    {
-        "id": "b2145206ef",
-        "title_fa": "ایران پس حملات آمریکا‑اسرائیل موشک و پهپاد را حفظ کرد",
-        "title_en": "Iran retains missile, drone production capabilities despite months of US-Israeli strikes",
-        "summary": [
-            "اطلاعات غربی نشان می‌دهد کارخانجات موشک و پهپاد ایران هنوز فعال‌اند",
-            "این توانایی به ایران امکان می‌دهد موجودی موشکی را حتی پس از حملات مداوم بازسازی کند",
-            "اثر حملات نظامی آمریکا‑اسرائیل بر توان دفاعی ایران محدود باقی مانده"
-        ],
-        "impact": "قابلیت ادامه تولید سلاح‌های دقیق، فشار بر برنامه‌های تحریمی آمریکا‑اسرائیل",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-retains-missile-drone-production-capabilities-despite-months-of-us-israeli-strikes/ar-AA2dXgxc",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-retains-missile-drone-production-capabilities-despite-months-of-us-israeli-strikes/ar-AA2dXgxc",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791615027.0
-    },
-    {
-        "id": "4cd7865a9e",
-        "title_fa": "قرارداد دیزل ترامپ با پوتین حدود یک روز و نیم از تقاضای آمریکا را پوشش می‌دهد",
-        "title_en": "Trump’s diesel deal with Putin covers about a day and a half of US demand",
-        "summary": [
-            "Trump says Putin agreed to ship hundreds of thousands of tons of Russian diesel to ease fuel prices before the midterms. Analysts question whether Russia can de..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Idaho Learning News on MSN",
-        "url": "https://www.msn.com/en-us/money/general/trump-s-diesel-deal-with-putin-covers-about-a-day-and-a-half-of-us-demand/ar-AA2dZEji?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/general/trump-s-diesel-deal-with-putin-covers-about-a-day-and-a-half-of-us-demand/ar-AA2dZEji",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791614856.0
     }
 ]
