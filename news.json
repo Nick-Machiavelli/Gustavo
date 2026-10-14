@@ -1,5 +1,24 @@
 [
     {
+        "id": "234fe2b2cd",
+        "title_fa": "ترامپ روسیه را به‌دست‌درازدن دیزل می‌سپارد",
+        "title_en": "Commentary: Trump wants cheaper diesel, but Ukraine could pay the price",
+        "summary": [
+            "ترامپ مجوز واردات دیزل روسی تا ۲۰۲۷ را صادر کرد، در حالی که مالیات ۱۰۰٪ بر خریداران انرژی روسیه وضع کرده بود",
+            "این تصمیم هزینه سوخت آمریکا را پایین می‌آورد اما به اوکراین فشار می‌آورد که بدون دیزل روسی باید مقابله کند",
+            "انتخابات میدانی آمریکا زمینه این حرکت را فراهم کرده"
+        ],
+        "impact": "قیمت سوخت آمریکا کاهش می‌یابد، اما توان مقابله اوکراین با روسیه تضعیف می‌شود",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/commentary/trump-russia-diesel-deal-ukraine-war-u-turn-6458896",
+        "clean_url": "https://www.channelnewsasia.com/commentary/trump-russia-diesel-deal-ukraine-war-u-turn-6458896",
+        "image": "https://www.bing.com/th?id=ONUT.Ae2SByRcv20twr3aUac8Ug",
+        "timestamp": 1792020717.000895
+    },
+    {
         "id": "a03d266c66",
         "title_fa": "ترامپ و فشارهای اقتصادی بر ایران بی‌نتیجه شد",
         "title_en": "Học thuyết chiến thắng của Iran",
@@ -315,6 +334,25 @@
         "timestamp": 1791992100.0
     },
     {
+        "id": "9f3a1947fa",
+        "title_fa": "ایرجی‌سی می‌گوید خطر حمله ناگهانی پایان یافت",
+        "title_en": "IRGC official says Iran is past the threat of a surprise attack",
+        "summary": [
+            "ایران ادعا می‌کند نیروی مسلحش آماده پاسخ به هر حمله ناگهانی است",
+            "کشت فرمانده باسج زنان در سیستان‑بالوشستان به‌عنوان نمونه‌ای از حملات شبه‌نظامی توصیف شد",
+            "ادعای ارتباط این حملات با آمریکا و اسرائیل بدون ارائه مدرک"
+        ],
+        "impact": "حفظ توان نظامی ایران و تشدید تنش‌های منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610146878",
+        "clean_url": "https://www.iranintl.com/en/202610146878",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1791990300.0
+    },
+    {
         "id": "447aa00a7d",
         "title_fa": "آیا مواجهه نظامی بین اسرائیل و ترکیه اجتناب‌ناپذیر است؟",
         "title_en": "Israel vs Turkey: Is a Military Confrontation Inevitable?",
@@ -331,6 +369,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DTnd5MmVCa2ZCazZ1ZU93UDdwdF9rT01iZFlUeXczZ2c1Y3ZUV19fMmVZZE5uWUxZckp1aEZjNXVPdlQ4NFFUMmg4c1J0aVlnYy1uVnFmLW1BOTk4NzNHMF9oWmlWQUJPZG5wdENPMTBPWTRpWE9N",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791990104.0
+    },
+    {
+        "id": "e4fb1882f4",
+        "title_fa": "خبر بین‌المللی — Yemen's حوثی‌ها و Saudi-led coalition trade fire, هرمز remai",
+        "title_en": "Yemen's Houthis and Saudi-led coalition trade fire, Hormuz remains deadlocked",
+        "summary": [
+            "Houthis and Saudi Arabia unleash strikes on each other as the war in Yemen rages forward with no end in sight."
+        ],
+        "impact": "...",
+        "tag": "دریایی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/yemens-houthis-and-saudi-led-coalition-trade-fire",
+        "clean_url": "https://www.newarab.com/news/yemens-houthis-and-saudi-led-coalition-trade-fire",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2299489084.jpeg?itok=NNbQl199",
+        "timestamp": 1791990060.0
     },
     {
         "id": "0b9ff07bfc",
@@ -1139,6 +1194,45 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZdlB1WXhFSnRRWkh0VHpkbURzTDFjU1d6bG84UnhRTE9YTE8wcUtwQU4wakxIN3I5aXdUakxvOHBnam9SUkNIb2htZTBrYU84c3JxNDgxVmRmRzZma3M4aWpaSlVxOFFzRTlWZnJERGNkOHNDTm5WejRXSWE4ZXc",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791936005.0
+    },
+    {
+        "id": "a56c30b869",
+        "title_fa": "حمله حوثی‌ها به ریاض؛ ترامپ می‌خواهد مداخله",
+        "title_en": "Live Updates: Houthis launch new attack on Saudi capital as Trump mulls U.S. role in Mideast war's new front",
+        "summary": [
+            "حوثی‌ها موشک بالستیک به ریاض پرتاب کردند؛ سپاه سعودی آن را نابود کرد",
+            "حوثی‌ها وعده ادامه هدف‌گیری فرودگاه و زیرساخت‌های نفتی سعودی را دادند",
+            "ترامپ اعلام کرد ممکن است به حملات حوثی‌ها بپیوندد و تهدید به هدف‌گیری نیروهای آمریکایی کرد",
+            "این اظهارات پس از حملات مشترک آمریکا‑اسرائیل به ایران می‌آید و خطر گسترش جنگ خاورمیانه را بالا می‌برد"
+        ],
+        "impact": "افزایش خطر درگیری مستقیم آمریکا با حوثی‌ها و اختلال در تأمین انرژی خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump",
+        "image": "https://www.bing.com/th?id=ONUT._ghrt2P3FFUeyYog1_kihQ",
+        "timestamp": 1791934306.0
+    },
+    {
+        "id": "8628281dac",
+        "title_fa": "نتانیاهو: سرنگونی ایران برای امنیت اسرائیل ضروری",
+        "title_en": "Overthrowing Iran's government 'essential for Israel's security', Netanyahu says",
+        "summary": [
+            "نتانیاهو تأکید کرد سرنگونی رژیم ایران هدف اصلی اسرائیل است، اما پیش از انتخابات اکتبر عملی نیست",
+            "او گفت ایران در نقطه ضعف است و عملیات‌های نظامی اسرائیل مانع دستیابی به سلاح هسته‌ای شده‌اند",
+            "انتقاد از رقبای داخلی که مانع این هدف می‌شوند، نشان از فشار داخلی سیاسی دارد"
+        ],
+        "impact": "افزایش فشار دیپلماتیک اسرائیل بر ایران و تشدید ریسک عملیات نظامی",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/overthrowing-irans-government-essential-israels-security-netanyahu-says",
+        "clean_url": "https://www.middleeasteye.net/live-blog/live-blog-update/overthrowing-irans-government-essential-israels-security-netanyahu-says",
+        "image": "https://www.bing.com/th?id=ONUT.1Zrb24RL8c-N2KNRRl068g",
+        "timestamp": 1791934305.0
     },
     {
         "id": "c1c9537f08",
@@ -5494,98 +5588,5 @@
         "clean_url": "https://www.iranintl.com/en/202610104788",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1791663960.0
-    },
-    {
-        "id": "b001402664",
-        "title_fa": "هزینه حمل‌ونقل ترکیه‑ایران پنج برابر شد",
-        "title_en": "Freight costs from Turkey to Iran surge fivefold in two months",
-        "summary": [
-            "هزینه حمل‌ونقل کالا از بنادر ترکیه به ایران در کمتر از دو ماه به حدود ۸٬۰۰۰ دلار افزایش یافت.",
-            "این افزایش ناشی از فشارهای آمریکا برای قطع مسیرهای زمینی تجاری ایران است و هزینه‌های واردات را به شدت بالا می‌برد."
-        ],
-        "impact": "افزایش هزینه‌های واردات، تشدید فشار اقتصادی بر ایران",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610114328",
-        "clean_url": "https://www.iranintl.com/en/202610114328",
-        "image": "http://www.bing.com/th?id=ONUT.9wqMjy_C2V5E4DaT3pQM7w&pid=News",
-        "timestamp": 1791662400.0
-    },
-    {
-        "id": "6bcf38bd45",
-        "title_fa": "پیمان سه‌جانبه؛ ایران تحت فشار هسته‌ای و یمن",
-        "title_en": "War puts Iran's nuclear ambiguity under scrutiny",
-        "summary": [
-            "پیمان ترکیه‑پاکستان‑عربستان سعودی به مرحله عملیاتی رسیده و پشتیبانی نظامی می‌دهد.",
-            "ایران از انتشار شایعات درباره حضور هزاران نیرو در عربستان انتقاد کرد.",
-            "این توافق می‌تواند فشار بر یمن و ایران را افزایش دهد.",
-            "ریسک استفاده از این سازوکار برای مداخله در منازعه یمن وجود دارد."
-        ],
-        "impact": "پیمان سه‌جانبه می‌تواند فشار نظامی بر یمن و ایران را افزایش داده و تنش‌های منطقه‌ای را تشدید کند.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610106118",
-        "clean_url": "https://www.iranintl.com/en/202610106118",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/983ca6aec4e7d1c07a6a211961b7349de5dfc721-800x533.jpg?rect=134,0,533,533&w=200&h=200&q=58&fit=crop&auto=format",
-        "timestamp": 1791662040.0
-    },
-    {
-        "id": "189d17ac7e",
-        "title_fa": "سپاه پاسداران از انفجار مین در تنگه هرمز خبر داد.",
-        "title_en": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say",
-        "summary": [
-            "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say Anadolu Ajansı"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGpOcWdmNk5WcmRweGtHa2dFYTRpMWRpSWlfOGtabGFyODZTY2g1R2wySUt0MXFFbEtkQmdkUHFlaDFKNnRnZUdsNThHZms1eTJUSkJzWFRjczNmbmYyTXBwTU1ZeEJVLWJBczI0M1dJOVhpN05ULWdtYzBTUHJ6akNvemJKZkxnY3Bld1ppVWNqdElOQnBwNzhiUW53TnBnaHhpUkg5TmM2MkZjSzEwRjhPRHVER05lWTJwb1Q1cDhJU0VaS0REeTFXZGg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGpOcWdmNk5WcmRweGtHa2dFYTRpMWRpSWlfOGtabGFyODZTY2g1R2wySUt0MXFFbEtkQmdkUHFlaDFKNnRnZUdsNThHZms1eTJUSkJzWFRjczNmbmYyTXBwTU1ZeEJVLWJBczI0M1dJOVhpN05ULWdtYzBTUHJ6akNvemJKZkxnY3Bld1ppVWNqdElOQnBwNzhiUW53TnBnaHhpUkg5TmM2MkZjSzEwRjhPRHVER05lWTJwb1Q1cDhJU0VaS0REeTFXZGg",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791661972.0
-    },
-    {
-        "id": "0e9a83463d",
-        "title_fa": "سخنرانی مقامات ارتش اسرائیل درباره حمله پیش‌انتخابی به ایران",
-        "title_en": "IDF Officials Warn Pre-Election Iran Strike Could Seem Politically Motivated",
-        "summary": [
-            "مقامات ارتش اسرائیل هشدار دادند حمله پیش‌انتخابی به ایران می‌تواند به‌نظر سیاسی باشد",
-            "این اظهارات نشان می‌دهد اسرائیل ممکن است پیش از انتخابات آمریکا اقدام نظامی علیه ایران برنامه‌ریزی کند",
-            "چنین حمله‌ای می‌تواند روابط بین‌المللی را به‌خصوص روابط آمریکا‑اسرائیل‑ایران تحت فشار قرار دهد"
-        ],
-        "impact": "احتمال افزایش تنش‌های نظامی پیش از انتخابات، خطر تشدید درگیری",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRVRWS1hPanFCMldSUC1uNFpsWVFIX3FnNnkzV3RpektPcERUMFlfMGRQeDZhWElEdFdYeFJOTU54UTJnVm95ZmZyTUpLbmMxZkJzRjE3bEIxcDdvQUpHWXA3QnBZN3YtaWU1LVdKU3o0Y2tid2FkUzR4SXZLbWY0UkpuS1F6TGtOUk5STm9rYmhhRmRpcEl2ckZCRXNwSzZHU0czVzI3cV9HVjhhNW5ZQnVobnRoNGpscDdlWFN1NmhTT3pKNHV6YWxsOFF1OHpkcjJuenZ2RXJMMWxULVdRdmgxU0xOYVpnWkJfTWhfcXRJbEtiU2hObGttZXIzMVpnVlFvMEVjZm1mVlJNU0hHOFU3THVKcHlrcHhtZFNFNFBpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRVRWS1hPanFCMldSUC1uNFpsWVFIX3FnNnkzV3RpektPcERUMFlfMGRQeDZhWElEdFdYeFJOTU54UTJnVm95ZmZyTUpLbmMxZkJzRjE3bEIxcDdvQUpHWXA3QnBZN3YtaWU1LVdKU3o0Y2tid2FkUzR4SXZLbWY0UkpuS1F6TGtOUk5STm9rYmhhRmRpcEl2ckZCRXNwSzZHU0czVzI3cV9HVjhhNW5ZQnVobnRoNGpscDdlWFN1NmhTT3pKNHV6YWxsOFF1OHpkcjJuenZ2RXJMMWxULVdRdmgxU0xOYVpnWkJfTWhfcXRJbEtiU2hObGttZXIzMVpnVlFvMEVjZm1mVlJNU0hHOFU3THVKcHlrcHhtZFNFNFBpdw",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791660120.0
-    },
-    {
-        "id": "9eaa215371",
-        "title_fa": "خمینی‌نوه امنیت‌پولیس را ستون اصلی می‌نامد",
-        "title_en": "Mojtaba Khamenei Hails Police as a \"Pillar\" as Bombing and Recession Undercut Show of Strength",
-        "summary": [
-            "مهدی خمینی‌نوه، رئیسی، امنیت‌پولیس را ستون اصلی امنیت کشور خواند",
-            "او خواستار تقویت پرسنل، سخت‌افزار و هوش مصنوعی برای این نهاد شد",
-            "در همان زمان، انفجار بمب در نزدیکی زاهدان کشته شد؛ تضاد بین تبلیغ قدرت و واقعیت امنیتی"
-        ],
-        "impact": "تقویت ابزار سرکوب داخلی، اما افزایش تنش‌های محلی",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "National Council of Resistance of Iran",
-        "url": "https://www.ncr-iran.org/en/news/economy/mojtaba-khamenei-hails-police-as-a-pillar-as-bombing-and-recession-undercut-show-of-strength/",
-        "clean_url": "https://www.ncr-iran.org/en/news/economy/mojtaba-khamenei-hails-police-as-a-pillar-as-bombing-and-recession-undercut-show-of-strength",
-        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2026/10/iran-baluchestan-irgc-clashes.jpg",
-        "timestamp": 1791659400.0
     }
 ]
