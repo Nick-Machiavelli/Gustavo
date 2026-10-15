@@ -1196,6 +1196,26 @@
         "timestamp": 1791954060.0
     },
     {
+        "id": "a05e8873e2",
+        "title_fa": "آمریکا بررسی کاهش تحریم‌های ایران و روسیه را آغاز کرد",
+        "title_en": "US considers easing sanctions on Iran, Russia, Venezuela shadow fleet vessels",
+        "summary": [
+            "دولت آمریکا اعلام کرد که امکان کاهش تحریم‌های مالی علیه ایران، روسیه و ونزوئلا را بررسی می‌کند",
+            "این تصمیم پس از فشارهای داخلی و مذاکرات متعدد دیپلماتیک صورت گرفته است",
+            "کاهش تحریم‌ها می‌تواند به بهبود وضعیت اقتصادی این کشورها کمک کند اما ریسک‌های سیاسی را نیز به‌هم می‌ریزد",
+            "آمریکا هنوز معیارهای واضحی برای رفع کامل تحریم‌ها تعیین نکرده است"
+        ],
+        "impact": "احتمال بهبود جریان‌های مالی بین‌المللی و کاهش فشار اقتصادی بر کشورهای هدف",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610153889",
+        "clean_url": "https://www.iranintl.com/en/202610153889",
+        "image": "http://www.bing.com/th?id=ONUT.RvtawiBKa4SuPBF-yovhng&pid=News",
+        "timestamp": 1791954000.0
+    },
+    {
         "id": "220c06b1ff",
         "title_fa": "ایران حملات کشتی‌ها را گسترش داد؛ هورموز در آستانه بسته شدن",
         "title_en": "Iran expanding attacks on ships beyond Hormuz to keep oil prices high; official says full closure coming - report",
@@ -1271,6 +1291,46 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-executes-man-accused-armed-094038316.html",
         "image": "http://www.bing.com/th?id=ONUT.u5ew_JiE63yNtzDG21xahg&pid=News",
         "timestamp": 1791945600.0
+    },
+    {
+        "id": "4cbaf31e3a",
+        "title_fa": "ترامپ تایوان را برای خرید گاز آمریکایی تشویق کرد",
+        "title_en": "Trump announces Taiwan’s plans to buy US gas",
+        "summary": [
+            "ترامپ در بیانیه‌ای اعلام کرد که تایوان می‌تواند به‌سرعت گاز مایع آمریکا را خریداری کند",
+            "این حرکت نشان‌دهنده تقویت روابط اقتصادی و امنیتی واشنگتن با پایتخت جزیره‌ای است",
+            "چین احتمالاً واکنش انتقادی خواهد داد و فشار دیپلماتیک خود را افزایش می‌دهد",
+            "تأثیر این توافق بر بازار انرژی منطقه‌ای می‌تواند کوتاه‌مدت مثبت باشد"
+        ],
+        "impact": "تقویت حضور تجاری آمریکا در آسیا و فشار بر چین در زمینه انرژی",
+        "tag": "گاز",
+        "urgency": 3,
+        "sentiment": 0.5,
+        "source": "The Hill",
+        "url": "https://thehill.com/newsletters/energy-environment/6149640-taiwan-buys-alaska-gas/",
+        "clean_url": "https://thehill.com/newsletters/energy-environment/6149640-taiwan-buys-alaska-gas",
+        "image": "https://www.bing.com/th?id=ONUT.5vnnMukREQQVThl-U-grCQ",
+        "timestamp": 1791942579.0
+    },
+    {
+        "id": "16333fc720",
+        "title_fa": "ترامپ هشدار داد ایران به‌دست آوردن سلاح هسته‌ای حمله می‌کند",
+        "title_en": "Trump vuelve a alertar de ataque iraní en la costa oeste de Estados Unidos si logra armas nucleares",
+        "summary": [
+            "در میتین نبراسکا، ترامپ گفت ایران در صورت دستیابی به سلاح هسته‌ای می‌تواند به سواحل غربی آمریکا حمله کند",
+            "این اظهارات با واکنش‌های شدید داخلی و بین‌المللی مواجه شد و تنش‌های منطقه‌ای را تشدید کرد",
+            "سخنرانان نظامی آمریکا به‌سرعت برنامه‌های دفاعی ساحلی را بررسی کردند",
+            "اگر ایران به‌سرعت پیشرفت کند، احتمال بروز برخورد نظامی واقعی افزایش می‌یابد"
+        ],
+        "impact": "افزایش فشار نظامی و دیپلماتیک بر ایران و تقویت حضور نظامی آمریکا در اقیانوس آرام",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "El Nuevo Herald",
+        "url": "https://www.elnuevoherald.com/noticias/estados-unidos/article317628515.html",
+        "clean_url": "https://www.elnuevoherald.com/noticias/estados-unidos/article317628515.html",
+        "image": "https://www.bing.com/th?id=ONUT.uJnu3ESe5QGiW5xc6dN_hQ",
+        "timestamp": 1791942579.0
     },
     {
         "id": "70405f0380",
@@ -5527,62 +5587,5 @@
         "clean_url": "https://www.iranintl.com/en/202610114699",
         "image": "http://www.bing.com/th?id=ONUT.gsxQ-0oFWhm7ZzFVzwBHvg&pid=News",
         "timestamp": 1791691740.0
-    },
-    {
-        "id": "b9bdaf6ac8",
-        "title_fa": "حمله هوثی به فرودگاه‌های سعودی ۱۴ کشته",
-        "title_en": "Houthis kill 14 at Saudi airport as expert warns of rapid targets amid Middle East war",
-        "summary": [
-            "حشد هوثی به فرودگاه‌های ریاض و دمام حمله کرد و دست کم ۱۴ کشته و بیش از ۳۰۰ مصدوم شد.",
-            "این حمله نشان می‌دهد که توانایی‌های موشکی و پهپادی یمن به‌طور مستقیم تهدید هوایی خلیج فارس را تقویت کرده است."
-        ],
-        "impact": "آسیب‌پذیری حملات هوایی سعودی در مسیرهای تجاری منطقه‌ای افزایش می‌یابد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/houthis-kill-14-at-saudi-airport-as-expert-warns-of-rapid-targets-amid-middle-east-war/ar-AA2e20Ip?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/houthis-kill-14-at-saudi-airport-as-expert-warns-of-rapid-targets-amid-middle-east-war/ar-AA2e20Ip",
-        "image": "https://www.bing.com/th?id=ONUT.CdZPlXKveVySAJ4jkeNnuQ",
-        "timestamp": 1791682498.0
-    },
-    {
-        "id": "2b52739a35",
-        "title_fa": "تهدید تروریستی ایران از طریق حوثی‌ها و استراتژی تاریخی",
-        "title_en": "Activating global partnership to save world from Iranian terrorism",
-        "summary": [
-            "ایران با تکیه بر الگوی تاریخی خود، حوثی‌ها را برای فشار بر مسیرهای بحرانی به کار می‌گیرد",
-            "استفاده از تنگه باب‌المنادب به عنوان ابزار فشار، خطر حملات به کشتی‌های تجاری را افزایش می‌دهد",
-            "این سیاست می‌تواند تنش‌های خلیج عدن و هرمز را به سطحی فراتر از کشورهای خلیج فارس برساند",
-            "هماهنگی بین‌المللی برای مقابله با این شبکه‌های نیابتی ضروری است"
-        ],
-        "impact": "افزایش خطر حملات به کشتی‌های تجاری در باب‌المنادب و هرمز",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Arab Times",
-        "url": "https://www.arabtimesonline.com/news/global-partnership-to-counter-iranian-terrorism-a-strategic-imperative/",
-        "clean_url": "https://www.arabtimesonline.com/news/global-partnership-to-counter-iranian-terrorism-a-strategic-imperative",
-        "image": "https://www.bing.com/th?id=ONUT.6Qv_MVdwhmkJLNn1IZU7sQ",
-        "timestamp": 1791680320.531708
-    },
-    {
-        "id": "698140c47f",
-        "title_fa": "استراتژی آمریکا برای نفوذ در عراق بدون اشغال",
-        "title_en": "Influence Without Occupation: A Future U.S. Strategy For Iraq – Analysis",
-        "summary": [
-            "واشنگتن قصد دارد با ابزارهای اقتصادی و دیپلماتیک جایگزین حضور نظامی شود",
-            "این مسیر می‌تواند مانع گسترش نفوذ ایران در بغداد شود",
-            "عراق ممکن است بین فشارهای داخلی و انتظارات غربی در کشمکش باشد"
-        ],
-        "impact": "تقویت موقعیت آمریکا در عراق و محدود کردن نفوذ ایران",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/11102026-influence-without-occupation-a-future-u-s-strategy-for-iraq-analysis/",
-        "clean_url": "https://www.eurasiareview.com/11102026-influence-without-occupation-a-future-u-s-strategy-for-iraq-analysis",
-        "image": "https://www.bing.com/th?id=ONUT.dogndl4EtBGlH1VIp6otRw",
-        "timestamp": 1791680320.5313427
     }
 ]
