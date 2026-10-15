@@ -1,5 +1,149 @@
 [
     {
+        "id": "d42e20af4e",
+        "title_fa": "خطای صفحه وب؛ محتوای خبری ناموجود",
+        "title_en": "Ricketts should stand with farmers",
+        "summary": [
+            "صفحه‌ای که به نظر می‌رسد حاوی پیام سیاسی باشد، فقط خطای فنی نمایش می‌دهد",
+            "هیچ اطلاعاتی درباره رویداد یا شخصیت سیاسی در متن یافت نشد"
+        ],
+        "impact": "عدم وجود محتوا مانع تحلیل سیاسی می‌شود",
+        "tag": "فنی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Norfolk Daily News",
+        "url": "https://norfolkdailynews.com/commentary/ricketts-should-stand-with-farmers/article_24eb2362-aa68-4137-91a3-e01ae2ac4c5b.html",
+        "clean_url": "https://norfolkdailynews.com/commentary/ricketts-should-stand-with-farmers/article_24eb2362-aa68-4137-91a3-e01ae2ac4c5b.html",
+        "image": "https://www.bing.com/th?id=ONUT.39TRM7yUSHljwmnzjWE4Uw",
+        "timestamp": 1792083350.1095247
+    },
+    {
+        "id": "f0cde89a00",
+        "title_fa": "نتانیاهو دو هفته تا شروع جنگ جدید",
+        "title_en": "L’affannosa ricerca di Netanyahu di una nuova guerra",
+        "summary": [
+            "نتانیاهو زمان محدود برای راه‌اندازی عملیات نظامی جدید دارد",
+            "هدف احتمالی، تضعیف توان هسته‌ای یا موشکی ایران است"
+        ],
+        "impact": "احتمال گسترش درگیری نظامی در خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "InsideOver on MSN",
+        "url": "https://www.msn.com/it-it/notizie/other/l-affannosa-ricerca-di-netanyahu-di-una-nuova-guerra/ar-AA2ejNex?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/it-it/notizie/other/l-affannosa-ricerca-di-netanyahu-di-una-nuova-guerra/ar-AA2ejNex",
+        "image": "https://www.bing.com/th?id=ONUT.SpmQiGglhFRCIvcOpCygTg",
+        "timestamp": 1792083344.2004743
+    },
+    {
+        "id": "b3dedd921e",
+        "title_fa": "جایزه آزادی به نماینده اپوزیسیون ایران واگذار شد",
+        "title_en": "Friedrich Naumann Foundation’s Iran Award Raises Questions of Democratic Legitimacy",
+        "summary": [
+            "بنیاد نائومان جایزه را به رضا پهلوی سپرده",
+            "این اقدام مشروعیت‌طلبانه برای یک فرد بدون رأی‌گیری داخلی است"
+        ],
+        "impact": "تقویت ادعای سیاسی خارجی علیه جریان‌های داخلی ایران",
+        "tag": "اپوزیسیون",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Iran News Update",
+        "url": "https://irannewsupdate.com/news/exposing-reza-pahlavi-and-monarchist-current/friedrich-naumann-foundations-iran-award-raises-questions-of-democratic-legitimacy/",
+        "clean_url": "https://irannewsupdate.com/news/exposing-reza-pahlavi-and-monarchist-current/friedrich-naumann-foundations-iran-award-raises-questions-of-democratic-legitimacy",
+        "image": "https://www.bing.com/th?id=ONUT.ksvYmZvKGzKG6t5ar79v0w",
+        "timestamp": 1792083344.2000983
+    },
+    {
+        "id": "69d7f1d911",
+        "title_fa": "حمله هوثی‌ها به مقر عربستان، ضربه به نفت",
+        "title_en": "ENERGY WATCH: Boom and doom",
+        "summary": [
+            "هوثی‌ها پایگاه نفتی سعودی را هدف قرار دادند",
+            "حمله باعث نگرانی شرکت‌های جهانی انرژی شد"
+        ],
+        "impact": "کاهش تولید نفت سعودی و تشدید تنش‌های خاورمیانه",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/commentary/reuters-open-interest/energy-watch-boom-doom-2026-10-15/",
+        "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/energy-watch-boom-doom-2026-10-15",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792083344.199012
+    },
+    {
+        "id": "56f76a318b",
+        "title_fa": "تحریم‌های جدید آمریکا علیه ایران منتشر شد",
+        "title_en": "US Issues Fresh Iran-Related Sanctions, Treasury Website Shows",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا سایتش تحریم‌های تازه علیه افراد و شرکت‌های مرتبط با برنامه هسته‌ای ایران را نشان داد",
+            "تحریم‌ها هدف قطع دسترسی به سیستم‌های مالی بین‌المللی و فشار بر اقتصاد ایران است",
+            "تهران احتمالاً با انتقاد و ادعای تجاوز به حاکمیت واکنش نشان خواهد داد"
+        ],
+        "impact": "تحریم‌ها دسترسی بانک‌های بین‌المللی به شرکت‌های ایرانی را مسدود می‌کند",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "GV Wire",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFp5ZDZxMXFRTUZ5NUtPYmI3Z29SYjJjQXgwQzh5NTFiMy1DUkJKbmJpZThBRmdjUDJMYmpEVzRobzgyZ081LTljZHNDeVZMQ2dUd2JNb1ZsVjFrR3BDODA3eVQ4SXZYQnRKQlUtc1BjR242ZktNY0lkUFRNcVJwQ2h4SGlRMWQzSDFiYnp5WFBaUjg4RHRV?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFp5ZDZxMXFRTUZ5NUtPYmI3Z29SYjJjQXgwQzh5NTFiMy1DUkJKbmJpZThBRmdjUDJMYmpEVzRobzgyZ081LTljZHNDeVZMQ2dUd2JNb1ZsVjFrR3BDODA3eVQ4SXZYQnRKQlUtc1BjR242ZktNY0lkUFRNcVJwQ2h4SGlRMWQzSDFiYnp5WFBaUjg4RHRV",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792082899.0
+    },
+    {
+        "id": "941d9f41db",
+        "title_fa": "خبر بین‌المللی — چگونه حوثی‌ها are helping ایران turn Saudi Arabia into a pr",
+        "title_en": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point",
+        "summary": [
+            "How the Houthis are helping Iran turn Saudi Arabia into a pressure point Reuters"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792080996.0
+    },
+    {
+        "id": "d29b8268d5",
+        "title_fa": "خبر بین‌المللی — ترامپ says 'should have probably left' ایرانی leaders, negot",
+        "title_en": "Trump says 'should have probably left' Iranian leaders, negotiators beg to live",
+        "summary": [
+            "President Donald Trump says making peace with Iran and ending the IRGC terror in the Strait of Hormuz might have been easier if they did not remove layers of leaders, as the war now is being fought between Saudi Arabia and the Houthi terrorists elsewhere in the region."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/60698368954c38bc9d364988554c3f41.jpg",
+        "timestamp": 1792080480.0
+    },
+    {
+        "id": "849ef93580",
+        "title_fa": "ایران به حزب‌الله دستور افزایش آمادگی داد",
+        "title_en": "Hezbollah told by Iran to raise level of readiness for regional conflict",
+        "summary": [
+            "ایران به نیروی شبه‌نظامی حزب‌الله پیام داد که سطح آمادگی نظامی را برای درگیری منطقه‌ای بالا ببرند",
+            "این دستور نشان می‌دهد تهران قصد تقویت جبهه‌های نیابتی در مقابل اسرائیل را دارد",
+            "احتمال افزایش تمرینات مرزی و تبادل اطلاعات نظامی بین دو گروه وجود دارد"
+        ],
+        "impact": "افزایش آمادگی حزب‌الله می‌تواند خطر تشدید درگیری‌های مرزی را بالا ببرد",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfdFg2M0VaY2xOVnhWN2JIUzM5dnIyWlFPbkxqbUtMSjF0cjA0NkQwdFpOSmlLYnZwelA5eXZBTnpBYy04ZkYtVFhvb1JoazlicEJjZFBTWUM1ckRVZVhHZk1YSzRCY3ptd3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfdFg2M0VaY2xOVnhWN2JIUzM5dnIyWlFPbkxqbUtMSjF0cjA0NkQwdFpOSmlLYnZwelA5eXZBTnpBYy04ZkYtVFhvb1JoazlicEJjZFBTWUM1ckRVZVhHZk1YSzRCY3ptd3c",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792073982.0
+    },
+    {
         "id": "715fc95888",
         "title_fa": "سه ویژگی ترامپ که می‌تواند به جنگ جهانی منجر شود",
         "title_en": "Donald Trump has three dangerous characteristics that could plunge us into WW3",
@@ -193,6 +337,42 @@
         "timestamp": 1792058400.0
     },
     {
+        "id": "a822e85724",
+        "title_fa": "ترامپ به استفاده از بمب غول‌پیکر علیه ایران فکر می‌کند",
+        "title_en": "What you need to know about the 'mother of all bombs' as Trump looks to end Iran war",
+        "summary": [
+            "ترامپ امکان استفاده از بزرگ‌ترین بمب غیر هسته‌ای آمریکا را بررسی می‌کند",
+            "چنین گزینه‌ای می‌تواند فشار نظامی مستقیم بر ایران ایجاد کند"
+        ],
+        "impact": "افزایش ریسک تصعید نظامی بین آمریکا و ایران",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/news/what-you-need-to-know-about-the-mother-of-all-bombs-as-trump-looks-to-end-iran-war/ar-AA2ejjba",
+        "clean_url": "https://www.msn.com/en-us/news/news/what-you-need-to-know-about-the-mother-of-all-bombs-as-trump-looks-to-end-iran-war/ar-AA2ejjba",
+        "image": "http://www.bing.com/th?id=ONUT.iKJlzvrz0-9jC4E37eMjAQ&pid=News",
+        "timestamp": 1792057141.0
+    },
+    {
+        "id": "933a3588f0",
+        "title_fa": "پزشک نظامی: بحران بی‌سابقه برای جمهوری اسلامی",
+        "title_en": "Iran's president says the Islamic regime faces its most critical scenario since the 1979 revolution",
+        "summary": [
+            "مسعود پزشک می‌گوید فشارهای داخلی و بین‌المللی به اوج رسیده",
+            "بحران اقتصادی و اعتراضات می‌تواند به فروپاشی نظام منجر شود"
+        ],
+        "impact": "تشدید فشارهای اقتصادی بر مردم و تضعیف توان مالی دولت",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "International Business Times on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-president-says-the-islamic-regime-faces-its-most-critical-scenario-since-the-1979-revolution/ar-AA2ejdtJ",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-president-says-the-islamic-regime-faces-its-most-critical-scenario-since-the-1979-revolution/ar-AA2ejdtJ",
+        "image": "http://www.bing.com/th?id=ONUT.SDdHl2dZaz7MNfX61sO4BQ&pid=News",
+        "timestamp": 1792050280.0
+    },
+    {
         "id": "668a601bfa",
         "title_fa": "ترامپ و ایالات متحده: برنامه بمب‌گذاری کلان علیه ایران",
         "title_en": "Iran-US War Live Updates: Trump's Next Iran Move? US Military Weighs 'Mother Of All Bombs'",
@@ -358,6 +538,24 @@
         "clean_url": "https://www.iranintl.com/202610156585",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792033080.0
+    },
+    {
+        "id": "36aeedc117",
+        "title_fa": "عربستان موشک هوثی را رهگیری کرد؛ ترامپ به افشاگران تهدید کرد",
+        "title_en": "Saudi Arabia intercepts Houthi-fired missile as IRGC claims commercial ship struck mine",
+        "summary": [
+            "نیروی هوایی عربستان موشک هوثی را با سامانه‌های دفاعی رهگیری کرد",
+            "ترامپ گفت افشاگران باید «به گلوله» برسند"
+        ],
+        "impact": "کاهش تهدید فوری به زیرساخت‌های نفتی عربستان و تشدید تنش‌های سیاسی داخلی آمریکا",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-donald-trump-oil-nuclear-sites-hormuz-strait-october-14",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-donald-trump-oil-nuclear-sites-hormuz-strait-october-14",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/1efa77a14a9fea1fbae67bf35caecd13.jpg",
+        "timestamp": 1792028640.0
     },
     {
         "id": "3d59a53ae6",
@@ -5376,216 +5574,5 @@
         "clean_url": "https://www.iranintl.com/en/202610098376",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/956e68726be90fc45c7fce00a872d61319f8322a-1280x850.jpg?rect=94,161,1150,604&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1791752220.0
-    },
-    {
-        "id": "6ca810eb30",
-        "title_fa": "نتانیاهو جلسه امنیتی درباره ایران برگزار کرد",
-        "title_en": "Netanyahu holds security meeting on Iran amid heightened alert",
-        "summary": [
-            "نتانیاهو با مقامات امنیتی درباره احتمال حمله آمریکا به ایران بحث کرد",
-            "سه سناریوی نظامی – عملیات مستقل، مشترک با آمریکا، یا واکنش به آتش ایران – بررسی می‌شود",
-            "ترامپ پیش از انتخابات تمایلی به اقدام نظامی نشان نداده، اما فشار سیاسی باقیست",
-            "این جلسه می‌تواند برنامه‌های دفاعی اسرائیل و هماهنگی با نیروی هوایی آمریکا را تحت تأثیر قرار دهد"
-        ],
-        "impact": "ممکن است برنامه‌های نظامی اسرائیل برای مقابله با ایران تسریع یا بازنگری شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610112312",
-        "clean_url": "https://www.iranintl.com/en/202610112312",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791751440.0
-    },
-    {
-        "id": "aaf3455fa8",
-        "title_fa": "دستگیری و شلاق‌زنی بیش از ۱۰ کارگر نفتی",
-        "title_en": "Iran flogs more than 10 oil workers over labor protests",
-        "summary": [
-            "بیش از ده کارگر پتروپارس در خوزستان به دلیل اعتراض به اخراج و عدم تمدید قرارداد شلاق ۷۴ بار دریافت کردند.",
-            "محکومیت‌ها توسط دادگاه جزایی هوویزه در ژوئیه صادر شد.",
-            "اکثر متهمان دارای مدرک کارشناسی یا کارشناسی ارشد بودند.",
-            "این اقدام نشانگر تشدید سرکوب کارگری در ایران است."
-        ],
-        "impact": "ترس از اعتراضات کارگری و تضعیف حقوق کارمندان دولتی.",
-        "tag": "حقوق کار",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610117197",
-        "clean_url": "https://www.iranintl.com/en/202610117197",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/daa445019f612823eb128804d01fff85fcf380ef-1200x800.png?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1791749100.0
-    },
-    {
-        "id": "b06a3f3b35",
-        "title_fa": "بازنشستگان به خیابان‌ها رفتند؛ بحران پزشکی",
-        "title_en": "Retirees Return to the Streets as Economic Breakdown Reaches Iran’s Medical System - National Council of Resistance of Iran",
-        "summary": [
-            "بازنشستگان به دلیل فروپاشی اقتصادی و فشار بر سیستم بهداشتی به خیابان‌ها آمدند",
-            "نقض دسترسی به خدمات پزشکی نشان‌دهنده عمق بحران اقتصادی است",
-            "این اعتراض می‌تواند به گسترش ناآرامی‌های اجتماعی منجر شود"
-        ],
-        "impact": "تقویت فشار داخلی بر دولت و احتمال بروز ناآرامی‌های گسترده‌تر",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTRCM0NiaHExUWotMmVZOUpMTXRPY195c3ZfY1RGYUE5Y08weXo5TXRBaVFoTjJNS2RSTHRRQmc1UUhfLU9EVWd6U0ZQTWtYNE9udXd1eGRvV05YUEplNUlnelJYdkJseE5uN1ZwbExQRkVRelFwc0xQeWNsSUlibkdoWnBERndzOXZrYXFBTXZUdXVLbzJwS1M5TWdaSlAxdFFlMlhyUENKSHNNMlY4aldLemswbk53ZzFtZzdWR2E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTRCM0NiaHExUWotMmVZOUpMTXRPY195c3ZfY1RGYUE5Y08weXo5TXRBaVFoTjJNS2RSTHRRQmc1UUhfLU9EVWd6U0ZQTWtYNE9udXd1eGRvV05YUEplNUlnelJYdkJseE5uN1ZwbExQRkVRelFwc0xQeWNsSUlibkdoWnBERndzOXZrYXFBTXZUdXVLbzJwS1M5TWdaSlAxdFFlMlhyUENKSHNNMlY4aldLemswbk53ZzFtZzdWR2E",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791746343.0
-    },
-    {
-        "id": "5e6a626c26",
-        "title_fa": "قانون جدید سفر خارجی؛ گزارش به مقامات الزامی",
-        "title_en": "Iran lawmaker says foreign travel must be reported under security bill",
-        "summary": [
-            "لایحه پیشنهادی می‌گوید هر مسافری باید پیش از خروج از کشور به مقامات اطلاع دهد.",
-            "مصوبه شامل جرایم برای مصاحبه با رسانه‌های «دشمن» وزارت اطلاعات است.",
-            "نماینده کمیته امنیت ملی این محدودیت‌ها را برای مقابله با نفوذ خارجی توجیه کرد.",
-            "قانون هنوز در مجلس بررسی نهایی نشده است."
-        ],
-        "impact": "محدودیت آزادی حرکت و بیان ایرانیان در خارج از کشور.",
-        "tag": "قانون",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610119874",
-        "clean_url": "https://www.iranintl.com/en/202610119874",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1791746340.0
-    },
-    {
-        "id": "f89ad3906f",
-        "title_fa": "شاهزاده سعودی وعده پاسخ «به همان اندازه جدی» به حملات مرگبار فرودگاه حوثی‌ها را داد",
-        "title_en": "Saudi prince promises 'equally serious' response to Houthi deadly airport attacks",
-        "summary": [
-            "Yemen’s civil war, where a Saudi-led military coalition supports the government against the Iran-backed Houthis, has..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "National Post",
-        "url": "https://nationalpost.com/news/saudi-arabia-serious-response-houthi-airport-attacks",
-        "clean_url": "https://nationalpost.com/news/saudi-arabia-serious-response-houthi-airport-attacks",
-        "image": "https://www.bing.com/th?id=ONUT.S518lj-bPPnerFIYVPrLog",
-        "timestamp": 1791744200.0
-    },
-    {
-        "id": "0cac076cd6",
-        "title_fa": "آسیب‌دیدگی تأسیسات هسته‌ای ایران؛ ارزیابی هوشمندانهٔ ایالات‌متحده",
-        "title_en": "Iran at the threshold, Israel outside the room",
-        "summary": [
-            "گزارش‌های تازه نشان می‌دهد تأسیسات هسته‌ای ایران آسیب جزئی دیده‌اند اما عملکرد کلیشان حفظ شده است",
-            "ارزیابی‌های اطلاعاتی آمریکا تأکید می‌کند که این آسیب‌ها خطر پیشرفت برنامه هسته‌ای را به‌طور چشمگیری تغییر نمی‌دهد",
-            "اسرائیل هنوز در صحنه حضور ندارد؛ این خلأ می‌تواند به ایران فرصت بازنگری در مذاکرات بدهد",
-            "جامعه بین‌المللی ممکن است فشار دیپلماتیک را به‌جای تحریم‌های جدید ترجیح دهد"
-        ],
-        "impact": "کاهش فشار فوری بر برنامه هسته‌ای ایران؛ امکان بازگشت به میز مذاکره",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-my/news/other/iran-at-the-threshold-israel-outside-the-room/ar-AA2e188N?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-my/news/other/iran-at-the-threshold-israel-outside-the-room/ar-AA2e188N",
-        "image": "https://www.bing.com/th?id=ONUT.v9i-hR6R49l5MhOxcQh0uQ",
-        "timestamp": 1791743252.7242906
-    },
-    {
-        "id": "e3d72e4d10",
-        "title_fa": "شاهزاده پهلوی حمله ریاض را به تهران مقصر می‌داند",
-        "title_en": "Iran’s exiled prince condemns Riyadh attack, blames Tehran",
-        "summary": [
-            "شاهزاده رضا پهلوی حمله به فرودگاه ریاض را نتیجه خصومت طولانی‌مدت ایران با عربستان می‌داند",
-            "وی روابط دوستانه بین دو کشور را شرط پایان حمایت حوثی‌ها از ایران می‌بیند",
-            "پیام تسلیت به خاندان سلطنتی سعودی، اما تاکید بر ضرورت تغییر رژیم در تهران",
-            "این فراخوان می‌تواند حمایت‌های خارجی برای اپوزیسیون ایرانی را تقویت کند"
-        ],
-        "impact": "تقویت فشار بین‌المللی بر ایران و افزایش حمایت سیاسی از مخالفان داخلی",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610111048",
-        "clean_url": "https://www.iranintl.com/en/202610111048",
-        "image": "https://www.bing.com/th?id=ONUT.IFz8k0lPL4BRORcZw8aaYg",
-        "timestamp": 1791742802.6955373
-    },
-    {
-        "id": "59a3d9cc88",
-        "title_fa": "وزیر خارجه ایران گفت دیپلماسی با سعودی ضروری است",
-        "title_en": "Iran’s FM urges diplomacy in call with Saudi counterpart",
-        "summary": [
-            "وزیر خارجه ایران گفت آماده تسهیل مذاکرات بین عربستان و حوثی‌هاست",
-            "این پیشنهاد پس از حملات مرگبار سعودی به حوثی‌ها مطرح شد",
-            "ایران سعی دارد نقش واسطه‌ای در خلیج فارس بازی کند و فشار بین‌المللی را کاهش دهد",
-            "موفقیت این دیپلماسی می‌تواند تنش‌های منطقه‌ای را به‌طور قابل‌توجهی کم کند"
-        ],
-        "impact": "اگر مذاکرات پیشرفت کند، خطر گسترش درگیری در خلیج فارس کاهش می‌یابد",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Al Jazeera on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-fm-urges-diplomacy-in-call-with-saudi-counterpart/ar-AA2e2kGh",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-fm-urges-diplomacy-in-call-with-saudi-counterpart/ar-AA2e2kGh",
-        "image": "http://www.bing.com/th?id=ONUT.faw4MjtQX_-AKn25QkKAPg&pid=News",
-        "timestamp": 1791740348.0
-    },
-    {
-        "id": "11e359c80c",
-        "title_fa": "ایران ۳۰ موشک بالستیک شلیک کرد پس از حمله آمریکا",
-        "title_en": "Iran launches 30 ballistic missiles as US strikes merchant ship in Oman and Saudis seek Chinese mediation",
-        "summary": [
-            "ایالات متحده کشتی تجاری در خلیج عمان را هدف قرار داد؛ ایران واکنش نظامی نشان داد",
-            "شلیک ۳۰ موشک نشانگر ارتقای توان نظامی و احتمال گسترش جنگ در خاورمیانه است"
-        ],
-        "impact": "تحریک واکنش‌های نظامی دیگر کشورهای منطقه و خطر گسترش درگیری",
-        "tag": "موشک",
-        "urgency": 9,
-        "sentiment": -1.0,
-        "source": "bankingnews.gr",
-        "url": "https://www.bankingnews.gr/diethni/articles/904595/iran-launches-30-ballistic-missiles-as-us-strikes-merchant-ship-in-oman-and-saudis-seek-chinese-mediation+title=",
-        "clean_url": "https://www.bankingnews.gr/diethni/articles/904595/iran-launches-30-ballistic-missiles-as-us-strikes-merchant-ship-in-oman-and-saudis-seek-chinese-mediation+title=",
-        "image": "https://www.bankingnews.gr/media/k2/items/cache/514b8bb56a60789e703f6b8bc1abeb37_XL.jpg",
-        "timestamp": 1791738960.0
-    },
-    {
-        "id": "d1c7bafd84",
-        "title_fa": "گوردون: روابط آمریکا‑اسرائیل به‌خطر جدی است",
-        "title_en": "مسؤول سابق في إدارة بايدن يحذّر: العلاقات مع إسرائيل قد تتضرر بصورة لا يمكن إصلاحها",
-        "summary": [
-            "فیلیپ گوردون هشدار داد حمایت عمومی آمریکا از اسرائیل در حال فروپاشی است",
-            "او معتقد است این تغییر نگرش می‌تواند روابط استراتژیک دو کشور را به‌صورت دائمی آسیب بزند",
-            "بحران غزه نقش کلیدی در این تحولات دارد"
-        ],
-        "impact": "ریسک طولانی‌مدت در روابط آمریکا‑اسرائیل، تأثیر بر سیاست خاورمیانه",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "يورونيوز",
-        "url": "https://arabic.euronews.com/2026/10/12/phil-gordon-biden-trump-netanyahu-us-israel-relations-gaza-war-iran",
-        "clean_url": "https://arabic.euronews.com/2026/10/12/phil-gordon-biden-trump-netanyahu-us-israel-relations-gaza-war-iran",
-        "image": "https://www.bing.com/th?id=ONUT.N1BCsyuGpz0UXBLXOQTYzQ",
-        "timestamp": 1791738007.0
-    },
-    {
-        "id": "4724cd6fbe",
-        "title_fa": "زلزله ژئوپولیتیک جنگ ایران؛ هزینه‌های اقتصادی",
-        "title_en": "The Geopolitical Earthquake of the Iran War",
-        "summary": [
-            "جنگ ایران تا کنون حدود ۳۰۰ میلیارد دلار خسارت اقتصادی داشته است",
-            "افزایش قیمت انرژی جهانی به دلیل بسته شدن هرمز، فشار بر کشاورزان و حمل‌ونقل جهانی ایجاد کرده"
-        ],
-        "impact": "تشدید تورم جهانی و فشار بر زنجیره تأمین انرژی",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/10/12/the-geopolitical-earthquake-of-the-iran-war/",
-        "clean_url": "https://www.counterpunch.org/2026/10/12/the-geopolitical-earthquake-of-the-iran-war",
-        "image": "http://www.bing.com/th?id=ONUT.3ybOpvjPrD5ha54jLqup_A&pid=News",
-        "timestamp": 1791738000.0
     }
 ]
