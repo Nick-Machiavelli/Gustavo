@@ -1,5 +1,25 @@
 [
     {
+        "id": "09cff53669",
+        "title_fa": "درگیری خاورمیانه اقتصاد جهانی را به تنگ می‌آورد",
+        "title_en": "West Asia conflict drags on amid global economic and energy uncertainty",
+        "summary": [
+            "منازعات خاورمیانه همچنان ادامه دارد و مانع رشد اقتصادی در امارات و سعودی می‌شود",
+            "عدم قطعیت انرژی و تورم جهانی به‌دلیل این درگیری‌ها فشار بر بازارهای مالی جهانی می‌آورد",
+            "ایران و حامیانش سعی در تضعیف برنامه‌های توسعه‌ای این دو کشور دارند",
+            "ادامه تنش‌ها می‌تواند سرمایه‌گذاری خارجی را در منطقه کاهش دهد"
+        ],
+        "impact": "عدم ثبات منطقه‌ای سرمایه‌گذاری و رشد اقتصادی خاورمیانه را به‌سختی می‌کشد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Hindustan Times on MSN",
+        "url": "https://www.msn.com/en-in/news/other/west-asia-conflict-drags-on-amid-global-economic-and-energy-uncertainty/ar-AA2elH0R?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/west-asia-conflict-drags-on-amid-global-economic-and-energy-uncertainty/ar-AA2elH0R",
+        "image": "https://www.bing.com/th?id=ONUT.b_br0yECCc1dQjQgIbB3Ig",
+        "timestamp": 1792130398.7587714
+    },
+    {
         "id": "aadf0fb706",
         "title_fa": "ترامپ و اسرائیل در آستانه حمله به ایران",
         "title_en": "Israel raises alert amid Iran war fears as Trump weighs strikes, Netanyahu wary before election",
@@ -317,6 +337,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwelRvWW1kbjdZMFBjWUR5VE1mOWdocUQtRVdFMWpWX3NRdlctaU1xdEFtX0NMTUtaMVFsREEwR2VDWW5MQ3h4U3RXSFZ3ZmJ0VUhDN0Vn",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792083869.0
+    },
+    {
+        "id": "0ca85451c5",
+        "title_fa": "قابلیت تسلیح هورموز توسط ایران به شدت کاهش یافت",
+        "title_en": "Iran’s ability to weaponize Hormuz ‘significantly undermined’",
+        "summary": [
+            "صادرات نفت خاورمیانه به بالاترین سطح پیش از جنگ رسیده",
+            "حملات به تانکرها در هورموز افزایش یافته اما توان نظامی آمریکا مسیر نفت را حفظ کرده",
+            "موفقیت CENTCOM با ترکیبی از ناوش، اطلاعات و پاکسازی مین‌ها توانسته است توان تسلیح ایران را خنثی کند",
+            "ایران دیگر نمی‌تواند بازار انرژی را به‌عنوان سلاح سیاسی به کار گیرد"
+        ],
+        "impact": "قابلیت ایران برای فشار بر بازار انرژی جهانی به‌طور قابل توجهی تضعیف شد",
+        "tag": "انرژی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/analysis/irans-ability-to-weaponize-hormuz-significantly-undermined",
+        "clean_url": "https://www.jns.org/analysis/irans-ability-to-weaponize-hormuz-significantly-undermined",
+        "image": "http://www.bing.com/th?id=ONUT.RfOckEHNCjgThXuvuqbEpw&pid=News",
+        "timestamp": 1792083660.0
     },
     {
         "id": "d42e20af4e",
@@ -953,6 +993,26 @@
         "clean_url": "https://tass.com/world/2202537",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261015/1489941.jpg",
         "timestamp": 1792045800.0
+    },
+    {
+        "id": "4f982e11b0",
+        "title_fa": "روپیه اندونزی در برابر ریسک‌های ارزی تضعیف می‌شود",
+        "title_en": "Indonesian Rupiah weakens as MSCI considers downgrading Indonesia to standalone status",
+        "summary": [
+            "Erin Browne از صندوق بین‌المللی پول خواست تا عدم تعادل‌های جهانی را بررسی کند",
+            "نوسان شدید روپیه می‌تواند ثبات بازارهای مالی را به خطر اندازد",
+            "این فشارها پس از بررسی MSCI برای وضعیت مستقل اندونزی رخ داد",
+            "کاهش ارزش ممکن است هزینه‌های واردات را بالا ببرد"
+        ],
+        "impact": "کاهش ارزش روپیه هزینه‌های واردات را افزایش و فشار بر تورم را تقویت می‌کند",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-as-msci-considers-downgrading-indonesia-to-standalone-status-202610160458",
+        "clean_url": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-as-msci-considers-downgrading-indonesia-to-standalone-status-202610160458",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792043992.0
     },
     {
         "id": "8bc2ed7cd0",
@@ -5527,62 +5587,5 @@
         "clean_url": "https://www.msn.com/nb-no/okonomi/økonomi/trump-kjøpte-oljeaksjer-før-iran-grep-kan-bli-gransket/ar-AA2e8FEW",
         "image": "https://www.bing.com/th?id=ONUT.cRroJZ9mMROUxqXOeX0qUQ",
         "timestamp": 1791803735.0
-    },
-    {
-        "id": "4d28aa328e",
-        "title_fa": "خبر بین‌المللی — Chuck Schumer has broad support from his caucus, but midterm",
-        "title_en": "Chuck Schumer has broad support from his caucus, but midterms could decide his future as leader",
-        "summary": [
-            "Chuck Schumer has won and lost Senate majorities since becoming Democratic leader a decade ago. But this year’s midterm elections could be his most important yet, with some in the party having said he..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Pioneer Press",
-        "url": "https://www.twincities.com/2026/10/12/chuck-schumer-senate-democrats-leader/",
-        "clean_url": "https://www.twincities.com/2026/10/12/chuck-schumer-senate-democrats-leader",
-        "image": "http://www.bing.com/th?id=ONUT.mg5eJ8TohPE0o4M1Fjz5vg&pid=News",
-        "timestamp": 1791802260.0
-    },
-    {
-        "id": "44f7b2e53e",
-        "title_fa": "ایران رد کردن هرگونه دخالت در پایگاه هوایی بریتانیا",
-        "title_en": "Iran denies any role in British air base incident",
-        "summary": [
-            "سفیر ایران در بریتانیا رد کرد که تهران در طرح حمله به پایگاه RAF Fairford دخالت داشته باشد.",
-            "وزیر امور خارجه بریتانیا ادعاهای خود را بدون ارائه مدرک مستند مطرح کرد.",
-            "ایران خواست مدارک مستند ارائه شود و از اتهام‌ها بی‌اساس انتقاد کرد.",
-            "این ردیه می‌تواند تنش‌های دو جانبه را کاهش یا تشدید کند."
-        ],
-        "impact": "احتمال تشدید دیپلماسی ایران‑بریتانیا در زمینه امنیتی.",
-        "tag": "روابط‌بین‌الملل",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/iran-denies-any-role-british-air-base-incident",
-        "clean_url": "https://www.newarab.com/news/iran-denies-any-role-british-air-base-incident",
-        "image": "http://www.bing.com/th?id=ONUT.Y9GgEYmRQ4glzYHMeDGDJg&pid=News",
-        "timestamp": 1791802140.0
-    },
-    {
-        "id": "c33e626df9",
-        "title_fa": "حملهٔ آمریکا‑اسرائیل به ایران و واکنش خشمگین",
-        "title_en": "Iran's moment of opportunity",
-        "summary": [
-            "آمریکا و اسرائیل در ۲۸ فوریه به‌سرعت به ایران حمله کردند، خالقین رهبری را کشته و مدارس را هدف گرفتند.",
-            "تلفات غیرنظامی بیش از ۱۵۰ کودک شد و جامعه بین‌المللی به‌سرعت واکنش نشان داد.",
-            "ایران با حملات به پایگاه‌های اسرائیل و آمریکا و بستن تنگهٔ هرمز پاسخ داد.",
-            "بحران انرژی جهانی به‌دلیل افزایش قیمت نفت، فشار اقتصادی بر خلیج فارس را تشدید کرد."
-        ],
-        "impact": "منطقه خاورمیانه به‌صورت فوری تحت تهدید نظامی و نوسان شدید قیمت نفت قرار گرفت.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Korea Times",
-        "url": "https://www.koreatimes.co.kr/opinion/20261012/irans-moment-of-opportunity",
-        "clean_url": "https://www.koreatimes.co.kr/opinion/20261012/irans-moment-of-opportunity",
-        "image": "https://newsimg.koreatimes.co.kr/2026/10/08/109e055d-a247-4e94-9a17-99e19953e6ac.jpg",
-        "timestamp": 1791799800.0
     }
 ]
