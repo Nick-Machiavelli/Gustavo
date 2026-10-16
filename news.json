@@ -1,5 +1,60 @@
 [
     {
+        "id": "3ace81d9fb",
+        "title_fa": "ترامپ: اسرائیل به عربستان در مقابل حوثی‌ها کمک می‌کند",
+        "title_en": "Saudi Arabia needs Iron Dome and David's Sling, but Israel is in no rush to help",
+        "summary": [
+            "ترامپ گفت اسرائیل به عربستان در عملیات ضد حوثی‌ها یاری رسانده است",
+            "او افزود این موضوع ممکن است موانع نرمال‌سازی با فلسطینیان را کاهش دهد",
+            "کارشناسان می‌گویند این اظهارات پایه‌ای برای تغییر روابط ندارند"
+        ],
+        "impact": "احتمال افزایش فشار سیاسی بر فلسطینیان و تغییر معادلات منطقه‌ای کم است",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/opinions-analysis/article/hj6m11mxhzx",
+        "clean_url": "https://www.ynetnews.com/opinions-analysis/article/hj6m11mxhzx",
+        "image": "https://www.bing.com/th?id=ONUT.W5p18lvHl4KKw5Z9T1-JIQ",
+        "timestamp": 1792187366.4068851
+    },
+    {
+        "id": "2cb7da3f5c",
+        "title_fa": "عربستان: حملات حوثی به توافق با ایران خلاف است",
+        "title_en": "Saudi Arabia says Houthi attacks violate terms of rapprochement with Iran",
+        "summary": [
+            "عربستان ادعا کرد ایران حوثی‌ها را سلاح‌دار و آموزش می‌دهد",
+            "این حملات نقض توافق دیپلماتیک مارس ۲۰۲۳ میان تهران و ریاض است",
+            "چین به‌عنوان واسطه این توافق را تأیید کرده بود"
+        ],
+        "impact": "تشدید تنش‌های سعودی‑ایرانی و خطر گسترش درگیری در خلیج فارس",
+        "tag": "منطقه‌ای",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/saudi-arabia-says-houthi-attacks-violate-terms-rapprochement-iran",
+        "clean_url": "https://www.middleeasteye.net/news/saudi-arabia-says-houthi-attacks-violate-terms-rapprochement-iran",
+        "image": "https://www.middleeasteye.net/sites/default/files/images-story/Riyadh-airport-AFP.jpg",
+        "timestamp": 1792185360.0
+    },
+    {
+        "id": "2f268bee53",
+        "title_fa": "یک منبع آگاه یمنی می‌گوید که ایران سال‌ها حوثی‌ها را قبل از گشودن جبهه جنگ جدید پرورش داد",
+        "title_en": "Iran cultivated Houthis for years before opening new war front, Yemeni insider says",
+        "summary": [
+            "Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52cDlod25TVmxrTjQ3bWFhNDBTcTY3MjF3d0JOMjRPRnVqMDhHSEhZTDQzdnVsRE5uTlFYUmYzcDIzYVhIVlZEVjAxMEtTdHhXeVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52cDlod25TVmxrTjQ3bWFhNDBTcTY3MjF3d0JOMjRPRnVqMDhHSEhZTDQzdnVsRE5uTlFYUmYzcDIzYVhIVlZEVjAxMEtTdHhXeVE",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792183406.0
+    },
+    {
         "id": "9be0c5729d",
         "title_fa": "میلیشیاهای وابسته به ایران پول به سپاه کم‌بودجه می‌فرستند",
         "title_en": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
@@ -17,6 +72,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRy1kTkRzSFhZVkt4UXhBX2RQVEhpRlZqbnVSTUlhdzJLaDBBWkh3dDVfNFJPVVZFV2NRSk5VLUx0U0prcUtuU2ZBY1hTU0xyejRQY1RqYThGWXJBUUtSU0VkU1Z6RG9ZbDJ6bGRFV3V3OTBwLUF4NWFzWFJmZXR6X1htekNINzQ",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792182375.0
+    },
+    {
+        "id": "68058e1f19",
+        "title_fa": "پزشکیان: اعتراضات و درگیری‌های داخلی در ایران گسترش می‌یابد",
+        "title_en": "Pezeshkian Warns of Protest and Infighting as Regime Expands Street and Neighborhood Mobilization - National Council of Resistance of Iran",
+        "summary": [
+            "پژوشکین هشدار داد دولت با گسترش اعتراضات خیابانی و محله‌ای مواجه است",
+            "درگیری‌های داخلی می‌تواند به تفرقه در نهادهای امنیتی منجر شود",
+            "این وضعیت فرصت برای نیروهای مخالف داخلی را تقویت می‌کند"
+        ],
+        "impact": "تقویت فشار داخلی بر رژیم و احتمال بروز ناآرامی‌های گسترده",
+        "tag": "اپوزیسیون",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "National Council of Resistance of Iran - NCRI",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUGs3ZTdzSnRLZXhBYXUybFBVT0h2T21xdzNkYzRvUUJfVzNIemg3bUtsdGlUeUZXSUtzMlpiaElHY21VZlN6VndqUlhCQXFpblZLRWtEaHdXNGxxc0JWc1FWa1NLU21JT3BrYXNjOExjLVdnT09nR21meWM1NWllUC1XR2I3WGVDcFBKR19Tb1BfdWI5Y0I4WmRnMWthZlhDa0ZFSHBYZU5adXFyOTJGcmtzUFp2U2V2UkFqZVQwZWdFTjNxekVjb0Z0X3FjaHZiaGNUR1dn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUGs3ZTdzSnRLZXhBYXUybFBVT0h2T21xdzNkYzRvUUJfVzNIemg3bUtsdGlUeUZXSUtzMlpiaElHY21VZlN6VndqUlhCQXFpblZLRWtEaHdXNGxxc0JWc1FWa1NLU21JT3BrYXNjOExjLVdnT09nR21meWM1NWllUC1XR2I3WGVDcFBKR19Tb1BfdWI5Y0I4WmRnMWthZlhDa0ZFSHBYZU5adXFyOTJGcmtzUFp2U2V2UkFqZVQwZWdFTjNxekVjb0Z0X3FjaHZiaGNUR1dn",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792176884.0
     },
     {
         "id": "4581597a50",
@@ -338,6 +412,25 @@
         "timestamp": 1792162345.0
     },
     {
+        "id": "37c33e2446",
+        "title_fa": "اتحادیه اروپا حملات ایران را محکوم کرد",
+        "title_en": "EU condemns Iran attacks, calls for restraint by Tehran and proxies",
+        "summary": [
+            "اروپا به‌صورت یک‌جانبه ایران و عوامل وابسته‌اش را به توقف حملات در خاورمیانه فراخواند",
+            "بیانیه به خطر برای ناوبری در تنگه هرمز و نقض حقوق بین‌المللی اشاره کرد",
+            "این فشار دیپلماتیک می‌تواند تحریم‌های جدید را به دنبال داشته باشد"
+        ],
+        "impact": "تحریم‌های اقتصادی و سیاسی جدید علیه ایران می‌تواند فشار بر منابع مالی‌اش را افزایش دهد",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610162076",
+        "clean_url": "https://www.iranintl.com/en/202610162076",
+        "image": "http://www.bing.com/th?id=ONUT.HRZWz8N07w7LklXJcDuy1w&pid=News",
+        "timestamp": 1792161420.0
+    },
+    {
         "id": "254da3c0b1",
         "title_fa": "11 دسامبر 2025",
         "title_en": "11 Decembrie 2025",
@@ -405,6 +498,25 @@
         "clean_url": "https://www.iranintl.com/en/202610160169",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792157880.0
+    },
+    {
+        "id": "13a0d5e7f2",
+        "title_fa": "سنت‌کام ۲۵ میلیارد دلار صادرات نفت ایران را مسدود کرد",
+        "title_en": "CENTCOM says it blocked $25 billion in Iran oil exports, IRGC struggling with paychecks",
+        "summary": [
+            "نیروی نظامی آمریکا اعلام کرد که صادرات نفت ایران به‌ارزش ۲۵ میلیارد دلار را متوقف کرده",
+            "این اقدام باعث شد سپاه پاسداران با مشکل پرداخت حقوق کارکنان مواجه شود",
+            "مسدودسازی نشان می‌دهد فشار مالی آمریکا بر اقتصاد ایران در حال تشدید است"
+        ],
+        "impact": "کاهش نقدینگی دولت ایران و تضعیف توان مالی سپاه در عملیات منطقه‌ای",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610162840",
+        "clean_url": "https://www.iranintl.com/en/202610162840",
+        "image": "http://www.bing.com/th?id=ONUT.m0YHH_YR-LLy-zk95Yi_8Q&pid=News",
+        "timestamp": 1792157340.0
     },
     {
         "id": "519ac45a26",
@@ -476,6 +588,25 @@
         "clean_url": "https://www.iranintl.com/en/202610164808",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792154760.0
+    },
+    {
+        "id": "6cda68c49e",
+        "title_fa": "مقاومت ایران باید توان سازماندهی را حفظ کند",
+        "title_en": "Iran's Resistance Must Preserve, Strengthen Ability to Organize",
+        "summary": [
+            "روزه‌داری ۱۴۲ هفته‌ای در زندان‌های ایران ادامه دارد",
+            "گزارش‌های جدید نشان می‌دهد ایران حملات به کشتی‌های تجاری را برای بالا بردن قیمت نفت گسترش داده است",
+            "این اقدام‌ها سعی دارد بر انتخابات میانه‌دوره آمریکا تأثیر بگذارد"
+        ],
+        "impact": "تحریک اعتراضات داخلی و تشدید تنش‌های اقتصادی در منطقه",
+        "tag": "اعتراض",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/irans-resistance-must-preserve-strengthen-192817455.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/irans-resistance-must-preserve-strengthen-192817455.html",
+        "image": "http://www.bing.com/th?id=ONUT.-r-nlBKoU5pSjVkE5ZtMAw&pid=News",
+        "timestamp": 1792153680.0
     },
     {
         "id": "ff9e5feac6",
@@ -984,6 +1115,25 @@
         "timestamp": 1792109580.0
     },
     {
+        "id": "5a2624b5a6",
+        "title_fa": "حمله موشکی حوثی‌ها به فرودگاه عدن",
+        "title_en": "Yemen, TV \"Explosions in Aden, airport under Houthi missile attack\"",
+        "summary": [
+            "حوثی‌ها سه موشک بالستیک به فرودگاه بین‌المللی عدن شلیک کردند و منطقهٔ نزدیک پایگاه نظامی بدر را هدف گرفتند",
+            "این حمله نشان‌دهندهٔ تشدید درگیری حوثی‑عربستان و خطر برای مسیرهای هوایی و لجستیکی در جنوب یمن است",
+            "تأثیر مستقیم بر پروازهای مسافری و باربری دارد و احتمالاً عملیات نظامی سعودی را تحت فشار می‌گذارد"
+        ],
+        "impact": "اختلال شدید پروازها و تهدید مستقیم نیروهای سعودی در عدن",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261017KRONOS-202610121516553034_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792108860.0
+    },
+    {
         "id": "ddfa383e72",
         "title_fa": "پیش‌هشدارهای اسرائیل برای حمله ۷ اکتبر مورد سؤال",
         "title_en": "October 7 should have been stopped before it happened",
@@ -1041,6 +1191,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM29pRE1yWVpvUVJVZFVaRTlMeE5jQm9VR25xZk04Vkt6NUxtRzl1T0k5dWUzQjVWRHQ3Zm1oUm14dGZaSmg0REZzVjJGZ3doZjNSbUVmU2NQc200aWNwZHhqaTFfc0hNMncyVDROQWduMF8xMV82M0VXVmFsWDNmSXNQSTBwMVg1T3ZaTFNLd3J1eWlIN0F3OFQtZVgwdw",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792105325.0
+    },
+    {
+        "id": "9f6440f62b",
+        "title_fa": "گزارش آمینستی: قتل‌های گسترده توسط نیروهای امنیتی ایران",
+        "title_en": "Video:Norwegian teen gets 20-year sentence in UK murder plot linked to Iran",
+        "summary": [
+            "آمینستی مستند کرد حداقل ۳۷۷ کشته بین سپتامبر ۲۰۲۲ و اوایل ۲۰۲۳",
+            "بیش از نیمی از این کشته‌ها در دو هفته اول اعتراضات رخ داد",
+            "خانواده‌های کشته‌شدگان با تهدیدهای شدید برای سکوت مجبور شدند"
+        ],
+        "impact": "افزایش فشار بین‌المللی بر رژیم و احتمال اعمال تحریم‌های جدید حقوق بشر",
+        "tag": "حقوق بشر",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610161488",
+        "clean_url": "https://www.iranintl.com/en/202610161488",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1792100945.0
     },
     {
         "id": "f44fa7867a",
@@ -5409,171 +5578,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/voices-the-ghost-of-rachel-reeves-has-one-last-boost-for-britain-s-economy/ar-AA2e7KFp",
         "image": "https://www.bing.com/th?id=ONUT.XPFdHgTTQFFgqf85QgveoA",
         "timestamp": 1791879096.0230498
-    },
-    {
-        "id": "bb7f90d07e",
-        "title_fa": "حوثی‌ها: بزرگ‌ترین ابزار ایران در خاورمیانه",
-        "title_en": "How Iran made the Houthis into such a problem",
-        "summary": [
-            "حوثی‌ها در دهه گذشته از یک گروه کم‌آگاهی به نیروی اصلی ایران تبدیل شدند",
-            "این گروه با حملات هوایی به مراکز سعودی و اسرائیل فشار منطقه را افزایش داده است",
-            "کاهش دیگر نیروهای نیابتی ایران باعث شد حوثی‌ها نقش پیشرو را بپذیرند",
-            "تداوم این حمایت می‌تواند تداوم درگیری‌های طولانی‌مدت را تضمین کند"
-        ],
-        "impact": "تقویت حوثی‌ها خطر تشدید جنگ بین ایران و عربستان را بالا می‌برد",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-made-houthis-problem-145547159.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-made-houthis-problem-145547159.html",
-        "image": "http://www.bing.com/th?id=ONUT.G8NjlEkxa7mZzANi0kEKaA&pid=News",
-        "timestamp": 1791878100.0
-    },
-    {
-        "id": "b896728b0c",
-        "title_fa": "خبر بین‌المللی — ایران fortifying هسته‌ای sites; warns land incursions into",
-        "title_en": "Iran fortifying nuclear sites; warns of land incursions into Gulf states if the US launches new strikes - report",
-        "summary": [
-            "Iran fortifying nuclear sites; warns of land incursions into Gulf states if the US launches new strikes - report i24NEWS"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZmZmTklnX2ZCQ3h6aTllTlhraXRRWG5nODdfMV9nNHJDVmFNZEd5d0FudGlzLUlNMTZFN2JCbUV4bkszUk51eWk3TUtZWmJFYTlSNFNSUXotTUwtcVZQNkhTYXZLZjRVTkJnQzJldGlyVjYzSFZGTHBVckF4eEplM2lIcEJINEFmc2pJUTBOcHp5WnNVVkdxbWNDVUxGbGhhSUNwel9yMlkwSDJyenBZcDZNZE9BanM0UFVGeTR3U3NjMGxrT2l4YW1PLU1KczNEQmdJMEE3RHRZRlRPOE5OMXNaZGFKT3Bfb2VRZW5PVXFiY1A5Tk1VVjdnSWFwMm5tcnJjU3QtTFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZmZmTklnX2ZCQ3h6aTllTlhraXRRWG5nODdfMV9nNHJDVmFNZEd5d0FudGlzLUlNMTZFN2JCbUV4bkszUk51eWk3TUtZWmJFYTlSNFNSUXotTUwtcVZQNkhTYXZLZjRVTkJnQzJldGlyVjYzSFZGTHBVckF4eEplM2lIcEJINEFmc2pJUTBOcHp5WnNVVkdxbWNDVUxGbGhhSUNwel9yMlkwSDJyenBZcDZNZE9BanM0UFVGeTR3U3NjMGxrT2l4YW1PLU1KczNEQmdJMEE3RHRZRlRPOE5OMXNaZGFKT3Bfb2VRZW5PVXFiY1A5Tk1VVjdnSWFwMm5tcnJjU3QtTFU",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791877980.0
-    },
-    {
-        "id": "48ae8133a7",
-        "title_fa": "ترامپ: مذاکرات با ایران به‌دلیل کشته شدن رهبران دشوار شد",
-        "title_en": "Trump says US struggling to negotiate with Iran as too many regime leaders killed in strikes",
-        "summary": [
-            "ترامپ می‌گوید تلفات ناشی از حملات هوایی مانع پیشرفت مذاکرات می‌شود",
-            "اظهارات او نشان می‌دهد فشار نظامی آمریکا بر ایران همچنان فعال است",
-            "اگر کشته شدن رهبران ادامه یابد، احتمال تحریم‌های سنگین‌تر یا عملیات هدفمند بیشتر می‌شود"
-        ],
-        "impact": "تنش‌های نظامی‑دیپلماتیک تشدید می‌شود و احتمال تحریم‌های جدید علیه ایران افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12TlJlbXRoeERFWmdIaDRDSTN0R0dSZmV6NGlIWUpSU1NuWmg0Y0NCeExvaC1WdzFDMnR1QVZzbUUyZ0NrZU8ybmRUTnIzNkdTSjJ5dFVkREpLaWxBSXRuRnRJaE9RN1YxeHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12TlJlbXRoeERFWmdIaDRDSTN0R0dSZmV6NGlIWUpSU1NuWmg0Y0NCeExvaC1WdzFDMnR1QVZzbUUyZ0NrZU8ybmRUTnIzNkdTSjJ5dFVkREpLaWxBSXRuRnRJaE9RN1YxeHc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791873157.0
-    },
-    {
-        "id": "7f323de36c",
-        "title_fa": "رئیس MI5 بریتانیا هشدار داد حملات ایران در راه است",
-        "title_en": "British MI5 leader warns of attacks by Iran",
-        "summary": [
-            "سرپرست اطلاعات داخلی بریتانیا گفت حملات اخیر بخشی از نقشه ایران است",
-            "او به تهدیدات سایبری و فیزیکی اشاره کرد",
-            "این اظهارات فشار دیپلماتیک بر تهران را افزایش می‌دهد"
-        ],
-        "impact": "افزایش هشدارهای امنیتی در اروپا و احتمال تقویت اقدام‌ها ضد-ایرانی",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "UPI",
-        "url": "https://www.upi.com/Top_News/World-News/2026/10/13/MI55/8681791910429/",
-        "clean_url": "https://www.upi.com/Top_News/World-News/2026/10/13/MI55/8681791910429",
-        "image": "http://www.bing.com/th?id=ONUT.4O5do5SnLLyvg4jdH0U9ew&pid=News",
-        "timestamp": 1791872160.0
-    },
-    {
-        "id": "1e90ae09eb",
-        "title_fa": "درس‌های جنگ ایران برای طراحی کمپین‌های نظامی",
-        "title_en": "From Transformation to Containment: The Iran War’s Lesson for Campaign Design",
-        "summary": [
-            "مقاله به بررسی تغییرات استراتژیک پس از جنگ 2025 می‌پردازد",
-            "نتیجه‌گیری‌ها می‌تواند الگوهای مقابله با تحولات مشابه را شکل دهد"
-        ],
-        "impact": "تحلیل‌های جدید می‌تواند روش‌های مقابله با تحولات مشابه را شکل دهد",
-        "tag": "استراتژی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Small Wars Journal",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGE4QkV2VXFQWUxEZVFmT3lzZUI5X1hoSjluLXZacm1kUzRselprZC1WS1RJbHRzSy11eHNFNXZqc3RkdDNDYUVLSGp1NThPQmw5M0xmSnZLdEVwcS04UmFzbEg0RTN2OENyX3ZydU81Rm5Da01NUWhqVkp3LUpmSkZWSkcwSFl1SkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGE4QkV2VXFQWUxEZVFmT3lzZUI5X1hoSjluLXZacm1kUzRselprZC1WS1RJbHRzSy11eHNFNXZqc3RkdDNDYUVLSGp1NThPQmw5M0xmSnZLdEVwcS04UmFzbEg0RTN2OENyX3ZydU81Rm5Da01NUWhqVkp3LUpmSkZWSkcwSFl1SkE",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791871952.0
-    },
-    {
-        "id": "81c1a02be1",
-        "title_fa": "ترامپ پیش از انتخابات اسرائیل از حمایت خود سر کشید",
-        "title_en": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
-        "summary": [
-            "ترامپ هنوز موضع رسمی خود نسبت به نتانیاهو اعلام نکرده",
-            "این عدم حمایت نشان‌دهنده تغییرات در روابط آمریکا‑اسرائیل است",
-            "نزدیک شدن به تاریخ ۲۷ اکتبر فشار داخلی در ایالات متحده را افزایش می‌دهد"
-        ],
-        "impact": "ممکن است حمایت‌های سیاسی آمریکا برای نتانیاهو کاهش یابد",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/news/other/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears/ar-AA2e7zNV",
-        "clean_url": "https://www.msn.com/en-us/news/other/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears/ar-AA2e7zNV",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/getty_69e23279d2-1776431737.jpg?resize=1200,675",
-        "timestamp": 1791870010.0
-    },
-    {
-        "id": "46edf4f541",
-        "title_fa": "خبر بین‌المللی — ایران reportedly weighing escalation options with US جنگ, on",
-        "title_en": "Iran reportedly weighing escalation options with US war, one involves sending troops to neighboring countries",
-        "summary": [
-            "Tehran has also warned countries in the region that it will expand its actions if full-fledged hostilities resume."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "International Business Times on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-reportedly-weighing-escalation-options-with-us-war-one-involves-sending-troops-to-neighboring-countries/ar-AA2e8O8f",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-reportedly-weighing-escalation-options-with-us-war-one-involves-sending-troops-to-neighboring-countries/ar-AA2e8O8f",
-        "image": "http://www.bing.com/th?id=ONUT.htqaHyvK4yEPrYlfzxo-Gg&pid=News",
-        "timestamp": 1791868100.0
-    },
-    {
-        "id": "1b265ea849",
-        "title_fa": "تهدید ایران به بازنگری روابط با انگلستان پس از حادثه RAF فیرفورد",
-        "title_en": "Iran threatens to reconsider UK ties over RAF Fairford allegations",
-        "summary": [
-            "ایران پس از اتهام لندن به سپاه برای نقشهٔ حمله به پایگاه RAF فیرفورد، سفیر بریتانیا را احضار کرد",
-            "دولت ایران اعلام کرد در صورت ادامه اتهام‌ها، روابط دیپلماتیک را بازنگری می‌کند",
-            "ادعای تهدید پهپادی آمریکا نشان می‌دهد تنش‌های نظامی می‌تواند به دیپلماسی کشیده شود",
-            "این رویداد می‌تواند فشار بر روابط تجاری و تحریم‌های دو جانبه را افزایش دهد"
-        ],
-        "impact": "احتمال کاهش همکاری‌های دیپلماتیک و تجاری ایران-انگلستان، خطر تشدید تحریم‌ها",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610146688",
-        "clean_url": "https://www.iranintl.com/en/202610146688",
-        "image": "http://www.bing.com/th?id=ONUT.RyJRcdAhp91mLEwsKCRgSQ&pid=News",
-        "timestamp": 1791867420.0
-    },
-    {
-        "id": "24624bbe0f",
-        "title_fa": "خبر بین‌المللی — US خواهد re-evaluate its Middle East presence",
-        "title_en": "US will re-evaluate its Middle East presence",
-        "summary": [
-            "The US invaded Iran last February, leading to a retaliation on its bases in the Middle East."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Statesman on MSN",
-        "url": "https://www.msn.com/en-in/news/opinion/us-will-re-evaluate-its-middle-east-presence/ar-AA2e6UXL?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/opinion/us-will-re-evaluate-its-middle-east-presence/ar-AA2e6UXL",
-        "image": "https://www.bing.com/th?id=ONUT.pX3r2hImp2yHfxkxJ9ckjg",
-        "timestamp": 1791863505.2967017
     }
 ]
