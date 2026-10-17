@@ -38,6 +38,24 @@
         "timestamp": 1792265462.0
     },
     {
+        "id": "cebe159d9d",
+        "title_fa": "تهدید جنگ آمریکا‑اسرائیل در صورت افزایش قیمت نفت",
+        "title_en": "US, Israel face threats of war if oil prices keep rising",
+        "summary": [
+            "آمریکا و اسرائیل هشدار دادند که اگر قیمت نفت به‌سرعت بالا برود، فشارهای نظامی علیه ایران می‌تواند به درگیری منجر شود.",
+            "افزایش قیمت نفت می‌تواند اقتصادهای منطقه را تحت فشار قرار دهد و ریسک‌های ژئوپلیتیک را به‌صورت مستقیم به صحنهٔ نظامی منتقل کند."
+        ],
+        "impact": "بازارهای جهانی نفت نوسان می‌کند و تنش‌های نظامی خاورمیانه احتمالاً به‌سرعت تشدید می‌شود.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792265225.0
+    },
+    {
         "id": "d3244a3043",
         "title_fa": "نظام جمهوری‌خواه روایت «کودتا» را زنده می‌کند",
         "title_en": "Iran's Regime Revives “Coup” Narrative as Fear of Renewed Unrest Collides with Economic and Factional Pressure - National Council of Resistance of Iran",
@@ -370,6 +388,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUxxNHdOQmgxVGhJOTE3NDVyR3J0RUVSQkVDVjNSZFNnbnN0eU02ZHNOcUtvSVBuVmgtS0t0aGxWd05DNllrSjFRYnNMOWtJRmJJNG1hRmh6eXJkamNEek1sYUJKU2d4bVhuVEcyMXF4Y2hVUkNiSWtnOFFNZTNpTkN1MFU0Skxnb3BlTVgwODVoUzVZQVhudnJXRk9NZWpLd1ZuT3NIZmg0VE5iOHFKdE1Nek9CMWvSAbwBQVVfeXFMUFozLVllVm1zdlA2QWo0aTFOck9ZNEozcHM4RzRmeXFSTGJodmlBWkJMVlpBUHpuN2ZVVlVVLUZ4UFFYMExVeWdpVFdVV2tKUG40VV9UVVgyOWppeFU2cWxWOHdBV1ZVVko1Y2N6eW1jdERsZlV4QnpEaHVhRVFpWTVFM004dFdQbzFVVG1QM0wyRVhhcTJ6NkY4aFZxYnlmZGFMaW5ib0hKdG1KSDNEaGRTQ1VHZ2s4Xy1Oekg",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792239833.0
+    },
+    {
+        "id": "79c77e6cd2",
+        "title_fa": "لاوروف به بحرین می‌آید، پیش‌درآمد سفر به تهران",
+        "title_en": "Top Russian diplomat arrives in Bahrain to participate in Russia-GCC strategic dialogue",
+        "summary": [
+            "وزیر امور خارجه روسیه در منامه حضور دارد تا در گفت‌وگوی استراتژیک نهم با کشورهای خلیج فارس شرکت کند.",
+            "پس از بحرین، لاوروف به تهران می‌رود تا با عباس ارغچی درباره همکاری‌های نظامی‑اقتصادی و تحریم‌ها مشورت کند."
+        ],
+        "impact": "تقویت روابط روسیه‑ایران می‌تواند فشارهای غربی را در منطقه کاهش دهد و نقش روسیه در خاورمیانه را گسترش دهد.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2203593",
+        "clean_url": "https://tass.com/politics/2203593",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792239060.0
     },
     {
         "id": "89c4b95f1d",
@@ -5532,42 +5568,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions",
         "image": "http://www.bing.com/th?id=ONUT.Z_wlxtazfjzuleBQ4GW5Jg&pid=News",
         "timestamp": 1791958620.0
-    },
-    {
-        "id": "22beea4d1d",
-        "title_fa": "ایران‑آمریکا در آستانه جنگ تمام‌عیار",
-        "title_en": "Iran and US on brink of all-out war as Russia fails to break diplomatic deadlock",
-        "summary": [
-            "مذاکرات دیپلماتیک بی‌نتیجه مانده؛ روسیه نتوانست سرکوب کند",
-            "حملات ناوشکن‌ها در تنگه هرمز و تست موشک‌های جدید ایران، تهدیدهای نظامی آمریکا را تشدید کرده",
-            "اسرائیل ممکن است پیش از انتخابات خود به ایران حمله کند"
-        ],
-        "impact": "افزایش خطر جنگ می‌تواند مسیر انرژی خاورمیانه را مختل کند و بازارهای جهانی را ناآرام سازد",
-        "tag": "جنگ",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/iran-and-us-brink-war-russian-mediation-falters",
-        "clean_url": "https://www.newarab.com/news/iran-and-us-brink-war-russian-mediation-falters",
-        "image": "http://www.bing.com/th?id=ONUT.dvr2wws1vvTbjmjaenm5aw&pid=News",
-        "timestamp": 1791958380.0
-    },
-    {
-        "id": "319c23ab4c",
-        "title_fa": "ایران تاکتیک‌های جدید برای اختلال در تنگه هرمز",
-        "title_en": "Iran is reportedly shifting tactics to increase traffic disruption in the Strait of Hormuz",
-        "summary": [
-            "ایران به دنبال تغییر روش‌ها برای مختل کردن عبور کشتی‌ها در تنگه هرمز است",
-            "هدف این کار جلوگیری از کاهش قیمت نفت توسط آمریکا پیش از انتخابات میدانی است"
-        ],
-        "impact": "کاهش عبور نفت و فشار بر قیمت جهانی",
-        "tag": "نقلیه",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "International Business Times on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-is-reportedly-shifting-tactics-to-increase-traffic-disruption-in-the-strait-of-hormuz/ar-AA2edEld",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-reportedly-shifting-tactics-to-increase-traffic-disruption-in-the-strait-of-hormuz/ar-AA2edEld",
-        "image": "http://www.bing.com/th?id=ONUT.CPBPpxQm5Zrq-NCsN2iN2g&pid=News",
-        "timestamp": 1791955927.0
     }
 ]
