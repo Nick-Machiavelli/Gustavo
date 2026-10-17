@@ -1,5 +1,43 @@
 [
     {
+        "id": "a6876dfddd",
+        "title_fa": "پارالیز دیپلماتیک تهران بین توافق و تنش",
+        "title_en": "Tehran’s diplomatic paralysis leaves Iran caught between deal and escalation",
+        "summary": [
+            "تهران به‌دلیل عدم توافق با قدرت‌های غربی، در وضعیت دیپلماتیک ایست‌کامی قرار دارد.",
+            "این پارالیز باعث می‌شود ایران بین ادامه مذاکرات هسته‌ای و خطر تشدید تنش‌های نظامی گیر کند.",
+            "عدم پیشرفت مذاکرات می‌تواند فشار اقتصادی و سیاسی داخلی را افزایشی کند."
+        ],
+        "impact": "افزایش فشار داخلی و خطر تشدید تنش‌های نظامی در منطقه.",
+        "tag": "دیپلوماسی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYXlYZ2dMd05YUERabER3WHNJNTZ4ejlfaDZmUjNEazI0TWlEb2pMcWZPWEtxT0ZIaVJXWXlkLU5EV2Nma1JRZjVhV2l1UWRvMEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fYXlYZ2dMd05YUERabER3WHNJNTZ4ejlfaDZmUjNEazI0TWlEb2pMcWZPWEtxT0ZIaVJXWXlkLU5EV2Nma1JRZjVhV2l1UWRvMEE",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792258716.0
+    },
+    {
+        "id": "c83f3e82a7",
+        "title_fa": "نتانیاهو در انتخابات بحرانی با ترس حمله ایران",
+        "title_en": "Benjamin Netanyahu Faces Decisive Israel Elections Amid Gaza War And Iran Strike Fears: what 6 outlets left out",
+        "summary": [
+            "نتانیاهو در آستانه انتخابات مهم، با فشار جنگ غزه و تهدید حمله احتمالی ایران مواجه است.",
+            "نگرانی‌های امنیتی می‌تواند رأی‌گیری را به سمت حمایت از رهبری قوی سوق دهد.",
+            "حکومت اسرائیل سعی دارد با نمایش توان نظامی، ریسک حمله ایران را کاهش دهد."
+        ],
+        "impact": "تصمیم‌گیری‌های سیاسی و نظامی اسرائیل تحت فشار انتخاباتی و تهدیدات منطقه‌ای قرار می‌گیرد.",
+        "tag": "سیاست",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "NewsCord",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVJyM2lTSVY0MTJUdGdCMjI1RkxHamxWQUhQbHBJNERlTlBFSG1GNGhIdmtNS3VxY3ZOVjlyMzhzVExLNWR0YmctOVhRU1JvRlJGUF9IT3ZiTXEyaXpUbFk5WnZ1QzRXZ3BiczdITlB0NEtiTjRxWlVsMmpaM3Ria3hmOFNWQ0gwVFE5ZnZvRzhVMl9oZDU2Z2hDSW0yWjNDZC03TWVFTzVHQ0taWHJ3N0RES3ZxQWFwN3NhUzlWeEptX2lZMWh5eUIxOUF2cU1VZUlxR2hKMFM5UlozQklFUjdxdktGa09sS2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbVJyM2lTSVY0MTJUdGdCMjI1RkxHamxWQUhQbHBJNERlTlBFSG1GNGhIdmtNS3VxY3ZOVjlyMzhzVExLNWR0YmctOVhRU1JvRlJGUF9IT3ZiTXEyaXpUbFk5WnZ1QzRXZ3BiczdITlB0NEtiTjRxWlVsMmpaM3Ria3hmOFNWQ0gwVFE5ZnZvRzhVMl9oZDU2Z2hDSW0yWjNDZC03TWVFTzVHQ0taWHJ3N0RES3ZxQWFwN3NhUzlWeEptX2lZMWh5eUIxOUF2cU1VZUlxR2hKMFM5UlozQklFUjdxdktGa09sS2c",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792257936.0
+    },
+    {
         "id": "e24acb4b96",
         "title_fa": "ایران خواستار پاسخگویی اسرائیل در شورای امنیت",
         "title_en": "Iran calls on UNSC to hold Israel accountable",
@@ -16,6 +54,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGllbkxwdmRCSVNfdXQzY2tINnFIXzVVMnBmUW5lYnBPVlhqLUV3QUp6ZTNEWjZ3QkFsQmdiRF90OGp4MlY5NW1qR3d3WFgtTEthbngxVVVNaU5VTjVHVTNHTk5UdC1ZSWtKNGNEd2UzNHZXUFliWUI5VFl3SEVaN3dsc01Vd0V4cmpEaVl3",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792257465.0
+    },
+    {
+        "id": "4ba10d8e7e",
+        "title_fa": "انفجار تانکر در تنگه هرمز؛ ایران آبراه را می‌بندد",
+        "title_en": "Oil tanker explodes in Strait of Hormuz as Iran vows waterway remains closed",
+        "summary": [
+            "یک تانکر نفتی در تنگه هرمز منفجر شد و کشتی‌های تجاری را در مسیر خود متوقف کرد.",
+            "ایران اعلام کرد آبراه را به‌صورت دائمی بسته نگه می‌دارد تا فشار بر اسرائیل افزایش یابد.",
+            "این حادثه خطر قطع‌وتوصیل نفت جهانی را به‌صورت جدی افزایش می‌دهد."
+        ],
+        "impact": "اختلال شدید در حمل‌ونقل نفت جهانی و افزایش قیمت‌های انرژی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NewsNation",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zVHd1Ym90WEswQl9KOWJnWi00QkRzWU9xRG9aYjNBWHhITHdoaGJvV2JsdHhvNEFhalBhYTVUd3RoUDY3VFNtZ3NXQlBNT2VkRUdKMzVTeUI4NVh3S1lUTkU3aUZKdlJKdUtPSnhLdkZ0ZDNBRkNNQ3NYMXJOd9IBgwFBVV95cUxOMldlNmxMb0xOS3Qxc19seDczdWM5V19qY1lyaTRNejlJeUpBLUp6UlAwdXZIMTlwOWxEWFVjRGhnRUlobU5JanF2clNfM2EwZEFGbXhSNHJXSDRQUHA1TDN1R004NDU4UUQ4SzVmNkRmM2YxQWhVZXpuWnJNWWEtcEpKVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zVHd1Ym90WEswQl9KOWJnWi00QkRzWU9xRG9aYjNBWHhITHdoaGJvV2JsdHhvNEFhalBhYTVUd3RoUDY3VFNtZ3NXQlBNT2VkRUdKMzVTeUI4NVh3S1lUTkU3aUZKdlJKdUtPSnhLdkZ0ZDNBRkNNQ3NYMXJOd9IBgwFBVV95cUxOMldlNmxMb0xOS3Qxc19seDczdWM5V19qY1lyaTRNejlJeUpBLUp6UlAwdXZIMTlwOWxEWFVjRGhnRUlobU5JanF2clNfM2EwZEFGbXhSNHJXSDRQUHA1TDN1R004NDU4UUQ4SzVmNkRmM2YxQWhVZXpuWnJNWWEtcEpKVQ",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792255953.0
     },
     {
         "id": "764394972c",
@@ -1085,6 +1142,63 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zTnBaVER0dnljbmJSTENqOXNzeGF4N1ljZHpDU0dPMzd3cVh4OUxsa2R2NGtkTWhZRF9Hazd4dnRBZENxMW1kR0F4RXNxMV9LaV9zelI4dmdsa1E2a0tVNDBuaHpVeG54a0paRnRtbWhZYVFHcHFV",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792173858.0
+    },
+    {
+        "id": "59e2757223",
+        "title_fa": "آرنا کریپتوکام: ۴۰۷ میلیون دلاری لوس آنجلس",
+        "title_en": "Crypto.com Arena: The Lakers' $407M arena that helped reinvent downtown LA | TFC Stadiums",
+        "summary": [
+            "آرنا که قبلاً استیپلز سنتر نام داشت، در سال ۱۹۹۹ افتتاح شد و به‌سرعت به نماد شهر تبدیل شد.",
+            "تغییر نام به کریپتوکام آرنا نشان‌دهنده جذب سرمایه‌های فناوری‌مالی به مرکز شهر است.",
+            "برگزاری کنسرت‌ها، مسابقات NBA و رویدادهای بین‌المللی، رونق اقتصادی محله را تقویت کرده."
+        ],
+        "impact": "تقویت گردشگری و سرمایه‌گذاری در مرکز لس آنجلس، اما هزینه‌های نگهداری بالا.",
+        "tag": "زیرساخت",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "YouTube on MSN",
+        "url": "https://www.msn.com/en-us/sports/general/crypto-com-arena-the-lakers-407m-arena-that-helped-reinvent-downtown-la-tfc-stadiums/vi-AA2ercxK?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/sports/general/crypto-com-arena-the-lakers-407m-arena-that-helped-reinvent-downtown-la-tfc-stadiums/vi-AA2ercxK",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792173696.0
+    },
+    {
+        "id": "cefda9bd07",
+        "title_fa": "ترامپ موقتاً تعرفه‌های نفت روسیه را برای هند لغو کرد",
+        "title_en": "Russia sanctions waiver buys time for India but offers no lasting certainty: GTRI",
+        "summary": [
+            "ترامپ به‌صورت موقت تعرفه‌های وارداتی نفت روسیه را برای خریداران بزرگ هند حذف کرد.",
+            "این اقدام تنها یک تسکین کوتاه‌مدت است و هیچ تضمینی برای ادامه تجارت فراهم نمی‌کند.",
+            "هند می‌تواند از کاهش هزینه‌های انرژی بهره‌برداری کند، اما تحت فشار تحریم‌های بین‌المللی باقی می‌ماند."
+        ],
+        "impact": "کاهش کوتاه‌مدت هزینه‌های انرژی هند، اما عدم اطمینان در سیاست تجاری آینده.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Times of India on MSN",
+        "url": "https://www.msn.com/en-in/news/other/russia-sanctions-waiver-buys-time-for-india-but-offers-no-lasting-certainty-gtri/ar-AA2erYHX?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/russia-sanctions-waiver-buys-time-for-india-but-offers-no-lasting-certainty-gtri/ar-AA2erYHX",
+        "image": "https://www.bing.com/th?id=ONUT.6RpFi3ulplHgf-xNI-GWjw",
+        "timestamp": 1792173696.0
+    },
+    {
+        "id": "f25dc07667",
+        "title_fa": "جنگ ایران هزینه خانوارهای آمریکا را نزدیک ۲۰۰۰ دلار می‌کند",
+        "title_en": "Retail price impacts from the Iran war are uneven but add up for U.S. households before midterms",
+        "summary": [
+            "قیمت سوخت بالا، هزینه حمل‌ونقل را برای رانندگان و مسافران هوایی به شدت افزایش داده.",
+            "بخش‌های مختلف کالاها به‌دلیل هزینه‌های تولید و حمل‌ونقل، فشار قیمتی را تجربه می‌کنند.",
+            "اگر قیمت نفت ثابت بماند، خرده‌فروشان ممکن است قیمت‌ها را به‌سرعت منتقل کنند."
+        ],
+        "impact": "بار مالی قابل‌توجهی بر خانوارهای آمریکایی پیش از انتخابات میدانی.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "NBC4 Washington",
+        "url": "https://www.nbcwashington.com/news/national-international/retail-price-impacts-iran-war-uneven-households-midterms/4168657/",
+        "clean_url": "https://www.nbcwashington.com/news/national-international/retail-price-impacts-iran-war-uneven-households-midterms/4168657",
+        "image": "https://www.bing.com/th?id=ONUT.AuzAPUXw8YAm-FF1HPJs_w",
+        "timestamp": 1792173696.0
     },
     {
         "id": "d3ec572422",
@@ -5454,121 +5568,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTDJ2aU5qczhjVGpIWjk0ZTN1dzBJbVNlZWF5VEFhR3ItMlRBVXZtMDE0RFBUbHRpbHU1M1JxczdHem5ZOXZIcnkxZ2E2UWR4T3EyZTlOaWppYnpjeUdaQ0JKcUd2bmZGM2hmOWpmM0pnbzJQRE9BWk5TVHd0WVpQZWJRbmdkcF9UTkdOcHEyWDcwdDNCT3luSlVNTjFIV0hLN2FZUXJSSEx5bTZ0b0I4cy11TmxVcGZDWTdSdGE5YTNvVksxMG53am5uWkhlYkJoWDVIX0d3VGRzVS1tOEZSX2FndGRuOTJFdFc4QzhCdFNQS2YwUUREcEFXY0xmLW13UnJpM3JsLUNxdw",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1791952860.0
-    },
-    {
-        "id": "11cbcccbed",
-        "title_fa": "هینسون و تورک درباره جنگ‌های ایران‑آمریکا و روسیه‑اوکراین گفتند",
-        "title_en": "Hinson, Turek share views on U.S.-Iran, Russia-Ukraine wars amid high fuel prices",
-        "summary": [
-            "هینسون و تورک به هزینه‌های سوخت بالا در اثر جنگ‌های جاری اشاره کردند",
-            "هر دو بر خطر تشدید تنش‌های ایران‑آمریکا تأکید کردند",
-            "نظراتشان نشان می‌دهد فشار انرژی می‌تواند سیاست‌های خارجی را تحت تأثیر قرار دهد"
-        ],
-        "impact": "اظهارات هینسون و تورک فشار عمومی بر سیاست‌های انرژی و امنیت را تقویت می‌کند",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Iowa Capital Dispatch",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGYyTXhXRWZwMkFGeXQ1ZWdjOGdUMVhRcndlRGJyQVliN0V6ZmxFMTZndzRvdVFkc3daNkxSU1g1TXFPd3FnN1ZCOW1BcnhnSGktTTZreFRoVjJBRXIwcm5jYkxhZjBkM0JLWkhPVVlnejJxcWxIXzVtS0JfZ0FVS3FLVG5KTy1DTEc3Rzd6ZU1NdU93LUdDSERvbGRqVDhXNE13TTVKcnMzTlh3OUFCbjZoV2JGdEU3enYzSWhNWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGYyTXhXRWZwMkFGeXQ1ZWdjOGdUMVhRcndlRGJyQVliN0V6ZmxFMTZndzRvdVFkc3daNkxSU1g1TXFPd3FnN1ZCOW1BcnhnSGktTTZreFRoVjJBRXIwcm5jYkxhZjBkM0JLWkhPVVlnejJxcWxIXzVtS0JfZ0FVS3FLVG5KTy1DTEc3Rzd6ZU1NdU93LUdDSERvbGRqVDhXNE13TTVKcnMzTlh3OUFCbjZoV2JGdEU3enYzSWhNWQ",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791949798.0
-    },
-    {
-        "id": "917852d5c5",
-        "title_fa": "واسطه‌ها کانال‌های کاهش تنش ایران‑آمریکا را راه‌اندازی کردند",
-        "title_en": "Mediators Set Up De-Escalation Channels Ahead of US-Iran Talks, Source Says",
-        "summary": [
-            "واسطه‌ها کانال‌های ارتباطی مستقیم برای کاهش تنش بین واشنگتن و تهران ایجاد کردند",
-            "هدف این مسیرها پیشگیری از برخورد نظامی ناخواسته است",
-            "مذاکرات هنوز در مراحل اولیه و نیاز به اعتماد متقابل دارد"
-        ],
-        "impact": "راه‌اندازی کانال‌های دی‌اسکلیشن می‌تواند از بروز جنگ جلوگیری کند",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbW9XY1RIS0dyRHREWmRIQThiVmp4RklrTmJlOXhoMHVPcFhMOUNqVzBWY2NqY24xVjh0TTM0YmZDZXJzNDF1WHFkTTdEZHlzTzVuWlRGUHNRNG4zY3NZcnMwQkQ2MlRQMFhCLUY0eG9UVl9VQ245d3d0LVZGMmFzb29mVWJnU3dCREF6azlmbi1IaldNVHZqTFBXWTRrd2hIbUtfTktORE4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbW9XY1RIS0dyRHREWmRIQThiVmp4RklrTmJlOXhoMHVPcFhMOUNqVzBWY2NqY24xVjh0TTM0YmZDZXJzNDF1WHFkTTdEZHlzTzVuWlRGUHNRNG4zY3NZcnMwQkQ2MlRQMFhCLUY0eG9UVl9VQ245d3d0LVZGMmFzb29mVWJnU3dCREF6azlmbi1IaldNVHZqTFBXWTRrd2hIbUtfTktORE4",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791949023.0
-    },
-    {
-        "id": "527615dbec",
-        "title_fa": "ایران مردی را به اتهام حملات در آمریکا‑اسرائیل اعدام کرد",
-        "title_en": "Iran executes man accused of armed attacks during US-Israeli strikes",
-        "summary": [
-            "دادگاه کرمان مرد ۳۸ ساله‌ای به نام علی‌سینا مصطفوی را به «عامل مسلح دشمن آمریکا‑اسرائیل» متهم کرد",
-            "او به شلیک به شهروندان و سربازان در مارس و آوریل 2023 متهم شد و به اعدام محکوم شد",
-            "این حکم پیام هشدار به هرکسی است که در حمایت از عملیات مشترک آمریکا‑اسرائیل عمل کند"
-        ],
-        "impact": "هراس از مشارکت در هر گونه عملیات ضد‌حکومت، سرکوب اعتراضات داخلی را تقویت می‌کند",
-        "tag": "قضایی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/iran-executes-man-accused-armed-094038316.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-executes-man-accused-armed-094038316.html",
-        "image": "http://www.bing.com/th?id=ONUT.u5ew_JiE63yNtzDG21xahg&pid=News",
-        "timestamp": 1791945600.0
-    },
-    {
-        "id": "4cbaf31e3a",
-        "title_fa": "ترامپ تایوان را برای خرید گاز آمریکایی تشویق کرد",
-        "title_en": "Trump announces Taiwan’s plans to buy US gas",
-        "summary": [
-            "ترامپ در بیانیه‌ای اعلام کرد که تایوان می‌تواند به‌سرعت گاز مایع آمریکا را خریداری کند",
-            "این حرکت نشان‌دهنده تقویت روابط اقتصادی و امنیتی واشنگتن با پایتخت جزیره‌ای است",
-            "چین احتمالاً واکنش انتقادی خواهد داد و فشار دیپلماتیک خود را افزایش می‌دهد",
-            "تأثیر این توافق بر بازار انرژی منطقه‌ای می‌تواند کوتاه‌مدت مثبت باشد"
-        ],
-        "impact": "تقویت حضور تجاری آمریکا در آسیا و فشار بر چین در زمینه انرژی",
-        "tag": "گاز",
-        "urgency": 3,
-        "sentiment": 0.5,
-        "source": "The Hill",
-        "url": "https://thehill.com/newsletters/energy-environment/6149640-taiwan-buys-alaska-gas/",
-        "clean_url": "https://thehill.com/newsletters/energy-environment/6149640-taiwan-buys-alaska-gas",
-        "image": "https://www.bing.com/th?id=ONUT.5vnnMukREQQVThl-U-grCQ",
-        "timestamp": 1791942579.0
-    },
-    {
-        "id": "16333fc720",
-        "title_fa": "ترامپ هشدار داد ایران به‌دست آوردن سلاح هسته‌ای حمله می‌کند",
-        "title_en": "Trump vuelve a alertar de ataque iraní en la costa oeste de Estados Unidos si logra armas nucleares",
-        "summary": [
-            "در میتین نبراسکا، ترامپ گفت ایران در صورت دستیابی به سلاح هسته‌ای می‌تواند به سواحل غربی آمریکا حمله کند",
-            "این اظهارات با واکنش‌های شدید داخلی و بین‌المللی مواجه شد و تنش‌های منطقه‌ای را تشدید کرد",
-            "سخنرانان نظامی آمریکا به‌سرعت برنامه‌های دفاعی ساحلی را بررسی کردند",
-            "اگر ایران به‌سرعت پیشرفت کند، احتمال بروز برخورد نظامی واقعی افزایش می‌یابد"
-        ],
-        "impact": "افزایش فشار نظامی و دیپلماتیک بر ایران و تقویت حضور نظامی آمریکا در اقیانوس آرام",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "El Nuevo Herald",
-        "url": "https://www.elnuevoherald.com/noticias/estados-unidos/article317628515.html",
-        "clean_url": "https://www.elnuevoherald.com/noticias/estados-unidos/article317628515.html",
-        "image": "https://www.bing.com/th?id=ONUT.uJnu3ESe5QGiW5xc6dN_hQ",
-        "timestamp": 1791942579.0
-    },
-    {
-        "id": "70405f0380",
-        "title_fa": "حوثی‌ها با قطعات چینی موشک‌های میان‌برد پیشرفته می‌سازند",
-        "title_en": "Houthis Using Chinese Parts To Build Advanced Missiles Capable Of Striking Israel, Saudi",
-        "summary": [
-            "حوثی‌ها قطعات راداری و موتورهای چینی را برای ساخت موشک «خیبر شکن» نسخه داخلی به‌دست آوردند",
-            "این موشک می‌تواند تا ۱٬۲۰۰ مایل هدف‌های سعودی و اسرائیلی را بپوشاند",
-            "چین رد مشارکت مستقیم می‌کند اما قطعات دو‑مصرف به‌نظر می‌رسد"
-        ],
-        "impact": "قابلیت حمله میان‌برد حوثی‌ها به اسرائیل و عربستان، خطر تشدید درگیری‌های منطقه‌ای را بالا می‌برد",
-        "tag": "موشک",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ABP News",
-        "url": "https://news.abplive.com/news/world/houthi-conflict-chinese-parts-to-build-advanced-missiles-capable-of-striking-israel-saudi-arabia-1871457",
-        "clean_url": "https://news.abplive.com/news/world/houthi-conflict-chinese-parts-to-build-advanced-missiles-capable-of-striking-israel-saudi-arabia-1871457",
-        "image": "https://www.bing.com/th?id=ONUT.8kPpgTtGqe0KgkeMMzD2bQ",
-        "timestamp": 1791942108.0
     }
 ]
