@@ -1,5 +1,41 @@
 [
     {
+        "id": "e24acb4b96",
+        "title_fa": "ایران خواستار پاسخگویی اسرائیل در شورای امنیت",
+        "title_en": "Iran calls on UNSC to hold Israel accountable",
+        "summary": [
+            "ایران در بیانیه‌ای از اعضای شورای امنیت می‌خواهد اسرائیل به‌خاطر اقدام‌هاش متهم شود",
+            "این درخواست در چارچوب تنش‌های اخیر خاورمیانه مطرح شد"
+        ],
+        "impact": "اگر مورد پذیرش قرار گیرد، فشار دیپلماتیک بر اسرائیل افزایش می‌یابد",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Tehran Times",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGllbkxwdmRCSVNfdXQzY2tINnFIXzVVMnBmUW5lYnBPVlhqLUV3QUp6ZTNEWjZ3QkFsQmdiRF90OGp4MlY5NW1qR3d3WFgtTEthbngxVVVNaU5VTjVHVTNHTk5UdC1ZSWtKNGNEd2UzNHZXUFliWUI5VFl3SEVaN3dsc01Vd0V4cmpEaVl3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGllbkxwdmRCSVNfdXQzY2tINnFIXzVVMnBmUW5lYnBPVlhqLUV3QUp6ZTNEWjZ3QkFsQmdiRF90OGp4MlY5NW1qR3d3WFgtTEthbngxVVVNaU5VTjVHVTNHTk5UdC1ZSWtKNGNEd2UzNHZXUFliWUI5VFl3SEVaN3dsc01Vd0V4cmpEaVl3",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792257465.0
+    },
+    {
+        "id": "764394972c",
+        "title_fa": "روسیه ایدهٔ «صفر هسته‌ای» را ناممکن می‌داند",
+        "title_en": "Russia views idea of shortcut to 'nuclear zero' as counterproductive — diplomat Postnikov",
+        "summary": [
+            "دیپلمات روسیه می‌گوید حذف سریع سلاح‌های هسته‌ای می‌تواند امنیت جهانی را به خطر بیندازد",
+            "روسیه به تعهد خود به خنثی‌سازی تدریجی سلاح‌های هسته‌ای بر پایه معاهده NPT تأکید کرد"
+        ],
+        "impact": "موقعیت مذاکرات تسلیحات هسته‌ای بین‌المللی با تردید بیشتری ادامه می‌یابد",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2203555",
+        "clean_url": "https://tass.com/politics/2203555",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792252800.0
+    },
+    {
         "id": "746fce1f2a",
         "title_fa": "خبر بین‌المللی — ترامپ Gives پوتین Another Big Wet Kiss",
         "title_en": "Trump Gives Putin Another Big Wet Kiss",
@@ -1103,6 +1139,78 @@
         "clean_url": "https://www.msn.com/en-in/news/other/trump-putin-bhai-bhai-the-midterm-math-behind-potus-ukraine-u-turn/ar-AA2eoFhA",
         "image": "https://www.bing.com/th?id=ONUT.4QkHs5PZq_Gd-u9dOAttYQ",
         "timestamp": 1792173078.2364364
+    },
+    {
+        "id": "a6419db0ca",
+        "title_fa": "خبر بین‌المللی — ترامپ throws lifeline به روسی energy buyers days پیش از Lind",
+        "title_en": "Trump throws lifeline to Russian energy buyers days before Lindsey Graham-backed sanctions take effect",
+        "summary": [
+            "President Donald Trump signed an executive order Friday intending to waive multiple sanctions on Russian energy importers amid a push to lower diesel prices. The waiver nullifies the recently signed..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "The Daily Caller on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-throws-lifeline-to-russian-energy-buyers-days-before-lindsey-graham-backed-sanctions-take-effect/ar-AA2ereY7?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-throws-lifeline-to-russian-energy-buyers-days-before-lindsey-graham-backed-sanctions-take-effect/ar-AA2ereY7",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792171620.0
+    },
+    {
+        "id": "9d88669bee",
+        "title_fa": "ترامپ تحریم‌های انرژی روسیه را معلق کرد",
+        "title_en": "Trio of Republicans bashes Trump’s sanctions pullback",
+        "summary": [
+            "ترامپ با امضای فرمان اجرایی، 30‑روز مهلت اعمال تعرفه‌های انرژی روسیه را نادیده گرفت",
+            "سه جمهوری‌خواه واکنش شدید نشان دادند و این لغو را ادامهٔ جنگ می‌دانند",
+            "فشار داخلی برای کاهش قیمت بنزین پشت این تصمیم قرار دارد"
+        ],
+        "impact": "قیمت دیزل جهانی کاهش می‌یابد اما روسیه به‌دست‌آمدن درآمدهای تحریمی دست می‌یابد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trio-republicans-bashes-trump-sanctions-162050344.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trio-republicans-bashes-trump-sanctions-162050344.html",
+        "image": "https://www.bing.com/th?id=ONUT.ZoB_ucwV8l3do7Q8DrZz0A",
+        "timestamp": 1792171620.0
+    },
+    {
+        "id": "4d4df80844",
+        "title_fa": "خبر بین‌المللی — Zelenskyy urges support برای new US تحریم‌ها در روسیه after",
+        "title_en": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+        "summary": [
+            "The White House decision to pause a sweeping package of restrictions targeting the Russian economy raises fears of Ukraine’s..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0,
+        "source": "Anchorage Daily News",
+        "url": "https://www.adn.com/nation-world/2026/10/17/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold/",
+        "clean_url": "https://www.adn.com/nation-world/2026/10/17/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
+        "image": "https://www.bing.com/th?id=ONUT.sJFMjOY72lMEayPlATQ92w",
+        "timestamp": 1792171620.0
+    },
+    {
+        "id": "add9800334",
+        "title_fa": "ایران هورموز را بسته اعلام کرد",
+        "title_en": "'Hormuz Is Closed,' Warns Iran As Multiple Ships Come Under Attack; Houthi-Saudi Conflict Escalates",
+        "summary": [
+            "ایران اعلام کرد تنگه هورموز «بسته» است و ناوبری را متوقف می‌کند",
+            "در همان روز چند کشتی تحت حمله قرار گرفت و هواپیماهای ساعتی به فرودگاه عدن شلیک شد",
+            "حملات ساعتی سه کودک را در یمن کشته و تنش‌های منطقه‌ای را تشدید کرد"
+        ],
+        "impact": "محدودیت عبور کشتی‌ها هزینه حمل و نقل نفت را دوچندان می‌کند",
+        "tag": "منطقه‌ای",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/hormuz-is-closed-warns-iran-as-multiple-ships-come-under-attack-houthi-saudi-conflict-escalates-article-156356321",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/hormuz-is-closed-warns-iran-as-multiple-ships-come-under-attack-houthi-saudi-conflict-escalates-article-156356321",
+        "image": "https://images.timesnownews.com/thumb/msid-156357960,thumbsize-913231,width-1280,height-720,resizemode-75/156357960.jpg",
+        "timestamp": 1792171620.0
     },
     {
         "id": "2cefe7e278",
@@ -5462,119 +5570,5 @@
         "clean_url": "https://news.abplive.com/news/world/houthi-conflict-chinese-parts-to-build-advanced-missiles-capable-of-striking-israel-saudi-arabia-1871457",
         "image": "https://www.bing.com/th?id=ONUT.8kPpgTtGqe0KgkeMMzD2bQ",
         "timestamp": 1791942108.0
-    },
-    {
-        "id": "0f322208fe",
-        "title_fa": "فیفا دفتر ۴ میلیون دلاری در برج ترامپ اجاره کرد",
-        "title_en": "فیفا یک دفتر کاری در برج ترامپ به قیمت ۴ میلیون دلار اجاره کرد",
-        "summary": [
-            "فیفا دفتر کاری به‌ارزش ۴ میلیون دلار در برج ترامپ اجاره کرد",
-            "این اقدام در میان انتقادات بین‌المللی به ترامپ و روابط روسیه بحث‌برانگیز است"
-        ],
-        "impact": "اجاره دفتر در برج ترامپ تصویر سیاسی فیفا را تحت فشار قرار می‌دهد",
-        "tag": "ورزش",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610148356",
-        "clean_url": "https://www.iranintl.com/202610148356",
-        "image": "http://www.bing.com/th?id=ONUT.AxV1EWotKMXtlSJDJwqA7Q&pid=News",
-        "timestamp": 1791940620.0
-    },
-    {
-        "id": "7e1925ff59",
-        "title_fa": "خبر بین‌المللی — ایران aims به humiliate ترامپ و ensure mid-term elections de",
-        "title_en": "Iran aims to humiliate Trump and ensure mid-term elections defeat with new Strait of Hormuz tactics",
-        "summary": [
-            "Iran is aiming to humiliate Donald Trump and ensure his defeat in mid-term elections by deploying new tactics to target ships sailing through the Strait of Hormuz."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Daily Mail on MSN",
-        "url": "https://www.msn.com/en-xl/news/other/iran-aims-to-humiliate-trump-and-ensure-mid-term-elections-defeat-with-new-strait-of-hormuz-tactics/ar-AA2ecnKO",
-        "clean_url": "https://www.msn.com/en-xl/news/other/iran-aims-to-humiliate-trump-and-ensure-mid-term-elections-defeat-with-new-strait-of-hormuz-tactics/ar-AA2ecnKO",
-        "image": "http://www.bing.com/th?id=ONUT.GgLPq8130LSbTTbRPdXrPA&pid=News",
-        "timestamp": 1791937721.0
-    },
-    {
-        "id": "f8b3946781",
-        "title_fa": "به‌روزرسانی‌های مهاجرت و سفر در خاورمیانه",
-        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
-        "summary": [
-            "شرکت Fragomen نکات جدید درباره ویزاها و محدودیت‌های سفر پس از تحریم‌ها ارائه داد",
-            "توصیه‌های حقوقی برای کارمندان بین‌المللی در کشورهای خاورمیانه به‌روز شد",
-            "تغییرات قوانین مهاجرت می‌تواند برنامه‌ریزی شرکت‌ها را تحت تأثیر قرار دهد",
-            "اطلاعات بیشتر در وب‌سایت شرکت در دسترس است"
-        ],
-        "impact": "شرکت‌ها باید برنامه‌های سفر و استقرار پرسنل را بازنگری کنند",
-        "tag": "مهاجرت",
-        "urgency": 2,
-        "sentiment": 0.1,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZdlB1WXhFSnRRWkh0VHpkbURzTDFjU1d6bG84UnhRTE9YTE8wcUtwQU4wakxIN3I5aXdUakxvOHBnam9SUkNIb2htZTBrYU84c3JxNDgxVmRmRzZma3M4aWpaSlVxOFFzRTlWZnJERGNkOHNDTm5WejRXSWE4ZXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZdlB1WXhFSnRRWkh0VHpkbURzTDFjU1d6bG84UnhRTE9YTE8wcUtwQU4wakxIN3I5aXdUakxvOHBnam9SUkNIb2htZTBrYU84c3JxNDgxVmRmRzZma3M4aWpaSlVxOFFzRTlWZnJERGNkOHNDTm5WejRXSWE4ZXc",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791936005.0
-    },
-    {
-        "id": "a56c30b869",
-        "title_fa": "حمله حوثی‌ها به ریاض؛ ترامپ می‌خواهد مداخله",
-        "title_en": "Live Updates: Houthis launch new attack on Saudi capital as Trump mulls U.S. role in Mideast war's new front",
-        "summary": [
-            "حوثی‌ها موشک بالستیک به ریاض پرتاب کردند؛ سپاه سعودی آن را نابود کرد",
-            "حوثی‌ها وعده ادامه هدف‌گیری فرودگاه و زیرساخت‌های نفتی سعودی را دادند",
-            "ترامپ اعلام کرد ممکن است به حملات حوثی‌ها بپیوندد و تهدید به هدف‌گیری نیروهای آمریکایی کرد",
-            "این اظهارات پس از حملات مشترک آمریکا‑اسرائیل به ایران می‌آید و خطر گسترش جنگ خاورمیانه را بالا می‌برد"
-        ],
-        "impact": "افزایش خطر درگیری مستقیم آمریکا با حوثی‌ها و اختلال در تأمین انرژی خاورمیانه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-houthi-saudi-arabia-trump",
-        "image": "https://www.bing.com/th?id=ONUT._ghrt2P3FFUeyYog1_kihQ",
-        "timestamp": 1791934306.0
-    },
-    {
-        "id": "8628281dac",
-        "title_fa": "نتانیاهو: سرنگونی ایران برای امنیت اسرائیل ضروری",
-        "title_en": "Overthrowing Iran's government 'essential for Israel's security', Netanyahu says",
-        "summary": [
-            "نتانیاهو تأکید کرد سرنگونی رژیم ایران هدف اصلی اسرائیل است، اما پیش از انتخابات اکتبر عملی نیست",
-            "او گفت ایران در نقطه ضعف است و عملیات‌های نظامی اسرائیل مانع دستیابی به سلاح هسته‌ای شده‌اند",
-            "انتقاد از رقبای داخلی که مانع این هدف می‌شوند، نشان از فشار داخلی سیاسی دارد"
-        ],
-        "impact": "افزایش فشار دیپلماتیک اسرائیل بر ایران و تشدید ریسک عملیات نظامی",
-        "tag": "سیاست",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/overthrowing-irans-government-essential-israels-security-netanyahu-says",
-        "clean_url": "https://www.middleeasteye.net/live-blog/live-blog-update/overthrowing-irans-government-essential-israels-security-netanyahu-says",
-        "image": "https://www.bing.com/th?id=ONUT.1Zrb24RL8c-N2KNRRl068g",
-        "timestamp": 1791934305.0
-    },
-    {
-        "id": "c1c9537f08",
-        "title_fa": "قیمت نفت بالا می‌رود؛ تنش‌های تجاری آمریکا‑ایران و پیشروی اسرائیل در لبنان",
-        "title_en": "Middle East - The Latest News on Mobility and Travel Considerations",
-        "summary": [
-            "بازار نفت پس از اعلام برخوردهای تجاری بین آمریکا و ایران و پیشروی نظامی اسرائیل در لبنان ارتقا یافت",
-            "هر دو طرف به‌صورت متقابل تحریم‌های جدیدی اعمال کردند که عرضه نفت را محدود می‌کند",
-            "تحلیل‌گران پیش‌بینی می‌کنند قیمت نفت تا ۸ درصد در هفته آینده افزایش یابد",
-            "این تحولات می‌تواند فشار مالی بر کشورهای وابسته به نفت خاورمیانه را تشدید کند"
-        ],
-        "impact": "افزایش قیمت جهانی نفت و فشار بر توازن تجاری کشورهای واردکننده",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Fragomen",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSjhPcWpBZDBjeWFsUldTV0NRNEZ0R1dLeW1nWk5pc090S0lPUVZteXpFalBCTHdSRnZMWGpGalRaSk5uY2RXV1Vkb0VCb2duN0FEVmZ6X1JXSm1JeWZuNk51UkFjNVVzZVpESzVGODhCZzY4bk43ZHl3LXFzXzlBQXBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSjhPcWpBZDBjeWFsUldTV0NRNEZ0R1dLeW1nWk5pc090S0lPUVZteXpFalBCTHdSRnZMWGpGalRaSk5uY2RXV1Vkb0VCb2duN0FEVmZ6X1JXSm1JeWZuNk51UkFjNVVzZVpESzVGODhCZzY4bk43ZHl3LXFzXzlBQXBB",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791933814.0
     }
 ]
