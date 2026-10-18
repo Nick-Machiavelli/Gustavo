@@ -1,5 +1,60 @@
 [
     {
+        "id": "5f60f8e2f4",
+        "title_fa": "سیاست خاورمیانه ترامپ روسیه را به سمت آرکت سوق داد",
+        "title_en": "Trump’s Middle East Mess Pushes Allies Toward Putin’s Arctic",
+        "summary": [
+            "تحلیل می‌گوید تصمیمات ترامپ باعث شد متحدان غربی به روسیه روی آورند",
+            "مسیر حمل و نقل آرکتیک حالا برای کرهٔ جنوبی جذاب شده است",
+            "قیمت‌های سوخت جهانی تحت فشار این تغییرات قرار گرفتند"
+        ],
+        "impact": "تقویت حضور روسیه در بازارهای انرژی و تغییر مسیرهای تجاری شمالی",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-iran-war-south-korea-russia-arctic-shipping-12578981",
+        "clean_url": "https://www.newsweek.com/trump-iran-war-south-korea-russia-arctic-shipping-12578981",
+        "image": "https://www.bing.com/th?id=ONUT.7Bxs5S-7VDzAhjFQqNICEg",
+        "timestamp": 1792341515.8199513
+    },
+    {
+        "id": "fa4f177470",
+        "title_fa": "سایت سیتیزن‑تایمز مرورگر شما را پشتیبانی نمی‌کند",
+        "title_en": "Opinion: Now we know",
+        "summary": [
+            "متن فقط به مشکل سازگاری مرورگر اشاره دارد",
+            "هیچ اطلاعات ژئوپلیتیکی یا اقتصادی در آن نیست"
+        ],
+        "impact": "کاربران ممکن است برای دسترسی به محتوا مرورگر خود را عوض کنند",
+        "tag": "فناوری",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Citizen-Times",
+        "url": "https://www.citizen-times.com/story/opinion/2026/10/18/opinion-now-we-know/92215717007/",
+        "clean_url": "https://www.citizen-times.com/story/opinion/2026/10/18/opinion-now-we-know/92215717007",
+        "image": "https://www.bing.com/th?id=ONUT.oY1zsQimTpiEr8FnXiu45g",
+        "timestamp": 1792341515.8192139
+    },
+    {
+        "id": "c704d5c182",
+        "title_fa": "ایران از آمریکا خواستار پذیرش توافق هفت روزه شد",
+        "title_en": "Iran urges United States to accept 7-day deal",
+        "summary": [
+            "ایران به آمریکا پیشنهاد داد تا ظرف یک هفته به توافق پیشنهادی پاسخ دهد",
+            "این درخواست نشان می‌دهد تهران به دنبال کاهش تنش‌های دریایی است"
+        ],
+        "impact": "اگر آمریکا موافقت کند، فشار بر کشتی‌های تجاری در خلیج کاهش می‌یابد",
+        "tag": "دیپلوماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "NewsNation",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VVGVBUTNFOGF5Y0xYMzYyOUlybFJlOFdUbmZuZ0szT1JQRVl2RVhPMmFmZTd6SXRhaENYTTBiVGx0Y3ExRjhYQXp5ZVoxc196bWwzZUtzc2xpZ05TeWxaZU4tRDB1eXFYUGhBd2xvOWw3Ml840gF6QVVfeXFMT1YxNTFoSlNzX2xxaERlekhzTXdFZThTcGFXOUNTWTA3NHQ5dDZsVHdzRExBdDNIRkpjSHZ6bWExcklKS0VWYjd5dDJsdnNCQmU1QkYyT3NGeTg2MmlYS2JQODZaeTJqQ2VBTWZlSFRiVDVsaXA1c1hvdWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VVGVBUTNFOGF5Y0xYMzYyOUlybFJlOFdUbmZuZ0szT1JQRVl2RVhPMmFmZTd6SXRhaENYTTBiVGx0Y3ExRjhYQXp5ZVoxc196bWwzZUtzc2xpZ05TeWxaZU4tRDB1eXFYUGhBd2xvOWw3Ml840gF6QVVfeXFMT1YxNTFoSlNzX2xxaERlekhzTXdFZThTcGFXOUNTWTA3NHQ5dDZsVHdzRExBdDNIRkpjSHZ6bWExcklKS0VWYjd5dDJsdnNCQmU1QkYyT3NGeTg2MmlYS2JQODZaeTJqQ2VBTWZlSFRiVDVsaXA1c1hvdWc",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792333661.0
+    },
+    {
         "id": "d694ae3142",
         "title_fa": "دوبل‌استاندارد ترامپ در اخراج زنان",
         "title_en": "Women forced out, men stay: Trump's double standard on misconduct",
@@ -217,6 +272,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCQ09fWVBIZWY4TlpaX29uLXJ3dlVSdDRRWVNobVZFLWxyRmtnR0YtN0RzSDd1SjZRbklGb1o0OEtncDdueFE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792306893.0
+    },
+    {
+        "id": "99300aa482",
+        "title_fa": "ایران برنامه عملیاتی جدید در برابر حملات آمریکا",
+        "title_en": "Iran says it has a 'new operational plan' if the US resumes attacks, as shipping vessels report strikes",
+        "summary": [
+            "محمود رضایی اعلام کرد ایران برای هر حملهٔ جدید آمریکا برنامهٔ عملیاتی دارد",
+            "این اظهارات نشان‌دهندهٔ آماده‌سازی نظامی برای پاسخ سریع به تهدیدات است"
+        ],
+        "impact": "افزایش خطر برخورد نظامی در خلیج فارس و تهدید ناوبری کشتی‌ها",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "CNBC on MSN",
+        "url": "https://www.msn.com/en-us/money/markets/iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks-as-shipping-vessels-report-strikes/ar-AA2eurSe",
+        "clean_url": "https://www.msn.com/en-us/money/markets/iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks-as-shipping-vessels-report-strikes/ar-AA2eurSe",
+        "image": "http://www.bing.com/th?id=ONUT.CVZXuTfFkPYr_3SbBmzc2w&pid=News",
+        "timestamp": 1792306344.0
     },
     {
         "id": "34dc9ddfeb",
@@ -833,6 +906,78 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zVHd1Ym90WEswQl9KOWJnWi00QkRzWU9xRG9aYjNBWHhITHdoaGJvV2JsdHhvNEFhalBhYTVUd3RoUDY3VFNtZ3NXQlBNT2VkRUdKMzVTeUI4NVh3S1lUTkU3aUZKdlJKdUtPSnhLdkZ0ZDNBRkNNQ3NYMXJOd9IBgwFBVV95cUxOMldlNmxMb0xOS3Qxc19seDczdWM5V19qY1lyaTRNejlJeUpBLUp6UlAwdXZIMTlwOWxEWFVjRGhnRUlobU5JanF2clNfM2EwZEFGbXhSNHJXSDRQUHA1TDN1R004NDU4UUQ4SzVmNkRmM2YxQWhVZXpuWnJNWWEtcEpKVQ",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792255953.0
+    },
+    {
+        "id": "32cde8085c",
+        "title_fa": "سپاه پاسداران برای هم‌افزایی استراتژیک با وزارت دفاع آماده است",
+        "title_en": "IRGC ready for 'strategic synergy' with Iran's defence ministry to counter enemy threats, says commander-in-chief",
+        "summary": [
+            "سردار وحیدی اعلام کرد سپاه می‌خواهد با وزارت دفاع در مقابله با تهدیدات ترکیبی همکاری کند",
+            "این هم‌افزایی می‌تواند توان نظامی ایران را در برابر حملات سایبری و ناوبری تقویت کند"
+        ],
+        "impact": "بهبود توان دفاعی ایران و احتمال افزایش فشار بر ناوبری در هورموز",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Dawn",
+        "url": "https://www.dawn.com/news/2038045",
+        "clean_url": "https://www.dawn.com/news/2038045",
+        "image": "https://www.dawn.com/_img/social-default.jpg",
+        "timestamp": 1792255102.0
+    },
+    {
+        "id": "89397ddd63",
+        "title_fa": "آیا متحد نزدیک اسرائیل ممکن است روزی علیهش بپیچد؟",
+        "title_en": "Could Israel’s closest ally one day turn against it? – analysis",
+        "summary": [
+            "مقالهٔ تحلیلی به احتمال تغییر موضع متحدان اسرائیل می‌پردازد",
+            "بدون ارائه شواهد ملموس، فقط به سناریوهای فرضی اشاره شده است"
+        ],
+        "impact": "اگر چنین تغییری رخ دهد، تعادل قدرت در خاورمیانه دچار نوسان می‌شود",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "worldisraelnews",
+        "url": "https://worldisraelnews.com/could-israels-closest-ally-one-day-turn-against-it-analysis/",
+        "clean_url": "https://worldisraelnews.com/could-israels-closest-ally-one-day-turn-against-it-analysis",
+        "image": "https://www.bing.com/th?id=ONUT.KBsi8dnRFhWvh98HEW1v2g",
+        "timestamp": 1792255101.0
+    },
+    {
+        "id": "222be1c6da",
+        "title_fa": "ترامپ از نتانیاهو برای انتخابات حمایت کرد",
+        "title_en": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+        "summary": [
+            "ترامپ در شبکه‌های اجتماعی نتانیاهو را جنگجوی بزرگ توصیف کرد",
+            "این حمایت می‌تواند به تقویت موقعیت نتانیاهو در انتخابات اکتبر کمک کند"
+        ],
+        "impact": "تقویت روابط آمریکا‑اسرائیل و احتمال ادامه فشار بر ایران",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-endorses-embattled-israeli-prime-145532000.html",
+        "clean_url": "https://www.aol.com/articles/trump-endorses-embattled-israeli-prime-145532000.html",
+        "image": "https://www.bing.com/th?id=ONUT.ajvmnKPqGhTDSMIlFN5-kQ",
+        "timestamp": 1792255101.0
+    },
+    {
+        "id": "0c16c6c62b",
+        "title_fa": "مدیر سرمایه‌گذاری روش خروج برای معدن‌کاران انرژی و طلا",
+        "title_en": "Energy and Gold Miners: How One Manager Sets Exit Rules",
+        "summary": [
+            "مقاله به استراتژی خروج بر پایهٔ سودآوری و پرداخت‌های سهام اشاره دارد",
+            "قیمت نفت تحت تأثیر شوک ایران قرار دارد و ممکن است در صورت رفع تحریم‌ها سقوط کند"
+        ],
+        "impact": "سرمایه‌گذاران ممکن است به سرعت از سهام انرژی خارج شوند اگر تنش‌های خلیج کاهش یابد",
+        "tag": "انرژی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "discoveryalert.com",
+        "url": "https://discoveryalert.com/analysis/energy-gold-miners-exit-rules-october-2026/",
+        "clean_url": "https://discoveryalert.com/analysis/energy-gold-miners-exit-rules-october-2026",
+        "image": "https://www.bing.com/th?id=ONUT.1LBezU3K5vZywOz_0ChODg",
+        "timestamp": 1792255101.0
     },
     {
         "id": "8a0477b862",
@@ -5429,154 +5574,5 @@
         "clean_url": "https://www.newsmax.com/newsfront/saudia-arabia-yemen-houthi-rebels-explosions/2026/10/15/id/1272925",
         "image": "https://www.bing.com/th?id=ONUT.yIYdeoHu0F_3a9ieYa5-JA",
         "timestamp": 1792011799.0
-    },
-    {
-        "id": "20c814db69",
-        "title_fa": "عبدالصید: اسرائیل و ایران تهدیدی برای آمریکا",
-        "title_en": "Senate Candidate Abdul El-Sayed says Israel and Iran both threat to U.S.",
-        "summary": [
-            "عبدالصید در مصاحبه گفت هر دو کشور اسرائیل و ایران تهدیدی برای امنیت آمریکا محسوب می‌شوند",
-            "او تأکید کرد که سیاست خارجی باید همزمان به هر دو خطر واکنش نشان دهد"
-        ],
-        "impact": "بیان این دیدگاه می‌تواند فشار دوطرفه بر قانون‌گذاران برای تجدید نظر در سیاست خاورمیانه ایجاد کند",
-        "tag": "سیاست-آمریکا",
-        "urgency": 2,
-        "sentiment": -0.1,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSHNTdTAyckhZQjNrbmtDc1l2Rnp3ZVBobFFYeG0tdGFCcTBEaVNfbkhrRGxmODBfRWJnR1oxam9xVDlfX3U0cjdGR1FVeXNDcjR1akRndUtVTEN5M2pGaHpUVnFqcElsMGdMeFV6VEc0UG91WW96YWE0YktybElBU3hwOUI2Y3k4SGNPUkNyUlFEV1djZXNaekRPUW5hbGt4Q2ZsaWVzeW1QLVJsRDhZb3lLcXJvN0dnVllEeW9uVmZxVnhoVEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSHNTdTAyckhZQjNrbmtDc1l2Rnp3ZVBobFFYeG0tdGFCcTBEaVNfbkhrRGxmODBfRWJnR1oxam9xVDlfX3U0cjdGR1FVeXNDcjR1akRndUtVTEN5M2pGaHpUVnFqcElsMGdMeFV6VEc0UG91WW96YWE0YktybElBU3hwOUI2Y3k4SGNPUkNyUlFEV1djZXNaekRPUW5hbGt4Q2ZsaWVzeW1QLVJsRDhZb3lLcXJvN0dnVllEeW9uVmZxVnhoVEE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792011233.0
-    },
-    {
-        "id": "21733e633d",
-        "title_fa": "جبهه جمهوری‌خواهان پیش‌انتخابات با تردید مواجه",
-        "title_en": "'Trust the process': Republicans struggle for closing argument before midterms",
-        "summary": [
-            "رئیس‌جمهور ترامپ فهرست وعده‌ها را به بار سنگین تبدیل کرد",
-            "جمهوری‌خواهان برای حفظ حمایت رای‌گیری، به استدلال‌های متناقض روی می‌آورند",
-            "انتخابات میانی می‌تواند سرنوشت مجلس را تعیین کند"
-        ],
-        "impact": "نتیجه‌گیری‌های نامشخص می‌تواند تعادل کنگره را به خطر بیندازد",
-        "tag": "انتخابات",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "The National on MSN",
-        "url": "https://www.msn.com/en-ae/news/world/trust-the-process-republicans-struggle-for-closing-argument-before-midterms/ar-AA2ef05g?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ae/news/world/trust-the-process-republicans-struggle-for-closing-argument-before-midterms/ar-AA2ef05g",
-        "image": "https://www.bing.com/th?id=ONUT.JFg3nkAiWS-R3NSUudKYIQ",
-        "timestamp": 1792010949.0464058
-    },
-    {
-        "id": "f562f508e9",
-        "title_fa": "بحث کاندیدای آرکانزاس درباره جنگ ایران",
-        "title_en": "East Arkansas congressional race debate highlights divide over Iran war",
-        "summary": [
-            "در مناظره کاندیدای مجلس نمایندگان آرکانزاس، اختلاف نظرها درباره مداخله نظامی در ایران به چشم خورد",
-            "برخی از شرکت‌کنندگان حمایت از مداخله نظامی را مطرح کردند، در حالی که دیگران خواستار دیپلماسی بودند"
-        ],
-        "impact": "تقسیم‌نظرهای محلی می‌تواند به شکل‌گیری موضع حزبی در کنگره درباره ایران منجر شود",
-        "tag": "سیاست-آرکانزاس",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Arkansas Advocate",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmxlR25JSUJrQk15aDJHWjl2d1ltaTBScFJrMzNjOTYyXzMzbWY5SzhmLUo4Qzljdmh2emJBOFFiVmxSVFA4SWVIVTRPVGdJU2tleFhEYl9QMEFpVkM1amVHcHhQcUtWdktLQUFERi1OMEJWRG9fVU1MRlBmaVJ1dmFHRWdQYUFDUWVSa0VmOWdTWWJPR0g1UWoxZmRIODlzTzlxMThMb25XVDdKUzBHQ2lB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmxlR25JSUJrQk15aDJHWjl2d1ltaTBScFJrMzNjOTYyXzMzbWY5SzhmLUo4Qzljdmh2emJBOFFiVmxSVFA4SWVIVTRPVGdJU2tleFhEYl9QMEFpVkM1amVHcHhQcUtWdktLQUFERi1OMEJWRG9fVU1MRlBmaVJ1dmFHRWdQYUFDUWVSa0VmOWdTWWJPR0g1UWoxZmRIODlzTzlxMThMb25XVDdKUzBHQ2lB",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792010477.0
-    },
-    {
-        "id": "6c56334ede",
-        "title_fa": "آمارهای جدید نشان می‌دهد ترامپ اقتصاد را خراب کرد",
-        "title_en": "New Numbers Show Just How Badly Trump Wrecked the Economy",
-        "summary": [
-            "رولینگ استون به‌طور انتقادی به‌کارگیری سیاست‌های تجاری و مالی ترامپ در دوره دوم اشاره کرد",
-            "CPI نشان داد قیمت‌ها در سپتامبر ۰.۶٪ ماهانه و ۳٫۷٪ سالانه رشد کرده‌اند؛ بیش از حد انتظار",
-            "افزایش ۹٫۱٪ قیمت گاز نشان می‌دهد فشار بر مصرف‌کنندگان به‌خصوص در ایالات‌متحده شدید است"
-        ],
-        "impact": "تشدید نارضایتی عمومی از سیاست‌های اقتصادی ترامپ و ریسک سیاسی برای حزب",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Rolling Stone",
-        "url": "https://www.rollingstone.com/politics/politics-news/inflation-numbers-trump-wrecked-economy-1235642667/",
-        "clean_url": "https://www.rollingstone.com/politics/politics-news/inflation-numbers-trump-wrecked-economy-1235642667",
-        "image": "https://www.bing.com/th?id=ONUT.jgqdfe95tzF-apNW2k8-rQ",
-        "timestamp": 1792006605.6693213
-    },
-    {
-        "id": "1fea74e1cb",
-        "title_fa": "حوثی‌ها با قطعات چینی موشک بالستیک میانه‌برد می‌سازند",
-        "title_en": "Yemen's Houthis look to build ballistic missiles with more Chinese supplies,...",
-        "summary": [
-            "گروه Conflict Armament Research گزارش داد حوثی‌ها قطعات کلیدی چینی برای ساخت موشک «خیبر شکن» را دریافت کرده‌اند",
-            "این موشک می‌تواند تا ۲٬۰۰۰ km هدف‌گیری دقیق داشته باشد و تهدید مستقیم به سعودی و اسرائیل باشد",
-            "وابستگی به چین نشان‌دهنده استقلال فزاینده حوثی‌ها از حمایت‌های ایرانی است"
-        ],
-        "impact": "افزایش خطر حملات دقیق به پایگاه‌های نظامی سعودی و احتمال گسترش درگیری منطقه‌ای",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Associated Press · via Yahoo News",
-        "url": "https://www.yahoo.com/news/world/articles/yemens-houthis-look-build-ballistic-192359125.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/yemens-houthis-look-build-ballistic-192359125.html",
-        "image": "https://media.zenfs.com/en/ap.org/20a8202e6d3eda5ada1a1193418214d4.jpg",
-        "timestamp": 1792005811.0
-    },
-    {
-        "id": "443eb5e8a4",
-        "title_fa": "کمیسیون آمریکا به ظرفیت هسته‌ای ایران می‌نگرد",
-        "title_en": "Iran's Nuclear Weapons Production Capacity Faces Congressional Scrutiny",
-        "summary": [
-            "کمیسیون قانونگذاری ایالات متحده به بررسی توان تولید سلاح هسته‌ای ایران پرداخته است.",
-            "این بررسی می‌تواند فشار دیپلماتیک و تحریم‌های جدیدی را برای تهران به دنبال داشته باشد."
-        ],
-        "impact": "احتمال اعمال تحریم‌های سخت‌گیرانه و محدودیت‌های مالی برای برنامه هسته‌ای ایران افزایش می‌یابد.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Legis1",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yMFJ6THlqa2l1dGw0c1FrUlBLN1lELXp6S1hUVEs1ZnJVeUZXWjRFNVVGcl9ZNHBLeExsNG5Cb29HOEFNc2lHTXlwVUlfZE5ORmN6LUtXRVQwSWh0OUNpRVVFVE5Mb21SM3JWajZRZXZUSXpXVmRtMkRB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yMFJ6THlqa2l1dGw0c1FrUlBLN1lELXp6S1hUVEs1ZnJVeUZXWjRFNVVGcl9ZNHBLeExsNG5Cb29HOEFNc2lHTXlwVUlfZE5ORmN6LUtXRVQwSWh0OUNpRVVFVE5Mb21SM3JWajZRZXZUSXpXVmRtMkRB",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792002546.0
-    },
-    {
-        "id": "6310eb0fe1",
-        "title_fa": "گزارش آمینستی: روایت‌های رسمی برای پوشاندن سرکوب 2022",
-        "title_en": "Russia, China foreign ministers discuss Iran crisis at Baku meeting",
-        "summary": [
-            "آمینستی شش روایت تکراری دولت ایران برای انکار قتل معترضان را شناسایی کرد",
-            "این روایت‌ها شامل سرزنش معترضان، توجیه حوادث به دلایل شخصی یا تصادف و توصیف قتل‌ها به‌عنوان درگیری با گروه‌های مسلح است",
-            "گزارش نشان می‌دهد تحقیقات دولتی عملاً بی‌نتیجه مانده‌اند"
-        ],
-        "impact": "عدم پاسخگویی به سرکوب 2022، فشار بین‌المللی بر ایران را تقویت می‌کند",
-        "tag": "حقوق‌انسانی",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610152957",
-        "clean_url": "https://www.iranintl.com/en/202610152957",
-        "image": "http://www.bing.com/th?id=ONUT.o5eoGzRUHZTOP2a4dHHZnQ&pid=News",
-        "timestamp": 1792001340.0
-    },
-    {
-        "id": "74927c3aca",
-        "title_fa": "آی‌جی‌سی ارتش ایران جنگ جهانی را مقایسه کرد",
-        "title_en": "Tehran signals escalation in conflict IRGC likens to a ‘world war’",
-        "summary": [
-            "سپاه پاسداران در بیانیه‌ای جنگ جهانی را به‌عنوان تشبیه به تشدید منازعات جاری مطرح کرد",
-            "این بیان می‌تواند واکنش‌های بین‌المللی را به‌سختی افزایش دهد و فشار بر دیپلمات‌های ایرانی را بالا ببرد",
-            "استفاده از چنین اصطلاحات ریسک تشدید ترس و اضطراب عمومی را در منطقه دارد"
-        ],
-        "impact": "تشدید نگرانی‌های بین‌المللی و احتمال اعمال تحریم‌های جدید علیه ایران",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PWG1iYklCN3ZDdFl6VjhpLVRrWl9vWklrbV8yblNubkxzMm9KaWtpdDViYjdZWnhPMDdaMXBwNmY1Q0N2N3dfQkU1UkFCSXl0SEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PWG1iYklCN3ZDdFl6VjhpLVRrWl9vWklrbV8yblNubkxzMm9KaWtpdDViYjdZWnhPMDdaMXBwNmY1Q0N2N3dfQkU1UkFCSXl0SEE",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792000504.0
     }
 ]
