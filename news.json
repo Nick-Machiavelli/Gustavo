@@ -1,5 +1,24 @@
 [
     {
+        "id": "d87121e89d",
+        "title_fa": "تغییر کنگره، پایان جنگ ایران؟",
+        "title_en": "Peter Roff: Changing Congress won’t change the Iran War",
+        "summary": [
+            "کنگره جدید نمی‌تواند زنجیره فرماندهی نظامی را تغییر دهد.",
+            "مجلس نمایندگان قطع‌نامه‌های متعدد تصویب کرد اما سنا آن را خنثی کرد؛ فشار واقعی بر رئیس‌جمهور کم است.",
+            "حتی با اکثریت ساده در سنا، قانون 1973 به دلیل فیلیبستر مانع اقدام می‌شود."
+        ],
+        "impact": "جنگ ایران ادامه می‌یابد؛ تحریم‌ها و هزینه‌های نظامی ثابت می‌مانند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Daily Freeman",
+        "url": "https://www.dailyfreeman.com/2026/10/18/peter-roff-changing-congress-wont-change-the-iran-war/",
+        "clean_url": "https://www.dailyfreeman.com/2026/10/18/peter-roff-changing-congress-wont-change-the-iran-war",
+        "image": "https://www.bing.com/th?id=ONUT.eYREW5DlUZJT3c8iqI211g",
+        "timestamp": 1792299013.0792358
+    },
+    {
         "id": "12aef0545b",
         "title_fa": "ترامپ و تصمیم‌گیری درباره اوکراین",
         "title_en": "ട്രംപ് യുക്രൈനെ കൈവിടുന്നോ?; റഷ്യക്കെതിരായ യുഎസ് കോൺഗ്രസിന്റെ ...",
@@ -1115,6 +1134,25 @@
         "clean_url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=1200,630",
         "timestamp": 1792213200.0
+    },
+    {
+        "id": "424ebc3592",
+        "title_fa": "وایس‌پریزدنت ونس تصمیم‌گیری برای ۲۰۲۸",
+        "title_en": "Vance says he’ll have to make a decision on 2028 presidential run after midterm elections",
+        "summary": [
+            "ونس گفت پس از انتخابات میانی تصمیم می‌گیرد که آیا برای انتخابات ۲۰۲۸ نامزد شود.",
+            "این اظهارات نشان می‌دهد فشارهای حزبی برای انتخاب رئیس‌جمهور جدید در حال شکل‌گیری است.",
+            "اگر او نامزد شود، می‌تواند رقابت دموکراتیک را تحت تأثیر قرار دهد."
+        ],
+        "impact": "رقابت داخلی جمهوری‌خواهان برای انتخابات ۲۰۲۸ شکل می‌گیرد.",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/vance-says-he-ll-have-to-make-a-decision-on-2028-presidential-run-after-midterm-elections/ar-AA2essrr?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/vance-says-he-ll-have-to-make-a-decision-on-2028-presidential-run-after-midterm-elections/ar-AA2essrr",
+        "image": "https://www.bing.com/th?id=ONUT.lUc0Y9_lM8JzyYYZe5IB6Q",
+        "timestamp": 1792212608.0
     },
     {
         "id": "91afed46b5",
@@ -5550,41 +5588,5 @@
         "clean_url": "https://www.msn.com/en-us/news/news/a-former-nuclear-submariner-reveals-what-happens-when-the-us-president-orders-a-ballistic-missile-launch-my-take/vi-AA2e8fid",
         "image": "https://www.bing.com/th?id=ONUT.qLoljhNMILg9TYEW-K5CCw",
         "timestamp": 1791973749.1734376
-    },
-    {
-        "id": "441230ca29",
-        "title_fa": "قانون لندسی گراهام پس از مرگ منسوخ شد",
-        "title_en": "Trump’s Final Humiliation of Lindsey Graham",
-        "summary": [
-            "پس از مرگ لندسی گراهام، قانون تحریم روسیه که به نام او بود منسوخ شد",
-            "این اقدام نشان‌دهنده تغییر جهت سیاست‌های مالی‌ساز آمریکا پس از دوره گراهام است"
-        ],
-        "impact": "لغو قانون می‌تواند فشار اقتصادی بر روسیه را کاهش دهد",
-        "tag": "قانون",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-final-humiliation-lindsey-graham-092920840.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-final-humiliation-lindsey-graham-092920840.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/74957429c0a052f2e621928bdc4d326382aaf8e9384b9af38d5abbddc3427cd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_bulwark_articles_507%2F52e18e0a84ed31bbdfc7ac863cbd6d9f.jpg",
-        "timestamp": 1791973746.278434
-    },
-    {
-        "id": "b3dae68555",
-        "title_fa": "از اوباما تا السید: تغییرات سیاسی اخیر",
-        "title_en": "From Obama to El Sayed",
-        "summary": [
-            "مقاله‌ای به بررسی تغییرات سیاسی از دوره اوباما تا السید می‌پردازد",
-            "تمرکز بر حذف ICE، مراقبت‌های بهداشتی و تسلیحات اسرائیل است"
-        ],
-        "impact": "تحلیل می‌تواند دیدگاه‌های عمومی نسبت به سیاست‌های داخلی آمریکا را شکل دهد",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/from-obama-to-el-sayed/ar-AA2ed0co?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/from-obama-to-el-sayed/ar-AA2ed0co",
-        "image": "https://www.bing.com/th?id=ONUT.ataYox7qaVDt0NRUndjRdw",
-        "timestamp": 1791973746.2780325
     }
 ]
