@@ -965,6 +965,26 @@
         "timestamp": 1792245966.605813
     },
     {
+        "id": "e7680546a6",
+        "title_fa": "ترامپ تا ۶۰ روز برای تصمیم‌گیری درباره تحریم روسیه",
+        "title_en": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+        "summary": [
+            "ریوبو می‌گوید ترامپ ممکن است تا دو ماه برای تصمیم‌گیری درباره تحریم روسیه زمان بگیرد",
+            "این تأخیر در زمان انتخابات میانی نوامبر می‌افتد و فشار داخلی برای کاهش قیمت انرژی بالا می‌رود",
+            "جنگ با ایران عرضه نفت جهانی را مختل کرده و قیمت‌ها را تشدید می‌کند",
+            "تعویق تصمیم‌گیری می‌تواند موقعیت دیپلماتیک آمریکا را در مقابل روسیه و ایران تضعیف کند"
+        ],
+        "impact": "تعویق تصمیم‌گیری فشار اقتصادی بر روسیه را کاهش و قیمت نفت را بالا نگه می‌دارد",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/rubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18/",
+        "clean_url": "https://www.reuters.com/world/us/rubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792242960.0
+    },
+    {
         "id": "9c21d8f047",
         "title_fa": "ترامپ در روستایی‌های آمریکا تسلط داشت؛ ایوا برای دموکرات‌ها",
         "title_en": "Trump dominated rural America. Iowa is testing whether Democrats can win them back",
@@ -1440,6 +1460,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdFRubF9weDlLYWF3cEZlMy1UWU40ZVZpaXVuQzBqRnY0bG80UWk0c3dCQkgxMU9hYi1SZGdDa0s0YXpYbVc4OU5kX29jWG1pVTRmQWc1WlBESkZCaGgwRExaUUt5QWRHTlJBSm5Cb2VHT1lvdnFyNTNFUzZQTVJELVl5TmdkSnlCcTNBUzNNdUVPR3Bzbjd5ZW8tbkrSAaIBQVVfeXFMUGE5LS1uMVdhc2hfaGJONHpXX2dTeGNVVHVJNDBRLXV3akpEd2dTaWFUVDQ5UXBBSzJJa01MMElhVnhxM0V0ZVBCRkhnR1IxY25NSk91OXpURDJONFVKV0Q0bmVlaXJ2T1ROaHlXbFh1Y1ZER1o1TVQtQ0FINU16RnlYWXlRb1RMUHlPRGFxcVhFT0p3eXRmczFaaG5OT2dYQllR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792225870.0
+    },
+    {
+        "id": "77f8358d7b",
+        "title_fa": "اخبار متفرقه آمریکا: ورزشی، رسانه‌ای و خبرنامه",
+        "title_en": "US latest news",
+        "summary": [
+            "متن شامل اخبار ورزشی لیگ زنان آمریکا، نتایج مسابقات و تبلیغات خبرنامه است",
+            "هیچ اطلاعات ژئوپلیتیکی یا اقتصادی مهمی در این متن وجود ندارد"
+        ],
+        "impact": "بدون تأثیر عملیاتی یا اقتصادی",
+        "tag": "سایر",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news",
+        "clean_url": "https://www.theguardian.com/us-news",
+        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
+        "timestamp": 1792225380.0
     },
     {
         "id": "095661a8c0",
@@ -5540,41 +5578,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PWG1iYklCN3ZDdFl6VjhpLVRrWl9vWklrbV8yblNubkxzMm9KaWtpdDViYjdZWnhPMDdaMXBwNmY1Q0N2N3dfQkU1UkFCSXl0SEE",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792000504.0
-    },
-    {
-        "id": "b50d57de1f",
-        "title_fa": "کاتز: در صورت حمله، سرزمین لبنان را می‌گیریم",
-        "title_en": "Defense Minister Katz threatens to seize Lebanese land if Hezbollah, Iran attack",
-        "summary": [
-            "وزیر دفاع اسرائیل، یائور کاتز، تهدید کرده که در صورت حملهٔ حزب‌الله یا ایران به اسرائیل، بخش‌هایی از خاک لبنان را اشغال می‌کند.",
-            "این اظهارات می‌تواند تنش‌های مرزی را به سرعت به درگیری مسلحانه تبدیل کند."
-        ],
-        "impact": "افزایش خطر درگیری نظامی در مرز لبنان‑اسرائیل و تشدید بحران منطقه‌ای محتمل است.",
-        "tag": "تهدید",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43TFd6VmlWR3B2OGZCaXZMbVhxRmZ0YVdMTmxKaWZ0d1psWFRsVGhId3VKVVFFeXBnMzJaM0dPcnlqR3ZSSGlxZjBkV2pjTEI5MDdCU2pRU0dXSHFwMjZTdkhzVi1HcWxpd2tXUDlR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43TFd6VmlWR3B2OGZCaXZMbVhxRmZ0YVdMTmxKaWZ0d1psWFRsVGhId3VKVVFFeXBnMzJaM0dPcnlqR3ZSSGlxZjBkV2pjTEI5MDdCU2pRU0dXSHFwMjZTdkhzVi1HcWxpd2tXUDlR",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1791999729.0
-    },
-    {
-        "id": "757ac08194",
-        "title_fa": "حملهٔ هوایی حوثی‌ها به فرودگاه ریاض و آرماکو",
-        "title_en": "How are Yemen’s Houthis attacking Saudi Arabia so effectively?",
-        "summary": [
-            "حوثی‌ها در هفتهٔ گذشته به فرودگاه بین‌المللی ریاض و مرکز شرکت آرماکو حمله کردند",
-            "این حملات نشان‌دهندهٔ ضعف دفاعی عربستان و نقش ایران در توانمندسازی حوثی‌هاست"
-        ],
-        "impact": "اعتماد سرمایه‌گذاران به عربستان کاهش می‌یابد؛ فشار بر روابط آمریکا‑عربستان افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/world/how-are-yemens-houthis-attacking-saudi-arabia-so-effectively-20013044.htm",
-        "clean_url": "https://www.cnbctv18.com/world/how-are-yemens-houthis-attacking-saudi-arabia-so-effectively-20013044.htm",
-        "image": "https://www.bing.com/th?id=ONUT.Hn_DaIF1DHnK8bV89e4iow",
-        "timestamp": 1791999552.0
     }
 ]
