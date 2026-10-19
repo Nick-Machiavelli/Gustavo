@@ -1,5 +1,81 @@
 [
     {
+        "id": "bab7d01312",
+        "title_fa": "پول‌سازی ترامپ در جمهوری‌خواهان تابو و ضعف‌پذیری",
+        "title_en": "For GOP, Trump’s self-enrichment is a taboo topic — and a vulnerability",
+        "summary": [
+            "ترامپ در سال اول دومین دوره‌اش ۲٫۲ میلیارد دلار درآمد کسب کرد",
+            "این درآمد از صنایع تحت نظارت دولت اوست و باعث اتهام فساد شد",
+            "رقیبان جمهوری‌خواه نمی‌توانند به‌صراحت به این موضوع بپردازند، که باعث ضعف استراتژیک حزب می‌شود"
+        ],
+        "impact": "کاهش اعتماد رأی‌دهندگان به حزب ریپابلیکن؛ خطر از دست دادن کاندیداهای کلیدی",
+        "tag": "اقتصاد‑سیاسی",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "The Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/opinion/commentary/trump-enrichment-midterms-gop-silence-20261019.html",
+        "clean_url": "https://www.inquirer.com/opinion/commentary/trump-enrichment-midterms-gop-silence-20261019.html",
+        "image": "https://www.bing.com/th?id=ONUT.Y4LYYLYuMjkO5DMaPHrvMg",
+        "timestamp": 1792429563.8710098
+    },
+    {
+        "id": "ca3d1ba363",
+        "title_fa": "جنگ‌های اتیوپی هشداردهنده برای سیاست فدرالیسم ایران",
+        "title_en": "Ethiopia’s forever wars are lesson for Iran",
+        "summary": [
+            "اتیوپی سال‌ها جنگ داخلی کشنده تجربه کرد",
+            "فدرالیسم قومی می‌تواند به تفرقه و درگیری منجر شود",
+            "برای ایران که به‌تازگی به‌سوی تقسیمات قومی می‌نگرد، این درس خطرناک است"
+        ],
+        "impact": "افزایش خطر تشدید تنش‌های قومی در ایران",
+        "tag": "ژئوپلیتیک",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-sg/news/other/ethiopia-s-forever-wars-are-lesson-for-iran/ar-AA2fAVyd?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-sg/news/other/ethiopia-s-forever-wars-are-lesson-for-iran/ar-AA2fAVyd",
+        "image": "https://www.bing.com/th?id=ONUT.7WuiLzVBp2ojwrEde5aLgQ",
+        "timestamp": 1792429563.8705132
+    },
+    {
+        "id": "2b8e34fb5c",
+        "title_fa": "ترامپ به میراث گراهام ضربه‌ای سنگین زد",
+        "title_en": "Wall Street Journal editorial board: Trump ‘stuck a shiv in the back’ of Graham’s legacy",
+        "summary": [
+            "وال استریت جورنال ادعا کرد ترامپ به‌صورت ناگهانی میراث گراهام را تخریب کرد",
+            "انتقاد داخلی حزب ریپابلیکن بر رفتار ترامپ در حال تشدید است",
+            "این تحولات می‌تواند توان سیاسی او را در انتخابات 2024 تضعیف کند"
+        ],
+        "impact": "تقویت رقیبان داخلی ترامپ و کاهش حمایت رپابلیکن",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/media/6157954-trump-waives-russian-sanctions/",
+        "clean_url": "https://thehill.com/homenews/media/6157954-trump-waives-russian-sanctions",
+        "image": "https://www.bing.com/th?id=ONUT.9cIJ9KRENjtJ_4BEIggsOg",
+        "timestamp": 1792429563.8699703
+    },
+    {
+        "id": "ed15353bf4",
+        "title_fa": "لاوروف در تهران به امنیت منطقه و جنگ آمریکا پرداخت",
+        "title_en": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
+        "summary": [
+            "لاوروف نقش روسیه را در مقابله با حضور نظامی آمریکا برجسته کرد",
+            "او امنیت منطقه را تهدیدی از جانب ایالات متحده توصیف کرد",
+            "بیانیه می‌تواند روابط روسیه‑ایران را در مقابل فشارهای غربی تقویت کند"
+        ],
+        "impact": "تقویت هم‌پیمانی روسیه‑ایران؛ فشار بر موضع آمریکا در خاورمیانه",
+        "tag": "دیپلماتیک",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792426971.0
+    },
+    {
         "id": "a421e6eb38",
         "title_fa": "اقتصاد جنگی ایران؛ کاهش بارگیری نفت و افزایش هزینه حمل",
         "title_en": "L'economia di guerra in Iran",
@@ -170,6 +246,44 @@
         "timestamp": 1792404137.0
     },
     {
+        "id": "6e5840d2df",
+        "title_fa": "ترامپ ادعا می‌کند ایران ضعیف شد",
+        "title_en": "Iran has been weakened? So what!",
+        "summary": [
+            "ترامپ می‌گوید ایران پس از حملات به کشتی‌ها و زیرساخت‌های خلیج، توانایی نظامی خود را از دست داده",
+            "با این حال تهران همچنان قادر به شلیک به کشتی‌ها، تهدید گازهای خلیج و مقاومت در برابر دفاع‌های آمریکا است",
+            "ادعای ترامپ نشان می‌دهد فاصله بین ریتوریک سیاسی و واقعیت میدانی هنوز بزرگ است"
+        ],
+        "impact": "تضعیف ادعای برتری آمریکا و ممکن است حمایت داخلی ترامپ را در برابر انتقادات تقویت کند",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "MeidasTouch News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-has-been-weakened-so-what/ar-AA2fB5Cw",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-has-been-weakened-so-what/ar-AA2fB5Cw",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792403004.0
+    },
+    {
+        "id": "f513f4c801",
+        "title_fa": "کشتی‌های تجاری پس از حملات ایران در تنگه هرمز",
+        "title_en": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
+        "summary": [
+            "ایران در ده روز گذشته حداقل ۱۵ کشتی کانتینری را با پهپاد یا مین هدف قرار داد",
+            "بارهای ریخته‌شده باعث جست‌وجوی گسترده در تنگه هرمز شد و چندین کشتی دیگر به‌خاطر مین غرق شدند",
+            "قیمت نفت برنت نزدیک به ۱۰۸ دلار در هر بشکه شد و کنترل مشکوک تهران بر تنگه تقویت شد"
+        ],
+        "impact": "هزینه‌های حمل‌ونقل جهانی بالا می‌رود و فشار بر اقتصادهای وابسته به نفت افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+        "clean_url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+        "image": "https://i.guim.co.uk/img/media/0d4cf88c5f52288ec22b532a48cb137684da74e9/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=378001bce6600e307cdc4cbfda6718f4",
+        "timestamp": 1792402560.0
+    },
+    {
         "id": "7e75b0166b",
         "title_fa": "محور هسته‌ای اسرائیل‑تایوان: استدلال استراتژیک",
         "title_en": "The Strategic Case for an Israel-Taiwan Nuclear Axis",
@@ -190,6 +304,25 @@
         "timestamp": 1792402426.0
     },
     {
+        "id": "06b3baaf3e",
+        "title_fa": "هزینه‌های درمانی سرسام‌آور در ایران",
+        "title_en": "Iran military chief warns against attacks on Iran",
+        "summary": [
+            "بیماران از بیمارستان‌های دولتی به دلیل کمبود پزشک متخصص رد می‌شوند و مجبور به پرداخت هزینه‌های خصوصی می‌گردند",
+            "هزینه یک شب درمان در بخش خصوصی حدود ۲۰۰ میلیون ریال است؛ معادل بیش از یک ماه حداقل حقوق پایه",
+            "نیروی پرستاری تنها نیمی از استاندارد ملی را دارد و فشار بر بیمارستان‌های عمومی در حال افزایش است"
+        ],
+        "impact": "بار مالی بر خانواده‌ها سنگین می‌شود و نارضایتی اجتماعی تشدید می‌گردد",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610199300",
+        "clean_url": "https://www.iranintl.com/en/202610199300",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792402380.0
+    },
+    {
         "id": "273610d035",
         "title_fa": "متخصصان اسرائیلی: جنگ جدید با ایران اجتناب‌ناپذیر",
         "title_en": "A renewed Iran war is only a matter of time, Israeli experts warn",
@@ -206,6 +339,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1d2RVhJXzJINlNMemVtRzNMajNsX29JcDM0WW14eUdCRlF2WmtIZ2J5cVY2TjZtN3AxcWtEYmExRzFjRE5PakVyZnkxRWhUTkM5TEpyemt1MnVSSmZlTmxOUzNYU1NJdC1JZWhtc1lQazJhWVM3bWRhMlpZczZLZ1JUNHBSSmI3ZTlSLU1QSEkxQTg5M2pSbDk5YU1oTE80bHItRA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792399773.0
+    },
+    {
+        "id": "cbd679afba",
+        "title_fa": "چین در دیدار با معاون اول رئیس جمهور ایران خواستار گفتگو شد",
+        "title_en": "China urges dialogue in meeting with Iran’s first vice president",
+        "summary": [
+            "Chinese Premier Li Qiang urged a return to dialogue and negotiations to help restore regional peace during a meeting with Iran’s First Vice President Mohammad Reza Aref on the sidelines of a Shanghai..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610190514",
+        "clean_url": "https://www.iranintl.com/en/202610190514",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792397640.0
     },
     {
         "id": "185c03d413",
@@ -242,6 +392,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXhHREw2b2F0ZmdTTmM5YVVta01IX2NCTjRTajZxemNtN2FGSURLcHdCNEp0eFRud0drelJGN1ZUbk5MT21tdUtrY2lzVVEweEFlNVlYSVRGOXFTbzczdnV0bUVuZkNRZ3dDc2RGb3ZyWXhuSnd5R2h5WWVZMGdSdjc5RzhSSGdseHNObGtOVEVfMXNKQnNvdmJONWlaakFQOTkxaGRPdE5Qd2hGZmhsZjI0TmdEQ2MwWFJtOWk2WE1lRHMwbktqZUdhRHNDRkphVkhfWEt6NWdnTkE",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792385400.0
+    },
+    {
+        "id": "58c72cdfa4",
+        "title_fa": "حزب‌های مخالف اسرائیل نسبت به ایران تندترند",
+        "title_en": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
+        "summary": [
+            "حزب‌های مخالف در اسرائیل حمایت شدیدی از سیاست سخت‌گیرانه نسبت به ایران نشان می‌دهند",
+            "آمارها نشان می‌دهد ۶۵‑۷۰٪ یهودیان اسرائیلی معتقدند توقف جنگ منافع امنیتی کشور را تحت‌الشعاع قرار داده",
+            "ایران به عنوان یک مسأله کلیدی در انتخابات اکتبر ۲۷ مطرح است و فشار بر نتانیاهو برای ادامه عملیات افزایش می‌یابد"
+        ],
+        "impact": "احتمال تقویت فشار داخلی بر دولت اسرائیل برای ادامه اقدام‌ها نظامی علیه ایران",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-israel-opposition-even-more-113552329.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-israel-opposition-even-more-113552329.html",
+        "image": "http://www.bing.com/th?id=ONUT.VnlNAzHkOdtEfqzH5PUgfA&pid=News",
+        "timestamp": 1792384500.0
     },
     {
         "id": "e9d81fc253",
@@ -282,6 +451,44 @@
         "timestamp": 1792382445.0
     },
     {
+        "id": "0f966a64ad",
+        "title_fa": "جنگ ایران، تورم سوخت را برای ترامپ تشدید می‌کند",
+        "title_en": "The Iran War is sprawling into an inflation nightmare for Trump ahead of the midterms",
+        "summary": [
+            "قیمت گاز در آمریکا بالای ۴ دلار در هر گالن ثابت مانده و به‌دلیل بسته شدن تنگه هرمز افزایش یافته",
+            "جنگ در ایران باعث رکود در حمل‌ونقل نفت و دیزل شده و رکوردهای قیمتی جدیدی ثبت می‌شود",
+            "ترامپ این جنگ را به‌عنوان بخشی از برنامه‌اش برای انتخابات میانه‌دوره به کار می‌گیرد، در حالی که هزینه‌های زندگی برای آمریکایی‌ها بالا می‌رود"
+        ],
+        "impact": "فشار بر کمپین ترامپ افزایش می‌یابد و ریسک تغییرات سیاسی در آمریکا بالا می‌رود",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/gas-oil-prices-soar-as-trump-deals-iran-war-inflation-2026-10",
+        "clean_url": "https://www.businessinsider.com/gas-oil-prices-soar-as-trump-deals-iran-war-inflation-2026-10",
+        "image": "http://www.bing.com/th?id=ONUT.ior_q9fxJIPigQxOpH1WhQ&pid=News",
+        "timestamp": 1792382400.0
+    },
+    {
+        "id": "04aee3cfaa",
+        "title_fa": "شبکه‌های نفوذ چین‑ایران در آمریکا",
+        "title_en": "Exclusive: China and Iran’s Influence Networks Join Forces Inside US",
+        "summary": [
+            "سازمان‌های ایرانی و چینی در ایالات متحده برای جمع‌آوری کمک‌های مالی از طریق بانک‌های تحریم‌شده همکاری می‌کنند",
+            "یک نهاد غیرانتفاعی آمریکایی با ریشه‌های چینی، به‌صورت مشترک با «خانهٔ آمریکای لاتین» فعالیت دارد",
+            "این شبکه‌ها هدفشان تأثیرگذاری بر سیاست‌های واشنگتن و مقابله با قدرت آمریکایی است"
+        ],
+        "impact": "تهدید به نفوذ سیاسی و مالی در تصمیم‌گیری‌های کلان آمریکا",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/exclusive-china-and-irans-influence-networks-join-forces-inside-us-12579895",
+        "clean_url": "https://www.newsweek.com/exclusive-china-and-irans-influence-networks-join-forces-inside-us-12579895",
+        "image": "http://www.bing.com/th?id=ONUT.KaXZ2JXQoe4QP_Z0OamSGg&pid=News",
+        "timestamp": 1792380180.0
+    },
+    {
         "id": "247ca9510f",
         "title_fa": "ترامپ و نتانیاهو ایران را به حملات مجدد تهدید کردند، تهران درباره واکنش هشدار داد",
         "title_en": "Trump, Netanyahu threaten renewed Iran strikes, Tehran warns of response",
@@ -297,6 +504,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zNl9zdG1hb2kzUnMxdnIwNDN6MjZtTHdYcEpnOGhyU2JaVnVzTm9jVWwzUVJSYWI5VmZla0FqMVlJaWZOdGxnWjdFMVQxZDRGTFE",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792373483.0
+    },
+    {
+        "id": "1077d1617e",
+        "title_fa": "مخبر آینده درخشان را با خامنه‌ای پیش‌بینی کرد",
+        "title_en": "محمد مخبر: مطمئن باشید با مجتبی خامنه‌ای آینده درخشانی پیش روی ماست",
+        "summary": [
+            "محمد مخبر ادعا می‌کند مجتبی خامنه‌ای در تمام حوزه‌های حکمرانی تسلط فوق‌العاده دارد",
+            "او می‌گوید جانشینی خامنه‌ای «آرامش» را به کشور بازمی‌گرداند و هیچ تردیدی در مورد آینده روشن وجود ندارد",
+            "این سخنرانی نشان‌دهنده تلاش حاکمیت برای مشروعیت‌بخشی به سلسلهٔ جانشینی داخل خانواده رهبری است"
+        ],
+        "impact": "تقویت روایت حاکمیتی برای انتقال قدرت به نسل بعدی و احتمال تشدید رقیب‌سالاری داخلی",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610199646",
+        "clean_url": "https://www.iranintl.com/202610199646",
+        "image": "http://www.bing.com/th?id=ONUT.EfFaaBi-5yjpp6w9tVovkQ&pid=News",
+        "timestamp": 1792370940.0
     },
     {
         "id": "0ec4669952",
@@ -650,6 +876,25 @@
         "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-violating-vessel-on-fire-in-hormuz-after-sea-mine-blast-iran-says-7-day-ceasefire-offer-still-on-the-table-10-key-updates/ar-AA2evyab",
         "image": "http://www.bing.com/th?id=ONUT.CrbUdiIHkHwGRUk9Mo_HxQ&pid=News",
         "timestamp": 1792343799.0
+    },
+    {
+        "id": "5ea06dde20",
+        "title_fa": "ترامپ تصمیم به تعویق تحریم روسیه را توجیه کرد",
+        "title_en": "Live updates: GOP airs frustration over Russia sanctions waiver; Trump heads to Kansas",
+        "summary": [
+            "ترامپ گفت تعویق تحریم روسیه به‌دلیل جلوگیری از دفع مسکو است",
+            "او ترجیح می‌دهد روابط تجاری را حفظ کند حتی با رقبای ژئوپلیتیک",
+            "این تأخیر می‌تواند فشار دیپلماتیک آمریکا بر روسیه و ایران را کاهش دهد"
+        ],
+        "impact": "کاهش فشار اقتصادی آمریکا بر روسیه؛ امکان اعمال فشار مشابه به ایران",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms/",
+        "clean_url": "https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms",
+        "image": "https://www.bing.com/th?id=ONUT.QBV546Ij5LcvZQ7g_eXFbA",
+        "timestamp": 1792343144.0
     },
     {
         "id": "449a92a2ea",
@@ -5325,243 +5570,5 @@
         "clean_url": "https://www.debelegger.nl/post/vergeet-de-euro-de-s-p-500-tracker-van-ishares-ademt-dollar",
         "image": "https://www.bing.com/th?id=ONUT.TGlBYHZfeUbW0MK-2StzCA",
         "timestamp": 1792086659.0
-    },
-    {
-        "id": "784629edd5",
-        "title_fa": "گوشواره‌های صورتی پرنسس ویلز: معنی و قیمت",
-        "title_en": "Princess of Wales' pink earrings have a beautiful meaning – and they're surprisingly affordable",
-        "summary": [
-            "پرنسس ویلز گوشواره‌های صورتی را بارها می‌پوشد",
-            "این جواهرات به‌دلیل طراحی خاص و قیمت مناسب محبوب شده‌اند"
-        ],
-        "impact": "علاقه‌مندان به مد ممکن است خرید مشابه را در نظر بگیرند",
-        "tag": "سرگرمی",
-        "urgency": 1,
-        "sentiment": 0.3,
-        "source": "Good Housekeeping on MSN",
-        "url": "https://www.msn.com/en-gb/lifestyle/other/princess-of-wales-pink-earrings-have-a-beautiful-meaning-and-they-re-surprisingly-affordable/ar-AA2eoaYc?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/lifestyle/other/princess-of-wales-pink-earrings-have-a-beautiful-meaning-and-they-re-surprisingly-affordable/ar-AA2eoaYc",
-        "image": "https://www.bing.com/th?id=ONUT._CA9lfSV6fEmvTlwmVt9mA",
-        "timestamp": 1792086659.0
-    },
-    {
-        "id": "035e8d035d",
-        "title_fa": "انتخابات میانی ۲۰۲۶؛ دست‌کاری رای‌گیری توسط ترامپ",
-        "title_en": "Election 2026: A midterm vote unlike any other",
-        "summary": [
-            "ترامپ با گریماندینگ قانونی و اقدام‌ها غیرقانونی سعی در تغییر نتایج انتخابات دارد",
-            "تهدید به ارسال نیرو به مکان‌های رأی‌گیری و محدود کردن حق رأی شهروندان"
-        ],
-        "impact": "نتایج میانی ۲۰۲۶ آمریکا تحت فشار قرار می‌گیرد و اعتماد عمومی به انتخابات کاهش می‌یابد",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "People's World",
-        "url": "https://www.peoplesworld.org/article/election-2026-a-midterm-vote-unlike-any-other/",
-        "clean_url": "https://www.peoplesworld.org/article/election-2026-a-midterm-vote-unlike-any-other",
-        "image": "https://www.bing.com/th?id=ONUT.6CpDrwvYDBK-dqvR0Kc5tQ",
-        "timestamp": 1792085959.1565373
-    },
-    {
-        "id": "a3f3fef025",
-        "title_fa": "ترامپ و نتانیاهو پیش از انتخابات به ایران حمله نمی‌کنند",
-        "title_en": "Trump and Netanyahu unlikely to strike Iran before elections, but Israel fears surprise attack",
-        "summary": [
-            "هر دو رهبر احتمال حمله نظامی به ایران را رد کردند",
-            "اسرائیل نگران حمله ناگهانی حریفان است"
-        ],
-        "impact": "تنش‌های منطقه‌ای ادامه دارد؛ برنامه‌ریزی نظامی ایران تحت فشار می‌ماند",
-        "tag": "نظامی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwelRvWW1kbjdZMFBjWUR5VE1mOWdocUQtRVdFMWpWX3NRdlctaU1xdEFtX0NMTUtaMVFsREEwR2VDWW5MQ3h4U3RXSFZ3ZmJ0VUhDN0Vn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwelRvWW1kbjdZMFBjWUR5VE1mOWdocUQtRVdFMWpWX3NRdlctaU1xdEFtX0NMTUtaMVFsREEwR2VDWW5MQ3h4U3RXSFZ3ZmJ0VUhDN0Vn",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792083869.0
-    },
-    {
-        "id": "9e6f1cce28",
-        "title_fa": "ایران با نفوذ در گروه‌های ضد‌سامی آمریکا",
-        "title_en": "Iran’s networking brings together American antisemites on the right and left",
-        "summary": [
-            "گزارش جدید نشان می‌دهد ایران شبکه‌ای برای جذب گروه‌های ضد‌سامی در آمریکا ساخته است.",
-            "این شبکه از هر دو جناح چپ و راست استفاده می‌کند تا تقسیم داخلی را عمیق‌تر کند.",
-            "افشای این کارها می‌تواند واکنش‌های سخت‌گیرانه‌ای در سیاست داخلی آمریکا برانگیزد."
-        ],
-        "impact": "افشای استفاده ایران از ضد‌سامی‌گری برای تضعیف همبستگی داخلی آمریکا.",
-        "tag": "اطلاعات",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "San Diego Jewish World",
-        "url": "https://www.sdjewishworld.com/2026/10/16/irans-networking-brings-together-american-antisemites-on-the-right-and-left/",
-        "clean_url": "https://www.sdjewishworld.com/2026/10/16/irans-networking-brings-together-american-antisemites-on-the-right-and-left",
-        "image": "http://www.bing.com/th?id=ONUT.Oke35gUeegHj-e9ieGkUew&pid=News",
-        "timestamp": 1792083660.0
-    },
-    {
-        "id": "7510f82197",
-        "title_fa": "داده‌ها نشان می‌دهد که ایران با وجود محاصره آمریکا، تحریم‌ها، توانسته است مقداری گاز و سوخت جت ارسال کند",
-        "title_en": "Iran manages to ship some gas, jet fuel despite US blockade, sanctions, data shows",
-        "summary": [
-            "Analysis by US advocacy group United Against Nuclear Iran (UANI), shows at least eight gas tankers carrying Iranian liquefied petroleum gas have left the Gulf of Oman since mid-July."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-manages-to-ship-some-gas-jet-fuel-despite-us-blockade-sanctions-data-shows/ar-AA2emKuU",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-manages-to-ship-some-gas-jet-fuel-despite-us-blockade-sanctions-data-shows/ar-AA2emKuU",
-        "image": "http://www.bing.com/th?id=ONUT.i0Zd7U7BLC02PX4Z6bu3AA&pid=News",
-        "timestamp": 1792083660.0
-    },
-    {
-        "id": "0ca85451c5",
-        "title_fa": "قابلیت تسلیح هورموز توسط ایران به شدت کاهش یافت",
-        "title_en": "Iran’s ability to weaponize Hormuz ‘significantly undermined’",
-        "summary": [
-            "صادرات نفت خاورمیانه به بالاترین سطح پیش از جنگ رسیده",
-            "حملات به تانکرها در هورموز افزایش یافته اما توان نظامی آمریکا مسیر نفت را حفظ کرده",
-            "موفقیت CENTCOM با ترکیبی از ناوش، اطلاعات و پاکسازی مین‌ها توانسته است توان تسلیح ایران را خنثی کند",
-            "ایران دیگر نمی‌تواند بازار انرژی را به‌عنوان سلاح سیاسی به کار گیرد"
-        ],
-        "impact": "قابلیت ایران برای فشار بر بازار انرژی جهانی به‌طور قابل توجهی تضعیف شد",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Jewish News Syndicate",
-        "url": "https://www.jns.org/analysis/irans-ability-to-weaponize-hormuz-significantly-undermined",
-        "clean_url": "https://www.jns.org/analysis/irans-ability-to-weaponize-hormuz-significantly-undermined",
-        "image": "http://www.bing.com/th?id=ONUT.RfOckEHNCjgThXuvuqbEpw&pid=News",
-        "timestamp": 1792083660.0
-    },
-    {
-        "id": "d42e20af4e",
-        "title_fa": "خطای صفحه وب؛ محتوای خبری ناموجود",
-        "title_en": "Ricketts should stand with farmers",
-        "summary": [
-            "صفحه‌ای که به نظر می‌رسد حاوی پیام سیاسی باشد، فقط خطای فنی نمایش می‌دهد",
-            "هیچ اطلاعاتی درباره رویداد یا شخصیت سیاسی در متن یافت نشد"
-        ],
-        "impact": "عدم وجود محتوا مانع تحلیل سیاسی می‌شود",
-        "tag": "فنی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Norfolk Daily News",
-        "url": "https://norfolkdailynews.com/commentary/ricketts-should-stand-with-farmers/article_24eb2362-aa68-4137-91a3-e01ae2ac4c5b.html",
-        "clean_url": "https://norfolkdailynews.com/commentary/ricketts-should-stand-with-farmers/article_24eb2362-aa68-4137-91a3-e01ae2ac4c5b.html",
-        "image": "https://www.bing.com/th?id=ONUT.39TRM7yUSHljwmnzjWE4Uw",
-        "timestamp": 1792083350.1095247
-    },
-    {
-        "id": "f0cde89a00",
-        "title_fa": "نتانیاهو دو هفته تا شروع جنگ جدید",
-        "title_en": "L’affannosa ricerca di Netanyahu di una nuova guerra",
-        "summary": [
-            "نتانیاهو زمان محدود برای راه‌اندازی عملیات نظامی جدید دارد",
-            "هدف احتمالی، تضعیف توان هسته‌ای یا موشکی ایران است"
-        ],
-        "impact": "احتمال گسترش درگیری نظامی در خاورمیانه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "InsideOver on MSN",
-        "url": "https://www.msn.com/it-it/notizie/other/l-affannosa-ricerca-di-netanyahu-di-una-nuova-guerra/ar-AA2ejNex?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/it-it/notizie/other/l-affannosa-ricerca-di-netanyahu-di-una-nuova-guerra/ar-AA2ejNex",
-        "image": "https://www.bing.com/th?id=ONUT.SpmQiGglhFRCIvcOpCygTg",
-        "timestamp": 1792083344.2004743
-    },
-    {
-        "id": "b3dedd921e",
-        "title_fa": "جایزه آزادی به نماینده اپوزیسیون ایران واگذار شد",
-        "title_en": "Friedrich Naumann Foundation’s Iran Award Raises Questions of Democratic Legitimacy",
-        "summary": [
-            "بنیاد نائومان جایزه را به رضا پهلوی سپرده",
-            "این اقدام مشروعیت‌طلبانه برای یک فرد بدون رأی‌گیری داخلی است"
-        ],
-        "impact": "تقویت ادعای سیاسی خارجی علیه جریان‌های داخلی ایران",
-        "tag": "اپوزیسیون",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Iran News Update",
-        "url": "https://irannewsupdate.com/news/exposing-reza-pahlavi-and-monarchist-current/friedrich-naumann-foundations-iran-award-raises-questions-of-democratic-legitimacy/",
-        "clean_url": "https://irannewsupdate.com/news/exposing-reza-pahlavi-and-monarchist-current/friedrich-naumann-foundations-iran-award-raises-questions-of-democratic-legitimacy",
-        "image": "https://www.bing.com/th?id=ONUT.ksvYmZvKGzKG6t5ar79v0w",
-        "timestamp": 1792083344.2000983
-    },
-    {
-        "id": "69d7f1d911",
-        "title_fa": "حمله هوثی‌ها به مقر عربستان، ضربه به نفت",
-        "title_en": "ENERGY WATCH: Boom and doom",
-        "summary": [
-            "هوثی‌ها پایگاه نفتی سعودی را هدف قرار دادند",
-            "حمله باعث نگرانی شرکت‌های جهانی انرژی شد"
-        ],
-        "impact": "کاهش تولید نفت سعودی و تشدید تنش‌های خاورمیانه",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/commentary/reuters-open-interest/energy-watch-boom-doom-2026-10-15/",
-        "clean_url": "https://www.reuters.com/commentary/reuters-open-interest/energy-watch-boom-doom-2026-10-15",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792083344.199012
-    },
-    {
-        "id": "56f76a318b",
-        "title_fa": "تحریم‌های جدید آمریکا علیه ایران منتشر شد",
-        "title_en": "US Issues Fresh Iran-Related Sanctions, Treasury Website Shows",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا سایتش تحریم‌های تازه علیه افراد و شرکت‌های مرتبط با برنامه هسته‌ای ایران را نشان داد",
-            "تحریم‌ها هدف قطع دسترسی به سیستم‌های مالی بین‌المللی و فشار بر اقتصاد ایران است",
-            "تهران احتمالاً با انتقاد و ادعای تجاوز به حاکمیت واکنش نشان خواهد داد"
-        ],
-        "impact": "تحریم‌ها دسترسی بانک‌های بین‌المللی به شرکت‌های ایرانی را مسدود می‌کند",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "GV Wire",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFp5ZDZxMXFRTUZ5NUtPYmI3Z29SYjJjQXgwQzh5NTFiMy1DUkJKbmJpZThBRmdjUDJMYmpEVzRobzgyZ081LTljZHNDeVZMQ2dUd2JNb1ZsVjFrR3BDODA3eVQ4SXZYQnRKQlUtc1BjR242ZktNY0lkUFRNcVJwQ2h4SGlRMWQzSDFiYnp5WFBaUjg4RHRV?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFp5ZDZxMXFRTUZ5NUtPYmI3Z29SYjJjQXgwQzh5NTFiMy1DUkJKbmJpZThBRmdjUDJMYmpEVzRobzgyZ081LTljZHNDeVZMQ2dUd2JNb1ZsVjFrR3BDODA3eVQ4SXZYQnRKQlUtc1BjR242ZktNY0lkUFRNcVJwQ2h4SGlRMWQzSDFiYnp5WFBaUjg4RHRV",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792082899.0
-    },
-    {
-        "id": "941d9f41db",
-        "title_fa": "خبر بین‌المللی — چگونه حوثی‌ها are helping ایران turn Saudi Arabia into a pr",
-        "title_en": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point",
-        "summary": [
-            "How the Houthis are helping Iran turn Saudi Arabia into a pressure point Reuters"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792080996.0
-    },
-    {
-        "id": "a0735a3387",
-        "title_fa": "دستگاه ارتش ایران: هورموز تا احترام به حقوق بسته می‌ماند",
-        "title_en": "Iran army chief says Hormuz to remain closed until Iran’s rights respected",
-        "summary": [
-            "فرمانده کل ارتش ایران اعلام کرد راه‌عبور هورموز تا زمانی که حقوق ایران در خلیج حفظ نشود، بسته می‌ماند",
-            "این تهدید می‌تواند ترافیک کشتی‌های تجاری و نفتی را به‌طور جدی مختل کند",
-            "FinCEN هشدار داد که شبکه‌های خیریه ایرانی برای انتقال پول به رژیم استفاده می‌شود",
-            "فشار مالی آمریکا می‌تواند منابع مالی نظامی ایران را محدود کند"
-        ],
-        "impact": "بسته شدن هورموز و فشار مالی می‌تواند ترافیک نفت خلیج فارس را به‌صورت جدی مختل کند",
-        "tag": "هورموز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610159542",
-        "clean_url": "https://www.iranintl.com/en/202610159542",
-        "image": "http://www.bing.com/th?id=ONUT.RjfrekQoYeggejWtt21pzQ&pid=News",
-        "timestamp": 1792080480.0
     }
 ]
