@@ -1,5 +1,100 @@
 [
     {
+        "id": "a421e6eb38",
+        "title_fa": "اقتصاد جنگی ایران؛ کاهش بارگیری نفت و افزایش هزینه حمل",
+        "title_en": "L'economia di guerra in Iran",
+        "summary": [
+            "در سپتامبر ایران نفت را بر روی کشتی‌های نفت‌بار در خلیج پرشین بارگیری نکرد",
+            "حجم حمل و نقل جهانی از طریق هرمز به ۱۱٫۲ میلیون بشکه روزانه بازگشت",
+            "هزینه حمل به آسیا نزدیک ۱۵۰ دلار شد، نشانگر ریسک بالای مسیر"
+        ],
+        "impact": "هزینه بالای نفت ایرانی فشار مالی بر اقتصاد کشور را تشدید می‌کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "mondoeconomico.eu",
+        "url": "https://mondoeconomico.eu/planisfero/l-economia-di-guerra-in-iran",
+        "clean_url": "https://mondoeconomico.eu/planisfero/l-economia-di-guerra-in-iran",
+        "image": "https://www.bing.com/th?id=ONUT.rLuIm79fkLUqLE0xxAdmFg",
+        "timestamp": 1792414982.8297327
+    },
+    {
+        "id": "f5d57ef647",
+        "title_fa": "تحلیل: اتحاد ایدئولوژیک اسلام‌گرایان با چپ‌گرایان",
+        "title_en": "Abdul El Sayed’s red-green suicide pact: Islamists always hang their leftist allies first",
+        "summary": [
+            "مقاله به بررسی تمایلات اتحاد میان اسلام‌گرایان و چپ‌گرایان می‌پردازد",
+            "نویسنده ادعا می‌کند این اتحاد برای سرکوب مخالفان به کار می‌رود",
+            "مثال‌های تاریخی و کنونی برای نشان دادن این روند آورده شده"
+        ],
+        "impact": "تشخیص این الگو می‌تواند به تحلیل‌گران کمک کند تا خطرات سیاسی ترکیبی را پیش‌بینی کنند",
+        "tag": "تحلیل",
+        "urgency": 2,
+        "sentiment": -0.6,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/abdul-el-sayed-s-red-green-suicide-pact-islamists-always-hang-their-leftist-allies-first/ar-AA2fzTyR?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/abdul-el-sayed-s-red-green-suicide-pact-islamists-always-hang-their-leftist-allies-first/ar-AA2fzTyR",
+        "image": "https://www.bing.com/th?id=ONUT.POs3kGpNYUo3dyqopD-k1w",
+        "timestamp": 1792414982.829368
+    },
+    {
+        "id": "8604f64ac5",
+        "title_fa": "منع ورود مردان به مسابقات فوتبال زنان ایران",
+        "title_en": "All Men Banned from Women’s Football Matches in Iran",
+        "summary": [
+            "سازمان لیگ فوتبال ایران منبعی صادر کرد که تمام مردان را از حضور در مسابقات زنان منع می‌کند",
+            "ممنوعیت شامل خبرنگاران، عکاسان، مربیان و مدیران باشگاه‌ها نیز می‌شود",
+            "تخلف منجر به ارجاع به دادگاه‌های فدراسیون می‌شود"
+        ],
+        "impact": "حضور مردان در ورزش زنان کاملاً قطع می‌شود و فشار بین‌المللی بر ایران افزایش می‌یابد",
+        "tag": "اجتماعی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "IranWire",
+        "url": "https://iranwire.com/en/features/159048-all-men-banned-from-womens-football-matches-in-iran/",
+        "clean_url": "https://iranwire.com/en/features/159048-all-men-banned-from-womens-football-matches-in-iran",
+        "image": "https://www.bing.com/th?id=ONUT.owFhSezXPrQuQHXpNllLFg",
+        "timestamp": 1792414982.8288023
+    },
+    {
+        "id": "add9fd8c74",
+        "title_fa": "آیا ترامپ می‌تواند دوباره با ایران توافق کند؟",
+        "title_en": "Can Trump and Iran ever reach a deal again?",
+        "summary": [
+            "تریتا پارسی سؤال می‌کند آیا امکان بازگشت مذاکرات بین ترامپ و ایران وجود دارد",
+            "او به موانع سیاسی و تحریم‌های جاری اشاره می‌کند",
+            "نتیجه‌گیری نشان می‌دهد احتمال توافق کم است مگر تغییرات اساسی در سیاست آمریکا"
+        ],
+        "impact": "عدم پیشرفت مذاکرات باعث ادامه تنش‌های اقتصادی و منطقه‌ای می‌شود",
+        "tag": "تحلیل",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Trita Parsi | Substack",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nZE41RUVYRk9tMlhwV3ZjTUZ3MmlyQ2I3SVQ4Q0VYVWRnVGlncHdtWFNieU5iZ1N4YmtFeEJ5LURtRzhvRTRwM1RSRVNGbElBbXhZT2gzUzNIZm5JdFZfNXJrSXg0eVlIZUd2M193NlhJcVVHS3R6Umt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nZE41RUVYRk9tMlhwV3ZjTUZ3MmlyQ2I3SVQ4Q0VYVWRnVGlncHdtWFNieU5iZ1N4YmtFeEJ5LURtRzhvRTRwM1RSRVNGbElBbXhZT2gzUzNIZm5JdFZfNXJrSXg0eVlIZUd2M193NlhJcVVHS3R6Umt3",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792413255.0
+    },
+    {
+        "id": "5c177eb682",
+        "title_fa": "حمله موشکی حوثی به اردوگاه نظامی یمن؛ ۳۰ کشته",
+        "title_en": "US-Iran War Live Updates: At least 30 killed, 70 injured as Houthi fire 3 ballistic missiles on Yemen military camp",
+        "summary": [
+            "حوثی‌ها سه موشک بالستیک به اردوگاه نظامی در یمن شلیک کردند",
+            "حداقل ۳۰ نفر کشته و ۷۰ نفر زخمی شدند",
+            "ایران برنامه هفت‌روزه‌ای برای بازگشت تنگه هرمز ارائه داد"
+        ],
+        "impact": "تلفات سنگین در یمن خطر تشدید جنگ منطقه‌ای را افزایش می‌دهد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-strait-of-hormuz-middle-east-conflict-saudi-egypt-gulf-oil-prices-israel-latest-news/liveblog/135036910.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-strait-of-hormuz-middle-east-conflict-saudi-egypt-gulf-oil-prices-israel-latest-news/liveblog/135036910.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135036910,width-1280,height-720,imgsize-30954,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1792412820.0
+    },
+    {
         "id": "0b7ff2dd09",
         "title_fa": "ترامپ: جنگ ایران به نتانیاهو می‌افتد",
         "title_en": "Trump's \"Kiss of death\": the blame for the war in Iran is laid on Netanyahu",
@@ -317,6 +412,25 @@
         "timestamp": 1792359711.2303805
     },
     {
+        "id": "5bfe1be738",
+        "title_fa": "لبنان خواست نماینده جدید ایران در بیروت منصوب شود",
+        "title_en": "Lebanon asked Iran to appoint new ambassador to Beirut, deputy PM says",
+        "summary": [
+            "لبنان رسماً از ایران خواست تا سفیر جدید به بیروت اعزام کند",
+            "درخواست برای جلوگیری از فرود هواپیماهای ایرانی در برابر تهدید اسرائیل است",
+            "مذاکرات هنوز در مرحله اولیه است و پیشرفت کمی دارد"
+        ],
+        "impact": "روابط دیپلماتیک ایران‑لبنان به تعویق می‌افتد و تنش‌های منطقه‌ای افزایش می‌یابد",
+        "tag": "دیپلماتیک",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610183237",
+        "clean_url": "https://www.iranintl.com/en/202610183237",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792358760.0
+    },
+    {
         "id": "f956ade3d7",
         "title_fa": "انتخابات ۲۰۲۶ اسرائیل؛ تفرقه و جداسازی عرب‌ها بدون گزینهٔ واقعی",
         "title_en": "Israel 2026: Fragmented, Divided, Segregated Election With Few Alternatives – OpEd",
@@ -391,6 +505,25 @@
         "clean_url": "https://www.iranintl.com/en/202610190545",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792353480.0
+    },
+    {
+        "id": "5b2d9a9676",
+        "title_fa": "آیزن‌کات: انتخاب نخست‌وزیر اسرائیل به عهده رای‌دهندگان است",
+        "title_en": "Eisenkot: Israeli voters, not Trump, will choose next PM, I tried to stop endorsement",
+        "summary": [
+            "گادی آیزن‌کات به حمایت ترامپ از نتانیاهو واکنش داد",
+            "او تأکید کرد که تصمیم نهایی برای نخست‌وزیر اسرائیل به رای‌دهندگان می‌رسد",
+            "آیزن‌کات سعی کرد حمایت آمریکا را محدود کند"
+        ],
+        "impact": "اظهارات آیزن‌کات ممکن است فشار داخلی بر نتانیاهو را کاهش دهد",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-says-israeli-voters-not-trump-will-choose-next-pm-says-he-tried-to-stop-endorsement/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-says-israeli-voters-not-trump-will-choose-next-pm-says-he-tried-to-stop-endorsement",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/F261018AVS424-640x400.jpg",
+        "timestamp": 1792352820.0
     },
     {
         "id": "6f5d39d751",
@@ -5430,136 +5563,5 @@
         "clean_url": "https://www.iranintl.com/en/202610159542",
         "image": "http://www.bing.com/th?id=ONUT.RjfrekQoYeggejWtt21pzQ&pid=News",
         "timestamp": 1792080480.0
-    },
-    {
-        "id": "d29b8268d5",
-        "title_fa": "خبر بین‌المللی — ترامپ says 'should have probably left' ایرانی leaders, negot",
-        "title_en": "Trump says 'should have probably left' Iranian leaders, negotiators beg to live",
-        "summary": [
-            "President Donald Trump says making peace with Iran and ending the IRGC terror in the Strait of Hormuz might have been easier if they did not remove layers of leaders, as the war now is being fought between Saudi Arabia and the Houthi terrorists elsewhere in the region."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/60698368954c38bc9d364988554c3f41.jpg",
-        "timestamp": 1792080480.0
-    },
-    {
-        "id": "2aefc5b2b1",
-        "title_fa": "بازداشت متهم حمله به وزیر پیشین",
-        "title_en": "Armed suspect arrested over alleged plot to kill ex-minister, reformists say",
-        "summary": [
-            "یک مرد مسلح پس از تولد خاتمی در کتابخانه ملی دستگیر شد",
-            "هدف او قتل وزیر راه‌ و ترابری عباس اخونقی بود؛ دیگر اهداف احتمالی هم مطرح شد",
-            "این دستگیری نشان می‌دهد تهدیدهای امنیتی علیه چهره‌های اصلاح‌طلبی در حال تشدید است"
-        ],
-        "impact": "افزایش هشدار امنیتی برای فعالان اصلاح‌طلب و احتمال محدود شدن تجمعات سیاسی",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610152920",
-        "clean_url": "https://www.iranintl.com/en/202610152920",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/fe7903e791e53c8696aacc1d3a7cf1aba13d1fcf-1284x1926.png?rect=0,751,1284,674&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1792080300.0
-    },
-    {
-        "id": "0dbab5f501",
-        "title_fa": "هشدار بسن‌ت: فشار مالی بر اقتصاد ایران",
-        "title_en": "Bessent says ‘noose is tightening’ around Iran’s economy",
-        "summary": [
-            "فین‌سن هشدار داد که نهادهای خیریه مذهبی می‌توانند توسط دولت ایران برای انتقال پول به شبکه‌های حلاله و پول نقد استفاده شوند",
-            "بسن‌ت گفت تحت رهبری ترامپ، وزارت خزانه‌داری اجازه نخواهد داد این سوءاستفاده ادامه یابد",
-            "این اقدام می‌تواند فشار مالی بر نخبگان حاکمیتی و تأمین مالی تروریسم را افزایش دهد"
-        ],
-        "impact": "افزایش نظارت بانکی، محدودیت جریان‌های مالی به ایران و فشار بیشتر بر اقتصاد تحت تحریم",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610157555",
-        "clean_url": "https://www.iranintl.com/en/202610157555",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792079520.0
-    },
-    {
-        "id": "68abaacfc5",
-        "title_fa": "کمبود موشک دفاعی آمریکا به‌دلیل جنگ ایران",
-        "title_en": "US Iran War News Live Updates: Iranian navy reports oil tanker on fire near Strait of Hormuz",
-        "summary": [
-            "گزارش‌های CBS نشان می‌دهد کمبود موشک THAAD و Patriot به‌دلیل مصرف در اوکراین و اسرائیل، ذخایر آمریکا را تا 2030 تهدید می‌کند",
-            "جنگ ایران‑آمریکا به‌سرعت این کمبود را تشدید می‌کند و توان دفاعی آمریکا در خلیج فارس را تحت فشار می‌گذارد",
-            "کمبود ممکن است باعث تغییر استراتژی‌های نظامی آمریکا در منطقه شود"
-        ],
-        "impact": "کاهش موشک‌های دفاعی می‌تواند فرصت‌های عملیاتی ایران را در خلیج افزایش دهد",
-        "tag": "دفاع",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-hormuz-ship-attacks-talks-oil-prices-israel-latest-news/liveblog/134955894.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-hormuz-ship-attacks-talks-oil-prices-israel-latest-news/liveblog/134955894.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134955894,width-1280,height-720,imgsize-475536,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1792077720.0
-    },
-    {
-        "id": "ec4b4e2917",
-        "title_fa": "هشدار مالی آمریکا بر شبکه‌های خیریه دینی ایران",
-        "title_en": "US alert puts Iran’s overseas religious finance networks under scrutiny",
-        "summary": [
-            "فین‌سن بانک آمریکا موسسات مالی را به گزارش سوءاستفاده از خیریه‌های دینی ایرانی فراخوانده است",
-            "ادعا می‌شود این شبکه‌ها بخشی از مالیات خمس را جمع‌آوری و از طریق حواله‌های حلال و پیک‌های نقدی به رژیم می‌فرستند",
-            "این اقدام می‌تواند فشار مالی جدیدی بر منابع خارجی ایران ایجاد کند"
-        ],
-        "impact": "ممکن است حساب‌های بین‌المللی مرتبط با خیریه‌های دینی تحت نظارت شدید قرار گیرند",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610157665",
-        "clean_url": "https://www.iranintl.com/en/202610157665",
-        "image": "http://www.bing.com/th?id=ONUT.AxWiUHv1yxvKFEUIOhSHcw&pid=News",
-        "timestamp": 1792077600.0
-    },
-    {
-        "id": "bb3ad0ccea",
-        "title_fa": "هشدار فین‌سن: سوءاستفاده مالی از خیریه‌های ایرانی",
-        "title_en": "Iran speaker says government overstepped on anti-terror finance rules",
-        "summary": [
-            "فین‌سن هشدار داد شبکه‌های خیریهٔ مذهبی می‌توانند برای انتقال پول به ایران استفاده شوند.",
-            "سازمان خزانه‌داری آمریکا می‌گوید این جریان‌ها ممکن است به تأمین مالی تروریسم منجر شود.",
-            "اسکات بسن‌نت، وزیر خزانه‌داری، تحت رهبری ترامپ قول داد این سوءاستفاده‌ها را متوقف کند.",
-            "شناسایی پرچم‌های قرمز شامل دریافت کمک‌های بزرگ بدون فعالیت واضح و استفاده از شبکه‌های حواله‌ای است."
-        ],
-        "impact": "تقویت نظارت مالی آمریکا بر جریان‌های مالی ایران، احتمال مسدودسازی حساب‌های مرتبط.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610164168",
-        "clean_url": "https://www.iranintl.com/en/202610164168",
-        "image": "http://www.bing.com/th?id=ONUT.HYpukZXLKymrrsYuf6_5Bw&pid=News",
-        "timestamp": 1792075380.0
-    },
-    {
-        "id": "693212ca0b",
-        "title_fa": "انتخابات میانی آمریکا حمایت از اسرائیل را تحت فشار می‌گذارد",
-        "title_en": "US midterms could reshape support for Israel as anti-Israel sentiment grows among voters",
-        "summary": [
-            "روندهای ضد‑اسرائیلی در میان رای‌دهندگان میانی می‌تواند موضع دولت آمریکا نسبت به اسرائیل را تغییر دهد.",
-            "نتیجه انتخابات می‌تواند مسیر سیاست خارجی آمریکا در خاورمیانه را به سمت دیپلماسی سختگیرانه‌تر یا نرم‌تری سوق دهد."
-        ],
-        "impact": "تغییر سیاست خارجی آمریکا نسبت به خاورمیانه و احتمال کاهش حمایت مالی از اسرائیل",
-        "tag": "انتخابات",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/politics/government/us-midterms-could-reshape-support-for-israel-as-anti-israel-sentiment-grows-among-voters/ar-AA2ejzAs",
-        "clean_url": "https://www.msn.com/en-us/politics/government/us-midterms-could-reshape-support-for-israel-as-anti-israel-sentiment-grows-among-voters/ar-AA2ejzAs",
-        "image": "http://www.bing.com/th?id=ONUT.puT2B8DXpbYBgIn4-kU2ig&pid=News",
-        "timestamp": 1792074310.0
     }
 ]
