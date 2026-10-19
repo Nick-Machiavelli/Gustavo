@@ -1,5 +1,62 @@
 [
     {
+        "id": "27ebaa8ab7",
+        "title_fa": "لارسن بر دسترسی‌پذیری و حسابرسی دولت ترامپ تأکید کرد",
+        "title_en": "Larsen outlines priorities on affordability, infrastructure and Trump administration accountability in recent interview",
+        "summary": [
+            "لارسن می‌گوید قیمت مسکن و هزینه‌های انرژی باید از طریق سیاست‌های فدرال کاهش یابد",
+            "او خواستار بررسی دقیق اقدام‌ها دولت ترامپ در زمینه تجارت و مالیات است"
+        ],
+        "impact": "فشار بر قانونگذاران برای افزایش سرمایه‌گذاری فدرال در زیرساخت‌ها",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "Lynnwood Times",
+        "url": "https://lynnwoodtimes.com/2026/10/19/larsen-interview-10192026/",
+        "clean_url": "https://lynnwoodtimes.com/2026/10/19/larsen-interview-10192026",
+        "image": "https://www.bing.com/th?id=ONUT.meIWLu9jXhkmwcdsYeh9lQ",
+        "timestamp": 1792446106.049707
+    },
+    {
+        "id": "53be8364d7",
+        "title_fa": "تهاجم به ایران، بزرگ‌ترین اشتباه نظامی آمریکا",
+        "title_en": "Why Invading Iran Could Become America's Biggest Military Mistake",
+        "summary": [
+            "ایران با جمعیت ۹۰ میلیون نفر و ارتش حرفه‌ای، مقاومت سنگینی در برابر نیروهای خارجی دارد",
+            "زمین‌های کوهستانی و بیابانی خاورمیانه برای جنگ چریکی مناسب‌اند و می‌توانند نیروهای مهاجم را خسته کنند",
+            "هزینه انسانی و مالی یک حمله مستقیم به خلیج فارس یا جزیره خارگ، برای آمریکا غیرقابل تحمل است",
+            "عواقب سیاسی چنین عملی می‌تواند روابط آمریکا را در خاورمیانه به‌طور کلی خراب کند"
+        ],
+        "impact": "آسیب‌پذیری شدید استراتژیک و هزینه‌های مالی خنک‌کننده برای ایالات متحده",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-Invading-Iran-Could-Become-Americas-Biggest-Military-Mistake.html",
+        "clean_url": "https://oilprice.com/Energy/Energy-General/Why-Invading-Iran-Could-Become-Americas-Biggest-Military-Mistake.html",
+        "image": "https://www.bing.com/th?id=ONUT.xSVZ7T6aafvTHBQbB4aq5Q",
+        "timestamp": 1792446106.0475636
+    },
+    {
+        "id": "8c1d34dcb6",
+        "title_fa": "جنگ ایران، برنامه‌های سعودی را به‌هم ریخت",
+        "title_en": "How the Iran war is ruining Saudi Arabia’s plans",
+        "summary": [
+            "جنگ در خاورمیانه باعث شد طرح‌های اقتصادی و امنیتی عربستان به تعویق بیفتد",
+            "سعودی‌ها به دنبال یافتن راه‌حل‌های جایگزین برای سرمایه‌گذاری‌های خود هستند",
+            "تنش‌های منطقه‌ای می‌تواند جریان نفت را تحت فشار قرار دهد"
+        ],
+        "impact": "تاخیر در پروژه‌های سرمایه‌گذاری سعودی و نوسان قیمت نفت",
+        "tag": "سیاست خاورمیانه",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Vox",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2I2bWZkUTFFRDVvUHYwU0dLS2otVkN3QUVsV3dOMXVvcm42azIzemxjTExOd0ZxTDdTVGN4NVN1bGRrelk5OVo2Tzc4T3lqTUdtalBGX1ZvQmlMUWNTdjV4WjlsQWNCNE40ejRZQThTWUhiNXBoQnhJVzVtUVBtM2NzcjZnZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2I2bWZkUTFFRDVvUHYwU0dLS2otVkN3QUVsV3dOMXVvcm42azIzemxjTExOd0ZxTDdTVGN4NVN1bGRrelk5OVo2Tzc4T3lqTUdtalBGX1ZvQmlMUWNTdjV4WjlsQWNCNE40ejRZQThTWUhiNXBoQnhJVzVtUVBtM2NzcjZnZw",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792443600.0
+    },
+    {
         "id": "cf352828c7",
         "title_fa": "ایران با حملات موشکی به هورموز، قیمت نفت می‌جهد",
         "title_en": "Iran Just Pulled Off a Strategic Master Stroke in the Strait of Hormuz — and Donald Trump’s Dream of Low Oil Prices is Gone",
@@ -17,6 +74,25 @@
         "clean_url": "https://nationalsecurityjournal.org/iran-just-pulled-off-a-strategic-master-stroke-in-the-strait-of-hormuz-and-donald-trumps-dream-of-low-oil-prices-is-gone",
         "image": "https://www.bing.com/th?id=ONUT.T81nmGh0KSD6kNTPlU_OeQ",
         "timestamp": 1792437453.4569833
+    },
+    {
+        "id": "5dc6804838",
+        "title_fa": "ترامپ نیتن‌یاهو را حمایت کرد؛ آلمان به ایران هشدار داد",
+        "title_en": "Trump endorses Netanyahu ahead of vote; Germany warns Iran over threats to Europe TV7 Israel 19 Oct.",
+        "summary": [
+            "ترامپ در پیش از انتخابات اسرائیل، نیتن‌یاهو را به‌عنوان گزینهٔ اصلی معرفی کرد",
+            "آلمان هشدار داد تهدیدات ایران به امنیت اروپا باید جدی گرفته شود",
+            "این دو پیام نشان‌دهندهٔ تنش‌های سیاسی بین‌المللی در هفتهٔ جاری است"
+        ],
+        "impact": "تقویت موضع اسرائیل در انتخابات و افزایش فشار دیپلماتیک بر ایران",
+        "tag": "سیاست بین‌الملل",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "TV7 Israel News",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HRGJQMUhUWmR2a3NQWkFyMzkyTEtNYUJRVEtqX3F5eFVIQlNPcnZsald0ZllHUTQxSHJMMDJVLWQ4d0pGSkRMVkJ3U3l6RzJFNXJadDJnMVRrenkyVnFHWllueUhmWWVoLTFpRWxzV2VIakd5QXhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HRGJQMUhUWmR2a3NQWkFyMzkyTEtNYUJRVEtqX3F5eFVIQlNPcnZsald0ZllHUTQxSHJMMDJVLWQ4d0pGSkRMVkJ3U3l6RzJFNXJadDJnMVRrenkyVnFHWllueUhmWWVoLTFpRWxzV2VIakd5QXhn",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792433182.0
     },
     {
         "id": "bab7d01312",
@@ -111,6 +187,44 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZQTG5MYW5mNnVRTlZMenMzal82djYwWkszRHRUVlpWNkNvTThoRVk4ZjlpWVM2R2ZJM2UycUg2MFRiUS1ndnlqZ1dIVkN0V3NmM3owV2R4QjlDS2NNbGtiZmdIOTZHVUtpc0g1bjZ3Nk10SUc0R1pnLUgtS1pnYkJkVEkwZ0VUcnAyaUpCLTZ1dEFYQkFIWHNtSFJpR28",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792426280.0
+    },
+    {
+        "id": "66de8ad956",
+        "title_fa": "هزینه‌های جنگ ایران، مخالفان را ناامید کرد",
+        "title_en": "Iran's enemies disappointed by war costs, says MakhberPublished on: October 19, 2026 8:57 PM",
+        "summary": [
+            "مشاور رهبری می‌گوید هزینه‌های سنگین جنگ باعث شد مخالفان ایران از ادامه درگیری دست بکشند",
+            "آمریکا، اروپا و دیگر کشورهای مخالف به‌نظر می‌رسد که از ادامه هزینه‌ها خسته شده‌اند",
+            "کاهش حمایت خارجی می‌تواند فشار اقتصادی بر ایران را بیشتر کند"
+        ],
+        "impact": "کاهش حمایت مالی و نظامی خارجی برای ایران",
+        "tag": "جنگ",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Daily Times on MSN",
+        "url": "https://www.msn.com/en-xl/asia/pakistan/irans-enemies-disappointed-by-war-costs-says-makhberpublished-on-october-19-2026-857-pm/ar-AA2fA7rA",
+        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/irans-enemies-disappointed-by-war-costs-says-makhberpublished-on-october-19-2026-857-pm/ar-AA2fA7rA",
+        "image": "http://www.bing.com/th?id=ONUT.bXa-EWs2cW5sMxbCCo-iNg&pid=News",
+        "timestamp": 1792420020.0
+    },
+    {
+        "id": "0f92294aab",
+        "title_fa": "اوکراین تجارت خزر را تهدید می‌کند",
+        "title_en": "Iran accuses Ukraine of threatening Caspian trade with Russia",
+        "summary": [
+            "آفریقای شمالی می‌گوید اقدام‌ها اوکراین می‌تواند مسیر حمل‌ونقل غله‌های روسیه را مختل کند",
+            "ایران این تحولات را تهدیدی برای امنیت غذایی منطقه می‌داند",
+            "اگر تنش‌ها ادامه یابد، صادرات غله از خزر به‌طور قابل‌توجهی کاهش می‌یابد"
+        ],
+        "impact": "کاهش صادرات غله و تشدید تنش‌های تجاری در خزر",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610195368",
+        "clean_url": "https://www.iranintl.com/en/202610195368",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792419900.0
     },
     {
         "id": "a421e6eb38",
@@ -5460,118 +5574,5 @@
         "clean_url": "https://www.ynetnews.com/opinions-analysis/article/h1cvyqcjgg",
         "image": "https://www.bing.com/th?id=ONUT.zSP06k2VQDm1lG_haxulTA",
         "timestamp": 1792105386.6922045
-    },
-    {
-        "id": "e60dcc4bbc",
-        "title_fa": "آسیب‌پذیری تأسیسات انرژی ایران در هدف بمب‌گذاری آمریکا",
-        "title_en": "'Mother of All Bombs': Iran Energy Sites Could Be Targeted by Major United States' Blast",
-        "summary": [
-            "«مادر تمام بمب‌ها» به معنای سلاح‌های نوین است که هدف‌گیری تأسیسات انرژی ایران را نشان می‌دهد",
-            "چنین حمله‌ای می‌تواند زیرساخت‌های نفت و گاز را به‌صورت کامل از کار بیندازد",
-            "واکنش ایران ممکن است به گسترش جنگ منطقه‌ای منجر شود",
-            "پیام آمریکا این است که هرگونه ادامه برنامه هسته‌ای یا حمایت از گروه‌های مسلح، هزینه سنگینی دارد"
-        ],
-        "impact": "حمله هوایی گسترده می‌تواند تولید انرژی ایران را به‌طور کامل متوقف کند",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Military.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM29pRE1yWVpvUVJVZFVaRTlMeE5jQm9VR25xZk04Vkt6NUxtRzl1T0k5dWUzQjVWRHQ3Zm1oUm14dGZaSmg0REZzVjJGZ3doZjNSbUVmU2NQc200aWNwZHhqaTFfc0hNMncyVDROQWduMF8xMV82M0VXVmFsWDNmSXNQSTBwMVg1T3ZaTFNLd3J1eWlIN0F3OFQtZVgwdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM29pRE1yWVpvUVJVZFVaRTlMeE5jQm9VR25xZk04Vkt6NUxtRzl1T0k5dWUzQjVWRHQ3Zm1oUm14dGZaSmg0REZzVjJGZ3doZjNSbUVmU2NQc200aWNwZHhqaTFfc0hNMncyVDROQWduMF8xMV82M0VXVmFsWDNmSXNQSTBwMVg1T3ZaTFNLd3J1eWlIN0F3OFQtZVgwdw",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792105325.0
-    },
-    {
-        "id": "9f6440f62b",
-        "title_fa": "گزارش آمینستی: قتل‌های گسترده توسط نیروهای امنیتی ایران",
-        "title_en": "Video:Norwegian teen gets 20-year sentence in UK murder plot linked to Iran",
-        "summary": [
-            "آمینستی مستند کرد حداقل ۳۷۷ کشته بین سپتامبر ۲۰۲۲ و اوایل ۲۰۲۳",
-            "بیش از نیمی از این کشته‌ها در دو هفته اول اعتراضات رخ داد",
-            "خانواده‌های کشته‌شدگان با تهدیدهای شدید برای سکوت مجبور شدند"
-        ],
-        "impact": "افزایش فشار بین‌المللی بر رژیم و احتمال اعمال تحریم‌های جدید حقوق بشر",
-        "tag": "حقوق بشر",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610161488",
-        "clean_url": "https://www.iranintl.com/en/202610161488",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1792100945.0
-    },
-    {
-        "id": "f44fa7867a",
-        "title_fa": "ایران زیرزمینی موشکی را بازسازی می‌کند؛ حزب‌الله آماده جنگ",
-        "title_en": "Iran Races to Rebuild Underground Missile Arsenal as Hezbollah Told to Prepare for ‘Imminent’ War",
-        "summary": [
-            "گزارش‌ها نشان می‌دهد ایران به سرعت زیرساخت‌های مخفی موشکی خود را پس از حملات اخیر بازسازی می‌کند",
-            "حزب‌الله لبنان دستور دریافت موشک‌های جدید و آمادگی برای جنگی «فوری» را دریافت کرده است",
-            "این حرکت نشانگر ادامه استراتژی نیابتی ایران در مقابل اسرائیل است",
-            "احتمال استفاده از این سلاح‌ها در درگیری‌های آینده منطقه‌ای افزایش یافته است"
-        ],
-        "impact": "تقویت مخزن موشکی زیرزمینی می‌تواند توان پاسخ‌گویی ایران به حملات هوایی را به‌طور قابل‌توجهی ارتقا دهد",
-        "tag": "موشکی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Algemeiner.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDBlY0ZYVG5OM2UzWUIwYi1MUk82aUI0SG5sUU5TOVExdDNVaGtLUEdDX2d6cUpRcWFMQjluT3ZHLWI5WFNhZkx5WDV1VnhvV0k5X0hXZzZ6RlJLNGlUMmtGWG16cVlwSzNtcUtfVWFTMXo3UW5nTlluenZnX2hvUmVCNTlCa1E2V0s2M1ZtQ0l4aDJCTy1yMXhUdjVRc09iRlhDSm0xQVVtQ2c5c1RFVHBIaFZsdjk1Tzh0aEln?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDBlY0ZYVG5OM2UzWUIwYi1MUk82aUI0SG5sUU5TOVExdDNVaGtLUEdDX2d6cUpRcWFMQjluT3ZHLWI5WFNhZkx5WDV1VnhvV0k5X0hXZzZ6RlJLNGlUMmtGWG16cVlwSzNtcUtfVWFTMXo3UW5nTlluenZnX2hvUmVCNTlCa1E2V0s2M1ZtQ0l4aDJCTy1yMXhUdjVRc09iRlhDSm0xQVVtQ2c5c1RFVHBIaFZsdjk1Tzh0aEln",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792099200.0
-    },
-    {
-        "id": "be2ff71ab1",
-        "title_fa": "معامله نفتی بزرگ، خاموشی در ونزوئلا",
-        "title_en": "The ‘Biggest Oil Deal in History’ Is Turning Off the Lights in Venezuela",
-        "summary": [
-            "توافقی بین دولت موقت ونزوئلا و ایالات متحده برای استخراج ۱۷ میدان نفتی به ارزش ۱۰۰ میلیارد دلار اعلام شد.",
-            "با این حال، خاموشی‌های گسترده در کشور نشان می‌دهد که سود این معامله هنوز به مردم نرسیده است."
-        ],
-        "impact": "وابستگی ونزوئلا به سرمایه‌گذاری آمریکایی و بحران انرژی داخلی",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Venezuelanalysis",
-        "url": "https://venezuelanalysis.com/opinion/the-biggest-oil-deal-in-history-is-turning-off-the-lights-in-venezuela/",
-        "clean_url": "https://venezuelanalysis.com/opinion/the-biggest-oil-deal-in-history-is-turning-off-the-lights-in-venezuela",
-        "image": "https://www.bing.com/th?id=ONUT.hBghPxPALkdAokRpoJc-zQ",
-        "timestamp": 1792098221.297039
-    },
-    {
-        "id": "8847bbbdd3",
-        "title_fa": "تحلیل‌گر جمهوری‌خواه نقد طرح دیزل روسی ترامپ",
-        "title_en": "GOP analyst comes unglued over nonsensical Trump 'blood money' plan: 'Nefarious!'",
-        "summary": [
-            "مارک شورت، تحلیل‌گر GOP، طرح ترامپ برای خرید دیزل روسی را «نقود خون» نامید و به عدم تأثیر اقتصادی آن اشاره کرد.",
-            "او هشدار داد که این سیاست می‌تواند به تقویت توان نظامی روسیه و ایران منجر شود."
-        ],
-        "impact": "فشار داخلی بر سیاست انرژی ترامپ و تضعیف حمایت‌های انتخاباتی",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/marc-short-2678091986/",
-        "clean_url": "https://www.rawstory.com/marc-short-2678091986",
-        "image": "https://www.bing.com/th?id=ONUT.IVo4xnmeD3g9saGIh8rOkw",
-        "timestamp": 1792098221.2964776
-    },
-    {
-        "id": "e9338fe816",
-        "title_fa": "گزارش جدید مؤسسه خاورمیانه: پس از جنگ ایران",
-        "title_en": "MEI Report Launch | The Middle East Beyond the Iran War",
-        "summary": [
-            "MEI گزارش جدیدی منتشر کرد که به بررسی تحولات خاورمیانه پس از جنگ ایران می‌پردازد.",
-            "این تحلیل می‌تواند برای تصمیم‌گیرندگان منطقه‌ای و بین‌المللی راهنمایی‌های مهمی فراهم کند."
-        ],
-        "impact": "شکل‌گیری تحلیل‌های جدید برای سیاست‌گذاران منطقه‌ای",
-        "tag": "تحلیل",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Middle East Institute",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZW1YTTF6TzIwQUFUMVBXU0JmMkVTdDloZlptRnNidmozRVJOZVNTb3BvNnl2SDJfLU9mMUFHQV9CX2tfMjhZSmVaMlQycFlpeU9BbFRabE5rZkdiU0dISHExeGc0V1BCU0dlSVBUeENtYkNVU2x1SmZNWTU1UEVSWm9Ibw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZW1YTTF6TzIwQUFUMVBXU0JmMkVTdDloZlptRnNidmozRVJOZVNTb3BvNnl2SDJfLU9mMUFHQV9CX2tfMjhZSmVaMlQycFlpeU9BbFRabE5rZkdiU0dISHExeGc0V1BCU0dlSVBUeENtYkNVU2x1SmZNWTU1UEVSWm9Ibw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792097772.0
     }
 ]
