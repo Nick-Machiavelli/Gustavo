@@ -316,6 +316,25 @@
         "timestamp": 1792340940.0
     },
     {
+        "id": "61cc19bc3d",
+        "title_fa": "ترامپ رد کرد پیشنهاد ایران برای بازگشایی هورموز",
+        "title_en": "Trump has a choice to make: Iran says Strait of Hormuz can be opened in less than a week if he will take deal on the table",
+        "summary": [
+            "ایران می‌گوید می‌تواند راه‌دریا را در کمتر از یک هفته باز کند، مشروط بر رفع تحریم‌ها و رفع محاصره ناوگان آمریکا.",
+            "پیشنهاد به‌سرعت رد شد؛ ترامپ تاکنون هیچ اطمینانی برای کاهش فشارهای اقتصادی به ایران نشان نداده.",
+            "اگر تحریم‌ها ادامه یابد، خطر اختلال در عبور ۲۲٪ نفت جهان از هورموز افزایش می‌یابد."
+        ],
+        "impact": "تحریم‌های ادامه‌دار می‌تواند هزینه‌های حمل‌ونقل نفتی را بالا برده و فشار اقتصادی بر خاورمیانه را تشدید کند",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-has-a-choice-to-make-iran-says-strait-of-hormuz-can-be-opened-in-less-than-a-week-if-he-will-take-deal-on-the-table/ar-AA2evF4a",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-has-a-choice-to-make-iran-says-strait-of-hormuz-can-be-opened-in-less-than-a-week-if-he-will-take-deal-on-the-table/ar-AA2evF4a",
+        "image": "http://www.bing.com/th?id=ONUT.D_3j7me-R58pwbLolhfdZw&pid=News",
+        "timestamp": 1792340818.0
+    },
+    {
         "id": "c704d5c182",
         "title_fa": "ایران از آمریکا خواستار پذیرش توافق هفت روزه شد",
         "title_en": "Iran urges United States to accept 7-day deal",
@@ -461,6 +480,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcnBqMUFFX1cyREwxckpUbVNRS0FRcUhUS2dlMU1xWnZmWXFKR01HbFZqaHBhYTlJRk9Rb2kzN1FrbmNVbTRFVmViNFFtOVBRWkdXQWVXZkpyWEFfcGc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792324405.0
+    },
+    {
+        "id": "9e9d6f6100",
+        "title_fa": "ایران دشمن آمریکا؛ اسرائیل هم‌پیمان",
+        "title_en": "Israel, Iran and the moral clarity Abdul El-Sayed owes Michigan | Thompson",
+        "summary": [
+            "نویسنده به‌وضوح ایران را به‌عنوان دشمن سرسخت آمریکا معرفی می‌کند و اسرائیل را هم‌پیمان استراتژیک می‌داند.",
+            "این تقسیم‌بندی ساده‌سازی شده، فضای دیپلماتیک را به دو قطب واضح می‌کشد و امکان گفت‌وگوی میان‌المللی را محدود می‌کند.",
+            "بیان این موضع می‌تواند حمایت عمومی آمریکا از اسرائیل را تقویت کند و فشار بر سیاست‌های هسته‌ای ایران را افزایش دهد."
+        ],
+        "impact": "تقویت روایت دو‑قطبی می‌تواند فشار بین‌المللی بر ایران را بالا برده و حمایت از اسرائیل را در داخل آمریکا تثبیت کند",
+        "tag": "روابط‌بین‌الملل",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "Belleville News-Democrat",
+        "url": "https://www.bnd.com/news/nation-world/national/article317676992.html",
+        "clean_url": "https://www.bnd.com/news/nation-world/national/article317676992.html",
+        "image": "http://www.bing.com/th?id=ONUT.cCXqEOz8Twt2okU8OG7lMQ&pid=News",
+        "timestamp": 1792321680.0
     },
     {
         "id": "53881be80f",
@@ -5532,42 +5570,5 @@
         "clean_url": "https://www.iranintl.com/en/202610150695",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792049040.0
-    },
-    {
-        "id": "ab751a9b50",
-        "title_fa": "اقتصاد ایران در برابر تحریم‌ها می‌جنگد",
-        "title_en": "Iran touts economic resilience while households struggle to afford basics",
-        "summary": [
-            "بانک مرکزی می‌گوید اقتصاد سقوط نکرده",
-            "رسانه‌ها گزارش می‌دهند دستمزدها کافی نیست",
-            "IMF پیش‌بینی می‌کند اقتصاد ۷.۶٪ در ۲۰۲۶ کاهش یابد",
-            "بانک سعی دارد تورم را مهار کند"
-        ],
-        "impact": "کاهش قدرت خرید خانوار و فشار بر سیاست‌های مالی",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610161883",
-        "clean_url": "https://www.iranintl.com/en/202610161883",
-        "image": "http://www.bing.com/th?id=ONUT.ko4xMEgmPd733-A60sk4VA&pid=News",
-        "timestamp": 1792048920.0
-    },
-    {
-        "id": "6ec9a6a034",
-        "title_fa": "دونالد ترامپ",
-        "title_en": "Donald Trump",
-        "summary": [
-            "Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says Ukraine's resumption of strikes on Russian refineries is a 'disgrace' that keeps global energy prices elevated, US..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/us/donald-trump/",
-        "clean_url": "https://www.reuters.com/world/us/donald-trump",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792047900.0
     }
 ]
