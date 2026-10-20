@@ -1,5 +1,24 @@
 [
     {
+        "id": "4af449716a",
+        "title_fa": "دسته‌گردان قطری به تهران رسید؛ نتانیاهو هدف‌گذاری شد",
+        "title_en": "Qatari delegation arrives in Tehran after Pakistani army chief’s visit",
+        "summary": [
+            "دسته‌گردان قطری پس از بازدید سرهنگ ارتش پاکستان به تهران آمد",
+            "نتانیاهو در سخنرانی‌اش هدف حذف رهبری ایران را اعلام کرد و گفت با ترامپ درباره‌اش صحبت کرده",
+            "بیان نتانیاهو فشار دیپلماتیک آمریکا و اسرائیل را بر ایران نشان می‌دهد"
+        ],
+        "impact": "تنش‌های دیپلماتیک بین ایران، آمریکا و اسرائیل تشدید شد؛ احتمال اقدام‌ها فشار بیشتر",
+        "tag": "سیاست",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610202272",
+        "clean_url": "https://www.iranintl.com/en/202610202272",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792526023.6370034
+    },
+    {
         "id": "098259f161",
         "title_fa": "نظر ترامپ: تصمیم او سبب کاهش حقوق شماست",
         "title_en": "One single Trump decision is the direct cause of your shrinking paycheck | Opinion",
@@ -89,6 +108,23 @@
         "clean_url": "https://tass.com/world/2204919",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261020/1490465.jpg",
         "timestamp": 1792519800.0
+    },
+    {
+        "id": "97e68b0f24",
+        "title_fa": "علیرغم ترس از انتخابات، آمریکا و اسرائیل موافقند: بیایید دوباره به ایران حمله کنیم",
+        "title_en": "Despite election fears, US and Israel agree: let’s attack Iran again",
+        "summary": [
+            "Despite election fears, US and Israel agree: let’s attack Iran again The Times"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Times",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEkxc2tXRlNCeE5faE9EalloUGxNZ2s2bWthemNyRHV0WXY5Z1h4T19tdzVXdmVFeUpkV0xyRVktYXp2VFFEak9FTWQ2aEhqSzVKR2VyeXBKenpaZlQtNmN4Z0d4d2JzaldYWW14VXduWmVZeWlGYW1iMklya0VnR1hfTFhxV1NPZTFkbkFRRkszbXJsYm9YSGk2aVBHU2RRbWc4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEkxc2tXRlNCeE5faE9EalloUGxNZ2s2bWthemNyRHV0WXY5Z1h4T19tdzVXdmVFeUpkV0xyRVktYXp2VFFEak9FTWQ2aEhqSzVKR2VyeXBKenpaZlQtNmN4Z0d4d2JzaldYWW14VXduWmVZeWlGYW1iMklya0VnR1hfTFhxV1NPZTFkbkFRRkszbXJsYm9YSGk2aVBHU2RRbWc4",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792519575.0
     },
     {
         "id": "33cd50e2de",
@@ -526,6 +562,24 @@
         "clean_url": "https://finance.yahoo.com/economy/policy/articles/bessent-tightens-screws-irans-banks-171722077.html",
         "image": "https://s.yimg.com/lo/mysterio/api/3ed5f8f6bb7aae40a4a5888b9b507a09b5d94ee28a1194b811479ac0183a1fd8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F456e08f784d2739ba9d7a9802f7b7afd.jpg",
         "timestamp": 1792491420.0
+    },
+    {
+        "id": "7f1686d2a5",
+        "title_fa": "نروژ پنج ملک روسیه را به نافتوگاز واگذار کرد",
+        "title_en": "Norwegian court confiscates five Russian real estate properties in Oslo — paper",
+        "summary": [
+            "دادگاه نروژ 57 میلیارد کرون نروژی طلب نافتوگاز اوکراین را به نفع آن تصویب کرد",
+            "املاک شامل ساختمان آپارتمانی در فروگرن و چند کوآپراتیو مسکونی است"
+        ],
+        "impact": "سرمایه‌گذاری روسیه در نروژ کاهش یافت و فشار اقتصادی بر مسکو افزاش یافت",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/society/2204885",
+        "clean_url": "https://tass.com/society/2204885",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792490520.0
     },
     {
         "id": "f4d135fbc6",
@@ -1263,6 +1317,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2I2bWZkUTFFRDVvUHYwU0dLS2otVkN3QUVsV3dOMXVvcm42azIzemxjTExOd0ZxTDdTVGN4NVN1bGRrelk5OVo2Tzc4T3lqTUdtalBGX1ZvQmlMUWNTdjV4WjlsQWNCNE40ejRZQThTWUhiNXBoQnhJVzVtUVBtM2NzcjZnZw",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792443600.0
+    },
+    {
+        "id": "52f0c04bae",
+        "title_fa": "قطر در شش ساعت سامانه دفاعی‌اش را بازسازی کرد",
+        "title_en": "Qatar reorganizó todo su sistema de defensa en 6 horas, según su jefe de inteligencia",
+        "summary": [
+            "جبهه امنیت دوحه اعلام کرد جنگ با ایران باعث تسریع بازسازی دفاع قطر شد",
+            "این اقدام نشان می‌دهد قطر برای مقابله با تهدیدات احتمالی منطقه‌ای آماده‌سازی می‌کند"
+        ],
+        "impact": "قابلیت دفاع سریع قطر افزایش یافت، فشار بر ایران در حوزه امنیتی تقویت شد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/es-es/noticias/internacional/qatar-reorganizó-todo-su-sistema-de-defensa-en-6-horas-según-su-jefe-de-inteligencia/ar-AA2fGaWx?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/es-es/noticias/internacional/qatar-reorganizó-todo-su-sistema-de-defensa-en-6-horas-según-su-jefe-de-inteligencia/ar-AA2fGaWx",
+        "image": "https://www.bing.com/th?id=ONUT.0uwY-qnDJh6IzjgLN77Ldw",
+        "timestamp": 1792439614.0
     },
     {
         "id": "8931f90146",
@@ -5506,80 +5578,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-waives-russia-related-sanctions-before-they-kick-in-prompting-backlash-from-ukraine-and-us-lawmakers/ar-AA2epp6D",
         "image": "https://www.bing.com/th?id=ONUT.enUl3swmkdIB3wn02MgW3A",
         "timestamp": 1792195053.0
-    },
-    {
-        "id": "aa04b2d3e9",
-        "title_fa": "اعتراضات بومیان در یوتا علیه گسترش اورانیوم",
-        "title_en": "As Utah pushes nuclear power, some environmental and tribal groups push back",
-        "summary": [
-            "بیش از صد نفر در مسیر 191 به کارخانه پردازش اورانیوم اعتراض کردند",
-            "بومیان نگرانی از خطرات بهداشتی و محیطی را مطرح کردند",
-            "دولت یوتا به سمت انرژی هسته‌ای پیش می‌رود",
-            "فشارهای محلی می‌تواند پروژه را به تعویق بیندازد"
-        ],
-        "impact": "گسترش معدن اورانیوم در یوتا ممکن است با تأخیر یا بازنگری مواجه شود",
-        "tag": "انرژی",
-        "urgency": 2,
-        "sentiment": -0.1,
-        "source": "FOX 13 Utah",
-        "url": "https://www.fox13now.com/news/politics/as-utah-pushes-nuclear-power-some-environmental-and-tribal-groups-push-back",
-        "clean_url": "https://www.fox13now.com/news/politics/as-utah-pushes-nuclear-power-some-environmental-and-tribal-groups-push-back",
-        "image": "https://www.bing.com/th?id=ONUT.5tLD6maahxh2JOdP5IYQaA",
-        "timestamp": 1792195053.0
-    },
-    {
-        "id": "00a0f31d71",
-        "title_fa": "ترامپ جنگ ایران را «تمرین نظامی» می‌نامید",
-        "title_en": "Trump Calls Iran War a ‘Military Exercise’ After US Death Toll Climbs",
-        "summary": [
-            "ترامپ پس از افزایش تلفات آمریکایی، جنگ با ایران را «تمرین نظامی» توصیف کرد.",
-            "این بیانیه باعث شد انتقادات داخلی و بین‌المللی به سیاست‌های نظامی آمریکا شدت بگیرد."
-        ],
-        "impact": "تضعیف اعتبار دولت آمریکا در خاورمیانه و تشدید فشارهای سیاسی داخلی",
-        "tag": "جنگ",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Newsweek",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnBtQmJhaHBjN05MaGdJZUh5Rmg1UFpFRlpzWXdQOWR3Rk1SdVh4ekFZbDZWU3YtT0FoeXV6cGJQUDdZeXBkYjBCcnFzSU1MN0VtNk1rTWtmOGdXd1UxQ0diQlpRWGoxY0RBTVl4VzR2T0JveFdWRWVYdVZrNzBiaUh2Nkc4YkxuZkdpcXJkV2Q?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnBtQmJhaHBjN05MaGdJZUh5Rmg1UFpFRlpzWXdQOWR3Rk1SdVh4ekFZbDZWU3YtT0FoeXV6cGJQUDdZeXBkYjBCcnFzSU1MN0VtNk1rTWtmOGdXd1UxQ0diQlpRWGoxY0RBTVl4VzR2T0JveFdWRWVYdVZrNzBiaUh2Nkc4YkxuZkdpcXJkV2Q",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792193280.0
-    },
-    {
-        "id": "06febd0a7d",
-        "title_fa": "ترامپ تحریم‌های روسیه را نرم کرد، اوکراین در خطر",
-        "title_en": "Commentary: President Donald Trump throws a lifeline to Vladimir Putin",
-        "summary": [
-            "ترامپ تحریم‌های نفت روسیه را کاهش داد تا دیزل ارزان شود.",
-            "این تصمیم به نفع روسیه و به‌طور غیرمستقیم به ایران کمک می‌کند چون فشارهای اقتصادی مشترک تضعیف می‌شود.",
-            "اوکراین و متحدان آمریکا از این اقدام به عنوان خیانت به امنیت منطقه انتقاد کردند."
-        ],
-        "impact": "تقویت توان مالی روسیه و احتمال تشدید فشار بر اوکراین و ایران.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Kingman Daily Miner",
-        "url": "https://www.kdminer.com/opinion/commentary-president-donald-trump-throws-a-lifeline-to-vladimir-putin/article_02c6f70b-7477-4029-a9df-6bda42612ad4.html",
-        "clean_url": "https://www.kdminer.com/opinion/commentary-president-donald-trump-throws-a-lifeline-to-vladimir-putin/article_02c6f70b-7477-4029-a9df-6bda42612ad4.html",
-        "image": "https://www.bing.com/th?id=ONUT._FYdq4Yqg07mPR3qkWXfnw",
-        "timestamp": 1792192703.6227198
-    },
-    {
-        "id": "8bbd0eadc1",
-        "title_fa": "مشاوران ترامپ: جنگ ایران تا پایان دوره‌اش ادامه می‌یابد",
-        "title_en": "WAR MAY LAST: Trump Advisers Warn Iran Conflict May Last Through end of His term, WSJ Reports",
-        "summary": [
-            "مشاوران نزدیک به ترامپ هشدار دادند که درگیری با ایران می‌تواند تا پایان دوره ریاست‌جمهوری او ادامه یابد.",
-            "این پیش‌بینی فشارهای اقتصادی و نظامی بیشتری را برای ایالات متحده پیش‌بینی می‌کند."
-        ],
-        "impact": "افزایش فشار دیپلماتیک و احتمال تمدید تحریم‌های سخت علیه ایران",
-        "tag": "جنگ",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmxXRGRzUjh1LXNDM3dOcWZscXBGd2tZNnZManVQaWI2OE05UXRMRzdpdDNuWlhFd2dxWHhhQVdCb2FKXzdPbGN3OXhNV0ROTU5PNW90TG45LTEzc3RYemtWOXVnMTN1aXJNUXlVV0lNd3ZZQV84NFBQLXVEUzRnSEZJMENRWWM4Y3NHcmh6MkQwWTVqa2kxWjdpRDZZRW5RdmxjYXcyN3I5eTNLSnFiU0pDemtvRU9taGUtY05TUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmxXRGRzUjh1LXNDM3dOcWZscXBGd2tZNnZManVQaWI2OE05UXRMRzdpdDNuWlhFd2dxWHhhQVdCb2FKXzdPbGN3OXhNV0ROTU5PNW90TG45LTEzc3RYemtWOXVnMTN1aXJNUXlVV0lNd3ZZQV84NFBQLXVEUzRnSEZJMENRWWM4Y3NHcmh6MkQwWTVqa2kxWjdpRDZZRW5RdmxjYXcyN3I5eTNLSnFiU0pDemtvRU9taGUtY05TUQ",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792191884.0
     }
 ]
