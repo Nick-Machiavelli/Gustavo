@@ -1,5 +1,60 @@
 [
     {
+        "id": "e472ca709e",
+        "title_fa": "ارشد ارتش پاکستان در تهران؛ آمریکا مانع میانجیگری",
+        "title_en": "Brother Munir! The Ball Is in the US Court",
+        "summary": [
+            "سردار اسیم منیر، رئیس کل ارتش پاکستان، برای مشاوره با مقامات ایرانی به تهران آمد.",
+            "پاکستان به عنوان میانجی در تنش‌های آمریکا‑اسرائیل‑ایران عمل می‌کند.",
+            "واشنگتن به‌طور مداوم تلاش‌های میانجیگری را با ادعاهای تسلیم ایران خنثی می‌کند.",
+            "این بازدید نشان می‌دهد نقش منطقه‌ای پاکستان در حل بحران افزایش یافته است."
+        ],
+        "impact": "اگر آمریکا مانع شود، مسیر دیپلماتیک برای کاهش تنش‌های خاورمیانه بسته می‌ماند.",
+        "tag": "میانجیگری",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/531321/Brother-Munir-The-Ball-Is-in-the-US-Court",
+        "clean_url": "https://www.tehrantimes.com/news/531321/Brother-Munir-The-Ball-Is-in-the-US-Court",
+        "image": "https://www.bing.com/th?id=ONUT.Mbn9icl0BX5Pl1TmJRX6LQ",
+        "timestamp": 1792536044.427429
+    },
+    {
+        "id": "42927ba098",
+        "title_fa": "مرز ایران‑پاکستان همچنان بسته است؛ اعلام بازگشایی نادرست بود",
+        "title_en": "IRGC outlet says Iran-Pakistan border remains closed despite Munir announcement",
+        "summary": [
+            "خبرگزاری فارس گزارش داد که مرز هنوز بسته و گمرک‌ها اجازه عبور ندارند",
+            "ادعای ارتش پاکستان مبنی بر بازگشایی با واقعیت تجاری ناسازگار است"
+        ],
+        "impact": "تداوم کمبود کالاهای مرزی و فشار بر اقتصاد دو کشور",
+        "tag": "مرز",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610202553",
+        "clean_url": "https://www.iranintl.com/en/202610202553",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1792536044.4232526
+    },
+    {
+        "id": "da2bbd4601",
+        "title_fa": "دونالد ترامپ و بنیامین نتانیاهو به ایران هشدار دادند که ترس از جنگ مجدد افزایش یافته است",
+        "title_en": "Donald Trump, Benjamin Netanyahu warn Iran as fears of renewed war grow",
+        "summary": [
+            "Donald Trump, Benjamin Netanyahu warn Iran as fears of renewed war grow The Jerusalem Post"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CV0dNTVVnNUZlMmlncmF4amlNa19Qc0J4cHpQd2lSXy04aVJ1VFNsdWZqbkU5bnBVdzJTTGg2eE1ndVhjREp4by0tM29PbkVIM3YxTlEyY1FLM3ct?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CV0dNTVVnNUZlMmlncmF4amlNa19Qc0J4cHpQd2lSXy04aVJ1VFNsdWZqbkU5bnBVdzJTTGg2eE1ndVhjREp4by0tM29PbkVIM3YxTlEyY1FLM3ct",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792526364.0
+    },
+    {
         "id": "4af449716a",
         "title_fa": "دسته‌گردان قطری به تهران رسید؛ نتانیاهو هدف‌گذاری شد",
         "title_en": "Qatari delegation arrives in Tehran after Pakistani army chief’s visit",
@@ -17,6 +72,26 @@
         "clean_url": "https://www.iranintl.com/en/202610202272",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1792526023.6370034
+    },
+    {
+        "id": "d1913f75f3",
+        "title_fa": "ترامپ و نتانیاهو هشدار به ایران: حذف رژیم",
+        "title_en": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
+        "summary": [
+            "نتانیاهو ادعا کرد در جلسه‌ای با ترامپ درباره «حذف» رژیم ایران صحبت کرده است.",
+            "این اظهارات پس از افزایش تهدیدات نظامی آمریکا به تهران منتشر شد.",
+            "هشدارهای مشترک دو رهبر می‌تواند تنش‌های خاورمیانه را به نقطه انفجار برساند.",
+            "واکنش‌های بین‌المللی به این گفت‌وگو هنوز نامشخص است."
+        ],
+        "impact": "افزایش خطر برخورد نظامی بین اسرائیل‑ایران و احتمال مداخله آمریکا.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc21hTUM3Wk1ITDJxaFdFRUthRFhOU2xWOVlMc0tnLXNwa21ZZW5QT0hDa1c3RHVBX0lTWnNOV1hNa08zd1poU3hYSk15cHYxNi1pQUZiNFo0M2hNQ1g2cW1Vd1doaHM1ZWNyeHBUMHFMXzBGUGxjSVdNd3RtQ3EwVGhVdlJMakR6QncxSzJQcWI1YUppa054MHN4WXYwZm4xcmRLbFFEcWJRWnNieWhtLWVzS0U0d9IBuwFBVV95cUxNdnJyZm9sbFFyNEJuREk0OVFXN3U2LW9vdGQzMnN4VG43ZlBJd3d0R0FpcVpKZUg4RmYxS1l3T2NZQXFKWEY3a2k0aHlzQW1SMGdRZlZQdzhNcm1pM0tWcWN4eWxsZ1hMSE1LcEhEanY5aHVrQ3RmcFZkaFk0NDZSSVVtYTA0SC1kaE9UMXdQZl9JOTJ0MFE2MEo5YmVFUVNDSHpFdWJ2ZndjYUpQaF8xNF9jVVFtQ3FLWnY0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc21hTUM3Wk1ITDJxaFdFRUthRFhOU2xWOVlMc0tnLXNwa21ZZW5QT0hDa1c3RHVBX0lTWnNOV1hNa08zd1poU3hYSk15cHYxNi1pQUZiNFo0M2hNQ1g2cW1Vd1doaHM1ZWNyeHBUMHFMXzBGUGxjSVdNd3RtQ3EwVGhVdlJMakR6QncxSzJQcWI1YUppa054MHN4WXYwZm4xcmRLbFFEcWJRWnNieWhtLWVzS0U0d9IBuwFBVV95cUxNdnJyZm9sbFFyNEJuREk0OVFXN3U2LW9vdGQzMnN4VG43ZlBJd3d0R0FpcVpKZUg4RmYxS1l3T2NZQXFKWEY3a2k0aHlzQW1SMGdRZlZQdzhNcm1pM0tWcWN4eWxsZ1hMSE1LcEhEanY5aHVrQ3RmcFZkaFk0NDZSSVVtYTA0SC1kaE9UMXdQZl9JOTJ0MFE2MEo5YmVFUVNDSHpFdWJ2ZndjYUpQaF8xNF9jVVFtQ3FLWnY0",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792525897.0
     },
     {
         "id": "098259f161",
@@ -370,6 +445,24 @@
         "timestamp": 1792507398.0
     },
     {
+        "id": "05ec4a3369",
+        "title_fa": "ایران انتقال اورانیوم غنی‌شده را رد کرد؛ نتانیاهو سرنگونی می‌خواهد",
+        "title_en": "Iran security chief rejects moving enriched uranium abroad, as Netanyahu vows to topple regime",
+        "summary": [
+            "مسئولان هسته‌ای ایران اعلام کردند که اورانیوم غنی‌شده را به خارج نمی‌فرستند",
+            "نتانیاهو تأکید کرد سرنگونی رژیم هدف اصلی اسرائیل است"
+        ],
+        "impact": "فشار بین‌المللی برای محدود کردن برنامه هسته‌ای افزایش می‌یابد",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Times of Israel on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-security-chief-rejects-moving-enriched-uranium-abroad-as-netanyahu-vows-to-topple-regime/ar-AA2fGenK",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-security-chief-rejects-moving-enriched-uranium-abroad-as-netanyahu-vows-to-topple-regime/ar-AA2fGenK",
+        "image": "http://www.bing.com/th?id=ONUT.K9PgAt_DHVk29D9WfqF8mg&pid=News",
+        "timestamp": 1792507144.0
+    },
+    {
         "id": "1435149727",
         "title_fa": "افسر سپاه در مرز ایران-عراق کشته شد",
         "title_en": "IRGC officer killed in Iran-Iraq border mountains as fighting with Kurdish opposition intensifies",
@@ -388,6 +481,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtcjBzUUx1SHUzUkVmX0ZHVC1PQmxOMFpTUlBlRmVROG9xckpKX1JzTDRFekJCVlhZUmxQWEdGb2VQVUtxWDNkVThqemlCWHJCblRLTnZ1VHM0Z3Q4",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792504939.0
+    },
+    {
+        "id": "7066d2a0cb",
+        "title_fa": "ترامپ گزینه‌های «نرم» و «سخت» برای شکست ایران",
+        "title_en": "Trump says US weighing two options to defeat Iran",
+        "summary": [
+            "ترامپ گفت ایالات متحده باید تصمیم بگیرد که ایران را به روش دیپلماتیک یا نظامی شکست دهد",
+            "او اعلام کرد اروپا کمکی نکرد و آمریکا می‌تواند به تنهایی عمل کند"
+        ],
+        "impact": "احتمال افزایش تحریم یا عملیات نظامی علیه ایران",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610200308",
+        "clean_url": "https://www.iranintl.com/en/202610200308",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792502220.0
     },
     {
         "id": "d0fef4c34a",
@@ -654,6 +765,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hT0JQaGctaEpDMzFjX0ZCV2tqeHdzMmdmT2VpSFA4aEZndlUtdEVJcGc5UWQ2dUMwRjJxNWpsVlAxUHRKX3dNOVJpYWlTb3NFcVE",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792484932.0
+    },
+    {
+        "id": "a434fdfffd",
+        "title_fa": "دو نفری عبور از خط زرد غزه توسط اسرائیل کشته",
+        "title_en": "IDF: 2 struck after crossing Gaza's Yellow Line, trying to sabotage army infrastructure",
+        "summary": [
+            "دو نفر سعی کردند لوله‌های نظامی اسرائیل را در خط زرد غزه بدزدند",
+            "ارتش پس از شناسایی تهدید فوری، آن‌ها را هدف قرار داد"
+        ],
+        "impact": "هشدار به گروه‌های شبه‌نظامی درباره خطر عملیات مشابه",
+        "tag": "اسرائیل‑غزه",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/idf-2-struck-after-crossing-gazas-yellow-line-trying-to-sabotage-army-infrastructure/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/idf-2-struck-after-crossing-gazas-yellow-line-trying-to-sabotage-army-infrastructure",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792484580.0
     },
     {
         "id": "1da3d5a090",
@@ -1013,6 +1142,24 @@
         "timestamp": 1792461151.0
     },
     {
+        "id": "26da9ba1a9",
+        "title_fa": "عرقی‌چی: مذاکرات ایران‑آمریکا از طریق پاکستان و قطر ادامه دارد",
+        "title_en": "Araghchi says Iran-US talks continue through Pakistan, Qatar",
+        "summary": [
+            "مذاکرات مسالمت‌آمیز بین تهران و واشنگتن از طریق واسطه‌های پاکستان و قطر پیش می‌رود",
+            "ادامه گفتگوها نشان می‌دهد هر دو طرف هنوز به راه حل دیپلماتیک تمایل دارند"
+        ],
+        "impact": "کاهش احتمال تصاعد سریع تنش‌های نظامی",
+        "tag": "دیپلوماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610201499",
+        "clean_url": "https://www.iranintl.com/en/202610201499",
+        "image": "http://www.bing.com/th?id=ONUT.58kYZJtWpoozRICvHQEajA&pid=News",
+        "timestamp": 1792460400.0
+    },
+    {
         "id": "58fbefacc7",
         "title_fa": "ایران تهدید به انتقام می‌کند؛ ترامپ از نتانیاهو حمایت کرد",
         "title_en": "Iran warns of retaliation as Trump backs Netanyahu",
@@ -1086,6 +1233,26 @@
         "clean_url": "https://www.eurasiareview.com/20102026-houthis-three-pronged-attack-a-threat-to-the-world-analysis",
         "image": "https://www.bing.com/th?id=ONUT.L46a-YEcQYoyg8RFK86YAA",
         "timestamp": 1792457821.844802
+    },
+    {
+        "id": "212e3ce966",
+        "title_fa": "ترامپ مواب در یمن؛ تهدید حمله تمام‌عیار به ایران",
+        "title_en": "#ISRAELIRANWAR. The US is preparing to use MOAB in Yemen against the Houthis. The UAE and Egypt are ready to intervene on behalf of the Saudi kingdom. Lebanon, Gaza, and the ...",
+        "summary": [
+            "ترامپ اعلام کرد مواب (بمب بزرگ) در یمن علیه حوثی‌ها به کار خواهد رفت.",
+            "او هشدار داد ایران باید از برنامه هسته‌ای خود صرف‌نظر کند وگرنه با حمله تمام‌عیار آمریکا مواجه می‌شود.",
+            "سعی در بازگرداندن «توافق ابراهیم» به نفع عربستان و حمایت از اسرائیل دارد.",
+            "سخنان سیتی و سسی درباره حمایت نظامی از عربستان به اوج رسیده است."
+        ],
+        "impact": "تهدید استفاده از مواب می‌تواند به تشدید جنگ در یمن و گسترش درگیری‌های منطقه‌ای منجر شود.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "AGC Communication",
+        "url": "https://www.agcnews.eu/israeliranwar-the-us-is-preparing-to-use-moab-in-yemen-against-the-houthis-the-uae-and-egypt-are-ready-to-intervene-on-behalf-of-the-saudi-kingdom-lebanon-gaza-and-the-west-bank-remain-under-isr/",
+        "clean_url": "https://www.agcnews.eu/israeliranwar-the-us-is-preparing-to-use-moab-in-yemen-against-the-houthis-the-uae-and-egypt-are-ready-to-intervene-on-behalf-of-the-saudi-kingdom-lebanon-gaza-and-the-west-bank-remain-under-isr",
+        "image": "https://i0.wp.com/www.agcnews.eu/wp-content/uploads/05frontiisriirn2010202605.png?fit=1000%2C667&quality=80&ssl=1",
+        "timestamp": 1792457100.0
     },
     {
         "id": "9611f87ebf",
@@ -1200,6 +1367,80 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3FySlQ5ekdydmF0Mld1N0lDNTB3QnlEc0tpdXlhOW4yUldVZWFySEpReUF6TGJaaWNIREtwYldHcE9KUXVYQVNuTV9FVDJ5YlFtVHptbTdCY1J0TktLWE44NGRpRDRodnB1dGlLUW9hNTJPZGYtREZqaDNpODJLMklIN2hvZzJDR0ZfWVhJSlZjUQ",
         "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792452155.0
+    },
+    {
+        "id": "3c70efbaf1",
+        "title_fa": "سپاه پاسداران کنترل هرمز را تا خواست جمهوری حفظ می‌کند",
+        "title_en": "IRGC says it controls Strait of Hormuz for as long as Islamic Republic wills it",
+        "summary": [
+            "معاون فرمانده سپاه گفت ایران کنترل کامل تنگه هرمز را دارد",
+            "این ادعا برای نشان دادن توانمندی‌های نظامی در مقابل فشارهای بین‌المللی است"
+        ],
+        "impact": "تقویت موضع چانه‌زنی ایران در مذاکرات انرژی",
+        "tag": "هرمز",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610205340",
+        "clean_url": "https://www.iranintl.com/en/202610205340",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1792449615.0
+    },
+    {
+        "id": "af2c342963",
+        "title_fa": "بازارهای جهانی به امید صلح ایران‑آمریکا رشد می‌کنند",
+        "title_en": "Morning wrap: ASX 200 to rise, Dow rallies on defensive pivot, S&P 500 gains on oil retreat",
+        "summary": [
+            "شاخص‌های آسیا و آمریکا به دلیل کاهش تنش‌های نفتی صعود کردند",
+            "امید به مذاکرات صلح بین تهران و واشنگتن باعث کاهش ریسک‌های سرمایه‌گذاری شد"
+        ],
+        "impact": "سرمایه‌گذاران به سمت دارایی‌های ریسک‌پذیر باز می‌گردند",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": 0.5,
+        "source": "Market Index on MSN",
+        "url": "https://www.msn.com/en-au/news/other/morning-wrap-asx-200-to-rise-dow-rallies-on-defensive-pivot-s-p-500-gains-on-oil-retreat/ar-AA2fG9FW?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-au/news/other/morning-wrap-asx-200-to-rise-dow-rallies-on-defensive-pivot-s-p-500-gains-on-oil-retreat/ar-AA2fG9FW",
+        "image": "https://www.bing.com/th?id=ONUT.txdqvTmtL4pKHEHwA0-iXw",
+        "timestamp": 1792449615.0
+    },
+    {
+        "id": "f24dba9cac",
+        "title_fa": "دستیاران ترامپ در سفرهای خارجی برای حمایت از سیاستمداران محلی",
+        "title_en": "From Budapest to Banja Luka, Trump’s aides campaign for foreign politicians",
+        "summary": [
+            "مقامات تیم ترامپ به اروپا و بالکان سفر کردند و با رهبران محلی دیدار کردند",
+            "این بازدیدها به عنوان حمایت سیاسی از احزاب یا افراد مورد نظر تعبیر شد"
+        ],
+        "impact": "می‌تواند روابط دو جانبه را تحت فشار قرار دهد و واکنش‌های انتقادی بین‌المللی ایجاد کند",
+        "tag": "سیاست‑خارجی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "ms",
+        "url": "https://www.ms.now/news/trump-aides-hegseth-trip-foreign-politicians",
+        "clean_url": "https://www.ms.now/news/trump-aides-hegseth-trip-foreign-politicians",
+        "image": "https://www.ms.now/wp-content/uploads/2026/10/261020-foreign-politics-vice-president-vp-veep-jd-vance-campaigning-campaign-viktor-orban-hungary-budapest-election-diplomacy-rally-es.webp?crop=196px,75px,1295px,680px&w=1200&h=630",
+        "timestamp": 1792449615.0
+    },
+    {
+        "id": "0d655e1dab",
+        "title_fa": "ترک‌وزیر آمریکا به روسیه؛ ترامپ خواست پایان جنگ اوکراین",
+        "title_en": "US envoy Steve Witkoff to meet Russians, Trump presses Kyiv to settle",
+        "summary": [
+            "استیوه‌ووک، نماینده ویژه آمریکا، پس از ملاقات با زلنسکی در اسلو به روسیه می‌رود.",
+            "ترامپ گفت زمان پایان جنگ اوکراین رسیده است.",
+            "زلنسکی از کمبود حمایت نظامی و اطلاعاتی آمریکا شکایت کرد.",
+            "روابط واشنگتن‑کی‌وی در حال تضعیف است."
+        ],
+        "impact": "ممکن است فشار دیپلماتیک بر اوکراین افزایش یابد و مسیر مذاکرات صلح را پیچیده کند.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/us-envoy-steve-witkoff-to-meet-russians-trump-presses-kyiv-to-settle-article-14056206.html",
+        "clean_url": "https://www.moneycontrol.com/world/us-envoy-steve-witkoff-to-meet-russians-trump-presses-kyiv-to-settle-article-14056206.html",
+        "image": "https://www.bing.com/th?id=ONUT.37fu4i-yKDapNixTXfV8eg",
+        "timestamp": 1792449615.0
     },
     {
         "id": "ebffee240e",
@@ -5336,247 +5577,5 @@
         "clean_url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=1200,630",
         "timestamp": 1792213200.0
-    },
-    {
-        "id": "424ebc3592",
-        "title_fa": "وایس‌پریزدنت ونس تصمیم‌گیری برای ۲۰۲۸",
-        "title_en": "Vance says he’ll have to make a decision on 2028 presidential run after midterm elections",
-        "summary": [
-            "ونس گفت پس از انتخابات میانی تصمیم می‌گیرد که آیا برای انتخابات ۲۰۲۸ نامزد شود.",
-            "این اظهارات نشان می‌دهد فشارهای حزبی برای انتخاب رئیس‌جمهور جدید در حال شکل‌گیری است.",
-            "اگر او نامزد شود، می‌تواند رقابت دموکراتیک را تحت تأثیر قرار دهد."
-        ],
-        "impact": "رقابت داخلی جمهوری‌خواهان برای انتخابات ۲۰۲۸ شکل می‌گیرد.",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/vance-says-he-ll-have-to-make-a-decision-on-2028-presidential-run-after-midterm-elections/ar-AA2essrr?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/vance-says-he-ll-have-to-make-a-decision-on-2028-presidential-run-after-midterm-elections/ar-AA2essrr",
-        "image": "https://www.bing.com/th?id=ONUT.lUc0Y9_lM8JzyYYZe5IB6Q",
-        "timestamp": 1792212608.0
-    },
-    {
-        "id": "91afed46b5",
-        "title_fa": "طرح بودجه GOP برای تأمین مالی جنگ ایران",
-        "title_en": "US House GOP pushes through budget blueprint for Iran war funding, farm aid",
-        "summary": [
-            "مجلس نمایندگان جمهوری‌خواه طرح بودجه‌ای تصویب کرد که هزینه‌های جنگ ایران و کمک‌های کشاورزی را شامل می‌شود.",
-            "این طرح نشان می‌دهد که کنگره قصد دارد منابع مالی را برای عملیات نظامی در خاورمیانه حفظ کند."
-        ],
-        "impact": "تخصیص منابع مالی به عملیات نظامی و کاهش بودجه‌های داخلی",
-        "tag": "بودجه",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "News From The States",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXh6cjlsNVE0OFpVMjBOeEc2TEg3LWl2cGNqcE9kRFZWZ2IyZ1F5ZmlVRzl2NWtFdlpjTGNEeUIyMVlhUEhoU3dVMVFZNmtXNllIaHVoV0l3azRBVTYtM214cmc1c1ZzUVJGMjFvRHhCR3I4UDFwVm1wR3RIVGlEYzg4VXctdFdvSFdrM2QxSG4tZUdHOHI5aFFIa0NGYXpITDFtcTdUbVdhZzJYYjd1bnJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXh6cjlsNVE0OFpVMjBOeEc2TEg3LWl2cGNqcE9kRFZWZ2IyZ1F5ZmlVRzl2NWtFdlpjTGNEeUIyMVlhUEhoU3dVMVFZNmtXNllIaHVoV0l3azRBVTYtM214cmc1c1ZzUVJGMjFvRHhCR3I4UDFwVm1wR3RIVGlEYzg4VXctdFdvSFdrM2QxSG4tZUdHOHI5aFFIa0NGYXpITDFtcTdUbVdhZzJYYjd1bnJB",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792212184.0
-    },
-    {
-        "id": "2909cffb5c",
-        "title_fa": "پزشکیان: ایران دنبال سلاح هسته‌ای نیست",
-        "title_en": "Pezeshkian slams propaganda, says Iran not after nukes",
-        "summary": [
-            "پزشکیان ادعا کرد رسانه‌های مخالف ایران به‌نقش‌پذیری هسته‌ای او را بزرگ‌نمایی می‌کنند.",
-            "بیانیه می‌تواند تصویر بین‌المللی ایران را تعدیل کرده و فشارهای جدید را کاهش دهد."
-        ],
-        "impact": "بیانیه می‌تواند تصویر ایران را در مذاکرات هسته‌ای بهبود بخشد.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "chinadailyhk",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14T0dibXh6ekhsRkRwQm04Q01WbWRIY25GSXdkcm95QTV0YlBkdXRkdTRZd2pGczRNTllCRXRqWFdmSEI5R1JuRkNUTEt5UnhOamc0ZjZPQ1U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14T0dibXh6ekhsRkRwQm04Q01WbWRIY25GSXdkcm95QTV0YlBkdXRkdTRZd2pGczRNTllCRXRqWFdmSEI5R1JuRkNUTEt5UnhOamc0ZjZPQ1U",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792211818.0
-    },
-    {
-        "id": "4796f7f378",
-        "title_fa": "روبینو به هند برای تقویت انرژی",
-        "title_en": "Important ally and partner: Rubio leaves for India amid Trump’s Russian oil tariff threat",
-        "summary": [
-            "روبینو به هند سفر کرد تا همکاری‌های انرژی و دفاعی را تقویت کند",
-            "پس از لغو تعرفهٔ نفت روسیه، آمریکا به دنبال جایگزین‌های انرژی در آسیا است",
-            "مذاکرات شامل گاز مایع و پروژه‌های زیرساختی انرژی است",
-            "حضور او می‌تواند نقش هند را در تعادل انرژی منطقه‌ای بالا ببرد"
-        ],
-        "impact": "تقویت روابط انرژی آمریکا‑هند و کاهش وابستگی به روسیه",
-        "tag": "انرژی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/news/other/important-ally-and-partner-rubio-leaves-for-india-amid-trump-s-russian-oil-tariff-threat/ar-AA2esIfk?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/important-ally-and-partner-rubio-leaves-for-india-amid-trump-s-russian-oil-tariff-threat/ar-AA2esIfk",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792210565.0
-    },
-    {
-        "id": "9be7001471",
-        "title_fa": "خبر بین‌المللی — What Has Anti-Imperialism Gotten ایران?",
-        "title_en": "What Has Anti-Imperialism Gotten Iran?",
-        "summary": [
-            "What has the Islamic Republic done for Iranians? Under its rule, citizens have suffered decades of economic decline, sociopolitical repression, and international isolation. Now the country is engaged..."
-        ],
-        "impact": "...",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/international/2026/10/west-iran-economy-us/689039/",
-        "clean_url": "https://www.theatlantic.com/international/2026/10/west-iran-economy-us/689039",
-        "image": "http://www.bing.com/th?id=ONUT.6aXPIQPuhvrOrtzo-ac4aQ&pid=News",
-        "timestamp": 1792209600.0
-    },
-    {
-        "id": "0bc68737b2",
-        "title_fa": "وزیران خارجه ایران و مصر در بغداد ملاقات کردند",
-        "title_en": "Iran, Egypt foreign ministers meet on sidelines of OIC meeting in Baghdad",
-        "summary": [
-            "ملاقات نشان‌دهنده تقویت همکاری‌های نظامی‑اطلاعاتی ایران با مصر است",
-            "تبادل اطلاعات درباره حمایت از حوثی‌ها می‌تواند تنش‌های خلیج فارس را تشدید کند"
-        ],
-        "impact": "تقویت شبکه پشتیبانی حوثی‌ها و افزایش فشار بر عربستان",
-        "tag": "منطقه‌ای",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610172089",
-        "clean_url": "https://www.iranintl.com/en/202610172089",
-        "image": "http://www.bing.com/th?id=ONUT.desluH2LFnQqPR4LoRog8w&pid=News",
-        "timestamp": 1792206600.0
-    },
-    {
-        "id": "85f1492381",
-        "title_fa": "ایران به حوثی‌ها هدف‌گیری می‌دهد",
-        "title_en": "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia",
-        "summary": [
-            "واشنگتن گزارش داد ایران اطلاعات هدف‌گیری به حوثی‌ها برای حملات به عربستان می‌فرستد.",
-            "این حمایت می‌تواند توان عملیاتی حوثی‌ها را در خلیج فارس افزایش دهد.",
-            "تقویت حملات حوثی‌ها خطر تشدید تنش‌های نظامی در منطقه را به‌وجود می‌آورد."
-        ],
-        "impact": "تقویت حملات حوثی‌ها به عربستان می‌تواند خطر درگیری مستقیم بین‌المللی را بالا ببرد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792202400.0
-    },
-    {
-        "id": "c3a1113b89",
-        "title_fa": "ادعای پیروزی نظامی ترامپ در ایران",
-        "title_en": "Trump claims military victory in Iran. But is the mission accomplished? ANALYSIS - ABC News",
-        "summary": [
-            "ترامپ ادعا می‌کند عملیات نظامی علیه ایران به‌سختی به‌پایان رسیده",
-            "هیچ شواهد مستقلی برای تأیید این ادعا منتشر نشده",
-            "این سخنرانی می‌تواند تنش‌های منطقه‌ای را تشدید کند"
-        ],
-        "impact": "ایجاد اضطراب در روابط ایران‑آمریکا و احتمال واکنش نظامی یا دیپلماتیک متقابل",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnZ4cllvVUNVMWJidExDVmVfQjI5V3k1WF9xakpiNlBDWnIwbThWREVBRTd5R2RRaS1QRXMwYnJWSGI4OURfX2N1MDlUOVJ2VDlCSnJvaDBmVkNobDZvb2FvdXZ5cDNXb3ZYOGpMdTVBa3luSGx5WmJVa3RYaGl3cVlYS2VIempuOXBLbll1anB3UlZtd1pqbWVVSHo2ejVVVG4weGZlcWtCUGlmR05YN0xB0gG3AUFVX3lxTFB5WDBGakw1MEdlVzRUN3pTMWIyLXBCek1RbTNRLWRidUt3aXFtbTA0TXJyTTJrOVJTQ2t5X3hMaFVESVh6NTlZYk1XNWJQVFRnV3NlM0tlRHhzRVotRTc1NFRrY2hGX3RrOEdQZVVIYzZ4aXNTaWViWFV1UFFSRzN0R19PWXdwZjVndEEzdXJrbHZiNS1mbXRiWkdYRmpYVDJfeGdqQXhzdTZ6SEw5ZWhxOVd6YzhiRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnZ4cllvVUNVMWJidExDVmVfQjI5V3k1WF9xakpiNlBDWnIwbThWREVBRTd5R2RRaS1QRXMwYnJWSGI4OURfX2N1MDlUOVJ2VDlCSnJvaDBmVkNobDZvb2FvdXZ5cDNXb3ZYOGpMdTVBa3luSGx5WmJVa3RYaGl3cVlYS2VIempuOXBLbll1anB3UlZtd1pqbWVVSHo2ejVVVG4weGZlcWtCUGlmR05YN0xB0gG3AUFVX3lxTFB5WDBGakw1MEdlVzRUN3pTMWIyLXBCek1RbTNRLWRidUt3aXFtbTA0TXJyTTJrOVJTQ2t5X3hMaFVESVh6NTlZYk1XNWJQVFRnV3NlM0tlRHhzRVotRTc1NFRrY2hGX3RrOEdQZVVIYzZ4aXNTaWViWFV1UFFSRzN0R19PWXdwZjVndEEzdXJrbHZiNS1mbXRiWkdYRmpYVDJfeGdqQXhzdTZ6SEw5ZWhxOVd6YzhiRQ",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792200803.0
-    },
-    {
-        "id": "1c247ff4a3",
-        "title_fa": "تخفیف جزئی تحریم‌های مسکو توسط ترامپ",
-        "title_en": "Trump waives some Moscow sanctions under Graham Russia-Iran Act",
-        "summary": [
-            "ترامپ بخشی از تحریم‌های مسکو را بر پایه قانون گراهام روسیه‑ایران لغو کرد",
-            "این اقدام می‌تواند مسیرهای مالی جدیدی برای ایران باز کند",
-            "همزمان، فشارهای دیپلماتیک بر روسیه برای ادامه حمایت از ایران کاهش می‌یابد"
-        ],
-        "impact": "کاهش فشار مالی بر ایران و امکان استفاده از شبکه‌های روسی برای دور زدن تحریم‌ها",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfQlctUV9uYzJTQm1vTWpvRWpMVGg0dGQzNDhpR0QxM0NqZXZlckx4UUlrVHlwd1BpckJhb3BMejJDakJKS1lKTWtWME1WOFBndEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfQlctUV9uYzJTQm1vTWpvRWpMVGg0dGQzNDhpR0QxM0NqZXZlckx4UUlrVHlwd1BpckJhb3BMejJDakJKS1lKTWtWME1WOFBndEE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792199824.0
-    },
-    {
-        "id": "01093b7e96",
-        "title_fa": "راهپیمایی 'بدون پادشاه' در سیو فولز برای انتخابات میانی",
-        "title_en": "'No Kings' rally in Sioux Falls homes in on midterm voting",
-        "summary": [
-            "تجمع 'بدون پادشاه' در سیو فولز به تشویق مردم برای حضور در رای‌گیری میانی می‌پردازد",
-            "سازماندهی این راهپیمایی با شبکه‌های اجتماعی انجام شد و هدف جذب جوانان است"
-        ],
-        "impact": "افزایش مشارکت رأی‌دهندگان می‌تواند نتایج میانی را تحت تأثیر قرار دهد",
-        "tag": "انتخابات",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Argus Leader",
-        "url": "https://www.argusleader.com/story/news/politics/elections/2026/10/17/final-indivisible-605-no-kings-rally-of-2026-focuses-on-the-midterms/92308741007/",
-        "clean_url": "https://www.argusleader.com/story/news/politics/elections/2026/10/17/final-indivisible-605-no-kings-rally-of-2026-focuses-on-the-midterms/92308741007",
-        "image": "https://www.bing.com/th?id=ONUT.HmADpq-PR54zUD8B_ftZGg",
-        "timestamp": 1792196234.0
-    },
-    {
-        "id": "b7655d98a0",
-        "title_fa": "هکابی سفرهای تجاری به اسرائیل",
-        "title_en": "‘The Israel Experience with Mike Huckabee’: The Ambassador’s Family Sells Trips to Israel",
-        "summary": [
-            "مقاله نشان می‌دهد خانواده هکابی تورهای پرهزینه به اسرائیل می‌فروشند و از سفرهای شخصی برای کسب سود استفاده می‌کنند",
-            "این رفتار به تصویر مثبت سیاسی‌گری در سرزمین مقدس می‌انجامد و می‌تواند روابط عمومی آمریکا‑اسرائیل را تقویت کند",
-            "در چارچوب «چهار اسب‌سوار ترمپ‑آپس» این موضوع به عنوان نمونه‌ای از تأثیرات اقتصادی سیاست‌گذاران آمریکایی بر بازارهای خارجی مطرح می‌شود"
-        ],
-        "impact": "تأثیر محدود بر گردشگری و تصویر عمومی؛ خطر انتقاد داخلی درباره منافع شخصی",
-        "tag": "سفرهای تجاری",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "zeteo",
-        "url": "https://zeteo.com/p/the-israel-experience-with-mike-huckabee",
-        "clean_url": "https://zeteo.com/p/the-israel-experience-with-mike-huckabee",
-        "image": "https://www.bing.com/th?id=ONUT._eicdYOP0v3CdhMb3j8gCQ",
-        "timestamp": 1792195318.991443
-    },
-    {
-        "id": "765e69a26c",
-        "title_fa": "ایران‑آمریکا نزدیک به توافق اقتصادی",
-        "title_en": "Iran And The U.S. Edge Toward A Deal As Economic Pressure Mounts",
-        "summary": [
-            "تهران به‌دنبال رفع تحریم‌ها، آزادسازی دارایی‌ها و پایان درگیری قبل از بازگشایی هرمز است.",
-            "واشنگتن پیش‌شرط پیشرفت‌های هسته‌ای قابل‌تایید را می‌خواهد.",
-            "اگر توافق حاصل شود، فشار اقتصادی بر ایران کاهش می‌یابد و رشد داخلی می‌تواند بهبود یابد."
-        ],
-        "impact": "توافق می‌تواند تحریم‌ها را نرم کرده و فضای اقتصادی داخلی را تقویت کند.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Eurasia Review",
-        "url": "https://www.eurasiareview.com/17102026-iran-and-the-u-s-edge-toward-a-deal-as-economic-pressure-mounts-analysis/",
-        "clean_url": "https://www.eurasiareview.com/17102026-iran-and-the-u-s-edge-toward-a-deal-as-economic-pressure-mounts-analysis",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/04/a-238.jpeg",
-        "timestamp": 1792195200.0
-    },
-    {
-        "id": "da1263dc42",
-        "title_fa": "ترامپ تحریم‌های روسیه را به تعویق می‌اندازد",
-        "title_en": "Trump waives Russia-related sanctions before they kick in, prompting backlash from Ukraine and US lawmakers",
-        "summary": [
-            "ترامپ پیش از اعمال تحریم‌ها، آن‌ها را معلق کرد",
-            "واکنش شدید اوکراین و قانونگذاران آمریکا به این تصمیم",
-            "نشانه‌ای از رویکرد سخت‌گیرانه‌اش نسبت به روسیه و تضعیف فشار بین‌المللی است"
-        ],
-        "impact": "کاهش فشار اقتصادی بر روسیه، اما تنش‌های دیپلماتیک آمریکا‑اوکراین تشدید می‌شود",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-waives-russia-related-sanctions-before-they-kick-in-prompting-backlash-from-ukraine-and-us-lawmakers/ar-AA2epp6D?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-waives-russia-related-sanctions-before-they-kick-in-prompting-backlash-from-ukraine-and-us-lawmakers/ar-AA2epp6D",
-        "image": "https://www.bing.com/th?id=ONUT.enUl3swmkdIB3wn02MgW3A",
-        "timestamp": 1792195053.0
     }
 ]
