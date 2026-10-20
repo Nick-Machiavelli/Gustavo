@@ -1,5 +1,139 @@
 [
     {
+        "id": "2878fba0ce",
+        "title_fa": "جان استوارت به معامله دیزل روسیه توسط ترامپ انتقاد کرد",
+        "title_en": "‘Layers of Stupidity!’ Jon Stewart Explains Trump’s ‘Insane’ Diesel Deal Using Russian Nesting Doll",
+        "summary": [
+            "جان استوارت معامله دیزل روسیه با ترامپ را «دیوانه‌وار» خواند",
+            "او با عروسک روسی لایه‌لایه نشان داد چقدر این تصمیم بی‌منطق است",
+            "معامله اجازه می‌دهد روسیه بیش از ۳۰۰ هزار تن دیزل به بازارهای جهانی عرضه کند",
+            "استوارت سؤال کرد چرا آمریکا در حالی که روسیه به اوکسیژن جنگ در اوکراین می‌پردازد، به او پول می‌دهد"
+        ],
+        "impact": "فشار عمومی بر دولت ترامپ برای بازنگری در این معامله",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/layers-stupidity-jon-stewart-explains-101620000.html",
+        "clean_url": "https://www.aol.com/articles/layers-stupidity-jon-stewart-explains-101620000.html",
+        "image": "https://hermes.media.static.aol.com/media/2026/10/20/be7aabd8-7c54-359f-817f-fcd42ecfe094/ec801ccf-aeca-4956-beea-eca5566f1803.jpg",
+        "timestamp": 1792494384.5637782
+    },
+    {
+        "id": "94b964ac7e",
+        "title_fa": "آف‌دی آلمان به بررسی ایمیل‌های سرقت‌شده می‌پردازد",
+        "title_en": "Germany's far-right AfD investigates publication of emails stolen in cyberattack",
+        "summary": [
+            "حزب راست‌افراطی آلمان اعلام کرد در حال بررسی انتشار ایمیل‌های دزدیده شده است",
+            "این ایمیل‌ها پس از حمله سایبری به شبکه‌های داخلی اف‌دی به دست آمده",
+            "بررسی می‌تواند به افشای ارتباطات داخلی و برنامه‌های سیاسی منجر شود",
+            "بحران داخلی اف‌دی ممکن است حمایت عمومی آن را تحت فشار قرار دهد"
+        ],
+        "impact": "تضعیف موقعیت سیاسی اف‌دی و افزایش فشار بر رده‌های رادیکال",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/germany-s-far-right-afd-investigates-publication-of-emails-stolen-in-cyberattack/ar-AA2fDLNG?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/germany-s-far-right-afd-investigates-publication-of-emails-stolen-in-cyberattack/ar-AA2fDLNG",
+        "image": "https://www.bing.com/th?id=ONUT.Xfgb7EX7uQOkKxt31rQ-bg",
+        "timestamp": 1792494384.563426
+    },
+    {
+        "id": "414740b610",
+        "title_fa": "وزارت خارجه ایران بر دیپلماسی برای کاهش تنش‌ها تأکید کرد",
+        "title_en": "Iran's Foreign Ministry suggested that the country favous diplomacy, though crude benchmarks continued to move higher; GBP gains post-jobs data",
+        "summary": [
+            "وزارت خارجه ایران گفت هر فرصتی برای جلوگیری از تشدید تنش‌ها باید از دیپلماسی استفاده شود",
+            "قیمت نفت خام همچنان در حال افزایش است",
+            "گزارش شامل نکات بازارهای مالی جهانی و داده‌های اقتصادی است",
+            "ایران سعی دارد تصویر مسالمت‌آمیز خود را تقویت کند"
+        ],
+        "impact": "کاهش فشار بین‌المللی برای مذاکرات، اما اثر محدود بر قیمت نفت",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "China Tech News",
+        "url": "https://www.chinatechnews.com/2026/10/20/131113-irans-foreign-ministry-suggested-that-the-country-favous-diplomacy-though-crude-benchmarks-continued-to-move-higher-gbp-gains-post-jobs-data-newsquawk-us-market-open",
+        "clean_url": "https://www.chinatechnews.com/2026/10/20/131113-irans-foreign-ministry-suggested-that-the-country-favous-diplomacy-though-crude-benchmarks-continued-to-move-higher-gbp-gains-post-jobs-data-newsquawk-us-market-open",
+        "image": "https://www.chinatechnews.com/wp-content/uploads/chinatechnews-logo-1200x675-1.png",
+        "timestamp": 1792491480.0
+    },
+    {
+        "id": "f4d135fbc6",
+        "title_fa": "سرهنگ ارشد ارتش پاکستان به تهران آمد",
+        "title_en": "Pakistan’s army chief arrives in Tehran amid US-Iran tensions",
+        "summary": [
+            "سرهنگ ارشد ارتش پاکستان در سفر به تهران حضور یافت",
+            "این دیدار در زمان تنش‌های اخیر بین آمریکا و ایران برگزار شد",
+            "هدف احتمالی تقویت روابط نظامی منطقه‌ای و بررسی گزینه‌های مشترک است",
+            "حضور او می‌تواند نشانگر تمایل پاکستان به حفظ تعادل در منطقه باشد"
+        ],
+        "impact": "ممکن است به کاهش تنش‌های منطقه‌ای کمک کند یا به تحرکات دیپلماتیک جدید منجر شود",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlVWOVI5YmxfQ2tucDJXdGN2c1MwOU43X3dqYUkzemgzdHRlc2FLeDV4NGFTb1NLcloxQWtoNXFWZ0MxSUlFWDZFTVY2WmFISnUtckI5XzF4OGpubzhmUUM3Q1pOZG1JcnRYZVRUVi1EMk5CTDI1bk9hVjBHdWtIeDdaYmE5VU5veHBpQ0ZuNmhPakVNd0RadkdfTFZQS19fT0tvOUJBejNyVzMzZ0htT2ZBSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlVWOVI5YmxfQ2tucDJXdGN2c1MwOU43X3dqYUkzemgzdHRlc2FLeDV4NGFTb1NLcloxQWtoNXFWZ0MxSUlFWDZFTVY2WmFISnUtckI5XzF4OGpubzhmUUM3Q1pOZG1JcnRYZVRUVi1EMk5CTDI1bk9hVjBHdWtIeDdaYmE5VU5veHBpQ0ZuNmhPakVNd0RadkdfTFZQS19fT0tvOUJBejNyVzMzZ0htT2ZBSQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792490476.0
+    },
+    {
+        "id": "77aefe6055",
+        "title_fa": "هگست با نتانیاهو دیدار می‌کند که ایالات متحده و اسرائیل در مورد حملات مجدد ایران گفتگو می‌کنند",
+        "title_en": "Hegseth meets Netanyahu as US, Israel discuss renewed Iran strikes",
+        "summary": [
+            "Hegseth meets Netanyahu as US, Israel discuss renewed Iran strikes NewsNation"
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "NewsNation",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53YjVabzNFaVRWc2ZNeFFiOFVhTU9OejgzX2ZZbXBobEQxT2FiUXI4Mk9ua0ZaU2ZnblAxamJ1ejNNVUlMd2pJc2VvbndKTUY3X2JGbUstXzdZOWxLckhFUkFFWjlWU2tIbGpDRFMydkVDdHBSY0dYRU5xTHh0Z9IBgwFBVV95cUxNTnpSbXJpX1UtUXRzUGEtalFYazQzeFY3Ny1BR2Z2ejljcktXaXBWQVN1VEtwaEZ5OHFKNnBVbVY0dG92QVVaeVRaTUEtMXI5VUlSa0l6QVFST3oxOUJKVFJOeFM3S3BzcUUtMUFJcUtIaTU5RGdjQmQ3cWFFQ2dHRU43RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53YjVabzNFaVRWc2ZNeFFiOFVhTU9OejgzX2ZZbXBobEQxT2FiUXI4Mk9ua0ZaU2ZnblAxamJ1ejNNVUlMd2pJc2VvbndKTUY3X2JGbUstXzdZOWxLckhFUkFFWjlWU2tIbGpDRFMydkVDdHBSY0dYRU5xTHh0Z9IBgwFBVV95cUxNTnpSbXJpX1UtUXRzUGEtalFYazQzeFY3Ny1BR2Z2ejljcktXaXBWQVN1VEtwaEZ5OHFKNnBVbVY0dG92QVVaeVRaTUEtMXI5VUlSa0l6QVFST3oxOUJKVFJOeFM3S3BzcUUtMUFJcUtIaTU5RGdjQmQ3cWFFQ2dHRU43RQ",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792490400.0
+    },
+    {
+        "id": "52bb4047fb",
+        "title_fa": "مقامات می‌گویند که هگ ست در سفری اعلام نشده از اسرائیل با نتانیاهو درباره ایران گفتگو می‌کند",
+        "title_en": "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say",
+        "summary": [
+            "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say Al-Monitor"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Al-Monitor",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWp1LUEtUTNkQ25haW85VW5pM0RYV0RHMGJ6OFNya2JRY0w3MTdXb2hoX0FTMENSenlzZ08zQUhCRGpZblk0NlFFellreENMVjh2UC1fRy1SOWFDTmRzeTl1YXZVTFJFb1dNVDIyYlZXekM1Z2ZTQzdGSE1Ybm9hOVBrb1hkYzdJeUpuS1BXMm5iUVJZRzlTcnVCM1pqNmJ2OHh2SnlDQVBNX0pSSXc2REc0RVMwSEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWp1LUEtUTNkQ25haW85VW5pM0RYV0RHMGJ6OFNya2JRY0w3MTdXb2hoX0FTMENSenlzZ08zQUhCRGpZblk0NlFFellreENMVjh2UC1fRy1SOWFDTmRzeTl1YXZVTFJFb1dNVDIyYlZXekM1Z2ZTQzdGSE1Ybm9hOVBrb1hkYzdJeUpuS1BXMm5iUVJZRzlTcnVCM1pqNmJ2OHh2SnlDQVBNX0pSSXc2REc0RVMwSEE",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792486066.0
+    },
+    {
+        "id": "ca3ada0868",
+        "title_fa": "رییس هواپیمایی ایران‌ایر، ۳۰ تا ۴۰ هواپیمای عملیاتی از بین رفته را اعلام کرد",
+        "title_en": "Iran Air chief says 30 to 40 operational aircraft destroyed in war",
+        "summary": [
+            "رییس ایران‌ایر اعلام کرد ۳۰ تا ۴۰ هواپیمای عملیاتی در جنگ تخریب شده‌اند",
+            "این ادعا نشان‌دهنده خسارت سنگین به زیرساخت هوایی کشور است",
+            "اطلاعات جزئیات یا زمان دقیق حمله منتشر نشده",
+            "این خبر می‌تواند به تضعیف توانایی حمل و نقل هوایی ایران منجر شود"
+        ],
+        "impact": "کاهش توان عملیاتی هواپیمایی ملی و فشار بر اقتصاد حمل‌ونقل",
+        "tag": "هواپیما",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hT0JQaGctaEpDMzFjX0ZCV2tqeHdzMmdmT2VpSFA4aEZndlUtdEVJcGc5UWQ2dUMwRjJxNWpsVlAxUHRKX3dNOVJpYWlTb3NFcVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hT0JQaGctaEpDMzFjX0ZCV2tqeHdzMmdmT2VpSFA4aEZndlUtdEVJcGc5UWQ2dUMwRjJxNWpsVlAxUHRKX3dNOVJpYWlTb3NFcVE",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792484932.0
+    },
+    {
         "id": "042a17b00d",
         "title_fa": "ترامپ با ادعای توهین به مسیحیان واکنش جنجالی",
         "title_en": "Tonald Trump “spits in the face of Christians” with latest claim to the public",
@@ -149,6 +283,26 @@
         "timestamp": 1792466366.0
     },
     {
+        "id": "990a6503d2",
+        "title_fa": "خبرنگار آمریکایی با واحد ویژه «آخمت» روسیه قرارداد بست",
+        "title_en": "American national signs contract with Russian Defense Ministry's Akhmat commando unit",
+        "summary": [
+            "خبرنگار آمریکایی سیتوگرام هلالی، شهروند آمریکا، درخواست تابعیت روسیه کرد و با واحد ویژه «آخمت» قرارداد امضا کرد",
+            "او ادعا می‌کند آموزش‌های نظامی روسیه را دریافت کرده و به عنوان جنگجوی این واحد خدمت می‌کند",
+            "پیشینه نظامی او شامل خدمت در نیروی دریایی ایالات متحده است",
+            "این اقدام نشان‌دهنده استفاده روسیه از افراد خارجی برای تبلیغات نظامی است"
+        ],
+        "impact": "افزایش تنش‌های رسانه‌ای بین آمریکا و روسیه و تخریب تصویر روسیه در فضای بین‌المللی",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/defense/2204557",
+        "clean_url": "https://tass.com/defense/2204557",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792464000.0
+    },
+    {
         "id": "e9338fe816",
         "title_fa": "گزارش می‌ای آی: خاورمیانه پس از جنگ ایران",
         "title_en": "MEI Report Launch | The Middle East Beyond the Iran War",
@@ -278,6 +432,26 @@
         "clean_url": "https://muslimmirror.com/west-asia-the-people-refuse-to-submit-how-popular-resistance-challenges-us-imperialism",
         "image": "https://muslimmirror.com/wp-content/uploads/2018/05/Gaza-violence-exacerbates-suffering-of-children.jpg",
         "timestamp": 1792454400.0
+    },
+    {
+        "id": "e43a7583bd",
+        "title_fa": "هگست با نتانیاهو در اسرائیل دیدار کرد",
+        "title_en": "هگست در «سفری اعلام‌نشده به اسرائیل» با نتانیاهو دیدار کرد",
+        "summary": [
+            "وزیرف دفاع آمریکا در سفر غیرمعلن به اسرائیل با نخست‌وزیر این کشور ملاقات کرد",
+            "ملاقات در پایگاه هوایی عوودا، جایی که نیروهای هوایی آمریکا مستقرند",
+            "دو کشور دربارهٔ عملیات نظامی گسترده علیه ایران گفتگو می‌کنند",
+            "پنتاگون و اسرائیل از اظهار نظر خودداری کردند"
+        ],
+        "impact": "احتمال تشدید فشار نظامی بر ایران و نزدیک شدن به تصمیم‌گیری برای حمله",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/hegseth-middle-east/33879980.html",
+        "clean_url": "https://www.radiofarda.com/a/hegseth-middle-east/33879980.html",
+        "image": "http://www.bing.com/th?id=ONUT.rRhxeeoRPjyaCK15RyyY5w&pid=News",
+        "timestamp": 1792454220.0
     },
     {
         "id": "23d1bcb0b0",
@@ -5406,168 +5580,5 @@
         "clean_url": "https://www.economist.com/by-invitation/2026/10/16/a-former-ally-asks-why-donald-trump-abandoned-his-own-legacy",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792163053.0498333
-    },
-    {
-        "id": "a6b615140c",
-        "title_fa": "ترامپ از حمله احتمالی جدید به برنامه هسته‌ای ایران خبر می‌دهد",
-        "title_en": "Trump signals possible new strike on Iran’s nuclear programme",
-        "summary": [
-            "Trump signals possible new strike on Iran’s nuclear programme The Arab Weekly"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Arab Weekly",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1B3YjRwT1JpVVBXNFpSeVpTT0xnUi10cjhDODNMakI4YlZIWWlXdTF2SHBGMG5UYjVBT19Cbk5TaHlGQW90TWNHSXBUc0Rzd2U5a0haSE5UVVJmLUpQNk15ZjZmTldJWVRxam1famdLNVc5Y3d3SjV4OU5yUzBPd1BOYVhYQXNiaWdZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1B3YjRwT1JpVVBXNFpSeVpTT0xnUi10cjhDODNMakI4YlZIWWlXdTF2SHBGMG5UYjVBT19Cbk5TaHlGQW90TWNHSXBUc0Rzd2U5a0haSE5UVVJmLUpQNk15ZjZmTldJWVRxam1famdLNVc5Y3d3SjV4OU5yUzBPd1BOYVhYQXNiaWdZ",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792162345.0
-    },
-    {
-        "id": "37c33e2446",
-        "title_fa": "اتحادیه اروپا حملات ایران را محکوم کرد",
-        "title_en": "EU condemns Iran attacks, calls for restraint by Tehran and proxies",
-        "summary": [
-            "اروپا به‌صورت یک‌جانبه ایران و عوامل وابسته‌اش را به توقف حملات در خاورمیانه فراخواند",
-            "بیانیه به خطر برای ناوبری در تنگه هرمز و نقض حقوق بین‌المللی اشاره کرد",
-            "این فشار دیپلماتیک می‌تواند تحریم‌های جدید را به دنبال داشته باشد"
-        ],
-        "impact": "تحریم‌های اقتصادی و سیاسی جدید علیه ایران می‌تواند فشار بر منابع مالی‌اش را افزایش دهد",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610162076",
-        "clean_url": "https://www.iranintl.com/en/202610162076",
-        "image": "http://www.bing.com/th?id=ONUT.HRZWz8N07w7LklXJcDuy1w&pid=News",
-        "timestamp": 1792161420.0
-    },
-    {
-        "id": "b78325e89e",
-        "title_fa": "هشدار فین‌سن: سوءاستفاده از خیریه‌های دینی توسط ایران",
-        "title_en": "Iran cleric says Iran-US war should continue until security is assured",
-        "summary": [
-            "دپارتمان مالیات آمریکا (FinCEN) بانک‌ها را به گزارش هرگونه تراکنش مشکوک مرتبط با خیریه‌های دینی ایرانی فراخوانده است.",
-            "سازمان‌های خیریه ممکن است با استفاده از شبکه‌های حواله‌ای غیررسمی و حواله‌های نقدی، پول‌های جمع‌آوری‌شده را به نهادهای دولتی یا تروریستی منتقل کنند.",
-            "این اقدام در چارچوب فشارهای اقتصادی آمریکا بر ایران و جلوگیری از تأمین مالی تروریسم است."
-        ],
-        "impact": "محدود کردن جریان مالی غیرقانونی می‌تواند توان مالی گروه‌های تروریستی وابسته به ایران را کاهش دهد",
-        "tag": "مالی",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610160393",
-        "clean_url": "https://www.iranintl.com/en/202610160393",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792160160.0
-    },
-    {
-        "id": "380e43230d",
-        "title_fa": "پروکسی‌های ایران حقوق کارگران را به سپاه می‌فرستند",
-        "title_en": "CENTCOM chief cites reports Iran’s proxies holding back salaries to send money to IRGC",
-        "summary": [
-            "آدمیرال براد کوپر اعلام کرد که پروکسی‌های ایران دستمزدها را نگه می‌دارند تا به سپاه منتقل شود.",
-            "این اقدام فشار مالی بر کارگران ایرانی را تشدید می‌کند و منابع مالی سپاه را تقویت می‌نماید.",
-            "ایالات متحده صادرات نفت ایران را مسدود کرده و کنترل استراتژیک هرمز را حفظ می‌کند."
-        ],
-        "impact": "تقویت توان مالی سپاه در مقابل تحریم‌ها، تضعیف وضعیت اقتصادی کارگران.",
-        "tag": "مالی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Times of Israel on MSN",
-        "url": "https://www.msn.com/en-us/news/other/centcom-chief-cites-reports-iran-s-proxies-holding-back-salaries-to-send-money-to-irgc/ar-AA2er4qE?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/centcom-chief-cites-reports-iran-s-proxies-holding-back-salaries-to-send-money-to-irgc/ar-AA2er4qE",
-        "image": "https://www.bing.com/th?id=ONUT._5wYVt4rYoy73thJu7dVnA",
-        "timestamp": 1792159559.0
-    },
-    {
-        "id": "d07e71f4cc",
-        "title_fa": "تحلیل عربی: جنگ یمن و سوریه، بازتابی برای خاورمیانه",
-        "title_en": "Voices from the Arab press: Yemen’s fight to retake Sana'a mirrors Syria’s liberation of Damascus",
-        "summary": [
-            "نویسندگان عربی به مقایسهٔ پیشروی یمن در سنا و آزادسازی دمشق می‌پردازند.",
-            "این مقایسه نشان‌دهندهٔ تغییرات ایدئولوژیک و جبهه‌های منطقه‌ای است.",
-            "مستقیم به ایران اشاره‌ای ندارند، اما تحولات منطقه‌ای بر سیاست‌های تهران تأثیر می‌گذارد."
-        ],
-        "impact": "تقویت روایت‌های منطقه‌ای که می‌تواند موضع‌گیری ایران را تحت فشار قرار دهد.",
-        "tag": "رسانه",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/voices-from-the-arab-press-yemen-s-fight-to-retake-sanaa-mirrors-syria-s-liberation-of-damascus/ar-AA2eqEjv?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/voices-from-the-arab-press-yemen-s-fight-to-retake-sanaa-mirrors-syria-s-liberation-of-damascus/ar-AA2eqEjv",
-        "image": "https://www.bing.com/th?id=ONUT.hmho2k7jxoNavOqIexgCnQ",
-        "timestamp": 1792159559.0
-    },
-    {
-        "id": "fafeb0fa09",
-        "title_fa": "آلودگی هوای پس‌جنگی ایران؛ خطر به‌سرعت می‌گسترَد",
-        "title_en": "Iran’s air was already deadly. Is a postwar pollution crisis coming?",
-        "summary": [
-            "پس از جنگ، سطوح ذرات معلق در شهرهای ایران به‌سرعت بالا رفته",
-            "کمبود تجهیزات نظارت و واکنش سریع می‌تواند بحران بهداشتی طولانی‌مدت ایجاد کند"
-        ],
-        "impact": "افزایش بیماری‌های تنفسی و فشار بر نظام بهداشتی",
-        "tag": "محیط‌زیست",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-air-was-already-deadly-is-a-postwar-pollution-crisis-coming/ar-AA2eqOc7",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-air-was-already-deadly-is-a-postwar-pollution-crisis-coming/ar-AA2eqOc7",
-        "image": "http://www.bing.com/th?id=ONUT.6QgyIwSqihmdzPw_Idk_oQ&pid=News",
-        "timestamp": 1792159200.0
-    },
-    {
-        "id": "254da3c0b1",
-        "title_fa": "11 دسامبر 2025",
-        "title_en": "11 Decembrie 2025",
-        "summary": [
-            "Jurnalistul Recorder Alex Nedea reacționează joi, 11 decembrie, după conferința „extraordinară” a Curții de Apel București, și spune că în locul demontării punctuale a multitudinii de..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ziare.com",
-        "url": "https://ziare.com/cautare/tradiÈ›ii-pag330",
-        "clean_url": "https://ziare.com/cautare/tradiÈ›ii-pag330",
-        "image": "https://ziareromania.ro/img/header/logo-ziare-com2.svg",
-        "timestamp": 1792158506.7806354
-    },
-    {
-        "id": "c94448181f",
-        "title_fa": "\"روابط عجیب ترامپ با روسیه\" ابروها را برانگیخته است",
-        "title_en": "Trump's 'weird relationship with Russia' raises eyebrows",
-        "summary": [
-            "President Donald Trump's recent decision to hand over $4 billion to Russia despite sanctions that he implemented is bringing..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-au/news/other/trump-s-weird-relationship-with-russia-raises-eyebrows/ar-AA2enygc?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/other/trump-s-weird-relationship-with-russia-raises-eyebrows/ar-AA2enygc",
-        "image": "https://www.bing.com/th?id=ONUT.meEDT4pgpHrHvw4cl2cuvQ",
-        "timestamp": 1792158506.779769
-    },
-    {
-        "id": "fa35219c69",
-        "title_fa": "زاخاروا: سرکوب خبرنگاران روسی توسط اوکراین رسوایی است",
-        "title_en": "Russian MFA comments on Zelensky as 'incredible disgrace,' Kiev's hunt for journalists",
-        "summary": [
-            "سخنگوی وزارت خارجه روسیه زاخاروا می‌گوید سرکوب خبرنگاران توسط اوکراین «رسوایی» است",
-            "او تأکید می‌کند انتخابات اوکراین تصمیم داخلی است و نه فشار مسکو"
-        ],
-        "impact": "تنش رسانه‌ای بین دو کشور افزایش می‌یابد",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2203103",
-        "clean_url": "https://tass.com/politics/2203103",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261016/1490069.jpg",
-        "timestamp": 1792158480.0
     }
 ]
