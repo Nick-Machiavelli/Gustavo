@@ -1,5 +1,78 @@
 [
     {
+        "id": "f5381d286c",
+        "title_fa": "ترکیه، آذربایجان و اسرائیل: محاسبه‌گری منطقه‌ای",
+        "title_en": "A Reversible Reaction: Turkey, Azerbaijan and Israel’s Regional Calculus",
+        "summary": [
+            "ترکیه سعی دارد تعادل بین آذربایجان و اسرائیل را حفظ کند",
+            "تغییرات جغرافیایی می‌تواند به عنوان کاتالیزور ثبات یا بی‌ثباتی عمل کند"
+        ],
+        "impact": "تعادل ناپایدار می‌تواند به تنش‌های جدید در قفقاز و خاورمیانه منجر شود",
+        "tag": "ژئوپلیتیک",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Modern Ghana",
+        "url": "https://www.modernghana.com/news/1537452/a-reversible-reaction-turkey-azerbaijan-and-isra.html",
+        "clean_url": "https://www.modernghana.com/news/1537452/a-reversible-reaction-turkey-azerbaijan-and-isra.html",
+        "image": "https://www.bing.com/th?id=ONUT.RLf-qrnONxJCP2uWFtSK8A",
+        "timestamp": 1792457821.8469613
+    },
+    {
+        "id": "ade2137dbe",
+        "title_fa": "آمریکا جنگ سرد را از دست داد",
+        "title_en": "Opinion: As it turns out, America lost the Cold War",
+        "summary": [
+            "مقاله ادعا می‌کند ایالات متحده نتوانست اهداف استراتژیک خود را در دوره پس از جنگ سرد حفظ کند",
+            "نویسنده به شکست‌های اقتصادی و ژئوپلیتیکی اخیر اشاره می‌کند"
+        ],
+        "impact": "نگاه انتقادی می‌تواند بحث‌های داخلی درباره سیاست خارجی آمریکا را تشدید کند",
+        "tag": "تحلیل",
+        "urgency": 1,
+        "sentiment": -0.2,
+        "source": "The Daily Beast on MSN",
+        "url": "https://www.msn.com/en-us/news/other/opinion-as-it-turns-out-america-lost-the-cold-war/ar-AA2fC8QV?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/opinion-as-it-turns-out-america-lost-the-cold-war/ar-AA2fC8QV",
+        "image": "https://www.bing.com/th?id=ONUT.nZZ0-J9YoH3x7c__fykqHQ",
+        "timestamp": 1792457821.8466153
+    },
+    {
+        "id": "c30ca2ba04",
+        "title_fa": "حمله سه‌جانبه حوثی‌ها تهدیدی برای جهان",
+        "title_en": "Houthis’ Three-Pronged Attack A Threat To The World – Analysis",
+        "summary": [
+            "حوثی‌ها زیرساخت‌های غیرنظامی و انرژی سعودی را هدف گرفته‌اند",
+            "عملیات‌ها بحران انسانی یمن را تشدید می‌کند و بازار انرژی جهانی را تحت فشار می‌گذارد",
+            "حمایت ایران از حوثی‌ها نیاز به فشار بین‌المللی و احتمال اقدام‌ها نظامی دارد"
+        ],
+        "impact": "تداوم حملات می‌تواند قیمت نفت را بالا برده و ثبات منطقه را به خطر اندازد",
+        "tag": "حوثی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Eurasia Review",
+        "url": "https://www.eurasiareview.com/20102026-houthis-three-pronged-attack-a-threat-to-the-world-analysis/",
+        "clean_url": "https://www.eurasiareview.com/20102026-houthis-three-pronged-attack-a-threat-to-the-world-analysis",
+        "image": "https://www.bing.com/th?id=ONUT.L46a-YEcQYoyg8RFK86YAA",
+        "timestamp": 1792457821.844802
+    },
+    {
+        "id": "f6b8a9d9bd",
+        "title_fa": "مردم خاور‌غربی در برابر امپریالیسم ایالات متحده ایستادگی می‌کنند",
+        "title_en": "West Asia: The People Refuse to Submit — How Popular Resistance Challenges US Imperialism",
+        "summary": [
+            "مقاله می‌گوید مردم منطقه نقش کلیدی در مقابله با قدرت نظامی آمریکا دارند",
+            "مقاومت مردمی با ترکیب منافع اقتصادی و طبقه‌ای می‌تواند مسیر جدیدی برای تاریخ بسازد"
+        ],
+        "impact": "تقویت جنبش‌های مردمی می‌تواند فشار بر سیاست‌های امپریالیستی را افزایش دهد",
+        "tag": "مقاومت",
+        "urgency": 2,
+        "sentiment": 0.3,
+        "source": "Muslim Mirror",
+        "url": "https://muslimmirror.com/west-asia-the-people-refuse-to-submit-how-popular-resistance-challenges-us-imperialism/",
+        "clean_url": "https://muslimmirror.com/west-asia-the-people-refuse-to-submit-how-popular-resistance-challenges-us-imperialism",
+        "image": "https://muslimmirror.com/wp-content/uploads/2018/05/Gaza-violence-exacerbates-suffering-of-children.jpg",
+        "timestamp": 1792454400.0
+    },
+    {
         "id": "ebffee240e",
         "title_fa": "سیاست‌مداران ایران به‌صراحت خواست سلاح هسته‌ای را اعلام کردند",
         "title_en": "Iran pols finally admit they want nuclear weapons: 'It’s a necessity more important than bread'",
@@ -232,6 +305,25 @@
         "timestamp": 1792429563.8699703
     },
     {
+        "id": "c4b703c25f",
+        "title_fa": "ترامپ: ایالات متحده به ایران فشار اقتصادی و نظامی می‌آورد",
+        "title_en": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+        "summary": [
+            "ترامپ به‌صراحت گفت آمریکا به‌صورت همزمان تحریم‌های سنگین و تهدیدهای نظامی علیه ایران اعمال می‌کند",
+            "چین حملات آمریکا‑اسرائیل را تجاوز آشکار خوانده و عدم مشورت در شورای امنیت را انتقاد کرد",
+            "سخنگوی سپاه تهدید به هدف قرار دادن کابل‌های زیرآبی در تنگه هرمز کرد"
+        ],
+        "impact": "ایران با فشار ترکیبی اقتصادی‑نظامی مواجه می‌شود، ریسک تشدید تنش‌های منطقه‌ای افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260217__97WL4GM__v1__HighRes__IranUsConflictIrgcDrills-1792449681.jpg?resize=1920%2C1440",
+        "timestamp": 1792429200.0
+    },
+    {
         "id": "ed15353bf4",
         "title_fa": "لاوروف در تهران به امنیت منطقه و جنگ آمریکا پرداخت",
         "title_en": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
@@ -267,6 +359,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZQTG5MYW5mNnVRTlZMenMzal82djYwWkszRHRUVlpWNkNvTThoRVk4ZjlpWVM2R2ZJM2UycUg2MFRiUS1ndnlqZ1dIVkN0V3NmM3owV2R4QjlDS2NNbGtiZmdIOTZHVUtpc0g1bjZ3Nk10SUc0R1pnLUgtS1pnYkJkVEkwZ0VUcnAyaUpCLTZ1dEFYQkFIWHNtSFJpR28",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792426280.0
+    },
+    {
+        "id": "7547b4c920",
+        "title_fa": "آمریکا و اسرائیل به حملات جدید علیه ایران فکر می‌کنند",
+        "title_en": "US, Israel weigh renewed strikes on Iran as experts warn renewed conflict may be inevitable",
+        "summary": [
+            "کارشناسان هشدار می‌دهند عملیات کوتاه می‌تواند به جنگ طولانی تبدیل شود",
+            "هدف‌های احتمالی شامل تأسیسات موشکی و زیرساخت‌های هسته‌ای است",
+            "تصمیم‌گیری‌ها هنوز در مرحله بررسی است اما فشار دیپلماتیک در حال افزایش است"
+        ],
+        "impact": "احتمال حمله نظامی می‌تواند تنش‌های خاورمیانه را به نقطه انفجار برساند",
+        "tag": "حمله",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-israel-weigh-renewed-strikes-on-iran-as-experts-warn-renewed-conflict-may-be-inevitable/ar-AA2fAUq6",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-israel-weigh-renewed-strikes-on-iran-as-experts-warn-renewed-conflict-may-be-inevitable/ar-AA2fAUq6",
+        "image": "http://www.bing.com/th?id=ONUT.QOnJdI13ZDOceFV1eTq_lw&pid=News",
+        "timestamp": 1792425141.0
     },
     {
         "id": "62c27b533b",
@@ -1097,6 +1208,24 @@
         "timestamp": 1792373483.0
     },
     {
+        "id": "c01c538ddc",
+        "title_fa": "هگست، نتانیاهو پیش انتخابات اسرائیل دیدار کردند",
+        "title_en": "Hegseth, Netanyahu meet in unannounced visit days before Israeli elections",
+        "summary": [
+            "وزیرفرد دفاع آمریکا با نخست‌وزیر اسرائیل پیش از انتخابات ملاقات کرد",
+            "ملاقات بدون اعلام رسمی، نشانگر هماهنگی احتمالی در سیاست‌های امنیتی است"
+        ],
+        "impact": "ممکن است برنامه‌های نظامی آمریکا در منطقه پیش از انتخابات تثبیت شود",
+        "tag": "دیپلماتیک",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-au/news/other/hegseth-netanyahu-meet-in-unannounced-visit-days-before-israeli-elections/ar-AA2fAV5s?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-au/news/other/hegseth-netanyahu-meet-in-unannounced-visit-days-before-israeli-elections/ar-AA2fAV5s",
+        "image": "https://www.bing.com/th?id=ONUT.iSCJxyG6jIDqpQog2VkCRw",
+        "timestamp": 1792371412.0
+    },
+    {
         "id": "1077d1617e",
         "title_fa": "مخبر آینده درخشان را با خامنه‌ای پیش‌بینی کرد",
         "title_en": "محمد مخبر: مطمئن باشید با مجتبی خامنه‌ای آینده درخشانی پیش روی ماست",
@@ -1542,6 +1671,24 @@
         "clean_url": "https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms",
         "image": "https://www.bing.com/th?id=ONUT.QBV546Ij5LcvZQ7g_eXFbA",
         "timestamp": 1792343144.0
+    },
+    {
+        "id": "05418bb294",
+        "title_fa": "آرشاغچی درباره حضور آمریکا در منطقه هشدار داد",
+        "title_en": "Iran, TRIPP, and the Geopolitics of Regional Security",
+        "summary": [
+            "وزیر خارجه ایران گفت حضور آمریکا در ارمنستان تهدیدی برای امنیت ایران است",
+            "ایران به روابط نزدیک با ارمنستان اطمینان داد و انتظار دارد ارمنستان گام‌های مخرب نگیرد"
+        ],
+        "impact": "اعلام نگرانی می‌تواند روابط ارمنستان‑ایران را تحت فشار قرار دهد",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Armenian Mirror-Spectator",
+        "url": "https://mirrorspectator.com/2026/10/19/iran-tripp-and-the-geopolitics-of-regional-security/",
+        "clean_url": "https://mirrorspectator.com/2026/10/19/iran-tripp-and-the-geopolitics-of-regional-security",
+        "image": "http://mirrorspectator.com/wp-content/uploads/2026/10/sargsyan-10-24-ed-e1792454344845.jpg",
+        "timestamp": 1792342740.0
     },
     {
         "id": "449a92a2ea",
@@ -5411,155 +5558,5 @@
         "clean_url": "https://www.iranintl.com/en/202610163212",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792145580.0
-    },
-    {
-        "id": "93929067a8",
-        "title_fa": "مواضع نامزدهای سناتور کانزاس درباره جنگ ایران",
-        "title_en": "Fact check: What are U.S. Senate candidates’ stances on Iran war in Kansas race",
-        "summary": [
-            "اکثریت نامزدها تحریم‌های سختگیرانه را می‌خواهند و در صورت تشدید تنش، اقدام نظامی جدی را حمایت می‌کنند",
-            "برخی دیگر دیپلماسی را اولویت می‌دانند و از ورود مستقیم نیرو به ایران می‌پرهیزند",
-            "این تقسیم‌نظرها می‌تواند در انتخابات کنگره تأثیرگذار باشد و جناح محافظه‌کار را تقویت کند"
-        ],
-        "impact": "موضع‌گیری‌های نامزدها می‌تواند جهت‌گیری کنگره آمریکا نسبت به ایران را تحت فشار قرار دهد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Kansas City Star",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFc0JIcGh2dkFWX1BMRVpHaWQ1Y1R1T3RZMVIxaU5CM0F3QVR6UlFJdU9penNERlJOMVloRlR0ajdZNmsxZTdHcXo1RUhLdXhOeVFuQUx1NHppZFM5OFd5aDZoLXc1clhTU25IaVhJNzdINWQxQnlHRmhTMlRfZ9IBfkFVX3lxTE1DeVpucXltQzFzZ0lWYWpaeVZnMngzeG0ySjI1NUVTaVgtMm9OV1RIS3E3WkdfajBXTmlBa1pWRDAyZ3lDZzhKT2pVSWxXMktCV0x0WDI4SFNmc3puRG03NnpQVVZ6aWswbG1zb2lOeUFueTJXUE1tNzBTUjZQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFc0JIcGh2dkFWX1BMRVpHaWQ1Y1R1T3RZMVIxaU5CM0F3QVR6UlFJdU9penNERlJOMVloRlR0ajdZNmsxZTdHcXo1RUhLdXhOeVFuQUx1NHppZFM5OFd5aDZoLXc1clhTU25IaVhJNzdINWQxQnlHRmhTMlRfZ9IBfkFVX3lxTE1DeVpucXltQzFzZ0lWYWpaeVZnMngzeG0ySjI1NUVTaVgtMm9OV1RIS3E3WkdfajBXTmlBa1pWRDAyZ3lDZzhKT2pVSWxXMktCV0x0WDI4SFNmc3puRG03NnpQVVZ6aWswbG1zb2lOeUFueTJXUE1tNzBTUjZQUQ",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792144800.0
-    },
-    {
-        "id": "63dfa17250",
-        "title_fa": "اتحادیه سعودی موشک کروز و پهپادها را نابود کرد",
-        "title_en": "Saudi coalition intercepts cruise missile, drones over kingdom",
-        "summary": [
-            "ائتلاف سعودی موشک کروز و سه پهپاد را در آسمان ملک نابود کرد.",
-            "منبع پرتاب موشک اعلام نشد، اما حملات مرزی از یمن ادامه دارد.",
-            "این واقعه نشان می‌دهد تهدید هوایی بر عربستان همچنان جدی است."
-        ],
-        "impact": "دفاع هوایی سعودی می‌تواند تهدیدات مرزی را خنثی کند اما خطر حملات مداوم باقیست.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "en.yenisafak",
-        "url": "https://en.yenisafak.com/world/saudi-coalition-intercepts-cruise-missile-drones-over-kingdom-3724490",
-        "clean_url": "https://en.yenisafak.com/world/saudi-coalition-intercepts-cruise-missile-drones-over-kingdom-3724490",
-        "image": "https://img.piri.net/piri/upload/3/2026/10/16/e3af006a-saudi-coalition-intercepts-cruise-missile-drones-over.webp",
-        "timestamp": 1792144500.0
-    },
-    {
-        "id": "a186582b92",
-        "title_fa": "ترامپ کریمه را «زیباترین صلح سرزمینی» توصیف کرد که اوکراین از آن دست کشید",
-        "title_en": "Trump describes Crimea as 'most beautiful peace of land' Ukraine gave up",
-        "summary": [
-            "US President Donald Trump has described Crimea as the most valuable part of Ukraine, which Kiev gave up. \"Crimea is the most valuable part, by far, of Ukraine. You know what I'm talking about? Four sides of ocean."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2202919",
-        "clean_url": "https://tass.com/world/2202919",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261016/1490029.jpg",
-        "timestamp": 1792143840.0
-    },
-    {
-        "id": "fec3936ece",
-        "title_fa": "ایران سه روز هشدار نظامی کامل صادر کرد",
-        "title_en": "Trump just got handed a mobilization signal from Iran: Tehran has reportedly put its forces on highest alert for three days",
-        "summary": [
-            "تهران اعلام کرد نیروهای نظامی را برای سه روز در بالاترین حالت آماده‌باش قرار داده است",
-            "این اقدام واکنشی به احتمال حملهٔ جدید آمریکا و نشان‌دهندهٔ افزایش خطر تشدید درگیری است",
-            "تحلیل‌گران می‌گویند این هشدار می‌تواند تصمیمات انتخاباتی ترامپ را تحت فشار قرار دهد"
-        ],
-        "impact": "افزایش تنش‌های منطقه‌ای و احتمال بروز برخورد نظامی پیش‌دستی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-just-got-handed-a-mobilization-signal-from-iran-tehran-has-reportedly-put-its-forces-on-highest-alert-for-three-days/ar-AA2eozB9",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-just-got-handed-a-mobilization-signal-from-iran-tehran-has-reportedly-put-its-forces-on-highest-alert-for-three-days/ar-AA2eozB9",
-        "image": "http://www.bing.com/th?id=ONUT.gtPa-phMnX7hMw-0fwxXug&pid=News",
-        "timestamp": 1792142436.0
-    },
-    {
-        "id": "551543215e",
-        "title_fa": "ترامپ در حال از دست رفتن ریاست‌جمهوری",
-        "title_en": "Voices: We are now watching Donald Trump’s presidency die on live TV",
-        "summary": [
-            "نظراتی که نشان می‌دهد ترامپ دیگر توان رهبری را ندارد",
-            "این سقوط می‌تواند مسیر سیاست خارجی آمریکا را به‌خصوص نسبت به ایران تغییر دهد"
-        ],
-        "impact": "کاهش قدرت ترامپ می‌تواند سیاست‌های سخت‌گیرانه علیه ایران را تضعیف کند",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/voices-we-are-now-watching-donald-trump-s-presidency-die-on-live-tv/ar-AA2emjUv?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/voices-we-are-now-watching-donald-trump-s-presidency-die-on-live-tv/ar-AA2emjUv",
-        "image": "https://www.bing.com/th?id=ONUT.4YKklnMN-UXLIfI3wbb9mg",
-        "timestamp": 1792140593.8558536
-    },
-    {
-        "id": "2f6eeb1ed6",
-        "title_fa": "طرح سفید‌خانه برای باز کردن تنگهٔ هرمز",
-        "title_en": "White House discloses outline of deal to end Iran war, open Strait of Hormuz",
-        "summary": [
-            "سفید‌خانه طرحی برای پایان جنگ ایران و باز کردن تنگهٔ هرمز ارائه داد.",
-            "جزئیات شامل تعهد به کاهش تحریم‌ها در ازای توقف حملات دریایی است.",
-            "این پیشنهاد می‌تواند مسیر مذاکرات چندجانبه را باز کند.",
-            "هنوز تأیید نهایی از ایران یا اسرائیل دریافت نشده."
-        ],
-        "impact": "امکان کاهش تنش‌های دریایی و بازگشت تجارت بین‌المللی در هرمز.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.3,
-        "source": "News From The States",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajUxTm1xbjE1bmVLUWVkbmhlOE5GaWxkcnFrcWh0Q1U2emtBNWtveGVpVDd6dTdZZl9lbkVxdDNSTWhiRUdqZFB3bnFTdDRXMXJmM1hOVGs2aC1Tbmh6MUlJT2pJZEZ1NS1jWXRzWXRfY0tTMmY3Q2ozNDJReVpaMmVOWUpTRmlVLV8yLTRsYVdtRFlFWHcyVi1BMzFYc2NSUk5UY1dfN0hIazhi?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajUxTm1xbjE1bmVLUWVkbmhlOE5GaWxkcnFrcWh0Q1U2emtBNWtveGVpVDd6dTdZZl9lbkVxdDNSTWhiRUdqZFB3bnFTdDRXMXJmM1hOVGs2aC1Tbmh6MUlJT2pJZEZ1NS1jWXRzWXRfY0tTMmY3Q2ozNDJReVpaMmVOWUpTRmlVLV8yLTRsYVdtRFlFWHcyVi1BMzFYc2NSUk5UY1dfN0hIazhi",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792139019.0
-    },
-    {
-        "id": "723f427d50",
-        "title_fa": "رئیس‌جمهور ایران، جنگ خاورمیانه را اکودیس می‌نامد",
-        "title_en": "Iran president says conflict in Middle East amounts to ‘ecocide’",
-        "summary": [
-            "رئیس‌جمهور ایران جنگ خاورمیانه را «اکودیس» نامید",
-            "این توصیف سعی دارد فشار بین‌المللی را علیه جنگ افزایش دهد",
-            "واکنش جهانی به این اظهارات هنوز نامشخص"
-        ],
-        "impact": "بیان اکودیس، سعی در جلب حمایت بین‌المللی علیه جنگ دارد",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Arab News",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2R0Unl4UVFZSlRnU1Azd3JXQW9fY2FxallTeXBHeGdNTHpRWXdlUU5UTWZURUZGZUVrWEVXRTZfVHV4Qk1CMV9HSTBRcmRwUXV4WW9RZ05fU19Mcy0wa3BuYjJESW1ZRzhQVEx3eWJpR01hcEtHdl9iR0RCZG5qVFZVZnVMeDlrRmlRN1ZYWm53X0E0VVQydzd1ZS1PNW1XbUFtTDJYZkNvWjA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2R0Unl4UVFZSlRnU1Azd3JXQW9fY2FxallTeXBHeGdNTHpRWXdlUU5UTWZURUZGZUVrWEVXRTZfVHV4Qk1CMV9HSTBRcmRwUXV4WW9RZ05fU19Mcy0wa3BuYjJESW1ZRzhQVEx3eWJpR01hcEtHdl9iR0RCZG5qVFZVZnVMeDlrRmlRN1ZYWm53X0E0VVQydzd1ZS1PNW1XbUFtTDJYZkNvWjA",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792138122.0
-    },
-    {
-        "id": "e4c9179bb8",
-        "title_fa": "ترامپ رد استفاده از سلاح هسته‌ای یا نیروهای زمینی",
-        "title_en": "Trump says he won't use nuclear weapons or send ground troops to Iran",
-        "summary": [
-            "ترامپ اعلام کرد در مقابل ایران از سلاح هسته‌ای یا نیروهای زمینی استفاده نخواهد کرد",
-            "این بیانیه می‌تواند فشار داخلی بر دولت او را کاهش دهد",
-            "اما همچنان گزینه‌های فشار اقتصادی و هوایی باقیست"
-        ],
-        "impact": "عدم استفاده از سلاح هسته‌ای، خطر تشدید نظامی را موقتاً کاهش می‌دهد",
-        "tag": "دیپلوماسی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVUVZclRnWDk3N29XeWRoV1pvUmNrTVJWZ2NOWEdKSlpMZEJtTUU2eFhXT1paWlZ1VEJHTDNPbElvbzczMjF6NTd5X240T1dyRzY3WGRpNUlocC13amVJSWVxai1ucTZQOGF2X0F30gFzQVVfeXFMTXJ2ZWlobThNeHNpX0dXeVdkYU9aaE9CZHVGeUdvaS1EQk9NQXVCbmJTeURnaEVwQnh4WmVBNjFJMUp1MjF6bTBmaExFdVNEMHdSbC1RVkY0ZWpVSXlRdjBsUng5Uld6RDF0SkNJZVdsaFY2bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVUVZclRnWDk3N29XeWRoV1pvUmNrTVJWZ2NOWEdKSlpMZEJtTUU2eFhXT1paWlZ1VEJHTDNPbElvbzczMjF6NTd5X240T1dyRzY3WGRpNUlocC13amVJSWVxai1ucTZQOGF2X0F30gFzQVVfeXFMTXJ2ZWlobThNeHNpX0dXeVdkYU9aaE9CZHVGeUdvaS1EQk9NQXVCbmJTeURnaEVwQnh4WmVBNjFJMUp1MjF6bTBmaExFdVNEMHdSbC1RVkY0ZWpVSXlRdjBsUng5Uld6RDF0SkNJZVdsaFY2bw",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792137415.0
     }
 ]
