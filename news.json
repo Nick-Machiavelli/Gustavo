@@ -1,5 +1,63 @@
 [
     {
+        "id": "042a17b00d",
+        "title_fa": "ترامپ با ادعای توهین به مسیحیان واکنش جنجالی",
+        "title_en": "Tonald Trump “spits in the face of Christians” with latest claim to the public",
+        "summary": [
+            "ترامپ ادعا کرد که مسیحیان را «در صورت‌گیری» می‌کند",
+            "این حرف در میان رای‌دهندگان مذهبی واکنش تند ایجاد کرد",
+            "منتقدان می‌گویند این فقط ترفند انتخاباتی است"
+        ],
+        "impact": "اعتماد مسیحیان به حزب جمهوری‌خواه کاهش می‌یابد",
+        "tag": "مذهب",
+        "urgency": 3,
+        "sentiment": -0.4,
+        "source": "Dagens.com on MSN",
+        "url": "https://www.msn.com/en-ie/news/other/tonald-trump-spits-in-the-face-of-christians-with-latest-claim-to-the-public/ar-AA2fCUam?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ie/news/other/tonald-trump-spits-in-the-face-of-christians-with-latest-claim-to-the-public/ar-AA2fCUam",
+        "image": "https://www.bing.com/th?id=ONUT.9OzC51SqcbE9U6UWH-UeMw",
+        "timestamp": 1792476891.5110815
+    },
+    {
+        "id": "efb35c9614",
+        "title_fa": "تسویه‌نظر ترامپ با روسیه؛ خرید دیزل و لغو تحریم‌ها",
+        "title_en": "Jon Stewart Sounds Alarm on Donald Trump’s ‘Insane’ Putin Deal",
+        "summary": [
+            "ترامپ تصمیم گرفت دیزل روسی بخرد تا قیمت بنزین داخلی را پایین آورد",
+            "لغو قانون لندسی او. گراهام باعث حذف تعرفه‌های نفت روسی شد",
+            "این حرکت فشار اقتصادی بر روسیه را تضعیف می‌کند و روابط آمریکا‑روسیه را نزدیک می‌کند",
+            "زلنسکی این تصمیم را «خطای تاریخی» خواند"
+        ],
+        "impact": "تحریم‌های نفتی آمریکا ضعیف می‌شود و روسیه به‌سرعت صادرات دیزل را افزایش می‌دهد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Daily Beast",
+        "url": "https://www.thedailybeast.com/obsessed/jon-stewart-sounds-alarm-on-donald-trumps-insane-putin-deal",
+        "clean_url": "https://www.thedailybeast.com/obsessed/jon-stewart-sounds-alarm-on-donald-trumps-insane-putin-deal",
+        "image": "https://www.bing.com/th?id=ONUT.b4fnXJyrWrS8idvzbLC1uA",
+        "timestamp": 1792476891.510268
+    },
+    {
+        "id": "b4c1c808ba",
+        "title_fa": "نماینده ایران در سازمان ملل: تهدیدهای مداوم آمریکا و اسرائیل",
+        "title_en": "Iran’s UN Representative Warns of ‘Continuous Threats’ from US and Israel",
+        "summary": [
+            "نماینده ایران در مجمع عمومی سازمان ملل هشدار داد تهدیدهای پیوسته آمریکا و اسرائیل امنیت منطقه را به خطر می‌اندازد",
+            "او خواستار توقف تحریم‌ها و فشارهای نظامی شد",
+            "این اظهارات در پس افزایش تنش‌های خاورمیانه بیان شد"
+        ],
+        "impact": "افزایش فشار دیپلماتیک بر آمریکا و اسرائیل، احتمال واکنش‌های جدید",
+        "tag": "تهدید",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "8AM Media",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXY5N1pTeWJfb21fOUhBbDFtdmQ0ejRuZ3ZXS183RERaOWFQVzdKazNhTUI1UGcyenB5NGpILUhha1pIbXJnVVo3c1hvRmlYR0tIc0UxamllNGtxQkVhbzVPUFpZLTNkRm1QTGdDak83aEVnQlEwUk4tWW9UZ1dsQ2M5bWN2ZTVudGxBRGgxRHBxNlQ2dzVFXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXY5N1pTeWJfb21fOUhBbDFtdmQ0ejRuZ3ZXS183RERaOWFQVzdKazNhTUI1UGcyenB5NGpILUhha1pIbXJnVVo3c1hvRmlYR0tIc0UxamllNGtxQkVhbzVPUFpZLTNkRm1QTGdDak83aEVnQlEwUk4tWW9UZ1dsQ2M5bWN2ZTVudGxBRGgxRHBxNlQ2dzVFXw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792475671.0
+    },
+    {
         "id": "30ae554a72",
         "title_fa": "پوتین برای اعمال اراده‌اش بر اوکراین به چین می‌رود",
         "title_en": "Putin’s plan for some Trump-time to impose his will on Ukraine",
@@ -52,6 +110,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnZWMFJ6RHRfLWhQd3gzM3hPRWJ6SENXWWNPWXVXUGU1bkNLekhoa1hKRDAxM2N2eGNSai05aUN4eDQyd2I5S1ZYd0RQWkY5ZTFZYlFSQktPRm9nY0V6b2xFTzJZaEF4dFJ2emdhVVF5bGJOU0hLcjlxRlJ5MTdwUjluSkthUmRJc01wc3cxVEdfUjU3N0NaNkQxUWtSeXVwbFZHcQ",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792470209.0
+    },
+    {
+        "id": "dd3306ad25",
+        "title_fa": "نظرسنجی: بیشتر سربازان فعال آمریکا مخالف جنگ ایران",
+        "title_en": "Plurality of active-duty service members oppose Iran war: poll",
+        "summary": [
+            "نظرسنجی جدید نشان می‌دهد بیش از نیمی از نیروهای فعال آمریکا جنگ در ایران را رد می‌کنند",
+            "این نتایج می‌تواند تصمیم‌گیری‌های واشنگتن را تحت فشار قرار دهد",
+            "دلایل اصلی شامل خطر گسترش منطقه‌ای و هزینه‌های مالی است"
+        ],
+        "impact": "حمایت نظامی آمریکا برای ایران کاهش می‌یابد",
+        "tag": "نظرسنجی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Responsible Statecraft",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcGxTUW5YLV81YWtUcUR4X1poRUVBN2dOU3RLeFkwODlzNjhLTzVFbXI3dkpXOUtNdk4tMDdzMjJ6UkxhQUo5c3RFTDBEN01yZ3NSOXBabzZKRUdjbmU5U0k0akdFdHhI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcGxTUW5YLV81YWtUcUR4X1poRUVBN2dOU3RLeFkwODlzNjhLTzVFbXI3dkpXOUtNdk4tMDdzMjJ6UkxhQUo5c3RFTDBEN01yZ3NSOXBabzZKRUdjbmU5U0k0akdFdHhI",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792469377.0
     },
     {
         "id": "35b3395c61",
@@ -1189,6 +1266,25 @@
         "clean_url": "https://www.baltimoresun.com/2026/10/19/financial-markets-oil-waiver",
         "image": "http://www.bing.com/th?id=ONUT.l9K7iqZlNC_CWdE3xU8f0A&pid=News",
         "timestamp": 1792390500.0
+    },
+    {
+        "id": "b909f3c956",
+        "title_fa": "وزیر خارجه ایران: همکاری ایران‑روسیه بی‌سابقه است",
+        "title_en": "Iran foreign minister says Russia, Iran have 'never' worked so closely",
+        "summary": [
+            "عباس ارغچی گفت روابط با مسکو به‌طور تاریخی نزدیک‌ترین سطح را دارد",
+            "این ادعا پس از مذاکرات هسته‌ای و تحریم‌های جدید مطرح شد",
+            "روسیه ممکن است حمایت نظامی و اقتصادی بیشتری به ایران بدهد"
+        ],
+        "impact": "تقویت همکاری می‌تواند فشار بین‌المللی بر ایران را کاهش دهد",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The New Indian Express on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-foreign-minister-says-russia-iran-have-never-worked-so-closely/ar-AA2fCPhr?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-foreign-minister-says-russia-iran-have-never-worked-so-closely/ar-AA2fCPhr",
+        "image": "https://www.bing.com/th?id=ONUT.bpFnJZtH-w4quNagSlkdtQ",
+        "timestamp": 1792390483.0
     },
     {
         "id": "185c03d413",
@@ -5473,94 +5569,5 @@
         "clean_url": "https://tass.com/politics/2203103",
         "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261016/1490069.jpg",
         "timestamp": 1792158480.0
-    },
-    {
-        "id": "eac54e1f0e",
-        "title_fa": "نماینده ایران می‌گوید فشارها و اولتیماتوم های آمریکا نتیجه ای نخواهد داشت",
-        "title_en": "Iran envoy says US pressure and ultimatums will not produce results",
-        "summary": [
-            "Iran's ambassador to Russia said on Friday that continued US use of force and ultimatums would produce no results and would only complicate the region's situation. \"What can lead the region toward calm is negotiation and honest, transparent and genuine dialogue,\" Kazem Jalali said at a meeting in Moscow on Central Asian and Afghan security."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610160169",
-        "clean_url": "https://www.iranintl.com/en/202610160169",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792157880.0
-    },
-    {
-        "id": "13a0d5e7f2",
-        "title_fa": "سنت‌کام ۲۵ میلیارد دلار صادرات نفت ایران را مسدود کرد",
-        "title_en": "CENTCOM says it blocked $25 billion in Iran oil exports, IRGC struggling with paychecks",
-        "summary": [
-            "نیروی نظامی آمریکا اعلام کرد که صادرات نفت ایران به‌ارزش ۲۵ میلیارد دلار را متوقف کرده",
-            "این اقدام باعث شد سپاه پاسداران با مشکل پرداخت حقوق کارکنان مواجه شود",
-            "مسدودسازی نشان می‌دهد فشار مالی آمریکا بر اقتصاد ایران در حال تشدید است"
-        ],
-        "impact": "کاهش نقدینگی دولت ایران و تضعیف توان مالی سپاه در عملیات منطقه‌ای",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610162840",
-        "clean_url": "https://www.iranintl.com/en/202610162840",
-        "image": "http://www.bing.com/th?id=ONUT.m0YHH_YR-LLy-zk95Yi_8Q&pid=News",
-        "timestamp": 1792157340.0
-    },
-    {
-        "id": "519ac45a26",
-        "title_fa": "مشاور رئیس جمهور روسیه گفت: بازار جهانی نفت خام دیگر کارآمد نیست",
-        "title_en": "Global crude oil market is not efficient anymore — Russian presidential advisor",
-        "summary": [
-            "The international oil market has ceased to be efficient but the real war, both economic and political, is waged for it, Advisor to the Russian Presiden"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2203085",
-        "clean_url": "https://tass.com/economy/2203085",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792156560.0
-    },
-    {
-        "id": "8ba5fb130a",
-        "title_fa": "نیروی دریایی ایران از آتش گرفتن نفتکش در خلیج عمان خبر داد",
-        "title_en": "Iran's navy reports oil tanker fire in Gulf of Oman",
-        "summary": [
-            "Iran's navy reports oil tanker fire in Gulf of Oman Anadolu Ajansı"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUpEZjVQSlNCY3BiSDc5c3Z3WlU4dWJxUzZZcXh4Z3VhQ0RSOWJ5NndhUVhnOVN0YkRKX1hsaFdTaWQwUF8yeVl1M1BXUFcyaExURXRnZzVUZjhUWE9NenZjMmxuLWJfZ1ZvSUlXN282d1NWWnRILWVNLWZaYjZuT2kxM2xzTC0tNXVNYWtEWFVaZ2lSMHVMbUhhSW1qa0hlTEpZdA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUpEZjVQSlNCY3BiSDc5c3Z3WlU4dWJxUzZZcXh4Z3VhQ0RSOWJ5NndhUVhnOVN0YkRKX1hsaFdTaWQwUF8yeVl1M1BXUFcyaExURXRnZzVUZjhUWE9NenZjMmxuLWJfZ1ZvSUlXN282d1NWWnRILWVNLWZaYjZuT2kxM2xzTC0tNXVNYWtEWFVaZ2lSMHVMbUhhSW1qa0hlTEpZdA",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792156538.0
-    },
-    {
-        "id": "3dd31b4bb5",
-        "title_fa": "ترامپ: ممکن است آمریکا به کوه پیککس ایران ضربه بزند",
-        "title_en": "Trump says US may need to strike Iran's Pickaxe Mountain",
-        "summary": [
-            "ترامپ در مصاحبه‌ای گفت ممکن است آمریکا برای مهار برنامه هسته‌ای ایران به کوه پیککس (پایگاه نظامی) ضربه بزند",
-            "این اظهارات نشان‌دهنده بازگشت سیاست فشار نظامی پیش از انتخابات است",
-            "هدف احتمالی، فشار بر رهبری ایران برای بازگشت به میز مذاکره است"
-        ],
-        "impact": "تهدید مستقیم می‌تواند واکنش نظامی پیش‌دستی ایران یا تشدید تنش‌های منطقه‌ای را برانگیزد",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792155269.0
     }
 ]
