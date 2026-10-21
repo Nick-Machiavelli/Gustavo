@@ -1,5 +1,131 @@
 [
     {
+        "id": "3254124ac8",
+        "title_fa": "هزینهٔ شگفت‌انگیز یک شام روز حقوق",
+        "title_en": "Hard to swallow realities",
+        "summary": [
+            "یک خانواده برای جشن حقوق خود بیش از صد دلار صرف فست‌فود شد.",
+            "قیمت بالا نشان‌دهنده هزینه‌های زندگی در شهرهای بزرگ است."
+        ],
+        "impact": "آگاهی عمومی از فشارهای مالی بر خانوارها",
+        "tag": "غذا",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Carter County Times",
+        "url": "https://cartercountytimes.com/editorials/column/hard-to-swallow-realities/",
+        "clean_url": "https://cartercountytimes.com/editorials/column/hard-to-swallow-realities",
+        "image": "https://www.bing.com/th?id=ONUT.pQ5SHoM1ls4mlkaMwuT-Lg",
+        "timestamp": 1792578892.9832602
+    },
+    {
+        "id": "a4c68805dd",
+        "title_fa": "ترامپ باید تحریم‌های دیزل روسیه را گسترش دهد",
+        "title_en": "Trump Is Right to Lift Diesel Sanctions on Russia. He Should Go Further",
+        "summary": [
+            "رفع تحریم دیزل روسیه می‌تواند فشار قیمتی را کمی کم کند",
+            "نویسنده معتقد است این گام برای آمریکا کافی نیست و باید به ایران هم گسترش یابد"
+        ],
+        "impact": "قیمت سوخت در آمریکا ممکن است کمی پایین بیاید",
+        "tag": "تحریم",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "Mises Institute",
+        "url": "https://mises.org/mises-wire/trump-right-lift-diesel-sanctions-russia-he-should-go-further",
+        "clean_url": "https://mises.org/mises-wire/trump-right-lift-diesel-sanctions-russia-he-should-go-further",
+        "image": "https://www.bing.com/th?id=ONUT.tLwIZaicBy7d3lPq9dzd-w",
+        "timestamp": 1792578892.9818492
+    },
+    {
+        "id": "2f22baf974",
+        "title_fa": "وزیر خارجه ایران گفت آماده دیپلماسی اما آماده دفاع است",
+        "title_en": "Iran FM: We are ready for diplomacy, but will defend ourselves",
+        "summary": [
+            "آراغچی اعلام کرد ایران در صورت تهدید به دفاع از منافع خود می‌پردازد",
+            "این پیام نشان می‌دهد دیپلماسی هنوز در مسیر نیست و احتمال فشارهای نظامی ادامه دارد"
+        ],
+        "impact": "ممکن است مذاکرات دوباره با آمریکا به تعویق بیفتد",
+        "tag": "دیپلوماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RazNZTm8wNndCelJYdk0wX1J1cXdtR0pELURRb04tRlFzMXRvaURDejNVcGhRTXFueFRfVUlsMzBQRDV3cTNVTXRTWGw0RWdINFp4Nm8xM3JhbF9qVzd3OFZ2b003RTViNVRNN05yeEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RazNZTm8wNndCelJYdk0wX1J1cXdtR0pELURRb04tRlFzMXRvaURDejNVcGhRTXFueFRfVUlsMzBQRDV3cTNVTXRTWGw0RWdINFp4Nm8xM3JhbF9qVzd3OFZ2b003RTViNVRNN05yeEk",
+        "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792578126.0
+    },
+    {
+        "id": "b56feeeca6",
+        "title_fa": "وزیر خارجه مذاکرات بازدیدکنندگان را به کابینه گزارش داد",
+        "title_en": "Iran FM briefs cabinet on talks with visiting delegations",
+        "summary": [
+            "آراغچی مذاکراتی با هیئت‌های خارجی را مرور کرد و نقش قلی‌باش را برجسته کرد",
+            "رسانه‌های محافظه‌کار به ادامه تنش و حفظ اهرم هورموز تأکید کردند"
+        ],
+        "impact": "تقویت موضع سخت‌گیرانه ایران در مذاکرات آینده",
+        "tag": "دیپلوماسی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610217669",
+        "clean_url": "https://www.iranintl.com/en/202610217669",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792577640.0
+    },
+    {
+        "id": "b52b870b84",
+        "title_fa": "نتانیاهو فشار جنگی و تردید فرمانده ارتش",
+        "title_en": "Netanyahu's War Push & The IDF Chief's Dilemma",
+        "summary": [
+            "نتانیاهو اعلام کرد که هرگونه تهدید به ایران باید با نیروی نظامی پاسخ داده شود.",
+            "سخن‌پرتوی او باعث فشار شدید بر فرمانده کل ارتش اسرائیل برای تصمیم‌گیری سریع شد."
+        ],
+        "impact": "افزایش خطر برخورد مستقیم نظامی در سرزمین‌های مرزی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "www.israelhayom.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObm9mV3p5aTRwS3o5U2pNLVZNcUw3alh3UTRHQ05NWGNmbXoxcTFzWmk5WU92OFJ5T2JxWGcweG9RSDZuUzhSbFNtaW50RVFoa29vcERObkJaeHFjanNRRE96R184OG11cy1TcU9CcWlLRm16akcxVGxYbzR2LVRHMEhqbTE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObm9mV3p5aTRwS3o5U2pNLVZNcUw3alh3UTRHQ05NWGNmbXoxcTFzWmk5WU92OFJ5T2JxWGcweG9RSDZuUzhSbFNtaW50RVFoa29vcERObkJaeHFjanNRRE96R184OG11cy1TcU9CcWlLRm16akcxVGxYbzR2LVRHMEhqbTE",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792576511.0
+    },
+    {
+        "id": "39757c10e6",
+        "title_fa": "سهام‌های خلیج به دلیل رکود دیپلماسی ایران‑آمریکا سقوط کردند",
+        "title_en": "Most Gulf shares retreat as Iran-US diplomacy stalls",
+        "summary": [
+            "بازارهای خلیج پس از عدم پیشرفت مذاکرات ایران‑آمریکا کاهش یافتند",
+            "سرمایه‌گذاران نگرانی از تحریم‌های جدید و نوسان قیمت نفت را ابراز کردند"
+        ],
+        "impact": "کاهش ارزش سهام انرژی‌محور در منطقه",
+        "tag": "بازار",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGVfYlNJZFNZQ3pscG5sYjNSVGZITlhmSl9MbjJHWXVFVjJPWEFCU2FaMTZmeFFRVnM4LTdGNWFhTm1USllBY3FOeTRQaWdDaEp5NVNtb0c0Q1hrejNVbGR4a1hHc3hkUGJ1NU1TMlFBamlCaTJEWUJZQjlkVW94VGJUYzFQWm1UOE40RUlRMkZGTmY5bW5pb3dGM21YOTBFV1BKX1Fn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGVfYlNJZFNZQ3pscG5sYjNSVGZITlhmSl9MbjJHWXVFVjJPWEFCU2FaMTZmeFFRVnM4LTdGNWFhTm1USllBY3FOeTRQaWdDaEp5NVNtb0c0Q1hrejNVbGR4a1hHc3hkUGJ1NU1TMlFBamlCaTJEWUJZQjlkVW94VGJUYzFQWm1UOE40RUlRMkZGTmY5bW5pb3dGM21YOTBFV1BKX1Fn",
+        "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792571383.0
+    },
+    {
+        "id": "e27b1fd4a5",
+        "title_fa": "ایران از ضعف میانی‌دوره ترامپ برای فشار استفاده می‌کند",
+        "title_en": "Iran reportedly sees Trump's midterm vulnerability as leverage, refuses to give him a political victory as Tehran prepares for renewed US-Israel strikes",
+        "summary": [
+            "ایران مذاکرات را به تعویق می‌اندازد تا ترامپ نتواند پیروزی انتخاباتی کسب کند",
+            "در عین حال آماده حملات نظامی احتمالی به اسرائیل و ایالات متحده است"
+        ],
+        "impact": "افزایش تنش‌های نظامی در خاورمیانه پیش از انتخابات آمریکا",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "Benzinga",
+        "url": "https://www.msn.com/en-us/news/other/iran-reportedly-sees-trump-s-midterm-vulnerability-as-leverage-refuses-to-give-him-a-political-victory-as-tehran-prepares-for-renewed-us-israel-strikes/ar-AA2fJpZC",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-reportedly-sees-trump-s-midterm-vulnerability-as-leverage-refuses-to-give-him-a-political-victory-as-tehran-prepares-for-renewed-us-israel-strikes/ar-AA2fJpZC",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fIHT4.img?w=1024&h=683&m=4&q=81",
+        "timestamp": 1792569975.0
+    },
+    {
         "id": "bacb08a54c",
         "title_fa": "طرح جدید قانون فضای مجازی؛ محدودیت اینترنت",
         "title_en": "نقشه تازه برای اینترنت ایران؛ صیانت سوم در مجلس کلید میخورد؟",
@@ -73,6 +199,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZG1oS2R0eDRSRUV4Yy1nOHNraHA2anRiRkhoVFNqb1hBdHV5cE55dWlxc1hlVzBIS1FjWHNyRnNiTnVsQUYtNjV3YXFRVDNxMHZsb1FVQ1RMTWRyYkRMbzB4OVZKWUEzVnMyczRZNzY",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792555213.0
+    },
+    {
+        "id": "e98f8e0bba",
+        "title_fa": "جنگ ایران در میان دوره ای نزدیک است",
+        "title_en": "Iran war looms over the midterms",
+        "summary": [
+            "On tap, we have a look at how the Iran war is playing out in the final weeks of the midterm campaign, as well as the latest on a proposed “commuter” tax for people who work in Albany and an update on..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Politico",
+        "url": "https://www.politico.com/newsletters/new-york-playbook/2026/10/21/iran-war-looms-over-the-midterms-01128748",
+        "clean_url": "https://www.politico.com/newsletters/new-york-playbook/2026/10/21/iran-war-looms-over-the-midterms-01128748",
+        "image": "http://www.bing.com/th?id=ONUT.2ThY6QAD5-KbAbpUSydPhQ&pid=News",
+        "timestamp": 1792551600.0
     },
     {
         "id": "3150533327",
@@ -182,6 +325,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDdudll1aUxJTEdvMlBrZGRqSENudHVWUy1HQml2LUM3TVZzUl96bUZSMTFSU1dtUGdKUkxZRkFwc3U5UzF5X0kzRDVoQm4wWkpjVWNlaHZpWkZQZEdOTTl3cnVjbF90UGJMZ1pGSU5CX0pjdUZlcnpabm1YYU1CcGN4djhIdWdkUHpob1RxTTQ2Um9id0tGRER4OTZMTUFvb1dNSnlpMW1aaFR4Z2RXVmNQUjFxbE5YRTl30gHAAUFVX3lxTFA2cERpMnJnd201QmtUaWV2aGQ4R0I2RDZYYVRRUUhtMi05ZllYOXpMbXN3b081RTNGa09tOTBJaENxcUtsYkhtLXRaU1AwbUhCTjNDQW5wY2R5NmU0U2ZPZXpfU3dMUXlGcE9raGRLcWp3RHZGeVNqOER2NkpJaUk0SDlVUV9mM1hHdG9mSjBqQ0xqSVdMN2wzdWxvaFNSTHpsSU1mV3U3NjlTTGFOM2haVEJsR0J2ZU9hMkRBYkFWaw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792540915.0
+    },
+    {
+        "id": "8cca5ed3a5",
+        "title_fa": "ایران با تاکتیک بحران گروگانگی به سرمایه‌گذاران هشدار می‌دهد",
+        "title_en": "Iran is using the hostage crisis playbook. What investors need to know.",
+        "summary": [
+            "تحلیل‌گران می‌گویند ایران ممکن است فشار اقتصادی را با یادآوری بحران گروگانگی تقویت کند",
+            "سرمایه‌گذاران باید به نوسان‌های احتمالی در اوراق دولتی و نفت توجه کنند"
+        ],
+        "impact": "نوسان شدید در بازارهای انرژی و ارزهای نوظهور",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Barron's on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-is-using-the-hostage-crisis-playbook-what-investors-need-to-know/ar-AA2fIWa8",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-using-the-hostage-crisis-playbook-what-investors-need-to-know/ar-AA2fIWa8",
+        "image": "http://www.bing.com/th?id=ONUT.7G6fMF3oCgn4Cojyfvg28A&pid=News",
+        "timestamp": 1792540800.0
+    },
+    {
+        "id": "fd862cfabe",
+        "title_fa": "جنگ احتمالی با ایران می‌تواند شگفت‌انگیز اکتبر اسرائیل شود",
+        "title_en": "Could another war with Iran be the October surprise of the Israeli election?",
+        "summary": [
+            "تهدیدهای تند واشنگتن و تهران پیش‌زمینه‌ای برای جنگ قبل انتخابات اسرائیل فراهم کرده‌اند",
+            "کارشناسان می‌گویند احتمال درگیری پیش از انتخابات کم است اما ریسک سیاسی بالاست"
+        ],
+        "impact": "نتایج انتخابات اسرائیل ممکن است تحت فشار امنیتی قرار گیرد",
+        "tag": "جیوپولیتیک",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Jewish Insider",
+        "url": "https://jewishinsider.com/2026/10/war-iran-israeli-elections-u-s-midterms-threats-pete-hegseth/",
+        "clean_url": "https://jewishinsider.com/2026/10/war-iran-israeli-elections-u-s-midterms-threats-pete-hegseth",
+        "image": "http://www.bing.com/th?id=ONUT.KMWEvHXAhWFDtwkROlXThQ&pid=News",
+        "timestamp": 1792539180.0
     },
     {
         "id": "ff2c5bdc4a",
@@ -917,6 +1096,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-security-chief-rejects-moving-enriched-uranium-abroad-as-netanyahu-vows-to-topple-regime/ar-AA2fGenK",
         "image": "http://www.bing.com/th?id=ONUT.K9PgAt_DHVk29D9WfqF8mg&pid=News",
         "timestamp": 1792507144.0
+    },
+    {
+        "id": "6ab516ab5b",
+        "title_fa": "ایران مذاکرات را برای تضعیف ترامپ طول می‌دهد",
+        "title_en": "Iran prolongs talks to undermine Trump before midterms",
+        "summary": [
+            "منابع ایرانی می‌گویند مذاکرات با واشنگتن به قصد کاهش امتیاز سیاسی ترامپ تمدید می‌شود.",
+            "تهدیدهای نظامی احتمالی آمریکا و اسرائیل باعث می‌شود تهران از توافق سریع خودداری کند."
+        ],
+        "impact": "تقویت رقیب‌سازی سیاسی در انتخابات میدترم آمریکا",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Sasfin Bank",
+        "url": "https://www.businessday.co.za/world/middle-east/2026-10-20-iran-prolongs-talks-to-undermine-trump-before-midterms/",
+        "clean_url": "https://www.businessday.co.za/world/middle-east/2026-10-20-iran-prolongs-talks-to-undermine-trump-before-midterms",
+        "image": "https://www.businessday.co.za/resizer/v2/FX4RHZOVDVFMDDFDRMFATSFMNI.JPG?auth=427291205e7785c7e21e446659caf205a7b08f927f86198f59dd92b1e892a2f3&width=800&height=533&focal=2622,1020",
+        "timestamp": 1792505460.0
     },
     {
         "id": "1435149727",
@@ -5369,209 +5566,5 @@
         "clean_url": "https://worldisraelnews.com/could-israels-closest-ally-one-day-turn-against-it-analysis",
         "image": "https://www.bing.com/th?id=ONUT.KBsi8dnRFhWvh98HEW1v2g",
         "timestamp": 1792255101.0
-    },
-    {
-        "id": "222be1c6da",
-        "title_fa": "ترامپ از نتانیاهو برای انتخابات حمایت کرد",
-        "title_en": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-        "summary": [
-            "ترامپ در شبکه‌های اجتماعی نتانیاهو را جنگجوی بزرگ توصیف کرد",
-            "این حمایت می‌تواند به تقویت موقعیت نتانیاهو در انتخابات اکتبر کمک کند"
-        ],
-        "impact": "تقویت روابط آمریکا‑اسرائیل و احتمال ادامه فشار بر ایران",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/trump-endorses-embattled-israeli-prime-145532000.html",
-        "clean_url": "https://www.aol.com/articles/trump-endorses-embattled-israeli-prime-145532000.html",
-        "image": "https://www.bing.com/th?id=ONUT.ajvmnKPqGhTDSMIlFN5-kQ",
-        "timestamp": 1792255101.0
-    },
-    {
-        "id": "0c16c6c62b",
-        "title_fa": "مدیر سرمایه‌گذاری روش خروج برای معدن‌کاران انرژی و طلا",
-        "title_en": "Energy and Gold Miners: How One Manager Sets Exit Rules",
-        "summary": [
-            "مقاله به استراتژی خروج بر پایهٔ سودآوری و پرداخت‌های سهام اشاره دارد",
-            "قیمت نفت تحت تأثیر شوک ایران قرار دارد و ممکن است در صورت رفع تحریم‌ها سقوط کند"
-        ],
-        "impact": "سرمایه‌گذاران ممکن است به سرعت از سهام انرژی خارج شوند اگر تنش‌های خلیج کاهش یابد",
-        "tag": "انرژی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "discoveryalert.com",
-        "url": "https://discoveryalert.com/analysis/energy-gold-miners-exit-rules-october-2026/",
-        "clean_url": "https://discoveryalert.com/analysis/energy-gold-miners-exit-rules-october-2026",
-        "image": "https://www.bing.com/th?id=ONUT.1LBezU3K5vZywOz_0ChODg",
-        "timestamp": 1792255101.0
-    },
-    {
-        "id": "8a0477b862",
-        "title_fa": "وینس نظرات متناقض درباره جنگ‌های آمریکا",
-        "title_en": "Vance has made conflicting comments on US wars abroad. Here’s what that could mean for his political ambitions. - ABC News",
-        "summary": [
-            "وینس در مصاحبه‌های مختلف نظرات متفاوتی درباره مداخله آمریکا در خاورمیانه ارائه کرده؛ گاهی حمایت، گاهی انتقاد",
-            "این نوسان می‌تواند تصویر او را به عنوان کاندیدای جدی برای مناصب بالاتر آسیب بزند"
-        ],
-        "impact": "عدم وضوح موضعی وینس، ممکن است حمایت‌های حزبی او را تحت فشار قرار دهد",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlVXcGt6aVFpNVRpek5lRFdoN2Q4Z3ZZTWpfVWZXYmRUejFGLU1veHNZeHhJNmhJVVVWRnNvbGhJRUR3ZmZaWnBlamZ5ZXJqMzdNV2NPVWNkX1g4TEZ0QWxnNjRsRGs2NVl5b1BtdGxXa1FtR1ZRakxsLU56NU93a1RPaFVZQXUtQVhrTjJvU0gyT3ZnUjVjbk5kN29ua3dhUmfSAacBQVVfeXFMTkY5VnFvTmJtNHQ3M1F4M0xnY3F5VGIzdG1zbTZPejdkaUtpTFpZdndzOTYwdGdoZzlELUxGbFMtdVlKWVJUOHF3dmJicDhKWDdUNTBkZ2ZhX2hDS0d0M1A1NmdjX1VMUGZwLVZFTTBMRGN4Q1o4cGhNamx4dHQ1WmZCSTdmSDcxMUdLaVA1VkxJODg2eV9ZM1ctUkVOUG1BNkpQQkJoYlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlVXcGt6aVFpNVRpek5lRFdoN2Q4Z3ZZTWpfVWZXYmRUejFGLU1veHNZeHhJNmhJVVVWRnNvbGhJRUR3ZmZaWnBlamZ5ZXJqMzdNV2NPVWNkX1g4TEZ0QWxnNjRsRGs2NVl5b1BtdGxXa1FtR1ZRakxsLU56NU93a1RPaFVZQXUtQVhrTjJvU0gyT3ZnUjVjbk5kN29ua3dhUmfSAacBQVVfeXFMTkY5VnFvTmJtNHQ3M1F4M0xnY3F5VGIzdG1zbTZPejdkaUtpTFpZdndzOTYwdGdoZzlELUxGbFMtdVlKWVJUOHF3dmJicDhKWDdUNTBkZ2ZhX2hDS0d0M1A1NmdjX1VMUGZwLVZFTTBMRGN4Q1o4cGhNamx4dHQ1WmZCSTdmSDcxMUdLaVA1VkxJODg2eV9ZM1ctUkVOUG1BNkpQQkJoYlE",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792252813.0
-    },
-    {
-        "id": "764394972c",
-        "title_fa": "روسیه ایدهٔ «صفر هسته‌ای» را ناممکن می‌داند",
-        "title_en": "Russia views idea of shortcut to 'nuclear zero' as counterproductive — diplomat Postnikov",
-        "summary": [
-            "دیپلمات روسیه می‌گوید حذف سریع سلاح‌های هسته‌ای می‌تواند امنیت جهانی را به خطر بیندازد",
-            "روسیه به تعهد خود به خنثی‌سازی تدریجی سلاح‌های هسته‌ای بر پایه معاهده NPT تأکید کرد"
-        ],
-        "impact": "موقعیت مذاکرات تسلیحات هسته‌ای بین‌المللی با تردید بیشتری ادامه می‌یابد",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2203555",
-        "clean_url": "https://tass.com/politics/2203555",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792252800.0
-    },
-    {
-        "id": "746fce1f2a",
-        "title_fa": "خبر بین‌المللی — ترامپ Gives پوتین Another Big Wet Kiss",
-        "title_en": "Trump Gives Putin Another Big Wet Kiss",
-        "summary": [
-            "🚨NEWS: Trump just WAIVED sweeping sanctions and tariffs targeting Russia under the Lindsey Graham Russia and Iran Sanctions..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Crooks and Liars",
-        "url": "https://crooksandliars.com/2026/10/trump-gives-putin-another-big-wet-kiss",
-        "clean_url": "https://crooksandliars.com/2026/10/trump-gives-putin-another-big-wet-kiss",
-        "image": "https://www.bing.com/th?id=ONUT.v0OPcgyYpgC5pPzR4hsAcA",
-        "timestamp": 1792251999.666228
-    },
-    {
-        "id": "5814733d93",
-        "title_fa": "تحریم‌ها: قاتل بی‌صدا و کشندهٔ جمعی",
-        "title_en": "Sanctions, the silent mass killer",
-        "summary": [
-            "تحریم‌های اقتصادی، به‌ویژه تک‌جانبه آمریکا، بیشترین آسیب را به جمعیت غیرنظامی می‌رسانند",
-            "تحقیقات Lancet نشان داد سالانه صدها هزار مرگ پیشگیری‌پذیر در کشورهای تحت تحریم رخ می‌دهد",
-            "هدف تحریم‌ها تغییر رفتار دولت است، نه حمایت از مردم"
-        ],
-        "impact": "تحریم‌ها به‌صورت مستقیم باعث مرگ و بیماری‌های پیشگیری‌پذیر در جمعیت‌های هدف می‌شوند",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "Pearls and Irritations",
-        "url": "https://johnmenadue.com/post/2026/10/sanctions-the-silent-mass-killer-prod-to-add-links/",
-        "clean_url": "https://johnmenadue.com/post/2026/10/sanctions-the-silent-mass-killer-prod-to-add-links",
-        "image": "https://www.bing.com/th?id=ONUT.SwGQ3yZnPpQTY44ozriqnA",
-        "timestamp": 1792251999.6656845
-    },
-    {
-        "id": "4804aab8b4",
-        "title_fa": "هُکمی هافمن: جنگ رسانه‌ای به‌سوی تهدید هسته‌ای ایران",
-        "title_en": "Israel must treat the media war as seriously as Iran’s nuclear threat, Gil Hoffman says",
-        "summary": [
-            "گیل هافمن، سردبیر ژرنال پوس، رسانه‌ها را به‌عنوان خط مقدم مقابله با تهدید هسته‌ای ایران می‌داند",
-            "اطلاعات نادرست می‌تواند حمایت عمومی از اقدام‌ها پیشگیرانه را تضعیف کند",
-            "ضرورت هماهنگی بین نهادهای امنیتی و رسانه‌ای برای مقابله با تبلیغات هسته‌ای ایران"
-        ],
-        "impact": "عدم توجه به جنگ رسانه‌ای می‌تواند حمایت عمومی از اقدام‌ها ضد هسته‌ای ایران را تضعیف کند",
-        "tag": "رسانه",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VTUFRZHJUQXlobzRlTjg1VmdiMlRNMV9LMlVNTGVFbENCcVU4eEJWRjkzXzlCUTlLdnV0ZW50QV9xVjB1dXJwc2p4TXpqaTktclk2UVB6UnRsRjgw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VTUFRZHJUQXlobzRlTjg1VmdiMlRNMV9LMlVNTGVFbENCcVU4eEJWRjkzXzlCUTlLdnV0ZW50QV9xVjB1dXJwc2p4TXpqaTktclk2UVB6UnRsRjgw",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792251636.0
-    },
-    {
-        "id": "97ea3145bb",
-        "title_fa": "بانک جهانی به دستاوردهای دیجیتال روسیه اشاره کرد",
-        "title_en": "World Bank recognizes Russia's achievements, provides platform for cooperation — Deputy PM",
-        "summary": [
-            "بانک جهانی دستاوردهای دیجیتال روسیه را در مدیریت املاک و خدمات عمومی تأیید کرد",
-            "معاون نخست‌وزیر روسیه گفت این تجربه می‌تواند به کشورهای جنوب جهانی منتقل شود",
-            "دو سمینار تخصصی با حمایت بانک جهانی در بانکوک برگزار شد",
-            "این همکاری نشانگر افزایش نفوذ روسیه در حوزه فناوری‌های دولتی است"
-        ],
-        "impact": "ایجاد فرصت‌های صادرات فناوری روسیه به بازارهای نوظهور",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0.3,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2203619",
-        "clean_url": "https://tass.com/economy/2203619",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792248000.0
-    },
-    {
-        "id": "025ad5c2bf",
-        "title_fa": "جنگ با ایران به ماه نهم می‌رسد، انتخابات آمریکا نزدیک",
-        "title_en": "Strait ballot voting: Iran, the midterm elections, and the war that would not end",
-        "summary": [
-            "جنگ با ایران در سپتامبر ۲۰۲۳ به ماه نهم رسیده و هنوز به‌پایان نرسیده است.",
-            "سازمان فرماندهی مرکزی آمریکا (CENTCOM) عملیات‌های هوایی و دریایی را ادامه می‌دهد.",
-            "انتخابات میانی آمریکا می‌تواند مسیر سیاست‌های نظامی را تغییر دهد."
-        ],
-        "impact": "افزایش ریسک درگیری‌های نظامی در خلیج فارس و تأثیر بر تصمیمات انتخاباتی آمریکا.",
-        "tag": "جنگ",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/strait-ballot-voting-iran-the-midterm-elections-and-the-war-that-would-not-end/ar-AA2eqZiN?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/strait-ballot-voting-iran-the-midterm-elections-and-the-war-that-would-not-end/ar-AA2eqZiN",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792245966.605813
-    },
-    {
-        "id": "e7680546a6",
-        "title_fa": "ترامپ تا ۶۰ روز برای تصمیم‌گیری درباره تحریم روسیه",
-        "title_en": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
-        "summary": [
-            "ریوبو می‌گوید ترامپ ممکن است تا دو ماه برای تصمیم‌گیری درباره تحریم روسیه زمان بگیرد",
-            "این تأخیر در زمان انتخابات میانی نوامبر می‌افتد و فشار داخلی برای کاهش قیمت انرژی بالا می‌رود",
-            "جنگ با ایران عرضه نفت جهانی را مختل کرده و قیمت‌ها را تشدید می‌کند",
-            "تعویق تصمیم‌گیری می‌تواند موقعیت دیپلماتیک آمریکا را در مقابل روسیه و ایران تضعیف کند"
-        ],
-        "impact": "تعویق تصمیم‌گیری فشار اقتصادی بر روسیه را کاهش و قیمت نفت را بالا نگه می‌دارد",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/us/rubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18/",
-        "clean_url": "https://www.reuters.com/world/us/rubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792242960.0
-    },
-    {
-        "id": "9c21d8f047",
-        "title_fa": "ترامپ در روستایی‌های آمریکا تسلط داشت؛ ایوا برای دموکرات‌ها",
-        "title_en": "Trump dominated rural America. Iowa is testing whether Democrats can win them back",
-        "summary": [
-            "تحلیلگران می‌گویند ترامپ هنوز در مناطق کشاورزی قلبی رای‌دهندگان را حفظ کرده است.",
-            "دموکرات‌ها باید استراتژی جدیدی برای جذب این بخش پیدا کنند."
-        ],
-        "impact": "نتیجهٔ انتخابات ۲۰۲۴ می‌تواند مسیر سیاست خارجی آمریکا، از جمله موضع‌گیری نسبت به ایران، را تغییر دهد.",
-        "tag": "سیاست_آمریکا",
-        "urgency": 2,
-        "sentiment": 0.1,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/ar-AA2etB2a?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/ar-AA2etB2a",
-        "image": "https://www.bing.com/th?id=ONUT.VurCsOV4KT1yFvhfwsxj8g",
-        "timestamp": 1792242629.0
     }
 ]
