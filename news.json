@@ -1,5 +1,44 @@
 [
     {
+        "id": "3ab3ce4b16",
+        "title_fa": "ترامپ پس از اسلو اطلاعات را به اوکراین بازگرداند",
+        "title_en": "Zelensky says Trump has restored intel sharing after Oslo talks: Live",
+        "summary": [
+            "زلنسکی اعلام کرد پس از مذاکرات اسلو، ترامپ همکاری اطلاعاتی با اوکراین را از سر گرفته",
+            "این حرکت نشان می‌دهد واشنگتن پیش از انتخابات روابط امنیتی را تقویت می‌کند در حالی که فشار بر ایران ادامه دارد",
+            "اطلاعات جدید به اوکراین امکان برنامه‌ریزی دقیق‌تر حملات را می‌دهد"
+        ],
+        "impact": "اطلاعات تازه به اوکراین توان عملیاتی بیشتری می‌دهد و فشار نظامی روسیه را افزاش می‌کند",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-gb/news/other/trump-puts-pressure-on-kyiv-to-settle-as-rift-escalates-live/ar-AA2fCnPU?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/trump-puts-pressure-on-kyiv-to-settle-as-rift-escalates-live/ar-AA2fCnPU",
+        "image": "https://www.bing.com/th?id=ONUT.6CqSfgBHYHG4S71tf1F3aw",
+        "timestamp": 1792560650.351558
+    },
+    {
+        "id": "599dd14b86",
+        "title_fa": "نتانیاهو خواستار تجدید حملات به ایران شد",
+        "title_en": "Benjamin Netanyahu pushes to resume strikes against Iran",
+        "summary": [
+            "نتانیاهو در بیانیه‌ای رسمی، فشار برای بازگشت حملات هوایی به زیرساخت‌های هسته‌ای ایران را تکرار کرد",
+            "او ادعا می‌کند تضعیف نظام هسته‌ای تهران امنیت اسرائیل را تضمین می‌کند",
+            "این اظهارات می‌تواند واکنش نظامی پیشرفته ایران و تشدید رقابت منطقه‌ای را به دنبال داشته باشد",
+            "احتمال افزایش تحریم‌های بین‌المللی علیه ایران نیز بالا است"
+        ],
+        "impact": "تجدید حملات می‌تواند خطر تصعید نظامی در خاورمیانه را به‌سرعت بالا ببرد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZG1oS2R0eDRSRUV4Yy1nOHNraHA2anRiRkhoVFNqb1hBdHV5cE55dWlxc1hlVzBIS1FjWHNyRnNiTnVsQUYtNjV3YXFRVDNxMHZsb1FVQ1RMTWRyYkRMbzB4OVZKWUEzVnMyczRZNzY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZG1oS2R0eDRSRUV4Yy1nOHNraHA2anRiRkhoVFNqb1hBdHV5cE55dWlxc1hlVzBIS1FjWHNyRnNiTnVsQUYtNjV3YXFRVDNxMHZsb1FVQ1RMTWRyYkRMbzB4OVZKWUEzVnMyczRZNzY",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792555213.0
+    },
+    {
         "id": "3150533327",
         "title_fa": "آتلانتیک: تاریخ‌های کلیدی تصمیم‌گیری برای اوکراین",
         "title_en": "The Three Dates for Deciding Ukraine’s Future",
@@ -385,6 +424,25 @@
         "timestamp": 1792523242.0
     },
     {
+        "id": "f289d63907",
+        "title_fa": "ایران معامله US را برای ضربه به ترامپ به تعویق",
+        "title_en": "Iran stalling on deal with US to hurt Trump politically ahead of midterms, Iranian officials say",
+        "summary": [
+            "مقامات ایرانی می‌گویند تعلل در توافق هسته‌ای هدف سیاسی است تا ترامپ را پیش از انتخابات میانه‌دوره تضعیف کند",
+            "این استراتژی باعث تشدید تنش‌های منطقه‌ای و ریسک حملات ناوبری در هرمز می‌شود؛ دو تانکر به مین خوردند",
+            "ادامه مذاکرات می‌تواند تحریم‌های جدید آمریکا را بر ایران تحمیل کند"
+        ],
+        "impact": "تعلیق مذاکرات می‌تواند قیمت نفت خلیج فارس را نوسان دهد و فشار مالی بر ایران را افزایش دهد",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/iran-stalling-on-deal-with-us-to-hurt-trump-politically-ahead-of-midterms-iranian-officials-say/ar-AA2fFbLu",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-stalling-on-deal-with-us-to-hurt-trump-politically-ahead-of-midterms-iranian-officials-say/ar-AA2fFbLu",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/Screenshot-2026-10-19-121857.png",
+        "timestamp": 1792520700.0
+    },
+    {
         "id": "cbe1c05174",
         "title_fa": "برنامه ویتکاف برای بازدید از روسیه در 21 اکتبر تایید شد - منبع",
         "title_en": "Witkoff's plans to visit Russia on October 21 confirmed — source",
@@ -451,6 +509,26 @@
         "clean_url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
         "image": "https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg",
         "timestamp": 1792515780.0
+    },
+    {
+        "id": "f425ec5fe4",
+        "title_fa": "وزیران خارجه سعودی و کویت حمله حوثی‌ها را محکوم کردند",
+        "title_en": "Saudi, Kuwaiti FMs condemn Iran-backed Houthi attacks",
+        "summary": [
+            "وزرای خارجه سعودی و کویت به‌صراحت حملات حوثی‌های وابسته به ایران را در خلیج فارس محکوم کردند",
+            "این اظهارات نشان می‌دهد فشار دیپلماتیک علیه ایران در حوزه خلیج در حال تشدید است",
+            "نتانیاهو در همان روز بر سر حذف رژیم ایران تأکید کرد و گفت حذف رهبری ایران امنیت منطقه را تضمین می‌کند",
+            "احتمال افزایش حضور نظامی بین‌المللی در آب‌های هرمز و اعمال تحریم‌های جدید بر تهران می‌رود"
+        ],
+        "impact": "تحریم‌های جدید و حضور نیروی نظامی خارجی می‌تواند ترافیک تجاری خلیج فارس را مختل کند",
+        "tag": "نیابتی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610205722",
+        "clean_url": "https://www.iranintl.com/en/202610205722",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792515300.0
     },
     {
         "id": "15bc75a75d",
@@ -5497,79 +5575,5 @@
         "clean_url": "https://tass.com/politics/2203593",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1792239060.0
-    },
-    {
-        "id": "89c4b95f1d",
-        "title_fa": "ترامپ: وضعیت مالی آمریکایی‌ها در مذاکرات ایران مهم نیست",
-        "title_en": "Trump says 'I don't think about Americans' financial situation' in Iran negotiations - ABC News",
-        "summary": [
-            "در مصاحبه‌ای، ترامپ اعلام کرد که وضعیت مالی آمریکایی‌ها در مذاکرات هسته‌ای ایران برای او اولویت نیست",
-            "این بی‌توجهی می‌تواند فشار داخلی بر دولت را کاهش دهد",
-            "نشان می‌دهد تمرکز ترامپ بر منافع تجاری و روابط شخصی است نه رفاه شهروندان"
-        ],
-        "impact": "بی‌توجهی ترامپ به وضعیت مالی مردم، احتمال کاهش حمایت داخلی و افزایش انتقادات داخلی را به‌بار می‌آورد",
-        "tag": "ایران",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOekNlMWY5WUN0NWxrcW9iRXM1Yk5VWGxCeGh3MGRaeTFCR2VkM0djcVl0bFZGZFNLd0l3dTVTSjJ0UGM5WS1mRzN1bXZtQWJybDdzelF3ODlzQzVmOWxyWHl0RndpM2x1ZXoyeFZWbnlqR1B0dVFJOFphNGJLMVZyN0RUYUJIMnZaeWdzTXVuamJfblptU3VSdGV4NWhfOFVBQ0xN0gGoAUFVX3lxTE9zbFlKVVB3bjJLd09qVzdyMVZyMVpXZk1ROFk1Mkg3bElhTkpFQWMzQmh0Znp2eng4b3VWb2NoUC1Vc1FYLUlfUldaUTVuMExBN0Jrck02TmE3T0c5ZW5TaFZ3QVNtNHJtSjNpNXhlb1ppNC1GS2pWR29SNWNaVlFUUHdGWU1NWjdfTEdhQ3JBdjlFNnp6VTVBb09mOEtlRGlKbjAtLWQ4SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOekNlMWY5WUN0NWxrcW9iRXM1Yk5VWGxCeGh3MGRaeTFCR2VkM0djcVl0bFZGZFNLd0l3dTVTSjJ0UGM5WS1mRzN1bXZtQWJybDdzelF3ODlzQzVmOWxyWHl0RndpM2x1ZXoyeFZWbnlqR1B0dVFJOFphNGJLMVZyN0RUYUJIMnZaeWdzTXVuamJfblptU3VSdGV4NWhfOFVBQ0xN0gGoAUFVX3lxTE9zbFlKVVB3bjJLd09qVzdyMVZyMVpXZk1ROFk1Mkg3bElhTkpFQWMzQmh0Znp2eng4b3VWb2NoUC1Vc1FYLUlfUldaUTVuMExBN0Jrck02TmE3T0c5ZW5TaFZ3QVNtNHJtSjNpNXhlb1ppNC1GS2pWR29SNWNaVlFUUHdGWU1NWjdfTEdhQ3JBdjlFNnp6VTVBb09mOEtlRGlKbjAtLWQ4SQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792238702.0
-    },
-    {
-        "id": "ef6c5ded0f",
-        "title_fa": "بحران مالی ایران عمیق‌تر می‌شود",
-        "title_en": "Tehran Tightens Its Grip as Iran’s Financial Crisis Deepens - National Council of Resistance of Iran",
-        "summary": [
-            "دولت تهران با اعمال فشارهای مالی بیشتر، آزادی‌های اقتصادی مردم را محدود می‌کند",
-            "تورم و کاهش ارزش ارز به‌سرعت در حال تشدید است و فشار بر طبقه متوسط افزایش یافته"
-        ],
-        "impact": "کاهش توان خرید مردم و فشار بر بازار ارز داخلی",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbk1VNVlyZU5qekV2b2U0WHl6dGlUT1N1QWZQa2M1aC1jclVVdDYyZG9WWE5ucURQbm5sRDRPaXJpRjdOMWstT2JRbmZlaVhzYUZrUzNCYm0tcS1DN29jMHNfVmpwcUc3bWZfSGhUQjQ4dU1PcnlLblhFM3NFX01iVGxmTWpSVHVIcFFKM1dESXMzbDlpMXFr?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbk1VNVlyZU5qekV2b2U0WHl6dGlUT1N1QWZQa2M1aC1jclVVdDYyZG9WWE5ucURQbm5sRDRPaXJpRjdOMWstT2JRbmZlaVhzYUZrUzNCYm0tcS1DN29jMHNfVmpwcUc3bWZfSGhUQjQ4dU1PcnlLblhFM3NFX01iVGxmTWpSVHVIcFFKM1dESXMzbDlpMXFr",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792237672.0
-    },
-    {
-        "id": "26fe4380e6",
-        "title_fa": "آنتی‌امپریالیسم ایران مسیر بن‌بست دارد",
-        "title_en": "Iran’s ‘Anti-Imperialism’ Is a Dead End",
-        "summary": [
-            "بیان‌گرهای ایرانی همچنان به‌دنبال ضدامپریالیسم هستند اما نتایج ملموسی به‌دست نیامده.",
-            "این ایدئولوژی باعث انزوای اقتصادی و تشدید تحریم‌ها شده است.",
-            "بدون برنامهٔ جایگزین، مسیر رشد اقتصادی برای کشور بسته می‌شود."
-        ],
-        "impact": "عزل‌پذیری اقتصادی بیشتر و کاهش توان مقابله‌ای ایران در برابر فشارهای بین‌المللی.",
-        "tag": "ایدئولوژی",
-        "urgency": 2,
-        "sentiment": -0.5,
-        "source": "The Atlantic",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWF2RlRUM0V4R3BpOE9QLWZFTVVRU3NvdldiQkhPS3hJVjhRSy1fVloybEdLeFhBQW16MkRoTUZJTXM3OVd1OEpzRkpSRWZhek8zY0pYaEpXY1N2RjR0Q1FGRUtjek83MENHei0xRUpmUkVUT3dTSWtJZVBIS2pKVndKLVc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWF2RlRUM0V4R3BpOE9QLWZFTVVRU3NvdldiQkhPS3hJVjhRSy1fVloybEdLeFhBQW16MkRoTUZJTXM3OVd1OEpzRkpSRWZhek8zY0pYaEpXY1N2RjR0Q1FGRUtjek83MENHei0xRUpmUkVUT3dTSWtJZVBIS2pKVndKLVc",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792234800.0
-    },
-    {
-        "id": "76830db149",
-        "title_fa": "تورم در آکرون خانواده‌ها را تحت فشار می‌گذارد",
-        "title_en": "Inflation hits Akron families from more than one direction | Opinion",
-        "summary": [
-            "تورم در آکرون به‌سرعت هزینه‌های زندگی را دو برابر کرده",
-            "خانواده‌های طبقه متوسط با کاهش قدرت خرید مواجه‌اند"
-        ],
-        "impact": "کاهش توان خرید خانوارهای میانی در شمال‌شرق اوهایو",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Akron Beacon Journal on MSN",
-        "url": "https://www.msn.com/en-us/money/economy/inflation-hits-akron-families-from-more-than-one-direction-opinion/ar-AA2eqTad?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/economy/inflation-hits-akron-families-from-more-than-one-direction-opinion/ar-AA2eqTad",
-        "image": "https://www.bing.com/th?id=ONUT.gPOVioPTlayTZ_Lt69ZIvw",
-        "timestamp": 1792233132.7895164
     }
 ]
