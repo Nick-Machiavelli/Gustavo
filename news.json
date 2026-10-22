@@ -1,5 +1,24 @@
 [
     {
+        "id": "8fd784485f",
+        "title_fa": "نگرش محتاطانه ترامپ نسبت به ایران",
+        "title_en": "L'étrange retenue de Trump face à l'Iran: ce que cela pourrait cacher",
+        "summary": [
+            "تحلیلگران می‌گویند ترامپ در مواجهه با تهدیدات ایران رفتار محتاطانه‌ای نشان می‌دهد.",
+            "احتمالاً این احتیاط به دلیل نزدیک شدن به انتخابات میانی ایالات متحده است.",
+            "واکنش آمریکا نسبت به حملات در تنگه هرمز نسبتاً ملایم باقی مانده است."
+        ],
+        "impact": "سیاست داخلی آمریکا می‌تواند تصمیم‌گیری‌های آینده درباره ایران را تحت تأثیر قرار دهد.",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "bluewin",
+        "url": "https://www.bluewin.ch/fr/infos/monde/trump-fait-soudainement-preuve-de-retenue-vis-a-vis-de-l-iran-tout-en-renforcant-son-armement-en-parallele-li.3644380",
+        "clean_url": "https://www.bluewin.ch/fr/infos/monde/trump-fait-soudainement-preuve-de-retenue-vis-a-vis-de-l-iran-tout-en-renforcant-son-armement-en-parallele-li.3644380",
+        "image": "https://www.bing.com/th?id=ONUT.T8PwNUKaSZ5wkQ7vr7hkZw",
+        "timestamp": 1792647285.7122078
+    },
+    {
         "id": "8a7aee2cf7",
         "title_fa": "انتخابات آمریکا و اسرائیل سرنوشت ایران را می‌نویسند",
         "title_en": "Why elections in Israel and America could determine Iran’s fate",
@@ -106,6 +125,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjlNTzRfMEZubjk4RHlyaUxMSi1LSFMwaEMyRlhTTVdFU1paQk1RbVJZMXh0N0NVR3ZNemM1VGlGOUtrLTdyYl90eG91bzJiTkJnTko2TXF6eEdfRlhZUFJjSXBjYVRqSC1wTFpDOC1KZUdUTTgyZ2E0UXJKaFJpazQxdHY2a1RQNmFUT0dOaENLRzJSRERweDFOZmFwZnd0TEFjUkZWNkJnNTZXdkpmMUN6ZlY0TmZSYndJMXVCVVFZc2Nw",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792643231.0
+    },
+    {
+        "id": "1597ddd64b",
+        "title_fa": "آمریکا دیپلمات‌ها را از عربستان می‌کشد",
+        "title_en": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
+        "summary": [
+            "ایالات متحده دیپلمات‌های خود را از عربستان سعودی خارج کرده؛ این اقدام همزمان با آماده‌سازی حملات به ایران پس از انتخابات میانی است.",
+            "خبرگزاری‌ها گزارش می‌دهند که برنامه‌ریزی برای عملیات نظامی کوتاه‌مدت علیه زیرساخت‌های هسته‌ای و موشکی ایران در دست اجراست.",
+            "این حرکت نشانگر تشدید تنش‌های نظامی در منطقه و احتمال اعمال تحریم‌های سنگین‌تر است."
+        ],
+        "impact": "آماده‌سازی حمله نظامی می‌تواند به درگیری مستقیم بین آمریکا و ایران منجر شود.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0a0dDNHVBZ3htWXJxMWhXS19sRkdkMUNBcXF0MzZWejJBMEpLU2p2WEx3Xy1XaHNuamhaUVBmbHU3OG12Y1ZBaVdHRjJ5ck9jV0U2ZGtyRE5KVEdIUTlOa0NjZlJqeU1YRXfSAW9BVV95cUxQbERlN19LekgzYkNqdXFjd3FJb0lYM2JOaGdhWU1oSFdaSVFFTExkeGM5Y19peUFfR1RxZkczR2VwY2tGTGF4ek11SGcyUVZJeURTLVNyVmw0ZEtUdU5WeGVHT0Y0NV9fSkhDd0hRQzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0a0dDNHVBZ3htWXJxMWhXS19sRkdkMUNBcXF0MzZWejJBMEpLU2p2WEx3Xy1XaHNuamhaUVBmbHU3OG12Y1ZBaVdHRjJ5ck9jV0U2ZGtyRE5KVEdIUTlOa0NjZlJqeU1YRXfSAW9BVV95cUxQbERlN19LekgzYkNqdXFjd3FJb0lYM2JOaGdhWU1oSFdaSVFFTExkeGM5Y19peUFfR1RxZkczR2VwY2tGTGF4ek11SGcyUVZJeURTLVNyVmw0ZEtUdU5WeGVHT0Y0NV9fSkhDd0hRQzg",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792643202.0
     },
     {
         "id": "bd8593d49d",
@@ -464,6 +502,42 @@
         "timestamp": 1792602015.0
     },
     {
+        "id": "2d2cc27edd",
+        "title_fa": "شهردار مسکو: روسیه بیشتر ۶۳۰ پهپاد در حال حرکت به سوی پایتخت را سرنگون کرد",
+        "title_en": "شهردار مسکو: روسیه بیشتر ۶۳۰ پهپاد در حال حرکت به سوی پایتخت را سرنگون کرد",
+        "summary": [
+            "سرگئی سوبیانین، شهردار مسکو، اعلام کرد روسیه بیشتر ۶۳۰ پهپادی را که شبانه به سوی مسکو در حرکت بودند، سرنگون کرده است. سوبیانین در پیامی در تلگرام افزود در این حمله دو نفر در خارج از مسکو زخمی شدند. او..."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610229875",
+        "clean_url": "https://www.iranintl.com/202610229875",
+        "image": "http://www.bing.com/th?id=ONUT.1r-EUVxFMqWtFqU6RBKnLg&pid=News",
+        "timestamp": 1792602000.0
+    },
+    {
+        "id": "98268cac4d",
+        "title_fa": "ترامپ: جمهوری اسلامی شرورترین حکومت جهان",
+        "title_en": "ترامپ: جمهوری اسلامی شرورترین حکومت جهان است و اگر سلاح هسته‌ای داشت، از آن استفاده می‌کرد",
+        "summary": [
+            "ترامپ جمهوری اسلامی را «شرورترین حکومت جهان» توصیف کرد و گفت اگر سلاح هسته‌ای داشت، از آن استفاده می‌کرد.",
+            "او در عین حال روسیه و چین را به‌دلیل خودداری از فشار بر ایران تحسین کرد.",
+            "این اظهارات می‌تواند فشار بین‌المللی بر ایران را افزایش دهد و فضای دیپلماتیک را تنگ‌تر کند."
+        ],
+        "impact": "بیان صریح ترامپ می‌تواند زمینه‌ساز تحریم‌های جدید یا اقدام‌ها نظامی بیشتر علیه ایران شود.",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610224827",
+        "clean_url": "https://www.iranintl.com/202610224827",
+        "image": "http://www.bing.com/th?id=ONUT.4EIepv5TMcbRW3Ouo0tixg&pid=News",
+        "timestamp": 1792602000.0
+    },
+    {
         "id": "6f52fd95c2",
         "title_fa": "نیروی‌امریکایی در پایگاه‌های خاورمیانه پرسنل جابجا کرد",
         "title_en": "Iran live updates: US military repositions personnel at Mideast bases, source says",
@@ -497,6 +571,25 @@
         "clean_url": "https://www.cnn.com/2026/10/21/politics/live-news/midterm-election-congress",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2300697879.jpg?c=16x9&q=w_800,c_fill",
         "timestamp": 1792600320.0
+    },
+    {
+        "id": "a01fb90c14",
+        "title_fa": "کاهش حضور نظامی آمریکا در خاورمیانه",
+        "title_en": "US military quietly reduces Middle East footprint amid Iran, Houthi threats",
+        "summary": [
+            "نیروهای نظامی آمریکا به‌صورت آرامش‌آمیز حضور خود را در خاورمیانه کاهش داده‌اند.",
+            "سخنگوی سپاه پاسداران اعلام کرد ایران در صورت حمله، عملیات تهاجمی بدون محدودیت انجام خواهد داد.",
+            "در تهران مذاکراتی درباره تقویت توان ملی و حفظ همبستگی اجتماعی برگزار شد."
+        ],
+        "impact": "کاهش نیروی نظامی آمریکا می‌تواند فضای عملیاتی ایران را برای پاسخ‌گویی گسترده‌تر باز کند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610214598",
+        "clean_url": "https://www.iranintl.com/en/202610214598",
+        "image": "http://www.bing.com/th?id=ONUT.OMBN2iiRRNVt5Ce1o4hpgg&pid=News",
+        "timestamp": 1792599720.0
     },
     {
         "id": "9bc837934b",
@@ -710,6 +803,25 @@
         "clean_url": "https://www.iranintl.com/en/202610218656",
         "image": "http://www.bing.com/th?id=ONUT.lAM76RnrsA4v_8Kp9FUP9A&pid=News",
         "timestamp": 1792591440.0
+    },
+    {
+        "id": "25840d6c91",
+        "title_fa": "فرسایش زمین در کرمان زیر خطر",
+        "title_en": "Trump says Iran has only inflation left, praises Russia, China for restraint",
+        "summary": [
+            "کاهش آب زیرزمینی به‌دلیل برداشت بیش از حد و کشاورزی آب‌بر، باعث نشست زمین در رفسنجان، انار، زرند و سیرجان شده است.",
+            "قریه‌های متعدد با ترک‌ها و شکاف‌های عمیق مواجه‌اند؛ برخی نزدیک به منازل و زمین‌های کشاورزی هستند.",
+            "نشست زمین پس از از دست رفتن آب زیرزمینی غالباً غیرقابل بازگشت است و حتی با پر شدن آبخوان‌ها نیز زمین ممکن است بازنشسته نشود."
+        ],
+        "impact": "کشاورزان و ساکنان مناطق آسیب‌دیده ممکن است مجبور به جابه‌جایی یا از دست دادن اراضی شوند.",
+        "tag": "آب",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610215609",
+        "clean_url": "https://www.iranintl.com/en/202610215609",
+        "image": "http://www.bing.com/th?id=ONUT.RnKi9wo2ARIZ8AwLiOyC0A&pid=News",
+        "timestamp": 1792591380.0
     },
     {
         "id": "2e845c5749",
@@ -5474,113 +5586,5 @@
         "clean_url": "https://www.yahoo.com/news/videos/texas-governor-race-still-tight-184629524.html",
         "image": "https://s.yimg.com/lo/mysterio/api/4e52f8c8f554fc6ffdfeeee31e0af4b95db69ed05fd019654cc7b7c1aa7f615d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkriv_fox_local_videos_108%2Fd2bb382adcb1a641257cc31cfa9bc71b.jpg",
         "timestamp": 1792351061.5152192
-    },
-    {
-        "id": "853e968078",
-        "title_fa": "جدل‌سازهای مسابقه سنا تگزاس با اتهام‌ها جدید",
-        "title_en": "Controversy continues for Texas' US Senate race | What's Your Point?",
-        "summary": [
-            "اتهام‌ها جدید علیه هر دو نامزد سنا تگزاس باعث تردید رأی‌دهندگان شد.",
-            "بحث‌های داخلی حزبی بر سر جذب رای‌های سیاه‌پوستان و زنان ادامه دارد."
-        ],
-        "impact": "جریان منفی می‌تواند حضور یکی از دو حزب را در سنا تهدید کند.",
-        "tag": "انتخابات",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/videos/controversy-continues-texas-us-senate-182725451.html",
-        "clean_url": "https://www.yahoo.com/news/videos/controversy-continues-texas-us-senate-182725451.html",
-        "image": "https://www.bing.com/th?id=ONUT.i7Cps6_PplBQHHJQUQDlHA",
-        "timestamp": 1792351061.5148354
-    },
-    {
-        "id": "b1bfd33534",
-        "title_fa": "ترامپ می‌کوشد عرب‌ها و اسرائیل را علیه ایران متحد کند",
-        "title_en": "Trump has a chance to unite Saudi Arabia, UAE, and Israel against Iran and the Houthis",
-        "summary": [
-            "ترامپ می‌خواهد عربستان، امارات و اسرائیل را در مقابل هوتی‌ها و ایران هم‌پیمان کند.",
-            "این ائتلاف می‌تواند فشار نظامی بر شبه‌جزیره را افزایش دهد و نقش آمریکا را در خلیج تقویت کند."
-        ],
-        "impact": "ایجاد ائتلاف نظامی می‌تواند تحریم‌های جدید و حضور نیروی آمریکایی را در خلیج تشدید کند.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-my/news/other/trump-has-a-chance-to-unite-saudi-arabia-uae-and-israel-against-iran-and-the-houthis/ar-AA2ev7o4?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-my/news/other/trump-has-a-chance-to-unite-saudi-arabia-uae-and-israel-against-iran-and-the-houthis/ar-AA2ev7o4",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792351061.5120957
-    },
-    {
-        "id": "5bf9005f48",
-        "title_fa": "ایران نسبت به حمله مجدد به آمریکا هشدار می‌دهد و می‌گوید که «کارهای ناتمام» نیز دارد",
-        "title_en": "Iran warns US against renewed attack, says it has 'unfinished jobs' too",
-        "summary": [
-            "Iran’s Foreign Minister Abbas Araghchi warned against the U.S. renewing attacks, saying on Sunday that Tehran has “unfinished jobs” too. “Last time you wanted to ‘finish the job’, Iran emerged even..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Hill on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-warns-us-against-renewed-attack-says-it-has-unfinished-jobs-too/ar-AA2fvivJ",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-warns-us-against-renewed-attack-says-it-has-unfinished-jobs-too/ar-AA2fvivJ",
-        "image": "http://www.bing.com/th?id=ONUT.rYTaO6TbCSyh3cWmo8h2uw&pid=News",
-        "timestamp": 1792350432.0
-    },
-    {
-        "id": "0d9bd02490",
-        "title_fa": "ترامپ به آکسیوس می‌گوید که چرا از انتخاب مجدد نتانیاهو در اسرائیل حمایت کرد",
-        "title_en": "Trump tells Axios why he endorsed Netanyahu's reelection in Israel",
-        "summary": [
-            "Trump tells Axios why he endorsed Netanyahu's reelection in Israel Axios"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlUNWVNcFlkMnV4NmR2TWhvS1daNVlab2RvY0FCQU5DU2pwSGtWMEJpcFNRY0FESFlmSThHbzljaE5ZVndfOFRfZE1kZG1taGtiS3hTMnNPNzRrTm16dEtXLWEwcE1LMUF0TjRjNThwR2dCbm02cFJjdWZWSjlGU2RvQzE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlUNWVNcFlkMnV4NmR2TWhvS1daNVlab2RvY0FCQU5DU2pwSGtWMEJpcFNRY0FESFlmSThHbzljaE5ZVndfOFRfZE1kZG1taGtiS3hTMnNPNzRrTm16dEtXLWEwcE1LMUF0TjRjNThwR2dCbm02cFJjdWZWSjlGU2RvQzE",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792346832.0
-    },
-    {
-        "id": "136c6706fc",
-        "title_fa": "کشتی در هرمز پس از مین‌سوزی به آتش افتاد",
-        "title_en": "US-Iran war news: 'Violating' vessel on fire in Hormuz after sea mine blast; Iran says 7-day ceasefire offer still on the table",
-        "summary": [
-            "یک کشتی تجاری در تنگه هرمز پس از انفجار مین‌دریایی سوزید",
-            "ایران اعلام کرد پیشنهاد ۷ روزه آتش‌بس هنوز معتبر است",
-            "ایالات متحده پاسخی به پیشنهاد ایران داد اما جزئیات منتشر نشده"
-        ],
-        "impact": "خطر تشدید درگیری در مسیرهای نفتی خلیج",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "ET Now on MSN",
-        "url": "https://www.msn.com/en-in/news/other/us-iran-war-news-violating-vessel-on-fire-in-hormuz-after-sea-mine-blast-iran-says-7-day-ceasefire-offer-still-on-the-table-10-key-updates/ar-AA2evyab",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-violating-vessel-on-fire-in-hormuz-after-sea-mine-blast-iran-says-7-day-ceasefire-offer-still-on-the-table-10-key-updates/ar-AA2evyab",
-        "image": "http://www.bing.com/th?id=ONUT.CrbUdiIHkHwGRUk9Mo_HxQ&pid=News",
-        "timestamp": 1792343799.0
-    },
-    {
-        "id": "5ea06dde20",
-        "title_fa": "ترامپ تصمیم به تعویق تحریم روسیه را توجیه کرد",
-        "title_en": "Live updates: GOP airs frustration over Russia sanctions waiver; Trump heads to Kansas",
-        "summary": [
-            "ترامپ گفت تعویق تحریم روسیه به‌دلیل جلوگیری از دفع مسکو است",
-            "او ترجیح می‌دهد روابط تجاری را حفظ کند حتی با رقبای ژئوپلیتیک",
-            "این تأخیر می‌تواند فشار دیپلماتیک آمریکا بر روسیه و ایران را کاهش دهد"
-        ],
-        "impact": "کاهش فشار اقتصادی آمریکا بر روسیه؛ امکان اعمال فشار مشابه به ایران",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Hill",
-        "url": "https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms/",
-        "clean_url": "https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms",
-        "image": "https://www.bing.com/th?id=ONUT.QBV546Ij5LcvZQ7g_eXFbA",
-        "timestamp": 1792343144.0
     }
 ]
