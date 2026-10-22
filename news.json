@@ -1,5 +1,23 @@
 [
     {
+        "id": "b2a7cfebea",
+        "title_fa": "بازار وال استریت منتظر سقوط ترامپ است",
+        "title_en": "Wall Street can't wait for Trump to crash and burn: economist",
+        "summary": [
+            "اقتصاددان‌ها می‌گویند سقوط ترامپ می‌تواند نوسان شدید در بورس ایجاد کند",
+            "این انتظار نشان می‌دهد سرمایه‌گذاران به سیاست‌های ضد‑ایرانی او وابسته‌اند"
+        ],
+        "impact": "نوسان کوتاه‌مدت در شاخص‌های آمریکا، فشار بر ارزهای نوظهور",
+        "tag": "بازار",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/wall-street-cant-wait-for-trump-to-crash-and-burn-economist/ar-AA2fR1X4?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-xl/news/other/wall-street-cant-wait-for-trump-to-crash-and-burn-economist/ar-AA2fR1X4",
+        "image": "https://www.bing.com/th?id=ONUT.bOwHLPUcSsxGkA6BHky1HA",
+        "timestamp": 1792710125.1673598
+    },
+    {
         "id": "95ccabd2c0",
         "title_fa": "نظرسنجی میدانی در میخانه‌های آمریکا درباره ترامپ",
         "title_en": "RICHARD LITTLEJOHN: Trump is toast? Don't ask me, just listen to what the voters are saying in the local Cheers-style bars of the US",
@@ -74,6 +92,26 @@
         "clean_url": "https://www.middleeasteye.net/news/pro-israel-lobbying-group-aipac-ends-endorsements-direct-funding-us-candidates",
         "image": "https://www.bing.com/th?id=ONUT.ptBSRVTftf1JhHYSoC_jGA",
         "timestamp": 1792698541.049833
+    },
+    {
+        "id": "4ee194fb31",
+        "title_fa": "تحلیل زیرساخت‌های نظامی زیرزمینی ایران: پروژه ایگل 44",
+        "title_en": "Iran's Underground Military Resilience: Eagle 44",
+        "summary": [
+            "زیرساخت‌های مخفی نظامی ایران توانایی حفظ قدرت جنگی پس از حملات را دارد",
+            "خسارت به سازه‌های زیرزمینی به‌تنهایی به معنای نابودی توان نیست",
+            "ثبت ۱۲۰ حادثه دریایی در منطقه نشان‌دهنده فشارهای مداوم بر ناوگان است",
+            "عدم شفافیت در موجودی هواپیماها باعث دشواری ارزیابی تهدید می‌شود"
+        ],
+        "impact": "تهدید مداوم برای ناوگان‌های اروپایی و خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "debuglies",
+        "url": "https://debuglies.com/2026/10/22/irans-underground-military-resilience-eagle-44-gulf-security-and-europes-exposure/",
+        "clean_url": "https://debuglies.com/2026/10/22/irans-underground-military-resilience-eagle-44-gulf-security-and-europes-exposure",
+        "image": "https://debuglies.com/wp-content/uploads/2026/10/Irans-Underground-Military-Resilience-Eagle-44-Gulf-Security-and-Europes-Exposure.jpg",
+        "timestamp": 1792698360.0
     },
     {
         "id": "5956638d56",
@@ -285,6 +323,25 @@
         "timestamp": 1792683176.8993168
     },
     {
+        "id": "59928b0df7",
+        "title_fa": "مصر با ایران در یمن اختلاف دارد، بلاکاد اقتصادی",
+        "title_en": "Egypt says it disagrees with Iran over Yemen, urges return to US-Iran understanding",
+        "summary": [
+            "مصر مخالفت خود را با موضع ایران در یمن اعلام کرد",
+            "وزیر امنیت ملی ایران هشدار داد بلاکاد مرزی می‌تواند خانواده‌ها را تحت فشار بگذارد",
+            "واشنگتن فشار برای بسته شدن مرزها را ادامه می‌دهد، اما ایران ادعا می‌کند این فشار شکست استراتژیک نیست"
+        ],
+        "impact": "تشدید فشار اقتصادی بر ایران، کاهش تجارت مرزی",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610226427",
+        "clean_url": "https://www.iranintl.com/en/202610226427",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792682700.0
+    },
+    {
         "id": "7a572a3224",
         "title_fa": "تقلیدگر ترامپ در سلول زندان، نمایش تبلیغی",
         "title_en": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
@@ -338,6 +395,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkEyT2MxcnpyTV9nYUk1TXh1WlV5cUc5NWd1b1FZVjM3Q21KY1cwS1FuLWFsaGNVWTlHZzBuU2VxckxiLXdRcjZuQWliQVY5dTUwUG42RkJfZEpid2l6c3FQcmsxbi1BUU9kWUg2OEFEQlExTF9SdWRjdFYtamVfbVZ2bUZFZXhHTlRTTnRhZk0zaTdYaHZCTEdxTGVvM1RfbVFGX01vczM",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792681380.0
+    },
+    {
+        "id": "15b2dc7910",
+        "title_fa": "سختگیران ایران به سلاح هسته‌ای می‌نگرند",
+        "title_en": "Iran's Hardliners Push for Nuclear Weapons as U.S. War Drags On",
+        "summary": [
+            "برخی قانون‌گذاران و مقامات نظامی به‌طور علنی از سلاح هسته‌ای حمایت کردند",
+            "جنگ با آمریکا و اسرائیل باعث شد ریسک استفاده از سلاح‌های هسته‌ای افزایش یابد",
+            "مشاور خرمشهر گفت ممکن است دکترین هسته‌ای بازنگری شود",
+            "آمریکا برنامه‌های هدف‌گیری در «کوه پیک‌اکس» را بررسی می‌کند"
+        ],
+        "impact": "افزایش خطر برخورد نظامی، تیره شدن فضای دیپلماتیک",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Hardliners-Push-for-Nuclear-Weapons-as-US-War-Drags-On.html",
+        "clean_url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Hardliners-Push-for-Nuclear-Weapons-as-US-War-Drags-On.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-22_awqbq3u0jw.jpg",
+        "timestamp": 1792681200.0
     },
     {
         "id": "c24d1f8e01",
@@ -924,6 +1001,25 @@
         "timestamp": 1792638180.0
     },
     {
+        "id": "bb101a2336",
+        "title_fa": "آرمکو پس از جنگ ایران، ذخیره‌سازهای نفتی را گسترش می‌دهد",
+        "title_en": "Saudi Aramco seeks overseas oil stockpile expansion after Iran war",
+        "summary": [
+            "مدیرعامل آرمکو قصد دارد ظرفیت ذخیره‌سازی نفت در خارج از کشور را افزایش دهد",
+            "پیش‌بینی می‌شود تقاضا پس از پایان جنگ تا ۳ میلیون بشکه در روز رشد کند",
+            "مسیرهای صادراتی جدید برای دور زدن تنگناهای هورموز و باب‌المندب بررسی می‌شود"
+        ],
+        "impact": "تقویت امنیت انرژی سعودی، کاهش وابستگی به مسیرهای بحرانی",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610222098",
+        "clean_url": "https://www.iranintl.com/en/202610222098",
+        "image": "http://www.bing.com/th?id=ONUT.1HRiQE0lQdx4a1s_mzwMwQ&pid=News",
+        "timestamp": 1792635300.0
+    },
+    {
         "id": "3cc3d47e72",
         "title_fa": "دسترسی به متن مقاله مسدود شد",
         "title_en": "Trump’s Gamble to End the Iran War",
@@ -1503,6 +1599,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/midterms-and-iran-congress-could-change-hands-but-trump-would-still-control-the-war/ar-AA2fM1kY",
         "image": "http://www.bing.com/th?id=ONUT.AE33s8dIQEW4ytZYc8Ad0w&pid=News",
         "timestamp": 1792602015.0
+    },
+    {
+        "id": "c992220337",
+        "title_fa": "هفت کشتی در خلیج فارس و هورموز به آتش کشیده شد",
+        "title_en": "Iran Says 7 Vessels on Fire, Damaged in Persian Gulf, Hormuz",
+        "summary": [
+            "نیروی دریایی ایران اعلام کرد هفت کشتی شامل تانکرها در خلیج و هورموز به‌دلیل مین‌ها و شلیک‌ها سوزیدند",
+            "سه کشتی به‌دلیل مین‌گذاری در غرب هورموز غیرفعال شدند",
+            "گزارش‌های بین‌المللی نیز حوادث مشابهی را تأیید کردند"
+        ],
+        "impact": "اختلال در حمل و نقل نفت، افزایش تنش‌های نیابتی",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Epoch Times",
+        "url": "https://www.theepochtimes.com/world/iran-says-seven-vessels-on-fire-damaged-in-persian-gulf-hormuz-6107502",
+        "clean_url": "https://www.theepochtimes.com/world/iran-says-seven-vessels-on-fire-damaged-in-persian-gulf-hormuz-6107502",
+        "image": "https://img.theepochtimes.com/assets/uploads/2026/09/14/id6087308-GettyImages-2293189033-vs-1080x720.jpg",
+        "timestamp": 1792602000.0
     },
     {
         "id": "2d2cc27edd",
@@ -5491,116 +5606,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/scott-jennings-ruthlessly-chewed-out-on-air-with-1-spectacular-katie-zacharia-diss/ar-AA2fBccJ",
         "image": "http://www.bing.com/th?id=ONUT.OxmdU1tbp0Sxj0zoyaJ-VA&pid=News",
         "timestamp": 1792420414.0
-    },
-    {
-        "id": "66de8ad956",
-        "title_fa": "هزینه‌های جنگ ایران، مخالفان را ناامید کرد",
-        "title_en": "Iran's enemies disappointed by war costs, says MakhberPublished on: October 19, 2026 8:57 PM",
-        "summary": [
-            "مشاور رهبری می‌گوید هزینه‌های سنگین جنگ باعث شد مخالفان ایران از ادامه درگیری دست بکشند",
-            "آمریکا، اروپا و دیگر کشورهای مخالف به‌نظر می‌رسد که از ادامه هزینه‌ها خسته شده‌اند",
-            "کاهش حمایت خارجی می‌تواند فشار اقتصادی بر ایران را بیشتر کند"
-        ],
-        "impact": "کاهش حمایت مالی و نظامی خارجی برای ایران",
-        "tag": "جنگ",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Daily Times on MSN",
-        "url": "https://www.msn.com/en-xl/asia/pakistan/irans-enemies-disappointed-by-war-costs-says-makhberpublished-on-october-19-2026-857-pm/ar-AA2fA7rA",
-        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/irans-enemies-disappointed-by-war-costs-says-makhberpublished-on-october-19-2026-857-pm/ar-AA2fA7rA",
-        "image": "http://www.bing.com/th?id=ONUT.bXa-EWs2cW5sMxbCCo-iNg&pid=News",
-        "timestamp": 1792420020.0
-    },
-    {
-        "id": "0f92294aab",
-        "title_fa": "اوکراین تجارت خزر را تهدید می‌کند",
-        "title_en": "Iran accuses Ukraine of threatening Caspian trade with Russia",
-        "summary": [
-            "آفریقای شمالی می‌گوید اقدام‌ها اوکراین می‌تواند مسیر حمل‌ونقل غله‌های روسیه را مختل کند",
-            "ایران این تحولات را تهدیدی برای امنیت غذایی منطقه می‌داند",
-            "اگر تنش‌ها ادامه یابد، صادرات غله از خزر به‌طور قابل‌توجهی کاهش می‌یابد"
-        ],
-        "impact": "کاهش صادرات غله و تشدید تنش‌های تجاری در خزر",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610195368",
-        "clean_url": "https://www.iranintl.com/en/202610195368",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792419900.0
-    },
-    {
-        "id": "147e1d79e8",
-        "title_fa": "جاش تورک پول PAC شرکتی را رد می‌کند - اما پول نقد را از PAC های شرکتی می‌پذیرد",
-        "title_en": "Josh Turek rejects corporate PAC money — but accepts cash from corporate-funded PACs",
-        "summary": [
-            "Turek, who rails against corporate money in politics, has accepted upwards of $222,000 from 33 different leadership PACs."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "National Review on MSN",
-        "url": "https://www.msn.com/en-us/news/other/josh-turek-rejects-corporate-pac-money-but-accepts-cash-from-corporate-funded-pacs/ar-AA2fBtYE",
-        "clean_url": "https://www.msn.com/en-us/news/other/josh-turek-rejects-corporate-pac-money-but-accepts-cash-from-corporate-funded-pacs/ar-AA2fBtYE",
-        "image": "http://www.bing.com/th?id=ONUT.1SwBjeslaWukedLb3Np0TQ&pid=News",
-        "timestamp": 1792419295.0
-    },
-    {
-        "id": "8137666404",
-        "title_fa": "ترامپ با لغو تحریم روسیه واکنش دوحزبی دریافت کرد",
-        "title_en": "Trump faces bipartisan backlash over waiving Russia sanctions",
-        "summary": [
-            "تصمیم غیرفعال‌سازی تحریم‌های روسیه دو روز پیش از اجرا، انتقادات گسترده از جمهوری‌خواهان و دمکرات‌ها را برانگیخت",
-            "ترامپ با انتقاد از اوکراین، حمایت خود از روسیه را آشکار کرد"
-        ],
-        "impact": "احتمال تجدید مذاکرات تجاری با روسیه، اما فشار داخلی بر دولت ترامپ افزایش می‌یابد",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/trump-faces-bipartisan-backlash-over-waiving-russia-sanctions/",
-        "clean_url": "https://www.cbsnews.com/news/trump-faces-bipartisan-backlash-over-waiving-russia-sanctions",
-        "image": "http://www.bing.com/th?id=ONUT.owBK0xW-TbnM9eDu6n3MVA&pid=News",
-        "timestamp": 1792418400.0
-    },
-    {
-        "id": "a421e6eb38",
-        "title_fa": "اقتصاد جنگی ایران؛ کاهش بارگیری نفت و افزایش هزینه حمل",
-        "title_en": "L'economia di guerra in Iran",
-        "summary": [
-            "در سپتامبر ایران نفت را بر روی کشتی‌های نفت‌بار در خلیج پرشین بارگیری نکرد",
-            "حجم حمل و نقل جهانی از طریق هرمز به ۱۱٫۲ میلیون بشکه روزانه بازگشت",
-            "هزینه حمل به آسیا نزدیک ۱۵۰ دلار شد، نشانگر ریسک بالای مسیر"
-        ],
-        "impact": "هزینه بالای نفت ایرانی فشار مالی بر اقتصاد کشور را تشدید می‌کند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "mondoeconomico.eu",
-        "url": "https://mondoeconomico.eu/planisfero/l-economia-di-guerra-in-iran",
-        "clean_url": "https://mondoeconomico.eu/planisfero/l-economia-di-guerra-in-iran",
-        "image": "https://www.bing.com/th?id=ONUT.rLuIm79fkLUqLE0xxAdmFg",
-        "timestamp": 1792414982.8297327
-    },
-    {
-        "id": "f5d57ef647",
-        "title_fa": "تحلیل: اتحاد ایدئولوژیک اسلام‌گرایان با چپ‌گرایان",
-        "title_en": "Abdul El Sayed’s red-green suicide pact: Islamists always hang their leftist allies first",
-        "summary": [
-            "مقاله به بررسی تمایلات اتحاد میان اسلام‌گرایان و چپ‌گرایان می‌پردازد",
-            "نویسنده ادعا می‌کند این اتحاد برای سرکوب مخالفان به کار می‌رود",
-            "مثال‌های تاریخی و کنونی برای نشان دادن این روند آورده شده"
-        ],
-        "impact": "تشخیص این الگو می‌تواند به تحلیل‌گران کمک کند تا خطرات سیاسی ترکیبی را پیش‌بینی کنند",
-        "tag": "تحلیل",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/other/abdul-el-sayed-s-red-green-suicide-pact-islamists-always-hang-their-leftist-allies-first/ar-AA2fzTyR?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/abdul-el-sayed-s-red-green-suicide-pact-islamists-always-hang-their-leftist-allies-first/ar-AA2fzTyR",
-        "image": "https://www.bing.com/th?id=ONUT.POs3kGpNYUo3dyqopD-k1w",
-        "timestamp": 1792414982.829368
     }
 ]
