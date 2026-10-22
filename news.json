@@ -1,5 +1,41 @@
 [
     {
+        "id": "85c56524e9",
+        "title_fa": "ژنرال بازنشسته به حمله پس انتخابات به ایران هشدار داد",
+        "title_en": "Ret. Lt. Gen. reacts to reported military plan to strike Iran post-elections: ‘Hodge-podge’ actions",
+        "summary": [
+            "ژنرال هرتلینگ برنامه مشترک ایالات متحده و اسرائیل برای حمله به ایران پس انتخابات را نقد کرد.",
+            "او آن را «دست‌وپا درهم» نامید و خطر تشدید درگیری منطقه‌ای را برجسته کرد."
+        ],
+        "impact": "افزایش هشدارهای نظامی به واشنگتن و تل‌آویو",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/videos/ret-lt-gen-reacts-reported-144402310.html",
+        "clean_url": "https://www.yahoo.com/news/videos/ret-lt-gen-reacts-reported-144402310.html",
+        "image": "https://www.bing.com/th?id=ONUT.wDHRxzCV2nt4IjQr9ftYBw",
+        "timestamp": 1792683531.0815322
+    },
+    {
+        "id": "f72756e103",
+        "title_fa": "ست مایرز به ترامپ و ونس انتقاد شدید کرد",
+        "title_en": "Seth Meyers on JD Vance: ‘The integrity of a used-car salesman and the charisma of a wet ham’",
+        "summary": [
+            "مایرز ترامپ را به «فروشنده ماشین‌دست دوم» تشبیه کرد و به عدم تشخیص واقعیت اشاره کرد.",
+            "شوخی درباره پرواز Marine One نشان می‌دهد تصویر عمومی ترامپ در رسانه‌ها در حال فرسایش است."
+        ],
+        "impact": "فشار عمومی بر ترامپ برای بازنگری رفتارهای نمایشی",
+        "tag": "رسانه",
+        "urgency": 1,
+        "sentiment": -0.2,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/seth-meyers-jd-vance-integrity-144354000.html",
+        "clean_url": "https://www.aol.com/articles/seth-meyers-jd-vance-integrity-144354000.html",
+        "image": "https://www.bing.com/th?id=ONUT.lkouh17vOoajg6b5pQpWQA",
+        "timestamp": 1792683531.0807106
+    },
+    {
         "id": "91d6c2831d",
         "title_fa": "ریال به رکورد پایین در برابر دلار رسید",
         "title_en": "Iranian rial reaches a new low as attacks escalate, Robin Brooks notes",
@@ -36,6 +72,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-s-time-to-strike-an-iran-deal-is-running-out/ar-AA2fOZw2",
         "image": "https://www.bing.com/th?id=ONUT.XHF0QS-PGRmapRdAEeHHlA",
         "timestamp": 1792683176.8993168
+    },
+    {
+        "id": "601ff229e5",
+        "title_fa": "فروش گسترده بازارها به‌دلیل نگرانی از جنگ ایران",
+        "title_en": "Market sell-off gains steam as concerns about Iran war and high AI spending collide",
+        "summary": [
+            "بازارهای جهانی به‌سرعت فروکش کردند چون نگرانی از جنگ ایران و هزینه‌های هوش مصنوعی همزمان شد.",
+            "این ترکیب باعث افزایش نوسان ارزها و کاهش سرمایه‌گذاری در بخش فناوری شد."
+        ],
+        "impact": "فشار بر سبدهای سرمایه‌گذاری و ریسک بالای بازارهای سهام",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792681786.0
     },
     {
         "id": "18e621ae9a",
@@ -228,6 +282,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfUFZtRXd6TnpuQzBORzRVVl9IMG1uUnExaHFFUjNwVXdLM3ZvTTVxX09zMlBZNUJuclVhNHlsUjZCVzM4WHJOM0wyNF9kelR0T2pFLVFTSFplN1A1UkdsV2dHMEZLbW1UMWhCdVZiZnI",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792663952.0
+    },
+    {
+        "id": "25f47d14fa",
+        "title_fa": "سیاست‌های نظارت و تحریم ایران در تضاد فاجعه‌بار",
+        "title_en": "When Enforcement Consumes the Evidence: Iran Strikes and the Safeguards Paradox",
+        "summary": [
+            "مقاله نشان می‌دهد نظارت IAEA و تحریم‌ها پس از حمله 2026 از هم جدا شدند.",
+            "این جداسازی باعث از دست رفتن داده‌های حساس هسته‌ای ایران شد."
+        ],
+        "impact": "احتمال فشار بین‌المللی شدیدتر بر برنامه هسته‌ای ایران",
+        "tag": "غیرپرواری",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "thediplomaticinsight",
+        "url": "https://thediplomaticinsight.com/iran-strikes-safeguards-paradox/",
+        "clean_url": "https://thediplomaticinsight.com/iran-strikes-safeguards-paradox",
+        "image": "https://thediplomaticinsight.com/wp-content/uploads/0-104.avif",
+        "timestamp": 1792663500.0
     },
     {
         "id": "6a0d331644",
@@ -1144,6 +1216,78 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWFtaE5ELVhSMXdxeDNTZmtmRjZCWXhpM1hnb3JfS2VmeGJSYk1TYlVob1ZxMEhydVlMMEozNzdieTZmRzdHcW40MmVBdzJ6X0tfbjgyeGZEcDM5ZkhMVWlkdUdGZ2h4ajdpN1RXMEp3cXJTZ0dRVklwWEpseTh6SHJJUjlmTTJ5QzRFeV9MQ25VLWc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792597184.0
+    },
+    {
+        "id": "42707f15cb",
+        "title_fa": "IRGC تهدید به حمله به پایگاه‌های آمریکایی در خاورمیانه کرد",
+        "title_en": "Iran Just Did the Unthinkable: Tehran Just Threatened New Attacks Against U.S. Military Bases Across the Middle East",
+        "summary": [
+            "سپاه پاسداران هشدار داد در صورت حمله پیشگیرانه ترامپ به ایران، به تمام پایگاه‌های آمریکایی در خاورمیانه حمله می‌کند.",
+            "این تهدید با گزارش حملات به کشتی‌های نفتی و مین‌گذاری در هرمز همراه است."
+        ],
+        "impact": "خطر مستقیم برای نیروهای آمریکایی و احتمال واکنش نظامی متقابل",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "nationalsecurityjournal",
+        "url": "https://nationalsecurityjournal.org/iran-just-did-the-unthinkable-tehran-just-threatened-new-attacks-against-u-s-military-bases-across-the-middle-east/",
+        "clean_url": "https://nationalsecurityjournal.org/iran-just-did-the-unthinkable-tehran-just-threatened-new-attacks-against-u-s-military-bases-across-the-middle-east",
+        "image": "https://www.bing.com/th?id=ONUT.ptmPiLw2gIIiVJgerXaiSQ",
+        "timestamp": 1792597121.0
+    },
+    {
+        "id": "fbc22e8bee",
+        "title_fa": "مایک راجرز در مناظره به وفاداری ال‌ساید حمله کرد",
+        "title_en": "'I dare you': Mike Rogers' big 'condemn' talk gets thrown right back in his face",
+        "summary": [
+            "راجرز در مناظره ایالت میشیگان، وفاداری ال‌ساید به آمریکا را زیر سوال برد.",
+            "این حمله می‌تواند حمایت‌های جمهوری‌خواهی را در ایالت‌های کلیدی تحت فشار قرار دهد."
+        ],
+        "impact": "تأثیر محدود بر انتخابات میشیگان، اما نشانگر ریزش وحدت حزبی است",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "HuffPost on MSN",
+        "url": "https://www.msn.com/en-us/news/other/i-dare-you-mike-rogers-big-condemn-talk-gets-thrown-right-back-in-his-face/ar-AA2fPhI1?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/i-dare-you-mike-rogers-big-condemn-talk-gets-thrown-right-back-in-his-face/ar-AA2fPhI1",
+        "image": "https://www.bing.com/th?id=ONUT.aAdzVH55Vn2nE7tyu2rIpQ",
+        "timestamp": 1792597120.0
+    },
+    {
+        "id": "0c1e4ddab2",
+        "title_fa": "موهبى IRGC به تهدید ترامپ واکنش طنزآمیز داد",
+        "title_en": "Iran America War में Trump की धमकी पर IRGC के Hossein Mohebi ने उड़ाई खिल्ली | Pickaxe Mountain",
+        "summary": [
+            "موهبى ادعا کرد سلاح جدیدی به نام «پدر همه بمب‌ها» آماده است.",
+            "این سخن گفتن سعی دارد تصویر قوی ترامپ را در برابر ایران تخریب کند."
+        ],
+        "impact": "تشدید تنش‌های دیپلماتیک و احتمال اعمال تحریم‌های جدید",
+        "tag": "تحریک",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "हिन्दुस्तान",
+        "url": "https://www.livehindustan.com/videos/international/iran-america-war-trump-irgc-hossein-mohebi-pickaxe-mountain-201792679721995.html",
+        "clean_url": "https://www.livehindustan.com/videos/international/iran-america-war-trump-irgc-hossein-mohebi-pickaxe-mountain-201792679721995.html",
+        "image": "https://www.bing.com/th?id=ONUT.TevzNRPK3cVNf1XtcjiyIQ",
+        "timestamp": 1792597120.0
+    },
+    {
+        "id": "ead4d63e3c",
+        "title_fa": "نتانیاهو مدی را به روشن کردن مشعل دعوت کرد",
+        "title_en": "Netanyahu invites PM Modi to light torch together with Indian pilot Smit Machchhar on Israel's Independence Day",
+        "summary": [
+            "نتانیاهو دعوت کرد وزیر اعظم هند در روز استقلال اسرائیل مشعل روشن کند.",
+            "حضور مدی نماد پیوند نظامی-فضایی دو کشور است."
+        ],
+        "impact": "تقویت روابط استراتژیک اسرائیل‑هند، بدون اثر مستقیم بر ایران",
+        "tag": "دیپلماتیک",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "The Economic Times on MSN",
+        "url": "https://www.msn.com/en-in/news/other/netanyahu-invites-pm-modi-to-light-torch-together-with-indian-pilot-smit-machchhar-on-israel-s-independence-day/ar-AA2fPpt5?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/netanyahu-invites-pm-modi-to-light-torch-together-with-indian-pilot-smit-machchhar-on-israel-s-independence-day/ar-AA2fPpt5",
+        "image": "https://www.bing.com/th?id=ONUT.PoNk8M0naajQeEGf1N2zEA",
+        "timestamp": 1792597120.0
     },
     {
         "id": "723bb5e8cf",
@@ -5444,153 +5588,5 @@
         "clean_url": "https://www.iranintl.com/en/202610190514",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792397640.0
-    },
-    {
-        "id": "a9f65b5377",
-        "title_fa": "قاضیان با جزئیات پروژه‌های بازسازی واشنگتن توسط ترامپ مواجه‌اند",
-        "title_en": "Judges bristle as they are forced to decide the details of Trump’s Washington makeover",
-        "summary": [
-            "دادگاه‌ها باید تصمیم بگیرند چه تعداد درخت قطع شود و آیا تست رنگ مجاز است یا نه",
-            "این پرونده‌ها می‌توانند محدوده قدرت اجرایی رئیس‌جمهور را بازنگری کنند"
-        ],
-        "impact": "ممکن است پیشرفت برخی پروژه‌های بزرگ شهری به تعویق بیفتد و نظارت قضایی تقویت شود",
-        "tag": "قضایی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "The Press Democrat",
-        "url": "https://www.pressdemocrat.com/2026/10/19/judges-trump-construction-projects/",
-        "clean_url": "https://www.pressdemocrat.com/2026/10/19/judges-trump-construction-projects",
-        "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/10/Trump_Golf_Course_52216_97f084-1.jpg?w=2000&h=1333",
-        "timestamp": 1792395960.0
-    },
-    {
-        "id": "4b529fb705",
-        "title_fa": "دستگاه‌های سوپر‌تانکر در هرمز به مین برخوردند؛ عبور نفت به‌طور چشمگیر کاهش یافت",
-        "title_en": "Global Market Report October 19, 2026",
-        "summary": [
-            "دو سوپر‌تانکر به مین‌های سپاه برخوردند و آتش گرفتند",
-            "سپاه اعلام کرد تنگه هرمز بسته است",
-            "عبور نفت خام از 20.8 به 2.9 میلیون بشکه کاهش یافت",
-            "قیمت نفت به‌سوی 110 دلار نزدیک شد"
-        ],
-        "impact": "کاهش شدید عرضه نفت می‌تواند قیمت جهانی را به‌سختی بالا ببرد",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "note",
-        "url": "https://note.com/hirokimiyano/n/n0be6fc510466?hl=en",
-        "clean_url": "https://note.com/hirokimiyano/n/n0be6fc510466",
-        "image": "https://assets.st-note.com/production/uploads/images/325943833/rectangle_large_type_2_99ce6342e767abba374158ee61358cae.png?fit=bounds&quality=85&width=1280",
-        "timestamp": 1792395300.0
-    },
-    {
-        "id": "0900c162cb",
-        "title_fa": "تحلیل‌گرهای WSJ ترامپ را «بهترین دوست پوتین» نامیدند",
-        "title_en": "Wall Street Journal editorial board goes nuclear on Trump: ‘Putin’s best friend in the world’",
-        "summary": [
-            "تحریریه روزنامه‌نامه‌ساز به تصمیم ترامپ برای تعلیق تحریم‌های روسیه انتقاد شدید کرد",
-            "این اظهارات نشانگر نگرانی رسانه‌ها از نزدیک شدن آمریکا به مسکوست"
-        ],
-        "impact": "تصویر بین‌المللی ترامپ تحت فشار می‌ماند و فشار سیاسی داخلی افزوده می‌شود",
-        "tag": "سیاست-آمریکا",
-        "urgency": 3,
-        "sentiment": -0.5,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/10/wall-street-journal-editorial-board-goes-nuclear-on-trump-putins-best-friend-in-the-world.html",
-        "clean_url": "https://www.mlive.com/politics/2026/10/wall-street-journal-editorial-board-goes-nuclear-on-trump-putins-best-friend-in-the-world.html",
-        "image": "http://www.bing.com/th?id=ONUT.0jQBGAV7zMS1ZxCLG8jmBQ&pid=News",
-        "timestamp": 1792394100.0
-    },
-    {
-        "id": "d34920dd25",
-        "title_fa": "بازارهای اروپایی به‌دلیل لغو تحریم روسیه توسط ترامپ سقوط کردند",
-        "title_en": "European stocks slip led by France, and oil falls on Trump’s Russian sanctions waiver",
-        "summary": [
-            "شاخص‌های فرانسه و سایر کشورهای اروپایی بیش از ۱٪ کاهش یافتند",
-            "نگرانی از تأثیرات مالی‌ساز بر اوراق قرضه دولتی و قیمت نفت مشهود شد"
-        ],
-        "impact": "سرمایه‌گذاران ممکن است به دارایی‌های امن‌تر روی‌آورده و نوسان ارزی افزایش یابد",
-        "tag": "بازار",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/10/19/financial-markets-oil-waiver/",
-        "clean_url": "https://www.baltimoresun.com/2026/10/19/financial-markets-oil-waiver",
-        "image": "http://www.bing.com/th?id=ONUT.l9K7iqZlNC_CWdE3xU8f0A&pid=News",
-        "timestamp": 1792390500.0
-    },
-    {
-        "id": "b909f3c956",
-        "title_fa": "وزیر خارجه ایران: همکاری ایران‑روسیه بی‌سابقه است",
-        "title_en": "Iran foreign minister says Russia, Iran have 'never' worked so closely",
-        "summary": [
-            "عباس ارغچی گفت روابط با مسکو به‌طور تاریخی نزدیک‌ترین سطح را دارد",
-            "این ادعا پس از مذاکرات هسته‌ای و تحریم‌های جدید مطرح شد",
-            "روسیه ممکن است حمایت نظامی و اقتصادی بیشتری به ایران بدهد"
-        ],
-        "impact": "تقویت همکاری می‌تواند فشار بین‌المللی بر ایران را کاهش دهد",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The New Indian Express on MSN",
-        "url": "https://www.msn.com/en-in/news/other/iran-foreign-minister-says-russia-iran-have-never-worked-so-closely/ar-AA2fCPhr?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-foreign-minister-says-russia-iran-have-never-worked-so-closely/ar-AA2fCPhr",
-        "image": "https://www.bing.com/th?id=ONUT.bpFnJZtH-w4quNagSlkdtQ",
-        "timestamp": 1792390483.0
-    },
-    {
-        "id": "185c03d413",
-        "title_fa": "هشدار ایران به آمریکا درباره سلاح غیر هسته‌ای",
-        "title_en": "Iran Sends Warning to US Over Possible Use of Powerful Non-Nuclear Weapon",
-        "summary": [
-            "ایران اعلام کرد که در صورت تهدید، از سلاح قدرتمند غیر هسته‌ای استفاده خواهد کرد",
-            "این سلاح می‌تواند زیرساخت‌های الکترونیکی یا شیمیایی هدف را تخریب کند"
-        ],
-        "impact": "ایالات متحده ممکن است استراتژی‌های نظامی خود را بازنگری کند",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Caspian Post",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY3dGQ2pVTTJmem9VSjd1bGoteVl6MFU2WG5WN0lRbV9xbERqMTNudkVIV29uYnIteEZ5U3dBa0VycTVYYmwzUGMzOEZOd1RtamZmLTRXXzktZkZ2djdWLVlMTWFPLTQyaDlKZkQ4R2dBeUZYV091eUdtSk5qc1A5R1gwR0l5cFQyOTdLaGt3YkotdGZhdUp5elZZZkc0TEU2d2RtMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY3dGQ2pVTTJmem9VSjd1bGoteVl6MFU2WG5WN0lRbV9xbERqMTNudkVIV29uYnIteEZ5U3dBa0VycTVYYmwzUGMzOEZOd1RtamZmLTRXXzktZkZ2djdWLVlMTWFPLTQyaDlKZkQ4R2dBeUZYV091eUdtSk5qc1A5R1gwR0l5cFQyOTdLaGt3YkotdGZhdUp5elZZZkc0TEU2d2RtMA",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792389478.0
-    },
-    {
-        "id": "a778972564",
-        "title_fa": "ترامپ به کانزاس می‌رود: جذب رای کشاورزان",
-        "title_en": "The GOP counts on farmers’ votes. As a costly harvest season raises concerns, Trump heads to Kansas",
-        "summary": [
-            "هزینه‌های سوخت و برداشت پر هزینه، فشار بر کشاورزان می‌آورد",
-            "جمهوری‌خواهان برای حمایت از این گروه در انتخابات پیش می‌روند",
-            "نوسان قیمت‌ها می‌تواند تصمیم‌گیری‌های سیاسی را تحت تأثیر قرار دهد"
-        ],
-        "impact": "نتیجهٔ انتخابات می‌تواند سیاست‌های کشاورزی و تجاری را شکل دهد",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/farmers-enthusiasm-trump-republicans-midterms-kansas-iowa-806aed24f271a422f16d1a41f2610e42",
-        "clean_url": "https://apnews.com/article/farmers-enthusiasm-trump-republicans-midterms-kansas-iowa-806aed24f271a422f16d1a41f2610e42",
-        "image": "http://www.bing.com/th?id=ONUT.KdVqvUQKIeNWrS_4HNYCkw&pid=News",
-        "timestamp": 1792385520.0
-    },
-    {
-        "id": "a606e9a03b",
-        "title_fa": "سرلشکر جدید دفاعی ایران: تهدید جنگ به اسرائیل",
-        "title_en": "Meet Iran’s New Defense Chief: A Missile Veteran Threatening War With Israel",
-        "summary": [
-            "سرلشکر جدید پیشینه موشکی دارد و گفتارهای تند علیه اسرائیل دارد",
-            "او اعلام کرد که ایران آماده استفاده از سلاح‌های دقیق در صورت تشدید تنش است"
-        ],
-        "impact": "افزایش خطر برخورد نظامی در منطقه و فشار بر دیپلماسی بین‌المللی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXhHREw2b2F0ZmdTTmM5YVVta01IX2NCTjRTajZxemNtN2FGSURLcHdCNEp0eFRud0drelJGN1ZUbk5MT21tdUtrY2lzVVEweEFlNVlYSVRGOXFTbzczdnV0bUVuZkNRZ3dDc2RGb3ZyWXhuSnd5R2h5WWVZMGdSdjc5RzhSSGdseHNObGtOVEVfMXNKQnNvdmJONWlaakFQOTkxaGRPdE5Qd2hGZmhsZjI0TmdEQ2MwWFJtOWk2WE1lRHMwbktqZUdhRHNDRkphVkhfWEt6NWdnTkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXhHREw2b2F0ZmdTTmM5YVVta01IX2NCTjRTajZxemNtN2FGSURLcHdCNEp0eFRud0drelJGN1ZUbk5MT21tdUtrY2lzVVEweEFlNVlYSVRGOXFTbzczdnV0bUVuZkNRZ3dDc2RGb3ZyWXhuSnd5R2h5WWVZMGdSdjc5RzhSSGdseHNObGtOVEVfMXNKQnNvdmJONWlaakFQOTkxaGRPdE5Qd2hGZmhsZjI0TmdEQ2MwWFJtOWk2WE1lRHMwbktqZUdhRHNDRkphVkhfWEt6NWdnTkE",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792385400.0
     }
 ]
