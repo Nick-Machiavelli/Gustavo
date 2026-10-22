@@ -1,5 +1,62 @@
 [
     {
+        "id": "19905de2e7",
+        "title_fa": "کانادا افسر پلیس تهران را دور زدن تحریم‌ها اخراج کرد",
+        "title_en": "صدور حکم اخراج افسر سابق پلیس تهران از کانادا؛ گلوبالنیوز: امین یوسفیجم در دور زدن تحریمها ...",
+        "summary": [
+            "هیئت مهاجرت کانادا افسر پلیس ایرانی را به‌دلیل مشارکت در قاچاق تجهیزات نظامی به ایران اخراج کرد",
+            "او در دور زدن تحریم‌های کانادا و آمریکا نقش کلیدی داشته",
+            "این تصمیم پیام واضحی به افراد درگیر در نقض تحریم‌ها می‌فرستد"
+        ],
+        "impact": "تحریم‌های مالی و تجاری علیه افراد مرتبط با نقض تحریم‌ها سخت‌تر می‌شود",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "یورونیوز",
+        "url": "https://parsi.euronews.com/2026/10/22/canada-deports-amin-yousefijam-iran-sanctions-evasion-oct-2026",
+        "clean_url": "https://parsi.euronews.com/2026/10/22/canada-deports-amin-yousefijam-iran-sanctions-evasion-oct-2026",
+        "image": "https://www.bing.com/th?id=ONUT.UGlgykQVwbxJ7ioZFEkNxg",
+        "timestamp": 1792627689.8142323
+    },
+    {
+        "id": "5f5323a1dc",
+        "title_fa": "حمله به فرودگاه کینگ فهد؛ یک کشته و هشت مصدوم",
+        "title_en": "One dead, eight injured in Saudi airport attack",
+        "summary": [
+            "حمله به فرودگاه کینگ فهد در دمام یک کشته و هشت مصدوم به‌جا گذاشت",
+            "مسئولان سعودی حمله را به حوثی‌های حامی ایران نسبت دادند",
+            "ایالات متحده پس از این حمله پرسنل سفارت غیرضروری را از عربستان خارج کرد"
+        ],
+        "impact": "تشدید تنش‌های منطقه‌ای و احتمال واکنش نظامی بین‌المللی",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "RTÉ Ireland",
+        "url": "https://www.rte.ie/news/world/2026/1022/1596373-saudi-airport-attack/",
+        "clean_url": "https://www.rte.ie/news/world/2026/1022/1596373-saudi-airport-attack",
+        "image": "https://www.bing.com/th?id=ONUT.MeOYdXG4bKLr0vnaKjkmIA",
+        "timestamp": 1792627689.8136704
+    },
+    {
+        "id": "4bdf08b0c7",
+        "title_fa": "ایالات متحده و اسرائیل برنامه حمله به ایران پس انتخابات",
+        "title_en": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+        "summary": [
+            "نیویورک تایمز گزارش داد ایالات متحده و اسرائیل پس از انتخابات برنامه حمله به ایران را بازنگری می‌کنند",
+            "این برنامه شامل هدف‌گیری تاسیسات هسته‌ای و نظامی ایران است",
+            "هماهنگی‌های مشترک نشان‌دهنده احتمال افزایش فشار نظامی در آینده نزدیک است"
+        ],
+        "impact": "تهدید مستقیم به زیرساخت‌های هسته‌ای ایران و افزایش ریسک جنگ",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFNybFlkMEkyWkpGZUhTNHUyd2V2Y0JGQkNUNzdJVFhaNlpMWU1FQXh6NG9PWWU0ZlBSdDBCUXUwcEc0c1lJaXRFMzdNajVFdjN5Mm43Y2dBdmNST2lYY1JsWjA5dlVzZkZFcGVaY1RlUEMwS3pOblF0RlVzRGtlYm40TWh2NEp3UGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFNybFlkMEkyWkpGZUhTNHUyd2V2Y0JGQkNUNzdJVFhaNlpMWU1FQXh6NG9PWWU0ZlBSdDBCUXUwcEc0c1lJaXRFMzdNajVFdjN5Mm43Y2dBdmNST2lYY1JsWjA5dlVzZkZFcGVaY1RlUEMwS3pOblF0RlVzRGtlYm40TWh2NEp3UGc",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792622492.0
+    },
+    {
         "id": "aaf6ef4219",
         "title_fa": "نتانیانوی: برنامه جنگی علیه ایران، ریسک انتخابات",
         "title_en": "Editorial | Netanyahu's Iran war plans: A dangerous gamble with Israel's election",
@@ -18,6 +75,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQc2JtZnhOalF2T3hqOU13WVVSRVRkdGNXR0Y3U0I0ck5WcG5XRm9HY0Z0dWNGdGFWT1JJcktqaC1fUmJaUmVrbkZ0V1A0eU9RQnNqa0tia0FnTnpld3UxRmkyWi1BZUFvVFpTSEI1ZTFmWjdtWHdtbW9nMEZEa0FXX05qVHdsX1JvMmMyM3B6RG5rRWlLSlpWSHlHem1iYktRczMtbU1nUzgzTlBORDU5c1JhTjh5ZkJISW5rLXMwci1xTDdaYk9Qd3AzX0VXVlJWRmJqWkJKc2VSSFBzNHpkNm5mem8tTldIQXMzUlAxaHJ1NUlHZ2k0d3NVOWgxUjkxbGxrNWZR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792618680.0
+    },
+    {
+        "id": "9349f70581",
+        "title_fa": "نیروهای آمریکایی و دیپلمات‌ها از پایگاه‌های خاورمیانه تخلیه می‌شوند",
+        "title_en": "U.S. troops and diplomats evacuating Middle East posts, sources say",
+        "summary": [
+            "منابع خبری اعلام کردند نیروها و دیپلمات‌های آمریکایی در حال تخلیه از پایگاه‌های خاورمیانه هستند",
+            "این اقدام پس از افزایش حملات حوثی‌ها و تهدیدات امنیتی انجام می‌شود"
+        ],
+        "impact": "کاهش حضور نظامی آمریکا در منطقه می‌تواند فضای نفوذ رقیبان را تقویت کند",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLU92bVAxQU5KRmtTYjVQME0xeU40bVEzT1Y0bkx6MEM2bmdNUFRVQTBQTGVzb09nZEVCYm9iTE9rRFBqNWlWZURFY2NWamtQLTZ5QTZWcmxDUTB5dmRCVWZ2eFFlNU1sVnFSMkxaWUEwSDBzUkp2bnlZZmwwYUwzb0ZUemJVcDJXSmhZXzhOSVg1alRvNXpxb3NvblNWb2JvTlZ5WmwxYzdzQV81SXF3aDR3c2VFTC1ZZ3BrT19Edw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLU92bVAxQU5KRmtTYjVQME0xeU40bVEzT1Y0bkx6MEM2bmdNUFRVQTBQTGVzb09nZEVCYm9iTE9rRFBqNWlWZURFY2NWamtQLTZ5QTZWcmxDUTB5dmRCVWZ2eFFlNU1sVnFSMkxaWUEwSDBzUkp2bnlZZmwwYUwzb0ZUemJVcDJXSmhZXzhOSVg1alRvNXpxb3NvblNWb2JvTlZ5WmwxYzdzQV81SXF3aDR3c2VFTC1ZZ3BrT19Edw",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792617862.0
     },
     {
         "id": "bf96c5579d",
@@ -206,6 +281,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0l5ZTBmUDZOQ1VIS1A4Rjd6dFZPMDc0ZTRaQ2FMWEhxajJ3ME1yS2N5UFpvd1ZrMnFtdUZDYjJUYk95bHlZMnl2b1FEeVY4TWhJamxOTW15bl9JQ1MweG5fYldjWTByazNBYmVfbE5pN0Z3THlYMnhQTDBqV3ZuWGFR",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792604396.0
+    },
+    {
+        "id": "52f6f7d783",
+        "title_fa": "دونالد ترامپ‌جونیور از جنگ ایران مخالف شد",
+        "title_en": "Trump's son opposed Iran war, believed US should avoid another Middle East conflict",
+        "summary": [
+            "در گفت‌وگوهای خصوصی ترامپ‌جونیور مخالفت خود را با جنگ ایران ابراز کرد",
+            "او علیرغم اختلاف، هنوز از مخالفت علنی با پدرش خودداری می‌کند"
+        ],
+        "impact": "نقش داخلی ترامپ در تصمیم‌گیری‌های آینده آمریکا نسبت به ایران ممکن است تحت تأثیر قرار گیرد",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "The Times of India",
+        "url": "https://www.msn.com/en-in/news/world/trumps-son-opposed-iran-war-believed-us-should-avoid-another-middle-east-conflict/ar-AA2fLiJ3",
+        "clean_url": "https://www.msn.com/en-in/news/world/trumps-son-opposed-iran-war-believed-us-should-avoid-another-middle-east-conflict/ar-AA2fLiJ3",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792604100.0
+    },
+    {
+        "id": "6f52fd95c2",
+        "title_fa": "نیروی‌امریکایی در پایگاه‌های خاورمیانه پرسنل جابجا کرد",
+        "title_en": "Iran live updates: US military repositions personnel at Mideast bases, source says",
+        "summary": [
+            "مرکز فرماندهی متحدین (CENTCOM) جابجایی پرسنل را به‌صورت دوره‌ای اعلام کرد",
+            "این حرکت نشان‌دهنده آمادگی برای تغییرات احتمالی در منطقه است"
+        ],
+        "impact": "قابلیت واکنش سریع نیروهای آمریکا در خاورمیانه افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-military-repositions-personnel-at-mideast-bases-source-says/ar-AA2fyqHa",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-military-repositions-personnel-at-mideast-bases-source-says/ar-AA2fyqHa",
+        "image": "http://www.bing.com/th?id=ONUT.bWynmP-QKcOca9anvMi8Eg&pid=News",
+        "timestamp": 1792601357.0
     },
     {
         "id": "6942f4ce16",
@@ -5476,116 +5587,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/the-16-minute-tape-that-could-bring-down-the-trump-administration-opinion/ar-AA2euclz",
         "image": "https://www.bing.com/th?id=ONUT.QwX278qrirY_6mMDeQ4G7Q",
         "timestamp": 1792329048.2468991
-    },
-    {
-        "id": "c8feceef3b",
-        "title_fa": "ضربه‌های ایران باعث تفرقه در پایهٔ ترامپ؛ واکنش‌های بازگشت‌پذیر",
-        "title_en": "Trump’s Iran strikes split his own base — then the influencers fell back in line",
-        "summary": [
-            "حملات اخیر ایران منجر به تقسیم‌نظر در میان حامیان ترامپ شد؛ مارجوری تیلور گرین ابتدا مخالفت کرد.",
-            "پس از فشارهای داخلی، برخی اینفلوئنسرها موضع خود را به نفع سیاست‌های ترامپ تغییر دادند.",
-            "این نوسان نشان می‌دهد سیاست خارجی ترامپ می‌تواند عامل جدایی‌پذیری در پایهٔ «مگا» باشد."
-        ],
-        "impact": "تأثیر مستقیم بر تصویر ترامپ در انتخابات ۲۰۲۴ و احتمال تغییر مسیر سیاست‌های آمریکا نسبت به ایران.",
-        "tag": "داخلی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Idaho Public Press on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-iran-strikes-split-his-own-base-then-the-influencers-fell-back-in-line/ar-AA2euNLo",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-iran-strikes-split-his-own-base-then-the-influencers-fell-back-in-line/ar-AA2euNLo",
-        "image": "http://www.bing.com/th?id=ONUT.PZE9kaq660e-X6dAT2Dluw&pid=News",
-        "timestamp": 1792327615.0
-    },
-    {
-        "id": "9d4f53fa90",
-        "title_fa": "سعودی‌ها و حوثی‌ها مسیر جنگ را می‌پذیرند",
-        "title_en": "As Iran war spills over, Saudis and Houthis see fighting as only path ahead",
-        "summary": [
-            "جنگ ایران به خاورمیانه گسترش یافت و عربستان و حوثی‌ها اعلام کردند که ادامه درگیری تنها راه حل است",
-            "این موضع باعث تشدید رقابت نیابتی بین سعودی‌ها و ایران می‌شود و خطر جنگ تمام‌عیار در خلیج را بالا می‌برد",
-            "واکنش‌های بین‌المللی به این گسترش محدود است؛ تحریم‌های جدید ممکن است اعمال شود"
-        ],
-        "impact": "افزایش خطر درگیری گسترده در خلیج فارس و فشار بر مسیرهای حمل‌ونقل نفت",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792326962.0
-    },
-    {
-        "id": "1e3296da40",
-        "title_fa": "وزیر دفاع جدید ایران، حضور نیروهای آمریکایی را طلب کرد",
-        "title_en": "Live - Iran’s new defense minister urges US personnel out of region as Washington signals longer stay",
-        "summary": [
-            "اخلاصی به‌صورت عمومی خواستار خروج تمام پرسنل نظامی آمریکا از خاورمیانه شد.",
-            "این درخواست پس از اعلام ماندگاری طولانی‌تر نیروهای آمریکایی در منطقه مطرح شد."
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک می‌تواند منجر به مقابلهٔ نظامی یا تحریم‌های جدید شود.",
-        "tag": "دیپلماتیک",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcnBqMUFFX1cyREwxckpUbVNRS0FRcUhUS2dlMU1xWnZmWXFKR01HbFZqaHBhYTlJRk9Rb2kzN1FrbmNVbTRFVmViNFFtOVBRWkdXQWVXZkpyWEFfcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcnBqMUFFX1cyREwxckpUbVNRS0FRcUhUS2dlMU1xWnZmWXFKR01HbFZqaHBhYTlJRk9Rb2kzN1FrbmNVbTRFVmViNFFtOVBRWkdXQWVXZkpyWEFfcGc",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792324405.0
-    },
-    {
-        "id": "9e9d6f6100",
-        "title_fa": "ایران دشمن آمریکا؛ اسرائیل هم‌پیمان",
-        "title_en": "Israel, Iran and the moral clarity Abdul El-Sayed owes Michigan | Thompson",
-        "summary": [
-            "نویسنده به‌وضوح ایران را به‌عنوان دشمن سرسخت آمریکا معرفی می‌کند و اسرائیل را هم‌پیمان استراتژیک می‌داند.",
-            "این تقسیم‌بندی ساده‌سازی شده، فضای دیپلماتیک را به دو قطب واضح می‌کشد و امکان گفت‌وگوی میان‌المللی را محدود می‌کند.",
-            "بیان این موضع می‌تواند حمایت عمومی آمریکا از اسرائیل را تقویت کند و فشار بر سیاست‌های هسته‌ای ایران را افزایش دهد."
-        ],
-        "impact": "تقویت روایت دو‑قطبی می‌تواند فشار بین‌المللی بر ایران را بالا برده و حمایت از اسرائیل را در داخل آمریکا تثبیت کند",
-        "tag": "روابط‌بین‌الملل",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "Belleville News-Democrat",
-        "url": "https://www.bnd.com/news/nation-world/national/article317676992.html",
-        "clean_url": "https://www.bnd.com/news/nation-world/national/article317676992.html",
-        "image": "http://www.bing.com/th?id=ONUT.cCXqEOz8Twt2okU8OG7lMQ&pid=News",
-        "timestamp": 1792321680.0
-    },
-    {
-        "id": "53881be80f",
-        "title_fa": "ایران خواستار پذیرش طرح بازگشایی هورموز توسط آمریکا",
-        "title_en": "Iran urges US to accept proposal to reopen Strait of Hormuz",
-        "summary": [
-            "تهدید مداوم ایران به بسته شدن مجدد هورموز فشار اقتصادی بر آمریکا را تقویت می‌کند.",
-            "پیشنهاد ایران شامل تضمین امنیت ناوبری برای کشتی‌های تجاری است."
-        ],
-        "impact": "اگر آمریکا طرح را بپذیرد، مسیر نفتی خلیج فارس آرام می‌شود و قیمت نفت تثبیت می‌گردد.",
-        "tag": "هورموز",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUh3Z1JyMmU4SkJ4ZXQ4Y0VaN3RMS1Vtcmg4S1lDMGlvUG1GeVY3Q1pkaWltSG5yOWhmcTBnNkk4U0ZiTVREVzd3RVRZNjZJTjhaTkg5bTFGX0J2Q0JzTUI4UlZIWmxHMmRDeVRRODZRYU1mbkNrVzFRX3piTnpDbllfUGc3NnJkSl9hWWRCQzlxZjFBYnE5bXJQMVBjMzNBUFlNcmRtcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUh3Z1JyMmU4SkJ4ZXQ4Y0VaN3RMS1Vtcmg4S1lDMGlvUG1GeVY3Q1pkaWltSG5yOWhmcTBnNkk4U0ZiTVREVzd3RVRZNjZJTjhaTkg5bTFGX0J2Q0JzTUI4UlZIWmxHMmRDeVRRODZRYU1mbkNrVzFRX3piTnpDbllfUGc3NnJkSl9hWWRCQzlxZjFBYnE5bXJQMVBjMzNBUFlNcmRtcw",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792319383.0
-    },
-    {
-        "id": "ebb48f1a77",
-        "title_fa": "ترامپ برنامهٔ رفع تحریم‌های روسیه را فاش کرد",
-        "title_en": "Trump reveals his plan for why he is easing sanctions on Russia",
-        "summary": [
-            "ترامپ قصد دارد محدودیت‌های اقتصادی علیه مسکو را کاهش دهد تا مذاکرات پایان جنگ اوکراین پیش برود",
-            "این گام می‌تواند روابط تجاری آمریکا‑روسیه را بازگرداند و فشار غرب را کم کند"
-        ],
-        "impact": "کاهش فشار اقتصادی بر روسیه، تغییر دینامیک ژئوپلیتیک اروپا",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Dagens.com on MSN",
-        "url": "https://www.msn.com/en-ca/news/other/trump-reveals-his-plan-for-why-he-is-easing-sanctions-on-russia/ar-AA2fzmUN?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/other/trump-reveals-his-plan-for-why-he-is-easing-sanctions-on-russia/ar-AA2fzmUN",
-        "image": "https://www.bing.com/th?id=ONUT.zn7ZNxYGDb98uwxuHeXxQw",
-        "timestamp": 1792318228.0
     }
 ]
