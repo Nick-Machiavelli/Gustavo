@@ -1,5 +1,24 @@
 [
     {
+        "id": "eccc9bd4f8",
+        "title_fa": "AIPAC حمایت مالی از کاندیداها را متوقف کرد",
+        "title_en": "Pro-Israel lobbying group Aipac ends endorsements, direct funding to US candidates",
+        "summary": [
+            "AIPAC اعلام کرد دیگر به‌صورت عمومی از کاندیداها حمایت نخواهد کرد",
+            "گروه به جمع‌آوری کمک‌های فردی و ابزارهای جدید مالی روی می‌آورد",
+            "شفافیت حمایت‌های لابی‌گری از سیاست‌گذاران آمریکا کاهش می‌یابد"
+        ],
+        "impact": "کاهش مستقیم نفوذ لابی‌گری اسرائیل در انتخابات آمریکا",
+        "tag": "لابی‑اسرائیل",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/pro-israel-lobbying-group-aipac-ends-endorsements-direct-funding-us-candidates",
+        "clean_url": "https://www.middleeasteye.net/news/pro-israel-lobbying-group-aipac-ends-endorsements-direct-funding-us-candidates",
+        "image": "https://www.bing.com/th?id=ONUT.ptBSRVTftf1JhHYSoC_jGA",
+        "timestamp": 1792698541.049833
+    },
+    {
         "id": "5956638d56",
         "title_fa": "نوسان بازارهای فلزی در شرایط نامطمئن",
         "title_en": "Market Coiling",
@@ -738,6 +757,25 @@
         "timestamp": 1792641419.0
     },
     {
+        "id": "593e1e84d2",
+        "title_fa": "آمریکا و اسرائیل پس از میانه‌دوره‌ها برنامه حمله جدید به ایران دارند",
+        "title_en": "NYT: US and Israel plan major new strikes on Iran after midterm elections, weighing three-day assault",
+        "summary": [
+            "ایالات متحده و اسرائیل برنامه‌ریزی دقیق برای حمله نظامی به ایران پس از انتخابات میانه‌دوره‌ای دارند",
+            "تمرینات هوایی مشترک و هدف‌گیری زیرساخت‌های انرژی و هسته‌ای ایران در دستور کار است",
+            "حمله می‌تواند اقتصاد ایران را به لبه سقوط برساند"
+        ],
+        "impact": "تهدید جدی به زیرساخت‌های حیاتی ایران و احتمال تحریم‌های شدیدتر",
+        "tag": "حمله‑نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Proto Thema",
+        "url": "https://en.protothema.gr/2026/10/22/nyt-us-and-israel-plan-major-new-strikes-on-iran-after-midterm-elections-weighing-three-day-assault/",
+        "clean_url": "https://en.protothema.gr/2026/10/22/nyt-us-and-israel-plan-major-new-strikes-on-iran-after-midterm-elections-weighing-three-day-assault",
+        "image": "http://www.bing.com/th?id=ONUT.0Qoqw1Wfz3lrBAmdvozdyQ&pid=News",
+        "timestamp": 1792641060.0
+    },
+    {
         "id": "7e4bc72ff6",
         "title_fa": "ترامپ حملات میان‌دوره‌ای به ایران را می‌سنجید",
         "title_en": "Trump weighs post-midterm strikes on Iran",
@@ -926,6 +964,62 @@
         "timestamp": 1792627689.8136704
     },
     {
+        "id": "c3cd9b64b7",
+        "title_fa": "بسته‌سازی ناوگان آمریکا، عرضه مخفی نفت به چین تمام شد",
+        "title_en": "Iran’s secret oil supply bound for China has dried up thanks to US naval blockade, analysts say",
+        "summary": [
+            "بلاکاد آمریکا مانع تجدید موجودی ۱۳۵ میلیون باریل شد",
+            "ذخایر به زیر یک میلیون باریل رسید و عملاً از بین رفت",
+            "ایران از فروش به چین میلیاردها دلار کسب می‌کرد؛ اکنون این منبع قطع شد"
+        ],
+        "impact": "کاهش شدید درآمد نفتی ایران، فشار بیشتر بر ارز ملی",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/22/world-news/irans-secret-oil-supply-bound-for-china-has-dried-up/",
+        "clean_url": "https://nypost.com/2026/10/22/world-news/irans-secret-oil-supply-bound-for-china-has-dried-up",
+        "image": "http://www.bing.com/th?id=ONUT.sXzwS7jaXUGTpfWK3gls1A&pid=News",
+        "timestamp": 1792624440.0
+    },
+    {
+        "id": "0efe4f390b",
+        "title_fa": "سازمان IMF پیش‌بینی کاهش ۱٫۳٪ اقتصاد خاورمیانه در ۲۰۲۶",
+        "title_en": "IMF sees Middle East region shrinking 1.3% in 2026 due to Iran war",
+        "summary": [
+            "IMF پیش‌بینی می‌کند اقتصاد خاورمیانه در ۲۰۲۶ به‌دلیل جنگ ایران ۱٫۳٪ کاهش یابد",
+            "این کاهش ناشی از فشارهای تحریمی و کاهش سرمایه‌گذاری است"
+        ],
+        "impact": "سرمایه‌گذاران ممکن است از منطقه دور شوند",
+        "tag": "اقتصاد‑ایران",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610228150",
+        "clean_url": "https://www.iranintl.com/en/202610228150",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792624440.0
+    },
+    {
+        "id": "378bd965f9",
+        "title_fa": "چین رابطه‌اش با ایران را صرفاً تجاری می‌داند",
+        "title_en": "China values Iran but won't pay any price to defend it",
+        "summary": [
+            "چین رابطه‌اش با ایران را به منافع انرژی و جاده ابریشم محدود می‌کند",
+            "تعهد دفاعی واضحی نسبت به دولت تهران ندارد",
+            "ایران همچنان به چین برای خروج نفت تحت تحریم وابسته است"
+        ],
+        "impact": "ایران باید به دنبال گزینه‌های دیپلماتیک دیگر بگردد",
+        "tag": "چین‑ایران",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610227980",
+        "clean_url": "https://www.iranintl.com/en/202610227980",
+        "image": "http://www.bing.com/th?id=ONUT.V6CyIE3U3Vu2p7nJVLGV2g&pid=News",
+        "timestamp": 1792623300.0
+    },
+    {
         "id": "4bdf08b0c7",
         "title_fa": "ایالات متحده و اسرائیل برنامه حمله به ایران پس انتخابات",
         "title_en": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
@@ -1111,6 +1205,44 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PaVdxU0tLR0VqbjB0eURLYldaQXNtOFBvSVM5VHp2RTBoSXpUU0RLNC1UOHFVa290SHBSTmlNbThuMEMxRGRNU2pmTWlhdGJjZFE",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792614371.0
+    },
+    {
+        "id": "00645712e7",
+        "title_fa": "سپاه تهدید کرد اگر کشتی‌ها در هرمز عبور کنند، پایگاه‌های آمریکا هدف می‌شود",
+        "title_en": "Iran's IRGC threatens to target US bases if commercial ships continue transiting Strait of Hormuz",
+        "summary": [
+            "سپاه پاسداران هشدار داد اگر کشتی‌های تجاری از هرمز عبور کنند، پایگاه‌های آمریکایی هدف می‌شوند",
+            "این تهدید در چارچوب تنش‌های پیرامون حملات هوایی به ایران است",
+            "افزایش خطر تصادم نظامی در خلیج فارس"
+        ],
+        "impact": "احتمال برخورد مستقیم نیروی دریایی آمریکا و ایران در خلیج فارس",
+        "tag": "تهدید‑ساحلی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-strait-hormuz-oil-prices-10-22-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-hormuz-oil-prices-10-22-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/556f8128d805a1ed878807dd0596b183.jpg",
+        "timestamp": 1792612132.0
+    },
+    {
+        "id": "a802a2b6a9",
+        "title_fa": "دموکرات‌ها از ترامپ می‌پرسند پس از انتخابات چه می‌شود",
+        "title_en": "Democrats Have One Question for President Donald Trump: What Happens with the Iran War After the Election?",
+        "summary": [
+            "مشاور پیشین چهار رئیس‌جمهور آمریکا سناریوهای پس از پیروزی دمکرات‌ها را بررسی کرد",
+            "اگر کنگره دمکراتیک شود، احتمال ادامه یا تشدید جنگ ایران افزایش می‌یابد",
+            "تصمیم‌گیری‌های نظامی آمریکا ممکن است تحت فشار سیاسی جدید قرار گیرد"
+        ],
+        "impact": "قابلیت تغییر مسیر عملیات نظامی آمریکا در خاورمیانه",
+        "tag": "سیاست‑آمریکا",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "nationalsecurityjournal",
+        "url": "https://nationalsecurityjournal.org/democrats-have-one-question-for-president-donald-trump-what-happens-with-the-iran-war-after-the-election/",
+        "clean_url": "https://nationalsecurityjournal.org/democrats-have-one-question-for-president-donald-trump-what-happens-with-the-iran-war-after-the-election",
+        "image": "https://www.bing.com/th?id=ONUT.fNTvPkbhpTo4ahDZOGeV2w",
+        "timestamp": 1792612131.0
     },
     {
         "id": "e20952c92a",
@@ -5470,131 +5602,5 @@
         "clean_url": "https://www.reuters.com/world/us/us-launch-8-billion-support-program-farmers-offset-diesel-costs-trump-says-2026-10-20",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792409869.0
-    },
-    {
-        "id": "d3f7597449",
-        "title_fa": "حمله حوثی‌ها به عربستان، نفت به بالاترین پنج‑ماهه",
-        "title_en": "Oil prices hit five-month high as more Houthi attacks prompt supply and inflation fears",
-        "summary": [
-            "حوثی‌ها حملات جدیدی به زیرساخت‌های سعودی انجام دادند",
-            "نگرانی از کاهش عرضه، قیمت نفت به بالاترین پنج ماهه رسید"
-        ],
-        "impact": "افزایش هزینه‌های انرژی جهانی",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "The National on MSN",
-        "url": "https://www.msn.com/en-ae/money/news/oil-prices-hit-five-month-high-as-more-houthi-attacks-prompt-supply-and-inflation-fears/ar-AA2fEn80?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ae/money/news/oil-prices-hit-five-month-high-as-more-houthi-attacks-prompt-supply-and-inflation-fears/ar-AA2fEn80",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792409869.0
-    },
-    {
-        "id": "901175f72c",
-        "title_fa": "توم باراک: آمریکا دیگر به نفت‑امنیت وابسته نیست",
-        "title_en": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-        "summary": [
-            "دیپلماتیک ارشد آمریکا اعلام کرد که روابط نفت‑امنیت در خاورمیانه تغییر کرده",
-            "آمریکا هنوز حضور دارد اما نقش خود را بازنگری می‌کند"
-        ],
-        "impact": "کشورهای خاورمیانه ممکن است به دنبال شرکای جدید انرژی باشند",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/us-leaving-oil-security-approach-103657191.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/us-leaving-oil-security-approach-103657191.html",
-        "image": "https://www.bing.com/th?id=ONUT.mWKxnBua2hjf5QgFxoKAZQ",
-        "timestamp": 1792409869.0
-    },
-    {
-        "id": "9180483196",
-        "title_fa": "ترامپ از نتانیاهو حمایت کرد و به ایران هشدار داد",
-        "title_en": "LedenHoe Trumps steun voor Netanyahu het verkiezingslandschap in Israël zou kunnen veranderen",
-        "summary": [
-            "ترامپ در توییت‌ خود به نتانیاهو حمایت کامل اعلام کرد",
-            "او گفت اگر تهران مسیر خود را تغییر ندهد، «مسئله را به زودی تمام می‌کنیم»"
-        ],
-        "impact": "تشدید ریسک مواجهه نظامی بین آمریکا و ایران",
-        "tag": "سیاست",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "israeltoday",
-        "url": "https://israeltoday.nl/read/hoe-trumps-steun-voor-netanyahu-het-verkiezingslandschap-in-israel-zou-kunnen-veranderen/",
-        "clean_url": "https://israeltoday.nl/read/hoe-trumps-steun-voor-netanyahu-het-verkiezingslandschap-in-israel-zou-kunnen-veranderen",
-        "image": "https://www.bing.com/th?id=ONUT.tJ6TG7W8sKI1DySFVTLyZg",
-        "timestamp": 1792409869.0
-    },
-    {
-        "id": "d84654fe7e",
-        "title_fa": "وزارت اطلاعات ایران 39 تن را در اعتراضات دی ماه بازداشت کرد",
-        "title_en": "Iran's Intelligence Ministry arrests 39 over January protests",
-        "summary": [
-            "Iran's Intelligence Ministry said on Monday that it had arrested 39 people in Qazvin, northwestern Iran, in connection with nationwide protests in January. The ministry accused the detainees of damaging public and private property during the protests and described them as \"enemy agents.\""
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610199799",
-        "clean_url": "https://www.iranintl.com/en/202610199799",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792409100.0
-    },
-    {
-        "id": "70ee48dbf5",
-        "title_fa": "قاضی فدرال درباره طرح گلف‌کورس ترامپ سؤال کرد",
-        "title_en": "Federal judge presses government officials over golf course plans",
-        "summary": [
-            "قاضی خواستار ارائه جزئیات درباره مکان و وضعیت حقوقی پروژه گلف‌کورس شد",
-            "طرح در حال حاضر تحت دعواهای قضایی برای مالکیت زمین است"
-        ],
-        "impact": "پروژه ممکن است با تأخیر یا لغو مواجه شود و هزینه‌های اضافی برای دولت ایجاد کند",
-        "tag": "حقوقی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "UPI",
-        "url": "https://www.upi.com/Top_News/US/2026/10/19/judge-demands-answers-on-trump-golf-course/9551792444491/",
-        "clean_url": "https://www.upi.com/Top_News/US/2026/10/19/judge-demands-answers-on-trump-golf-course/9551792444491",
-        "image": "http://www.bing.com/th?id=ONUT.neqQxsBjnrh3RJcUbwOvkw&pid=News",
-        "timestamp": 1792405620.0
-    },
-    {
-        "id": "0b7ff2dd09",
-        "title_fa": "ترامپ: جنگ ایران به نتانیاهو می‌افتد",
-        "title_en": "Trump's \"Kiss of death\": the blame for the war in Iran is laid on Netanyahu",
-        "summary": [
-            "ترامپ به‌صورت علنی مسئولیت جنگ ایران را به نتانیاهو می‌اندازد تا ایالات متحده از هرگونه انتقاد داخلی در اواخر انتخابات اسرائیل دور بماند",
-            "این حرکت نشان می‌دهد که تیم ترامپ سعی دارد با بهره‌گیری از ضد‑اسرائیل‌گرایی در آمریکا، حمایت عمومی را از نتانیاهو کاهش دهد",
-            "اگر نتانیاهو به‌دست این اتهام‌ها بخورد، ممکن است فشار داخلی بر دولت اسرائیل برای ادامه عملیات نظامی در ایران افزایش یابد",
-            "روابط استراتژیک آمریکا‑اسرائیل تحت این بازی سیاسی می‌تواند دچار تنش شود و هماهنگی‌های نظامی محدود گردد"
-        ],
-        "impact": "احتمال کاهش همکاری مستقیم آمریکا با اسرائیل در قبال ایران و تأثیر بر نتایج انتخابات اسرائیل",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "EADaily",
-        "url": "https://eadaily.com/en/news/2026/10/19/trumps-kiss-of-death-the-blame-for-the-war-in-iran-is-laid-on-netanyahu",
-        "clean_url": "https://eadaily.com/en/news/2026/10/19/trumps-kiss-of-death-the-blame-for-the-war-in-iran-is-laid-on-netanyahu",
-        "image": "https://www.bing.com/th?id=ONUT.mKBFQTM7lShb2buWgL5v6w",
-        "timestamp": 1792404645.2623458
-    },
-    {
-        "id": "dbea285ebb",
-        "title_fa": "ترامپ 9 روز قبل از انتخابات سخت اسرائیل در 27 اکتبر از نتانیاهو حمایت می‌کند",
-        "title_en": "Trump endorses Netanyahu nine days before Israel’s tight October 27 election",
-        "summary": [
-            "President Trump issued a 'Complete and Total Endorsement' of Benjamin Netanyahu on Sunday, nine days before Israel's October..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Idaho Learning News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-endorses-netanyahu-nine-days-before-israel-s-tight-october-27-election/ar-AA2fzFdW?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-endorses-netanyahu-nine-days-before-israel-s-tight-october-27-election/ar-AA2fzFdW",
-        "image": "https://www.bing.com/th?id=ONUT.Ya81jeDIMDiyWQ_r-bQS_A",
-        "timestamp": 1792404645.2613134
     }
 ]
