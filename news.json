@@ -1,5 +1,101 @@
 [
     {
+        "id": "70639560b6",
+        "title_fa": "ترامپ در رالی آیوا: گفتارهای گسسته و توهین‌آمیز",
+        "title_en": "Trump Repeatedly Short-Circuits During Rally Speech",
+        "summary": [
+            "ترامپ نامزد دمکراتیک را به‌اشتباه «جهادی» نامید و به‌نظر می‌رسد توان ارتباطی‌اش در حال فرسودن",
+            "استفاده از صداهای عجیب برای جلب توجه نشان از اضطراب او دارد",
+            "خطاهای زبانی مکرر می‌تواند حمایت میانه‌روها را از دست بدهد",
+            "رالی‌های مکرر بدون پیام واضح، تصویر عمومی او را تخریب می‌کند"
+        ],
+        "impact": "کاهش اعتبار ترامپ در میان رأی‌دهندگان میانه‌رو احتمالاً حمایت‌هایش در انتخابات آینده را تضعیف می‌کند",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/217046/donald-trump-repeatedly-short-circuits-speech-noises",
+        "clean_url": "https://newrepublic.com/post/217046/donald-trump-repeatedly-short-circuits-speech-noises",
+        "image": "https://www.bing.com/th?id=ONUT.1Ki8MJRhXthqJoq57YY49g",
+        "timestamp": 1792768970.7426672
+    },
+    {
+        "id": "df15661bd7",
+        "title_fa": "انتخابات اسرائیل: راست‌گرایان بیش از پیش قوی می‌شوند",
+        "title_en": "50 shades of right: An Israeli election primer",
+        "summary": [
+            "افزایش افراط‌گرایان در ائتلاف نتانیاهو ریسک ایزوله‌سازی بین‌المللی را بالا می‌برد",
+            "حریفان با رد همکاری مسیر خود را مسدود می‌کنند و فرصت اصلاح را از دست می‌دهند",
+            "تقویت جناح راست می‌تواند سیاست‌های امنیتی سخت‌گیرانه‌تر را به‌بار آورد",
+            "روندهای داخلی ممکن است فضای دموکراسی را تنگ‌تر کند"
+        ],
+        "impact": "تقویت جناح راست می‌تواند سیاست‌های امنیتی سخت‌گیرانه‌تر و مانع پیشرفت صلح در منطقه شود",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "+972 Magazine",
+        "url": "https://www.972mag.com/israeli-election-primer-2026-netanyahu-eisenkot/",
+        "clean_url": "https://www.972mag.com/israeli-election-primer-2026-netanyahu-eisenkot",
+        "image": "https://www.bing.com/th?id=ONUT.JKlqF2kTHPUoiYp15qxC2Q",
+        "timestamp": 1792768970.7423716
+    },
+    {
+        "id": "5600a803a0",
+        "title_fa": "ترامپ از نتانیاهو حمایت می‌کند و هشدار به ایران می‌دهد",
+        "title_en": "Trump Makes Unprecedented Move to Back Netanyahu, Issues Blunt Warning",
+        "summary": [
+            "ترامپ حمایت کامل خود را از نتانیاهو اعلام کرد",
+            "او هشدار داد انتخاب رهبر دیگر می‌تواند همکاری ضد‑ایران را به خطر بیندازد"
+        ],
+        "impact": "تقویت موضع متحدین اسرائیل در مقابل ایران، احتمال تشدید تنش‌های منطقه‌ای",
+        "tag": "ایران‑اسرائیل",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Charisma Magazine Online",
+        "url": "https://mycharisma.com/news/trump-makes-unprecedented-move-to-back-netanyahu-issues-blunt-warning/",
+        "clean_url": "https://mycharisma.com/news/trump-makes-unprecedented-move-to-back-netanyahu-issues-blunt-warning",
+        "image": "https://www.bing.com/th?id=ONUT.0DkE2Itma75tKWKSlETPWA",
+        "timestamp": 1792768970.741706
+    },
+    {
+        "id": "61ef1faad2",
+        "title_fa": "ترامپ تحریم‌های نام‌گذاری شده به لینزی گراهام را مسدود کرد",
+        "title_en": "Trump sparks bipartisan revolt by blocking sanctions named after late ally Lindsey Graham",
+        "summary": [
+            "تصمیم ترامپ باعث شورش دوحزبی در کنگره شد",
+            "این اقدام نشان‌دهنده جدال داخلی درباره سیاست‌های ایران است"
+        ],
+        "impact": "تأخیر در اعمال فشار اقتصادی بر ایران، کاهش کارایی تحریم‌ها",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Dagens.com on MSN",
+        "url": "https://www.msn.com/en-in/news/other/trump-sparks-bipartisan-revolt-by-blocking-sanctions-named-after-late-ally-lindsey-graham/ar-AA2fViOU?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/trump-sparks-bipartisan-revolt-by-blocking-sanctions-named-after-late-ally-lindsey-graham/ar-AA2fViOU",
+        "image": "https://www.bing.com/th?id=ONUT.k_7ArdgO3oOYEjTP7-3vyA",
+        "timestamp": 1792768970.7414646
+    },
+    {
+        "id": "b22c574367",
+        "title_fa": "هزینه‌های جنگ ایران: چه رقم می‌شود؟",
+        "title_en": "Fact Sheet: Costs of the Iran War",
+        "summary": [
+            "هزینه‌های مستقیم نظامی به میلیاردها دلار می‌رسد",
+            "تلفات انسانی و زیرساختی به‌صورت طولانی‌مدت ادامه دارد",
+            "بار مالی بر بودجه دفاعی آمریکا سنگین می‌شود",
+            "تحریم‌های اقتصادی افزایشی فشار بر اقتصاد ایران می‌گذارد"
+        ],
+        "impact": "هزینه‌های سنگین جنگ ایران فشار بیشتری بر بودجه دفاعی ایالات متحده ایجاد می‌کند",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Center for American Progress",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aXJIX3kycHVERkc3NjZyNUY0cmFIa0dQVFBFZHBuR3dqcHNKZUo0UjJGcm5fdzFHd3R4WTFfem9jMEMxWkNwczRSOTNkQ29GbTdDb1J2c3VvRWRHYnFxSVVFaU5rN1NCdEsxYUtuMnpNb1dYUUF6V0NxSUhFMzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aXJIX3kycHVERkc3NjZyNUY0cmFIa0dQVFBFZHBuR3dqcHNKZUo0UjJGcm5fdzFHd3R4WTFfem9jMEMxWkNwczRSOTNkQ29GbTdDb1J2c3VvRWRHYnFxSVVFaU5rN1NCdEsxYUtuMnpNb1dYUUF6V0NxSUhFMzA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792760285.0
+    },
+    {
         "id": "3a3b3cb41b",
         "title_fa": "حمل و نقل به تازگی ادعای هفت نفتکش را از تلویزیون دولتی ایران دریافت کرده است: کشتی‌ها در نزدیکی هرمز اصابت کرده یا مین گذاری شده اند، اما ناظران تنها دو مورد را تایید می‌کنند",
         "title_en": "Shipping Just Got Handed a Seven-Tanker Claim From Iranian State TV: Ships Struck or Mined Near Hormuz, but Monitors Confirm Only Two",
@@ -180,6 +276,24 @@
         "timestamp": 1792746480.0
     },
     {
+        "id": "c8525d013d",
+        "title_fa": "ترامپ: ایران نباید شکست نظامی را به پیروزی دیپلماتیک تبدیل کند",
+        "title_en": "Trump can't let Iran turn a military defeat into a diplomatic victory",
+        "summary": [
+            "ترامپ هشدار داد مذاکرات نباید به نفع ایران باشد",
+            "پس از هشت ماه جنگ، ایران هنوز به فشار هسته‌ای ادامه می‌دهد"
+        ],
+        "impact": "ایالات متحده ممکن است فشارهای دیپلماتیک را سخت‌تر کند تا ایران نتواند موقعیت قبلی‌اش را بازگرداند",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/trump-cant-let-iran-turn-military-defeat-into-diplomatic-victory",
+        "clean_url": "https://www.foxnews.com/opinion/trump-cant-let-iran-turn-military-defeat-into-diplomatic-victory",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/IRGC.jpg",
+        "timestamp": 1792745940.0
+    },
+    {
         "id": "11cbca0976",
         "title_fa": "ایران IAEA را تبعیض‌آمیز متهم کرد",
         "title_en": "Iran accuses IAEA of 'discriminatory treatment' and politicization",
@@ -236,6 +350,24 @@
         "timestamp": 1792733719.1010706
     },
     {
+        "id": "2dbba838eb",
+        "title_fa": "ایران تهدید به حمله به زیرساخت‌های غیرنظامی می‌کند",
+        "title_en": "Iran is also threatening to ramp up attacks if targeted. It will go after civilian infrastructure.",
+        "summary": [
+            "تهران اعلام کرد در صورت هدف قرارگیری، به فرودگاه‌ها و خطوط لوله حمله خواهد کرد",
+            "این تهدید می‌تواند انرژی جهانی را در خطر بیندازد"
+        ],
+        "impact": "اختلال در حمل و نقل انرژی، افزایش نوسان قیمت نفت و گاز",
+        "tag": "حملات",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "International Business Times on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-is-also-threatening-to-ramp-up-attacks-if-targeted-it-will-go-after-civilian-infrastructure/ar-AA2fUysC",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-also-threatening-to-ramp-up-attacks-if-targeted-it-will-go-after-civilian-infrastructure/ar-AA2fUysC",
+        "image": "http://www.bing.com/th?id=ONUT.O5es_j8RsMDqlNP9CgS-cQ&pid=News",
+        "timestamp": 1792732606.0
+    },
+    {
         "id": "ad2be35f04",
         "title_fa": "حملات کشتی‌ها در تنگه هرمز به بالاترین سطح مارس می‌رسد",
         "title_en": "UPDATES: US War on Iran, Day 239 - Attacks on Shipping in Strait Of Hormuz Highest Since March",
@@ -252,6 +384,61 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGFPalEwcG1TVkVNMGx6N18wbzN2WUxScnNOQkFLRE5yakViZFU5NzFJRzNqU0pTakp4bUlVY1d5bzRDYnBPQ1FSbUtSdjJ0RWZQRm82YVE1MmhNbW5FdVNHUWtHUG04dFNkQnhnLUZyanJrWXNuMVQwRHFFTUVrTko0NDZKNGtk",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792732001.0
+    },
+    {
+        "id": "6ddc708b94",
+        "title_fa": "همایش امنیتی ترکیه‑سعودی‑مصر‑پاکستان با اروپا",
+        "title_en": "Mismanagement causes most of Iran’s economic problems, not sanctions, MP says",
+        "summary": [
+            "کشورهای خاورمیانه برای مقابله با تهدیدات ایران به‌هم پیوستند",
+            "اروپا برای اولین بار در این چارچوب حضور دارد",
+            "هماهنگی می‌تواند فشار نظامی بر سپاه را تقویت کند"
+        ],
+        "impact": "تقویت همکاری‌های نظامی‑امنیتی منطقه‌ای، فشار بیشتر بر توانایی‌های هسته‌ای ایران",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610237490",
+        "clean_url": "https://www.iranintl.com/en/202610237490",
+        "image": "http://www.bing.com/th?id=ONUT.qTE0bhpoVYoA7bwRwvbZSA&pid=News",
+        "timestamp": 1792730100.0
+    },
+    {
+        "id": "93a410ee2e",
+        "title_fa": "فرانسه برای تظاهرات ۷۰ هزار نیروی امنیتی می‌فرستد",
+        "title_en": "فرانسه در آستانه تظاهرات جدید ۷۰ هزار نیروی امنیتی بسیج می‌کند",
+        "summary": [
+            "دولت فرانسه برای پیشگیری از تظاهرات گسترده ۷۰ هزار نفر نیرو می‌فرستد",
+            "این اقدام نشان‌دهنده اضطراب داخلی در مواجهه با ناآرامی‌هاست"
+        ],
+        "impact": "احتمال تشدید سرکوب اعتراضات و محدود شدن آزادی‌های مدنی در فرانسه",
+        "tag": "ناآرامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610239969",
+        "clean_url": "https://www.iranintl.com/202610239969",
+        "image": "http://www.bing.com/th?id=ONUT.mll3paoVK9FMW2FgqfHHLg&pid=News",
+        "timestamp": 1792729680.0
+    },
+    {
+        "id": "d1b07704e7",
+        "title_fa": "امام جمعه اهواز: هدف‌گیری کشتی‌های تخلفی در هرمز",
+        "title_en": "امام جمعه اهواز: کشتی‌های متخلف در تنگه هرمز قاطعانه هدف قرار می‌گیرند",
+        "summary": [
+            "امام جمعه اهواز گفت هر کشتی تخلف‌کننده هدف خواهد شد",
+            "این تهدید در چارچوب استراتژی فشار بر حمل‌ونقل نفتی ایران است"
+        ],
+        "impact": "افزایش خطر برای ناوگان تجاری، احتمال بروز برخوردهای نظامی در تنگه هرمز",
+        "tag": "هیدروکربن",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610231740",
+        "clean_url": "https://www.iranintl.com/202610231740",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792728120.0
     },
     {
         "id": "bd0765bb0a",
@@ -306,6 +493,24 @@
         "clean_url": "https://www.iranintl.com/en/202610235097",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1792725360.0
+    },
+    {
+        "id": "b6042ad851",
+        "title_fa": "دبیرکل شورای خلیج فارس روابط با ترکیه را تقویت می‌کند",
+        "title_en": "دبیرکل شورای همکاری خلیج فارس بر تقویت روابط با ترکیه و ادامه میانجی‌گری تاکید کرد",
+        "summary": [
+            "جاسم البدیوی روابط ترکیه‑خلیج فارس را به‌عنوان محور استراتژیک می‌داند",
+            "ادامه میانجیگری در مناقشات فلسطینی‑اسرائیلی اعلام شد"
+        ],
+        "impact": "تقویت هم‌پوشانی سیاسی‑اقتصادی بین ترکیه و کشورهای خلیج، امکان فشار بیشتر بر ایران",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610235032",
+        "clean_url": "https://www.iranintl.com/202610235032",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792725000.0
     },
     {
         "id": "cb426c7c1d",
@@ -5389,211 +5594,5 @@
         "clean_url": "https://www.iranintl.com/en/202610200213",
         "image": "http://www.bing.com/th?id=ONUT.0DdttmPHKUW2zA6EO7ERzg&pid=News",
         "timestamp": 1792472400.0
-    },
-    {
-        "id": "8b5da8b28e",
-        "title_fa": "حمله‌های مسلحانه مخالفان در سیستان و بلوچستان",
-        "title_en": "Iran regime under pressure as rebel groups escalate attacks in volatile southeast",
-        "summary": [
-            "جبههٔ مخالفان مسلح در سیستان و بلوچستان به‌تازگی شش حملهٔ هماهنگ انجام دادند.",
-            "این حملات توان نظامی و امنیتی دولت را در یک استان با جمعیت سنی عمده به چالش می‌کشد.",
-            "اگر این الگو گسترش یابد، ممکن است ناآرامی‌های گسترده‌تری در مناطق مرزی ایجاد شود."
-        ],
-        "impact": "گسترش مقاومت مسلحانه، فشار بر نیروهای امنیتی و احتمال گسترش ناآرامی",
-        "tag": "ناآرامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-regime-under-pressure-rebel-115148337.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-regime-under-pressure-rebel-115148337.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/1981e79fd85f42f26daf9bd3adcd3601ca78d2444f028af6e922fbc7edd14e10/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fa9e84d8d0ddab72818dd56957e1b96bf.jpg",
-        "timestamp": 1792471920.0
-    },
-    {
-        "id": "a4f451f68c",
-        "title_fa": "هگست با نتانیاهو ملاقات؛ احتمال بازگشت جنگ ایران",
-        "title_en": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war",
-        "summary": [
-            "هگست پیش از انتخابات اسرائیل با نتانیاهو دیدار کرد و درباره احتمال عملیات نظامی علیه ایران گفت‌وگو کرد",
-            "همکاری نزدیک آمریکا و اسرائیل می‌تواند خطر تشدید درگیری را بالا ببرد"
-        ],
-        "impact": "افزایش احتمال عملیات نظامی علیه ایران",
-        "tag": "جنگ",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanFrNWx2a3l3QklhbTBtSlN4UnhSSnZ1Z2J6SkR2WGVrNUM5cmYzSmtqMmFNLWdwOE94OEVWaFJZYXF6bHlXTDZiQ3YzMFlxMWFkZ1BBUGI3MWRwbzdIb0RDNzJhV0I0Y0NYWkJfRks0b0JGQTNEV2JrLXpzTlZXS3JqR3lTenM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanFrNWx2a3l3QklhbTBtSlN4UnhSSnZ1Z2J6SkR2WGVrNUM5cmYzSmtqMmFNLWdwOE94OEVWaFJZYXF6bHlXTDZiQ3YzMFlxMWFkZ1BBUGI3MWRwbzdIb0RDNzJhV0I0Y0NYWkJfRks0b0JGQTNEV2JrLXpzTlZXS3JqR3lTenM",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792471620.0
-    },
-    {
-        "id": "2703242aa8",
-        "title_fa": "نتانیاهو: تا زمان حضورم ایران سلاح هسته‌ای نمی‌گیرد",
-        "title_en": "نتانیاهو: تا زمانی که من نخست‌وزیر هستم، ایران به سلاح هسته‌ای دست پیدا نمی‌کند",
-        "summary": [
-            "نتانیاهو قول داد تا زمانی که نخست‌وزیر است، ایران به سلاح هسته‌ای نخواهد رسید",
-            "این وعده برای تقویت حمایت داخلی اسرائیل از سیاست سخت‌گیرانه علیه ایران است",
-            "اما نشان می‌دهد ریسک ادامه رقابت هسته‌ای در آینده باقی می‌ماند"
-        ],
-        "impact": "بیانیه می‌تواند فشار بین‌المللی بر برنامه هسته‌ای ایران را تقویت کند",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610201028",
-        "clean_url": "https://www.iranintl.com/202610201028",
-        "image": "http://www.bing.com/th?id=ONUT.A-jCIRGWUtwIfmasAhilrQ&pid=News",
-        "timestamp": 1792470600.0
-    },
-    {
-        "id": "7080a09fca",
-        "title_fa": "نتانیاهو و ترامپ به حذف رژیم ایران اشاره کردند",
-        "title_en": "Live Updates: IDF strikes reportedly kill four Gazans after Hegseth, Netanyahu hold covert airbase meeting",
-        "summary": [
-            "نتانیاهو اعلام کرد اسرائیل به حذف رژیم ایران متعهد است",
-            "ترامپ ادعا کرد نزدیک به تجدید حملات هوایی به ایران است",
-            "حملات اسرائیلی به غزه چهار کشته ایجاد کرد",
-            "این اظهارات خطر تشدید جنگ منطقه‌ای را بالا می‌برد"
-        ],
-        "impact": "افزایش تنش‌های نظامی می‌تواند به حملات گسترده و تحریم‌های جدید منجر شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/iran-news/2026-10-20/live-updates-912229",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-10-20/live-updates-912229",
-        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742544",
-        "timestamp": 1792470600.0
-    },
-    {
-        "id": "cbdb6da8d1",
-        "title_fa": "ایران و اسرائیل بازسازی نظامی؛ آمریکا زمان می‌کشد",
-        "title_en": "Iran and Israel Rearm, While the U.S. Plays for Time",
-        "summary": [
-            "هر دو کشور در حال تقویت توان نظامی خود هستند؛ آمریکا به جای مداخله مستقیم، زمان می‌کشد",
-            "این وضعیت خطر تصادم مستقیم را در خاورمیانه افزایش می‌دهد"
-        ],
-        "impact": "افزایش خطر تصادم نظامی در خاورمیانه",
-        "tag": "سلاح",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Tikvah Ideas",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnZWMFJ6RHRfLWhQd3gzM3hPRWJ6SENXWWNPWXVXUGU1bkNLekhoa1hKRDAxM2N2eGNSai05aUN4eDQyd2I5S1ZYd0RQWkY5ZTFZYlFSQktPRm9nY0V6b2xFTzJZaEF4dFJ2emdhVVF5bGJOU0hLcjlxRlJ5MTdwUjluSkthUmRJc01wc3cxVEdfUjU3N0NaNkQxUWtSeXVwbFZHcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYnZWMFJ6RHRfLWhQd3gzM3hPRWJ6SENXWWNPWXVXUGU1bkNLekhoa1hKRDAxM2N2eGNSai05aUN4eDQyd2I5S1ZYd0RQWkY5ZTFZYlFSQktPRm9nY0V6b2xFTzJZaEF4dFJ2emdhVVF5bGJOU0hLcjlxRlJ5MTdwUjluSkthUmRJc01wc3cxVEdfUjU3N0NaNkQxUWtSeXVwbFZHcQ",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792470209.0
-    },
-    {
-        "id": "dd3306ad25",
-        "title_fa": "نظرسنجی: بیشتر سربازان فعال آمریکا مخالف جنگ ایران",
-        "title_en": "Plurality of active-duty service members oppose Iran war: poll",
-        "summary": [
-            "نظرسنجی جدید نشان می‌دهد بیش از نیمی از نیروهای فعال آمریکا جنگ در ایران را رد می‌کنند",
-            "این نتایج می‌تواند تصمیم‌گیری‌های واشنگتن را تحت فشار قرار دهد",
-            "دلایل اصلی شامل خطر گسترش منطقه‌ای و هزینه‌های مالی است"
-        ],
-        "impact": "حمایت نظامی آمریکا برای ایران کاهش می‌یابد",
-        "tag": "نظرسنجی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Responsible Statecraft",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcGxTUW5YLV81YWtUcUR4X1poRUVBN2dOU3RLeFkwODlzNjhLTzVFbXI3dkpXOUtNdk4tMDdzMjJ6UkxhQUo5c3RFTDBEN01yZ3NSOXBabzZKRUdjbmU5U0k0akdFdHhI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcGxTUW5YLV81YWtUcUR4X1poRUVBN2dOU3RLeFkwODlzNjhLTzVFbXI3dkpXOUtNdk4tMDdzMjJ6UkxhQUo5c3RFTDBEN01yZ3NSOXBabzZKRUdjbmU5U0k0akdFdHhI",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792469377.0
-    },
-    {
-        "id": "7f08bb84bb",
-        "title_fa": "ترامپ حملات نظامی به ایران را از سر می‌گیرد",
-        "title_en": "رویترز به نقل از سه مقام جمهوری اسلامی: ترامپ آماده است حملات نظامی را از سر بگیرد",
-        "summary": [
-            "ترامپ گفت آماده است حملات نظامی به ایران را از سر بگیرد",
-            "او اشاره کرد که هیچ محدودیتی برای استفاده از نیروی هوایی یا دریایی وجود ندارد",
-            "این اظهارات پس از افزایش تنش‌های خاورمیانه و تحریم‌های جدید مطرح شد"
-        ],
-        "impact": "احتمال عملیات نظامی مستقیم آمریکا علیه ایران بالا می‌رود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610206858",
-        "clean_url": "https://www.iranintl.com/202610206858",
-        "image": "http://www.bing.com/th?id=ONUT.X4xBs-mHOUygBbt81C0SOg&pid=News",
-        "timestamp": 1792468440.0
-    },
-    {
-        "id": "35b3395c61",
-        "title_fa": "انتخابات میانی آمریکا؛ جنگ ایران و هزینه‌ها فشار بر ترامپ",
-        "title_en": "US midterms: Iran war and cost of living put Trump’s foreign policy under pressure",
-        "summary": [
-            "جنگ در ایران و افزایش هزینه‌های زندگی در آمریکا، فشارهای داخلی بر سیاست خارجی ترامپ را تقویت می‌کند",
-            "نتایج میانی می‌تواند مسیر تصمیم‌گیری‌های آینده در قبال ایران را تغییر دهد"
-        ],
-        "impact": "تضعیف موقعیت خارجی ترامپ در انتخابات",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The National",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcFNtcDhLM0NUV2EyTDdWTDZqU2FRTnlnN1F0N0NIa3dCV2N5WUFRbERla2MxVS1xeHhvZm9keXlsZHZ0M1BQRUJMTkZ2dnREdjAwUnhmSndzTmRVOE9DTkRrQlZTcTIxelNmdEpUcTFtcHRfS1pBMDRObUxUWTU4b2J5UWt3NURTTEww?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcFNtcDhLM0NUV2EyTDdWTDZqU2FRTnlnN1F0N0NIa3dCV2N5WUFRbERla2MxVS1xeHhvZm9keXlsZHZ0M1BQRUJMTkZ2dnREdjAwUnhmSndzTmRVOE9DTkRrQlZTcTIxelNmdEpUcTFtcHRfS1pBMDRObUxUWTU4b2J5UWt3NURTTEww",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792466366.0
-    },
-    {
-        "id": "5513d3f34b",
-        "title_fa": "دوحه خواستار پایان حملات تهران در تنگه هرمز",
-        "title_en": "دوحه خواستار پایان «حملات غیرمسئولانه» تهران در تنگه هرمز شد",
-        "summary": [
-            "قطر از ایران خواست تا حملات به کشتی‌های تجاری در هرمز را متوقف کند",
-            "این درخواست پس از حذف بیش از دو میلیارد بشکه نفت از بازار جهانی مطرح شد"
-        ],
-        "impact": "فشار دیپلماتیک بر ایران برای کاهش تهدیدات دریایی",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610204489",
-        "clean_url": "https://www.iranintl.com/202610204489",
-        "image": "http://www.bing.com/th?id=ONUT.S1afQjsu1dca8_AI_nBF5g&pid=News",
-        "timestamp": 1792465740.0
-    },
-    {
-        "id": "3b37f5fec8",
-        "title_fa": "ایران به‌پشت‌سر ترامپ درباره قیمت بنزین حمله کرد",
-        "title_en": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote",
-        "summary": [
-            "رسانه‌های دولتی ایران به افزایش قیمت بنزین در آمریکا اشاره کردند و ترامپ را متهم به دروغ گفتند",
-            "سپاه پاسداران نامه‌ای منتشر کرد که ادعای رونق اقتصادی آمریکا را رد می‌کند"
-        ],
-        "impact": "فشار سیاسی بر ترامپ پیش از انتخابات میانی",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
-        "clean_url": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
-        "image": "http://www.bing.com/th?id=ONUT.wfXs--yXbn6FwjqS93JeDA&pid=News",
-        "timestamp": 1792465200.0
-    },
-    {
-        "id": "990a6503d2",
-        "title_fa": "خبرنگار آمریکایی با واحد ویژه «آخمت» روسیه قرارداد بست",
-        "title_en": "American national signs contract with Russian Defense Ministry's Akhmat commando unit",
-        "summary": [
-            "خبرنگار آمریکایی سیتوگرام هلالی، شهروند آمریکا، درخواست تابعیت روسیه کرد و با واحد ویژه «آخمت» قرارداد امضا کرد",
-            "او ادعا می‌کند آموزش‌های نظامی روسیه را دریافت کرده و به عنوان جنگجوی این واحد خدمت می‌کند",
-            "پیشینه نظامی او شامل خدمت در نیروی دریایی ایالات متحده است",
-            "این اقدام نشان‌دهنده استفاده روسیه از افراد خارجی برای تبلیغات نظامی است"
-        ],
-        "impact": "افزایش تنش‌های رسانه‌ای بین آمریکا و روسیه و تخریب تصویر روسیه در فضای بین‌المللی",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/defense/2204557",
-        "clean_url": "https://tass.com/defense/2204557",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792464000.0
     }
 ]
