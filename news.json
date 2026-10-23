@@ -1,5 +1,23 @@
 [
     {
+        "id": "70367dee7f",
+        "title_fa": "ترامپ‑نتانیاهو: انتخابات می‌سازد زمان حمله به ایران",
+        "title_en": "War on the ballot? Trump, Netanyahu and the politics of attacking Iran | The verdict",
+        "summary": [
+            "ترامپ و نتانیاهو می‌گویند هر تصمیم نظامی علیه ایران باید پیش از انتخابات آمریکا و اسرائیل اتخاذ شود",
+            "این رویکرد فشار نظامی را به ابزار انتخاباتی تبدیل می‌کند و ریسک تشدید تنش‌ها را بالا می‌برد"
+        ],
+        "impact": "تصمیم‌گیری نظامی سریع می‌تواند به درگیری مستقیم منجر شود",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "WION on MSN",
+        "url": "https://www.msn.com/en-in/news/other/war-on-the-ballot-trump-netanyahu-and-the-politics-of-attacking-iran-the-verdict/ar-AA2fQLMT?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/war-on-the-ballot-trump-netanyahu-and-the-politics-of-attacking-iran-the-verdict/ar-AA2fQLMT",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792719981.5994327
+    },
+    {
         "id": "2c49e56e53",
         "title_fa": "ترامپ با روسیه متحد شد؛ عواقب برای اوکراین",
         "title_en": "Trump’s open alliance with Putin helps Russia kill Ukrainians",
@@ -323,6 +341,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-us-attacks/ar-AA2fRwni",
         "image": "http://www.bing.com/th?id=ONUT.S0J1kf722VeRyzKZTEfYVQ&pid=News",
         "timestamp": 1792688400.0
+    },
+    {
+        "id": "211be9c26b",
+        "title_fa": "اسرائیل شرکت بریتانیایی را به خاطر سوخت‌گیری حزب‌الله تحریم کرد",
+        "title_en": "Israel sanctions UK-registered firm over fuel transfer to Iran-backed Hezbollah",
+        "summary": [
+            "اسرائیل پس از انتقال سوخت به حزب‌الله، شرکت ثبت‌شده در بریتانیا را هدف تحریم قرار داد",
+            "واشنگتن برای بستن مرزهای ایران با پاکستان و عراق فشار اقتصادی بر تهران را تشدید می‌کند",
+            "رییس شورای امنیت ملی ایران می‌گوید این تحریم‌ها دردسر خانوادگی و سرمایه‌گذاری را زیاد می‌کند اما شکست استراتژیک نیست"
+        ],
+        "impact": "تحریم و مسدودسازی مرزها اقتصاد ایران را تنگ می‌کند و توان مالی سپاه را کاهش می‌دهد",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610226433",
+        "clean_url": "https://www.iranintl.com/en/202610226433",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792687620.0
     },
     {
         "id": "85c56524e9",
@@ -1132,6 +1169,25 @@
         "clean_url": "https://www.iranintl.com/en/202610222098",
         "image": "http://www.bing.com/th?id=ONUT.1HRiQE0lQdx4a1s_mzwMwQ&pid=News",
         "timestamp": 1792635300.0
+    },
+    {
+        "id": "1351bacc3e",
+        "title_fa": "ترامپ: ایران برای بالا بردن قیمت نفت دست می‌زند",
+        "title_en": "Iran Doing Everything To Drive Up Oil Prices: Trump",
+        "summary": [
+            "ترامپ ادعا کرد ایران با ساخت صحنه حملات دریایی و مین‌گذاری در هرمز، قیمت نفت را پیش از انتخابات میانی آمریکا بالا می‌برد",
+            "او تأکید کرد ایران نباید به دسترسی به سلاح هسته‌ای برسد",
+            "این اظهارات سعی دارد فشار بین‌المللی را علیه تهران تقویت کند"
+        ],
+        "impact": "ادعای افزایش قیمت نفت می‌تواند بازارهای انرژی را ناآرام کند و فشار اقتصادی بر ایران را افزایند",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Deccan Chronicle",
+        "url": "https://www.deccanchronicle.com/world/americas/iran-doing-everything-to-drive-up-oil-prices-trump-1998046",
+        "clean_url": "https://www.deccanchronicle.com/world/americas/iran-doing-everything-to-drive-up-oil-prices-trump-1998046",
+        "image": "https://www.deccanchronicle.com/h-upload/2026/10/23/2103730-aa-8447843.jpg",
+        "timestamp": 1792633576.0
     },
     {
         "id": "3cc3d47e72",
@@ -5556,61 +5612,5 @@
         "clean_url": "https://thehill.com/homenews/media/6157954-trump-waives-russian-sanctions",
         "image": "https://www.bing.com/th?id=ONUT.9cIJ9KRENjtJ_4BEIggsOg",
         "timestamp": 1792429563.8699703
-    },
-    {
-        "id": "c34cea7720",
-        "title_fa": "قیمت گاز دولتی دو برابر شد؛ خشم عمومی در ایران",
-        "title_en": "Iran's Rulers Pour Petrol on Public Anger",
-        "summary": [
-            "قیمت گاز پس از حد مجاز سوبسید، از 0.083 دلار به 0.163 دلار در هر گالن ارتقا یافت",
-            "افزایش هزینه سوخت باعث کاهش بودجه خانواده‌ها برای غذا، دارو و اجاره می‌شود"
-        ],
-        "impact": "کاهش قدرت خرید و تشدید ناآرامی‌های داخلی",
-        "tag": "قیمت‌نفت",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Townhall",
-        "url": "https://townhall.com/columnists/struanstevenson/2026/10/20/irans-rulers-pour-petrol-on-public-anger-n2684952",
-        "clean_url": "https://townhall.com/columnists/struanstevenson/2026/10/20/irans-rulers-pour-petrol-on-public-anger-n2684952",
-        "image": "http://www.bing.com/th?id=ONUT.Mhdj7o-m08oJjHl1SuHSXw&pid=News",
-        "timestamp": 1792429200.0
-    },
-    {
-        "id": "c4b703c25f",
-        "title_fa": "ترامپ: ایالات متحده به ایران فشار اقتصادی و نظامی می‌آورد",
-        "title_en": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
-        "summary": [
-            "ترامپ به‌صراحت گفت آمریکا به‌صورت همزمان تحریم‌های سنگین و تهدیدهای نظامی علیه ایران اعمال می‌کند",
-            "چین حملات آمریکا‑اسرائیل را تجاوز آشکار خوانده و عدم مشورت در شورای امنیت را انتقاد کرد",
-            "سخنگوی سپاه تهدید به هدف قرار دادن کابل‌های زیرآبی در تنگه هرمز کرد"
-        ],
-        "impact": "ایران با فشار ترکیبی اقتصادی‑نظامی مواجه می‌شود، ریسک تشدید تنش‌های منطقه‌ای افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260217__97WL4GM__v1__HighRes__IranUsConflictIrgcDrills-1792449681.jpg?resize=1920%2C1440",
-        "timestamp": 1792429200.0
-    },
-    {
-        "id": "ed15353bf4",
-        "title_fa": "لاوروف در تهران به امنیت منطقه و جنگ آمریکا پرداخت",
-        "title_en": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
-        "summary": [
-            "لاوروف نقش روسیه را در مقابله با حضور نظامی آمریکا برجسته کرد",
-            "او امنیت منطقه را تهدیدی از جانب ایالات متحده توصیف کرد",
-            "بیانیه می‌تواند روابط روسیه‑ایران را در مقابل فشارهای غربی تقویت کند"
-        ],
-        "impact": "تقویت هم‌پیمانی روسیه‑ایران؛ فشار بر موضع آمریکا در خاورمیانه",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792426971.0
     }
 ]
