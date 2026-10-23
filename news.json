@@ -1,5 +1,25 @@
 [
     {
+        "id": "9d3feaa4b2",
+        "title_fa": "استراتژی ترامپ: ورود روسیه، خروج چین از انرژی",
+        "title_en": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+        "summary": [
+            "پس از تماس ترامپ‑پوتین، آمریکا مجوز شش ماههٔ فروش دیزل روسیه را صادر کرد",
+            "هدف ادعایی کاهش قیمت سوخت پیش از انتخابات نوامبر است، ولی هدف استراتژیک کنترل انرژی جهان است",
+            "این گام در چارچوب محدود کردن چین از منابع نفتی و گاز است",
+            "سیاست از ونزوئلا و ایران آغاز شد؛ آمریکا صادرات را به چین قطع کرد"
+        ],
+        "impact": "تقویت نفوذ انرژی آمریکا و تضعیف چین در بازار جهانی",
+        "tag": "انرژی",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
+        "clean_url": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
+        "image": "https://www.bing.com/th?id=ONUT.jGQV8oci_DYvWlMUqR3rGw",
+        "timestamp": 1792799756.0279083
+    },
+    {
         "id": "24ea18915b",
         "title_fa": "کمبود برنامه و رهبری در کمپین انتخاباتی اسرائیل",
         "title_en": "Israel’s election campaign lacks substance, fresh leadership, and vision",
@@ -187,6 +207,26 @@
         "timestamp": 1792773660.0
     },
     {
+        "id": "324dd14106",
+        "title_fa": "حملهٔ مستعمران اسرائیلی به برداشت زیتون فلسطینی‌ها",
+        "title_en": "Emboldened Israeli Settlers Lead a Surge of Attacks on Palestinians' Olive Harvest",
+        "summary": [
+            "مستعمران با پوشش ماسک، کشته‌ها و ضربه به کشاورزان را افزایش دادند",
+            "نتانیاهو به این حملات تشویق کرد و وعدهٔ گسترش شهرک‌ها را داد",
+            "حداقل چهار فلسطینی کشته شدند و جامعه بین‌المللی سرزنش کرد",
+            "فصل برداشت زیتون که برای اقتصاد فلسطینی مهم است، تحت تهدید جدی قرار گرفت"
+        ],
+        "impact": "کاهش برداشت زیتون و تشدید فشار بین‌المللی بر اسرائیل",
+        "tag": "حقوق_بشری",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/arab-world/5332827-emboldened-israeli-settlers-lead-surge-attacks-palestinians’-olive-harvest",
+        "clean_url": "https://english.aawsat.com/arab-world/5332827-emboldened-israeli-settlers-lead-surge-attacks-palestinians’-olive-harvest",
+        "image": "https://static.srpcdigital.com/2026-10/1843115.jpeg?VersionId=_EMF.yn5yDd.w5nUH5hq61gDe7bHzZli",
+        "timestamp": 1792771980.0
+    },
+    {
         "id": "e62ee37fa3",
         "title_fa": "تهدید حملهٔ پس‌انتخابی آمریکا و اسرائیل به ایران",
         "title_en": "US and Israel Plan Potential Post-Election Strikes on Iran",
@@ -301,6 +341,26 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-puts-army-on-highest-alert-as-hormuz-tanker-strikes-mount/ar-AA2fW25p",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVraP.img?w=900&h=510&m=4&q=94",
         "timestamp": 1792768960.0
+    },
+    {
+        "id": "26b3f90ef9",
+        "title_fa": "حمله مسلحانه به کلیسای همود در اردن، ۷ کشته",
+        "title_en": "7 Killed in Armed Attack on Church in Jordan's Hammoud Village",
+        "summary": [
+            "تیراندازان مجهز به سلاح‌های خودکار به کلیسای همود حمله کردند",
+            "هفت نفر از جمله کشیش و زنان محلی کشته شدند",
+            "حمله در منطقه‌ای با جمعیت مسیحی کوچک رخ داد و نگرانی‌های امنیتی را تشدید کرد",
+            "مقامات اردن هنوز منبع حمله را مشخص نکرده‌اند"
+        ],
+        "impact": "تشدید نگرانی‌های امنیتی مسیحیان در اردن و احتمال واکنش نظامی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Asharq Alawsat (English)",
+        "url": "https://www.msn.com/en-ae/news/other/7-killed-in-armed-attack-on-church-in-jordans-hammoud-village/ar-AA2fVe8c",
+        "clean_url": "https://www.msn.com/en-ae/news/other/7-killed-in-armed-attack-on-church-in-jordans-hammoud-village/ar-AA2fVe8c",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792764191.0
     },
     {
         "id": "94d1be1fc2",
@@ -1071,6 +1131,66 @@
         "clean_url": "https://www.msn.com/en-in/news/other/netanyahu-dragged-trump-el-sayed-lashes-out-at-bibi-israel-after-mike-rogers-debate/vi-AA2fQVJP",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792716978.7459676
+    },
+    {
+        "id": "05f1016ab9",
+        "title_fa": "نشر دفاعی SP Guide: ۶۰ سال پیشرفت نیروی دریایی هند",
+        "title_en": "Cues from War Zones",
+        "summary": [
+            "SP Guide Publications ۶۰ سال سابقهٔ پوشش دفاعی هند دارد",
+            "مجلات این انتشارات به ارتش، سیاست‌گذاران و عموم اطلاعات دقیق می‌دهند",
+            "انتشار اخیر به نقش پهپادها و موشک‌ها در جنگ‌های اوکراین و خاورمیانه اشاره کرد",
+            "هدف ارتقای آگاهی عمومی دربارهٔ توانمندی‌های نیروی دریایی است"
+        ],
+        "impact": "تقویت تصویر مثبت نیروی دریایی هند و تأثیر بر سیاست دفاعی منطقه",
+        "tag": "رسانه",
+        "urgency": 1,
+        "sentiment": 0.2,
+        "source": "spsnavalforces",
+        "url": "https://www.spsnavalforces.com/experts-speak/?id=917",
+        "clean_url": "https://www.spsnavalforces.com/experts-speak",
+        "image": "https://www.spsnavalforces.com/experts-speak/images/WarZones_tw.jpg",
+        "timestamp": 1792713600.0
+    },
+    {
+        "id": "5a2624b5a6",
+        "title_fa": "درگیری طولانی در هبرون: ۲ فلسطینی کشته",
+        "title_en": "Mo: Idf, '2 Palestinians killed and 5 Israelis wounded in long firefight in Hebron'",
+        "summary": [
+            "در حوالی تقاطع جودایا، نبرد بیش از ۲۰ دقیقه‌ای بین نیروهای اسرائیل و فلسطینیان رخ داد",
+            "دو فلسطینی کشته و پنج اسرائیلی، از جمله دو نفر بحرانی، مجروح شدند",
+            "ارتش اسرائیل پس از حمله، محاصره‌ای بر چند روستا اعمال کرد",
+            "این درگیری در روزهای پیش از انتخابات اسرائیلی رخ داد و تنش‌ها را تشدید کرد"
+        ],
+        "impact": "تشدید تنش‌های سرزمینی قبل از انتخابات و احتمال تشدید عملیات نظامی",
+        "tag": "جبهه",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261023KRONOS-202610121547685304_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1792713600.0
+    },
+    {
+        "id": "12fdc5caf3",
+        "title_fa": "ترامپ هدف‌گیری کوبا پس از جنگ ایران",
+        "title_en": "Trump Sets Sights on Cuba After Iran, Rubio Urges 'Change' Through CIA",
+        "summary": [
+            "ترامپ گفت پس از پایان جنگ با ایران، نیروی‌دریایی به کوبا نزدیک می‌شود",
+            "او قصد دارد فشار نظامی بر حکومت کمونیست را افزایش دهد",
+            "مارکو روبیو از سیا برای ایجاد تغییر در جزیره حمایت کرد",
+            "این اظهارات در میان جامعهٔ کوبایی‑آمریکایی در فلوریدا منتشر شد"
+        ],
+        "impact": "افزایش تنش‌های ایالات متحده‑کوبا و گسترش حضور نظامی در کارائیب",
+        "tag": "کوبا",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/us/us-news/trump-cuba-take-over-comments-us-iran-war-rubio-cia-regime-change-article-156394569",
+        "clean_url": "https://www.timesnownews.com/world/us/us-news/trump-cuba-take-over-comments-us-iran-war-rubio-cia-regime-change-article-156394569",
+        "image": "https://images.timesnownews.com/thumb/msid-156394570,thumbsize-97399,width-1280,height-720,resizemode-75/156394570.jpg",
+        "timestamp": 1792713341.0
     },
     {
         "id": "4f54ae1a37",
@@ -5484,121 +5604,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-security-chief-rejects-moving-enriched-uranium-abroad-as-netanyahu-vows-to-topple-regime/ar-AA2fGenK",
         "image": "http://www.bing.com/th?id=ONUT.K9PgAt_DHVk29D9WfqF8mg&pid=News",
         "timestamp": 1792507144.0
-    },
-    {
-        "id": "6ab516ab5b",
-        "title_fa": "ایران مذاکرات را برای تضعیف ترامپ طول می‌دهد",
-        "title_en": "Iran prolongs talks to undermine Trump before midterms",
-        "summary": [
-            "منابع ایرانی می‌گویند مذاکرات با واشنگتن به قصد کاهش امتیاز سیاسی ترامپ تمدید می‌شود.",
-            "تهدیدهای نظامی احتمالی آمریکا و اسرائیل باعث می‌شود تهران از توافق سریع خودداری کند."
-        ],
-        "impact": "تقویت رقیب‌سازی سیاسی در انتخابات میدترم آمریکا",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Sasfin Bank",
-        "url": "https://www.businessday.co.za/world/middle-east/2026-10-20-iran-prolongs-talks-to-undermine-trump-before-midterms/",
-        "clean_url": "https://www.businessday.co.za/world/middle-east/2026-10-20-iran-prolongs-talks-to-undermine-trump-before-midterms",
-        "image": "https://www.businessday.co.za/resizer/v2/FX4RHZOVDVFMDDFDRMFATSFMNI.JPG?auth=427291205e7785c7e21e446659caf205a7b08f927f86198f59dd92b1e892a2f3&width=800&height=533&focal=2622,1020",
-        "timestamp": 1792505460.0
-    },
-    {
-        "id": "1435149727",
-        "title_fa": "افسر سپاه در مرز ایران-عراق کشته شد",
-        "title_en": "IRGC officer killed in Iran-Iraq border mountains as fighting with Kurdish opposition intensifies",
-        "summary": [
-            "افسر سپاه در کوه‌های مرز ایران‑عراق توسط نیروهای کرد کشته شد",
-            "این حادثه نشان از تشدید درگیری‌های مسلحانه با مخالفان کرد دارد",
-            "نیروهای ایرانی احتمالاً عملیات پاسخگویی را برنامه‌ریزی می‌کنند",
-            "کشته شدن افسر می‌تواند به افزایش حضور نظامی در مرز منجر شود"
-        ],
-        "impact": "تشدید عملیات نظامی در مرز ایران‑عراق خطر گسترش درگیری را بالا می‌برد",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtcjBzUUx1SHUzUkVmX0ZHVC1PQmxOMFpTUlBlRmVROG9xckpKX1JzTDRFekJCVlhZUmxQWEdGb2VQVUtxWDNkVThqemlCWHJCblRLTnZ1VHM0Z3Q4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtcjBzUUx1SHUzUkVmX0ZHVC1PQmxOMFpTUlBlRmVROG9xckpKX1JzTDRFekJCVlhZUmxQWEdGb2VQVUtxWDNkVThqemlCWHJCblRLTnZ1VHM0Z3Q4",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792504939.0
-    },
-    {
-        "id": "7066d2a0cb",
-        "title_fa": "ترامپ گزینه‌های «نرم» و «سخت» برای شکست ایران",
-        "title_en": "Trump says US weighing two options to defeat Iran",
-        "summary": [
-            "ترامپ گفت ایالات متحده باید تصمیم بگیرد که ایران را به روش دیپلماتیک یا نظامی شکست دهد",
-            "او اعلام کرد اروپا کمکی نکرد و آمریکا می‌تواند به تنهایی عمل کند"
-        ],
-        "impact": "احتمال افزایش تحریم یا عملیات نظامی علیه ایران",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610200308",
-        "clean_url": "https://www.iranintl.com/en/202610200308",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792502220.0
-    },
-    {
-        "id": "d0fef4c34a",
-        "title_fa": "انگلستان هواپیماهای دفاعی به عربستان می‌فرستد",
-        "title_en": "U.K. to send jets to defend Saudi Arabia from Houthi attacks, and other Mideast news",
-        "summary": [
-            "انگلستان تصمیم گرفت هواپیماهای جنگی برای دفاع از عربستان سعودی بفرستد",
-            "حمله هوایی اسرائیل به آپارتمان غزه دو کشته ایجاد کرد",
-            "هوتی‌ها موشک به اردوگاه آموزشی یمن فرستادند و 73 کشته شد",
-            "این تحولات نشانگر گسترش درگیری‌های چندجانبه در خاورمیانه است"
-        ],
-        "impact": "حضور نیروی هوایی بریتانیا در خلیج فارس خطر تشدید درگیری‌های هوایی را افزایش می‌دهد",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Tribune-Democrat",
-        "url": "https://www.tribdem.com/news/latest_news/u-k-to-send-jets-to-defend-saudi-arabia-from-houthi-attacks-and-other-mideast/article_36cbd512-fdd0-5e6d-8c83-9ef4ca23bed1.html",
-        "clean_url": "https://www.tribdem.com/news/latest_news/u-k-to-send-jets-to-defend-saudi-arabia-from-houthi-attacks-and-other-mideast/article_36cbd512-fdd0-5e6d-8c83-9ef4ca23bed1.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/2/1e/21e1c0e7-6e94-56eb-a1c0-ca9456cd4975/6ad764f24f03c.image.jpg?crop=1798,944,0,104&resize=1200,630&order=crop,resize",
-        "timestamp": 1792500240.0
-    },
-    {
-        "id": "f59b873087",
-        "title_fa": "ایران رد می‌کند فروپاشی؛ آمریکا می‌گوید سپاه پول کم دارد",
-        "title_en": "Iran denies collapse is close as US claims IRGC running out of money",
-        "summary": [
-            "مقامات ایرانی می‌گویند هنوز توان ادامه مقاومت را دارند",
-            "آمریکا ادعا می‌کند منابع مالی سپاه کاهش یافته و فشار اقتصادی می‌شود",
-            "این رقابت اطلاعاتی می‌تواند به تحریم‌های جدید منجر شود",
-            "اگر سپاه واقعاً دچار کمبود مالی شود، توان عملیات منطقه‌ای کاهش می‌یابد"
-        ],
-        "impact": "احتمال اعمال تحریم‌های مالی جدید علیه نهادهای نظامی ایران",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/news/other/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money/ar-AA2fEX4o",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money/ar-AA2fEX4o",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad7527f89c7-1792496255.jpg?resize=1920,1440",
-        "timestamp": 1792499398.0
-    },
-    {
-        "id": "4028629539",
-        "title_fa": "پیشنهاد ترامپ برای نرمال‌سازی اسرائیل‑عرب با موانع انتخاباتی",
-        "title_en": "Trump's push for Israel-Saudi relations faces obstacles amid elections, Houthi attacks",
-        "summary": [
-            "ترامپ می‌خواهد روابط اسرائیل‑عرب، به‌ویژه سعودی، را پیش ببرد اما انتخابات آمریکا و اسرائیل مانع می‌شود.",
-            "حملات حوثی به عربستان فشار جدیدی بر ریاض ایجاد کرده و برنامه نرمال‌سازی را پیچیده می‌کند.",
-            "واشنگتن در تلاش است بین فشارهای داخلی و هدف استراتژیک منطقه تعادل برقرار کند.",
-            "هرگونه پیشرفت در این مسیر به‌سرعت تحت تأثیر نتایج انتخابات می‌افتد."
-        ],
-        "impact": "تاخیر در توافق‌های تجاری و امنیتی میان اسرائیل و عربستان",
-        "tag": "روابط",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-push-for-israel-saudi-relations-faces-obstacles-amid-elections-houthi-attacks-analysis/ar-AA2fIrNt?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-push-for-israel-saudi-relations-faces-obstacles-amid-elections-houthi-attacks-analysis/ar-AA2fIrNt",
-        "image": "https://www.bing.com/th?id=ONUT.jzbp8VMRq01i5V7aB2snyQ",
-        "timestamp": 1792498603.0
     }
 ]
