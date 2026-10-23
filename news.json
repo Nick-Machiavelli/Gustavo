@@ -1,5 +1,62 @@
 [
     {
+        "id": "2c49e56e53",
+        "title_fa": "ترامپ با روسیه متحد شد؛ عواقب برای اوکراین",
+        "title_en": "Trump’s open alliance with Putin helps Russia kill Ukrainians",
+        "summary": [
+            "ترامپ روابط خود را با مسکو تقویت کرده و به روسیه حمایت علنی می‌دهد.",
+            "این هم‌پیمانی به حملات پهپادی روسیه به شهرهای اوکراین سرعت می‌بخشد.",
+            "آمریکا به‌نظر می‌رسد نقش میانجیگری خود را در جنگ از دست داده است."
+        ],
+        "impact": "حمایت آمریکا از روسیه می‌تواند فشار نظامی بر اوکراین را افزایش دهد.",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Daily Mountain Eagle",
+        "url": "https://www.mountaineagle.com/opinion/trump-s-open-alliance-with-putin-helps-russia-kill-ukrainians/article_c7967625-3a35-53ed-834d-b792714dd48c.html",
+        "clean_url": "https://www.mountaineagle.com/opinion/trump-s-open-alliance-with-putin-helps-russia-kill-ukrainians/article_c7967625-3a35-53ed-834d-b792714dd48c.html",
+        "image": "https://www.bing.com/th?id=ONUT.PiG8kAeQyZLs2Tz_1jQnBA",
+        "timestamp": 1792716978.7468715
+    },
+    {
+        "id": "b82aba1db4",
+        "title_fa": "ال‑سید انتقاد از ترامپ و نتانیاهو درباره ایران",
+        "title_en": "‘Netanyahu Dragged Trump...’: El-Sayed Lashes Out At Bibi & Israel After Mike Rogers Debate",
+        "summary": [
+            "ال‑سید می‌گوید ترامپ به‌دست نتانیاهو به جنگ ایران کشانده شد.",
+            "او ادعا می‌کند سیاست‌های آمریکا در خاورمیانه تحت فشار اسرائیل است.",
+            "این اظهارات می‌تواند نظرات عمومی در ایالات متحده را تحت تأثیر قرار دهد."
+        ],
+        "impact": "افزایش انتقادات داخلی می‌تواند فشار بر دولت ترامپ را تقویت کند.",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Times of India on MSN",
+        "url": "https://www.msn.com/en-in/news/other/netanyahu-dragged-trump-el-sayed-lashes-out-at-bibi-israel-after-mike-rogers-debate/vi-AA2fQVJP?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/netanyahu-dragged-trump-el-sayed-lashes-out-at-bibi-israel-after-mike-rogers-debate/vi-AA2fQVJP",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792716978.7459676
+    },
+    {
+        "id": "4f54ae1a37",
+        "title_fa": "ایران به بازسازی هسته‌ای ادامه می‌دهد؛ تهدید به ترامپ",
+        "title_en": "Iran pushes hard on its nuclear rebuild — daring Trump to strike again",
+        "summary": [
+            "ایران برنامه‌های جدید برای تکمیل تسلیحات هسته‌ای خود اعلام کرد.",
+            "رئیسان نظامی ایران به ترامپ گفتند هر حمله‌ای پاسخ سنگین خواهد داشت.",
+            "این حرکت می‌تواند مذاکرات هسته‌ای را به‌سختی پیش ببرد."
+        ],
+        "impact": "افزایش تنش هسته‌ای می‌تواند تحریم‌های بین‌المللی را تشدید کند.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "New York Post",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczRWdGtiamJXNnFES0hmem94alQ1ZUFTeW8wZlVzR2RpNUxqVFIxQ1M0VE1NUlFYWE9aUjRtMDRUVTgtYWVBQVY5clZOSFhxWGdOTFJjS2E5TUhFNHExYUtpemJsRDVVVmkwU29oaFAzaWpweEVuTFlLRmVlaEpOUHgxcWRiM0o4TEVXU2RXVGpIVnVad0VFUVVacnlucTdI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczRWdGtiamJXNnFES0hmem94alQ1ZUFTeW8wZlVzR2RpNUxqVFIxQ1M0VE1NUlFYWE9aUjRtMDRUVTgtYWVBQVY5clZOSFhxWGdOTFJjS2E5TUhFNHExYUtpemJsRDVVVmkwU29oaFAzaWpweEVuTFlLRmVlaEpOUHgxcWRiM0o4TEVXU2RXVGpIVnVad0VFUVVacnlucTdI",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792713060.0
+    },
+    {
         "id": "b2a7cfebea",
         "title_fa": "بازار وال استریت منتظر سقوط ترامپ است",
         "title_en": "Wall Street can't wait for Trump to crash and burn: economist",
@@ -247,6 +304,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2lYdm4tQXgwRVpCQVdqRnJ4RHQzRkZFZWpRZk1sNHB0dUQ5d24xRXVpdDdsSWxMSlNCNEVxZlRqcjJ1TFJ3YjhDd1ptbXFwajRGZTZBNXBEYklIWkJ3LVJ3eHhsRmY2Zy1iaGNlelVnVnVmeG9EaHM0bk9USEw5TEZ4cHVGbkFIQmZOOHRmaV95TENqSHBBZTZMU0E2dHdnbnJ1Q3hFbUZtaUpIR2RCMdIBtgFBVV95cUxNMm54SzB2S0o0VFJ5QlVVbzJnQXN5Q0FldUZTNy1rTG5TT2pLb0t4Q2VXYXZ3aEdVUTdoTXdlVC1kcC02NEw5QTJBN0JoS1ZodFY2UXZTdVVBbkg2MWJyYjFYZGpFXzhuNG04NUhjc1VLNTEzMm5zV01JNkVsYU43WDZKOXpNM2wyT054LXVWUzIwa3hHUlctWWstX0QxajFpWm1FeHFkVVg5VDZSMFV5U3Mzc1BEUQ",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792692256.0
+    },
+    {
+        "id": "d06527ef5c",
+        "title_fa": "ایران تهدید به حملات گسترده در صورت حمله آمریکا",
+        "title_en": "Iran threatens wider strikes on economic and civilian targets if US attacks",
+        "summary": [
+            "سپاه اعلام کرد در صورت حمله، هدف‌های اقتصادی و غیرنظامی را هدف می‌گیرد.",
+            "تهدید شامل زیرساخت‌های انرژی، حمل و نقل و مراکز شهری است.",
+            "این پیام سعی دارد فشار سیاسی بر واشنگتن را کاهش دهد."
+        ],
+        "impact": "تهدید می‌تواند تصمیم‌گیری‌های نظامی آمریکا را با احتیاط بیشتری مواجه کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-us-attacks/ar-AA2fRwni",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-us-attacks/ar-AA2fRwni",
+        "image": "http://www.bing.com/th?id=ONUT.S0J1kf722VeRyzKZTEfYVQ&pid=News",
+        "timestamp": 1792688400.0
     },
     {
         "id": "85c56524e9",
@@ -648,6 +724,24 @@
         "timestamp": 1792660458.0
     },
     {
+        "id": "aa8584c69e",
+        "title_fa": "غذاهایی که روزی به‌نظر نفرت‌انگیز می‌آمدند",
+        "title_en": "20 Foods That Were Once Considered Disgusting",
+        "summary": [
+            "تاریخ نشان می‌دهد طماطم و موز قبلاً به‌عنوان خوراکی‌های نامطلوب شناخته می‌شدند.",
+            "تغییر سلیقه‌های خوراکی با پیشرفت کشاورزی و فرهنگ غذایی همراه است."
+        ],
+        "impact": "درک بهتر تاریخ تغذیه می‌تواند به نوآوری‌های آشپزی امروز کمک کند.",
+        "tag": "فرهنگی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Spicy Chefs",
+        "url": "https://www.msn.com/en-us/food-and-drink/recipes/20-foods-that-were-once-considered-disgusting/ss-AA2fOIot",
+        "clean_url": "https://www.msn.com/en-us/food-and-drink/recipes/20-foods-that-were-once-considered-disgusting/ss-AA2fOIot",
+        "image": "https://s.yimg.com/lo/mysterio/api/ea09cbc48a5c80b3aebdf8dc420dadf54c61c3acb2af0b704e7e796f4d45f576/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/the_telegraph_258/9d912a4903deab3c5ebaee05e4134420.jpg",
+        "timestamp": 1792657800.0
+    },
+    {
         "id": "3309e8b818",
         "title_fa": "معاون سیاسی سپاه: ایران آمریکا را شکست داد",
         "title_en": "IRGC political deputy says Iran defeated US, takes aim at critics at home",
@@ -890,6 +984,26 @@
         "timestamp": 1792643202.0
     },
     {
+        "id": "d5cf98b332",
+        "title_fa": "تحریم‌های جدید آمریکا بر فناوری‌های حساس ایران",
+        "title_en": "US proposes restrictions on investments in sensitive Iran technology sectors",
+        "summary": [
+            "واشنگتن محدودیت سرمایه‌گذاری در بخش‌های کلیدی هسته‌ای و رادار ایران را پیشنهاد کرد.",
+            "فشارهای مرزی با بستن گذرگاه‌های پاکستان و عراق به‌طور مستقیم اقتصاد ایران را تهدید می‌کند.",
+            "رییس شورای امنیت ملی ایران تأکید کرد این تحریم‌ها شکست استراتژیک نیست.",
+            "این اقدام می‌تواند دسترسی ایران به فناوری پیشرفته را کاهش دهد."
+        ],
+        "impact": "سرمایه‌گذاری خارجی در پروژه‌های حساس ایران به‌سرعت کاهش می‌یابد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610226776",
+        "clean_url": "https://www.iranintl.com/en/202610226776",
+        "image": "http://www.bing.com/th?id=ONUT.ljzJW6rWK1TJgECNElKTjA&pid=News",
+        "timestamp": 1792642080.0
+    },
+    {
         "id": "4b910888b7",
         "title_fa": "هفت تانکر نفتی در تنگه هرمز هدف شدند",
         "title_en": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
@@ -1074,6 +1188,25 @@
         "clean_url": "https://www.iranintl.com/202610229226",
         "image": "http://www.bing.com/th?id=ONUT.XWrztwnoBPAAGHoztVRRBA&pid=News",
         "timestamp": 1792630800.0
+    },
+    {
+        "id": "e874e6bd09",
+        "title_fa": "آمریکا و اسرائیل برنامه‌ریزی حمله به ایران",
+        "title_en": "October 23, 2026 | Global Market Round-Trip | Morning Edition | SOX down 6.72%, Nasdaq down 2.60% | Meta capex concerns and Brent at $113, focus today on semiconductor stocks ...",
+        "summary": [
+            "گزارش‌ها حاکی از برنامه‌ریزی مشترک نظامی برای ضربه هوایی به زیرساخت‌های ایرانی است.",
+            "هدف اصلی، مهار توانمندی‌های موشکی و پهپادی ایران است.",
+            "این خبر باعث افزایش نوسان بازارهای انرژی و فناوری شد."
+        ],
+        "impact": "تنش‌های نظامی می‌تواند قیمت نفت و ارزهای منطقه‌ای را بالا ببرد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "note",
+        "url": "https://note.com/mute_heron5386/n/nf04fe55b87c4?hl=en",
+        "clean_url": "https://note.com/mute_heron5386/n/nf04fe55b87c4",
+        "image": "https://www.bing.com/th?id=ONUT.zIE_3xEheGTBm5qnN1OZdQ",
+        "timestamp": 1792630569.0
     },
     {
         "id": "bd8593d49d",
@@ -5479,132 +5612,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792426971.0
-    },
-    {
-        "id": "c9acb48e21",
-        "title_fa": "قیمت نفت پس از توقف حملات ایران‑اسرائیل کاهش یافت",
-        "title_en": "Oil Falls as Investors Await Clarity After Iran-Israel Halt Attacks",
-        "summary": [
-            "پس از اعلام توقف حملات، قیمت نفت خام در بازارهای جهانی کاهش یافت.",
-            "سرمایه‌گذاران انتظار دارند تنش‌های خلیج به‌سرعت فروکش کند و بازار به تعادل برسد."
-        ],
-        "impact": "کاهش قیمت نفت فشار بر اقتصادهای نفت‌خیز را کم می‌کند و بازارهای مالی آرام می‌شود",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZQTG5MYW5mNnVRTlZMenMzal82djYwWkszRHRUVlpWNkNvTThoRVk4ZjlpWVM2R2ZJM2UycUg2MFRiUS1ndnlqZ1dIVkN0V3NmM3owV2R4QjlDS2NNbGtiZmdIOTZHVUtpc0g1bjZ3Nk10SUc0R1pnLUgtS1pnYkJkVEkwZ0VUcnAyaUpCLTZ1dEFYQkFIWHNtSFJpR28?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmZQTG5MYW5mNnVRTlZMenMzal82djYwWkszRHRUVlpWNkNvTThoRVk4ZjlpWVM2R2ZJM2UycUg2MFRiUS1ndnlqZ1dIVkN0V3NmM3owV2R4QjlDS2NNbGtiZmdIOTZHVUtpc0g1bjZ3Nk10SUc0R1pnLUgtS1pnYkJkVEkwZ0VUcnAyaUpCLTZ1dEFYQkFIWHNtSFJpR28",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792426280.0
-    },
-    {
-        "id": "7547b4c920",
-        "title_fa": "آمریکا و اسرائیل به حملات جدید علیه ایران فکر می‌کنند",
-        "title_en": "US, Israel weigh renewed strikes on Iran as experts warn renewed conflict may be inevitable",
-        "summary": [
-            "کارشناسان هشدار می‌دهند عملیات کوتاه می‌تواند به جنگ طولانی تبدیل شود",
-            "هدف‌های احتمالی شامل تأسیسات موشکی و زیرساخت‌های هسته‌ای است",
-            "تصمیم‌گیری‌ها هنوز در مرحله بررسی است اما فشار دیپلماتیک در حال افزایش است"
-        ],
-        "impact": "احتمال حمله نظامی می‌تواند تنش‌های خاورمیانه را به نقطه انفجار برساند",
-        "tag": "حمله",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/us-israel-weigh-renewed-strikes-on-iran-as-experts-warn-renewed-conflict-may-be-inevitable/ar-AA2fAUq6",
-        "clean_url": "https://www.msn.com/en-us/news/other/us-israel-weigh-renewed-strikes-on-iran-as-experts-warn-renewed-conflict-may-be-inevitable/ar-AA2fAUq6",
-        "image": "http://www.bing.com/th?id=ONUT.QOnJdI13ZDOceFV1eTq_lw&pid=News",
-        "timestamp": 1792425141.0
-    },
-    {
-        "id": "ba9155ac9d",
-        "title_fa": "سفیر ترامپ: ایالات متحده امنیت خلیج را تضمین نمی‌کند",
-        "title_en": "Trump envoy tells nervous Gulf allies US can't guarantee security forever",
-        "summary": [
-            "پیام سفیر ترامپ به کشورهای خلیج نشان می‌دهد واشنگتن قصد خروج تدریجی دارد",
-            "این اظهارات اضطراب امنیتی در عربستان، امارات و کویت ایجاد کرده",
-            "اگر آمریکا عقب‌نشینی کند، ایران فرصت تقویت نفوذ نظامی در منطقه را پیدا می‌کند"
-        ],
-        "impact": "کاهش اعتماد به تعهدات امنیتی آمریکا، احتمال تقویت حضور نظامی ایران",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-envoy-tells-nervous-gulf-allies-us-can-t-guarantee-security-forever/ar-AA2fELF7?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-envoy-tells-nervous-gulf-allies-us-can-t-guarantee-security-forever/ar-AA2fELF7",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792425025.0
-    },
-    {
-        "id": "62c27b533b",
-        "title_fa": "کاهش نرخ بهره در روسیه سوددهی توسعه‌دهندگان مسکن را افزایش می‌دهد",
-        "title_en": "Developers to benefit most from potential rate cut, lawmaker says",
-        "summary": [
-            "آقای گوورین پیش‌بینی کرد هر نقطه‌درصد کاهش نرخ، هزینه بدهی سازندگان را کاهش می‌دهد",
-            "بازار بورس با رشد ۲۵٪ از اواسط تابستان، در آستانه فاز صعودی جدید است"
-        ],
-        "impact": "سرمایه‌گذاری در بخش مسکن و شرکت‌های بدهکار افزایش می‌یابد",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2204273",
-        "clean_url": "https://tass.com/economy/2204273",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792423500.0
-    },
-    {
-        "id": "dcf4077d01",
-        "title_fa": "وزیر خارجه ایران: آمریکا و اسرائیل عامل ناامنی در هرمز",
-        "title_en": "Iran blames US, Israel for Hormuz insecurity, urges diplomacy",
-        "summary": [
-            "آریا ارغچی حمله نظامی آمریکا و اسرائیل را منبع اصلی تنش در تنگه هرمز نامید",
-            "او خواستار دیپلماسی چندجانبه برای رفع بحران شد"
-        ],
-        "impact": "افزایش فشار دیپلماتیک بر واشنگتن و تل‌آویو، ریسک اختلال در حمل و نقل نفتی",
-        "tag": "هورموز",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Asianet Newsable on MSN",
-        "url": "https://www.msn.com/en-in/news/other/iran-blames-us-israel-for-hormuz-insecurity-urges-diplomacy/ar-AA2fBTyl",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-blames-us-israel-for-hormuz-insecurity-urges-diplomacy/ar-AA2fBTyl",
-        "image": "http://www.bing.com/th?id=ONUT.LOMdnjAlV__t0lAe8sIm5g&pid=News",
-        "timestamp": 1792422032.0
-    },
-    {
-        "id": "b827b4d62b",
-        "title_fa": "واحد تراکتور BAZ پس از ۱۰٬۰۰۰ کیلومتر بدون نقص گزارش داد",
-        "title_en": "BAZ tractor unit covers over 10,000 km with no critical flaws — Almaz-Antey",
-        "summary": [
-            "واحد در مسابقه رانندگی نووی اورنگ تست شد و هیچ مشکل بحرانی ثبت نشد",
-            "نتایج نشان می‌دهد خودرو می‌تواند در شرایط سخت شمال دور کارایی داشته باشد"
-        ],
-        "impact": "اعتماد به تجهیزات نظامی روسیه در مناطق سردسیر افزایش می‌یابد",
-        "tag": "صنعت-نظامی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2204237",
-        "clean_url": "https://tass.com/economy/2204237",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1792421040.0
-    },
-    {
-        "id": "e19d210a56",
-        "title_fa": "اسکات جنینگز با 1 دیس دیدنی کیتی زاخاریا بی‌رحمانه روی آنتن جوید.",
-        "title_en": "Scott Jennings ruthlessly chewed out on-air with 1 spectacular Katie Zacharia diss",
-        "summary": [
-            "“You should be above this,” a Democratic strategist told MAGA-friendly Scott Jennings during a tongue-lashing on CNN."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "HuffPost on MSN",
-        "url": "https://www.msn.com/en-us/news/other/scott-jennings-ruthlessly-chewed-out-on-air-with-1-spectacular-katie-zacharia-diss/ar-AA2fBccJ",
-        "clean_url": "https://www.msn.com/en-us/news/other/scott-jennings-ruthlessly-chewed-out-on-air-with-1-spectacular-katie-zacharia-diss/ar-AA2fBccJ",
-        "image": "http://www.bing.com/th?id=ONUT.OxmdU1tbp0Sxj0zoyaJ-VA&pid=News",
-        "timestamp": 1792420414.0
     }
 ]
