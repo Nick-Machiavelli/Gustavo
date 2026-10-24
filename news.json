@@ -1,5 +1,25 @@
 [
     {
+        "id": "e888847abc",
+        "title_fa": "ترامپ ادعا می‌کند ایران شکست خورده؛ مشاوران می‌گویند تعادل",
+        "title_en": "Trump says Iran is beaten. His own advisers and analysts see a stalemate",
+        "summary": [
+            "ترامپ در مصاحبه‌ای اعلام کرد آمریکا ایران را از نظر نظامی و اقتصادی شکست داده است",
+            "گزارش‌های مشاوران و CRS نشان می‌دهد تحریم‌ها اثر محدود داشته و ایران هنوز توانایی مقاومت دارد",
+            "تحلیل‌گران می‌گویند این ادعا برای تقویت موقعیت داخلی ترامپ است",
+            "وضعیت واقعی به‌نظر می‌رسد تعادل نسبی بین دو کشور باشد"
+        ],
+        "impact": "ادعای پیروزی ممکن است سیاست‌های آینده آمریکا را تحت تأثیر قرار دهد",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Idaho Learning News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-iran-is-beaten-his-own-advisers-and-analysts-see-a-stalemate/ar-AA2fXFUP?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-iran-is-beaten-his-own-advisers-and-analysts-see-a-stalemate/ar-AA2fXFUP",
+        "image": "https://www.bing.com/th?id=ONUT.bK_7nCM-GfhGG-GphzK0gA",
+        "timestamp": 1792818706.809697
+    },
+    {
         "id": "2a88c80eea",
         "title_fa": "ترامپ تهدید به حمله تمام‌عیار به ایران",
         "title_en": "Trump floats new Iran strikes, says US could take ‘whole country’",
@@ -183,6 +203,23 @@
         "timestamp": 1792794780.0
     },
     {
+        "id": "faa04eda3c",
+        "title_fa": "مقامات می‌گویند ایران در «مراحل پیشرفته» برنامه ریزی حملات علیه آمریکایی‌ها قرار دارد",
+        "title_en": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+        "summary": [
+            "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+        "clean_url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+        "image": "http://www.bing.com/th?id=ONUT.74alCdvHyWsB4LRjBgN9BA&pid=News",
+        "timestamp": 1792791960.0
+    },
+    {
         "id": "24ea18915b",
         "title_fa": "کمبود برنامه و رهبری در کمپین انتخاباتی اسرائیل",
         "title_en": "Israel’s election campaign lacks substance, fresh leadership, and vision",
@@ -350,6 +387,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjNEZzBoMS1CdTRMRGxWd3JXWDN5V2hmcWxmQ1hQNDkxanllSEQ2elo0NEZEWFRnMjRGV2JhNHpSeXJ1Q2tKRjlMamtEYThlLWpnSXFTYVVmSzNLVVUzWnFOWFdyYTRxc25jVjFTNE5JRTBITmRMUllIQm1WRWFpMUY5ZEtXTlVpdXhNNkZBNWFKZnBTYzFmY085Um1MU2dYWWs4",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792776000.0
+    },
+    {
+        "id": "5830c82593",
+        "title_fa": "ترامپ تهدید عملیات جدید علیه ایران؛ خروج دیپلمات‌ها",
+        "title_en": "US moves diplomats out of region, Trump threatens new Iran operation",
+        "summary": [
+            "ترامپ اعلام کرد آمریکا آماده حمله جدید به ایران است",
+            "دیپلمات‌های آمریکایی از عربستان و سایر پایگاه‌های منطقه‌ای خارج می‌شوند",
+            "فرمانده کل ارتش ایران می‌گوید ناوهای آمریکایی دیگر نمی‌توانند به خلیج فارس نفوذ کنند",
+            "تحولات خطر تشدید نظامی در خلیج فارس را افزایش می‌دهد"
+        ],
+        "impact": "افزایش تنش نظامی خلیج فارس و احتمال بروز برخورد مستقیم",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/liveblog/202610244311",
+        "clean_url": "https://www.iranintl.com/en/liveblog/202610244311",
+        "image": "http://www.bing.com/th?id=ONUT.S_k-57HlJ3Ud3iNVR-mO1g&pid=News",
+        "timestamp": 1792774800.0
     },
     {
         "id": "f4c0a02834",
@@ -985,6 +1042,66 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-is-also-threatening-to-ramp-up-attacks-if-targeted-it-will-go-after-civilian-infrastructure/ar-AA2fUysC",
         "image": "http://www.bing.com/th?id=ONUT.O5es_j8RsMDqlNP9CgS-cQ&pid=News",
         "timestamp": 1792732606.0
+    },
+    {
+        "id": "61f41b35f3",
+        "title_fa": "دو سوپرتانکر در هرمز به مین‌های دریایی برخورد کردند",
+        "title_en": "Iran’s death trap in Hormuz: Two supertankers blown up on US-approved route; crews flee ships",
+        "summary": [
+            "دو سوپرتانکر حامل ۴٫۵ میلیون بشکه نفت در مسیر تأیید شده توسط آمریکا به مین‌های دریایی برخورد کردند",
+            "خدمه کشتی‌ها تخلیه شدند و خطر آلودگی بزرگ در تنگه هرمز ایجاد شد",
+            "این حادثه نشان می‌دهد ریسک حملات ناوشکن به مسیرهای نفتی در حال افزایش است",
+            "بازار نفت به‌سرعت نوسان کرد و قیمت‌ها کمی ارتقا یافت"
+        ],
+        "impact": "اختلال در عبور نفت از هرمز؛ نوسان قیمت جهانی",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Times of India on MSN",
+        "url": "https://www.msn.com/en-in/news/other/iran-s-death-trap-in-hormuz-two-supertankers-blown-up-on-us-approved-route-crews-flee-ships/vi-AA2fXo5Q?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-s-death-trap-in-hormuz-two-supertankers-blown-up-on-us-approved-route-crews-flee-ships/vi-AA2fXo5Q",
+        "image": "https://www.bing.com/th?id=ONUT.jL_OIdMecAtBG0CqCDQhBA",
+        "timestamp": 1792732297.0
+    },
+    {
+        "id": "07fdd0de04",
+        "title_fa": "مارکو روبیویو به کوبایی‌ها پیشنهاد همکاری مخفی با سیا",
+        "title_en": "Al Jazeera English on X: \"Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government. His appeal followed President Trump’s ...",
+        "summary": [
+            "روبیویو از کوبایی‌ها خواست تا به‌صورت مخفی با سیا برای سرنگونی دولت همکاری کنند",
+            "این درخواست پس از تهدید ترامپ به ارسال ناوهای جنگی به کوبا پس از جنگ ایران مطرح شد",
+            "واکنش‌های انتقادی در واشنگتن و کیوبا به این پیشنهاد شدید شد",
+            "احتمال تشدید تنش‌های آمریکایی‑کوبایی در کوتاه‌مدت افزایش یافت"
+        ],
+        "impact": "تشدید فشار سیاسی آمریکا بر کوبا؛ ریسک واکنش بین‌المللی",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "X",
+        "url": "https://x.com/AJEnglish/status/2113845437119504493",
+        "clean_url": "https://x.com/AJEnglish/status/2113845437119504493",
+        "image": "https://www.bing.com/th?id=ONUT.nejBMTQE9kDTdMPMobIYtw",
+        "timestamp": 1792732297.0
+    },
+    {
+        "id": "2be7a59f22",
+        "title_fa": "سال‌ها جنگ نظرات درباره نتانیاهو را در قبیله‌اش تقسیم کرد",
+        "title_en": "Years of war divides opinion on Benjamin Netanyahu in one of his historic strongholds",
+        "summary": [
+            "انتخابات پیش رو اسرائیل با تردیدهای عمیق در میان حامیان نتانیاهو مواجه است",
+            "سال‌ها درگیری با فلسطینیان و جنگ‌های منطقه‌ای نظرات داخلی را دو قطبی کرده",
+            "برخی رأی‌دهندگان هنوز به رهبری او به عنوان تضمین امنیت اعتقاد دارند",
+            "مخالفان او او را عامل تشدید تنش‌ها می‌دانند"
+        ],
+        "impact": "تقسیم‌کردن رأی‌دهندگان می‌تواند نتایج انتخابات و مسیر صلح را تغییر دهد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "ABC (Australian Broadcasting Corporation) on MSN",
+        "url": "https://www.msn.com/en-au/news/australia/years-of-war-divides-opinion-on-benjamin-netanyahu-in-one-of-his-historic-strongholds/ar-AA2fXAOi?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-au/news/australia/years-of-war-divides-opinion-on-benjamin-netanyahu-in-one-of-his-historic-strongholds/ar-AA2fXAOi",
+        "image": "https://www.bing.com/th?id=ONUT.7-RBt_JF6xycb8ti6DupmA",
+        "timestamp": 1792732297.0
     },
     {
         "id": "ad2be35f04",
@@ -5486,116 +5603,5 @@
         "clean_url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
         "image": "https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg",
         "timestamp": 1792515780.0
-    },
-    {
-        "id": "f425ec5fe4",
-        "title_fa": "وزیران خارجه سعودی و کویت حمله حوثی‌ها را محکوم کردند",
-        "title_en": "Saudi, Kuwaiti FMs condemn Iran-backed Houthi attacks",
-        "summary": [
-            "وزرای خارجه سعودی و کویت به‌صراحت حملات حوثی‌های وابسته به ایران را در خلیج فارس محکوم کردند",
-            "این اظهارات نشان می‌دهد فشار دیپلماتیک علیه ایران در حوزه خلیج در حال تشدید است",
-            "نتانیاهو در همان روز بر سر حذف رژیم ایران تأکید کرد و گفت حذف رهبری ایران امنیت منطقه را تضمین می‌کند",
-            "احتمال افزایش حضور نظامی بین‌المللی در آب‌های هرمز و اعمال تحریم‌های جدید بر تهران می‌رود"
-        ],
-        "impact": "تحریم‌های جدید و حضور نیروی نظامی خارجی می‌تواند ترافیک تجاری خلیج فارس را مختل کند",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610205722",
-        "clean_url": "https://www.iranintl.com/en/202610205722",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792515300.0
-    },
-    {
-        "id": "15bc75a75d",
-        "title_fa": "نخست وزیر عراق دستور بسته شدن گذرگاه مرزی با ایران را صادر کرد",
-        "title_en": "Iraqi PM orders closure of border crossing with Iran",
-        "summary": [
-            "Iraqi Prime Minister Ali al-Zaidi ordered the indefinite closure of the Sheeb border crossing with Iran and the gradual closure of several other crossings in the coming days, Al Jazeera reported..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610205447",
-        "clean_url": "https://www.iranintl.com/en/202610205447",
-        "image": "http://www.bing.com/th?id=ONUT.Jvo0VAcYTZbs04wFyh99Ig&pid=News",
-        "timestamp": 1792515120.0
-    },
-    {
-        "id": "848239dfbf",
-        "title_fa": "لاوروف از تهران حمایت می‌کند، اما آیا روسیه نیز از بحران ایران و آمریکا سود می‌برد؟",
-        "title_en": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
-        "summary": [
-            "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis? Al Jazeera"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVi1HY3YwYUlka0VtT3NwLUxjZHhxUWV4X204SkpWTkloQjZndmZBZ3FFSkFTRXFHdmQzejNnX0tJT0dMQ1FPb0Y2cy1MX19ScTMxMVpZc1pTUFlPSXZQOWo3czRWV1RtT0szQjBRbkRxLVBHMDl3YU5WQVdhY1pJdElmMG8teWxjT2xiMUhkM2EwS3YzNnl3SnBNaU5lSGpoRnhvdjN4Z1dyVU1RY3pKatIBtgFBVV95cUxPd0xmNVN3Q011b1NvTUhrRlhBMEY1dUQ2Wk40T3h1VVd2eENfTVNOcmFtS0VjdFdiY3BIajBRUDl0cEdkNDhKUnpQWnozaFNnOWRBUjlYZGFlUVNkbll4YUlKWXNRYWFyaTljU2h1Y28zcHB3Nl9MT1VPd0tXZ0xrTS0wbC02SV9nYl9zNm0taDhKWGEwRzMyTUxhbTVzMlMtQ3RkWFhkSWNkRzVPNTBkZkpWSHVzdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVi1HY3YwYUlka0VtT3NwLUxjZHhxUWV4X204SkpWTkloQjZndmZBZ3FFSkFTRXFHdmQzejNnX0tJT0dMQ1FPb0Y2cy1MX19ScTMxMVpZc1pTUFlPSXZQOWo3czRWV1RtT0szQjBRbkRxLVBHMDl3YU5WQVdhY1pJdElmMG8teWxjT2xiMUhkM2EwS3YzNnl3SnBNaU5lSGpoRnhvdjN4Z1dyVU1RY3pKatIBtgFBVV95cUxPd0xmNVN3Q011b1NvTUhrRlhBMEY1dUQ2Wk40T3h1VVd2eENfTVNOcmFtS0VjdFdiY3BIajBRUDl0cEdkNDhKUnpQWnozaFNnOWRBUjlYZGFlUVNkbll4YUlKWXNRYWFyaTljU2h1Y28zcHB3Nl9MT1VPd0tXZ0xrTS0wbC02SV9nYl9zNm0taDhKWGEwRzMyTUxhbTVzMlMtQ3RkWFhkSWNkRzVPNTBkZkpWSHVzdw",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792512744.0
-    },
-    {
-        "id": "093e127404",
-        "title_fa": "نتانیاهو: حذف رژیم ایران هدف اصلی انتخابات",
-        "title_en": "Iran in Israeli election: Netanyahu all-in on regime change, rivals want more",
-        "summary": [
-            "نتانیاهو در دانشگاه تل‌های خواستار سرنگونی کامل ایران شد",
-            "او می‌گوید تضعیف نظامی کافی نیست؛ باید رهبری سقوط کند",
-            "این rhetoric می‌تواند فشار بین‌المللی بر ایران را افزایش دهد"
-        ],
-        "impact": "احتمال تشدید تحریم‌ها و حمایت نظامی غرب از حملات علیه ایران",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610200861",
-        "clean_url": "https://www.iranintl.com/en/202610200861",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792511520.0
-    },
-    {
-        "id": "5da23ad16a",
-        "title_fa": "ترامپ در تله جنگ ایران؛ ناو حامل‌هوایی به خاورمیانه",
-        "title_en": "Donald Trump is trapped in a cage called the Iran war and looks like he has no way out now",
-        "summary": [
-            "ترامپ می‌گوید خود را در \"قفس\" جنگ ایران می‌بیند و راه خروجی نمی‌بیند",
-            "ورود سومین ناو حامل‌هوایی آمریکا نشان از تشدید فشار نظامی می‌کند",
-            "ایران اعلام کرد در صورت ادامه تنش‌ها، استراتژی دفاعی خود را گسترش می‌دهد",
-            "تحولات ریسک مستقیم درگیری هوایی را به شدت بالا می‌برد"
-        ],
-        "impact": "افزایش خطر برخورد نظامی، فشار بر بازارهای انرژی",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/donald-trump-is-trapped-in-a-cage-called-the-iran-war-and-looks-like-he-has-no-way-out-now/ar-AA2fF19m?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-is-trapped-in-a-cage-called-the-iran-war-and-looks-like-he-has-no-way-out-now/ar-AA2fF19m",
-        "image": "https://www.bing.com/th?id=ONUT.PFP2zYkbgmDa7Pwx_UZAdA",
-        "timestamp": 1792511432.4551215
-    },
-    {
-        "id": "f49ab2a3eb",
-        "title_fa": "ایران استراتژی جدیدی برای مقابله با ترامپ اعلام کرد",
-        "title_en": "Iran has a new strategy to deal with Donald Trump and it has nothing to do with bombs or missiles",
-        "summary": [
-            "مسئولان ایرانی گفتند برای مقابله با حملات احتمالی آمریکا و اسرائیل آماده می‌شوند.",
-            "هدف ایران جلوگیری از کسب پیروزی سیاسی برای ترامپ پیش از انتخابات میدانی است."
-        ],
-        "impact": "استراتژی جدید می‌تواند تنش‌های منطقه‌ای را پیش از انتخابات آمریکا تشدید کند.",
-        "tag": "استراتژی_ایران",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "National Security Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-has-a-new-strategy-to-deal-with-donald-trump-and-it-has-nothing-to-do-with-bombs-or-missiles/ar-AA2fFMPE",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-has-a-new-strategy-to-deal-with-donald-trump-and-it-has-nothing-to-do-with-bombs-or-missiles/ar-AA2fFMPE",
-        "image": "http://www.bing.com/th?id=ONUT.9Z4EUA6FVYo-j54lHnEjzg&pid=News",
-        "timestamp": 1792511260.0
     }
 ]
