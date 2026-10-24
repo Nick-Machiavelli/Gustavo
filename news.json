@@ -1,5 +1,59 @@
 [
     {
+        "id": "971daee2b2",
+        "title_fa": "پلیس سریلانکا با تهدید به سکوت، آزادی بیان را محدود",
+        "title_en": "Policing the Police",
+        "summary": [
+            "پست فیسبوک پلیس، مردم را از انتقاد باز می‌دارد",
+            "سازمان حقوق بشر سریلانکا این پیام را به عنوان سرکوب صداهای مخالف محکوم کرد"
+        ],
+        "impact": "افزایش سرکوب انتقادات عمومی و تضعیف فضای مدنی",
+        "tag": "حقوق",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "Daily FT",
+        "url": "https://www.ft.lk/ft_view__editorial/Policing-the-Police/58-799090",
+        "clean_url": "https://www.ft.lk/ft_view__editorial/Policing-the-Police/58-799090",
+        "image": "https://www.ft.lk/assets/2020/images/logo.png",
+        "timestamp": 1792803125.1259089
+    },
+    {
+        "id": "9b7094579e",
+        "title_fa": "تهران از جدال مخالفان سود می‌برد؛ خطر ابزار سلطنتی",
+        "title_en": "Tehran Profits While Monarchists Fight The Resistance",
+        "summary": [
+            "هرچه مبارزه بین حامیان سلطنت و مقاومت تشدید شود، اقتصاد دولتی از تحریم‌ها عبور می‌کند",
+            "شاهزاده رضا پهلوی ممکن است به ابزار سیاسی تبدیل شود که نظام را تضعیف می‌کند"
+        ],
+        "impact": "تقویت توان مالی دولت و تضعیف یکپارچگی مخالفان",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Blogs | The Times of Israel",
+        "url": "https://blogs.timesofisrael.com/tehran-profits-while-monarchists-fight-the-resistance/",
+        "clean_url": "https://blogs.timesofisrael.com/tehran-profits-while-monarchists-fight-the-resistance",
+        "image": "https://www.bing.com/th?id=ONUT.L616Lyy8AdBBmaYlKR_D1Q",
+        "timestamp": 1792803125.1246846
+    },
+    {
+        "id": "6c97b93e50",
+        "title_fa": "جِی‌دی ونس از ترامپ فاصله می‌گیرد؛ چشم‌انداز ۲۰۲۸",
+        "title_en": "JD Vance 'breaks up' with Trump? How VP is using Netanyahu 'divide' to reshape 2028 dream",
+        "summary": [
+            "ونس برای تضمین حمایت مستقل در انتخابات ۲۰۲۸، از رهبری ترامپ دور می‌شود",
+            "این جدایی می‌تواند تفرقه‌ای در جناح جمهوری‌خواه ایجاد کند و استراتژی نتانیاهو را تقویت کند"
+        ],
+        "impact": "تغییر تعادل قدرت در حزب جمهوری‌خواه و تأثیر بر سیاست‌های خاورمیانه",
+        "tag": "سیاست-آمریکا",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Times of India on MSN",
+        "url": "https://www.msn.com/en-in/news/other/jd-vance-breaks-up-with-trump-how-vp-is-using-netanyahu-divide-to-reshape-2028-dream/vi-AA2fW3dk?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/jd-vance-breaks-up-with-trump-how-vp-is-using-netanyahu-divide-to-reshape-2028-dream/vi-AA2fW3dk",
+        "image": "https://www.bing.com/th?id=ONUT.W6YM5bb-HnkP1f0uML_CEQ",
+        "timestamp": 1792803125.124081
+    },
+    {
         "id": "9d3feaa4b2",
         "title_fa": "استراتژی ترامپ: ورود روسیه، خروج چین از انرژی",
         "title_en": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
@@ -18,6 +72,77 @@
         "clean_url": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
         "image": "https://www.bing.com/th?id=ONUT.jGQV8oci_DYvWlMUqR3rGw",
         "timestamp": 1792799756.0279083
+    },
+    {
+        "id": "fd623ef4fa",
+        "title_fa": "گروسی می‌گوید آژانس برای راستی آزمایی فعالیت های هسته‌ای ایران آماده است",
+        "title_en": "IAEA ready to verify Iran nuclear activities, Grossi says",
+        "summary": [
+            "The International Atomic Energy Agency is ready to verify Iran's nuclear activities as part of any diplomatic agreement, Director General Rafael Grossi said Friday."
+        ],
+        "impact": "...",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610230370",
+        "clean_url": "https://www.iranintl.com/en/202610230370",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/1899330e36f0011b322903371a273a169ca7034e-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1792797900.0
+    },
+    {
+        "id": "54c2cfa0bf",
+        "title_fa": "مسائل کلیدی برای توافق صلح بین آمریکا و ایران",
+        "title_en": "What Issues Do The US And Iran Need to Resolve for Any Peace Deal?",
+        "summary": [
+            "رفع تحریم‌های مالی، برنامه هسته‌ای و تضمین عدم حمایت از گروه‌های مسلح از مهم‌ترین پیش‌نیازهاست",
+            "هر دو طرف باید به‌صورت شفاف درباره مناطق مرزی و ناوبری در خلیج فارس توافق کنند"
+        ],
+        "impact": "ایجاد مسیر برای کاهش تنش و بازگشت سرمایه‌گذاری‌های خارجی",
+        "tag": "صلح",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXM1MjUyU1dYUko1cVY3eVNralFFLWdTSEdNZkFadnBrMlY0dFc4LUlSek4wZk1HVTU3ZEZjRXRCOFJSWEFPbnQtRGF0SHB4LU52MXJxRUdhZnVmeXhuUU1fVmVSVWs3YVlTa0hYN2lza0JiSTRzX3ZjR2VBTTNzaVZXZGhnclZyT0M0UFhmdE5KZVpVM09VelA5eUY",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792796076.0
+    },
+    {
+        "id": "99068d2632",
+        "title_fa": "ایالات متحده و ایران تهدیدهای جدیدی مبادله می‌کنند؛ دیپلماسی بی‌نتیجه",
+        "title_en": "US and Iran trade new threats, diplomacy yields no breakthrough",
+        "summary": [
+            "هر دو طرف پس از مذاکرات اخیر، تهدیدهای نظامی و اقتصادی جدیدی مطرح کردند",
+            "عدم پیشرفت دیپلماتیک باعث ادامه تحریم‌ها و خطر تصاعد تنش می‌شود"
+        ],
+        "impact": "تحمیل فشار اقتصادی بیشتر بر ایران و خطر بروز برخورد‌های نیابتی",
+        "tag": "دیپلوماسی",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OOFg3U2wtNk1Ncll0WnQzSzVQM09oVjJsazdyVXVZWlVDMzNGMkt1aTNhVmhwME5adXRKZEFURFVHVzBpbWxhLVhiZWpEdU42X0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OOFg3U2wtNk1Ncll0WnQzSzVQM09oVjJsazdyVXVZWlVDMzNGMkt1aTNhVmhwME5adXRKZEFURFVHVzBpbWxhLVhiZWpEdU42X0E",
+        "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792795449.0
+    },
+    {
+        "id": "fc44281cf0",
+        "title_fa": "ایران مسیرهای زمینی را به فشار آمریکا از دست می‌دهد",
+        "title_en": "Iran Is Now Losing Overland Trade Routes to U.S. Pressure",
+        "summary": [
+            "تحریم‌های جدید آمریکا باعث بسته شدن مسیرهای زمینی عبوری از ترکیه و ارمنستان شد",
+            "کاهش صادرات زمینی به‌طور مستقیم بر درآمدهای ارزی ایران ضربه می‌زند"
+        ],
+        "impact": "کاهش ۲۰٪ درآمد ارزی و فشار بیشتر بر نرخ ارز",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHF5ekRkcndKaWc3dm5QbUlkS1NoR2VBZHlDcldxRTZZdVZyMFJmeHE2OGVfQlNYZFYwNUlHOGRwSnpKeGVzNVVCVjA1NEhaTXdXV01ZQ0FoSi1mbkNIeVd6RzNWSG5lTGx6Vk03MWd5bDIwOEQwejJSZ1c0YmtZaS1VVGdGM25IMWRhX1lEQUlVbERnYnpvaDFGOXVwZGt1NDRYSzRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHF5ekRkcndKaWc3dm5QbUlkS1NoR2VBZHlDcldxRTZZdVZyMFJmeHE2OGVfQlNYZFYwNUlHOGRwSnpKeGVzNVVCVjA1NEhaTXdXV01ZQ0FoSi1mbkNIeVd6RzNWSG5lTGx6Vk03MWd5bDIwOEQwejJSZ1c0YmtZaS1VVGdGM25IMWRhX1lEQUlVbERnYnpvaDFGOXVwZGt1NDRYSzRn",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792794780.0
     },
     {
         "id": "24ea18915b",
@@ -858,6 +983,24 @@
         "clean_url": "https://www.iranintl.com/202610239969",
         "image": "http://www.bing.com/th?id=ONUT.mll3paoVK9FMW2FgqfHHLg&pid=News",
         "timestamp": 1792729680.0
+    },
+    {
+        "id": "94d8532aea",
+        "title_fa": "هشدار اطلاعات آمریکا: طرح‌های ترور پیشرفته علیه ایران",
+        "title_en": "US intel warns Iran assassination plots have reached ‘advanced stages’",
+        "summary": [
+            "اطلاعات آمریکا می‌گوید طرح‌های ترور علیه مقامات ایرانی به مراحل پیشرفته رسیده‌اند",
+            "این خبر تنش‌های نظامی‑سیاسی بین واشنگتن و تهران را تشدید می‌کند و احتمال حمله نیابتی را بالا می‌برد"
+        ],
+        "impact": "افزایش فشار نظامی و احتمال اعمال تحریم‌های جدید",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610241322",
+        "clean_url": "https://www.iranintl.com/en/202610241322",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1792729440.0
     },
     {
         "id": "d1b07704e7",
@@ -5457,152 +5600,5 @@
         "clean_url": "https://www.iranintl.com/en/202610201642",
         "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
         "timestamp": 1792511214.492911
-    },
-    {
-        "id": "9a13ee4047",
-        "title_fa": "ادعای حضور درون‌های اوکراین در مرزهای ایران",
-        "title_en": "IRGC outlet says Ukraine has deployed drone units in countries near Iran",
-        "summary": [
-            "منبع ایرانی ادعا کرد اوکراین در کردستان عراق و مناطق نزدیک ایران هزاران درون کوچک مستقر کرده است.",
-            "نیروی سپاه ممکن است این حضور را «عملیات خصمانهٔ ناتو» بنامد و پاسخ نظامی یا دیپلماتیک بدهد.",
-            "تا به‌حال هیچ مدرک مستقلی برای صحت این ادعاها منتشر نشده؛ احتمال استفاده از این روایت برای توجیه اقدام‌ها تلافی‌جویانه وجود دارد."
-        ],
-        "impact": "افزایش تنش‌های امنیتی و توجیه اقدام‌ها تلافی‌جویانه علیه اوکراین یا ناتو",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610200401",
-        "clean_url": "https://www.iranintl.com/en/202610200401",
-        "image": "https://www.bing.com/th?id=ONUT.hRfOs-xo6EM1SxPVU9Nj_Q",
-        "timestamp": 1792511214.4918041
-    },
-    {
-        "id": "b4a684c64d",
-        "title_fa": "خشونت مستوطنان اسرائیل و ریسک سیاسی نتانیاهو",
-        "title_en": "Settler violence harms Israel’s interests. But for PM, halting it could hurt him politically",
-        "summary": [
-            "نتانیاهو به‌طور غیرمستقیم به گزارش‌های حملات مستوطنان به دیپلمات‌ها و خبرنگاران اشاره کرد.",
-            "او می‌گوید سرکوب این حوادث می‌تواند حمایت داخلی او را در انتخابات تهدید کند.",
-            "فشار داخلی و بین‌المللی برای کنترل خشونت‌های داخلی اسرائیل در حال افزایش است."
-        ],
-        "impact": "کاهش اعتبار سیاسی نتانیاهو و فشار بر دولت برای کنترل خشونت",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/settler-violence-harms-israels-interests-but-for-pm-halting-it-could-hurt-him-politically/",
-        "clean_url": "https://www.timesofisrael.com/settler-violence-harms-israels-interests-but-for-pm-halting-it-could-hurt-him-politically",
-        "image": "https://www.bing.com/th?id=ONUT.S58fZgbUOUEa6ItWFWq3oQ",
-        "timestamp": 1792511214.491499
-    },
-    {
-        "id": "1153de33e0",
-        "title_fa": "اسرائیل سفر غیرمنتظره هگزت برای مذاکره با نتانیاهو را تایید کرد",
-        "title_en": "Israel confirms surprise Hegseth visit for talks with Netanyahu",
-        "summary": [
-            "He met Israeli Prime Minister Benjamin Netanyahu during an unannounced visit to Israel on Monday. Axios reported that the..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610202057",
-        "clean_url": "https://www.iranintl.com/en/202610202057",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1792511214.4903166
-    },
-    {
-        "id": "81d2910f17",
-        "title_fa": "ترکیه به دنبال موافقت پارلمان برای توافق دفاعی سه کشور است",
-        "title_en": "Turkey seeks parliament's approval for three-nation defense agreement",
-        "summary": [
-            "Turkey has submitted a defense pact with Saudi Arabia and Pakistan to parliament for ratification, Reuters reported, citing..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610202762",
-        "clean_url": "https://www.iranintl.com/en/202610202762",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1792511214.4899833
-    },
-    {
-        "id": "7e2fee0e05",
-        "title_fa": "میانجی‌ها طرح صلح جدیدی به ایران و آمریکا دادند",
-        "title_en": "Exclusive: Mediators submit new peace proposal to Iran, US",
-        "summary": [
-            "گروهی از میانجی‌ها طرح جدید صلح بین ایران و آمریکا را ارائه دادند",
-            "پیشنهاد شامل تعهدات هسته‌ای محدود و رفع تحریم‌هاست",
-            "هنوز واکنش رسمی هر دو طرف دریافت نشده",
-            "اگر پذیرفته شود، می‌تواند مسیر دیپلماسی را باز کند"
-        ],
-        "impact": "پیشنهاد می‌تواند به کاهش تحریم‌ها و بازگشت سرمایه‌گذاری منجر شود",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "The New Arab",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeU1FMnlJNjB6eUl6S3M3dG5WMG0zVXZHY19ZU1NNSDBCNy0zSlJOWjBFQmpUdFZENWF2T1FvVHppdlpMcUhUMHluZ0hWbldTWUR0a3lJMTJ5M1d3TldmWXY5Yy1vX096YjZlUE5iYklzWFlOaVFacndNSXZ5WVYwc2o4RkN1bGlQc0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeU1FMnlJNjB6eUl6S3M3dG5WMG0zVXZHY19ZU1NNSDBCNy0zSlJOWjBFQmpUdFZENWF2T1FvVHppdlpMcUhUMHluZ0hWbldTWUR0a3lJMTJ5M1d3TldmWXY5Yy1vX096YjZlUE5iYklzWFlOaVFacndNSXZ5WVYwc2o4RkN1bGlQc0E",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792509262.0
-    },
-    {
-        "id": "523bd71cc7",
-        "title_fa": "ایران نزدیک‌ترین روابط را با روسیه به نمایش می‌گذارد که در تضاد با ترامپ است",
-        "title_en": "Iran touts closest ever ties with Russia, contradicting Trump",
-        "summary": [
-            "Russia's top diplomat is visiting Tehran for the first time since the U.S. launched its war with Iran, aiming, he says, to avert a return to major hostilities."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/russian-envoy-says-visit-iran-100748660.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/russian-envoy-says-visit-iran-100748660.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/fea40a8380336072be59368fb7b2546150413160b78902da09753fd40abd839c/lightyear_networkapi/resizefill_w640;quality_80;format_webp/https://media.zenfs.com/en/video.cbsnewsvideos.com/d27c8a90eec54752341362db1f3ab49d.jpg",
-        "timestamp": 1792508280.0
-    },
-    {
-        "id": "51430e5769",
-        "title_fa": "سرهنگ ارشد مونیر در تهران به دیپلماسی می‌پردازد",
-        "title_en": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
-        "summary": [
-            "سرهنگ ارشد مونیر در تهران به بررسی راه‌های دیپلماسی برای جلوگیری از جنگ آمریکا‑ایران پرداخت",
-            "ایران و پاکستان امنیت مرزی را به‌عنوان پیش‌نیاز مطرح کردند",
-            "مذاکرات می‌تواند فشارهای نظامی را کاهش دهد",
-            "اما عدم توافق فنی در عبور کالاها نشان از عدم پیشرفت واقعی دارد"
-        ],
-        "impact": "اگر دیپلماسی موفق شود، خطر تصاعد نظامی در خاورمیانه کاهش می‌یابد",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2xDaXQ1MndnaGxSZHBMeU9SUmNucnlNc0otOGhWWWpnVVBnYS15ak1VOVA5SjRFTWszZ2JFSGJWTEdkYmZtRDgwMjdwbGVuRW5sQUUzZ1U2VUhNdG1nNlZjMHJJNGg3dS1GdFNHWlE4UFdwMl9EZnZfQmdQb2JJWk1hamxka2xJZUtHOGlmeC1aRVdKY01JbTFjRU1YRE9ZNW8wZE1NQWxLR3ZSWFdfOWZwZlHSAboBQVVfeXFMUFZrV01TYlprWmw1d0hDX0ItSnZIQk52eE1FX29WSGY0d3AwaGZIS2kzNTJJVl9GRVh3aFZJS1NNb3JxLUh6Sk1wVXRndzdGeEVlQS1lMXJNUm1FN1I0X01ZNThYaVRoYWdBbE9JWHVJYlVsbG1PLXN4R3Fwd2wtRDhyQnRscThRTHEtUlVneHVTeEhySi1nYm5MbzZlcXZxcUR2M0VkQ3A1NUJFa1JMVHBJTmNYY0l4c0l3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2xDaXQ1MndnaGxSZHBMeU9SUmNucnlNc0otOGhWWWpnVVBnYS15ak1VOVA5SjRFTWszZ2JFSGJWTEdkYmZtRDgwMjdwbGVuRW5sQUUzZ1U2VUhNdG1nNlZjMHJJNGg3dS1GdFNHWlE4UFdwMl9EZnZfQmdQb2JJWk1hamxka2xJZUtHOGlmeC1aRVdKY01JbTFjRU1YRE9ZNW8wZE1NQWxLR3ZSWFdfOWZwZlHSAboBQVVfeXFMUFZrV01TYlprWmw1d0hDX0ItSnZIQk52eE1FX29WSGY0d3AwaGZIS2kzNTJJVl9GRVh3aFZJS1NNb3JxLUh6Sk1wVXRndzdGeEVlQS1lMXJNUm1FN1I0X01ZNThYaVRoYWdBbE9JWHVJYlVsbG1PLXN4R3Fwd2wtRDhyQnRscThRTHEtUlVneHVTeEhySi1nYm5MbzZlcXZxcUR2M0VkQ3A1NUJFa1JMVHBJTmNYY0l4c0l3",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792507398.0
-    },
-    {
-        "id": "05ec4a3369",
-        "title_fa": "ایران انتقال اورانیوم غنی‌شده را رد کرد؛ نتانیاهو سرنگونی می‌خواهد",
-        "title_en": "Iran security chief rejects moving enriched uranium abroad, as Netanyahu vows to topple regime",
-        "summary": [
-            "مسئولان هسته‌ای ایران اعلام کردند که اورانیوم غنی‌شده را به خارج نمی‌فرستند",
-            "نتانیاهو تأکید کرد سرنگونی رژیم هدف اصلی اسرائیل است"
-        ],
-        "impact": "فشار بین‌المللی برای محدود کردن برنامه هسته‌ای افزایش می‌یابد",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Times of Israel on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-security-chief-rejects-moving-enriched-uranium-abroad-as-netanyahu-vows-to-topple-regime/ar-AA2fGenK",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-security-chief-rejects-moving-enriched-uranium-abroad-as-netanyahu-vows-to-topple-regime/ar-AA2fGenK",
-        "image": "http://www.bing.com/th?id=ONUT.K9PgAt_DHVk29D9WfqF8mg&pid=News",
-        "timestamp": 1792507144.0
     }
 ]
