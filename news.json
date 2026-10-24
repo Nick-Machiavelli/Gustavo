@@ -1,5 +1,79 @@
 [
     {
+        "id": "9042252072",
+        "title_fa": "نامهٔ انتقادی به ترامپ و ادعای جنگ ایران",
+        "title_en": "Letter: The disgrace and depravity of Trump",
+        "summary": [
+            "متن نامه ترکیبی از توهین و ادعاهای بی‌پایه دربارهٔ حملهٔ آمریکا به ایران است.",
+            "بیان «جنگ انتخابی» و قتل سران ایران هیچ‌گونه منبع رسمی ندارد و به‌نظر می‌رسد هدفش تحریک افکار عمومی است.",
+            "این نوع محتوا می‌تواند به‌سختی بر تصمیم‌گیری‌های واقعی سیاست‌گذاران تأثیر بگذارد."
+        ],
+        "impact": "افزایش تنش‌های افکار عمومی بدون تغییر در سیاست واقعی.",
+        "tag": "ترامپ",
+        "urgency": 3,
+        "sentiment": -1.0,
+        "source": "The Times-Tribune",
+        "url": "https://www.thetimes-tribune.com/2026/10/24/letter-the-disgrace-and-depravity-of-trump/",
+        "clean_url": "https://www.thetimes-tribune.com/2026/10/24/letter-the-disgrace-and-depravity-of-trump",
+        "image": "https://www.thetimes-tribune.com/wp-content/uploads/2024/10/Times-Tribune2.jpg",
+        "timestamp": 1792834230.076387
+    },
+    {
+        "id": "72d5148928",
+        "title_fa": "هگن دربارهٔ اظهارات جنجالی ترامپ هشدار داد",
+        "title_en": "Hagen om omstridt Trump-utspill: – På tide at det sies",
+        "summary": [
+            "کارل آی. هگن، پیشین رئیس فرپ نروژ، پس از آشفتگی‌های فرانسه به اظهارات تحریک‌آمیز ترامپ واکنش نشان داد.",
+            "هگن معتقد است که چنین بیانیه‌هایی می‌توانند به تشدید تنش‌های بین‌المللی منجر شوند.",
+            "اگرچه این هشدار در سطح بین‌المللی وزن کمی دارد، اما نشان‌دهندهٔ نگرانی برخی سیاستمداران اروپایی است."
+        ],
+        "impact": "آگاهی عمومی نسبت به ریسک‌های دیپلماتیک ناشی از سخنان بی‌پروای ترامپ افزایش می‌یابد.",
+        "tag": "ترامپ",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Nettavisen on MSN",
+        "url": "https://www.msn.com/nb-no/nyheter/other/hagen-om-omstridt-trump-utspill-på-tide-at-det-sies/ar-AA2fYbuL?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/nb-no/nyheter/other/hagen-om-omstridt-trump-utspill-på-tide-at-det-sies/ar-AA2fYbuL",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792834230.0760698
+    },
+    {
+        "id": "96622dc95f",
+        "title_fa": "ترامپ هشدار به عملیات نظامی جدید آمریکا علیه ایران",
+        "title_en": "Trump Warns of Possible New US Military Operation Against Iran",
+        "summary": [
+            "ترامپ در بیانیه‌ای خطر احتمالی عملیات نظامی جدید علیه ایران را مطرح کرد.",
+            "اگرچه او دیگر در سمت اجرایی نیست، اما سخنانش می‌تواند فشار سیاسی بر دولت فعلی آمریکا ایجاد کند.",
+            "این هشدار می‌تواند به‌سرعت به گسترش تنش‌های نظامی در خلیج فارس منجر شود."
+        ],
+        "impact": "افزایش احتمال واکنش نظامی ایران و تشدید تنش‌های منطقه‌ای.",
+        "tag": "ایران",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Modern Diplomacy",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMldnTDh6RTlnd0w5Zm1ObjZVcU1pN196X3ZWQUNkbDg1M21abDFmUTU5MGpyRk1fcWVtS2hyOXRHaFFyOGUtMU5VX0FWbHNFMVBGdzdIZkNSVHN3eGdJRzMtWHlwM2NUYWVMSU5vNEtQc2E5YnczS2xEMDdDd2psY3Y4bDJWX3QyZ2lQMWQ3V0RpTEJad05oQm9vT0NkcENMVVFR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMldnTDh6RTlnd0w5Zm1ObjZVcU1pN196X3ZWQUNkbDg1M21abDFmUTU5MGpyRk1fcWVtS2hyOXRHaFFyOGUtMU5VX0FWbHNFMVBGdzdIZkNSVHN3eGdJRzMtWHlwM2NUYWVMSU5vNEtQc2E5YnczS2xEMDdDd2psY3Y4bDJWX3QyZ2lQMWQ3V0RpTEJad05oQm9vT0NkcENMVVFR",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792832324.0
+    },
+    {
+        "id": "7b4fcdcfb8",
+        "title_fa": "چرا دور جدید در مناقشه ایران و آمریکا می‌تواند ویرانگرترین مرحله باشد؟",
+        "title_en": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
+        "summary": [
+            "Why a new round in the U.S.-Iran conflict could be the most devastating yet CBC"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGxMSnE1UkdfNGtYV2lnR1hIUFlIdXo0bVFHdXNTaktManl6WFRRZEJCSUoyWVhOeGhnSkQtMjdxM0xVZTFQeTFEaG5TR2gwSk80RzZIODBWd2kyT1FRdktwZEhKSHhaNGlZVlJmNjl0Q0Qyd0loaFp1cXdEZkZ5LUlUdEY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGxMSnE1UkdfNGtYV2lnR1hIUFlIdXo0bVFHdXNTaktManl6WFRRZEJCSUoyWVhOeGhnSkQtMjdxM0xVZTFQeTFEaG5TR2gwSk80RzZIODBWd2kyT1FRdktwZEhKSHhaNGlZVlJmNjl0Q0Qyd0loaFp1cXdEZkZ5LUlUdEY",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792828800.0
+    },
+    {
         "id": "dc581f8628",
         "title_fa": "رئیس اطلاعات هشدار داد که ایران بیشتر تلاش می‌کند تا پرسنل آمریکایی در خاورمیانه را هدف قرار دهد",
         "title_en": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
@@ -217,6 +291,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OOFg3U2wtNk1Ncll0WnQzSzVQM09oVjJsazdyVXVZWlVDMzNGMkt1aTNhVmhwME5adXRKZEFURFVHVzBpbWxhLVhiZWpEdU42X0E",
         "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792795449.0
+    },
+    {
+        "id": "28e14e8e90",
+        "title_fa": "زِلنسکی تمایلی به مذاکرات صلح نشان نمی‌دهد",
+        "title_en": "Kiev not interested in resolving conflict via talks — BSW expert",
+        "summary": [
+            "کارشناس خارجی BSW می‌گوید زلنسکی از مذاکرات صلح در اوکراین دوری می‌کند.",
+            "این موضع باعث می‌شود امیدهای بین‌المللی برای پایان جنگ کاهش یابد.",
+            "اگر واقعاً تمایلی به گفت‌وگو نیست، فشارهای دیپلماتیک غرب ممکن است تضعیف شود."
+        ],
+        "impact": "کاهش احتمال رسیدن به توافق صلحی در اوکراین و ادامهٔ هزینه‌های انسانی و مالی.",
+        "tag": "اوکراین",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2207201",
+        "clean_url": "https://tass.com/world/2207201",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1792795320.0
     },
     {
         "id": "fc44281cf0",
@@ -950,6 +1043,44 @@
         "clean_url": "https://www.msn.com/en-us/money/general/you-can-t-eat-in-these-michelin-starred-restaurants-here-s-why/ar-AA2fTJzB",
         "image": "https://www.bing.com/th?id=ONUT.aX0yj3d-Wkxt0Z-BBnvrdg",
         "timestamp": 1792751430.844486
+    },
+    {
+        "id": "6f8e0848f2",
+        "title_fa": "فضای کاهش نرخ کلید بانک روسیه محدود می‌شود",
+        "title_en": "Space for key rate cuts remains — Central Bank chief",
+        "summary": [
+            "نبی‌اللهی اعلام کرد که امکان کاهش نرخ بهره در سال آینده کمتر شده است.",
+            "این تصمیم نشان‌دهندهٔ فشارهای تورمی و کسری بودجه است که بانک روسیه نمی‌خواهد به‌سرعت رفع کند.",
+            "سیاست پولی سختگیرانه‌تر می‌تواند رشد اقتصادی را تحت فشار قرار دهد."
+        ],
+        "impact": "قیمت‌گذاری وام‌ها برای شرکت‌ها و خانوارهای روسی سخت‌تر می‌شود.",
+        "tag": "نرخ‌کلید",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2207115",
+        "clean_url": "https://tass.com/economy/2207115",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261023/1490833.jpg",
+        "timestamp": 1792751160.0
+    },
+    {
+        "id": "d80762268d",
+        "title_fa": "آی‌ای‌ای‌ای پیش‌بینی می‌کند انرژی هسته‌ای تا ۲۰۶۰ سه برابر شود",
+        "title_en": "Nuclear power could more than triple by 2060, UN agency says",
+        "summary": [
+            "رآفائل گروسسی، مدیرکل آژانس بین‌المللی انرژی اتمی، پیش‌بینی می‌کند استفاده از هسته‌ انرژی تا سال ۲۰۶۰ بیش از سه برابر شود.",
+            "رشد تقاضا برای مراکز داده‌های هوش مصنوعی و برق‌پایدار، عامل اصلی این افزایش است.",
+            "هسته‌ انرژی به‌عنوان گزینه‌ای ایمن‌تر نسبت به سوخت‌های فسیلی، جایگاه خود را در ترکیب انرژی جهانی تقویت می‌کند."
+        ],
+        "impact": "سرمایه‌گذاری‌های بزرگ در ساخت نیروگاه‌های هسته‌ای و تغییرات در سیاست‌های انرژی ملی.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "The Mainichi",
+        "url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/028000c",
+        "clean_url": "https://mainichi.jp/english/articles/20261024/p2g/00m/0in/028000c",
+        "image": "https://www.bing.com/th?id=ONUT.f9wEcr1895gS4j4exp3czg",
+        "timestamp": 1792747820.0
     },
     {
         "id": "1c49ad752c",
@@ -5487,129 +5618,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KMWZ4dVIxcnk0QkJUQ1NjQkNlR0hINEJWT2pUMnBrSXRFTjd6aTg3MmhqanpCQkNkaDlDeU4yTnNCdjd3eEdjeFVVZHlXRmpIX2tOcXdCZHdOejlLbGozbnJfclNjVHgxTnptR2tQbEI5TUw3NUdvNEZzaEJ4V1U",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792524300.0
-    },
-    {
-        "id": "215039c7bf",
-        "title_fa": "بسنِت: تنش ایران تصمیم‌گیرندهٔ قیمت نفت ۲۰۲۶",
-        "title_en": "Secretary Bessent says Iran conflict will determine if oil prices go down in 2026",
-        "summary": [
-            "وزیر انرژی آمریکا گفت ادامهٔ تنش با ایران می‌تواند قیمت نفت را تا سال ۲۰۲۶ تحت‌تأثیر بگذارد.",
-            "این ریسک بلندمدت نشان می‌دهد که بازار انرژی به تحولات ژئوپلیتیک حساس است."
-        ],
-        "impact": "اگر تنش ادامه یابد، قیمت نفت ممکن است بالا بماند و اقتصاد جهانی تحت فشار قرار گیرد.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "KSNV",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNV9XZGxyMmViazN0ZVhfVnh1MTk0OFFRNURVZkctckFZOE9vV1J3bDVjeGh2NDdMTmtUWF9qTEFhbW83NDJrUnVjMFp3UldwalNBTjEwNUl2WVFfTTMxbVFablNyVGl0cEUzS29FQ2QyaWVDVU8tTDJsX2tSRjZDMjN0SjZ6azYtMThGOWZFRG11dlpjZHJkZlhyX0pWSUVmc0tiY3FMcjU2QXFwYklrZ2k2aG5MWFFQckNhWGo3N3VjcUhMWWVmZFJEZnExbHJaakdYa2hXNjhPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNV9XZGxyMmViazN0ZVhfVnh1MTk0OFFRNURVZkctckFZOE9vV1J3bDVjeGh2NDdMTmtUWF9qTEFhbW83NDJrUnVjMFp3UldwalNBTjEwNUl2WVFfTTMxbVFablNyVGl0cEUzS29FQ2QyaWVDVU8tTDJsX2tSRjZDMjN0SjZ6azYtMThGOWZFRG11dlpjZHJkZlhyX0pWSUVmc0tiY3FMcjU2QXFwYklrZ2k2aG5MWFFQckNhWGo3N3VjcUhMWWVmZFJEZnExbHJaakdYa2hXNjhPdw",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792523242.0
-    },
-    {
-        "id": "c550d10266",
-        "title_fa": "دو مرد در بریتانیا به ظن کمک به ایران در مورد توطئه مشکوک در یک پایگاه هوایی تحت کنترل ایالات متحده بازداشت شدند.",
-        "title_en": "2 men rearrested in U.K. on suspicion of assisting Iran over suspected plot at a U.S.-run air base",
-        "summary": [
-            "British police have rearrested two men suspected of assisting Iran's intelligence service in a plot at a U.S.-run air base."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "The Tribune-Democrat",
-        "url": "https://www.tribdem.com/news/latest_news/2-men-rearrested-in-u-k-on-suspicion-of-assisting-iran-over-suspected-plot-at/article_9e02a4a5-9d01-52b7-a840-e4fcf6918d06.html",
-        "clean_url": "https://www.tribdem.com/news/latest_news/2-men-rearrested-in-u-k-on-suspicion-of-assisting-iran-over-suspected-plot-at/article_9e02a4a5-9d01-52b7-a840-e4fcf6918d06.html",
-        "image": "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/e/b3/eb33f189-a83d-5f2a-996d-f11bbd04ffb6/6acd21f1c730d.image.jpg?crop=1763,926,0,124&resize=1200,630&order=crop,resize",
-        "timestamp": 1792521780.0
-    },
-    {
-        "id": "f289d63907",
-        "title_fa": "ایران معامله US را برای ضربه به ترامپ به تعویق",
-        "title_en": "Iran stalling on deal with US to hurt Trump politically ahead of midterms, Iranian officials say",
-        "summary": [
-            "مقامات ایرانی می‌گویند تعلل در توافق هسته‌ای هدف سیاسی است تا ترامپ را پیش از انتخابات میانه‌دوره تضعیف کند",
-            "این استراتژی باعث تشدید تنش‌های منطقه‌ای و ریسک حملات ناوبری در هرمز می‌شود؛ دو تانکر به مین خوردند",
-            "ادامه مذاکرات می‌تواند تحریم‌های جدید آمریکا را بر ایران تحمیل کند"
-        ],
-        "impact": "تعلیق مذاکرات می‌تواند قیمت نفت خلیج فارس را نوسان دهد و فشار مالی بر ایران را افزایش دهد",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/news/other/iran-stalling-on-deal-with-us-to-hurt-trump-politically-ahead-of-midterms-iranian-officials-say/ar-AA2fFbLu",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-stalling-on-deal-with-us-to-hurt-trump-politically-ahead-of-midterms-iranian-officials-say/ar-AA2fFbLu",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/Screenshot-2026-10-19-121857.png",
-        "timestamp": 1792520700.0
-    },
-    {
-        "id": "cbe1c05174",
-        "title_fa": "برنامه ویتکاف برای بازدید از روسیه در 21 اکتبر تایید شد - منبع",
-        "title_en": "Witkoff's plans to visit Russia on October 21 confirmed — source",
-        "summary": [
-            "The source did not specify whether the US Presidential Special Envoy's meeting with the Russian leadership would take place in St. Petersburg"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2204919",
-        "clean_url": "https://tass.com/world/2204919",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261020/1490465.jpg",
-        "timestamp": 1792519800.0
-    },
-    {
-        "id": "97e68b0f24",
-        "title_fa": "علیرغم ترس از انتخابات، آمریکا و اسرائیل موافقند: بیایید دوباره به ایران حمله کنیم",
-        "title_en": "Despite election fears, US and Israel agree: let’s attack Iran again",
-        "summary": [
-            "Despite election fears, US and Israel agree: let’s attack Iran again The Times"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEkxc2tXRlNCeE5faE9EalloUGxNZ2s2bWthemNyRHV0WXY5Z1h4T19tdzVXdmVFeUpkV0xyRVktYXp2VFFEak9FTWQ2aEhqSzVKR2VyeXBKenpaZlQtNmN4Z0d4d2JzaldYWW14VXduWmVZeWlGYW1iMklya0VnR1hfTFhxV1NPZTFkbkFRRkszbXJsYm9YSGk2aVBHU2RRbWc4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaEkxc2tXRlNCeE5faE9EalloUGxNZ2s2bWthemNyRHV0WXY5Z1h4T19tdzVXdmVFeUpkV0xyRVktYXp2VFFEak9FTWQ2aEhqSzVKR2VyeXBKenpaZlQtNmN4Z0d4d2JzaldYWW14VXduWmVZeWlGYW1iMklya0VnR1hfTFhxV1NPZTFkbkFRRkszbXJsYm9YSGk2aVBHU2RRbWc4",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792519575.0
-    },
-    {
-        "id": "33cd50e2de",
-        "title_fa": "نتانیاهو خواستار سقوط رژیم ایران شد.",
-        "title_en": "Netanyahu calls for Iran regime's fall; Iran says ready for war with US, Israel TV7 Israel - 20 Oct.",
-        "summary": [
-            "Netanyahu calls for Iran regime's fall; Iran says ready for war with US, Israel TV7 Israel - 20 Oct. TV7 Israel News"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQXZCTF9HNzBubVFTN3UwVUNqN2J5Tjl1MVRadlJmMHlHSXhHR3VBSTJ2QThfU3BfTHV1blg4WHg0U2tJTEZ3YWpuSmhqRjJfZklFY1ZyMTlVMDVFc0lDR1B2TU5FRGZCLWpQdFBLOWNkRVNuN3ZN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmQXZCTF9HNzBubVFTN3UwVUNqN2J5Tjl1MVRadlJmMHlHSXhHR3VBSTJ2QThfU3BfTHV1blg4WHg0U2tJTEZ3YWpuSmhqRjJfZklFY1ZyMTlVMDVFc0lDR1B2TU5FRGZCLWpQdFBLOWNkRVNuN3ZN",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792519365.0
-    },
-    {
-        "id": "c7519dfc54",
-        "title_fa": "بازداشت مجدد دو نفر در پرونده اطلاعاتی مرتبط با ایران",
-        "title_en": "UK police re-arrest two men in Iran-linked intelligence investigation",
-        "summary": [
-            "پلیس بریتانیا دو مرد را در ارتباط با شبکه اطلاعاتی ایران بازداشت کرد",
-            "این بازداشت پس از تحقیقات درباره جاسوسی و انتقال اطلاعات حساس انجام شد",
-            "هنوز دلایل کافی برای اتهام‌گذاری کامل اعلام نشده است"
-        ],
-        "impact": "فشار بر شبکه‌های جاسوسی ایران در اروپا",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610205732",
-        "clean_url": "https://www.iranintl.com/en/202610205732",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1792519020.0
     }
 ]
