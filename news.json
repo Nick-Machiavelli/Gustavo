@@ -1,5 +1,25 @@
 [
     {
+        "id": "0425ed5446",
+        "title_fa": "نتانیاهو: ۱۰٪ مانده برای نابودی برنامه هسته‌ای ایران",
+        "title_en": "Netanyahu: «Nos queda un 10 % para destruir el programa nuclear iraní»",
+        "summary": [
+            "نتانیاهو ادعا کرد ۹۰٪ عملیات ضد برنامه هسته‌ای ایران انجام شده",
+            "او ۱۰٪ باقی‌مانده را به‌عنوان نقطهٔ حساس پیش‌بینی کرد و به انتخابات داخلی اسرائیل ربط داد",
+            "این حرف‌ها بدون جزئیات فنی و تنها به‌عنوان فشار سیاسی مطرح شد",
+            "احتمال اجرای عملیاتی واقعی در کوتاه‌مدت کم است اما پیام تهدیدی برای تهران است"
+        ],
+        "impact": "تهدید لفظی می‌تواند فشار دیپلماتیک بر ایران را افزایش دهد و ریسک تشدید تنش‌های نظامی را بالا ببرد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Noticias de Israel",
+        "url": "https://israelnoticias.com/gobierno/netanyahu-nos-queda-un-10-para-destruir-el-programa-nuclear-irani/",
+        "clean_url": "https://israelnoticias.com/gobierno/netanyahu-nos-queda-un-10-para-destruir-el-programa-nuclear-irani",
+        "image": "https://www.bing.com/th?id=ONUT.MKd7t6xVi1DauJxVrZkL8g",
+        "timestamp": 1792971134.208744
+    },
+    {
         "id": "4315d9ec0d",
         "title_fa": "انرژی‌شوک، تورم امروز: اثر جنگ‌ها",
         "title_en": "Column: Today’s inflation is really an energy shock",
@@ -1061,6 +1081,46 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBsQXJ4YU5ycmhZRVMxSGhhLVBUMFo5NXBLM3FJMVM2cU53ZExHcmlZRDM5RXU2ZWtnUXNaOFprWXF1eWNEREhEUWtlejI3bWN0bEQyaWRVUGpIMkRNMF91NVRKVXIwdnNlSDhLWmdUeU4yVHB6Sm93TnNFTnYzQk9HMHpIZDBJZ0ZRcU1QTUZSX2ctZzRzRUF3RTRZTUlvV3ZLWnI5MmhCckROTHdZbQ",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792884804.0
+    },
+    {
+        "id": "f4e7abc331",
+        "title_fa": "انتخابات ۲۰۲۶ اسرائیل؛ رقابت بین نتانیاهو و آئزنکوت",
+        "title_en": "Israel Elections",
+        "summary": [
+            "انتخابات ۲۰۲۶ اسرائیل با اختلاف ۴.۵ کرسی بین دو بلوک اصلی در آستانه رأی‌گیری است",
+            "آئزنکوت توانسته پایهٔ لیوک را در شهرهایی مثل دی‌مونا تضعیف کند",
+            "نتانیاهو برای جذب حمایت ترامپ و فشار بر رقبای داخلی تلاش می‌کند",
+            "هیچ حزبی به تنهایی به ۶۱ کرسی لازم برای تشکیل دولت نمی‌رسد"
+        ],
+        "impact": "عدم توانایی تشکیل دولت می‌تواند به بی‌ثباتی سیاسی داخلی اسرائیل و تأثیرات جانبی بر سیاست‌های منطقه‌ای منجر شود",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "jpost.com",
+        "url": "https://www.jpost.com/tags/israel-elections",
+        "clean_url": "https://www.jpost.com/tags/israel-elections",
+        "image": "https://images.jpost.com/image/upload/q_auto/c_fill,g_faces:center,h_448,w_632/741642",
+        "timestamp": 1792884728.0
+    },
+    {
+        "id": "cff8c5d07b",
+        "title_fa": "بحرین حملات موشکی حوثی به عربستان را محکوم کرد",
+        "title_en": "Bahrain condemns Iran-backed Houthi missile attacks on Saudi Arabia",
+        "summary": [
+            "بحرین حملات موشکی حوثی به شهرهای مقدس مکه و مدینه در عربستان را «عمل تروریستی» نامید",
+            "این حملات را به حمایت ایران نسبت داد و خواستار توقف فوری شد",
+            "دادستانی ایران کمدین سعید شکیبا را به‌خاطر حمایت از اسرائیل و خاندان پهلوی متهم کرد",
+            "دو رویداد نشان‌دهنده تنش‌های چند‌جانبه در خلیج فارس و فشار داخلی ایران است"
+        ],
+        "impact": "تشدید تنش‌های امنیتی خلیج فارس می‌تواند به افزایش حضور نظامی خارجی و محدودیت‌های اقتصادی برای ایران منجر شود",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610255663",
+        "clean_url": "https://www.iranintl.com/en/202610255663",
+        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
+        "timestamp": 1792884727.0
     },
     {
         "id": "19031a748d",
@@ -5554,60 +5614,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BRmRGc3ZtM0I1MHFweHAyVW80Z3hnUkpVQmprX1ZIVDBZMXFvWGswdHBVSUxaX1M4WWZ4c21pU0xKYTdmS0NtQWk0OFk1RVNYS25iQ0UwZDBfN0NPLTgwS0ZaZFZiZEFtMTBYLVFZR3VoWUNnNzNwTEdYTF9sOEU",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792645205.0
-    },
-    {
-        "id": "93ef3769ac",
-        "title_fa": "هفت کشتی نیروی دریایی سپاه هدف حمله شد",
-        "title_en": "Iran's IRGC Navy says seven vessels hit, warns US of wider response",
-        "summary": [
-            "هفت کشتی نیروی دریایی سپاه توسط نیروهای آمریکایی مورد اصابت قرار گرفت",
-            "سپاه هشدار داد در صورت ادامه، پاسخ گسترده‌تری خواهد داد"
-        ],
-        "impact": "تشدید تنش‌های دریایی خلیج فارس و خطر تصادم نظامی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjlJZ1lSN1BZWFJWdDlKUWh3LWRselVrNHpobGthcDVzdnZ6bjJfM1dZcTJONUtTdURHc0ZaQkk0cUhzTlp0NVZocWlTNEhIWTB4TkN6VVZPMHdfN2ZsYXVmY2NISEN6dnRERW01T2dXbXNsb2dMNHl1UFdiTW1LVzJsZU1KYThwVDZ5OHdvYzZQMEZ6djduOERMNEI4YVVVTDFqVHBNZlpOcmJiNnppOVNJVjVzbUU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjlJZ1lSN1BZWFJWdDlKUWh3LWRselVrNHpobGthcDVzdnZ6bjJfM1dZcTJONUtTdURHc0ZaQkk0cUhzTlp0NVZocWlTNEhIWTB4TkN6VVZPMHdfN2ZsYXVmY2NISEN6dnRERW01T2dXbXNsb2dMNHl1UFdiTW1LVzJsZU1KYThwVDZ5OHdvYzZQMEZ6djduOERMNEI4YVVVTDFqVHBNZlpOcmJiNnppOVNJVjVzbUU",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792644000.0
-    },
-    {
-        "id": "0634a31c23",
-        "title_fa": "ذخایر نفت ناوگان سایه‌ای ایران خالی شد",
-        "title_en": "Iran's Shadow Fleet Oil Stockpiles Run Dry as U.S. Blockade Wipes Out $24.9 Billion in Revenue",
-        "summary": [
-            "بلوکاد نیروی‌دریایی آمریکا باعث تخلیه کامل 135 میلیون بشکه نفت ذخیره‌شده شد",
-            "این نفت 30‑40٪ مالیات دولت را تشکیل می‌داد؛ از دست رفتن آن فشار اقتصادی شدیدی ایجاد می‌کند",
-            "بازارهای آسیایی دیگر مسیر انتقال نفت ایران را از دست دادند"
-        ],
-        "impact": "کاهش درآمد دولت ایران تا حدود ۲۵ میلیارد دلار و تشدید بحران ارزی",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "finance.biggo",
-        "url": "https://finance.biggo.com/news/9d57916b-717f-4b10-8cb3-c8583599d27e",
-        "clean_url": "https://finance.biggo.com/news/9d57916b-717f-4b10-8cb3-c8583599d27e",
-        "image": "https://img.biggo.com/Bfn_haQodGRv3plBFZLC0LbHzZDR5iQ57JN6-YDifr0/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzlkNTc5MTZiLTcxN2YtNGIxMC04Y2IzLWM4NTgzNTk5ZDI3ZV8xNzkyNjQ0MDA1X2RlZmF1bHQuanBn.webp",
-        "timestamp": 1792643700.0
-    },
-    {
-        "id": "d3d1452f8a",
-        "title_fa": "ترامپ: مذاکرات با ایران نیست، اقدام نزدیک است",
-        "title_en": "Trump says US ‘not negotiating’ with Iran, something will happen ‘fairly soon’",
-        "summary": [
-            "ترامپ اعلام کرد ایالات متحده با ایران مذاکره نمی‌کند",
-            "او پیش‌بینی کرد اقدامی سریع علیه ایران رخ خواهد داد"
-        ],
-        "impact": "افزایش فشار روانی بر ایران و احتمال اقدام‌ها نظامی یا اقتصادی",
-        "tag": "سیاست",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjlNTzRfMEZubjk4RHlyaUxMSi1LSFMwaEMyRlhTTVdFU1paQk1RbVJZMXh0N0NVR3ZNemM1VGlGOUtrLTdyYl90eG91bzJiTkJnTko2TXF6eEdfRlhZUFJjSXBjYVRqSC1wTFpDOC1KZUdUTTgyZ2E0UXJKaFJpazQxdHY2a1RQNmFUT0dOaENLRzJSRERweDFOZmFwZnd0TEFjUkZWNkJnNTZXdkpmMUN6ZlY0TmZSYndJMXVCVVFZc2Nw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjlNTzRfMEZubjk4RHlyaUxMSi1LSFMwaEMyRlhTTVdFU1paQk1RbVJZMXh0N0NVR3ZNemM1VGlGOUtrLTdyYl90eG91bzJiTkJnTko2TXF6eEdfRlhZUFJjSXBjYVRqSC1wTFpDOC1KZUdUTTgyZ2E0UXJKaFJpazQxdHY2a1RQNmFUT0dOaENLRzJSRERweDFOZmFwZnd0TEFjUkZWNkJnNTZXdkpmMUN6ZlY0TmZSYndJMXVCVVFZc2Nw",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792643231.0
     }
 ]
