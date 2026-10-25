@@ -1,5 +1,43 @@
 [
     {
+        "id": "f1214cea74",
+        "title_fa": "استراتژی نهایی نتانیاهو: ترساندن مردم",
+        "title_en": "Netanyahu's final campaign strategy: Fear",
+        "summary": [
+            "نتانیاهو در کمپین انتخاباتی خود بر ترس از تهدیدات امنیتی تأکید می‌کند",
+            "او با برجسته‌سازی خطرات ایران و حوثی‌ها سعی دارد رأی‌داران را به سمت خود جذب کند",
+            "این استراتژی می‌تواند فضای سیاسی را به سمت رادیکال‌سازی سوق دهد"
+        ],
+        "impact": "تقویت حمایت داخلی از سیاست‌های سخت‌گیرانه امنیتی اسرائیل",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-my/news/other/netanyahu-s-final-campaign-strategy-fear/ar-AA2g2uHQ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-my/news/other/netanyahu-s-final-campaign-strategy-fear/ar-AA2g2uHQ",
+        "image": "https://www.bing.com/th?id=ONUT.4qfAr7SWx9mlpGeqe0YCuw",
+        "timestamp": 1792950517.9408839
+    },
+    {
+        "id": "5dff90d400",
+        "title_fa": "خبر مثبت ترامپ که نباید فاش می‌شد",
+        "title_en": "This Trump good news was never supposed to get out",
+        "summary": [
+            "مقاله‌ای ادعا می‌کند خبر مثبت درباره ترامپ به‌صورت مخفیانه منتشر شده است",
+            "جزئیات خبر نامشخص است و به‌نظر می‌رسد هدف توجیه سیاست‌های اوست",
+            "بدون شفافیت، چنین ادعایی می‌تواند اعتماد عمومی به رسانه‌ها را کاهش دهد"
+        ],
+        "impact": "افزایش شایعات پیرامون ترامپ و تضعیف اعتبار رسانه‌ها",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Stephen Gardner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/this-trump-good-news-was-never-supposed-to-get-out/vi-AA2g1QUa?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/this-trump-good-news-was-never-supposed-to-get-out/vi-AA2g1QUa",
+        "image": "https://www.bing.com/th?id=ONUT.bKV8iwo8ieVAyAQ5w_2g3A",
+        "timestamp": 1792950517.9405766
+    },
+    {
         "id": "408a358667",
         "title_fa": "هرزوگ باید نتانیاهو و آیزنکوت را متحد کند",
         "title_en": "Israel needs unity: Why Herzog must bring Netanyahu, Eisenkot together",
@@ -189,6 +227,25 @@
         "clean_url": "https://www.firstpost.com/opinion/trumps-midterm-calculus-could-decide-what-happens-next-in-the-iran-war-14055200.html",
         "image": "https://images.firstpost.com/uploads/2026/10/Representational-Image-10-2026-10-e193bfa24c1a583f6965350e0f6425a2-1200x675.jpg?im=Resize,width=720,aspect=fit,type=normal",
         "timestamp": 1792929120.0
+    },
+    {
+        "id": "5d08ecedc6",
+        "title_fa": "عربستان سعودی موشک‌ها و پهپادهای حوثی را مهار کرد",
+        "title_en": "Saudi Arabia intercepts Houthi missiles, drones as Yemen fighting continues",
+        "summary": [
+            "ارتش سعودی موشک‌های بالستیک و پهپادهای حوثی را بر فراز ریاض و جنوب کشور مهار کرد",
+            "هدف حوثی‌ها تخریب زیرساخت‌های هوایی و ایجاد ترس در جمعیت بود",
+            "موفقیت در دفع این تهدیدها نشان‌دهنده توان دفاعی سعودی در برابر حملات ایرانی‌پشتیبان است"
+        ],
+        "impact": "حفظ امنیت داخلی سعودی و جلوگیری از تلفات جانی و زیرساختی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610253322",
+        "clean_url": "https://www.iranintl.com/en/202610253322",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/65d889f8a9f056208af25b58e7b2ec428712cd8d-6000x4000.jpg?w=576&h=384&q=90&fit=max&auto=format",
+        "timestamp": 1792926420.0
     },
     {
         "id": "5a99efed85",
@@ -862,6 +919,140 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/french-interior-minister-says-nearly-1000-arrested-as-cops-face-extremely-elevated-level-of-violence-from-ultra-left-groups",
         "image": "https://static-cdn.toi-media.com/www/uploads/2026/10/AP26297599361347-e1792864872543.jpg",
         "timestamp": 1792865040.0
+    },
+    {
+        "id": "edf2918ffe",
+        "title_fa": "نتانیاهو به ایران هشدار داد: اگر انتخابات را مختل کنید، عواقب خواهد شد",
+        "title_en": "« Vous subirez des représailles »: Benjamin Netanyahu avertit l'Iran de ne pas tenter de perturber les élections législatives en Israël",
+        "summary": [
+            "نتانیاهو به ایران هشدار داد که اگر سعی در اختلال انتخابات کند، عواقب جدی خواهد داشت",
+            "این هشدار در پیش‌زمینه تنش‌های منطقه‌ای و حمایت ایران از حوثی‌ها بیان شد",
+            "تهدید می‌تواند منجر به اقدام‌ها نظامی پیشگیرانه یا تحریم‌های جدید شود"
+        ],
+        "impact": "افزایش فشار بر ایران و احتمال واکنش نظامی پیشگیرانه اسرائیل",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "BFMTV on MSN",
+        "url": "https://www.msn.com/fr-fr/actualite/other/vous-subirez-des-représailles-benjamin-netanyahu-avertit-l-iran-de-ne-pas-tenter-de-perturber-les-élections-législatives-en-israël/ar-AA2g2xMw?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/fr-fr/actualite/other/vous-subirez-des-représailles-benjamin-netanyahu-avertit-l-iran-de-ne-pas-tenter-de-perturber-les-élections-législatives-en-israël/ar-AA2g2xMw",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792864102.0
+    },
+    {
+        "id": "4321852ff1",
+        "title_fa": "نتانیاهو: ایران پیش از انتخابات به اسرائیل حمله می‌کند",
+        "title_en": "Netanyahu: Irán podría atacar para intervenir en las elecciones",
+        "summary": [
+            "نتانیاهو هشدار داد اطلاعاتی مبنی بر برنامه حمله ایران برای به‌هم‌ریختن انتخابات دارد",
+            "نیروهای دفاعی اسرائیل برای عملیات دفاعی و تهاجمی آماده‌اند و تهدید به پاسخ سنگین کردند",
+            "بیانیه می‌تواند تنش‌های نظامی منطقه را به‌سوی تشدید سوق دهد"
+        ],
+        "impact": "افزایش خطر مستقیم برای امنیت اسرائیل و احتمال تشدید درگیری‌های نظامی در خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Enlace Judío",
+        "url": "https://www.enlacejudio.com/2026/10/25/netanyahu-iran-podria-atacar-para-intervenir-en-las-elecciones/",
+        "clean_url": "https://www.enlacejudio.com/2026/10/25/netanyahu-iran-podria-atacar-para-intervenir-en-las-elecciones",
+        "image": "https://i0.wp.com/www.enlacejudio.com/wp-content/uploads/2026/10/Netanyahu-4.jpg?fit=1200%2C630&ssl=1",
+        "timestamp": 1792864102.0
+    },
+    {
+        "id": "ace28f1942",
+        "title_fa": "تهدید حمله به کابل‌های خلیج در صورت ادامه جنگ آمریکا-اسرائیل",
+        "title_en": "Iran plans Gulf cable attacks if US-Israel strikes resume",
+        "summary": [
+            "ایران اعلام کرد در صورت ادامه حملات آمریکا‑اسرائیل، کابل‌های مخابراتی خلیج را هدف می‌گیرد",
+            "هدف این کار قطع ارتباطات نظامی و تجاری منطقه و فشار بر متحدان آمریکا است",
+            "چنین تهدیدی می‌تواند واکنش نظامی گسترده و بروز جنگ سایبری را به دنبال داشته باشد"
+        ],
+        "impact": "اختلال در زیرساخت‌های مخابراتی خلیج، هزینه‌های ترمیم بالا و تشدید تنش‌های نظامی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Newsmax on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-plans-gulf-cable-attacks-if-us-israel-strikes-resume/ar-AA2g2Hwn?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-plans-gulf-cable-attacks-if-us-israel-strikes-resume/ar-AA2g2Hwn",
+        "image": "https://www.bing.com/th?id=ONUT.NsLwBsT0EDKxJRkbIi4uPQ",
+        "timestamp": 1792864101.0
+    },
+    {
+        "id": "673ccf95f9",
+        "title_fa": "ترامپ: امروز آمریکا به ایران حمله نمی‌کند",
+        "title_en": "Trump says US won’t strike Iran today, amid rising tensions",
+        "summary": [
+            "ترامپ در پاسخ به پرسش خبرنگار، رد حمله فوری به ایران را اعلام کرد",
+            "این بیانیه می‌تواند فشار بین‌المللی برای جلوگیری از گسترش جنگ را کاهش دهد",
+            "با این حال، عدم قطعیت درباره برنامه‌های آینده آمریکا باقی می‌ماند"
+        ],
+        "impact": "کاهش احتمال تصعید فوری تنش‌های نظامی بین آمریکا و ایران",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-us-wont-strike-iran-today-amid-rising-tensions/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/trump-says-us-wont-strike-iran-today-amid-rising-tensions",
+        "image": "https://www.bing.com/th?id=ONUT.2X5LBMGklEm0Przgo11DYw",
+        "timestamp": 1792864101.0
+    },
+    {
+        "id": "f51491a69e",
+        "title_fa": "۳۰۰۰ آمبولانس کهنه و دستگیری کمدین به‌خاطر حمایت از اسرائیل",
+        "title_en": "Over 3,000 Iranian ambulances more than 15 years old, official says",
+        "summary": [
+            "بیش از ۳۰۰۰ آمبولانس در ایران سن بیش از ۱۵ سال دارند و نیاز به نوسازی فوری دارند",
+            "جفر میادفر پیشنهاد می‌کند ۱٪ فروش خودرو به خرید آمبولانس اختصاص یابد",
+            "دادستانی کمدین سعید شکیبا را به‌خاطر حمایت از اسرائیل و توهین به رهبری بازداشت کرد",
+            "این پرونده نشان‌دهنده فشار قضایی بر افراد مخالف و محدودیت آزادی بیان است"
+        ],
+        "impact": "به‌روزرسانی ناچیز ناوگان اورژانسی و تشدید سرکوب مخالفان سیاسی",
+        "tag": "بهداشت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610254107",
+        "clean_url": "https://www.iranintl.com/en/202610254107",
+        "image": "https://www.bing.com/th?id=ONUT.-3MpRyoxEvV1vsqIJXzouQ",
+        "timestamp": 1792864101.0
+    },
+    {
+        "id": "ca79a09b79",
+        "title_fa": "مایک جانسون رسانه‌ها را مقصر نارضایتی رأی‌دهندگان می‌داند",
+        "title_en": "Mike Johnson tries to blame media for voters saying they don’t like the direction of the country",
+        "summary": [
+            "مایک جانسون رسانه‌ها را مقصر نارضایتی رأی‌دهندگان می‌داند",
+            "او ادعا می‌کند یک «روایت غلط» توسط دموکرات‌ها و مارکسیست‌ها پخش می‌شود",
+            "این بیانیه نشان می‌دهد فشارهای داخلی بر حزب جمهوری‌خواه برای حفظ قدرت"
+        ],
+        "impact": "تقویت ریشه‌کوبی رسانه‌ای و تشدید تقسیمات سیاسی در آمریکا",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/mike-johnson-tries-blame-media-164837046.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/mike-johnson-tries-blame-media-164837046.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/54260552c03efb0d3d6b65166d4212ee65a1ae27b0093bcf2bc6d9bf8420a4fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F26130a98b1dfa024605cf093b5fd5786.jpg",
+        "timestamp": 1792864101.0
+    },
+    {
+        "id": "8831d4b48d",
+        "title_fa": "قلی‌باف: آمریکا به‌دلیل محاسبه‌خطا در خاورمیانه گرفتار شد",
+        "title_en": "Iran's parliament speaker says US ‘entered quagmire’ due to ‘miscalculations’",
+        "summary": [
+            "قلی‌باف گفت آمریکا به‌دلیل خطاهای خود در سیاست خاورمیانه در تله‌ای افتاده است",
+            "او تأکید کرد ایران دیگر به فشارهای رسانه‌ای یا تهدیدهای نظامی آمریکا تسلیم نمی‌شود",
+            "این بیانیه نشان‌دهنده ریسک تشدید دیپلماتیک بین دو کشور است"
+        ],
+        "impact": "تقویت موضع‌گیری ایران در مذاکرات بین‌المللی و کاهش فشارهای آمریکا",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Anadolu Agency",
+        "url": "https://www.aa.com.tr/en/americas/irans-parliament-speaker-says-us-entered-quagmire-due-to-miscalculations-/4100283",
+        "clean_url": "https://www.aa.com.tr/en/americas/irans-parliament-speaker-says-us-entered-quagmire-due-to-miscalculations-/4100283",
+        "image": "https://www.bing.com/th?id=ONUT.qF8w9PNulOZk6Gh70yYqVA",
+        "timestamp": 1792864101.0
     },
     {
         "id": "2d2d9f5f9e",
@@ -5430,190 +5621,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQc2JtZnhOalF2T3hqOU13WVVSRVRkdGNXR0Y3U0I0ck5WcG5XRm9HY0Z0dWNGdGFWT1JJcktqaC1fUmJaUmVrbkZ0V1A0eU9RQnNqa0tia0FnTnpld3UxRmkyWi1BZUFvVFpTSEI1ZTFmWjdtWHdtbW9nMEZEa0FXX05qVHdsX1JvMmMyM3B6RG5rRWlLSlpWSHlHem1iYktRczMtbU1nUzgzTlBORDU5c1JhTjh5ZkJISW5rLXMwci1xTDdaYk9Qd3AzX0VXVlJWRmJqWkJKc2VSSFBzNHpkNm5mem8tTldIQXMzUlAxaHJ1NUlHZ2k0d3NVOWgxUjkxbGxrNWZR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792618680.0
-    },
-    {
-        "id": "9349f70581",
-        "title_fa": "نیروهای آمریکایی و دیپلمات‌ها از پایگاه‌های خاورمیانه تخلیه می‌شوند",
-        "title_en": "U.S. troops and diplomats evacuating Middle East posts, sources say",
-        "summary": [
-            "منابع خبری اعلام کردند نیروها و دیپلمات‌های آمریکایی در حال تخلیه از پایگاه‌های خاورمیانه هستند",
-            "این اقدام پس از افزایش حملات حوثی‌ها و تهدیدات امنیتی انجام می‌شود"
-        ],
-        "impact": "کاهش حضور نظامی آمریکا در منطقه می‌تواند فضای نفوذ رقیبان را تقویت کند",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLU92bVAxQU5KRmtTYjVQME0xeU40bVEzT1Y0bkx6MEM2bmdNUFRVQTBQTGVzb09nZEVCYm9iTE9rRFBqNWlWZURFY2NWamtQLTZ5QTZWcmxDUTB5dmRCVWZ2eFFlNU1sVnFSMkxaWUEwSDBzUkp2bnlZZmwwYUwzb0ZUemJVcDJXSmhZXzhOSVg1alRvNXpxb3NvblNWb2JvTlZ5WmwxYzdzQV81SXF3aDR3c2VFTC1ZZ3BrT19Edw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLU92bVAxQU5KRmtTYjVQME0xeU40bVEzT1Y0bkx6MEM2bmdNUFRVQTBQTGVzb09nZEVCYm9iTE9rRFBqNWlWZURFY2NWamtQLTZ5QTZWcmxDUTB5dmRCVWZ2eFFlNU1sVnFSMkxaWUEwSDBzUkp2bnlZZmwwYUwzb0ZUemJVcDJXSmhZXzhOSVg1alRvNXpxb3NvblNWb2JvTlZ5WmwxYzdzQV81SXF3aDR3c2VFTC1ZZ3BrT19Edw",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792617862.0
-    },
-    {
-        "id": "bf96c5579d",
-        "title_fa": "ترامپ در میانه انتخابات آمریکا به‌طور وحشیانه واکنش می‌دهد",
-        "title_en": "Trump goes completely unhinged as midterm panic sets in",
-        "summary": [
-            "رأی‌گیری‌های میانی مجلس باعث اضطراب شدید در ترامپ شد و او با بی‌پروایی تمام سخن گفت.",
-            "این رفتار می‌تواند اتحاد جمهوری‌خواهان را تضعیف کند و پیام‌های سخت‌گیرانه‌اش درباره ایران و تحریم‌ها را دوباره زنده کند."
-        ],
-        "impact": "احتمال افزایش تنش‌های داخلی آمریکا و بازگشت فشارهای سخت‌گیرانه علیه ایران",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Indisputable with Dr. Rashad Richey on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-goes-completely-unhinged-as-midterm-panic-sets-in/vi-AA2fBH0D?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-goes-completely-unhinged-as-midterm-panic-sets-in/vi-AA2fBH0D",
-        "image": "https://www.bing.com/th?id=ONUT.ZFUH36mx6kvk3uoePzrB_w",
-        "timestamp": 1792617835.6999116
-    },
-    {
-        "id": "5ed64589b1",
-        "title_fa": "اسکن‌پذیری 'بدون ردپای کاغذی' در کاخ سفید ترامپ افشا شد",
-        "title_en": "Trump White House rocked by 'no paper trail' scandal",
-        "summary": [
-            "تحلیل‌گری ادعا کرد که کاخ سفید ترامپ درگیر رسوایی «بدون ردپای کاغذی» است",
-            "این مسأله نشان‌دهنده عدم شفافیت مالی و احتمالی سوءاستفاده از منابع است",
-            "خبر هنوز توسط منابع مستقل تأیید نشده اما نگرانی‌های عمومی را برانگیخته است"
-        ],
-        "impact": "رسوایی می‌تواند فشار سیاسی بر ترامپ و هم‌پیمانانش را افزایش دهد",
-        "tag": "فساد",
-        "urgency": 4,
-        "sentiment": -0.7,
-        "source": "AlterNet on MSN",
-        "url": "https://www.msn.com/en-nz/news/other/trump-white-house-rocked-by-no-paper-trail-scandal/ar-AA2fLAOX?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-nz/news/other/trump-white-house-rocked-by-no-paper-trail-scandal/ar-AA2fLAOX",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792617835.6997466
-    },
-    {
-        "id": "e1dfe4c324",
-        "title_fa": "تهدید هسته‌ای با سیاست‌های نامعقول ترامپ دوباره شعله‌ور شد",
-        "title_en": "The nuclear threat is roaring back, thanks in part to Donald Trump",
-        "summary": [
-            "مقاله‌ای هشدار می‌دهد که بی‌توجهی ترامپ به خطرات هسته‌ای، خطر جنگ اتمی را زنده می‌کند",
-            "سیاست‌های نامطمئن او می‌تواند رقابت تسلیحات هسته‌ای را تشدید کند",
-            "خطرات ناشی از هوش مصنوعی نیز به‌همراه ریسک هسته‌ای مطرح شده‌اند"
-        ],
-        "impact": "افزایش تنش هسته‌ای می‌تواند به تحریم‌های جدید و ارتقای نظامی منجر شود",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Rolling Stone Australia on MSN",
-        "url": "https://www.msn.com/en-au/news/news/the-nuclear-threat-is-roaring-back-thanks-in-part-to-donald-trump/ar-AA2fLhho?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/news/the-nuclear-threat-is-roaring-back-thanks-in-part-to-donald-trump/ar-AA2fLhho",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792617835.6994255
-    },
-    {
-        "id": "5e51c76b0c",
-        "title_fa": "جنگی که تهران معتقد است در راه است",
-        "title_en": "The War Tehran Believes Is Coming",
-        "summary": [
-            "The War Tehran Believes Is Coming Drop Site News"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Drop Site News",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHpzV2xvTzYtVTM2X0gxRjBMdFh3dlRhSnhKeEZaSXpfSGNLV21YVC0xRzgxcW9Hb1pYYllaNnFmY2xSd1RvSTV2ZUJJQmp5OU01Z1ZCRmkwMVFGQnRSUERHSWV6WV9Za1o2bDBBeUNHWjRVZklVX1lpcHpMeDJYMlB0U2NybGJBczdR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHpzV2xvTzYtVTM2X0gxRjBMdFh3dlRhSnhKeEZaSXpfSGNLV21YVC0xRzgxcW9Hb1pYYllaNnFmY2xSd1RvSTV2ZUJJQmp5OU01Z1ZCRmkwMVFGQnRSUERHSWV6WV9Za1o2bDBBeUNHWjRVZklVX1lpcHpMeDJYMlB0U2NybGJBczdR",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792617687.0
-    },
-    {
-        "id": "6fc866f91a",
-        "title_fa": "جت‌های اسرائیلی به مرز ایران پرواز کردند",
-        "title_en": "Reports: Israeli jets flew to Iran’s border; some US sources suspect bid to rile Tehran",
-        "summary": [
-            "گزارش‌ها حاکی از پرواز جت‌های اسرائیلی به نزدیک مرز ایران است",
-            "منابع آمریکایی گمان می‌کنند این حرکت برای تحریک تهران انجام شده",
-            "چنین نمایش قدرت می‌تواند واکنش نظامی ایران را برانگیزد",
-            "این رخداد نشانگر افزایش تنش هوایی بین دو کشور است"
-        ],
-        "impact": "افزایش فشار هوایی می‌تواند به برخورد مستقیم منجر شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVNMVlDQzNSYndVWUhJdU9nYzdybTh0cWZtWnZWTHdGQ1NBMkZqZmpiRE9OYnVfdmRQZ1M0NmlNVV9pWU82VlZ5amQ5YWI1V1NNSC1XT3A2LUFJUlEyMjE4QW9yVFdnODNVLWNBZVp1VThVVlBWRi0tT3BfUXdFRXBPY0dHQlNuZWo0Wlp4Y1BaTHlRV0N6RUVSTDlZc2hrVjJzbVI4QjhEb0ZzRE5RUWZmczljUdIBuwFBVV95cUxPMkw4UUhFdGVGVXBMak43ZEZueG4wMjQ4MHJvYzVLY2NfLXdUM0ZLUmVjVUw4S2xlWW0wUlUwd0laemx2TGcwTWNNbzJ0eTFtTURUdjBvTTFRUFJtbGowS01SOGRTVjlBSDFNaGhoVHE2X0RubkRLWHU5MVNFVkR6YnlJdTktcTlyaUFoaXdDakp0WGtEdW9mc0JRYklQaWc3VVhRMFVNbmoyV1ZpamMyQU10SDQyal9ORnlN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVNMVlDQzNSYndVWUhJdU9nYzdybTh0cWZtWnZWTHdGQ1NBMkZqZmpiRE9OYnVfdmRQZ1M0NmlNVV9pWU82VlZ5amQ5YWI1V1NNSC1XT3A2LUFJUlEyMjE4QW9yVFdnODNVLWNBZVp1VThVVlBWRi0tT3BfUXdFRXBPY0dHQlNuZWo0Wlp4Y1BaTHlRV0N6RUVSTDlZc2hrVjJzbVI4QjhEb0ZzRE5RUWZmczljUdIBuwFBVV95cUxPMkw4UUhFdGVGVXBMak43ZEZueG4wMjQ4MHJvYzVLY2NfLXdUM0ZLUmVjVUw4S2xlWW0wUlUwd0laemx2TGcwTWNNbzJ0eTFtTURUdjBvTTFRUFJtbGowS01SOGRTVjlBSDFNaGhoVHE2X0RubkRLWHU5MVNFVkR6YnlJdTktcTlyaUFoaXdDakp0WGtEdW9mc0JRYklQaWc3VVhRMFVNbmoyV1ZpamMyQU10SDQyal9ORnlN",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792615200.0
-    },
-    {
-        "id": "2043d0b1d3",
-        "title_fa": "هشدارهای جنگی و دیپلماسی در تهران به‌هم می‌پیچند",
-        "title_en": "War warnings and talk of diplomacy compete in Tehran",
-        "summary": [
-            "مقامات ایرانی به‌سرعت خطر جنگ را مطرح کردند و همزمان به مذاکرات دیپلماتیک اشاره کردند.",
-            "این دو پیام نشان می‌دهد که داخل کشور هنوز درباره مسیر صحیح بین تنش و دیپلماسی تردید دارد.",
-            "اگر تنش‌ها ادامه یابد، فشار بین‌المللی بر برنامه هسته‌ای ایران شدت می‌گیرد."
-        ],
-        "impact": "افزایش فشار بر مذاکرات هسته‌ای و احتمال تشدید تحریم‌های اقتصادی",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PaVdxU0tLR0VqbjB0eURLYldaQXNtOFBvSVM5VHp2RTBoSXpUU0RLNC1UOHFVa290SHBSTmlNbThuMEMxRGRNU2pmTWlhdGJjZFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PaVdxU0tLR0VqbjB0eURLYldaQXNtOFBvSVM5VHp2RTBoSXpUU0RLNC1UOHFVa290SHBSTmlNbThuMEMxRGRNU2pmTWlhdGJjZFE",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792614371.0
-    },
-    {
-        "id": "00645712e7",
-        "title_fa": "سپاه تهدید کرد اگر کشتی‌ها در هرمز عبور کنند، پایگاه‌های آمریکا هدف می‌شود",
-        "title_en": "Iran's IRGC threatens to target US bases if commercial ships continue transiting Strait of Hormuz",
-        "summary": [
-            "سپاه پاسداران هشدار داد اگر کشتی‌های تجاری از هرمز عبور کنند، پایگاه‌های آمریکایی هدف می‌شوند",
-            "این تهدید در چارچوب تنش‌های پیرامون حملات هوایی به ایران است",
-            "افزایش خطر تصادم نظامی در خلیج فارس"
-        ],
-        "impact": "احتمال برخورد مستقیم نیروی دریایی آمریکا و ایران در خلیج فارس",
-        "tag": "تهدید‑ساحلی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-war-strait-hormuz-oil-prices-10-22-26",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-hormuz-oil-prices-10-22-26",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/556f8128d805a1ed878807dd0596b183.jpg",
-        "timestamp": 1792612132.0
-    },
-    {
-        "id": "a802a2b6a9",
-        "title_fa": "دموکرات‌ها از ترامپ می‌پرسند پس از انتخابات چه می‌شود",
-        "title_en": "Democrats Have One Question for President Donald Trump: What Happens with the Iran War After the Election?",
-        "summary": [
-            "مشاور پیشین چهار رئیس‌جمهور آمریکا سناریوهای پس از پیروزی دمکرات‌ها را بررسی کرد",
-            "اگر کنگره دمکراتیک شود، احتمال ادامه یا تشدید جنگ ایران افزایش می‌یابد",
-            "تصمیم‌گیری‌های نظامی آمریکا ممکن است تحت فشار سیاسی جدید قرار گیرد"
-        ],
-        "impact": "قابلیت تغییر مسیر عملیات نظامی آمریکا در خاورمیانه",
-        "tag": "سیاست‑آمریکا",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "nationalsecurityjournal",
-        "url": "https://nationalsecurityjournal.org/democrats-have-one-question-for-president-donald-trump-what-happens-with-the-iran-war-after-the-election/",
-        "clean_url": "https://nationalsecurityjournal.org/democrats-have-one-question-for-president-donald-trump-what-happens-with-the-iran-war-after-the-election",
-        "image": "https://www.bing.com/th?id=ONUT.fNTvPkbhpTo4ahDZOGeV2w",
-        "timestamp": 1792612131.0
-    },
-    {
-        "id": "e20952c92a",
-        "title_fa": "جنگ لفظی بر سر هرمز - به نقل از ایران هفت کشتی اصابت کرد",
-        "title_en": "Ordkrig om Hormuz – sju skepp träffade, enligt Iran",
-        "summary": [
-            "Iran uppger att sju tankfartyg attackerats i Hormuzsundet – den största attacken sedan krigsutbrottet, om uppgifterna stämmer..."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "TV4",
-        "url": "https://www.tv4.se/artikel/1ORQFXXJi4p3QitMGximYU/ordkrig-om-hormuz-sju-skepp-traeffade-enligt-iran",
-        "clean_url": "https://www.tv4.se/artikel/1ORQFXXJi4p3QitMGximYU/ordkrig-om-hormuz-sju-skepp-traeffade-enligt-iran",
-        "image": "https://www.bing.com/th?id=ONUT.I86k97N_VRmqkM4QEmN4nw",
-        "timestamp": 1792610939.0
     }
 ]
