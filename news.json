@@ -1,5 +1,41 @@
 [
     {
+        "id": "b59a81ad0d",
+        "title_fa": "قلمرو ایران تهدید به واکنش سنگین علیه آمریکا",
+        "title_en": "Dana Bash Coaches Troy Jackson Through the Details of the Iran War",
+        "summary": [
+            "محمد باقر قالیباف گفت ایران به هر حمله جدید آمریکا با پاسخی فراتر از تصور پاسخ خواهد داد",
+            "این اظهارات نشان می‌دهد تنش نظامی بین دو کشور به نقطه بحرانی نزدیک شده است"
+        ],
+        "impact": "تهدید پاسخ نظامی می‌تواند خطر تشدید درگیری هوایی را به‌وجود آورد",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/opinion/dana-bash-coaches-troy-jackson-through-the-details-of-the-iran-war/",
+        "clean_url": "https://www.mediaite.com/opinion/dana-bash-coaches-troy-jackson-through-the-details-of-the-iran-war",
+        "image": "https://www.bing.com/th?id=ONUT.qOBCd4EUrt7GMdelJiakEg",
+        "timestamp": 1792963917.974067
+    },
+    {
+        "id": "9159a72452",
+        "title_fa": "جنگ اقتصادی آمریکا علیه ایران تشدید می‌شود",
+        "title_en": "The Cruelty Is the Point: America’s Economic War Against Iran",
+        "summary": [
+            "واشنگتن با تحریم‌های سنگین و تهدید حملات نظامی، فشار اقتصادی بر ایران را تند می‌کند",
+            "این فشار می‌تواند بحران انسانی عمیق در ایران ایجاد کند"
+        ],
+        "impact": "تحریم‌های جدید می‌تواند ارز و تامین کالاهای اساسی را به‌طور جدی مختل کند",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "meidasnews",
+        "url": "https://meidasnews.com/news/the-cruelty-is-the-point-americas-economic-war-against-iran",
+        "clean_url": "https://meidasnews.com/news/the-cruelty-is-the-point-americas-economic-war-against-iran",
+        "image": "https://www.bing.com/th?id=ONUT.wW-V2Nh3UaQsnp4Cbtcl3w",
+        "timestamp": 1792963917.973739
+    },
+    {
         "id": "302b6af8a1",
         "title_fa": "نتانیاهو یا گادی اسنکوت: انتخابات اسرائیل",
         "title_en": "Best Israeli election result would omit cuckoos in Netanyahu’s nest",
@@ -322,6 +358,24 @@
         "timestamp": 1792929120.0
     },
     {
+        "id": "f31cb2ef95",
+        "title_fa": "دموکرات‌ها می‌توانند سیاست ایران را محدود کنند",
+        "title_en": "4 ways US foreign policy could change if Democrats win in November",
+        "summary": [
+            "اگر دموکرات‌ها کنترل کنگره را به دست بگیرند، می‌توانند هزینه‌های دفاعی را کاهش داده و فشار بر ترامپ برای کسب تأیید کنگره اعمال کنند",
+            "این تغییر می‌تواند جنگ ایران‑آمریکا را بدون تصویب مجلس متوقف کند"
+        ],
+        "impact": "کاهش هزینه‌های نظامی می‌تواند فشار مالی بر دولت ترامپ را کاهش دهد",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Rappler",
+        "url": "https://www.rappler.com/world/us-canada/changes-usa-foreign-policy-victory-midterm-elections-2026/",
+        "clean_url": "https://www.rappler.com/world/us-canada/changes-usa-foreign-policy-victory-midterm-elections-2026",
+        "image": "https://www.rappler.com/tachyon/2026/10/2026-10-20T174856Z_1170868734_RC2Q4OAD5P1Y_RTRMADP_3_USA-ELECTION-FLORIDA-RETIREES.jpg",
+        "timestamp": 1792927140.0
+    },
+    {
         "id": "5d08ecedc6",
         "title_fa": "عربستان سعودی موشک‌ها و پهپادهای حوثی را مهار کرد",
         "title_en": "Saudi Arabia intercepts Houthi missiles, drones as Yemen fighting continues",
@@ -339,6 +393,42 @@
         "clean_url": "https://www.iranintl.com/en/202610253322",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/65d889f8a9f056208af25b58e7b2ec428712cd8d-6000x4000.jpg?w=576&h=384&q=90&fit=max&auto=format",
         "timestamp": 1792926420.0
+    },
+    {
+        "id": "f24554df76",
+        "title_fa": "دانا بش به تروی جکسون نکات جنگ ایران می‌آموزد",
+        "title_en": "'STRIKE IRAN, FACE CONSEQUENCES': Tehran Warns Trump Of Big Revenge If US Launches New Strike",
+        "summary": [
+            "در مصاحبه‌ای، تروی جکسون به‌صورت ناخواسته ضعف خود را در مسائل ایران نشان داد",
+            "این صحنه نشان می‌دهد برخی نمایندگان هنوز درک کافی از سیاست خارجی ندارند"
+        ],
+        "impact": "عدم آگاهی نمایندگان می‌تواند تصمیم‌گیری‌های نادرست در مجلس را تشدید کند",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "The Times of India",
+        "url": "https://www.msn.com/en-in/news/other/strike-iran-face-consequences-tehran-warns-trump-of-big-revenge-if-us-launches-new-strike/vi-AA2g2PD7",
+        "clean_url": "https://www.msn.com/en-in/news/other/strike-iran-face-consequences-tehran-warns-trump-of-big-revenge-if-us-launches-new-strike/vi-AA2g2PD7",
+        "image": "https://static.toiimg.com/thumb/msid-135196411,width-800,resizemode-4/135196411.jpg",
+        "timestamp": 1792924800.0
+    },
+    {
+        "id": "d77e3f3d3a",
+        "title_fa": "نتانیاهو هشدار داد ایران انتخابات اسرائیل را مختل می‌کند",
+        "title_en": "Netanyahu warns Iran may try to disrupt election, says 'don't test us'",
+        "summary": [
+            "نتانیاهو گفت گروه‌های نیابتی ایران ممکن است حملات برای به‌هم زدن روند رأی‌گیری انجام دهند",
+            "این اظهارات فشار امنیتی را بر اسرائیل در روزهای پیش از انتخابات افزاش می‌دهد"
+        ],
+        "impact": "احتمال حملات نیابتی می‌تواند امنیت انتخابات را به خطر اندازد",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "South China Morning Post on MSN",
+        "url": "https://www.msn.com/en-xl/news/other/netanyahu-warns-iran-may-try-to-disrupt-election-says-don-t-test-us/ar-AA2g1OBr",
+        "clean_url": "https://www.msn.com/en-xl/news/other/netanyahu-warns-iran-may-try-to-disrupt-election-says-don-t-test-us/ar-AA2g1OBr",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792924140.0
     },
     {
         "id": "5a99efed85",
@@ -5519,99 +5609,5 @@
         "clean_url": "https://www.iranintl.com/en/202610218399",
         "image": "http://www.bing.com/th?id=ONUT.VjqdffLDdrUQTz3c1Bmcxw&pid=News",
         "timestamp": 1792638180.0
-    },
-    {
-        "id": "bb101a2336",
-        "title_fa": "آرمکو پس از جنگ ایران، ذخیره‌سازهای نفتی را گسترش می‌دهد",
-        "title_en": "Saudi Aramco seeks overseas oil stockpile expansion after Iran war",
-        "summary": [
-            "مدیرعامل آرمکو قصد دارد ظرفیت ذخیره‌سازی نفت در خارج از کشور را افزایش دهد",
-            "پیش‌بینی می‌شود تقاضا پس از پایان جنگ تا ۳ میلیون بشکه در روز رشد کند",
-            "مسیرهای صادراتی جدید برای دور زدن تنگناهای هورموز و باب‌المندب بررسی می‌شود"
-        ],
-        "impact": "تقویت امنیت انرژی سعودی، کاهش وابستگی به مسیرهای بحرانی",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610222098",
-        "clean_url": "https://www.iranintl.com/en/202610222098",
-        "image": "http://www.bing.com/th?id=ONUT.1HRiQE0lQdx4a1s_mzwMwQ&pid=News",
-        "timestamp": 1792635300.0
-    },
-    {
-        "id": "1351bacc3e",
-        "title_fa": "ترامپ: ایران برای بالا بردن قیمت نفت دست می‌زند",
-        "title_en": "Iran Doing Everything To Drive Up Oil Prices: Trump",
-        "summary": [
-            "ترامپ ادعا کرد ایران با ساخت صحنه حملات دریایی و مین‌گذاری در هرمز، قیمت نفت را پیش از انتخابات میانی آمریکا بالا می‌برد",
-            "او تأکید کرد ایران نباید به دسترسی به سلاح هسته‌ای برسد",
-            "این اظهارات سعی دارد فشار بین‌المللی را علیه تهران تقویت کند"
-        ],
-        "impact": "ادعای افزایش قیمت نفت می‌تواند بازارهای انرژی را ناآرام کند و فشار اقتصادی بر ایران را افزایند",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Deccan Chronicle",
-        "url": "https://www.deccanchronicle.com/world/americas/iran-doing-everything-to-drive-up-oil-prices-trump-1998046",
-        "clean_url": "https://www.deccanchronicle.com/world/americas/iran-doing-everything-to-drive-up-oil-prices-trump-1998046",
-        "image": "https://www.deccanchronicle.com/h-upload/2026/10/23/2103730-aa-8447843.jpg",
-        "timestamp": 1792633576.0
-    },
-    {
-        "id": "3cc3d47e72",
-        "title_fa": "دسترسی به متن مقاله مسدود شد",
-        "title_en": "Trump’s Gamble to End the Iran War",
-        "summary": [
-            "سایت The Atlantic به دلیل مسدود شدن توسط Cloudflare امکان مشاهده متن را نداد",
-            "به‌نظر می‌رسد محتوای مقاله درباره طرح‌های ترامپ برای پایان جنگ ایران‑عراق بوده است"
-        ],
-        "impact": "اطلاعات محدود؛ تحلیل‌گران نمی‌توانند جزئیات طرح را ارزیابی کنند",
-        "tag": "نامشخص",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/",
-        "clean_url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121",
-        "image": "http://www.bing.com/th?id=ONUT.oFoViOxrU6V5I-L2vHeiFQ&pid=News",
-        "timestamp": 1792633260.0
-    },
-    {
-        "id": "ff91b8a892",
-        "title_fa": "قیمت بیت‌کوین پس از خبر حمله به ایران سقوط کرد",
-        "title_en": "Bitcoin Slides From $84,900 to $82,200 as Oil Jumps on Iran Strike Plans: Is the US-Iran War About to Restart?",
-        "summary": [
-            "بیت‌کوین ۲٫۱٪ کاهش یافت و به حدود ۸۲٬۲۰۰ دلار رسید",
-            "قیمت نفت برنت ۲٫۷٪ بالا رفت؛ همزمان با گزارش طرح حملات آمریکا‑اسرائیل به ایران",
-            "حجم معاملات آتی بیت‌کوین کاهش یافت؛ لوریج فشار فروش را تشدید کرد"
-        ],
-        "impact": "کاهش بیت‌کوین می‌تواند فشار فروش در بازارهای رمزارزها را تشدید کند",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-84-900-82-083836394.html",
-        "clean_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-84-900-82-083836394.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/648e10b772995313c74364f28766141141a46a9fc6c9e3feedb7708f9aada259/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoinspeaker_us_106%2F7e8dea1a5b352b3b9d4af42b9479180b.jpg",
-        "timestamp": 1792633080.0
-    },
-    {
-        "id": "b5742b5f20",
-        "title_fa": "ستاد حقوق بشر ایران: آلبانی حق اعتراض مسالمت‌آمیز",
-        "title_en": "ستاد حقوق بشر جمهوری اسلامی: دولت آلبانی حق اعتراض مسالمت‌آمیز شهروندان را رعایت کند",
-        "summary": [
-            "ستاد حقوق بشر جمهوری اسلامی از آلبانی خواست تا حق اعتراض مسالمت‌آمیز شهروندان را تضمین کند.",
-            "قیمت نفت برنت ۲.۱۳٪ افزایش یافت و حملات حوثی‌ها به زیرساخت‌های عربستان منجر به کشته و زخمی شد.",
-            "تشدید فشار بین‌المللی بر آلبانی و افزایش تنش‌های خلیج فارس."
-        ],
-        "impact": "تشدید فشار بین‌المللی بر آلبانی و افزایش تنش‌های خلیج فارس",
-        "tag": "حقوق بشر",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202610229226",
-        "clean_url": "https://www.iranintl.com/202610229226",
-        "image": "http://www.bing.com/th?id=ONUT.XWrztwnoBPAAGHoztVRRBA&pid=News",
-        "timestamp": 1792630800.0
     }
 ]
