@@ -74,6 +74,25 @@
         "timestamp": 1792952851.0
     },
     {
+        "id": "9b65d94879",
+        "title_fa": "حوثی‌ها ادعای ضربه به فرودگاه ریاض و پایگاه‌های نظامی",
+        "title_en": "Houthis say they struck Riyadh airport, two Saudi military bases",
+        "summary": [
+            "حوثی‌ها ادعا کردند فرودگاه ریاض و دو پایگاه نظامی در خمیس مشیت و جزیره جزان را هدف گرفته‌اند",
+            "هنوز تأیید مستقل از موفقیت این حملات وجود ندارد",
+            "این ادعاها فشار را بر عربستان افزوده و نشان‌دهنده توان عملیاتی حوثی‌هاست"
+        ],
+        "impact": "احتمال افزایش هشدارهای امنیتی در عربستان و تقویت استدلال برای واکنش نظامی",
+        "tag": "حمله",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610252797",
+        "clean_url": "https://www.iranintl.com/en/202610252797",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792951440.0
+    },
+    {
         "id": "f1214cea74",
         "title_fa": "استراتژی نهایی نتانیاهو: ترساندن مردم",
         "title_en": "Netanyahu's final campaign strategy: Fear",
@@ -412,6 +431,25 @@
         "timestamp": 1792922522.315225
     },
     {
+        "id": "fe45123fd3",
+        "title_fa": "فرودگاه بین‌المللی ریاض پس از حملات حوثی‌ها باز شد",
+        "title_en": "Riyadh reopens its international airport as attacks by Iran-backed Houthis persist",
+        "summary": [
+            "فرودگاه بین‌المللی ملک خالد ترمینال‌های 1 و 2 را برای پروازهای داخلی و بین‌المللی باز کرد",
+            "بازگشایی در حالی است که حوثی‌های وابسته به ایران به‌طور مستمر پهپاد و موشک به ریاض پرتاب می‌کنند",
+            "این اقدام نشان می‌دهد سعودی سعی دارد اثر حملات را کاهش دهد و خدمات حمل‌ونقل را حفظ کند"
+        ],
+        "impact": "حفظ ترافیک هوایی سعودی؛ اما ادامه تهدید حوثی‌ها باعث افزایش هزینه‌های امنیتی می‌شود",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/riyadh-reopens-its-international-airport-as-attacks-by-iran-backed-houthis-persist/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/riyadh-reopens-its-international-airport-as-attacks-by-iran-backed-houthis-persist",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792922220.0
+    },
+    {
         "id": "2a47787e36",
         "title_fa": "ایران هشدار داد: تهدیدهای نظامی ترامپ بی‌نتیجه",
         "title_en": "US stepped into a quagmire: Iran warns Trump over fresh military strike threats",
@@ -487,6 +525,25 @@
         "timestamp": 1792916460.0
     },
     {
+        "id": "6829bbe9f1",
+        "title_fa": "آراقی‌چی موضع ملی خود را در برابر تهدید جنگ تأکید کرد",
+        "title_en": "Iran's Araghchi doubles down on national positions amid war threat",
+        "summary": [
+            "وزیر خارجه ایران، عباس آراقی‌چی، گفت حتی در صورت تجدید جنگ با اسرائیل و آمریکا موضع ملی ایران تغییر نمی‌کند",
+            "او به نتایج ناموفق حملات قبلی اشاره کرد و هشدار داد تکرار آن‌ها بی‌نتیجه خواهد بود",
+            "این بیانیه نشان می‌دهد ایران برای مقابله با فشارهای نظامی آماده است ولی استراتژی ثابت است"
+        ],
+        "impact": "تقویت موضع مقاومت ایران در مذاکرات و احتمال ادامه تنش‌های منطقه‌ای",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/irans-araghchi-commits-national-positions-amid-war-threats",
+        "clean_url": "https://www.newarab.com/news/irans-araghchi-commits-national-positions-amid-war-threats",
+        "image": "http://www.bing.com/th?id=ONUT.MGKpkT1yPjEf3H9wb0F-kg&pid=News",
+        "timestamp": 1792916100.0
+    },
+    {
         "id": "60dc882331",
         "title_fa": "تحلیل پایان جنگ‌های اسرائیل و اثرات بر ایران",
         "title_en": "From six-day victory to wars of attrition: How has Israel ended its wars?",
@@ -503,6 +560,25 @@
         "clean_url": "https://www.iranintl.com/en/202610257246",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/5540b6ef4eb48935f3cc5a040662d111ed32bf8a-1920x1280.jpg?rect=0,136,1920,1008&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1792914180.0
+    },
+    {
+        "id": "2bf12572f9",
+        "title_fa": "ترامپ رد حمله فوری به ایران؛ دیپلماسی ادامه دارد",
+        "title_en": "Iran says messages are still being passed to the US amid war concerns, and other Mideast news",
+        "summary": [
+            "ترامپ به‌صراحت گفت امروز حمله به ایران انجام نمی‌شود",
+            "او اشاره کرد ممکن است «کار را تمام کند» یا به توافق برسد",
+            "سخنران مجلس ایران جنگ را «گودال» توصیف کرد و آمریکا را به خروج از وضعیت دعوت کرد"
+        ],
+        "impact": "عدم ارتقای تنش نظامی امروز، اما فشار بر واشنگتن برای یافتن راه حل سیاسی",
+        "tag": "سیاست خارجی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Newsday",
+        "url": "https://www.newsday.com/news/nation/mideast-news-october-25-2026-y04949",
+        "clean_url": "https://www.newsday.com/news/nation/mideast-news-october-25-2026-y04949",
+        "image": "http://www.bing.com/th?id=ONUT.vMFe2m8IbjQasAr8b4NUZA&pid=News",
+        "timestamp": 1792913820.0
     },
     {
         "id": "c9830e1c89",
@@ -711,6 +787,23 @@
         "clean_url": "https://www.msn.com/en-in/news/other/iran-says-resumption-of-war-would-not-change-its-stances/ar-AA2g0vkB",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792890993.0
+    },
+    {
+        "id": "89a9d279dd",
+        "title_fa": "جنگ ایران زنده: ترامپ می‌گوید «امروز حمله نکن»",
+        "title_en": "Iran war live: Trump says 'no strike today'; Qatar mediators in Tehran",
+        "summary": [
+            "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/14361801-1792951519.jpg?resize=1920%2C1440",
+        "timestamp": 1792890960.0
     },
     {
         "id": "334a6029e4",
@@ -5520,101 +5613,5 @@
         "clean_url": "https://www.iranintl.com/202610229226",
         "image": "http://www.bing.com/th?id=ONUT.XWrztwnoBPAAGHoztVRRBA&pid=News",
         "timestamp": 1792630800.0
-    },
-    {
-        "id": "e874e6bd09",
-        "title_fa": "آمریکا و اسرائیل برنامه‌ریزی حمله به ایران",
-        "title_en": "October 23, 2026 | Global Market Round-Trip | Morning Edition | SOX down 6.72%, Nasdaq down 2.60% | Meta capex concerns and Brent at $113, focus today on semiconductor stocks ...",
-        "summary": [
-            "گزارش‌ها حاکی از برنامه‌ریزی مشترک نظامی برای ضربه هوایی به زیرساخت‌های ایرانی است.",
-            "هدف اصلی، مهار توانمندی‌های موشکی و پهپادی ایران است.",
-            "این خبر باعث افزایش نوسان بازارهای انرژی و فناوری شد."
-        ],
-        "impact": "تنش‌های نظامی می‌تواند قیمت نفت و ارزهای منطقه‌ای را بالا ببرد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "note",
-        "url": "https://note.com/mute_heron5386/n/nf04fe55b87c4?hl=en",
-        "clean_url": "https://note.com/mute_heron5386/n/nf04fe55b87c4",
-        "image": "https://www.bing.com/th?id=ONUT.zIE_3xEheGTBm5qnN1OZdQ",
-        "timestamp": 1792630569.0
-    },
-    {
-        "id": "bd8593d49d",
-        "title_fa": "وضعیت فعلی جنگ ایران: بررسی جامع",
-        "title_en": "The Current State of the Iran War",
-        "summary": [
-            "گزارش نشان می‌دهد درگیری‌های مرزی ادامه دارد",
-            "تحریم‌های جدید فشار اقتصادی را تشدید کرده‌اند",
-            "ریسک گسترش به مناطق دیگر افزایش یافته"
-        ],
-        "impact": "ادامه جنگ هزینه‌های انسانی و مالی را بالا می‌برد",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": ".::. UCLA International Institute",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jSFVJd1dVWS1MS1cwcWkzcW5qWGQ1SVlBTWV1Z3lOWDE4Q2R5QmJZeTNpU05VSC01bG1RTW5FRGlrVExxYVNjRVdwVjF1QzF5Uk90Rk1mdXltNmg5cU9vZEJydkYzQms?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jSFVJd1dVWS1MS1cwcWkzcW5qWGQ1SVlBTWV1Z3lOWDE4Q2R5QmJZeTNpU05VSC01bG1RTW5FRGlrVExxYVNjRVdwVjF1QzF5Uk90Rk1mdXltNmg5cU9vZEJydkYzQms",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792628471.0
-    },
-    {
-        "id": "7f0b62c239",
-        "title_fa": "هفت تانکر نفت در تنگه هرمز آسیب دید",
-        "title_en": "Iran says 7 tankers were damaged in the Strait of Hormuz, and other Mideast news",
-        "summary": [
-            "تلویزیون دولتی ایران اعلام کرد هفت تانکر در شب گذشته به مین یا حمله هدف قرار گرفتند",
-            "این حادثه بزرگ‌ترین شمار روزانه آسیب به ناوگان نفتی است",
-            "ایران ادعا می‌کند این کار توسط دشمنان انجام شده",
-            "احتمال افزایش هزینه‌های حمل و نقل و تأخیر در صادرات نفت"
-        ],
-        "impact": "آسیب به تانکرها هزینه حمل‌ونقل نفت را بالا می‌برد و ریسک ناوبری در هرمز را تشدید می‌کند",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-says-7-tankers-on-fire-or-damaged-in-the-strait-of-hormuz-and-other-mideast-news/ar-AA2fN4Np",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-says-7-tankers-on-fire-or-damaged-in-the-strait-of-hormuz-and-other-mideast-news/ar-AA2fN4Np",
-        "image": "http://www.bing.com/th?id=ONUT.PbyPKQvcxoPESob1UvuFdg&pid=News",
-        "timestamp": 1792628030.0
-    },
-    {
-        "id": "19905de2e7",
-        "title_fa": "کانادا افسر پلیس تهران را دور زدن تحریم‌ها اخراج کرد",
-        "title_en": "صدور حکم اخراج افسر سابق پلیس تهران از کانادا؛ گلوبالنیوز: امین یوسفیجم در دور زدن تحریمها ...",
-        "summary": [
-            "هیئت مهاجرت کانادا افسر پلیس ایرانی را به‌دلیل مشارکت در قاچاق تجهیزات نظامی به ایران اخراج کرد",
-            "او در دور زدن تحریم‌های کانادا و آمریکا نقش کلیدی داشته",
-            "این تصمیم پیام واضحی به افراد درگیر در نقض تحریم‌ها می‌فرستد"
-        ],
-        "impact": "تحریم‌های مالی و تجاری علیه افراد مرتبط با نقض تحریم‌ها سخت‌تر می‌شود",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "یورونیوز",
-        "url": "https://parsi.euronews.com/2026/10/22/canada-deports-amin-yousefijam-iran-sanctions-evasion-oct-2026",
-        "clean_url": "https://parsi.euronews.com/2026/10/22/canada-deports-amin-yousefijam-iran-sanctions-evasion-oct-2026",
-        "image": "https://www.bing.com/th?id=ONUT.UGlgykQVwbxJ7ioZFEkNxg",
-        "timestamp": 1792627689.8142323
-    },
-    {
-        "id": "5f5323a1dc",
-        "title_fa": "حمله به فرودگاه کینگ فهد؛ یک کشته و هشت مصدوم",
-        "title_en": "One dead, eight injured in Saudi airport attack",
-        "summary": [
-            "حمله به فرودگاه کینگ فهد در دمام یک کشته و هشت مصدوم به‌جا گذاشت",
-            "مسئولان سعودی حمله را به حوثی‌های حامی ایران نسبت دادند",
-            "ایالات متحده پس از این حمله پرسنل سفارت غیرضروری را از عربستان خارج کرد"
-        ],
-        "impact": "تشدید تنش‌های منطقه‌ای و احتمال واکنش نظامی بین‌المللی",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "RTÉ Ireland",
-        "url": "https://www.rte.ie/news/world/2026/1022/1596373-saudi-airport-attack/",
-        "clean_url": "https://www.rte.ie/news/world/2026/1022/1596373-saudi-airport-attack",
-        "image": "https://www.bing.com/th?id=ONUT.MeOYdXG4bKLr0vnaKjkmIA",
-        "timestamp": 1792627689.8136704
     }
 ]
