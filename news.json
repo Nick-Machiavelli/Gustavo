@@ -36,6 +36,24 @@
         "timestamp": 1792978275.8698483
     },
     {
+        "id": "28e7209623",
+        "title_fa": "به‌روزرسانی زنده وضعیت خاورمیانه",
+        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "summary": [
+            "خبرگزاری Jerusalem Post به‌صورت زنده اخبار مرتبط با اسرائیل، ایران و منطقه را منتشر کرد",
+            "جزئیات خاصی در متن موجود نیست؛ فقط اشاره به پوشش لحظه‌ای دارد"
+        ],
+        "impact": "اطلاع‌رسانی عمومی بدون تأثیر مستقیم",
+        "tag": "عمومی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCblZ2MkV3NDdVMUlhVVlyRnYzRnFIN2tDUWdtTW80UHJIRnA0OWo3RU9DRmdjTkVpYWJreWVpLVI3bjRCMnEzSjI1VVZGYkdUYkVYS0dHNlI3N2tfdHFYcFBnNGtoNUhUV3ZIa1NJbEtKUFJnZC03XzRxY19vM0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCblZ2MkV3NDdVMUlhVVlyRnYzRnFIN2tDUWdtTW80UHJIRnA0OWo3RU9DRmdjTkVpYWJreWVpLVI3bjRCMnEzSjI1VVZGYkdUYkVYS0dHNlI3N2tfdHFYcFBnNGtoNUhUV3ZIa1NJbEtKUFJnZC03XzRxY19vM0k",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792976405.0
+    },
+    {
         "id": "9daeba0aff",
         "title_fa": "تمرین بزرگ نظامی اسرائیل: شبیه‌سازی حمله ناگهانی",
         "title_en": "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
@@ -52,6 +70,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEpKSGFOVGozVnNXR0cyU3Uzc0ZsX2EzZ2RwZDdhNXlVYklkbWt0M1lCZk56M1UtbmpHeXBYZWdoNG8yOHhfZlBhR1JLeTYwVndtYWRiTFNyS0NNRVpvOGpRcDg2bktyV1Rva1dadUFmRUszSzA3TGxJTHA4X0t0QlJVS0VMUExUeHFJUnMtckxlYnlmYnNYNUpaWXlBb1M2OEN3T1VZempvcVpUMGc",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792975344.0
+    },
+    {
+        "id": "bdb8d4c553",
+        "title_fa": "نتانیاهو: ایران سعی در تخریب انتخابات ۲۷ اکتبر",
+        "title_en": "Video: Netanyahu warns Iran against disrupting October 27 election",
+        "summary": [
+            "نتانیاهو در ویدئویی هشدار داد که اطلاعاتی مبنی بر حملات احتمالی ایران و نیابتی‌ها برای مختل کردن انتخابات وجود دارد",
+            "او اعلام کرد ارتش اسرائیل آماده پاسخ تلافی‌پذیر و سنگین است",
+            "دیپلمات‌های قطری به همراه آمریکا برای جلوگیری از تشدید تنش‌ها در تهران حضور دارند"
+        ],
+        "impact": "احتمال افزایش تنش نظامی‑سیاستی بین اسرائیل و ایران و ریسک حملات پیش‌انتخابی",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610267339",
+        "clean_url": "https://www.iranintl.com/en/202610267339",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792974780.0
     },
     {
         "id": "f783f1a306",
@@ -431,6 +468,25 @@
         "clean_url": "https://www.msn.com/en-za/news/other/israel-needs-unity-why-herzog-must-bring-netanyahu-eisenkot-together/ar-AA2g29LD",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792944688.5061734
+    },
+    {
+        "id": "81d1fd6f0a",
+        "title_fa": "نتانیاهو تصویر هسته‌ای AI و تهدید هولوکاست دوم",
+        "title_en": "Netanyahu shares AI nuclear blast, warns of second Holocaust if not elected",
+        "summary": [
+            "نتانیاهو تصویر مصنوعی انفجار هسته‌ای بر بالای تل‌آویو منتشر کرد و انتخابات را به بقا نسبت داد",
+            "او می‌گوید شکست او می‌تواند ایران را به دسترسی به سلاح هسته‌ای و «هولوکاست دوم» سوق دهد",
+            "این پیام باعث تشدید اضطراب داخلی و فشار بین‌المللی بر سر مبحث برنامه هسته‌ای ایران شد"
+        ],
+        "impact": "تقویت رادیکالیسم انتخاباتی و فشار بر مذاکرات هسته‌ای",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610253076",
+        "clean_url": "https://www.iranintl.com/en/202610253076",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1792944360.0
     },
     {
         "id": "ce22bd8444",
@@ -935,6 +991,26 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-has-a-problem-no-crude-oil-was-loaded-onto-a-single-tanker-in-september-an-unprecedented-shutdown-driven-by-us-naval-blockade/ar-AA2g22Dh",
         "image": "http://www.bing.com/th?id=ONUT.GskSB42zrziMlkZ1tgtFIw&pid=News",
         "timestamp": 1792912134.0
+    },
+    {
+        "id": "18d73a059e",
+        "title_fa": "گادی ایزینکوت: رقیب امنیتی نتانیاهو در انتخابات",
+        "title_en": "Who is Gadi Eisenkot? Ex-army chief of Israel is Netanyahu's biggest challenger in PM race",
+        "summary": [
+            "ایزینکوت، فرمانده پیشین ارتش، با حزب یاشار به عنوان چالش‌گر اصلی نتانیاهو وارد رقابت شد",
+            "برنامه او بر امنیت، رهبری قاطع و پاسخگویی به شکست‌های هامیس متمرکز است",
+            "خانواده‌اش در جنگ غزه قربانی شده؛ این تجربه شخصی را به عنوان اعتبار امنیتی می‌گیرد",
+            "حضور او می‌تواند معادله سیاسی را به سمت جدیت نظامی‑سیاسی تغییر دهد"
+        ],
+        "impact": "تقویت رقابت داخلی و احتمال تغییر مسیر سیاست امنیتی پس از انتخابات",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/who-is-gadi-eisenkot-ex-army-chief-of-israel-is-netanyahus-biggest-challenger-in-pm-race/articleshow/135185372.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/who-is-gadi-eisenkot-ex-army-chief-of-israel-is-netanyahus-biggest-challenger-in-pm-race/articleshow/135185372.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135185460,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1792911120.0
     },
     {
         "id": "cc21370190",
@@ -5534,82 +5610,5 @@
         "clean_url": "https://www.radiofarda.com/a/trump-iran-fake-strait-hormuz-attacks-oil-prices-protesters/33881798.html",
         "image": "http://www.bing.com/th?id=ONUT.fiK2BMAXXZbke9UQZaf4kg&pid=News",
         "timestamp": 1792660980.0
-    },
-    {
-        "id": "6a0d331644",
-        "title_fa": "یونان اجرای تح sanctions مرتبط با ایران را اعلام کرد",
-        "title_en": "Greece says it is implementing sanctions linked to Iran",
-        "summary": [
-            "دولت یونان گفت تح sanctions جدید علیه ایران را به اجرا گذاشت",
-            "تح sanctions شامل محدودیت‌های مالی و صادراتی به بخش‌های حساس است",
-            "این اقدام در چارچوب فشارهای بین‌المللی بر برنامه هسته‌ای ایران است",
-            "ایران ممکن است واکنش دیپلماتیک یا تجاری داشته باشد"
-        ],
-        "impact": "تح sanctions یونان می‌تواند فشار اقتصادی بر ایران را افزاش دهد",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFJaZ0t6eFMxSzJVenJlSEdyVkFjWXVuYmsxUy14ajVPdWZEMEUybm1ySE5zbzE1N05TNlVaeW1rZmNHOWVkLWxMQ193QzlRMTdYMGFYZmk2TzROdWptVDB5LXAtV3BiSW9nVERSSTF0bkpLWGVSREdja21vcFpGcnZmb1UtbUtFdE9QSUtVZENOMzJURl9Rd1lEbGZTVW1ISk5PamhUaUhGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFJaZ0t6eFMxSzJVenJlSEdyVkFjWXVuYmsxUy14ajVPdWZEMEUybm1ySE5zbzE1N05TNlVaeW1rZmNHOWVkLWxMQ193QzlRMTdYMGFYZmk2TzROdWptVDB5LXAtV3BiSW9nVERSSTF0bkpLWGVSREdja21vcFpGcnZmb1UtbUtFdE9QSUtVZENOMzJURl9Rd1lEbGZTVW1ISk5PamhUaUhGZw",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792660458.0
-    },
-    {
-        "id": "aa8584c69e",
-        "title_fa": "غذاهایی که روزی به‌نظر نفرت‌انگیز می‌آمدند",
-        "title_en": "20 Foods That Were Once Considered Disgusting",
-        "summary": [
-            "تاریخ نشان می‌دهد طماطم و موز قبلاً به‌عنوان خوراکی‌های نامطلوب شناخته می‌شدند.",
-            "تغییر سلیقه‌های خوراکی با پیشرفت کشاورزی و فرهنگ غذایی همراه است."
-        ],
-        "impact": "درک بهتر تاریخ تغذیه می‌تواند به نوآوری‌های آشپزی امروز کمک کند.",
-        "tag": "فرهنگی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Spicy Chefs",
-        "url": "https://www.msn.com/en-us/food-and-drink/recipes/20-foods-that-were-once-considered-disgusting/ss-AA2fOIot",
-        "clean_url": "https://www.msn.com/en-us/food-and-drink/recipes/20-foods-that-were-once-considered-disgusting/ss-AA2fOIot",
-        "image": "https://s.yimg.com/lo/mysterio/api/ea09cbc48a5c80b3aebdf8dc420dadf54c61c3acb2af0b704e7e796f4d45f576/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/the_telegraph_258/9d912a4903deab3c5ebaee05e4134420.jpg",
-        "timestamp": 1792657800.0
-    },
-    {
-        "id": "3309e8b818",
-        "title_fa": "معاون سیاسی سپاه: ایران آمریکا را شکست داد",
-        "title_en": "IRGC political deputy says Iran defeated US, takes aim at critics at home",
-        "summary": [
-            "معاون سیاسی سپاه ادعا کرد ایران در مقابل آمریکا پیروز است",
-            "او به منتقدان داخلی هشدار داد و گفت باید به رهبری وفادار بمانند",
-            "این اظهارات پس از تحریم‌های جدید آمریکا منتشر شد"
-        ],
-        "impact": "بیان قدرت داخلی می‌تواند فشار بین‌المللی را تقویت کند",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610227806",
-        "clean_url": "https://www.iranintl.com/en/202610227806",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1792657680.0
-    },
-    {
-        "id": "733b4dffb8",
-        "title_fa": "کاهش ذخایر نفتی خارجی، درآمد ایران را تهدید می‌کند",
-        "title_en": "Iran loses major revenue stream as overseas oil stockpile runs out",
-        "summary": [
-            "ذخایر نفتی خارجی ایران به اتمام رسیده و منبع مهم درآمدی از بین می‌رود",
-            "کاهش این درآمد می‌تواند فشار مالی بر بودجه دولت و برنامه‌های هسته‌ای را افزایش دهد",
-            "بازارهای جهانی ممکن است به کاهش عرضه نفت ایران واکنش نشان دهند",
-            "دولت ایران ممکن است برای جبران این کمبود به فروش نفت از منابع دیگر روی آورد"
-        ],
-        "impact": "کاهش درآمد نفتی می‌تواند توان مالی ایران برای حمایت از برنامه‌های نظامی را تضعیف کند",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "worldisraelnews",
-        "url": "https://worldisraelnews.com/iran-loses-major-revenue-stream-as-overseas-oil-stockpile-runs-out/",
-        "clean_url": "https://worldisraelnews.com/iran-loses-major-revenue-stream-as-overseas-oil-stockpile-runs-out",
-        "image": "https://worldisraelnews.com/wp-content/uploads/2026/03/shutterstock_2644702975.jpg",
-        "timestamp": 1792657560.0
     }
 ]
