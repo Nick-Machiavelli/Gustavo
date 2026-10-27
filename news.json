@@ -1,5 +1,23 @@
 [
     {
+        "id": "199902703e",
+        "title_fa": "قیمت نفت به دلیل دیپلماسی آمریکا‑ایران کاهش یافت",
+        "title_en": "Oil falls amid diplomatic efforts to ease US.-Iran hostilities",
+        "summary": [
+            "قیمت نفت در سشن آسیایی به دلیل امید به کاهش تنش‌های آمریکا‑ایران سقوط کرد",
+            "بازارها انتظار دارند مذاکرات صلح‌آمیز فشارهای تحریمی را کم کند"
+        ],
+        "impact": "کاهش قیمت نفت می‌تواند فشار بر اقتصادهای نفت‌خیز را تسکین دهد",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/money/economy/oil-falls-amid-diplomatic-efforts-to-ease-us-iran-hostilities/ar-AA2g8paK?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/economy/oil-falls-amid-diplomatic-efforts-to-ease-us-iran-hostilities/ar-AA2g8paK",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793067163.7556002
+    },
+    {
         "id": "a6b6cfd8dc",
         "title_fa": "نرخ تورم زیر ۳۰٪، آستانهٔ روانی جدیدی باز شد",
         "title_en": "Inflation's psychological threshold and expectations",
@@ -326,6 +344,25 @@
         "clean_url": "https://www.iranintl.com/en/202610267992",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793037780.0
+    },
+    {
+        "id": "a3425ab5a9",
+        "title_fa": "احتمال بازگشت جنگ ایران پس از تهدیدهای ترامپ",
+        "title_en": "After months of threats by Trump, resumption of Iran war now seems inevitable",
+        "summary": [
+            "ترامپ پس از انتخابات میانه‌دوره‌ای فشار لفظی بر تهران ادامه داد اما اعلام کرد نیازی به حمله نظامی نیست",
+            "مذاکرات هسته‌ای به بن‌بست رسیده؛ تهران از تغییر موضع سر باز نمی‌زند",
+            "تشدید ریتوریک می‌تواند به عملیات نیابتی یا حملات هوایی منجر شود"
+        ],
+        "impact": "احتمال شروع عملیات نظامی آمریکا علیه ایران، ریسک تشدید تنش‌های خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of Israel on MSN",
+        "url": "https://www.msn.com/en-us/news/other/after-months-of-threats-by-trump-resumption-of-iran-war-now-seems-inevitable/ar-AA2g7Gto",
+        "clean_url": "https://www.msn.com/en-us/news/other/after-months-of-threats-by-trump-resumption-of-iran-war-now-seems-inevitable/ar-AA2g7Gto",
+        "image": "http://www.bing.com/th?id=ONUT.OnevGS_rQ2zQswIoRH8Usw&pid=News",
+        "timestamp": 1793035971.0
     },
     {
         "id": "1fd0b7778c",
@@ -5547,45 +5584,5 @@
         "clean_url": "https://www.iranintl.com/en/202610235803",
         "image": "http://www.bing.com/th?id=ONUT.nKfTl2KMvMgcxdi9joevWw&pid=News",
         "timestamp": 1792738980.0
-    },
-    {
-        "id": "d83b8b6148",
-        "title_fa": "اسرائیل توانایی تغییر رژیم ایران را زیر سؤال می‌برد",
-        "title_en": "Experts Question Israel’s Ability to Achieve Regime change in Iran",
-        "summary": [
-            "تحلیل‌گران می‌گویند توان نظامی اسرائیل برای سرنگونی حکومت ایران محدود است",
-            "تحریم‌های بین‌المللی و مقاومت داخلی ایران مانع عملیات‌های بزرگ می‌شود",
-            "هزینه‌های انسانی و سیاسی چنین اقدامی را بسیار پرخطر می‌کند",
-            "تمرکز اسرائیل ممکن است به حمایت از گروه‌های مخالف داخلی معطوف شود"
-        ],
-        "impact": "عدم توانایی اسرائیل در تغییر رژیم، گزینه‌های نظامی را برای خاورمیانه محدود می‌کند",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Politics Today",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM2FEdkhMd3NHaC1tSWVkTEZrWjVkX0dwdlZ2OTFmRlI3Y3haaVdwaVBEM1E4eDZPdXFHbDBiM2JBZDRObTdZSElXZUtMRmNUdk1wQUZ3SkVxNUdMSGJta0JaSDdEajFqbjhaWFA4Vk00bEpyRnhWTDNXVTN6cFlKcC1sZzZqa1FYUGx1Z21JZzEyQzA1MldZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM2FEdkhMd3NHaC1tSWVkTEZrWjVkX0dwdlZ2OTFmRlI3Y3haaVdwaVBEM1E4eDZPdXFHbDBiM2JBZDRObTdZSElXZUtMRmNUdk1wQUZ3SkVxNUdMSGJta0JaSDdEajFqbjhaWFA4Vk00bEpyRnhWTDNXVTN6cFlKcC1sZzZqa1FYUGx1Z21JZzEyQzA1MldZ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792736777.0
-    },
-    {
-        "id": "5a23623432",
-        "title_fa": "طرح جدید ترامپ برای حمله به زیرساخت‌های ایران",
-        "title_en": "Trump's desperate post-midterm plan to end the war in Iran exposed",
-        "summary": [
-            "پس از انتخابات میانی، ترامپ برنامهٔ جدیدی برای ضربه‌های هوایی به انرژی، هسته‌ای و تسلیحات ایران بررسی می‌کند.",
-            "آمریکا و اسرائیل در حال تنظیم نقشه‌های عملیاتی برای نوامبر هستند.",
-            "منابع می‌گویند این حملات می‌توانند اقتصاد ایران را به‌طور جدی تضعیف کنند.",
-            "متخصصان هنوز دربارهٔ موفقیت یا شکست این طرح شک دارند."
-        ],
-        "impact": "افزایش فشار نظامی بر اقتصاد و برنامه هسته‌ای ایران",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Mirror US on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trumps-desperate-post-midterm-plan-to-end-the-war-in-iran-exposed/vi-AA2fVfgm?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trumps-desperate-post-midterm-plan-to-end-the-war-in-iran-exposed/vi-AA2fVfgm",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792735380.0
     }
 ]
