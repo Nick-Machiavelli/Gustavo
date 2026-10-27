@@ -1,5 +1,41 @@
 [
     {
+        "id": "a6b6cfd8dc",
+        "title_fa": "نرخ تورم زیر ۳۰٪، آستانهٔ روانی جدیدی باز شد",
+        "title_en": "Inflation's psychological threshold and expectations",
+        "summary": [
+            "تورم در سپتامبر به زیر ۳۰٪ رسید و نشانگر مرحلهٔ حساس‌تری در مبارزه با تورم است",
+            "ادامهٔ کاهش قیمت‌ها به اعتماد عمومی و پیش‌بینی‌های آینده وابسته است؛ در غیر این صورت ریسک بازگشت فشارها وجود دارد"
+        ],
+        "impact": "کاهش هزینه‌های زندگی کوتاه‌مدت، اما نیاز به مدیریت انتظارات برای حفظ روند نزولی",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "en.yenisafak",
+        "url": "https://en.yenisafak.com/columns/erdal-tanas-karagol/inflations-psychological-threshold-and-expectations-3724847",
+        "clean_url": "https://en.yenisafak.com/columns/erdal-tanas-karagol/inflations-psychological-threshold-and-expectations-3724847",
+        "image": "https://www.bing.com/th?id=ONUT.hhf_LD4lVNMqqLEfxnIipw",
+        "timestamp": 1793059207.534495
+    },
+    {
+        "id": "aee5cd9c10",
+        "title_fa": "نتانیاهو برنده شد: پیش‌بینی جنگ اتمی ترکیه‑اسرائیل",
+        "title_en": "Expect nuclear weapons to go off and a Turkish-Israeli war to break out if Netanyahu is reelected",
+        "summary": [
+            "مقاله‌ای ادعا می‌کند انتخاب مجدد نتانیاهو می‌تواند به استفاده از سلاح‌های هسته‌ای منجر شود",
+            "این پیش‌بینی فاقد شواهد واقعی است و بیشتر به تحریک ترس عمومی می‌پردازد"
+        ],
+        "impact": "افزایش اضطراب بین‌المللی و فشار بر دیپلماسی برای جلوگیری از تشدید تنش‌ها",
+        "tag": "سیاست",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "en.yenisafak",
+        "url": "https://en.yenisafak.com/columns/ibrahim-karagul/expect-nuclear-weapons-to-go-off-and-a-turkish-israeli-war-to-break-out-if-netanyahu-is-reelected-3724846",
+        "clean_url": "https://en.yenisafak.com/columns/ibrahim-karagul/expect-nuclear-weapons-to-go-off-and-a-turkish-israeli-war-to-break-out-if-netanyahu-is-reelected-3724846",
+        "image": "https://www.bing.com/th?id=ONUT.rjTBOM9UKCAim58Qmtow3Q",
+        "timestamp": 1793059207.5339787
+    },
+    {
         "id": "4509585d87",
         "title_fa": "تهران به سمت واقع‌گرایی نزدیک می‌شود؟",
         "title_en": "A Last-Ditch Attempt To Bring Tehran Closer To Mecca – OpEd",
@@ -348,6 +384,24 @@
         "timestamp": 1793030820.0
     },
     {
+        "id": "4e7f2a12b2",
+        "title_fa": "الکسیا پوتیاس برای سومین بار برنده توپ‌طلای زنان شد",
+        "title_en": "برای سومین‌‌بار؛ الکسیا پوتیاس، برنده توپ طلای زنان ۲۰۲۶ شد",
+        "summary": [
+            "پوتیاس برای سومین بار جایزهٔ توپ‌طلای زنان ۲۰۲۶ را دریافت کرد",
+            "تمرکز او بر شبکه‌های اجتماعی باعث نگرانی بایرن دربارهٔ عملکرد میدانی‌اش شده است"
+        ],
+        "impact": "تاثیر مثبت بر تصویر زنان فوتبال و فشار بر باشگاه برای بهبود عملکرد میدانی",
+        "tag": "ورزش",
+        "urgency": 2,
+        "sentiment": 0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610261618",
+        "clean_url": "https://www.iranintl.com/202610261618",
+        "image": "http://www.bing.com/th?id=ONUT.V-0wyAQnJ8AXXMMKuzEWyw&pid=News",
+        "timestamp": 1793028900.0
+    },
+    {
         "id": "0d680ddbd6",
         "title_fa": "اگر نتانیاهو شکست بخورد، اسرائیل چه می‌شود؟",
         "title_en": "Israel’s future: What will actually change if Netanyahu loses?",
@@ -490,6 +544,24 @@
         "clean_url": "https://startupfortune.com/serbias-students-won-an-election-and-young-people-are-starting-to-price-risk",
         "image": "https://www.bing.com/th?id=ONUT.KWXxTqizzG-rh4yoaoB7Uw",
         "timestamp": 1793022462.9628134
+    },
+    {
+        "id": "c292ea87f5",
+        "title_fa": "روابط دفاعی مسکو‑مینسک باید حفظ شود، سفیر روسیه می‌گوید",
+        "title_en": "Moscow, Minsk should maintain joint defense mechanisms — Russian ambassador",
+        "summary": [
+            "سفیر روسیه به بلاروس تأکید کرد که سازوکارهای دفاعی مشترک باید فعال بمانند",
+            "همکاری شامل تبادل داده‌های عملیاتی، مبارزه با تروریسم و مقابله با تحریم‌های اقتصادی است"
+        ],
+        "impact": "تقویت هماهنگی نظامی بلاروس‑روسیه و مقابلهٔ مشترک با فشارهای غربی",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2208261",
+        "clean_url": "https://tass.com/politics/2208261",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1793022000.0
     },
     {
         "id": "2c496dddaa",
@@ -1226,6 +1298,42 @@
         "clean_url": "https://iranwire.com/en/features/159329-inside-the-multi-billion-dollar-flow-of-iraqi-visitors-to-iran",
         "image": "http://www.bing.com/th?id=ONUT.PFnzmCuWjE6yq9_SFKj_1g&pid=News",
         "timestamp": 1792972800.0
+    },
+    {
+        "id": "de67a8c4fd",
+        "title_fa": "حملهٔ هوثی‌ها به تجمع نیروهای سعودی، میدانی خونین",
+        "title_en": "Houthi drones, missiles turn Saudi troop gathering into killing field | Gravitas",
+        "summary": [
+            "پهپادها و موشک‌های هوثی توانستند چندین موضع نظامی سعودی را در سنا تخریب کنند",
+            "تلفات سنگین در تجمع نیروهای عربستانی گزارش شد و خطر گسترش جنگ در خلیج را افزایش داد"
+        ],
+        "impact": "افزایش فشار نظامی بر ائتلاف سعودی و احتمال تشدید درگیری‌های منطقه‌ای",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "WION on MSN",
+        "url": "https://www.msn.com/en-in/news/other/houthi-drones-missiles-turn-saudi-troop-gathering-into-killing-field-gravitas/ar-AA2g7ccJ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/houthi-drones-missiles-turn-saudi-troop-gathering-into-killing-field-gravitas/ar-AA2g7ccJ",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1792972797.0
+    },
+    {
+        "id": "09bde793b1",
+        "title_fa": "نتانیاهو و کاتز رد می‌کنند برنامهٔ اخراج زامیر",
+        "title_en": "'Complete fabrication': Netanyahu, Katz deny plans to fire IDF chief Zamir ahead of election",
+        "summary": [
+            "دولت اسرائیل اعلام کرد خبرهای حذف سرهنگ ژنرال ایال زامیر کاملاً ساختگی است",
+            "این ادعاها پیش از انتخابات مجلس به منظور تخریب لیست لیکود منتشر شده‌اند"
+        ],
+        "impact": "ثبات موقت رهبری نظامی اسرائیل تا زمان برگزاری انتخابات حفظ می‌شود",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/complete-fabrication-netanyahu-katz-deny-230024048.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/complete-fabrication-netanyahu-katz-deny-230024048.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/cdb4212e256f7ac4f1560c4e878415fe21d659fb1d3f58afa147f7020491a62f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Ff377682c3831302faf76f1a02791dc76.jpg",
+        "timestamp": 1792972797.0
     },
     {
         "id": "b3f276f4ee",
@@ -5479,119 +5587,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trumps-desperate-post-midterm-plan-to-end-the-war-in-iran-exposed/vi-AA2fVfgm",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792735380.0
-    },
-    {
-        "id": "b3033170cf",
-        "title_fa": "باغائی: نام‌گذاری جنگ‌ها مسئولیت‌پذیری را مخفی می‌کند",
-        "title_en": "US-Iran war",
-        "summary": [
-            "سخنگوی وزارت خارجه ایران می‌گوید واژه «درگیری ایران» مسئولان حمله را پنهان می‌کند.",
-            "او خواستار استفاده از واژه‌های دقیق برای نشان دادن متجاوزان است."
-        ],
-        "impact": "بیان باغائی می‌تواند روایت‌های رسمی را به چالش بکشد.",
-        "tag": "دیپلماسی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Dunya News",
-        "url": "https://dunyanews.tv/en/Event-Reporting/278",
-        "clean_url": "https://dunyanews.tv/en/Event-Reporting/278",
-        "image": "https://www.bing.com/th?id=ONUT.4l3jzsEtuLylKwOvhbwdYg",
-        "timestamp": 1792733719.1010706
-    },
-    {
-        "id": "2dbba838eb",
-        "title_fa": "ایران تهدید به حمله به زیرساخت‌های غیرنظامی می‌کند",
-        "title_en": "Iran is also threatening to ramp up attacks if targeted. It will go after civilian infrastructure.",
-        "summary": [
-            "تهران اعلام کرد در صورت هدف قرارگیری، به فرودگاه‌ها و خطوط لوله حمله خواهد کرد",
-            "این تهدید می‌تواند انرژی جهانی را در خطر بیندازد"
-        ],
-        "impact": "اختلال در حمل و نقل انرژی، افزایش نوسان قیمت نفت و گاز",
-        "tag": "حملات",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "International Business Times on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-is-also-threatening-to-ramp-up-attacks-if-targeted-it-will-go-after-civilian-infrastructure/ar-AA2fUysC",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-also-threatening-to-ramp-up-attacks-if-targeted-it-will-go-after-civilian-infrastructure/ar-AA2fUysC",
-        "image": "http://www.bing.com/th?id=ONUT.O5es_j8RsMDqlNP9CgS-cQ&pid=News",
-        "timestamp": 1792732606.0
-    },
-    {
-        "id": "61f41b35f3",
-        "title_fa": "دو سوپرتانکر در هرمز به مین‌های دریایی برخورد کردند",
-        "title_en": "Iran’s death trap in Hormuz: Two supertankers blown up on US-approved route; crews flee ships",
-        "summary": [
-            "دو سوپرتانکر حامل ۴٫۵ میلیون بشکه نفت در مسیر تأیید شده توسط آمریکا به مین‌های دریایی برخورد کردند",
-            "خدمه کشتی‌ها تخلیه شدند و خطر آلودگی بزرگ در تنگه هرمز ایجاد شد",
-            "این حادثه نشان می‌دهد ریسک حملات ناوشکن به مسیرهای نفتی در حال افزایش است",
-            "بازار نفت به‌سرعت نوسان کرد و قیمت‌ها کمی ارتقا یافت"
-        ],
-        "impact": "اختلال در عبور نفت از هرمز؛ نوسان قیمت جهانی",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/news/other/iran-s-death-trap-in-hormuz-two-supertankers-blown-up-on-us-approved-route-crews-flee-ships/vi-AA2fXo5Q?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-s-death-trap-in-hormuz-two-supertankers-blown-up-on-us-approved-route-crews-flee-ships/vi-AA2fXo5Q",
-        "image": "https://www.bing.com/th?id=ONUT.jL_OIdMecAtBG0CqCDQhBA",
-        "timestamp": 1792732297.0
-    },
-    {
-        "id": "07fdd0de04",
-        "title_fa": "مارکو روبیویو به کوبایی‌ها پیشنهاد همکاری مخفی با سیا",
-        "title_en": "Al Jazeera English on X: \"Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government. His appeal followed President Trump’s ...",
-        "summary": [
-            "روبیویو از کوبایی‌ها خواست تا به‌صورت مخفی با سیا برای سرنگونی دولت همکاری کنند",
-            "این درخواست پس از تهدید ترامپ به ارسال ناوهای جنگی به کوبا پس از جنگ ایران مطرح شد",
-            "واکنش‌های انتقادی در واشنگتن و کیوبا به این پیشنهاد شدید شد",
-            "احتمال تشدید تنش‌های آمریکایی‑کوبایی در کوتاه‌مدت افزایش یافت"
-        ],
-        "impact": "تشدید فشار سیاسی آمریکا بر کوبا؛ ریسک واکنش بین‌المللی",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "X",
-        "url": "https://x.com/AJEnglish/status/2113845437119504493",
-        "clean_url": "https://x.com/AJEnglish/status/2113845437119504493",
-        "image": "https://www.bing.com/th?id=ONUT.nejBMTQE9kDTdMPMobIYtw",
-        "timestamp": 1792732297.0
-    },
-    {
-        "id": "2be7a59f22",
-        "title_fa": "سال‌ها جنگ نظرات درباره نتانیاهو را در قبیله‌اش تقسیم کرد",
-        "title_en": "Years of war divides opinion on Benjamin Netanyahu in one of his historic strongholds",
-        "summary": [
-            "انتخابات پیش رو اسرائیل با تردیدهای عمیق در میان حامیان نتانیاهو مواجه است",
-            "سال‌ها درگیری با فلسطینیان و جنگ‌های منطقه‌ای نظرات داخلی را دو قطبی کرده",
-            "برخی رأی‌دهندگان هنوز به رهبری او به عنوان تضمین امنیت اعتقاد دارند",
-            "مخالفان او او را عامل تشدید تنش‌ها می‌دانند"
-        ],
-        "impact": "تقسیم‌کردن رأی‌دهندگان می‌تواند نتایج انتخابات و مسیر صلح را تغییر دهد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "ABC (Australian Broadcasting Corporation) on MSN",
-        "url": "https://www.msn.com/en-au/news/australia/years-of-war-divides-opinion-on-benjamin-netanyahu-in-one-of-his-historic-strongholds/ar-AA2fXAOi?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/news/australia/years-of-war-divides-opinion-on-benjamin-netanyahu-in-one-of-his-historic-strongholds/ar-AA2fXAOi",
-        "image": "https://www.bing.com/th?id=ONUT.7-RBt_JF6xycb8ti6DupmA",
-        "timestamp": 1792732297.0
-    },
-    {
-        "id": "ad2be35f04",
-        "title_fa": "حملات کشتی‌ها در تنگه هرمز به بالاترین سطح مارس می‌رسد",
-        "title_en": "UPDATES: US War on Iran, Day 239 - Attacks on Shipping in Strait Of Hormuz Highest Since March",
-        "summary": [
-            "در روز ۲۳۹ جنگ آمریکا‑ایران، حملات به کشتی‌ها در هرمز به اوج مارس رسیده است.",
-            "این افزایش نشان از تشدید خطر قطع مسیرهای انرژی دارد."
-        ],
-        "impact": "افزایش حملات به کشتی‌ها ریسک قطع مسیرهای انرژی را بالا می‌برد.",
-        "tag": "حملات",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "EA WorldView",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGFPalEwcG1TVkVNMGx6N18wbzN2WUxScnNOQkFLRE5yakViZFU5NzFJRzNqU0pTakp4bUlVY1d5bzRDYnBPQ1FSbUtSdjJ0RWZQRm82YVE1MmhNbW5FdVNHUWtHUG04dFNkQnhnLUZyanJrWXNuMVQwRHFFTUVrTko0NDZKNGtk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGFPalEwcG1TVkVNMGx6N18wbzN2WUxScnNOQkFLRE5yakViZFU5NzFJRzNqU0pTakp4bUlVY1d5bzRDYnBPQ1FSbUtSdjJ0RWZQRm82YVE1MmhNbW5FdVNHUWtHUG04dFNkQnhnLUZyanJrWXNuMVQwRHFFTUVrTko0NDZKNGtk",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792732001.0
     }
 ]
