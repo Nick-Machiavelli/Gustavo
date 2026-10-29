@@ -1,5 +1,23 @@
 [
     {
+        "id": "11d9663aa6",
+        "title_fa": "روند رأی‌گیری انتخابات اسرائیل",
+        "title_en": "Israel might change after its election, but not much",
+        "summary": [
+            "میلیون‌ها رأی‌دهنده یهودی و عرب در روز انتخابات به صندوق‌ها رفتند",
+            "حضور گسترده نشان‌دهنده تنش‌های داخلی و اهمیت نتایج است"
+        ],
+        "impact": "نتایج می‌تواند تعادل سیاسی در کنگره اسرائیل را تغییر دهد",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "ZNetwork on MSN",
+        "url": "https://www.msn.com/en-us/news/other/israel-might-change-after-its-election-but-not-much/ar-AA2gmim8?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/israel-might-change-after-its-election-but-not-much/ar-AA2gmim8",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793292172.4883552
+    },
+    {
         "id": "5871c758f4",
         "title_fa": "آمادگی بمباران‌ها و ناوهای جنگی آمریکا علیه ایران",
         "title_en": "US readies bombers, warships and briefs Arab allies on war plan as Mojtaba wants Iran to go nuclear",
@@ -97,6 +115,24 @@
         "timestamp": 1793284709.0
     },
     {
+        "id": "f388ba7e64",
+        "title_fa": "عربستان خواستار قطع حمایت از حوثی‌ها",
+        "title_en": "Saudi Arabia wants Iran to call off the Houthis and make a deal with America",
+        "summary": [
+            "عربستان از ایران می‌خواهد حوثی‌ها را کنار بگذارد و با آمریکا توافق کند",
+            "این درخواست نشان‌دهنده تنش‌های منطقه‌ای پیرامون یمن است"
+        ],
+        "impact": "احتمال تشدید دیپلماسی بین ایران و عربستان و تغییر دینامیک جنگ یمن",
+        "tag": "ژئوپلیتیک",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Economist",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXc2aUV1VGhZcVRTRjBkY0VfTUM3dEJYYkdWaXhFRVlXTHMxN0ZkTTVySWlFaV9McFUtS1NZTl82TTZzUmEtQmRUZGgxZmpWNjB4M25ta2Jma1Y1Rk4wWDRvRWg2cEpjQ3JXR292Tk1vaV9PTFpEMW9UQVJscDdsVWh5WEhpX1A1MzVMN21sb1RKSkxyeVpfMmRXajV0bm5pM1FWakNoMzVINDQtTUZReXEwYndlczBCR3ZCZ0d2cldyLVpwMFhTZVRqMkRuVnFzV1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXc2aUV1VGhZcVRTRjBkY0VfTUM3dEJYYkdWaXhFRVlXTHMxN0ZkTTVySWlFaV9McFUtS1NZTl82TTZzUmEtQmRUZGgxZmpWNjB4M25ta2Jma1Y1Rk4wWDRvRWg2cEpjQ3JXR292Tk1vaV9PTFpEMW9UQVJscDdsVWh5WEhpX1A1MzVMN21sb1RKSkxyeVpfMmRXajV0bm5pM1FWakNoMzVINDQtTUZReXEwYndlczBCR3ZCZ0d2cldyLVpwMFhTZVRqMkRuVnFzV1E",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793281684.0
+    },
+    {
         "id": "1fbe4c288b",
         "title_fa": "جنگ ایران هزینه ۴۷ میلیارد دلار بر مالیات‌گذاران آمریکا",
         "title_en": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
@@ -175,6 +211,24 @@
         "timestamp": 1793259345.0
     },
     {
+        "id": "3b07a5518c",
+        "title_fa": "تصادف قطار پرسرعت در اسپانیا ۶۸ کشته",
+        "title_en": "At least 68 people dead in Spain's second major train crash this year",
+        "summary": [
+            "قطار سریع‌السیر به دلیل خطای سیگنال قرمز به قطار ساکن برخورد کرد",
+            "۶۸ نفر جان خود را از دست دادند و عملیات نجات ادامه دارد"
+        ],
+        "impact": "بررسی جدی ایمنی راه‌آهن اروپا و فشار بر شرکت رنفه",
+        "tag": "حوادث",
+        "urgency": 6,
+        "sentiment": -0.9,
+        "source": "Ariana News",
+        "url": "https://www.ariananews.af/at-least-68-people-dead-in-spains-second-major-train-crash-this-year/",
+        "clean_url": "https://www.ariananews.af/at-least-68-people-dead-in-spains-second-major-train-crash-this-year",
+        "image": "https://www.ariananews.af/wp-content/uploads/2026/10/Train-crash.jpg",
+        "timestamp": 1793258460.0
+    },
+    {
         "id": "eaa00cfc07",
         "title_fa": "قیمت نفت به‌دلیل دیپلماسی آمریکا‑ایران کاهش یافت",
         "title_en": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy",
@@ -193,6 +247,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E",
         "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793257140.0
+    },
+    {
+        "id": "9e5aefd649",
+        "title_fa": "جِی‌دی ونس نامه‌ای برای ایران فرستاد",
+        "title_en": "JD Vance reportedly sent Iran a letter with the key issue to restart negotiations: 'Enthusiastic'",
+        "summary": [
+            "معاون رئیس‌جمهور آمریکا به ایران نامه‌ای با درخواست مذاکرات هسته‌ای ارسال کرد",
+            "او گفت ادامه جنگ فقط با توافق هسته‌ای ممکن است"
+        ],
+        "impact": "فشار دیپلماتیک آمریکا بر ایران برای بازگشت به میز مذاکره",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "International Business Times on MSN",
+        "url": "https://www.msn.com/en-us/news/other/jd-vance-reportedly-sent-iran-a-letter-with-the-key-issue-to-restart-negotiations-enthusiastic/ar-AA2glkB4",
+        "clean_url": "https://www.msn.com/en-us/news/other/jd-vance-reportedly-sent-iran-a-letter-with-the-key-issue-to-restart-negotiations-enthusiastic/ar-AA2glkB4",
+        "image": "http://www.bing.com/th?id=ONUT.-RSeGHftWHxFZjeWPdxCVA&pid=News",
+        "timestamp": 1793251547.0
     },
     {
         "id": "119f18a4fa",
@@ -368,6 +440,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-prepares-disrupt-us-midterms-080000104.html",
         "image": "http://www.bing.com/th?id=ONUT.6O2n-62gNdaT510WVKmVyw&pid=News",
         "timestamp": 1793235600.0
+    },
+    {
+        "id": "f06296f84e",
+        "title_fa": "پس از انتخابات اسرائیل: تشکیل دولت",
+        "title_en": "پس از اعلام نتایج نهایی انتخابات اسرائیل چه اتفاقی می‌افتد؟",
+        "summary": [
+            "نتانیاهو با ۲۶ کرسی بزرگ‌ترین حزب شد اما هنوز اکثریت لازم نیست",
+            "رئیس‌جمهور هرتزوگ به نمایندگان ماموریت تشکیل دولت می‌دهد"
+        ],
+        "impact": "احتمال تشکیل ائتلاف‌های پیچیده و تأخیر در سیاست داخلی اسرائیل",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610293187",
+        "clean_url": "https://www.iranintl.com/202610293187",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1793234400.0
     },
     {
         "id": "a21d61448b",
@@ -859,6 +949,60 @@
         "clean_url": "https://www.msn.com/en-in/news/other/47-billion-and-counting-iran-wars-real-cost-hits-trump-just-one-week-before-midterms/vi-AA2ggtJb",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793207880.0
+    },
+    {
+        "id": "2da7881448",
+        "title_fa": "ECB تصمیم به نگه‌داشتن نرخ بهره",
+        "title_en": "ECB keeps December rate hike on table amid mounting inflation risks",
+        "summary": [
+            "بانک مرکزی اروپا نرخ بهره را ثابت نگه داشت اما افزایش دسامبر را در برنامه دارد",
+            "خطرهای تورمی ناشی از انرژی گران شده را برجسته کرد"
+        ],
+        "impact": "بازارهای مالی اروپا تحت فشار تورمی و نرخ بهره باقی می‌مانند",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/economy/ecb-keeps-december-rate-hike-on-table-amid-mounting-inflation-risks",
+        "clean_url": "https://asia.nikkei.com/economy/ecb-keeps-december-rate-hike-on-table-amid-mounting-inflation-risks",
+        "image": "https://www.bing.com/th?id=ONUT.khnP9cu2OwHzTNjCGS5yRg",
+        "timestamp": 1793205756.0
+    },
+    {
+        "id": "78b3b66994",
+        "title_fa": "۱۰ بانوی اول آمریکا و مد",
+        "title_en": "10 first ladies who changed American fashion forever",
+        "summary": [
+            "مقاله به بررسی تأثیر اولین بانوان آمریکا بر سبک لباس‌پوشی می‌پردازد",
+            "نشان می‌دهد چطور هر یک با سلیقه‌ خود مد را شکل دادند"
+        ],
+        "impact": "افزایش شناخت عمومی از نقش زنان در تاریخ مد",
+        "tag": "فرهنگ",
+        "urgency": 2,
+        "sentiment": 0.5,
+        "source": "Looksie on MSN",
+        "url": "https://www.msn.com/en-us/lifestyle/other/10-first-ladies-who-changed-american-fashion-forever/vi-AA2glu6P?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/lifestyle/other/10-first-ladies-who-changed-american-fashion-forever/vi-AA2glu6P",
+        "image": "https://www.bing.com/th?id=ONUT.kYmCBiAq1O-L1AunkSeAFA",
+        "timestamp": 1793205755.0
+    },
+    {
+        "id": "44c67d6024",
+        "title_fa": "کالای جدید بریورز در فروشگاه‌ها",
+        "title_en": "Brewers World Series Championship merch hits shelves at Dick's Sporting Goods",
+        "summary": [
+            "پس از قهرمان شدن در World Series، کالاهای تیم در فروشگاه‌ها عرضه شد",
+            "تقاضای بالا باعث پر شدن قفسه‌ها شد"
+        ],
+        "impact": "افزایش فروش خرده‌فروشی و تبلیغات تیم",
+        "tag": "ورزشی",
+        "urgency": 1,
+        "sentiment": 0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/videos/brewers-world-series-championship-merch-154343774.html",
+        "clean_url": "https://www.yahoo.com/news/videos/brewers-world-series-championship-merch-154343774.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/d400b5ae4ad10bebb34ef77168f492abc7742f1e39ce5958cc298adad23d4ebc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwiti_fox_local_videos_761%2Ffe21df1c048ec9f6e9681d9ba4e490c7.jpg",
+        "timestamp": 1793205755.0
     },
     {
         "id": "47f32eafa7",
@@ -5459,155 +5603,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-yemen-houthis-riyadh-strike-middle-east-tensions-gulf-countries-israel-latest-news/liveblog/135201117.cms",
         "image": "https://www.bing.com/th?id=ONUT.s9DVJfLMUZA0KxJLptqsUA",
         "timestamp": 1792936043.0
-    },
-    {
-        "id": "ff3491d5f7",
-        "title_fa": "ایران پس از جنگ با آمریکا همه چیز عوض می‌شود",
-        "title_en": "Iran says 'nothing will be same' in region after war with US",
-        "summary": [
-            "سخنران ارشد وزارت خارجه ایران اعلام کرد جنگ با ایالات متحده ساختار سیاسی‑اقتصادی خاورمیانه را به‌کل تغییر خواهد داد",
-            "او به «نقش جدید» ایران در حمایت از گروه‌های مقاوم در منطقه اشاره کرد",
-            "این اظهارات می‌تواند باعث تشدید رادیکالیسم و بازنگری استراتژی‌های کشورهای همسایه شود"
-        ],
-        "impact": "کشورهای منطقه ممکن است سیاست‌های امنیتی خود را سخت‌تر کنند و مذاکرات هسته‌ای به خطر بیفتد",
-        "tag": "سیاست خارجی",
-        "urgency": 9,
-        "sentiment": -0.5,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzN1T3hGZVFOX2R5NHFOS2dHNFNMQTE4elFDcHhYRlFucGU2RVpTS2JnYkhPSEJTSUVYNlRlRnM3c3RMWU9rOFY4enVDVXZEYzZBNjJ6Tl90bG5lek1TSng1dzVBd2NjM2dhLWFaMkR3OURMbWljUjF4eUJCYWZOQXFIT0dYWXFBR3h1a2lKVi02empqWGd6d05wYVhWdTlJZDUtVXVn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzN1T3hGZVFOX2R5NHFOS2dHNFNMQTE4elFDcHhYRlFucGU2RVpTS2JnYkhPSEJTSUVYNlRlRnM3c3RMWU9rOFY4enVDVXZEYzZBNjJ6Tl90bG5lek1TSng1dzVBd2NjM2dhLWFaMkR3OURMbWljUjF4eUJCYWZOQXFIT0dYWXFBR3h1a2lKVi02empqWGd6d05wYVhWdTlJZDUtVXVn",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792930873.0
-    },
-    {
-        "id": "8429dad48c",
-        "title_fa": "گالی‌باف: ایران در برابر تهدیدهای آمریکا ایستادگی می‌کند",
-        "title_en": "Iranian people not to give in to US threats or pressures",
-        "summary": [
-            "گالی‌باف در مجلس تأکید کرد مردم ایران تحت هیچ فشار نظامی آمریکا تسلیم نمی‌شوند.",
-            "او وعده پاسخ غیرقابل تصور به هر نقض حریم ملی داد.",
-            "این سخنرانی نشان می‌دهد رهبری داخلی به تقویت مقاومت ملی می‌پردازد.",
-            "ادعای آمریکا مبنی بر فشارهای نظامی به‌نظر می‌رسد توسط ایران رد می‌شود."
-        ],
-        "impact": "تقویت روحیه ملی؛ احتمال تشدید تنش‌های دیپلماتیک",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/248899/Iranian-people-not-to-give-in-to-US-threats-or-pressures",
-        "clean_url": "https://en.mehrnews.com/news/248899/Iranian-people-not-to-give-in-to-US-threats-or-pressures",
-        "image": "https://www.bing.com/th?id=ONUT._Jix58xhS8UWp-Tp6pkB_A",
-        "timestamp": 1792930308.478761
-    },
-    {
-        "id": "49ca2d32a9",
-        "title_fa": "پرزیدنت اوباما و ترامپ در همان روز گردهمایی های میان دوره ای را برگزار کردند.",
-        "title_en": "Presidents Obama and Trump held competing midterm rallies on the same day. They clashed on Iran.",
-        "summary": [
-            "President Trump held a rally in Georgia on Saturday in which he claimed events in the Middle East were enriching the U.S., whereas former President Obama argued in Michigan that the Iran war was driving up \"the price of just about everything."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "International Business Times",
-        "url": "https://www.msn.com/en-us/news/other/presidents-obama-and-trump-held-competing-midterm-rallies-on-the-same-day-they-clashed-on-iran/ar-AA2g1vAq",
-        "clean_url": "https://www.msn.com/en-us/news/other/presidents-obama-and-trump-held-competing-midterm-rallies-on-the-same-day-they-clashed-on-iran/ar-AA2g1vAq",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2g13tR.img?w=1280&h=720&m=4&q=84",
-        "timestamp": 1792930179.0
-    },
-    {
-        "id": "447bccc2b6",
-        "title_fa": "جنگ ایران؛ رأی‌گیری آمریکا و اسرائیل",
-        "title_en": "How the Iran war is influencing voters in the U.S. and Israel",
-        "summary": [
-            "جنگ جاری ایران‑اسرائیل به عنوان موضوعی مهم در انتخابات آمریکا و اسرائیل مطرح شد.",
-            "رأی‌داران در هر دو کشور به امنیت و هزینه‌های نظامی حساس می‌شوند.",
-            "احزاب سفت‌گیر حمایت از فشارهای سخت‌گیرانه علیه ایران را می‌پذیرند.",
-            "این موضوع می‌تواند سیاست خارجی را به سمت تشدید تنش‌ها سوق دهد."
-        ],
-        "impact": "تقویت موضع‌گیری سخت‌گیرانه در سیاست‌گذاران و احتمال افزایش تحریم‌ها",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2tWNzJzT2ZBVEIwY09lQ2NvdkdvbWNZM18tQXcxWXhRSHZKc1cyNmxNN0MxVng2Y2xYTlZTbmJJUGx4aUxGYXp0Wkg2Vnc0ZnNOYjNmdklkc1VKc0VCWlBHcF9RU3RsQlQybGQ0U3VnUXVqWTBkX0ZqRElVTzZnZ3NSUDNPekJZWHM4Wjd5OVd2cVdsY2xObUI5NG02OUVvTzFLSTk3TjU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2tWNzJzT2ZBVEIwY09lQ2NvdkdvbWNZM18tQXcxWXhRSHZKc1cyNmxNN0MxVng2Y2xYTlZTbmJJUGx4aUxGYXp0Wkg2Vnc0ZnNOYjNmdklkc1VKc0VCWlBHcF9RU3RsQlQybGQ0U3VnUXVqWTBkX0ZqRElVTzZnZ3NSUDNPekJZWHM4Wjd5OVd2cVdsY2xObUI5NG02OUVvTzFLSTk3TjU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792929988.0
-    },
-    {
-        "id": "1ef112007d",
-        "title_fa": "محاسبه میانه‌دوره ترامپ برای آینده جنگ ایران",
-        "title_en": "Trump's midterm calculus could decide what happens next in the Iran war",
-        "summary": [
-            "تحلیلگران می‌گویند تصمیمات انتخاباتی ترامپ می‌تواند مسیر سیاست‌های آمریکا نسبت به جنگ ایران را تغییر دهد.",
-            "اگر جمهوری‌خواهان به کنگره دست یابند، احتمال افزایش تحریم‌ها یا حمایت نظامی از اسرائیل بالا می‌رود.",
-            "در غیر این صورت، فشار دیپلماتیک ممکن است ملایم‌تر شود؛ اما ریسک نااطمینانی سیاسی باقی می‌ماند."
-        ],
-        "impact": "تعیین سطح فشار اقتصادی و نظامی آمریکا بر ایران",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/opinion/trumps-midterm-calculus-could-decide-what-happens-next-in-the-iran-war-14055200.html",
-        "clean_url": "https://www.firstpost.com/opinion/trumps-midterm-calculus-could-decide-what-happens-next-in-the-iran-war-14055200.html",
-        "image": "https://images.firstpost.com/uploads/2026/10/Representational-Image-10-2026-10-e193bfa24c1a583f6965350e0f6425a2-1200x675.jpg?im=Resize,width=720,aspect=fit,type=normal",
-        "timestamp": 1792929120.0
-    },
-    {
-        "id": "f31cb2ef95",
-        "title_fa": "دموکرات‌ها می‌توانند سیاست ایران را محدود کنند",
-        "title_en": "4 ways US foreign policy could change if Democrats win in November",
-        "summary": [
-            "اگر دموکرات‌ها کنترل کنگره را به دست بگیرند، می‌توانند هزینه‌های دفاعی را کاهش داده و فشار بر ترامپ برای کسب تأیید کنگره اعمال کنند",
-            "این تغییر می‌تواند جنگ ایران‑آمریکا را بدون تصویب مجلس متوقف کند"
-        ],
-        "impact": "کاهش هزینه‌های نظامی می‌تواند فشار مالی بر دولت ترامپ را کاهش دهد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Rappler",
-        "url": "https://www.rappler.com/world/us-canada/changes-usa-foreign-policy-victory-midterm-elections-2026/",
-        "clean_url": "https://www.rappler.com/world/us-canada/changes-usa-foreign-policy-victory-midterm-elections-2026",
-        "image": "https://www.rappler.com/tachyon/2026/10/2026-10-20T174856Z_1170868734_RC2Q4OAD5P1Y_RTRMADP_3_USA-ELECTION-FLORIDA-RETIREES.jpg",
-        "timestamp": 1792927140.0
-    },
-    {
-        "id": "5d08ecedc6",
-        "title_fa": "عربستان سعودی موشک‌ها و پهپادهای حوثی را مهار کرد",
-        "title_en": "Saudi Arabia intercepts Houthi missiles, drones as Yemen fighting continues",
-        "summary": [
-            "ارتش سعودی موشک‌های بالستیک و پهپادهای حوثی را بر فراز ریاض و جنوب کشور مهار کرد",
-            "هدف حوثی‌ها تخریب زیرساخت‌های هوایی و ایجاد ترس در جمعیت بود",
-            "موفقیت در دفع این تهدیدها نشان‌دهنده توان دفاعی سعودی در برابر حملات ایرانی‌پشتیبان است"
-        ],
-        "impact": "حفظ امنیت داخلی سعودی و جلوگیری از تلفات جانی و زیرساختی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610253322",
-        "clean_url": "https://www.iranintl.com/en/202610253322",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/65d889f8a9f056208af25b58e7b2ec428712cd8d-6000x4000.jpg?w=576&h=384&q=90&fit=max&auto=format",
-        "timestamp": 1792926420.0
-    },
-    {
-        "id": "f24554df76",
-        "title_fa": "دانا بش به تروی جکسون نکات جنگ ایران می‌آموزد",
-        "title_en": "'STRIKE IRAN, FACE CONSEQUENCES': Tehran Warns Trump Of Big Revenge If US Launches New Strike",
-        "summary": [
-            "در مصاحبه‌ای، تروی جکسون به‌صورت ناخواسته ضعف خود را در مسائل ایران نشان داد",
-            "این صحنه نشان می‌دهد برخی نمایندگان هنوز درک کافی از سیاست خارجی ندارند"
-        ],
-        "impact": "عدم آگاهی نمایندگان می‌تواند تصمیم‌گیری‌های نادرست در مجلس را تشدید کند",
-        "tag": "سیاسی",
-        "urgency": 2,
-        "sentiment": -0.1,
-        "source": "The Times of India",
-        "url": "https://www.msn.com/en-in/news/other/strike-iran-face-consequences-tehran-warns-trump-of-big-revenge-if-us-launches-new-strike/vi-AA2g2PD7",
-        "clean_url": "https://www.msn.com/en-in/news/other/strike-iran-face-consequences-tehran-warns-trump-of-big-revenge-if-us-launches-new-strike/vi-AA2g2PD7",
-        "image": "https://static.toiimg.com/thumb/msid-135196411,width-800,resizemode-4/135196411.jpg",
-        "timestamp": 1792924800.0
     }
 ]
