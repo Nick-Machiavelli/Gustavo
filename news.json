@@ -1,5 +1,24 @@
 [
     {
+        "id": "4ce9ac46cd",
+        "title_fa": "نتایج انتخابات اسرائیل و خطر تشدید تنش",
+        "title_en": "Tel Aviv Tales",
+        "summary": [
+            "نتایج اولیه نشان می‌دهد نتانیه‌مو هنوز به‌عنوان نخست‌وزیر موقت باقی می‌ماند و کنگرهٔ اسرائیل تکه‌تکه است.",
+            "احزاب عربی به‌طور تاریخی بیشترین کرسی‌ها را به‌دست آورده‌اند که می‌تواند موضع‌گیری سخت‌گیرانه نسبت به ایران را تقویت کند.",
+            "تشدید رقابت‌های داخلی ممکن است زمینهٔ بازگشت درگیری با ایران را فراهم کند."
+        ],
+        "impact": "عدم ثبات سیاسی در اسرائیل می‌تواند فضای منطقه را بی‌ثبات‌تر کند.",
+        "tag": "انتخابات",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/tel-aviv-tales/articleshow/135286887.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/tel-aviv-tales/articleshow/135286887.cms",
+        "image": "https://www.bing.com/th?id=ONUT.HpOJ09Vhxbg9K-dYdM8B0Q",
+        "timestamp": 1793242370.2317576
+    },
+    {
         "id": "49464bc986",
         "title_fa": "ترامپ روسیه را از تحریم دیزل آزاد کرد",
         "title_en": "Sanctions by Phone Call",
@@ -60,6 +79,25 @@
         "timestamp": 1793241677.5780406
     },
     {
+        "id": "2ee2802c7a",
+        "title_fa": "قیمت نفت به دلیل دیپلماسی جدید ایران کاهش یافت",
+        "title_en": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
+        "summary": [
+            "بازارهای نفتی پس از شایعات دربارهٔ دیپلماسی تازه ایران، قیمت‌ها را کاهش دادند.",
+            "تجارت‌گران انتظار دارند تحریم‌های نفتی ملایم‌تر شود و هرمز زودتر باز گردد.",
+            "این واکنش نشان می‌دهد قیمت نفت به سرعت به تحولات دیپلماتیک منطقه‌ای واکنش می‌دهد."
+        ],
+        "impact": "کاهش قیمت نفت فشار مالی بر کشورهای مصرف‌کننده را کم می‌کند.",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWhmOUJoc0lkWEs5QlBSaDVpMjd4QlRILTVyTmk4dlRNU1FNRE0tS0N2NHdQZFZGQjZxZjlSOFVwSGhaQVhrUmJrb1JySXlhZDctVHdqMUIyU0gtUnFENDdoRkh4QnlxR1pfeGxMMU1UUWJydnhxSFJ1d3djdjZYQ1ZUcUxZMVBEVFFwaWN6VkhKYnNtMTdBWk4ycjJSaEczeXhONWtaN3ZXUjFZNW1aS3NMVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWhmOUJoc0lkWEs5QlBSaDVpMjd4QlRILTVyTmk4dlRNU1FNRE0tS0N2NHdQZFZGQjZxZjlSOFVwSGhaQVhrUmJrb1JySXlhZDctVHdqMUIyU0gtUnFENDdoRkh4QnlxR1pfeGxMMU1UUWJydnhxSFJ1d3djdjZYQ1ZUcUxZMVBEVFFwaWN6VkhKYnNtMTdBWk4ycjJSaEczeXhONWtaN3ZXUjFZNW1aS3NMVQ",
+        "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793240700.0
+    },
+    {
         "id": "a21d61448b",
         "title_fa": "نتانیاهو پس از انتخابات اسرائیل نتایج ناامیدکننده",
         "title_en": "Netanyahu dashes hopes of the Israelis desperate for change",
@@ -116,6 +154,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Mcl90c0FjWm1ETXFmYmZmZmZMdEZOT3hmUGpXZGN0WG1BM0ZWX18yQkhYT3Z0Uk1FOGJDOGlscThUam1hRFlaY3I3Z0tlYmFONzJ0cllhZ0VHU2Vmcktpa3MwYlprU3hMM1NyNUtTM2ViQQ",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793230295.0
+    },
+    {
+        "id": "e5af160296",
+        "title_fa": "حوثی‌ها با گلوله‌های سمی در یمن حمله کردند",
+        "title_en": "Yemen accuses Iran-backed Houthis of using suspected toxic shells",
+        "summary": [
+            "وزیر اطلاعات یمن ادعا کرد حوثی‌های وابسته به ایران از گلوله‌های سمی در جبهه‌های عقرد و کهلان استفاده کرده‌اند.",
+            "این ادعا می‌تواند نقض کنوانسیون سلاح‌های شیمیایی باشد و واکنش بین‌المللی را به‌سرعت به‌دنبال داشته باشد.",
+            "یمن خواستار تحقیق فوری سازمان ملل و OPCW شد تا مسئولان را به‌حساب آورد."
+        ],
+        "impact": "فشار بین‌المللی بر ایران و حوثی‌ها برای توقف استفاده از سلاح‌های شیمیایی افزایش می‌یابد.",
+        "tag": "سلاح_شیمیایی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610282388",
+        "clean_url": "https://www.iranintl.com/en/202610282388",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793230020.0
     },
     {
         "id": "88651a21bb",
@@ -176,6 +233,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUg3U20teGRmUGJTMVJrb29JZl9xOTU0N2tzZEVHY2xxMzVtTDZ6UmFDc01JbGhTVUlwOVZUOC1PVEQwLWpkMld4Qk1hbUZvelI2UUVSOEg5YUZYWGNfdnE2Z2xFNWYwMHN0UDRfVHE0T0ZMckp6bzRXdnIza2U1a1BPM3BjTDdKYnZ2eVhPaHR1c3NRTzlwWldmUXJjSkg2NFdUdGQwWQ",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793225814.0
+    },
+    {
+        "id": "beb9c70280",
+        "title_fa": "امارات خواستار فروکش کردن تنش‌های منطقه‌ای",
+        "title_en": "UAE urges de-escalation as Iran crisis raises regional risks",
+        "summary": [
+            "امارات از کشورهای منطقه خواستار دیالوگ و پیروی از حقوق بین‌الملل برای جلوگیری از تشدید بحران شد.",
+            "بیانیه نشان می‌دهد ابزاری دیپلماتیک برای مهار تنش‌های ایران‑اسرائیل در حال شکل‌گیری است.",
+            "این درخواست می‌تواند فشار برای مذاکرات صلح را در سطح منطقه‌ای تقویت کند."
+        ],
+        "impact": "احتمال برگزاری مذاکرات صلحی بین‌المللی افزایش می‌یابد.",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610280404",
+        "clean_url": "https://www.iranintl.com/en/202610280404",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793222580.0
     },
     {
         "id": "61d54d3b04",
@@ -1478,6 +1554,25 @@
         "clean_url": "https://www.msn.com/en-my/news/other/un-nuclear-watchdog-chief-urges-iran-to-grant-access/ar-AA2gcwlZ",
         "image": "https://c.ndtvimg.com/2026-10/o94oerm8_-rafael-grossi_625x300_28_October_26.jpeg",
         "timestamp": 1793140680.0
+    },
+    {
+        "id": "80e8f3c67b",
+        "title_fa": "ایران طرح هفت‌روزه صلح را پیش می‌برد",
+        "title_en": "Iran Pushes Rejected 7-Day Peace Plan, Warns Against New Israeli Strikes",
+        "summary": [
+            "وزیر خارجه ایران گفت مذاکرات برای اجرای طرح هفت‌روزه بازگشت هرمز در کمتر از یک هفته ادامه دارد.",
+            "در عین حال ایران هشدار داد در صورت حمله اسرائیل، پیامدهای اقتصادی ویرانگری برای اسرائیل به‌وجود خواهد آمد.",
+            "نیروهای مسلح ایران آماده دفاع از سرزمین هستند، اما هنوز به دیپلماسی فرصت می‌دهند."
+        ],
+        "impact": "اگر طرح اجرا شود، مسیر نفت خلیج به سرعت باز می‌گردد و فشار تحریم‌ها کاهش می‌یابد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Rferl.org",
+        "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
+        "clean_url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
+        "image": "https://gdb.rferl.org/e83fd4fb-5a57-4482-a78b-55306ce5a35f_cx0_cy4_cw0_w1200_h630.jpg",
+        "timestamp": 1793139180.0
     },
     {
         "id": "46fcdfeccc",
@@ -5505,100 +5600,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWJVY1gxXzJRQmtxN1lTemRpbmRYQlREUWF1ZlY5Y29NSWJRX1ZhZTVmRWV6RllpaVphZWxZN2pCektYOWNpeHpUWXpPcC1rOW1JOE9sa1l6eS1Kd3JJR01nUFV5a01JZElvV1lFdmtEaC1mRVdDeHZPWXpNMXJMVFlhZ2tJMTRQRTRKdnZBZGV2czBRZTlHUFo1U2ZkUzFnd0d2akRHTUVFZlo0NzU4cmZIamc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1792909973.0
-    },
-    {
-        "id": "8f22843db7",
-        "title_fa": "ایران هدف‌گیری شهروندان خلیج را تهدید کرد",
-        "title_en": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG",
-        "summary": [
-            "ایران اعلام کرد در صورت ادامه کمپین هوایی آمریکا یا اسرائیل، اهداف غیرنظامی خلیج فارس را هدف قرار خواهد داد.",
-            "این تهدید می‌تواند به تلفات غیرنظامی و بحران انسانی در منطقه منجر شود.",
-            "هدف تهران فشار بر طرفین برای بازنگری در استراتژی هوایی و جلوگیری از گسترش جنگ است."
-        ],
-        "impact": "افزایش خطر تلفات غیرنظامی و فشار بین‌المللی برای محدود کردن عملیات هوایی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHZRd2NCdlZId2xaSDd5Z1NEcG5BVEFaR2NITXRJZHY1V0JaS1lodS04Q1RpVUpHRlNWcWl2amRwOFUtMmdpM1NQT0IzNzdvSkIyRktxWWdNeU84UHRvYU5BN0xWUzEtdlgtSV9IZmRTMGFiRGNFaFAzc3NMSi00R2cwbjUzeHpHdFZlY2JhMng4UWhlaE1pTk5mMGllOFlJNF9mbGVXc1pBZDNZYl9FeUR0ZlRKRzlhcXh0WVZldGtkZUpa?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHZRd2NCdlZId2xaSDd5Z1NEcG5BVEFaR2NITXRJZHY1V0JaS1lodS04Q1RpVUpHRlNWcWl2amRwOFUtMmdpM1NQT0IzNzdvSkIyRktxWWdNeU84UHRvYU5BN0xWUzEtdlgtSV9IZmRTMGFiRGNFaFAzc3NMSi00R2cwbjUzeHpHdFZlY2JhMng4UWhlaE1pTk5mMGllOFlJNF9mbGVXc1pBZDNZYl9FeUR0ZlRKRzlhcXh0WVZldGtkZUpa",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792902120.0
-    },
-    {
-        "id": "ca6cf2bf9e",
-        "title_fa": "ترامپ آمادهٔ تشدید تنش با ایران",
-        "title_en": "Trump Prepares for Iran Escalation After US, Israeli Elections",
-        "summary": [
-            "پس از انتخابات آمریکا و اسرائیل، ترامپ به گزینه‌های نظامی علیه ایران اشاره کرد",
-            "او فشار اقتصادی و تحریم‌های سخت‌گیرانه را به‌عنوان ابزار اصلی مطرح کرد",
-            "پیام این سخنرانی، هشدار به موضع‌گیری‌های ایران در قبال اسرائیل است"
-        ],
-        "impact": "افزایش ریسک برخورد نظامی و تحریم‌های جدید",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbS1tMzRuM2wzRGNDV0R5b3o5N3p0V1U1OVhreW01YXB6dWdmQlBCMS1Hb2FmQnJYYVZsSVJKNG5pVHFGN1pqWlJYUk13cC02OTR5RWpZczZ1c21KMjkyMmIxOXJOQ1VDZFg0V3pSTENZTi1DM1NDeGx1OHJBVVc4TjlyeG84ZUhTZ3NXVnVHZGZVaE9tVFFoSHVkUlJoeE5BMkJJVU9kOFNSUG05YVRtc09R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbS1tMzRuM2wzRGNDV0R5b3o5N3p0V1U1OVhreW01YXB6dWdmQlBCMS1Hb2FmQnJYYVZsSVJKNG5pVHFGN1pqWlJYUk13cC02OTR5RWpZczZ1c21KMjkyMmIxOXJOQ1VDZFg0V3pSTENZTi1DM1NDeGx1OHJBVVc4TjlyeG84ZUhTZ3NXVnVHZGZVaE9tVFFoSHVkUlJoeE5BMkJJVU9kOFNSUG05YVRtc09R",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792899780.0
-    },
-    {
-        "id": "42e68081df",
-        "title_fa": "بحران سوخت ایران عمیق‌تر شد",
-        "title_en": "Iran fuel crisis deepens amid war and sanctions",
-        "summary": [
-            "جنگ و تحریم‌ها واردات نفت را به‌طور جدی محدود کرده‌اند",
-            "قیمت بنزین به‌سرعت بالا رفته و توزیع سوخت در شهرها دچار کمبود شده",
-            "دولت برای حفظ نظم، محدودیت‌های ساعتی و کارت‌سوخت را گسترش می‌دهد"
-        ],
-        "impact": "تأمین سوخت برای حمل و نقل و تولید به‌طور جدی مختل می‌شود",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUs5UENpTE0wZDRNcWxmeVR6cEk4cXJ1ZmhJT21ycG9EdFRMRXdxMEU3ZS1RUng3RFJQelZTN09ZanBtdUY5V2pFdWliZVZLenNpejc5VEt6YmFYZ2dIUEROV0xDUUZVdmp5aWdILVZfS0RKLUxHOEUxc2l0amhzTE1fTGV4TVHSAYcBQVVfeXFMTnZTUXBPQ2stQm0tdGp2TGVuLWt2V1FUdmthSzdBQy1yTlBZbi0zZzZ3VFJWejl3R2VUR2p4cFdoZmVSbWU3QVRLU3hEbUxlV09uNlFUQ25weTF0YXFfZUJ3N1J0NXJqajdUU3pGSmhKUEZ0cVdYMVVxYm1hdE5Zakh0dXdMSnNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUs5UENpTE0wZDRNcWxmeVR6cEk4cXJ1ZmhJT21ycG9EdFRMRXdxMEU3ZS1RUng3RFJQelZTN09ZanBtdUY5V2pFdWliZVZLenNpejc5VEt6YmFYZ2dIUEROV0xDUUZVdmp5aWdILVZfS0RKLUxHOEUxc2l0amhzTE1fTGV4TVHSAYcBQVVfeXFMTnZTUXBPQ2stQm0tdGp2TGVuLWt2V1FUdmthSzdBQy1yTlBZbi0zZzZ3VFJWejl3R2VUR2p4cFdoZmVSbWU3QVRLU3hEbUxlV09uNlFUQ25weTF0YXFfZUJ3N1J0NXJqajdUU3pGSmhKUEZ0cVdYMVVxYm1hdE5Zakh0dXdMSnNR",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792898112.0
-    },
-    {
-        "id": "d9310327ff",
-        "title_fa": "ترامپ می‌گوید باید کشتار رهبران ایرانی را متوقف کند",
-        "title_en": "Trump says he has to ‘stop’ killing Iranian leaders to know who US is negotiating with",
-        "summary": [
-            "ترامپ ادعا کرد برای شناخت طرف مقابل، باید از هدف قرار دادن رهبران ایرانی دست بکشد.",
-            "این بیانیه نشان می‌دهد مذاکرات پنهان وجود دارد ولی جزئیات نامشخص است.",
-            "واکنش ایران می‌تواند به افزایش تنش‌های سایبری یا تهدیدات کلامی منجر شود."
-        ],
-        "impact": "کاهش فشار نظامی موقت، اما عدم وضوح مذاکرات می‌تواند ناآرامی‌های منطقه‌ای را تشدید کند",
-        "tag": "دیپلماتیک",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWprbl85ZEJubTlkWmdRNlRSLWx0ZVBnT0RYb19odmlSd0p5azU5RFhJYmNjaUFkbnZqRS1tRGtMclVqQXB0QTZYQW5ZWjM2VG9rOVp5dnNqQWtObW16VDJWWmNQU1V3Y3pnTGM3NHVWYWJsVmh1WUFrMkx0NlRVSEQ2LWNHanEyRVJtUDJMWVd4cHVBbmtHYnN3dTBEYjlwRkZEaHBLUDVtVUxHdTZLOVZQS0x6LVQ3S3lYa0lOUVJXYUli?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWprbl85ZEJubTlkWmdRNlRSLWx0ZVBnT0RYb19odmlSd0p5azU5RFhJYmNjaUFkbnZqRS1tRGtMclVqQXB0QTZYQW5ZWjM2VG9rOVp5dnNqQWtObW16VDJWWmNQU1V3Y3pnTGM3NHVWYWJsVmh1WUFrMkx0NlRVSEQ2LWNHanEyRVJtUDJMWVd4cHVBbmtHYnN3dTBEYjlwRkZEaHBLUDVtVUxHdTZLOVZQS0x6LVQ3S3lYa0lOUVJXYUli",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792897188.0
-    },
-    {
-        "id": "e4a48e0b61",
-        "title_fa": "تهدید هسته‌ای تهران در صورت حمله آمریکا",
-        "title_en": "Tehran warns of nuclear options and infrastructure strikes if US attacks Iran",
-        "summary": [
-            "ایران اعلام کرد در صورت حمله نظامی آمریکا، گزینه‌های هسته‌ای و ضربه به زیرساخت‌های کلیدی را در نظر می‌گیرد.",
-            "این اظهارات فشار روانی بر واشنگتن ایجاد می‌کند و ریسک گسترش منطقه‌ای را بالا می‌برد.",
-            "هدف تهران نشان دادن هزینه سنگین هر حمله برای آمریکا است، نه تنها نظامی بلکه سیاسی."
-        ],
-        "impact": "افزایش خطر تشدید درگیری نظامی و تغییر محاسبه ریسک استراتژیک آمریکا",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CeVBKZWd6VHJ4QjdOdFdSTzNVT2NDQUlsaUpfLXdvbjB6RndMSG4wUFZEbUk2R0M1MVRfOXBNTTU0NU1XRnNpVWxCaUlqUWVEd3B6ZTktX1VENnI2Q2E2cTN5RkxiN1BWVlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CeVBKZWd6VHJ4QjdOdFdSTzNVT2NDQUlsaUpfLXdvbjB6RndMSG4wUFZEbUk2R0M1MVRfOXBNTTU0NU1XRnNpVWxCaUlqUWVEd3B6ZTktX1VENnI2Q2E2cTN5RkxiN1BWVlE",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1792896201.0
     }
 ]
