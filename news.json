@@ -1,5 +1,24 @@
 [
     {
+        "id": "9c990db1f0",
+        "title_fa": "تأثیر مناقشه ایران‑آمریکا بر انتخابات میانی آمریکا",
+        "title_en": "How the US conflict in Iran is impacting midterms",
+        "summary": [
+            "تنش‌های نظامی بین ایالات متحده و ایران به‌عنوان عامل مهم در نظرسنجی‌های میانی شناخته شد.",
+            "رأی‌دهندگان می‌پرسند آیا دولت باید به‌سرعت فشارهای نظامی را کاهش دهد یا ادامه دهد.",
+            "نتایج میانی می‌تواند مسیر سیاست خارجی آمریکا را تغییر دهد."
+        ],
+        "impact": "نتیجه‌گیری انتخابات میانی می‌تواند تصمیمات نظامی در خاورمیانه را شکل دهد.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Gray TV",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNenRONVpKaWpPeUM3ODFyOVpkRGN3ZnZDbW9aRWZMVXFTYklVbGlmMTltYjFxdHpVcjB6M3o2U200eHd4WjNzaUF5cGhzdWg5UWpVVTFuR1ZMVU11YWFIMWNLa0wtUEVmQU5sRFV3NTYzOVRBVUpGOGZvbjJFOWJZVzFRME42VmZVYXVrYTlQX1lGdzNt?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNenRONVpKaWpPeUM3ODFyOVpkRGN3ZnZDbW9aRWZMVXFTYklVbGlmMTltYjFxdHpVcjB6M3o2U200eHd4WjNzaUF5cGhzdWg5UWpVVTFuR1ZMVU11YWFIMWNLa0wtUEVmQU5sRFV3NTYzOVRBVUpGOGZvbjJFOWJZVzFRME42VmZVYXVrYTlQX1lGdzNt",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793397180.0
+    },
+    {
         "id": "438932e603",
         "title_fa": "متن نامفهوم از منبع WTHR",
         "title_en": "Peering around the corner at an epic 2027 | Howey",
@@ -496,6 +515,25 @@
         "timestamp": 1793358000.0
     },
     {
+        "id": "6d1f3d017d",
+        "title_fa": "امکان استیضاح ترامپ در بازارهای مالی بحث می‌شود",
+        "title_en": "Will Trump be impeached?",
+        "summary": [
+            "پلتفرم Kalshi به معامله‌گران هشدار داد ریسک استیضاح ترامپ می‌تواند نوسان بازارها را افزایش دهد.",
+            "هنوز تصمیم نهایی درباره استیضاح اتخاذ نشده؛ اما شایعات به‌سرعت در میان سرمایه‌گذاران پخش می‌شود.",
+            "این عدم قطعیت می‌تواند حجم معاملات را تحت تأثیر قرار دهد."
+        ],
+        "impact": "نوسان شدید در بازارهای سهام و ارزهای دیجیتال محتمل است.",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "kalshi",
+        "url": "https://kalshi.com/markets/kximpeach/president-impeached/kximpeach",
+        "clean_url": "https://kalshi.com/markets/kximpeach/president-impeached/kximpeach",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793345880.0
+    },
+    {
         "id": "77d38494cf",
         "title_fa": "میان‌جی‌گران قطری برای توافق آمریکا‑ایران به تهران برگشتند",
         "title_en": "Qatari mediators return to Tehran to push for US-Iran deal, official says",
@@ -646,6 +684,25 @@
         "timestamp": 1793333855.0
     },
     {
+        "id": "db363ec8cf",
+        "title_fa": "ائتلاف سعودی در مکه پهپاد حوثی‌ها را نابود کرد",
+        "title_en": "Saudi-led coalition says it destroyed drone fired by Yemen's Houthis over Mecca",
+        "summary": [
+            "ائتلاف سعودی اعلام کرد پهپاد حوثی‌ها در منطقه مکه رهگیری شد.",
+            "این اقدام نشان‌دهنده توان عملیاتی ائتلاف در مقابله با تهدیدات هوایی است.",
+            "حوثی‌ها هنوز توانایی پرتاب پهپادهای مشابه را دارند."
+        ],
+        "impact": "حفظ امنیت زیارتگاه‌های مقدس مکه از خطرات هوایی تضمین می‌شود.",
+        "tag": "هواپیما",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-destroyed-drone-fired-by-yemens-houthis-over-mecca/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-destroyed-drone-fired-by-yemens-houthis-over-mecca",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793333280.0
+    },
+    {
         "id": "c8a90d82fd",
         "title_fa": "کاخ سفید سخت‌گیر ایرانی را امید صلح می‌داند",
         "title_en": "Opinion | The White House sees an Iranian hard-liner as the best hope for peace",
@@ -758,6 +815,25 @@
         "timestamp": 1793320559.0
     },
     {
+        "id": "3df8c6aee4",
+        "title_fa": "ایران ادعای حمله اسرائیلی به خط گاز می‌کند",
+        "title_en": "Iran accuses Israel of sabotage attack after explosions strike a natural gas pipeline",
+        "summary": [
+            "وزیر نفت ایران ادعا کرد هویت حمله به خط گاز طبیعی اسرائیل بوده است.",
+            "هیچ مدرکی ارائه نشد و اسرائیل رد کرد.",
+            "این ادعا تنش‌های منطقه‌ای را در زمان جنگ غزه تشدید می‌کند."
+        ],
+        "impact": "اگر ادعاها تأیید شوند، روابط اقتصادی بین دو کشور به‌طور جدی تحت فشار خواهد بود.",
+        "tag": "sabotage",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Newsday",
+        "url": "https://www.newsday.com/news/nation/iran-pipeline-attack-israel-mideast-houthis-tensions-gaza-hamas-a68593",
+        "clean_url": "https://www.newsday.com/news/nation/iran-pipeline-attack-israel-mideast-houthis-tensions-gaza-hamas-a68593",
+        "image": "https://www.newsday.com/_next/image?url=https://cdn.newsday.com/image-service/version/c:ZGZlMzVlNzctN2MzMi00:NzctN2MzMi00ODBlZDk1/iran-mideast-tensions.jpeg?f=Landscape+16%3A9&w=1920&q=1&w=3840&q=90",
+        "timestamp": 1793318460.0
+    },
+    {
         "id": "5ddd9555dd",
         "title_fa": "هواپیماهای نظامی آمریکا به اسرائیل رسیدند",
         "title_en": "US military planes arrive in Israel from Texas amid Iran war preparations",
@@ -828,6 +904,43 @@
         "clean_url": "https://www.algemeiner.com/2026/10/29/iran-delays-salaries-irgc-under-weight-us-pressure",
         "image": "https://www.algemeiner.com/wp-content/uploads/2025/11/2025-11-27T031325Z_1_LYNXMPELAQ03F_RTROPTP_4_USA-ISRAEL-IRAN-1.jpg",
         "timestamp": 1793314320.0
+    },
+    {
+        "id": "86e217f16d",
+        "title_fa": "تصاویر هوایی هوش مصنوعی و اخبار رمانیا در شبکه‌های اجتماعی",
+        "title_en": "10 Februarie 2026",
+        "summary": [
+            "تصاویر ماهواره‌ای هوش مصنوعی به‌سرعت در شبکه‌ها پخش شد.",
+            "صحت این تصاویر هنوز مورد تأیید نهادهای معتبر نیست.",
+            "انتشار چنین محتوا می‌تواند باعث گمراهی عمومی شود."
+        ],
+        "impact": "اعتماد عمومی به اطلاعات تصویری در خطر است.",
+        "tag": "اطلاعات",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Ziare.com",
+        "url": "https://ziare.com/cautare/plic-nou-scrisoare-polizei-pag263",
+        "clean_url": "https://ziare.com/cautare/plic-nou-scrisoare-polizei-pag263",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793313805.0
+    },
+    {
+        "id": "daa0a23637",
+        "title_fa": "رای‌گیری لاتین‌ها علیه ترامپ در میانه‌دوره",
+        "title_en": "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "summary": [
+            "۳۶ میلیون لاتین واجد شرایط رای‌گیری، در ۲۰۲۴ بیشترین حمایت را برای ترامپ نشان دادند.",
+            "مردان لاتین با اکثریت واضح به ترامپ رای دادند؛ زنان هنوز به همسایه‌گان تمایل دارند."
+        ],
+        "impact": "این تغییر می‌تواند تعادل کنگره را به نفع جمهوری‌خواهان بچرخاند.",
+        "tag": "انتخابات",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "News Channel 3-12",
+        "url": "https://keyt.com/stacker-government-politics/2026/10/30/latino-voters-disapprove-of-trumps-presidency-will-that-decide-the-midterms/",
+        "clean_url": "https://keyt.com/stacker-government-politics/2026/10/30/latino-voters-disapprove-of-trumps-presidency-will-that-decide-the-midterms",
+        "image": "https://www.bing.com/th?id=ONUT.yqknLMwhp69HLD1Kz5tbnw",
+        "timestamp": 1793313804.0
     },
     {
         "id": "883e4c1e17",
@@ -5479,123 +5592,5 @@
         "clean_url": "https://news24online.com/world/iran-us-war-israel-plotting-regime-change-in-iran-report-claims-trumps-approval-awaited-what-is-benjamin-netanyahu-secret-plan-iran-israel-war/947269",
         "image": "http://www.bing.com/th?id=ONUT.zy_8BaHq84D0iddqJ1crPg&pid=News",
         "timestamp": 1793013540.0
-    },
-    {
-        "id": "66235a2fe0",
-        "title_fa": "کشتی‌های جنگی ایران در مانورهای آفریقای جنوبی",
-        "title_en": "Investigators deliver report on why Iranian warships took part in naval drills off South Africa",
-        "summary": [
-            "کشتی‌های نیروی دریایی ایران در سال جاری در آب‌های جنوب آفریقا به تمرین‌های مشترک پیوستند.",
-            "این حضور برخلاف دستورهای داخلی برای عدم شرکت در مانورهای خارجی انجام شد.",
-            "گزارش‌ها نشان می‌دهد هدف نمایش توانمندی‌های نیروی دریایی و تقویت روابط با کشورهای آفریقایی بود.",
-            "واکنش‌های انتقادی از سوی برخی مقامات نظامی داخلی به این تصمیم ثبت شد."
-        ],
-        "impact": "حضور در این مانورها می‌تواند روابط نظامی ایران با آفریقا را گسترش دهد ولی به داخل کشور انتقادات داخلی می‌آورد.",
-        "tag": "نظامی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "KELOLAND.com",
-        "url": "https://www.keloland.com/news/national-world-news/ap-investigators-deliver-report-on-why-iranian-warships-took-part-in-naval-drills-off-south-africa/",
-        "clean_url": "https://www.keloland.com/news/national-world-news/ap-investigators-deliver-report-on-why-iranian-warships-took-part-in-naval-drills-off-south-africa",
-        "image": "https://www.bing.com/th?id=ONUT.JFcMEmkgY72c3MRThwIlbQ",
-        "timestamp": 1793009712.0
-    },
-    {
-        "id": "c86ad85724",
-        "title_fa": "مذاکرات امنیتی چهار جانبه ایران‑عربستان‑ترکیه‑پاکستان",
-        "title_en": "Rezaei says Middle East security should be ensured by regional countries",
-        "summary": [
-            "محسن رضایی با نمایندگان دفاع سعودی، ترکیه و پاکستان نشست کرد.",
-            "توافق شد که در صورت حمله به یکی از اعضا، اقدام جمعی انجام شود.",
-            "این گفتگو در پس حملات اخیر به عربستان برگزار شد.",
-            "ایران سعی دارد نقش میان‌المللی خود را در امنیت منطقه تقویت کند."
-        ],
-        "impact": "تقویت همکاری‌های نظامی می‌تواند مانع گسترش تنش‌های منطقه‌ای شود.",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610278291",
-        "clean_url": "https://www.iranintl.com/en/202610278291",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1793009712.0
-    },
-    {
-        "id": "07eb6af17a",
-        "title_fa": "انتخابات اسرائیل؛ سرنوشت نتانیاهو در آستانه",
-        "title_en": "Big tension for Benjamin Netanyahu: Are these 3 turning points about to end Israel PM’s record reign?",
-        "summary": [
-            "رأی‌گیری عمومی اسرائیل برای تعیین سرنوشت نتانیاهو و حزب او برگزار می‌شود.",
-            "نظرسنجی‌ها نشان می‌دهند حمایت عمومی از نتانیاهو به شدت کاهش یافته است.",
-            "اگر نتانیاهو شکست بخورد، پایان دورهٔ دو دههٔ رهبری او خواهد بود.",
-            "نتایج این انتخابات می‌تواند سیاست‌های امنیتی و روابط منطقه‌ای را تحت تأثیر قرار دهد."
-        ],
-        "impact": "شکست نتانیاهو می‌تواند تغییر اساسی در استراتژی‌های دفاعی اسرائیل ایجاد کند.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "India.com on MSN",
-        "url": "https://www.msn.com/en-in/news/other/big-tension-for-benjamin-netanyahu-are-these-3-turning-points-about-to-end-israel-pm-s-record-reign/ar-AA2g9eFj?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/other/big-tension-for-benjamin-netanyahu-are-these-3-turning-points-about-to-end-israel-pm-s-record-reign/ar-AA2g9eFj",
-        "image": "https://www.bing.com/th?id=ONUT.vgJzN9VfE8yN5Ju8eAqr5w",
-        "timestamp": 1793009712.0
-    },
-    {
-        "id": "c466b29bae",
-        "title_fa": "نمایندگان پیمان دفاع مکه برای مذاکرات به ایران می‌آیند",
-        "title_en": "Mecca defense pact officials head to Iran for talks on regional conflict",
-        "summary": [
-            "نمایندگان پیمان دفاع مکه به تهران سفر می‌کنند تا راهکارهای مشترک برای مقابله با تهدیدات منطقه‌ای بررسی کنند",
-            "این حرکت نشان‌دهنده تقویت همکاری‌های نظامی‑امنیتی بین ایران و کشورهای حامی است",
-            "ممکن است به ایجاد چارچوب جدید برای مقابله با اسرائیل منجر شود"
-        ],
-        "impact": "تقویت پیمان مکه به ایران امکان دریافت حمایت نظامی پیشرفته را می‌دهد",
-        "tag": "پیمان‌مکه",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pUElNbkJOWlFGLWsxTWpOV0l4V0wyTU5scEZ4TDA1aEFQeENTTFNNNUJBcnZRQ2xsNlIyUUtOaU1sdF9hOGxhYXd6dmlJVFhNTmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pUElNbkJOWlFGLWsxTWpOV0l4V0wyTU5scEZ4TDA1aEFQeENTTFNNNUJBcnZRQ2xsNlIyUUtOaU1sdF9hOGxhYXd6dmlJVFhNTmc",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793008594.0
-    },
-    {
-        "id": "5d1f7b9047",
-        "title_fa": "دیدار سعودی‑ترکیه‑پاکستان با رئیس‌جمهور ایران",
-        "title_en": "Iran-US Tensions: Pakistan, Saudi Arabia And Turkey Officials Meet Iran’s President; Asim Munir Among Attendees",
-        "summary": [
-            "مقامات ارشد سعودی، ترکیه و پاکستان در تهران برای امنیت منطقه‌ای ملاقات کردند",
-            "این کشورها به پیمان دفاعی مکه که پیش‌زمینهٔ همکاری نظامی است، متعهد هستند",
-            "تحلیل‌گران می‌گویند حضور این سه کشور نمی‌تواند به‌تنهایی جلوی فشارهای آمریکا بر ایران را بگیرد"
-        ],
-        "impact": "تقویت همکاری دفاعی میان سه کشور، اما تأثیر محدود بر استراتژی آمریکا",
-        "tag": "دیپلماتیک",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "ABP News",
-        "url": "https://news.abplive.com/news/world/mecca-pact-iran-us-tensions-pakistan-saudi-arabia-turkey-officials-meet-iran-s-president-pezeshkian-asim-munir-among-attendies-1873260",
-        "clean_url": "https://news.abplive.com/news/world/mecca-pact-iran-us-tensions-pakistan-saudi-arabia-turkey-officials-meet-iran-s-president-pezeshkian-asim-munir-among-attendies-1873260",
-        "image": "http://www.bing.com/th?id=ONUT.CTyUzg7TGWF9_6JS7vMteA&pid=News",
-        "timestamp": 1793007660.0
-    },
-    {
-        "id": "d5525b76be",
-        "title_fa": "ایران، عربستان، ترکیه و پاکستان مذاکرات امنیتی را ادامه می‌دهند",
-        "title_en": "Iran, Saudi Arabia, Turkey and Pakistan agree to further talks",
-        "summary": [
-            "نمایندگان دفاعی چهار کشور در تهران توافق کردند گفت‌وگوهای امنیتی را ادامه دهند",
-            "هدف تقویت همکاری منطقه‌ای در برابر تهدیدات اسرائیل و حوثی‌هاست",
-            "بیانیه بر حفظ صلح، امنیت و ثبات در خاورمیانه تأکید کرد",
-            "جزئیات عملیاتی هنوز مشخص نشده"
-        ],
-        "impact": "تقویت هم‌پیمانی‌های منطقه‌ای می‌تواند فشار بر ایالات متحده را در خاورمیانه کاهش دهد",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/iran-saudi-arabia-turkey-and-pakistan-agree-further-talks",
-        "clean_url": "https://www.newarab.com/news/iran-saudi-arabia-turkey-and-pakistan-agree-further-talks",
-        "image": "http://www.bing.com/th?id=ONUT.Bv5K42YA232iBUH47ALX_A&pid=News",
-        "timestamp": 1793007600.0
     }
 ]
