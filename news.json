@@ -1,5 +1,97 @@
 [
     {
+        "id": "438932e603",
+        "title_fa": "متن نامفهوم از منبع WTHR",
+        "title_en": "Peering around the corner at an epic 2027 | Howey",
+        "summary": [
+            "متن ارائه‌شده شامل فقط یک ارجاع دیجیتالی است و اطلاعات خبری قابل‌استفاده ندارد",
+            "به‌دلیل عدم وجود محتوا، نمی‌توان تحلیل عملی ارائه داد"
+        ],
+        "impact": "بدون اثر عملی، صرفاً یک خطا یا اشکال فنی",
+        "tag": "نامشخص",
+        "urgency": 1,
+        "sentiment": 0,
+        "source": "WTHR",
+        "url": "https://www.wthr.com/article/news/politics/peering-around-the-corner-at-an-epic-2027-brian-howey/531-4fc36ece-ab64-47de-bbf2-dad1d5941800",
+        "clean_url": "https://www.wthr.com/article/news/politics/peering-around-the-corner-at-an-epic-2027-brian-howey/531-4fc36ece-ab64-47de-bbf2-dad1d5941800",
+        "image": "https://www.bing.com/th?id=ONUT.jjs6K_KK3IZd0mD5nSeUJQ",
+        "timestamp": 1793390415.745566
+    },
+    {
+        "id": "b5db468ab1",
+        "title_fa": "هشدار ترامپ: دوره دومش می‌تواند پرآشوب‌تر شود",
+        "title_en": "Gloves off: Warning Trump’s second term is about to get way more tumultuous",
+        "summary": [
+            "تحلیل‌گران پیش‌بینی می‌کنند ترامپ در دوره دوم ممکن است سیاست‌های تند و بی‌ثباتی را اجرا کند",
+            "این پیش‌بینی می‌تواند نوسان‌های اقتصادی و تنش‌های بین‌المللی را تشدید کند"
+        ],
+        "impact": "افزایش بی‌ثباتی داخلی و فشار بر روابط آمریکا با هم‌پیمانان",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "AlterNet on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/gloves-off-warning-trump-s-second-term-is-about-to-get-way-more-tumultuous/ar-AA2grl5u?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/news/other/gloves-off-warning-trump-s-second-term-is-about-to-get-way-more-tumultuous/ar-AA2grl5u",
+        "image": "https://www.bing.com/th?id=ONUT.ymYI8H3dMgBKCvAeNarawQ",
+        "timestamp": 1793390415.7453282
+    },
+    {
+        "id": "b1da40ebed",
+        "title_fa": "بمباران فرودگاه سنا توسط عربستان و حامیانش",
+        "title_en": "Why Has The Endless War In Yemen Been Reignited? – OpEd",
+        "summary": [
+            "عربستان و دولت یمنی تحت حمایت آن، فرودگاه بین‌المللی سنا را هدف حمله هوایی کردند",
+            "این اقدام به‌طور مستقیم قوانین بین‌المللی را نقض کرد و خطر تشدید جنگ را بالا برد",
+            "حمله باعث تخریب زیرساخت‌های حمل‌ونقل و افزایش تلفات غیرنظامی شد"
+        ],
+        "impact": "افزایش فشار نظامی بر حامیان حوثی و خطر گسترش درگیری",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Eurasia Review",
+        "url": "https://www.eurasiareview.com/30102026-why-has-the-endless-war-in-yemen-been-reignited-oped/",
+        "clean_url": "https://www.eurasiareview.com/30102026-why-has-the-endless-war-in-yemen-been-reignited-oped",
+        "image": "https://www.bing.com/th?id=ONUT.V5FmFwMV1nW9bmtUNpk8hw",
+        "timestamp": 1793390415.7450247
+    },
+    {
+        "id": "727b3193a5",
+        "title_fa": "تحریم‌های آمریکا اقتصاد ایران را به‌سختی می‌کوبد",
+        "title_en": "U.S. blockade, sanctions crippling Iran's economy, Treasury report says",
+        "summary": [
+            "گزارش خزانه‌داری آمریکا نشان می‌دهد تحریم‌های گسترده و مسدودسازی مالی، رشد تولید داخلی ایران را به‌طور چشمگیری کاهش داده است",
+            "کاهش صادرات نفت و محدودیت‌های بانکی باعث تورم شدید و کمبود ارز شده",
+            "فشارهای اقتصادی می‌تواند به ناآرامی‌های داخلی و تغییر سیاست‌های منطقه‌ای منجر شود"
+        ],
+        "impact": "تضعیف توان مالی دولت ایران و تشدید فشار دیپلماتیک",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzF5djNITmFUVkx2YXZ0YVcxaFZLS3ZvYkRKUTZYaDBFck1LUUJPdGd3aF9sYU5OdWZLM1N1RHAwR3NrT3gzZ1NMMHQ0MjUwcUZrelo3dkRZQ3V0MEFhZk5WLXRkc092MFBuMUZfRGQxal9KdXNlNmg3SldfWHc2bg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzF5djNITmFUVkx2YXZ0YVcxaFZLS3ZvYkRKUTZYaDBFck1LUUJPdGd3aF9sYU5OdWZLM1N1RHAwR3NrT3gzZ1NMMHQ0MjUwcUZrelo3dkRZQ3V0MEFhZk5WLXRkc092MFBuMUZfRGQxal9KdXNlNmg3SldfWHc2bg",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793387009.0
+    },
+    {
+        "id": "db9f7bf01b",
+        "title_fa": "پاکستان نسبت به میانجی‌گری آمریکا‑ایران خوشبین",
+        "title_en": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+        "summary": [
+            "ارتش پاکستان اعلام کرد که پیشرفت مذاکرات میان آمریکا و ایران را با احتیاط اما مثبت می‌بیند",
+            "این خوشبینی می‌تواند مسیر دیپلوماسی منطقه‌ای را به سمت کاهش تنش‌ها هدایت کند"
+        ],
+        "impact": "امکان کاهش تنش‌های خاورمیانه و بازگشت به مذاکرات صلح",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXN3NmMweDBHRndNNUpxaVJBaFdrQkNCa3lkUnpCdnJxZU9vODk1ZW5sTy1fNEJVakZCSnhkdHBlN3VwUXFQOU5VZkZDOW9XSlRnZ2c2YzQ4aFlzak1jUndsci1ENU05V21pckU3czVGU0NwTnVOclM4NUtOS3RnVDJBLUtxYTU2YWdLOUxGUlp6M0RyZ1hGcXhxTjRoNjl4N1JmbkpXMkhiNUs4VUHSAbMBQVVfeXFMUHRycHBZQjBIWTdlbjlqcmpFZTJ0X0RNTlh1bWNDMEtEYlU3SG9ycllkTTZlcjhLbkNlcE1Zd2t1U1l4YThhWVkwbFdoSVBnNGwxTHAzTkNzTWhaRkxkNUxfa2wzUDlocm1reWJ2bFBiZHZzN0VCMGwzX0pMWFlMUUUxZERtNGpSTEp6THdTMm1qT2ltY3lOVFVQdVFIQXIwR2ZZU2dtODRPOG92ekx3XzV3OXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXN3NmMweDBHRndNNUpxaVJBaFdrQkNCa3lkUnpCdnJxZU9vODk1ZW5sTy1fNEJVakZCSnhkdHBlN3VwUXFQOU5VZkZDOW9XSlRnZ2c2YzQ4aFlzak1jUndsci1ENU05V21pckU3czVGU0NwTnVOclM4NUtOS3RnVDJBLUtxYTU2YWdLOUxGUlp6M0RyZ1hGcXhxTjRoNjl4N1JmbkpXMkhiNUs4VUHSAbMBQVVfeXFMUHRycHBZQjBIWTdlbjlqcmpFZTJ0X0RNTlh1bWNDMEtEYlU3SG9ycllkTTZlcjhLbkNlcE1Zd2t1U1l4YThhWVkwbFdoSVBnNGwxTHAzTkNzTWhaRkxkNUxfa2wzUDlocm1reWJ2bFBiZHZzN0VCMGwzX0pMWFlMUUUxZERtNGpSTEp6THdTMm1qT2ltY3lOVFVQdVFIQXIwR2ZZU2dtODRPOG92ekx3XzV3OXM",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793386852.0
+    },
+    {
         "id": "d448d1dc85",
         "title_fa": "دستمزد ۵۰ میلیونی هابا؛ خشم ترامپ به فدرال رزرو",
         "title_en": "Alina Habba’s $50 Million Payday Sends Trump Into a Rage",
@@ -754,6 +846,44 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDhFRTk0X2UwdXRNR19OSjBESnIxNFY2RE53LWNVZGVpMmFPYlA1ak1aTk1vaU05WjR2Snd0aHg4c0NFeHFFQ3JlcGluVmdWSWFhaUF2QkotMWo3OVVCYnUyLWtUV1BneGcyYmkzQXhxNGREdTRSci1NTWZBRkhSZ2xHcmFZUXRsNHpsd1pBZThGbHB3",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793312031.0
+    },
+    {
+        "id": "8e45c451ec",
+        "title_fa": "نتانیاهو انتخابات را به قطر و ترکیه متهم کرد",
+        "title_en": "Explained: इजराइल चुनाव में कतर और तुर्किये पर दखल के आरोप! नेतन्याहू की ...",
+        "summary": [
+            "نتانیاهو ادعا کرد که احزاب عربی با کمک مالی قطر و ترکیه، نتایج انتخابات را دستکاری کرده‌اند",
+            "هیچ مرجع رسمی برای این اتهام ارائه نشد و رقیبان آن را حمله سیاسی توصیف کردند",
+            "این ادعا می‌تواند تنش‌های داخلی را تشدید کند و روابط اسرائیل با خاورمیانه را پیچیده‌تر سازد"
+        ],
+        "impact": "احتمال بروز بحران سیاسی داخلی و تضعیف مشروعیت دولت",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "एबीपी न्यूज़",
+        "url": "https://www.abplive.com/news/world/israel-election-netanyahu-party-allegations-on-qatar-and-turkiye-for-interference-gadi-eisenkot-iran-explained-3209005",
+        "clean_url": "https://www.abplive.com/news/world/israel-election-netanyahu-party-allegations-on-qatar-and-turkiye-for-interference-gadi-eisenkot-iran-explained-3209005",
+        "image": "https://www.bing.com/th?id=ONUT.7rkYQwxsIPdntvsqzd9qoQ",
+        "timestamp": 1793304006.0
+    },
+    {
+        "id": "d93e369703",
+        "title_fa": "سودهای عظیم نفت‌کشورها در اثر جنگ ایران",
+        "title_en": "While Americans Paid $148B Extra on Gas Amid War, Big Oil Made $130B in Profits",
+        "summary": [
+            "شرکت‌های نفتی آمریکایی در شش ماه جنگ با ایران، بیش از 130 میلیارد دلار سود ثبت کردند",
+            "مصرف‌کنندگان آمریکایی به‌دلیل افزایش قیمت گاز، 148 میلیارد دلار هزینه اضافی پرداخت کردند",
+            "این اختلاف نشان‌دهنده سودآوری بی‌سابقه صنعت نفت در زمان بحران است"
+        ],
+        "impact": "تشدید نارضایتی عمومی و فشار بر سیاست‌گذاران برای پایان جنگ",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Truthout",
+        "url": "https://truthout.org/articles/while-americans-paid-148b-extra-on-gas-amid-war-big-oil-made-130b-in-profits/",
+        "clean_url": "https://truthout.org/articles/while-americans-paid-148b-extra-on-gas-amid-war-big-oil-made-130b-in-profits",
+        "image": "https://www.bing.com/th?id=ONUT.IsdUYT0fStFzxBWOKbzXlw",
+        "timestamp": 1793304006.0
     },
     {
         "id": "71783a0881",
@@ -5467,138 +5597,5 @@
         "clean_url": "https://www.newarab.com/news/iran-saudi-arabia-turkey-and-pakistan-agree-further-talks",
         "image": "http://www.bing.com/th?id=ONUT.Bv5K42YA232iBUH47ALX_A&pid=News",
         "timestamp": 1793007600.0
-    },
-    {
-        "id": "197585ce02",
-        "title_fa": "ائتلاف تحت رهبری عربستان سعودی می‌گوید تاسیسات موشکی شورشیان یمن را منهدم کرده است و...",
-        "title_en": "Saudi-led coalition says it has destroyed Yemeni rebels' missile facilities, and...",
-        "summary": [
-            "The Saudi-led coalition says it has degraded the Yemeni Houthis' ability to strike targets in the..."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Midland Reporter-Telegram",
-        "url": "https://www.mrt.com/business/article/saudi-led-coalition-says-it-has-destroyed-yemeni-22494175.php",
-        "clean_url": "https://www.mrt.com/business/article/saudi-led-coalition-says-it-has-destroyed-yemeni-22494175.php",
-        "image": "https://s.yimg.com/bo/597d196e-70c3-5935-90cd-7196f29867ee_1793010408799.jpg",
-        "timestamp": 1793006524.0
-    },
-    {
-        "id": "79ab6ef47a",
-        "title_fa": "ایران حملات کشتی‌ها را به‌مرور زمان گسترش داد",
-        "title_en": "Iran Was Never Running Out of Firepower. It Was Holding Back.",
-        "summary": [
-            "حملات ایران به کشتی‌های تجاری از خلیج فارس تا خلیج عمان گسترش یافت و دیگر محدود به تنگه‌عمرقوس نیست.",
-            "شدت ضربات افزایش یافت؛ خسارت‌های ملموسی به ناوگان تجاری ثبت شد.",
-            "این روند نشانگر بازگشت توان نظامی ایران پس از عملیات «فوری» آمریکا است."
-        ],
-        "impact": "دستگاه‌های تجاری خلیج‌فارس با خطر بالای آسیب‌پذیری مواجه می‌شوند و ناوبری هزینه‌بر می‌شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-never-running-firepower-holding-154344311.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-never-running-firepower-holding-154344311.html",
-        "image": "http://www.bing.com/th?id=ONUT.wXJHbd-Na-wyc9Vh5Pj-TQ&pid=News",
-        "timestamp": 1793004120.0
-    },
-    {
-        "id": "5300ae9f11",
-        "title_fa": "انتخابات اسرائیل؛ ارزیابی رفراندوم نتانیاهو",
-        "title_en": "The latest: Israelis vote in a tense election seen as a referendum on Netanyahu",
-        "summary": [
-            "انتخابات جاری به‌عنوان آزمونی برای ادامه سیاست‌های نتانیاهو در قبال ایران دیده می‌شود.",
-            "نتایج می‌تواند مسیر مذاکرات یا تنش‌های نظامی را تعیین کند.",
-            "نظرسنجی‌ها نشانگر تقسیم عمیق جامعه اسرائیلی است."
-        ],
-        "impact": "نتیجه‌گیری‌های سیاسی می‌تواند تصمیم‌گیری‌های امنیتی در خاورمیانه را تحت‌تأثیر قرار دهد.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "The Canadian Press on MSN",
-        "url": "https://www.msn.com/en-ca/money/topstories/the-latest-israelis-vote-in-a-tense-election-seen-as-a-referendum-on-netanyahu/ar-AA2g8Sm5?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/money/topstories/the-latest-israelis-vote-in-a-tense-election-seen-as-a-referendum-on-netanyahu/ar-AA2g8Sm5",
-        "image": "https://www.bing.com/th?id=ONUT.UHVSv0gGGFD1KKZ1dBSMPw",
-        "timestamp": 1793000981.0
-    },
-    {
-        "id": "8da71eef13",
-        "title_fa": "منتخبین نتانیاهو را به تشدید تنش با ایران متهم می‌کنند",
-        "title_en": "Opponents Accuse Netanyahu of Stoking Tensions With Iran Before Israel's Election",
-        "summary": [
-            "مخالفان سیاسی ادعا می‌کنند نتانیاهو با سیاست‌های سخت‌گیرانه‌اش تنش با ایران را تشدید کرده است",
-            "این اتهام‌ها در ساعات پایانی دوره انتخاباتی مطرح شد",
-            "برخی می‌گویند این تنش‌ها به‌منظور تقویت حمایت داخلی اوست",
-            "اگر این اتهام‌ها ثابت شوند، می‌تواند به‌سختی برای نتانیاهو منجر شود"
-        ],
-        "impact": "افزایش تنش‌های ایران‑اسرائیل می‌تواند خطر برخورد نظامی را بالا ببرد",
-        "tag": "تensions",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "U.S. News & World Report",
-        "url": "https://www.usnews.com/news/world/articles/2026-10-26/netanyahu-denies-reports-about-escalation-with-iran-in-last-day-before-election",
-        "clean_url": "https://www.usnews.com/news/world/articles/2026-10-26/netanyahu-denies-reports-about-escalation-with-iran-in-last-day-before-election",
-        "image": "https://www.usnews.com/dims4/USNEWS/8f4d5af/2147483647/thumbnail/970x647/quality/85/?url=https://www.usnews.com/cmsmedia/a6/79960e57e8534f8f3112cd30a6e4af/5fc2f9ac2f8f43adaf8ba720da7e7f8aIsrael_Elections_72341.jpg",
-        "timestamp": 1793000940.0
-    },
-    {
-        "id": "8e09c07f97",
-        "title_fa": "قانون‌گذار می‌گوید تصمیمات بانک مرکزی ریل را تضعیف کرد",
-        "title_en": "Iranian lawmaker blames central bank decisions for part of rial's decline",
-        "summary": [
-            "قانون‌گذار اقتصادی می‌گوید سیاست‌های بانک مرکزی باعث سقوط ارزش ریل شده است",
-            "دلار به ۳ میلیون ریل در بازار آزاد رسید؛ کمیسیون پارلمان سه جلسه پرس‌و‌جو برگزار کرد",
-            "مذاکرات قطر برای جلوگیری از جنگ جدید بین آمریکا و ایران در جریان است"
-        ],
-        "impact": "کاهش ارزش ریل فشار بر هزینه‌های زندگی و توان خرید مردم را افزایش می‌دهد",
-        "tag": "ارز",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610263782",
-        "clean_url": "https://www.iranintl.com/en/202610263782",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793000340.0
-    },
-    {
-        "id": "19cd256955",
-        "title_fa": "آراقی مسئول انرژی، ایالات‌متحده را مقصر گاز جهان می‌داند",
-        "title_en": "Araghchi blames US actions for disruption to global gas supplies",
-        "summary": [
-            "وزیر خارجه ایران، عباس عراقی، ایالات‌متحده را عامل بسته شدن تنگه هرمز و اختلال در تأمین گاز جهانی می‌داند",
-            "او ۱۱ کشور گازساز را برای تنوع مسیرهای تأمین و حفاظت از زیرساخت‌ها دعوت کرد",
-            "پیشنهاد هفت‌روزه ایران برای بازگشایی تنگه، مشروط به رفع تهدیدات"
-        ],
-        "impact": "اختلال گاز جهانی می‌تواند قیمت انرژی را بالا برده و فشار اقتصادی بر کشورهای مصرف‌کننده را تشدید کند",
-        "tag": "گاز",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610262649",
-        "clean_url": "https://www.iranintl.com/en/202610262649",
-        "image": "https://www.bing.com/th?id=ONUT.I_JJ5JtaCE7s4h5_FXQJMQ",
-        "timestamp": 1792999919.5433977
-    },
-    {
-        "id": "3940c03807",
-        "title_fa": "هشدار جنگ مخرب آمریکا‑اسرائیل علیه ایران",
-        "title_en": "\"Not a Matter of If but When”: Expert Warns of Devastating New US-Israel War Against Iran",
-        "summary": [
-            "کارشناس نظامی می‌گوید حملات ترکیبی آمریکا و اسرائیل می‌تواند زیرساخت‌های نظامی و غیرنظامی خلیج را هدف بگیرد",
-            "نتانیاهو دو بار ضرورت سرنگونی جمهوری اسلامی را تکرار کرد؛ ردیف سخنان مشابه پیش از جنگ ۲۹ فوریه ۲۰۲۶",
-            "ترامپ در کمپ‌های انتخاباتی می‌گوید جنگ با ایران کوتاه خواهد شد و قیمت نفت به حالت عادی برمی‌گردد",
-            "این اظهارات اضطراب خاورمیانه را تشدید می‌کند و احتمال واکنش نظامی پیش‌دستی را بالا می‌برد"
-        ],
-        "impact": "اگر تهدیدها عملی شوند، تلفات نظامی و تخریب زیرساخت‌های انرژی خلیج به سرعت افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "IranWire",
-        "url": "https://iranwire.com/en/features/159331-not-a-matter-of-if-but-when-expert-warns-of-devastating-new-us-israel-war-against-iran/",
-        "clean_url": "https://iranwire.com/en/features/159331-not-a-matter-of-if-but-when-expert-warns-of-devastating-new-us-israel-war-against-iran",
-        "image": "https://www.bing.com/th?id=ONUT.PATaiTAH99ALSyKw-YIZcg",
-        "timestamp": 1792999919.5413163
     }
 ]
