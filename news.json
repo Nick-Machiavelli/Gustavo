@@ -1,5 +1,58 @@
 [
     {
+        "id": "cd80828efa",
+        "title_fa": "پاسخ بدون محدودیت جغرافیایی: دستورات مجتبی خامنه ای به ارتش ایران",
+        "title_en": "Geographically unrestricted response: Mojtaba Khamenei's orders to Iran's military",
+        "summary": [
+            "The new directive expands potential targets while strengthening weapons production, intelligence and indigenous defence capabilities."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "India Today",
+        "url": "https://www.msn.com/en-in/news/other/geographically-unrestricted-response-mojtaba-khameneis-orders-to-irans-military/ar-AA2gtmN8",
+        "clean_url": "https://www.msn.com/en-in/news/other/geographically-unrestricted-response-mojtaba-khameneis-orders-to-irans-military/ar-AA2gtmN8",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/irans-supreme-leader-mojtaba-khamenei-302448818-original-sixteen-to-nine.jpg?VersionId=9os7VixV8mmo481CfdoGYF3xcAk15rzp&size=690:388",
+        "timestamp": 1793453340.0
+    },
+    {
+        "id": "6c1eef0b18",
+        "title_fa": "یک منبع گفت: میانجی‌های قطری با هدف از سرگیری مذاکرات مستقیم ایران و آمریکا در تهران گفتگو کردند.",
+        "title_en": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+        "summary": [
+            "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says CNBC"
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiRHpqS0x5SmJQb3ZZSFpkMXZXS0lVdzl4NTdaWGltUWdRWFpOOU1CbGFXVFNZSnNiZlRyMC1YQ0hGb0NDQjdOSGRQQVJpS2ZqR3ZBLUFhTEhhNnVPUEp5QTlTY0dTTU1wUGlWc29uc1NLeDBS0gF6QVVfeXFMUG4zZG1qRkdIS3diX2R1Qkt2dTIxc2Y1R3E1MG4wSFBVcktzUmRfdXVVRmNTSm44ZjBIZ01fbWpCVF84LXpPd29RSjIzMmMxcVh0WlhUWld6N1RNRGEzTWtPcHhmWWczMEVNY2ktamdrdXd3QjYtZG5HLVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiRHpqS0x5SmJQb3ZZSFpkMXZXS0lVdzl4NTdaWGltUWdRWFpOOU1CbGFXVFNZSnNiZlRyMC1YQ0hGb0NDQjdOSGRQQVJpS2ZqR3ZBLUFhTEhhNnVPUEp5QTlTY0dTTU1wUGlWc29uc1NLeDBS0gF6QVVfeXFMUG4zZG1qRkdIS3diX2R1Qkt2dTIxc2Y1R3E1MG4wSFBVcktzUmRfdXVVRmNTSm44ZjBIZ01fbWpCVF84LXpPd29RSjIzMmMxcVh0WlhUWld6N1RNRGEzTWtPcHhmWWczMEVNY2ktamdrdXd3QjYtZG5HLVE",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793448672.0
+    },
+    {
+        "id": "48be027d99",
+        "title_fa": "پیشنهاد قطر برای رفع تحریم‌ها و بازگشت هورموز",
+        "title_en": "A new strike on Iran? Trump and Netanyahu may not be on the same page",
+        "summary": [
+            "قطر پیشنهاد گام‌به‑گام برای محدود کردن برنامه هسته‌ای ایران و رفع تحریم‌ها ارائه داد",
+            "این چارچوب می‌تواند مانع حملهٔ نظامی فوری آمریکا‑اسرائیل شود",
+            "اگر ایران این طرح را بپذیرد، مذاکرات مستقیم دوباره آغاز می‌شود؛ شرط اصلی رفع محاصرهٔ هورموز است"
+        ],
+        "impact": "اگر توافق شود، فشار اقتصادی بر ایران کاهش می‌یابد و خطر حملهٔ نظامی نزدیک می‌شود",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/opinions-analysis/article/hkh003rm6me",
+        "clean_url": "https://www.ynetnews.com/opinions-analysis/article/hkh003rm6me",
+        "image": "https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver6/crop_images/2026/10/31/HyBozBmpGl/HyBozBmpGl_0_0_850_479_0_x-large.jpg",
+        "timestamp": 1793447820.0
+    },
+    {
         "id": "b5efbc26cd",
         "title_fa": "نسل Z ایران: جلوگیری از تبدیل به کره شمالی",
         "title_en": "Gen Z Iranians: 'We won't let Iran become another North Korea'",
@@ -181,6 +234,23 @@
         "timestamp": 1793426961.0
     },
     {
+        "id": "ccf0d56d05",
+        "title_fa": "رهبر ایران تهدید کرد که بدون \"محدودیت جغرافیایی\" پاسخ خواهد داد زیرا گزارش ادعا می‌کند حملات جدید ممکن است یک روز پس از میان دوره ای انجام شود.",
+        "title_en": "Iran’s Supreme Leader threatens response without ‘geographic limits’ as report claims new strikes could come a day after midterms",
+        "summary": [
+            "Iran's Supreme Leader made an ominous threat after a report the Trump administration has alerted Gulf allies to prepare for new strikes as soon as Wednesday. The post Iran’s Supreme Leader Threatens..."
+        ],
+        "impact": "...",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Mediaite on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-supreme-leader-threatens-response-without-geographic-limits-as-report-claims-new-strikes-could-come-a-day-after-midterms/ar-AA2gt0l2",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-supreme-leader-threatens-response-without-geographic-limits-as-report-claims-new-strikes-could-come-a-day-after-midterms/ar-AA2gt0l2",
+        "image": "http://www.bing.com/th?id=ONUT.Q5HRIeji1x5a9o3Xd9sRRw&pid=News",
+        "timestamp": 1793425838.0
+    },
+    {
         "id": "6e158bbd59",
         "title_fa": "تسویه‌حساب خزانه آمریکا؛ فشار بر درآمد نفت ایران",
         "title_en": "US Treasury says Iran's oil revenue, trade hit hard by pressure campaign",
@@ -201,6 +271,26 @@
         "timestamp": 1793425080.0
     },
     {
+        "id": "383e137249",
+        "title_fa": "قانونگذاران ایران خواستار خروج از پیمان عدم گسترش هسته‌ای",
+        "title_en": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+        "summary": [
+            "برخی نمایندگان مجلس خواستار خروج ایران از پیمان NPT شدند",
+            "این درخواست همزمان با اظهارات ترامپ مبنی بر پایان «جنگ» بر ایران مطرح شد",
+            "خروج از پیمان می‌تواند تحریم‌ها را تشدید کند و مسیر صلح را سخت‌تر سازد",
+            "قطر هنوز سعی دارد مذاکرات هسته‌ای را از طریق گام‌های تدریجی ادامه دهد"
+        ],
+        "impact": "خروج از NPT می‌تواند تحریم‌های بین‌المللی را شدت بخشد و فرصت دیپلماتیک را از بین ببرد",
+        "tag": "پیمان",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-lawmakers-call-withdrawal-npt-122245557.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-lawmakers-call-withdrawal-npt-122245557.html",
+        "image": "http://www.bing.com/th?id=ONUT.sdS2KLWFtjxykZ1JCHUMlQ&pid=News",
+        "timestamp": 1793424120.0
+    },
+    {
         "id": "d63b097f5a",
         "title_fa": "ترامپ به‌سرعت خاورمیانه را به‌آتش می‌کشد",
         "title_en": "As Trump blows up the Mideast, regional leaders look to Europe",
@@ -218,6 +308,43 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CMHp3X2x3WFRINUtFenljNXVIUnluOGxjWWdoUXFaWHVSX2NId3EzYmpfeDhvZk9lZnMyZ1FmODQ0eEpiZXNicEMyYjlHdE85NVB1bVdpbVZRR2tyRU9z",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793423700.0
+    },
+    {
+        "id": "356a02398d",
+        "title_fa": "خلاصهٔ دستور حداکثری خرمینی برای پاسخ بدون مرز",
+        "title_en": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+        "summary": [
+            "خرمینی به فرماندهان ارشد گفت هر حملهٔ آمریکا یا اسرائیل باید با پاسخ فوری و مؤثر روبه‌رو شود",
+            "او «حداکثر بازدارندگی» و «بدون محدودیت جغرافیایی» را به عنوان اصل استراتژیک اعلام کرد",
+            "این پیام نشان می‌دهد ایران آمادهٔ گسترش هدف‌های نظامی فراتر از مرزهای خود است",
+            "چنین تهدیدی می‌تواند واکنش‌های نظامی هم‌پیمانان را تشدید کند"
+        ],
+        "impact": "اگر آمریکا یا اسرائیل حمله کند، ایران ممکن است به اهداف گسترده‌تری در خاورمیانه حمله کند",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-warns-unfettered-retaliation-attacked-121342288.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-warns-unfettered-retaliation-attacked-121342288.html",
+        "image": "http://www.bing.com/th?id=ONUT.Vp-pAayN_GFStMS5WI1jPw&pid=News",
+        "timestamp": 1793423580.0
+    },
+    {
+        "id": "6753cde725",
+        "title_fa": "رهبر ایران دستور «حداکثر» پاسخ به هرگونه حمله آمریکا را صادر کرد",
+        "title_en": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+        "summary": [
+            "Iran's Supreme Leader Mojtaba Khamenei told the country's top three military commanders that a renewed attack by the U.S. and Israel ״must be met with an immediate and effective response, without..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
+        "clean_url": "https://www.axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
+        "image": "http://www.bing.com/th?id=ONUT.uW3_AskEpbFaDuitoIdgJQ&pid=News",
+        "timestamp": 1793422080.0
     },
     {
         "id": "daa117d187",
@@ -332,6 +459,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMTg1UTZmdFFiVndiNS1OTnU2cUhBSk1lTVJDMWFOTEdKNmhtLV9wc0hJSlBqaEk0d2Z3UTdqQTRpbE1UMjV3WG1kaUE5TEFrOWp2clJGTTBFc2JkN0tXNXR5dnd3RGdjWlNhTkFRRFRwSmo5YW1Val83VWZuN3VYQnUteDFtdw",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793408758.0
+    },
+    {
+        "id": "2dad79cfb7",
+        "title_fa": "نتانیاهو به ترامپ فشار برای حملهٔ مشترک به ایران",
+        "title_en": "Netanyahu presses Trump for joint attack on Iran after US midterms",
+        "summary": [
+            "نتانیاهو پس از انتخابات میانی آمریکا، ترامپ را به عملیات نظامی مشترک علیه تهران دعوت کرد",
+            "داخل دولت آمریکا اختلاف نظر بین طرفداران دیپلماسی و طرفداران فشار نظامی ادامه دارد",
+            "این فشار می‌تواند به برنامهٔ جدیدی برای حملهٔ هوایی یا موشکی منجر شود",
+            "هر گونه هماهنگی نظامی بین واشنگتن و تل‌آویو ریسک تشدید درگیری در خلیج فارس را بالا می‌برد"
+        ],
+        "impact": "هماهنگی دو کشور می‌تواند به حملهٔ فوری علیه ایران منجر شود و تنش‌های منطقه‌ای را به اوج برساند",
+        "tag": "حمله",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Minute Mirror",
+        "url": "https://minutemirror.com.pk/netanyahu-presses-trump-for-joint-attack-on-iran-after-us-midterms-653941/",
+        "clean_url": "https://minutemirror.com.pk/netanyahu-presses-trump-for-joint-attack-on-iran-after-us-midterms-653941",
+        "image": "https://minutemirror.com.pk/wp-content/uploads/og-cache/aa62ad7321805164b156227225b6c58e.jpg",
+        "timestamp": 1793407560.0
     },
     {
         "id": "bcfddf5da8",
@@ -5449,158 +5596,5 @@
         "clean_url": "https://www.iranintl.com/en/202610277270",
         "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
         "timestamp": 1793046906.0
-    },
-    {
-        "id": "cc0646eb58",
-        "title_fa": "سفیر پیشین ترامپ، حمایت از نتانیاهو اشتباه است",
-        "title_en": "Ex-Trump envoy says president’s endorsement of Netanyahu a ‘mistake’",
-        "summary": [
-            "الیوت ابراام، سفیر پیشین ترامپ، حمایت از نتانیاهو را «خطا» خواند",
-            "او معتقد است این موضع می‌تواند روابط آمریکا‑اسرائیل را پیچیده کند",
-            "انتقاد از سیاست‌های حزبی ترامپ در خاورمیانه ادامه دارد"
-        ],
-        "impact": "انتقاد ابراام می‌تواند دیدگاه‌های مخالف در سیاست آمریکا‑اسرائیل را تقویت کند",
-        "tag": "سیاست-امریکا",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "Channel 4",
-        "url": "https://www.channel4.com/news/ex-trump-envoy-says-presidents-endorsement-of-netanyahu-a-mistake",
-        "clean_url": "https://www.channel4.com/news/ex-trump-envoy-says-presidents-endorsement-of-netanyahu-a-mistake",
-        "image": "https://www.bing.com/th?id=ONUT.cVgMr5_aKi1iJBiHz5gbtw",
-        "timestamp": 1793046906.0
-    },
-    {
-        "id": "199b178d4d",
-        "title_fa": "صداهای انفجار در ریاض؛ موشک‌های حوثی سرنگون شد",
-        "title_en": "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed, and other Mideast news",
-        "summary": [
-            "مقامات سعودی اعلام کردند دو موشک بالستیک حوثی را سرنگون کردند",
-            "صدای انفجارها نشان‌دهنده پرتاب موشک‌های دیگر است",
-            "این رخداد خطر تشدید درگیری میان سعودی و حوثی را نشان می‌دهد",
-            "ممکن است ایالات متحده برای حمایت از سعودی واکنش نظامی نشان دهد"
-        ],
-        "impact": "سرنگونی موشک‌های حوثی خطر تشدید جنگ سایبری و هوایی در خلیج فارس را افزایش می‌دهد",
-        "tag": "موشک",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "MSN",
-        "url": "https://www.msn.com/en-ca/news/news/explosions-heard-over-riyadh-as-saudi-authorities-say-houthi-missiles-downed-and-other-mideast-news/ar-AA2g9Gb8?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-ca/news/news/explosions-heard-over-riyadh-as-saudi-authorities-say-houthi-missiles-downed-and-other-mideast-news/ar-AA2g9Gb8",
-        "image": "https://www.bing.com/th?id=ONUT.ffo5LTBKnB39poy0uyGNHQ",
-        "timestamp": 1793046906.0
-    },
-    {
-        "id": "6cb822eca5",
-        "title_fa": "پیشنهاد ترامپ در میشیگان به‌نقطه‌گذاری می‌رسد",
-        "title_en": "Trump's Michigan approval among worst ever before midterms, poll finds",
-        "summary": [
-            "نظرسنجی جدید نشان می‌دهد حمایت ترامپ در میشیگان به‌کمترین سطح پیش از میانه‌دوره‌ها رسیده",
-            "سقوط حمایت به‌دلیل مدیریت جنگ با ایران و تنش با کانادا است",
-            "این وضعیت فشار داخلی بر حزب جمهوری‌خواه و تصمیم‌گیری‌های آینده را افزایش می‌دهد"
-        ],
-        "impact": "کاهش حمایت میشیگان می‌تواند ریسک حذف ترامپ از فهرست ریاست‌جمهوری را بالا ببرد",
-        "tag": "تحلیل سیاسی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The Detroit News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-michigan-approval-among-worst-ever-before-midterms-poll-finds/ar-AA2gcj3Q?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-michigan-approval-among-worst-ever-before-midterms-poll-finds/ar-AA2gcj3Q",
-        "image": "https://www.bing.com/th?id=ONUT.9vtZQUktY-Pmas2bjG9a_A",
-        "timestamp": 1793046906.0
-    },
-    {
-        "id": "b6ec327f8b",
-        "title_fa": "روند انتخابات اسرائیل با رکورد حضور رای‌دهندگان",
-        "title_en": "Israel elections 2026 live updates: Israel logs highest voter turnout in recorded history; 74% votes cast by 8pm",
-        "summary": [
-            "انتخابات 2026 اسرائیل با 74٪ حضور تا ساعت 20: 00 به بالاترین تاریخ ثبت شده رسید",
-            "نتانیاهو با چالش جدی از سوی نامزدهای پیشین مواجه است",
-            "حضور گسترده نشان‌دهنده تمایل عمومی به تغییر یا تأیید سیاست‌های جاری است",
-            "نتایج می‌تواند مسیر مذاکرات هسته‌ای با ایران را تحت‌تأثیر قرار دهد"
-        ],
-        "impact": "نتیجه‌گیری‌های انتخابات می‌تواند فشار بین‌المللی بر مذاکرات هسته‌ای ایران را تقویت یا تضعیف کند",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Hindustan Times on MSN",
-        "url": "https://www.msn.com/en-in/news/world/israel-elections-2026-live-updates-israel-logs-highest-voter-turnout-in-recorded-history-74-votes-cast-by-8pm/ar-AA2g9azr?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/world/israel-elections-2026-live-updates-israel-logs-highest-voter-turnout-in-recorded-history-74-votes-cast-by-8pm/ar-AA2g9azr",
-        "image": "https://www.bing.com/th?id=ONUT.dJOK2KWS302v7fTbeJR1Sw",
-        "timestamp": 1793046906.0
-    },
-    {
-        "id": "ff02f59f01",
-        "title_fa": "تهدید ایران برای انتقام قتل خامنه‌ای",
-        "title_en": "Iran says assassination of Ali Khamenei will not go unanswered",
-        "summary": [
-            "علی باقری کانی اعلام کرد قتل «رهبر» خامنه‌ای توسط آمریکا/اسرائیل پاسخ داده خواهد شد.",
-            "این بیانیه پس از نشست امنیتی با سعودی، ترکیه و پاکستان منتشر شد.",
-            "احتمال عملیات انتقامی در منطقه افزایش یافت."
-        ],
-        "impact": "افزایش خطر برخورد نظامی مستقیم بین ایران و ایالات متحده یا اسرائیل.",
-        "tag": "تهدید",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610268169",
-        "clean_url": "https://www.iranintl.com/en/202610268169",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793046360.0
-    },
-    {
-        "id": "a449d9c72f",
-        "title_fa": "ترامپ تهدید به حمله جدید علیه ایران کرد",
-        "title_en": "Iran shrugs off Trump's attack threats, says diplomacy ongoing",
-        "summary": [
-            "ترامپ گفت هنوز تصمیم‌گیری بین توافق یا ضربه‌زنی به ایران دارد.",
-            "ایران اعلام کرد مذاکرات غیرمستقیم ادامه دارد اما موضع خود را تغییر نخواهد داد.",
-            "سعودی، ترکیه و پاکستان دیپلوماسی می‌پذیرند تا جنگ را مهار کنند."
-        ],
-        "impact": "تنش نظامی افزایش می‌یابد و نوسان قیمت نفت تشدید می‌شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "CBS News · via Yahoo News",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-shrugs-off-trumps-attack-104506448.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-shrugs-off-trumps-attack-104506448.html",
-        "image": "https://media.zenfs.com/en/cbs_news_897/2eac077c9cd78451f99aaeb0f27324a3.jpg",
-        "timestamp": 1793045990.0
-    },
-    {
-        "id": "5d18dfd5ac",
-        "title_fa": "طبق گزارش‌ها، نتانیاهو ارتش را برای حمله به ایران در آستانه انتخابات تحت فشار قرار داده است",
-        "title_en": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
-        "summary": [
-            "Netanyahu reportedly pressured military to attack Iran in run-up to election The Guardian"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGg3NmRYX3RhRXpOMk5ONlBEd25EMjcwN3NIRlFOTThTVGVCZmxsRlFRRGw5WUttTDByVVkyYU91Qm1XSUVLSjFHcVdQUkYwY0JPUFlMbWE2MWFOSXdMNUROelpLME1OWnZZWmdfc0ZHbl9BdGFaLWhqTTdGSkJIeXJ5VjlHUlNsMGZDX05CZ2t3WE9YTElNZzBIVTdmQkJrWTFVZ0h0aDhEb0dkYlhPQWYyTUNUZHoxRm84STRVbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGg3NmRYX3RhRXpOMk5ONlBEd25EMjcwN3NIRlFOTThTVGVCZmxsRlFRRGw5WUttTDByVVkyYU91Qm1XSUVLSjFHcVdQUkYwY0JPUFlMbWE2MWFOSXdMNUROelpLME1OWnZZWmdfc0ZHbl9BdGFaLWhqTTdGSkJIeXJ5VjlHUlNsMGZDX05CZ2t3WE9YTElNZzBIVTdmQkJrWTFVZ0h0aDhEb0dkYlhPQWYyTUNUZHoxRm84STRVbw",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793044320.0
-    },
-    {
-        "id": "03233fc872",
-        "title_fa": "اتهام جدید تجاوز به ترامپ در گزارش مجلس",
-        "title_en": "Trump Faces New Rape Allegation in Report on Epstein Files Cover-Up",
-        "summary": [
-            "نمایندگان دموکرات مجلس گزارش جدیدی از تجاوز جنسی به ترامپ توسط بئاتریس کیول منتشر کردند",
-            "کیول می‌گوید در سال 1993 در هتل پلازا، ترامپ او را به‌طور خشونت‌آمیز تجاوز کرد و لباسش را پاره کرد",
-            "پس از آن ترامپ وعده ویزا و پذیرش در دانشگاه نیویورک داد و کیول را به سکوت وادار کرد",
-            "این ادعاها می‌تواند فشار سیاسی جدیدی بر ترامپ پیش از انتخابات ایجاد کند"
-        ],
-        "impact": "ممکن است حمایت‌های رأی‌دهندگان ترامپ را تحت فشار قرار دهد و موج جدیدی از بررسی‌های قانونی را به‌وجود آورد",
-        "tag": "آزار جنسی",
-        "urgency": 5,
-        "sentiment": -0.9,
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/217159/democrats-epstein-files-report-rape-allegation-trump-woman",
-        "clean_url": "https://newrepublic.com/post/217159/democrats-epstein-files-report-rape-allegation-trump-woman",
-        "image": "https://www.bing.com/th?id=ONUT.MxpQb6HFtoS5y2l3nuZkRA",
-        "timestamp": 1793043662.9649029
     }
 ]
