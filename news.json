@@ -37,6 +37,25 @@
         "timestamp": 1793482117.8950462
     },
     {
+        "id": "f5a14542da",
+        "title_fa": "تقسیم نسلی عمیق و خشم نسبت به اصلاح‌طلبان",
+        "title_en": "Iran's former minister acknowledges deep generational divide and anger at reformists",
+        "summary": [
+            "وزیر پیشین ایران به اختلاف نسل‌ها و نارضایتی جوانان از اصلاح‌طلبان اشاره کرد؛ این شکاف می‌تواند به تظاهرات گسترده منجر شود.",
+            "احساس خشم نسل جوان نشان می‌دهد که وعده‌های اقتصادی و آزادی‌های سیاسی به‌طور کافی تحقق نیافته‌اند.",
+            "تقسیم داخلی می‌تواند فضای سیاسی را برای بازیگران خارجی که به تضعیف حکومت می‌پردازند، بازتر کند."
+        ],
+        "impact": "افزایش فشار داخلی بر رهبری؛ احتمال بروز اعتراضات سراسری و تضعیف ثبات سیاسی.",
+        "tag": "سیاست داخلی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610318080",
+        "clean_url": "https://www.iranintl.com/en/202610318080",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/9802729d4e51834c9fd016c4b33a864d5ad604a8-600x800.jpg?rect=0,31,600,450&w=320&h=240&q=90&fit=max&auto=format",
+        "timestamp": 1793481780.0
+    },
+    {
         "id": "46b54e5ed4",
         "title_fa": "پیشنهاددهنده سابق فلسطین از جنبش انتقادی شد",
         "title_en": "Ex-Palestine supporter blasts ‘insane’ movement for ‘cherry-picking’ oppressors",
@@ -5585,24 +5604,5 @@
         "clean_url": "https://www.iranintl.com/202610274512",
         "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
         "timestamp": 1793078280.0
-    },
-    {
-        "id": "6f5ca11131",
-        "title_fa": "رئیس شورای امنیت ایران پس از مذاکرات مکه",
-        "title_en": "Iran security chief meets Supreme Leader after talks with Mecca pact countries",
-        "summary": [
-            "محسن رضایی پس از دیدار با نمایندگان کشورهای پیمان مکه، به‌سرعت به رهبری عالی رفت",
-            "این ملاقات نشان‌دهنده تقویت روابط منطقه‌ای ایران در چارچوب ائتلاف‌های اسلامی است",
-            "حضور او پس از غیبت طولانی می‌تواند به هماهنگی‌های امنیتی داخلی کمک کند"
-        ],
-        "impact": "تقویت موقعیت دیپلماتیک ایران در خاورمیانه و احتمال هماهنگی‌های امنیتی جدید",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/iran-security-chief-meets-supreme-leader-after-talks-with-mecca-pact-countries-2026-10-27/",
-        "clean_url": "https://www.reuters.com/world/asia-pacific/iran-security-chief-meets-supreme-leader-after-talks-with-mecca-pact-countries-2026-10-27",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793077980.0
     }
 ]
