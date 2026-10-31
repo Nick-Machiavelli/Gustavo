@@ -1,5 +1,61 @@
 [
     {
+        "id": "4c51af80be",
+        "title_fa": "سیاست ترامپ نسبت به روسیه؛ ریسک برای اوکراین",
+        "title_en": "The US May Make Concessions to the Kremlin: What Lies Ahead for Ukraine After the Talks",
+        "summary": [
+            "سیاست ترامپ نسبت به روسیه به سمت مصالحه می‌رود",
+            "این تغییر می‌تواند فشار بر اوکراین را کاهش دهد و نقش اروپا را تقویت کند",
+            "ژنرال هودجز خطرات توافق‌های تجاری با مسکو را هشدار داد"
+        ],
+        "impact": "احتمال کاهش حمایت نظامی آمریکا از اوکراین و تغییر تعادل قدرت در اروپا",
+        "tag": "روسیه",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Channel 24",
+        "url": "https://24tv.ua/en/trump-doesnt-want-put-pressure-on-russia-how-congress-can-counter_n3171303",
+        "clean_url": "https://24tv.ua/en/trump-doesnt-want-put-pressure-on-russia-how-congress-can-counter_n3171303",
+        "image": "https://www.bing.com/th?id=ONUT.kbY7fbMq4ZnPA5ugiyHnSg",
+        "timestamp": 1793462300.5498183
+    },
+    {
+        "id": "cc192c33b1",
+        "title_fa": "پیامدهای تخلف منچسترسیتی در لیگ برتر",
+        "title_en": "Who has suffered the most from Man City's rule breaking?",
+        "summary": [
+            "منچسترسیتی به تخلف‌های مالی متهم شد",
+            "بررسی‌ها نشان می‌دهد رقبا و لیگ برتر بیشترین ضرر را دیده‌اند",
+            "هواداران و باشگاه‌های رقیب تحت فشار هستند"
+        ],
+        "impact": "کاهش اعتبار لیگ و فشار بر تصمیمات آینده مسابقات",
+        "tag": "فوتبال",
+        "urgency": 1,
+        "sentiment": 0.1,
+        "source": "FourFourTwo on MSN",
+        "url": "https://www.msn.com/en-gb/sport/football/who-has-suffered-the-most-from-man-city-s-rule-breaking/vi-AA2gtRMQ?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-gb/sport/football/who-has-suffered-the-most-from-man-city-s-rule-breaking/vi-AA2gtRMQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793462300.549405
+    },
+    {
+        "id": "d5b4b3118c",
+        "title_fa": "تحلیل انتخابات میانی در نیوجرسی",
+        "title_en": "A final midterm election vibe check with Jersey Democrats and Republicans | Mikie’s World",
+        "summary": [
+            "خبرنامه‌ای درباره انتخابات میانی در نیوجرسی منتشر شد",
+            "دموکرات‌ها با شور و هیجان بالا و جمهوری‌خواهان با نگرانی مواجه‌اند"
+        ],
+        "impact": "تاثیر محدود بر نتایج ملی؛ فقط نشانگر تمایلات محلی است",
+        "tag": "انتخابات",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/final-midterm-election-vibe-check-153002526.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/final-midterm-election-vibe-check-153002526.html",
+        "image": "https://www.bing.com/th?id=ONUT.vSs4KZLWsw_Gkpa93P-6ag",
+        "timestamp": 1793462300.5490324
+    },
+    {
         "id": "cd80828efa",
         "title_fa": "پاسخ بدون محدودیت جغرافیایی: دستورات مجتبی خامنه ای به ارتش ایران",
         "title_en": "Geographically unrestricted response: Mojtaba Khamenei's orders to Iran's military",
@@ -15,6 +71,24 @@
         "clean_url": "https://www.msn.com/en-in/news/other/geographically-unrestricted-response-mojtaba-khameneis-orders-to-irans-military/ar-AA2gtmN8",
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/irans-supreme-leader-mojtaba-khamenei-302448818-original-sixteen-to-nine.jpg?VersionId=9os7VixV8mmo481CfdoGYF3xcAk15rzp&size=690:388",
         "timestamp": 1793453340.0
+    },
+    {
+        "id": "242859b617",
+        "title_fa": "ایران زمان می‌خرند؛ آمریکا آماده حمله",
+        "title_en": "Iran buying time in nuclear talks as US prepares for possible strikes",
+        "summary": [
+            "ایران در مذاکرات هسته‌ای زمان می‌خرند تا برنامه‌های خود را ادامه دهد",
+            "آمریکا آماده انجام حملات پیشگیرانه در صورت عدم پیشرفت است"
+        ],
+        "impact": "افزایش تنش‌های منطقه‌ای و احتمال اعمال تحریم‌های سخت‌تر",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PTFRPZmpLanpsSGFlRk1oVV9SSUxHalV0aFdKTmNqZ05HUTFudDFNSmxZX0tXZk1SalVsejB0SWJ6THdPMkVZdVZHN2ZnUnZSdElXSHFxM29yaGRLeHlkbXo4TWVMY2JyVTRkQS13?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PTFRPZmpLanpsSGFlRk1oVV9SSUxHalV0aFdKTmNqZ05HUTFudDFNSmxZX0tXZk1SalVsejB0SWJ6THdPMkVZdVZHN2ZnUnZSdElXSHFxM29yaGRLeHlkbXo4TWVMY2JyVTRkQS13",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793450987.0
     },
     {
         "id": "6c1eef0b18",
@@ -367,6 +441,24 @@
         "timestamp": 1793419800.0
     },
     {
+        "id": "764c57927f",
+        "title_fa": "تهدید ترامپ به ایران در نشست G20",
+        "title_en": "Trump admin threatens Iran with 'consequences' as allies convene amid threats of post-election escalation",
+        "summary": [
+            "ترامپ هشدار داد که ایران در صورت ادامه تهدیدها با عواقب جدی مواجه می‌شود",
+            "این اظهارات در حین نشست G20 و با تمرکز بر امنیت انرژی و تنگه هرمز مطرح شد"
+        ],
+        "impact": "افزایش فشار دیپلماتیک بر تهران و احتمال اعمال تحریم‌های جدید",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-admin-threatens-iran-with-consequences-as-allies-convene-amid-threats-of-post-election-escalation/ar-AA2gsKGC",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-admin-threatens-iran-with-consequences-as-allies-convene-amid-threats-of-post-election-escalation/ar-AA2gsKGC",
+        "image": "http://www.bing.com/th?id=ONUT.llysBa7SUNY9a-VspRTkbg&pid=News",
+        "timestamp": 1793419254.0
+    },
+    {
         "id": "53dee046d3",
         "title_fa": "چارچوب مذاکرات صلح آمریکا‑ایران؛ بازگشایی هرمز در ۷ روز",
         "title_en": "US-Iran Peace Deal Framework Proposes Uranium Transfer, Strait Of Hormuz Reopening Within 7 Days; China May Act As Guarantor",
@@ -385,6 +477,25 @@
         "clean_url": "https://www.freepressjournal.in/world/us-iran-peace-deal-framework-proposes-uranium-transfer-strait-of-hormuz-reopening-within-7-days-china-may-act-as-guarantor",
         "image": "https://media.assettype.com/freepressjournal/2026-08-17/utx4pxdn/Untitled-design-2026-08-17T081648.828.jpg",
         "timestamp": 1793416620.0
+    },
+    {
+        "id": "bc650b0601",
+        "title_fa": "حملات هوایی ایران به پایگاه‌های آمریکایی",
+        "title_en": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds",
+        "summary": [
+            "ایران بیش از ۲۵ پایگاه آمریکایی را هدف حملات هوایی کرد",
+            "ابتدا سامانه‌های هشداردهی را نابود کرد، سپس به انبارها و ساختمان‌ها حمله کرد",
+            "خسارت‌ها به میلیاردها دلار می‌رسد و حضور نظامی آمریکا را در خاورمیانه دگرگون می‌کند"
+        ],
+        "impact": "کاهش توان عملیاتی ایالات متحده در منطقه و فشار بر تصمیمات نظامی واشنگتن",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Newsday",
+        "url": "https://www.newsday.com/news/nation/iran-war-us-base-damage-trump-l15242",
+        "clean_url": "https://www.newsday.com/news/nation/iran-war-us-base-damage-trump-l15242",
+        "image": "http://www.bing.com/th?id=ONUT.7rPfr1N-FBEfyPKzqK4JVA&pid=News",
+        "timestamp": 1793416500.0
     },
     {
         "id": "73492741a5",
@@ -781,6 +892,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR09XaDFpNHQtVnkwb0VubmpvMDdoNlk5QnZUNEFkZkZTSEstUDNLVkQzWWpMZndJbi1VcHhNUEcxTE1mY1MxdUdWTmdpR05CSFI3TEg3cXI5V3ZjVEN6Rkhmc2pqZE5CcXhPMDA3SjhmcGRwWG9oWWZ3M2R0VnZnTjNfMFRqVzJnZjJMSm45NnVGdC1WekRPUmhPUE9GOGJEZllqNGctdTdLSHdzVmdRTkpjcHhUc0k",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793377254.0
+    },
+    {
+        "id": "925eaca709",
+        "title_fa": "ترامپ برنامه‌ریزی برای حمله به ایران پس از میانی‌ها",
+        "title_en": "US Iran War Live Updates: Iran’s supreme leader orders military to expand US, Israeli target list",
+        "summary": [
+            "سپاه پاسداران ادعا کرد چهار تانکر نفت در هرمز سوزند",
+            "ترامپ گفت مذاکرات با ایران ادامه دارد اما زمان برای حمله وجود دارد",
+            "او گفت هزینه جنگ برای مالیات‌دهندگان کم است و از سود ونزوئلا استفاده می‌شود"
+        ],
+        "impact": "تهدید مستقیم به خاورمیانه؛ احتمال شروع عملیات هوایی پس از میانی‌ها",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-mojtaba-khamenei-saudi-houthi-attacks-hormuz-plan-peace-talks-latest-news/liveblog/135329059.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-mojtaba-khamenei-saudi-houthi-attacks-hormuz-plan-peace-talks-latest-news/liveblog/135329059.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135329059,width-1280,height-720,imgsize-44756,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1793373900.0
     },
     {
         "id": "6550b7781a",
@@ -5464,137 +5594,5 @@
         "clean_url": "https://ziare.com/cautare/comercianţii-pag5",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793055106.0
-    },
-    {
-        "id": "4192429053",
-        "title_fa": "ایده‌های آمریکا درباره برنامه هسته‌ای ایران با خواست‌های تهران در تضاد",
-        "title_en": "US “Ideas” on Iran’s Nuclear Work are at Odds With Tehran’s Demands, Senior Iranian Official Tells Reuters",
-        "summary": [
-            "مقام ارشد ایرانی گفت طرح‌های آمریکا با خواست‌های هسته‌ای ایران سازگار نیست.",
-            "اختلاف در مسیر مذاکرات می‌تواند به تعلیق یا سخت‌گیری بیشتر منجر شود."
-        ],
-        "impact": "مذاکرات هسته‌ای ممکن است به تعویق بیفتد و تحریم‌ها ادامه یابد.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNE5NOVQtR2JDeGlfenQ4dUZYXzl3Z3dkcVZOMlBPR19lc1VaYXZyV2gwVFJzQTh2RDJGZmthb25Ob2hsX2pld1RzOWxRbXVvWHRsSmJGTkhhREgtTFNfOWltOTBZdjhoWF80eTFtZG9PWGFLYldBYUFNVVExQWE1cmY1RnpyTGM3ejFjR1J2UE0zUmVmOW5TdUZWMkxCYnY0RHJNbkhMUks3UWROVkxScnBlRFhtRkdIM3hFX3VfY1pPdVN6V25OX2NoZF8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNE5NOVQtR2JDeGlfenQ4dUZYXzl3Z3dkcVZOMlBPR19lc1VaYXZyV2gwVFJzQTh2RDJGZmthb25Ob2hsX2pld1RzOWxRbXVvWHRsSmJGTkhhREgtTFNfOWltOTBZdjhoWF80eTFtZG9PWGFLYldBYUFNVVExQWE1cmY1RnpyTGM3ejFjR1J2UE0zUmVmOW5TdUZWMkxCYnY0RHJNbkhMUks3UWROVkxScnBlRFhtRkdIM3hFX3VfY1pPdVN6V25OX2NoZF8",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793051952.0
-    },
-    {
-        "id": "13999d882a",
-        "title_fa": "عربستان سعودی، ترکیه و پاکستان برای پایان دادن به جنگ نمایندگانی را به ایران می‌فرستند",
-        "title_en": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war",
-        "summary": [
-            "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war The Washington Post"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793051373.0
-    },
-    {
-        "id": "3726c90428",
-        "title_fa": "نتانیاهو پیش از انتخابات اسرائیل فشار برای حمله به ایران",
-        "title_en": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
-        "summary": [
-            "نتانیاهو پیش از انتخابات فشار مستقیم به ارتش برای برنامه‌ریزی حمله به ایران وارد کرد",
-            "این فشار نشان‌دهنده استفاده از ریسک نظامی برای جلب رأی داخلی است",
-            "اجرای طرح می‌تواند تنش خاورمیانه را به‌طور چشمگیری تشدید کند",
-            "آمریکا و اروپا احتمالاً تحریم‌های جدیدی علیه اسرائیل اعمال می‌کنند"
-        ],
-        "impact": "احتمال شروع عملیات نظامی علیه ایران و تشدید تحریم‌ها",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793051055.0
-    },
-    {
-        "id": "9bc837934b",
-        "title_fa": "محبوبیت جنگ ایران در بین مردم چقدر است",
-        "title_en": "How popular is the Iran War?",
-        "summary": [
-            "نظرسنجی‌های اخیر نشان می‌دهد حمایت عمومی از جنگ ایران در سطح متوسط است",
-            "هزینه‌های انسانی و اقتصادی جنگ، تمایل مردم به ادامه درگیری را کاهش داده",
-            "دولت‌های منطقه‌ای و غربی از این عدم حمایت برای فشار دیپلماتیک بهره می‌برند"
-        ],
-        "impact": "کاهش حمایت عمومی می‌تواند مانع گسترش جنگ شود",
-        "tag": "عمومی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Silver Bulletin",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793047755.0
-    },
-    {
-        "id": "cc9c6e0ec5",
-        "title_fa": "اعتراض بازنشستگان مخابرات در چند شهر",
-        "title_en": "Retirees Protest in Iran as Economic Strain and Repression Intensify",
-        "summary": [
-            "بازنشستگان مخابرات در تهران، اصفهان و شهرهای دیگر به دلیل بدهی‌های حقوقی و حقوق بازنشستگی راهپیمایی کردند.",
-            "آن‌ها شرکت‌های بزرگ با سهام‌داران نظامی، از جمله بنیاد تعاون سپاه و ستاد اجرایی، را سرزنش کردند.",
-            "کمبود ارز خارجی و بدهی ۴ میلیارد یورویی دولت به واردکنندگان کالاهای اساسی فشار را تشدید کرده است.",
-            "دادگاه ۶۱ نفر از جمله ۳۶ مدیر شرکت را به اتهام عدم بازگرداندن ارز نقدی بازداشت کرد."
-        ],
-        "impact": "تشدید نارضایتی اقتصادی می‌تواند موج جدیدی از اعتراضات عمومی را به راه اندازد.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "National Council of Resistance of Iran",
-        "url": "https://www.ncr-iran.org/en/news/economy/retirees-protest-in-iran-as-economic-strain-and-repression-intensify/",
-        "clean_url": "https://www.ncr-iran.org/en/news/economy/retirees-protest-in-iran-as-economic-strain-and-repression-intensify",
-        "image": "https://www.ncr-iran.org/en/wp-content/uploads/2025/08/State-Media-Admits-Widespread-Poverty-as-Families-Buy-Food-and-Essentials-on-Credit.jpg",
-        "timestamp": 1793047680.0
-    },
-    {
-        "id": "17153e27b7",
-        "title_fa": "نتانیاهو با ترامپ هدف حذف تهدید هسته‌ای ایران",
-        "title_en": "Netanyahu pledges to end Iran nuclear threat with Trump",
-        "summary": [
-            "نتانیاهو اعلام کرد با ترامپ برای از بین بردن برنامه هسته‌ای ایران همکاری می‌کند.",
-            "این اظهارات در پیش‌دستیابی به انتخابات پارلمانی اسرائیل مطرح شد.",
-            "اگرچه جزئیات عملیاتی مشخص نیست، پیام واضحی برای ایران دارد."
-        ],
-        "impact": "افزایش فشار دیپلماتیک بر تهران و احتمال تقویت تحریم‌های جدید.",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610265558",
-        "clean_url": "https://www.iranintl.com/en/202610265558",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793047380.0
-    },
-    {
-        "id": "3c2458c7de",
-        "title_fa": "حمله به نیروهای امنیتی ایران کشته شد",
-        "title_en": "Iran security forces reportedly killed in attack – rights group",
-        "summary": [
-            "حمله به نیروهای امنیتی نشان‌دهنده تشدید تنش‌های داخلی است",
-            "حقوق‌دانان به قتل‌عام اشاره کردند؛ واکنش بین‌المللی محدود است",
-            "این حادثه می‌تواند فشار بر مذاکرات منطقه‌ای را افزایش دهد"
-        ],
-        "impact": "کشتار نیروهای امنیتی می‌تواند فشار بر مذاکرات منطقه‌ای را افزاش دهد",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610277270",
-        "clean_url": "https://www.iranintl.com/en/202610277270",
-        "image": "https://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA",
-        "timestamp": 1793046906.0
     }
 ]
