@@ -1,5 +1,41 @@
 [
     {
+        "id": "c84b9509f7",
+        "title_fa": "انتخابات میانی ۲۰۲۶ آزمون قدرت ترامپ",
+        "title_en": "Trump’s test and shifting alignment of global powers",
+        "summary": [
+            "نتایج انتخابات میانی می‌تواند مسیر سیاست خارجی ترامپ، به‌ویژه نسبت به ایران، را تعیین کند.",
+            "اگر ترامپ پیروز شود، احتمال ادامه تهدیدهای نظامی و فشارهای اقتصادی افزایش می‌یابد."
+        ],
+        "impact": "نتیجه‌گیری‌های این انتخابات می‌تواند مسیر مذاکرات هسته‌ای و تحریم‌ها را برای ماه‌های آینده شکل دهد.",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Pakistan Observer",
+        "url": "https://pakobserver.net/trumps-test-and-shifting-alignment-of-global-powers/",
+        "clean_url": "https://pakobserver.net/trumps-test-and-shifting-alignment-of-global-powers",
+        "image": "https://www.bing.com/th?id=ONUT.NRAomiJhI5_q4oi8ayXMZA",
+        "timestamp": 1793571881.4408276
+    },
+    {
+        "id": "7702584102",
+        "title_fa": "ایران هشدار: جنگ طولانی‌تر پس از تهدید ترامپ",
+        "title_en": "Iran warns new war could last longer after Trump threatens strikes",
+        "summary": [
+            "ایران اعلام کرد تهدیدهای جدید ترامپ می‌تواند منجر به جنگی طولانی‌تر و پرهزینه شود.",
+            "این هشدار نشان می‌دهد که تهران آماده مقابله با هر گونه حمله نظامی است."
+        ],
+        "impact": "افزایش خطر جنگ می‌تواند به تخریب زیرساخت‌های اقتصادی هر دو طرف منجر شود.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "France 24",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3RZZHJ2dHVSeVhabWlDeHVNb0c4N0FXcDhlOTZIWksyNXZJWEo3N1VsUDlJWFRmaG1zaFFDYjlPVE9LRWUtVkl0dXFmcC16Z2wzUXZCdTlDYzFWVUFSLTc4S0d2b1hPWkQxM2M0MGNYTkZ6aVVIT3FMcVY4UmMxQnRiQnJxMUdnaVFCTW5oZk5PcERBWThuaFRHTndvanI2QXZ6TTNHSk1SaFNDMGFELTVRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3RZZHJ2dHVSeVhabWlDeHVNb0c4N0FXcDhlOTZIWksyNXZJWEo3N1VsUDlJWFRmaG1zaFFDYjlPVE9LRWUtVkl0dXFmcC16Z2wzUXZCdTlDYzFWVUFSLTc4S0d2b1hPWkQxM2M0MGNYTkZ6aVVIT3FMcVY4UmMxQnRiQnJxMUdnaVFCTW5oZk5PcERBWThuaFRHTndvanI2QXZ6TTNHSk1SaFNDMGFELTVRMA",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793570033.0
+    },
+    {
         "id": "25c785f3c0",
         "title_fa": "اسرائیل باید برای جنگ نامحدود علیه ایران آماده شود",
         "title_en": "Why Israel must prepare for an independent, open-ended war against Iran and its proxies",
@@ -73,6 +109,24 @@
         "clean_url": "https://www.iranintl.com/en/202611013177",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793558160.0
+    },
+    {
+        "id": "cdc687b03a",
+        "title_fa": "نتانیاهو به ترامپ فشار برای حمله به ایران",
+        "title_en": "Netanyahu pressing Trump to strike Iran immediately after midterms",
+        "summary": [
+            "نتانیاهو به طور مستقیم از ترامپ می‌خواهد پس از انتخابات میانی به سرعت به برنامه هسته‌ای ایران حمله کند.",
+            "این فشار می‌تواند باعث تشدید تنش‌های نظامی در خلیج فارس و ریسک برخورد مستقیم شود."
+        ],
+        "impact": "اگر ترامپ به درخواست نتانیاهو پاسخ دهد، خطر تصاعد نظامی در منطقه به‌سرعت بالا می‌رود.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611015366",
+        "clean_url": "https://www.iranintl.com/en/202611015366",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/e3a60a60cd0c8a47336ca0c18de0de31d854b09e-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1793557500.0
     },
     {
         "id": "ff002f5f3e",
@@ -190,6 +244,23 @@
         "timestamp": 1793542560.0
     },
     {
+        "id": "7acae81489",
+        "title_fa": "خبر بین‌المللی — ایرانی captain killed در alleged US حمله در Persian Gulf",
+        "title_en": "Iranian captain killed in alleged US attack in Persian Gulf",
+        "summary": [
+            "The IRGC-affiliated Fars news agency reported Sunday that an Iranian ship captain had been killed in an alleged US attack on a vessel in international waters of the Persian Gulf on Friday. Captain Nasser Ebrahiminejadan, from the southwestern city of Abadan, was killed after being struck by shrapnel, according to Fars."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611019423",
+        "clean_url": "https://www.iranintl.com/en/202611019423",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1793541180.0
+    },
+    {
         "id": "df8b41b0a5",
         "title_fa": "کنگره پس از میانه‌دوره بی‌قدرت‌تر می‌شود",
         "title_en": "No matter who wins the midterms, one thing is certain: Congress will only become weaker",
@@ -241,6 +312,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793537871.0
+    },
+    {
+        "id": "b21c1fb1ab",
+        "title_fa": "دست‌اندازی بحرین: ایالات متحده و ایران در بن‌بست",
+        "title_en": "High-Stakes Gamble in the Gulf",
+        "summary": [
+            "تحلیلگران می‌گویند روابط آمریکا‑ایران به بن‌بست رسیده و هیچ راه‌حل کوتاه‌مدت وجود ندارد.",
+            "هر دو طرف به استراتژی‌های فشار اقتصادی و نظامی ادامه می‌دهند که وضعیت منطقه را پیچیده می‌کند."
+        ],
+        "impact": "بدون راه‌حل دیپلماتیک، ریسک تصاعد نظامی و نوسان شدید قیمت نفت ادامه خواهد یافت.",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Daily Times",
+        "url": "https://dailytimes.com.pk/1575405/high-stakes-gamble-in-the-gulf/",
+        "clean_url": "https://dailytimes.com.pk/1575405/high-stakes-gamble-in-the-gulf",
+        "image": "http://www.bing.com/th?id=ONUT.-_nKkYlmXpNXAnGuUPDBdg&pid=News",
+        "timestamp": 1793534820.0
     },
     {
         "id": "e19317b8e5",
@@ -315,6 +404,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793520459.0
+    },
+    {
+        "id": "4f544e92fc",
+        "title_fa": "رابین‌سنبِرگ: اسرائیل آماده حمله به برنامه هسته‌ای ایران",
+        "title_en": "'IN THE WAR ROOM'",
+        "summary": [
+            "در مصاحبه‌ای با جوئل روزنبرگ، نتانیاهو اعلام کرد که آماده انجام عملیات تمام‌عیار علیه برنامه هسته‌ای ایران است.",
+            "این اظهارات نشان می‌دهد که اسرائیل در حال برنامه‌ریزی برای حمله‌ای پیش‌پیش‌دیده و خطر جدی برای امنیت ایران است."
+        ],
+        "impact": "هر گونه اقدام نظامی اسرائیل می‌تواند واکنش نظامی ایران و گسترش درگیری را به دنبال داشته باشد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "allisraelnews",
+        "url": "https://allisraelnews.com/in-the-war-room-the-gutsy-gamble-against-iran-that-changed-the-war",
+        "clean_url": "https://allisraelnews.com/in-the-war-room-the-gutsy-gamble-against-iran-that-changed-the-war",
+        "image": "https://cdn.allisraelnews.com/s3/containers/digitalocean/rosenberg_report_1200x800_blurred_borders.jpg/7e2c2166e82e32ce78e480904e688bad/rosenberg_report_1200x800_blurred_borders.jpg",
+        "timestamp": 1793519040.0
     },
     {
         "id": "06947c7df6",
@@ -509,6 +616,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BRi16TVRTR0VteUszamFjTk90M2lWZUh0UWZZUnR3REJZTjFKTGRBTVNqcUxrMzd4VDVicnJWLVBodVFLS05kOWhLRnRtR3hNaVRsZmJ6YkhWMC01QkVHaGI0ZGdGTHRCWHc",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793502042.0
+    },
+    {
+        "id": "14f825b4b0",
+        "title_fa": "ترامپ تصمیم‌گیری درباره حملات به ایران را معلق نگه داشته",
+        "title_en": "Trump 'hasn't made a decision' on whether to resume Iran strikes, Rubio says",
+        "summary": [
+            "رابیو اعلام کرد ترامپ هنوز تصمیم نهایی برای ادامه یا قطع حملات هوایی به ایران نگرفته است.",
+            "در عین حال ایران پیشنهاد بازگشایی مجدد تنگه هرمز را در دو روز ارائه کرده اما آمریکا آن را رد کرده."
+        ],
+        "impact": "عدم تصمیم‌گیری واضح می‌تواند بازارهای نفت را ناآرام نگه دارد و فشار اقتصادی بر ایران را ادامه دهد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-trump-israel-strait-hormuz-10-31-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-trump-israel-strait-hormuz-10-31-26",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/caa76dd489a9af6c9797bc7109858a20.jpg",
+        "timestamp": 1793497740.0
     },
     {
         "id": "4fb1de2d36",
@@ -5490,130 +5615,5 @@
         "clean_url": "https://israelnoticias.com/especial/bardugo-habra-deserciones-de-la-oposicion-para-apoyar-a-netanyahu",
         "image": "https://www.bing.com/th?id=ONUT.oCh_-ZQ_5_S_eswSJPlN3g",
         "timestamp": 1793141525.048481
-    },
-    {
-        "id": "f27f2a8a03",
-        "title_fa": "خطاهای عربی شاه چارلز در عروسی وینزر",
-        "title_en": "The King's Arabic",
-        "summary": [
-            "شاه چارلز در عروسی وینزر دو بیت عربی و حدیثی را به‌صورت ناقص خواند.",
-            "خطاهای تلفظی باعث واکنش‌های انتقادی در رسانه‌های عربی شد."
-        ],
-        "impact": "این اتفاق می‌تواند روابط فرهنگی بریتانیا‑عرب را تحت فشار قرار دهد.",
-        "tag": "فرهنگی",
-        "urgency": 2,
-        "sentiment": -0.1,
-        "source": "en.yenisafak",
-        "url": "https://en.yenisafak.com/columns/taha-kilinc/the-kings-arabic-3724885",
-        "clean_url": "https://en.yenisafak.com/columns/taha-kilinc/the-kings-arabic-3724885",
-        "image": "https://www.bing.com/th?id=ONUT.0Pg18XTRSLrg3e-i_l1BhQ",
-        "timestamp": 1793141525.048169
-    },
-    {
-        "id": "985eefd4ce",
-        "title_fa": "پل‌های مردم ایران و اسرائیل؛ امیدی فراتر از رای‌گیری",
-        "title_en": "An Unbreakable Bond Beyond the Ballot Box",
-        "summary": [
-            "نویسنده به سال‌ها ساختن پل‌های مردم‌محور بین ایران و اسرائیل اشاره می‌کند.",
-            "بر این باور است که ارتباطات مردمی می‌تواند فراتر از تضادهای سیاسی باشد."
-        ],
-        "impact": "تقویت روابط مردمی می‌تواند فشارهای دیپلماتیک را کاهش دهد.",
-        "tag": "اجتماعی",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "The Blogs | The Times of Israel",
-        "url": "https://blogs.timesofisrael.com/an-unbreakable-bond-beyond-the-ballot-box/",
-        "clean_url": "https://blogs.timesofisrael.com/an-unbreakable-bond-beyond-the-ballot-box",
-        "image": "https://www.bing.com/th?id=ONUT.BMWf2Fi-coz0xKsEQk2Ujg",
-        "timestamp": 1793141525.0473692
-    },
-    {
-        "id": "e8c9c550e9",
-        "title_fa": "رئیس دیده‌بان هسته‌ای سازمان ملل از ایران می‌خواهد به تأسیسات دسترسی داشته باشد",
-        "title_en": "UN nuclear watchdog chief urges Iran to grant access to facilities",
-        "summary": [
-            "The IAEA has been denied access to key nuclear facilities since Israel and the US launched a 12-day conflict in June 2025, which included strikes on nuclear sites."
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Free Malaysia Today",
-        "url": "https://www.msn.com/en-my/news/other/un-nuclear-watchdog-chief-urges-iran-to-grant-access/ar-AA2gcwlZ",
-        "clean_url": "https://www.msn.com/en-my/news/other/un-nuclear-watchdog-chief-urges-iran-to-grant-access/ar-AA2gcwlZ",
-        "image": "https://c.ndtvimg.com/2026-10/o94oerm8_-rafael-grossi_625x300_28_October_26.jpeg",
-        "timestamp": 1793140680.0
-    },
-    {
-        "id": "80e8f3c67b",
-        "title_fa": "ایران طرح هفت‌روزه صلح را پیش می‌برد",
-        "title_en": "Iran Pushes Rejected 7-Day Peace Plan, Warns Against New Israeli Strikes",
-        "summary": [
-            "وزیر خارجه ایران گفت مذاکرات برای اجرای طرح هفت‌روزه بازگشت هرمز در کمتر از یک هفته ادامه دارد.",
-            "در عین حال ایران هشدار داد در صورت حمله اسرائیل، پیامدهای اقتصادی ویرانگری برای اسرائیل به‌وجود خواهد آمد.",
-            "نیروهای مسلح ایران آماده دفاع از سرزمین هستند، اما هنوز به دیپلماسی فرصت می‌دهند."
-        ],
-        "impact": "اگر طرح اجرا شود، مسیر نفت خلیج به سرعت باز می‌گردد و فشار تحریم‌ها کاهش می‌یابد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Rferl.org",
-        "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
-        "clean_url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
-        "image": "https://gdb.rferl.org/e83fd4fb-5a57-4482-a78b-55306ce5a35f_cx0_cy4_cw0_w1200_h630.jpg",
-        "timestamp": 1793139180.0
-    },
-    {
-        "id": "46fcdfeccc",
-        "title_fa": "همانطور که سی ان ان گزارش می‌دهد که نیروهای آمریکایی آماده حمله در صورت دستور هستند، ترامپ می‌گوید در حال بررسی این است که آیا توافقی با ایران منعقد کند یا \"آنها را به پایان برساند\".",
-        "title_en": "Trump says he's weighing whether to make a deal with Iran or 'finish them off,' as CNN reports US forces are ready to strike if ordered",
-        "summary": [
-            "Trump says he's weighing whether to make a deal with Iran or \"finish them off,\" but the White House says the U.S. won't attack before the midterms. Iran's envoy to Pakistan says Tehran would reopen Hormuz if the U."
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "National Security Journal",
-        "url": "https://www.msn.com/en-us/news/other/trump-says-he-s-weighing-whether-to-make-a-deal-with-iran-or-finish-them-off-as-cnn-reports-us-forces-are-ready-to-strike-if-ordered/ar-AA2gcrzo",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-he-s-weighing-whether-to-make-a-deal-with-iran-or-finish-them-off-as-cnn-reports-us-forces-are-ready-to-strike-if-ordered/ar-AA2gcrzo",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2di4Lf.img?w=1280&h=719&m=4&q=97",
-        "timestamp": 1793139067.0
-    },
-    {
-        "id": "3d395b45a4",
-        "title_fa": "پزشکیان: ایران‑روسیه درباره انرژی و امنیت گفت‌وگو کردند",
-        "title_en": "Pezeshkian says Iran, Russia held talks on energy, security",
-        "summary": [
-            "ایران و روسیه برای تقویت همکاری‌های انرژی و امنیتی به توافق نزدیک شدند.",
-            "گفتگوها هدف جلوگیری از گسترش جنگ و حفظ منافع منطقه‌ای را دنبال می‌کند."
-        ],
-        "impact": "تقویت هم‌پوشانی انرژی‑امنیتی ایران‑روسیه، کاهش فشار دیپلماتیک.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202610273328",
-        "clean_url": "https://www.iranintl.com/en/202610273328",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/8d2a6a7fc25619656bb3b9fbae8334a21df9a543-5618x3867.jpg?rect=0,460,5618,2949&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793138100.0
-    },
-    {
-        "id": "802c69a288",
-        "title_fa": "بازرس‌های هسته‌ای: ایران سایت‌های بمباران‌شده را تعمیر نکرده",
-        "title_en": "Nuclear Inspectors See No Evidence Iran Repaired US-Bombed Sites",
-        "summary": [
-            "بازرس‌های هسته‌ای گزارش دادند شواهدی مبنی بر تعمیر سایت‌های بمباران‌شده توسط آمریکا در ایران یافت نشد.",
-            "این نشان می‌دهد ایران هنوز توان فنی یا تمایل به بازسازی این مکان‌ها را ندارد."
-        ],
-        "impact": "عدم تعمیر سایت‌های هسته‌ای می‌تواند محدودیت‌های نظارتی بین‌المللی را تقویت کند.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTN5QzFhYWJ3eDVSc3JpcDlXLUZWMTJMSzZEc1haU2wtZlQ3LTlRekxnNEF5SThHbHZzUHZoWWFNTXNMa0VVc2NNaDlVTW5UWXl5SEhPTkwzQjFxVkpvemphQUw4Y3k5enRJQ0Y0VnVjWjh2ZmlIYXBHZ3V2bzlqdFNVUEs1eXliUVpXNktRNnM3UngyVnNzb2I5MXdZMFdzbXRjOWVDckJocExXUzJiUnJDYXF3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTN5QzFhYWJ3eDVSc3JpcDlXLUZWMTJMSzZEc1haU2wtZlQ3LTlRekxnNEF5SThHbHZzUHZoWWFNTXNMa0VVc2NNaDlVTW5UWXl5SEhPTkwzQjFxVkpvemphQUw4Y3k5enRJQ0Y0VnVjWjh2ZmlIYXBHZ3V2bzlqdFNVUEs1eXliUVpXNktRNnM3UngyVnNzb2I5MXdZMFdzbXRjOWVDckJocExXUzJiUnJDYXF3UQ",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793137620.0
     }
 ]
