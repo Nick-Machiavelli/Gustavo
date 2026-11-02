@@ -1,5 +1,60 @@
 [
     {
+        "id": "3be9e7edb9",
+        "title_fa": "ادعاهای ترامپ درباره هزینه‌های جنگ و تورم",
+        "title_en": "Readers sound off on Trump’s policies, anti-bully tech and released balloons",
+        "summary": [
+            "ادعا می‌شود پس از اکتبر ۲۰۲۳، آمریکا بیش از ۲۱ میلیارد دلار به اسرائیل و ۴۷ میلیارد دلار به ایران کمک نظامی داده",
+            "نویسنده به افزایش قیمت گاز، تورم و کمبود بیمه به‌عنوان پیامدهای جنگ اشاره می‌کند",
+            "ادعای رفع تحریم‌ها برای دریافت دیزل از روسیه نشان‌دهنده بی‌ثباتی سیاست‌های تجاری است"
+        ],
+        "impact": "افزایش هزینه‌های جنگ و تورم، نارضایتی عمومی را تشدید می‌کند",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "New York Daily News",
+        "url": "https://www.nydailynews.com/2026/11/02/readers-sound-off-on-trumps-policies-anti-bully-tech-and-released-balloons/",
+        "clean_url": "https://www.nydailynews.com/2026/11/02/readers-sound-off-on-trumps-policies-anti-bully-tech-and-released-balloons",
+        "image": "https://www.nydailynews.com/wp-content/uploads/2026/10/GettyImages-2302764732.jpg?w=8407&h=5605",
+        "timestamp": 1793607379.6768022
+    },
+    {
+        "id": "63785e3c74",
+        "title_fa": "عمان ۲۵ ملوان را از کشتی سوزان نجات داد",
+        "title_en": "Commentary: Between two US Congresses—nine weeks that matter for Hormuz",
+        "summary": [
+            "مرکز امنیت دریایی عمان ۲۵ ملوان را از کشتی تجاری سوزان RITI در نزدیکی موصندام نجات داد",
+            "حادثه نشان می‌دهد خطرات ناوبری در مسیرهای استراتژیک خلیج، به‌ویژه در نزدیکی تنگه هرمز، بالا است",
+            "این عملیات می‌تواند به تقویت همکاری‌های منطقه‌ای در زمینه نجات و امنیت دریایی منجر شود"
+        ],
+        "impact": "بهبود توانمندی‌های نجات دریایی منطقه، خطرات حوادث ناوبری را کاهش می‌دهد",
+        "tag": "امنیت",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "Khaleej Times on MSN",
+        "url": "https://www.msn.com/en-ae/news/middleeast/commentary-between-two-us-congresses-nine-weeks-that-matter-for-hormuz/ar-AA2gz2CC?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ae/news/middleeast/commentary-between-two-us-congresses-nine-weeks-that-matter-for-hormuz/ar-AA2gz2CC",
+        "image": "https://www.bing.com/th?id=ONUT.8TA89HhIa71o_Sm3VmXqNQ",
+        "timestamp": 1793607379.6764503
+    },
+    {
+        "id": "7eacafb484",
+        "title_fa": "مفسر ادعا می‌کند که ترامپ می‌تواند ظرف چند روز به ایران حمله اتمی کند",
+        "title_en": "Trump could launch nuclear strike on Iran within days, commentator claims",
+        "summary": [
+            "Trump could launch nuclear strike on Iran within days, commentator claims Anadolu Ajansı"
+        ],
+        "impact": "...",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjZ2Ql9aYWZVd2RGOXgwS3FCUVJNbnhpdW9Fa2p2alNGRVhQTEFEVnVvRDJZOEs3dHdDbGFoNVRiWGppVW9UVGV0c3A2Qi0waElZcVZObWNtWFhBUW1rcHJFLWFqREhaTlZQZFl3MklDRnRLYU1JdXpza2UwRTk3b3lVUG1QZTZIb2kzZzNtV3ZKTUtabXNBelpFaUxZbGlGVHlTSi1vRzBpQUdTd2lj?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjZ2Ql9aYWZVd2RGOXgwS3FCUVJNbnhpdW9Fa2p2alNGRVhQTEFEVnVvRDJZOEs3dHdDbGFoNVRiWGppVW9UVGV0c3A2Qi0waElZcVZObWNtWFhBUW1rcHJFLWFqREhaTlZQZFl3MklDRnRLYU1JdXpza2UwRTk3b3lVUG1QZTZIb2kzZzNtV3ZKTUtabXNBelpFaUxZbGlGVHlTSi1vRzBpQUdTd2lj",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793606507.0
+    },
+    {
         "id": "0428d630f7",
         "title_fa": "کارلسون می‌گوید نتانیاهو آمریکا را به حمله هسته‌ای فشار می‌دهد",
         "title_en": "Tucker Carlson Claims 'Desperate' Netanyahu Pushing US Toward Nuke Strike On Iran, Trump Hesitant",
@@ -18,6 +73,25 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/tucker-carlson-claims-desperate-netanyahu-pushing-us-toward-nuke-strike-on-iran-trump-hesitant-article-156450299",
         "image": "https://www.bing.com/th?id=ONUT.6-Aw-0eOyHPr3BabcXUeog",
         "timestamp": 1793604340.7730718
+    },
+    {
+        "id": "7f004f7adf",
+        "title_fa": "کشورهای خلیج از تلافی شدید ایران در صورت حمله آمریکا",
+        "title_en": "Gulf States Fear Fiercer Iran Retaliation If US Strikes",
+        "summary": [
+            "کشورهای خلیج (امارات، بحرین، قطر) نگرانی خود را از واکنش تند ایران در صورت حمله آمریکا به ایران ابراز کردند",
+            "این ترس می‌تواند مانع تصمیم‌گیری سریع واشنگتن برای ضربه هوایی یا زمینی شود",
+            "ایران ممکن است با حملات نیابتی در خلیج، مسیرهای نفتی را تهدید کند"
+        ],
+        "impact": "ترس از تلافی ایران، احتمال مداخله نظامی آمریکا را کاهش می‌دهد",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUJ2eUx2ekxlenJCallsY0ZFQi1OeW51dERMMWxCODlpREdmTWk5MzllOTVUSE5KYzI2bW9Jd3FhMG9wMnVWTmZycmZGdEd5TEtWamdmMF9wbEZHWDljdTJkX3I5dk5xQU91bVBNZHhRSE4tQ0pYdXJ6MmZQazlIQ0dBejlXbnMyd0tKbWNabmlTZk9hRVhpWEkwTUxLWkJoSnRvWDEwQkxteE81bVF2QXJn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUJ2eUx2ekxlenJCallsY0ZFQi1OeW51dERMMWxCODlpREdmTWk5MzllOTVUSE5KYzI2bW9Jd3FhMG9wMnVWTmZycmZGdEd5TEtWamdmMF9wbEZHWDljdTJkX3I5dk5xQU91bVBNZHhRSE4tQ0pYdXJ6MmZQazlIQ0dBejlXbnMyd0tKbWNabmlTZk9hRVhpWEkwTUxLWkJoSnRvWDEwQkxteE81bVF2QXJn",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793601300.0
     },
     {
         "id": "26b9492dfb",
@@ -387,6 +461,25 @@
         "clean_url": "https://www.msn.com/en-gb/entertainment/general/this-maga-giant-s-epiphany-is-trump-s-worst-nightmare-opinion/ar-AA2gwWda",
         "image": "https://www.bing.com/th?id=ONUT._-V7GwggYH-xxnRAgaxdXA",
         "timestamp": 1793551065.5306427
+    },
+    {
+        "id": "a232a90ca5",
+        "title_fa": "ترامپ به‌احتمال عملیات نظامی علیه ایران اشاره کرد",
+        "title_en": "Americans Want the Iran War to End. Can Congress Deliver?",
+        "summary": [
+            "نظرسنجی AP‑NORC نشان می‌دهد ۷۰٪ آمریکایی‌ها پایان جنگ ایران را اولویت می‌دانند",
+            "ترامپ در رالی فلوریدا به «خشم حماسی» اشاره کرد و احتمال عملیات جدید را مطرح کرد",
+            "این تضاد بین خواست عمومی و گفتار رهبری، فشار بر کنگره برای جلوگیری از مداخله نظامی را افزایش می‌دهد"
+        ],
+        "impact": "فشار عمومی بر کنگره برای رد هرگونه اقدام نظامی علیه ایران افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/11/02/americans-want-the-iran-war-to-end-can-congress-deliver/",
+        "clean_url": "https://www.counterpunch.org/2026/11/02/americans-want-the-iran-war-to-end-can-congress-deliver",
+        "image": "http://www.bing.com/th?id=ONUT.ooMlcXCJNOMj5I9bQ0wWAg&pid=News",
+        "timestamp": 1793548860.0
     },
     {
         "id": "faaaf8543d",
@@ -5512,100 +5605,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtT1k1ejhhRUlaRzNNX1ZYZTRaWnJkQ3Y0WXZ1V3YxYVJ1V3BRVEFPbExrOUZWRk1TZ0VOeVYyb0ZVTkg2UmtkTTZzelk5WUhUSkE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793162395.0
-    },
-    {
-        "id": "34a553bf6c",
-        "title_fa": "پیش‌بینی عدم پیشرفت در تعلیق هسته‌ای ایران تا نوامبر",
-        "title_en": "Opinion",
-        "summary": [
-            "هیچ توافقی برای دسترسی آیات‌فان یا توقف حملات کشتی‌ها به دست نیامده",
-            "تعلیق فعلی صرفاً تقویم‌وار است و دیپلوماسی واقعی را به تعویق می‌اندازد"
-        ],
-        "impact": "ادامه تنش‌های هسته‌ای و خطر تشدید تحریم‌ها",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/opinion-trump-gave-iran-date-110000902.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/opinion-trump-gave-iran-date-110000902.html",
-        "image": "http://www.bing.com/th?id=ONUT.J8HKzP7nXauGaY7cZZleyA&pid=News",
-        "timestamp": 1793160000.0
-    },
-    {
-        "id": "2faaf19042",
-        "title_fa": "نتانیاهو و رقیب سهام آیزنکوت مدعی رهبری اسرائیل پس از رای گیری به بن بست می‌شوند",
-        "title_en": "Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote",
-        "summary": [
-            "Stay informed with the latest breaking news from Afghanistan. Politics, business, sports, and culture updates in English - all in one place."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Ariana News",
-        "url": "https://www.ariananews.af/netanyahu-eisenkot-stake-rival-claims-to-lead-israel-after-deadlocked-vote/",
-        "clean_url": "https://www.ariananews.af/netanyahu-eisenkot-stake-rival-claims-to-lead-israel-after-deadlocked-vote",
-        "image": "https://www.ariananews.af/wp-content/uploads/2026/10/Netanyahu.jpg",
-        "timestamp": 1793159280.0
-    },
-    {
-        "id": "fe71a5d295",
-        "title_fa": "تحریم‌های آمریکا و بین‌المللی علیه ایران به زودی رفع می‌شوند؟",
-        "title_en": "Will US and International Sanctions on Iran be Lifted? - Energy News, Top Headlines, Commentaries, Features & Events",
-        "summary": [
-            "کارشناسان انرژی می‌پرسند آیا تحریم‌های آمریکا و سایر کشورها علیه ایران به زودی لغو می‌شود.",
-            "رفع تحریم‌ها می‌تواند به بهبود وضعیت اقتصادی و صادرات نفت ایران کمک کند.",
-            "اما پیش‌شرط‌های سیاسی شامل بازگشت به مذاکرات هسته‌ای و تضمین عدم توسعه سلاح هسته‌ای است.",
-            "عدم توافق ممکن است تحریم‌ها را برای سال‌ها ادامه دهد."
-        ],
-        "impact": "لغو تحریم‌ها، اگر اتفاق بیفتد، بهبود شدید اقتصاد ایران و بازار انرژی جهانی را به دنبال دارد.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793157749.0
-    },
-    {
-        "id": "07ab4b63a9",
-        "title_fa": "ترامپ می‌گوید جنگ ایران فقط وقتی پایان می‌یابد که بخواهد",
-        "title_en": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-        "summary": [
-            "ترامپ در مصاحبه‌ای گفت پایان جنگ با ایران به تصمیم او بستگی دارد و هزینه‌ها به ۴۷ میلیارد دلار رسیده.",
-            "این اظهار نظر نشان می‌دهد او هنوز توان سیاسی برای فشار بر ایران را احساس می‌کند.",
-            "هزینه‌های سنگین جنگ می‌تواند فشار داخلی در آمریکا را افزایش دهد.",
-            "بیانیه‌اش می‌تواند به تقویت موضع سخت‌گیرانه در مذاکرات آینده منجر شود."
-        ],
-        "impact": "بیانیه ترامپ، احتمال ادامه فشار نظامی و مذاکرات سخت‌گیرانه را تقویت می‌کند.",
-        "tag": "سیاست",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU01EejJkTVN3UlJGSjRWZGoteW5Pb3VXal9pRk44QVZFSFRwVVZXcE5VYl9HMXpsdkEtcmZYelRqVExPZGFYalRiQXVfanppQm1iaE9wMG9PamwzeFdzcWpUVUNoWW5xSi1kVGp0VTFpX0pMN0lfSUdwdjc2N1MyN9IBhgFBVV95cUxQMDV0THZjaDhZZU9FZ1dNbHh0amdsT0o5Vnc1X2x5Y01JTVMwVjNvTXR2Njg1alRvYWx6VWw0aXdXVjhDbFRkbFZMM05VdnVpdWluZkFaX1NJbGloVEtrNEtaQ1pBM3hNU1lIVEdwSTFBS01Fal9vdkVCLTRwYjNhekVodENtQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU01EejJkTVN3UlJGSjRWZGoteW5Pb3VXal9pRk44QVZFSFRwVVZXcE5VYl9HMXpsdkEtcmZYelRqVExPZGFYalRiQXVfanppQm1iaE9wMG9PamwzeFdzcWpUVUNoWW5xSi1kVGp0VTFpX0pMN0lfSUdwdjc2N1MyN9IBhgFBVV95cUxQMDV0THZjaDhZZU9FZ1dNbHh0amdsT0o5Vnc1X2x5Y01JTVMwVjNvTXR2Njg1alRvYWx6VWw0aXdXVjhDbFRkbFZMM05VdnVpdWluZkFaX1NJbGloVEtrNEtaQ1pBM3hNU1lIVEdwSTFBS01Fal9vdkVCLTRwYjNhekVodENtQQ",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793156520.0
-    },
-    {
-        "id": "4791eedeb3",
-        "title_fa": "قیمت نفت بر اثر تهدید حمله آمریکا به ایران",
-        "title_en": "Oil prices today: Brent crude near $114 as US weighs fresh Iran strikes after midterms",
-        "summary": [
-            "برنت به‌نزدیک 114 دلار رسید",
-            "این افزایش پس از اعلام احتمال حمله تازه آمریکا پس از میانه‌دوره‌هاست",
-            "نگرانی از تداوم تنش‌های ایران‑سعودی بازار را تحت فشار قرار داد",
-            "اگر حمله عملی شود، قیمت‌ها می‌توانند به‌سرعت بالاتر بروند"
-        ],
-        "impact": "قیمت‌های بالای نفت می‌تواند هزینه‌های انرژی را برای مصرف‌کنندگان جهانی افزایش دهد",
-        "tag": "قیمت-نفت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "NDTV Profit on MSN",
-        "url": "https://www.msn.com/en-in/money/economy/oil-prices-today-brent-crude-near-114-as-us-weighs-fresh-iran-strikes-after-midterms/ar-AA2ghqfg?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/money/economy/oil-prices-today-brent-crude-near-114-as-us-weighs-fresh-iran-strikes-after-midterms/ar-AA2ghqfg",
-        "image": "https://www.bing.com/th?id=ONUT.GSc6V4f-FLHNq0W3qLxQ8Q",
-        "timestamp": 1793155252.0
     }
 ]
