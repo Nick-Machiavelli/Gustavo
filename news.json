@@ -1,5 +1,41 @@
 [
     {
+        "id": "a040300732",
+        "title_fa": "۲۱۰ زندانی سیاسی ایران به آلمان درخواست گوش‌دادن",
+        "title_en": "Stimmen aus der Todeszelle: 210 politische Gefangene bitten Deutschland, ihnen zuzuhören",
+        "summary": [
+            "۲۱۰ زندانی سیاسی از ۳۶ زندان، از جمله ۱۱ محکوم به اعدام، نامه‌ای مشترک به آلمان ارسال کردند.",
+            "از ۱۹ مارس تا کنون ۴۶ زندانی اعدام شده‌اند؛ این افراد خطر شکنجه، حبس انفرادی و اعدام را به‌صورت روزانه تجربه می‌کنند."
+        ],
+        "impact": "فشار بین‌المللی برای بررسی وضعیت زندانیان سیاسی در ایران؛ ممکن است منجر به واکنش دیپلماتیک و تحریم‌های حقوق بشری شود.",
+        "tag": "حقوق_بشر",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "de.ncr-iran.org",
+        "url": "https://de.ncr-iran.org/uncategorized/stimmen-aus-der-todeszelle-210-politische-gefangene-bitten-deutschland-ihnen-zuzuhoren/",
+        "clean_url": "https://de.ncr-iran.org/uncategorized/stimmen-aus-der-todeszelle-210-politische-gefangene-bitten-deutschland-ihnen-zuzuhoren",
+        "image": "https://www.bing.com/th?id=ONUT.lzchy0TJHQd4AXEa3dwQdg",
+        "timestamp": 1793579551.3675208
+    },
+    {
+        "id": "589f4ddbec",
+        "title_fa": "تهدید ترامپ به حمله جدید علیه ایران",
+        "title_en": "Rein in Israel, not Iran",
+        "summary": [
+            "ترامپ به‌صورت غیررسمی گفت ممکن است «فوری دیگر» علیه ایران انجام دهد؛ نشانگر آمادگی نظامی آمریکا.",
+            "هشدارهای اروپایی درباره حمله نظامی به ایران در همین زمان مطرح شد و خطر تشدید تنش‌های خاورمیانه را افزایش می‌دهد."
+        ],
+        "impact": "احتمال اعمال تحریم‌های جدید آمریکا و افزایش فشار نظامی بر ایران؛ ناآرامی در بازارهای انرژی و امنیت منطقه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Business Recorder",
+        "url": "https://www.brecorder.com/news/40446931",
+        "clean_url": "https://www.brecorder.com/news/40446931",
+        "image": "https://www.bing.com/th?id=ONUT.teMqUzAfXB9NsqZ7IcYx6g",
+        "timestamp": 1793579551.3672342
+    },
+    {
         "id": "c84b9509f7",
         "title_fa": "انتخابات میانی ۲۰۲۶ آزمون قدرت ترامپ",
         "title_en": "Trump’s test and shifting alignment of global powers",
@@ -651,6 +687,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVNDVVFrTlBWTFhQbl9oanYyUkVnakwzcWk2ZG9nWlRoUXdUX1VaN3RoNmRpN0xPTDVpamlES1ZmbkRjekR1d0dYM3FKenY0ZDVySU5uQzNNLUFQODVSdkdFM0lUU25YWHI1dTUwVVdDNmI4UkxPYWpjVVJNY0EzbFp6Sm8tSHlfVjNGVnJKcTVFa2RCY25CNER1RUlUZExoY3VFNG53Q0hycUlKZHlOWkxhREd2ZFdtTFNYSzZTMkM",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793493521.0
+    },
+    {
+        "id": "3649a031fb",
+        "title_fa": "دلار استرالیا زیر 0.7050 سقوط می‌کند",
+        "title_en": "Australian Dollar softens below 0.7050 on risk-off mood, China's Manufacturing PMI data looms",
+        "summary": [
+            "AUD/USD به حدود 0.7025 رسید؛ بازار آسیا در حالت ریسک‌گریزی است.",
+            "داده‌های پیش‌رو PMI تولید چین می‌تواند فشار فروش را بیشتر کند."
+        ],
+        "impact": "کاهش ارزش دلار استرالیا نسبت به دلار آمریکا، جابه‌جایی سرمایه به ارزهای امن.",
+        "tag": "ارز",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "FXStreet",
+        "url": "https://www.fxstreet.com/news/australian-dollar-softens-below-07050-on-risk-off-mood-chinas-manufacturing-pmi-data-looms-202611012327",
+        "clean_url": "https://www.fxstreet.com/news/australian-dollar-softens-below-07050-on-risk-off-mood-chinas-manufacturing-pmi-data-looms-202611012327",
+        "image": "https://www.bing.com/th?id=ONUT.zIkUnjzOzBW9GQX1OMq-yw",
+        "timestamp": 1793493146.0
     },
     {
         "id": "208691d4a8",
@@ -5561,59 +5615,5 @@
         "clean_url": "https://www.radiofarda.com/a/israel-election-netanyahu-eisenkot-government-deadlock/33885724.html",
         "image": "http://www.bing.com/th?id=ONUT.TwgnDSTK0swJdM3UC-ESjg&pid=News",
         "timestamp": 1793143500.0
-    },
-    {
-        "id": "b4b17e375a",
-        "title_fa": "بندر هرمز: فشار واشنگتن، تهدید برای نفت ایران و هند",
-        "title_en": "Hormuz: Washington's lever, Tehran's asset, India's lifeline",
-        "summary": [
-            "از فوریه تا مارس، تنگه هرمز عملاً بسته شد و کشتی‌های تجاری از مسیر اصلی خود منع شدند",
-            "ایالات متحده با اعمال بلوک‌گذاری متقابل، صادرات نفت ایران را به‌طور قابل‌توجهی کاهش داده و مسیرهای انرژی هند را تهدید می‌کند",
-            "ادامه این وضعیت می‌تواند قیمت جهانی نفت را بالا برده و تجارت هند‑ایران را به‌خطر اندازد"
-        ],
-        "impact": "قیمت نفت جهانی بالا می‌رود، تأمین انرژی هند تحت فشار",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "The Pioneer",
-        "url": "https://www.msn.com/en-in/news/other/hormuz-washingtons-lever-tehrans-asset-indias-lifeline/ar-AA2gdZz9",
-        "clean_url": "https://www.msn.com/en-in/news/other/hormuz-washingtons-lever-tehrans-asset-indias-lifeline/ar-AA2gdZz9",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ge20b.img?w=1200&h=696&m=4&q=81",
-        "timestamp": 1793141820.0
-    },
-    {
-        "id": "d3ee8d220b",
-        "title_fa": "پیشنهاد برش دولت برای تقویت مالیات بریتانیا",
-        "title_en": "Time to build fiscal defences by slashing the size of the state: Alex Brummer",
-        "summary": [
-            "الی هیلی پیشنهاد می‌کند دولت را کوچک‌سازی کند تا فضای تنفس اقتصادی ایجاد شود.",
-            "این ایده در واکنش به تورم و هزینه‌های بالای دولت پس از دوره قبلی مطرح شد."
-        ],
-        "impact": "کاهش هزینه‌های دولتی می‌تواند فشار بر مالیات‌ها را کم کند و رشد اقتصادی را تسریع کند.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "This is Money on MSN",
-        "url": "https://www.msn.com/en-au/money/general/time-to-build-fiscal-defences-by-slashing-the-size-of-the-state-alex-brummer/ar-AA2gchNL?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-au/money/general/time-to-build-fiscal-defences-by-slashing-the-size-of-the-state-alex-brummer/ar-AA2gchNL",
-        "image": "https://www.bing.com/th?id=ONUT.aud7om-Sa1TOqwXgLjTobQ",
-        "timestamp": 1793141525.0487545
-    },
-    {
-        "id": "378ff35c05",
-        "title_fa": "باردوگو: برای حمایت از نتانیاهو اپوزیسیون جدا می‌شوند",
-        "title_en": "Bardugo: habrá deserciones de la oposición para apoyar a Netanyahu",
-        "summary": [
-            "El candidato del Likud Yaakov Bardugo aseguró que varios integrantes del bloque opositor abandonarán sus posiciones políticas..."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "Noticias de Israel",
-        "url": "https://israelnoticias.com/especial/bardugo-habra-deserciones-de-la-oposicion-para-apoyar-a-netanyahu/",
-        "clean_url": "https://israelnoticias.com/especial/bardugo-habra-deserciones-de-la-oposicion-para-apoyar-a-netanyahu",
-        "image": "https://www.bing.com/th?id=ONUT.oCh_-ZQ_5_S_eswSJPlN3g",
-        "timestamp": 1793141525.048481
     }
 ]
