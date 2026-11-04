@@ -249,6 +249,26 @@
         "timestamp": 1793740920.0
     },
     {
+        "id": "99458d4cf5",
+        "title_fa": "شِرُد براون بازگشت به سنا، صندلی اوهایو برای دموکرات‌ها",
+        "title_en": "Sherrod Brown wins Ohio 2026 Senate election, flipping seat for Democrats",
+        "summary": [
+            "براون با اختلاف چهار امتیاز بر حستد پیروز شد",
+            "این بازگشت اولین تغییر صندلی سنا به نفع دموکرات‌ها پس از شکست 2024 است",
+            "کاهش محبوبیت ترامپ به‌دلیل جنگ ایران و هزینه‌های زندگی نقش کلیدی داشت",
+            "حضور براون می‌تواند فشار بر قانون‌گذاری انرژی و کارگری را افزایش دهد"
+        ],
+        "impact": "بازگشت براون به سنا، توازن قدرت در مجلس سنا را به نفع دموکرات‌ها می‌چرخاند",
+        "tag": "سنا",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/ohio-2026-senate-husted-brown/",
+        "clean_url": "https://www.cbsnews.com/news/ohio-2026-senate-husted-brown",
+        "image": "http://www.bing.com/th?id=ONUT.kmLc_mREz-o2DF5Fe2WHZQ&pid=News",
+        "timestamp": 1793739900.0
+    },
+    {
         "id": "f52f2dfe05",
         "title_fa": "اسرائیل به آمریکا هشدار می‌دهد که ایران ممکن است از سلاح های شیمیایی استفاده کند، اما واشنگتن اطلاعات اطلاعاتی را زیر سوال می‌برد",
         "title_en": "Israel warns US that Iran may use chemical weapons, but Washington questions intelligence - report",
@@ -465,6 +485,26 @@
         "clean_url": "https://www.msn.com/en-us/news/other/polls-have-closed-in-south-florida-see-who-s-running-for-congress/ar-AA2gGY9u",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793721824.0
+    },
+    {
+        "id": "35a2bd7493",
+        "title_fa": "دموکرات‌ها موج آبی، به‌دست آوردن کنترل کامل کنگره",
+        "title_en": "Live updates: Democrats ride blue wave to full control of Congress",
+        "summary": [
+            "دست‌یابی به تمام صندلی‌های مجلس نمایندگان و سنا توسط دموکرات‌ها",
+            "چهار صندلی سنا از جمهوری‌خواهی به دموکرات‌ها عوض شد",
+            "رئیس‌جمهور جدید می‌تواند برنامه‌های پیش‌نقشه‌اش را سریع‌تر پیش ببرد",
+            "احتمال واکنش شدید جمهوری‌خواهان در کنگره پیش‌بینی می‌شود"
+        ],
+        "impact": "کنترل کامل کنگره، مسیر تصویب سریع قوانین دموکراتیک را هموار می‌کند",
+        "tag": "کنگره",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "NBC New York",
+        "url": "https://www.nbcnewyork.com/elections/election-day-after-2026-midterms-congress-results-live-updates/6567448/",
+        "clean_url": "https://www.nbcnewyork.com/elections/election-day-after-2026-midterms-congress-results-live-updates/6567448",
+        "image": "http://www.bing.com/th?id=ONUT.P-iHudUnSF3a6OuH_ki2Tw&pid=News",
+        "timestamp": 1793721600.0
     },
     {
         "id": "eaea97bfe6",
@@ -5535,43 +5575,5 @@
         "clean_url": "https://tass.com/politics/2211281",
         "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
         "timestamp": 1793372580.0
-    },
-    {
-        "id": "2d4ed9462d",
-        "title_fa": "لاوروف: روابط روسیه‑آمریکا تغییری نکرده",
-        "title_en": "Lavrov sees no real shifts in Russia-US relations",
-        "summary": [
-            "وزیر امور خارجه روسیه گفت که بین مسکو و واشنگتن تغییر اساسی مشاهده نمی‌شود.",
-            "او هشدار داد که مذاکرات دربارهٔ دیزل روسیه نباید با امیدهای نادرست همراه شود.",
-            "بیان لاوروف نشان می‌دهد که روسیه هنوز به تحریم‌های غربی واکنش سخت‌گیرانه دارد.",
-            "این موضع می‌تواند مانع هرگونه پیشرفت سریع در روابط تجاری دو کشور شود."
-        ],
-        "impact": "عدم پیشرفت در مذاکرات تجاری می‌تواند فشار اقتصادی بر روسیه را ادامه دهد.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2211247",
-        "clean_url": "https://tass.com/politics/2211247",
-        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261031/1491581.jpg",
-        "timestamp": 1793370660.0
-    },
-    {
-        "id": "d70e4a005f",
-        "title_fa": "سرپرست امنیت ایران خواستار اصلاحات اقتصادی شد",
-        "title_en": "Iran's Security Chief Called for Economic Reforms to Save the Regime. What Happened?",
-        "summary": [
-            "محسن رضایی بر ضرورت اصلاحات برای حفظ بقا رژیم تأکید کرد.",
-            "او به فشارهای اقتصادی مردم و تورم ۹۰٪ اشاره کرد."
-        ],
-        "impact": "اگر اصلاحات اجرا شود، فشار داخلی بر حکومت ممکن است کاهش یابد.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "IranWire",
-        "url": "https://iranwire.com/en/features/159591-irans-security-chief-called-for-economic-reforms-to-save-the-regime-what-happened/",
-        "clean_url": "https://iranwire.com/en/features/159591-irans-security-chief-called-for-economic-reforms-to-save-the-regime-what-happened",
-        "image": "https://static.prod.iranwire.com/_versions_jpeg/articleslide/۲۱_hJJt__v1024x512__box_0,65,1269,732.jpeg",
-        "timestamp": 1793368500.0
     }
 ]
