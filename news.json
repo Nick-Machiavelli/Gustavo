@@ -107,6 +107,25 @@
         "timestamp": 1793728084.0
     },
     {
+        "id": "2f1b46f307",
+        "title_fa": "به‌روزرسانی‌های انتخابات آیوا ۲۰۲۶",
+        "title_en": "Iowa 2026 election updates: Final midterm campaign ads have aired",
+        "summary": [
+            "تبلیغات نهایی کمپین‌های میانی در ایالت آیوا پخش می‌شود",
+            "پوشش زنده نتایج انتخابات مجلس و سنای ایالت ارائه می‌شود",
+            "این روند نشانگر تغییرات احتمالی قدرت در کنگره آینده است"
+        ],
+        "impact": "پیش‌بینی تغییرات ترکیب کنگره و سیاست‌های ملی",
+        "tag": "انتخابات",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Des Moines Register on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iowa-2026-election-updates-record-turnout-possible-as-voting-surges/ar-AA2gFjN1",
+        "clean_url": "https://www.msn.com/en-us/news/other/iowa-2026-election-updates-record-turnout-possible-as-voting-surges/ar-AA2gFjN1",
+        "image": "http://www.bing.com/th?id=ONUT.IoQZCIwnBx4EFFIH5ABWDg&pid=News",
+        "timestamp": 1793725276.0
+    },
+    {
         "id": "ae68253a14",
         "title_fa": "انتخاب نماینده جدید برای ناحیه ۷ ایلی‌نویس پس از ۳۰ سال",
         "title_en": "Voters in 7th congressional district set to choose new congressman for first time in three decades",
@@ -475,6 +494,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGFseUp4Smw1aHAySnNlWmo5X2VIWkNYSHA1ZnN1RjNsUHNyYjE4VVcwMGI2MFpIUEE0Z3ZQc0xSMWJtaVQxdHNwWDFZdlB4Yzl1Qzh1Y19KR0lQbUlWRmlfVjhRQnJZenVROTdjNW0tMGdTUkE1SmlRdzVlT1VKQmZVRDAxelY2Q2IzcGkwNkVWNEN2SzNGMEtEYw",
         "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793711975.0
+    },
+    {
+        "id": "2c4923d959",
+        "title_fa": "ایران سعی در تأثیرگذاری بر انتخابات میانی دارد",
+        "title_en": "Iran is betting on the midterm elections. It could lose big",
+        "summary": [
+            "تهران به دنبال نفوذ در رأی‌گیری‌های میانی آمریکا است",
+            "مذاکرات طولانی برای کاهش تحریم‌ها در پیش‌زمینه این تلاش قرار دارد",
+            "اگر آمریکا واکنش منفی نشان دهد، تنش‌های منطقه‌ای تشدید می‌شود"
+        ],
+        "impact": "ممکن است سیاست‌گذاری آمریکا نسبت به ایران تغییر کند",
+        "tag": "تحلیل",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-is-betting-on-the-midterm-elections-it-could-lose-big/ar-AA2gHbXm",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-betting-on-the-midterm-elections-it-could-lose-big/ar-AA2gHbXm",
+        "image": "http://www.bing.com/th?id=ONUT.ub26cYHbB7m8NjViQNoICw&pid=News",
+        "timestamp": 1793711872.0
     },
     {
         "id": "2c4e6e1542",
@@ -918,6 +956,25 @@
         "clean_url": "https://www.msn.com/en-us/news/news/live-updates-election-2026-live-updates-midterm-voters-to-decide-control-of-congress-in-texas-michigan-and-more/ar-AA2gFvoL",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793692072.0
+    },
+    {
+        "id": "9aac50696f",
+        "title_fa": "آمریکا به جزیره قشم ایران حمله کرد",
+        "title_en": "US military conducts strikes on Iran’s Qeshm Island in defensive operation, officials say",
+        "summary": [
+            "نیروهای نظامی آمریکا به‌صورت محدود به جزیره قشم حمله کردند",
+            "این اقدام به‌عنوان عملی دفاعی برای حفاظت از دارایی‌های آمریکایی توجیه شد",
+            "اولین برخورد مستقیم نظامی پس از جنگ فوریه 2024 است"
+        ],
+        "impact": "افزایش خطر برخورد نظامی و فشار دیپلماتیک بر ایران",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-military-conducts-strikes-on-iran-s-qeshm-island-in-defensive-operation-officials-say/ar-AA2gCH0c",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-military-conducts-strikes-on-iran-s-qeshm-island-in-defensive-operation-officials-say/ar-AA2gCH0c",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793691416.0
     },
     {
         "id": "ff4a7be056",
@@ -1849,6 +1906,43 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZDhDMmNsQ2tpZmxyZnVvc0tXTmstOUlXRWxWSHh4ZG8wTV95VlVDc29MemRtbVNGSXQzRHU5SFAtOTBMOW9hRXVQa0VPanRCWmloOUFFVF9jU1RiNmpEU2xIdHNqZHpKeFRvN0R3UC1JWE1OU2NkS1hxLXk3c3hpTndoOHJXTVZXZHpjV1JWTDUxZE5pd3hveGFQeWhmMHI3VGhjZkpUNl9RSE53MzQ4bk1DbjFaeHJfdlE2YmFOVGY0TFYtR00tV9IBzgFBVV95cUxOdXRFVVVob2hRQUlFWUZOVW9TTktGdWFPLUUxRkEyVjdSRnN4dlozbmdqaG1YTTRzVENmcmtnSXY2ellxU21YeV9NUHNEUUdqd3pYYjBSMjVWUlcwcnMyQkhlU09HbnJrMkFtVk96MzktdzNsdDlSUW1lUDJBRTk5UTJCVTlsa2MxaWY1bWdpd2puWmdsXzNHSnI4VDJoY1dUZkEwekVNZFp0Vnl2TVdpRWJBZ1oxWkJGUm1XMEJUZFRpWi1lbDl0Q1Rnb2ZpUQ",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793635338.0
+    },
+    {
+        "id": "3feb72afa1",
+        "title_fa": "انتخابات میانی آمریکا آغاز شد",
+        "title_en": "Americans Cast Their Votes, From Sea to Shining Sea",
+        "summary": [
+            "رای‌دهندگان در سراسر کشور به صندوق‌های رأی رفتند",
+            "نتیجه‌گیری این انتخابات کنترل سنا و مجلس نمایندگان را تعیین می‌کند"
+        ],
+        "impact": "تعیین مسیر قانون‌گذاری آمریکا و تأثیر آن بر سیاست‌های خارجی از جمله ایران",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/03/us/elections/voters-midterms-photos.html",
+        "clean_url": "https://www.nytimes.com/2026/11/03/us/elections/voters-midterms-photos.html",
+        "image": "http://www.bing.com/th?id=ONUT.Iipnx-5TQo5Ryfh5n-FsXg&pid=News",
+        "timestamp": 1793635200.0
+    },
+    {
+        "id": "ba78ee74ed",
+        "title_fa": "ترامپ در پیش‌انتخابات اضطراب نشان داد",
+        "title_en": "Trump Is Melting Down In Real Time And Frantically Calling Reporters",
+        "summary": [
+            "ترامپ تماس‌های اضطراری با رسانه‌ها و Financial Times برقرار کرد",
+            "او ادعا کرد آمریکا برنامه‌ای برای حمله به ایران ندارد",
+            "در توییت‌های خود به خبرنگاران و منتقدان توهین کرد"
+        ],
+        "impact": "تضعیف تصویر رهبری جمهوری‌خواه و احتمال تغییر استراتژی‌های خارجی",
+        "tag": "رهبری",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-is-melting-down-in-real-time-and-frantically-calling-reporters_n_6aea793fe4b097f1dd10f2bc",
+        "clean_url": "https://www.huffpost.com/entry/trump-is-melting-down-in-real-time-and-frantically-calling-reporters_n_6aea793fe4b097f1dd10f2bc",
+        "image": "http://www.bing.com/th?id=ONUT.08iAaUKvc6lSKSi4nI-A5g&pid=News",
+        "timestamp": 1793635200.0
     },
     {
         "id": "42cadcca91",
@@ -5499,98 +5593,5 @@
         "clean_url": "https://kalshi.com/markets/kximpeach/president-impeached/kximpeach",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793345880.0
-    },
-    {
-        "id": "77d38494cf",
-        "title_fa": "میان‌جی‌گران قطری برای توافق آمریکا‑ایران به تهران برگشتند",
-        "title_en": "Qatari mediators return to Tehran to push for US-Iran deal, official says",
-        "summary": [
-            "میان‌جی‌گران قطری به تهران برگشتند تا مسیر توافق دو جانبه را هموار کنند.",
-            "این بازگشت همزمان با آماده‌سازی احتمالی حملات پس از انتخابات نوامبر است."
-        ],
-        "impact": "پیشبرد مذاکرات می‌تواند از تشدید نظامی در خاورمیانه جلوگیری کند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnF1OHJuNjZ6ekdJU25nLXhCNGFUaXB0V2FHRktTVWo0bjBETVRCSTJLM0tnWm5CaXI1TGV5enRhcUxIOEc1Y0dlcXNTMmd6NWdxWVFGa3BNbi1uazdEeG9ZSmR5QWVPdW5hRzVxek12RlgySGc2MTJ2Wlo0SkVzcmc5ZmRXRnVCYjlXeW9ZUGlwalAxdWJJUUpSUDRhdDEwX0RnMlE4eGlkSlBrY21VbWs2Smw3NkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnF1OHJuNjZ6ekdJU25nLXhCNGFUaXB0V2FHRktTVWo0bjBETVRCSTJLM0tnWm5CaXI1TGV5enRhcUxIOEc1Y0dlcXNTMmd6NWdxWVFGa3BNbi1uazdEeG9ZSmR5QWVPdW5hRzVxek12RlgySGc2MTJ2Wlo0SkVzcmc5ZmRXRnVCYjlXeW9ZUGlwalAxdWJJUUpSUDRhdDEwX0RnMlE4eGlkSlBrY21VbWs2Smw3NkE",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793345107.0
-    },
-    {
-        "id": "cb6f332c28",
-        "title_fa": "عربستان سعودی از ترامپ خواست مذاکرات با ایران",
-        "title_en": "Saudi Arabia asks Donald Trump to give Iran negotiations a chance before striking",
-        "summary": [
-            "عربستان سعودی از ترامپ درخواست کرد قبل از هر اقدام نظامی، مذاکراتی با ایران انجام شود.",
-            "این درخواست نشان می‌دهد فشار بین‌المللی برای دیپلماسی در منطقه در حال افزایش است."
-        ],
-        "impact": "اگر ترامپ به درخواست پاسخ دهد، احتمال برخورد نظامی کاهش می‌یابد.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CX3I0RHNFX1cxaW85Q0dzcE1qdl9xQXo4RFI4OEpOdGE4SUItWVNwbEd3bmp5MnpzRl9TUzNFUUhRdkhKUnFpTE9JM1N6ZFltbFdGUmVfSUsyTzlVWDhkVlNwM2FhS2RxQ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CX3I0RHNFX1cxaW85Q0dzcE1qdl9xQXo4RFI4OEpOdGE4SUItWVNwbEd3bmp5MnpzRl9TUzNFUUhRdkhKUnFpTE9JM1N6ZFltbFdGUmVfSUsyTzlVWDhkVlNwM2FhS2RxQ0E",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793342314.0
-    },
-    {
-        "id": "3e69193308",
-        "title_fa": "ایران برنامه صلح هفت‌روزه را پیش می‌برد",
-        "title_en": "Iran pushes 7-day peace plan",
-        "summary": [
-            "ایران برنامه صلح هفت‌روزه را به‌عنوان راه‌حل فوری برای تنش‌های منطقه معرفی کرد.",
-            "این طرح شامل گام‌های فوری برای کاهش تحریم‌ها و بازگشت به مذاکرات هسته‌ای است."
-        ],
-        "impact": "اجرای برنامه می‌تواند مسیر کاهش تنش و بازگشت سرمایه‌گذاری‌ها را هموار کند.",
-        "tag": "صلح",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "chinadailyhk",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MWDJ1REwzN1pqVnMzUVVpMWVaeW9DcXIwVUtjN2tKVlNBa2FpN19kZVd2UVFhRllKZV9JaXJJYlhSMWVIU21vVk40NzdPOG5JUGRIYmd6SE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MWDJ1REwzN1pqVnMzUVVpMWVaeW9DcXIwVUtjN2tKVlNBa2FpN19kZVd2UVFhRllKZV9JaXJJYlhSMWVIU21vVk40NzdPOG5JUGRIYmd6SE0",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793341084.0
-    },
-    {
-        "id": "8b0e8cf15f",
-        "title_fa": "ایران دریافت نامه ونس را تأیید کرد",
-        "title_en": "Iran Confirms Receiving Vance Letter Seeking Renewed Talks, Says No Response Yet - Report",
-        "summary": [
-            "ایران نامه‌ای از جفری ونس، نماینده ویژه آمریکا، دریافت کرد اما هنوز پاسخی نداده است",
-            "دریافت نامه نشان می‌دهد دیپلماسی مسالمت‌آمیز هنوز در رده اول است و فشارهای نظامی موقتاً کاهش یافته‌اند",
-            "اگر مذاکرات ادامه یابد امکان کاهش تحریم‌های مالی و بازگشت سرمایه‌گذاری‌های خارجی می‌تواند فراهم شود",
-            "رقبای منطقه‌ای ممکن است از این فرصت برای تقویت موضع خود استفاده کنند"
-        ],
-        "impact": "پیشنهاد مذاکرات می‌تواند فشارهای اقتصادی را کمی کم کند",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEs2NDdBcmd4RzVfZVR5UlF5U3p4dXJVMTEzdmxhTTdvREwxSF9wNFN6WmtCUzJqQThsb2JSVDh1V3BBbVdzSWVaSENweEtoMEgzck53MElONEpWeHFMcWEyZXVoUlg2UWxzdFdzb3FMdHo0aGpBZDlNRHNqb0owa1dQLVZNVlFyQ1BScjZ6SE9CTnU1NVJsVGNuSFV0UlBMVEgzSXV0aktLYzk2SDVyQzFaTVp3MTZBbFlmYkU2UWstaXBSaTBlRmlpUGtjUk55Qnp0M054YklKQXFtWEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEs2NDdBcmd4RzVfZVR5UlF5U3p4dXJVMTEzdmxhTTdvREwxSF9wNFN6WmtCUzJqQThsb2JSVDh1V3BBbVdzSWVaSENweEtoMEgzck53MElONEpWeHFMcWEyZXVoUlg2UWxzdFdzb3FMdHo0aGpBZDlNRHNqb0owa1dQLVZNVlFyQ1BScjZ6SE9CTnU1NVJsVGNuSFV0UlBMVEgzSXV0aktLYzk2SDVyQzFaTVp3MTZBbFlmYkU2UWstaXBSaTBlRmlpUGtjUk55Qnp0M054YklKQXFtWEE",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793341020.0
-    },
-    {
-        "id": "cd601d8b7f",
-        "title_fa": "ایران با ۵۰۰۰ شبکه مخفی تحریم‌ها را دور می‌زند",
-        "title_en": "5,000 secret agencies, $2 billion in arms supplies: How Iran bypassed Western sanctions",
-        "summary": [
-            "ایران بیش از ۵۰۰۰ سازمان نظامی‌پوش مخفی برای واردات قطعات سلاح استفاده می‌کند",
-            "این شبکه‌ها به‌صورت غیرقابل ردیابی مواد انفجاری، سوخت موشک و وسایل سنگین را می‌آورند",
-            "تحریم‌های غربی به‌سختی می‌تواند جریان اسلحه‌رسانی را قطع کند"
-        ],
-        "impact": "دستگاه‌های نظامی ایران می‌توانند ادامه عملیات را بدون خرید مستقیم حفظ کنند",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Times Now on MSN",
-        "url": "https://www.msn.com/en-in/news/other/5000-secret-agencies-2-billion-in-arms-supplies-how-iran-bypassed-western-sanctions/ar-AA2gpPNX",
-        "clean_url": "https://www.msn.com/en-in/news/other/5000-secret-agencies-2-billion-in-arms-supplies-how-iran-bypassed-western-sanctions/ar-AA2gpPNX",
-        "image": "http://www.bing.com/th?id=ONUT.mek4Z3VguXWXK5AHQtQbyQ&pid=News",
-        "timestamp": 1793337458.0
     }
 ]
