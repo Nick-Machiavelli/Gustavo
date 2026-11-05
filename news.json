@@ -1,5 +1,24 @@
 [
     {
+        "id": "5cce18d128",
+        "title_fa": "شومر: پایان جنگ ایران‑امریکا باید توسط دموکرات‌ها",
+        "title_en": "There’s only one responsible way to ‘end the Iran war,’ Chuck Schumer",
+        "summary": [
+            "شومر می‌گوید دموکرات‌ها پس از انتخابات سال آینده جنگ را خاتمه می‌دهند.",
+            "او به عدم وجود برنامه واضح برای ایران و اوکراین در حزب دموکرات اشاره کرد.",
+            "انتقاد از ترامپ به‌خاطر عدم شفافیت در اهداف جنگ، فشار داخلی بر دولت آمریکا را افزایش می‌دهد."
+        ],
+        "impact": "فشار سیاسی داخل ایالات متحده برای تغییر سیاست‌های نظامی نسبت به ایران.",
+        "tag": "سیاست",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/05/opinion/theres-only-one-responsible-way-to-end-the-iran-war-chuck-schumer/",
+        "clean_url": "https://nypost.com/2026/11/05/opinion/theres-only-one-responsible-way-to-end-the-iran-war-chuck-schumer",
+        "image": "https://www.bing.com/th?id=ONUT.niLWinyhOPPSqP5XpnqpWA",
+        "timestamp": 1793922413.1910224
+    },
+    {
         "id": "ed606471da",
         "title_fa": "قانون جنگی آمریکا در انتخابات میانه رد شد",
         "title_en": "US administration's war bill firmly rejected at ballot box",
@@ -58,6 +77,62 @@
         "clean_url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
         "image": "https://www.bing.com/th?id=ONUT.NwNUWxk7R6m6qKFkM6-9Pw",
         "timestamp": 1793917631.6533432
+    },
+    {
+        "id": "717e213050",
+        "title_fa": "ایران پیشنهاد هسته‌ای خود را از طریق قطر به آمریکا فرستاد",
+        "title_en": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+        "summary": [
+            "یک مقام ارشد ایرانی اعلام کرد که پیشنهاد هسته‌ای از طریق قطر به واشنگتن رسیده است.",
+            "این اقدام نشان می‌دهد تهران به دنبال بازگشت به مذاکرات است.",
+            "پاسخ آمریکا هنوز نامشخص است؛ اما می‌تواند مسیر تحریم‌ها را تغییر دهد."
+        ],
+        "impact": "احتمال بازگشت به مذاکرات هسته‌ای و کاهش تنش‌های منطقه‌ای.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRNG5Cb1pfbk9NWDVDdXljMUdsUnljTHFBeWliTnhLZ0laVHQ5dktKVE9MV1pyZ2pHQldSZmxKdV9zd2xOb0xiZzJHaVFtTnZmaHY1U1VkdURROU1K?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRNG5Cb1pfbk9NWDVDdXljMUdsUnljTHFBeWliTnhLZ0laVHQ5dktKVE9MV1pyZ2pHQldSZmxKdV9zd2xOb0xiZzJHaVFtTnZmaHY1U1VkdURROU1K",
+        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793915995.0
+    },
+    {
+        "id": "12e3cbd669",
+        "title_fa": "اخبار عمومی ایران از ABC",
+        "title_en": "Iran - ABC News",
+        "summary": [
+            "متن فقط شامل عنوان کلی «Iran» است و جزئیات خبری ارائه نمی‌دهد.",
+            "عدم وجود اطلاعات خاص نشان می‌دهد که این منبع پوشش عمیقی ندارد."
+        ],
+        "impact": "اطلاعات محدود برای تحلیل‌گران و تصمیم‌گیرندگان.",
+        "tag": "خبر",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCQ09fWVBIZWY4TlpaX29uLXJ3dlVSdDRRWVNobVZFLWxyRmtnR0YtN0RzSDd1SjZRbklGb1o0OEtncDdueFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCQ09fWVBIZWY4TlpaX29uLXJ3dlVSdDRRWVNobVZFLWxyRmtnR0YtN0RzSDd1SjZRbklGb1o0OEtncDdueFE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793914623.0
+    },
+    {
+        "id": "95dc03473e",
+        "title_fa": "قیمت نفت با امید به توافق خاورمیانه بالا رفت",
+        "title_en": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement",
+        "summary": [
+            "بازارها پس از شایعات درباره توافق خاورمیانه، قیمت نفت را ارتقا دادند.",
+            "افزایش قیمت می‌تواند درآمدهای نفتی ایران را در صورت تحقق توافق تقویت کند.",
+            "همزمان، این روند نشانگر حساسیت بازار به تحولات ژئوپلیتیک منطقه است."
+        ],
+        "impact": "درآمدهای نفتی ایران در صورت رسیدن به توافق، افزایش می‌یابد.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793911500.0
     },
     {
         "id": "df1d9a10c1",
@@ -388,6 +463,25 @@
         "clean_url": "https://www.politico.com/newsletters/national-security-daily/2026/11/05/how-to-read-the-iran-war-tea-leaves-01152317",
         "image": "http://www.bing.com/th?id=ONUT.kocucvxY1kA5igniiSfSrQ&pid=News",
         "timestamp": 1793884260.0
+    },
+    {
+        "id": "32cd6cf844",
+        "title_fa": "سطوح مرجع تشخیصی در پزشکی هسته‌ای: درس‌های فرانسه",
+        "title_en": "Diagnostic Reference Levels in Nuclear Medicine: Practical Approaches and Lessons Learned from France",
+        "summary": [
+            "DRLها ابزار کلیدی برای کاهش دوزهای تابشی در کلینیک‌ها هستند.",
+            "فرانسه با تعریف سطوح مرجع عملی، خطاهای دوز را به‌طور قابل‌توجهی کم کرد.",
+            "اعمال این روش‌ها می‌تواند ایمنی بیماران ایرانی را هم ارتقا دهد."
+        ],
+        "impact": "بهبود ایمنی بیماران و کاهش هزینه‌های درمانی در مراکز پزشکی هسته‌ای.",
+        "tag": "بهداشت",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "iaea.org",
+        "url": "https://www.iaea.org/resources/webinar/diagnostic-reference-levels-in-nuclear-medicine-practical-approaches-and-lessons-learned-from-france",
+        "clean_url": "https://www.iaea.org/resources/webinar/diagnostic-reference-levels-in-nuclear-medicine-practical-approaches-and-lessons-learned-from-france",
+        "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793883540.0
     },
     {
         "id": "5e6e1f021d",
@@ -5426,98 +5520,5 @@
         "clean_url": "https://de.ncr-iran.org/uncategorized/stimmen-aus-der-todeszelle-210-politische-gefangene-bitten-deutschland-ihnen-zuzuhoren",
         "image": "https://www.bing.com/th?id=ONUT.lzchy0TJHQd4AXEa3dwQdg",
         "timestamp": 1793579551.3675208
-    },
-    {
-        "id": "589f4ddbec",
-        "title_fa": "تهدید ترامپ به حمله جدید علیه ایران",
-        "title_en": "Rein in Israel, not Iran",
-        "summary": [
-            "ترامپ به‌صورت غیررسمی گفت ممکن است «فوری دیگر» علیه ایران انجام دهد؛ نشانگر آمادگی نظامی آمریکا.",
-            "هشدارهای اروپایی درباره حمله نظامی به ایران در همین زمان مطرح شد و خطر تشدید تنش‌های خاورمیانه را افزایش می‌دهد."
-        ],
-        "impact": "احتمال اعمال تحریم‌های جدید آمریکا و افزایش فشار نظامی بر ایران؛ ناآرامی در بازارهای انرژی و امنیت منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Business Recorder",
-        "url": "https://www.brecorder.com/news/40446931",
-        "clean_url": "https://www.brecorder.com/news/40446931",
-        "image": "https://www.bing.com/th?id=ONUT.teMqUzAfXB9NsqZ7IcYx6g",
-        "timestamp": 1793579551.3672342
-    },
-    {
-        "id": "5d17263952",
-        "title_fa": "ایران هشدار داد جنگ جدید با آمریکا می‌تواند طولانی‌تر باشد",
-        "title_en": "Iran warns renewed war with US could outlast previous conflict",
-        "summary": [
-            "مقامات ایرانی اعلام کردند اگر جنگی دوباره آغاز شود، ممکن است از جنگ قبلی طولانی‌تر بماند",
-            "این اظهارات نشان‌دهنده آمادگی برای مقاومت طولانی‌مدت و افزایش هزینه‌های نظامی است"
-        ],
-        "impact": "تحریک ریسک‌های استراتژیک برای نیروهای آمریکایی در منطقه",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3d5UEVHS2xoX29PNkd4M1hXbW80Rk05RWhnVVVvOEtiSVNyRTRkaWkwc19BV2VtNnBMYzcwejJKSERsR3BYYUlFSjZoTHJrQWNTNXlaajg1Q2xtX0pJbWY5LThKRkljVTNlVUR2OFVkdTc5WWRSSGdWNkd1LVFON0wtdV9mcDItOUxHYXptbFBoLTVfSURON2VWRmtUOTNwSmxpV0xjWXhoVm51U0tMeA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3d5UEVHS2xoX29PNkd4M1hXbW80Rk05RWhnVVVvOEtiSVNyRTRkaWkwc19BV2VtNnBMYzcwejJKSERsR3BYYUlFSjZoTHJrQWNTNXlaajg1Q2xtX0pJbWY5LThKRkljVTNlVUR2OFVkdTc5WWRSSGdWNkd1LVFON0wtdV9mcDItOUxHYXptbFBoLTVfSURON2VWRmtUOTNwSmxpV0xjWXhoVm51U0tMeA",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793579003.0
-    },
-    {
-        "id": "5f199cfc30",
-        "title_fa": "ایران می‌گوید سیاست 'هویج و چوب' کارساز نیست",
-        "title_en": "Iran: 'Carrot-and-stick' approach unworkable",
-        "summary": [
-            "روزنامه چین دیلی ادعا می‌کند ایران روش تنبیه و تشویق را ناکارآمد می‌داند",
-            "این موضع می‌تواند روابط دیپلماتیک بین تهران و واشنگتن را پیچیده‌تر کند"
-        ],
-        "impact": "دستگاه فشارهای اقتصادی آمریکا ممکن است اثر کمتری داشته باشد",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "China Daily Global Edition",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdE9HNElBT0drMDRXSnpNR3REUm1tc1F1NC1aR2NKdWZYLVR4QVBJaUg3QlhzY0VJWURCTVBqOGwwV2NORHNYNXhkTVJBRGFicEl4eDdKdkxCUHRiakcydUtOUkVTZi0tV0hKSDBuQzRGMDZDYVZHcDF3OVU4czVRNWdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdE9HNElBT0drMDRXSnpNR3REUm1tc1F1NC1aR2NKdWZYLVR4QVBJaUg3QlhzY0VJWURCTVBqOGwwV2NORHNYNXhkTVJBRGFicEl4eDdKdkxCUHRiakcydUtOUkVTZi0tV0hKSDBuQzRGMDZDYVZHcDF3OVU4czVRNWdn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793578881.0
-    },
-    {
-        "id": "20cc1fa1cc",
-        "title_fa": "گفتگوهای غیرمستقیم آمریکا‑ایران ادامه دارد؛ هشدارهای نظامی پابرجاست",
-        "title_en": "US, Iran Continue Indirect Talks as Nuclear Dispute, Military Risks Persist",
-        "summary": [
-            "ایالات متحده و ایران از طریق واسطه‌ها مذاکرات را ادامه می‌دهند، هرچند هر دو طرف هشدارهای نظامی تازه‌ای صادر کردند",
-            "مذاکرات در دوحه، قطر، با تردید دربارهٔ ماندگاری آتش‌بس پس از انتخابات میانی آمریکا برگزار می‌شود",
-            "رئیس‌جمهور ترامپ هنوز تصمیم‌گیری دربارهٔ حملات هوایی جدید به ایران را نهایی نکرده است",
-            "وزیر امور خارجه آمریکا مارکو روبیلو تأکید کرد که دیپلماسی ترجیح داده می‌شود، اما به سایت‌های هسته‌ای ایران همچنان توجه دارد"
-        ],
-        "impact": "اگر مذاکرات شکست بخورد، احتمال افزایش تنش‌های نظامی در خلیج فارس بالا می‌رود",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Epoch Times",
-        "url": "https://www.theepochtimes.com/world/us-iran-continue-indirect-talks-as-nuclear-dispute-military-risks-persist-6112108",
-        "clean_url": "https://www.theepochtimes.com/world/us-iran-continue-indirect-talks-as-nuclear-dispute-military-risks-persist-6112108",
-        "image": "https://img.theepochtimes.com/assets/uploads/2026/10/28/id6110017-GettyImages-2299378687.jpg",
-        "timestamp": 1793577660.0
-    },
-    {
-        "id": "189c131b2b",
-        "title_fa": "آمادگی نیروهای آمریکا برای حمله به ایران در ۹۶ ساعت",
-        "title_en": "US Military Prepares for Possible Major Strikes on Iran Within 96 Hours: Report",
-        "summary": [
-            "نظامیان آمریکا گزینه‌های حمله گسترده به پایگاه‌های نظامی، تسهیلات هسته‌ای و زیرساخت‌های انرژی ایران را آماده کرده‌اند",
-            "تصمیم‌گیری ممکن است پس از انتخابات میانی ۳ نوامبر صورت گیرد، اما هنوز تأیید نشده است",
-            "این برنامه پس از آتش‌بس آوریل و سقوط توافق ژوئن در اوت ادامه دارد"
-        ],
-        "impact": "اجرای این حمله می‌تواند تلفات نظامی و اختلال شدید در صادرات نفت ایران ایجاد کند",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Mangalore Today",
-        "url": "https://www.mangaloretoday.com/headlines/US-Military-Prepares-for-Possible-Major-Strikes-on-Iran-Within-96-Hours-Report.html",
-        "clean_url": "https://www.mangaloretoday.com/headlines/US-Military-Prepares-for-Possible-Major-Strikes-on-Iran-Within-96-Hours-Report.html",
-        "image": "https://www.mangaloretoday.com/contentfiles/2026/nov/US_War_1nov26_1.jpg",
-        "timestamp": 1793577660.0
     }
 ]
