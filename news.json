@@ -1,5 +1,145 @@
 [
     {
+        "id": "ed606471da",
+        "title_fa": "قانون جنگی آمریکا در انتخابات میانه رد شد",
+        "title_en": "US administration's war bill firmly rejected at ballot box",
+        "summary": [
+            "رای‌دهندگان میانه‌راه قانون جنگی را رد کردند",
+            "ترامپ اعتراف کرد که درگیری با ایران به‌خسارت جمهوری‌خواهان منجر شد",
+            "او قیمت نفت را به‌عنوان مشکل اصلی مطرح کرد",
+            "دموکرات‌ها هر دو مجلس را به‌دست آوردند"
+        ],
+        "impact": "کاهش توان اجرایی برنامه‌های نظامی‌محور دولت ترامپ در سال‌های باقی‌مانده دوره",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "China Daily Global Edition",
+        "url": "https://global.chinadaily.com.cn/a/202611/05/WS6aec872ce4b03ebf8519a9a6.html",
+        "clean_url": "https://global.chinadaily.com.cn/a/202611/05/WS6aec872ce4b03ebf8519a9a6.html",
+        "image": "https://www.bing.com/th?id=ONUT.a3tlustowiMhbTKD1Ir8ww",
+        "timestamp": 1793917631.6547081
+    },
+    {
+        "id": "cfb70b980c",
+        "title_fa": "کنگره دمکرات حمایت آمریکا از اسرائیل را به چالش می‌کشد",
+        "title_en": "Democrat Congress could test decades of U.S. support for Israel",
+        "summary": [
+            "برخی نمایندگان دمکرات پیشنهاد محدود کردن کمک‌های نظامی به اسرائیل را مطرح کردند",
+            "این حرکت می‌تواند سیاست‌های طولانی‌مدت آمریکا در خاورمیانه را تغییر دهد",
+            "واکنش اسرائیل و نتانیاهو محتمل است و می‌تواند تنش‌های دوجانبه را افزاش دهد",
+            "اگر تصویب شود، کمک‌های نظامی به اسرائیل کاهش می‌یابد"
+        ],
+        "impact": "احتمال کاهش کمک‌های نظامی آمریکا به اسرائیل",
+        "tag": "روابط",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/features/opinions/democratic-congress-could-test-decades-of-us-support-for-israel",
+        "clean_url": "https://japantoday.com/category/features/opinions/democratic-congress-could-test-decades-of-us-support-for-israel",
+        "image": "https://www.bing.com/th?id=ONUT.NckmK7TIzfNvRhQpbn3S_Q",
+        "timestamp": 1793917631.6543252
+    },
+    {
+        "id": "f58007e95c",
+        "title_fa": "جیسون واترز و جوک Vance در تونی‌هال تگزاس",
+        "title_en": "The midterms proved once and for all that X is not real life",
+        "summary": [
+            "Vance در جلسه‌ای با میهمانان جوانانه شوخی کرد",
+            "این رفتار نشان می‌دهد رهبری جمهوری‌خواه به مسائل اقتصادی بی‌توجه است",
+            "نتیجه می‌تواند حمایت جوانان از حزب را کاهش دهد",
+            "شکست میانی انتخابات نشانگر ضعف پیام‌گذاری است"
+        ],
+        "impact": "کاهش جذابیت جمهوری‌خواه برای نسل جوان",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+        "clean_url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+        "image": "https://www.bing.com/th?id=ONUT.NwNUWxk7R6m6qKFkM6-9Pw",
+        "timestamp": 1793917631.6533432
+    },
+    {
+        "id": "df1d9a10c1",
+        "title_fa": "ایران ممکن است مذاکرات هسته‌ای را از سر بگیرد",
+        "title_en": "Report: Iran may resume nuclear negotiations",
+        "summary": [
+            "ایران پیشنهادهای میانجی‌گران بین‌المللی را بررسی می‌کند",
+            "قطر نقش کلیدی در برگزاری دو دور مذاکرات در تهران و دوحه دارد",
+            "معاون رئیس‌جمهور آمریکا JD Vance از این طرح حمایت می‌کند",
+            "اگر مذاکرات ادامه یابد فشارهای تحریمی می‌تواند کاهش یابد"
+        ],
+        "impact": "احتمال کاهش تنش‌های نظامی و بازگشت به مسیر دیپلماسی",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Israel National News",
+        "url": "https://www.israelnationalnews.com/news/435738",
+        "clean_url": "https://www.israelnationalnews.com/news/435738",
+        "image": "https://2.a7.org/files/pictures/000/1193063.jpg",
+        "timestamp": 1793910900.0
+    },
+    {
+        "id": "fed103e2a0",
+        "title_fa": "ایران دیپلماسی را تقویت می‌کند پس از شکست ترامپ",
+        "title_en": "Iran steps up diplomacy as Trump reels from midterm defeat",
+        "summary": [
+            "پس از شکست میانی ترامپ، ایران به دیپلماسی تکیه می‌کند",
+            "این حرکت می‌تواند به کاهش تنش‌های منطقه‌ای کمک کند",
+            "اطلاعات موجود محدود است و جزئیات طرح‌ها نامشخص است",
+            "ایران سعی دارد تصویر سازنده‌ای در صحنه بین‌المللی داشته باشد"
+        ],
+        "impact": "تقویت نقش دیپلماتیک ایران در برابر فشارهای داخلی آمریکا",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQW1tTzk4Tm5ic1VIbnpCcl9mQ3l2cGhHNW93U3NSVGREWnZnaklXc2NVRTl4eTc5eXREVW00cllNMy0xTmVXMEZoNFc0YVdfREE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQW1tTzk4Tm5ic1VIbnpCcl9mQ3l2cGhHNW93U3NSVGREWnZnaklXc2NVRTl4eTc5eXREVW00cllNMy0xTmVXMEZoNFc0YVdfREE",
+        "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793910720.0
+    },
+    {
+        "id": "cec8d18276",
+        "title_fa": "کشتی‌های نفتی در هرمز هدف حمله آمریکا شدند",
+        "title_en": "Iran says tankers struck in Hormuz amid fears of new US attack",
+        "summary": [
+            "ایران ادعا می‌کند دو تانکر در تنگه هرمز مورد هدف قرار گرفته‌اند",
+            "این خبر نگرانی از تشدید درگیری نظامی را افزایش می‌دهد",
+            "آمریکا هنوز پاسخی رسمی نداده است",
+            "احتمال واکنش نظامی ایران در صورت ادامه تهدیدها وجود دارد"
+        ],
+        "impact": "خطر تشدید درگیری در مسیر نفتی حیاتی هرمز",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSndUR0pGRi1MMEthNENuNFlReHRUcGJUVjdxMm9mbEp0bnVncHFlX0ZyMTVXUkR0Ql9CR2lLRElpcnRvQU5mUVFuT2oyakMxaEdGeHZqMnd5dTJyN3hhaFoyX1Z6NS03eUpMTmlCSFd2NktOeU43b0hhRXFKY0tqWHhKYW9FRzNibFFTVHdjSGFTVDhzMnZwak1MMGhTY1N0X3hCZkV30gGrAUFVX3lxTE5jd3JPYU1KcGFXeEJsc0VoM1FsaklHcnVnMkkwTmpZbkNNM2owMDlIOFViMmxWaTlwSzFSX0lqd2FCTWhNejlPeWE1QWxpcFEtbHZ5eklHbXJhTW0yWWlwQ05PeU04OVFLamJvcjBvUHI4ZW9INDFILXVGUHZFQmUwd3hVeW1NUFVmdVZTMGJMSUJfeEtFZS16bTI1SkhKZ3pIVzZaWWd0VG13aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSndUR0pGRi1MMEthNENuNFlReHRUcGJUVjdxMm9mbEp0bnVncHFlX0ZyMTVXUkR0Ql9CR2lLRElpcnRvQU5mUVFuT2oyakMxaEdGeHZqMnd5dTJyN3hhaFoyX1Z6NS03eUpMTmlCSFd2NktOeU43b0hhRXFKY0tqWHhKYW9FRzNibFFTVHdjSGFTVDhzMnZwak1MMGhTY1N0X3hCZkV30gGrAUFVX3lxTE5jd3JPYU1KcGFXeEJsc0VoM1FsaklHcnVnMkkwTmpZbkNNM2owMDlIOFViMmxWaTlwSzFSX0lqd2FCTWhNejlPeWE1QWxpcFEtbHZ5eklHbXJhTW0yWWlwQ05PeU04OVFLamJvcjBvUHI4ZW9INDFILXVGUHZFQmUwd3hVeW1NUFVmdVZTMGJMSUJfeEtFZS16bTI1SkhKZ3pIVzZaWWd0VG13aw",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793906516.0
+    },
+    {
+        "id": "e9e5fdbf9b",
+        "title_fa": "پیروزی دمکرات‌ها شمارش معکوس پایان جنگ ایران",
+        "title_en": "Democrats’ sweep triggers countdown to end Iran war, and dooms US-Israel ties under Netanyahu",
+        "summary": [
+            "انتخابات مجلس آمریکا به نفع دمکرات‌ها تمام شد",
+            "دمکرات‌ها فشار برای پایان جنگ ایران‑اسرائیل را افزایش می‌دهند",
+            "رابطه آمریکا‑اسرائیل تحت نتانیاهو در خطر است",
+            "تغییر سیاست‌های نظامی آمریکا در خاورمیانه محتمل است"
+        ],
+        "impact": "ممکن است استراتژی‌های نظامی آمریکا در منطقه بازنگری شود",
+        "tag": "سیاست",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGJkYVlRd2VGbU9DWERpcmtzN014SzZsQzdTSVVkR3lPUXZQLXRzU2l4eUNsTlRickJLTHpkM3l4MVlYQkRpWGNfRDhHMmVxZ0xEc2QtZjdVUVYxMUZpMnhfQVJRS2lWUTYtcDd1Ym5MNElvbEFrdExvSnJ6S2stMHdPbmVxaHFlY3pvaDlHTm9PVi1pckFsWXNDQXJrbERueDVBOVB6NXF4ZjI1cEp4eHd0ekJQazBodThWTjVzd9IBxAFBVV95cUxQNm52OG93WktmaGhGUEtsMDExYWY2QVp5N2tUOUtGUFVlWC1BZzRVTzJLNmlPS1NOR245Tzlvc0E4UjdlLUlSTDFKWTFmS3hSLVRhMGJ3YVdjZmFRX19MSDRTQWI1SW96VnhoU3FDUDNTX083cHU2dnNkN1JsTnVBRDRWeVpLdmFEb1RDSl9LWXFiV0lqNTkxTl9NX0pTcUlxVEtBWVVXVll0Y2tWZ2x0TF8zeDNHaFI4VzM4ZXVJMnFvUWV1?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGJkYVlRd2VGbU9DWERpcmtzN014SzZsQzdTSVVkR3lPUXZQLXRzU2l4eUNsTlRickJLTHpkM3l4MVlYQkRpWGNfRDhHMmVxZ0xEc2QtZjdVUVYxMUZpMnhfQVJRS2lWUTYtcDd1Ym5MNElvbEFrdExvSnJ6S2stMHdPbmVxaHFlY3pvaDlHTm9PVi1pckFsWXNDQXJrbERueDVBOVB6NXF4ZjI1cEp4eHd0ekJQazBodThWTjVzd9IBxAFBVV95cUxQNm52OG93WktmaGhGUEtsMDExYWY2QVp5N2tUOUtGUFVlWC1BZzRVTzJLNmlPS1NOR245Tzlvc0E4UjdlLUlSTDFKWTFmS3hSLVRhMGJ3YVdjZmFRX19MSDRTQWI1SW96VnhoU3FDUDNTX083cHU2dnNkN1JsTnVBRDRWeVpLdmFEb1RDSl9LWXFiV0lqNTkxTl9NX0pTcUlxVEtBWVVXVll0Y2tWZ2x0TF8zeDNHaFI4VzM4ZXVJMnFvUWV1",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1793904975.0
+    },
+    {
         "id": "7149535269",
         "title_fa": "روبیو قصد خروج از دولت ترامپ را دارد",
         "title_en": "Trump Is Losing Power. Marco Rubio’s Next Move Proves It.",
@@ -197,6 +337,152 @@
         "timestamp": 1793887097.0
     },
     {
+        "id": "2f51428b97",
+        "title_fa": "جمهوری‌خواهان پس از میانه‌راه به خودنگری می‌پردازند",
+        "title_en": "Why did Republicans lose the midterms? GOP soul-searching begins.",
+        "summary": [
+            "نتایج میانه‌راه باعث بحران هویت در حزب جمهوری‌خواه شد",
+            "گروه‌های داخلی به‌دنبال شناسایی دلایل شکست هستند",
+            "بحث‌های داخلی می‌تواند به‌تغییر استراتژی‌های آینده منجر شود"
+        ],
+        "impact": "تغییر مسیر استراتژیک می‌تواند تأثیر مستقیم بر انتخابات ۲۰۲۸ داشته باشد",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/why-did-republicans-lose-the-midterms-gop-soul-searching-begins/ar-AA2gQhhd",
+        "clean_url": "https://www.msn.com/en-us/news/other/why-did-republicans-lose-the-midterms-gop-soul-searching-begins/ar-AA2gQhhd",
+        "image": "http://www.bing.com/th?id=ONUT.oksE78412_S7snGbPZknig&pid=News",
+        "timestamp": 1793885862.0
+    },
+    {
+        "id": "8f499e31ac",
+        "title_fa": "خبر بین‌المللی — US gas prices در track به fall below $4 a gallon, experts sa",
+        "title_en": "US gas prices on track to fall below $4 a gallon, experts say",
+        "summary": [
+            "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/money/general/us-gas-prices-on-track-to-fall-below-4-a-gallon-experts-say/ar-AA2gQIJ3",
+        "clean_url": "https://www.msn.com/en-us/money/general/us-gas-prices-on-track-to-fall-below-4-a-gallon-experts-say/ar-AA2gQIJ3",
+        "image": "http://www.bing.com/th?id=ONUT.pIp1cIbYjCnW8oRJehLchg&pid=News",
+        "timestamp": 1793884748.0
+    },
+    {
+        "id": "974fc9a202",
+        "title_fa": "چگونه به read ایران جنگ tea leaves",
+        "title_en": "How to read the Iran war tea leaves",
+        "summary": [
+            "As Vice President JD Vance pointed out on Wednesday, voters delivered a clear rebuke of the Iran war in this week’s midterms."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Politico",
+        "url": "https://www.politico.com/newsletters/national-security-daily/2026/11/05/how-to-read-the-iran-war-tea-leaves-01152317",
+        "clean_url": "https://www.politico.com/newsletters/national-security-daily/2026/11/05/how-to-read-the-iran-war-tea-leaves-01152317",
+        "image": "http://www.bing.com/th?id=ONUT.kocucvxY1kA5igniiSfSrQ&pid=News",
+        "timestamp": 1793884260.0
+    },
+    {
+        "id": "5e6e1f021d",
+        "title_fa": "هگست درخواست ۳۵۰ میلیارد دلار برای دفاع",
+        "title_en": "Hegseth demands $350B for military, fires back at Dem impeachment push",
+        "summary": [
+            "هگست ۳۵۰ میلیارد دلار بودجه دفاعی را به‌کنگره پیشنهاد داد",
+            "او به‌دلیل اتهام‌ها استیضاح خود، آن را «نمایش سیاسی» نامید",
+            "ادعای نقض قدرت جنگی در طول درگیری ایران‑ایالات متحده مطرح شد",
+            "هگست می‌خواهد تمام رای‌های حامی‌پایدار را جمع‌آوری کند"
+        ],
+        "impact": "تأمین مالی گسترده می‌تواند توان نظامی آمریکا را در مواجهه با ایران تقویت کند",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/hegseth-demands-350b-military-fires-back-dem-impeachment-push",
+        "clean_url": "https://www.foxnews.com/politics/hegseth-demands-350b-military-fires-back-dem-impeachment-push",
+        "image": "http://www.bing.com/th?id=ONUT.txPT91eICQyGG23uz0Z7bw&pid=News",
+        "timestamp": 1793881620.0
+    },
+    {
+        "id": "734b1f0617",
+        "title_fa": "خبر بین‌المللی — ‘Like a bolt from blue’: اسرائیل’s president shocked by ترا",
+        "title_en": "‘Like a bolt from the blue’: Israel’s president shocked by Trump announcing end of aid",
+        "summary": [
+            "Israeli President Isaac Herzog described President Donald Trump’s midterm Election Day announcement that he would end US military aid to Israel as “a bolt from the blue.”..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/05/middleeast/israel-trump-aid-election-latam-intl",
+        "clean_url": "https://www.cnn.com/2026/11/05/middleeast/israel-trump-aid-election-latam-intl",
+        "image": "http://www.bing.com/th?id=ONUT.QcdnW2JB67usjUMg6ih8Tg&pid=News",
+        "timestamp": 1793877780.0
+    },
+    {
+        "id": "c632b8da75",
+        "title_fa": "شایعه حمله هسته‌ای ترامپ به ایران بررسی شد",
+        "title_en": "Inspecting claim Trump admin is planning nuclear strike on Iran in wake of midterms",
+        "summary": [
+            "تاکید کارلسون بر امکان حمله هسته‌ای پس از انتخابات میانه",
+            "هیچ‌یک از مقامات نظامی یا کاخ سفید این ادعا را تأیید نکرده‌اند",
+            "متخصصان هشدار دادند استفاده از سلاح هسته‌ای می‌تواند خاورمیانه را به‌هم بزند",
+            "شایعه باعث نگرانی عمومی و افزایش تنش‌های منطقه‌ای شده"
+        ],
+        "impact": "اگر چنین تصمیمی گرفته شود، خطر فروپاشی نظامی و اقتصادی در خاورمیانه به‌سرعت افزایش می‌یابد",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/inspecting-claim-trump-admin-planning-185800639.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/inspecting-claim-trump-admin-planning-185800639.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/72b3d9ca692d493abf095f39f1317721d20f76e9aa8f680924192198b45a169c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsnopes_632%2F27a5e26d8ca5d9ef7915794ecba84ac8.jpg",
+        "timestamp": 1793876280.0
+    },
+    {
+        "id": "4e5f3de377",
+        "title_fa": "جی. دی. ونس: گذشته‌اش با ترامپ در تضاد",
+        "title_en": "J.D. Vance Is Just Going to Pretend He Didn’t Sell His Soul for Trump",
+        "summary": [
+            "ج. دی. ونس پیش از ۲۰۱۶ به‌وضوح مخالف ترامپ بود",
+            "او در چندین مصاحبه و مقاله به‌عنوان «هیچ‌وقت‌نقض» ترامپ توصیف شد",
+            "این تاریخچه نشان می‌دهد که حمایت او از ترامپ در سال‌های اخیر صرفاً سیاسی است"
+        ],
+        "impact": "احتمال کاهش حمایت ونیس از سیاست‌های ترامپ در انتخابات آینده",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "New York Magazine",
+        "url": "https://nymag.com/intelligencer/article/jd-vance-donald-trump-2028.html",
+        "clean_url": "https://nymag.com/intelligencer/article/jd-vance-donald-trump-2028.html",
+        "image": "http://www.bing.com/th?id=ONUT.0hEkdNen5qZHpvQ9tEBm0Q&pid=News",
+        "timestamp": 1793876220.0
+    },
+    {
+        "id": "5ad09b6cc4",
+        "title_fa": "ترامپ weighs next steps در ایران جنگ after جمهوری‌خواهان' midterm losses",
+        "title_en": "Trump weighs next steps in Iran war after Republicans' midterm losses",
+        "summary": [
+            "As he takes stock of his Republican Party’s midterm drubbing, President Donald Trump now faces the difficult question of what to do about his unpopular 8-month-old war against Iran."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-weighs-next-steps-iran-183202159.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-weighs-next-steps-iran-183202159.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/80860e3a389f8b83d3c49e117a2ba555079fc11a82ca3db4e5203689d9e2d2b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwish_tv_176%2Fd6bf13a3f60ebc132dab3e216d5c9d02.jpg",
+        "timestamp": 1793874660.0
+    },
+    {
         "id": "dc226be2cc",
         "title_fa": "نئوکون‌ها پس از جنگ ایران به‌دست رأی‌دهندگان تنبیه شدند",
         "title_en": "Neocons in full meltdown as voters punish GOP for Iran war",
@@ -301,6 +587,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVBBOE1vYThfaERwMm5SalVMTXQzR3NWZm9qMVlPWWJUY0JWeWRqRjBLa3NCZlBaNU9YQzM4SEh4aDNhdUtCcTBMZzdnVDhlMGx0R2FkLV9MbnZsUDRRQm9Zc1NfbVQ0V0ZRNHpTZjB1UlpGcld6S3FCeVBjVEhOczhiNUJhRWFmSlJ1cg",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793873083.0
+    },
+    {
+        "id": "7d7d4ba076",
+        "title_fa": "دستیار پیشین ترامپ خواست استعفای سوزی وایلز",
+        "title_en": "Ex-Trump Aide Is Calling For This White House Official To Resign After ‘100% Preventable’ Loss",
+        "summary": [
+            "کارولین سان‌شاین از سوزی وایلز خواست تا پیش از درخواست رئیس‌جمهور استعفا دهد",
+            "او شکست میانه‌راه را «صددرصد قابل پیشگیری» می‌داند",
+            "سان‌شاین معتقد است ادامه حضور وایلز مانع پیروزی در ۲۰۲۸ می‌شود"
+        ],
+        "impact": "اگر وایلز بروند، تیم اجرایی ترامپ ممکن است بازسازی شود",
+        "tag": "سیاسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/caroline-sunshine-susie-wiles-resignation_n_6aec9690e4b08d8d4a8e01d8",
+        "clean_url": "https://www.huffpost.com/entry/caroline-sunshine-susie-wiles-resignation_n_6aec9690e4b08d8d4a8e01d8",
+        "image": "http://www.bing.com/th?id=ONUT.3Hcs__I8B_VC0oDXf_r-5A&pid=News",
+        "timestamp": 1793872140.0
     },
     {
         "id": "4aaf6538b0",
@@ -482,6 +787,40 @@
         "timestamp": 1793865804.0
     },
     {
+        "id": "b7a691277e",
+        "title_fa": "خبر بین‌المللی — One Democrat emerges در 2028 talk — as 29 meet Obama’s ex-ca",
+        "title_en": "One Democrat emerges in 2028 talk — as 29 meet Obama’s ex-campaign manager",
+        "summary": [
+            "Hours before the results trickled in, Jim Messina, former 2012 campaign manager to Barack Obama, told Bloomberg News that he had just met with a 29th Democrat who is considering a White House bid."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "MassLive",
+        "url": "https://www.masslive.com/politics/2026/11/one-democrat-emerges-in-2028-move-as-29-meet-obamas-ex-campaign-manager.html",
+        "clean_url": "https://www.masslive.com/politics/2026/11/one-democrat-emerges-in-2028-move-as-29-meet-obamas-ex-campaign-manager.html",
+        "image": "http://www.bing.com/th?id=ONUT.oSr5sV80DQKuzKtIP77Mpg&pid=News",
+        "timestamp": 1793865180.0
+    },
+    {
+        "id": "eabb1fb4fe",
+        "title_fa": "خبر بین‌المللی — ‘A beautifully آمریکایی story’: El-Sayed’s historic Senate v",
+        "title_en": "‘A beautifully American story’: El-Sayed’s historic Senate victory resonates with Muslim Americans",
+        "summary": [
+            "“What a beautifully American story,” Hammoud said. “One of our brightest and best earned the support of the majority of Michiganders who participated in yesterday’s election. And regardless of the..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Los Angeles Daily News",
+        "url": "https://www.dailynews.com/2026/11/05/abdul-el-sayed-victory-muslim-americans/",
+        "clean_url": "https://www.dailynews.com/2026/11/05/abdul-el-sayed-victory-muslim-americans",
+        "image": "http://www.bing.com/th?id=ONUT.gtPXZrATKgL-DA4I4Bcsaw&pid=News",
+        "timestamp": 1793862960.0
+    },
+    {
         "id": "c52785b491",
         "title_fa": "کنگره دموکرات سعی در محدود کردن ماجراجویی‌های خارجی ترامپ",
         "title_en": "A Democratic-controlled Congress will likely try to constrain Trump’s foreign adventures",
@@ -515,6 +854,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793862000.0
+    },
+    {
+        "id": "6b7aa2a1b0",
+        "title_fa": "روندهای اقتصادی ترامپ باعث شکست جمهوری‌خواهان شد",
+        "title_en": "Republicans were punished in the midterms for Trump’s economic policies, The AP Voter Poll shows",
+        "summary": [
+            "نظرسنجی AP نشان داد دو‑سوم رأی‌دهندگان تورم را به سیاست‌های ترامپ نسبت دادند",
+            "قیمت‌های انرژی پس از حمله به ایران به‌سرعت بالا رفت",
+            "مالیات‌های گمرکی و تعرفه‌های بی‌ثبات باعث کاهش رشد اقتصادی شد"
+        ],
+        "impact": "از دست دادن کرسی‌های کلیدی می‌تواند برنامه‌های اقتصادی آینده را محدود کند",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Press Democrat",
+        "url": "https://www.pressdemocrat.com/2026/11/05/republicans-midterms-trump-economic-policies/",
+        "clean_url": "https://www.pressdemocrat.com/2026/11/05/republicans-midterms-trump-economic-policies",
+        "image": "http://www.bing.com/th?id=ONUT.71mtFDf58o-Dh2VEYrHSZQ&pid=News",
+        "timestamp": 1793861580.0
     },
     {
         "id": "41c321feef",
@@ -553,6 +911,25 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/opinion-iran-biggest-winner-tuesday-120000984.html",
         "image": "https://s.yimg.com/lo/mysterio/api/78784cc94f8afdb9ba8fd93ad10474cb5ca9bd9b991ab742bc59a7f5d78b9afd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Ff13f577b6209ebb7f6fad99db1521229.jpg",
         "timestamp": 1793851200.0
+    },
+    {
+        "id": "7a4a4c720b",
+        "title_fa": "هانتر بایدن پیام کوتاه به ترامپ فرستاد",
+        "title_en": "Hunter Biden says voters sent scathing 6-word message to Trump with midterm election results",
+        "summary": [
+            "هانتر بایدن از نتایج میانه‌راه به‌عنوان پیام شش کلمه‌ای به ترامپ اشاره کرد",
+            "این پیام نشان‌دهنده فشار عمومی بر رئیس‌جمهور است",
+            "موضوع اصلی به‌نظر می‌رسد واکنش احساسی است نه سیاستی"
+        ],
+        "impact": "افزایش فشار رسانه‌ای بر ترامپ برای تغییر مسیر سیاسی",
+        "tag": "سیاسی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "OregonLive.com",
+        "url": "https://www.oregonlive.com/politics/2026/11/hunter-biden-says-voters-sent-scathing-6-word-message-to-trump-with-midterm-election-results.html",
+        "clean_url": "https://www.oregonlive.com/politics/2026/11/hunter-biden-says-voters-sent-scathing-6-word-message-to-trump-with-midterm-election-results.html",
+        "image": "http://www.bing.com/th?id=ONUT.90pf98DXP2xVkCxpqu8Ipg&pid=News",
+        "timestamp": 1793850420.0
     },
     {
         "id": "68f5a65f87",
@@ -666,6 +1043,23 @@
         "timestamp": 1793843362.7693808
     },
     {
+        "id": "4ebcd400ca",
+        "title_fa": "خبر بین‌المللی — Possible breakthrough در negotiations with ایران",
+        "title_en": "Possible breakthrough in negotiations with Iran",
+        "summary": [
+            "According to The New York Times, Tehran is reviewing proposals delivered by Qatari mediators after weeks of deadlock. US Vice President JD Vance is working to..."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Israel Hayom",
+        "url": "https://www.israelhayom.com/2026/11/05/possible-breakthrough-in-negotiations-with-iran/",
+        "clean_url": "https://www.israelhayom.com/2026/11/05/possible-breakthrough-in-negotiations-with-iran",
+        "image": "http://www.bing.com/th?id=ONUT.jjNgcYDz1QALy18Tmr1_-g&pid=News",
+        "timestamp": 1793841960.0
+    },
+    {
         "id": "c4628392e3",
         "title_fa": "دونالد ترامپ پس از اعلام نتایج میان دوره ای به ایران هشدار \"کار را تمام کن\" صادر کرد",
         "title_en": "Donald Trump Issues ‘Finish the Job’ Warning to Iran After Midterm Results",
@@ -738,6 +1132,46 @@
         "clean_url": "https://indepthnews.net/opinion-iran-compromise-or-catastrophe",
         "image": "https://indepthnews.net/wp-content/uploads/2026/11/Vienna_International_Center-300x196.jpg",
         "timestamp": 1793836740.0
+    },
+    {
+        "id": "a15c0eb240",
+        "title_fa": "ترامپ جوانان سفیدپوست را از دست می‌دهد",
+        "title_en": "Donald Trump is losing young white men who voted for him",
+        "summary": [
+            "نظرسنجی‌ها حمایت جوانان سفیدپوست از ترامپ را نشان می‌دهد که در حال کاهش است",
+            "دلیل این کاهش می‌تواند جنگ ایران و مشکلات اقتصادی باشد",
+            "این تغییر می‌تواند نتایج انتخابات ۲۰۲۴ را تحت تأثیر قرار دهد",
+            "ترامپ باید استراتژی جدیدی برای جذب این گروه پیدا کند"
+        ],
+        "impact": "تضعیف پایه رأی‌گیری ترامپ در انتخابات آینده",
+        "tag": "انتخابات",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "Reason on MSN",
+        "url": "https://www.msn.com/en-us/news/other/donald-trump-is-losing-young-white-men-who-voted-for-him/ar-AA2gQLC7?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-is-losing-young-white-men-who-voted-for-him/ar-AA2gQLC7",
+        "image": "https://www.bing.com/th?id=ONUT.cr2Rd-FLO3FjGHlq4kPVwQ",
+        "timestamp": 1793831183.0
+    },
+    {
+        "id": "cb5d1cac94",
+        "title_fa": "کمبر گرجستان به اصول محافظه‌کارانه بازمی‌گردد",
+        "title_en": "Georgia Gov. Kemp’s call to return to conservative principles fuels 2028 White House speculation",
+        "summary": [
+            "گورنر گرجستان به بازگشت به اصول محافظه‌کارانه اشاره کرد",
+            "این سخنرانی باعث گمانه‌زنی درباره نامزدی ۲۰۲۸ می‌شود",
+            "جناح جمهوری‌خواه به دنبال تجدید حیات سیاسی است",
+            "احتمال رقابت داخلی شدیدتر در حزب وجود دارد"
+        ],
+        "impact": "تشدید رقابت داخلی جمهوری‌خواه و تأثیر بر برنامه‌ریزی‌های آینده",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "WJCL on MSN",
+        "url": "https://www.msn.com/en-us/news/other/georgia-gov-kemp-s-call-to-return-to-conservative-principles-fuels-2028-white-house-speculation/ar-AA2gP8dt?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/georgia-gov-kemp-s-call-to-return-to-conservative-principles-fuels-2028-white-house-speculation/ar-AA2gP8dt",
+        "image": "https://www.bing.com/th?id=ONUT.kcgsdQ70sv8Fs6qq87Lm8w",
+        "timestamp": 1793831183.0
     },
     {
         "id": "f5813f61f4",
@@ -884,6 +1318,23 @@
         "timestamp": 1793826720.0
     },
     {
+        "id": "c3951ccbb0",
+        "title_fa": "خبر بین‌المللی — Oil jumps as investors assess ایران جنگ future, tanker attac",
+        "title_en": "Oil jumps as investors assess Iran war future, tanker attacks",
+        "summary": [
+            "Oil fell for a fourth day on expectations the losses the GOP suffered in Congressional elections this week may reduce the risk of further Iran war escalation."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+        "clean_url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+        "image": "http://www.bing.com/th?id=ONUT.YV5hgDhHLq1PRNGmWRvvRg&pid=News",
+        "timestamp": 1793826120.0
+    },
+    {
         "id": "b7d37785bb",
         "title_fa": "ترامپ پس از شکست میانی‌دوره، مسیر جنگ ایران را می‌پرسد",
         "title_en": "After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle",
@@ -971,6 +1422,23 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3hPeE5hNmhGaGtEbTNfZXdZUTJiaDctVDhSd2g0T1FIUVdyOGFnWHFfaXp6Y1Z4VmNqOXJ6VC1Ob3BfbHF0Y2RZQlQ0cDdTWDVDRGVjMmxyOGtoeU5JOUdMbGg3MXJZYTBwSGVPaWlyS2VHRnkyclVnQ3JhZm00bGpObWR5SUZ1bWc",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793822863.0
+    },
+    {
+        "id": "920acb4eb1",
+        "title_fa": "خبر بین‌المللی — Vance takes aim at نتانیاهو over ایران در early 2028 politic",
+        "title_en": "Vance takes aim at Netanyahu over Iran in early 2028 political play, expert says",
+        "summary": [
+            "JD Vance uses clash with Benjamin Netanyahu to distance from Iran war without directly criticizing Trump, Middle East Institute's Natan Sachs says."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/video/6407978867112",
+        "clean_url": "https://www.foxnews.com/video/6407978867112",
+        "image": "http://www.bing.com/th?id=ONUT.KDmcfbJluYXnczRCbr2YUg&pid=News",
+        "timestamp": 1793822640.0
     },
     {
         "id": "c6c83f0d0d",
@@ -5051,466 +5519,5 @@
         "clean_url": "https://www.mangaloretoday.com/headlines/US-Military-Prepares-for-Possible-Major-Strikes-on-Iran-Within-96-Hours-Report.html",
         "image": "https://www.mangaloretoday.com/contentfiles/2026/nov/US_War_1nov26_1.jpg",
         "timestamp": 1793577660.0
-    },
-    {
-        "id": "c84b9509f7",
-        "title_fa": "انتخابات میانی ۲۰۲۶ آزمون قدرت ترامپ",
-        "title_en": "Trump’s test and shifting alignment of global powers",
-        "summary": [
-            "نتایج انتخابات میانی می‌تواند مسیر سیاست خارجی ترامپ، به‌ویژه نسبت به ایران، را تعیین کند.",
-            "اگر ترامپ پیروز شود، احتمال ادامه تهدیدهای نظامی و فشارهای اقتصادی افزایش می‌یابد."
-        ],
-        "impact": "نتیجه‌گیری‌های این انتخابات می‌تواند مسیر مذاکرات هسته‌ای و تحریم‌ها را برای ماه‌های آینده شکل دهد.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Pakistan Observer",
-        "url": "https://pakobserver.net/trumps-test-and-shifting-alignment-of-global-powers/",
-        "clean_url": "https://pakobserver.net/trumps-test-and-shifting-alignment-of-global-powers",
-        "image": "https://www.bing.com/th?id=ONUT.NRAomiJhI5_q4oi8ayXMZA",
-        "timestamp": 1793571881.4408276
-    },
-    {
-        "id": "7702584102",
-        "title_fa": "ایران هشدار: جنگ طولانی‌تر پس از تهدید ترامپ",
-        "title_en": "Iran warns new war could last longer after Trump threatens strikes",
-        "summary": [
-            "ایران اعلام کرد تهدیدهای جدید ترامپ می‌تواند منجر به جنگی طولانی‌تر و پرهزینه شود.",
-            "این هشدار نشان می‌دهد که تهران آماده مقابله با هر گونه حمله نظامی است."
-        ],
-        "impact": "افزایش خطر جنگ می‌تواند به تخریب زیرساخت‌های اقتصادی هر دو طرف منجر شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "France 24",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3RZZHJ2dHVSeVhabWlDeHVNb0c4N0FXcDhlOTZIWksyNXZJWEo3N1VsUDlJWFRmaG1zaFFDYjlPVE9LRWUtVkl0dXFmcC16Z2wzUXZCdTlDYzFWVUFSLTc4S0d2b1hPWkQxM2M0MGNYTkZ6aVVIT3FMcVY4UmMxQnRiQnJxMUdnaVFCTW5oZk5PcERBWThuaFRHTndvanI2QXZ6TTNHSk1SaFNDMGFELTVRMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3RZZHJ2dHVSeVhabWlDeHVNb0c4N0FXcDhlOTZIWksyNXZJWEo3N1VsUDlJWFRmaG1zaFFDYjlPVE9LRWUtVkl0dXFmcC16Z2wzUXZCdTlDYzFWVUFSLTc4S0d2b1hPWkQxM2M0MGNYTkZ6aVVIT3FMcVY4UmMxQnRiQnJxMUdnaVFCTW5oZk5PcERBWThuaFRHTndvanI2QXZ6TTNHSk1SaFNDMGFELTVRMA",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793570033.0
-    },
-    {
-        "id": "25c785f3c0",
-        "title_fa": "اسرائیل باید برای جنگ نامحدود علیه ایران آماده شود",
-        "title_en": "Why Israel must prepare for an independent, open-ended war against Iran and its proxies",
-        "summary": [
-            "تحلیلگر اسرائیلی می‌گوید اگر آمریکا پس از حمله به ایران عقب‌نشینی کند، هدف عملیاتی اسرائیل باید تغییر یابد",
-            "پیشنهاد می‌شود اسرائیل به‌جای انتظار، به‌صورت مستقل به مقابله با تهدیدات هسته‌ای و نیابتی بپردازد",
-            "این رویکرد می‌تواند تنش‌های منطقه‌ای را تشدید کند"
-        ],
-        "impact": "تقویت برنامه‌ریزی اسرائیل برای درگیری طولانی‌مدت با ایران",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post on MSN",
-        "url": "https://www.msn.com/en-my/news/other/why-israel-must-prepare-for-an-independent-open-ended-war-against-iran-and-its-proxies/ar-AA2gxG9e?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-my/news/other/why-israel-must-prepare-for-an-independent-open-ended-war-against-iran-and-its-proxies/ar-AA2gxG9e",
-        "image": "https://www.bing.com/th?id=ONUT.YYAj97928ZJP1pQYqcpKLQ",
-        "timestamp": 1793566739.087854
-    },
-    {
-        "id": "2b7162b790",
-        "title_fa": "دو تانکر در هرمز پس از برخورد با مین منفجر",
-        "title_en": "Iran's IRGC Navy says two oil tankers exploded after hitting mines in Hormuz",
-        "summary": [
-            "نیروی نیروی دریایی سپاه اعلام کرد دو تانکر در مسیر غیرمجاز به مین برخورد و منفجر شد",
-            "حادثه تنش در تنگه هرمز را تشدید کرده و خطر برای مسیرهای تجاری نفتی را افزایش می‌دهد"
-        ],
-        "impact": "کاهش تردد کشتی‌ها در هرمز و فشار بر حمل‌ونقل نفتی منطقه",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611016947",
-        "clean_url": "https://www.iranintl.com/en/202611016947",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793564040.0
-    },
-    {
-        "id": "996b02fe24",
-        "title_fa": "بازنشستگان ایران به‌خاطر جنگ و فقر به خیابان آمدند",
-        "title_en": "Iran’s Retirees Protest War and Poverty as Food Prices Soar and Regime Insiders Warn of Divisions - National Council of Resistance of Iran",
-        "summary": [
-            "بازنشستگان در مقابل هزینه‌های زندگی بالا و جنگ اعتراض کردند",
-            "نهادهای داخلی رژیم هشدار به تفرقه داخلی دادند",
-            "این اعتراض می‌تواند فشار اقتصادی بر حکومت را افزاش دهد"
-        ],
-        "impact": "افزایش فشار داخلی بر رژیم به‌دلیل نارضایتی اقتصادی و جنگ",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "National Council of Resistance of Iran - NCRI",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUkVFeng1dmhxX0E2dFBHcTQyeHBPYW9zWl95UW8zLXRzZUprM3FKcHFHMkYzd0l4ckZhbDdOWlppMm9tak02RFFFaUh4M242bjh1YXZhWkhkMTVfbC1VcmRpaThKUEIyNW1EbzBFa00tVFMwUFpLX25zcEpiRWo2M3RJNVRvZzVHRzNOSWZWMU5uZVVieFVEZldBdGE0eUczWU9Qc0plaEpOc2w4Qy1BNWRUQmpRVWhia2ZFNWk3bXN5YnRNWHNqcjYyeWg2U0NPMkxiMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUkVFeng1dmhxX0E2dFBHcTQyeHBPYW9zWl95UW8zLXRzZUprM3FKcHFHMkYzd0l4ckZhbDdOWlppMm9tak02RFFFaUh4M242bjh1YXZhWkhkMTVfbC1VcmRpaThKUEIyNW1EbzBFa00tVFMwUFpLX25zcEpiRWo2M3RJNVRvZzVHRzNOSWZWMU5uZVVieFVEZldBdGE0eUczWU9Qc0plaEpOc2w4Qy1BNWRUQmpRVWhia2ZFNWk3bXN5YnRNWHNqcjYyeWg2U0NPMkxiMw",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793564031.0
-    },
-    {
-        "id": "6d322f7166",
-        "title_fa": "ترامپ به دیوان عالی برای حذف رای‌های کالیفرنیا",
-        "title_en": "The Latest: Trump administration appeals to Supreme Court to sideline 20,000 California mail ballots",
-        "summary": [
-            "دولت ترامپ درخواست دادگاهی برای کنار گذاشتن صدها هزار رای پستال در کالیفرنیا کرد",
-            "این اقدام در آستانه انتخابات میانی آمریکا و پس از ادعای تقلب‌های انتخاباتی صورت گرفت",
-            "اگر موفق شود، می‌تواند نتایج کلیدی ایالت‌های کلیدی را تغییر دهد",
-            "دادگاه باید تصمیم بگیرد که آیا این درخواست قانونی است یا صرفاً تلاشی سیاسی است"
-        ],
-        "impact": "حذف رای‌های کالیفرنیا می‌تواند تعادل کنگره را تغییر داده و سیاست‌های داخلی آمریکا را تحت تأثیر قرار دهد",
-        "tag": "انتخابات",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "NewsNation",
-        "url": "https://www.newsnationnow.com/politics/ap-politics/ap-the-latest-democrats-and-republicans-make-a-final-push-one-day-before-midterm-elections/",
-        "clean_url": "https://www.newsnationnow.com/politics/ap-politics/ap-the-latest-democrats-and-republicans-make-a-final-push-one-day-before-midterm-elections",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793558202.0
-    },
-    {
-        "id": "34aa926ff5",
-        "title_fa": "نتانیاهو به ترامپ فشار می‌آورد: حمله به ایران",
-        "title_en": "Netanyahu presiona a Trump para atacar Irán mientras Teherán ofrece reabrir Ormuz en 48 horas",
-        "summary": [
-            "نتانیاهو پس از پیروزی انتخاباتی اما عدم کنترل مجلس، خواستار بازگشت به جنگ بزرگ علیه ایران شد.",
-            "او با تماس مستقیم با ترامپ، فشار برای تجدید بمباران‌های هوایی علیه ایران را اعمال کرد.",
-            "ایران در عوض پیشنهادی برای بازگشایی مجدد تنگه‌عمروز در ۴۸ ساعت ارائه داد."
-        ],
-        "impact": "فشار برای حملات هوایی به ایران ممکن است به تشدید تنش‌های نظامی منجر شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ABC",
-        "url": "https://www.abc.es/internacional/netanyahu-presiona-trump-atacar-iran-teheran-ofrece-20261102183735-nt.html",
-        "clean_url": "https://www.abc.es/internacional/netanyahu-presiona-trump-atacar-iran-teheran-ofrece-20261102183735-nt.html",
-        "image": "https://www.bing.com/th?id=ONUT.PPPFSzP-VT2671xE7SETuA",
-        "timestamp": 1793558202.0
-    },
-    {
-        "id": "d5b991848f",
-        "title_fa": "سپاه: در صورت تجدید حمله، اهداف جدیدی را هدف می‌کنیم",
-        "title_en": "Iran's Revolutionary Guards threaten new targets if attacks resume",
-        "summary": [
-            "سخنگوی سپاه گفت اهداف ملموس و ناملموس دشمن شناسایی شده‌اند",
-            "در صورت ادامه تجاوز، توانمندی‌های جدید به کار گرفته می‌شود",
-            "حمایت از جبهه مقاومت منطقه‌ای تأکید شد"
-        ],
-        "impact": "افزایش هشدارهای نظامی و احتمال گسترش عملیات نظامی علیه دشمنان",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611013177",
-        "clean_url": "https://www.iranintl.com/en/202611013177",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793558160.0
-    },
-    {
-        "id": "cdc687b03a",
-        "title_fa": "نتانیاهو به ترامپ فشار برای حمله به ایران",
-        "title_en": "Netanyahu pressing Trump to strike Iran immediately after midterms",
-        "summary": [
-            "نتانیاهو به طور مستقیم از ترامپ می‌خواهد پس از انتخابات میانی به سرعت به برنامه هسته‌ای ایران حمله کند.",
-            "این فشار می‌تواند باعث تشدید تنش‌های نظامی در خلیج فارس و ریسک برخورد مستقیم شود."
-        ],
-        "impact": "اگر ترامپ به درخواست نتانیاهو پاسخ دهد، خطر تصاعد نظامی در منطقه به‌سرعت بالا می‌رود.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611015366",
-        "clean_url": "https://www.iranintl.com/en/202611015366",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/e3a60a60cd0c8a47336ca0c18de0de31d854b09e-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1793557500.0
-    },
-    {
-        "id": "ff002f5f3e",
-        "title_fa": "مذاکرات آمریکا‑ایران برای بازگشایی هرمز",
-        "title_en": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
-        "summary": [
-            "دیپلمات‌ها برای بدترین سناریو آماده‌اند",
-            "بازگشایی هرمز می‌تواند جریان نفت جهانی را تثبیت کند",
-            "شکست در مذاکرات می‌تواند تنش‌های نظامی را تشدید کند"
-        ],
-        "impact": "قیمت نفت و امنیت ناوبری خلیج تحت تأثیر مستقیم",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjVSR3czb2tNNE5iaEtFN0ZqWnZvczZzV3F0ZHpoMEVSdl9Jb01HOXF6U3BITmRVM3BEc3JraWl6alRYWndQR1kzdVZxZVVsNjQ3cmhLUmlpS0FGT1dxVV9tbWlHUnQyWUZvR2JLcm9oTmJpWHVKWmtiN2tLbXp6UFRJZUFXWnBIUFlCZE1fOVZ5QkYwOW1VRnAtOGl2MnhRRHpjcEtWeTl1d0JJMGpKdjEzZF9yUkNUdTFJTg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjVSR3czb2tNNE5iaEtFN0ZqWnZvczZzV3F0ZHpoMEVSdl9Jb01HOXF6U3BITmRVM3BEc3JraWl6alRYWndQR1kzdVZxZVVsNjQ3cmhLUmlpS0FGT1dxVV9tbWlHUnQyWUZvR2JLcm9oTmJpWHVKWmtiN2tLbXp6UFRJZUFXWnBIUFlCZE1fOVZ5QkYwOW1VRnAtOGl2MnhRRHpjcEtWeTl1d0JJMGpKdjEzZF9yUkNUdTFJTg",
-        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793555460.0
-    },
-    {
-        "id": "e8664e8316",
-        "title_fa": "پیروزی لولا و فشار آمریکا‑اسرائیل در آمریکای لاتین",
-        "title_en": "Lula's victory alone cannot loosen the US and Israeli grip on Latin America",
-        "summary": [
-            "پیروزی لولا در برزیل امیدهای چپ‌گرا در آمریکای لاتین را زنده کرد",
-            "اما حضور آمریکا و اسرائیل در منطقه همچنان از طریق سرمایه‌گذاری و همکاری نظامی پابرجاست",
-            "کشورهای همسایه هنوز به تغییر اساسی ایدئولوژیک تمایل ندارند"
-        ],
-        "impact": "اگر جریان چپ‌گرا گسترش یابد، فشار دیپلماتیک آمریکا‑اسرائیل در منطقه ممکن است کاهش یابد",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/opinion/lulas-victory-alone-cannot-loosen-us-and-israeli-grip-latin-america",
-        "clean_url": "https://www.middleeasteye.net/opinion/lulas-victory-alone-cannot-loosen-us-and-israeli-grip-latin-america",
-        "image": "https://www.bing.com/th?id=ONUT.E-VBwS9QkkPaIsB3xZkvTw",
-        "timestamp": 1793551065.5310776
-    },
-    {
-        "id": "b5e100fad9",
-        "title_fa": "جو روجن علیه حامیان مگا: تغییر مسیر",
-        "title_en": "This MAGA giant's epiphany is Trump’s worst nightmare | Opinion",
-        "summary": [
-            "جو روجن، صاحب پادکست پرشنوع، به شدت از حامیان مگا انتقاد کرد",
-            "او ادعا کرد که این گروه‌ها به منافع شخصی و نه ملی‌گرایی می‌پردازند",
-            "این اظهارات می‌تواند حمایت عمومی از سیاست‌های ترامپ را تضعیف کند"
-        ],
-        "impact": "کاهش حمایت عمومی ممکن است فشار بر ترامپ برای ادامه سیاست‌های سخت‌گیرانه علیه ایران را کم کند",
-        "tag": "رسانه",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "Raw Story on MSN",
-        "url": "https://www.msn.com/en-gb/entertainment/general/this-maga-giant-s-epiphany-is-trump-s-worst-nightmare-opinion/ar-AA2gwWda?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-gb/entertainment/general/this-maga-giant-s-epiphany-is-trump-s-worst-nightmare-opinion/ar-AA2gwWda",
-        "image": "https://www.bing.com/th?id=ONUT._-V7GwggYH-xxnRAgaxdXA",
-        "timestamp": 1793551065.5306427
-    },
-    {
-        "id": "a232a90ca5",
-        "title_fa": "ترامپ به‌احتمال عملیات نظامی علیه ایران اشاره کرد",
-        "title_en": "Americans Want the Iran War to End. Can Congress Deliver?",
-        "summary": [
-            "نظرسنجی AP‑NORC نشان می‌دهد ۷۰٪ آمریکایی‌ها پایان جنگ ایران را اولویت می‌دانند",
-            "ترامپ در رالی فلوریدا به «خشم حماسی» اشاره کرد و احتمال عملیات جدید را مطرح کرد",
-            "این تضاد بین خواست عمومی و گفتار رهبری، فشار بر کنگره برای جلوگیری از مداخله نظامی را افزایش می‌دهد"
-        ],
-        "impact": "فشار عمومی بر کنگره برای رد هرگونه اقدام نظامی علیه ایران افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/11/02/americans-want-the-iran-war-to-end-can-congress-deliver/",
-        "clean_url": "https://www.counterpunch.org/2026/11/02/americans-want-the-iran-war-to-end-can-congress-deliver",
-        "image": "http://www.bing.com/th?id=ONUT.ooMlcXCJNOMj5I9bQ0wWAg&pid=News",
-        "timestamp": 1793548860.0
-    },
-    {
-        "id": "faaaf8543d",
-        "title_fa": "شبکه مخفی ایرانی تجهیزات نظامی را دور تحریم می‌برد",
-        "title_en": "Reuters: Secret network of Iranian military agencies manages to import equipment despite US blockade",
-        "summary": [
-            "گزارش Reuters نشان می‌دهد بیش از ۲ میلیارد دلار تجهیزات نظامی از ۲۰۲۵ وارد شده",
-            "بیش از ۵۰۰۰ آژانس تحت نام MOD در سراسر جهان فعالیت می‌کنند",
-            "این شبکه با اسناد حمل‌ونقل از ۲۰۱۶ شناسایی شده و به سپاه مرتبط است"
-        ],
-        "impact": "نشان می‌دهد ایران توانسته زیرساخت‌های نظامی را دور تحریم‌ها حفظ کند",
-        "tag": "تجهیزات",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Vijesti",
-        "url": "https://en.vijesti.me/world-a/globus/834251/Reuters:-Secret-network-of-Iranian-military-agencies-manages-to-import-equipment-despite-US-blockade",
-        "clean_url": "https://en.vijesti.me/world-a/globus/834251/Reuters:-Secret-network-of-Iranian-military-agencies-manages-to-import-equipment-despite-US-blockade",
-        "image": "https://www.vijesti.me/data/images/2026/11/01/15/5771102_20261026t134555z-1245551852-rc2saoafctkq-rtrmadp-3-irancrisis_share.jpg",
-        "timestamp": 1793548860.0
-    },
-    {
-        "id": "8bf70a7daf",
-        "title_fa": "آیا آمریکا و اسرائیل هماهنگ برای جنگ سوم ایران؟",
-        "title_en": "Do the US, Israel agree on targets, challenges, timelines in a potential third Iran war? - analysis",
-        "summary": [
-            "تحلیل نشان می‌دهد ایالات متحده و اسرائیل هنوز درباره اهداف و زمان‌بندی حملهٔ سوم به ایران هماهنگ هستند",
-            "برنامه‌ریزی شامل هدف‌گذاری بر زیرساخت‌های هسته‌ای و نظامی است",
-            "هر گونه عدم توافق می‌تواند منجر به اقدام تک‌جانبه شود",
-            "این هماهنگی خطر تشدید سریع را بالا می‌برد"
-        ],
-        "impact": "هماهنگی نزدیک می‌تواند پیش‌زمینهٔ حملهٔ نظامی گسترده علیه ایران شود",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNEl0U1dTYjV6dVU0c0RrTUtpeUpFYTZkeklLTEk4SDdERXFzZERKOE5RN1ktQXVYa3VlWk92UFlzUFRPSEtnTE93VHc2R1cydmU1TDNXcFdZNFNqZDVaR1VETFJDNGVEclE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNEl0U1dTYjV6dVU0c0RrTUtpeUpFYTZkeklLTEk4SDdERXFzZERKOE5RN1ktQXVYa3VlWk92UFlzUFRPSEtnTE93VHc2R1cydmU1TDNXcFdZNFNqZDVaR1VETFJDNGVEclE",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793548808.0
-    },
-    {
-        "id": "0e3e1a808b",
-        "title_fa": "پیشنهادهای هشداردهنده برای تجدید حملات آمریکا به ایران",
-        "title_en": "Resumed Iran Strikes? 15 Warning Signs Business Leaders Should Watch",
-        "summary": [
-            "مقاله فوربس ۱۵ نشانه کلیدی برای بازگشت حملات به ایران را فهرست می‌کند",
-            "این نشانه‌ها شامل نوسانات بازار، تحرکات نظامی و تغییرات سیاسی در واشنگتن است"
-        ],
-        "impact": "سرمایه‌گذاران و شرکت‌ها باید ریسک‌های جغرافیایی را در برنامه‌ریزی خود لحاظ کنند",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/frankahrens/2026/11/01/resumed-iran-strikes-15-warning-signs-business-leaders-should-watch/",
-        "clean_url": "https://www.forbes.com/sites/frankahrens/2026/11/01/resumed-iran-strikes-15-warning-signs-business-leaders-should-watch",
-        "image": "http://www.bing.com/th?id=ONUT.HZ53tXH71gclqQhTrV_7AQ&pid=News",
-        "timestamp": 1793545260.0
-    },
-    {
-        "id": "299d095f75",
-        "title_fa": "سلاح‌های پیشرفته ایران ۱۵ میلیارد دلار خسارت به پایگاه‌های آمریکا",
-        "title_en": "Iran’s boosted weapons capabilities have caused up to $15B in US base damage: report",
-        "summary": [
-            "گزارش می‌گوید ارتقای موشک و پهپادهای ایران تا ۱۵ میلیارد دلار خسارت به پایگاه‌های آمریکایی در خاورمیانه ایجاد کرده است",
-            "این رقم نشان‌دهنده تهدید جدی برای استقرار نظامی آمریکا و نیاز به بازنگری استراتژی دفاعی است"
-        ],
-        "impact": "هزینه‌های تعمیر و تقویت دفاعی آمریکا در خاورمیانه به شدت افزایش می‌یابد",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-boosted-weapons-capabilities-have-caused-up-to-15b-in-us-base-damage-report/ar-AA2gxBUA",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-boosted-weapons-capabilities-have-caused-up-to-15b-in-us-base-damage-report/ar-AA2gxBUA",
-        "image": "http://www.bing.com/th?id=ONUT.6Ig1PiEs3QIs2lG4lnBorA&pid=News",
-        "timestamp": 1793544122.0
-    },
-    {
-        "id": "62b9938ffb",
-        "title_fa": "رو خانّا بودجه نظامی آمریکا در ایران را قطع می‌کند",
-        "title_en": "Khanna says he’d stop funding further US military actions in Iran",
-        "summary": [
-            "نماینده دموکرات کالیفرنیا اعلام کرد دیگر مالیات برای حمله نظامی به ایران نخواهد داد",
-            "این موضع می‌تواند فشار داخلی بر کنگره برای محدود کردن مداخله آمریکا را افزایش دهد"
-        ],
-        "impact": "کاهش بودجه می‌تواند برنامه‌های نظامی آمریکا در خاورمیانه را به تعویق بیندازد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Hill on MSN",
-        "url": "https://www.msn.com/en-us/news/other/khanna-says-he-d-stop-funding-further-us-military-actions-in-iran/ar-AA2gyfGN",
-        "clean_url": "https://www.msn.com/en-us/news/other/khanna-says-he-d-stop-funding-further-us-military-actions-in-iran/ar-AA2gyfGN",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793544015.0
-    },
-    {
-        "id": "4842762ee3",
-        "title_fa": "اسرائیل فیلم عاملان موساد را برای دستگیری‌ها منتشر کرد",
-        "title_en": "Israel intentionally released footage of Mossad operatives in Iran to provoke mass arrests, ex-chief says",
-        "summary": [
-            "یک مقام پیشین اسرائیل ادعا کرد فیلم عاملان موساد در ایران به عمد منتشر شد",
-            "هدف این کار تحریک دستگیری‌های گسترده و ایجاد اضطراب در داخل ایران است",
-            "ایران ممکن است با واکنش امنیتی شدید پاسخ دهد"
-        ],
-        "impact": "افزایش تنش‌های اطلاعاتی می‌تواند به سرکوب داخلی و تشدید روابط اسرائیل‑ایران منجر شود",
-        "tag": "اطلاعات",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Middle East Eye",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUVEVDkzaTdrRU1KNFlZdHNPQVJzR1dZWnd0aUt3cFJCNkREa0FJVlpiQmw5WFFnNmJ4MnhiMFU4NDlmeG1oeU5Nc0hPNHpMOEY4TEhwSTZZdVVoWlhYMUcwcnZTZkdma0lsd3huQlhRYmhSZ3ZCUE9iX1ZPbE5yZDlvZjFZeTdaZE55aE9qY3pOQjlhYVJVVVRpRkwyZUJBR0ZQTWpkSDlfcEFkZUYtaW5FR2JKM1k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUVEVDkzaTdrRU1KNFlZdHNPQVJzR1dZWnd0aUt3cFJCNkREa0FJVlpiQmw5WFFnNmJ4MnhiMFU4NDlmeG1oeU5Nc0hPNHpMOEY4TEhwSTZZdVVoWlhYMUcwcnZTZkdma0lsd3huQlhRYmhSZ3ZCUE9iX1ZPbE5yZDlvZjFZeTdaZE55aE9qY3pOQjlhYVJVVVRpRkwyZUJBR0ZQTWpkSDlfcEFkZUYtaW5FR2JKM1k",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793542560.0
-    },
-    {
-        "id": "7acae81489",
-        "title_fa": "خبر بین‌المللی — ایرانی captain killed در alleged US حمله در Persian Gulf",
-        "title_en": "Iranian captain killed in alleged US attack in Persian Gulf",
-        "summary": [
-            "The IRGC-affiliated Fars news agency reported Sunday that an Iranian ship captain had been killed in an alleged US attack on a vessel in international waters of the Persian Gulf on Friday. Captain Nasser Ebrahiminejadan, from the southwestern city of Abadan, was killed after being struck by shrapnel, according to Fars."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611019423",
-        "clean_url": "https://www.iranintl.com/en/202611019423",
-        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-        "timestamp": 1793541180.0
-    },
-    {
-        "id": "df8b41b0a5",
-        "title_fa": "کنگره پس از میانه‌دوره بی‌قدرت‌تر می‌شود",
-        "title_en": "No matter who wins the midterms, one thing is certain: Congress will only become weaker",
-        "summary": [
-            "کنگره به‌نظر می‌رسد به جای قانون‌گذاری، به صحنهٔ تلویزیونی تبدیل شود",
-            "ضعف قانون‌گذاری در دو سال آینده نظارت بر تصمیمات اجرایی را تضعیف می‌کند"
-        ],
-        "impact": "کاهش کارایی کنگره مانع نظارت مؤثر بر سیاست‌های داخلی و خارجی می‌شود",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/11/01/opinion/the-biggest-loser-of-the-midterms-will-be-congress-itself/",
-        "clean_url": "https://nypost.com/2026/11/01/opinion/the-biggest-loser-of-the-midterms-will-be-congress-itself",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-2a3yx3dq8-1793386108135.jpg?quality=75&strip=all&1793372165&w=1200",
-        "timestamp": 1793540781.0904794
-    },
-    {
-        "id": "cb617c292d",
-        "title_fa": "رپبلیکن‌ها در میانه‌دوره با ریسک ترامپ مواجه‌اند",
-        "title_en": "Analysis: Republicans face a midterm reckoning of Trump’s making",
-        "summary": [
-            "ترامپ می‌خواهد دوباره در روز انتخابات حضور داشته باشد و این باعث تردید درون حزب جمهوری‌خواه می‌شود",
-            "از دست دادن آرای میانه‌دوره برای رپبلیکن‌ها تهدید جدی برای برنامه‌ریزی انتخابات است"
-        ],
-        "impact": "کاهش آرای رپبلیکن‌ها در میانه‌دوره می‌تواند مسیر سیاست خارجی آمریکا را تحت تأثیر قرار دهد",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/midterms-trump-republicans-iran-tariffs-congress-84336d419a4e8014854ce86dc953284b",
-        "clean_url": "https://apnews.com/article/midterms-trump-republicans-iran-tariffs-congress-84336d419a4e8014854ce86dc953284b",
-        "image": "https://www.bing.com/th?id=ONUT.BYs8oyvOK0-gg28r7wUFsA",
-        "timestamp": 1793540781.0881526
-    },
-    {
-        "id": "84ca617794",
-        "title_fa": "به گفته این مقام، مذاکره کنندگان ایرانی در دوحه برای ادامه مذاکرات برای پایان دادن به جنگ ایران و آمریکا",
-        "title_en": "Iranian negotiators in Doha to continue talks to end the US-Iran war, official says",
-        "summary": [
-            "Iranian negotiators in Doha to continue talks to end the US-Iran war, official says Reuters"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": 0,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793537871.0
-    },
-    {
-        "id": "b21c1fb1ab",
-        "title_fa": "دست‌اندازی بحرین: ایالات متحده و ایران در بن‌بست",
-        "title_en": "High-Stakes Gamble in the Gulf",
-        "summary": [
-            "تحلیلگران می‌گویند روابط آمریکا‑ایران به بن‌بست رسیده و هیچ راه‌حل کوتاه‌مدت وجود ندارد.",
-            "هر دو طرف به استراتژی‌های فشار اقتصادی و نظامی ادامه می‌دهند که وضعیت منطقه را پیچیده می‌کند."
-        ],
-        "impact": "بدون راه‌حل دیپلماتیک، ریسک تصاعد نظامی و نوسان شدید قیمت نفت ادامه خواهد یافت.",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Daily Times",
-        "url": "https://dailytimes.com.pk/1575405/high-stakes-gamble-in-the-gulf/",
-        "clean_url": "https://dailytimes.com.pk/1575405/high-stakes-gamble-in-the-gulf",
-        "image": "http://www.bing.com/th?id=ONUT.-_nKkYlmXpNXAnGuUPDBdg&pid=News",
-        "timestamp": 1793534820.0
-    },
-    {
-        "id": "e19317b8e5",
-        "title_fa": "ارتش ایران می‌گوید هر جنگ جدیدی با آمریکا می‌تواند طولانی تر از درگیری قبلی باشد",
-        "title_en": "Iran army says any new war with US could be ‘longer than previous conflict’",
-        "summary": [
-            "Iran army says any new war with US could be ‘longer than previous conflict’ Arab News"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Arab News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJIMlROdTg2TGRWSVVzN0RpWm9IZHJpMERid2lMSklpVkZpRzIyNjZBNk1tU2FfRGpuWTV4S1liZWs0MTVyalpTUTVac1JHZEVURlIzMFUyMTc3S0lfM0VUcFlkbFlBX2V0eXk3bE5oRjY3NXdmUVFBUWNGbjV1VXprVGxoQm5jSE50Ukt5N3l6MGE2M1BxaVNJSWxOaUNKa2dNQTBUaXBYVHJWWDhUNk1fTy1BNDE3N0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJIMlROdTg2TGRWSVVzN0RpWm9IZHJpMERid2lMSklpVkZpRzIyNjZBNk1tU2FfRGpuWTV4S1liZWs0MTVyalpTUTVac1JHZEVURlIzMFUyMTc3S0lfM0VUcFlkbFlBX2V0eXk3bE5oRjY3NXdmUVFBUWNGbjV1VXprVGxoQm5jSE50Ukt5N3l6MGE2M1BxaVNJSWxOaUNKa2dNQTBUaXBYVHJWWDhUNk1fTy1BNDE3N0E",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793527576.0
     }
 ]
