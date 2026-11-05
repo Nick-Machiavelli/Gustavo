@@ -1,5 +1,23 @@
 [
     {
+        "id": "68f5a65f87",
+        "title_fa": "پیروزی دموکرات‌ها و خواست تغییر عمیق",
+        "title_en": "How Democrats Changed Everything",
+        "summary": [
+            "رای‌دهندگان به‌دلیل نابرابری ثروت و نفوذ پول در سیاست، به‌صراحت خواستند نظام اقتصادی عادلانه‌تری شکل بگیرد.",
+            "احساس خشم نسبت به هزینه‌های شخصی‌سازی شده ترامپ، به‌ویژه پروژهٔ «قصر طلایی» در کاخ سفید، در میان رای‌دهندگان تگزاس برجسته شد."
+        ],
+        "impact": "دستگاه قانون‌گذاری با اکثریت دموکرات‌ها می‌تواند قوانین مالیاتی و نظارتی سخت‌تری برای ثروتمندان تصویب کند.",
+        "tag": "انتخابات",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "The Intercept",
+        "url": "https://theintercept.com/2026/11/04/midterm-election-results-voters-democrats/",
+        "clean_url": "https://theintercept.com/2026/11/04/midterm-election-results-voters-democrats",
+        "image": "https://www.bing.com/th?id=ONUT.FjNTMH98-8uRNPHomE9VBA",
+        "timestamp": 1793846496.220951
+    },
+    {
         "id": "fd214c3da0",
         "title_fa": "پس از موج آبی: حرکت در یک دولت تقسیم شده",
         "title_en": "After the Blue Wave: Navigating a Divided Government",
@@ -72,6 +90,24 @@
         "clean_url": "https://www.deccanchronicle.com/world/americas/white-house-posts-never-surrender-after-republican-defeat-in-us-midterms-2001865",
         "image": "https://www.bing.com/th?id=ONUT.iSp4oaEf7FJh90xr0efKQw",
         "timestamp": 1793843362.7693808
+    },
+    {
+        "id": "90458c40ee",
+        "title_fa": "امنیت ملی و انتخابات: خطرات جدی ایران",
+        "title_en": "Iran and the Elections: National Security Should Not Be Measured in Congressional Seats",
+        "summary": [
+            "مقاله تأکید می‌کند که تصمیم‌گیری دربارهٔ جنگ با ایران نباید به نتایج انتخاباتی وابسته باشد.",
+            "انتقاد از تصمیمات نظامی اخیر و درخواست برای حذف پیتر هگستِث از وزارت دفاع، نشان از فشار داخلی بر سیاست‌گذاران دارد."
+        ],
+        "impact": "اگر دولت آمریکا به‌سرعت مسیر دیپلماتیک را تقویت نکند، خطر تشدید تنش‌های نظامی با ایران افزایش می‌یابد.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "VOZ",
+        "url": "https://voz.us/en/politics/261105/1000338/iran-and-the-elections-national-security-should-not-be-measured-in-terms-of-seats.html",
+        "clean_url": "https://voz.us/en/politics/261105/1000338/iran-and-the-elections-national-security-should-not-be-measured-in-terms-of-seats.html",
+        "image": "https://voz.us/fotos-seo/27283/16x9.jpg?v=93781-1200-675-50-50-crawl-35798.jpeg",
+        "timestamp": 1793838060.0
     },
     {
         "id": "f5813f61f4",
@@ -5505,41 +5541,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/other/gen-z-iranians-we-wont-let-iran-become-another-north-korea/ar-AA2gtB00",
         "image": "https://www.bing.com/th?id=ONUT.JqQRZA6h4pBiaDzGiLeKxg",
         "timestamp": 1793443567.1679692
-    },
-    {
-        "id": "d4a58d70b1",
-        "title_fa": "انتخابات اسرائیل و تأثیر آن بر خاورمیانه",
-        "title_en": "Here Come the Non-Arabs",
-        "summary": [
-            "تحلیلگران به نقش سه یا چهار کرسی در نتایج انتخابات اسرائیل اشاره کردند.",
-            "نگرانی‌ها درباره تأثیر این نتایج بر روابط عرب‑اسرائیل مطرح است."
-        ],
-        "impact": "نتیجه انتخابات می‌تواند سیاست‌های منطقه‌ای را تحت‌تأثیر قرار دهد.",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/opinion/5335917-here-come-non-arabs",
-        "clean_url": "https://english.aawsat.com/opinion/5335917-here-come-non-arabs",
-        "image": "https://static.srpcdigital.com/styles/thumbnail/public/2023-05/wIciNe.png",
-        "timestamp": 1793443567.1676328
-    },
-    {
-        "id": "5efd0fe6c7",
-        "title_fa": "قیمت دیزل پس از توافق ترامپ بالا رفت",
-        "title_en": "Paying the price for Trump's 'deal' on diesel | Opinion",
-        "summary": [
-            "نظراتی درباره هزینه‌های بالای دیزل پس از توافق ترامپ منتشر شد.",
-            "این موضوع به مصرف‌کنندگان و حمل‌ونقل سنگین آسیب می‌رساند."
-        ],
-        "impact": "هزینه‌های حمل‌ونقل افزایش می‌یابد و فشار بر صنایع می‌گذارد.",
-        "tag": "اقتصاد",
-        "urgency": 1,
-        "sentiment": -0.1,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/opinion/2026/10/31/paying-price-for-trump-russia-diesel-deal-opinion/92453501007/",
-        "clean_url": "https://www.usatoday.com/story/opinion/2026/10/31/paying-price-for-trump-russia-diesel-deal-opinion/92453501007",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793443567.167481
     }
 ]
