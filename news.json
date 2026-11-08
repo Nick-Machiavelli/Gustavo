@@ -1,5 +1,24 @@
 [
     {
+        "id": "a2e2dc0a39",
+        "title_fa": "رسوایی جنسی و جاسوسی در راس NVIDIA",
+        "title_en": "Nvidia's spy probe is testing whether its moat is Jensen Huang, or the machine he built",
+        "summary": [
+            "هیئت مدیره NVIDIA به بررسی رابطه مدیرعامل با زن مرتبط با اطلاعات آمریکا پرداخته",
+            "ماجرا خطر «ریسک تک‌نفره» برای شرکتی با ارزش ۴٫۵ تریلیون دلار را نشان می‌دهد",
+            "اگر هوانگ حذف شود، مسیر استراتژیک و سیاست‌های صادرات هوش مصنوعی آمریکا در خطر است"
+        ],
+        "impact": "اعتماد سرمایه‌گذاران کاهش می‌یابد و ممکن است قیمت سهام و برنامه‌های AI تحت فشار قرار گیرد",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "ainvest",
+        "url": "https://www.ainvest.com/news/nvidia-spy-probe-testing-moat-jensen-huang-machine-built-2611/",
+        "clean_url": "https://www.ainvest.com/news/nvidia-spy-probe-testing-moat-jensen-huang-machine-built-2611",
+        "image": "https://www.bing.com/th?id=ONUT.gFlPNkcorUMXANpfh1Aolg",
+        "timestamp": 1794182096.9704635
+    },
+    {
         "id": "3b0cd8603d",
         "title_fa": "بازار بدهی مراکز داده تحت فشار انتخابات میانی",
         "title_en": "The midterm sweep didn't stop AI data centers. The debt market might.",
@@ -806,6 +825,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794096218.0
+    },
+    {
+        "id": "8f83070cfd",
+        "title_fa": "ترامپ احتمال حمله جدید به ایران را رد کرد",
+        "title_en": "Trump rechnet aktuell nicht mit neuen Angriffen auf Iran",
+        "summary": [
+            "ترامپ گفت تا پیشرفت مذاکرات هسته‌ای، حمله جدیدی ترتیب نمی‌دهد",
+            "آمریکا هدف‌های زیرساختی ایران را شناسایی کرده، شامل چندین پل مهم",
+            "عراق خواست مرزهایش به ایران بسته شود؛ آمریکا این درخواست را تأیید کرد"
+        ],
+        "impact": "تنش نظامی موقت کاهش می‌یابد، اما برنامه‌ریزی هدف‌های زیرساختی ادامه دارد",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/trump-rechnet-aktuell-nicht-mit-neuen-angriffen-auf-iran-106.html",
+        "clean_url": "https://www.deutschlandfunk.de/trump-rechnet-aktuell-nicht-mit-neuen-angriffen-auf-iran-106.html",
+        "image": "https://www.bing.com/th?id=ONUT.kZnhRudfolxrTln5YLDzqg",
+        "timestamp": 1794095692.0
     },
     {
         "id": "fda6a44cfc",
@@ -5470,41 +5508,5 @@
         "clean_url": "https://spectrumlocalnews.com/us/snplus/international/2026/06/24/united-states-iran-nuclear-sites-israel-lebanon-strait-hormuz-negotiations-interim-deal",
         "image": "https://s7d2.scene7.com/is/image/TWCNews/nuclearboss_AP_26175170713571_NAT_062426",
         "timestamp": 1793776200.0
-    },
-    {
-        "id": "efd4c2ab8c",
-        "title_fa": "ملانیا ترامپ: زندگی و پیشینه",
-        "title_en": "Melania Trump",
-        "summary": [
-            "ملانیا، همسر ۴۵مین رئیس‌جمهور آمریکا، از اسلوونی به آمریکا مهاجرت کرد",
-            "پیش از ازدواج با دونالد ترامپ، مدل مد بود"
-        ],
-        "impact": "اطلاعات شخصی برای مخاطبان عمومی، تأثیر کم",
-        "tag": "شخصیت",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "irishstar",
-        "url": "https://www.irishstar.com/all-about/melania-trump",
-        "clean_url": "https://www.irishstar.com/all-about/melania-trump",
-        "image": "https://www.irishstar.com/nav-web-static/main-ed1c6c6a14f311118becc01b2f3ea96a5f95956e/public/assets/irishstar/logos/logo-irishstar-social-sharing.png",
-        "timestamp": 1793776080.0
-    },
-    {
-        "id": "2f5c3af40a",
-        "title_fa": "کمیسیون رهبری: ایران قوی‌تر، بازدارندگی آمریکا",
-        "title_en": "Khamenei says stronger Iran key to deterrence against US",
-        "summary": [
-            "رهبری بر ضرورت تقویت توان دفاعی برای جلوگیری از فشارهای آمریکا تأکید کرد",
-            "فراخوان به وحدت ملی برای حفظ دستاوردهای انقلاب"
-        ],
-        "impact": "بیانیه می‌تواند حمایت داخلی را تقویت کند و فشارهای آمریکا را دشوارتر سازد",
-        "tag": "دفاع",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611042333",
-        "clean_url": "https://www.iranintl.com/en/202611042333",
-        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-        "timestamp": 1793775720.0
     }
 ]
