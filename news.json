@@ -1,5 +1,41 @@
 [
     {
+        "id": "2cc299897d",
+        "title_fa": "تحلیل: ۱۵ میلیارد دلار وعده‌های کشاورزی ترامپ",
+        "title_en": "Opinion: Who funds Trump’s billion-dollar promises?",
+        "summary": [
+            "گزارش AP نشان می‌دهد دولت ترامپ پیش از انتخابات میانی ۱۵ میلیارد دلار کمک به کشاورزان اعلام کرده",
+            "این وعده‌ها در حالی مطرح شد که هزینه‌های سوخت و کودها به‌دلیل تحریم‌ها و جنگ ایران بالا رفته است"
+        ],
+        "impact": "می‌تواند حمایت روستاییان را جلب کند ولی فشار مالی بر بودجه فدرال را افزایش دهد",
+        "tag": "اقتصاد_آمریکا",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "The Gazette",
+        "url": "https://www.thegazette.com/opinion/opinion-who-funds-trump-s-billion-dollar-promises/article_8908504b-f1ff-46d8-a672-ac59c0d44a2f.html",
+        "clean_url": "https://www.thegazette.com/opinion/opinion-who-funds-trump-s-billion-dollar-promises/article_8908504b-f1ff-46d8-a672-ac59c0d44a2f.html",
+        "image": "https://www.bing.com/th?id=ONUT.M-xQlqgBHljqMJFvEUrVWg",
+        "timestamp": 1794153045.214438
+    },
+    {
+        "id": "4799ac190e",
+        "title_fa": "ترامپ می‌گوید تمام کارت‌ها در دست اوست مقابل رژیم ایران",
+        "title_en": "Trump 'holds all the cards' in war against Iran's regime, White House says",
+        "summary": [
+            "سخنرانی سفیدخانه اعلام کرد ترامپ «تمام کارت‌ها» را در مقابل ایران دارد",
+            "این اظهارات پس از انتخابات میانی آمریکا و تنش‌های هورموز مطرح شد"
+        ],
+        "impact": "ریتوریک سخت‌گیرانه می‌تواند فشار دیپلماتیک را بالا برده و مسیر مذاکرات را سخت کند",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-holds-all-the-cards-in-war-against-iran-s-regime-white-house-says/ar-AA2h0PFl?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-holds-all-the-cards-in-war-against-iran-s-regime-white-house-says/ar-AA2h0PFl",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794153045.2137413
+    },
+    {
         "id": "d08359667b",
         "title_fa": "بریک: حمله آمریکا به ایران، خطر گسترش جنگ برای اسرائیل",
         "title_en": "‘Enormous, Unbearable’: Brik Warns US Strike on Iran Could Devastate Israel",
@@ -55,6 +91,24 @@
         "timestamp": 1794149178.43843
     },
     {
+        "id": "dcc0a516ed",
+        "title_fa": "ایران ادعا می‌کند انفجارها حمله آمریکا نیست",
+        "title_en": "Iran suggests blasts are not US attacks as both sides report ships hit",
+        "summary": [
+            "ایران پس از گزارش‌های دو طرف مبنی بر صدمه به کشتی‌ها، اعلام کرد انفجارها حمله مستقیم ایالات متحده نیستند",
+            "این بیانیه سعی دارد فشار بین‌المللی بر تحریم‌ها را کاهش دهد"
+        ],
+        "impact": "تنش‌های دریایی در خلیج فارس ادامه دارد ولی احتمال واکنش نظامی مستقیم کاهش می‌یابد",
+        "tag": "ناوگان",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794147703.0
+    },
+    {
         "id": "a6d0f037ff",
         "title_fa": "نیروی ویژه آمریکا مسیر سلاح‌های پیشرفته ایران را می‌بندد",
         "title_en": "US task force to cut off Iran’s transport of advanced weapons: What we know",
@@ -93,6 +147,24 @@
         "timestamp": 1794146756.0
     },
     {
+        "id": "67aaa1bcd1",
+        "title_fa": "اجرای سه نفر به‌خاطر شورش مسلحانه پس از اعتراضات ژانویه",
+        "title_en": "Iran executes three men for 'armed unrest' after January protests",
+        "summary": [
+            "دادگاه‌های ویژه سه مرد را به‌دلیل شرکت در حملات مسلحانه پس از اعتراضات ژانویه اعدام کرد",
+            "این اقدام نشان‌دهنده تشدید سرکوب دولت علیه مخالفان است"
+        ],
+        "impact": "فشار بین‌المللی بر حقوق بشر ایران افزایش می‌یابد و ممکن است تحریم‌های جدیدی را تحریک کند",
+        "tag": "حقوق_بشر",
+        "urgency": 5,
+        "sentiment": -0.9,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1raEg2N2dRWWxxTHlvV3BNR1RoZXNkSU12bzlxdDZsWWZqOU9SNFBPWEZZemxHa3hYWVI0YWdpcGlPM01HU3hjZFY5OWRNQ0o3Qy1uTFVtRExZbkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1raEg2N2dRWWxxTHlvV3BNR1RoZXNkSU12bzlxdDZsWWZqOU9SNFBPWEZZemxHa3hYWVI0YWdpcGlPM01HU3hjZFY5OWRNQ0o3Qy1uTFVtRExZbkU",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794145070.0
+    },
+    {
         "id": "0e0abf187c",
         "title_fa": "سپاه پاسداران برنامه جدید فشار اقتصادی آمریکا را «حرف‌بازی» خواند",
         "title_en": "Iran’s IRGC dismisses new US plan to tighten economic pressure as ‘wordplay’",
@@ -128,6 +200,24 @@
         "clean_url": "https://www.msn.com/en-nz/news/other/no-good-options-iran-war-caught-between-trumps-midterm-troubles-israels-election-shake-up/ar-AA2h07au",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gZnUO.img?w=4207&h=2805&m=4&q=74",
         "timestamp": 1794140299.0
+    },
+    {
+        "id": "27a7bd7161",
+        "title_fa": "جِی‌دی ونس اشتباه می‌گوید؛ دیپلماسی به نفع تهران",
+        "title_en": "JD Vance gets the Iran war wrong: Diplomacy handed Tehran victory",
+        "summary": [
+            "ونس ادعا کرد جنگ ایران‑آمریکا به نفع ایالات متحده بوده، در حالی که دیپلماسی اخیر منجر به دستاوردهای تهران شده است",
+            "تحلیلگر نشان داد فشارهای اقتصادی و مذاکرات هسته‌ای نقش کلیدی داشته‌اند"
+        ],
+        "impact": "این نقد می‌تواند دیدگاه عمومی در ایالات متحده نسبت به سیاست خاورمیانه را تغییر دهد",
+        "tag": "دیپلماسی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54enpNeEdCWkJmSEJuZVAzS0VPUEl5Y19aeWFCSGlwQXBTc090b2hPUkFqQ2ppbzN1V05IMmZ1VzRkQXp5UHp6Z2tVdGdRWG83dVFpLTF4aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54enpNeEdCWkJmSEJuZVAzS0VPUEl5Y19aeWFCSGlwQXBTc090b2hPUkFqQ2ppbzN1V05IMmZ1VzRkQXp5UHp6Z2tVdGdRWG83dVFpLTF4aw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794139200.0
     },
     {
         "id": "02e0995314",
@@ -331,6 +421,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95U0ZtQmdNa0ZLb1ZDczdBNHVhcXJEdTRNLThfVWpPZW1WSjRwY0RERFEwTzFlOVJyb09UZ1h0aUh5OG1PNWI0YVFQeXhzbkdxOU0yX25yaDVwUFlHVWc",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794112958.0
+    },
+    {
+        "id": "729dafd4c4",
+        "title_fa": "دولت ایران اجرای استانداردهای ایمنی خودرو را به تعویق می‌اندازد",
+        "title_en": "Iran seeks to delay car safety rules despite 78,500 road deaths",
+        "summary": [
+            "با وجود بیش از ۷۸٬۵۰۰ مرگ رانندگی در چهار سال، وزارت صنعت خواست استانداردهای جدید را به تعویق بیندازد",
+            "انتقادات داخلی به کیفیت پایین خودروهای داخلی و عدم اقدام‌ها مؤثر در بهبود ایمنی را تقویت می‌کند"
+        ],
+        "impact": "تداوم مرگ و جراحات رانندگی فشار عمومی و هزینه‌های بهداشتی را افزاییش می‌دهد",
+        "tag": "ایمنی_جاده",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611084412",
+        "clean_url": "https://www.iranintl.com/en/202611084412",
+        "image": "http://www.bing.com/th?id=ONUT.84zb032ZrWXiDQm7jZZS7A&pid=News",
+        "timestamp": 1794104040.0
     },
     {
         "id": "2a73282c37",
@@ -652,6 +760,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGdGeHgya1Y5SDZ3ejIxcmRQVmVyeGpqSmNTRlJ6ZGVvZjBxZUZJR2UyR3drbHNvM0NHVjdPV3dEejVYSTl5RnFxTERVUWZlcFBNYW1RUU9aLVhfd3VRSF9ZX1NOcmNvRzN5UUhvbTFkcm9zYUFTSWxnV0M1dGktUVU2S0ZqVV9qXzloa2JDX3JmalpJQ0RqZg",
         "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794067314.0
+    },
+    {
+        "id": "da4318062f",
+        "title_fa": "ترامپ شکست جمهوری‌خواهان را عقب‌گرد بزرگ می‌نامد",
+        "title_en": "ترامپ میگوید شکست جمهوریخواهان در انتخابات «گامی بزرگ به عقب» در تاریخ آمریکا بود",
+        "summary": [
+            "ترامپ پس از شکست در انتخابات میاندورهای، نتایج را «عقبگرد بزرگ» در تاریخ آمریکا توصیف کرد",
+            "او با اشاره به ضرر سه تریلیون دلاری بازار، وعده بازگشت قوی‌تر را داد"
+        ],
+        "impact": "این اظهارات می‌تواند حمایت پایه حامیان راست‌گرا را تقویت کند ولی ریسک تشدید تنش‌های داخلی را دارد",
+        "tag": "انتخابات",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "رادیو فردا",
+        "url": "https://www.radiofarda.com/a/trump-says-elections-were-giant-step-back-in-history-for-us/33893298.html",
+        "clean_url": "https://www.radiofarda.com/a/trump-says-elections-were-giant-step-back-in-history-for-us/33893298.html",
+        "image": "https://www.bing.com/th?id=ONUT.uLMEeLIKvSMDpYvLE8ialA",
+        "timestamp": 1794066635.0
+    },
+    {
+        "id": "f04a528b25",
+        "title_fa": "عربستان موشک‌های هدف‌دار به ریاض را رهگیری کرد",
+        "title_en": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+        "summary": [
+            "ارتش عربستان موشک‌های وارده به پایتخت و مناطق دیگر را با سامانه‌های دفاعی رهگیری کرد",
+            "ساختمان‌های ارامکو در ریاض آسیب دیدند اما خسارت محدود بود"
+        ],
+        "impact": "نشان‌دهنده توان دفاعی عربستان و احتمال تشدید درگیری‌های منطقه‌ای است",
+        "tag": "موشک",
+        "urgency": 7,
+        "sentiment": 0.0,
+        "source": "The Canadian Press on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-is-damaged-and-other-mideast-news/ar-AA2h0N1s?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/news/other/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-is-damaged-and-other-mideast-news/ar-AA2h0N1s",
+        "image": "https://www.bing.com/th?id=ONUT.WokD7FpPR010cRAqdgn7UQ",
+        "timestamp": 1794066634.0
     },
     {
         "id": "880cc59c92",
@@ -5355,152 +5499,5 @@
         "clean_url": "https://www.iranintl.com/en/202611033246",
         "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
         "timestamp": 1793745060.0
-    },
-    {
-        "id": "c84c5b45a1",
-        "title_fa": "بازار سهام آمریکا پس از میانه‌دوره‌ها به پرش می‌رسد",
-        "title_en": "US stocks surge, and the Dow soars more than 1,500 points as oil prices tumble following US midterms",
-        "summary": [
-            "پس از از دست دادن کنترل در مجلس، سهام آمریکا بیش از ۱۵۰۰ نقطه رشد کرد",
-            "کاهش قیمت نفت به‌عنوان عامل تقویت‌کننده بازار عمل کرد"
-        ],
-        "impact": "سرمایه‌گذاران به‌سرعت به سمت دارایی‌های ایمنی می‌روند",
-        "tag": "اقتصاد",
-        "urgency": 3,
-        "sentiment": 0.6,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/money/top-stocks/us-stocks-surge-and-the-dow-soars-more-than-1-500-points-as-oil-prices-tumble-following-us-midterms/ar-AA2gIhEO?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/money/top-stocks/us-stocks-surge-and-the-dow-soars-more-than-1-500-points-as-oil-prices-tumble-following-us-midterms/ar-AA2gIhEO",
-        "image": "https://www.bing.com/th?id=ONUT.Hvf-tV7BnTiq9UeCklW0xg",
-        "timestamp": 1793743427.0
-    },
-    {
-        "id": "77f3f41e02",
-        "title_fa": "آندی برنهم پس از میانه‌دوره‌ها واکنش به ترامپ نشان داد",
-        "title_en": "Chris Mason: The US elections will change Trump – how will Burnham react?",
-        "summary": [
-            "برنهم اعلام کرد ترامپ نتایج انتخابات را پذیرفته است",
-            "این بیانیه نشان می‌دهد روابط دو جانبه آمریکا-انگلستان در وضعیت نامطمئنی قرار دارد"
-        ],
-        "impact": "عدم توافق واضح می‌تواند مذاکرات بین‌المللی را تحت فشار قرار دهد",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/chris-mason-us-elections-change-210302628.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/chris-mason-us-elections-change-210302628.html",
-        "image": "https://www.bing.com/th?id=ONUT.UNdoZarIGTfaVdryRKd4LA",
-        "timestamp": 1793743427.0
-    },
-    {
-        "id": "ef54dd789c",
-        "title_fa": "دموکرات‌ها به ترامپ هشدار دادند: آمادهٔ احضار قانونی",
-        "title_en": "‘LAWYER UP’: Dems immediately put Trump on notice amid Republicans' midterm bloodbath",
-        "summary": [
-            "دموکرات‌ها پس از پیروزی‌های میانی‌دوره‌ای، به ترامپ و همکارانش احضار قانونی وعده دادند.",
-            "این هشدارها می‌تواند منجر به تحقیقات گسترده بر سر تصمیمات اجرایی ترامپ شود."
-        ],
-        "impact": "احتمال مواجههٔ ترامپ با تحقیقات کنگره و محدود شدن توان اجرایی او",
-        "tag": "قضایی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/lawyer-up-dems-immediately-put-trump-notice-amid-republicans-midterm-bloodbath",
-        "clean_url": "https://www.foxnews.com/politics/lawyer-up-dems-immediately-put-trump-notice-amid-republicans-midterm-bloodbath",
-        "image": "http://www.bing.com/th?id=ONUT.8LtLQGa6cklFekxJZAzHYw&pid=News",
-        "timestamp": 1793742660.0
-    },
-    {
-        "id": "c5745087b5",
-        "title_fa": "در بحبوحه احتمال حملات مجدد ایالات متحده، قطع اینترنت ایران را تحت تأثیر قرار داد",
-        "title_en": "Internet disruptions hit Iran amid prospect of renewed US strikes",
-        "summary": [
-            "Internet disruptions hit Iran amid prospect of renewed US strikes Iran International"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ2U0WVVTSUdRYnBQWGt6VDNuNHNvdXlZclJ0YldlcERFLWRIMEJ2QU55T2ZzQlhDS0hRNEoyVkdnTkwxM3I3YnJFSm5OVkVSUUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ2U0WVVTSUdRYnBQWGt6VDNuNHNvdXlZclJ0YldlcERFLWRIMEJ2QU55T2ZzQlhDS0hRNEoyVkdnTkwxM3I3YnJFSm5OVkVSUUE",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793741814.0
-    },
-    {
-        "id": "68ab45dfa0",
-        "title_fa": "کریستینا بوهانن ایالت آیوا را به دموکرات‌ها داد",
-        "title_en": "Democrat Christina Bohannan unseats Iowa GOP Rep. Mariannette Miller-Meeks in third matchup",
-        "summary": [
-            "کریستینا بوهانن در سومین مواجهه با ماریانیت میلار-میگز، نماینده جمهوری‌خواه، پیروز شد.",
-            "پیروزی او نشان می‌دهد که حمایت‌های کشاورزان از دموکرات‌ها در آیوا در حال رشد است."
-        ],
-        "impact": "کاهش حاکمیت جمهوری‌خواهان در نمایندگان ایالت آیوا",
-        "tag": "نمایندگان",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/iowa-1st-district-results-christina-bohannan-mariannette-miller-meeks/",
-        "clean_url": "https://www.cbsnews.com/news/iowa-1st-district-results-christina-bohannan-mariannette-miller-meeks",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/03/a022818c-6e8b-4c58-b758-d9275fcabf70/thumbnail/1200x630/190c268743979208fd060af4e3ab775e/ap26229183694261.jpg",
-        "timestamp": 1793741100.0
-    },
-    {
-        "id": "24c68bc128",
-        "title_fa": "تروی جکسون سناتور مینه را به دست گرفت",
-        "title_en": "Democrat Troy Jackson Triumphs In Maine As Susan Collins Finally Ousted",
-        "summary": [
-            "تروی جکسون با پیروزی در انتخابات سنا، سنا را از دست ساکن‌ترین جمهوری‌خواه مینه آزاد کرد.",
-            "این شکست نقطه عطفی برای دموکرات‌هاست که دیگر نماینده‌ای از جمهوری‌خواهان در مینه ندارند."
-        ],
-        "impact": "تقویت ابرنقش دموکرات‌ها در تصمیم‌گیری‌های سنا",
-        "tag": "سنا",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/democrat-troy-jackson-wins-maine_n_6aea29b9e4b056519dfe18a9",
-        "clean_url": "https://www.huffpost.com/entry/democrat-troy-jackson-wins-maine_n_6aea29b9e4b056519dfe18a9",
-        "image": "http://www.bing.com/th?id=ONUT.iw6yvXHgMs6XnCc1S6RECg&pid=News",
-        "timestamp": 1793740920.0
-    },
-    {
-        "id": "a87c88fec6",
-        "title_fa": "چهار کشتی نفتی در ارومز به‌دلیل مین سوزاند",
-        "title_en": "Irán reporta cuatro buques petroleros incendiados tras chocar con minas en Ormuz",
-        "summary": [
-            "ایران اعلام کرد چهار کشتی نفتی که بدون اجازه عبور می‌کردند، به‌دلیل برخورد با مین‌های دریایی در ارومز سوزانده شدند.",
-            "نیروهای پاسدار در بیانیه خود گفتند دو کشتی دیگر نیز متوقف شدند و یک پهپاد در منطقه سرنگون شد.",
-            "این حادثه پس از اتهام‌ها ترامپ مبنی بر حمله آمریکا به جزیره قشم رخ داد و تنش‌های حمل‌ونقل نفتی را تشدید می‌کند.",
-            "اگر مسیر ارومز بسته شود، قیمت نفت جهانی ممکن است افزایشی دو رقمی داشته باشد."
-        ],
-        "impact": "اختلال در عبور نفت از ارومز می‌تواند نوسان شدید قیمت‌های جهانی را به‌وجود آورد",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Excélsior",
-        "url": "https://www.excelsior.com.mx/internacional/iran-petroleros-estrecho-ormuz",
-        "clean_url": "https://www.excelsior.com.mx/internacional/iran-petroleros-estrecho-ormuz",
-        "image": "http://www.bing.com/th?id=ONUT.PoE-DRRvg8CfBLB2BWwRCg&pid=News",
-        "timestamp": 1793739900.0
-    },
-    {
-        "id": "99458d4cf5",
-        "title_fa": "شِرُد براون بازگشت به سنا، صندلی اوهایو برای دموکرات‌ها",
-        "title_en": "Sherrod Brown wins Ohio 2026 Senate election, flipping seat for Democrats",
-        "summary": [
-            "براون با اختلاف چهار امتیاز بر حستد پیروز شد",
-            "این بازگشت اولین تغییر صندلی سنا به نفع دموکرات‌ها پس از شکست 2024 است",
-            "کاهش محبوبیت ترامپ به‌دلیل جنگ ایران و هزینه‌های زندگی نقش کلیدی داشت",
-            "حضور براون می‌تواند فشار بر قانون‌گذاری انرژی و کارگری را افزایش دهد"
-        ],
-        "impact": "بازگشت براون به سنا، توازن قدرت در مجلس سنا را به نفع دموکرات‌ها می‌چرخاند",
-        "tag": "سنا",
-        "urgency": 6,
-        "sentiment": 0.7,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/ohio-2026-senate-husted-brown/",
-        "clean_url": "https://www.cbsnews.com/news/ohio-2026-senate-husted-brown",
-        "image": "http://www.bing.com/th?id=ONUT.kmLc_mREz-o2DF5Fe2WHZQ&pid=News",
-        "timestamp": 1793739900.0
     }
 ]
