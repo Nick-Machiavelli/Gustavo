@@ -1,5 +1,156 @@
 [
     {
+        "id": "486c02f2e2",
+        "title_fa": "نتایج میانه‌دوره تأثیر بر زنجیره تأمین جهانی دارد",
+        "title_en": "How will the midterm election results affect supply chains?",
+        "summary": [
+            "پیرو پیروزی دمکرات‌ها، احتمال ایجاد تنگناهای تجاری و تحریم‌های جدید برای ایران وجود دارد",
+            "همزمان ممکن است فشارهای تجاری ترامپ کاهش یابد",
+            "این تغییرات می‌تواند هزینه‌های واردات و صادرات ایران را تحت تأثیر قرار دهد"
+        ],
+        "impact": "تغییر در سیاست تجاری می‌تواند هزینه‌های اقتصادی ایران را بالا یا پایین آورد",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Supply Chain Management Review",
+        "url": "https://www.scmr.com/article/2026-midterms-supply-chain-impact",
+        "clean_url": "https://www.scmr.com/article/2026-midterms-supply-chain-impact",
+        "image": "https://www.bing.com/th?id=ONUT.s8g7_i2ER_sKaqTyOzsW5g",
+        "timestamp": 1794233570.4725718
+    },
+    {
+        "id": "7d2db890d9",
+        "title_fa": "پزشک پیش‌بینی می‌کند ترامپ برنامه‌های ترسناک دارد",
+        "title_en": "Donald Trump's 'terrifying next plans' predicted by doctor who spots 'sadistic side'",
+        "summary": [
+            "یک متخصص پزشکی ادعا می‌کند رفتار سادیستیک ترامپ می‌تواند خطرهای جدی ایجاد کند",
+            "پیش‌بینی پس از شکست جمهوری‌حزاب در انتخابات میانه صورت گرفته",
+            "این نگرانی می‌تواند واکنش‌های داخلی و بین‌المللی نسبت به سیاست‌های ترامپ را تشدید کند"
+        ],
+        "impact": "افزایش نگرانی‌های سیاسی و امنیتی در داخل و خارج از آمریکا",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "The Mirror US",
+        "url": "https://www.themirror.com/news/politics/donald-trumps-terrifying-next-plans-2102962",
+        "clean_url": "https://www.themirror.com/news/politics/donald-trumps-terrifying-next-plans-2102962",
+        "image": "https://www.bing.com/th?id=ONUT.Kwbc5j6JRf2SoJcYd27jMQ",
+        "timestamp": 1794233570.4715707
+    },
+    {
+        "id": "c45a4bb4a2",
+        "title_fa": "پزشکیان: ایران به مذاکرات 'نه جنگ نه صلح' می‌پردازد",
+        "title_en": "Iran seeks end to 'no war, no peace' stalemate with US",
+        "summary": [
+            "مسعود پزشکیان گفت ایران می‌خواهد با آمریکا به توافق برسد تا وضعیت کشمکش متوقف شود",
+            "او افزود ایران تحت هیچ فشار یا اجبار سیاسی تسلیم نخواهد شد",
+            "این موضع می‌تواند مذاکرات دوباره را فعال کند"
+        ],
+        "impact": "احتمال بازگشت به میز مذاکره و کاهش تنش‌ها",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Newspoint",
+        "url": "https://www.msn.com/en-in/news/other/iran-seeks-end-to-no-war-no-peace-stalemate-with-us/ar-AA2h4wlk",
+        "clean_url": "https://www.msn.com/en-in/news/other/iran-seeks-end-to-no-war-no-peace-stalemate-with-us/ar-AA2h4wlk",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA253a66.img?w=640&h=360&m=4&q=50",
+        "timestamp": 1794226225.0
+    },
+    {
+        "id": "e173f903e0",
+        "title_fa": "در گزارشی به آژانس بین المللی انرژی اتمی، خط ایران در برابر نظارت هسته‌ای سخت تر می‌شود",
+        "title_en": "Iran Hardens Line Against Nuclear Monitoring in Report to IAEA",
+        "summary": [
+            "متن خبر در دسترس نیست و فقط پیام کپچا نمایش داده شد",
+            "به‌دلیل عدم وجود اطلاعات قابل تحلیل، اثر عملیاتی قابل ارزیابی نیست"
+        ],
+        "impact": "اطلاعات کافی برای ارزیابی اثر وجود ندارد",
+        "tag": "نامشخص",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-09/iran-hardens-line-against-nuclear-monitoring-as-deal-hopes-fade",
+        "clean_url": "https://www.bloomberg.com/news/articles/2026-11-09/iran-hardens-line-against-nuclear-monitoring-as-deal-hopes-fade",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv0VXJhoBkh0/v1/1200x899.jpg",
+        "timestamp": 1794226020.0
+    },
+    {
+        "id": "d3fd6182a8",
+        "title_fa": "ترامپ با قطر برای میانجیگری جنگ ایران ملاقات می‌کند",
+        "title_en": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war",
+        "summary": [
+            "ترامپ قصد دارد با قطر، که به‌عنوان میان‌گیر جنگ ایران شناخته می‌شود، دیدار کند",
+            "او اعلام کرد توافقی برای پایان جنگ به‌زودی شکل نمی‌گیرد",
+            "این نشان می‌دهد فشار دیپلماتیک آمریکا ادامه دارد اما مسیر صلح دشوار است"
+        ],
+        "impact": "تحریم‌ها ادامه می‌یابند و پیشرفت سریع در مذاکرات کم می‌شود",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794224773.0
+    },
+    {
+        "id": "8252f8b4f6",
+        "title_fa": "ترامپ می‌گوید جهان باید هزینه جنگ ایران را بپردازد",
+        "title_en": "Trump Says Nations Should Pay US For Iran War—How Much Would They Owe?",
+        "summary": [
+            "ترامپ پیشنهاد کرد کشورهای جهان بدهی‌دار به آمریکا برای هزینه‌های جنگ ایران شوند.",
+            "مبلغ تخمینی اعلام نشد؛ فقط بر \"قرض بزرگ\" تأکید شد.",
+            "این ایده می‌تواند به تحریم‌های جدید منجر شود."
+        ],
+        "impact": "پیشنهاد پرداخت هزینه جنگ می‌تواند فشار اقتصادی جدیدی بر کشورهای هدف ایجاد کند.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aT0FqYXhaMG8ydE9RdTRPVGtNT3lBd3NNdWw0T1Z6WGJ5amRIV0JtOVFOSEd2M21LSFVQWjdKQ0Y4OEhKdVl1YlRQdUJTN05NTFFkY0U4SmIxeXIweEFnTHRXRkswUXZydVFOdVhrei1iY0ZaUV9hMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aT0FqYXhaMG8ydE9RdTRPVGtNT3lBd3NNdWw0T1Z6WGJ5amRIV0JtOVFOSEd2M21LSFVQWjdKQ0Y4OEhKdVl1YlRQdUJTN05NTFFkY0U4SmIxeXIweEFnTHRXRkswUXZydVFOdVhrei1iY0ZaUV9hMw",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794223320.0
+    },
+    {
+        "id": "3ed39dc4b9",
+        "title_fa": "روبیو: امیدی برای پیشرفت دیپلماتیک با ایران نیست",
+        "title_en": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
+        "summary": [
+            "مارک روبیویچ می‌گوید خواسته‌های ایران برای مذاکرات غیرمنطقی است",
+            "او پیش‌بینی می‌کند دیپلماتیک به‌سرعت پیشرفت نخواهد کرد",
+            "این بیانیه می‌تواند ادامه تحریم‌ها و فشارهای اقتصادی را تقویت کند"
+        ],
+        "impact": "ادامه فشارهای اقتصادی و تحریم‌های بین‌المللی بر ایران",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jUnFoaUY5Uk04NjQzYzVvZzIxYTVvbUhGZTMzSGFFUjdYcVc1ZS1lT3JqUi1rU3pZT1EyNUl2MkZHdFF2cGhzenBldXZJcEpBOXRJUEpjVGVpNUkzWUMtTklXLTNRT01pUmV6ajVR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jUnFoaUY5Uk04NjQzYzVvZzIxYTVvbUhGZTMzSGFFUjdYcVc1ZS1lT3JqUi1rU3pZT1EyNUl2MkZHdFF2cGhzenBldXZJcEpBOXRJUEpjVGVpNUkzWUMtTklXLTNRT01pUmV6ajVR",
+        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794222554.0
+    },
+    {
+        "id": "761913533c",
+        "title_fa": "ترامپ ادعا کرد جنگ ایران را بردیم",
+        "title_en": "Trump says US has ‘won’ Iran war as Rubio reports no progress in talks",
+        "summary": [
+            "ترامپ به‌صراحت گفت ایالات متحده جنگ ایران را \"برده\".",
+            "در عین حال هیچ پیشرفتی در مذاکرات مسالمت‌آمیز گزارش نشده است.",
+            "این حرف می‌تواند فشار داخلی و خارجی را تقویت کند."
+        ],
+        "impact": "ادعای پیروزمندی می‌تواند تنش‌های نظامی منطقه را تشدید کند.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFk2SzhMUnZnbFhjV01RMWQ0bUQ4UG5tUVYwYVozNU1MQXc5MGgwUGNGRzY3bllMalF6cGo3R2tBektVaHNCQWU2ejZCUjNtZ2tESGZKVmNrY3QwWGpjdXRrTzVBQ0hSVVpyQm9iTlVSQzhUWVpJendyY2tJc28ySWNvR3VoYlVTX2ZpR0ZVbkVfQlB2WHIwdjl5MUp3Y2k5VUhtWG1DWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFk2SzhMUnZnbFhjV01RMWQ0bUQ4UG5tUVYwYVozNU1MQXc5MGgwUGNGRzY3bllMalF6cGo3R2tBektVaHNCQWU2ejZCUjNtZ2tESGZKVmNrY3QwWGpjdXRrTzVBQ0hSVVpyQm9iTlVSQzhUWVpJendyY2tJc28ySWNvR3VoYlVTX2ZpR0ZVbkVfQlB2WHIwdjl5MUp3Y2k5VUhtWG1DWQ",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794220958.0
+    },
+    {
         "id": "50e9d50084",
         "title_fa": "پیشنهاد 'قانون بدون پادشاهان' برای محدود کردن ترامپ",
         "title_en": "To Rein In Trump, Pass a ‘No Kings Act’",
@@ -127,6 +278,25 @@
         "timestamp": 1794194757.0
     },
     {
+        "id": "ea153e3181",
+        "title_fa": "بقای: خروج اورانیوم غنی‌شده از ایران مطرح نیست",
+        "title_en": "بقائی، سخنگوی وزارت خارجه: خروج اورانیوم غنی‌شده از ایران به هیچ‌وجه مطرح نیست",
+        "summary": [
+            "اسماعیل بقائی تأکید کرد ایران قصد خروج اورانیوم غنی‌شده ندارد",
+            "او گفت بازرسی‌های آمریکا از تاسیسات هسته‌ای ناموجه است",
+            "این موضع می‌تواند فشار بین‌المللی بر برنامه هسته‌ای ایران را کاهش دهد"
+        ],
+        "impact": "کاهش فشار تحریمی بر برنامه هسته‌ای ایران",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202611093009",
+        "clean_url": "https://www.iranintl.com/202611093009",
+        "image": "http://www.bing.com/th?id=ONUT.pSi3Vbcm2oWd5IqedOGmMg&pid=News",
+        "timestamp": 1794193980.0
+    },
+    {
         "id": "3fd0b04dde",
         "title_fa": "ترامپ با نخست‌وزیر قطر درباره میانجی‌گری با ایران ملاقات می‌کند",
         "title_en": "Trump to meet Qatari prime minister about mediation efforts with Iran",
@@ -178,6 +348,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0lJeGUybVJOd0RaOTJWMXZMakRNMzNZNnhrdS16RG4yWDc0elRhNFgtNFRvRmpYZG1IVFlnVWZtYThSdS1OMEFNR3RmbWRKWDBaR2NMQ2xSdGRqbFRLb3BBTGFKdENHS01vWWZUb0tjYWhCWVVXMDFjRUM4TzE1dWdWcFNrOW90RkNJQTk2V3Eybnd0aHRlY0dqWXlEWUY0UFBvYkZMT00zMWhrVExLc3U3RDAycTBrY0RKaTA2WWlnMEctd0JMZWZ2RmJyT00",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794189877.0
+    },
+    {
+        "id": "7c3a3ff62b",
+        "title_fa": "پزشکیان: با عزت می‌توانیم جنگ را پایان دهیم",
+        "title_en": "مسعود پزشکیان: می‌توانیم با عزت گفت‌وگو و جنگ را تمام کنیم",
+        "summary": [
+            "مسعود پزشکیان اعلام کرد ایران آماده گفت‌وگو برای پایان جنگ است",
+            "او تأکید کرد حفظ کرامت ملی در هر توافقی الزامی است",
+            "این موضع می‌تواند فشار دیپلماتیک بر آمریکا را افزایش دهد"
+        ],
+        "impact": "ممکن است مذاکرات صلحی با آمریکا تسریع شود",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202611092181",
+        "clean_url": "https://www.iranintl.com/202611092181",
+        "image": "http://www.bing.com/th?id=ONUT.wUY3usfKqPlVFr5YD_8ZzQ&pid=News",
+        "timestamp": 1794189000.0
     },
     {
         "id": "7632e9306b",
@@ -645,6 +834,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR",
         "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794147703.0
+    },
+    {
+        "id": "8f32e709ed",
+        "title_fa": "ایران رد کرد ادعای روبیو درباره پایان جنگ",
+        "title_en": "Iran-Krieg: Alles zur Eskalation mit USA und Israel im Liveblog",
+        "summary": [
+            "سخنگوی وزارت خارجه ایران گفت ادعای روبیو درباره رفع تحریم‌ها و بازگشایی راه هرمس نادرست است.",
+            "ایران پیشنهاد رفع تحریم‌ها و بازگشایی راه هرمس را به میز مذاکرات گذاشته اما هنوز تصمیمی اتخاذ نشده.",
+            "این رد نشان می‌دهد دیپلماسی هنوز در مرحله گفت‌و‌گوست."
+        ],
+        "impact": "رد ادعای روبیو مانع تشدید تنش‌های کلامی می‌شود ولی مذاکرات هنوز نامشخص است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "zdfheute",
+        "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+        "clean_url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+        "image": "https://www.zdfheute.de/assets/beitrag-x-von-centcom-zu-angriffen-usa-auf-iran-100~1280x720?cb=1788158231999",
+        "timestamp": 1794147155.0
     },
     {
         "id": "a6d0f037ff",
@@ -5304,206 +5512,5 @@
         "clean_url": "https://www.foxnews.com/video/6407978867112",
         "image": "http://www.bing.com/th?id=ONUT.KDmcfbJluYXnczRCbr2YUg&pid=News",
         "timestamp": 1793822640.0
-    },
-    {
-        "id": "c6c83f0d0d",
-        "title_fa": "تحریم آمریکا بر شرکت‌های هندی‑ترکیه برای کمک به ایران",
-        "title_en": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
-        "summary": [
-            "آمریکا شرکت‌ها و افراد هندی و ترکیه‌ای را به دلیل کمک به برنامه‌های هسته‌ای ایران هدف قرار داد.",
-            "تحریم‌ها شامل ممنوعیت دسترسی به سیستم‌های مالی بین‌المللی و مسدودسازی دارایی‌هاست.",
-            "این اقدام فشار اقتصادی بر ایران را تقویت می‌کند و روابط تجاری واشنگتن‑دهل را تحت فشار می‌گذارد."
-        ],
-        "impact": "تأمینات کلیدی ایران مختل می‌شود و تنش‌های اقتصادی منطقه تشدید می‌گردد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793820993.0
-    },
-    {
-        "id": "6b84c05d37",
-        "title_fa": "رهبران خلیج فارس از تجدید جنگ آمریکا‑ایران می‌ترسند",
-        "title_en": "Persian Gulf Leaders Fear a Renewed US-Iran War as Diplomacy Sputters",
-        "summary": [
-            "کشورهای خلیج فارس هشدار دادند که بازگشت به درگیری مسلحانه می‌تواند امنیت منطقه را به‌هم بزند.",
-            "دیپلماسی چندجانبه در حال رکود است و مسیرهای حل مسالمت‌آمیز به‌نظر می‌رسد بسته شده‌اند.",
-            "قیمت نفت به‌دلیل نگرانی‌های امنیتی نوسان شدیدی پیدا کرده است."
-        ],
-        "impact": "ریسک بروز جنگ می‌تواند بازارهای انرژی جهانی را به‌سرعت تحت فشار قرار دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Military.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVHYwVlpSODRxZVF4a3NXTVQ3M1p5QWNLVGl1T0tucEE1TC1RLWFxRG5uVnNYaWNRT0JzMl9PaHNWV1Uxb2pFT3ltTEtoVjZiQnNiUHRJR3VPem5VNXVobW1NSTBkd280cWEzekY0dGpUZ1dXekpGUnFaUEo5dEExWkp4Sk85djRXc1VINC1FYm54eFNGR0pybnVn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVHYwVlpSODRxZVF4a3NXTVQ3M1p5QWNLVGl1T0tucEE1TC1RLWFxRG5uVnNYaWNRT0JzMl9PaHNWV1Uxb2pFT3ltTEtoVjZiQnNiUHRJR3VPem5VNXVobW1NSTBkd280cWEzekY0dGpUZ1dXekpGUnFaUEo5dEExWkp4Sk85djRXc1VINC1FYm54eFNGR0pybnVn",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793820833.0
-    },
-    {
-        "id": "0ee5634e7b",
-        "title_fa": "قیمت نفت زیر ۱۰۰ دلار؛ واکنش بازار به دیپلماسی ایران",
-        "title_en": "Oil Prices Stay Below $100 as Traders Weigh Iran Diplomacy, Supply Outlook — Commodities Roundup",
-        "summary": [
-            "برنت ۲٫۳٪ رشد کرد و زیر ۱۰۰ دلار ماند؛ معامله‌گران به مذاکرات واشنگتن‑تهران توجه دارند",
-            "نگرانی از تأمین گاز و مس، همراه با کاهش قیمت مس و افزایش طلا، نشانگر نوسان گسترده در کالاهاست"
-        ],
-        "impact": "قیمت‌های انرژی پایین می‌تواند فشار بر درآمدهای نفتی ایران را کاهش دهد",
-        "tag": "نفت",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Morningstar",
-        "url": "https://www.morningstar.com/news/dow-jones/2026110516493/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-commodities-roundup",
-        "clean_url": "https://www.morningstar.com/news/dow-jones/2026110516493/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-commodities-roundup",
-        "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-        "timestamp": 1793816023.0
-    },
-    {
-        "id": "888eae6cc7",
-        "title_fa": "بانک انگلستان نرخ بهره را ۲۵ پایه افزایش داد",
-        "title_en": "BoE recap: A divided hike and a warning that the energy shock is not over",
-        "summary": [
-            "BoE نرخ را به ۴٪ ارتقا داد؛ هشت نفر از تصمیم‌گیرندگان آن را حمایت کردند",
-            "بانک هشدار داد شوک انرژی هنوز تمام نشده و تورم می‌تواند ادامه یابد"
-        ],
-        "impact": "هزینه وام‌ها و وام‌گیری‌های مصرفی در بریتانیا بالا می‌رود",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "FXStreet",
-        "url": "https://www.fxstreet.com/news/boe-recap-a-divided-hike-and-a-warning-that-the-energy-shock-is-not-over-202611051712",
-        "clean_url": "https://www.fxstreet.com/news/boe-recap-a-divided-hike-and-a-warning-that-the-energy-shock-is-not-over-202611051712",
-        "image": "https://www.bing.com/th?id=ONUT.GK5G12e3D_4ZZqoHMwZBsA",
-        "timestamp": 1793816023.0
-    },
-    {
-        "id": "eaa04e1759",
-        "title_fa": "جایشانکار: همکاران کمونولث باید ریسک‌ها را کاهش دهند",
-        "title_en": "Following are the top foreign stories at 1700 hours",
-        "summary": [
-            "وزیر خارجه هند خواست کشورهای کمونولث تنوع اقتصادی کنند",
-            "هدف کاهش وابستگی به چین و روسیه است"
-        ],
-        "impact": "تقویت همکاری‌های تجاری غیرچینی برای هند و همسایگان",
-        "tag": "دیپلماتیک",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Press Trust of India on MSN",
-        "url": "https://www.msn.com/en-in/news/news/following-are-the-top-foreign-stories-at-1700-hours/ar-AA2gOKeG?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/news/following-are-the-top-foreign-stories-at-1700-hours/ar-AA2gOKeG",
-        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793816023.0
-    },
-    {
-        "id": "8c4bb897dd",
-        "title_fa": "کشتی‌نقلیه در خلیج فارس توسط پرتاب‌ها آسیب دید",
-        "title_en": "Tanker struck by projectiles in the Persian Gulf off Qatar and other Mideast news",
-        "summary": [
-            "کشتی‌نقلیه در نزدیکی قطر به گلوله‌های ناشناسی برخورد کرد",
-            "پس از جلسه پوتین با شورای امنیت ملی ایران، وضعیت منطقه بررسی شد"
-        ],
-        "impact": "اختلال در حمل و نقل نفتی خلیج فارس، نگرانی‌های بازار انرژی",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Laredo Morning Times on MSN",
-        "url": "https://www.msn.com/en-us/news/other/tanker-struck-by-projectiles-in-the-persian-gulf-off-qatar-and-other-mideast-news/ar-AA2gOCpV?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/tanker-struck-by-projectiles-in-the-persian-gulf-off-qatar-and-other-mideast-news/ar-AA2gOCpV",
-        "image": "https://www.bing.com/th?id=ONUT.7ytqJPSVFtPQuqDaUJA8hg",
-        "timestamp": 1793816023.0
-    },
-    {
-        "id": "53ee84ad25",
-        "title_fa": "پهلوی: اروپا باید به ایرانیان فرصت عادلانه بدهد",
-        "title_en": "Geef de Iraniërs een eerlijke kans om voor hun vrijheid te vechten, zegt Pahlavi, zoon van laatste sjah, in interview met VRT NWS",
-        "summary": [
-            "شاهزاده پهلوی در مصاحبه با VRT، ۴۰ سال دیالوگ بی‌نتیجه را نقد کرد",
-            "او خواستار فشار بیشتر بر تهران برای احترام به حقوق بشر است"
-        ],
-        "impact": "تقویت فشار بین‌المللی بر ایران، احتمال تغییر سیاسی",
-        "tag": "اپوزیسیون",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "VRT on MSN",
-        "url": "https://www.msn.com/nl-be/nieuws/other/geef-de-iraniërs-een-eerlijke-kans-om-voor-hun-vrijheid-te-vechten-zegt-pahlavi-zoon-van-laatste-sjah-in-interview-met-vrt-nws/ar-AA2gOWR1?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/nl-be/nieuws/other/geef-de-iraniërs-een-eerlijke-kans-om-voor-hun-vrijheid-te-vechten-zegt-pahlavi-zoon-van-laatste-sjah-in-interview-met-vrt-nws/ar-AA2gOWR1",
-        "image": "https://www.bing.com/th?id=ONUT.yFsszUdn4JZZEgQ6aNdHTQ",
-        "timestamp": 1793816023.0
-    },
-    {
-        "id": "246ce54c2a",
-        "title_fa": "رونالدو از تیم ملی پرتغال بازنشست شد",
-        "title_en": "Cristiano Ronaldo anuncia su retiro de la selección de Portugal",
-        "summary": [
-            "رونالدو رسماً اعلام کرد دیگر برای تیم ملی بازی نخواهد کرد",
-            "این تصمیم پس از شکست‌های اخیر تیم در مسابقات بوده"
-        ],
-        "impact": "پرتغال باید به دنبال مهاجم جدیدی برای مسابقات آینده بگردد",
-        "tag": "ورزش",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Dailymotion on MSN",
-        "url": "https://www.msn.com/es-mx/deportes/futbol/cristiano-ronaldo-anuncia-su-retiro-de-la-selección-de-portugal/vi-AA2gPVnA?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/es-mx/deportes/futbol/cristiano-ronaldo-anuncia-su-retiro-de-la-selección-de-portugal/vi-AA2gPVnA",
-        "image": "https://www.bing.com/th?id=ONUT.wG-gJtmF82gcqCAPX1BUNA",
-        "timestamp": 1793816023.0
-    },
-    {
-        "id": "ed4a8ddfd5",
-        "title_fa": "ایران: در صورت ادامه حملات آمریکا به سلاح جدید می‌پردازد",
-        "title_en": "Iran warns of shift to ‘new doctrine’ and weapons if US strikes resume",
-        "summary": [
-            "وزارت دفاع ایران اعلام کرد در صورت تجدید حملات آمریکا، به «دکترین جدید» و سلاح‌های پیشرفته روی می‌آورد",
-            "این اظهارات پس از انتخابات میانه‌سال آمریکا منتشر شد"
-        ],
-        "impact": "افزایش خطر تشدید درگیری نظامی خاورمیانه",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "Tampa Free Press on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-warns-of-shift-to-new-doctrine-and-weapons-if-us-strikes-resume/ar-AA2gPh3Q?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-warns-of-shift-to-new-doctrine-and-weapons-if-us-strikes-resume/ar-AA2gPh3Q",
-        "image": "https://www.bing.com/th?id=ONUT.87xzFJmCRPmh85eEanXGjQ",
-        "timestamp": 1793816023.0
-    },
-    {
-        "id": "84e2371b7b",
-        "title_fa": "ایران به سمت سلاح هسته‌ای پیش می‌رود: خط قرمز جدید",
-        "title_en": "Iran is slowly crossing a red line that seems unthinkable: Tehran looks more and more likely to want nuclear weapons",
-        "summary": [
-            "مقامات و علمای ایرانی به‌صراحت خواستار سلاح هسته‌ای شده‌اند",
-            "حذف فتوا و عدم نظارت آژانس بین‌المللی، نشانگر ریسک جدی جهانی است"
-        ],
-        "impact": "اگر ایران به سلاح هسته‌ای برسد، تعادل قدرت جهانی به‌طرز چشمگیری تغییر می‌کند",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "National Security Journal",
-        "url": "https://www.msn.com/en-us/news/other/iran-is-slowly-crossing-a-red-line-that-seems-unthinkable-tehran-looks-more-and-more-likely-to-want-nuclear-weapons/ar-AA2gLgGV",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-slowly-crossing-a-red-line-that-seems-unthinkable-tehran-looks-more-and-more-likely-to-want-nuclear-weapons/ar-AA2gLgGV",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1StRI0.img?w=1280&h=853&m=4&q=88",
-        "timestamp": 1793811555.0
-    },
-    {
-        "id": "5228499d94",
-        "title_fa": "جنگ ایران، شکست جمهوری‌خواهان و فشار بر پنتاگون",
-        "title_en": "'Knives out' at Pentagon after unpopular Iran war dooms GOP in midterms",
-        "summary": [
-            "جنگ ایران‑آمریکا باعث شد رأی‌دهندگان GOP را رها کنند",
-            "مقامات نظامی چون وزیر دفاع در معرض انتقاد شدید قرار گرفتند",
-            "ریسک تداوم تنش‌های نظامی به‌دلیل ضعف سیاسی افزایش یافت"
-        ],
-        "impact": "نقض اعتماد نظامی‑سیاسی می‌تواند تنش‌های نظامی با ایران را تشدید کند",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/knives-out-at-pentagon-after-unpopular-iran-war-dooms-gop-in-midterms/ar-AA2gMwLI",
-        "clean_url": "https://www.msn.com/en-us/news/other/knives-out-at-pentagon-after-unpopular-iran-war-dooms-gop-in-midterms/ar-AA2gMwLI",
-        "image": "http://www.bing.com/th?id=ONUT.WpdrP-8cZbgzteTDoEXiZg&pid=News",
-        "timestamp": 1793809404.0
     }
 ]
