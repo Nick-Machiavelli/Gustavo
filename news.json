@@ -57,6 +57,24 @@
         "timestamp": 1794437883.2182713
     },
     {
+        "id": "b6615857a8",
+        "title_fa": "ایران خواستار محکوم‌کردن جایزه ۲۰ میلیون دلاری آمریکا",
+        "title_en": "Iran Seeks UN Condemnation of $20 Million US Bounty for Nuclear Information",
+        "summary": [
+            "ایران به سازمان ملل و آژانس بین‌المللی انرژی اتمی درخواست کرد تا جایزه ۲۰ میلیون دلاری آمریکا برای اطلاعات هسته‌ای را محکوم کنند",
+            "این اقدام نشان می‌دهد تهران به تهدیدهای جاسوسی و هدف قرار گرفتن دانشمندان حساس واکنش تند دارد"
+        ],
+        "impact": "فشار دیپلماتیک بر ایالات متحده افزایش می‌یابد و ممکن است برنامه‌های اطلاعاتی مرتبط با هسته را محدود کند",
+        "tag": "جاسوسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "ainvest",
+        "url": "https://www.ainvest.com/news/iran-seeks-condemnation-20-million-bounty-nuclear-information-2611/",
+        "clean_url": "https://www.ainvest.com/news/iran-seeks-condemnation-20-million-bounty-nuclear-information-2611",
+        "image": "https://cdn.ainvest.com/aigc/hxcmp/images/compress-qwen_generated_1794431495364.jpg.png",
+        "timestamp": 1794432360.0
+    },
+    {
         "id": "58a002de21",
         "title_fa": "غالب، استراتژی هورموز پس از جنگ را تغییر می‌داند",
         "title_en": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
@@ -74,6 +92,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGxvd2hwTGtyaGlUa3hIS3BUSkdPYXJVNUd2Wnl1V0M1enhlSVdnUU9UN091S0JPLThfTTk3QVkwUmhPR212enhUWDUxRGdqZ0RtVXVJY3Ruc0podzdET0QtX0VCbGMwRzY5ZHMtTEQtMHNSaGtVQmVueGdCWTJ1SXFTVUlZRzVzZXdDUTZwcXo3cHdyTzlfS3gyTzMySDBmNlctcHNR0gGrAUFVX3lxTE9ETk94YXFQVXpLTFZnMUFLWDJEYWlLR2pDSkkyUTdtSFNKcXdfQUtHUkNTcnBNc05LYk4xR09nZ0ctUDVvakxYejhwT18xVURRUHA3TUdWLWpIOUVpTnFkQmRFWXhaaWpadTNOLVpxdTMzUUl6OVhuQ25sSmRUMXJfMmJiTEtHbFpMSzVaNXpTU1lRTlkwWmFyUHZQb2Q5TENUMUh1ejZVZS1jVQ",
         "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794431163.0
+    },
+    {
+        "id": "c1611d52b1",
+        "title_fa": "ایران رد انتقال اورانیوم غنی به روسیه",
+        "title_en": "Iran just declared a new nuclear red line: Tehran won't transfer its enriched uranium abroad",
+        "summary": [
+            "ایران به روسیه گفت اورانیوم غنی را به‌دست خود نگه می‌دارد و از هرگونه تحویل به خارج خودداری می‌کند",
+            "این موضع مانع استفاده روسیه از اورانیوم برای کاهش تنش‌های هسته‌ای می‌شود و فشار تحریم‌ها را ادامه می‌دهد"
+        ],
+        "impact": "تحریم‌های آمریکا ادامه می‌یابد و مذاکرات هسته‌ای با روسیه دچار مانع می‌شود",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "National Security Journal",
+        "url": "https://www.msn.com/en-us/news/other/iran-just-declared-a-new-nuclear-red-line-tehran-won-t-transfer-its-enriched-uranium-abroad/ar-AA2hfb7B",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-just-declared-a-new-nuclear-red-line-tehran-won-t-transfer-its-enriched-uranium-abroad/ar-AA2hfb7B",
+        "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794422945.0
     },
     {
         "id": "4c9294d20a",
@@ -5531,43 +5567,5 @@
         "clean_url": "https://home.treasury.gov/news/press-releases/sb0686",
         "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
         "timestamp": 1793995500.0
-    },
-    {
-        "id": "38719b3821",
-        "title_fa": "فین‌سن دسترسی MEXC به سیستم مالی آمریکا را قطع کرد",
-        "title_en": "Operation Economic Outcast Severs MEXC Global's Access to the U.S. Financial System",
-        "summary": [
-            "فین‌سن دستور داد تمام مؤسسات مالی آمریکا از انتقال پول به MEXC جلوگیری کنند",
-            "این اقدام بر پایهٔ کشف ۱۶ میلیارد دلار تراکنش‌های غیرقانونی، شامل تخلف‌های تحریمی ایران، است",
-            "قطع دسترسی MEXC به سیستم مالی آمریکا فشار اقتصادی بر رژیم را تقویت می‌کند"
-        ],
-        "impact": "قطع دسترسی MEXC به بانک‌های آمریکا، یک لوله مهم پولی برای ایران را می‌بندد",
-        "tag": "مالی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "U.S. Department of the Treasury",
-        "url": "https://home.treasury.gov/news/press-releases/sb0685/",
-        "clean_url": "https://home.treasury.gov/news/press-releases/sb0685",
-        "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
-        "timestamp": 1793995200.0
-    },
-    {
-        "id": "393184a44e",
-        "title_fa": "آموس هوخستین احتمال بازگشت به درگیری در ایران را می‌گوید",
-        "title_en": "'Very good chance' we go back to conflict in Iran, says fmr. WH senior advisor Amos Hochstein",
-        "summary": [
-            "آموس هوخستین، مشاور ارشد پیشین دولت، احتمال «بازگشت به درگیری» در ایران را «بسیار زیاد» توصیف کرد",
-            "او اشاره کرد که تحریم‌های جدید و عدم پیشرفت مذاکرات می‌تواند به‌سرعت به‌عملیاتی شدن گزینه نظامی منجر شود",
-            "این اظهارات می‌تواند فشار بین‌المللی برای یافتن راه حل دیپلماتیک را افزایش دهد"
-        ],
-        "impact": "اظهارات هوخستین می‌تواند تصمیم‌گیری‌های نظامی آمریکا را تسریع کند",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGFNMHIwMERqbmUwWlhOLWtRYXNUR1lUM0pfRGUzNm1kYVJTRnhvWFVxYmxhdlFBVnJ6eVdJV0NaTmNZQno0bkdHRzM4a2VmMXN4dWF5cThycVhoUkNxVFdoWnlKMGVQYXFvLVZodkJWU1dVMllHdE1VMXhTeXc1T2dTNHUxaDZzaHM5ZldncE5vX1JwNm90VmpQVDFnVW00RHlrNWdzendJSlJ4bXNmc2pSRm5aSGJtTUVmbXd5NnEwOW9md3VsclRKemw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGFNMHIwMERqbmUwWlhOLWtRYXNUR1lUM0pfRGUzNm1kYVJTRnhvWFVxYmxhdlFBVnJ6eVdJV0NaTmNZQno0bkdHRzM4a2VmMXN4dWF5cThycVhoUkNxVFdoWnlKMGVQYXFvLVZodkJWU1dVMllHdE1VMXhTeXc1T2dTNHUxaDZzaHM5ZldncE5vX1JwNm90VmpQVDFnVW00RHlrNWdzendJSlJ4bXNmc2pSRm5aSGJtTUVmbXd5NnEwOW9md3VsclRKemw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793993338.0
     }
 ]
