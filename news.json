@@ -1,5 +1,81 @@
 [
     {
+        "id": "83ba535453",
+        "title_fa": "تشویق هوش مصنوعی، ترس از افزایش نرخ بهره را زدود",
+        "title_en": "Trading Day: AI cheer banishes rate hike fear",
+        "summary": [
+            "سهام آمریکا پس از خبرهای مثبت هوش مصنوعی به‌سریع صعود کرد",
+            "بازار اروپا نیز با رکورد بسته شدن روز خود مواجه شد",
+            "این خوش‌بینی احتمالاً فشار بر تصمیمات نرخ بهره را کاهش می‌دهد"
+        ],
+        "impact": "کاهش احتمال افزایش نرخ بهره توسط فدرال رزرو",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "Central Oregon Daily",
+        "url": "https://www.centraloregondaily.com/news/consumer/trading-day-ai-cheer-banishes-rate-hike-fear/article_f77fa9ab-9c52-51c0-adc0-4d514b47c199.html",
+        "clean_url": "https://www.centraloregondaily.com/news/consumer/trading-day-ai-cheer-banishes-rate-hike-fear/article_f77fa9ab-9c52-51c0-adc0-4d514b47c199.html",
+        "image": "https://www.bing.com/th?id=ONUT.X75do-jKBbj7pdZpCsYH9w",
+        "timestamp": 1794437883.2197802
+    },
+    {
+        "id": "4134bb22a7",
+        "title_fa": "راه‌های کرانه با سیستم آپارتاید اسرائیل مسدود می‌شوند",
+        "title_en": "How Israel has engineered a system of apartheid on West Bank roads",
+        "summary": [
+            "هر روز ساعت ۴ بعدازظهر خروجی‌های رم‌الله و ال‑بیره به ترافیک سنگین تبدیل می‌شود",
+            "موانع فیزیکی و چک‌پوینت‌ها به‌صورت هدفمند برای اولویت‌دادن به مستوطنین اسرائیلی طراحی شده‌اند",
+            "این ساختار نه برای امنیت، بلکه برای جداسازی نژادی به کار می‌رود"
+        ],
+        "impact": "تقویت نارضایتی فلسطینیان و فشار بین‌المللی بر سیاست‌های اسرائیل",
+        "tag": "حقوق بشر",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/opinion/how-israel-has-engineered-system-apartheid-west-bank-roads",
+        "clean_url": "https://www.middleeasteye.net/opinion/how-israel-has-engineered-system-apartheid-west-bank-roads",
+        "image": "https://www.bing.com/th?id=ONUT.6Ix5Blro9HmAgyhSSMa_Gg",
+        "timestamp": 1794437883.2188683
+    },
+    {
+        "id": "2f6d5f9176",
+        "title_fa": "آتش‌بس به نفع تهران می‌تواند جنگ بعدی را آماده کند",
+        "title_en": "It Matters How the Iran War Ends",
+        "summary": [
+            "پایان جنگ با شرایط مطلوب برای ایران می‌تواند زمینه‌ساز درگیری جدید شود",
+            "تحلیل‌گران هشدار می‌دهند این مسیر به تداوم ناآرامی منطقه منجر می‌شود",
+            "نیاز به تنظیم دقیق مذاکرات برای جلوگیری از چرخهٔ جنگی است"
+        ],
+        "impact": "تشکیل زمینه برای تداوم تنش‌های نظامی در خاورمیانه",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/opinion/it-matters-how-the-iran-war-ends-a739f2ce",
+        "clean_url": "https://www.wsj.com/opinion/it-matters-how-the-iran-war-ends-a739f2ce",
+        "image": "https://www.bing.com/th?id=ONUT.Q-4QaK4E1ceogS0bsbxcMw",
+        "timestamp": 1794437883.2182713
+    },
+    {
+        "id": "58a002de21",
+        "title_fa": "غالب، استراتژی هورموز پس از جنگ را تغییر می‌داند",
+        "title_en": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+        "summary": [
+            "رئیس‌جمهور ارشد مجلس ایران اعلام کرد که تنگه هورموز به وضعیت پیشین بازنخواهد گشت",
+            "این اظهارات نشان‌دهنده تغییر استراتژی ژئوپولیتیک ایران در مسیر انرژی است",
+            "احتمال محدود شدن عبور کشتی‌های تجاری بین‌المللی افزایش می‌یابد"
+        ],
+        "impact": "اختلال در حمل و نقل نفت و گاز جهانی، فشار بر قیمت انرژی",
+        "tag": "انرژی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGxvd2hwTGtyaGlUa3hIS3BUSkdPYXJVNUd2Wnl1V0M1enhlSVdnUU9UN091S0JPLThfTTk3QVkwUmhPR212enhUWDUxRGdqZ0RtVXVJY3Ruc0podzdET0QtX0VCbGMwRzY5ZHMtTEQtMHNSaGtVQmVueGdCWTJ1SXFTVUlZRzVzZXdDUTZwcXo3cHdyTzlfS3gyTzMySDBmNlctcHNR0gGrAUFVX3lxTE9ETk94YXFQVXpLTFZnMUFLWDJEYWlLR2pDSkkyUTdtSFNKcXdfQUtHUkNTcnBNc05LYk4xR09nZ0ctUDVvakxYejhwT18xVURRUHA3TUdWLWpIOUVpTnFkQmRFWXhaaWpadTNOLVpxdTMzUUl6OVhuQ25sSmRUMXJfMmJiTEtHbFpMSzVaNXpTU1lRTlkwWmFyUHZQb2Q5TENUMUh1ejZVZS1jVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGxvd2hwTGtyaGlUa3hIS3BUSkdPYXJVNUd2Wnl1V0M1enhlSVdnUU9UN091S0JPLThfTTk3QVkwUmhPR212enhUWDUxRGdqZ0RtVXVJY3Ruc0podzdET0QtX0VCbGMwRzY5ZHMtTEQtMHNSaGtVQmVueGdCWTJ1SXFTVUlZRzVzZXdDUTZwcXo3cHdyTzlfS3gyTzMySDBmNlctcHNR0gGrAUFVX3lxTE9ETk94YXFQVXpLTFZnMUFLWDJEYWlLR2pDSkkyUTdtSFNKcXdfQUtHUkNTcnBNc05LYk4xR09nZ0ctUDVvakxYejhwT18xVURRUHA3TUdWLWpIOUVpTnFkQmRFWXhaaWpadTNOLVpxdTMzUUl6OVhuQ25sSmRUMXJfMmJiTEtHbFpMSzVaNXpTU1lRTlkwWmFyUHZQb2Q5TENUMUh1ejZVZS1jVQ",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794431163.0
+    },
+    {
         "id": "4c9294d20a",
         "title_fa": "دموکرات‌ها باید با ترامپ توافقی بسازند",
         "title_en": "Democrats must build consensus with Donald Trump",
@@ -202,6 +278,25 @@
         "clean_url": "https://www.jns.org/opinion/khosro-isfahani/how-to-finish-the-iran-job",
         "image": "https://static.jns.org/dims4/default/27972c5/2147483647/strip/true/crop/5500x3094+0+518/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2Fc2%2Fed48eb5244bb9307eb83c168bf8a%2Fwomen-life-freedom-iran.jpg",
         "timestamp": 1794396600.0
+    },
+    {
+        "id": "ea9525aca0",
+        "title_fa": "ونس ممکن است با سختگیر ایرانی گفتگو مستقیم داشته باشد",
+        "title_en": "Vance considers direct talks with Iran hardliner in push to end war",
+        "summary": [
+            "معاون رئیس‌جمهور آمریکا قصد دارد با یک سختگیر ایرانی مذاکره کند",
+            "این قدم می‌تواند مسیر صلح‌جویی را در روابط آمریکا‑ایران تغییر دهد",
+            "برخی مقامات این اقدام را سیاسی‌پرخطر می‌دانند"
+        ],
+        "impact": "احتمال تغییر دیپلماسی آمریکا در قبال ایران",
+        "tag": "دیپلماتیک",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war/ar-AA2heJuh",
+        "clean_url": "https://www.msn.com/en-us/news/other/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war/ar-AA2heJuh",
+        "image": "http://www.bing.com/th?id=ONUT.l7NdieW7CNXd1ed9krjkFQ&pid=News",
+        "timestamp": 1794396300.0
     },
     {
         "id": "28f9d39fb9",
@@ -443,6 +538,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajRrYnZOVnNFRkc1QjlfT0ZSLVU1WTVCSFFiOTFHUDU1SmRJei1OTzVPUi0zbGtONnlrTXJoTjNtNUw0X2ZXRVlTR2hVRVdrSHEzODdFcVFTLUk1VkRVRHN4T3NFMmpBakdqTU9KTk42MFZzN3hXWnRGUUFwM3J1d0xzZ01xOTV5c0xidGs0NmN3TDZYX1VpV19VaUlQd3I1aV9uOUNzbFRsTDBOVmxCMVZYT213emxoRmFLNERKc3TSAccBQVVfeXFMT2ZDZHgwcWM0ZE9WUllPR053QkNXQlBlSHlpZENQOUdDa2tXSW1nZy1aS3d0MHhGWE0tOWF4RVoyREY1UEpaeHF3QlFlSGR1Vy1IeHJBTjBCdFVGdjNBRVFtUy1kcExKR3VHbi10d1U5UWVxYjVpTUlEQVFJZW8yVDV0NXBNcmpFLXJvbXVhOHk5WE9KTHBsRTV6bVVvZzBYM3pvMWZHZ0ZtM0p3dm9TNWczeUhvLW1SZFRHcVhDUkRyV3hxS2gyUQ",
         "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794364571.0
+    },
+    {
+        "id": "0e16f62552",
+        "title_fa": "ایران اجازه خروج مواد غنی‌شده هسته‌ای نمی‌دهد",
+        "title_en": "Iran will not allow enriched nuclear material to leave the country, security chief says",
+        "summary": [
+            "مسئول امنیت ایران به‌صراحت گفت هیچ ذره‌ای از مواد غنی‌شده خارج نمی‌شود",
+            "در صورت حمله جدید آمریکا، پیامدهای جدی پیش‌بینی می‌شود",
+            "این موضع خطر تشدید تنش هسته‌ای را افزایش می‌دهد"
+        ],
+        "impact": "افزایش خطر تصعید هسته‌ای و فشار دیپلماتیک بر آمریکا",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-will-not-allow-enriched-nuclear-material-leave-country-security-chief-says-2026-11-11/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iran-will-not-allow-enriched-nuclear-material-leave-country-security-chief-says-2026-11-11",
+        "image": "http://www.bing.com/th?id=ONUT.SfQQb6ATUM3vqschGPu8cg&pid=News",
+        "timestamp": 1794363960.0
     },
     {
         "id": "1c28ff7cc1",
@@ -5455,115 +5569,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGFNMHIwMERqbmUwWlhOLWtRYXNUR1lUM0pfRGUzNm1kYVJTRnhvWFVxYmxhdlFBVnJ6eVdJV0NaTmNZQno0bkdHRzM4a2VmMXN4dWF5cThycVhoUkNxVFdoWnlKMGVQYXFvLVZodkJWU1dVMllHdE1VMXhTeXc1T2dTNHUxaDZzaHM5ZldncE5vX1JwNm90VmpQVDFnVW00RHlrNWdzendJSlJ4bXNmc2pSRm5aSGJtTUVmbXd5NnEwOW9md3VsclRKemw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1793993338.0
-    },
-    {
-        "id": "75f7210f4c",
-        "title_fa": "ادعای نابودی برنامه هسته‌ای ایران توسط ترامپ، واقعیت‌سنجی شد",
-        "title_en": "Trump’s ‘Obliterated’ Nuke Boast Faces Brutal Reality Check",
-        "summary": [
-            "ترامپ بارها ادعا کرد برنامه هسته‌ای ایران را «نابود» کرده است.",
-            "سازمان فرماندهی مرکزی ایالات متحده برای یافتن اطلاعات درباره تأسیسات و تجهیزات هسته‌ای پست کرد.",
-            "وزارت خارجه جایزه‌ای تا ۲۰ میلیون دلار برای هر اطلاعات مفید اعلام کرد.",
-            "این اقدام‌ها نشان می‌دهد برنامه هسته‌ای هنوز فعال است و ادعای ترامپ بی‌پایه است."
-        ],
-        "impact": "افزایش فشار نظامی و تحریم‌های جدید علیه ایران در پیش است.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Daily Beast",
-        "url": "https://www.thedailybeast.com/trumps-obliterated-nuke-boast-faces-brutal-reality-check",
-        "clean_url": "https://www.thedailybeast.com/trumps-obliterated-nuke-boast-faces-brutal-reality-check",
-        "image": "https://www.bing.com/th?id=ONUT.kS9FpE39-xk28Mt3bx31FA",
-        "timestamp": 1793991542.0
-    },
-    {
-        "id": "488b2dd481",
-        "title_fa": "ایران به تاکتیک‌های چریکی در تلاش برای تثبیت مجدد تنگه هرمز روی می‌آورد",
-        "title_en": "Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz",
-        "summary": [
-            "Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz WSJ"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0NDalZkZFhSSHNoLW9LRnRFdFVQVUFQaUVZRkdwSzliM2k3RHh2VnAwTk84Uy0zTmlzQUttejQ3cjl4bXEyNHQxYWlBWlRpTEota1JVT0trQS03cUJqVGNPRFhPSEEtT0V3bEpOZmlPYXF0bHFydWt0V3ZlWkFqQ1F4ZUllZXlKbndnUFhoUEMtS1RIdWNzbGx0V3Z1dVIzTUFXQWw5UU1fZWI2ZE0xUUlzYWh4NG11N1Jza3ZLUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0NDalZkZFhSSHNoLW9LRnRFdFVQVUFQaUVZRkdwSzliM2k3RHh2VnAwTk84Uy0zTmlzQUttejQ3cjl4bXEyNHQxYWlBWlRpTEota1JVT0trQS03cUJqVGNPRFhPSEEtT0V3bEpOZmlPYXF0bHFydWt0V3ZlWkFqQ1F4ZUllZXlKbndnUFhoUEMtS1RIdWNzbGx0V3Z1dVIzTUFXQWw5UU1fZWI2ZE0xUUlzYWh4NG11N1Jza3ZLUQ",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793991261.0
-    },
-    {
-        "id": "21dbdab763",
-        "title_fa": "گفتگوهای ایران و آمریکا نشانه هایی از پیشرفت را نشان می‌دهد، حتی در حالی که ترامپ در حال بررسی حملات مجدد است",
-        "title_en": "US-Iran talks show signs of progress even as Trump weighs renewed strikes",
-        "summary": [
-            "US-Iran talks show signs of progress even as Trump weighs renewed strikes The Times of Israel"
-        ],
-        "impact": "...",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjA3Q1BhbURndWpNWDRLRFB4Y3BsMVpOQjRTRDdDeWhicmVDa2o4MGVZREszSGNCa2pvRC1rM09QWTJ2TEV3aUxITy1OMTlDNHVNWmw4SjlYTHBsMFAtc3d1clkwX01qUjlqV1ZLQmxoMG1OUng1TzAxTE01dHlMelhlVlBKdVpQNnF5STJWTTBZQ0xLU0pHZmYxVURPVW5EQjhwTTE0d9IBrAFBVV95cUxQSUpvQVRXbDJvaVY0MDdFd0U3SkgxQVF1enNvM3hBeEdtMzdld2pCNU05anE1VUdUS2FEdERPMzlBR0V0RzZqR2RhbGp0RndQazBld1ZrTF8zSUpERzVQSTNwWFZoQVVYWUg2WHpzVGEtZ1RxUGlGSjY3b3NxUGxVZGhaZ2RiNzYteUZxQkM2U3FQRllodFpwVUgzSXZkaGFzcDJWLUppWmZ5TG5U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjA3Q1BhbURndWpNWDRLRFB4Y3BsMVpOQjRTRDdDeWhicmVDa2o4MGVZREszSGNCa2pvRC1rM09QWTJ2TEV3aUxITy1OMTlDNHVNWmw4SjlYTHBsMFAtc3d1clkwX01qUjlqV1ZLQmxoMG1OUng1TzAxTE01dHlMelhlVlBKdVpQNnF5STJWTTBZQ0xLU0pHZmYxVURPVW5EQjhwTTE0d9IBrAFBVV95cUxQSUpvQVRXbDJvaVY0MDdFd0U3SkgxQVF1enNvM3hBeEdtMzdld2pCNU05anE1VUdUS2FEdERPMzlBR0V0RzZqR2RhbGp0RndQazBld1ZrTF8zSUpERzVQSTNwWFZoQVVYWUg2WHpzVGEtZ1RxUGlGSjY3b3NxUGxVZGhaZ2RiNzYteUZxQkM2U3FQRllodFpwVUgzSXZkaGFzcDJWLUppWmZ5TG5U",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793990904.0
-    },
-    {
-        "id": "684ba097f5",
-        "title_fa": "آمریکا حملات محدود به سامانه‌های دفاع هوایی ایران",
-        "title_en": "US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals",
-        "summary": [
-            "ترامپ اعلام کرد نیروی هوایی آمریکا به هدف‌های دفاع هوایی در جزیره قشم ضربه زد.",
-            "رسانه‌های دولتی ایران انفجارهایی را در همان جزیره گزارش دادند.",
-            "حملات به صورت «محدود» توصیف شد اما نشان‌دهنده توان عملیاتی آمریکا در منطقه است."
-        ],
-        "impact": "کاهش موقت توان دفاع هوایی ایران و تشدید تنش‌های نظامی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "The Edwardsville Intelligencer on MSN",
-        "url": "https://www.msn.com/en-us/news/other/us-military-carries-out-new-targeted-strikes-on-iran-as-tehran-s-leaders-weigh-mediator-s-proposals/ar-AA2gV8JI",
-        "clean_url": "https://www.msn.com/en-us/news/other/us-military-carries-out-new-targeted-strikes-on-iran-as-tehran-s-leaders-weigh-mediator-s-proposals/ar-AA2gV8JI",
-        "image": "http://www.bing.com/th?id=ONUT.Utfhg9LI6d9-tJijtcPuCg&pid=News",
-        "timestamp": 1793988775.0
-    },
-    {
-        "id": "385806f11a",
-        "title_fa": "پیشنهاد ۲۰ میلیون دلار برای اطلاعات هسته‌ای و حمله آمریکا",
-        "title_en": "Live Updates: U.S. offers $20 million for information on Iran's nuclear program, as Trump confirms \"minor\" strike",
-        "summary": [
-            "آمریکا تا ۲۰ میلیون دلار و امکان جابجایی برای هر کسی که جزئیات دقیق برنامه هسته‌ای ایران بدهد، پاداش می‌دهد.",
-            "ترامپ تأیید کرد که نیروی هوایی آمریکا ضربات جزئی علیه هدفی در جزیره قشم انجام داده.",
-            "مرکز فرماندهی یک نیروی ویژه به نام «دروازه آهنین» برای مسدود کردن مسیرهای زمینی و دریایی تجارت ایران تشکیل کرد.",
-            "ترکیب پاداش اطلاعاتی، ضربه نظامی و مسدودسازی تجاری فشار بر ایران را به‌طور قابل‌توجهی افزایش می‌دهد."
-        ],
-        "impact": "ایران با تهدید جدی برای اطلاعات حساس و مسیرهای تجاری‌اش مواجه می‌شود.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/06/1a5f299e-5aa8-4d20-95a6-6171b6505569/thumbnail/1200x630/23a52a1be3d002a28eb9751cdf483a03/gettyimages-2303012797.jpg",
-        "timestamp": 1793985960.0
-    },
-    {
-        "id": "3454296a20",
-        "title_fa": "در حالی که ترامپ حملات ایران را می‌سنجید، گشایش احتمالی هسته‌ای ظاهر می‌شود",
-        "title_en": "As Trump weighs Iran strikes, possible nuclear opening emerges",
-        "summary": [
-            "As Trump weighs Iran strikes, possible nuclear opening emerges Al-Monitor"
-        ],
-        "impact": "...",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Al-Monitor",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdqSVpGZ3h3WmZrN3J0SWxWMWZsek8zRURDMFV2YWtPQ1FEX2R0MWNCM0ZJR0pGdllGUThNV1NyMWZqSnZXUmFKOGZJU1Z4a1pFUEtqRWFNQjE2UElWVFREU1piWGNWRlVBUF93QkRueXY0NTI4elpNdWFJa2dpUVF0M1BHMHNxVEJlTDBweW1LOUVZcUR5MGZ6ODloOHBVQUZRdWtR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdqSVpGZ3h3WmZrN3J0SWxWMWZsek8zRURDMFV2YWtPQ1FEX2R0MWNCM0ZJR0pGdllGUThNV1NyMWZqSnZXUmFKOGZJU1Z4a1pFUEtqRWFNQjE2UElWVFREU1piWGNWRlVBUF93QkRueXY0NTI4elpNdWFJa2dpUVF0M1BHMHNxVEJlTDBweW1LOUVZcUR5MGZ6ODloOHBVQUZRdWtR",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1793985940.0
     }
 ]
