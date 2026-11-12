@@ -1,5 +1,23 @@
 [
     {
+        "id": "6e2ec4b014",
+        "title_fa": "خطای دسترسی به مقاله نتانیاهو",
+        "title_en": "Netanyahu’s January 6 Moment",
+        "summary": [
+            "دسترسی به مقاله درباره نتانیاهو به‌دلیل فیلتر Cloudflare مسدود شد.",
+            "اطلاعات واقعی مقاله در دسترس نیست؛ نمی‌توان تحلیل دقیق ارائه داد."
+        ],
+        "impact": "عدم دسترسی به محتوا مانع تحلیل دقیق می‌شود",
+        "tag": "دسترسی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/international/2026/11/netanyahu-election-denial-israel/689386/",
+        "clean_url": "https://www.theatlantic.com/international/2026/11/netanyahu-election-denial-israel/689386",
+        "image": "https://www.bing.com/th?id=ONUT.fkBDhiFtf10r9tgFs6mniQ",
+        "timestamp": 1794488423.9869745
+    },
+    {
         "id": "cbb7c38b78",
         "title_fa": "سوریه طرح حمله به پالایشگاه حمص را خنثی کرد",
         "title_en": "Damascus is fighting Hezbollah, too",
@@ -98,6 +116,24 @@
         "timestamp": 1794481500.0
     },
     {
+        "id": "6330d5705f",
+        "title_fa": "وینس: جنگ ایران سبب شکست جمهوری‌خواهان؛ ترامپ تکرار می‌کند",
+        "title_en": "Vance blames Iran war for Republicans' midterms defeat. Trump says he would 'do it again' - ABC News",
+        "summary": [
+            "وینس می‌گوید جنگ ایران عامل شکست حزب جمهوری‌خواه در انتخابات میانی شد.",
+            "ترامپ اعلام کرد اگر دوباره موقعیت پیش آید، همان کار را تکرار می‌کند؛ نشانگر تمایل به فشار نظامی."
+        ],
+        "impact": "تشدید ریسک سیاسی برای حزب جمهوری‌خواه و احتمال بازگشت سیاست‌های تند نظامی",
+        "tag": "سیاست-آمریکا",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUF1ZW4zbmtvMzFJYkIyWnBjM3dZbWJ0Yk5uUURJQ3E5UEg2NUUwT3B6dy1vSXBrLTFKbE5BOWt3RldIb0dwNzVqb3hfNEtnOXBiYzc1X2FTTkk0eU5rOXZPWVRxdEROUjRfbVY5WlFVM2FuenJ1QWxJc2lRLXdFc2hQSUxjdjltUDc3X01HS3FTcGhMMnZnWDgtX0J2d21JOVFfRTBR0gGrAUFVX3lxTFB6NGhGWlhYeTlUWGFUd19PR1UxUEpDSGd6VmNFWnk4dUtHWmVEeVF2VGYtYjRhbzdwVVN6MXBwVGIyekhWc1RLVkFjQ2tJTmZMLWZQY3hvalRIYmNVbUFyT3hzR2ZvQWZJalE3eTBVV3phVTY5VEo4RldqVzRhRF9SRnV2UFVBUG9fZVFKMzlpd0RhaGlqa3NBcWlycnRJQUZkU1E3NTU0VVRFOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUF1ZW4zbmtvMzFJYkIyWnBjM3dZbWJ0Yk5uUURJQ3E5UEg2NUUwT3B6dy1vSXBrLTFKbE5BOWt3RldIb0dwNzVqb3hfNEtnOXBiYzc1X2FTTkk0eU5rOXZPWVRxdEROUjRfbVY5WlFVM2FuenJ1QWxJc2lRLXdFc2hQSUxjdjltUDc3X01HS3FTcGhMMnZnWDgtX0J2d21JOVFfRTBR0gGrAUFVX3lxTFB6NGhGWlhYeTlUWGFUd19PR1UxUEpDSGd6VmNFWnk4dUtHWmVEeVF2VGYtYjRhbzdwVVN6MXBwVGIyekhWc1RLVkFjQ2tJTmZMLWZQY3hvalRIYmNVbUFyT3hzR2ZvQWZJalE3eTBVV3phVTY5VEo4RldqVzRhRF9SRnV2UFVBUG9fZVFKMzlpd0RhaGlqa3NBcWlycnRJQUZkU1E3NTU0VVRFOA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794481493.0
+    },
+    {
         "id": "00190f2bc4",
         "title_fa": "ترامپ جنگ ایران و ضد‑اسرائیل را مقصر شکست می‌داند",
         "title_en": "Trump Blames Anti-Israel Sentiment, Iran War for Republican Midterm Losses",
@@ -116,6 +152,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHBWZnRLZjVsamRXY3VQSzRCd214eGlQSWNqOVk1YXZPajBJdmlxdzJRcFFGSXJsbXV5b1BsU2Z4a1VqNHZ2X180SjZDNGtYb2JuM1k5OW9Dbi15S1lfQjVMN3J4SmI4T3NLaFJobEZGbHFpVWIwdGdJTmt3TFpGQWhDZkhMY3d0TG1xMktnS09vaUxEbDRfWjlpazZyRkFqRmc",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794476168.0
+    },
+    {
+        "id": "680142df7b",
+        "title_fa": "جنگ ایران 2026: نفت، هرمز و جبهه‌ها",
+        "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+        "summary": [
+            "جنگ 2026 بین ایران، ایالات متحده و اسرائیل، به‌ویژه در خلیج هرمز، در نقشه‌ها به‌صورت گسترده نشان داده شده.",
+            "بحران نفت باعث نوسان شدید قیمت جهانی و تهدید امنیت انرژی شد."
+        ],
+        "impact": "افزایش بی‌ثباتی قیمت انرژی و نگرانی‌های امنیتی در خاورمیانه",
+        "tag": "جنگ",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794475235.0
     },
     {
         "id": "ed3b1eea77",
@@ -657,6 +711,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCYVRxVHdXS2I0WWlWam93NzhydHhvZnRPWUN6ZEZySlF1WGp6a1JDWVNPal9hVmFYbEdNWlVyclgwN0lOZC1hZVR6Z2R1M3pUQW5LRjRZSlVYZndYaDNzbDVtNEF5UmZwbFNoNzB4NnNzSnJQdkpDM9IBfkFVX3lxTE52RGRYcHhoaW9LZFhuZHc4N2ZocFVUcGZlYXZSM21ZYmR2a25odXBneUo5ZW5tNnZ1SEFOdzZNLS1pYXhtai1kd2cxTUI4SjIyd2trTF9BWk9nVVEzak9UYmRMWHZPMmpOZWhOUnplei1yUlNEbDVrUlhTd25tZw",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794406495.0
+    },
+    {
+        "id": "d68108f3a3",
+        "title_fa": "استراتژی بازار: خلیج هرمز نقطه عطف 2026",
+        "title_en": "The Strait of Hormuz was the biggest game changer for markets in 2026",
+        "summary": [
+            "کنترل خلیج هرمز به‌عنوان مسیر اصلی صادرات نفت، باعث نوسان شدید قیمت‌ها شد.",
+            "سرمایه‌گذاران برای کاهش ریسک، به‌سراغ انرژی‌های جایگزین رفتند.",
+            "تحریم‌های احتمالی می‌تواند فشار بازار را تشدید کند."
+        ],
+        "impact": "نوسان شدید قیمت نفت و تغییر استراتژی سرمایه‌گذاران در بازارهای جهانی",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Yahoo Finance on MSN",
+        "url": "https://www.msn.com/en-us/news/other/the-strait-of-hormuz-was-the-biggest-game-changer-for-markets-in-2026/ar-AA2hhE6P?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/the-strait-of-hormuz-was-the-biggest-game-changer-for-markets-in-2026/ar-AA2hhE6P",
+        "image": "https://www.bing.com/th?id=ONUT.WKK2MXEvibl4zH3UOEnZ9A",
+        "timestamp": 1794402016.0
     },
     {
         "id": "1dd3246e4c",
@@ -5506,81 +5579,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUpka2hLSkx5ODRTeUJaOGtYZ1RvNHNHR3ZsamxQTWhjaWU1RXgySkh3Q0lyWnBCMjRqMHRZeWlJOVVJVkJwa3JmM0s1N2Z5YXdGWlMtTTRzSVcwRUVoYXhPbXYwTEJXT3lHbnlmUDkyaXJUU3hRRHdyUjY5SV96Ym0zcUhMQ190MnJjS1Nra3pwbEV3NnVZbV9uam45N3JiRlowOTVUeW9GRm1mTjNfM1R3",
         "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794052235.0
-    },
-    {
-        "id": "4c174f231f",
-        "title_fa": "کشتی‌نقلیه در تنگه هرمز آتش گرفت؛ مذاکرات میان‌امریکی",
-        "title_en": "US Iran War Live Updates: Oil tanker catches fire in eastern Strait of Hormuz, Iranian Navy says",
-        "summary": [
-            "یک تانکر نفتی در شرق تنگه هرمز به آتش افتاد؛ علت هنوز نامشخص",
-            "معاون رئیس‌جمهور آمریکا، جِی دی ونس، مذاکرات غیرمستقیم با ایران را برای آتش‌بس ادامه می‌دهد",
-            "حضور میانجی‌های قطری و پاکستانی نشان می‌دهد فشار دیپلماتیک در حال افزایش است",
-            "اگر آتش‌سوزی به خسارت بزرگ منجر شود، ممکن است حمله نظامی را تشدید کند"
-        ],
-        "impact": "آتش‌سوزی در هرمز خطر قطع مسیرهای نفتی را بالا می‌برد و فشار دیپلماتیک برای آتش‌بس را تقویت می‌کند",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-houthi-yemen-airstrike-strait-of-hormuz-latest-news/liveblog/135619566.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-khamenei-houthi-yemen-airstrike-strait-of-hormuz-latest-news/liveblog/135619566.cms",
-        "image": "https://static.toiimg.com/thumb/msid-135619566,width-1280,height-720,imgsize-352666,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1794052080.0
-    },
-    {
-        "id": "0aa6a1ef40",
-        "title_fa": "عملیات پیش‌انتخابی نتانیاهو علیه ایران لغو شد",
-        "title_en": "Netanyahu's pre-election Iran operation was dropped after US was tipped off",
-        "summary": [
-            "نتانیاهو پس از دریافت هشدار از آمریکا، عملیات مخفی برای نقشه‌برداری کابل‌های زیرآب را متوقف کرد",
-            "چهار کشتی، از جمله یک تانکر تحت تحریم، مسیرهای غیرعادی در خلیج عمان داشتند؛ این رفتار نشانگر تلاش برای نصب مین یا شناسایی کابل‌هاست",
-            "این شکست نشان می‌دهد اطلاعات آمریکا توانایی مانع‌سازی عملیات اسرائیل را دارد"
-        ],
-        "impact": "عملیات مخفی متوقف شد؛ ایران فرصت کمتری برای دسترسی به زیرساخت‌های مخابراتی بحرانی دارد",
-        "tag": "اطلاعات",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611077632",
-        "clean_url": "https://www.iranintl.com/en/202611077632",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/6f7c928efd7cfe25d7828e026337b3b817f9a644-800x544.jpg?rect=0,62,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1794045720.0
-    },
-    {
-        "id": "fc4f38ea81",
-        "title_fa": "ترامپ: سقوط رژیم تهران هدف اصلی است",
-        "title_en": "President Trump: Forget the midterms and finish the job in Iran",
-        "summary": [
-            "ترامپ می‌گوید پایان جنگ فقط با فروپاشی نظام تهران امکان‌پذیر است",
-            "این اظهارات فشار سیاسی آمریکا را بر علیه ایران تشدید می‌کند"
-        ],
-        "impact": "افزایش تنش‌های دیپلماتیک و احتمال اقدام‌ها نظامی علیه ایران",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.8,
-        "source": "The Hill",
-        "url": "https://thehill.com/opinion/international/6204551-trump-finish-iran-job/",
-        "clean_url": "https://thehill.com/opinion/international/6204551-trump-finish-iran-job",
-        "image": "http://www.bing.com/th?id=ONUT.kz-mtHdZEalqbFnIkFSRrg&pid=News",
-        "timestamp": 1794045660.0
-    },
-    {
-        "id": "99e454d968",
-        "title_fa": "ایالات متحده هشت شرکت کانادایی را به‌دلیل ایران تحریم کرد",
-        "title_en": "US Treasury sanctions eight Canadian firms for Iran financial links",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا هشت شرکت مبادله ارز کانادایی را که به دور زدن تحریم‌های مالی ایران کمک می‌کردند، فهرست کرد",
-            "این تحریم‌ها می‌تواند دسترسی ایران به ارزهای خارجی را سخت‌تر کند",
-            "کانادا ممکن است واکنش دیپلماتیک یا قانونی داشته باشد"
-        ],
-        "impact": "کاهش توان مالی ایران برای خرید تجهیزات و فشار بر اقتصاد",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Newspoint",
-        "url": "https://www.msn.com/en-in/news/other/us-treasury-sanctions-eight-canadian-firms-for-iran-financial-links/ar-AA2gVRxg",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-treasury-sanctions-eight-canadian-firms-for-iran-financial-links/ar-AA2gVRxg",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gWLtE.img?w=640&h=427&m=4&q=100",
-        "timestamp": 1794040925.0
     }
 ]
