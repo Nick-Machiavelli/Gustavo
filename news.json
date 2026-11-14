@@ -1,5 +1,59 @@
 [
     {
+        "id": "0dd2b76126",
+        "title_fa": "امارات در هورموز ریسک بزرگ انرژی را می‌پذیرد",
+        "title_en": "Bet on the losing horse: Abu Dhabi's gamble in Hormuz",
+        "summary": [
+            "امارات با سرمایه‌گذاری در مسیر جنوب هورموز سعی کرد وابستگی به تنگه را کاهش دهد.",
+            "هزینه‌های سنگین و عدم موفقیت عملیاتی نشان داد ریسک این طرح بسیار بالا است."
+        ],
+        "impact": "شکست طرح امارات می‌تواند فشار بر قیمت نفت خلیج را کاهش کند.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/532141/Bet-on-the-losing-horse-Abu-Dhabi-s-gamble-in-Hormuz",
+        "clean_url": "https://www.tehrantimes.com/news/532141/Bet-on-the-losing-horse-Abu-Dhabi-s-gamble-in-Hormuz",
+        "image": "https://www.bing.com/th?id=ONUT.sKms_Sdw_1Len-DQHx-G4A",
+        "timestamp": 1794689583.5599983
+    },
+    {
+        "id": "9ed024a99c",
+        "title_fa": "جنگ ترامپ بر ایران، جنوب جهان به پنل چینی می‌گراید",
+        "title_en": "Trump’s war on Iran is pushing the global south toward Chinese solar panels in record numbers",
+        "summary": [
+            "سیاست‌های تجاری و تحریم‌های ترامپ باعث شد کشورهای جنوب جهانی به دنبال انرژی خورشیدی چینی بروند.",
+            "افزایش تقاضا برای پنل‌های چینی می‌تواند وابستگی این کشورها به چین را تقویت کند."
+        ],
+        "impact": "روند تغییر به انرژی خورشیدی چینی می‌تواند بازارهای انرژی سنتی را تحت فشار قرار دهد.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Futurism on MSN",
+        "url": "https://www.msn.com/en-us/money/general/trump-s-war-on-iran-is-pushing-the-global-south-toward-chinese-solar-panels-in-record-numbers/ar-AA2hrGIc?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/money/general/trump-s-war-on-iran-is-pushing-the-global-south-toward-chinese-solar-panels-in-record-numbers/ar-AA2hrGIc",
+        "image": "https://www.bing.com/th?id=ONUT.asnjT_bytWGRUZQEaDCWEA",
+        "timestamp": 1794689583.5594184
+    },
+    {
+        "id": "0ec3337e12",
+        "title_fa": "قیمت نفت پس از سؤال ترامپ از توافق ایران می‌جهد",
+        "title_en": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
+        "summary": [
+            "ترامپ در مصاحبه‌ای سؤال کرد آیا توافق هسته‌ای با ایران ضروری است.",
+            "این اظهارات باعث شد قیمت نفت در بازارهای جهانی بازگشت و افزایش یافت."
+        ],
+        "impact": "افزایش قیمت نفت می‌تواند هزینه‌های انرژی را برای مصرف‌کنندگان بالا ببرد.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794687827.0
+    },
+    {
         "id": "2a7a2eb821",
         "title_fa": "قیمت دیزل، نه دیتاسنترها، عامل اصلی طوفان آبی میدترم",
         "title_en": "Diesel prices, not data centers, were the bigger factor behind the midterm blue tsunami",
@@ -37,6 +91,24 @@
         "timestamp": 1794686428.0
     },
     {
+        "id": "6eba62d299",
+        "title_fa": "اسرائیل تهدید ایران را رد، اما برای حمله آماده",
+        "title_en": "Israel sees no immediate Iran threat, but prepares for possible solo strike",
+        "summary": [
+            "اسرائیل اعلام کرد تهدید فعلی ایران وجود ندارد اما برای حمله تک‌جانبه آماده است.",
+            "این موضع نشان می‌دهد ارتش اسرائیل به‌سرعت می‌تواند واکنش نشان دهد اگر تهدیدی بروز کند."
+        ],
+        "impact": "آمادگی برای حمله تک‌جانبه می‌تواند تنش‌های منطقه‌ای را تشدید کند.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15SER6d3VVNlFLc2w0bXJSaElhaUdPOFJYQWg3TVFqekpOc2xJdk5Cdk1zcTk3ck1KVUhQZS03bUQxUmVkRU5uOXlCckJwUmczLW15M1Fn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15SER6d3VVNlFLc2w0bXJSaElhaUdPOFJYQWg3TVFqekpOc2xJdk5Cdk1zcTk3ck1KVUhQZS03bUQxUmVkRU5uOXlCckJwUmczLW15M1Fn",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794685511.0
+    },
+    {
         "id": "a02e950304",
         "title_fa": "اطلاعات اسرائیل از طرح ایرانی هدف‌گیری ترامپ با پهپاد",
         "title_en": "Israeli intelligence warns of Iranian plot to target Trump, top US officials with drones",
@@ -54,6 +126,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUt2OUtaMmFKTHEydlFZLUt1bUFOcDcyQkRUMmhNT1JibnotekxjZFpySWN2RG9qNVdWUjdEVnltNklhem1rTXJMbHU0Mm5XS2VwdDRMVzl3cnl3RUNOazZzNXJqSnd3TlpaNGdMbmtFajlxOHdJdmVpenZ4c0lRRExXNjZwYXJrZU1LMGtMVU9fSmplRmR6c0N6dXR0U1pxeDA2eVllYnZ3czRSOFY4WFh4czBvZ0Rla0JJUFFsZV9nY25CdXc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794683908.0
+    },
+    {
+        "id": "f8d5c653e7",
+        "title_fa": "تلویزیون ایران: موشک خرمشهر می‌تواند پایگاه بریتانیایی را هدف بگیرد",
+        "title_en": "Iran state TV says modified missile could reach US base in Britain",
+        "summary": [
+            "تلویزیون دولتی ادعا کرد نسخه‌ای سبک‌تر از موشک خرمشهر می‌تواند برد را به بیش از ۲,۰۰۰ کیلومتر برساند.",
+            "هدف مستقیم پایگاه هوایی RAF Fairford در انگلستان ذکر شد، اگرچه شواهد فنی تأیید نشده‌اند.",
+            "این پیام سلاح روانی برای نشان دادن توانایی‌های استراتژیک ایران است."
+        ],
+        "impact": "تهدید به هدف‌گیری پایگاه‌های بریتانیایی می‌تواند واکنش نظامی یا تقویت دفاع هوایی را به دنبال داشته باشد.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611141458",
+        "clean_url": "https://www.iranintl.com/en/202611141458",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/ac8bf211c1d474e8cd42767b69b4a8b689f66502-800x450.jpg?rect=46,48,677,355&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1794682980.0
     },
     {
         "id": "e507825c37",
@@ -229,6 +320,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90Q2tmM2FIZGtUamhwZlJTSENCZm9OWGFROUNtQ19peGp6Sk9iMGFjYlQ0VE9ZMjlsWTllem8yQ2c2MkRZa052dlh5VEozVHQzaWlyU3l2bTNtUDRY",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794661685.0
+    },
+    {
+        "id": "5c5215e018",
+        "title_fa": "دموکرات‌ها خواستار پایان جنگ ایران می‌شوند",
+        "title_en": "Democrats push to end Iran war, Republicans digs in",
+        "summary": [
+            "دموکرات‌ها پس از پیروزی در انتخابات می‌خواهند قانون‌گذاری برای پایان جنگ با ایران را پیش ببرند.",
+            "جمهوری‌خواهان به ادامه فشارهای نظامی و تحریم‌ها پایبندند، مانع اقدام سریع می‌شوند."
+        ],
+        "impact": "اگر قانون پایان جنگ تصویب شود، هزینه‌های نظامی آمریکا کاهش می‌یابد.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611142466",
+        "clean_url": "https://www.iranintl.com/en/202611142466",
+        "image": "http://www.bing.com/th?id=ONUT.shCfhG_X5isM3tmLfDY6zg&pid=News",
+        "timestamp": 1794660120.0
     },
     {
         "id": "60c89f3682",
@@ -491,6 +600,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHRmUU1nendWQU5JOEp5c0VxXzhXVEVOaHdVUnlZNUI2MFpsMHd6VERDSWV0TE4yYlVISFpMMmJmMVJ1S1BuYVpKQlljOVRSdzd3dVZJLVVRaTVLOFQ0Q3pqeHhZeXNtZUpzdGVwYXJhVXhiSWZ0UUtBRkNHaHk5blZ2WVR1TDlNbGViUG9ENTZjckFoSWg4RkVWbHNJVnFLYkFBZWc2cHpwSFpVamsyc0xRckRFZk9uN05qTWJXSGZ5cGcyZks0",
         "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794616201.0
+    },
+    {
+        "id": "43c816c7f0",
+        "title_fa": "اتحاد علمی اتحادیه اروپا و استرالیا در هورایزون اروپا",
+        "title_en": "Links 14/11/2026: \"OpenAI Is Sustaining Enormous Losses\" and Slop \"Loses the Popular Vote\"",
+        "summary": [
+            "اتحادیه اروپا و استرالیا توافق علمی جدیدی امضا کردند تا پژوهشگران استرالیایی در برنامه Horizon Europe شرکت کنند.",
+            "این همکاری می‌تواند دسترسی به منابع مالی و فناوری پیشرفته را برای هر دو طرف گسترش دهد."
+        ],
+        "impact": "تقویت همکاری علمی می‌تواند نوآوری‌های فناوری را سرعت بخشد.",
+        "tag": "علم",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Techrights",
+        "url": "https://techrights.org/n/2026/11/14/Links_14_11_2026_OpenAI_Is_Sustaining_Enormous_Losses_and_Slop_.shtml",
+        "clean_url": "https://techrights.org/n/2026/11/14/Links_14_11_2026_OpenAI_Is_Sustaining_Enormous_Losses_and_Slop_.shtml",
+        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794614400.0
+    },
+    {
+        "id": "5a2624b5a6",
+        "title_fa": "یوجینیا روکلا، یادگار همسرش را زنده می‌کند",
+        "title_en": "Roccella remembers her husband Luigi Cavallari: \"An absence I feel every minute\"",
+        "summary": [
+            "یوجینیا روکلا، وزیر خانواده ایتالیا، در برنامه‌ای به یاد همسر مرحوم خود، لویی کاوالاری، پرداخت.",
+            "او از حمایت پارلمان و مردم در دوران سوگواری سخن گفت."
+        ],
+        "impact": "بیان احساسات شخصی می‌تواند تصویر مثبت‌تری از وزیر در رسانه‌ها بسازد.",
+        "tag": "اجتماعی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "jen.jiji",
+        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261115KRONOS-202611121667056516_eng",
+        "clean_url": "https://jen.jiji.com/jc/eng_agt",
+        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
+        "timestamp": 1794614400.0
     },
     {
         "id": "114878c3a6",
@@ -5467,157 +5612,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzlwb1diR3Fzc2hKbUN0V3FaOUpDdG1LUjR5aXNhT2N6OXB4SWhGWExaSmd2RkhfVEhHV0U2Szc5OHNqY19xTVNteGZMN3A4aEt1eWFyUmp1WnpPUFJWT2FBSnFVWjhCeURpSlpVOGxIekRUX0NaTHZpTV9PMnlaaW9DZWxEUTBNOTZJaFN6R3pGbkF1dS05YUtHakROcXJ4SEdYbkcxQmF3VVUzU0xHT1p4eHhRUdIBuwFBVV95cUxPQnB1b1NuMkF2d040d1FHY2luamItMzZyWG5fY0llY1N1UGRUc3JyWkhKc0VSUm1RX3R1eGp1QWZscUpTbUFfQ2ktNldFcl95OW9fNGJtX0o0eTlQeU15dEE1N2EtWVVVNDFhbzF3RUxVZlJhX1hoRExydDN5VTl3Y3JHcFFhdy00aTg3cEcwODluWnA2SlVlV1BlQ1ZnWElCVnNOaExYM1A1LVJhallFM3lobTVVTFNPUzBZ",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794248843.0
-    },
-    {
-        "id": "32d3cd8cf0",
-        "title_fa": "گالی‌باف: سیاست «اسرائیل اول» آمریکا را به جنگ می‌کشاند",
-        "title_en": "Iran's parliament speaker says 'Israel First' policy dragging US into endless war",
-        "summary": [
-            "گالی‌باف می‌گوید سیاست حمایت اول از اسرائیل، ایالات متحده را به جنگ بی‌پایان با ایران می‌کشاند",
-            "او هشدار داد ادامه این مسیر، آمریکا را به «عصر تاریک» می‌برد",
-            "این پیام در پی پیروزی‌های میانی‌دوره‌ای دموکرات‌ها منتشر شد",
-            "سخنان او نشانگر افزایش تنش‌های منطقه‌ای است"
-        ],
-        "impact": "افزایش فشار سیاسی بر واشنگتن می‌تواند تصمیم‌گیری‌های نظامی را تسریع کند",
-        "tag": "سیاست خارجی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611098198",
-        "clean_url": "https://www.iranintl.com/en/202611098198",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/8e8305b2a335586dd889e9c7e929e47d0f206f1f-576x763.png?rect=2,0,572,763&w=432&h=576&q=90&fit=max&auto=format",
-        "timestamp": 1794247860.0
-    },
-    {
-        "id": "7c00c92356",
-        "title_fa": "آمریکا: تحریم ۸ صرافی کانادایی به‌خاطر دور زدن تحریم‌های ایران",
-        "title_en": "USA verhängen Sanktionen gegen acht kanadische Krypto-Börsen wegen mutmaßlicher iranischer Sanktionsumgehung",
-        "summary": [
-            "OFAC هشت شرکت مالی کانادایی را به‌دلیل تبادل ریال ایرانی با رمزارزهای خارجی مسدود کرد",
-            "این اقدام بخشی از عملیات «Economic Outcast» برای قطع مسیرهای مالی ایران است"
-        ],
-        "impact": "مسیرهای مالی رمزارزی ایران بسته شد، فشار بر اقتصاد تحت تحریم افزایش یافت",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "FinanceFeeds",
-        "url": "https://financefeeds.com/de/usa-sanktionen-acht-kanadische-krypto-boersen-iran/",
-        "clean_url": "https://financefeeds.com/de/usa-sanktionen-acht-kanadische-krypto-boersen-iran",
-        "image": "https://financefeeds.com/wp-content/uploads/2025/09/Bank-of-Canada-and-stablecoins.webp",
-        "timestamp": 1794247800.0
-    },
-    {
-        "id": "dd637480bc",
-        "title_fa": "اوکراین: شبکه زندان‌های زیرزمینی برای اسیران روس",
-        "title_en": "Ukraine sets up network of underground prisons for Russian POWs — diplomat",
-        "summary": [
-            "نماینده دائمی روسیه در سازمان ملل ادعا کرد اوکراین زیرزمین‌های متعدد برای اسیران روسی ساخته است",
-            "توضیحات شامل شکنجه، برق‌زدن و محرومیت از مراقبت‌های پزشکی بود"
-        ],
-        "impact": "افزایش فشار بین‌المللی بر اوکراین، امکان بررسی قضایی در شورای امنیت",
-        "tag": "حقوق بشر",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/politics/2215025",
-        "clean_url": "https://tass.com/politics/2215025",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1794246720.0
-    },
-    {
-        "id": "f084582690",
-        "title_fa": "آیا ایران پس از شکست ترامپ پیروز شد؟",
-        "title_en": "Trump lost the midterms. Did Iran win?",
-        "summary": [
-            "مقامات امنیتی ایران ادعا کردند شکست ترامپ در انتخابات، پیروزی ایران است",
-            "رسانه‌های ایرانی روایت پیروزی خود را با اشاره به «سایه ایران» بر انتخابات آمریکا تقویت کردند",
-            "در حالی که ترامپ هنوز رئیس‌جمهور است، کنگره دموکراتیک توان نظارت بر سیاست‌های خارجی او را دارد",
-            "این روایت می‌تواند به تقویت موضع‌گیری‌های سخت‌گیرانه ایران منجر شود"
-        ],
-        "impact": "تقویت ادعای پیروزی می‌تواند حمایت داخلی ایران از سیاست‌های تند را تقویت کند",
-        "tag": "تحلیل سیاسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611091291",
-        "clean_url": "https://www.iranintl.com/en/202611091291",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/cc234770cfff8af5e679e86566e6aa4cbb47299c-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1794244920.0
-    },
-    {
-        "id": "df501956d2",
-        "title_fa": "روسیه هشت رآکتور هسته‌ای به ایران وعده داد",
-        "title_en": "Russia Pledges Eight More Nuclear Reactors To Iran, Aiding Ayatollahs",
-        "summary": [
-            "مسئولان روسیه اعلام کردند هشت رآکتور جدید به ایران تحویل می‌دهند",
-            "این حرکت به‌عنوان حمایت مستقیم از برنامه هسته‌ای تهران دیده می‌شود"
-        ],
-        "impact": "قابلیت تولید انرژی هسته‌ای ایران افزایش می‌یابد و فشار بین‌المللی تقویت می‌شود",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/arielcohen/2026/11/09/russia-pledges-eight-more-nuclear-reactors-to-iran-aiding--ayatollahs/",
-        "clean_url": "https://www.forbes.com/sites/arielcohen/2026/11/09/russia-pledges-eight-more-nuclear-reactors-to-iran-aiding--ayatollahs",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6af1edb4b4adae49aec92ceb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "timestamp": 1794241080.0
-    },
-    {
-        "id": "afc3ee5e43",
-        "title_fa": "پس از شکست میانی‌دوره‌ای، استراتژی خارجی ترامپ خطرناک می‌شود",
-        "title_en": "After Midterm Failure, Trump's Foreign Strategy May Be Even More Dangerous",
-        "summary": [
-            "با از دست دادن اکثریت در کنگره، ترامپ به عنوان لام‌دک باقی مانده است",
-            "او هنوز می‌تواند فشار نظامی بر ایران را بدون تصویب کنگره اعمال کند",
-            "امکان اعمال تحریم‌های اقتصادی و تغییر تعهدات نظامی بدون نظارت پارلمانی وجود دارد",
-            "این وضعیت خطر تشدید تنش‌های خاورمیانه را افزایش می‌دهد"
-        ],
-        "impact": "قابلیت تصمیم‌گیری یک‌طرفه ترامپ می‌تواند به اعمال تحریم‌های سنگین یا حمله نظامی منجر شود",
-        "tag": "اقتصاد/نظامی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/midterm-failure-trump-foreign-strategy-160000020.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/midterm-failure-trump-foreign-strategy-160000020.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/f65236d8fc51245c81e475f494d54e735cd8a3ed71efc4379424fc45c3b55ed4/lightyear_networkapi/resizefill_w533_h300;quality_80;format_webp/https://media.zenfs.com/en/oilprice.com/d9da716c4bdd59c183cbada55f83f9d7.jpg",
-        "timestamp": 1794239940.0
-    },
-    {
-        "id": "c66026aec1",
-        "title_fa": "ایران از انتقال اورانیوم خود سر باز نمی‌زند",
-        "title_en": "Iran Won't Budge on Keeping Its Uranium in the Country as Negotiations to End the War Continue",
-        "summary": [
-            "تهران اعلام کرد اورانیوم غنی‌شده در داخل کشور باقی می‌ماند",
-            "این موضع مذاکرات هسته‌ای را به بن‌بست نزدیک می‌کند"
-        ],
-        "impact": "پیشنهادهای بین‌المللی برای کنترل مواد هسته‌ای به تعویق می‌افتد",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "International Business Times",
-        "url": "https://www.msn.com/en-us/news/other/iran-wont-budge-on-keeping-its-uranium-in-the-country-as-negotiations-to-end-the-war-continue/ar-AA2h4HXZ",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-wont-budge-on-keeping-its-uranium-in-the-country-as-negotiations-to-end-the-war-continue/ar-AA2h4HXZ",
-        "image": "https://s.yimg.com/lo/mysterio/api/9d00babd029ca2eda4bab02bc89991d939de9c3366e1595166b9a24bef501122/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/international_business_times_990/fadd02cb027827db4fbc0215f6f55729.jpg",
-        "timestamp": 1794239482.0
-    },
-    {
-        "id": "9636009d95",
-        "title_fa": "طرح عزل وزرا به‌دلیل جنگ ایران‑آمریکا در مجلس",
-        "title_en": "Hegseth impeachment effort begins in House, focused on Iran war",
-        "summary": [
-            "نماینده جمهوری‌خواه توماس مسی مقاله‌ای برای عزل وزیر دفاع به دلیل سوءاستفاده از قدرت در جنگ ایران‑آمریکا ارائه داد",
-            "این اقدام نشان می‌دهد فشار داخلی در کنگره برای بررسی تصمیمات نظامی ترامپ در حال افزایش است",
-            "اگر عزل صورت گیرد، می‌تواند مانع ادامه سیاست‌های نظامی سخت‌گیرانه شود",
-            "موضوع عزل به‌عنوان نمادی از جدال سیاسی پیرامون نقش آمریکا در خاورمیانه تبدیل شده است"
-        ],
-        "impact": "عزل وزیر دفاع ممکن است تصمیمات نظامی آینده علیه ایران را محدود کند",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/hegseth-impeachment-effort-begins-in-house-focused-on-iran-war/ar-AA2h5MOt",
-        "clean_url": "https://www.msn.com/en-us/news/other/hegseth-impeachment-effort-begins-in-house-focused-on-iran-war/ar-AA2h5MOt",
-        "image": "http://www.bing.com/th?id=ONUT.59n8RMPFHu9lte2ajfji-w&pid=News",
-        "timestamp": 1794239027.0
     }
 ]
