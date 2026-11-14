@@ -1,5 +1,42 @@
 [
     {
+        "id": "63f9cb53d9",
+        "title_fa": "نظرات عربی درباره شکست ترامپ و روابط آمریکا‑اسرائیل",
+        "title_en": "Voices from the Arab press: Trump's midterm defeat and the future of US-Israel ties",
+        "summary": [
+            "رسانه‌های عربی به شکست میانی ترامپ پرداخته‌اند",
+            "آن‌ها آینده همکاری نظامی و مالی آمریکا با اسرائیل را زیر سوال می‌برند"
+        ],
+        "impact": "تغییر نگرش عمومی عربی می‌تواند فشار دیپلماتیک بر سیاست‌های واشنگتن‑تل‌آویو را تقویت کند",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/voices-from-the-arab-press-trumps-midterm-defeat-and-the-future-of-us-israel-ties/ar-AA2hpuR7?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/voices-from-the-arab-press-trumps-midterm-defeat-and-the-future-of-us-israel-ties/ar-AA2hpuR7",
+        "image": "https://www.bing.com/th?id=ONUT.e_030747q55cSnIl5oi3Vg",
+        "timestamp": 1794623971.736702
+    },
+    {
+        "id": "11473c86a8",
+        "title_fa": "سخن‌نامه سفیدخانه: اجلاس سه‌جانبه ترامپ‑شی جین‌پینگ‑پوتین",
+        "title_en": "White House confirms Trump-Xi-Putin trilateral summit in China, Iran and nuclear arms on agenda",
+        "summary": [
+            "ایالات متحده، چین و روسیه برای نشست در چین برنامه‌ریزی کردند",
+            "ایران و مسأله سلاح‌های هسته‌ای در دستور کار قرار دارد",
+            "این نشست می‌تواند تعادل قدرت در خاورمیانه را بازنگری کند"
+        ],
+        "impact": "اگر توافقی حاصل شود، فشار بین‌المللی بر برنامه هسته‌ای ایران می‌تواند کاهش یابد",
+        "tag": "دیپلماتیک",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bFJSQnNWSjBBbjlmSVh4YWtsTlBqVEVNUFBLdHlDejgwM0NWVHZCZXRscjc2NG9ycjA4bnlibXdnQ2VLOHlkdUFHWHlxdm9kZlVzRXFfUFppNG02SVEw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bFJSQnNWSjBBbjlmSVh4YWtsTlBqVEVNUFBLdHlDejgwM0NWVHZCZXRscjc2NG9ycjA4bnlibXdnQ2VLOHlkdUFHWHlxdm9kZlVzRXFfUFppNG02SVEw",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794619244.0
+    },
+    {
         "id": "8a3d5a2952",
         "title_fa": "ترامپ موفقیت فشار اقتصادی بر ایران را جشن می‌گیرد",
         "title_en": "Trump touts Iran victory by ‘status quo’ economic pressure",
@@ -70,6 +107,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHRmUU1nendWQU5JOEp5c0VxXzhXVEVOaHdVUnlZNUI2MFpsMHd6VERDSWV0TE4yYlVISFpMMmJmMVJ1S1BuYVpKQlljOVRSdzd3dVZJLVVRaTVLOFQ0Q3pqeHhZeXNtZUpzdGVwYXJhVXhiSWZ0UUtBRkNHaHk5blZ2WVR1TDlNbGViUG9ENTZjckFoSWg4RkVWbHNJVnFLYkFBZWc2cHpwSFpVamsyc0xRckRFZk9uN05qTWJXSGZ5cGcyZks0",
         "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794616201.0
+    },
+    {
+        "id": "4ec0128351",
+        "title_fa": "حوثی‌ها موشک به پالایشگاه جازان شلیک کردند",
+        "title_en": "Houthis say they fired missiles at Saudi forces in Jazan",
+        "summary": [
+            "موشک‌ها به نیروهای سعودی در جازان هدف قرار گرفتند",
+            "پالایشگاه ۴۰۰,۰۰۰ بشکه در روز تحت خطر است",
+            "حمله نشان‌دهنده ادامه فشار یمن بر زیرساخت‌های انرژی سعودی است"
+        ],
+        "impact": "تحریم‌های بین‌المللی و هزینه تعمیرات پالایشگاه می‌تواند عرضه نفت خاورمیانه را مختل کند",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/houthis-say-they-fired-missiles-at-saudi-forces-in-jazan/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/houthis-say-they-fired-missiles-at-saudi-forces-in-jazan",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794610920.0
     },
     {
         "id": "e174fe8e11",
@@ -5551,60 +5607,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hTld1czkzay1iLUljeElSM1ZKdnVrSk5TWFpla0I5Q2c0YWx2NU5xZkxGc05acVVzVnFKUkdleFRheFVyNXJBM0dFV3JzUWxOMERKVHBEaWE3NTFlYlRKY3E5VUVmdw",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794194757.0
-    },
-    {
-        "id": "ea153e3181",
-        "title_fa": "بقای: خروج اورانیوم غنی‌شده از ایران مطرح نیست",
-        "title_en": "بقائی، سخنگوی وزارت خارجه: خروج اورانیوم غنی‌شده از ایران به هیچ‌وجه مطرح نیست",
-        "summary": [
-            "اسماعیل بقائی تأکید کرد ایران قصد خروج اورانیوم غنی‌شده ندارد",
-            "او گفت بازرسی‌های آمریکا از تاسیسات هسته‌ای ناموجه است",
-            "این موضع می‌تواند فشار بین‌المللی بر برنامه هسته‌ای ایران را کاهش دهد"
-        ],
-        "impact": "کاهش فشار تحریمی بر برنامه هسته‌ای ایران",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202611093009",
-        "clean_url": "https://www.iranintl.com/202611093009",
-        "image": "http://www.bing.com/th?id=ONUT.pSi3Vbcm2oWd5IqedOGmMg&pid=News",
-        "timestamp": 1794193980.0
-    },
-    {
-        "id": "3fd0b04dde",
-        "title_fa": "ترامپ با نخست‌وزیر قطر درباره میانجی‌گری با ایران ملاقات می‌کند",
-        "title_en": "Trump to meet Qatari prime minister about mediation efforts with Iran",
-        "summary": [
-            "ترامپ برنامه دارد با نخست‌وزیر قطر درباره راهکارهای میانجی‌گری با ایران گفتگو کند",
-            "هدف مذاکرات، کاهش تنش‌های منطقه‌ای و جلوگیری از گسترش درگیری است"
-        ],
-        "impact": "امکان بازگشت به مسیر دیپلماتیک برای حل بحران ایران‑امریکا",
-        "tag": "دیپلماتیک",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWlDY3R3QlVMOE8ydE15X3lId2x2aFNSMnhWd2w2UXI0MmxHVUk4M1lTV3JGSDc2aTZpcTZlTm9nOVlUOXRpOHlRSDBEc0VUQnZLS2xaeWlxREJGVWhuMHViblprZVNXYWRVVzVDYXd0UUVXZ3pXWTJINXFsTXNRTHZFa3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWlDY3R3QlVMOE8ydE15X3lId2x2aFNSMnhWd2w2UXI0MmxHVUk4M1lTV3JGSDc2aTZpcTZlTm9nOVlUOXRpOHlRSDBEc0VUQnZLS2xaeWlxREJGVWhuMHViblprZVNXYWRVVzVDYXd0UUVXZ3pXWTJINXFsTXNRTHZFa3c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794192747.0
-    },
-    {
-        "id": "34fec2c962",
-        "title_fa": "ایران با تسهیلات نفتی در چین دور زدن تحریم‌ها",
-        "title_en": "Iran acquires oil facilities in China to bypass US sanctions, leaked document shows",
-        "summary": [
-            "اسناد افشا شده نشان می‌دهد ایران زیرساخت‌های پالایش و ذخیره‌سازی نفتی در چین خریداری کرده تا صادرات را دور زدن",
-            "این کار به‌عنوان پاسخ به فشارهای سنگین تحریم‌های آمریکا مطرح شده"
-        ],
-        "impact": "کاهش اثر تحریم‌های نفتی بر درآمد ارزی ایران",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iNUNLTndBYmZEdUlUUmExbmtaRE82N25LbnhMUDk2LXJ4X0JXOXdzb3N3ZHpFTUtRQWwwVEFzSEdjWTdOYnJONFd1V0h1OG9UM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iNUNLTndBYmZEdUlUUmExbmtaRE82N25LbnhMUDk2LXJ4X0JXOXdzb3N3ZHpFTUtRQWwwVEFzSEdjWTdOYnJONFd1V0h1OG9UM0E",
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794192483.0
     }
 ]
