@@ -1,5 +1,23 @@
 [
     {
+        "id": "d7c50bbab4",
+        "title_fa": "ماسِی راه نجاتی برای جمهوری‌خواهان در جنگ ایران",
+        "title_en": "Thomas Massie Offers Republicans a 'Life Boat From MAGA' Over Iran War",
+        "summary": [
+            "نماینده تامس مسی به جمهوری‌خواهان گفت باید از رادیکالی‌های مگا جدا شوند تا از جنگ ایران جلوگیری کنند.",
+            "این فراخوان نشان می‌دهد تقسیم داخلی حزب جمهوری‌خواه در مورد سیاست خاورمیانه عمیق‌تر می‌شود."
+        ],
+        "impact": "فشار بر رهبری مگا و احتمال تغییر موضع کنگره نسبت به سیاست خاورمیانه.",
+        "tag": "سیاست داخلی",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95UXQwWlY3NDRTMm5tMVFoMHYyelFILWQ1cEhBSlo5bW9qMWt4ajluWE42QjV1Y3FWTnpoQWlQakF1YllQbjNWS05Nd19fUGo5S1g1NlZJeFgweGEzZ3Y0WGt4VW9ZbloyLS1vVzNSWjhVbnBmd3VCTmJGaG1MQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95UXQwWlY3NDRTMm5tMVFoMHYyelFILWQ1cEhBSlo5bW9qMWt4ajluWE42QjV1Y3FWTnpoQWlQakF1YllQbjNWS05Nd19fUGo5S1g1NlZJeFgweGEzZ3Y0WGt4VW9ZbloyLS1vVzNSWjhVbnBmd3VCTmJGaG1MQQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794701460.0
+    },
+    {
         "id": "9128ab44fa",
         "title_fa": "روسیه به ایران در مقابله با آمریکا و اسرائیل کمک می‌کند",
         "title_en": "Russia is helping Iran in its confrontation with the US and Israel – Le Monde reveals details of military cooperation",
@@ -322,6 +340,24 @@
         "timestamp": 1794667920.0
     },
     {
+        "id": "f5cebec140",
+        "title_fa": "کوشنر: آمریکا ارتباط مستقیم روسیه‑اروپا در اوکراین را تسهیل می‌کند",
+        "title_en": "US aims to facilitate direct contacts between Russia and Europe on Ukraine — Kushner",
+        "summary": [
+            "جرد کوشنر اعلام کرد ایالات متحده می‌خواهد مذاکرات مستقیم بین مسکو و هم‌پیمانان اروپایی برای پایان جنگ اوکراین را پیش ببرد.",
+            "ترامپ بر این باور است که صلح پایدار نیاز به تضمین‌های امنیتی واضح برای اوکراین دارد."
+        ],
+        "impact": "شتاب‌دهی به مسیر مذاکرات چندجانبه و فشار بر روسیه برای پذیرش تعهدات.",
+        "tag": "اوکراین",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2218233",
+        "clean_url": "https://tass.com/world/2218233",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1794664860.0
+    },
+    {
         "id": "ea6b87e80c",
         "title_fa": "آمریکا جایزه میلیون دلاری برای اطلاعات هسته‌ای ایران اعلام کرد",
         "title_en": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration",
@@ -479,6 +515,24 @@
         "timestamp": 1794650066.8969429
     },
     {
+        "id": "5e884bce9c",
+        "title_fa": "دفاع هوایی روسیه ۳۹ پهپاد اوکراینی را نابود کرد",
+        "title_en": "Air defenses downed 39 Ukrainian UAVs over Russian regions during day — Defense Ministry",
+        "summary": [
+            "وزارت دفاع روسیه اعلام کرد سامانه‌های دفاع هوایی در ۱۰ استان از جمله بلگراد و کریمه، ۳۹ پهپاد اوکراینی را بین ساعت ۸ صبح تا ۸ شب نابود کردند.",
+            "این آمار نشان می‌دهد توان مقابله روسیه با حملات هوایی کوچک اوکراین در حال تقویت است."
+        ],
+        "impact": "کاهش توان حملات هوایی اوکراین و تقویت دفاع سرزمین‌های روسیه.",
+        "tag": "دفاع هوایی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/defense/2218213",
+        "clean_url": "https://tass.com/defense/2218213",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1794649440.0
+    },
+    {
         "id": "2266e9b0c1",
         "title_fa": "ترامپ در اجلاس با پوتین و شی درباره ایران می‌گوید",
         "title_en": "Trump To Discuss Iran, Nuclear Arms With Putin, Xi At Landmark Summit",
@@ -571,6 +625,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYk52VWEwcmJ0VGU0ZGJfWEZaUHFodGo3RjFYclpUR1JPWHRGcFE3SHY2MWFkT3ZpLUJ1V292aFkwN2xOdmo3MDQxRDRKYnVoVFBFakR5T3JhbTd0eUlzTU5NRXpfLVhlZFY5NVdtQkdJRGM3RFJodG5jN1cySHk4VUNWY1dTUFhfbnBsemRScDZITlBDN2tUN2hJOTZHVENsRlVB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794642229.0
+    },
+    {
+        "id": "6ded9cc0f8",
+        "title_fa": "ترامپ احتمالاً از حمله جدید به ایران خودداری می‌کند",
+        "title_en": "Trump just handed the world a giant clue the Iran war is winding down by telling advisers he may not order new strikes",
+        "summary": [
+            "ترامپ به مشاوران گفت مگر ایران یا نیروهای نیابتی‌اش حمله کنند، او حمله جدیدی نمی‌دهد.",
+            "این پیام فشار دیپلماتیک برای بازگشت به مذاکرات را نشان می‌دهد."
+        ],
+        "impact": "کاهش خطر تشدید نظامی و باز شدن فضا برای دیپلماسی.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "National Security Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-just-handed-the-world-a-giant-clue-the-iran-war-is-winding-down-by-telling-advisers-he-may-not-order-new-strikes/ar-AA2hqYFY",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-just-handed-the-world-a-giant-clue-the-iran-war-is-winding-down-by-telling-advisers-he-may-not-order-new-strikes/ar-AA2hqYFY",
+        "image": "http://www.bing.com/th?id=ONUT.A6AVeDNanNKcKh2S4N10kA&pid=News",
+        "timestamp": 1794636389.0
     },
     {
         "id": "0039b18809",
@@ -5548,77 +5620,5 @@
         "clean_url": "https://www.radiofarda.com/a/33894755.html",
         "image": "http://www.bing.com/th?id=ONUT.s3at4d0CsCSM_887Y0gtJg&pid=News",
         "timestamp": 1794265920.0
-    },
-    {
-        "id": "b20440cd8a",
-        "title_fa": "ترامپ با کم اهمیت جلوه دادن نگرانی های تشدید تنش، می‌گوید جنگ آمریکا در ایران «به طور مؤثر پایان یافته است».",
-        "title_en": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
-        "summary": [
-            "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns The Guardian"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aVVBM1M2V2JiUGZLeXU4Xzd6YmV3RVNpVnhPM3U1bFdPYmRUcjNtc3d6YldOczdHNmN4Umx5MmU4eldmbGxSTUdBSW5DaU9xUVRqQ2E4UWZ3bzhjaXE2MFg1TEVkUGtENzllWU5XOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aVVBM1M2V2JiUGZLeXU4Xzd6YmV3RVNpVnhPM3U1bFdPYmRUcjNtc3d6YldOczdHNmN4Umx5MmU4eldmbGxSTUdBSW5DaU9xUVRqQ2E4UWZ3bzhjaXE2MFg1TEVkUGtENzllWU5XOA",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794265200.0
-    },
-    {
-        "id": "853d1f5b76",
-        "title_fa": "ترامپ: جنگ با ایران به‌زودی پایان می‌یابد",
-        "title_en": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-        "summary": [
-            "ترامپ اعلام کرد جنگ نظامی با ایران به‌زودی به‌پایان می‌رسد و نیروهای آمریکایی آماده ادامه عملیات هستند",
-            "او گفت ایران «به‌طور مؤثر» از نظر نظامی شکست خورده و اقتصادش در حال فروپاشی است",
-            "محاصره دریایی و عملیات «دروازه آهنین» به‌عنوان وضعیت موجود باقی می‌ماند"
-        ],
-        "impact": "ادامه محاصره فشار شدید بر صادرات نفت ایران می‌گذارد",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
-        "clean_url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
-        "image": "http://www.bing.com/th?id=ONUT.buyxy8cVS6EgHa3XS6kc0Q&pid=News",
-        "timestamp": 1794265080.0
-    },
-    {
-        "id": "0fe2155f0c",
-        "title_fa": "ترامپ می‌گوید همسایگان ایران می‌خواهند محاصره زمینی و دریایی تهران ادامه یابد",
-        "title_en": "ترامپ می‌گوید همسایگان ایران می‌خواهند محاصره زمینی و دریایی تهران ادامه یابد",
-        "summary": [
-            "دونالد ترامپ پیش از این نیز گفته بود که ترجیح کشورهای منطقه حفظ وضع موجود در قبال ایران است، اما در پُست تازه خود با نام بردن از کشورهای مورد اشاره، جزئیات این موضوع را مشخص کرد."
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/trump-says-iran-s-neighbors-want-the-naval-and-land-blockade-of-tehran-to-continue/33894372.html",
-        "clean_url": "https://www.radiofarda.com/a/trump-says-iran-s-neighbors-want-the-naval-and-land-blockade-of-tehran-to-continue/33894372.html",
-        "image": "http://www.bing.com/th?id=ONUT.Z1AsW5L-NuIP-OtyabOwOw&pid=News",
-        "timestamp": 1794265020.0
-    },
-    {
-        "id": "f274ff1cc7",
-        "title_fa": "ترامپ: جنگ ایران «عملاً تمام» شد",
-        "title_en": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
-        "summary": [
-            "ترامپ پس از گفت‌وگو با نخست‌وزیر قطر، اعلام کرد جنگ با ایران عملاً پایان یافته",
-            "این بیانیه سعی دارد فشار داخلی و بین‌المللی را پس از شکست میانه‌دوره کاهش دهد",
-            "واکنش مخالفان نشان می‌دهد این ادعا بدون پشتوانه نظامی است"
-        ],
-        "impact": "بیانیه ممکن است فشار دیپلماتیک بر ایران را کم کند ولی ریسک بازگشت تنش را حذف نمی‌کند",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794263778.0
     }
 ]
