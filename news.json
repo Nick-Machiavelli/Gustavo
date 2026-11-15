@@ -1,5 +1,24 @@
 [
     {
+        "id": "e9b76f2d3f",
+        "title_fa": "ترامپ: فشار بر هورموز، راه‌پشت ایران بسته شد",
+        "title_en": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
+        "summary": [
+            "ترامپ اعلام کرد آمریکا دیگر به توافق با ایران نیاز ندارد و کنترل استراتژیک هورموز را در دست دارد",
+            "حملات ایرانی به کشتی‌ها کاهش یافت اما صادرات زمینی ایران از هفت مرز کافی نیست",
+            "بلاکادهای دریایی و هوایی آمریکا فشار اقتصادی جدی بر رژیم ایجاد می‌کند"
+        ],
+        "impact": "تحریم‌های دریایی آمریکا به‌سرعت صادرات نفتی و تجاری ایران را تضعیف می‌کند",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/15/opinion/trumps-hormuz-squeeze-has-iran-strangled-slam-its-back-door-too/",
+        "clean_url": "https://nypost.com/2026/11/15/opinion/trumps-hormuz-squeeze-has-iran-strangled-slam-its-back-door-too",
+        "image": "https://www.bing.com/th?id=ONUT.OulvUcU9p5DCGiDMf6qWRA",
+        "timestamp": 1794780917.7959614
+    },
+    {
         "id": "bc241294bc",
         "title_fa": "لارژانی: ایران باید هسته‌ای شود",
         "title_en": "Larijani: Iran Should, in Principle, Arm Itself with Nuclear Capability",
@@ -37,6 +56,24 @@
         "clean_url": "https://www.msn.com/en-gb/news/news/reporter-s-notebook-reflecting-on-similarities-between-the-1930s-and-today/ar-AA2htR1F",
         "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794774676.0384116
+    },
+    {
+        "id": "868a1c78c6",
+        "title_fa": "هشدار اسرائیل: آمریکا نباید اشتباه ۱۹۷۹ ایران را تکرار کند",
+        "title_en": "A warning to the US: Do not repeat the mistakes of Iran's 1979 revolution - opinion",
+        "summary": [
+            "مقالهٔ ژرژالست پست هشدار می‌دهد که آمریکا نباید اشتباهات انقلاب ۱۹۷۹ ایران را تکرار کند",
+            "نویسنده به خطرات مداخلهٔ نظامی و تحریم‌های طولانی‌مدت اشاره می‌کند"
+        ],
+        "impact": "تشدید گفتمان انتقادی در سیاست خارجی آمریکا نسبت به ایران",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EOEdsaGtMQ1l5VUQ2dDVZem9uYmotWkdwY08walpDOW5ONUlHNjgxUWE2eWNYNllDMDVKVVBUR3NYeVVDYnlTYXRHSGN1X1ZnTjRJdnpVMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EOEdsaGtMQ1l5VUQ2dDVZem9uYmotWkdwY08walpDOW5ONUlHNjgxUWE2eWNYNllDMDVKVVBUR3NYeVVDYnlTYXRHSGN1X1ZnTjRJdnpVMA",
+        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1794773450.0
     },
     {
         "id": "58c8aafe63",
@@ -264,6 +301,25 @@
         "timestamp": 1794745560.0
     },
     {
+        "id": "b2f1ff68a7",
+        "title_fa": "روسیه به بررسی بسته شدن مرز استونی می‌پردازد",
+        "title_en": "Russia to check information about Estonia's plans to close border crossings — diplomat",
+        "summary": [
+            "وزارت خارجه روسیه گزارش‌های بسته شدن تمام گذرگاه‌های مرزی استونی را بررسی می‌کند",
+            "استونی قصد دارد از ۱ دسامبر تمام مرزهای زمینی را ببندد؛ تنها سه گذرگاه فعلی باقی می‌مانند",
+            "مسئولین روسیه این اقدام را «رژیم‌ستیزی» و «رشد ریسکی» می‌دانند"
+        ],
+        "impact": "تشدید تنش‌های مرزی روسیه‑استونی و احتمال واکنش دیپلماتیک بیشتر",
+        "tag": "دیپلماتیک",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2218399",
+        "clean_url": "https://tass.com/politics/2218399",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261115/1493155.jpg",
+        "timestamp": 1794745380.0
+    },
+    {
         "id": "ffa1981649",
         "title_fa": "تحلیل جنگ صوری ۱۹۳۹‑۴۰ و ایران امروز",
         "title_en": "Editorial: Iran and the 'phony war' of 1939-40",
@@ -469,6 +525,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SSkdqMjRWeXlLVzV0NllGeDdnM3k0bTJRaFg5cEMyUjh2VzR1eGFzbWo1cDdpbUY1T3A1RW1Ua3NHWkhXZDdkR0k4VTRtLWU0bWRVVDBSYjBLNTVWWjBWeURfLWdoTzdhNF9FU3RR",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794722483.0
+    },
+    {
+        "id": "1fb07416d4",
+        "title_fa": "ایران دوبار در چند روز به بحرین حمله کرد",
+        "title_en": "Iran Attacks Bahrain for the Second Time in Days",
+        "summary": [
+            "ایران دو بار در عرض چند روز با پهپاد به پایگاه‌های بحرین حمله کرد",
+            "دفاع بحرین توانست تهدیدهای هوایی را رهگیری کند؛ هیچ تلفات یا خسارتی گزارش نشد",
+            "این حملات پس از شلیک دو پهپاد توسط آمریکا به سمت بحرین رخ داد و تنش‌های منطقه‌ای را تشدید می‌کند"
+        ],
+        "impact": "افزایش خطر تصادم نظامی در خلیج فارس و فشار بر حضور نظامی آمریکا",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+        "clean_url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+        "timestamp": 1794715680.0
     },
     {
         "id": "70276236f1",
@@ -5552,80 +5627,5 @@
         "clean_url": "https://zamin.uz/en/world/226817-sensational-deal-between-the-us-and-iran-uranium-restrictions-in-exchange-for-9-billion-and-the-strait-of-hormuz.html",
         "image": "https://zamin.uz/uploads/posts/2026-11/9a1e3d0747_image.webp",
         "timestamp": 1794312300.0
-    },
-    {
-        "id": "17c871ef07",
-        "title_fa": "ایران خواستار رفع تحریم‌ها برای بازگشایی هورموز",
-        "title_en": "Iran Calls on US to Meet Its Demands to End War",
-        "summary": [
-            "وزیر خارجه عراقی آراغچی گفت جنگ با ایران از طریق نظامی حل نمی‌شود.",
-            "ایران پیشنهاد باز کردن هورموز در دو روز در ازای رفع تحریم‌ها و آزادسازی دارایی‌ها را داد.",
-            "ترامپ ادعا کرد «پیشرفت مثبت» برای پایان جنگ وجود دارد، اما هنوز توافقی حاصل نشده.",
-            "فشارهای اقتصادی و نظامی هر دو به‌سرعت در حال تشدید هستند."
-        ],
-        "impact": "اگر توافق حاصل شود، مسیر صادرات نفت ایران باز می‌شود و فشار مالی آمریکا کاهش می‌یابد.",
-        "tag": "هورموز",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/world/5339653-iran-calls-us-meet-its-demands-end-war",
-        "clean_url": "https://english.aawsat.com/world/5339653-iran-calls-us-meet-its-demands-end-war",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1874201.jpeg.webp?VersionId=EsDyUT9ZASxNWWCgV3wzJVrk.4Y6hryB",
-        "timestamp": 1794310140.0
-    },
-    {
-        "id": "4531ee4d2b",
-        "title_fa": "کنگره دموکراتیک جدید و سیاست‌های خاورمیانه",
-        "title_en": "Daniel DePetris: What a Democratic Congress means for Iran, Israel and Ukraine",
-        "summary": [
-            "نمایندگان دموکرات جدید برنامه‌های سخت‌گیرانه‌تر نسبت به ایران و اسرائیل دارند",
-            "تأثیر این تغییرات بر حمایت مالی و نظامی اوکراین نیز مطرح است"
-        ],
-        "impact": "قوانین جدید می‌توانند تحریم‌های آمریکا را علیه ایران تشدید کنند",
-        "tag": "سیاست",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/2026/11/10/column-foreign-policy-israel-iran-ukraine-scrutiny-depetris/",
-        "clean_url": "https://www.chicagotribune.com/2026/11/10/column-foreign-policy-israel-iran-ukraine-scrutiny-depetris",
-        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/11/ctc-l-Jeffries.jpg?w=5000&h=3333",
-        "timestamp": 1794309060.0
-    },
-    {
-        "id": "40d3e2793e",
-        "title_fa": "وینس دوباره جنگ با اسرائیل را اعلام کرد",
-        "title_en": "Once again, Vance declares war on Israel",
-        "summary": [
-            "معاون رئیس‌جمهور جِی‌دی وینس دوباره ائتلاف آمریکا‑اسرائیل و جنگ با ایران را سرزنش کرد",
-            "این اظهارات در واکنش به نتایج میانی‌دوره‌ای جمهوری‌خواهان مطرح شد",
-            "تقویت رقیب‌گرایی سیاسی داخل حزب، احتمال فشار بر سیاست خارجی را بالا می‌برد"
-        ],
-        "impact": "تقویت فشارهای داخلی بر سیاست خارجی ایالات متحده",
-        "tag": "سیاست",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Washington Examiner",
-        "url": "https://www.msn.com/en-us/news/other/once-again-vance-declares-war-on-israel/ar-AA2h7Zwj",
-        "clean_url": "https://www.msn.com/en-us/news/other/once-again-vance-declares-war-on-israel/ar-AA2h7Zwj",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794308400.0
-    },
-    {
-        "id": "ecfea2865f",
-        "title_fa": "چالش‌های دیپلماتیک پیش‌رو برای نخست‌وزیر جدید اسرائیل",
-        "title_en": "Diplomatic challenges from US, Europe, Iran await Israel's next prime minister",
-        "summary": [
-            "روابط با آمریکا، اروپا و ایران به‌عنوان معضل اصلی شناخته می‌شود",
-            "تعادل بین منافع امنیتی و فشارهای بین‌المللی دشوار است"
-        ],
-        "impact": "سیاست خارجی اسرائیل ممکن است تحت فشارهای چندجانبه تغییر مسیر یابد",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": 0,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-ca/news/other/diplomatic-challenges-from-us-europe-iran-await-israel-s-next-prime-minister/ar-AA2h7f5r",
-        "clean_url": "https://www.msn.com/en-ca/news/other/diplomatic-challenges-from-us-europe-iran-await-israel-s-next-prime-minister/ar-AA2h7f5r",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2h7zqM.img?w=632&h=448&m=4&q=75",
-        "timestamp": 1794306921.0
     }
 ]
