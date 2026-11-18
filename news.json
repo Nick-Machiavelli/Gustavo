@@ -1,5 +1,62 @@
 [
     {
+        "id": "31d8ae082f",
+        "title_fa": "انتخابات اسرائیل و چالش تشکیل ائتلاف",
+        "title_en": "Israel’s impossible bind",
+        "summary": [
+            "تروماهای ۷ اکتبر ۲۰۲۳ هنوز در جامعه اسرائیلی حس می‌شود و مانع آرامش کامل می‌شود",
+            "هیچ بلوکی در کنیست نتوانست اکثریت ۶۱ صندلی را به دست آورد؛ گادی آیزنکوت مسئول تشکیل ائتلاف در ۲۸ روز است",
+            "در صورت شکست آیزنکوت، بنجامین نتانیاهو می‌تواند دوباره نخست‌وزیر شود",
+            "عدم ثبات سیاسی می‌تواند تصمیم‌گیری‌های امنیتی را دچار تأخیر کند"
+        ],
+        "impact": "بی‌ثباتی سیاسی ممکن است واکنش‌های نظامی و دیپلماتیک اسرائیل را کند کند",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/opinion/clifford-d-may/israels-impossible-bind",
+        "clean_url": "https://www.jns.org/opinion/clifford-d-may/israels-impossible-bind",
+        "image": "https://www.bing.com/th?id=ONUT.T_yszkisfzfr1wCLp_FaLQ",
+        "timestamp": 1794997902.4440289
+    },
+    {
+        "id": "bf57be5050",
+        "title_fa": "حملات ترکیبی ایران در اروپا تهدید می‌شود",
+        "title_en": "Fridges to fighter bases: The rise in Iranian hybrid attacks in Europe",
+        "summary": [
+            "ایران ترکیبی از سایبر، رادار و حملات فیزیکی را به پایگاه‌های اروپایی می‌فرستد",
+            "این حملات به‌عنوان «هیبریدی» شناخته می‌شوند و تهدید امنیت داخلی کشورهای عضو را افزایش می‌دهند",
+            "دولت‌های اروپایی هنوز هماهنگی کافی برای مقابله ندارند"
+        ],
+        "impact": "نیاز به تقویت دفاع ترکیبی اروپا، خطر نفوذ ایرانی در زیرساخت‌ها",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "European Council on Foreign Relations",
+        "url": "https://ecfr.eu/article/fridges-to-fighter-bases-the-rise-in-iranian-hybrid-attacks-in-europe/",
+        "clean_url": "https://ecfr.eu/article/fridges-to-fighter-bases-the-rise-in-iranian-hybrid-attacks-in-europe",
+        "image": "https://www.bing.com/th?id=ONUT.RibR8dHd93n6UCdVIByAWA",
+        "timestamp": 1794997902.442627
+    },
+    {
+        "id": "38129b001f",
+        "title_fa": "اختلاف ایران‑آمریکا آزمون اعتبار پیمان عدم گسترش",
+        "title_en": "The Iran-USA conflict and the future of the Nuclear Non-Proliferation Treaty",
+        "summary": [
+            "درگیری ایران‑آمریکا به اعتبار پیمان عدم گسترش هسته‌ای ضربه می‌زند",
+            "اگر نظامی‌گری ادامه یابد، کشورهای دیگر ممکن است به تعهدات NPT شک کنند"
+        ],
+        "impact": "تضعیف چارچوب بین‌المللی عدم گسترش هسته‌ای، ریسک گسترش تسلیحات",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Middle East Monitor",
+        "url": "https://www.middleeastmonitor.com/20261118-the-iran-usa-conflict-and-the-future-of-the-nuclear-non-proliferation-treaty/",
+        "clean_url": "https://www.middleeastmonitor.com/20261118-the-iran-usa-conflict-and-the-future-of-the-nuclear-non-proliferation-treaty",
+        "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/11/AA-20261104-42962079-42962073-ANTIUS_DEMONSTRATION_HELD_IN_TEHRAN_ON_ANNIVERSARY_OF_EMBASSY_TAKEOVER-1-1.jpg?fit=920,613&ssl=1",
+        "timestamp": 1794995700.0
+    },
+    {
         "id": "829dfd819d",
         "title_fa": "دستور پخت پرکننده سوپ پیاز فرانسوی",
         "title_en": "French onion soup stuffing",
@@ -108,6 +165,43 @@
         "timestamp": 1794984439.0
     },
     {
+        "id": "e7943b03e3",
+        "title_fa": "دوراهی ترامپ با ایران؛ فشار بدون دیپلماسی",
+        "title_en": "Trump's Iran dilemma: Pressure without diplomacy may prolong the Gulf stalemate",
+        "summary": [
+            "تحلیلگران می‌گویند فشار اقتصادی و نظامی بدون دیپلماسی، مسیر حل مناقشه را سخت می‌کند",
+            "ترامپ با حذف مذاکرات، ممکن است به بن‌بست طولانی در خلیج منجر شود"
+        ],
+        "impact": "پایان‌ناپذیری تحریم‌ها، فشار بر اقتصاد ایران و ریسک تشدید تنش",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/opinion/trumps-iran-dilemma-pressure-without-diplomacy-may-prolong-the-gulf-stalemate-14060860.html",
+        "clean_url": "https://www.firstpost.com/opinion/trumps-iran-dilemma-pressure-without-diplomacy-may-prolong-the-gulf-stalemate-14060860.html",
+        "image": "https://images.firstpost.com/uploads/2026/11/AFP__20261116__D7LY8QA__v4__MidRes__UsPoliticsTrump-2026-11-8e88d749d39f5e3869009237658baf62-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+        "timestamp": 1794982740.0
+    },
+    {
+        "id": "64f7b0dc5e",
+        "title_fa": "حمله هوایی آمریکا به جزیره قشم",
+        "title_en": "U.S. Strikes Qeshm Island as Vance Says Iran Won’t Become ‘Forever War’",
+        "summary": [
+            "هواپیماهای آمریکایی موضع موشکی ایران را در جزیره قشم هدف گرفت",
+            "آمریکا حمله را دفاعی اعلام کرد پس از پهپادهای یک‌طرفه ایران به بحرین",
+            "مقامات محلی می‌گویند هیچ خسارتی به ساختمان‌های مسکونی یا تجاری وارد نشد"
+        ],
+        "impact": "افزایش تنش در تنگه هرمز، خطر گسترش درگیری هوایی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance/",
+        "clean_url": "https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance",
+        "image": "http://www.bing.com/th?id=ONUT.C_XeWtGU1PtZYNrUNuwBmg&pid=News",
+        "timestamp": 1794968100.0
+    },
+    {
         "id": "5855b8f15f",
         "title_fa": "ژنرال جک کین: مسیر ایران فقط بقاست",
         "title_en": "Iran’s path is survival and ‘survival only’: Gen Jack Keane",
@@ -143,6 +237,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/good-news-trumpflation-might-go-away-soon-heres-what-this-means-for-stocks/ar-AA2hEFG9",
         "image": "https://www.bing.com/th?id=ONUT.RcTwXdrZjAc1bZPxgrdkMw",
         "timestamp": 1794967008.6471634
+    },
+    {
+        "id": "16e82a120f",
+        "title_fa": "ایران به پایگاه هوایی کویت و بحرین شلیک کرد",
+        "title_en": "Iran widens Gulf attacks, firing on a US air base in Kuwait and at targets in Bahrain",
+        "summary": [
+            "ایران به پایگاه هوایی آمریکا در کویت و اهداف در بحرین شلیک کرد",
+            "این گسترش حملات پس از ضربه هوایی آمریکا به قشم رخ داد",
+            "هدف‌گیری نشان‌دهنده توان عملیاتی سپاه و قصد فشار بر حضور نظامی آمریکا است"
+        ],
+        "impact": "تحریک واکنش نظامی آمریکا، احتمال گسترش جنگ نیابتی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-nz/news/other/iran-widens-gulf-attacks-firing-on-a-us-air-base-in-kuwait-and-at-targets-in-bahrain/ar-AA2hGS7Q",
+        "clean_url": "https://www.msn.com/en-nz/news/other/iran-widens-gulf-attacks-firing-on-a-us-air-base-in-kuwait-and-at-targets-in-bahrain/ar-AA2hGS7Q",
+        "image": "http://www.bing.com/th?id=ONUT.nlOEyKCAj8wstocXjwUbEQ&pid=News",
+        "timestamp": 1794965659.0
     },
     {
         "id": "de929e80cd",
@@ -569,6 +682,24 @@
         "timestamp": 1794919920.0
     },
     {
+        "id": "caef3d2ec0",
+        "title_fa": "ترامپ باید با کره شمالی به سلاح هسته‌ای روی آورد",
+        "title_en": "Why Trump Should Go Nuclear With North Korea's Little Rocket Man",
+        "summary": [
+            "پس از سفر ترامپ به آسیا، برخی پیشنهاد می‌کنند او باید با کره شمالی به گزینه هسته‌ای روی آورد",
+            "این ایده واکنش‌های شدید بین‌المللی و خطر تشدید رقابت هسته‌ای را به دنبال دارد"
+        ],
+        "impact": "افزایش خطر استفاده از سلاح هسته‌ای در منطقه آسیا‑پاسیفیک",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/why-trump-should-go-nuclear-north-koreas-little-rocket-man-12726086",
+        "clean_url": "https://www.newsweek.com/why-trump-should-go-nuclear-north-koreas-little-rocket-man-12726086",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/11-17-26-Why-Trump-should-go-nuclear-with-North-Korea-s-little-rocket-man.jpg?w=1600&quality=80&webp=1",
+        "timestamp": 1794914520.0
+    },
+    {
         "id": "4d4165e4f8",
         "title_fa": "روبی سیگنال ۲۰۲۸ را داد",
         "title_en": "Marco Rubio’s first major 2028 signal showcased his biggest liability",
@@ -657,6 +788,62 @@
         "clean_url": "https://www.iranintl.com/en/202611177466",
         "image": "https://i.iranintl.com/images/rdk9umy0/production/c1a66f5956a87010c17ed24ca5bffa18eb66e59e-768x329.jpg?rect=71,0,627,329&w=1200&h=630&q=66&fit=max&auto=format",
         "timestamp": 1794911820.0
+    },
+    {
+        "id": "4ab0c33e68",
+        "title_fa": "نتانیاهو می‌گوید اسنکوت می‌تواند نخست‌وزیر شود",
+        "title_en": "Netanyahu could let Eisenkot serve as PM first under unity government rotation, Likud source says",
+        "summary": [
+            "منبع لایکوید نشان داد نتانیاهو ممکن است اسنکوت را به‌عنوان نخست‌وزیر موقت در دولت ائتلافی بگذارد",
+            "این چیدمان می‌تواند به تثبیت دولت اسرائیل در برابر فشارهای داخلی کمک کند"
+        ],
+        "impact": "تقویت ثبات سیاسی اسرائیل، اما پیچیدگی در مذاکرات داخلی",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-ca/news/other/netanyahu-could-let-eisenkot-serve-as-pm-first-under-unity-government-rotation-likud-source-says/ar-AA2hFJ2B?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-ca/news/other/netanyahu-could-let-eisenkot-serve-as-pm-first-under-unity-government-rotation-likud-source-says/ar-AA2hFJ2B",
+        "image": "https://www.bing.com/th?id=ONUT.vKw3WXg54GBXKY0ioM5RFw",
+        "timestamp": 1794911488.0
+    },
+    {
+        "id": "c1fb6d59c3",
+        "title_fa": "ترامپ در شنجن به شی جینپینگ خوش‌آمد گفت",
+        "title_en": "Apec Summit LIVE updates: Xi Jinping personally welcomes Trump in Shenzhen ahead of high-stakes trilateral",
+        "summary": [
+            "ترامپ در شنجن توسط شی جینپینگ با استقبال گرم مواجه شد",
+            "این دیدار پیش‌زمینه مذاکرات تجاری و امنیتی سه‌جانبه با چین و روسیه است"
+        ],
+        "impact": "تقویت روابط تجاری آمریکا‑چین، اما ریسک تعارض با سیاست‌های داخلی",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/apec-summit-live-updates-trump-xi-putin-meeting-shenzhen-iran-ukraine-iran-war-trade-peace-asean-modi-101794971774547.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/apec-summit-live-updates-trump-xi-putin-meeting-shenzhen-iran-ukraine-iran-war-trade-peace-asean-modi-101794971774547.html",
+        "image": "https://www.bing.com/th?id=ONUT.CYuuYEHvsPisMNdFY_Lz_w",
+        "timestamp": 1794911488.0
+    },
+    {
+        "id": "767a31114b",
+        "title_fa": "ترامپ به چین می‌رود؛ اختلالات فناوری در آمریکا",
+        "title_en": "Trump arrives in China while technological snafus raise concerns at home",
+        "summary": [
+            "ترامپ برای نشان دادن برتری فناوری آمریکا به چین سفر می‌کند، اما اختلالات گسترده در سرویس‌های داخلی اعتبار او را زیر سوال می‌برد",
+            "قطعی‌های مایکروسافت، FAA، JPMorgan Chase و سایر سرویس‌ها باعث نگرانی عمومی درباره امنیت دیجیتال شد",
+            "ترامپ این مشکلات را «نتیجهٔ قدرت بزرگ» می‌نامید و سعی دارد تصویر قوی حفظ کند",
+            "جلسهٔ سه‌جانبهٔ پیش‌رو با شی جین‌پینگ و ولادیمیر پوتین ممکن است تحت فشار عمومی داخلی قرار گیرد"
+        ],
+        "impact": "اعتماد عمومی به زیرساخت‌های فناوری آمریکا کاهش می‌یابد و ممکن است مذاکرات بین‌المللی را تحت تأثیر قرار دهد",
+        "tag": "تکنولوژی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "NBC New York",
+        "url": "https://www.nbcnewyork.com/news/national-international/donald-trump-china-visit-united-states/6573735/",
+        "clean_url": "https://www.nbcnewyork.com/news/national-international/donald-trump-china-visit-united-states/6573735",
+        "image": "https://www.bing.com/th?id=ONUT.5rbWz0rT5BiBOdgrhoXU5Q",
+        "timestamp": 1794911488.0
     },
     {
         "id": "bc323b2123",
@@ -5423,196 +5610,5 @@
         "clean_url": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2",
         "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794484860.0
-    },
-    {
-        "id": "a5f6a9d415",
-        "title_fa": "مجلس‌عالی ایران در کمیته حقوق بشر ادامه یافت",
-        "title_en": "UN renews Iran's committee seat amid war with US, sparking backlash: 'Morally bankrupt'",
-        "summary": [
-            "سازمان ملل صندلی ایران را در کمیته برنامه‌ریزی و هماهنگی حفظ کرد.",
-            "این تصمیم با انتقادات شدید کشورهای مخالف مواجه شد.",
-            "ناظران می‌گویند حضور ایران به مشروعیت‌بخشی به رژیم کمک می‌کند."
-        ],
-        "impact": "تقویت ابزار دیپلماتیک ایران برای مقابله با فشارهای بین‌المللی",
-        "tag": "حقوق بشر",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/un-renews-irans-committee-seat-195206771.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/un-renews-irans-committee-seat-195206771.html",
-        "image": "http://www.bing.com/th?id=ONUT.QFHHHzJuS1AWPamcW-5paw&pid=News",
-        "timestamp": 1794484260.0
-    },
-    {
-        "id": "d7524b4e5c",
-        "title_fa": "جنگ ترامپ با ایران هزینه‌های سنگین‌تری می‌گیرد",
-        "title_en": "Why Trump’s Iran war just got a lot more costly",
-        "summary": [
-            "تحلیلگران می‌گویند هزینه‌های نظامی و اقتصادی آمریکا در مقابل ایران در حال افزایش است.",
-            "تحریم‌های جدید فشار بر صنایع نفت و مالی ایران را تشدید می‌کند.",
-            "ریسک تشدید درگیری نظامی در خلیج فارس به‌نظر می‌رسد.",
-            "واکنش‌های داخلی آمریکا نسبت به ادامه جنگ منفی است."
-        ],
-        "impact": "افزایش فشار اقتصادی و سیاسی آمریکا بر ایران، خطر تشدید تنش",
-        "tag": "سیاست-آمریکا",
-        "urgency": 3,
-        "sentiment": -0.3,
-        "source": "The New Arab",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakJFalVKV2V3ejMyQnJmVWRyNkMxWDkyNldDRVYtQlREeURaUC1YT0Y5cmZqT01VOVk0S0xXNG1SQXprZEdwLWZ0UjBja1l1VktjbXpCcDE3UDFsU1ctZkhlTkd3bVZ3NUozSENuNEh3ektrTEhSdFJrVk01c1dISFA4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakJFalVKV2V3ejMyQnJmVWRyNkMxWDkyNldDRVYtQlREeURaUC1YT0Y5cmZqT01VOVk0S0xXNG1SQXprZEdwLWZ0UjBja1l1VktjbXpCcDE3UDFsU1ctZkhlTkd3bVZ3NUozSENuNEh3ektrTEhSdFJrVk01c1dISFA4Zw",
-        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794484125.0
-    },
-    {
-        "id": "035e86e602",
-        "title_fa": "آمار جدید موشک‌های ایران: فرسایش و بازسازی",
-        "title_en": "Iran’s Missile Arsenal – Erosion, Rebuilding, Renewed Erosion, and a Further Attempt to Rebuild",
-        "summary": [
-            "تحقیقات نشان می‌دهد برخی موشک‌های کوتاه‌برد تحت فشار تحریم‌ها فرسوده شده‌اند.",
-            "ایران به‌سرعت برنامه‌های بازسازی و تولید موشک‌های جدید را پیش می‌برد.",
-            "دولت آمریکا موشک‌های میان‌برد را به‌عنوان تهدید اصلی می‌داند.",
-            "دولت‌های منطقه به‌دقت توان نظامی ایران را زیر نظر دارند."
-        ],
-        "impact": "قابلیت پاسخ نظامی ایران در معرض نوسان، رقیبان هسته‌ای به دقت پیگیری می‌کنند",
-        "tag": "موشک",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Alma Research and Education Center",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX043czl0NUxRdy16UVhfNGFsY19ZWGtZYTRjd2ZLdUtIbFFSMmNZQTF3bVVOQzRSSnY2TUYzTHRFTWpHZ0xCM3Vib0IzMlV1YXBTZkViNEdaOFpnSVJpU25ZWlI2ZTF6YkZQSlI3RFdnZGQzeWlTRlMzT2ktMFZJampQNG9BWE1maFlxVGVGRU03OXBCLUs5aWVUVzBILTctRnRLNElNX2oydXgxRldmZGFNeFY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX043czl0NUxRdy16UVhfNGFsY19ZWGtZYTRjd2ZLdUtIbFFSMmNZQTF3bVVOQzRSSnY2TUYzTHRFTWpHZ0xCM3Vib0IzMlV1YXBTZkViNEdaOFpnSVJpU25ZWlI2ZTF6YkZQSlI3RFdnZGQzeWlTRlMzT2ktMFZJampQNG9BWE1maFlxVGVGRU03OXBCLUs5aWVUVzBILTctRnRLNElNX2oydXgxRldmZGFNeFY",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794482819.0
-    },
-    {
-        "id": "d3ea2ad4f8",
-        "title_fa": "تهران اعتراض به جایزه ۲۰ میلیون دلاری آمریکا",
-        "title_en": "Iran War Crisis: Tehran Files UN Protest Over U.S. Nuclear Bounty as IAEA Standby Deepens — November 12, 2026",
-        "summary": [
-            "وزیر خارجه ایران نامه‌ای رسمی به سازمان ملل و آژانس هسته‌ای ارسال کرد.",
-            "این نامه برنامهٔ پاداش ۲۰ میلیون دلاری آمریکا برای اطلاعات هسته‌ای را محکوم کرد.",
-            "تهران ادعا می‌کند این اقدام امنیت هسته‌ای بین‌المللی را به خطر می‌اندازد.",
-            "ایران درخواست بررسی قانونی این برنامه توسط شورای امنیت را دارد."
-        ],
-        "impact": "تشدید فشار دیپلماتیک بر ایالات متحده و ریسک تحریم‌های جدید",
-        "tag": "دیپلوماسی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "WEBTECH 360",
-        "url": "https://www.webtech360.com/detail/iran-war-crisis-tehran-files-un-protest-over-u-s-iran-daily-live-20261108-us-hp2-99917775.html",
-        "clean_url": "https://www.webtech360.com/detail/iran-war-crisis-tehran-files-un-protest-over-u-s-iran-daily-live-20261108-us-hp2-99917775.html",
-        "image": "https://image.webtech360.com/content/img/icon/logo-webtech360.webp",
-        "timestamp": 1794481500.0
-    },
-    {
-        "id": "6330d5705f",
-        "title_fa": "وینس: جنگ ایران سبب شکست جمهوری‌خواهان؛ ترامپ تکرار می‌کند",
-        "title_en": "Vance blames Iran war for Republicans' midterms defeat. Trump says he would 'do it again' - ABC News",
-        "summary": [
-            "وینس می‌گوید جنگ ایران عامل شکست حزب جمهوری‌خواه در انتخابات میانی شد.",
-            "ترامپ اعلام کرد اگر دوباره موقعیت پیش آید، همان کار را تکرار می‌کند؛ نشانگر تمایل به فشار نظامی."
-        ],
-        "impact": "تشدید ریسک سیاسی برای حزب جمهوری‌خواه و احتمال بازگشت سیاست‌های تند نظامی",
-        "tag": "سیاست-آمریکا",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUF1ZW4zbmtvMzFJYkIyWnBjM3dZbWJ0Yk5uUURJQ3E5UEg2NUUwT3B6dy1vSXBrLTFKbE5BOWt3RldIb0dwNzVqb3hfNEtnOXBiYzc1X2FTTkk0eU5rOXZPWVRxdEROUjRfbVY5WlFVM2FuenJ1QWxJc2lRLXdFc2hQSUxjdjltUDc3X01HS3FTcGhMMnZnWDgtX0J2d21JOVFfRTBR0gGrAUFVX3lxTFB6NGhGWlhYeTlUWGFUd19PR1UxUEpDSGd6VmNFWnk4dUtHWmVEeVF2VGYtYjRhbzdwVVN6MXBwVGIyekhWc1RLVkFjQ2tJTmZMLWZQY3hvalRIYmNVbUFyT3hzR2ZvQWZJalE3eTBVV3phVTY5VEo4RldqVzRhRF9SRnV2UFVBUG9fZVFKMzlpd0RhaGlqa3NBcWlycnRJQUZkU1E3NTU0VVRFOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUF1ZW4zbmtvMzFJYkIyWnBjM3dZbWJ0Yk5uUURJQ3E5UEg2NUUwT3B6dy1vSXBrLTFKbE5BOWt3RldIb0dwNzVqb3hfNEtnOXBiYzc1X2FTTkk0eU5rOXZPWVRxdEROUjRfbVY5WlFVM2FuenJ1QWxJc2lRLXdFc2hQSUxjdjltUDc3X01HS3FTcGhMMnZnWDgtX0J2d21JOVFfRTBR0gGrAUFVX3lxTFB6NGhGWlhYeTlUWGFUd19PR1UxUEpDSGd6VmNFWnk4dUtHWmVEeVF2VGYtYjRhbzdwVVN6MXBwVGIyekhWc1RLVkFjQ2tJTmZMLWZQY3hvalRIYmNVbUFyT3hzR2ZvQWZJalE3eTBVV3phVTY5VEo4RldqVzRhRF9SRnV2UFVBUG9fZVFKMzlpd0RhaGlqa3NBcWlycnRJQUZkU1E3NTU0VVRFOA",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794481493.0
-    },
-    {
-        "id": "d4afca2e05",
-        "title_fa": "ایران به سرعت موشک‌های خود را بازسازی می‌کند",
-        "title_en": "Iran Races to Rebuild Missile Arsenal as Trump Signals US Unlikely to Resume Strikes",
-        "summary": [
-            "سازمان سپاه پاسداران شهر موشکی زیرزمینی جدیدی را نشان داد که شامل موشک‌های بالستیک و کروز است",
-            "ترامپ اعلام کرد که ایالات متحده احتمالاً به حمله نظامی جدید علیه تهران باز نخواهد گشت",
-            "کارشناسان می‌گویند این موشک‌ها همچنان تهدید جدی برای اسرائیل و کل خاورمیانه باقی مانده‌اند"
-        ],
-        "impact": "بازسازی موشک‌ها می‌تواند توان تهاجمی ایران را در سال‌های آینده تقویت کند",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Algemeiner",
-        "url": "https://www.algemeiner.com/2026/11/12/iran-races-rebuild-missile-arsenal-trump-signals-us-unlikely-resume-strikes/",
-        "clean_url": "https://www.algemeiner.com/2026/11/12/iran-races-rebuild-missile-arsenal-trump-signals-us-unlikely-resume-strikes",
-        "image": "https://www.algemeiner.com/wp-content/uploads/2026/10/2026-10-01T111607Z_1_LYNXMPEM9030V_RTROPTP_4_IRAN-CRISIS-1.jpg",
-        "timestamp": 1794480300.0
-    },
-    {
-        "id": "a5c2a51a61",
-        "title_fa": "سندرز و هم‌پیمانان می‌خواهند تأمین مالی جنگ ایران متوقف شود",
-        "title_en": "Bernie Sanders, powerful Democrat lawmakers want Iran war funding freeze as part of any gov't funding deal",
-        "summary": [
-            "سناتور برنی سندرز و چند دموکرات خواستار قطع بودجه جنگ ایران در قانون بودجه هستند",
-            "این درخواست در مذاکرات تصویب بسته مالی دولت مطرح شد",
-            "هدف کاهش هزینه‌های نظامی و فشار بر ایران است",
-            "ممکن است به تنگناهای سیاسی در کنگره منجر شود"
-        ],
-        "impact": "کاهش منابع مالی برای عملیات نظامی آمریکا در ایران",
-        "tag": "بودجه",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Daily Caller on MSN",
-        "url": "https://www.msn.com/en-us/news/other/bernie-sanders-powerful-democrat-lawmakers-want-iran-war-funding-freeze-as-part-of-any-govt-funding-deal/ar-AA2hjp1f",
-        "clean_url": "https://www.msn.com/en-us/news/other/bernie-sanders-powerful-democrat-lawmakers-want-iran-war-funding-freeze-as-part-of-any-govt-funding-deal/ar-AA2hjp1f",
-        "image": "https://images.unsplash.com/photo-1577896859042-9235620b2473?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794479024.0
-    },
-    {
-        "id": "9286419ea5",
-        "title_fa": "ترامپ و نتانیاهو در تماسی شدید بر سر جنگ ایران با هم درگیر شدند",
-        "title_en": "Trump and Netanyahu clash in heated call over Iran war",
-        "summary": [
-            "A sharp strategic divide between Washington and Jerusalem has spilled into the open following reports that United States President Donald Trump and Israeli Prime Minister Benjamin Netanyahu engaged in a fierce,"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Newspoint",
-        "url": "https://www.msn.com/en-in/news/other/trump-and-netanyahu-clash-in-heated-call-over-iran-war/ar-AA2hh6cB",
-        "clean_url": "https://www.msn.com/en-in/news/other/trump-and-netanyahu-clash-in-heated-call-over-iran-war/ar-AA2hh6cB",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hhsEv.img?w=640&h=480&m=4&q=50",
-        "timestamp": 1794477097.0
-    },
-    {
-        "id": "00190f2bc4",
-        "title_fa": "ترامپ جنگ ایران و ضد‑اسرائیل را مقصر شکست می‌داند",
-        "title_en": "Trump Blames Anti-Israel Sentiment, Iran War for Republican Midterm Losses",
-        "summary": [
-            "ترامپ در بیانیه‌ای به‌دلیل مخالفت با اسرائیل و جنگ ایران، شکست‌های جمهوری‌خواه را سرزنش کرد.",
-            "او ادعا می‌کند این موضع‌گیری باعث از دست رفتن رأی‌های میانه‌رو شد.",
-            "تحلیلگران می‌گویند این حرف‌ها برای جلب حمایت پایهٔ محافظه‌کاران است.",
-            "نتیجهٔ این استراتژی می‌تواند رادیکال‌گرایی در حزب جمهوری‌خواه را تقویت کند."
-        ],
-        "impact": "تقویت رادیکال‌گرایی داخل حزب جمهوری‌خواه و تغییر استراتژی انتخاباتی",
-        "tag": "انتخابات-آمریکا",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "politicstoday.org",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHBWZnRLZjVsamRXY3VQSzRCd214eGlQSWNqOVk1YXZPajBJdmlxdzJRcFFGSXJsbXV5b1BsU2Z4a1VqNHZ2X180SjZDNGtYb2JuM1k5OW9Dbi15S1lfQjVMN3J4SmI4T3NLaFJobEZGbHFpVWIwdGdJTmt3TFpGQWhDZkhMY3d0TG1xMktnS09vaUxEbDRfWjlpazZyRkFqRmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHBWZnRLZjVsamRXY3VQSzRCd214eGlQSWNqOVk1YXZPajBJdmlxdzJRcFFGSXJsbXV5b1BsU2Z4a1VqNHZ2X180SjZDNGtYb2JuM1k5OW9Dbi15S1lfQjVMN3J4SmI4T3NLaFJobEZGbHFpVWIwdGdJTmt3TFpGQWhDZkhMY3d0TG1xMktnS09vaUxEbDRfWjlpazZyRkFqRmc",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794476168.0
-    },
-    {
-        "id": "680142df7b",
-        "title_fa": "جنگ ایران 2026: نفت، هرمز و جبهه‌ها",
-        "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
-        "summary": [
-            "جنگ 2026 بین ایران، ایالات متحده و اسرائیل، به‌ویژه در خلیج هرمز، در نقشه‌ها به‌صورت گسترده نشان داده شده.",
-            "بحران نفت باعث نوسان شدید قیمت جهانی و تهدید امنیت انرژی شد."
-        ],
-        "impact": "افزایش بی‌ثباتی قیمت انرژی و نگرانی‌های امنیتی در خاورمیانه",
-        "tag": "جنگ",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794475235.0
     }
 ]
