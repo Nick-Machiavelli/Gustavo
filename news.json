@@ -1,5 +1,24 @@
 [
     {
+        "id": "4efd5073a0",
+        "title_fa": "ترامپ برنامه حمله نظامی جدید به ایران را بررسی می‌کند",
+        "title_en": "President Trump is weighing plans for another round of extensive military strikes on Iran amid intensifying pressure from Israel, according to U.S. and Israeli officials.",
+        "summary": [
+            "ترامپ تحت فشار اسرائیل و اطلاعات داخلی آمریکا، به فکر حمله گسترده به ایران است",
+            "حمله نظامی می‌تواند به سرعت به گسترش جنگ منطقه‌ای منجر شود",
+            "تحریم‌های قبلی به همراه حمله، فشار مالی و زیرساختی شدیدی بر ایران وارد می‌کند"
+        ],
+        "impact": "شروع جنگ مستقیم آمریکا‑ایران و تخریب زیرساخت‌های نظامی و اقتصادی ایران",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTTMzRVpVZmViaENjSHVTVW82Q0F3U3YtbHZZOWdsVlJQQXpHbjgwT2tIeWJfaHJka1IxQkgta09waUdyaVpsa0xhbFVuUHo1ZGhhUGk3LUFQbXlGVVVLX29tZ0xSaHZ0bnBKNXAtRFBCcTJ5empsTTc3R2RTNlZ6cWN1RXRJVnE1MjlBeFVSU2FsX0NpbXFBU1BYT2tLLUlOaVNmMzRQNlhxMzk2YXdVSl9VaGg0NktRY2xlSUNpSGZkV3JINVJQS29QM3FBRjlhd3Zn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTTMzRVpVZmViaENjSHVTVW82Q0F3U3YtbHZZOWdsVlJQQXpHbjgwT2tIeWJfaHJka1IxQkgta09waUdyaVpsa0xhbFVuUHo1ZGhhUGk3LUFQbXlGVVVLX29tZ0xSaHZ0bnBKNXAtRFBCcTJ5empsTTc3R2RTNlZ6cWN1RXRJVnE1MjlBeFVSU2FsX0NpbXFBU1BYT2tLLUlOaVNmMzRQNlhxMzk2YXdVSl9VaGg0NktRY2xlSUNpSGZkV3JINVJQS29QM3FBRjlhd3Zn",
+        "image": "https://images.unsplash.com/photo-1590732593895-6c9339736a9b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1795141680.0
+    },
+    {
         "id": "30da94599f",
         "title_fa": "سچنز از حملات سیاسی فییخو دور شد",
         "title_en": "Sánchez se quita el traje de campeón y desactiva los intentos de Feijóo de buscar el choque durante el cara a cara televisivo",
@@ -5550,23 +5569,5 @@
         "clean_url": "https://inews.co.uk/opinion/trump-just-made-jd-vances-path-to-the-white-house-harder-4897013",
         "image": "https://www.bing.com/th?id=ONUT.qyHyFFHdR9fMPmkSy_v0Sw",
         "timestamp": 1794650066.8969429
-    },
-    {
-        "id": "5e884bce9c",
-        "title_fa": "دفاع هوایی روسیه ۳۹ پهپاد اوکراینی را نابود کرد",
-        "title_en": "Air defenses downed 39 Ukrainian UAVs over Russian regions during day — Defense Ministry",
-        "summary": [
-            "وزارت دفاع روسیه اعلام کرد سامانه‌های دفاع هوایی در ۱۰ استان از جمله بلگراد و کریمه، ۳۹ پهپاد اوکراینی را بین ساعت ۸ صبح تا ۸ شب نابود کردند.",
-            "این آمار نشان می‌دهد توان مقابله روسیه با حملات هوایی کوچک اوکراین در حال تقویت است."
-        ],
-        "impact": "کاهش توان حملات هوایی اوکراین و تقویت دفاع سرزمین‌های روسیه.",
-        "tag": "دفاع هوایی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/defense/2218213",
-        "clean_url": "https://tass.com/defense/2218213",
-        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-        "timestamp": 1794649440.0
     }
 ]
