@@ -1,5 +1,25 @@
 [
     {
+        "id": "8cf91d2666",
+        "title_fa": "یالتای جدید؟ مقایسه ترامپ‑پوتین‑شی جینپینگ",
+        "title_en": "Deeper collusion between hostile powers threatens the West",
+        "summary": [
+            "مقاله‌ای به تاریخ یالتای ۱۹۴۵ می‌پردازد و مقایسه‌ای با ملاقات اخیر رهبران سه قدرت می‌کند",
+            "نویسنده ادعا می‌کند ترامپ پس از شکست میانی‌دوره سعی در نمایش قدرت دارد",
+            "پوتین به دنبال جبران شکست‌های منطقه‌ای و چین می‌خواهد نقش امپراتوری را بازی کند",
+            "تحلیلگر هشدار می‌دهد این دیدارها نتایج ملموسی نخواهد داد"
+        ],
+        "impact": "هیچ تغییر اساسی در سیاست‌های غرب یا شرق پیش‌بینی نمی‌شود",
+        "tag": "ژئوپلیتیک",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "NRC",
+        "url": "https://www.nrc.nl/nieuws/2026/11/22/deeper-collusion-between-hostile-powers-threatens-the-west-a4941939",
+        "clean_url": "https://www.nrc.nl/nieuws/2026/11/22/deeper-collusion-between-hostile-powers-threatens-the-west-a4941939",
+        "image": "https://www.bing.com/th?id=ONUT.hLY_O_9PVudDHqNeq-64Og",
+        "timestamp": 1795385683.0330148
+    },
+    {
         "id": "514898b2a8",
         "title_fa": "بمب کثیف ایرانی فقط شایعه",
         "title_en": "That Iranian 'dirty bomb' would be all bark, no bite",
@@ -123,6 +143,26 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/golan-says-minority-government-backed-by-arab-parties-only-realistic-alternative-rules-out-sitting-with-netanyahu",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1795354980.0
+    },
+    {
+        "id": "0f21289244",
+        "title_fa": "قیمت مسکن در تهران؛ بحران مسکن و اجاره‌نشینی",
+        "title_en": "CENTCOM chief meets regional leaders, honors US troops involved in Iran operations",
+        "summary": [
+            "میانگین قیمت متر مربع آپارتمان در تهران به ۳ میلیارد ریال رسید، ۱۲.۵٪ رشد ماهانه",
+            "این قیمت معادل ۱۸ ماه حداقل دستمزد است و خرید مسکن را برای اکثر خانواده‌ها غیرممکن می‌کند",
+            "بحران مسکن باعث افزایش تعداد طلاق‌ها و فشار بر روابط خانوادگی شده",
+            "دولت هنوز راه‌حل مؤثری برای کاهش قیمت‌ها ارائه نکرده"
+        ],
+        "impact": "کاهش قدرت خرید خانوارها و تشدید نابرابری‌های اقتصادی",
+        "tag": "مسکن",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611229176",
+        "clean_url": "https://www.iranintl.com/en/202611229176",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1795352760.0
     },
     {
         "id": "130adf91e5",
@@ -369,6 +409,25 @@
         "timestamp": 1795330011.0
     },
     {
+        "id": "534e4a7cad",
+        "title_fa": "قتل نوجوان در کرمانشاه؛ دستگیری پدر و مدیر مدرسه",
+        "title_en": "Iran lawmaker says Tehran will confront threats wherever they originate",
+        "summary": [
+            "سگانده سییادی ۱۴ نوامبر در کرمانشاه جان باخت، پدرش به قتل و ضربه متهم شد",
+            "مدیر مدرسه به سهل‌انگاری بازداشت شد؛ خانواده ادعای خشونت خانوادگی سال‌ها را دارد",
+            "مقامات هنوز علت دقیق مرگ را بررسی می‌کنند؛ امکان خودکشی نیز مطرح است"
+        ],
+        "impact": "تحقیقات می‌تواند فشار عمومی بر نهادهای قضایی را افزایش دهد",
+        "tag": "اجتماعی",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611228380",
+        "clean_url": "https://www.iranintl.com/en/202611228380",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1795328640.0
+    },
+    {
         "id": "5e558c4813",
         "title_fa": "IRGC ادعای حمله بحرینی به پایگاه‌های Patriot آمریکا",
         "title_en": "Iran live updates: IRGC says Bahrain attacks targeted US Patriot sites",
@@ -576,6 +635,26 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUktQTUxGTEtDQWIxNUhINTFnRFNKUVFXcVpCRzFfTkZyOGsxMTd6SGZIUFRDemJTTnZMZUgzcHRzbEdRelk3NDU0ZjJaS1BZSW9PTXdkcFZKcDh2c0hLWUdMUFRHdnlkcGpyNEx5YzFGaGpfNkFNMGhnREhzOHg5NkNjd1h0dVdJMlpzNDF6VDRmbndFOFFwYmFwclhrXzRmUDZEUlh4SnZnNXl6NmtiVVE5RdIBuAFBVV95cUxQVU10eVZfaUYzZ1pUdjc5WWU0YVZoZGdvUFlwY3pRallKQ1JXSFhUZlRVUjVURzM2ZXoyTjJPT2ZqR2RYX0FXSG1iMXk1SzI4Tkx1UFFxU3VLN1VLSkliaDd0UnotS2hoZVVPcUQtd2hYN3FXZzFtdnVtWkd2RUwyS1U2ZUVyMC1tYjJTaGtUTFphNWxqNlgzY2VDSW1EVlFrNFhuVnY3R1AwUXU2VFVRUmhsRTNxVk1C",
         "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1795304805.0
+    },
+    {
+        "id": "19cf9d7c1a",
+        "title_fa": "قطعی برق در ایران؛ واکنش به حملات آمریکا/اسرائیل",
+        "title_en": "Iran To Ration Electricity Amid Warnings Power Grid Battered by US, Israeli Strikes",
+        "summary": [
+            "دولت اعلام کرد برق روزانه تا دو ساعت در برخی مناطق قطع می‌شود",
+            "وزیر انرژی به فشارهای ناشی از حملات هوایی آمریکا و اسرائیل بر زیرساخت‌های گاز اشاره کرد",
+            "این محدودیت‌ها با شروع زمستان و کمبود سوخت ترکیب می‌شود",
+            "مردم انتظار رنج‌های طولانی‌مدت در مصرف انرژی دارند"
+        ],
+        "impact": "کاهش تولید صنعتی و نارضایتی عمومی در فصل سرد پیش می‌آید",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Radio Free Europe/Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html",
+        "clean_url": "https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html",
+        "image": "https://gdb.rferl.org/01000000-0a00-0242-1a34-08db967bbf26_cx0_cy6_cw0_w1200_h630.jpg",
+        "timestamp": 1795302000.0
     },
     {
         "id": "2ebb573616",
@@ -5481,81 +5560,5 @@
         "clean_url": "https://www.forbes.com/sites/saradorn/2026/11/17/trump-said-us-is-taking-alleged-iran-dirty-bomb-threat-very-seriously",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1794897120.0
-    },
-    {
-        "id": "0c9bc8eb14",
-        "title_fa": "پیروزی بزرگ ایران؛ حوثی‌ها به‌سرعت به آمریکا و عربستان نزدیک",
-        "title_en": "Iran’s Biggest Win Yet Is Closing in on US and Saudi Arabia",
-        "summary": [
-            "پیشرفت‌های نظامی حوثی‌ها در یمن فشار بر عربستان و ایالات متحده را افزایش داده.",
-            "سقوط موضع‌های کلیدی در سواحل دریای سرخ نشان‌دهنده گسترش ائتلاف مقاومت ایران است."
-        ],
-        "impact": "تقویت موقعیت حوثی‌ها می‌تواند تعادل قدرت در خاورمیانه را به نفع ایران تغییر دهد",
-        "tag": "منطقه‌ای",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/houthi-gains-in-yemen-could-deliver-major-win-for-iran-12721199",
-        "clean_url": "https://www.newsweek.com/houthi-gains-in-yemen-could-deliver-major-win-for-iran-12721199",
-        "image": "http://www.bing.com/th?id=ONUT.nrK0Bjo5BTTnTtAeHUSCow&pid=News",
-        "timestamp": 1794880800.0
-    },
-    {
-        "id": "3b0e64c369",
-        "title_fa": "رابیو حملات پهپادی ایران به بحرین را محکوم کرد",
-        "title_en": "Rubio condemns Iran strikes on Bahrain, Manama demands halt at UN",
-        "summary": [
-            "رابیو در تماس با همتای بحرینی، حملات پهپادی ایران را محکوم کرد",
-            "بحرین در مجمع سازمان ملل خواست توقف فوری حملات را اعلام کرد",
-            "ایران ادعا کرد هدف دفاع هوایی آمریکا در بحرین بوده است",
-            "این رویداد فشار دیپلماتیک بر روابط ایران‑امریکا را افزون می‌کند"
-        ],
-        "impact": "تحریم‌های دیپلماتیک علیه ایران تشدید می‌شود",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611173870",
-        "clean_url": "https://www.iranintl.com/en/202611173870",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/eccd7af2b73623841aea7f88dafaca24efc655cd-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1794877920.0
-    },
-    {
-        "id": "f502a58c14",
-        "title_fa": "رئیس‌جمهور نظامی ایران: آمریکا را به قطب جنوب می‌رانیم",
-        "title_en": "Iran’s military chief says Tehran will drive US forces to South Pole",
-        "summary": [
-            "در برنامه تلویزیونی، تحلیلگر نظامی گفت ترامپ از مسأله هسته به تغییر رژیم رفته است.",
-            "فشار اقتصادی آمریکا به عنوان ابزار اصلی برای سرنگونی جمهوری اسلامی مطرح شد."
-        ],
-        "impact": "بیان تهدید مستقیم می‌تواند تنش‌های نظامی را تشدید کند",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611171152",
-        "clean_url": "https://www.iranintl.com/en/202611171152",
-        "image": "http://www.bing.com/th?id=ONUT.HcCjqjSD1mLuOCkdSX-3Aw&pid=News",
-        "timestamp": 1794877800.0
-    },
-    {
-        "id": "95b9332290",
-        "title_fa": "به‌روزرسانی ایران ۱۶ نوامبر ۲۰۲۶",
-        "title_en": "Iran Update, November 16, 2026",
-        "summary": [
-            "به‌روزرسانی ایران ۱۶ نوامبر ۲۰۲۶ شامل خلاصه‌ای از تحولات اخیر است",
-            "شامل نکات کلیدی درباره تحریم‌ها، فعالیت‌های نظامی و دیپلماتیک می‌شود",
-            "اطلاعات به‌صورت مختصر برای تصمیم‌گیرندگان منطقه‌ای ارائه می‌شود",
-            "این گزارش می‌تواند به شکل‌گیری استراتژی‌های آینده کمک کند"
-        ],
-        "impact": "اطلاعات کلی می‌تواند برای تصمیم‌گیرندگان منطقه‌ای مفید باشد",
-        "tag": "اطلاع‌رسانی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Critical Threats",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZG4yYVNMVWFTV2RiblNtZ2pWcnhGOHBiamx2TTMyLUgxRmJFdEhyeW1SNU5mWVNGdlBLUlZLdUhNNWZiOUdNVGtHdzlVT3dWSV9MYzlHVHRvd1BybG5KcERQVkRXN0h6Tk5yLWZVNmVhRFE3RndrVzhPdDRqS0JpTDBxcmVnajFxLWtz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZG4yYVNMVWFTV2RiblNtZ2pWcnhGOHBiamx2TTMyLUgxRmJFdEhyeW1SNU5mWVNGdlBLUlZLdUhNNWZiOUdNVGtHdzlVT3dWSV9MYzlHVHRvd1BybG5KcERQVkRXN0h6Tk5yLWZVNmVhRFE3RndrVzhPdDRqS0JpTDBxcmVnajFxLWtz",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1794874960.0
     }
 ]
