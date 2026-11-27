@@ -1,5 +1,118 @@
 [
     {
+        "id": "dc654d2da9",
+        "title_fa": "پوتین حاضر به تحمل رکود اقتصادی برای جنگ اوکراین",
+        "title_en": "Putin Is Willing to Make the Ultimate Sacrifice to Win the War in Ukraine: Let the Economy Stagnate for Years",
+        "summary": [
+            "روسیه برای ادامه جنگ هزینه‌های سنگین می‌پردازد",
+            "مذاکرات غربی برای ارائه مشوق‌های اقتصادی به مسکو مطرح است",
+            "تحریم‌های سخت‌تر ممکن است تأثیر کمی بر توان جنگی روسیه داشته باشد",
+            "اقتصاد روسیه به‌تدریج به رکود می‌رسد"
+        ],
+        "impact": "پایدار ماندن فشار نظامی روسیه در اوکراین",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "nationalsecurityjournal",
+        "url": "https://nationalsecurityjournal.org/putin-is-willing-to-make-the-ultimate-sacrifice-to-win-the-war-in-ukraine-let-the-economy-stagnate-for-years/",
+        "clean_url": "https://nationalsecurityjournal.org/putin-is-willing-to-make-the-ultimate-sacrifice-to-win-the-war-in-ukraine-let-the-economy-stagnate-for-years",
+        "image": "https://www.bing.com/th?id=ONUT.TO9BVq8asxveV8s2_4N22A",
+        "timestamp": 1795805200.4594028
+    },
+    {
+        "id": "280f10e47c",
+        "title_fa": "کشته شدن تکنسین‌های ایتالیایی در خلیج توسط پهپاد",
+        "title_en": "The Iran war is spreading beyond Israel. The Gulf is becoming a global front",
+        "summary": [
+            "دو تکنسین ایتالیایی در حین تعمیر آنتنهای دفاع هوایی توسط پهپادهای شلیک‌شده کشته شدند",
+            "کویت و ایتالیا مسئولیت حمله را به ایران نسبت دادند",
+            "ایران رد کرد که در این حمله نقش داشته باشد",
+            "این حادثه نشان می‌دهد جنگ به کارگران غیرنظامی نیز سرایت کرده است"
+        ],
+        "impact": "افزایش خطر برای پیمانکاران خارجی در پروژه‌های نظامی خلیج",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "ynetnews",
+        "url": "https://www.ynetnews.com/opinions-analysis/article/bkftrbwyme",
+        "clean_url": "https://www.ynetnews.com/opinions-analysis/article/bkftrbwyme",
+        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/14/rJsHagI0Gx/rJsHagI0Gx_0_0_850_479_0_large.jpg",
+        "timestamp": 1795805200.4581494
+    },
+    {
+        "id": "583ef32c04",
+        "title_fa": "سفیر ایران از جهان می‌خواهد که غزه را فراموش نکنند زیرا ایرانی‌ها با افزایش قیمت‌ها دست و پنجه نرم می‌کنند",
+        "title_en": "Iran envoy urges world not to forget Gaza as Iranians struggle with soaring prices",
+        "summary": [
+            "Pro-Iran factions in Baghdad have pushed back. The Badr Organization's bloc in parliament condemned what it called American interference in Iraq's border policy and demanded the crossings reopen, and the Asaib Ahl al-Haq bloc asked why the government's technical explanations differed from the foreign minister's account."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": 0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611279999",
+        "clean_url": "https://www.iranintl.com/en/202611279999",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/6753c71b8ad4d751d53890ab7ac6932ea38c11b8-1199x1039.jpg?rect=0,206,1199,629&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795800600.0
+    },
+    {
+        "id": "08baee63e5",
+        "title_fa": "افزایش حملات ایران به هورموز، آزمایش صبر واشنگتن",
+        "title_en": "Iran ramps up Hormuz attacks, testing White House patience",
+        "summary": [
+            "ایران با تیراندازی بیشتر به کشتی‌ها در هورموز، نشان می‌دهد که می‌خواهد فشار بر مسیر نفت خلیج فارس را حفظ کند.",
+            "واشنگتن با هشدارهای تند، سعی دارد با دیپلماسی و تهدید تحریم‌های جدید واکنش نشان دهد.",
+            "اختلال در عبور نفت می‌تواند هزینه حمل‌ونقل را بالا برده و قیمت جهانی نفت را تحت فشار قرار دهد."
+        ],
+        "impact": "اختلال در عبور نفت از هورموز، افزایش هزینه‌های حمل‌ونقل و فشار بر قیمت نفت جهانی",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Al-Monitor",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkJ6OS02d0JvcHp6YkxpMUYtcU9EUW5ucWkxcnBNelRQb2FaZUZ2ZGVwUzBTb2FnYjhJMWNBTHRGdFBidlVwcS14SlU1NWVSMkM5LVphVXoxdXM4bG55eEtXb0hGZE1HY2NUZDFlWm5raUxaX240QjNWdjlpZzlNRFdjRDVfNGhzaWxqdGFGS25HbE9IUGR4M1haRXpBTDNC?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkJ6OS02d0JvcHp6YkxpMUYtcU9EUW5ucWkxcnBNelRQb2FaZUZ2ZGVwUzBTb2FnYjhJMWNBTHRGdFBidlVwcS14SlU1NWVSMkM5LVphVXoxdXM4bG55eEtXb0hGZE1HY2NUZDFlWm5raUxaX240QjNWdjlpZzlNRFdjRDVfNGhzaWxqdGFGS25HbE9IUGR4M1haRXpBTDNC",
+        "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1795799069.0
+    },
+    {
+        "id": "0db8b4dd24",
+        "title_fa": "نقش ایران در جنگ زیرزمینی متحدان عرب",
+        "title_en": "Iran’s Role in Arab Allies’ Underground Warfighting",
+        "summary": [
+            "ایران به گروه‌های شبه‌نظامی عرب سلاح و آموزش می‌دهد",
+            "این حمایت به‌صورت مخفیانه در مناطق مختلف خاورمیانه ادامه دارد",
+            "هدف تقویت توان مقاومت در برابر اسرائیل و آمریکا است",
+            "افشای این روابط می‌تواند روابط دیپلماتیک منطقه را تحت فشار قرار دهد"
+        ],
+        "impact": "تقویت توان نظامی غیررسمی مخالفان در خاورمیانه",
+        "tag": "جنگ‌نامرئی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Middle East Institute",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEY3X2FBcEdEblJ2OEVfSjlCb0xVRE5OVGxUdkdrSHgtdjFiczhjSVVxZzJxRTEydzNJaUgyM3Z6RXZMejlscnQ3WkFwemF6bjdic0UxVWdTdVBsWG1IazI5R0FJNnpxbjRFMXRobmRPZjltenF6bHloeC1WOTZtTU4wS1Jjd3B4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEY3X2FBcEdEblJ2OEVfSjlCb0xVRE5OVGxUdkdrSHgtdjFiczhjSVVxZzJxRTEydzNJaUgyM3Z6RXZMejlscnQ3WkFwemF6bjdic0UxVWdTdVBsWG1IazI5R0FJNnpxbjRFMXRobmRPZjltenF6bHloeC1WOTZtTU4wS1Jjd3B4",
+        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
+        "timestamp": 1795798512.0
+    },
+    {
+        "id": "1e7137dca5",
+        "title_fa": "شبه نظامیان بسیج ایران می‌گویند در صورت از سرگیری جنگ، تاب‌آوری عمومی ماموریت کلیدی است",
+        "title_en": "Iran's Basij militia says public resilience is key mission if war resumes",
+        "summary": [
+            "In large waves of alcohol poisoning, \"people deliberately, and for various reasons such as profit, poison alcohol,\" Vahid Shariat, head of the Iranian Psychiatric Association, told the ISNA news agency on Friday. He did not say who they were or how they profited."
+        ],
+        "impact": "...",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611270436",
+        "clean_url": "https://www.iranintl.com/en/202611270436",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/10c8adb5072865349ffb84dacf77cdd83daced6f-1080x533.png?rect=33,0,1015,533&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1795790520.0
+    },
+    {
         "id": "9773c28f46",
         "title_fa": "سپاه می‌گوید نفتکش به مین دریایی در هرمز برخورد کرد و دیگری به عقب برگشت",
         "title_en": "IRGC says oil tanker hits naval mine in Hormuz, another turns back",
@@ -52,6 +165,25 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/after-report-that-abbas-plans-to-call-hamas-a-terror-org-pms-allies-slam-him-as-a-destructive-liar",
         "image": "https://static-cdn.toi-media.com/www/uploads/2025/05/Untitled-46-640x400.jpeg",
         "timestamp": 1795775580.0
+    },
+    {
+        "id": "e0a5fc9f6c",
+        "title_fa": "بسته شدن گذرگاه‌های مرزی عراق با ایران",
+        "title_en": "Iran’s central bank chief admits economic squeeze is hurting families",
+        "summary": [
+            "عراق دستورات مرکزی را برای بسته شدن گذرگاه‌های غیررسمی اجرا کرد",
+            "حدود ۳۰۰ کامیون بار مسکونی در کرمانشاه گیر کرد و مسیرهای جایگزین پیدا شد",
+            "این اقدام فشار اقتصادی بر خانواده‌های ایرانی را تشدید می‌کند"
+        ],
+        "impact": "تاخیر در واردات مصالح ساختمانی و افزایش هزینه‌های حمل‌ونقل",
+        "tag": "مرز",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202611273195",
+        "clean_url": "https://www.iranintl.com/en/202611273195",
+        "image": "http://www.bing.com/th?id=ONUT._StQ_gIhlphzuA-tZbG1JA&pid=News",
+        "timestamp": 1795774800.0
     },
     {
         "id": "0d0e7dd0a7",
@@ -109,6 +241,44 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2hHU2czOGRUamdRUjFwNks5M3E4M3pPNFFsSDU1Z3oyUFZ3R3VndXZ6QkRLaldGU0tMeEhvcS1WV000MUZkQ3lidzE0MndtZWV6Z0I2Zl9nazJqdnFqc2hEb0RkOTZyWkNvWF82OWczOUR1UnBJdHJZZWJhZWhfWlp4eFBXNHNP0gGIAUFVX3lxTE1XLWY0XzNCS044aWJ1UmpfZXpMQU13OUV1bGljb2lvQ1dTLWFJT0RRbkNVYjFTS0dwWnV3Mnl5WXRDaTFzWjdvTFRjOTg1azhicmZVWDN3bmRaVUtwTHJ1M1BLaUZiV0t3eUtrSUN4RkVlSV9FTTI4dTZmcFp6NWFsTzF1NnpvZ2M",
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
         "timestamp": 1795772382.0
+    },
+    {
+        "id": "3e7c653c53",
+        "title_fa": "آمریکا کشتی تجاری را در بلوکاد خنثی کرد",
+        "title_en": "Iran live updates: US military disables vessel while enforcing blockade",
+        "summary": [
+            "نیروی دریایی آمریکا با موشک‌های دقیق کشتی تجاری را هدف گرفت",
+            "این عملیات در چارچوب بلوکاد اقتصادی علیه ایران انجام شد",
+            "کشتی مجبور به توقف و تخلیه شد"
+        ],
+        "impact": "تشدید فشار اقتصادی بر تجارت ایران در خلیج",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-military-disables-vessel-while-enforcing-blockade/ar-AA2i2ecW",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-us-military-disables-vessel-while-enforcing-blockade/ar-AA2i2ecW",
+        "image": "http://www.bing.com/th?id=ONUT.S9K97Jf5B-j3QWS1v0428Q&pid=News",
+        "timestamp": 1795770978.0
+    },
+    {
+        "id": "f7eee124b9",
+        "title_fa": "ترامپ به‌صورت مستقیم ایران را تهدید کرد",
+        "title_en": "Images show mystery site near Pickaxe Mountain as Trump makes Iran threat",
+        "summary": [
+            "تصویر سایت مرموز نزدیک کوه پیککس پس از اظهارات ترامپ منتشر شد",
+            "ترامپ اعلام کرد ایالات متحده آماده حمله به زیرساخت‌های هسته‌ای ایران است",
+            "این پیام می‌تواند تنش‌های نظامی را در خاورمیانه تشدید کند"
+        ],
+        "impact": "احتمال افزایش فشار نظامی آمریکا بر ایران",
+        "tag": "تهدید",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/other/images-show-mystery-site-near-pickaxe-mountain-as-trump-makes-iran-threat/ar-AA2inNa0",
+        "clean_url": "https://www.msn.com/en-us/news/other/images-show-mystery-site-near-pickaxe-mountain-as-trump-makes-iran-threat/ar-AA2inNa0",
+        "image": "http://www.bing.com/th?id=ONUT.b1BV16nd_3EMjuRP5NU6yg&pid=News",
+        "timestamp": 1795770716.0
     },
     {
         "id": "6a00388927",
@@ -5416,170 +5586,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions/ar-AA2hVxMa",
         "image": "http://www.bing.com/th?id=ONUT.NkrmJZjlGB4Yp2k6e2K94A&pid=News",
         "timestamp": 1795265795.0
-    },
-    {
-        "id": "5153c36e01",
-        "title_fa": "دفاع‌مقدس پیش‌بینی می‌کند جنگ ایران تا ۲۰۲۹ ادامه یابد",
-        "title_en": "Former defense secretary suggests Iran war may last until 2029: ‘It’s just gonna take a long time’",
-        "summary": [
-            "دفاع‌مقدس پیش‌بینی کرد جنگ ایران‑آمریکا ممکن است تا سال ۲۰۲۹ ادامه یابد؛ نشان‌دهنده عدم پیشرفت مذاکرات است",
-            "این پیش‌بینی به سرمایه‌گذاران هشدار می‌دهد که ریسک‌های ژئوپلیتیک بلندمدت بالا است",
-            "ادامه درگیری می‌تواند هزینه‌های نظامی و انسانی هر دو طرف را چند برابر کند"
-        ],
-        "impact": "پیش‌بینی طولانی‌مدت جنگ باعث بی‌ثباتی بازارهای انرژی و مالی می‌شود",
-        "tag": "تحلیل",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DU1BkMEdwOVpObzk5SlYzLVRoaXhuaXlEcTJVNkN5Ry1iV0RWMHpvSkg3RDVKUHlacXUwdUUtblY2OFIxcXEyY1RaQllKeFVhcXRsTzRqWFlHTk1WM1F0cFB0RzIwbUdmYVNINnJzbWlNWmdURFHSAXtBVV95cUxNTTRtVGNNUzU5UmZKM05KdTV2WWh2QXZZUVdzR05jYk5Ldm03SHlNZnZ0aVd0VEJNT1hSXzZLOTlyOV93dDlMSWd0NDVuaFhHYUFxY3QwTFNiQ1NjTElvTjVUb185cTQ3NzlVN3NkbVBlbTQ3NnFSXzJBX2s?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DU1BkMEdwOVpObzk5SlYzLVRoaXhuaXlEcTJVNkN5Ry1iV0RWMHpvSkg3RDVKUHlacXUwdUUtblY2OFIxcXEyY1RaQllKeFVhcXRsTzRqWFlHTk1WM1F0cFB0RzIwbUdmYVNINnJzbWlNWmdURFHSAXtBVV95cUxNTTRtVGNNUzU5UmZKM05KdTV2WWh2QXZZUVdzR05jYk5Ldm03SHlNZnZ0aVd0VEJNT1hSXzZLOTlyOV93dDlMSWd0NDVuaFhHYUFxY3QwTFNiQ1NjTElvTjVUb185cTQ3NzlVN3NkbVBlbTQ3NnFSXzJBX2s",
-        "image": "https://images.unsplash.com/photo-1550100136-e074fa46d424?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1795265520.0
-    },
-    {
-        "id": "27887d5724",
-        "title_fa": "ایران می‌گوید که پهپادهای آمریکایی را بر فراز هرمز سرنگون کرده است زیرا تلاش برای پایان دادن به جنگ همچنان متوقف شده است",
-        "title_en": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-        "summary": [
-            "Iran says it downed US drones over Hormuz as bid to end war remains stalled Al Jazeera"
-        ],
-        "impact": "...",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY",
-        "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1795262077.0
-    },
-    {
-        "id": "b5663a06c5",
-        "title_fa": "رئیس سپاه به شهر موشکی رفت؛ تهدید حمله به کشتی‌ها",
-        "title_en": "Revolutionary Guards chief visits missile city, says more to come",
-        "summary": [
-            "رئیس سپاه به شهر موشکی رفت و برنامه موشکی را تقویت کرد",
-            "وزیر خارجه اعلام کرد برای شکستن تحریم‌ها ناوگان نفتی ارسال می‌شود",
-            "تهدید به ضربه به زیرساخت‌های انرژی منطقه، به‌ویژه امارات، در صورت حمله"
-        ],
-        "impact": "افزایش تنش‌های نظامی خلیج و خطر برخورد با کشتی‌های نفتی",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Iran International",
-        "url": "https://www.iranintl.com/en/202611215462",
-        "clean_url": "https://www.iranintl.com/en/202611215462",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/586db403a372efcb07d8169e9334eb10960438e3-862x531.png?rect=0,40,862,453&w=1200&h=630&q=66&fit=max&auto=format",
-        "timestamp": 1795260000.0
-    },
-    {
-        "id": "229a08c1ca",
-        "title_fa": "حملات هرمز به بالاترین سطح از آغاز جنگ رسید",
-        "title_en": "Strait of Hormuz attacks have increased to highest level since Iran war began - ABC News",
-        "summary": [
-            "حملات به کشتی‌ها در تنگه هرمز به بالاترین سطح از زمان آغاز جنگ رسیده است",
-            "افزایش حملات نشان‌دهنده تشدید فشار نظامی ایران بر مسیرهای نفتی است",
-            "شرکت‌های حمل‌ونقل ممکن است مسیرهای جایگزین یا بیمه‌های گران‌تر انتخاب کنند"
-        ],
-        "impact": "اختلال شدید در عبور نفت، افزایش هزینه‌های حمل‌ونقل جهانی",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHRGNHdBbkpIa3IyWTlmV2l5aDVwZ0pLUE1WRzhIVjRqM3p4c3ZsSWNtaVo4YnU4WHBwbUREbzJoX1VzeENVb0xFclVKaW9HY2lVb2lxRnFzWUhNb3RvTDlPYjRfUTVWOUU1dHJ4b2lfZGNPV3h0SGZfdEJLX3NacWxLam1QV1pnb08xRVFDei1OaFZIQXduTmJjbkNqYXFuaGk4a3p4OE5YR0HSAbABQVVfeXFMT3JyZk0yRTFISFBvWF9WMnZrUnp2NHBtMG9pRHo2OUlfaHd0QkZOWmEwWjJLMHJMdlMxal9WQ0lfU1pyd0RLejdCaEtWS2tGUGoyN0ZDVFJOWUZoR3RBQjBsUS1RV2xWcGlVSWNsd3c5aTR5a0dMWkUtMWtVeV95ajVhMkJBc0FrdVo3OWlmVUlPY2tLRU5VWmwtQzRKTXktQnBYVHpSN2k1U2xwUDJVdHU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHRGNHdBbkpIa3IyWTlmV2l5aDVwZ0pLUE1WRzhIVjRqM3p4c3ZsSWNtaVo4YnU4WHBwbUREbzJoX1VzeENVb0xFclVKaW9HY2lVb2lxRnFzWUhNb3RvTDlPYjRfUTVWOUU1dHJ4b2lfZGNPV3h0SGZfdEJLX3NacWxLam1QV1pnb08xRVFDei1OaFZIQXduTmJjbkNqYXFuaGk4a3p4OE5YR0HSAbABQVVfeXFMT3JyZk0yRTFISFBvWF9WMnZrUnp2NHBtMG9pRHo2OUlfaHd0QkZOWmEwWjJLMHJMdlMxal9WQ0lfU1pyd0RLejdCaEtWS2tGUGoyN0ZDVFJOWUZoR3RBQjBsUS1RV2xWcGlVSWNsd3c5aTR5a0dMWkUtMWtVeV95ajVhMkJBc0FrdVo3OWlmVUlPY2tLRU5VWmwtQzRKTXktQnBYVHpSN2k1U2xwUDJVdHU",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
-        "timestamp": 1795259924.0
-    },
-    {
-        "id": "651a7f70e0",
-        "title_fa": "عراقچی: اورانیوم غنی شده ایران در کشور باقی خواهد ماند",
-        "title_en": "Araghchi: Iran's Enriched Uranium Will Remain in the Country",
-        "summary": [
-            "Iranian Foreign Minister Abbas Araghchi has outlined Tehran's proposals for ending the conflict and resuming negotiations with the United"
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 3,
-        "sentiment": 0,
-        "source": "wanaen",
-        "url": "https://wanaen.com/araghchi-irans-enriched-uranium-will-remain-in-the-country/",
-        "clean_url": "https://wanaen.com/araghchi-irans-enriched-uranium-will-remain-in-the-country",
-        "image": "https://wanaen.com/wp-content/uploads/2026/10/MJ_W5350.jpg?v=1792422652",
-        "timestamp": 1795258860.0
-    },
-    {
-        "id": "12fe26c145",
-        "title_fa": "ایران امیدوار به توافق برای پایان دادن به جنگ است زیرا ترامپ شرایط تهران را رد می‌کند",
-        "title_en": "Iran hopes for deal to end war as Trump rejects Tehran's terms",
-        "summary": [
-            "Iran's Foreign Minister, Abbas Araghchi has said Tehran still hopes to end its war with the U.S. through diplomacy. It comes after U.S. President Donald Trump said the deal Iran wanted was not one he could accept."
-        ],
-        "impact": "...",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": 0,
-        "source": "anewz",
-        "url": "https://anewz.tv/region/middle-east/27032/iran-hopes-for-deal-to-end-war-araghchi-says/news",
-        "clean_url": "https://anewz.tv/region/middle-east/27032/iran-hopes-for-deal-to-end-war-araghchi-says/news",
-        "image": "https://anewz.tv/data/images/2026-11-21/39783_2026-11-11t152042z-1578778227-rc2rloa9xe25-rtrmadp-3-climate-cop31-magicstudio-qv7ebfqv0gg_gd.png?t=1795250334",
-        "timestamp": 1795257300.0
-    },
-    {
-        "id": "965618e971",
-        "title_fa": "ایالات متحده پیشنهاد هسته‌ای ایران را رد کرد",
-        "title_en": "Why Did US Reject Iran's Proposal?",
-        "summary": [
-            "ارغچی اعلام کرد ایران آماده کاهش زمان مذاکرات به دو ساعت بود اما واشنگتن پیشنهاد را نپذیرفت",
-            "ذخیره اورانیوم ۶۰٪ در داخل کشور باقی می‌ماند و حذف آن شرطی برای توافق نیست",
-            "رد پیشنهاد نشان می‌دهد مذاکرات هسته‌ای در مسیر دشواری قرار دارد و احتمال ادامه تحریم‌ها بالا است"
-        ],
-        "impact": "ادامه تحریم‌ها و عدم پیشرفت مذاکرات هسته‌ای، ریسک تشدید تنش در خلیج",
-        "tag": "دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Nournews",
-        "url": "https://nournews.ir/en/news/364115/why-did-us-reject-iran-proposal",
-        "clean_url": "https://nournews.ir/en/news/364115/why-did-us-reject-iran-proposal",
-        "image": "https://cdn.nournews.ir/thumbnail/rsMXYDCImjVV/7VcU8nj0tCUY6H-ZqaBmkz-Hk2E8KOqQ10TVedfLCZ-haRSV-olSl1uUP3QJJu9Q8fbcoC5yIEsmo05ncRxnIE3YDGIOw3iU6pRLIMdIV7cJNsu2-c_zBxJ7t47ZQr5m/Araghchi.jpg",
-        "timestamp": 1795256400.0
-    },
-    {
-        "id": "35830aa587",
-        "title_fa": "رئیس سپاه: اقدام‌ها نظامی فقط آغاز است",
-        "title_en": "Breaking News LIVE: Tanker Catches Fire After Hitting Sea Mine East Of Strait Of Hormuz, Says Iran's Navy",
-        "summary": [
-            "رئیس سپاه هشدار داد اقدام‌ها نظامی ایران فقط شروع است و آمریکا را به توهین می‌کشد",
-            "سخنرانی در بازدید از «شهر موشک» هدف نشان دادن توان تولید موشک‌های پیشرفته را داشت",
-            "تهدید می‌تواند منجر به حملات هدفمند علیه ناوگان آمریکایی در خلیج شود"
-        ],
-        "impact": "افزایش خطر حملات موشکی به نیروهای آمریکایی، تشدید تنش‌های خلیج",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Outlook India",
-        "url": "https://www.outlookindia.com/national/live-news-today-delhi-aqi-cyclone-akvan-pm-modi-congress-bjp-india-world-news-21-nov-2026",
-        "clean_url": "https://www.outlookindia.com/national/live-news-today-delhi-aqi-cyclone-akvan-pm-modi-congress-bjp-india-world-news-21-nov-2026",
-        "image": "https://cf-images.assettype.com/outlookindia/2026-11-21/5ex0ld1m/Pollution_in_Delhi.jpg?w=801&auto=format,compress&fit=max",
-        "timestamp": 1795253580.0
-    },
-    {
-        "id": "6727f2d05a",
-        "title_fa": "وانس از ادعای جنگ ترامپ فاصله می‌گیرد",
-        "title_en": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
-        "summary": [
-            "جان دی. ونس در کنفرانس خبری از تأیید ادعای ترامپ مبنی بر نزدیک بودن ایران به سلاح هسته‌ای خودداری کرد",
-            "ترامپ ادعا کرد که جنگ ضروری است، اما شواهد عمومی این ادعا را رد می‌کند",
-            "اختلاف بین رئیسان جمهوری و نمایندگان مجلس نشان‌دهنده تردید داخلی درباره سیاست‌های سخت‌گیرانه است"
-        ],
-        "impact": "بی‌تأیید ادعا، فشار داخلی بر دولت ترامپ برای یافتن استدلال ملموس افزایش می‌دهد",
-        "tag": "سیاست",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
-        "clean_url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
-        "image": "https://i.guim.co.uk/img/media/b5b32185795e8abee801ae63027a8874bf8934f3/853_0_6654_5323/master/6654.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cef99a1c304f4e3848119bc0bd90afb9",
-        "timestamp": 1795253160.0
     }
 ]
